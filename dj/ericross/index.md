@@ -1,14 +1,13 @@
 # Eric Ross
 
-Eric Ross is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA -  ECHOBOX RADIO STATION , Amsterdam on Fri, 23 Oct 2026.
+Eric Ross is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA -   HEY HEY SOCIAL , San-antonio on Fri, 11 Dec 2026.
 
-Eric Ross is a techno and house artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Dallas/Fort Worth, Detroit and New York City and 1 more. Often billed alongside Curtis Bledsoe, DJ Roach and De León. Next up: TBA -  ECHOBOX RADIO STATION , Amsterdam on Fri 23 Oct.
+Eric Ross is a techno and house artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Dallas/Fort Worth, Detroit and New York City and 1 more. Often billed alongside Curtis Bledsoe, DJ Roach and De León. Next up: TBA -   HEY HEY SOCIAL , San Antonio on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA -  ECHOBOX RADIO STATION  | Amsterdam |
 | Fri, 11 Dec 2026 | TBA -   HEY HEY SOCIAL  | San-antonio |
 | Sat, 8 Jul 2028 | TBA -  HEY HEY SOCAL CLUB  | San-antonio |
 

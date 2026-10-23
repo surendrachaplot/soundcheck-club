@@ -1,14 +1,14 @@
 # MIRZA
 
-MIRZA is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Night Tales Loft, London on Fri, 4 Dec 2026.
+MIRZA is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at NT's Loft, London on Fri, 4 Dec 2026.
 
-MIRZA is a disco and house artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Hamburg, London and Munich and 3 more. Often billed alongside Track Advisor, Arjun Shah and Willy Soul. Next up: Night Tales Loft, London on Fri 4 Dec.
+MIRZA is a disco and house artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Hamburg, London and Munich and 3 more. Often billed alongside Track Advisor, Arjun Shah and Willy Soul. Next up: NT's Loft, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Dec 2026 | Night Tales Loft | London |
+| Fri, 4 Dec 2026 | NT's Loft | London |
 
 ## Recently played
 

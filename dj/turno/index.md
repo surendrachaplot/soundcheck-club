@@ -1,14 +1,13 @@
 # Turno
 
-Turno is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Divide Nightclub, Adelaide on Fri, 23 Oct 2026.
+Turno is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Court Hotel, Perth on Sat, 24 Oct 2026.
 
-Turno is a drum & bass and jungle artist based in United Kingdom, with 79 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 29 more. Often billed alongside Hedex, BassLayerz and Bou (UK). Next up: Divide Nightclub, Adelaide on Fri 23 Oct.
+Turno is a drum & bass and jungle artist based in United Kingdom, with 79 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 29 more. Often billed alongside Hedex, BassLayerz and Bou (UK). Next up: The Court Hotel, Perth on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Divide Nightclub | Adelaide |
 | Sat, 24 Oct 2026 | The Court Hotel | Perth |
 | Fri, 30 Oct 2026 | Carousel Bar & Ballroom | Sydney |
 | Sat, 31 Oct 2026 | The Brightside | Brisbane |

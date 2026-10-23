@@ -1,14 +1,13 @@
 # Malouna
 
-Malouna is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
+Malouna is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 24 Oct 2026.
 
-Malouna is a techno and house artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Berlin, Cyprus and Frankfurt and 1 more. Often billed alongside Markus Klee, Prismode and Solvane. Next up: Supperclub Cruise, Amsterdam on Fri 23 Oct.
+Malouna is a techno and house artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Berlin, Cyprus and Frankfurt and 1 more. Often billed alongside Markus Klee, Prismode and Solvane. Next up: Tanzhaus West, Frankfurt on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Sat, 24 Oct 2026 | Tanzhaus West | Frankfurt |
 | Fri, 30 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 28 Nov 2026 | Ritter Butzke | Berlin |

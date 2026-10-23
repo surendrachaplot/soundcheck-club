@@ -1,13 +1,14 @@
 # Daisy Ray
 
-Daisy Ray is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+Daisy Ray is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Vico Pazzariello 10, Naples on Sat, 31 Oct 2026.
 
-Daisy Ray is an experimental and electronica artist based in Belgium, with 26 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 9 more. Often billed alongside careza, Amnesia Scanner and Animistic Beliefs. Next up: Botanique, Brussels on Sat 28 Nov.
+Daisy Ray is an experimental and electronica artist based in Belgium, with 27 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 9 more. Often billed alongside careza, Amnesia Scanner and Animistic Beliefs. Next up: TBA - Vico Pazzariello 10, Naples on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | TBA - Vico Pazzariello 10 | Naples |
 | Sat, 28 Nov 2026 | Botanique | Brussels |
 
 ## Recently played

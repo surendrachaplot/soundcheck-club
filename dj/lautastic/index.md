@@ -1,14 +1,15 @@
 # Lau.tastic
 
-Lau.tastic is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Castle, London on Sat, 7 Nov 2026.
+Lau.tastic is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Castle, London on Sat, 7 Nov 2026.
 
-Lau.tastic is a techno and industrial artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 8 more. Often billed alongside Labåzuy, Dres Codex and KASTILO. Next up: The Castle, London on Sat 7 Nov.
+Lau.tastic is a techno and industrial artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 8 more. Often billed alongside Dres Codex, Labåzuy and KASTILO. Next up: The Castle, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Castle | London |
+| Sun, 8 Nov 2026 | Egg London | London |
 | Fri, 13 Nov 2026 | Low Profile Studios | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ Lau.tastic is a techno and industrial artist based in United Kingdom, with 93 gi
 
 ## Shares bills with
 
-Labåzuy, Dres Codex, KASTILO
+Dres Codex, Labåzuy, KASTILO
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*

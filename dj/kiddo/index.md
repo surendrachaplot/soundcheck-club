@@ -1,14 +1,13 @@
 # Kiddo
 
-Kiddo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Le Zeralda, Paris on Fri, 23 Oct 2026.
+Kiddo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Kiddo is a techno and house artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Chicago, Cleveland and Detroit and 4 more. Often billed alongside June Baasanjav, Sassmouth and Edum. Next up: Le Zeralda, Paris on Fri 23 Oct.
+Kiddo is a techno and house artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Chicago, Cleveland and Detroit and 4 more. Often billed alongside June Baasanjav, Sassmouth and Edum. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Le Zeralda | Paris |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played

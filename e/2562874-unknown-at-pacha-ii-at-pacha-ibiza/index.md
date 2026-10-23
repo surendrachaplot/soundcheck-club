@@ -1,6 +1,6 @@
 # Unknown at Pacha II at Pacha Ibiza
 
-Unknown at Pacha II at Pacha Ibiza on Fri 30 Oct, Ibiza. 3 artists: Carlos Vila, JNJS and Nuzzo. House and Minimal. See the line-up on soundcheck.
+Unknown at Pacha II at Pacha Ibiza on Fri 30 Oct, Ibiza. 4 artists: Angel Linde, Carlos Vila, JNJS and Nuzzo. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Unknown at Pacha II at Pacha Ibiza on Fri 30 Oct, Ibiza. 3 artists: Carlos Vila,
 
 ## Line-up
 
+- Angel Linde
 - Carlos Vila
 - JNJS
 - Nuzzo

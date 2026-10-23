@@ -8,7 +8,7 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Unknown at Pacha II | Carlos Vila, JNJS, Nuzzo |
+| Fri, 30 Oct 2026 | Unknown at Pacha II | Angel Linde, Carlos Vila, JNJS, Nuzzo |
 | Sat, 31 Oct 2026 | Halloween x Umami State at Pacha w Enzo Leep, Angel Linde, EUGEN1O | Angel Linde, EUGEN1O, Enzo Leep |
 
 ## Address

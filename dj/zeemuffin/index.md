@@ -9,7 +9,7 @@ ZEEMUFFIN is a hip-hop and club artist based in United States of America, with 3
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | public records | New York City |
-| Fri, 13 Nov 2026 | Night Tales Loft | London |
+| Fri, 13 Nov 2026 | NT's Loft | London |
 | Sat, 14 Nov 2026 | New Century Locker | Manchester |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+DJ GUESTLIST is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mia Mao, Paris on Tue, 10 Nov 2026.
 
-DJ GUESTLIST is a techno and trance artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 38 more. Often billed alongside Paraçek, Cleopard2000 and DJ SPORTSCHUH. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+DJ GUESTLIST is a techno and trance artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 38 more. Often billed alongside Paraçek, Cleopard2000 and DJ SPORTSCHUH. Next up: Mia Mao, Paris on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Tue, 10 Nov 2026 | Mia Mao | Paris |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |

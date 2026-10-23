@@ -1,6 +1,6 @@
 # OCASO at Esplanada da Mata
 
-OCASO at Esplanada da Mata on Sat 24 Oct, Lisbon. 2 artists: Mary B and OCASO. Ambient and Electronica. See the line-up on soundcheck.
+OCASO at Esplanada da Mata on Sat 24 Oct, Lisbon. 3 artists: Enkō, Mary B and OCASO. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ OCASO at Esplanada da Mata on Sat 24 Oct, Lisbon. 2 artists: Mary B and OCASO. A
 
 ## Line-up
 
+- Enkō
 - Mary B (2)
 - OCASO
 

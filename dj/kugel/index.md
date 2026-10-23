@@ -1,6 +1,6 @@
 # Kugel
 
-Kugel is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - wellness cruise hannam, Seoul on Wed, 21 Oct 2026.
+Kugel is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - wellness cruise hannam, Seoul on Wed, 21 Oct 2026.
 
 Kugel is a techno and house artist based in South Korea, with 190 gigs on soundcheck across Bangkok, Chengdu, Hanoi and Ho Chi Minh City and 10 more. Often billed alongside Sunday Lee, RTRP and Gumi. Next up: TBA - wellness cruise hannam, Seoul on Wed 21 Oct.
 
@@ -9,7 +9,6 @@ Kugel is a techno and house artist based in South Korea, with 190 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | TBA - wellness cruise hannam | Seoul |
-| Fri, 23 Oct 2026 | Nyapi | Seoul |
 | Sat, 14 Nov 2026 | Apotheka | Manila |
 | Fri, 20 Nov 2026 | RASA | Singapore |
 | Sat, 21 Nov 2026 | Pawnshop | Taipei |

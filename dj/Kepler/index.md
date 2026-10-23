@@ -1,6 +1,6 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijland, Amsterdam on Fri, 23 Oct 2026.
+Kepler is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijland, Amsterdam on Fri, 23 Oct 2026.
 
 Kepler is a house and tech house artist based in United Kingdom, with 168 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 35 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: Ijland, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Kepler is a house and tech house artist based in United Kingdom, with 168 gigs o
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
-| Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Thu, 29 Oct 2026 | TBA - Secret Location | London |
 | Sat, 31 Oct 2026 | Mint Warehouse | Leeds |

@@ -1,14 +1,13 @@
 # Static Bloom (DE)
 
-Static Bloom (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
+Static Bloom (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Static Bloom (DE) is a house and techno artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Ljubljana, Munich and Stuttgart and 1 more. Often billed alongside DASH (SLO), Aaron Leviz and Kongusto. Next up: Nido Cocktailbar, Amsterdam on Fri 23 Oct.
+Static Bloom (DE) is a house and techno artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Ljubljana, Munich and Stuttgart and 1 more. Often billed alongside DASH (SLO), Aaron Leviz and Kongusto. Next up: The Hoxton Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Nido Cocktailbar | Amsterdam |
 | Fri, 23 Oct 2026 | The Hoxton Amsterdam | Amsterdam |
 
 ## Recently played

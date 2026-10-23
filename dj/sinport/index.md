@@ -1,8 +1,8 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
+Sin:port is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
 
-Sin:port is a techno and house artist based in Germany, with 133 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: TBA - Secret Location, Berlin on Fri 23 Oct.
+Sin:port is a techno and house artist based in Germany, with 134 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: TBA - Secret Location, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sin:port is a techno and house artist based in Germany, with 133 gigs on soundch
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | TBA - Secret Location | Berlin |
 | Sat, 31 Oct 2026 | PKH Warehouse | Berlin |
+| Wed, 4 Nov 2026 | KitKatClub | Berlin |
 | Sat, 14 Nov 2026 | Odonien | Cologne |
 
 ## Recently played

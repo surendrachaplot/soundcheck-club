@@ -1,8 +1,8 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "BE GOOD with Roman Rai, Javas, johan" on Fri, 23 Oct 2026.
+Bar v Krymský is a music venue in Prague with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "BE GOOD with Roman Rai, Javas, johan" on Fri, 23 Oct 2026.
 
-Bar v Krymský is a music venue in Prague listed on soundcheck. 5 upcoming gigs, with line-ups including Cubik, Javas, Kat Kat Tat and Roman Rai. See dates, start times and who's playing. Krymská 21, Praha.
+Bar v Krymský is a music venue in Prague listed on soundcheck. 6 upcoming gigs, with line-ups including Cubik, Javas, Kat Kat Tat and Roman Rai. See dates, start times and who's playing. Krymská 21, Praha.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 5 upcoming gigs,
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | BE GOOD with Roman Rai, Javas, johan | Javas, Roman Rai |
 | Sat, 24 Oct 2026 | Babe LN & B4K |  |
+| Tue, 27 Oct 2026 | Jeffology |  |
 | Thu, 29 Oct 2026 | Express Love Boat (FR) & FOWLR |  |
 | Fri, 30 Oct 2026 | House 4 Adults ___ DJ Cubik | Cubik |
 | Sat, 31 Oct 2026 | Kat Kat Tat (Berlin/DE) | Kat Kat Tat |

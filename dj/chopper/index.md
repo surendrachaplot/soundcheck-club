@@ -1,15 +1,15 @@
 # Chopper
 
-Chopper is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Chin Chin Club, Amsterdam on Fri, 23 Oct 2026.
+Chopper is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
 
-Chopper is a tech house and house artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Barcelona, Geneva and Ibiza and 6 more. Often billed alongside FINKY, Ryan Resso and ALISHA. Next up: Chin Chin Club, Amsterdam on Fri 23 Oct.
+Chopper is a tech house and house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Barcelona, Geneva and Ibiza and 6 more. Often billed alongside FINKY, Ryan Resso and ALISHA. Next up: Union Club, Vauxhall, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Chin Chin Club | Amsterdam |
 | Fri, 30 Oct 2026 | Union Club, Vauxhall | London |
+| Fri, 30 Oct 2026 | Brixton Radio | London |
 
 ## Recently played
 

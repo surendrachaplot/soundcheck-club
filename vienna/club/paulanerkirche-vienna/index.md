@@ -1,14 +1,13 @@
 # Paulanerkirche, Vienna
 
-Paulanerkirche, Vienna is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "The Four Seasons Reimagined. From Richter to Vivaldi by Mystery Ensemble" on Fri, 23 Oct 2026.
+Paulanerkirche, Vienna is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Hayao Miyazaki's Dreams by Mystery Ensemble" on Fri, 20 Nov 2026.
 
-Paulanerkirche, Vienna is a music venue in Vienna listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+Paulanerkirche, Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | The Four Seasons Reimagined. From Richter to Vivaldi by Mystery Ensemble |  |
 | Fri, 20 Nov 2026 | Hayao Miyazaki's Dreams by Mystery Ensemble |  |
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/paulanerkirche-vienna/)*

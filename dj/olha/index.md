@@ -1,14 +1,13 @@
 # OLHA
 
-OLHA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Groundless Factory, Beijing on Fri, 23 Oct 2026.
+OLHA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at OIL Club, Shenzhen on Fri, 30 Oct 2026.
 
-OLHA is a techno and trance artist based in Ukraine, with 57 gigs on soundcheck across Amsterdam, Antwerp, Beijing and Berlin and 13 more. Often billed alongside SOCIAL VLAD, Matriark and Metaraph. Next up: Groundless Factory, Beijing on Fri 23 Oct.
+OLHA is a techno and trance artist based in Ukraine, with 57 gigs on soundcheck across Amsterdam, Antwerp, Beijing and Berlin and 13 more. Often billed alongside SOCIAL VLAD, Matriark and Metaraph. Next up: OIL Club, Shenzhen on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Groundless Factory | Beijing |
 | Fri, 30 Oct 2026 | OIL Club | Shenzhen |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
 

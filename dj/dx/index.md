@@ -1,14 +1,13 @@
 # Dx
 
-Dx is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 23 Oct 2026.
+Dx is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
-Dx is a drum & bass and jungle artist based in Japan, with 20 gigs on soundcheck across Tokyo. Often billed alongside MileZ, Acrocanthosaurus and Velocity. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 23 Oct.
+Dx is a drum & bass and jungle artist based in Japan, with 20 gigs on soundcheck across Tokyo. Often billed alongside MileZ, Acrocanthosaurus and Velocity. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sat, 7 Nov 2026 | Oba Camp Village | Tokyo |
 
 ## Recently played

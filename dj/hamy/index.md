@@ -14,7 +14,7 @@ HAMY is a techno and house artist based in Germany, with 60 gigs on soundcheck a
 
 ## Recently played
 
-- Gap House, Berlin · Sat, 10 Oct 2026
+- TBA, Berlin · Sat, 10 Oct 2026
 - AMT, Berlin · Fri, 25 Sept 2026
 - Chausseestrasse 131, Berlin · Sat, 19 Sept 2026
 - SAGE, Berlin · Sat, 5 Sept 2026

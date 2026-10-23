@@ -1,6 +1,6 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Boss Priester is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Boss Priester is a house and tech house artist based in Netherlands, with 113 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Boss Priester is a house and tech house artist based in Netherlands, with 113 gi
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
-| Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | block. | Dublin |
 | Sat, 31 Oct 2026 | Mint Warehouse | Leeds |

@@ -11,7 +11,7 @@ Tom Kutsche is a house and disco artist based in Germany, with 83 gigs on soundc
 | Sun, 25 Oct 2026 | Mena Berlin | Berlin |
 | Fri, 30 Oct 2026 | Humboldthain Club | Berlin |
 | Sat, 7 Nov 2026 | fi | Cologne |
-| Sun, 22 Nov 2026 | TBA - close to pl. Catalunya, 08007 | Barcelona |
+| Sun, 22 Nov 2026 | TBA - Rambla de Catalunya 23, Primera Principal | Barcelona |
 | Sat, 12 Dec 2026 | Open Ground | Wuppertal |
 | Fri, 18 Dec 2026 | Funkhaus | Vienna |
 

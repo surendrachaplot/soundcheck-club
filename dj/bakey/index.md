@@ -1,8 +1,8 @@
 # Bakey
 
-Bakey is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Strange Brew, Bristol on Fri, 23 Oct 2026.
+Bakey is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Strange Brew, Bristol on Fri, 23 Oct 2026.
 
-Bakey is a garage and bass artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Capo Lee, Dr Dubplate and Breaka. Next up: Strange Brew, Bristol on Fri 23 Oct.
+Bakey is a garage and bass artist based in United Kingdom, with 165 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 32 more. Often billed alongside Capo Lee, Dr Dubplate and Breaka. Next up: Strange Brew, Bristol on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bakey is a garage and bass artist based in United Kingdom, with 164 gigs on soun
 | Fri, 23 Oct 2026 | Strange Brew | Bristol |
 | Fri, 6 Nov 2026 | Cabaret Voltaire | Edinburgh |
 | Fri, 18 Dec 2026 | Palais | London |
+| Fri, 29 Jan 2027 | Unmute | Hanoi |
 
 ## Recently played
 

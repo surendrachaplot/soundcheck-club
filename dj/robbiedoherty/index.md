@@ -1,14 +1,13 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Robbie Doherty is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pllek, Amsterdam on Sat, 24 Oct 2026.
 
-Robbie Doherty is a house and tech house artist based in United Kingdom, with 167 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Levenslang Amsterdam, Amsterdam on Fri 23 Oct.
+Robbie Doherty is a house and tech house artist based in United Kingdom, with 167 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Pllek, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |

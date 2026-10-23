@@ -1,8 +1,8 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Afrobeat Nights NYC" on Fri, 23 Oct 2026.
+The Sultan Room is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Afrobeat Nights NYC" on Fri, 23 Oct 2026.
 
-The Sultan Room is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Lawyer. See dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
+The Sultan Room is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Lawyer. See dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
 ## What's on
 
@@ -11,6 +11,8 @@ The Sultan Room is a music venue in New York City listed on soundcheck. 3 upcomi
 | Fri, 23 Oct 2026 | Afrobeat Nights NYC |  |
 | Fri, 30 Oct 2026 | Gorgeous Gorgeous Halloween |  |
 | Sat, 31 Oct 2026 | Fruit Juice: Witches Brew Djs: Princess Dyke B2B JHS, DJ Lawyer, More TBA | DJ Lawyer |
+| Thu, 5 Nov 2026 | Dirty Magazine's Lingerie Skate (skate all night) |  |
+| Sat, 7 Nov 2026 | Jewel House, Ruthie Bandit, The Doodie Baby |  |
 
 ## Address
 

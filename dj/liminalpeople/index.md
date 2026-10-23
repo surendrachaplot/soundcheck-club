@@ -10,7 +10,7 @@ Liminal People is a disco and house artist based in United Kingdom, with 17 gigs
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Dom Polski | London |
 | Fri, 30 Oct 2026 | The BBE Store | London |
-| Fri, 4 Dec 2026 | Night Tales Loft | London |
+| Fri, 4 Dec 2026 | NT's Loft | London |
 
 ## Recently played
 

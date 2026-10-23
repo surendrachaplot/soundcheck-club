@@ -1,14 +1,13 @@
 # Traumer
 
-Traumer is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Blast Galaxy, Amsterdam on Fri, 23 Oct 2026.
+Traumer is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sugarfactory, Amsterdam on Sun, 25 Oct 2026.
 
-Traumer is a house and tech house artist based in France, with 344 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 84 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Blast Galaxy, Amsterdam on Fri 23 Oct.
+Traumer is a house and tech house artist based in France, with 344 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 84 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Sugarfactory, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 | Sun, 25 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 13 Nov 2026 | TESTBED | Leeds |
 | Fri, 20 Nov 2026 | fi | Cologne |

@@ -1,6 +1,6 @@
 # Overmono - Pure Devotion Live - World Tour at Uber Eats Music Hall
 
-Overmono - Pure Devotion Live - World Tour at Uber Eats Music Hall on Thu 12 Nov, Berlin. 2 artists: Blawan and Overmono. See the line-up on soundcheck.
+Overmono - Pure Devotion Live - World Tour at Uber Eats Music Hall on Thu 12 Nov, Berlin. 3 artists: Blawan, Overmono and Viiaan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Overmono - Pure Devotion Live - World Tour at Uber Eats Music Hall on Thu 12 Nov
 
 - Blawan
 - Overmono
+- Viiaan
 
 *Source: [soundcheck](https://soundcheck.club/e/2447806-overmono-pure-devotion-live-world-tour-at-uber-eats-music-ha/)*

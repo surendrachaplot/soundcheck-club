@@ -1,14 +1,13 @@
 # Oots
 
-Oots is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at One22, Canberra on Fri, 23 Oct 2026.
+Oots is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 24 Oct 2026.
 
-Oots is a techno and house artist based in Australia, with 21 gigs on soundcheck across Canberra, Hobart, Melbourne and Perth and 1 more. Often billed alongside 6 SENSE, ABSOLUTE. and Bella Claxton. Next up: One22, Canberra on Fri 23 Oct.
+Oots is a techno and house artist based in Australia, with 21 gigs on soundcheck across Canberra, Hobart, Melbourne and Perth and 1 more. Often billed alongside 6 SENSE, ABSOLUTE. and Bella Claxton. Next up: Sub Club Melbourne, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | One22 | Canberra |
 | Sat, 24 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 31 Oct 2026 | Port Beach Brewery | Perth |
 

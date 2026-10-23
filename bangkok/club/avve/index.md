@@ -8,7 +8,7 @@ Avve is a music venue in Bangkok listed on soundcheck. 2 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | bouncy tales v.1 | POKOLENIE MIKROZAYMOV, REIKS |
+| Sat, 24 Oct 2026 | bouncy tales v.1 | NØSYNC, POKOLENIE MIKROZAYMOV, REIKS |
 | Sat, 31 Oct 2026 | SACRISTY HALLOWEEN RAVE - HARD TECHNO - DAY 2 | GLCK, InRemission, NØSYNC, REIKS, iamhollow |
 
 ## Address

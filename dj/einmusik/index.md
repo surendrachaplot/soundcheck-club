@@ -1,14 +1,13 @@
 # Einmusik
 
-Einmusik is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
+Einmusik is a Techno and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Centenario Planta Alta, Ciudad-ju-rez on Sat, 21 Nov 2026.
 
-Einmusik is a techno and progressive house artist based in Germany, with 141 gigs on soundcheck across Amsterdam, Austria, Baltimore and Barcelona and 44 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Supperclub Cruise, Amsterdam on Fri 23 Oct.
+Einmusik is a techno and progressive house artist based in Germany, with 141 gigs on soundcheck across Amsterdam, Austria, Baltimore and Barcelona and 44 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Centenario Planta Alta, Ciudad Ju Rez on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Sat, 21 Nov 2026 | Centenario Planta Alta | Ciudad-ju-rez |
 | Fri, 4 Dec 2026 | D! Club | Lausanne |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |

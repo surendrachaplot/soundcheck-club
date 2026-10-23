@@ -1,6 +1,6 @@
 # Both shows / PC Music presents: Crypt Cube at Colour Factory
 
-Both shows / PC Music presents: Crypt Cube at Colour Factory on Sat 31 Oct, London. 12 artists: CITYTRONIX, GFOTY, GRRL and Hannah Diamond and 8 more. See the line-up on soundcheck.
+Both shows / PC Music presents: Crypt Cube at Colour Factory on Sat 31 Oct, London. 13 artists: Cherrie B, CITYTRONIX, GFOTY and GRRL and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Both shows / PC Music presents: Crypt Cube at Colour Factory on Sat 31 Oct, Lond
 
 ## Line-up
 
+- Cherrie B
 - CITYTRONIX
 - GFOTY
 - GRRL

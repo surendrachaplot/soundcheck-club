@@ -12,7 +12,7 @@ EartH is a music venue in London listed on soundcheck. 17 upcoming gigs, with li
 | Tue, 27 Oct 2026 | Marina Herlop | Marina Herlop |
 | Fri, 30 Oct 2026 | Tessellate x Origins: The Trip, Spray & Scarlett O'Malley | Scarlett O'Malley, Spray, The Trip |
 | Sat, 31 Oct 2026 | HAAi - Open to Close | HAAi |
-| Sat, 31 Oct 2026 | HAAi - Open to Close | HAAi |
+| Sat, 31 Oct 2026 | HAAi - Open to Close [SOLD OUT] | HAAi |
 | Sun, 1 Nov 2026 | Almamegretta - 30 years of Indubb |  |
 | Sat, 14 Nov 2026 | Pola & Bryson Live (World Debut) | Pola & Bryson |
 | Wed, 18 Nov 2026 | EartH presents Gigi Masin | Gigi Masin, Tony Njoku |

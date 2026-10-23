@@ -10,7 +10,7 @@ Rotational is a bass and dub artist based in Netherlands, with 22 gigs on soundc
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 24 Oct 2026 | Skatecafe | Amsterdam |
-| Fri, 30 Oct 2026 | TBA - Carcavelos (DM for full Location) | Lisbon |
+| Fri, 30 Oct 2026 | TBA - Carcavelos | Lisbon |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # ESTRELLA
 
-ESTRELLA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at GOT.Drip Streetwear & Records, Amsterdam on Fri, 23 Oct 2026.
+ESTRELLA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
-ESTRELLA is a house and techno artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and San Francisco/Oakland and 1 more. Often billed alongside Tsepo, Crinkhoff and nik-ey. Next up: GOT.Drip Streetwear & Records, Amsterdam on Fri 23 Oct.
+ESTRELLA is a house and techno artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and San Francisco/Oakland and 1 more. Often billed alongside Tsepo, Crinkhoff and nik-ey. Next up: RADION, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | GOT.Drip Streetwear & Records | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Sat, 24 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |

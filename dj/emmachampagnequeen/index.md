@@ -1,14 +1,14 @@
 # Emma Champagne Queen
 
-Emma Champagne Queen is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Loop51, Amsterdam on Sat, 24 Oct 2026.
+Emma Champagne Queen is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Parck AKA Ping Pong Bar, Amsterdam on Sat, 24 Oct 2026.
 
-Emma Champagne Queen is a house and disco artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside Kirilski, Heritage Listed and Pura Pachanga. Next up: Loop51, Amsterdam on Sat 24 Oct.
+Emma Champagne Queen is a house and disco artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside Kirilski, Heritage Listed and Pura Pachanga. Next up: Parck AKA Ping Pong Bar, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Loop51 | Amsterdam |
+| Sat, 24 Oct 2026 | Parck AKA Ping Pong Bar | Amsterdam |
 | Fri, 30 Oct 2026 | Club NYX | Amsterdam |
 | Sat, 28 Nov 2026 | Club NYX | Amsterdam |
 | Sat, 13 Feb 2027 | Supperclub | Amsterdam |

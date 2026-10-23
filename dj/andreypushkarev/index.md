@@ -1,8 +1,8 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 23 Oct 2026.
+Andrey Pushkarev is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 23 Oct 2026.
 
-Andrey Pushkarev is a house and minimal artist, with 109 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 46 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: Tokonoma Club, Frankfurt on Fri 23 Oct.
+Andrey Pushkarev is a house and minimal artist, with 111 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 48 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: Tokonoma Club, Frankfurt on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Andrey Pushkarev is a house and minimal artist, with 109 gigs on soundcheck acro
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sun, 25 Oct 2026 | Noorderlicht Café | Amsterdam |
+| Sat, 7 Nov 2026 | Vault Club | East |
+| Sat, 14 Nov 2026 | Tempo Club | Santiago-de-quer-taro |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Justfin
 
-Justfin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at An Yan Mood, Chongqing on Sat, 24 Oct 2026.
+Justfin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at An Yan Mood, Chongqing on Sat, 24 Oct 2026.
 
-Justfin is a techno and house artist based in United Kingdom, with 22 gigs on soundcheck across Bangkok, Berlin, Chongqing and Hanoi and 3 more. Often billed alongside Sacre, Stelios Vassiloudis and Chalo. Next up: An Yan Mood, Chongqing on Sat 24 Oct.
+Justfin is a techno and house artist based in United Kingdom, with 23 gigs on soundcheck across Bangkok, Berlin, Chongqing and Hanoi and 3 more. Often billed alongside EeechooO, Sacre and Stelios Vassiloudis. Next up: An Yan Mood, Chongqing on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | An Yan Mood | Chongqing |
+| Sat, 31 Oct 2026 | Mews Saloon | Chongqing |
 | Fri, 6 Nov 2026 | Comeout Rider Station | Chongqing |
 | Thu, 12 Nov 2026 | Bar Temp. | Bangkok |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
@@ -26,6 +27,6 @@ Justfin is a techno and house artist based in United Kingdom, with 22 gigs on so
 
 ## Shares bills with
 
-Sacre, Stelios Vassiloudis, Chalo
+EeechooO, Sacre, Stelios Vassiloudis
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*

@@ -1,14 +1,13 @@
 # Tonic Walter
 
-Tonic Walter is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Fri, 23 Oct 2026.
+Tonic Walter is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Central Chapelle, Paris on Fri, 11 Dec 2026.
 
-Tonic Walter is a techno and deep house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Montee, Angara and Philipp Wolf. Next up: NDSM Scheepsbouwloods, Amsterdam on Fri 23 Oct.
+Tonic Walter is a techno and deep house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Montee, Angara and Philipp Wolf. Next up: Central Chapelle, Paris on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 11 Dec 2026 | Central Chapelle | Paris |
 
 ## Recently played

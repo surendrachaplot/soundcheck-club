@@ -12,7 +12,7 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 | Fri, 6 Nov 2026 | public records | New York City |
 | Thu, 12 Nov 2026 | The Model | Nottingham |
 | Sat, 14 Nov 2026 | Hidden | Manchester |
-| Fri, 20 Nov 2026 | Night Tales Loft | London |
+| Fri, 20 Nov 2026 | NT's Loft | London |
 
 ## Recently played
 

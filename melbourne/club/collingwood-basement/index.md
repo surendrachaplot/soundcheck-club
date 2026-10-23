@@ -1,14 +1,13 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Succulent Funk & Club De Migo present Nathan Haines" on Fri, 23 Oct 2026.
+Collingwood Basement is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "TOASTER" on Sat, 24 Oct 2026.
 
-Collingwood Basement is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including BERGA, BONNITA, DJ Kiti and DJ Sprinter and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
+Collingwood Basement is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including BERGA, DJ Kiti, DJ Sprinter and Honeysmack and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Succulent Funk & Club De Migo present Nathan Haines | BONNITA, Jasper Miles, Nathan Haines |
 | Sat, 24 Oct 2026 | TOASTER | Kait Xri, Mabel |
 | Thu, 29 Oct 2026 | Hatch |  |
 | Fri, 30 Oct 2026 | Honeysmack's House of Horrors | Honeysmack, Rosax |

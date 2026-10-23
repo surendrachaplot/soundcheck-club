@@ -12,7 +12,7 @@ Budino is a house and techno artist based in Italy, with 176 gigs on soundcheck 
 | Sat, 24 Oct 2026 | Noorderlicht Café | Amsterdam |
 | Sat, 24 Oct 2026 | San Francisco | Amsterdam |
 | Fri, 30 Oct 2026 | Het Leienpaleis | Antwerp |
-| Sat, 7 Nov 2026 | Night Tales Loft | London |
+| Sat, 7 Nov 2026 | NT's Loft | London |
 | Fri, 20 Nov 2026 | The Lubber Fiend | Newcastle |
 | Sat, 21 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |

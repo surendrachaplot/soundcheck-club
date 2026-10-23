@@ -1,14 +1,15 @@
 # Sancho Panza
 
-Sancho Panza is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Dutch Master, London on Sat, 24 Oct 2026.
+Sancho Panza is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Dutch Master, London on Sat, 24 Oct 2026.
 
-Sancho Panza is a house and disco artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Mr Shiver, Si Kurrage and Stuart Patterson. Next up: The Dutch Master, London on Sat 24 Oct.
+Sancho Panza is a house and disco artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Mr Shiver, Si Kurrage and Stuart Patterson. Next up: The Dutch Master, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The Dutch Master | London |
+| Sun, 6 Dec 2026 | The Timber Loft | London |
 
 ## Recently played
 

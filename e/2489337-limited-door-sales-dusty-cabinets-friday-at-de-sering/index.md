@@ -1,0 +1,18 @@
+# [Limited door sales] Dusty Cabinets | Friday at De Sering
+
+[Limited door sales] Dusty Cabinets | Friday at De Sering on Fri 23 Oct, Amsterdam. 4 artists: Camille Maria, Darwin, Marylou and Zoë Mc Pherson. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 23 Oct 2026 |
+| Venue | De Sering |
+| City | Amsterdam |
+
+## Line-up
+
+- Camille Maria
+- Darwin
+- Marylou
+- Zoë Mc Pherson
+
+*Source: [soundcheck](https://soundcheck.club/e/2489337-limited-door-sales-dusty-cabinets-friday-at-de-sering/)*

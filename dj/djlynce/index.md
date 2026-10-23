@@ -1,14 +1,15 @@
 # Dj Lynce
 
-Dj Lynce is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 24 Oct 2026.
+Dj Lynce is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 24 Oct 2026.
 
-Dj Lynce is a techno and experimental artist based in Portugal, with 37 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside Nuno Beats, Nídia and Pisitakun. Next up: Ministerium Club, Lisbon on Sat 24 Oct.
+Dj Lynce is a techno and experimental artist based in Portugal, with 38 gigs on soundcheck across Berlin, Lisbon, Porto and Portugal. Often billed alongside Nuno Beats, Nídia and Pisitakun. Next up: Ministerium Club, Lisbon on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Ministerium Club | Lisbon |
+| Thu, 29 Oct 2026 | TBA - Various Venues, Guimarães, PT | Portugal |
 
 ## Recently played
 

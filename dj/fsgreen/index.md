@@ -9,7 +9,7 @@ FS Green is a hip-hop and dancehall artist based in Netherlands, with 53 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Club Magno | Madrid |
-| Fri, 27 Nov 2026 | Night Tales Loft | London |
+| Fri, 27 Nov 2026 | NT's Loft | London |
 
 ## Recently played
 

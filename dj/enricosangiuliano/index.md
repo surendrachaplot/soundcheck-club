@@ -1,8 +1,8 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Smolna, Warsaw on Sat, 24 Oct 2026.
+Enrico Sangiuliano is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Smolna, Warsaw on Sat, 24 Oct 2026.
 
-Enrico Sangiuliano is a techno and house artist based in Italy, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Adam Beyer. Next up: Smolna, Warsaw on Sat 24 Oct.
+Enrico Sangiuliano is a techno and house artist based in Italy, with 126 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Adam Beyer. Next up: Smolna, Warsaw on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Enrico Sangiuliano is a techno and house artist based in Italy, with 125 gigs on
 | Sat, 24 Oct 2026 | Smolna | Warsaw |
 | Sat, 31 Oct 2026 | SUPERSTUDIO VILLAGE | Milan |
 | Fri, 6 Nov 2026 | Audiodrome | Turin |
+| Sat, 7 Nov 2026 | Tenax | Florence |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Thu, 19 Nov 2026 | Refuge | New York City |

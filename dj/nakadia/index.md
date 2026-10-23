@@ -1,14 +1,13 @@
 # Nakadia
 
-Nakadia is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
+Nakadia is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
-Nakadia is a techno and tech house artist based in Thailand, with 97 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Meet Berlage, Amsterdam on Fri 23 Oct.
+Nakadia is a techno and tech house artist based in Thailand, with 97 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Meet Berlage | Amsterdam |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
 | Fri, 6 Aug 2027 | Base Events Venue | Cyprus |
 

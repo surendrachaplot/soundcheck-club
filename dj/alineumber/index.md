@@ -19,7 +19,7 @@ Aline Umber is a house and minimal artist based in France, with 112 gigs on soun
 
 ## Recently played
 
-- Cooc, London · Sat, 10 Oct 2026
+- Plaza Camden, London · Sat, 10 Oct 2026
 - NDSM Docklands, Amsterdam · Sun, 13 Sept 2026
 - Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
 - TBA - Warehouse, Denver · Sat, 29 Aug 2026

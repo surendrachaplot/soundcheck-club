@@ -1,14 +1,13 @@
 # Ben Kaczor
 
-Ben Kaczor is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Ben Kaczor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sat, 24 Oct 2026.
 
-Ben Kaczor is a techno and house artist based in Switzerland, with 57 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 17 more. Often billed alongside Lb Honne, boaksi and matsssiii. Next up: TBA, Amsterdam on Fri 23 Oct.
+Ben Kaczor is a techno and house artist based in Switzerland, with 57 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 17 more. Often billed alongside Lb Honne, boaksi and matsssiii. Next up: Bordello Aperitivo, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA | Amsterdam |
 | Sat, 24 Oct 2026 | Bordello Aperitivo | Amsterdam |
 | Sat, 12 Dec 2026 | La Cômerie | Marseille |
 

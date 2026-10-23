@@ -1,14 +1,13 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Lost Controll - TECH HOUSE / TECHNO / ALL MIX -" on Fri, 23 Oct 2026.
+ZEROTOKYO is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "MIDNIGHT STELLAR supported by GOLD DISC - ALL MIX -" on Sat, 24 Oct 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including Anfisa Letyago, AVALON, CRAZYHYUGA and DJ 34 and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including Anfisa Letyago, AVALON, CRAZYHYUGA and DJ 34 and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Lost Controll - TECH HOUSE / TECHNO / ALL MIX - | HATSUYUKI, JUN INAGAWA, Mary-chan |
 | Sat, 24 Oct 2026 | MIDNIGHT STELLAR supported by GOLD DISC - ALL MIX - |  |
 | Sun, 25 Oct 2026 | FURRYRAVE Vol.3 - BASS / HOUSE / TECHNO - | CRAZYHYUGA, HiTOMi |
 | Thu, 29 Oct 2026 | PRISM - All Underground Music |  |
@@ -18,6 +17,7 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with
 | Mon, 2 Nov 2026 | BRESH TOKYO 02/11 - Halloween Special Edition - LATIN / EDM / OLDIES / POP - |  |
 | Fri, 6 Nov 2026 | Cybertokyo - ALL MIX - | HEAVEN'S GATE CREW |
 | Sun, 8 Nov 2026 | DROP THE BEAT - HOUSE / TECH HOUSE / TECHNO / HIPHOP - |  |
+| Sat, 14 Nov 2026 | FAVELA MEGA - LATIN -  |  |
 
 ## Address
 

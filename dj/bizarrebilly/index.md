@@ -1,14 +1,15 @@
 # Bizarre Billy
 
-Bizarre Billy is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at KitKatClub, Berlin on Sat, 31 Oct 2026.
+Bizarre Billy is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at KitKatClub, Berlin on Sat, 31 Oct 2026.
 
-Bizarre Billy is an italo disco and disco artist based in Germany, with 14 gigs on soundcheck across Barcelona, Berlin, Florence and Milan and 1 more. Often billed alongside Billy Idle, Lil Vän and Ricardo Baez. Next up: KitKatClub, Berlin on Sat 31 Oct.
+Bizarre Billy is a disco and italo disco artist based in Germany, with 15 gigs on soundcheck across Barcelona, Berlin, Florence and Milan and 1 more. Often billed alongside Billy Idle, Lil Vän and Ricardo Baez. Next up: KitKatClub, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | KitKatClub | Berlin |
+| Sat, 28 Nov 2026 | Privatclub | Berlin |
 
 ## Recently played
 

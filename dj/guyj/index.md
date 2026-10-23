@@ -1,14 +1,13 @@
 # Guy J
 
-Guy J is a Progressive House and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Guy J is a Progressive House and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Grand Social, Dublin on Sat, 24 Oct 2026.
 
-Guy J is a progressive house and house artist based in Israel, with 143 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 44 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
+Guy J is a progressive house and house artist based in Israel, with 143 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 44 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: The Grand Social, Dublin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | The Grand Social | Dublin |
 | Sun, 25 Oct 2026 | Bridge Gardens | Glasgow |
 | Fri, 30 Oct 2026 | TBA - Lurin live | Peru |

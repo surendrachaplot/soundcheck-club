@@ -12,7 +12,7 @@ Jonny Rock is a house and techno artist based in United Kingdom, with 128 gigs o
 | Sat, 24 Oct 2026 | Studio 508 | Amsterdam |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sat, 31 Oct 2026 | Jaeger | Oslo |
-| Sat, 14 Nov 2026 | Night Tales Loft | London |
+| Sat, 14 Nov 2026 | NT's Loft | London |
 | Sat, 28 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 

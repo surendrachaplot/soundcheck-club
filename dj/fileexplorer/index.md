@@ -1,14 +1,13 @@
 # File Explorer
 
-File Explorer is a Jungle and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
+File Explorer is a Jungle and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Triangle, Osaka on Fri, 6 Nov 2026.
 
-File Explorer is a jungle and electro artist based in Australia, with 6 gigs on soundcheck across Chengdu, Chongqing, Osaka and Shanghai and 2 more. Often billed alongside nabii, ADEAD and Boreas. Next up: Wigwam, Shanghai on Fri 23 Oct.
+File Explorer is a jungle and electro artist based in Australia, with 6 gigs on soundcheck across Chengdu, Chongqing, Osaka and Shanghai and 2 more. Often billed alongside nabii, ADEAD and Boreas. Next up: Triangle, Osaka on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Wigwam | Shanghai |
 | Fri, 6 Nov 2026 | Triangle | Osaka |
 | Fri, 13 Nov 2026 | Forestlimit | Tokyo |
 

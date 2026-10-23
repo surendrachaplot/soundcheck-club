@@ -1,8 +1,8 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Deep Techno Alliance 2026" on Fri, 23 Oct 2026.
+Eiger Studios is a music venue in Leeds with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Deep Techno Alliance 2026" on Fri, 23 Oct 2026.
 
-Eiger Studios is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with line-ups including Bobby., BUTCHABOI, Constance and Cottam and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
+Eiger Studios is a music venue in Leeds listed on soundcheck. 14 upcoming gigs, with line-ups including Benny Bysouth, Bobby., BUTCHABOI and Constance and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
 ## What's on
 

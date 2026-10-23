@@ -1,14 +1,13 @@
 # Emma DJ
 
-Emma DJ is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
+Emma DJ is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Le Poisson Volant, Paris on Thu, 29 Oct 2026.
 
-Emma DJ is an experimental and club artist based in France, with 95 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 32 more. Often billed alongside Toma Kami, ojoo and Europa. Next up: La Station - Gare des Mines, Paris on Fri 23 Oct.
+Emma DJ is an experimental and club artist based in France, with 95 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 32 more. Often billed alongside Toma Kami, ojoo and Europa. Next up: Le Poisson Volant, Paris on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | La Station - Gare des Mines | Paris |
 | Thu, 29 Oct 2026 | Le Poisson Volant | Paris |
 
 ## Recently played

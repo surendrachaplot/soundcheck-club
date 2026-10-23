@@ -18,7 +18,7 @@ DBBD is a techno and trance artist based in Germany, with 109 gigs on soundcheck
 - Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
 - Studio1111, Berlin · Fri, 16 Oct 2026
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
-- Gap House, Berlin · Sat, 10 Oct 2026
+- TBA, Berlin · Sat, 10 Oct 2026
 - Kilomètre25, Paris · Sat, 3 Oct 2026
 - Kilomètre25, Paris · Sat, 3 Oct 2026
 - Paragon, New York City · Fri, 11 Sept 2026

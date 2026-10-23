@@ -1,14 +1,13 @@
 # AVANT
 
-AVANT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+AVANT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bootshaus, Cologne on Fri, 30 Oct 2026.
 
-AVANT is a techno and house artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 2 more. Often billed alongside Solique, VINTASH and Alchemiah. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
+AVANT is a techno and house artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 2 more. Often billed alongside Solique, VINTASH and Alchemiah. Next up: Bootshaus, Cologne on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Het Veronica Schip | Amsterdam |
 | Fri, 30 Oct 2026 | Bootshaus | Cologne |
 
 ## Recently played

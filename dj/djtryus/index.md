@@ -1,8 +1,8 @@
-# dj try (US)
+# DJ Try (US)
 
-dj try (US) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mood Ring, New York City on Fri, 23 Oct 2026.
+DJ Try (US) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mood Ring, New York City on Fri, 23 Oct 2026.
 
-dj try (US) is a trance and techno artist based in United States of America, with 11 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside CITYSPROBLEM, moistbreezy and Princess Elf Bar. Next up: Mood Ring, New York City on Fri 23 Oct.
+DJ Try (US) is a trance and techno artist based in United States of America, with 11 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside CITYSPROBLEM, moistbreezy and Princess Elf Bar. Next up: Mood Ring, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 

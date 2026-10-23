@@ -1,14 +1,13 @@
 # Rami
 
-Rami is a House and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at VENT, Tokyo on Fri, 23 Oct 2026.
+Rami is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at clubasia, Tokyo on Thu, 29 Oct 2026.
 
-Rami is a house and dub artist based in Jordan, with 21 gigs on soundcheck across Bangkok, Berlin, Dallas/Fort Worth and Ibiza and 3 more. Often billed alongside HARUTO, Mahmut Orhan and Monkey Timers. Next up: VENT, Tokyo on Fri 23 Oct.
+Rami is a house and dub artist based in Jordan, with 21 gigs on soundcheck across Bangkok, Berlin, Dallas/Fort Worth and Ibiza and 3 more. Often billed alongside HARUTO, Mahmut Orhan and Monkey Timers. Next up: clubasia, Tokyo on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | VENT | Tokyo |
 | Thu, 29 Oct 2026 | clubasia | Tokyo |
 
 ## Recently played

@@ -9,7 +9,7 @@ DREY (UK) is a house and funk / soul artist based in United Kingdom, with 13 gig
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | The Jazz Cafe | London |
-| Sat, 31 Oct 2026 | Night Tales Loft | London |
+| Sat, 31 Oct 2026 | NT's Loft | London |
 | Fri, 4 Dec 2026 | Hackney Bridge | London |
 
 ## Recently played

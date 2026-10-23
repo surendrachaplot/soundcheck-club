@@ -9,8 +9,8 @@ Peven Everett is a house and funk / soul artist based in United States of Americ
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | TBA | Berlin |
-| Tue, 27 Oct 2026 | Night Tales Loft | London |
-| Thu, 29 Oct 2026 | Night Tales Loft | London |
+| Tue, 27 Oct 2026 | NT's Loft | London |
+| Thu, 29 Oct 2026 | NT's Loft | London |
 
 ## Recently played
 

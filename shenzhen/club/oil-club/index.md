@@ -1,14 +1,13 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "OIL Pres. Schwefelgelb" on Fri, 23 Oct 2026.
+OIL Club is a music venue in Shenzhen with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "殺氣疼疼: MAX DURANTE" on Sat, 24 Oct 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 18 upcoming gigs, with line-ups including Alion, Amnesia Scanner, Bearback and Beibeilon and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 17 upcoming gigs, with line-ups including Alion, Amnesia Scanner, Bearback and Beibeilon and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | OIL Pres. Schwefelgelb | Schwefelgelb |
 | Sat, 24 Oct 2026 | 殺氣疼疼: MAX DURANTE | Alion, Fatalis, Jascer, MAX DURANTE |
 | Sun, 25 Oct 2026 | NEO ILLUSION三周年呈现：Shen Long+DODO |  |
 | Thu, 29 Oct 2026 | Dissolve the ego Invite：A-Tweed |  |
@@ -18,6 +17,7 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 18 upcoming gigs, wi
 | Sun, 1 Nov 2026 | DIVA POP ON：我就爱蹦流行歌 |  |
 | Fri, 6 Nov 2026 | Silicon Kure: Shao | Foambb, Shao, o0 (1) |
 | Sat, 7 Nov 2026 | Pillbox Exchange | Bearback, S.M.S.H, Sirens |
+| Sun, 8 Nov 2026 | EVEPHY pres. 岩汐6.0：界中界 |  |
 
 ## Address
 

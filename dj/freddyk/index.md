@@ -1,6 +1,6 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
+Freddy K is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
 
 Freddy K is a techno and house artist based in Germany, with 314 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 79 more. Often billed alongside Chlär, Alarico and Blasha & Allatt. Next up: BRET, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Freddy K is a techno and house artist based in Germany, with 314 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
-| Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Gare Porto | Porto |
@@ -20,6 +19,7 @@ Freddy K is a techno and house artist based in Germany, with 314 gigs on soundch
 | Sat, 21 Nov 2026 | SMUT Athens | Athens |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Fri, 18 Dec 2026 | Flash | Washington DC |
 
 ## Recently played
 

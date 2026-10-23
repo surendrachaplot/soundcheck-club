@@ -13,7 +13,7 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming 
 | Sun, 25 Oct 2026 | African Head Charge: Open Air Show | African Head Charge |
 | Fri, 30 Oct 2026 | Holy Shift Halloween |  |
 | Fri, 30 Oct 2026 | Slipmatt + Planet Wax: Dexta & Uncle G | Dexta, Slipmatt, Uncle G |
-| Sat, 31 Oct 2026 | Cumbia de los Muertos | Malphino |
+| Sat, 31 Oct 2026 | ¡Cumbia de los Muertos! with Malphino (live) | Malphino |
 | Fri, 6 Nov 2026 | LILA invites… Colleen 'Cosmo' Murphy + more | Colleen 'Cosmo' Murphy, Kojay, LILA (1) |
 | Sat, 7 Nov 2026 | Club Saoco Vol.3 |  |
 | Sat, 7 Nov 2026 | Club Saoco Vol. 3 | Ana Isabela, Onda Saoco, Tsunamy |

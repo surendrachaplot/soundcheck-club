@@ -1,13 +1,14 @@
 # Kijara
 
-Kijara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Rosie's Bar, Berlin on Sat, 31 Oct 2026.
+Kijara is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Prisma, Berlin on Sun, 25 Oct 2026.
 
-Kijara is a house and techno artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside CEEE, DERICE and Danny Subsonic. Next up: Rosie's Bar, Berlin on Sat 31 Oct.
+Kijara is a house and techno artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside CEEE, DERICE and Danny Subsonic. Next up: Prisma, Berlin on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Prisma | Berlin |
 | Sat, 31 Oct 2026 | Rosie's Bar | Berlin |
 | Sat, 28 Nov 2026 | Wendel | Berlin |
 

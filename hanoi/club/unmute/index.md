@@ -1,15 +1,13 @@
 # Unmute
 
-Unmute is a music venue in Hanoi with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ORGANIK FESTIVAL TAKEOVER: L-CC, Y3KDJ, Toumingren" on Fri, 23 Oct 2026.
+Unmute is a music venue in Hanoi with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "OIL SOUND SYSTEM Takeover: NK100, o0.PiPi, Komga, Emmytee" on Sat, 24 Oct 2026.
 
-Unmute is a music venue in Hanoi listed on soundcheck. 15 upcoming gigs, with line-ups including Al Burro, Animistic Beliefs, Carrier and Central and 2 more. See dates, start times and who's playing. Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi.
+Unmute is a music venue in Hanoi listed on soundcheck. 14 upcoming gigs, with line-ups including Animistic Beliefs, Bakey, Carrier and Central and 2 more. See dates, start times and who's playing. Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | ORGANIK FESTIVAL TAKEOVER: L-CC, Y3KDJ, Toumingren | L-CC |
-| Fri, 23 Oct 2026 | LIMINAL DREAM: Toss, Al Burro, Nam Phung | Al Burro, Nam Phùng |
 | Sat, 24 Oct 2026 | OIL SOUND SYSTEM Takeover: NK100, o0.PiPi, Komga, Emmytee | Emmytee, Komga, NK100, o0 (1) |
 | Fri, 30 Oct 2026 | Unmute W/ OMOLOKO (Curral / Mathosa) | Hocking, OMOLOKO |
 | Sat, 31 Oct 2026 | WET DYNASTY: LÊNH LÁNG LAND VOL III: 3 YEARS OF TERROR | LINHTONIK, MIA FLAW, PH00000NG, Phát Paris |
@@ -18,6 +16,8 @@ Unmute is a music venue in Hanoi listed on soundcheck. 15 upcoming gigs, with li
 | Fri, 20 Nov 2026 | Unmute W/ Piezo | Piezo |
 | Sat, 21 Nov 2026 | Unmute W/ Pangaea (Hessle Audio) | Pangaea |
 | Fri, 27 Nov 2026 | Unmute W/ Carrier (The Trilogy Tapes/UK) | Carrier |
+| Fri, 11 Dec 2026 | Unmute with Wata Igarashi | Wata Igarashi |
+| Sat, 12 Dec 2026 | Unmute with Pariah | Pariah |
 
 ## Address
 

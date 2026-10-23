@@ -1,14 +1,13 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at VENT, Tokyo on Fri, 23 Oct 2026.
+Eric Duncan is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kieth Flack, Kyushu on Sat, 24 Oct 2026.
 
-Eric Duncan is a house and disco artist based in United States of America, with 68 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 24 more. Often billed alongside FFAN, Craig Ouar and Monkey Timers. Next up: VENT, Tokyo on Fri 23 Oct.
+Eric Duncan is a house and disco artist based in United States of America, with 68 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 24 more. Often billed alongside FFAN, Craig Ouar and Monkey Timers. Next up: Kieth Flack, Kyushu on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | VENT | Tokyo |
 | Sat, 24 Oct 2026 | Kieth Flack | Kyushu |
 | Fri, 30 Oct 2026 | BAR Inc | Osaka |
 | Fri, 6 Nov 2026 | TBA | Victoria |

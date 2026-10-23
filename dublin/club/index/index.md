@@ -17,7 +17,7 @@ Index is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with li
 | Fri, 13 Nov 2026 | Index: Alan Fitzpatrick | Alan Fitzpatrick |
 | Sat, 14 Nov 2026 | Index: Partiboi69 | Partiboi69 |
 | Sat, 21 Nov 2026 | Index: Rebūke |  |
-| Sat, 28 Nov 2026 | Index x Omni: Apolonia | Apolonia |
+| Sat, 28 Nov 2026 | Index x Omni: Apollonia | Apolonia |
 
 ## Address
 

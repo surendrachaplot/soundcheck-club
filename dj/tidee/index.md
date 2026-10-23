@@ -1,14 +1,13 @@
 # TIDEE
 
-TIDEE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
+TIDEE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
-TIDEE is a techno and house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam. Often billed alongside Joris Turenhout, Azzurro and Juliet Fox. Next up: Amsterdams Most Wanted, Amsterdam on Fri 23 Oct.
+TIDEE is a techno and house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam. Often billed alongside Joris Turenhout, Azzurro and Juliet Fox. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Amsterdams Most Wanted | Amsterdam |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
 
 ## Recently played

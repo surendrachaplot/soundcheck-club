@@ -17,7 +17,7 @@ Kalte Liebe is a techno and trance artist based in Germany, with 117 gigs on sou
 
 ## Recently played
 
-- Gap House, Berlin · Sat, 10 Oct 2026
+- TBA, Berlin · Sat, 10 Oct 2026
 - Südbrücke Open Air, Cologne · Sat, 26 Sept 2026
 - Sommerbad Neukölln, Berlin · Sun, 30 Aug 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026

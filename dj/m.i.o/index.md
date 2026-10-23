@@ -1,14 +1,13 @@
 # M.I.O
 
-M.I.O is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 23 Oct 2026.
+M.I.O is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
 
-M.I.O is a bass and techno artist, with 51 gigs on soundcheck across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: Circus Tokyo, Tokyo on Fri 23 Oct.
+M.I.O is a bass and techno artist, with 51 gigs on soundcheck across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Circus Tokyo | Tokyo |
 | Sat, 24 Oct 2026 | TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER | Tokyo |
 | Sat, 31 Oct 2026 | R Lounge | Tokyo |
 

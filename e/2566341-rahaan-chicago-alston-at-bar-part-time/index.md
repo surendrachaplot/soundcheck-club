@@ -1,6 +1,6 @@
 # Rahaan (Chicago) + Alston at Bar Part Time
 
-Rahaan (Chicago) + Alston at Bar Part Time on Fri 23 Oct, San Francisco/Oakland. 1 artist: DJ rahaan. Disco and Funk / Soul. See the line-up on soundcheck.
+Rahaan (Chicago) + Alston at Bar Part Time on Fri 23 Oct, San Francisco/Oakland. 1 artist: Rahaan. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Rahaan (Chicago) + Alston at Bar Part Time on Fri 23 Oct, San Francisco/Oakland.
 
 ## Line-up
 
-- DJ rahaan
+- Rahaan
 
 *Source: [soundcheck](https://soundcheck.club/e/2566341-rahaan-chicago-alston-at-bar-part-time/)*

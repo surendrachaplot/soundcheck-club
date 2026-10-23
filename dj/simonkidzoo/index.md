@@ -1,14 +1,13 @@
 # Simon Kidzoo
 
-Simon Kidzoo is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
+Simon Kidzoo is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oliva, Amsterdam on Fri, 23 Oct 2026.
 
-Simon Kidzoo is a house and tech house artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Dublin, Ibiza and Madrid and 6 more. Often billed alongside AAT (NL), Easttown and Ammé. Next up: Sugarfactory, Amsterdam on Fri 23 Oct.
+Simon Kidzoo is a house and tech house artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Dublin, Ibiza and Madrid and 6 more. Often billed alongside AAT (NL), Easttown and Ammé. Next up: Oliva, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 23 Oct 2026 | Oliva | Amsterdam |
 | Sat, 24 Oct 2026 | Db55 | Amsterdam |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |

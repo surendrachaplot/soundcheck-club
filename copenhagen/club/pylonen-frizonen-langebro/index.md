@@ -10,7 +10,7 @@ Pylonen - Frizonen Langebro is a music venue in Copenhagen listed on soundcheck.
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Fluidity Festival | Emma Priis, KLENA, Rita Blue, Sakena Ali |
 | Sat, 31 Oct 2026 | Perfect Slip | 3LNA, Exilee, Heddah, Ryong, Sascha Alexander, Valeria Litvakov, Xenia Reaper |
-| Sun, 1 Nov 2026 | Summer Isn't Over Yet - Sunday Party at Pylonen - Langebro | Dennis DAFG, Entree, Frida(y), Halfdan Sandquist, NAT (SK), Peachlyfe, Shaan (2), YOON |
+| Sun, 1 Nov 2026 | Summer Isn't Over Yet - Sunday Party at Pylonen - Langebro | Dennis DAFG, Entree, Frida(y), Halfdan Sandquist, NAT(SK), Peachlyfe, Shaan (2), YOON |
 | Fri, 13 Nov 2026 | Floor.tips 1 year anniversary | Lulla-Li, MiniMalene (2), babysquid, tadoh |
 | Sat, 14 Nov 2026 | (Con)Doctors: Too Hard For House | Emma Priis, Keith Chuckles, steamboi |
 

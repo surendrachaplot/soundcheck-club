@@ -11,7 +11,7 @@ Raleigh Chapel is a music venue in London listed on soundcheck. 5 upcoming gigs,
 | Sat, 24 Oct 2026 | AudioSpaces at Raleigh Chapel |  |
 | Thu, 12 Nov 2026 | Fetchish x Chess Club |  |
 | Sat, 14 Nov 2026 | Chloe Lula (live - cello), Ulla (live), Ireen Amnes at Raleigh Chapel | Chloe Lula, Ireen Amnes, Ulla |
-| Thu, 19 Nov 2026 | Vigil | Mirror Organs, VISIO, Zeynep Ağcabay |
+| Thu, 19 Nov 2026 | VIGIL | Mirror Organs, VISIO, Zeynep Ağcabay |
 | Wed, 2 Dec 2026 | Testing the Water presents: Colombian Drone Mafia, McGregor & Flute Machines | Colombian Drone Mafia, McGregor |
 
 ## Address

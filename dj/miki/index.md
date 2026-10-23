@@ -1,14 +1,13 @@
 # Miki
 
-Miki is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at SEL OCTAGON TOKYO, Tokyo on Fri, 23 Oct 2026.
+Miki is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at SEL OCTAGON TOKYO, Tokyo on Sat, 24 Oct 2026.
 
-Miki is a techno and electro artist based in Italy, with 51 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 15 more. Often billed alongside Alex Picone, Desyn and Gwenan. Next up: SEL OCTAGON TOKYO, Tokyo on Fri 23 Oct.
+Miki is a techno and electro artist based in Italy, with 51 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 15 more. Often billed alongside Alex Picone, Desyn and Gwenan. Next up: SEL OCTAGON TOKYO, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Sat, 24 Oct 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Mon, 26 Oct 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Wed, 28 Oct 2026 | SEL OCTAGON TOKYO | Tokyo |

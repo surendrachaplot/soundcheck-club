@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Elysion 8 Years // 16 hrs // In- & Outdoor " on Fri, 23 Oct 2026.
+Humboldthain Club is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Elysion 8 Years // 16 hrs // In- & Outdoor // Box Office available " on Fri, 23 Oct 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including 3diz, 5euroGoldi, YOVA and Atze G and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -8,7 +8,7 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 18 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Elysion 8 Years // 16 hrs // In- & Outdoor  | Atze G, DJ Keyframe, Dexy's Midnight, Gretchen B, NIØ (DE), Naked Nils, NeoFX, OTG(1), Schorli, Simon Eickenboom, Smoothie Operator, Vanree, YOVA, krawallwitz |
+| Fri, 23 Oct 2026 | Elysion 8 Years // 16 hrs // In- & Outdoor // Box Office available  | Atze G, DJ Keyframe, Dexy's Midnight, Gretchen B, NIØ (DE), Naked Nils, NeoFX, OTG(1), Schorli, Simon Eickenboom, Smoothie Operator, Vanree, YOVA, krawallwitz |
 | Sat, 24 Oct 2026 | Subway Surfers Vol. IV | DJ Haarpracht aka JaJo, DJ Napoli, Kleingartenkolonie Hellersdorf, LASC11, TIZIANO, bambi (DE) |
 | Sat, 24 Oct 2026 | Sounds for Solidarity / DAY RAVE | Skinny Legend |
 | Tue, 27 Oct 2026 | Open Decks & Tischtennis |  |

@@ -1,14 +1,13 @@
 # Daura
 
-Daura is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
+Daura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 30 Oct 2026.
 
-Daura is a techno and house artist based in Canada, with 66 gigs on soundcheck across Amsterdam, Berlin, Brussels and Düsseldorf and 25 more. Often billed alongside Moaad BKR, Mr. Murray and ATEQ. Next up: Wigwam, Shanghai on Fri 23 Oct.
+Daura is a techno and house artist based in Canada, with 66 gigs on soundcheck across Amsterdam, Berlin, Brussels and Düsseldorf and 25 more. Often billed alongside Moaad BKR, Mr. Murray and ATEQ. Next up: 宀 Club, Hong Kong on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Wigwam | Shanghai |
 | Fri, 30 Oct 2026 | 宀 Club | Hong Kong |
 | Fri, 6 Nov 2026 | Kader Grad Kodeljevo | Ljubljana |
 | Fri, 20 Nov 2026 | Signal | New York City |

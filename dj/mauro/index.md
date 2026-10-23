@@ -1,14 +1,13 @@
 # MAURO
 
-MAURO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
+MAURO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Wed, 11 Nov 2026.
 
-MAURO is a techno and house artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 4 more. Often billed alongside Th.is Fake, LSG and OXOPOHA. Next up: Nido Cocktailbar, Amsterdam on Fri 23 Oct.
+MAURO is a techno and house artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 4 more. Often billed alongside Th.is Fake, LSG and OXOPOHA. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Nido Cocktailbar | Amsterdam |
 | Wed, 11 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 
 ## Recently played

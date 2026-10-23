@@ -9,7 +9,7 @@ Higgo is a garage and bass artist based in United Kingdom, with 27 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Last Arch | London |
-| Fri, 8 Jan 2027 | Night Tales Loft | London |
+| Fri, 8 Jan 2027 | NT's Loft | London |
 
 ## Recently played
 

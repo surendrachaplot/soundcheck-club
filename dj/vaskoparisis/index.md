@@ -1,14 +1,14 @@
 # Vasko Parisis
 
-Vasko Parisis is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Loop51, Amsterdam on Sat, 24 Oct 2026.
+Vasko Parisis is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Parck AKA Ping Pong Bar, Amsterdam on Sat, 24 Oct 2026.
 
-Vasko Parisis is a minimal and techno artist based in Greece, with 35 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and Thessaloniki. Often billed alongside Dimitris Anagnostou, Hannecart and Kirilski. Next up: Loop51, Amsterdam on Sat 24 Oct.
+Vasko Parisis is a minimal and techno artist based in Greece, with 35 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and Thessaloniki. Often billed alongside Dimitris Anagnostou, Hannecart and Kirilski. Next up: Parck AKA Ping Pong Bar, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Loop51 | Amsterdam |
+| Sat, 24 Oct 2026 | Parck AKA Ping Pong Bar | Amsterdam |
 
 ## Recently played
 

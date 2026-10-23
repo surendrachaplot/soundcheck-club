@@ -1,14 +1,13 @@
 # Jezza & Jod
 
-Jezza & Jod is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nxt Museum, Amsterdam on Fri, 23 Oct 2026.
+Jezza & Jod is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Arzenal, Budapest on Fri, 27 Nov 2026.
 
-Jezza & Jod are a techno and house duo based in United Kingdom, with 56 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Budapest and 11 more. Often billed alongside blk., Black Traffic and Jason Cluff. Next up: Nxt Museum, Amsterdam on Fri 23 Oct.
+Jezza & Jod are a techno and house duo based in United Kingdom, with 56 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Budapest and 11 more. Often billed alongside blk., Black Traffic and Jason Cluff. Next up: Arzenal, Budapest on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |
 | Fri, 27 Nov 2026 | Arzenal | Budapest |
 
 ## Recently played

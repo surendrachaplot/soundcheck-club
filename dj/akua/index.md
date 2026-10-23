@@ -10,7 +10,7 @@ Akua is a techno and house artist based in United States of America, with 224 gi
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Jasna 1 | Warsaw |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
-| Sun, 25 Oct 2026 | TBA - Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 | Kazerne Reigersbos | Amsterdam |
 | Fri, 30 Oct 2026 | WOMB | Tokyo |
 | Sat, 7 Nov 2026 | Concept Haus | Manchester |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |

@@ -12,7 +12,7 @@ Rosie Ama is a house and post-punk artist based in United Kingdom, with 37 gigs 
 | Fri, 30 Oct 2026 | Altar | London |
 | Fri, 13 Nov 2026 | Gut Level | Sheffield |
 | Sat, 14 Nov 2026 | The Model | Nottingham |
-| Sat, 21 Nov 2026 | Night Tales Loft | London |
+| Sat, 21 Nov 2026 | NT's Loft | London |
 | Sat, 28 Nov 2026 | The Cause | London |
 | Fri, 18 Dec 2026 | The White Hotel | Manchester |
 

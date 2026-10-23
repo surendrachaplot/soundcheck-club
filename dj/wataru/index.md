@@ -1,14 +1,13 @@
 # WATARU
 
-WATARU is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Abyss Shanghai, Shanghai on Fri, 23 Oct 2026.
+WATARU is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at SEL OCTAGON TOKYO, Tokyo on Sat, 24 Oct 2026.
 
-WATARU is a techno and trance artist based in Japan, with 57 gigs on soundcheck across Lisbon, Osaka, Shanghai and Tokyo. Often billed alongside PONTA, HK. and Drunken Kong. Next up: Abyss Shanghai, Shanghai on Fri 23 Oct.
+WATARU is a techno and trance artist based in Japan, with 57 gigs on soundcheck across Lisbon, Osaka, Shanghai and Tokyo. Often billed alongside PONTA, HK. and Drunken Kong. Next up: SEL OCTAGON TOKYO, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Abyss Shanghai | Shanghai |
 | Sat, 24 Oct 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Mon, 26 Oct 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Sat, 7 Nov 2026 | R Lounge | Tokyo |

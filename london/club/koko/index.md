@@ -9,7 +9,7 @@ KOKO is a music venue in London listed on soundcheck. 28 upcoming gigs, with lin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | KOKO Electronic: THEMBA | Da Mike, THEMBA, TIMANTI |
-| Sat, 24 Oct 2026 | Shanti Celeste's Birthday Party | Danielle (UK), Ellie Stokes, Gramrcy, Leon Vynehall, Shanti Celeste |
+| Sat, 24 Oct 2026 | KOKO Electronic: Shanti Celeste's Birthday Party [SOLD OUT] | Danielle (UK), Ellie Stokes, Gramrcy, Leon Vynehall, Shanti Celeste |
 | Fri, 30 Oct 2026 | Anywherelse Halloween: ARODES, Marten Lou | ARODES, Khenya, Marten Lou, Rockin Moroccin |
 | Sat, 31 Oct 2026 | KOKO Electronic: Halloween - Ahmed Spins [SOLD OUT] | ABEL (UK) |
 | Fri, 6 Nov 2026 | KOKO Electronic: Kirollus (All Night Long) | Kirollus |

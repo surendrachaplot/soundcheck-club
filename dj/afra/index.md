@@ -1,14 +1,13 @@
 # Afra
 
-Afra is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Afra is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
-Afra is a techno and house artist based in Netherlands, with 123 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
+Afra is a techno and house artist based in Netherlands, with 123 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 | Fri, 6 Nov 2026 | public records | New York City |

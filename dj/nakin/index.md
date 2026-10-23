@@ -1,14 +1,13 @@
 # NAKIN
 
-NAKIN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dirty House, Shanghai on Fri, 23 Oct 2026.
+NAKIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Dirty House, Shanghai on Sat, 31 Oct 2026.
 
-NAKIN is a techno and house artist, with 90 gigs on soundcheck across Shanghai. Often billed alongside Onyx, Lina K and Mansun. Next up: Dirty House, Shanghai on Fri 23 Oct.
+NAKIN is a techno and house artist, with 90 gigs on soundcheck across Shanghai. Often billed alongside Onyx, Lina K and Mansun. Next up: Dirty House, Shanghai on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Dirty House | Shanghai |
 | Sat, 31 Oct 2026 | Dirty House | Shanghai |
 
 ## Recently played

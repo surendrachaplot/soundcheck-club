@@ -1,8 +1,8 @@
-# DJ rahaan
+# Rahaan
 
-DJ rahaan is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Fri, 23 Oct 2026.
+Rahaan is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-DJ rahaan is a disco and house artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Darryn Jones, Glenn Underground and JKriv. Next up: Bar Part Time, San Francisco/Oakland on Fri 23 Oct.
+Rahaan is a disco and house artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Darryn Jones, Glenn Underground and JKriv. Next up: Bar Part Time, San Francisco/Oakland on Fri 23 Oct.
 
 ## Upcoming shows
 

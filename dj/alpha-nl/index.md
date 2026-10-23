@@ -1,14 +1,13 @@
 # ALPHA (NL)
 
-ALPHA (NL) is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
+ALPHA (NL) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nulab Chengdu, Chengdu on Sat, 24 Oct 2026.
 
-ALPHA (NL) is a techno and bass artist, with 11 gigs on soundcheck across Berlin, Chengdu, Copenhagen and Lisbon and 3 more. Often billed alongside 3ASiC, Archypness and Diva Li. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
+ALPHA (NL) is a techno and bass artist, with 11 gigs on soundcheck across Berlin, Chengdu, Copenhagen and Lisbon and 3 more. Often billed alongside 3ASiC, Archypness and Diva Li. Next up: Nulab Chengdu, Chengdu on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Nulab Chengdu | Chengdu |
 | Sat, 24 Oct 2026 | Nulab Chengdu | Chengdu |
 | Sun, 25 Oct 2026 | Nulab Chengdu | Chengdu |
 

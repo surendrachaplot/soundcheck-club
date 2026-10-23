@@ -1,6 +1,6 @@
 # Klubkneipe x Resonance at Prisma
 
-Klubkneipe x Resonance at Prisma on Sun 25 Oct, Berlin. 2 artists: Emilion Dollar Baby and Kazuki Takahashi. House and Tech House. See the line-up on soundcheck.
+Klubkneipe x Resonance at Prisma on Sun 25 Oct, Berlin. 4 artists: Emilion Dollar Baby, Kazuki Takahashi, Kijara and Leah Marie. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,7 @@ Klubkneipe x Resonance at Prisma on Sun 25 Oct, Berlin. 2 artists: Emilion Dolla
 
 - Emilion Dollar Baby
 - Kazuki Takahashi
+- Kijara
+- Leah Marie
 
 *Source: [soundcheck](https://soundcheck.club/e/2542001-klubkneipe-x-resonance-at-prisma/)*

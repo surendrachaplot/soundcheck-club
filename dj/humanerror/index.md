@@ -1,14 +1,13 @@
 # HUMAN ERROR
 
-HUMAN ERROR is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Ex Teatro - Via della Rimembranza n2 - Prato, Florence on Fri, 23 Oct 2026.
+HUMAN ERROR is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 24 Oct 2026.
 
-HUMAN ERROR is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 25 more. Often billed alongside WILDERÍCH, DVAID and zwilling.. Next up: TBA - Ex Teatro - Via della Rimembranza n2 - Prato, Florence on Fri 23 Oct.
+HUMAN ERROR is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 25 more. Often billed alongside WILDERÍCH, DVAID and zwilling.. Next up: Studio Club Malaga, Malaga on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA - Ex Teatro - Via della Rimembranza n2 - Prato | Florence |
 | Sat, 24 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 31 Oct 2026 | TBA | Bogot |
 | Sat, 31 Oct 2026 | GATE CLUB | Bogotá |

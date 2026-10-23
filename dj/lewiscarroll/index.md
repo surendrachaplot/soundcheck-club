@@ -10,7 +10,7 @@ Lewis Carroll is a house and tech house artist based in United Kingdom, with 50 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Ironworks | London |
-| Sat, 5 Dec 2026 | Night Tales Loft | London |
+| Sat, 5 Dec 2026 | NT's Loft | London |
 
 ## Recently played
 

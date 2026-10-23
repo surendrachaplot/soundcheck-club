@@ -10,7 +10,7 @@ Colyn is a techno and house artist based in Netherlands, with 188 gigs on soundc
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | 50:Hertz Club Train | Amsterdam |
-| Fri, 30 Oct 2026 | E1 | London |
+| Fri, 30 Oct 2026 | Onyx (E1) | London |
 | Sat, 31 Oct 2026 | Recinto Iberdrola Music | Madrid |
 | Sat, 31 Oct 2026 | Recinto Iberdrola Music | Madrid |
 | Sat, 21 Nov 2026 | Mute Beach | Buenos Aires |

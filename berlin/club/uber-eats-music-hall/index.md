@@ -9,7 +9,7 @@ Uber Eats Music Hall is a music venue in Berlin listed on soundcheck. 5 upcoming
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Arlo Parks | Arlo Parks |
-| Thu, 12 Nov 2026 | Overmono - Pure Devotion Live - World Tour | Blawan, Overmono |
+| Thu, 12 Nov 2026 | Overmono - Pure Devotion Live - World Tour | Blawan, Overmono, Viiaan |
 | Sat, 28 Nov 2026 | Schrotthagen Neue Welt Tour @Uber Eats Music Hall | Schrotthagen |
 | Tue, 1 Dec 2026 | Nia Archives | Nia Archives |
 | Thu, 11 Mar 2027 | Bonobo | Bonobo |

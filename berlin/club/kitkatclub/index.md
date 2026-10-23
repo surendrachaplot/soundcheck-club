@@ -1,8 +1,8 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "The 32 Year Mystic Rose Celebration meets TRISTAN" on Fri, 23 Oct 2026.
+KitKatClub is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "The 32 Year Mystic Rose Celebration meets TRISTAN" on Fri, 23 Oct 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including AAguilAA, alemiko, Alessia Cattani and André Lodemann and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including AAguilAA, alemiko, Alessia Cattani and André Lodemann and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
@@ -17,7 +17,7 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, wi
 | Fri, 30 Oct 2026 | PiepShow - OctoberPiep | Alessia Cattani, Chiara Fucci, Chris Fuego, DJ PayPaul, Daryl Johnson, David Strasser, FLEXTASY, Juan Del Chambo, KEN (DE), Maleska |
 | Sat, 31 Oct 2026 | Disco Bizarre: Poking Fun at Halloween | Ben Gomori, Bizarre Billy, Daniel Knutz, Marvel83' |
 | Mon, 2 Nov 2026 | Electric Monday@Kitkat | André Lodemann, Frankie Flowerz, Milk N Coffee, Ricardo Rodriguez |
-| Thu, 5 Nov 2026 | Unity (surprise special edition) | Balkhausen, alemiko, e.leptic |
+| Wed, 4 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Kalimanda, Sin:port |
 
 ## Address
 

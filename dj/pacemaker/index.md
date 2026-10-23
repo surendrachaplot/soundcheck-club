@@ -1,14 +1,13 @@
 # Pacemaker
 
-Pacemaker is a Jungle and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at St Brides Church Liverpool, Liverpool on Fri, 23 Oct 2026.
+Pacemaker is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Dome, Liverpool on Fri, 20 Nov 2026.
 
-Pacemaker is a jungle and techno artist, with 37 gigs on soundcheck across Cologne, Düsseldorf, Liverpool and London and 1 more. Often billed alongside e-kitty, Hardcore Babes and MYOHMY. Next up: St Brides Church Liverpool, Liverpool on Fri 23 Oct.
+Pacemaker is a jungle and techno artist, with 37 gigs on soundcheck across Cologne, Düsseldorf, Liverpool and London and 1 more. Often billed alongside e-kitty, Hardcore Babes and MYOHMY. Next up: The Dome, Liverpool on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | St Brides Church Liverpool | Liverpool |
 | Fri, 20 Nov 2026 | The Dome | Liverpool |
 | Fri, 18 Dec 2026 | The Cause | London |
 

@@ -1,6 +1,6 @@
 # CARISTA
 
-CARISTA is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
+CARISTA is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
 
 CARISTA is a house and techno artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Job Jobse, Eris Drew and Suze Ijó. Next up: Pllek, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ CARISTA is a house and techno artist based in Netherlands, with 195 gigs on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
-| Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 31 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 6 Nov 2026 | De Zoeten Laboratorium | Netherlands |

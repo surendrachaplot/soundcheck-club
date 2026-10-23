@@ -1,15 +1,13 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Acephalic Headspace with Lésions Graves, ladr ache" on Fri, 23 Oct 2026.
+Silent Green is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Temple of Faitiche pres. U.e. (Ulla) + Martin Brandlmayr" on Thu, 29 Oct 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Abdullah Miniawy, Abul Mogard, Ana Roxanne and Babak Ahteshamipour and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Abdullah Miniawy, Ana Roxanne, Babak Ahteshamipour and Cinna Peyghamy and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Acephalic Headspace with Lésions Graves, ladr ache |  |
-| Fri, 23 Oct 2026 | Half Light with Abul Mogard, Marja de Sanctis, Rafael Anton Irisarri, Concepción Huerta | Abul Mogard, Concepción Huerta, Rafael Anton Irisarri |
 | Thu, 29 Oct 2026 | Temple of Faitiche pres. U.e. (Ulla) + Martin Brandlmayr | Ulla |
 | Wed, 4 Nov 2026 | Goat (JP) + Camila Nebbia | Goat (JP) |
 | Mon, 9 Nov 2026 | Ana  + Clarice  | Ana Roxanne |
@@ -18,6 +16,8 @@ Silent Green is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, 
 | Fri, 13 Nov 2026 | Tehran Contemporary Sounds Festival 2026 | Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS, Gnäw, LABOUR, Shiva Feshareki, Tarxun, Tehran |
 | Sat, 14 Nov 2026 | Maria BC + Eli Wewentxu & Indrė Jurgelevičiūtė | Eli Wewentxu |
 | Wed, 18 Nov 2026 | Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein |  |
+| Tue, 24 Nov 2026 | Angel Bat Dawid |  |
+| Wed, 9 Dec 2026 | Sintonia 2026 Attunement III |  |
 
 ## Address
 

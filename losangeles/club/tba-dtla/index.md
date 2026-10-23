@@ -2,7 +2,7 @@
 
 TBA - DTLA is a music venue in Los Angeles with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Witching Hours" on Fri, 23 Oct 2026.
 
-TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 18 upcoming gigs, with line-ups including 6 SENSE, Alienatrix, BEEBA and BHAOUNCEOUT and 2 more. See dates, start times and who's playing.
+TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 18 upcoming gigs, with line-ups including 6 SENSE, Alienatrix, AMORAL and BEEBA and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

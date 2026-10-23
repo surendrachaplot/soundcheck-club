@@ -1,14 +1,13 @@
 # Anja Schneider
 
-Anja Schneider is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Anja Schneider is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Slow Club- Other Side of Tama, Poznan on Sat, 24 Oct 2026.
 
-Anja Schneider is a techno and house artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Radio Slave, Cassy and Foolik. Next up: RADION, Amsterdam on Fri 23 Oct.
+Anja Schneider is a techno and house artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Radio Slave, Cassy and Foolik. Next up: Slow Club- Other Side of Tama, Poznan on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Sat, 24 Oct 2026 | Slow Club- Other Side of Tama | Poznan |
 | Wed, 11 Nov 2026 | Planetarium Hamburg | Hamburg |
 | Fri, 27 Nov 2026 | OXI | Berlin |

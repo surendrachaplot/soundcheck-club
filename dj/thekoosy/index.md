@@ -1,14 +1,13 @@
 # TheKoosy
 
-TheKoosy is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+TheKoosy is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lagerwal, Amsterdam on Sat, 24 Oct 2026.
 
-TheKoosy is a techno and acid artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside DA SEYKO, Joris Turenhout and Belocca. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
+TheKoosy is a techno and acid artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside DA SEYKO, Joris Turenhout and Belocca. Next up: Lagerwal, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ruimte 59.61 | Amsterdam |
 | Sat, 24 Oct 2026 | Lagerwal | Amsterdam |
 | Sat, 21 Nov 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 13 Feb 2027 | Lagerwal | Amsterdam |

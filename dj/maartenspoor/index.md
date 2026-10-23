@@ -1,14 +1,13 @@
 # Maarten Spoor
 
-Maarten Spoor is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+Maarten Spoor is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
 
-Maarten Spoor is a techno and progressive house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Stoac, Cyantist and T-Gray. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
+Maarten Spoor is a techno and progressive house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Stoac, Cyantist and T-Gray. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Het Veronica Schip | Amsterdam |
 | Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 
 ## Recently played

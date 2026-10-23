@@ -1,0 +1,28 @@
+# Alonzo
+
+Alonzo is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
+
+Alonzo is an electro and techno artist based in United States of America, with 9 gigs on soundcheck across Barcelona, Berlin, Bogotá and Ljubljana and 3 more. Often billed alongside F. Vinuesa, 1983 and Alice in Flames. Next up: TBA - Secret Loft Location, New York City on Fri 30 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 30 Oct 2026 | TBA - Secret Loft Location | New York City |
+
+## Recently played
+
+- Bossa Nova Civic Club, New York City · Thu, 10 Sept 2026
+- Bar Neun, Berlin · Fri, 14 Aug 2026
+- Jolt Radio, Miami · Sat, 27 Dec 2025
+- Channel Zero, Ljubljana · Fri, 25 Jul 2025
+- Morbo, Bogotá · Sat, 17 Aug 2024
+- 7833 Soundlab, Barcelona · Thu, 25 Jul 2024
+- Specka, Madrid · Sat, 20 Jul 2024
+- Bossa Nova Civic Club, New York City · Sun, 28 Apr 2024
+
+## Shares bills with
+
+F. Vinuesa, 1983, Alice in Flames
+
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonzo/)*

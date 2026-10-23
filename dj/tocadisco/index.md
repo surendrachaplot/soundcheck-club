@@ -1,14 +1,13 @@
 # Tocadisco
 
-Tocadisco is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+Tocadisco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
 
-Tocadisco is a techno and house artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside DJ Jordan, Teenage Mutants and A.N.I.. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
+Tocadisco is a techno and house artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside DJ Jordan, Teenage Mutants and A.N.I.. Next up: Ritter Butzke, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ruimte 59.61 | Amsterdam |
 | Fri, 6 Nov 2026 | Ritter Butzke | Berlin |
 
 ## Recently played

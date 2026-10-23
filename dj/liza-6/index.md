@@ -1,14 +1,13 @@
 # LIZA (6)
 
-LIZA (6) is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Blvck Water, Osaka on Fri, 23 Oct 2026.
+LIZA (6) is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
-LIZA is a techno and industrial artist based in Japan, with 35 gigs on soundcheck across Osaka. Often billed alongside FENGX2, ZAGUN and 死者蘇生CH. Next up: Blvck Water, Osaka on Fri 23 Oct.
+LIZA is a techno and industrial artist based in Japan, with 35 gigs on soundcheck across Osaka. Often billed alongside FENGX2, ZAGUN and 死者蘇生CH. Next up: Joule, Osaka on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Blvck Water | Osaka |
 | Sat, 14 Nov 2026 | Joule | Osaka |
 | Sat, 14 Nov 2026 | Triangle | Osaka |
 | Sat, 14 Nov 2026 | Blvck Water | Osaka |

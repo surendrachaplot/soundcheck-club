@@ -1,8 +1,8 @@
 # Zellers
 
-Zellers is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dance Cave, Toronto on Fri, 23 Oct 2026.
+Zellers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dance Cave, Toronto on Fri, 23 Oct 2026.
 
-Zellers is a techno and trance artist based in Canada, with 70 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Marnigurl, Jaw Jones and DJ RATA. Next up: Dance Cave, Toronto on Fri 23 Oct.
+Zellers is a techno and house artist based in Canada, with 71 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Marnigurl, Jaw Jones and DJ RATA. Next up: Dance Cave, Toronto on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Zellers is a techno and trance artist based in Canada, with 70 gigs on soundchec
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Dance Cave | Toronto |
 | Fri, 27 Nov 2026 | TBA - ADD-1570 DUNDAS | Toronto |
+| Sun, 3 Jan 2027 | TBA | Toronto |
 
 ## Recently played
 

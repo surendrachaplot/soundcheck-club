@@ -1,14 +1,13 @@
 # Leona
 
-Leona is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pawnshop, Taipei on Fri, 23 Oct 2026.
+Leona is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
 
-Leona is a techno and house artist, with 19 gigs on soundcheck across Berlin, Geneva, Lisbon and Nantes and 3 more. Often billed alongside Melting 99, Chima Isaaro and Elinnn. Next up: Pawnshop, Taipei on Fri 23 Oct.
+Leona is a techno and house artist, with 19 gigs on soundcheck across Berlin, Geneva, Lisbon and Nantes and 3 more. Often billed alongside Melting 99, Chima Isaaro and Elinnn. Next up: Renate, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Pawnshop | Taipei |
 | Sat, 28 Nov 2026 | Renate | Berlin |
 
 ## Recently played

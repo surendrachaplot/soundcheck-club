@@ -1,6 +1,6 @@
 # LIFE AFTER TRANCE at Mood Ring
 
-LIFE AFTER TRANCE at Mood Ring on Fri 23 Oct, New York City. 5 artists: Anna Eberg, Aster, CITYSPROBLEM and dj try (US) and 1 more. Trance and Techno. See the line-up on soundcheck.
+LIFE AFTER TRANCE at Mood Ring on Fri 23 Oct, New York City. 5 artists: Anna Eberg, Aster, CITYSPROBLEM and DJ Try (US) and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ LIFE AFTER TRANCE at Mood Ring on Fri 23 Oct, New York City. 5 artists: Anna Ebe
 - Anna Eberg
 - Aster
 - CITYSPROBLEM
-- dj try (US)
+- DJ Try (US)
 - FUSSY
 
 *Source: [soundcheck](https://soundcheck.club/e/2510952-life-after-trance-at-mood-ring/)*

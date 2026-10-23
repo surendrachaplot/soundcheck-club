@@ -1,15 +1,13 @@
 # Tsunamy
 
-Tsunamy is a Baile Funk and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Parallel, Amsterdam on Fri, 23 Oct 2026.
+Tsunamy is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Cause, London on Sat, 24 Oct 2026.
 
-Tsunamy is a baile funk and club artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Hey Bony, JVINCENT and Jarreau Vandal. Next up: Parallel, Amsterdam on Fri 23 Oct.
+Tsunamy is a baile funk and club artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Hey Bony, JVINCENT and Jarreau Vandal. Next up: The Cause, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Parallel | Amsterdam |
-| Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Sat, 24 Oct 2026 | The Cause | London |
 | Sat, 7 Nov 2026 | The Fox and Firkin | London |
 

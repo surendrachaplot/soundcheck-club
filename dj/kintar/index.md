@@ -2,7 +2,7 @@
 
 Kintar is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at BOO!, Athens on Sat, 24 Oct 2026.
 
-Kintar is an afro house and house artist, with 35 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 7 more. Often billed alongside Raise, BADBOX and DONAES. Next up: BOO!, Athens on Sat 24 Oct.
+Kintar is an afro house and house artist based in Spain, with 35 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 7 more. Often billed alongside Raise, BADBOX and DONAES. Next up: BOO!, Athens on Sat 24 Oct.
 
 ## Upcoming shows
 

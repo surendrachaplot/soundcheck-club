@@ -10,10 +10,10 @@ babyschön is a house and acid artist based in United Kingdom, with 93 gigs on s
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Doka | Amsterdam |
 | Sat, 31 Oct 2026 | The Carlton Club | Manchester |
-| Sat, 7 Nov 2026 | Night Tales Loft | London |
-| Sat, 14 Nov 2026 | Night Tales Loft | London |
-| Sat, 21 Nov 2026 | Night Tales Loft | London |
-| Sat, 28 Nov 2026 | Night Tales Loft | London |
+| Sat, 7 Nov 2026 | NT's Loft | London |
+| Sat, 14 Nov 2026 | NT's Loft | London |
+| Sat, 21 Nov 2026 | NT's Loft | London |
+| Sat, 28 Nov 2026 | NT's Loft | London |
 
 ## Recently played
 

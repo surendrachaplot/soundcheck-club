@@ -1,6 +1,6 @@
 # Sebastiaan Hooft
 
-Sebastiaan Hooft is a Minimal and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Sebastiaan Hooft is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside AFAR, Bi Män and Dana Ruh. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -8,7 +8,6 @@ Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, with 2
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Bears Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Bears Amsterdam | Amsterdam |
 | Sat, 7 Aug 2027 | Paradiso | Amsterdam |
 

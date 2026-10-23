@@ -1,6 +1,6 @@
 # Candyflip pres. HARDCORE CHRISTMAS at Lokschuppen Berlin
 
-Candyflip pres. HARDCORE CHRISTMAS at Lokschuppen Berlin on Sun 27 Dec, Berlin. 13 artists: Alliezz, DJ Henk, DJ Steuerhinterziehung and Dj Wifi and 9 more. Hardcore. See the line-up on soundcheck.
+Candyflip pres. HARDCORE CHRISTMAS at Lokschuppen Berlin on Sun 27 Dec, Berlin. 14 artists: Alliezz, DJ Henk, DJ Steuerhinterziehung and Dj Wifi and 10 more. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,6 +21,7 @@ Candyflip pres. HARDCORE CHRISTMAS at Lokschuppen Berlin on Sun 27 Dec, Berlin. 
 - m4tsch1
 - Marcie (2)
 - Megaira
+- MISSTAKEN
 - UV400
 - ZYNTAX
 

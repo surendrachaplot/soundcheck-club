@@ -1,14 +1,13 @@
 # Secret Cinema
 
-Secret Cinema is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
+Secret Cinema is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Gazebo, Stockholm on Sat, 31 Oct 2026.
 
-Secret Cinema is a techno and house artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Geneva and 9 more. Often billed alongside ABOUT SOFIYA, Olympe and Benny Rodrigues. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
+Secret Cinema is a techno and house artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Geneva and 9 more. Often billed alongside ABOUT SOFIYA, Olympe and Benny Rodrigues. Next up: Gazebo, Stockholm on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Sat, 31 Oct 2026 | Gazebo | Stockholm |
 | Sat, 28 Nov 2026 | Ruis Alkmaar | Amsterdam |
 | Sat, 5 Dec 2026 | TBA - Hacienda La Luna, Morelos Mexico. | Morelos |

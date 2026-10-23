@@ -1,14 +1,13 @@
 # DANDAN
 
-DANDAN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Traffic, Tokyo on Fri, 23 Oct 2026.
+DANDAN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sound space α, Kyushu on Sat, 7 Nov 2026.
 
-DANDAN is a techno and house artist based in Japan, with 92 gigs on soundcheck across Beijing, Berlin, Chengdu and Hong Kong and 9 more. Often billed alongside DANA NADA, TEI TEI and Kojiro. Next up: Traffic, Tokyo on Fri 23 Oct.
+DANDAN is a techno and house artist based in Japan, with 92 gigs on soundcheck across Beijing, Berlin, Chengdu and Hong Kong and 9 more. Often billed alongside DANA NADA, TEI TEI and Kojiro. Next up: Sound space α, Kyushu on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Traffic | Tokyo |
 | Sat, 7 Nov 2026 | Sound space α | Kyushu |
 | Fri, 25 Dec 2026 | VENT | Tokyo |
 

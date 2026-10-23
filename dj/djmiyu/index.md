@@ -1,14 +1,13 @@
 # DJ MIYU
 
-DJ MIYU is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 23 Oct 2026.
+DJ MIYU is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 7 Nov 2026.
 
-DJ MIYU is a drum & bass and bass artist based in Japan, with 30 gigs on soundcheck across Melbourne and Tokyo. Often billed alongside ReFuCafé, SN_Yeah and yuitty. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 23 Oct.
+DJ MIYU is a drum & bass and bass artist based in Japan, with 30 gigs on soundcheck across Melbourne and Tokyo. Often billed alongside ReFuCafé, SN_Yeah and yuitty. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sat, 7 Nov 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played

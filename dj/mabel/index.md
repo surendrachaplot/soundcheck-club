@@ -1,14 +1,13 @@
 # Mabel
 
-Mabel is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 23 Oct 2026.
+Mabel is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Collingwood Basement, Melbourne on Sat, 24 Oct 2026.
 
-Mabel is a techno and house artist based in Australia, with 121 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 23 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: Angel Music Bar, Melbourne on Fri 23 Oct.
+Mabel is a techno and house artist based in Australia, with 121 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 23 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: Collingwood Basement, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Angel Music Bar | Melbourne |
 | Sat, 24 Oct 2026 | Collingwood Basement | Melbourne |
 | Sat, 31 Oct 2026 | Haven | Byron-bay |
 | Fri, 6 Nov 2026 | TBA | Victoria |

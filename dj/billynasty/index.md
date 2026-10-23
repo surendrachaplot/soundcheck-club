@@ -1,14 +1,13 @@
 # Billy Nasty
 
-Billy Nasty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Billy Nasty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at McChuills Music Bar, Glasgow on Sat, 31 Oct 2026.
 
-Billy Nasty is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 5 more. Often billed alongside Charles Green, Lino Fuso and ADRIANNA. Next up: RADION, Amsterdam on Fri 23 Oct.
+Billy Nasty is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 5 more. Often billed alongside Charles Green, Lino Fuso and ADRIANNA. Next up: McChuills Music Bar, Glasgow on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Sat, 31 Oct 2026 | McChuills Music Bar | Glasgow |
 
 ## Recently played

@@ -9,7 +9,7 @@ Viuz is a music venue in Medellin listed on soundcheck. 3 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | TESTING ROOM Showcase | Andres Gil, Nook, Sean Random |
-| Sat, 24 Oct 2026 | EUFONÍ Residency: Gux Jimenez | Gux Jimenez, Juan Pablo Torrez |
+| Sat, 24 Oct 2026 | EUFONÍA Residency: Gux Jimenez | Gux Jimenez, Juan Pablo Torrez |
 | Sun, 25 Oct 2026 | Tech House · Minimal/Deep Tech | Shakur, Valentina (US) |
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/viuz/)*

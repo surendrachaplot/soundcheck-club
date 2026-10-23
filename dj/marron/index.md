@@ -10,7 +10,7 @@ MARRØN is a techno and house artist based in Netherlands, with 308 gigs on soun
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | De Fik Garden | Amsterdam |
-| Sun, 25 Oct 2026 | TBA - Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 | Kazerne Reigersbos | Amsterdam |
 | Fri, 30 Oct 2026 | Sub Club | Glasgow |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | DURO | Milan |

@@ -12,7 +12,7 @@ Nirvan is a house and minimal artist based in Belgium, with 29 gigs on soundchec
 
 ## Recently played
 
-- Cooc, London · Sat, 10 Oct 2026
+- Plaza Camden, London · Sat, 10 Oct 2026
 - Undr W10, London · Sat, 3 Oct 2026
 - Nocturna, Ibiza · Thu, 17 Sept 2026
 - LA-YAM Rooftop, London · Sat, 22 Aug 2026

@@ -1,14 +1,13 @@
 # Benny2
 
-Benny2 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oberhaum, Amsterdam on Fri, 23 Oct 2026.
+Benny2 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lofi, Amsterdam on Sun, 29 Nov 2026.
 
-Benny2 is a house and techno artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Jan Koster, SAIDAH and Tsepo. Next up: Oberhaum, Amsterdam on Fri 23 Oct.
+Benny2 is a house and techno artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Jan Koster, SAIDAH and Tsepo. Next up: Lofi, Amsterdam on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Oberhaum | Amsterdam |
 | Sun, 29 Nov 2026 | Lofi | Amsterdam |
 
 ## Recently played

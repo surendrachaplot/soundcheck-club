@@ -1,14 +1,13 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Alan Fitzpatrick is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 50:Hertz House & Techno Cafe Rembrandt Square, Amsterdam on Sat, 24 Oct 2026.
 
-Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 42 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: RADION, Amsterdam on Fri 23 Oct.
+Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 42 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: 50:Hertz House & Techno Cafe Rembrandt Square, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Sat, 24 Oct 2026 | 50:Hertz House & Techno Cafe Rembrandt Square | Amsterdam |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 | Fri, 6 Nov 2026 | One77 Brooklyn | New York City |

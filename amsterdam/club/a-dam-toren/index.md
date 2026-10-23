@@ -8,7 +8,7 @@ A'DAM Toren is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | A'DAM Toren ADE 2026 | Ajuma, Aline Rocha, Anil Aras, CHEWCHEW, Carl Craig, Cinthie, DJ Holographic, DJ Tennis, Dan Shake, David Penn, Demi Riquisimo, Dusky, Easttown, Ella Knight, Elliot Schooling, Emma 2000, Ferreck Dawn, Franky Rizardo, Hot Since 82, Hunee, Ian Pooley, Idriss D, Isaac Carter, Jamie Fielding, Job de Jong, Joëlla Jackson, Julian Anthony, Kamma, Kevin Saunderson, Kitty Amor, Kyle Hall, Laidlaw, Liam Palmer, Locklead, Low Steppa, Marsolo, Masalo, Mason Collective, Matthew Dear, Mousse T., Obskur, Omar+, ROOG, Retromigration, Ryan Elliott, Sedef Adasï, Stella Zekri, Suze Ijó, Truly Madly, bullet tooth |
+| Wed, 21 Oct 2026 | A'DAM Toren ADE 2026 | Ajuma, Aline Rocha, Anil Aras, CHEWCHEW, Carl Craig, Cinthie, DJ Holographic, DJ Tennis, Damian Lazarus, Dan Shake, David Penn, Demi Riquisimo, Dusky, Easttown, Ella Knight, Elliot Schooling, Emma 2000, Ferreck Dawn, Fka Mash, Franky Rizardo, Hot Since 82, Hunee, Ian Pooley, Idriss D, Isaac Carter, Jamie Fielding, Job de Jong, Joëlla Jackson, Julian Anthony, Kamma, Kevin Saunderson, Kitty Amor, Kyle Hall, Laidlaw, Liam Palmer, Locklead, Low Steppa, Marsolo, Masalo, Mason Collective, Matthew Dear, Mousse T., Obskur, Omar+, ROOG, Retromigration, Ryan Elliott, Sedef Adasï, Seth Troxler, Stella Zekri, Suze Ijó, Truly Madly, bullet tooth, meera |
 
 ## Address
 

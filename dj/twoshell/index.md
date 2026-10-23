@@ -1,14 +1,13 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Fri, 23 Oct 2026.
+Two Shell is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at New Century Locker, Manchester on Fri, 6 Nov 2026.
 
-Two Shell is a techno and experimental artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Het Rijk van de Keizer, Amsterdam on Fri 23 Oct.
+Two Shell is a techno and experimental artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: New Century Locker, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Fri, 6 Nov 2026 | New Century Locker | Manchester |
 | Sat, 7 Nov 2026 | Outernet Live | London |
 | Fri, 13 Nov 2026 | Belgrave Music Hall | Leeds |

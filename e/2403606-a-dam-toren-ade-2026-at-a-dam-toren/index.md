@@ -1,6 +1,6 @@
 # A'DAM Toren ADE 2026 at A'DAM Toren
 
-A'DAM Toren ADE 2026 on Wed 21 Oct, Amsterdam. 50 artists: Ajuma, Aline Rocha, Anil Aras and bullet tooth and 46 more. House. See the line-up on soundcheck.
+A'DAM Toren ADE 2026 on Wed 21 Oct, Amsterdam. 54 artists: Ajuma, Aline Rocha, Anil Aras and bullet tooth and 50 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ A'DAM Toren ADE 2026 on Wed 21 Oct, Amsterdam. 50 artists: Ajuma, Aline Rocha, A
 - Carl Craig
 - CHEWCHEW
 - Cinthie
+- Damian Lazarus
 - Dan Shake
 - David Penn
 - Demi Riquisimo
@@ -28,6 +29,7 @@ A'DAM Toren ADE 2026 on Wed 21 Oct, Amsterdam. 50 artists: Ajuma, Aline Rocha, A
 - Elliot Schooling
 - Emma 2000
 - Ferreck Dawn
+- Fka Mash
 - Franky Rizardo
 - Hot Since 82
 - Hunee
@@ -50,6 +52,7 @@ A'DAM Toren ADE 2026 on Wed 21 Oct, Amsterdam. 50 artists: Ajuma, Aline Rocha, A
 - Masalo
 - Mason Collective
 - Matthew Dear
+- meera
 - Mousse T.
 - Obskur
 - Omar+
@@ -57,6 +60,7 @@ A'DAM Toren ADE 2026 on Wed 21 Oct, Amsterdam. 50 artists: Ajuma, Aline Rocha, A
 - ROOG
 - Ryan Elliott
 - Sedef Adasï
+- Seth Troxler
 - Stella Zekri
 - Suze Ijó
 - Truly Madly

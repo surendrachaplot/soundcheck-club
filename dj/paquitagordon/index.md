@@ -1,6 +1,6 @@
 # Paquita Gordon
 
-Paquita Gordon is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
+Paquita Gordon is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
 
 Paquita Gordon is a techno and house artist based in Italy, with 142 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside BASHKKA, Francesco Del Garda and Marco Shuttle. Next up: Lofi, Amsterdam on Fri 23 Oct.
 
@@ -8,7 +8,6 @@ Paquita Gordon is a techno and house artist based in Italy, with 142 gigs on sou
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Sun, 25 Oct 2026 | Lofi | Amsterdam |
 | Fri, 30 Oct 2026 | 1520 | Manchester |

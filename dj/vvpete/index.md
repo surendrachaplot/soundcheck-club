@@ -1,14 +1,13 @@
 # Vv Pete
 
-Vv Pete is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
+Vv Pete is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 24 Oct 2026.
 
-Vv Pete is a house and club artist based in Australia, with 31 gigs on soundcheck across Amsterdam, Berlin, Brussels and Glasgow and 6 more. Often billed alongside UTILITY, Brodinski and DJ PGZ. Next up: La Station - Gare des Mines, Paris on Fri 23 Oct.
+Vv Pete is a house and club artist based in Australia, with 31 gigs on soundcheck across Amsterdam, Berlin, Brussels and Glasgow and 6 more. Often billed alongside UTILITY, Brodinski and DJ PGZ. Next up: Garage Noord, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 24 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
 | Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |

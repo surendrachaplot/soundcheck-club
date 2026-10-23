@@ -1,6 +1,6 @@
 # superhowting X Round2: Reality [HTD006] Release Party at Comeout Rider Station
 
-superhowting X Round2: Reality [HTD006] Release Party at Comeout Rider Station on Fri 6 Nov, Chongqing. 3 artists: Justfin, Stelios Vassiloudis and Yang Bing. Techno and House. See the line-up on soundcheck.
+superhowting X Round2: Reality [HTD006] Release Party at Comeout Rider Station on Fri 6 Nov, Chongqing. 4 artists: EeechooO, Justfin, Stelios Vassiloudis and Yang Bing. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ superhowting X Round2: Reality [HTD006] Release Party at Comeout Rider Station o
 
 ## Line-up
 
+- EeechooO
 - Justfin
 - Stelios Vassiloudis
 - Yang Bing

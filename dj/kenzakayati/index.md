@@ -1,14 +1,13 @@
 # KENZA KAYATI
 
-KENZA KAYATI is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
+KENZA KAYATI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
 
-KENZA KAYATI is a house and techno artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Dubai and Malaga and 3 more. Often billed alongside Ede, John Bowtie and Paul Svenson. Next up: Club Baggerbeest, Amsterdam on Fri 23 Oct.
+KENZA KAYATI is a house and techno artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Dubai and Malaga and 3 more. Often billed alongside Ede, John Bowtie and Paul Svenson. Next up: Ritter Butzke, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Club Baggerbeest | Amsterdam |
 | Sat, 24 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 24 Oct 2026 | Kaap Amsterdam | Amsterdam |
 

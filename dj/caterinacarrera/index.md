@@ -1,14 +1,13 @@
 # Caterina Carrera
 
-Caterina Carrera is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+Caterina Carrera is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sensorium, Berlin on Sun, 15 Nov 2026.
 
-Caterina Carrera is a techno and tech house artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Berlin and Rome. Often billed alongside Asymptote, Baptist and Dexon. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
+Caterina Carrera is a techno and tech house artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Berlin and Rome. Often billed alongside Asymptote, Baptist and Dexon. Next up: Sensorium, Berlin on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ruimte 59.61 | Amsterdam |
 | Sun, 15 Nov 2026 | Sensorium | Berlin |
 
 ## Recently played

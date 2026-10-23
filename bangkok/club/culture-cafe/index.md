@@ -1,14 +1,13 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 39 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew" on Fri, 23 Oct 2026.
+Culture Cafe is a music venue in Bangkok with 38 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Krit Morton Invites Bangkok vinyl junkie presents; 6 hours of his solo vinyl set" on Sat, 24 Oct 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 39 upcoming gigs, with line-ups including Damon Rider, DJ Krit Morton, DJ Mandol and djmoca and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 38 upcoming gigs, with line-ups including Damon Rider, DJ Krit Morton, DJ Mandol and djmoca and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew | MOODYBOOM |
 | Sat, 24 Oct 2026 | Krit Morton Invites Bangkok vinyl junkie presents; 6 hours of his solo vinyl set | DJ Krit Morton |
 | Sun, 25 Oct 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 26 Oct 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
@@ -18,6 +17,7 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 39 upcoming gigs,
 | Fri, 30 Oct 2026 | DARK GROOVE ADDICT Vinyl Set presents: Haunted Deep hypnotic Techno Halloween | Kanabis Stoned, djmoca |
 | Sat, 31 Oct 2026 | Groove Thailand presents; Haunted Minimalhouse–Techno Halloween with TheVinylCasanova; plazadj | plazdj |
 | Sun, 1 Nov 2026 | FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star | Krit Su |
+| Mon, 2 Nov 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 
 ## Address
 

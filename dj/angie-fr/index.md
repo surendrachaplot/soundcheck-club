@@ -1,14 +1,15 @@
 # Angie (FR)
 
-Angie (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
+Angie (FR) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
 
-Angie (FR) is a techno and trance artist based in France, with 43 gigs on soundcheck across Amsterdam, Athens, Cologne and Cyprus and 4 more. Often billed alongside In-Tan, Alpha Tracks and Christie. Next up: Ijver, Amsterdam on Sat 24 Oct.
+Angie (FR) is a techno and trance artist based in France, with 44 gigs on soundcheck across Amsterdam, Athens, Cologne and Cyprus and 5 more. Often billed alongside In-Tan, Alpha Tracks and Christie. Next up: Ijver, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Ijver | Amsterdam |
+| Fri, 30 Oct 2026 | Brixton Radio | London |
 
 ## Recently played
 

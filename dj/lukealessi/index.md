@@ -1,16 +1,15 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
+Luke Alessi is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
 
-Luke Alessi is a house and techno artist based in Australia, with 129 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 43 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: BRET, Amsterdam on Fri 23 Oct.
+Luke Alessi is a house and techno artist based in Australia, with 129 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 43 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
-| Fri, 30 Oct 2026 | Night Tales Loft | London |
+| Fri, 30 Oct 2026 | NT's Loft | London |
 | Sat, 7 Nov 2026 | Armazem Solon | Sao-paulo |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | 3oz Dive Club | San Diego |

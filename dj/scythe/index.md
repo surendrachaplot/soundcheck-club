@@ -1,14 +1,13 @@
 # Scythe
 
-Scythe is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
+Scythe is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Liquid Club, Malta on Fri, 30 Oct 2026.
 
-Scythe is a techno and trance artist based in Malta, with 47 gigs on soundcheck across Berlin, Budapest, Liverpool and London and 2 more. Often billed alongside INVERTED (MT), NATURA2K and SUNTA. Next up: TBA, Sydney on Fri 23 Oct.
+Scythe is a techno and trance artist based in Malta, with 47 gigs on soundcheck across Berlin, Budapest, Liverpool and London and 2 more. Often billed alongside INVERTED (MT), NATURA2K and SUNTA. Next up: Liquid Club, Malta on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA | Sydney |
 | Fri, 30 Oct 2026 | Liquid Club | Malta |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Wed, 30 Dec 2026 | TBA | Sydney |

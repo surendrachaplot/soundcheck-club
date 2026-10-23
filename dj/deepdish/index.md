@@ -1,14 +1,13 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Deep Dish is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oceandiva Original, Netherlands on Sat, 24 Oct 2026.
 
-Deep Dish is a house and progressive house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Dubfire, Sharam and Khen. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
+Deep Dish is a house and progressive house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Dubfire, Sharam and Khen. Next up: Oceandiva Original, Netherlands on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Oceandiva Original | Netherlands |
 | Sun, 25 Oct 2026 | Pygmalion | Dublin |
 | Sat, 5 Dec 2026 | It'll Do | Dallas-fort-worth |

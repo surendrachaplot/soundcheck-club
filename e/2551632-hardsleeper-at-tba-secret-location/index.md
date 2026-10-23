@@ -1,6 +1,6 @@
 # HardSleeper - 硬卧 at TBA - Secret Location
 
-HardSleeper - 硬卧 at TBA - Secret Location on Fri 6 Nov, Berlin. 6 artists: Bildgewalt, DotDash, FOKUS (Live) and INVERNO and 2 more. Techno. See the line-up on soundcheck.
+HardSleeper - 硬卧 at TBA - Secret Location on Fri 6 Nov, Berlin. 4 artists: DotDash, INVERNO, Mithril and nixmoon. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,7 @@ HardSleeper - 硬卧 at TBA - Secret Location on Fri 6 Nov, Berlin. 6 artists: B
 
 ## Line-up
 
-- Bildgewalt
 - DotDash
-- FOKUS (Live)
 - INVERNO
 - Mithril
 - nixmoon

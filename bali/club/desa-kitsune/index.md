@@ -1,14 +1,13 @@
 # Desa Kitsune
 
-Desa Kitsune is a music venue in Bali with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DK FRIDAY" on Fri, 23 Oct 2026.
+Desa Kitsune is a music venue in Bali with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "HALLOWEEN DISKO AFRIKA" on Sat, 31 Oct 2026.
 
-Desa Kitsune is a music venue in Bali listed on soundcheck. 8 upcoming gigs, with line-ups including Baron, Benja, Carl Cox and Cedrik and 2 more. See dates, start times and who's playing.
+Desa Kitsune is a music venue in Bali listed on soundcheck. 7 upcoming gigs, with line-ups including Baron, Benja, Carl Cox and Franc Fala and 1 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | DK FRIDAY | Cedrik |
 | Sat, 31 Oct 2026 | HALLOWEEN DISKO AFRIKA |  |
 | Tue, 3 Nov 2026 | JORDAN JOHN | Jordan John |
 | Tue, 3 Nov 2026 | Jordan John | Jordan John |

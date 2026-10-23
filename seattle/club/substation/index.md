@@ -1,8 +1,8 @@
 # Substation
 
-Substation is a music venue in Seattle with 19 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Sickick" on Fri, 23 Oct 2026.
+Substation is a music venue in Seattle with 20 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Sickick" on Fri, 23 Oct 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 19 upcoming gigs, with line-ups including AEREA, Austin R, Buunshin and Josh Baker and 2 more. See dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 20 upcoming gigs, with line-ups including AEREA, Austin R, Buunshin and Josh Baker and 2 more. See dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 

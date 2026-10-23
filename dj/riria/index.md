@@ -1,14 +1,13 @@
 # RIRIA
 
-RIRIA is a Bass and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Fri, 23 Oct 2026.
+RIRIA is a Bass and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at GASHOUDER, Amsterdam on Sat, 24 Oct 2026.
 
-RIRIA is a bass and techno artist based in Japan, with 108 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 43 more. Often billed alongside Diffrent, Yung Singh and ryota dj. Next up: Het Rijk van de Keizer, Amsterdam on Fri 23 Oct.
+RIRIA is a bass and techno artist based in Japan, with 108 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 43 more. Often billed alongside Diffrent, Yung Singh and ryota dj. Next up: GASHOUDER, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 | Sat, 24 Oct 2026 | PRE-Reserved | Netherlands |
 | Sat, 31 Oct 2026 | Brussels Gate | Brussels |

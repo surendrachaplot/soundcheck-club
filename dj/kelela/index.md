@@ -1,14 +1,13 @@
 # Kelela
 
-Kelela is a R&B and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at La Paloma, Barcelona on Fri, 23 Oct 2026.
+Kelela is a R&B and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at National Concert Hall, Dublin on Sat, 24 Oct 2026.
 
-Kelela is a r&b and electronica artist based in United States of America, with 20 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 14 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: La Paloma, Barcelona on Fri 23 Oct.
+Kelela is a r&b and electronica artist based in United States of America, with 20 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 14 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: National Concert Hall, Dublin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | La Paloma | Barcelona |
 | Sat, 24 Oct 2026 | National Concert Hall | Dublin |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 | Thu, 29 Oct 2026 | Huxley's Neue Welt | Berlin |

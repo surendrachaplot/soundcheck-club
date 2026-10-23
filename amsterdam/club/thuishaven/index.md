@@ -1,14 +1,13 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "23 OCT - Friday Day with salute / Diffrent & Bella Claxton" on Fri, 23 Oct 2026.
+Thuishaven is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "23 OCT - Friday Night with Daria Kolosova invites" on Fri, 23 Oct 2026.
 
-Thuishaven is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including 2HOT2PLAY, Kepler, NYRA (DE) and AAT (NL) and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
+Thuishaven is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including 2HOT2PLAY, Kepler, NYRA (DE) and AAT (NL) and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | 23 OCT - Friday Day with salute / Diffrent & Bella Claxton | Bella Claxton, Call Super, Deborah Aime La Bagarre, Diffrent, Emma B, Faster Horses, LILLI & 4LOVE, Mike Momburg, NewTone, OLIVIA LENSEN, Sophia Violet, Special Request, Strath, salute |
 | Fri, 23 Oct 2026 | 23 OCT - Friday Night with Daria Kolosova invites | Alec Dienaar, Daria Kolosova, Rozie, Supergloss, Tommy Holohan |
 | Sat, 24 Oct 2026 | 24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT | AAT (NL), Anil Aras, Archie Hamilton, Ben Diggins, Benny Rodrigues, Burnski, Cromby, DJ Tennis, Dennis Quin, Kepler, LORI (NL), LYLO (NL), Litmus, M-High, Mathias Kaden, Matisa, Michel de Hey, Mike The Connector, Norman Weber, Papa Nugs, Philou Louzolo, Prunk, Riva Starr, Rooléh, Sebastian Konrad, Shakèd, Tiago Oudman |
 | Sat, 24 Oct 2026 | 24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam | Jamback, Jhobei, Laura De Greef, Marlie, Michel de Hey, Raresh |
@@ -18,6 +17,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs,
 | Sat, 14 Nov 2026 | JOY Autumn Festival | Cici Daze, Easttown, Hidde van Wee, Lewis Taylor, Paisley Jensen, Prunk, RUZE, Sidney Charles, Tommy Phillips |
 | Sun, 15 Nov 2026 | 15 NOV - Thuishaven with Cynthia Spiering / Sam Hofman / 2HOT2PLAY | 2HOT2PLAY, Clouds, Cynthia Spiering, Eva Vrijdag, Hurts, Sam Hofman, THISO |
 | Sun, 22 Nov 2026 | 22 NOV - Thuishaven with X CLUB. / DART / NewTone / Freddi | DART, Elotrance, Freddi, Jordan George, JÄMO, NewTone, OLIVIA LENSEN, Olive Anguz, S3PPA, STÜM, Schwesta P, Sophia Violet, X CLUB. |
+| Sat, 28 Nov 2026 | 28 NOV - Thuishaven with Jeff Mills / ROD / BLANKA | Abstract Division, BLANKA, ETERNAL JOE, Huey Mnemonic, Jasmín, Jeff Mills, Laure Croft, ROD |
 
 ## Address
 

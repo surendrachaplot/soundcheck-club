@@ -9,7 +9,7 @@ Madam is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Madam invites: Kitty Amor curates | Damian Lazarus, Fka Mash, Kitty Amor, meera |
-| Sat, 24 Oct 2026 | Madam invites: Detroit Love | Carl Craig, Idriss D, Kyle Hall, Matthew Dear |
+| Sat, 24 Oct 2026 | Madam invites: Detroit Love | Carl Craig, Idriss D, Kyle Hall, Matthew Dear, Seth Troxler |
 | Sun, 25 Oct 2026 | Madam invites: Detroit Love | Carl Craig, DJ Holographic, Kevin Saunderson |
 | Sun, 25 Oct 2026 | Madam invites: MVSON | Easttown, Joëlla Jackson, Mason Collective |
 | Fri, 30 Oct 2026 | Madam by Night invites: Rooftop Tapes x BoatRiders | FR3ADY, IMEN |

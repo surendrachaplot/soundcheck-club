@@ -16,7 +16,7 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 13 upcoming gigs, wi
 | Fri, 6 Nov 2026 | FREE PARTY – HiToshi, DJ Aleksi, Hanna Ojanen | DJ Aleksi, Hanna Ojanen, HiToshi |
 | Fri, 13 Nov 2026 | DEFRAGGED invites: ⁠Kameliia, undrtow, Ozan, Tatu, ⁠⁠Idamine | Kameliia, Ozan, Tatu, undrtow |
 | Sat, 14 Nov 2026 | ZDBT & Syd Woz, Denzel & Joni DJ | Denzel, Joni DJ, Syd Woz, ZDBT |
-| Fri, 20 Nov 2026 | BIG SEXXY BASS | Introspekt, KOFU, Ojelma, Saint Nia, ZEZE |
+| Fri, 20 Nov 2026 | BIG SEXXY BASS – The Club Kid Edition | Introspekt, KOFU, Ojelma, Saint Nia, ZEZE |
 | Sat, 21 Nov 2026 | XDB, Daniel Kayrouz, Justus Valtanen & more | Daniel Kayrouz, Denzel, Joni DJ, Justus Valtanen, XDB |
 
 ## Address

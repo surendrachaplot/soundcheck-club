@@ -2,7 +2,7 @@
 
 Bulbul Berlin is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Groovity Berlin: Andrew Xas, Ivan Le Mutant, Mia Bergmann, MAIROS" on Fri, 23 Oct 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including Andrew Xas, Ashbeat, batmanka and Club Jerome and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including Andrew Xas, Ashbeat, ATTA (GER) and batmanka and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
@@ -11,12 +11,12 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 17 upcoming gigs,
 | Fri, 23 Oct 2026 | Groovity Berlin: Andrew Xas, Ivan Le Mutant, Mia Bergmann, MAIROS | Andrew Xas, MAIROS, Mia Bergmann |
 | Sat, 24 Oct 2026 | HOUSE LOVERS: HATT.D, DJ Glitterelli, batmanka, van Kay | DJ Glitterelli, batmanka, van Kay |
 | Thu, 29 Oct 2026 | XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire | Immy, Mx. Blaire, Panooc |
-| Fri, 30 Oct 2026 | Fridaze |  |
-| Sat, 31 Oct 2026 | Saturdaze |  |
+| Fri, 30 Oct 2026 | #MOVEYOURBODY: critical P, Jambel b2b 6ton, Better Call Paul b2b Dicso_Muzek & More | Better Call Paul, Dicso_Muzek, Jambel, critical P |
+| Sat, 31 Oct 2026 | HOUSE OF BULBUL: Rik Laren b2b Drip Curl, Shveba, MMAO & More | MMAO, Rik Laren, Shveba |
 | Thu, 5 Nov 2026 | FRESH FACES |  |
 | Fri, 6 Nov 2026 | KTV & Friends: ALINUSH, Vasile, Gaß b2b Hubz | Hubz, Vasile |
 | Sat, 7 Nov 2026 | Absynth X Rotes Rauschen: Malte Scheibe b2b Pepi Soljanka, gio b2b truuufaith, melascha & More | Pepi Soljanka, Supergross, Walodja, melascha, truuufaith |
-| Thu, 12 Nov 2026 | Thursdaze |  |
+| Thu, 12 Nov 2026 | Rouge 909: ATTA, JOJO, Maksim | ATTA (GER) |
 | Fri, 13 Nov 2026 | Certain Circles: Thalo Santana, Kim Palm, Delvyn Delvyn (fka Porter), Leo Beddermann | KimPalm, Porter, Thalo Santana |
 
 ## Address

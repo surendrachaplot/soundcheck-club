@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "BASS DROP" on Fri, 23 Oct 2026.
+R Lounge is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "PSY LIFE" on Sat, 24 Oct 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including 063N13, 雷庵(RYan), akii and Aliceyuki and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including 063N13, 雷庵(RYan), akii and Aliceyuki and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | BASS DROP | ASSIGN |
 | Sat, 24 Oct 2026 | PSY LIFE | PONTA |
 | Sun, 25 Oct 2026 | UMB 2026 東京予選 |  |
 | Thu, 29 Oct 2026 | H.O.F | Naoki Ikawa, roomquake |
@@ -18,6 +17,7 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with 
 | Fri, 6 Nov 2026 | STEPP UPP | 063N13, MileZ, NIGELTHREETIMES, Samo |
 | Sat, 7 Nov 2026 | Snitch -The Festival- | Cylon, IRY (1), Kato, PONTA, WATARU |
 | Sun, 8 Nov 2026 | terrordome Vol.55 | Kanon (2), MIDI War |
+| Fri, 13 Nov 2026 | Attempt | Ayana Pattra, CHIC, Gonno, MOTOKA, SIGNAL (JP), ki (43), 雷庵(RYan) |
 
 ## Address
 

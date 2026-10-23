@@ -1,14 +1,13 @@
 # Marvin Aloys
 
-Marvin Aloys is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
+Marvin Aloys is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
 
-Marvin Aloys is a house and tech house artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Cologne and 2 more. Often billed alongside Alice DiMar, Static Bloom (DE) and YEPIK. Next up: Nido Cocktailbar, Amsterdam on Fri 23 Oct.
+Marvin Aloys is a house and tech house artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Cologne and 2 more. Often billed alongside Alice DiMar, Static Bloom (DE) and YEPIK. Next up: Jimmy Woo, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Nido Cocktailbar | Amsterdam |
 | Fri, 23 Oct 2026 | Jimmy Woo | Amsterdam |
 | Fri, 23 Oct 2026 | The Hoxton Amsterdam | Amsterdam |
 

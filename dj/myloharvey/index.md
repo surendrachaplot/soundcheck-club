@@ -9,8 +9,8 @@ Mylo Harvey is a house and disco artist based in United Kingdom, with 24 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Amber's | Manchester |
-| Tue, 27 Oct 2026 | Night Tales Loft | London |
-| Thu, 29 Oct 2026 | Night Tales Loft | London |
+| Tue, 27 Oct 2026 | NT's Loft | London |
+| Thu, 29 Oct 2026 | NT's Loft | London |
 | Sat, 14 Nov 2026 | Mssng Pieces | Nottingham |
 | Fri, 11 Dec 2026 | Colour Factory | London |
 

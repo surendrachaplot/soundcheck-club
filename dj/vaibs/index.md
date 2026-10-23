@@ -1,14 +1,13 @@
 # VAIBS
 
-VAIBS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Exit Reality, Singapore on Fri, 23 Oct 2026.
+VAIBS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Exit Reality, Singapore on Fri, 13 Nov 2026.
 
-VAIBS is a techno and house artist based in Singapore, with 97 gigs on soundcheck across Bali, Bangkok, Hanoi and Kuala Lumpur and 2 more. Often billed alongside DEZ (SG), sho&tell and 3MZY. Next up: Exit Reality, Singapore on Fri 23 Oct.
+VAIBS is a techno and house artist based in Singapore, with 97 gigs on soundcheck across Bali, Bangkok, Hanoi and Kuala Lumpur and 2 more. Often billed alongside DEZ (SG), sho&tell and 3MZY. Next up: Exit Reality, Singapore on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Exit Reality | Singapore |
 | Fri, 13 Nov 2026 | Exit Reality | Singapore |
 
 ## Recently played

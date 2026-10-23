@@ -1,6 +1,6 @@
 # Elements Cave at Sigma
 
-Elements Cave at Sigma on Sun 25 Oct, Ibiza. 5 artists: BELTZ, JRG, Nixy and Pulpix and 1 more. Techno. See the line-up on soundcheck.
+Elements Cave at Sigma on Sun 25 Oct, Ibiza. 5 artists: Beltz, JRG, Nixy and Pulpix and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Elements Cave at Sigma on Sun 25 Oct, Ibiza. 5 artists: BELTZ, JRG, Nixy and Pul
 
 ## Line-up
 
-- BELTZ
+- Beltz
 - JRG
 - Nixy
 - Pulpix

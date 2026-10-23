@@ -1,14 +1,15 @@
 # kichererbsenstampf
 
-kichererbsenstampf is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
+kichererbsenstampf is a Trance and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
 
-kichererbsenstampf is a trance and techno artist based in Germany, with 52 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 6 more. Often billed alongside VLUNA, CARGO (DE) and Carotin. Next up: ÆDEN, Berlin on Sat 24 Oct.
+kichererbsenstampf is a trance and techno artist based in Germany, with 53 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 6 more. Often billed alongside VLUNA, CARGO (DE) and Carotin. Next up: ÆDEN, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | ÆDEN | Berlin |
+| Fri, 30 Oct 2026 | Odonien | Cologne |
 | Fri, 6 Nov 2026 | Tranzit | Hamburg |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 28 Nov 2026 | Amp | Münster |

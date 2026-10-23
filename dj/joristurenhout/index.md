@@ -1,14 +1,13 @@
 # Joris Turenhout
 
-Joris Turenhout is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Up, Amsterdam on Fri, 23 Oct 2026.
+Joris Turenhout is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Joris Turenhout is a techno and tech house artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 20 more. Often billed alongside Albin Brezlan, David Maters and Azzurro. Next up: Club Up, Amsterdam on Fri 23 Oct.
+Joris Turenhout is a techno and tech house artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 20 more. Often billed alongside Albin Brezlan, David Maters and Azzurro. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Club Up | Amsterdam |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - EIVISSA | Amsterdam |

@@ -1,14 +1,13 @@
 # Special Request
 
-Special Request is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Special Request is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Special Request is a techno and house artist based in United Kingdom, with 179 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 54 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
+Special Request is a techno and house artist based in United Kingdom, with 179 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 54 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | block. | Dublin |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |

@@ -1,8 +1,8 @@
-# TBA - IYKYK 
+# TBA - IYKYK
 
-TBA - IYKYK  is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Stupid Session 21 - 140 and Then Some" on Sat, 24 Oct 2026.
+TBA - IYKYK is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Stupid Session 21 - 140 and Then Some" on Sat, 24 Oct 2026.
 
-TBA - IYKYK  is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Force Placement. See dates, start times and who's playing.
+TBA - IYKYK is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Force Placement. See dates, start times and who's playing.
 
 ## What's on
 

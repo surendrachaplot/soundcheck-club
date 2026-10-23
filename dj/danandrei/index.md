@@ -1,14 +1,15 @@
 # Dan Andrei
 
-Dan Andrei is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 23 Oct 2026.
+Dan Andrei is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 23 Oct 2026.
 
-Dan Andrei is a house and minimal artist based in Romania, with 122 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 31 more. Often billed alongside Cap, Rhadoo and Sonja Moonear. Next up: Club Guesthouse, Bucharest on Fri 23 Oct.
+Dan Andrei is a minimal and house artist based in Romania, with 123 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 32 more. Often billed alongside Cap, Rhadoo and Sonja Moonear. Next up: Club Guesthouse, Bucharest on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Club Guesthouse | Bucharest |
+| Sat, 21 Nov 2026 | Eiger Studios | Leeds |
 
 ## Recently played
 

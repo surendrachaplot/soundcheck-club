@@ -1,14 +1,13 @@
 # Ijver
 
-Ijver is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Kompakt ADE" on Fri, 23 Oct 2026.
+Ijver is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "De Binnenstad x Sam Hofman Invites" on Fri, 23 Oct 2026.
 
-Ijver is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Angie (FR), ANNASNEL, Anz and Baron Von Trax and 2 more. See dates, start times and who's playing. Scheepsbouwkade 72, 1033 WM Amsterdam.
+Ijver is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Angie (FR), ANNASNEL, Anz and Baron Von Trax and 2 more. See dates, start times and who's playing. Scheepsbouwkade 72, 1033 WM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Kompakt ADE | Extrawelt, Michael Mayer, Robag Wruhme |
 | Fri, 23 Oct 2026 | De Binnenstad x Sam Hofman Invites | ANNASNEL, Baron Von Trax, Brent Honey, Julian Wijn, Justin Jay, Sam Hofman |
 | Sat, 24 Oct 2026 | De Binnenstad x SUPERSTRINGS Invites | Angie (FR), CIS (3), DJ IP, Eva Vrijdag, FlowState, SUPERSTRINGS |
 | Sat, 24 Oct 2026 | Ewan McVicar presents Club Knuckles ADE | Anz, Ewan McVicar, Giulia Tess, Jasper James, Young Marco |

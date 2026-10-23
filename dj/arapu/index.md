@@ -13,7 +13,7 @@ Arapu is a house and minimal artist based in Romania, with 162 gigs on soundchec
 
 ## Recently played
 
-- Cooc, London · Sat, 10 Oct 2026
+- Plaza Camden, London · Sat, 10 Oct 2026
 - Sankeys, Manchester · Sat, 3 Oct 2026
 - BRET, Amsterdam · Fri, 2 Oct 2026
 - Studionotte, Milan · Fri, 25 Sept 2026

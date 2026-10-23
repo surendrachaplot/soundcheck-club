@@ -1,16 +1,19 @@
 # Daft Funk Live
 
-Daft Funk Live is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Boogaloo, Zagreb on Tue, 15 Dec 2026.
+Daft Funk Live is a Electro and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Gazarte, Athens on Sat, 12 Dec 2026.
 
-Daft Funk Live is an electro and house artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Bangkok, Birmingham and Brighton and 19 more. Often billed alongside Andy Mac, Armand Van Helden and Ben Santiago. Next up: Boogaloo, Zagreb on Tue 15 Dec.
+Daft Funk Live is an electro and house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Athens, Bangkok and Birmingham and 20 more. Often billed alongside Andy Mac, Armand Van Helden and Ben Santiago. Next up: Gazarte, Athens on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Gazarte | Athens |
+| Sun, 13 Dec 2026 | Gazarte | Athens |
 | Tue, 15 Dec 2026 | Boogaloo | Zagreb |
 | Fri, 8 Jan 2027 | O2 Academy Newcastle | Newcastle |
 | Sat, 9 Jan 2027 | O2 Academy Leeds | Leeds |
+| Fri, 15 Jan 2027 | TBA - Bangkok Extra Show | Bangkok |
 | Sat, 16 Jan 2027 | Mustache Bangkok | Bangkok |
 
 ## Recently played

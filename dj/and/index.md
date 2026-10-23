@@ -1,14 +1,13 @@
 # AnD
 
-AnD is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Eivissa Event Ship - Danzigerkade 55, Amsterdam on Fri, 23 Oct 2026.
+AnD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Paris15, Malaga on Sat, 31 Oct 2026.
 
-AnD is a techno and industrial artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 52 more. Often billed alongside CLTX, LESSSS and Dexphase. Next up: TBA - Eivissa Event Ship - Danzigerkade 55, Amsterdam on Fri 23 Oct.
+AnD is a techno and industrial artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 52 more. Often billed alongside CLTX, LESSSS and Dexphase. Next up: Paris15, Malaga on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA - Eivissa Event Ship - Danzigerkade 55 | Amsterdam |
 | Sat, 31 Oct 2026 | Paris15 | Malaga |
 
 ## Recently played

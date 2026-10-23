@@ -1,14 +1,13 @@
 # SaltySis
 
-SaltySis is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nxt Museum, Amsterdam on Fri, 23 Oct 2026.
+SaltySis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 19 Dec 2026.
 
-SaltySis is a techno and trance artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brisbane and 21 more. Often billed alongside A.N.I., Stinny Stone and Cara Elizabeth. Next up: Nxt Museum, Amsterdam on Fri 23 Oct.
+SaltySis is a techno and trance artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brisbane and 21 more. Often billed alongside A.N.I., Stinny Stone and Cara Elizabeth. Next up: Lokschuppen Berlin, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |
 | Sat, 19 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

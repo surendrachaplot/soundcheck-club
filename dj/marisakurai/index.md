@@ -1,8 +1,8 @@
 # Mari Sakurai
 
-Mari Sakurai is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Rj's Social, Okinawa on Sat, 31 Oct 2026.
+Mari Sakurai is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Rj's Social, Okinawa on Sat, 31 Oct 2026.
 
-Mari Sakurai is a techno and house artist based in Japan, with 166 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 22 more. Often billed alongside Shinsuke Goto, YANNY and 7e. Next up: Rj's Social, Okinawa on Sat 31 Oct.
+Mari Sakurai is a techno and house artist based in Japan, with 167 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 23 more. Often billed alongside Shinsuke Goto, YANNY and 7e. Next up: Rj's Social, Okinawa on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mari Sakurai is a techno and house artist based in Japan, with 166 gigs on sound
 | Sat, 21 Nov 2026 | VENT | Tokyo |
 | Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 28 Nov 2026 | FOLD | London |
+| Sat, 12 Dec 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played
 

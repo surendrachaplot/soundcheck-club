@@ -1,14 +1,13 @@
 # Sanne Dammers
 
-Sanne Dammers is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hard Rock Cafe Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Sanne Dammers is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Madam, Amsterdam on Fri, 6 Nov 2026.
 
-Sanne Dammers is a tech house and house artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, London, Rotterdam and Utrecht. Often billed alongside Lidia Lo, Hris East and Jamback. Next up: Hard Rock Cafe Amsterdam, Amsterdam on Thu 22 Oct.
+Sanne Dammers is a tech house and house artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, London, Rotterdam and Utrecht. Often billed alongside Lidia Lo, Hris East and Jamback. Next up: Madam, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Hard Rock Cafe Amsterdam | Amsterdam |
 | Fri, 6 Nov 2026 | Madam | Amsterdam |
 
 ## Recently played

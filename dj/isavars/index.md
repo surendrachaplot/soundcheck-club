@@ -1,14 +1,13 @@
 # isavars
 
-isavars is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Firepit Art Gallery and Studios CIC, London on Fri, 23 Oct 2026.
+isavars is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Colours Hoxton, London on Sat, 24 Oct 2026.
 
-isavars is a house and disco artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside QUEENIEPRINX, tincho and PEDRØ. Next up: Firepit Art Gallery and Studios CIC, London on Fri 23 Oct.
+isavars is a house and disco artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside QUEENIEPRINX, tincho and PEDRØ. Next up: Colours Hoxton, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Firepit Art Gallery and Studios CIC | London |
 | Sat, 24 Oct 2026 | Colours Hoxton | London |
 
 ## Recently played

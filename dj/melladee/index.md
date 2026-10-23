@@ -10,9 +10,9 @@ Mella Dee is a house and techno artist based in United Kingdom, with 176 gigs on
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 31 Oct 2026 | Ouseburn Garden | Newcastle |
-| Sat, 31 Oct 2026 | TBA - Secret Location | Edinburgh |
 | Sun, 1 Nov 2026 | The Cause | London |
 | Sun, 1 Nov 2026 | Chelmsford City Racecourse | London |
+| Sun, 8 Nov 2026 | Peddler Warehouse | Sheffield |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |

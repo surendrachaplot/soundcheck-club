@@ -1,14 +1,13 @@
 # Telephones
 
-Telephones is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 23 Oct 2026.
+Telephones is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bar Temp., Bangkok on Fri, 30 Oct 2026.
 
-Telephones is a house and techno artist based in Norway, with 98 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 32 more. Often billed alongside DJ Fett Burger, Tornado Wallace and DJ Aficionado. Next up: Klymax Discotheque, Bali on Fri 23 Oct.
+Telephones is a house and techno artist based in Norway, with 98 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 32 more. Often billed alongside DJ Fett Burger, Tornado Wallace and DJ Aficionado. Next up: Bar Temp., Bangkok on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Klymax Discotheque | Bali |
 | Fri, 30 Oct 2026 | Bar Temp. | Bangkok |
 | Fri, 20 Nov 2026 | The Buzz | Berlin |
 | Sat, 28 Nov 2026 | Tresor / Globus | Berlin |

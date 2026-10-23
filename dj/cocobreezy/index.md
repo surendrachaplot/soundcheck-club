@@ -1,14 +1,13 @@
 # Coco & Breezy
 
-Coco & Breezy is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Stockholm on Fri, 23 Oct 2026.
+Coco & Breezy is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Refuge, New York City on Sat, 7 Nov 2026.
 
-Coco & Breezy are a house and afro house duo based in United States of America, with 99 gigs on soundcheck across Austin, Boston, Calgary and Charlotte and 30 more. Often billed alongside Aluna, Breezy and Claptone. Next up: TBA, Stockholm on Fri 23 Oct.
+Coco & Breezy are a house and afro house duo based in United States of America, with 99 gigs on soundcheck across Austin, Boston, Calgary and Charlotte and 30 more. Often billed alongside Aluna, Breezy and Claptone. Next up: Refuge, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA | Stockholm |
 | Sat, 7 Nov 2026 | Refuge | New York City |
 | Fri, 13 Nov 2026 | Woldenberg Riverfront Park | New-orleans |
 

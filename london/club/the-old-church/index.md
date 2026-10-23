@@ -11,7 +11,7 @@ The Old Church is a music venue in London listed on soundcheck. 5 upcoming gigs,
 | Sat, 31 Oct 2026 | Necropolis Festival - Day Time Halloween Church Rave | Arrosa, JON KRIEGER, Leviminks, Ricardo Castro, SONI LOBO |
 | Thu, 12 Nov 2026 | SHSHCHTS x [8]: London Showcase  | bod [包家巷] |
 | Sat, 21 Nov 2026 | PUDDLE V | ADRIAN LECA, Fungi, LATO, RRUDEGIRLLL, S3BA, Spinks, Ting Run Run |
-| Sat, 19 Dec 2026 | Necropolis Festival: XMAS at the Church | Arrosa, Ricardo Castro |
+| Sat, 19 Dec 2026 | Necropolis Festival: XMAS at the Church | Arrosa, LIZAZA, Ricardo Castro |
 | Sat, 13 Feb 2027 | Necropolis Festival: VALLOWEEN | Arrosa, Brother of Set, Leviminks |
 
 ## Address

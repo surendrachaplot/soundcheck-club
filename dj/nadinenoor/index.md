@@ -9,7 +9,7 @@ Nadine Noor is a techno and house artist based in United Kingdom, with 52 gigs o
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Distillery N17 | London |
-| Fri, 13 Nov 2026 | Night Tales Loft | London |
+| Fri, 13 Nov 2026 | NT's Loft | London |
 
 ## Recently played
 

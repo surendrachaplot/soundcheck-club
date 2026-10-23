@@ -1,14 +1,13 @@
 # DAX J
 
-DAX J is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+DAX J is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
-DAX J is a techno and house artist based in United Kingdom, with 305 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 91 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
+DAX J is a techno and house artist based in United Kingdom, with 305 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 91 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
@@ -20,6 +19,7 @@ DAX J is a techno and house artist based in United Kingdom, with 305 gigs on sou
 | Sat, 28 Nov 2026 | Lofi | Amsterdam |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Fri, 11 Dec 2026 | Kompass Klub | Ghent |
+| Fri, 18 Dec 2026 | fi | Cologne |
 
 ## Recently played
 

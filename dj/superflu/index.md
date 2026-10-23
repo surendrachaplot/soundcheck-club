@@ -1,14 +1,13 @@
 # Super Flu
 
-Super Flu is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
+Super Flu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 24 Oct 2026.
 
-Super Flu is a techno and house artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 44 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Supperclub Cruise, Amsterdam on Fri 23 Oct.
+Super Flu is a techno and house artist based in Germany, with 128 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 44 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Tanzhaus West, Frankfurt on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Sat, 24 Oct 2026 | Tanzhaus West | Frankfurt |
 | Sat, 24 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 

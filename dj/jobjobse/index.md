@@ -1,14 +1,13 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at GASHOUDER, Amsterdam on Fri, 23 Oct 2026.
+Job Jobse is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
 
-Job Jobse is a house and techno artist based in Netherlands, with 151 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 47 more. Often billed alongside Palms Trax, BASHKKA and KI/KI. Next up: GASHOUDER, Amsterdam on Fri 23 Oct.
+Job Jobse is a house and techno artist based in Netherlands, with 151 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 47 more. Often billed alongside Palms Trax, BASHKKA and KI/KI. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |

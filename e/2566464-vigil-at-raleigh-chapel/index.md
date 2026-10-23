@@ -1,6 +1,6 @@
-# Vigil at Raleigh Chapel
+# VIGIL at Raleigh Chapel
 
-Vigil at Raleigh Chapel on Thu 19 Nov, London. 3 artists: Mirror Organs, VISIO and Zeynep Ağcabay. Experimental and Pop. See the line-up on soundcheck.
+VIGIL at Raleigh Chapel on Thu 19 Nov, London. 3 artists: Mirror Organs, VISIO and Zeynep Ağcabay. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

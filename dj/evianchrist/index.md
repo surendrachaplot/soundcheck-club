@@ -1,14 +1,13 @@
 # Evian Christ
 
-Evian Christ is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Cakeshop, Seoul on Fri, 23 Oct 2026.
+Evian Christ is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - シークレットロケーション 千葉県外房, Tokyo on Sat, 24 Oct 2026.
 
-Evian Christ is a trance and techno artist based in United Kingdom, with 94 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bangkok and 33 more. Often billed alongside seretide, Torus and Malibu. Next up: Cakeshop, Seoul on Fri 23 Oct.
+Evian Christ is a trance and techno artist based in United Kingdom, with 94 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bangkok and 33 more. Often billed alongside seretide, Torus and Malibu. Next up: TBA - シークレットロケーション 千葉県外房, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Cakeshop | Seoul |
 | Sat, 24 Oct 2026 | TBA - シークレットロケーション 千葉県外房 | Tokyo |
 | Fri, 30 Oct 2026 | Reactor Shanghai | Shanghai |
 | Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |

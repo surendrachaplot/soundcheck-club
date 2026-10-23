@@ -1,14 +1,13 @@
 # MAXIM (8)
 
-MAXIM (8) is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Arch, Tokyo on Fri, 23 Oct 2026.
+MAXIM (8) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Aisotope Lounge, Tokyo on Mon, 2 Nov 2026.
 
-MAXIM is a house and electro artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside MUNÉO, RUKE and DJ EYELASH. Next up: Arch, Tokyo on Fri 23 Oct.
+MAXIM is a house and electro artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside MUNÉO, RUKE and DJ EYELASH. Next up: Aisotope Lounge, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Arch | Tokyo |
 | Mon, 2 Nov 2026 | Aisotope Lounge | Tokyo |
 | Sun, 22 Nov 2026 | Arch | Tokyo |
 

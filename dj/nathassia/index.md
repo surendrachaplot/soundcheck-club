@@ -1,14 +1,13 @@
 # Nathassia
 
-Nathassia is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Nathassia is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - BANK CLUB, Warsaw on Fri, 13 Nov 2026.
 
-Nathassia is a techno and progressive house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Ibiza, London and Seoul and 1 more. Often billed alongside EL PADRE, Ginchy and Major K. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Nathassia is a techno and progressive house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Ibiza, London and Seoul and 1 more. Often billed alongside EL PADRE, Ginchy and Major K. Next up: TBA - BANK CLUB, Warsaw on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Fri, 13 Nov 2026 | TBA - BANK CLUB | Warsaw |
 
 ## Recently played

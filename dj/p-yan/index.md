@@ -1,14 +1,13 @@
 # P-YAN
 
-P-YAN is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mitsuki, Tokyo on Fri, 23 Oct 2026.
+P-YAN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WOMB, Tokyo on Sat, 24 Oct 2026.
 
-P-YAN is a house and techno artist based in Japan, with 119 gigs on soundcheck across Hanoi, Okinawa, Osaka and Seoul and 1 more. Often billed alongside RYOKEI, Celter and Satoshi Otsuki. Next up: Mitsuki, Tokyo on Fri 23 Oct.
+P-YAN is a house and techno artist based in Japan, with 119 gigs on soundcheck across Hanoi, Okinawa, Osaka and Seoul and 1 more. Often billed alongside RYOKEI, Celter and Satoshi Otsuki. Next up: WOMB, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Mitsuki | Tokyo |
 | Sat, 24 Oct 2026 | WOMB | Tokyo |
 | Fri, 30 Oct 2026 | Oath | Tokyo |
 | Sat, 28 Nov 2026 | Mipama ES SU Casa 宮古島 | Okinawa |

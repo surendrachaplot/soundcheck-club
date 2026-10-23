@@ -1,6 +1,6 @@
 # Nandu
 
-Nandu is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Generator, Amsterdam on Fri, 23 Oct 2026.
+Nandu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Generator, Amsterdam on Fri, 23 Oct 2026.
 
 Nandu is a house and techno artist based in Denmark, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Brussels and 38 more. Often billed alongside Ivory, Yet More and Bedouin. Next up: Generator, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Nandu is a house and techno artist based in Denmark, with 112 gigs on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Generator | Amsterdam |
-| Fri, 23 Oct 2026 | Club Baggerbeest | Amsterdam |
 | Thu, 3 Dec 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Hi/Fi
 
-Hi/Fi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Company Club, Milan on Sat, 24 Oct 2026.
+Hi/Fi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Company Club, Milan on Sat, 24 Oct 2026.
 
-Hi/Fi is a techno and house artist based in Italy, with 31 gigs on soundcheck across Milan. Often billed alongside Hutchee, Pietro Fantin and Crissaf. Next up: Company Club, Milan on Sat 24 Oct.
+Hi/Fi is a techno and house artist based in Italy, with 32 gigs on soundcheck across Barcelona and Milan. Often billed alongside Hutchee, Pietro Fantin and Crissaf. Next up: Company Club, Milan on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Company Club | Milan |
+| Thu, 5 Nov 2026 | Bridge 48 | Barcelona |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # SN_Yeah
 
-SN_Yeah is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 23 Oct 2026.
+SN_Yeah is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
 
-SN_Yeah is a drum & bass and techno artist based in Japan, with 142 gigs on soundcheck across Tokyo. Often billed alongside ReFuCafé, omeme_gangimari and 35DH-1. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 23 Oct.
+SN_Yeah is a drum & bass and techno artist based in Japan, with 142 gigs on soundcheck across Tokyo. Often billed alongside ReFuCafé, omeme_gangimari and 35DH-1. Next up: HVEN, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Fri, 13 Nov 2026 | HVEN | Tokyo |
 
 ## Recently played

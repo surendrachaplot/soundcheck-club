@@ -1,14 +1,13 @@
 # dirtydms
 
-dirtydms is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oberhaum, Amsterdam on Fri, 23 Oct 2026.
+dirtydms is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-dirtydms is a techno and bass artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bologna and 6 more. Often billed alongside Helmond Lang, Kessler and Vox supreme. Next up: Oberhaum, Amsterdam on Fri 23 Oct.
+dirtydms is a techno and bass artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bologna and 6 more. Often billed alongside Helmond Lang, Kessler and Vox supreme. Next up: Borisov Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Oberhaum | Amsterdam |
 | Sat, 24 Oct 2026 | Borisov Amsterdam | Amsterdam |
 | Sat, 7 Nov 2026 | C12 | Brussels |
 

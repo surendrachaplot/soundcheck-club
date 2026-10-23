@@ -1,13 +1,15 @@
 # Joker
 
-Joker is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+Joker is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dryad Works, Sheffield on Fri, 30 Oct 2026.
 
-Joker is a dubstep and bass artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Sir Spyro, Coki and SGT Pokes. Next up: The Garden Tisno, London on Thu 22 Jul.
+Joker is a dubstep and bass artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Sir Spyro, Coki and SGT Pokes. Next up: Dryad Works, Sheffield on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Dryad Works | Sheffield |
+| Sat, 31 Oct 2026 | Dryad Works | Sheffield |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played

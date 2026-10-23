@@ -1,14 +1,13 @@
 # Prance
 
-Prance is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bimhuis, Amsterdam on Fri, 23 Oct 2026.
+Prance is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
 
-Prance is a techno and house artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hannover and 6 more. Often billed alongside Joya Astou, Najel Monteiro and MARRØN. Next up: Bimhuis, Amsterdam on Fri 23 Oct.
+Prance is a techno and house artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hannover and 6 more. Often billed alongside Joya Astou, Najel Monteiro and MARRØN. Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Bimhuis | Amsterdam |
 | Sat, 24 Oct 2026 | De Fik Garden | Amsterdam |
 | Fri, 30 Oct 2026 | RADION | Amsterdam |
 | Sat, 21 Nov 2026 | La Java | Paris |

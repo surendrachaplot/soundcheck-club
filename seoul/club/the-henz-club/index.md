@@ -1,14 +1,13 @@
 # The Henz Club
 
-The Henz Club is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "PGMNT PRESENTS @p9mnt [PGMNT DYEING HENZ CLUB]" on Fri, 23 Oct 2026.
+The Henz Club is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "[COVE’s FRIENDS]" on Sat, 24 Oct 2026.
 
-The Henz Club is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including DNOPF. See dates, start times and who's playing. B1 86-22 Sangsu-dong Mapo-gu Seoul Korea.
+The Henz Club is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including DNOPF. See dates, start times and who's playing. B1 86-22 Sangsu-dong Mapo-gu Seoul Korea.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | PGMNT PRESENTS @p9mnt [PGMNT DYEING HENZ CLUB] |  |
 | Sat, 24 Oct 2026 | [COVE’s FRIENDS] | DNOPF |
 
 ## Address

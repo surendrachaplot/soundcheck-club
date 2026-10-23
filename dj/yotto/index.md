@@ -1,14 +1,13 @@
 # Yotto
 
-Yotto is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oceandiva Original, Netherlands on Fri, 23 Oct 2026.
+Yotto is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at De Kromhouthal, Amsterdam on Sat, 24 Oct 2026.
 
-Yotto is a progressive house and techno artist based in Finland, with 110 gigs on soundcheck across Adelaide, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Nicky Elisabeth, Qrion and Cristoph. Next up: Oceandiva Original, Netherlands on Fri 23 Oct.
+Yotto is a progressive house and techno artist based in Finland, with 110 gigs on soundcheck across Adelaide, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Nicky Elisabeth, Qrion and Cristoph. Next up: De Kromhouthal, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Oceandiva Original | Netherlands |
 | Sat, 24 Oct 2026 | De Kromhouthal | Amsterdam |
 | Sat, 21 Nov 2026 | University of Adelaide | Adelaide |
 

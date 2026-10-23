@@ -1,14 +1,15 @@
 # KIM HUNTER
 
-KIM HUNTER is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Castle, London on Sat, 7 Nov 2026.
+KIM HUNTER is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Castle, London on Sat, 7 Nov 2026.
 
-KIM HUNTER is a techno and industrial artist, with 16 gigs on soundcheck across Cardiff and London. Often billed alongside Lau.tastic, Dres Codex and KASTILO. Next up: The Castle, London on Sat 7 Nov.
+KIM HUNTER is a techno and industrial artist, with 17 gigs on soundcheck across Cardiff and London. Often billed alongside Lau.tastic, Dres Codex and KASTILO. Next up: The Castle, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Castle | London |
+| Sun, 8 Nov 2026 | Egg London | London |
 
 ## Recently played
 

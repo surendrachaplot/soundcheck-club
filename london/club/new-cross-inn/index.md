@@ -1,14 +1,13 @@
 # New Cross Inn
 
-New Cross Inn is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Nerorgasmo" on Fri, 23 Oct 2026.
+New Cross Inn is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "marimari" on Thu, 29 Oct 2026.
 
-New Cross Inn is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including marimari and Nova May. See dates, start times and who's playing. 323 New Cross Road; New Cross; London SE14 6AS; United Kingdom.
+New Cross Inn is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including marimari and Nova May. See dates, start times and who's playing. 323 New Cross Road; New Cross; London SE14 6AS; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Nerorgasmo |  |
 | Thu, 29 Oct 2026 | marimari | Nova May, marimari |
 | Mon, 16 Nov 2026 | The S.E.T |  |
 | Mon, 30 Nov 2026 | Restraining Order |  |

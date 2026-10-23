@@ -1,15 +1,13 @@
 # Bambii
 
-Bambii is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Parallel, Amsterdam on Fri, 23 Oct 2026.
+Bambii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Regency Ballroom, San Francisco/Oakland on Sun, 8 Nov 2026.
 
-Bambii is a techno and house artist based in Canada, with 109 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 28 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: Parallel, Amsterdam on Fri 23 Oct.
+Bambii is a techno and house artist based in Canada, with 109 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 28 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: The Regency Ballroom, San Francisco/Oakland on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Parallel | Amsterdam |
-| Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Sun, 8 Nov 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Tue, 10 Nov 2026 | Société des arts technologiques | Montreal |
 | Thu, 31 Dec 2026 | TBA - Il Mercato Centrale | Melbourne |

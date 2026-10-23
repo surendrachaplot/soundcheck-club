@@ -1,13 +1,14 @@
 # Better Call Paul
 
-Better Call Paul is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Süss War Gestern, Berlin on Sat, 7 Nov 2026.
+Better Call Paul is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 30 Oct 2026.
 
-Better Call Paul is a house and club artist based in Germany, with 90 gigs on soundcheck across Berlin, Düsseldorf and Hannover. Often billed alongside Nikklaas, Anne Hou and Marc Eisenberg. Next up: Süss War Gestern, Berlin on Sat 7 Nov.
+Better Call Paul is a house and club artist based in Germany, with 91 gigs on soundcheck across Berlin, Düsseldorf and Hannover. Often billed alongside Nikklaas, Anne Hou and Dicso_Muzek. Next up: Bulbul Berlin, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Bulbul Berlin | Berlin |
 | Sat, 7 Nov 2026 | Süss War Gestern | Berlin |
 | Sat, 28 Nov 2026 | Beate Uwe | Berlin |
 
@@ -24,6 +25,6 @@ Better Call Paul is a house and club artist based in Germany, with 90 gigs on so
 
 ## Shares bills with
 
-Nikklaas, Anne Hou, Marc Eisenberg
+Nikklaas, Anne Hou, Dicso_Muzek
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bettercallpaul/)*

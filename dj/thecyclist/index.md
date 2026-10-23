@@ -1,14 +1,15 @@
 # The Cyclist
 
-The Cyclist is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Quarry, Liverpool on Sat, 24 Oct 2026.
+The Cyclist is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Quarry, Liverpool on Sat, 24 Oct 2026.
 
-The Cyclist is a techno and house artist, with 15 gigs on soundcheck across Chicago, Cork, Dublin and Liverpool and 3 more. Often billed alongside Strathearn, Puncta and Buz Ludzha. Next up: Quarry, Liverpool on Sat 24 Oct.
+The Cyclist is a techno and house artist, with 16 gigs on soundcheck across Chicago, Cork, Dublin and Liverpool and 3 more. Often billed alongside Strathearn, Puncta and Buz Ludzha. Next up: Quarry, Liverpool on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Quarry | Liverpool |
+| Fri, 27 Nov 2026 | Quarry | Liverpool |
 | Fri, 27 Nov 2026 | Quarry | Liverpool |
 
 ## Recently played

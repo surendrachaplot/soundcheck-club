@@ -1,14 +1,13 @@
 # Alex Pi
 
-Alex Pi is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
+Alex Pi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
 
-Alex Pi is a techno and tech house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Rotterdam. Often billed alongside BRKN, DJ Pierre and Gettoblaster. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
+Alex Pi is a techno and tech house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Rotterdam. Often billed alongside BRKN, DJ Pierre and Gettoblaster. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Sun, 25 Oct 2026 | Waterhouse Studios | Amsterdam |
 
 ## Recently played

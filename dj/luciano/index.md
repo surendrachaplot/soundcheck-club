@@ -1,14 +1,13 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Thu, 22 Oct 2026.
+Luciano is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Maimarkthalle, Mannheim on Sat, 7 Nov 2026.
 
-Luciano is a house and tech house artist based in Switzerland, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 21 more. Often billed alongside Sossa, Prospa and Marco Carola. Next up: Mediahaven - Minervahaven, Amsterdam on Thu 22 Oct.
+Luciano is a house and tech house artist based in Switzerland, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 21 more. Often billed alongside Sossa, Prospa and Marco Carola. Next up: Maimarkthalle, Mannheim on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 7 Nov 2026 | Maimarkthalle | Mannheim |
 | Sat, 21 Nov 2026 | Brooklyn Pacha | New York City |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |

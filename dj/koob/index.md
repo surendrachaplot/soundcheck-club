@@ -1,14 +1,15 @@
 # KOOB
 
-KOOB is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Vandome, Connecticut on Fri, 30 Oct 2026.
+KOOB is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Vandome, Connecticut on Fri, 30 Oct 2026.
 
-KOOB is a club and ghetto tech artist based in United States of America, with 11 gigs on soundcheck across Berlin, Connecticut, Dublin and Frankfurt and 3 more. Often billed alongside NATALIA., AG and AMEX (UK). Next up: Club Vandome, Connecticut on Fri 30 Oct.
+KOOB is a club and ghetto tech artist based in United States of America, with 12 gigs on soundcheck across Berlin, Connecticut, Dublin and Frankfurt and 3 more. Often billed alongside NATALIA., CMD+JAZMINE and Petal. Next up: Club Vandome, Connecticut on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Club Vandome | Connecticut |
+| Fri, 6 Nov 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ KOOB is a club and ghetto tech artist based in United States of America, with 11
 
 ## Shares bills with
 
-NATALIA., AG (1), AMEX (UK)
+NATALIA., CMD+JAZMINE, Petal
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koob/)*

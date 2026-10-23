@@ -1,6 +1,6 @@
 # Andrew Azara
 
-Andrew Azara is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Yellow House, Amsterdam on Fri, 23 Oct 2026.
+Andrew Azara is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Yellow House, Amsterdam on Fri, 23 Oct 2026.
 
 Andrew Azara is a house and minimal artist, with 43 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Ibiza and 10 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: Yellow House, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Andrew Azara is a house and minimal artist, with 43 gigs on soundcheck across Am
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Yellow House | Amsterdam |
-| Fri, 23 Oct 2026 | Celebratix HQ | Amsterdam |
 | Sat, 31 Oct 2026 | Opium Botanical Garden | Dublin |
 | Sat, 14 Nov 2026 | Formation Brewery | Phoenix |
 

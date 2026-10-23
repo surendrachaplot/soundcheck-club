@@ -1,14 +1,13 @@
 # Imanu
 
-Imanu is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Imanu is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
 
-Imanu is a drum & bass and bass artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Berlin and 43 more. Often billed alongside Buunshin, Delta Heavy and The Caracal Project (FR). Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Imanu is a drum & bass and bass artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Berlin and 43 more. Often billed alongside Buunshin, Delta Heavy and The Caracal Project (FR). Next up: Beaver Works, Leeds on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 11 Dec 2026 | Beaver Works | Leeds |
 | Sun, 27 Dec 2026 | The Brightside | Brisbane |
 

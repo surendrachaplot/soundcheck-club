@@ -1,14 +1,13 @@
 # Abul Mogard
 
-Abul Mogard is a Experimental and Drone artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Silent Green, Berlin on Fri, 23 Oct 2026.
+Abul Mogard is a Experimental and Drone artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Zurich on Sat, 14 Nov 2026.
 
-Abul Mogard is an experimental and drone artist based in Italy, with 27 gigs on soundcheck across Barcelona, Bergen, Berlin and Budapest and 9 more. Often billed alongside Rafael Anton Irisarri, Grand River and Lord Spikeheart. Next up: Silent Green, Berlin on Fri 23 Oct.
+Abul Mogard is an experimental and drone artist based in Italy, with 27 gigs on soundcheck across Barcelona, Bergen, Berlin and Budapest and 9 more. Often billed alongside Rafael Anton Irisarri, Grand River and Lord Spikeheart. Next up: TBA, Zurich on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Silent Green | Berlin |
 | Sat, 14 Nov 2026 | TBA | Zurich |
 
 ## Recently played

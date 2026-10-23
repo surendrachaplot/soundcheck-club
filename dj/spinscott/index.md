@@ -1,13 +1,14 @@
 # Spinscott
 
-Spinscott is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lunchbox, Atlanta on Fri, 11 Dec 2026.
+Spinscott is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Baltimore Soundstage, Baltimore on Sat, 28 Nov 2026.
 
-Spinscott is a jungle and drum & bass artist, with 16 gigs on soundcheck across Atlanta, Belfast, Bristol and Denver and 8 more. Often billed alongside Bladerunner, DJ SS and DJ Hype. Next up: Lunchbox, Atlanta on Fri 11 Dec.
+Spinscott is a jungle and drum & bass artist, with 17 gigs on soundcheck across Atlanta, Baltimore, Belfast and Bristol and 9 more. Often billed alongside Bladerunner, DJ SS and Dieselboy. Next up: Baltimore Soundstage, Baltimore on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Baltimore Soundstage | Baltimore |
 | Fri, 11 Dec 2026 | Lunchbox | Atlanta |
 
 ## Recently played
@@ -23,6 +24,6 @@ Spinscott is a jungle and drum & bass artist, with 16 gigs on soundcheck across 
 
 ## Shares bills with
 
-Bladerunner, DJ SS, DJ Hype
+Bladerunner, DJ SS, Dieselboy
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinscott/)*

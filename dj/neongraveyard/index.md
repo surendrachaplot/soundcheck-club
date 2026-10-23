@@ -1,6 +1,6 @@
 # Neon Graveyard
 
-Neon Graveyard is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Gate Milano, Milan on Sat, 24 Oct 2026.
+Neon Graveyard is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Gate Milano, Milan on Sat, 24 Oct 2026.
 
 Neon Graveyard is a techno and trance artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Johannes Schuster, CALLUSH and KUKO. Next up: Gate Milano, Milan on Sat 24 Oct.
 
@@ -11,7 +11,6 @@ Neon Graveyard is a techno and trance artist based in Germany, with 183 gigs on 
 | Sat, 24 Oct 2026 | Gate Milano | Milan |
 | Fri, 30 Oct 2026 | Club Exil | Vienna |
 | Fri, 20 Nov 2026 | Fusion Club | Münster |
-| Fri, 4 Dec 2026 | E1 | London |
 
 ## Recently played
 

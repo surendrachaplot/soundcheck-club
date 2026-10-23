@@ -9,7 +9,7 @@ Henri Bergmann is a techno and house artist based in United Kingdom, with 111 gi
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Obudai Island | Budapest |
-| Fri, 30 Oct 2026 | E1 | London |
+| Fri, 30 Oct 2026 | Onyx (E1) | London |
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |
 | Sat, 14 Nov 2026 | New City Gas | Montreal |
 | Sat, 28 Nov 2026 | The Grand Social | Dublin |

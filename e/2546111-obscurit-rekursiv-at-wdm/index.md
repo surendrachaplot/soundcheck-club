@@ -1,6 +1,6 @@
-# Obscurité × Rekursiv at WDM
+# Obscurité × rekursiv at WDM
 
-Obscurité × Rekursiv at WDM on Fri 20 Nov, Hannover. 5 artists: DJ GARGA, Herr Muller, Krackk and ruru and 1 more. Techno and House. See the line-up on soundcheck.
+Obscurité × rekursiv at WDM on Fri 20 Nov, Hannover. 6 artists: DJ GARGA, Herr Muller, ISHAPE and Krackk and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Obscurité × Rekursiv at WDM on Fri 20 Nov, Hannover. 5 artists: DJ GARGA, Herr
 
 - DJ GARGA
 - Herr Muller
+- ISHAPE
 - Krackk
 - ruru (1)
 - s-ray

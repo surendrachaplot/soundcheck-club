@@ -1,8 +1,8 @@
 # ATTA (GER)
 
-ATTA (GER) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 24 Oct 2026.
+ATTA (GER) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 24 Oct 2026.
 
-ATTA (GER) is a house and techno artist based in Germany, with 72 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 1 more. Often billed alongside Christa K, DJ SPORTSCHUH and Jokka. Next up: Orangerie Neukölln, Berlin on Sat 24 Oct.
+ATTA (GER) is a house and techno artist based in Germany, with 73 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 1 more. Often billed alongside Christa K, DJ SPORTSCHUH and Jokka. Next up: Orangerie Neukölln, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ ATTA (GER) is a house and techno artist based in Germany, with 72 gigs on soundc
 | Sat, 24 Oct 2026 | Orangerie Neukölln | Berlin |
 | Sat, 31 Oct 2026 | Mojo | Hamburg |
 | Sat, 7 Nov 2026 | Kater | Berlin |
+| Thu, 12 Nov 2026 | Bulbul Berlin | Berlin |
 
 ## Recently played
 

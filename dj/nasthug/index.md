@@ -1,14 +1,13 @@
 # nasthug
 
-nasthug is a Hip-Hop and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 23 Oct 2026.
+nasthug is a Hip-Hop and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 31 Oct 2026.
 
-nasthug is a hip-hop and techno artist based in Japan, with 94 gigs on soundcheck across Bangkok, Barcelona, Chengdu and Hong Kong and 11 more. Often billed alongside MoEPiKA, SAMO (JP) and TAKENOKO. Next up: Circus Tokyo, Tokyo on Fri 23 Oct.
+nasthug is a hip-hop and techno artist based in Japan, with 94 gigs on soundcheck across Bangkok, Barcelona, Chengdu and Hong Kong and 11 more. Often billed alongside MoEPiKA, SAMO (JP) and TAKENOKO. Next up: Enter Shibuya, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Circus Tokyo | Tokyo |
 | Sat, 31 Oct 2026 | Enter Shibuya | Tokyo |
 | Mon, 2 Nov 2026 | Circus Tokyo | Tokyo |
 

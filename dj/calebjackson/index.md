@@ -1,6 +1,6 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijland, Amsterdam on Fri, 23 Oct 2026.
+Caleb Jackson is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijland, Amsterdam on Fri, 23 Oct 2026.
 
 Caleb Jackson is a house and techno artist based in Australia, with 78 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 16 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Ijland, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Caleb Jackson is a house and techno artist based in Australia, with 78 gigs on s
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
-| Fri, 23 Oct 2026 | Celebratix HQ | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | The Gathering @ Armature Works | Tampa-bay |
 | Fri, 6 Nov 2026 | The Barbary | Philadelphia |

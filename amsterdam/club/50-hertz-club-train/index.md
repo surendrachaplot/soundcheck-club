@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room | AMARE, AVA Irandoost, African Stevenson, Alias33, Cyantist, DOBE, Darin Epsilon, Dizharmonia, FATIA, Joshlane, Leghet, Maarten Spoor, OIBAF, ORISS, PAULITTAHH, Paul Anthonee, RONJA., TNY, Till Antonio, Timelapse, YOUNA |
+| Sat, 24 Oct 2026 | RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room | AMARE, AVA Irandoost, African Stevenson, Alias33, Cyantist, DOBE, Darin Epsilon, Dizharmonia, FATIA, Joshlane, KARINSMATIC, Leghet, Maarten Spoor, OIBAF, ORISS, PAULITTAHH, Paul Anthonee, RONJA., TNY, Till Antonio, Timelapse, YOUNA |
 | Sat, 24 Oct 2026 | 50:HERTZ Club Train Day Trip: HUMAN by Pan-Pot | Devid Dega, Kaufmann, LALENA, Pan-Pot |
 | Sun, 25 Oct 2026 | 50:HERTZ CLUB TRAIN X Colyn | Beswerda, Colyn, Denis Horvat, Echonomist, HotLap, Jonathan Kaspar, Kind Of One, Mitch de Klein, Rolbac, Romy Janssen, Tonco |
 | Sun, 25 Oct 2026 | 50:Hertz Club Train X Ferry Corsten | Ferry Corsten |

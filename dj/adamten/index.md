@@ -1,14 +1,13 @@
 # Adam Ten
 
-Adam Ten is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Westerkerk, Amsterdam on Fri, 23 Oct 2026.
+Adam Ten is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Adam Ten is a house and techno artist based in Israel, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Westerkerk, Amsterdam on Fri 23 Oct.
+Adam Ten is a house and techno artist based in Israel, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Westerkerk | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Sat, 7 Nov 2026 | Lula Club | Madrid |
 | Wed, 2 Dec 2026 | Factory Town | Miami |

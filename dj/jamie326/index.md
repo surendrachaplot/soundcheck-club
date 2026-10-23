@@ -12,7 +12,7 @@ Jamie 3:26 is a house and disco artist based in United States of America, with 1
 | Sat, 24 Oct 2026 | Canvas | Amsterdam |
 | Sun, 25 Oct 2026 | Bordello Aperitivo | Amsterdam |
 | Fri, 6 Nov 2026 | Cabaret Sauvage | Paris |
-| Sun, 22 Nov 2026 | TBA - close to pl. Catalunya, 08007 | Barcelona |
+| Sun, 22 Nov 2026 | TBA - Rambla de Catalunya 23, Primera Principal | Barcelona |
 
 ## Recently played
 

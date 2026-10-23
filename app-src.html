@@ -3175,6 +3175,16 @@ button.dst-clip-pp::after{content:"";position:absolute;inset:-4px}
 .skm .am-i[data-ic]{justify-content:flex-start;gap:10px !important}
 @media(max-width:620px){.skm .am-i[data-ic]{gap:14px !important}}
 .skm .am-i.dst-del{color:#ff5e7e}
+.pf-btn.pf-ugc{width:var(--btn-l);padding:0}
+.pf-btn.pf-ugc svg{width:18px;height:18px;fill:currentColor}
+.skm-note{padding:8px 16px 12px;font:500 13px/18px var(--body);color:var(--lilac,#B8A8D0)}
+.rp-lede{font:500 13px/18px var(--body);color:var(--lilac,#B8A8D0);margin:0 0 8px}
+.rp-r{display:flex;align-items:center;justify-content:space-between;min-height:52px;border-bottom:1px solid rgba(255,255,255,.08);font:400 15px/22px var(--body);color:var(--fg);cursor:pointer}
+.rp-r input{width:20px;height:20px;accent-color:#7C5CFF;margin:0}
+.pb-blk{max-width:640px;margin:0 auto}
+.pb-blocked{display:flex;flex-direction:column;align-items:flex-start;gap:12px;padding:24px 20px}
+.pb-blocked h2{font:700 21px/26px var(--head);margin:0;color:var(--fg)}
+.pb-blocked p{font:400 15px/22px var(--body);margin:0;color:var(--lilac,#B8A8D0)}
 /* the full stub: the share card, the gig name above it, Share under it */
 .dst-full-t{display:block;margin:0 40px 12px 0;font:800 var(--fs-lg)/1.15 var(--head);color:var(--fg);text-decoration:none}
 a.dst-full-t:hover{text-decoration:underline}
@@ -5124,6 +5134,7 @@ a.dst-full-t:hover{text-decoration:underline}
     [data-ic="list"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M4 7h11M4 12h11M4 17h7M18 14v6M15 17h6' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
     [data-ic="ticket"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M4 8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v2a2 2 0 0 0 0 4v2a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2a2 2 0 0 0 0-4zM14 7v2M14 11v2M14 15v2' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
     [data-ic="edit"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M4 20h4L19 9l-4-4L4 16v4zM13 7l4 4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="ban"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='8.5' fill='none' stroke='%23000' stroke-width='1.9'/%3E%3Cpath d='M6 6l12 12' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round'/%3E%3C/svg%3E"); }
     [data-ic="trash"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 7h14M10 7V5h4v2M7 7l1 12h8l1-12' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
     [data-ic="signin"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M10 16l4-4-4-4M14 12H4M14 4h5v16h-5' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
     [data-ic="signout"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M15 16l4-4-4-4M19 12H9M10 4H5v16h5' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
@@ -5273,7 +5284,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1792768041026">
+<meta name="sc-build" content="1792793726986">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5333,7 +5344,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">114 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">140 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">25 events</span></a></li><li><a href="/london/2026-10-26/">Mon 26 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-27/">Tue 27 Oct <span class="c">7 events</span></a></li><li><a href="/london/2026-10-28/">Wed 28 Oct <span class="c">14 events</span></a></li><li><a href="/london/2026-10-29/">Thu 29 Oct <span class="c">53 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">106 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">141 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">25 events</span></a></li><li><a href="/london/2026-10-26/">Mon 26 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-27/">Tue 27 Oct <span class="c">7 events</span></a></li><li><a href="/london/2026-10-28/">Wed 28 Oct <span class="c">14 events</span></a></li><li><a href="/london/2026-10-29/">Thu 29 Oct <span class="c">54 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -10547,7 +10558,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '</div>'+
         '<svg class="dst-perf" aria-hidden="true"><line x1="1" y1="8" x2="1" y2="2000" stroke="currentColor" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="3 5"/></svg>'+
         '<div class="dst-tear">'+
-          ((isMe&&id)?'<button class="dst-more" type="button" aria-haspopup="menu" aria-label="More" data-more-entry="'+id+'">'+MORE_SVG+'</button>':'<span></span>')+
+          (id?'<button class="dst-more" type="button" aria-haspopup="menu" aria-label="More" data-more-entry="'+id+'">'+MORE_SVG+'</button>':'<span></span>')+
           (d.gig_no!=null?'<div class="dst-no"><small>GIG</small><b>N\u00ba '+esc(String(d.gig_no))+'</b></div>':'')+
         '</div></div>';
     }
@@ -11073,7 +11084,7 @@ a.dst-full-t:hover{text-decoration:underline}
           var am=e.target.closest('.dst-artmore'); if(am){ e.stopPropagation(); dstArtsToggle(am); return; }   // the names open in place; the full stub stays shut
           var s=e.target.closest('.dst-stub'), d=s&&_diaryById[s.dataset.entry]; if(!d) return;
           var mb=e.target.closest('.dst-more');
-          if(mb){ if(isMe) dstMenu(mb, d, handle, onChange); return; }
+          if(mb){ if(isMe) dstMenu(mb, d, handle, onChange); else ugcMenu(mb, handle, { what:d.clip?'clip':'note', ref:d.id, label:d.clip?'Report this clip':'Report this gig' }); return; }
           dstOpen(d, handle, s, isMe);
         });
         st.addEventListener('keydown',function(e){
@@ -11326,7 +11337,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var genres=st.topGenres||[];
       var acts = isMe
         ? '<button class="pf-btn" id="pb-share" data-ic="share" type="button">Share</button><button class="pf-btn" id="pb-edit" data-ic="edit" type="button">Settings</button>'
-        : '<button class="pf-btn primary follow'+(p.isFollowing?' following':'')+'" id="follow-btn" data-ic="heart" type="button" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button><button class="pf-btn" id="pb-share" data-ic="share" type="button">Share</button>';
+        : '<button class="pf-btn primary follow'+(p.isFollowing?' following':'')+'" id="follow-btn" data-ic="heart" type="button" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button><button class="pf-btn" id="pb-share" data-ic="share" type="button">Share</button><button class="pf-btn pf-ugc" id="pb-more" type="button" aria-haspopup="menu" aria-label="More">'+MORE_SVG+'</button>';
       // Poster-wall hero (option 06): the seen-artists' photos as a dimmed collage
       // behind identity + the clickable stat ribbon. No genre tags here by design.
       // Fewer than 4 artist images → plain header (no wall).
@@ -11445,8 +11456,57 @@ a.dst-full-t:hover{text-decoration:underline}
         showToast(r.ok?'Gig alerts on. We’ll tell you when artists you follow announce gigs.':'Couldn’t turn on alerts. Try again.');
       }catch(e){ showToast('Couldn’t turn on alerts. Try again.'); }
     }
+    // ── Report + Block (App Store 1.2): someone else's profile and their gigs/clips ──
+    // Paper NEXT "Report + Block". The server mails every report and keeps it (user_reports).
+    function ugcMenu(btn, handle, o){
+      o=o||{};
+      var m=skmMount(btn,
+        '<div class="skm-h"><div class="skm-tx"><div class="skm-ti">@'+esc(handle)+'</div></div></div>'+
+        '<button class="am-i" type="button" role="menuitem" data-act="report" data-ic="flag"><span>'+esc(o.label||('Report @'+handle))+'</span></button>'+
+        (o.label?'':'<button class="am-i dst-del" type="button" role="menuitem" data-act="block" data-ic="ban"><span>Block @'+esc(handle)+'</span></button>'+
+          '<div class="skm-note">Blocking hides you from each other. They are not told.</div>'));
+      m.addEventListener('click', function(e){
+        var a=e.target.closest('[data-act]'); if(!a) return; skMenuClose();
+        if(a.dataset.act==='report') ugcReport(handle, o.what||'profile', o.ref);
+        else ugcBlock(handle, true);
+      });
+    }
+    function ugcReport(handle, what, ref){
+      if(!currentUser){ openAuth(); return; }
+      var R=[['spam','Spam'],['offensive','Offensive or explicit'],['harassment','Harassment or hate'],['not_them','Pretending to be someone'],['other','Something else']];
+      var ov=openModalShell(null, 'Report @'+handle,
+        '<p class="rp-lede">What is wrong? We read every report within a day.</p>'+
+        R.map(function(r){ return '<label class="rp-r"><span>'+r[1]+'</span><input type="radio" name="rp-why" value="'+r[0]+'"></label>'; }).join('')+
+        '<input type="text" id="rp-detail" maxlength="1000" placeholder="Add a note (optional)" style="margin-top:12px">',
+        { cta:'Send report', onGo: async function(close, ov, go){
+          var why=ov.querySelector('input[name="rp-why"]:checked'), err=ov.querySelector('[data-modal-err]');
+          if(!why){ err.textContent='Pick what is wrong.'; return; }
+          go.disabled=true; err.textContent='';
+          try{
+            var r=await authedFetch('/api/report',{ method:'POST', headers:{'Content-Type':'application/json'},
+              body:JSON.stringify({ handle:handle, what:what, ref:ref==null?undefined:String(ref), reason:why.value, detail:(document.getElementById('rp-detail')||{}).value||undefined }) });
+            if(r.status===401){ close(); openAuth(); return; }
+            if(r.status===429){ close(); showToast('You sent a lot of reports today. Try again tomorrow.'); return; }
+            if(!r.ok) throw 0;
+            close(); showToast('Thanks. We will look at it.');
+          }catch(_){ err.textContent='Couldn’t send that. Try again.'; go.disabled=false; }
+        }});
+      var g=ov.querySelector('[data-modal-go]'); if(g) g.dataset.ic='flag';
+    }
+    async function ugcBlock(handle, on){
+      if(!currentUser){ openAuth(); return; }
+      if(on && !confirm('Block @'+handle+'?\n\nYou will not see their gigs, clips or notes, and they cannot see yours. They are not told.')) return;
+      try{
+        var r=await authedFetch(on?'/api/block':'/api/unblock',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ handle:handle }) });
+        if(r.status===401){ openAuth(); return; }
+        if(!r.ok) throw 0;
+        showToast(on?'Blocked @'+handle+'.':'Unblocked @'+handle+'.');
+        openProfile(handle);
+      }catch(_){ showToast('Couldn’t do that. Try again.'); }
+    }
     function wirePbProfile(p){
       var s=p.shelves||{}, isMe=p.isMe, diary=p.diary||[];
+      var pm=document.getElementById('pb-more'); if(pm) pm.addEventListener('click', function(){ ugcMenu(pm, p.handle); });
       wireProfile();
       wireRotation(p);
       if(isMe) fillLogNudges();
@@ -11610,6 +11670,13 @@ a.dst-full-t:hover{text-decoration:underline}
         if(r.status===404){ openPanel('<div class="empty">There is nobody called u/'+esc(handle)+'</div>'); return; }
         var p=await r.json();
         var s=p.shelves||{wannaSee:[],seen:[],events:[],venues:[]};
+        if(p.blocked){
+          openPanel('<div class="pb-blk"><div class="pf-id" style="padding:24px 20px 0"><h1 class="pfh-name">'+esc(p.displayName||('u/'+p.handle))+'</h1><div class="pfh-sub">@'+esc(p.handle)+'</div></div>'+
+            '<div class="pb-blocked"><h2>You blocked @'+esc(p.handle)+'</h2><p>You will not see their gigs, clips or notes, and they cannot see yours.</p>'+
+            '<button class="pf-btn" id="pb-unblock" data-ic="retry" type="button">Unblock</button></div></div>');
+          var ub=document.getElementById('pb-unblock'); if(ub) ub.addEventListener('click', function(){ ugcBlock(p.handle, false); });
+          return;
+        }
         if(p.locked){ openPanel('<div class="pb-root"><div class="pb-cover"><div class="pb-brand"><b>soundcheck</b> · passport</div></div><div class="empty" style="margin-top:18px">This diary is private.</div></div>'); wireProfile(); armSticky(p.displayName||('u/'+p.handle), null, (panelBody&&panelBody.querySelector('.pb-cover'))||document.getElementById('page-body')); return; }
         p._deepTab=_deepTab;   // thread the deep-link tab into the render
         openPanel(pbProfileHTML(p));

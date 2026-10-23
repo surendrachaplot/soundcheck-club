@@ -1,14 +1,16 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
+Seth Troxler is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, with 347 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 63 more. Often billed alongside DJ Tennis, Chloé Caillet and Sossa. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
+Seth Troxler is a house and techno artist based in United States of America, with 349 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 63 more. Often billed alongside DJ Tennis, Chloé Caillet and Sossa. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Sat, 24 Oct 2026 | Madam | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sat, 31 Oct 2026 | Club Space Miami | Miami |
@@ -18,19 +20,17 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 | Fri, 27 Nov 2026 | BERHTA | Washington DC |
 | Sat, 28 Nov 2026 | Lincoln Factory | Detroit |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
-| Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
-| Tue, 29 Dec 2026 | Du Port El Gouna | Egypt |
 
 ## Recently played
 
 - BRET, Amsterdam · Thu, 22 Oct 2026
+- A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
 - Ironworks, London · Sat, 3 Oct 2026
 - T7 Paris, Paris · Fri, 2 Oct 2026
-- TBA - Quai De Heembeek, Brussels · Tue, 29 Sept 2026
 
 ## Shares bills with
 

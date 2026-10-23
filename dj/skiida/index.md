@@ -1,15 +1,13 @@
 # SKiiDA
 
-SKiiDA is a Club and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bolero, Seoul on Fri, 23 Oct 2026.
+SKiiDA is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bolero, Seoul on Sat, 24 Oct 2026.
 
-SKiiDA is a club and hip-hop artist based in South Korea, with 158 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside DOBERMAN, Multivsn and ANDOW. Next up: Bolero, Seoul on Fri 23 Oct.
+SKiiDA is a club and hip-hop artist based in South Korea, with 158 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside DOBERMAN, Multivsn and ANDOW. Next up: Bolero, Seoul on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Bolero | Seoul |
-| Fri, 23 Oct 2026 | Bolero | Seoul |
 | Sat, 24 Oct 2026 | Bolero | Seoul |
 | Sat, 24 Oct 2026 | RO Seoul | Seoul |
 

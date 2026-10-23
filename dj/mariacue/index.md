@@ -1,6 +1,6 @@
 # Maria Cue
 
-Maria Cue is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
+Maria Cue is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
 
 Maria Cue is a techno and house artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and Madrid and 2 more. Often billed alongside Valody, BIANKA and Serti. Next up: ingang, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Maria Cue is a techno and house artist based in Netherlands, with 35 gigs on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | ingang | Amsterdam |
-| Fri, 23 Oct 2026 | Pakhuis de Zwijger | Amsterdam |
 | Sat, 24 Oct 2026 | Café Katoen | Amsterdam |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
 

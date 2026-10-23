@@ -1,11 +1,11 @@
-# [SOLD OUT] SOULFUEL HALLOWEEN with blissy e & DREY All Night Long at Night Tales Loft
+# [SOLD OUT] SOULFUEL HALLOWEEN with blissy e & DREY All Night Long at NT's Loft
 
-[SOLD OUT] SOULFUEL HALLOWEEN with blissy e & DREY All Night Long at Night Tales Loft on Sat 31 Oct, London. 2 artists: blissy e and DREY (UK). See the line-up on soundcheck.
+[SOLD OUT] SOULFUEL HALLOWEEN with blissy e & DREY All Night Long at NT's Loft on Sat 31 Oct, London. 2 artists: blissy e and DREY (UK). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 31 Oct 2026 |
-| Venue | Night Tales Loft |
+| Venue | NT's Loft |
 | City | London |
 
 ## Line-up

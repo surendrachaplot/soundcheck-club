@@ -14,7 +14,7 @@ ENNIO is a techno and house artist, with 92 gigs on soundcheck across Amsterdam,
 
 ## Recently played
 
-- Gap House, Berlin · Sat, 10 Oct 2026
+- TBA, Berlin · Sat, 10 Oct 2026
 - fabric, London · Sat, 10 Oct 2026
 - The DBA, Manchester · Sat, 3 Oct 2026
 - AMT, Berlin · Fri, 25 Sept 2026

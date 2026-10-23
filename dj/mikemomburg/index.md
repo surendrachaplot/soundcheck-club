@@ -1,14 +1,13 @@
 # Mike Momburg
 
-Mike Momburg is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Mike Momburg is a House and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijland, Amsterdam on Sat, 24 Oct 2026.
 
-Mike Momburg is a house and trance artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 10 more. Often billed alongside Domenik Deckert, DAVINA and Carl Bergé. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
+Mike Momburg is a house and trance artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 10 more. Often billed alongside Domenik Deckert, DAVINA and Carl Bergé. Next up: Ijland, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Ijland | Amsterdam |
 | Sat, 31 Oct 2026 | Mojo | Hamburg |
 | Sat, 7 Nov 2026 | Gewölbe | Cologne |

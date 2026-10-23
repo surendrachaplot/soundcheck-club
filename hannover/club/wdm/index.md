@@ -15,7 +15,7 @@ WDM is a music venue in Hannover listed on soundcheck. 19 upcoming gigs, with li
 | Sat, 7 Nov 2026 | Klubnacht with Vladimir Dubyshkin, bauhof, Session Restore | Session Restore, Vladimir Dubyshkin, bauhof |
 | Fri, 13 Nov 2026 | Klubnacht with MATHILDA, Gold Teeth, adjustin' | MATHILDA (2) |
 | Sat, 14 Nov 2026 | EXIT with TRIPTYKH x Ben Techy x Noise Not War x IN FURCH | Ben Techy, In Furcht, Noise Not War, TRIPTYKH |
-| Fri, 20 Nov 2026 | Obscurité × Rekursiv | DJ GARGA, Herr Muller, Krackk, ruru (1), s-ray |
+| Fri, 20 Nov 2026 | Obscurité × rekursiv | DJ GARGA, Herr Muller, ISHAPE, Krackk, ruru (1), s-ray |
 | Fri, 20 Nov 2026 | Klubnachht with Amy Dabbs, CLAVD, randahlicious | Amy Dabbs, CLAVD |
 | Sat, 21 Nov 2026 | OBSESSION with Quelza | Quelza, SPORTMANN, Tarkan, co:co |
 

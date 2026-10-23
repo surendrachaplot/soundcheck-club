@@ -1,6 +1,6 @@
 # Parrish Smith
 
-Parrish Smith is a Techno and EBM artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Parrish Smith is a Techno and EBM artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Parrish Smith is a techno and ebm artist based in Netherlands, with 100 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 28 more. Often billed alongside Camy Huot, Mila V and Phase Fatale. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Parrish Smith is a techno and ebm artist based in Netherlands, with 100 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
-| Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | OT301 | Amsterdam |
 | Fri, 23 Oct 2026 | OT301 | Amsterdam |
 | Sat, 31 Oct 2026 | KHIDI | Tbilisi |

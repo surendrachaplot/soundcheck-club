@@ -14,7 +14,7 @@ Babyccino is a house and techno artist based in United Kingdom, with 65 gigs on 
 ## Recently played
 
 - SWG3, Glasgow · Mon, 19 Oct 2026
-- KOKO, London · Sat, 10 Oct 2026
+- The Marquee Moon, London · Sat, 10 Oct 2026
 - Sub Club, Glasgow · Fri, 9 Oct 2026
 - La Cheetah Club, Glasgow · Tue, 29 Sept 2026
 - 1990, Glasgow · Sat, 26 Sept 2026

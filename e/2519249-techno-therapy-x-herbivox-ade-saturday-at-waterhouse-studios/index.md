@@ -14,6 +14,6 @@ Techno Therapy x Herbivox: ADE Saturday at Waterhouse Studios on Sat 24 Oct, Ams
 - Mission Architect
 - Nicola Piva
 - Prabuddha
-- Taylor Taylor (NL)
+- Taylor Taylor
 
 *Source: [soundcheck](https://soundcheck.club/e/2519249-techno-therapy-x-herbivox-ade-saturday-at-waterhouse-studios/)*

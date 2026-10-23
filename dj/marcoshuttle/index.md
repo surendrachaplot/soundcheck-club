@@ -1,6 +1,6 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
+Marco Shuttle is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
 
 Marco Shuttle is a techno and house artist based in Italy, with 173 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Lofi, Amsterdam on Fri 23 Oct.
 
@@ -8,7 +8,6 @@ Marco Shuttle is a techno and house artist based in Italy, with 173 gigs on soun
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Sat, 24 Oct 2026 | Fuse | Brussels |
 | Sun, 1 Nov 2026 | Hoppetosse | Berlin |

@@ -1,14 +1,13 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 22 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Entropy 熵 with Ottoman Grüw (Mutant Modality, Brussels)" on Fri, 23 Oct 2026.
+宀 Club is a music venue in Hong Kong with 21 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Distrikt 33: Finsent C (cipher, Macau) + Faxtory (Distrikt, Hong Kong)" on Sat, 24 Oct 2026.
 
-宀 Club is a music venue in Hong Kong listed on soundcheck. 22 upcoming gigs, with line-ups including ADRIANNA.C, Anyss, Bouffant Bouffant and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hong Kong listed on soundcheck. 21 upcoming gigs, with line-ups including ADRIANNA.C, Anyss, Bouffant Bouffant and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Entropy 熵 with Ottoman Grüw (Mutant Modality, Brussels) | Nanogram, Ottoman Grüw |
 | Sat, 24 Oct 2026 | Distrikt 33: Finsent C (cipher, Macau) + Faxtory (Distrikt, Hong Kong) | Faxtory, Finsent C |
 | Fri, 30 Oct 2026 | Daura (Stoked Lint, Montreal) [All Night Long Vinyl Set] | Daura |
 | Sat, 31 Oct 2026 | 宀 Halloween with Lucents (Bà, Hong Kong) + Tynee (Hong Kong) | Lucents |
@@ -18,6 +17,7 @@
 | Sat, 14 Nov 2026 | VG+ with Kuba'97 (Beautiful Freaks, Brussels) [All Night Long Vinyl Set] | Kuba'97 |
 | Fri, 20 Nov 2026 | Entropy 熵 with Valentin Ginies (11001 Records, Berlin) + Nanogram (Entropy 熵, Hong Kong) | Nanogram, Valentin Ginies |
 | Sat, 21 Nov 2026 | HOST 8TH ANNIVERSARY with Gemnital (Taipei) & Bouffant Bouffant (New Orleans) | Bouffant Bouffant, Gemnital |
+| Fri, 27 Nov 2026 | FOLD x 宀 with James Newmarch & Voicedrone (FOLD, London) + Faxtory & Scott B (Distrikt, HK) | Faxtory, James Newmarch, Scott B, Voicedrone |
 
 ## Address
 

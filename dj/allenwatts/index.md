@@ -1,14 +1,13 @@
 # Allen Watts
 
-Allen Watts is a Trance and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Allen Watts is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Allen Watts is a trance and psytrance artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Bangkok, Glasgow and Hamburg and 5 more. Often billed alongside Mark Landragin, Sean Tyas and Solarstone. Next up: The Tequila Club | Amsterdam, Amsterdam on Fri 23 Oct.
+Allen Watts is a trance and psytrance artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Bangkok, Glasgow and Hamburg and 5 more. Often billed alongside Mark Landragin, Sean Tyas and Solarstone. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | The Tequila Club / Amsterdam | Amsterdam |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # OKO DJ
 
-OKO DJ is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
+OKO DJ is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at San Francisco, Amsterdam on Sun, 25 Oct 2026.
 
-OKO DJ is an experimental and techno artist based in France, with 103 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Eiger Drums Propaganda, Nosedrip and Judaah. Next up: La Station - Gare des Mines, Paris on Fri 23 Oct.
+OKO DJ is an experimental and techno artist based in France, with 103 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Eiger Drums Propaganda, Nosedrip and Judaah. Next up: San Francisco, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sun, 25 Oct 2026 | San Francisco | Amsterdam |
 | Sat, 7 Nov 2026 | The White Hotel | Manchester |
 | Sat, 28 Nov 2026 | Botanique | Brussels |

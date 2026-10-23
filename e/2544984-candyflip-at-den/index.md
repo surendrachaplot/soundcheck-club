@@ -1,6 +1,6 @@
 # candyflip at ÆDEN
 
-candyflip at ÆDEN on Sat 28 Nov, Berlin. 13 artists: ARPL, BENITO (DE), brvder jakob and DJ KAIDO and 9 more. Trance. See the line-up on soundcheck.
+candyflip at ÆDEN on Sat 28 Nov, Berlin. 12 artists: ARPL, BENITO (DE), brvder jakob and DJ KAIDO and 8 more. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,7 +18,6 @@ candyflip at ÆDEN on Sat 28 Nov, Berlin. 13 artists: ARPL, BENITO (DE), brvder 
 - Florelle
 - Kaltgepresst
 - LÄUFF
-- MISSTAKEN
 - Rabe Rax
 - Sköne
 - subga

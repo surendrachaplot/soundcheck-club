@@ -1,14 +1,13 @@
 # Kabay
 
-Kabay is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Frekuence, Tirana on Fri, 23 Oct 2026.
+Kabay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Arzenal, Budapest on Sat, 7 Nov 2026.
 
-Kabay is a techno and house artist based in Poland, with 31 gigs on soundcheck across Amsterdam, Berlin, Budapest and Glasgow and 9 more. Often billed alongside LAZLO, Mold Boutique and Arkane. Next up: Frekuence, Tirana on Fri 23 Oct.
+Kabay is a techno and house artist based in Poland, with 31 gigs on soundcheck across Amsterdam, Berlin, Budapest and Glasgow and 9 more. Often billed alongside LAZLO, Mold Boutique and Arkane. Next up: Arzenal, Budapest on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Frekuence | Tirana |
 | Sat, 7 Nov 2026 | Arzenal | Budapest |
 | Fri, 4 Dec 2026 | WDM | Hannover |
 

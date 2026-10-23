@@ -1,15 +1,13 @@
 # Jarreau Vandal
 
-Jarreau Vandal is a Hip-Hop and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Parallel, Amsterdam on Fri, 23 Oct 2026.
+Jarreau Vandal is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
 
-Jarreau Vandal is a hip-hop and house artist based in Netherlands, with 78 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside LAMSI, p-rallel and Conducta. Next up: Parallel, Amsterdam on Fri 23 Oct.
+Jarreau Vandal is a hip-hop and house artist based in Netherlands, with 78 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside LAMSI, p-rallel and Conducta. Next up: Skatecafe, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Parallel | Amsterdam |
-| Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Sat, 24 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played

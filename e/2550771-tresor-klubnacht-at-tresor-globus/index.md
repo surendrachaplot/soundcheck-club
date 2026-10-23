@@ -1,6 +1,6 @@
 # Tresor Klubnacht at Tresor / Globus
 
-Tresor Klubnacht at Tresor / Globus on Sat 14 Nov, Berlin. 8 artists: Cecilia Tosh, Hamish, James Ruskin and JAXX TMS and 4 more. See the line-up on soundcheck.
+Tresor Klubnacht at Tresor / Globus on Sat 14 Nov, Berlin. 7 artists: Cecilia Tosh, Hamish & Toby, James Ruskin and JAXX TMS and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,12 +11,11 @@ Tresor Klubnacht at Tresor / Globus on Sat 14 Nov, Berlin. 8 artists: Cecilia To
 ## Line-up
 
 - Cecilia Tosh
-- Hamish
+- Hamish & Toby
 - James Ruskin
 - JAXX TMS
 - Nat Wendell
 - NEUX
-- Toby (UK)
 - UVB
 
 *Source: [soundcheck](https://soundcheck.club/e/2550771-tresor-klubnacht-at-tresor-globus/)*

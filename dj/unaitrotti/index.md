@@ -1,14 +1,13 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Circus Osaka, Osaka on Fri, 23 Oct 2026.
+Unai Trotti is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WOMB, Tokyo on Sat, 24 Oct 2026.
 
-Unai Trotti is a techno and house artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 61 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Circus Osaka, Osaka on Fri 23 Oct.
+Unai Trotti is a techno and house artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 61 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: WOMB, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Circus Osaka | Osaka |
 | Sat, 24 Oct 2026 | WOMB | Tokyo |
 | Fri, 13 Nov 2026 | Le Trabendo | Paris |
 | Sat, 14 Nov 2026 | TBA -  SECRET LOCATION | Rome |

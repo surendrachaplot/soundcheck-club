@@ -13,7 +13,7 @@ Dublon is a house and jazz artist based in Denmark, with 39 gigs on soundcheck a
 | Thu, 29 Oct 2026 | Café Berlín | Madrid |
 | Mon, 9 Nov 2026 | The Grove | Newcastle |
 | Thu, 12 Nov 2026 | Headrow House | Leeds |
-| Sat, 14 Nov 2026 | Night Tales Loft | London |
+| Sat, 14 Nov 2026 | NT's Loft | London |
 
 ## Recently played
 

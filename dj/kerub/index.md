@@ -1,15 +1,14 @@
 # KERUB
 
-KERUB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bsmt 254, Toronto on Fri, 13 Nov 2026.
+KERUB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bsmt 254, Toronto on Fri, 13 Nov 2026.
 
-KERUB is a house and techno artist based in Canada, with 20 gigs on soundcheck across Toronto and Vancouver. Often billed alongside moodyjooly, Hycastle and DJ RATA. Next up: Bsmt 254, Toronto on Fri 13 Nov.
+KERUB is a house and techno artist based in Canada, with 19 gigs on soundcheck across Toronto and Vancouver. Often billed alongside moodyjooly, Hycastle and DJ RATA. Next up: Bsmt 254, Toronto on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Bsmt 254 | Toronto |
-| Sun, 3 Jan 2027 | TBA | Toronto |
 
 ## Recently played
 

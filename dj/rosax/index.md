@@ -1,14 +1,13 @@
 # Rosax
 
-Rosax is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Talk to Me, Melbourne on Fri, 23 Oct 2026.
+Rosax is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Collingwood Basement, Melbourne on Fri, 30 Oct 2026.
 
-Rosax is a techno and house artist based in Australia, with 8 gigs on soundcheck across Melbourne. Often billed alongside Joey Coco, AUNTY H!ST@M!NE and Cosmjn. Next up: Talk to Me, Melbourne on Fri 23 Oct.
+Rosax is a techno and house artist based in Australia, with 8 gigs on soundcheck across Melbourne. Often billed alongside Joey Coco, AUNTY H!ST@M!NE and Cosmjn. Next up: Collingwood Basement, Melbourne on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Talk to Me | Melbourne |
 | Fri, 30 Oct 2026 | Collingwood Basement | Melbourne |
 | Fri, 20 Nov 2026 | Sub Club Melbourne | Melbourne |
 

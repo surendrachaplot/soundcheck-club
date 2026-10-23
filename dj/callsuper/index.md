@@ -1,14 +1,13 @@
 # Call Super
 
-Call Super is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Call Super is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
 
-Call Super is a house and techno artist based in United Kingdom, with 235 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 75 more. Often billed alongside Ogazón, Shanti Celeste and Anz. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
+Call Super is a house and techno artist based in United Kingdom, with 235 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 75 more. Often billed alongside Ogazón, Shanti Celeste and Anz. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
 | Fri, 6 Nov 2026 | Bassiani | Tbilisi |

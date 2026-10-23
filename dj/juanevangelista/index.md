@@ -1,14 +1,13 @@
 # Juan Evangelista
 
-Juan Evangelista is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at POTENT, Shanghai on Fri, 23 Oct 2026.
+Juan Evangelista is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dada Beijing, Beijing on Sat, 24 Oct 2026.
 
-Juan Evangelista is a techno and house artist based in Argentina, with 57 gigs on soundcheck across Barcelona, Beijing, Berlin and Boston and 13 more. Often billed alongside Jamaica Suk, Alejandro Franco and Alexander Kowalski. Next up: POTENT, Shanghai on Fri 23 Oct.
+Juan Evangelista is a techno and house artist based in Argentina, with 57 gigs on soundcheck across Barcelona, Beijing, Berlin and Boston and 13 more. Often billed alongside Jamaica Suk, Alejandro Franco and Alexander Kowalski. Next up: Dada Beijing, Beijing on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | POTENT | Shanghai |
 | Sat, 24 Oct 2026 | Dada Beijing | Beijing |
 | Sat, 28 Nov 2026 | ://about blank | Berlin |
 

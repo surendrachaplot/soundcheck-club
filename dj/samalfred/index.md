@@ -1,6 +1,6 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Sam Alfred is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Sam Alfred is a house and techno artist based in Egypt, with 159 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Sam Alfred is a house and techno artist based in Egypt, with 159 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
-| Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 | Sat, 31 Oct 2026 | The Liquid Room | Edinburgh |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
@@ -20,6 +19,7 @@ Sam Alfred is a house and techno artist based in Egypt, with 159 gigs on soundch
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
+| Thu, 7 Jan 2027 | Carriageworks | Sydney |
 
 ## Recently played
 

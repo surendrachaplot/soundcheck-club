@@ -1,14 +1,13 @@
 # K A I
 
-K A I is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Atom Shinjuku, Tokyo on Fri, 23 Oct 2026.
+K A I is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
-K A I is a bass and house artist based in United Kingdom, with 75 gigs on soundcheck across Bali, Barcelona, Bucharest and Kanto and 6 more. Often billed alongside caro.aki, Civic Grief and Louis Shannon. Next up: Atom Shinjuku, Tokyo on Fri 23 Oct.
+K A I is a bass and house artist based in United Kingdom, with 75 gigs on soundcheck across Bali, Barcelona, Bucharest and Kanto and 6 more. Often billed alongside caro.aki, Civic Grief and Louis Shannon. Next up: Kinone Pension, Kanto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Atom Shinjuku | Tokyo |
 | Sat, 31 Oct 2026 | Kinone Pension | Kanto |
 
 ## Recently played

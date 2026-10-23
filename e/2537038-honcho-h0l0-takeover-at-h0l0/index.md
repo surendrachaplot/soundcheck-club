@@ -1,6 +1,6 @@
 # Honcho H0L0 Takeover at H0L0
 
-Honcho H0L0 Takeover on Sat 24 Oct, New York City. 12 artists: 'nohup', 999ADJ, Aaron Clark and Carlos Souffront and 8 more. Techno and House. See the line-up on soundcheck.
+Honcho H0L0 Takeover on Sat 24 Oct, New York City. 9 artists: 'nohup', 999ADJ, Carlos Souffront and Carrie Sours and 5 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,12 +12,9 @@ Honcho H0L0 Takeover on Sat 24 Oct, New York City. 12 artists: 'nohup', 999ADJ, 
 
 - 'nohup'
 - 999ADJ
-- Aaron Clark
 - Carlos Souffront
 - Carrie Sours
 - Carrieondisco
-- Clark Price
-- d'Adhemar
 - Honcho
 - Simisea
 - Sterling Juan Diaz

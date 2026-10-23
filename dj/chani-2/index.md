@@ -1,14 +1,13 @@
 # chani
 
-chani is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hertz, Seoul on Fri, 23 Oct 2026.
+chani is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Nyapi, Seoul on Sat, 24 Oct 2026.
 
-chani is a techno and electro artist based in South Korea, with 33 gigs on soundcheck across Berlin, Lyon and Seoul. Often billed alongside Kyuchan, Yoel and .2ndfloor. Next up: Hertz, Seoul on Fri 23 Oct.
+chani is a techno and electro artist based in South Korea, with 33 gigs on soundcheck across Berlin, Lyon and Seoul. Often billed alongside Kyuchan, Yoel and .2ndfloor. Next up: Nyapi, Seoul on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Hertz | Seoul |
 | Sat, 24 Oct 2026 | Nyapi | Seoul |
 
 ## Recently played

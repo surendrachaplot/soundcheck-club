@@ -12,7 +12,7 @@ XLR is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with l
 | Sat, 24 Oct 2026 | FuseFM x XLR [B.Y.O.B] | Nabeel |
 | Thu, 29 Oct 2026 | Halloween @ XLR; hosted by Linden Grove | Emile |
 | Fri, 30 Oct 2026 | A Warped Halloween: Frazer Ray (LIVE) + more [B.Y.O.B] | Frazer Ray |
-| Sat, 31 Oct 2026 | Grave Digger - Halloween Rave |  |
+| Sat, 31 Oct 2026 | Grave Digger - The Halloween Edition |  |
 | Fri, 27 Nov 2026 | 23 Degrees x XLR: Silva Snipa & Malps [B.Y.O.B] | Silva Snipa |
 | Sat, 28 Nov 2026 | FLY GIRLS$ X XLR [B.Y.O.B] |  |
 | Sat, 5 Dec 2026 | Neighbours x XLR [B.Y.O.B] | DJ HEADTORCH, GSpot, SUBVISIONS |

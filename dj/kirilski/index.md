@@ -9,7 +9,7 @@ Kirilski is a house and techno artist based in Ukraine, with 92 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Badhuis Amsterdam | Amsterdam |
-| Sat, 24 Oct 2026 | Loop51 | Amsterdam |
+| Sat, 24 Oct 2026 | Parck AKA Ping Pong Bar | Amsterdam |
 | Sun, 25 Oct 2026 | Panama | Amsterdam |
 | Sat, 14 Nov 2026 | Basement Amsterdam | Amsterdam |
 | Sat, 13 Feb 2027 | Supperclub | Amsterdam |

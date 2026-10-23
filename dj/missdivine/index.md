@@ -1,14 +1,13 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Sam Divine is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Arts Club, Liverpool on Sat, 24 Oct 2026.
 
-Sam Divine is a house and tech house artist based in United Kingdom, with 191 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 43 more. Often billed alongside Low Steppa, Lowsteppa and Arielle Free. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
+Sam Divine is a house and tech house artist based in United Kingdom, with 191 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 43 more. Often billed alongside Low Steppa, Lowsteppa and Arielle Free. Next up: Arts Club, Liverpool on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Sat, 24 Oct 2026 | Arts Club | Liverpool |
 | Fri, 30 Oct 2026 | Halcyon | San Francisco/Oakland |
 | Fri, 6 Nov 2026 | Club Vinyl | Denver |
@@ -20,6 +19,7 @@ Sam Divine is a house and tech house artist based in United Kingdom, with 191 gi
 | Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
 | Fri, 11 Dec 2026 | Northcote Theatre | Melbourne |
 | Sat, 12 Dec 2026 | The Ivy | Sydney |
+| Thu, 31 Dec 2026 | OVO Arena Wembley | London |
 
 ## Recently played
 

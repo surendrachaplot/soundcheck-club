@@ -1,14 +1,13 @@
 # Yulia Niko
 
-Yulia Niko is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Yulia Niko is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
 
-Yulia Niko is a house and techno artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside ARODES, DJ Tennis and Damian Lazarus. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Yulia Niko is a house and techno artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside ARODES, DJ Tennis and Damian Lazarus. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sun, 25 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Thu, 3 Dec 2026 | Factory Town | Miami |

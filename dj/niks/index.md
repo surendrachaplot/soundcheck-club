@@ -1,15 +1,14 @@
 # NIKS
 
-NIKS is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Fri, 23 Oct 2026.
+NIKS is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kazerne Reigersbos, Amsterdam on Sun, 25 Oct 2026.
 
-NIKS is a house and techno artist based in United Kingdom, with 169 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: Het Rijk van de Keizer, Amsterdam on Fri 23 Oct.
+NIKS is a house and techno artist based in United Kingdom, with 169 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: Kazerne Reigersbos, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
-| Sun, 25 Oct 2026 | TBA - Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 | Kazerne Reigersbos | Amsterdam |
 | Sat, 31 Oct 2026 | OHM | Berlin |
 | Sat, 7 Nov 2026 | Razzmatazz | Barcelona |
 | Sat, 28 Nov 2026 | FOLD | London |

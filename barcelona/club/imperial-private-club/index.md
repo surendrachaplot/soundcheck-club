@@ -9,7 +9,7 @@ Imperial Private Club is a music venue in Barcelona listed on soundcheck. 4 upco
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | BERLINA - Hard Techno Kinky Party | Kleyver Reyes, MDM, Sora Éke |
-| Wed, 28 Oct 2026 | Social for Kinksters: Edition IV  |  |
+| Wed, 28 Oct 2026 | Social for Kinksters: Edition IV // 60% sold out |  |
 | Fri, 6 Nov 2026 | The Secrets | Devicious, Vaninajaz. |
 | Fri, 13 Nov 2026 | Kinky Films 1st Edition |  |
 

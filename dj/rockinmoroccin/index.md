@@ -1,14 +1,13 @@
 # Rockin Moroccin
 
-Rockin Moroccin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Rockin Moroccin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
 
-Rockin Moroccin is a house and techno artist based in Morocco, with 39 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside C.M.A., Guy Gerber and ARODES. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Rockin Moroccin is a house and techno artist based in Morocco, with 39 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside C.M.A., Guy Gerber and ARODES. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sun, 25 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Fri, 30 Oct 2026 | KOKO | London |
 

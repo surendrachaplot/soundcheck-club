@@ -9,7 +9,7 @@ Tom Novy is a house and disco artist based in Germany, with 16 gigs on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Badhuis Amsterdam | Amsterdam |
-| Sat, 24 Oct 2026 | Loop51 | Amsterdam |
+| Sat, 24 Oct 2026 | Parck AKA Ping Pong Bar | Amsterdam |
 | Sat, 31 Oct 2026 | MH5 Rooftop | Munich |
 
 ## Recently played

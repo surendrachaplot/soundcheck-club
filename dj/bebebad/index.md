@@ -1,14 +1,13 @@
 # bebe bad
 
-bebe bad is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Fri, 23 Oct 2026.
+bebe bad is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-bebe bad is a house and techno artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Eindhoven, Rotterdam and Utrecht. Often billed alongside Doppelgang, SAIDAH and Tsepo. Next up: Het Rijk van de Keizer, Amsterdam on Fri 23 Oct.
+bebe bad is a house and techno artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Eindhoven, Rotterdam and Utrecht. Often billed alongside Doppelgang, SAIDAH and Tsepo. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | nachbar | Amsterdam |
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |

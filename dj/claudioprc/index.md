@@ -2,7 +2,7 @@
 
 Claudio PRC is a Techno and Experimental artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Claudio PRC is a techno and experimental artist based in Italy, with 180 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 57 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
+Claudio PRC is a techno and experimental artist based in Italy, with 179 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 57 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,9 +26,9 @@ Claudio PRC is a techno and experimental artist based in Italy, with 180 gigs on
 - The Bassement, Madrid · Sat, 10 Oct 2026
 - Gare Porto, Porto · Sun, 4 Oct 2026
 - E1, London · Sat, 3 Oct 2026
-- E1, London · Sat, 3 Oct 2026
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - TBA - Ex-Centrale Santa Gilla, Cagliari, Sardinia · Sun, 27 Sept 2026
+- Paradiso, Amsterdam · Fri, 18 Sept 2026
 
 ## Shares bills with
 

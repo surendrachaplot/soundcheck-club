@@ -1,14 +1,13 @@
 # Shonky
 
-Shonky is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Blast Galaxy, Amsterdam on Fri, 23 Oct 2026.
+Shonky is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Balboa Salzburg Nightclub, Austria on Sat, 24 Oct 2026.
 
-Shonky is a house and minimal artist based in France, with 251 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 74 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Blast Galaxy, Amsterdam on Fri 23 Oct.
+Shonky is a house and minimal artist based in France, with 251 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 74 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Balboa Salzburg Nightclub, Austria on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 | Sat, 24 Oct 2026 | Balboa Salzburg Nightclub | Austria |
 | Sat, 7 Nov 2026 | fabric | London |
 | Fri, 27 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
