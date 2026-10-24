@@ -1,6 +1,6 @@
 # Maseriche
 
-Maseriche is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at CHICO, Mexico City on Fri, 23 Oct 2026.
+Maseriche is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at CHICO, Mexico City on Fri, 23 Oct 2026.
 
 Maseriche is a techno and house artist based in Mexico, with 81 gigs on soundcheck across Mexico City. Often billed alongside Seagit Arc, Bluecommand and Gerhard. Next up: CHICO, Mexico City on Fri 23 Oct.
 
@@ -13,6 +13,7 @@ Maseriche is a techno and house artist based in Mexico, with 81 gigs on soundche
 
 ## Recently played
 
+- CHICO, Mexico City · Fri, 23 Oct 2026
 - CHICO, Mexico City · Sat, 3 Oct 2026
 - Fünk, Mexico City · Thu, 24 Sept 2026
 - Japan Monterrey, Mexico City · Fri, 18 Sept 2026
@@ -20,10 +21,9 @@ Maseriche is a techno and house artist based in Mexico, with 81 gigs on soundche
 - TBA - av insurgentes sur 105, roma sur, Mexico City · Fri, 4 Sept 2026
 - Rei Room, Mexico City · Sat, 22 Aug 2026
 - YuYu Cine Club, Mexico City · Sat, 27 Jun 2026
-- Doméstico, Mexico City · Thu, 11 Jun 2026
 
 ## Shares bills with
 
 Seagit Arc, Bluecommand, Gerhard
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maseriche/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maseriche/)*

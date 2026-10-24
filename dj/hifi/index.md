@@ -1,6 +1,6 @@
 # Hi/Fi
 
-Hi/Fi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Company Club, Milan on Sat, 24 Oct 2026.
+Hi/Fi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Company Club, Milan on Sat, 24 Oct 2026.
 
 Hi/Fi is a techno and house artist based in Italy, with 32 gigs on soundcheck across Barcelona and Milan. Often billed alongside Hutchee, Pietro Fantin and Crissaf. Next up: Company Club, Milan on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Hi/Fi is a techno and house artist based in Italy, with 32 gigs on soundcheck ac
 
 Hutchee, Pietro Fantin, Crissaf
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hifi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hifi/)*

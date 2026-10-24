@@ -1,6 +1,6 @@
 # Squidgenini
 
-Squidgenini is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 24 Oct 2026.
+Squidgenini is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 24 Oct 2026.
 
 Squidgenini is a house and downtempo artist, with 14 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Phil Smart, Aidan Beiers and ABSOLUTE.. Next up: Angel Music Bar, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Squidgenini is a house and downtempo artist, with 14 gigs on soundcheck across B
 
 Phil Smart, Aidan Beiers, ABSOLUTE.
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/squidgenini/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/squidgenini/)*

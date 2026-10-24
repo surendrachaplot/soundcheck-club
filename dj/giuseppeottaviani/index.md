@@ -1,6 +1,6 @@
 # Giuseppe Ottaviani
 
-Giuseppe Ottaviani is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at SWG3, Glasgow on Fri, 4 Dec 2026.
+Giuseppe Ottaviani is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at SWG3, Glasgow on Fri, 4 Dec 2026.
 
 Giuseppe Ottaviani is a trance and techno artist based in Italy, with 50 gigs on soundcheck across Budapest, Buenos Aires, Glasgow and Houston and 25 more. Often billed alongside Billy Gillies, Ferry Corsten and Amy Wiles. Next up: SWG3, Glasgow on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Giuseppe Ottaviani is a trance and techno artist based in Italy, with 50 gigs on
 
 Billy Gillies, Ferry Corsten, Amy Wiles
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppeottaviani/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppeottaviani/)*

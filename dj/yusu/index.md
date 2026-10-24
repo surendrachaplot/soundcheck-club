@@ -1,6 +1,6 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Jaeger, Oslo on Sat, 24 Oct 2026.
+Yu Su is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Jaeger, Oslo on Sat, 24 Oct 2026.
 
 Yu Su is a house and techno artist based in China, with 165 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 53 more. Often billed alongside Leon Vynehall, Antal and Ben UFO. Next up: Jaeger, Oslo on Sat 24 Oct.
 
@@ -18,6 +18,7 @@ Yu Su is a house and techno artist based in China, with 165 gigs on soundcheck a
 
 ## Recently played
 
+- TBA, Amsterdam · Fri, 23 Oct 2026
 - Fidelity Studio, Dublin · Sat, 17 Oct 2026
 - CLUB RAUM, Amsterdam · Fri, 9 Oct 2026
 - Strange Brew, Bristol · Wed, 7 Oct 2026
@@ -25,10 +26,9 @@ Yu Su is a house and techno artist based in China, with 165 gigs on soundcheck a
 - St. Bartholomew's Church, New York City · Sun, 27 Sept 2026
 - The Cross, London · Thu, 24 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
-- Standard Time, Toronto · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Leon Vynehall, Antal, Ben UFO
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

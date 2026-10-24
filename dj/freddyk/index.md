@@ -1,8 +1,8 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
+Freddy K is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
 
-Freddy K is a techno and house artist based in Germany, with 314 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 79 more. Often billed alongside Chlär, Alarico and Blasha & Allatt. Next up: BRET, Amsterdam on Fri 23 Oct.
+Freddy K is a techno and house artist based in Germany, with 315 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 79 more. Often billed alongside Chlär, Alarico and Blasha & Allatt. Next up: BRET, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -19,21 +19,21 @@ Freddy K is a techno and house artist based in Germany, with 314 gigs on soundch
 | Sat, 21 Nov 2026 | SMUT Athens | Athens |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
-| Fri, 18 Dec 2026 | Flash | Washington DC |
+| Sat, 5 Dec 2026 | Cosmos Club Sevilla | South |
 
 ## Recently played
 
+- BRET, Amsterdam · Fri, 23 Oct 2026
+- TILLATEC, Amsterdam · Fri, 23 Oct 2026
 - fabric, London · Sat, 17 Oct 2026
 - Fuse, Brussels · Sat, 17 Oct 2026
 - Tokonoma Club, Frankfurt · Fri, 16 Oct 2026
 - not|or|ius Club, Turin · Sat, 10 Oct 2026
 - Under Bron, Stockholm · Fri, 9 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
-- Cockatoo Island, Sydney · Sun, 4 Oct 2026
-- Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Chlär, Alarico, Blasha & Allatt
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

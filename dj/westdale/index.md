@@ -1,6 +1,6 @@
 # Westdale
 
-Westdale is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lithium Paris, Paris on Sat, 24 Oct 2026.
+Westdale is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Lithium Paris, Paris on Sat, 24 Oct 2026.
 
 Westdale is a techno and downtempo artist based in Canada, with 23 gigs on soundcheck across Belgrade, Berlin, Bratislava and Leipzig and 5 more. Often billed alongside Warzou, Skalm and atomal. Next up: Lithium Paris, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Westdale is a techno and downtempo artist based in Canada, with 23 gigs on sound
 
 Warzou, Skalm, atomal
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westdale/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westdale/)*

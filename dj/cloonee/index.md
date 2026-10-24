@@ -1,6 +1,6 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at GASHOUDER, Amsterdam on Sat, 24 Oct 2026.
+Cloonee is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at GASHOUDER, Amsterdam on Sat, 24 Oct 2026.
 
 Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 32 more. Often billed alongside Jamie Jones, Sosa and Franky Rizardo. Next up: GASHOUDER, Amsterdam on Sat 24 Oct.
 
@@ -23,6 +23,7 @@ Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs o
 
 ## Recently played
 
+- Sugarfactory, Amsterdam · Fri, 23 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Pacha Ibiza, Ibiza · Thu, 8 Oct 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
@@ -30,10 +31,9 @@ Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs o
 - Brooklyn Army Terminal, New York City · Sat, 15 Aug 2026
 - [UNVRS], Ibiza · Tue, 4 Aug 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 1 Aug 2026
-- Cavo Paradiso, Mykonos · Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Jamie Jones, Sosa, Franky Rizardo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

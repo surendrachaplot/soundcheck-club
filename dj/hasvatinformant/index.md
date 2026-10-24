@@ -1,6 +1,6 @@
 # Hasvat Informant
 
-Hasvat Informant is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Fitzroy, Berlin on Sun, 15 Nov 2026.
+Hasvat Informant is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Fitzroy, Berlin on Sun, 15 Nov 2026.
 
 Hasvat Informant is a techno and house artist based in Australia, with 72 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brisbane and 9 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: Fitzroy, Berlin on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Hasvat Informant is a techno and house artist based in Australia, with 72 gigs o
 
 Mama Snake, Cloudy Ku, Simrana
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*

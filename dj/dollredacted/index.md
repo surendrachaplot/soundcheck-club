@@ -1,6 +1,6 @@
 # Doll Redacted
 
-Doll Redacted is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Dolphin, Philadelphia on Sat, 21 Nov 2026.
+Doll Redacted is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Dolphin, Philadelphia on Sat, 21 Nov 2026.
 
 Doll Redacted is a house and techno artist based in United States of America, with 24 gigs on soundcheck across Barcelona, Lisbon and Philadelphia. Often billed alongside Firestone, Deluxe Ultra and Eden Alison. Next up: The Dolphin, Philadelphia on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Doll Redacted is a house and techno artist based in United States of America, wi
 
 Firestone, Deluxe Ultra, Eden Alison
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dollredacted/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dollredacted/)*

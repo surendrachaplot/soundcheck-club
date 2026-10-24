@@ -1,6 +1,6 @@
 # DAAS (1)
 
-DAAS (1) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 14 Nov 2026.
+DAAS (1) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 14 Nov 2026.
 
 DAAS is a house and club artist, with 17 gigs on soundcheck across Berlin and Marseille. Often billed alongside MARIE.MOON, No Silver Bullet and WEDER. Next up: Bulbul Berlin, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DAAS is a house and club artist, with 17 gigs on soundcheck across Berlin and Ma
 
 MARIE.MOON, No Silver Bullet, WEDER
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daas-1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daas-1/)*

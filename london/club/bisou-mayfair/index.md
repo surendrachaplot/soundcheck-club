@@ -1,6 +1,6 @@
 # Bisou Mayfair
 
-Bisou Mayfair is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ALL EARS X BISOU" on Sat, 24 Oct 2026.
+Bisou Mayfair is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ALL EARS X BISOU" on Sat, 24 Oct 2026.
 
 Bisou Mayfair is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 9 Swallow Street, London, W1B 4DF.
 
@@ -16,4 +16,4 @@ Bisou Mayfair is a music venue in London listed on soundcheck. 3 upcoming gigs. 
 
 9 Swallow Street, London, W1B 4DF, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bisou-mayfair/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bisou-mayfair/)*

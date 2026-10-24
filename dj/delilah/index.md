@@ -1,14 +1,13 @@
 # Delilah
 
-Delilah is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 23 Oct 2026.
+Delilah is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mint XL, Leeds on Fri, 30 Oct 2026.
 
-Delilah is a house and tech house artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Bristol, Brussels and Dublin and 9 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: Frankhan Selectist, Istanbul on Fri 23 Oct.
+Delilah is a house and tech house artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Bristol, Brussels and Dublin and 9 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: Mint XL, Leeds on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Frankhan Selectist | Istanbul |
 | Fri, 30 Oct 2026 | Mint XL | Leeds |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 7 Nov 2026 | Invisible Wind Factory | Liverpool |
@@ -18,6 +17,7 @@ Delilah is a house and tech house artist based in United Kingdom, with 45 gigs o
 
 ## Recently played
 
+- Frankhan Selectist, Istanbul · Fri, 23 Oct 2026
 - Hï Ibiza, Ibiza · Fri, 9 Oct 2026
 - Hidden, Manchester · Sat, 3 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
@@ -25,10 +25,9 @@ Delilah is a house and tech house artist based in United Kingdom, with 45 gigs o
 - Camp and Furnace, Liverpool · Sat, 12 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Milandia, Zurich · Sat, 5 Sept 2026
-- Hï Ibiza, Ibiza · Tue, 1 Sept 2026
 
 ## Shares bills with
 
 MiNNA, Rossi, Sidney Charles
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*

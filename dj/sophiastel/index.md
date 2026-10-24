@@ -1,6 +1,6 @@
 # Sophia Stel
 
-Sophia Stel is a Electronica and Pop artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
+Sophia Stel is a Electronica and Pop artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
 
 Sophia Stel is an electronica and pop artist based in Canada, with 14 gigs on soundcheck across Berlin, London, Los Angeles and Melbourne and 2 more. Often billed alongside Hannah Diamond, CITYTRONIX and GFOTY. Next up: Colour Factory, London on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Sophia Stel is an electronica and pop artist based in Canada, with 14 gigs on so
 
 Hannah Diamond, CITYTRONIX, GFOTY
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiastel/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiastel/)*

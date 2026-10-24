@@ -1,6 +1,6 @@
 # 反核機動隊
 
-反核機動隊 is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Suns Shimokitazawa, Tokyo on Fri, 30 Oct 2026.
+反核機動隊 is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Suns Shimokitazawa, Tokyo on Fri, 30 Oct 2026.
 
 反核機動隊 is a jungle and bass artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside ALPHA, Acrocanthosaurus and saqess. Next up: Suns Shimokitazawa, Tokyo on Fri 30 Oct.
 
@@ -13,6 +13,7 @@
 
 ## Recently played
 
+- Shinjuku Duusraa, Tokyo · Fri, 23 Oct 2026
 - Shinjuku Duusraa, Tokyo · Mon, 21 Sept 2026
 - Suns Shimokitazawa, Tokyo · Sat, 19 Sept 2026
 - Shinjuku Duusraa, Tokyo · Sat, 5 Sept 2026
@@ -23,4 +24,4 @@
 
 ALPHA (4), Acrocanthosaurus, saqess
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hankakukidotai/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hankakukidotai/)*

@@ -1,6 +1,6 @@
 # JEWELSSEA
 
-JEWELSSEA is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
+JEWELSSEA is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
 
 JEWELSSEA is a club and techno artist based in United States of America, with 125 gigs on soundcheck across Baltimore, Los Angeles, Mexico City and Miami and 5 more. Often billed alongside low iron, SHUGAZI and Phreakwency. Next up: Bossa Nova Civic Club, New York City on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ JEWELSSEA is a club and techno artist based in United States of America, with 12
 
 low iron, SHUGAZI, Phreakwency
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelssea/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelssea/)*

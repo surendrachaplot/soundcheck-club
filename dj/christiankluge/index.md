@@ -1,6 +1,6 @@
 # Christian Kluge
 
-Christian Kluge is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
+Christian Kluge is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
 
 Christian Kluge is a breakbeat and house artist, with 31 gigs on soundcheck across Berlin and Hamburg. Often billed alongside N:in (DE), Ivaldo Gino and A_P_F_L. Next up: ://about blank, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Christian Kluge is a breakbeat and house artist, with 31 gigs on soundcheck acro
 
 N:in (DE), Ivaldo Gino, A_P_F_L
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christiankluge/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christiankluge/)*

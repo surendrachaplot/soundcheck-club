@@ -1,6 +1,6 @@
 # Penglord
 
-Penglord is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Coco Boule, Berlin on Fri, 13 Nov 2026.
+Penglord is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Coco Boule, Berlin on Fri, 13 Nov 2026.
 
 Penglord is a techno and house artist based in Germany, with 75 gigs on soundcheck across Basel, Berlin, Cologne and Dresden and 11 more. Often billed alongside P.Vanillaboy, EliaHaze and Hello Sasy. Next up: Coco Boule, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Penglord is a techno and house artist based in Germany, with 75 gigs on soundche
 
 P.Vanillaboy, EliaHaze, Hello Sasy
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penglord/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penglord/)*

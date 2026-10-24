@@ -1,6 +1,6 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "RITUALISMO" on Sat, 24 Oct 2026.
+Department 184 is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "RITUALISMO" on Sat, 24 Oct 2026.
 
 Department 184 is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Brasile, Alinette, Hashashin and Sinai. See dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
@@ -17,4 +17,4 @@ Department 184 is a music venue in Milan listed on soundcheck. 4 upcoming gigs, 
 
 Via Varesina, 184, 20156 Milano MI, Milan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*

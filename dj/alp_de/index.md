@@ -1,6 +1,6 @@
 # ALP (DE)
 
-ALP (DE) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 24 Oct 2026.
+ALP (DE) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Location, Berlin on Sat, 24 Oct 2026.
 
 ALP (DE) is a house and techno artist based in Germany, with 41 gigs on soundcheck across Berlin, Hamburg and Paris. Often billed alongside Khloe, Mama Yha Yha and Dirty Daddy Don. Next up: TBA - Secret Location, Berlin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ ALP (DE) is a house and techno artist based in Germany, with 41 gigs on soundche
 
 Khloe, Mama Yha Yha, Dirty Daddy Don
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alp_de/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alp_de/)*

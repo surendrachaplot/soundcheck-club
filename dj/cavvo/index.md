@@ -1,6 +1,6 @@
 # CAVVØ
 
-CAVVØ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Westhafen, Leipzig on Tue, 17 Nov 2026.
+CAVVØ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Westhafen, Leipzig on Tue, 17 Nov 2026.
 
 CAVVØ is a trance and techno artist based in Germany, with 17 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Raphus, VLUNA and Meyhartt. Next up: Westhafen, Leipzig on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ CAVVØ is a trance and techno artist based in Germany, with 17 gigs on soundchec
 
 Raphus, VLUNA, Meyhartt
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cavvo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cavvo/)*

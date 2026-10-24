@@ -1,6 +1,6 @@
 # Bridge (NY)
 
-Bridge (NY) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Fidelity Studio, Dublin on Sat, 24 Oct 2026.
+Bridge (NY) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Fidelity Studio, Dublin on Sat, 24 Oct 2026.
 
 Bridge (NY) is a house and disco artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Boston, Dublin and Lisbon and 9 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: Fidelity Studio, Dublin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Bridge (NY) is a house and disco artist based in United States of America, with 
 
 CRVM, Wolf Spritzer, DJ Shannon
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*

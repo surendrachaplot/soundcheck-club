@@ -1,6 +1,6 @@
 # Steve Tsama
 
-Steve Tsama is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at El Chapo Cocktail Bar, Athens on Sun, 25 Oct 2026.
+Steve Tsama is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at El Chapo Cocktail Bar, Athens on Sun, 25 Oct 2026.
 
 Steve Tsama is a tech house and techno artist, with 10 gigs on soundcheck across Athens. Often billed alongside Kobo, Tolis Q and Mikele. Next up: El Chapo Cocktail Bar, Athens on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Steve Tsama is a tech house and techno artist, with 10 gigs on soundcheck across
 
 Kobo, Tolis Q, Mikele
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevetsama/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevetsama/)*

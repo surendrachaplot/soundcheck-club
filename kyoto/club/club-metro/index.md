@@ -1,6 +1,6 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 27 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Semaphore -Petre Inspirescu Japan Tour in Kyoto-" on Sat, 24 Oct 2026.
+Club Metro is a music venue in Kyoto with 27 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Semaphore -Petre Inspirescu Japan Tour in Kyoto-" on Sat, 24 Oct 2026.
 
 Club Metro is a music venue in Kyoto listed on soundcheck. 27 upcoming gigs, with line-ups including DJ Compufunk, DJ Krush, JUN INAGAWA and Ken'ichi Itoi and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
@@ -23,4 +23,4 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 27 upcoming gigs, wit
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

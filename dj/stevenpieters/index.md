@@ -1,6 +1,6 @@
 # Steven Pieters
 
-Steven Pieters is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cafe De Leven, Amsterdam on Sat, 24 Oct 2026.
+Steven Pieters is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cafe De Leven, Amsterdam on Sat, 24 Oct 2026.
 
 Steven Pieters is a house and jazz artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Ibiza and Rotterdam. Often billed alongside Ben Diggins, Infinite Pleasure and Khalil Ryahi. Next up: Cafe De Leven, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Steven Pieters is a house and jazz artist based in Netherlands, with 19 gigs on 
 
 Ben Diggins, Infinite Pleasure, Khalil Ryahi
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenpieters/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenpieters/)*

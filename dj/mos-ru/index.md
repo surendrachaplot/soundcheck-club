@@ -1,6 +1,6 @@
 # M.O.S.
 
-M.O.S. is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Sat, 24 Oct 2026.
+M.O.S. is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Sat, 24 Oct 2026.
 
 M.O.S. is a house and progressive house artist based in Czech Republic, with 10 gigs on soundcheck across Amsterdam, Brisbane, Budapest and Melbourne and 3 more. Often billed alongside Miguel Campbell, OLIIV and 16BL. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ M.O.S. is a house and progressive house artist based in Czech Republic, with 10 
 
 Miguel Campbell, OLIIV, 16BL
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mos-ru/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mos-ru/)*

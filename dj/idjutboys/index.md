@@ -1,6 +1,6 @@
 # Idjut Boys
 
-Idjut Boys is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Filly Brook, London on Sun, 1 Nov 2026.
+Idjut Boys is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Filly Brook, London on Sun, 1 Nov 2026.
 
 Idjut Boys is a disco and house artist based in United Kingdom, with 33 gigs on soundcheck across Athens, Bali, Barcelona and Copenhagen and 10 more. Often billed alongside C.L.A.W.S., Galen and Grace Sands. Next up: Filly Brook, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Idjut Boys is a disco and house artist based in United Kingdom, with 33 gigs on 
 
 C.L.A.W.S., Galen, Grace Sands
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idjutboys/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idjutboys/)*

@@ -1,6 +1,6 @@
 # Emanuel Pavlova
 
-Emanuel Pavlova is a Electronica and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Galleria Objets, London on Sat, 24 Oct 2026.
+Emanuel Pavlova is a Electronica and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Galleria Objets, London on Sat, 24 Oct 2026.
 
 Emanuel Pavlova is an electronica and disco artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Bena, Chameleonas and Gaby D'Annunzio. Next up: Galleria Objets, London on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Emanuel Pavlova is an electronica and disco artist based in United Kingdom, with
 
 Bena, Chameleonas, Gaby D'Annunzio
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelpavlova/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelpavlova/)*

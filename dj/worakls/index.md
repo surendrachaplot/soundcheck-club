@@ -1,6 +1,6 @@
 # Worakls
 
-Worakls is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nordstern, Basel on Sat, 24 Oct 2026.
+Worakls is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Nordstern, Basel on Sat, 24 Oct 2026.
 
 Worakls is a techno and house artist based in France, with 90 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside Aalson, Carina Lawrence and Héctor Oaks. Next up: Nordstern, Basel on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Worakls is a techno and house artist based in France, with 90 gigs on soundcheck
 
 Aalson, Carina Lawrence, Héctor Oaks
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*

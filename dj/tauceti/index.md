@@ -1,6 +1,6 @@
 # Tau Ceti
 
-Tau Ceti is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Schokoladen, Berlin on Sat, 14 Nov 2026.
+Tau Ceti is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Schokoladen, Berlin on Sat, 14 Nov 2026.
 
 Tau Ceti is a techno and ebm artist, with 22 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Leipzig and 4 more. Often billed alongside Isabel Soto, Oscar Mulero and Philippa Pacho. Next up: Schokoladen, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tau Ceti is a techno and ebm artist, with 22 gigs on soundcheck across Amsterdam
 
 Isabel Soto, Oscar Mulero, Philippa Pacho
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tauceti/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tauceti/)*

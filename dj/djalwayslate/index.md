@@ -1,6 +1,6 @@
 # DJ Alwayslate
 
-DJ Alwayslate is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kongresai, Vilnius on Fri, 30 Oct 2026.
+DJ Alwayslate is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kongresai, Vilnius on Fri, 30 Oct 2026.
 
 DJ Alwayslate is a house and techno artist, with 19 gigs on soundcheck across Vilnius. Often billed alongside Valdagger, BIG BOI and Lynke. Next up: Kongresai, Vilnius on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Alwayslate is a house and techno artist, with 19 gigs on soundcheck across Vi
 
 Valdagger, BIG BOI, Lynke
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djalwayslate/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djalwayslate/)*

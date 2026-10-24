@@ -1,6 +1,6 @@
 # Miley Serious
 
-Miley Serious is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at nachbar, Amsterdam on Sat, 31 Oct 2026.
+Miley Serious is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at nachbar, Amsterdam on Sat, 31 Oct 2026.
 
 Miley Serious is a techno and house artist based in France, with 188 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 61 more. Often billed alongside Lu2k, Dr Dubplate and Interplanetary Criminal. Next up: nachbar, Amsterdam on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Miley Serious is a techno and house artist based in France, with 188 gigs on sou
 
 Lu2k, Dr Dubplate, Interplanetary Criminal
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*

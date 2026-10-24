@@ -1,6 +1,6 @@
 # Arielle Roberge
 
-Arielle Roberge is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Vino Disco, Montreal on Sat, 24 Oct 2026.
+Arielle Roberge is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Vino Disco, Montreal on Sat, 24 Oct 2026.
 
 Arielle Roberge is a house and disco artist based in Canada, with 28 gigs on soundcheck across Montreal. Often billed alongside Bolarinho, Mandiz and Manuel Falardeau. Next up: Vino Disco, Montreal on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Arielle Roberge is a house and disco artist based in Canada, with 28 gigs on sou
 
 Bolarinho, Mandiz, Manuel Falardeau
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielleroberge/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arielleroberge/)*

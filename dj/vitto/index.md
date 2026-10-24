@@ -1,6 +1,6 @@
 # VITTO
 
-VITTO is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at High Club Room, Madrid on Fri, 30 Oct 2026.
+VITTO is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at High Club Room, Madrid on Fri, 30 Oct 2026.
 
 VITTO is a tech house and techno artist based in Italy, with 7 gigs on soundcheck across London, Madrid, Paris and Rotterdam. Often billed alongside DJ W!ld, EVIE UK and Gabski. Next up: High Club Room, Madrid on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ VITTO is a tech house and techno artist based in Italy, with 7 gigs on soundchec
 
 DJ W!ld, EVIE UK, Gabski
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitto/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitto/)*

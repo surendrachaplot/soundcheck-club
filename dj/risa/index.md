@@ -1,6 +1,6 @@
 # Risa
 
-Risa is a Hip-Hop and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at ZUBAR, Tokyo on Sat, 7 Nov 2026.
+Risa is a Hip-Hop and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at ZUBAR, Tokyo on Sat, 7 Nov 2026.
 
 Risa is a hip-hop and dub artist based in Canada, with 20 gigs on soundcheck across Montreal, New York City and Tokyo. Often billed alongside Ken Sugai, Oshi and Takashit. Next up: ZUBAR, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Risa is a hip-hop and dub artist based in Canada, with 20 gigs on soundcheck acr
 
 Ken Sugai, Oshi, Takashit
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/risa/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/risa/)*

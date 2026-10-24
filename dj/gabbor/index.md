@@ -1,6 +1,6 @@
 # Gabbor
 
-Gabbor is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Le 211, Paris on Sat, 24 Oct 2026.
+Gabbor is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Le 211, Paris on Sat, 24 Oct 2026.
 
 Gabbor is a techno and trance artist based in France, with 46 gigs on soundcheck across Berlin, Bordeaux, Brussels and Ljubljana and 6 more. Often billed alongside Djé Djé from the block, MNBOO and Bérou. Next up: Le 211, Paris on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Gabbor is a techno and trance artist based in France, with 46 gigs on soundcheck
 
 Djé Djé from the block, MNBOO, Bérou
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbor/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbor/)*

@@ -1,6 +1,6 @@
 # Haruka
 
-Haruka is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WOMB, Tokyo on Fri, 20 Nov 2026.
+Haruka is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at WOMB, Tokyo on Fri, 20 Nov 2026.
 
 Haruka is a techno and house artist based in Japan, with 154 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 43 more. Often billed alongside DJ MARIA., HVL and Patrick Russell. Next up: WOMB, Tokyo on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Haruka is a techno and house artist based in Japan, with 154 gigs on soundcheck 
 
 DJ MARIA., HVL, Patrick Russell
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka/)*

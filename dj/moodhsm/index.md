@@ -1,6 +1,6 @@
 # MOOD HSM
 
-MOOD HSM is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at biberon, Mexico City on Wed, 21 Oct 2026.
+MOOD HSM is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at biberon, Mexico City on Wed, 21 Oct 2026.
 
 MOOD HSM is a house and downtempo artist based in Mexico, with 75 gigs on soundcheck across Mexico City and Tokyo. Often billed alongside Bluecommand, Charles Moon and Alena Vox. Next up: biberon, Mexico City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ MOOD HSM is a house and downtempo artist based in Mexico, with 75 gigs on soundc
 
 Bluecommand, Charles Moon, Alena Vox
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodhsm/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodhsm/)*

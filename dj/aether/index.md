@@ -1,6 +1,6 @@
 # Ae:ther
 
-Ae:ther is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sun, 25 Oct 2026.
+Ae:ther is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sun, 25 Oct 2026.
 
 Ae:ther is a techno and house artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 22 more. Often billed alongside VNTM, Adriatique and Colyn. Next up: The Bulldog Palace, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Ae:ther is a techno and house artist based in Germany, with 58 gigs on soundchec
 
 VNTM, Adriatique, Colyn
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aether/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aether/)*

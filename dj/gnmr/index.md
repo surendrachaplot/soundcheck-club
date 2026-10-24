@@ -1,6 +1,6 @@
 # GNMR
 
-GNMR is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+GNMR is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
 GNMR is a techno and house artist based in Italy, with 151 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Marcolino, IRIDE and Giammarco Orsini. Next up: ingang, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ GNMR is a techno and house artist based in Italy, with 151 gigs on soundcheck ac
 
 Marcolino, IRIDE, Giammarco Orsini
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*

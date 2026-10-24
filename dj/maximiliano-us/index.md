@@ -1,6 +1,6 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - 309 Shorty's Ave., Toronto on Sat, 24 Oct 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - 309 Shorty's Ave., Toronto on Sat, 24 Oct 2026.
 
 MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 197 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Ibiza and 6 more. Often billed alongside Mikey J, Factory Reset and Room 12. Next up: TBA - 309 Shorty's Ave., Toronto on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 197 g
 
 Mikey J, Factory Reset, Room 12
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*

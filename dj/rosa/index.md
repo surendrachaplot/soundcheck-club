@@ -1,6 +1,6 @@
 # Rosa
 
-Rosa is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Spindler & Klatt, Berlin on Sat, 24 Oct 2026.
+Rosa is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Spindler & Klatt, Berlin on Sat, 24 Oct 2026.
 
 Rosa is a bass and techno artist based in Australia, with 39 gigs on soundcheck across Amsterdam, Berlin, Brussels and Kyoto and 8 more. Often billed alongside Kazumichi Komatsu, MUNÉO and Whatman. Next up: Spindler & Klatt, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Rosa is a bass and techno artist based in Australia, with 39 gigs on soundcheck 
 
 Kazumichi Komatsu, MUNÉO, Whatman
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosa/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosa/)*

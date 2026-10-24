@@ -1,6 +1,6 @@
 # onlyhans
 
-onlyhans is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at ESC, Montreal on Fri, 30 Oct 2026.
+onlyhans is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at ESC, Montreal on Fri, 30 Oct 2026.
 
 onlyhans is a techno and electro artist based in Philippines, with 25 gigs on soundcheck across Madrid, Montreal, Quebec City and Toronto. Often billed alongside SHAME, .ono. and Claireyy. Next up: ESC, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ onlyhans is a techno and electro artist based in Philippines, with 25 gigs on so
 
 SHAME, .ono., Claireyy
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyhans/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyhans/)*

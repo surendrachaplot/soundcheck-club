@@ -1,6 +1,6 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Magazine London, London on Sat, 24 Oct 2026.
+Autechre is a IDM and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Magazine London, London on Sat, 24 Oct 2026.
 
 Autechre is an idm and techno artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 49 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Magazine London, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Autechre is an idm and techno artist based in United Kingdom, with 61 gigs on so
 
 Mark Broom, HiTech, ojoo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*

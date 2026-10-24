@@ -1,6 +1,6 @@
 # TCHRLZ
 
-TCHRLZ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Midnight Blue, Quebec City on Sat, 24 Oct 2026.
+TCHRLZ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Midnight Blue, Quebec City on Sat, 24 Oct 2026.
 
 TCHRLZ is a house and techno artist, with 8 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Chanelle Pearl. Next up: Midnight Blue, Quebec City on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ TCHRLZ is a house and techno artist, with 8 gigs on soundcheck across Montreal a
 
 Chanelle Pearl
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tchrlz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tchrlz/)*

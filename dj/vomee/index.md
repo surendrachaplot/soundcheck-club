@@ -1,6 +1,6 @@
 # Vomee
 
-Vomee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Dirty House, Shanghai on Sat, 24 Oct 2026.
+Vomee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Dirty House, Shanghai on Sat, 24 Oct 2026.
 
 Vomee is a techno and house artist, with 25 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 12 more. Often billed alongside Adriatique, Agents Of Time and Ben Klock. Next up: Dirty House, Shanghai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Vomee is a techno and house artist, with 25 gigs on soundcheck across Amsterdam,
 
 Adriatique, Agents Of Time, Ben Klock
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vomee/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vomee/)*

@@ -1,6 +1,6 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Chinese Laundry Invites Deens & FRIENDS + RAW FT Tommy Sharp [NAARM/MELB]" on Sat, 24 Oct 2026.
+Chinese Laundry is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Chinese Laundry Invites Deens & FRIENDS + RAW FT Tommy Sharp [NAARM/MELB]" on Sat, 24 Oct 2026.
 
 Chinese Laundry is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including 1-800 GIRLS, Deens, Justin Muscat and Mike McCaskill and 2 more. See dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
@@ -16,4 +16,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 3 upcoming gigs
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

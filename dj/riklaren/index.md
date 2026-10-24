@@ -1,6 +1,6 @@
 # Rik Laren
 
-Rik Laren is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 31 Oct 2026.
+Rik Laren is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 31 Oct 2026.
 
 Rik Laren is a house and club artist based in Germany, with 21 gigs on soundcheck across Berlin. Often billed alongside Frankie Flowerz, Apoena and Clemens Kautz. Next up: Bulbul Berlin, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rik Laren is a house and club artist based in Germany, with 21 gigs on soundchec
 
 Frankie Flowerz, Apoena, Clemens Kautz
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riklaren/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riklaren/)*

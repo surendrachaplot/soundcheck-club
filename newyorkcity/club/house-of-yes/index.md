@@ -1,14 +1,13 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "House of Yes x Matias Aguayo present: The Anenoa Show" on Fri, 23 Oct 2026.
+House of Yes is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Night Cult: Madam X, Bella Mode, G I N A" on Sat, 24 Oct 2026.
 
-House of Yes is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Amber Valentine, BEARCAT, Bella Mode and DJ Ultra Violet and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including BEARCAT, Bella Mode, DJ Ultra Violet and Eli Escobar and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | House of Yes x Matias Aguayo present: The Anenoa Show | Amber Valentine, Kiernan Laveaux, Matias Aguayo |
 | Sat, 24 Oct 2026 | Night Cult: Madam X, Bella Mode, G I N A | Bella Mode, G I N A, Madam X |
 | Fri, 6 Nov 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 | Sat, 7 Nov 2026 | Scorpio Stings: Junior Sanchez, Ultra Violet and More | DJ Ultra Violet, Junior Sanchez |
@@ -21,4 +20,4 @@ House of Yes is a music venue in New York City listed on soundcheck. 8 upcoming 
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

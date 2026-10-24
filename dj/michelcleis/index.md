@@ -1,6 +1,6 @@
 # Michel Cleis
 
-Michel Cleis is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Audio Club, Geneva on Sat, 28 Nov 2026.
+Michel Cleis is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Audio Club, Geneva on Sat, 28 Nov 2026.
 
 Michel Cleis is a house and tech house artist based in Switzerland, with 13 gigs on soundcheck across Frankfurt, Geneva, Ibiza and Lausanne and 1 more. Often billed alongside Alci, Anthea and La Forêt. Next up: Audio Club, Geneva on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Michel Cleis is a house and tech house artist based in Switzerland, with 13 gigs
 
 Alci, Anthea, La Forêt
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michelcleis/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michelcleis/)*

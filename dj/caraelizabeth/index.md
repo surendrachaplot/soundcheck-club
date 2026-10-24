@@ -1,14 +1,13 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
+Cara Elizabeth is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 25 Oct 2026.
 
-Cara Elizabeth is a techno and trance artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Kø:lab, davyboi and Mika Heggemann. Next up: DRUMSHEDS, London on Fri 23 Oct.
+Cara Elizabeth is a techno and trance artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Kø:lab, davyboi and Mika Heggemann. Next up: Thuishaven, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |
 | Sat, 7 Nov 2026 | Nordstern | Basel |
@@ -18,6 +17,7 @@ Cara Elizabeth is a techno and trance artist based in Germany, with 159 gigs on 
 
 ## Recently played
 
+- DRUMSHEDS, London · Fri, 23 Oct 2026
 - Hangaren, Copenhagen · Sat, 17 Oct 2026
 - Ääniwalli, Helsinki · Fri, 16 Oct 2026
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
@@ -25,10 +25,9 @@ Cara Elizabeth is a techno and trance artist based in Germany, with 159 gigs on 
 - Artheater, Cologne · Sat, 19 Sept 2026
 - The Foundry, San Francisco/Oakland · Sun, 6 Sept 2026
 - TBA - Wasteland Festival, Cologne · Sat, 5 Sept 2026
-- Echostage, Washington DC · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Kø:lab, davyboi, Mika Heggemann
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*

@@ -1,6 +1,6 @@
 # Memek
 
-Memek is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at 50 | 50, Medellin on Fri, 30 Oct 2026.
+Memek is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 50 | 50, Medellin on Fri, 30 Oct 2026.
 
 Memek is a house and minimal artist based in United States of America, with 119 gigs on soundcheck across Berlin, Bogotá, Istanbul and Lisbon and 2 more. Often billed alongside Charlie Florez, Julio Garcés and Mao Loading. Next up: 50 | 50, Medellin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Memek is a house and minimal artist based in United States of America, with 119 
 
 Charlie Florez, Julio Garcés, Mao Loading
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memek/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memek/)*

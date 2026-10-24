@@ -1,6 +1,6 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Hannah Laing is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 Hannah Laing is a techno and house artist based in United Kingdom, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 57 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Hannah Laing is a techno and house artist based in United Kingdom, with 184 gigs
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

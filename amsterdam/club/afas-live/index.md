@@ -1,14 +1,13 @@
 # Afas Live
 
-Afas Live is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "UNREAL x ADE 2026: KUKO ALL NIGHT LONG" on Fri, 23 Oct 2026.
+Afas Live is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ZAZU presents: SOLÈY by Francis Mercier" on Sat, 24 Oct 2026.
 
-Afas Live is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Afrojack, Aiden (DE), AJNA and Alycia Bezgo and 2 more. See dates, start times and who's playing. Johan Cruijff Boulevard 590 1101 DS Amsterdam.
+Afas Live is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Afrojack, Aiden (DE), AJNA and Alycia Bezgo and 2 more. See dates, start times and who's playing. Johan Cruijff Boulevard 590 1101 DS Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | UNREAL x ADE 2026: KUKO ALL NIGHT LONG | KUKO |
 | Sat, 24 Oct 2026 | ZAZU presents: SOLÈY by Francis Mercier | AJNA, Afrojack, Bun Xapa, DJ BREYTH, Da Capo, Enoo Napa, Francis Mercier, JUNO (DE), Nitefreak, Samm (BE), Van Zand |
 | Sat, 24 Oct 2026 | VERKNIPT ADE SPECIAL | KARAH |
 | Sat, 24 Oct 2026 | VERKNIPT ADE Special Saturday | Aiden (DE), Angerfist, Ben Techy, Divasi, KARAH, NEGITIV, SANTØS, Trym |
@@ -20,4 +19,4 @@ Afas Live is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, w
 
 Johan Cruijff Boulevard 590 1101 DS Amsterdam, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/afas-live/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/afas-live/)*

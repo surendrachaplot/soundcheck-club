@@ -1,6 +1,6 @@
 # Bourke Street Courtyard
 
-Bourke Street Courtyard is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "A Very Very Gay [melb/naarm] - SS 26/27: 02" on Sat, 24 Oct 2026.
+Bourke Street Courtyard is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "A Very Very Gay [melb/naarm] - SS 26/27: 02" on Sat, 24 Oct 2026.
 
 Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Dj Bouncy, DJ LONER, Double Touch and Haus of Ralph and 2 more. See dates, start times and who's playing. 629 Bourke Street Melbourne, Victoria, Australia.
 
@@ -17,4 +17,4 @@ Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 4 up
 
 629 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/bourke-street-courtyard/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/bourke-street-courtyard/)*

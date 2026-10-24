@@ -1,6 +1,6 @@
 # Matthias Tanzmann
 
-Matthias Tanzmann is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Studio 338, London on Sat, 31 Oct 2026.
+Matthias Tanzmann is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Studio 338, London on Sat, 31 Oct 2026.
 
 Matthias Tanzmann is a tech house and house artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Austria, Bali and Bangkok and 37 more. Often billed alongside Chris Di Perri, Domenic D'Agnelli and Davide Squillace. Next up: Studio 338, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Matthias Tanzmann is a tech house and house artist based in Germany, with 123 gi
 
 Chris Di Perri, Domenic D'Agnelli, Davide Squillace
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiastanzmann/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiastanzmann/)*

@@ -1,14 +1,13 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Sahra Bass" on Fri, 23 Oct 2026.
+Kauz is a music venue in Zurich with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "CRIT × RHIZOM" on Sat, 24 Oct 2026.
 
-Kauz is a music venue in Zurich listed on soundcheck. 15 upcoming gigs, with line-ups including Agonis, Âme, Ander and Anthik and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
+Kauz is a music venue in Zurich listed on soundcheck. 14 upcoming gigs, with line-ups including Agonis, Âme, Ander and Anthik and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Sahra Bass | Arutani, Joséphine, Karla Mit K, R3NATA, Sahra Bass |
 | Sat, 24 Oct 2026 | CRIT × RHIZOM | DJ SWISHA, Naiad, TRYCE, nunguja, raging moms |
 | Sun, 25 Oct 2026 | espresso space club III - rings of saturn | Eli Verveine, Elsa (CH), Playlove, Styro 2000, fabulus, molekühl |
 | Wed, 28 Oct 2026 | xtatic dance rave |  |
@@ -18,9 +17,10 @@ Kauz is a music venue in Zurich listed on soundcheck. 15 upcoming gigs, with lin
 | Thu, 5 Nov 2026 | half notes // live-jazz im Kauz |  |
 | Fri, 6 Nov 2026 | 𝕏𝕀𝕀𝕀 𝕁𝕒𝕙𝕣𝕖 𝕂𝕒𝕦𝕫 • Friday | Agonis, Atrice, Luke Redford, Pangaea, Rearte |
 | Fri, 6 Nov 2026 | tiny nest concert: Lev Tigrovich |  |
+| Sat, 7 Nov 2026 | 𝕏𝕀𝕀𝕀 𝕁𝕒𝕙𝕣𝕖 𝕂𝕒𝕦𝕫 • Saturday to Monday | AVEM, Ander, Christine Benz, Cosmina, Garçon, Gioski, Juli Lee, Lb Honne, LuxFux, Mathew Jonson, Playlove, Rumlaut, Styro 2000, dit:eau, fabulus, hypnoe, matsssiii, Âme |
 
 ## Address
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

@@ -1,6 +1,6 @@
 # Jichael Mackson
 
-Jichael Mackson is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Umbo, Zurich on Sat, 31 Oct 2026.
+Jichael Mackson is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Umbo, Zurich on Sat, 31 Oct 2026.
 
 Jichael Mackson is an electronic artist based in Germany, with 12 gigs on soundcheck across Berlin, Munich and Zurich. Often billed alongside Andrea Ferlin, David Delgado and Maik Yells. Next up: Umbo, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jichael Mackson is an electronic artist based in Germany, with 12 gigs on soundc
 
 Andrea Ferlin, David Delgado, Maik Yells
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jichaelmackson/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jichaelmackson/)*

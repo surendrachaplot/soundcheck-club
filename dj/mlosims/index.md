@@ -1,6 +1,6 @@
 # mlosims
 
-mlosims is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
+mlosims is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
 
 mlosims is an experimental and bass artist based in Japan, with 16 gigs on soundcheck across Tokyo. Often billed alongside Ziziphus Jujuba, YUKO ARAKI and cityofbrokendolls. Next up: Forestlimit, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ mlosims is an experimental and bass artist based in Japan, with 16 gigs on sound
 
 Ziziphus Jujuba, YUKO ARAKI, cityofbrokendolls
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mlosims/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mlosims/)*

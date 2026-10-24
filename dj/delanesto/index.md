@@ -1,14 +1,15 @@
 # Dela Nesto
 
-Dela Nesto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Circie, Dresden on Sat, 21 Nov 2026.
+Dela Nesto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Circie, Dresden on Sat, 21 Nov 2026.
 
-Dela Nesto is a house and techno artist based in Germany, with 48 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 3 more. Often billed alongside MARIE.MOON, Caro Vola and Dorsch. Next up: Circie, Dresden on Sat 21 Nov.
+Dela Nesto is a house and techno artist based in Germany, with 49 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 3 more. Often billed alongside MARIE.MOON, Caro Vola and Dorsch. Next up: Circie, Dresden on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Circie | Dresden |
+| Fri, 22 Jan 2027 | KitKatClub | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dela Nesto is a house and techno artist based in Germany, with 48 gigs on soundc
 
 MARIE.MOON, Caro Vola, Dorsch
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanesto/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanesto/)*

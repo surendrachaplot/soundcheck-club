@@ -1,6 +1,6 @@
 # Fabian Haneke
 
-Fabian Haneke is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat, 24 Oct 2026.
+Fabian Haneke is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat, 24 Oct 2026.
 
 Fabian Haneke is a house and tech house artist based in Germany, with 2 gigs on soundcheck across Amsterdam. Often billed alongside Micky Hurts, ACA (YU) and Capron. Next up: TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat 24 Oct.
 
@@ -15,4 +15,4 @@ Fabian Haneke is a house and tech house artist based in Germany, with 2 gigs on 
 
 Micky Hurts, ACA (YU), Capron
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianhaneke/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianhaneke/)*

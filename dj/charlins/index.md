@@ -1,6 +1,6 @@
 # Charlins
 
-Charlins is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sala Apolo, Barcelona on Sat, 24 Oct 2026.
+Charlins is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sala Apolo, Barcelona on Sat, 24 Oct 2026.
 
 Charlins is a house and tech house artist based in Spain, with 11 gigs on soundcheck across Barcelona. Often billed alongside DJ Tortuga, DJ Mats and Babo. Next up: Sala Apolo, Barcelona on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Charlins is a house and tech house artist based in Spain, with 11 gigs on soundc
 
 DJ Tortuga, DJ Mats, Babo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlins/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlins/)*

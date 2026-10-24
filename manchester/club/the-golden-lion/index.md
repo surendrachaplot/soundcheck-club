@@ -1,6 +1,6 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Colleen 'Cosmo' Murphy / Sarah Bates (live) / Sorcha & Mike" on Fri, 23 Oct 2026.
+The Golden Lion is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Saturday fundraiser in celebration of Danielle Moore" on Sat, 24 Oct 2026.
 
 The Golden Lion is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Alex Dallas, Balrog, Bill Brewster and CHÉ WAX and 2 more. See dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
@@ -8,13 +8,13 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 12 upcoming
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Colleen 'Cosmo' Murphy / Sarah Bates (live) / Sorcha & Mike | Colleen 'Cosmo' Murphy, Sarah Bates |
 | Sat, 24 Oct 2026 | Saturday fundraiser in celebration of Danielle Moore | Bill Brewster, Crazy P, Il Bosco, James Holroyd, Julie Wills, PBR Streetgang |
 | Fri, 30 Oct 2026 | Keep It Cryptic Keep It Mad with Make A Dance, Che Wax, Cashgrab, & Operation Mindfunk | CHÉ WAX, Make A Dance |
 | Sat, 31 Oct 2026 | I Love Acid | Jon Dasilva, Nightwave, Posthuman, Slam |
 | Fri, 6 Nov 2026 | Plynyl presents - Mr Scruff | Mr Scruff |
 | Fri, 13 Nov 2026 | Zukunft X Optimo at Golden Lion Todmorden | Alex Dallas, Cio (Spezialmaterial), Kalabrese, Leo Gretener, Optimo (Espacio) |
 | Fri, 20 Nov 2026 | Plynyl presents - Daddy G |  |
+| Fri, 11 Dec 2026 | Music To Die For 5th Birthday - Danny Howells (Ext. Set), Quivver Live + Cosmic Dancehall | Danny Howells, Quivver |
 | Sat, 12 Dec 2026 | AYA Away Day 2. Golden Lion. W/ Man Power & ROSIE | Man Power, ROSIE |
 | Sun, 13 Dec 2026 | Gary Beck / Hospitality party | Gary Beck |
 | Thu, 31 Dec 2026 | GL NYE 2026: Luke Una / Justin Robertson / Matthew Hum / Nessa Johnston | Justin Robertson, Luke Una, Matt Hum, Nessa Johnston |
@@ -23,4 +23,4 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 12 upcoming
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

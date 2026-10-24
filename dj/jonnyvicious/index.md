@@ -1,6 +1,6 @@
 # JonnyVicious
 
-JonnyVicious is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - JOLOKO, Kuala Lumpur on Sat, 31 Oct 2026.
+JonnyVicious is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - JOLOKO, Kuala Lumpur on Sat, 31 Oct 2026.
 
 JonnyVicious is a house and techno artist based in Malaysia, with 94 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 2 more. Often billed alongside LZZY, Alam and Roshan. Next up: TBA - JOLOKO, Kuala Lumpur on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ JonnyVicious is a house and techno artist based in Malaysia, with 94 gigs on sou
 
 LZZY, Alam, Roshan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*

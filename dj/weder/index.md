@@ -1,6 +1,6 @@
 # WEDER
 
-WEDER is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 14 Nov 2026.
+WEDER is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 14 Nov 2026.
 
 WEDER is a house and progressive house artist based in Germany, with 16 gigs on soundcheck across Berlin, Buenos Aires and Hamburg. Often billed alongside DAAS, Nikklaas and Better Call Paul. Next up: Bulbul Berlin, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ WEDER is a house and progressive house artist based in Germany, with 16 gigs on 
 
 DAAS (1), Nikklaas, Better Call Paul
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weder/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weder/)*

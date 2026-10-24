@@ -1,6 +1,6 @@
 # Tinlicker
 
-Tinlicker is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Parque Padre Hurtado, Santiago on Sat, 7 Nov 2026.
+Tinlicker is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Parque Padre Hurtado, Santiago on Sat, 7 Nov 2026.
 
 Tinlicker is a progressive house and deep house artist based in Netherlands, with 60 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Helsloot, Chloé Caillet and FISHER. Next up: Parque Padre Hurtado, Santiago on Sat 7 Nov.
 
@@ -15,6 +15,7 @@ Tinlicker is a progressive house and deep house artist based in Netherlands, wit
 
 ## Recently played
 
+- NDSM Scheepsbouwloods, Amsterdam · Fri, 23 Oct 2026
 - The Midway, San Francisco/Oakland · Sat, 10 Oct 2026
 - Brooklyn Paramount, New York City · Sat, 26 Sept 2026
 - Roadrunner, Boston · Fri, 25 Sept 2026
@@ -22,10 +23,9 @@ Tinlicker is a progressive house and deep house artist based in Netherlands, wit
 - AB Box (Ancienne Belgique), Brussels · Fri, 19 Jun 2026
 - Exhibition London, London · Sat, 21 Mar 2026
 - Document, Bristol · Fri, 20 Mar 2026
-- Albert Hall, Manchester · Thu, 19 Mar 2026
 
 ## Shares bills with
 
 Helsloot, Chloé Caillet, FISHER
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*

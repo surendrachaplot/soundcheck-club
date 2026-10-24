@@ -1,6 +1,6 @@
 # JUN TANAKA
 
-JUN TANAKA is a Afrobeats and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TOP Tree Okinawa, Okinawa on Sat, 24 Oct 2026.
+JUN TANAKA is a Afrobeats and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TOP Tree Okinawa, Okinawa on Sat, 24 Oct 2026.
 
 JUN TANAKA is an afrobeats and hip-hop artist based in Japan, with 22 gigs on soundcheck across Okinawa, Osaka, Seoul and Shenzhen and 1 more. Often billed alongside JOMMY, MILS (JP) and HIKARU. Next up: TOP Tree Okinawa, Okinawa on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ JUN TANAKA is an afrobeats and hip-hop artist based in Japan, with 22 gigs on so
 
 JOMMY, MILS (JP), HIKARU
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juntanaka/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juntanaka/)*

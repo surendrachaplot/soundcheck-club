@@ -1,6 +1,6 @@
 # Ferrari
 
-Ferrari is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Detune, Milan on Sat, 24 Oct 2026.
+Ferrari is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Detune, Milan on Sat, 24 Oct 2026.
 
 Ferrari is a house and disco artist based in Italy, with 61 gigs on soundcheck across Amsterdam, Berlin, Bologna and Madrid and 3 more. Often billed alongside Dante (H501), Coni and Larry Masmero. Next up: Detune, Milan on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Ferrari is a house and disco artist based in Italy, with 61 gigs on soundcheck a
 
 Dante (H501), Coni (2), Larry Masmero
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*

@@ -1,6 +1,6 @@
 # EREZ.JPG
 
-EREZ.JPG is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bridge, Los Angeles on Fri, 20 Nov 2026.
+EREZ.JPG is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Bridge, Los Angeles on Fri, 20 Nov 2026.
 
 EREZ.JPG is a house and minimal artist based in United States of America, with 46 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 2 more. Often billed alongside shanty mane, Armii1n and Bakke. Next up: The Bridge, Los Angeles on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ EREZ.JPG is a house and minimal artist based in United States of America, with 4
 
 shanty mane, Armii1n, Bakke
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*

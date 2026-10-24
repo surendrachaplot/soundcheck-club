@@ -1,6 +1,6 @@
 # Tempza
 
-Tempza is a Drum & Bass and Garage artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at O2 Academy Bournemouth, South-east on Sat, 31 Oct 2026.
+Tempza is a Drum & Bass and Garage artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at O2 Academy Bournemouth, South-east on Sat, 31 Oct 2026.
 
 Tempza is a drum & bass and garage artist based in United Kingdom, with 30 gigs on soundcheck across Auckland, Birmingham, Brighton and Bristol and 12 more. Often billed alongside Hybrid Minds, Andy C and Hedex. Next up: O2 Academy Bournemouth, South East on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Tempza is a drum & bass and garage artist based in United Kingdom, with 30 gigs 
 
 Hybrid Minds, Andy C, Hedex
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tempza/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tempza/)*

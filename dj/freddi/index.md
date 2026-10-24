@@ -1,6 +1,6 @@
 # Freddi
 
-Freddi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Freddi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Freddi is a house and techno artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Antwerp, Edinburgh and Eindhoven and 4 more. Often billed alongside OLIVIA LENSEN, Gerardo Niva and Kara Okay. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -16,6 +16,7 @@ Freddi is a house and techno artist based in Netherlands, with 49 gigs on soundc
 
 ## Recently played
 
+- Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - Ijver, Amsterdam · Thu, 22 Oct 2026
 - Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam · Wed, 21 Oct 2026
 - Shelter Amsterdam, Amsterdam · Sat, 10 Oct 2026
@@ -23,10 +24,9 @@ Freddi is a house and techno artist based in Netherlands, with 49 gigs on soundc
 - Mondo, Madrid · Sat, 26 Sept 2026
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 5 Sept 2026
-- Club Vaag, Antwerp · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 OLIVIA LENSEN, Gerardo Niva, Kara Okay
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*

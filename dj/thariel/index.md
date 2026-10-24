@@ -1,6 +1,6 @@
 # Thariel.
 
-Thariel. is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 23 Oct 2026.
+Thariel. is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 23 Oct 2026.
 
 Thariel. is a tech house and house artist, with 6 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and London and 2 more. Often billed alongside Better Call Karll, MURI and Neverdogs. Next up: D-Edge RIO, Rio de Janeiro on Fri 23 Oct.
 
@@ -13,6 +13,7 @@ Thariel. is a tech house and house artist, with 6 gigs on soundcheck across Amst
 
 ## Recently played
 
+- D-Edge RIO, Rio de Janeiro · Fri, 23 Oct 2026
 - 50:Hertz, Amsterdam · Sun, 20 Oct 2024
 - Union Club, Vauxhall, London · Thu, 10 Oct 2024
 - TBA, Barcelona · Sun, 6 Oct 2024
@@ -22,4 +23,4 @@ Thariel. is a tech house and house artist, with 6 gigs on soundcheck across Amst
 
 Better Call Karll, MURI, Neverdogs
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thariel/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thariel/)*

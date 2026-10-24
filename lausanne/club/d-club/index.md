@@ -1,14 +1,13 @@
 # D! Club
 
-D! Club is a music venue in Lausanne with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "VTSS, Pawlowski, NHŪ => SUPERNOVA" on Fri, 23 Oct 2026.
+D! Club is a music venue in Lausanne with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Ben Klock, KLINK => The technoween" on Fri, 30 Oct 2026.
 
-D! Club is a music venue in Lausanne listed on soundcheck. 10 upcoming gigs, with line-ups including Alicia Hahn, Ben Klock, Einmusik and Jan Blomqvist and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
+D! Club is a music venue in Lausanne listed on soundcheck. 9 upcoming gigs, with line-ups including Alicia Hahn, Ben Klock, Einmusik and Jan Blomqvist and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | VTSS, Pawlowski, NHŪ => SUPERNOVA | Pawlowski, VTSS |
 | Fri, 30 Oct 2026 | Ben Klock, KLINK => The technoween | Ben Klock |
 | Fri, 30 Oct 2026 | Ben Klock, KiNK => Technoween | Ben Klock, KiNK |
 | Fri, 6 Nov 2026 | SVEN VÄTH, Tal Fussman, Salvatore Freda | Salvatore Freda, Sven Vath, Tal Fussman |
@@ -23,4 +22,4 @@ D! Club is a music venue in Lausanne listed on soundcheck. 10 upcoming gigs, wit
 
 Place Centrale 1; 1003, Lausanne; Switzerland, Lausanne
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*

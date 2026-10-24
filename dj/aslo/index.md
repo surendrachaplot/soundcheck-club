@@ -1,14 +1,13 @@
 # ASLO
 
-ASLO is a Techno and Acid artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+ASLO is a Techno and Acid artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - EIVISSA, Amsterdam on Sat, 24 Oct 2026.
 
-ASLO is a techno and acid artist based in United Kingdom, with 31 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brisbane and 8 more. Often billed alongside Adam Bartas, Nik Kastel and Samuel Moriero. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
+ASLO is a techno and acid artist based in United Kingdom, with 31 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brisbane and 8 more. Often billed alongside Adam Bartas, Nik Kastel and Samuel Moriero. Next up: TBA - EIVISSA, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - EIVISSA | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - EIVISSA | Amsterdam |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
@@ -20,6 +19,7 @@ ASLO is a techno and acid artist based in United Kingdom, with 31 gigs on soundc
 
 ## Recently played
 
+- Club Up, Amsterdam · Fri, 23 Oct 2026
 - Kilomètre25, Paris · Sat, 17 Oct 2026
 - Tunnel Club, Birmingham · Fri, 25 Sept 2026
 - Royal Highland Centre, Edinburgh · Sat, 18 Apr 2026
@@ -27,10 +27,9 @@ ASLO is a techno and acid artist based in United Kingdom, with 31 gigs on soundc
 - The Berkeley Suite, Glasgow · Sat, 10 Jan 2026
 - Cabaret Voltaire, Edinburgh · Wed, 31 Dec 2025
 - Club 69, Glasgow · Fri, 26 Dec 2025
-- Club 69, Glasgow · Fri, 24 Oct 2025
 
 ## Shares bills with
 
 Adam Bartas, Nik Kastel, Samuel Moriero (2)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aslo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aslo/)*

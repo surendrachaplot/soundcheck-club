@@ -1,6 +1,6 @@
 # Elsie Rooftop NYC
 
-Elsie Rooftop NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "ELSIE ROOFTOP HALLOWEEN PARTY 2026" on Fri, 30 Oct 2026.
+Elsie Rooftop NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "ELSIE ROOFTOP HALLOWEEN PARTY 2026" on Fri, 30 Oct 2026.
 
 Elsie Rooftop NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Elsie Rooftop NYC is a music venue in New York City listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | ELSIE ROOFTOP HALLOWEEN PARTY 2026 |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsie-rooftop-nyc/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsie-rooftop-nyc/)*

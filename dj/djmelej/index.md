@@ -1,6 +1,6 @@
 # DJ MELEJ
 
-DJ MELEJ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Garage 442, Barcelona on Sat, 24 Oct 2026.
+DJ MELEJ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Garage 442, Barcelona on Sat, 24 Oct 2026.
 
 DJ MELEJ is a house and techno artist, with 105 gigs on soundcheck across Barcelona, Bogotá and Medellin. Often billed alongside Confidential Recipe, Moiseline and Sergio Iglesias. Next up: Garage 442, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ MELEJ is a house and techno artist, with 105 gigs on soundcheck across Barcel
 
 Confidential Recipe, Moiseline, Sergio Iglesias
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmelej/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmelej/)*

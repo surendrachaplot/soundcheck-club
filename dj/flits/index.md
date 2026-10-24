@@ -1,6 +1,6 @@
 # Flits
 
-Flits is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at nachbar, Amsterdam on Sat, 24 Oct 2026.
+Flits is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at nachbar, Amsterdam on Sat, 24 Oct 2026.
 
 Flits is a techno and house artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 12 more. Often billed alongside Beau Didier, Isaiah (NL) and Lasse. Next up: nachbar, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Flits is a techno and house artist based in Netherlands, with 64 gigs on soundch
 
 Beau Didier, Isaiah (NL), Lasse
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flits/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flits/)*

@@ -1,6 +1,6 @@
 # Langnikel
 
-Langnikel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Alcazar Leutkirch, Baden-w-rttemberg on Sat, 24 Oct 2026.
+Langnikel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Alcazar Leutkirch, Baden-w-rttemberg on Sat, 24 Oct 2026.
 
 Langnikel is a techno and house artist, with 13 gigs on soundcheck across Baden W Rttemberg and Leipzig. Often billed alongside Fennek, Moto Moto and CAMPA. Next up: Alcazar Leutkirch, Baden W Rttemberg on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Langnikel is a techno and house artist, with 13 gigs on soundcheck across Baden 
 
 Fennek, Moto Moto, CAMPA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/langnikel/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/langnikel/)*

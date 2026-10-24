@@ -1,6 +1,6 @@
 # Rio (QPLO)
 
-Rio (QPLO) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
+Rio (QPLO) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
 
 Rio (QPLO) is a house and techno artist based in Japan, with 16 gigs on soundcheck across Berlin and Tokyo. Often billed alongside PIRANHA, QPLO and Shimpei Watanabe. Next up: Sensorium, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rio (QPLO) is a house and techno artist based in Japan, with 16 gigs on soundche
 
 PIRANHA, QPLO, Shimpei Watanabe
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rioqplo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rioqplo/)*

@@ -1,6 +1,6 @@
 # Resonance at Oizumi-Kojo
 
-Resonance at Oizumi-Kojo on Sun 22 Nov, Kanto. 5 artists: Lisa Mizuno, LOIF, Peryl and SAKURA TSURUTA and 1 more. See the line-up on soundcheck.
+Resonance at Oizumi-Kojo on Sun 22 Nov, Kanto. 6 artists: Lisa Mizuno, LOIF, Maryisonacid and Peryl and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Resonance at Oizumi-Kojo on Sun 22 Nov, Kanto. 5 artists: Lisa Mizuno, LOIF, Per
 
 - Lisa Mizuno
 - LOIF
+- Maryisonacid
 - Peryl
 - SAKURA TSURUTA
 - ZUNDOKO DISCO

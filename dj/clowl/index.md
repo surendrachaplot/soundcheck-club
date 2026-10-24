@@ -1,6 +1,6 @@
 # Clowl
 
-Clowl is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Host, Thessaloniki on Sat, 24 Oct 2026.
+Clowl is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Host, Thessaloniki on Sat, 24 Oct 2026.
 
 Clowl is a techno and industrial artist, with 12 gigs on soundcheck across Athens, Sofia and Thessaloniki. Often billed alongside Enjoint, MAXImum and Até.. Next up: The Host, Thessaloniki on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Clowl is a techno and industrial artist, with 12 gigs on soundcheck across Athen
 
 Enjoint, MAXImum, Até.
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clowl/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clowl/)*

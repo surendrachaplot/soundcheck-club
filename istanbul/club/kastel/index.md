@@ -1,14 +1,13 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Asli Kose + Ledi Cannit + EZGİ HOCAOĞLU + DENİZ ŞENYER + ANNA" on Fri, 23 Oct 2026.
+Kastel is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ALEX MACRIS + Manendria + FARUK + SELIN DINCER" on Sat, 24 Oct 2026.
 
-Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including Adana Twins, Asli Kose, Ledi Cannit and Manendria and 1 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
+Kastel is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Adana Twins, Manendria and Oliver Huntemann. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Asli Kose + Ledi Cannit + EZGİ HOCAOĞLU + DENİZ ŞENYER + ANNA | Asli Kose, Ledi Cannit |
 | Sat, 24 Oct 2026 | ALEX MACRIS + Manendria + FARUK + SELIN DINCER | Manendria |
 | Wed, 28 Oct 2026 | Beatgate X Kastel HALLOWEEN |  |
 | Fri, 30 Oct 2026 | Kastel #KLUBNIGHTSERIES: HALLOWEEN WEEKEND CHAPTER 1 |  |
@@ -20,4 +19,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

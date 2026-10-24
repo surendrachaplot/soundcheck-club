@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 21 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Distrikt 33: Finsent C (cipher, Macau) + Faxtory (Distrikt, Hong Kong)" on Sat, 24 Oct 2026.
+宀 Club is a music venue in Hong Kong with 21 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Distrikt 33: Finsent C (cipher, Macau) + Faxtory (Distrikt, Hong Kong)" on Sat, 24 Oct 2026.
 
 宀 Club is a music venue in Hong Kong listed on soundcheck. 21 upcoming gigs, with line-ups including ADRIANNA.C, Anyss, Bouffant Bouffant and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

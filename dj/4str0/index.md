@@ -1,6 +1,6 @@
 # 4STR0
 
-4STR0 is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The DBA, Manchester on Sat, 12 Dec 2026.
+4STR0 is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The DBA, Manchester on Sat, 12 Dec 2026.
 
 4STR0 is a techno and breakbeat artist based in United Kingdom, with 14 gigs on soundcheck across Barcelona and Manchester. Often billed alongside Hanz, Deventi and Gills. Next up: The DBA, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@
 
 Hanz, Deventi, Gills
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4str0/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4str0/)*

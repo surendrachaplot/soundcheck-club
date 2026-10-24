@@ -1,6 +1,6 @@
 # Art Alfie
 
-Art Alfie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at NEU, Stockholm on Sat, 24 Oct 2026.
+Art Alfie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at NEU, Stockholm on Sat, 24 Oct 2026.
 
 Art Alfie is a house and techno artist based in Sweden, with 12 gigs on soundcheck across Copenhagen, Ibiza, Stockholm and Tbilisi. Often billed alongside Bella Boo, Mr. Tophat and .VRIL. Next up: NEU, Stockholm on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Art Alfie is a house and techno artist based in Sweden, with 12 gigs on soundche
 
 Bella Boo, Mr. Tophat, .VRIL
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artalfie/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artalfie/)*

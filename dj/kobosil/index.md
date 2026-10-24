@@ -1,6 +1,6 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Gianpula Main Room, Malta on Fri, 13 Nov 2026.
+Kobosil is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Gianpula Main Room, Malta on Fri, 13 Nov 2026.
 
 Kobosil is a techno and house artist based in Germany, with 276 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 79 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Gianpula Main Room, Malta on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Kobosil is a techno and house artist based in Germany, with 276 gigs on soundche
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

@@ -1,6 +1,6 @@
 # Burl Faircloth
 
-Burl Faircloth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Loso, Richmond on Fri, 30 Oct 2026.
+Burl Faircloth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Loso, Richmond on Fri, 30 Oct 2026.
 
 Burl Faircloth is a house and techno artist, with 10 gigs on soundcheck across Richmond and Washington DC. Often billed alongside Casey West, ELLIOTT (US) and TonalTheory. Next up: Loso, Richmond on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Burl Faircloth is a house and techno artist, with 10 gigs on soundcheck across R
 
 Casey West, ELLIOTT (US), TonalTheory
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burlfaircloth/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burlfaircloth/)*

@@ -1,19 +1,19 @@
 # OMAKS
 
-OMAKS is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+OMAKS is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
 
-OMAKS is a techno and hardcore artist based in France, with 157 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 52 more. Often billed alongside LESSSS, Shlømo and ANXHELA. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
+OMAKS is a techno and hardcore artist based in France, with 157 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Barcelona and 52 more. Often billed alongside LESSSS, Shlømo and ANXHELA. Next up: Bootshaus, Cologne on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Café Café Bar Amsterdam | Amsterdam |
 | Fri, 6 Nov 2026 | Bootshaus | Cologne |
 | Fri, 18 Dec 2026 | Le Grand Sud | Lille |
 
 ## Recently played
 
+- Café Café Bar Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - TBA, Ankara · Sat, 3 Oct 2026
 - TBA - CLUB MIRADOR INCEK, Ankara · Sat, 3 Oct 2026
@@ -21,10 +21,9 @@ OMAKS is a techno and hardcore artist based in France, with 157 gigs on soundche
 - Theata, London · Sat, 26 Sept 2026
 - Supermarket, Zurich · Sat, 26 Sept 2026
 - Arts Club, Liverpool · Sat, 15 Aug 2026
-- Room 2 Glasgow, Glasgow · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 LESSSS, Shlømo, ANXHELA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*

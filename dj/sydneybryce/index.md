@@ -1,18 +1,18 @@
 # Sydney Bryce
 
-Sydney Bryce is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
+Sydney Bryce is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at E1, London on Sat, 21 Nov 2026.
 
-Sydney Bryce is a drum & bass and jungle artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Bristol, Edinburgh and London and 2 more. Often billed alongside Amoss, Visionobi and KRÆK. Next up: fabric, London on Fri 23 Oct.
+Sydney Bryce is a drum & bass and jungle artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Bristol, Edinburgh and London and 2 more. Often billed alongside Amoss, Visionobi and KRÆK. Next up: E1, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | fabric | London |
 | Sat, 21 Nov 2026 | E1 | London |
 
 ## Recently played
 
+- fabric, London · Fri, 23 Oct 2026
 - Gretchen, Berlin · Sat, 8 Aug 2026
 - Hackney Wick Multiple Venues, London · Sat, 1 Aug 2026
 - Last Arch, London · Sat, 23 May 2026
@@ -20,10 +20,9 @@ Sydney Bryce is a drum & bass and jungle artist based in United Kingdom, with 23
 - Planet Wax, London · Fri, 10 Apr 2026
 - Notting Hill Arts Club, London · Fri, 27 Mar 2026
 - TBA - The Attic, 20 Meadow Street, New York City · Sat, 30 Aug 2025
-- The Cause, London · Sat, 12 Jul 2025
 
 ## Shares bills with
 
 Amoss, Visionobi, KRÆK
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneybryce/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneybryce/)*

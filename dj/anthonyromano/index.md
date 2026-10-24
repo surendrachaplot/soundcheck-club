@@ -1,6 +1,6 @@
 # Anthony Romano
 
-Anthony Romano is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Superior Ingredients, New York City on Sat, 24 Oct 2026.
+Anthony Romano is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Superior Ingredients, New York City on Sat, 24 Oct 2026.
 
 Anthony Romano is a house and tech house artist based in United States of America, with 33 gigs on soundcheck across New York City. Often billed alongside LEFTI, James Patterson and Rich Furniss. Next up: Superior Ingredients, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Anthony Romano is a house and tech house artist based in United States of Americ
 
 LEFTI, James Patterson, Rich Furniss
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyromano/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyromano/)*

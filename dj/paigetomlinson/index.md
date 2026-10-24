@@ -1,6 +1,6 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
+Paige Tomlinson is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
 
 Paige Tomlinson is a house and techno artist based in United Kingdom, with 171 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 41 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: RAWFACTORY, Amsterdam on Sat 24 Oct.
 
@@ -36,4 +36,4 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 171 g
 
 Prunk, Kyle Starkey, L.P. Rhythm
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

@@ -1,6 +1,6 @@
 # Bok Bok
 
-Bok Bok is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oranj Dray Walk, London on Sat, 24 Oct 2026.
+Bok Bok is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Oranj Dray Walk, London on Sat, 24 Oct 2026.
 
 Bok Bok is a club and bass artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 28 more. Often billed alongside Ikonika, Girl Unit and Nico Adomako. Next up: Oranj Dray Walk, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Bok Bok is a club and bass artist based in United Kingdom, with 87 gigs on sound
 
 Ikonika, Girl Unit, Nico Adomako
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bokbok/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bokbok/)*

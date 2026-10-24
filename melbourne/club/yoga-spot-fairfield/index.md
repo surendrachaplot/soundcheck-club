@@ -1,6 +1,6 @@
 # Yoga Spot Fairfield
 
-Yoga Spot Fairfield is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "The Listening Room Acoustix no.3" on Sat, 24 Oct 2026.
+Yoga Spot Fairfield is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "The Listening Room Acoustix no.3" on Sat, 24 Oct 2026.
 
 Yoga Spot Fairfield is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Yoga Spot Fairfield is a music venue in Melbourne listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The Listening Room Acoustix no.3 |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/yoga-spot-fairfield/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/yoga-spot-fairfield/)*

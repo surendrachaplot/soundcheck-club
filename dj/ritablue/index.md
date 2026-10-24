@@ -1,6 +1,6 @@
 # Rita Blue
 
-Rita Blue is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Thu, 22 Oct 2026.
+Rita Blue is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Thu, 22 Oct 2026.
 
 Rita Blue is an electronic artist based in Denmark, with 8 gigs on soundcheck across Copenhagen. Often billed alongside dragongirl, Gavnlig and DJ Woo Girl. Next up: Pylonen - Frizonen Langebro, Copenhagen on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Rita Blue is an electronic artist based in Denmark, with 8 gigs on soundcheck ac
 
 dragongirl, Gavnlig, DJ Woo Girl
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritablue/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritablue/)*

@@ -1,6 +1,6 @@
 # AKEYLAH
 
-AKEYLAH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+AKEYLAH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 AKEYLAH is a techno and house artist based in Australia, with 50 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside 3LOAR, Brent Honey and OnlyWithYou. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ AKEYLAH is a techno and house artist based in Australia, with 50 gigs on soundch
 
 3LOAR, Brent Honey, OnlyWithYou
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akeylah/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akeylah/)*

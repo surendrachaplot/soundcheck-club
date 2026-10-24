@@ -1,6 +1,6 @@
 # Franky Wah
 
-Franky Wah is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Savaya Bali, Bali on Sat, 24 Oct 2026.
+Franky Wah is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Savaya Bali, Bali on Sat, 24 Oct 2026.
 
 Franky Wah is a techno and house artist based in United Kingdom, with 139 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 37 more. Often billed alongside Sasha, Artche and Korolova. Next up: Savaya Bali, Bali on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Franky Wah is a techno and house artist based in United Kingdom, with 139 gigs o
 
 Sasha, Artche, Korolova
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*

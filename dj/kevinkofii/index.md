@@ -1,6 +1,6 @@
 # KEVIN KOFII
 
-KEVIN KOFII is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TRAUM, Antwerp on Sat, 24 Oct 2026.
+KEVIN KOFII is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TRAUM, Antwerp on Sat, 24 Oct 2026.
 
 KEVIN KOFII is a garage and house artist based in Belgium, with 29 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 5 more. Often billed alongside DC Noises, BAVR and Arter. Next up: TRAUM, Antwerp on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ KEVIN KOFII is a garage and house artist based in Belgium, with 29 gigs on sound
 
 DC Noises, BAVR, Arter
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkofii/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkofii/)*

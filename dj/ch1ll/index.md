@@ -1,6 +1,6 @@
 # CH1LL
 
-CH1LL is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Triangle, Osaka on Sat, 7 Nov 2026.
+CH1LL is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Triangle, Osaka on Sat, 7 Nov 2026.
 
 CH1LL is a hardcore and techno artist, with 16 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Kayakkus, kakepon and Rëgret. Next up: Triangle, Osaka on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ CH1LL is a hardcore and techno artist, with 16 gigs on soundcheck across Kyoto, 
 
 Kayakkus, kakepon, Rëgret
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ch1ll/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ch1ll/)*

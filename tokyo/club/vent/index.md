@@ -1,6 +1,6 @@
 # VENT
 
-VENT is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "XDB / PACIFIC MODE x Solstice" on Sat, 24 Oct 2026.
+VENT is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "XDB / PACIFIC MODE x Solstice" on Sat, 24 Oct 2026.
 
 VENT is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including 5ive, AI, AKIRAM EN and ANNĒ and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -23,4 +23,4 @@ VENT is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

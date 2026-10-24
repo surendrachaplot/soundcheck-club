@@ -1,6 +1,6 @@
 # Ryu (JP)
 
-Ryu (JP) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at BAR Inc, Osaka on Sun, 25 Oct 2026.
+Ryu (JP) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at BAR Inc, Osaka on Sun, 25 Oct 2026.
 
 Ryu (JP) is a house and disco artist based in Japan, with 5 gigs on soundcheck across Beijing, Manila, Osaka and Zagreb. Often billed alongside Eternal Love, Funkie and GAKUTO(TOKYO). Next up: BAR Inc, Osaka on Sun 25 Oct.
 
@@ -21,4 +21,4 @@ Ryu (JP) is a house and disco artist based in Japan, with 5 gigs on soundcheck a
 
 Eternal Love, Funkie, GAKUTO(TOKYO)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryu-jp/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryu-jp/)*

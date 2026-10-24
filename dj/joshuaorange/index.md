@@ -1,6 +1,6 @@
 # Joshua Orange
 
-Joshua Orange is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lost in Paradise Rooftop, New York City on Sun, 25 Oct 2026.
+Joshua Orange is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Lost in Paradise Rooftop, New York City on Sun, 25 Oct 2026.
 
 Joshua Orange is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Detroit, New York City, Philadelphia and Pittsburgh. Often billed alongside HUNY, Dj incognito mode and Amarji King. Next up: Lost in Paradise Rooftop, New York City on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Joshua Orange is a house and techno artist based in United States of America, wi
 
 HUNY, Dj incognito mode, Amarji King
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuaorange/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuaorange/)*

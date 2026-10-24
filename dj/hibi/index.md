@@ -1,6 +1,6 @@
 # HIBI
 
-HIBI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at La Rotonde Stalingrad, Paris on Fri, 6 Nov 2026.
+HIBI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at La Rotonde Stalingrad, Paris on Fri, 6 Nov 2026.
 
 HIBI is a techno and trance artist based in France, with 15 gigs on soundcheck across Marseille, Nantes and Paris. Often billed alongside 25EMEHEURE, LESSSS and ØBSTN. Next up: La Rotonde Stalingrad, Paris on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ HIBI is a techno and trance artist based in France, with 15 gigs on soundcheck a
 
 25EMEHEURE, LESSSS, ØBSTN
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hibi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hibi/)*

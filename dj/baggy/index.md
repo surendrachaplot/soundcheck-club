@@ -1,6 +1,6 @@
 # Bäggy
 
-Bäggy is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 30 Oct 2026.
+Bäggy is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 30 Oct 2026.
 
 Bäggy is a techno and tech house artist based in Germany, with 47 gigs on soundcheck across Berlin, Cologne and Munich. Often billed alongside Kriszpy, Upzet and OELEX. Next up: Süss War Gestern, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bäggy is a techno and tech house artist based in Germany, with 47 gigs on sound
 
 Kriszpy, Upzet, OELEX
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baggy/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baggy/)*

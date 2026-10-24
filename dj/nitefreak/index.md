@@ -1,6 +1,6 @@
 # Nitefreak
 
-Nitefreak is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+Nitefreak is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
 Nitefreak is an afro house and house artist based in Zimbabwe, with 67 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 24 more. Often billed alongside Francis Mercier, MoBlack and ARYMÉ. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nitefreak is an afro house and house artist based in Zimbabwe, with 67 gigs on s
 
 Francis Mercier, MoBlack, ARYMÉ
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefreak/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefreak/)*

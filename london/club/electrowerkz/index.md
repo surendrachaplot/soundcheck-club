@@ -1,15 +1,13 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "HONEY HONEY - HALLOWEEN SPECIAL" on Fri, 23 Oct 2026.
+Electrowerkz is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "jumpstart! (UAL x KCL)" on Tue, 27 Oct 2026.
 
-Electrowerkz is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including AUKA, AyChibs, Bethan and Brother of Set and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
+Electrowerkz is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including AUKA, AyChibs, Bethan and Chris de Buerre and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | HONEY HONEY - HALLOWEEN SPECIAL | Cactushead |
-| Fri, 23 Oct 2026 | KARMA KLUB - HALLOWEEN SPECIAL | Brother of Set, Ricardo Castro, TEDESCO, Twang, Wax Wings, Yiota |
 | Tue, 27 Oct 2026 | jumpstart! (UAL x KCL) |  |
 | Sat, 31 Oct 2026 | BASH | Chris de Buerre, Hayley Wallace, Sam Londt, The Shapeshifters |
 | Sun, 1 Nov 2026 | Riot London Halloween |  |
@@ -18,9 +16,10 @@ Electrowerkz is a music venue in London listed on soundcheck. 11 upcoming gigs, 
 | Fri, 20 Nov 2026 | To The Left | AyChibs, Donnie Sunshine, Mayowa |
 | Sat, 21 Nov 2026 | HUNTER: MAXXIMUM THRUST | Sean Summers |
 | Fri, 27 Nov 2026 | Slimelight 39TH BIRTHDAY | Dj.Malefica, Ricardo Castro, Steve Weeks |
+| Sun, 27 Dec 2026 | Riot London End of Year Party |  |
 
 ## Address
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

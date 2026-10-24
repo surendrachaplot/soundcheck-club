@@ -1,6 +1,6 @@
 # Manuel Kim
 
-Manuel Kim is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Charlie, Munich on Sat, 24 Oct 2026.
+Manuel Kim is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Charlie, Munich on Sat, 24 Oct 2026.
 
 Manuel Kim is a house and disco artist based in Germany, with 27 gigs on soundcheck across Berlin, Munich and New York City. Often billed alongside Benjamin Roeder, Bogus Trumper and sianza. Next up: Charlie, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Manuel Kim is a house and disco artist based in Germany, with 27 gigs on soundch
 
 Benjamin Roeder, Bogus Trumper, sianza
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelkim/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelkim/)*

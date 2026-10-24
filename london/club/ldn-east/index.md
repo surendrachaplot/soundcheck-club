@@ -1,6 +1,6 @@
 # LDN East
 
-LDN East is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "House Warming Day Party (afterparty at Steelyard)" on Sat, 24 Oct 2026.
+LDN East is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "House Warming Day Party (afterparty at Steelyard)" on Sat, 24 Oct 2026.
 
 LDN East is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Beezo, Billy Cocks, Boon (UK) and DJ Bobby Digital and 2 more. See dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
@@ -18,4 +18,4 @@ LDN East is a music venue in London listed on soundcheck. 5 upcoming gigs, with 
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

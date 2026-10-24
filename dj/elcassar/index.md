@@ -1,6 +1,6 @@
 # El Cassar
 
-El Cassar is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
+El Cassar is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
 
 El Cassar is a tech house and house artist based in United Kingdom, with 27 gigs on soundcheck across London and Malta. Often billed alongside Cristian Ebasta, Ty Henry and Enrico Chirchiello. Next up: Union Club, Vauxhall, London on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ El Cassar is a tech house and house artist based in United Kingdom, with 27 gigs
 
 Cristian Ebasta, Ty Henry, Enrico Chirchiello
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elcassar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elcassar/)*

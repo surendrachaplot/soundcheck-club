@@ -1,6 +1,6 @@
 # SLVR
 
-SLVR is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at LAB theCLUB, Madrid on Fri, 30 Oct 2026.
+SLVR is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at LAB theCLUB, Madrid on Fri, 30 Oct 2026.
 
 SLVR is a house and deep house artist based in Italy, with 3 gigs on soundcheck across London, Madrid and Santiago. Often billed alongside Mathame, 19:26 and JĀST. Next up: LAB theCLUB, Madrid on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ SLVR is a house and deep house artist based in Italy, with 3 gigs on soundcheck 
 
 Mathame, 19:26, JĀST
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvr/)*

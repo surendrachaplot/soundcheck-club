@@ -1,6 +1,6 @@
 # HOVR
 
-HOVR is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
+HOVR is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
 
 HOVR is a techno and house artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 19 more. Often billed alongside Oliver Koletzki, Frida Darko and Hidden Empire. Next up: THE OTHER SIDE, Amsterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ HOVR is a techno and house artist based in Germany, with 73 gigs on soundcheck a
 
 Oliver Koletzki, Frida Darko, Hidden Empire
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hovr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hovr/)*

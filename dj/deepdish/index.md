@@ -1,6 +1,6 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oceandiva Original, Netherlands on Sat, 24 Oct 2026.
+Deep Dish is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Oceandiva Original, Netherlands on Sat, 24 Oct 2026.
 
 Deep Dish is a house and progressive house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Dubfire, Sharam and Khen. Next up: Oceandiva Original, Netherlands on Sat 24 Oct.
 
@@ -14,6 +14,7 @@ Deep Dish is a house and progressive house artist based in United States of Amer
 
 ## Recently played
 
+- WestWeelde, Amsterdam · Fri, 23 Oct 2026
 - Stereo, Montreal · Sat, 17 Oct 2026
 - Victoria Baths, Manchester · Sat, 10 Oct 2026
 - O der Klub, Vienna · Fri, 9 Oct 2026
@@ -21,10 +22,9 @@ Deep Dish is a house and progressive house artist based in United States of Amer
 - 528 Ibiza, Ibiza · Thu, 1 Oct 2026
 - Reelworks Denver, Denver · Sat, 26 Sept 2026
 - Refuge, New York City · Fri, 25 Sept 2026
-- Ku Barcelona, Barcelona · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 Dubfire, Sharam, Khen
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*

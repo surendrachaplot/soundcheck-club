@@ -1,6 +1,6 @@
 # BYØRN
 
-BYØRN is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Cieloterra, Rome on Sat, 24 Oct 2026.
+BYØRN is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Cieloterra, Rome on Sat, 24 Oct 2026.
 
 BYØRN is a techno and trance artist based in Belgium, with 109 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 47 more. Often billed alongside NOVAH, SIKOTI and 6EJOU. Next up: Cieloterra, Rome on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ BYØRN is a techno and trance artist based in Belgium, with 109 gigs on soundche
 
 NOVAH, SIKOTI, 6EJOU
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*

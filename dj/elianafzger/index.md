@@ -1,6 +1,6 @@
 # Elia Nafzger
 
-Elia Nafzger is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Supermarket, Zurich on Sat, 24 Oct 2026.
+Elia Nafzger is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Supermarket, Zurich on Sat, 24 Oct 2026.
 
 Elia Nafzger is a house and techno artist based in United Kingdom, with 54 gigs on soundcheck across Berlin, Brussels, Bucharest and Detroit and 9 more. Often billed alongside Desuba, Andrei Ciubuc and Zach G. Next up: Supermarket, Zurich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Elia Nafzger is a house and techno artist based in United Kingdom, with 54 gigs 
 
 Desuba, Andrei Ciubuc, Zach G
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elianafzger/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elianafzger/)*

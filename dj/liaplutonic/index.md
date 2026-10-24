@@ -1,6 +1,6 @@
 # Lia Plutonic
 
-Lia Plutonic is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Société des arts technologiques, Montreal on Sat, 24 Oct 2026.
+Lia Plutonic is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Société des arts technologiques, Montreal on Sat, 24 Oct 2026.
 
 Lia Plutonic is a house and techno artist based in Canada, with 76 gigs on soundcheck across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Guthrie, Lis Dalton and Pascale Project. Next up: Société des arts technologiques, Montreal on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Lia Plutonic is a house and techno artist based in Canada, with 76 gigs on sound
 
 Guthrie, Lis Dalton, Pascale Project
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*

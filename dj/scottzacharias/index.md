@@ -1,19 +1,19 @@
 # Scott Zacharias
 
-Scott Zacharias is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tigris, Detroit on Fri, 23 Oct 2026.
+Scott Zacharias is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Marble Bar, Detroit on Fri, 30 Oct 2026.
 
-Scott Zacharias is a house and techno artist based in United States of America, with 154 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 18 more. Often billed alongside Ryan Spencer, Father Dukes and Ladylike. Next up: Tigris, Detroit on Fri 23 Oct.
+Scott Zacharias is a house and techno artist based in United States of America, with 154 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 18 more. Often billed alongside Ryan Spencer, Father Dukes and Ladylike. Next up: Marble Bar, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Tigris | Detroit |
 | Fri, 30 Oct 2026 | Marble Bar | Detroit |
 | Sat, 14 Nov 2026 | Nowadays | New York City |
 
 ## Recently played
 
+- Tigris, Detroit · Fri, 23 Oct 2026
 - The Lower Level, Boston · Fri, 25 Sept 2026
 - Bar Part Time, San Francisco/Oakland · Fri, 11 Sept 2026
 - Lincoln Factory, Detroit · Fri, 4 Sept 2026
@@ -21,10 +21,9 @@ Scott Zacharias is a house and techno artist based in United States of America, 
 - Sunday Sunday, Mexico City · Sun, 23 Aug 2026
 - public records, New York City · Sat, 22 Aug 2026
 - Poor Boy's, New Orleans · Thu, 30 Jul 2026
-- Système, Montreal · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Ryan Spencer, Father Dukes, Ladylike
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottzacharias/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottzacharias/)*

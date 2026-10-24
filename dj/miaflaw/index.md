@@ -1,6 +1,6 @@
 # MIA FLAW
 
-MIA FLAW is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri, 30 Oct 2026.
+MIA FLAW is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri, 30 Oct 2026.
 
 MIA FLAW is a club and electronica artist based in Spain, with 23 gigs on soundcheck across Barcelona, Hanoi, Ho Chi Minh City and Madrid and 4 more. Often billed alongside DJ2D2, Linapary and BZZHOUND. Next up: TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ MIA FLAW is a club and electronica artist based in Spain, with 23 gigs on soundc
 
 DJ2D2, Linapary, BZZHOUND
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miaflaw/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miaflaw/)*

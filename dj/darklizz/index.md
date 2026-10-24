@@ -1,6 +1,6 @@
 # DarK LiZZ
 
-DarK LiZZ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Der Weiße Hase, Berlin on Tue, 17 Nov 2026.
+DarK LiZZ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Der Weiße Hase, Berlin on Tue, 17 Nov 2026.
 
 DarK LiZZ is a techno and industrial artist based in Germany, with 81 gigs on soundcheck across Berlin, Dresden and Hamburg. Often billed alongside Felix Reichelt, Kaminka Merel and Cat Vermillion. Next up: Der Weiße Hase, Berlin on Tue 17 Nov.
 
@@ -26,4 +26,4 @@ DarK LiZZ is a techno and industrial artist based in Germany, with 81 gigs on so
 
 Felix Reichelt, Kaminka Merel, Cat Vermillion
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darklizz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darklizz/)*

@@ -1,6 +1,6 @@
 # Layzie
 
-Layzie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kult, Belgrade on Sat, 24 Oct 2026.
+Layzie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kult, Belgrade on Sat, 24 Oct 2026.
 
 Layzie is a techno and house artist, with 18 gigs on soundcheck across Belgrade, Budapest, Chongqing and Hanoi. Often billed alongside Cosmic G, Nemax and .Paragon. Next up: Kult, Belgrade on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Layzie is a techno and house artist, with 18 gigs on soundcheck across Belgrade,
 
 Cosmic G, Nemax, .Paragon
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/layzie/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/layzie/)*

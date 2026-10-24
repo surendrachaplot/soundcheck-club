@@ -1,14 +1,13 @@
 # GASHOUDER
 
-GASHOUDER is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "GASHOUDER presents: Mochakk CALLING" on Fri, 23 Oct 2026.
+GASHOUDER is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "GASHOUDER presents: Flow by Franky Rizardo [Sold Out]" on Sat, 24 Oct 2026.
 
-GASHOUDER is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including 999999999, AAT (NL), Alexandria and Benny Rodrigues and 2 more. See dates, start times and who's playing. Klönneplein 1, 1014 DD Amsterdam, Netherlands.
+GASHOUDER is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including 999999999, AAT (NL), Alexandria and Benny Rodrigues and 2 more. See dates, start times and who's playing. Klönneplein 1, 1014 DD Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | GASHOUDER presents: Mochakk CALLING | ISAbella, Juliana X, MPH (1), Mochakk, Solarce Brothers |
 | Sat, 24 Oct 2026 | GASHOUDER presents: Flow by Franky Rizardo [Sold Out] | AAT (NL), Cloonee, Easttown, Franky Rizardo, Grace Arribas, Mason Collective |
 | Sat, 24 Oct 2026 | GASHOUDER presents: Sammy Virji Curates [Sold Out] | RIRIA, Rossi, SAIDAH, Sam Alfred, Sammy Virji |
 | Sun, 25 Oct 2026 | GASHOUDER presents: Josh Baker [Sold Out] | Alexandria, Josh Baker, Marie Montexier, Marsolo |
@@ -22,4 +21,4 @@ GASHOUDER is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, w
 
 Klönneplein 1, 1014 DD Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/gashouder/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/gashouder/)*

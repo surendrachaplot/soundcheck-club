@@ -1,6 +1,6 @@
 # INAKARA
 
-INAKARA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 26 Oct 2026.
+INAKARA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 26 Oct 2026.
 
 INAKARA is a techno and trance artist based in Mexico, with 19 gigs on soundcheck across Amsterdam, Berlin and Mexico City. Often billed alongside Leidbaz, AAAA and Diego Palacios. Next up: Tresor / Globus, Berlin on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ INAKARA is a techno and trance artist based in Mexico, with 19 gigs on soundchec
 
 Leidbaz, AAAA, Diego Palacios
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inakara/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inakara/)*

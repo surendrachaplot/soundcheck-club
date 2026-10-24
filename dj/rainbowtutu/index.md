@@ -1,6 +1,6 @@
 # Rainbow Tutu
 
-Rainbow Tutu is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Signal, New York City on Sat, 14 Nov 2026.
+Rainbow Tutu is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Signal, New York City on Sat, 14 Nov 2026.
 
 Rainbow Tutu is a club and house artist based in United States of America, with 42 gigs on soundcheck across New York City. Often billed alongside MAXWELL HöUSE, DJ Shoe and ivaindistress. Next up: Signal, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Rainbow Tutu is a club and house artist based in United States of America, with 
 
 MAXWELL HöUSE, DJ Shoe, ivaindistress
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainbowtutu/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainbowtutu/)*

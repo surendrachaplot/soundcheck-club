@@ -1,14 +1,13 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at LAV - Lisboa ao Vivo, Lisbon on Fri, 23 Oct 2026.
+Angerfist is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
-Angerfist is a techno and hardcore artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 40 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: LAV - Lisboa ao Vivo, Lisbon on Fri 23 Oct.
+Angerfist is a techno and hardcore artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 40 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | LAV - Lisboa ao Vivo | Lisbon |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
@@ -21,6 +20,7 @@ Angerfist is a techno and hardcore artist based in Germany, with 86 gigs on soun
 
 ## Recently played
 
+- LAV - Lisboa ao Vivo, Lisbon · Fri, 23 Oct 2026
 - Sala Urbana, Mexico City · Fri, 9 Oct 2026
 - Westfalenhallen, Dortmund / Essen · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
@@ -28,10 +28,9 @@ Angerfist is a techno and hardcore artist based in Germany, with 86 gigs on soun
 - Fabrik, Madrid · Sat, 19 Sept 2026
 - Eden, Ibiza · Tue, 25 Aug 2026
 - Medusa Beach, Valencia · Thu, 13 Aug 2026
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Trym, Alignment, Mad Dog
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

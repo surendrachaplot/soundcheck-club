@@ -1,6 +1,6 @@
 # Thomass Jackson
 
-Thomass Jackson is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Dreamping, South-korea on Sat, 24 Oct 2026.
+Thomass Jackson is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Dreamping, South-korea on Sat, 24 Oct 2026.
 
 Thomass Jackson is a house and techno artist based in Mexico, with 58 gigs on soundcheck across Barcelona, Berlin, Bogotá and Bucharest and 18 more. Often billed alongside Iñigo Vontier, Theus Mago and Barreto. Next up: The Dreamping, South Korea on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Thomass Jackson is a house and techno artist based in Mexico, with 58 gigs on so
 
 Iñigo Vontier, Theus Mago, Barreto
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomassjackson/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomassjackson/)*

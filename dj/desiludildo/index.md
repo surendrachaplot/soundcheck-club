@@ -1,6 +1,6 @@
 # Desiludildo
 
-Desiludildo is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Vespers Club, London on Fri, 30 Oct 2026.
+Desiludildo is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Vespers Club, London on Fri, 30 Oct 2026.
 
 Desiludildo is a gabber and hardcore artist based in Portugal, with 14 gigs on soundcheck across Glasgow and London. Often billed alongside AC (dot robot), Becky Stroke and Compulsive Leia. Next up: Vespers Club, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Desiludildo is a gabber and hardcore artist based in Portugal, with 14 gigs on s
 
 AC (dot robot), Becky Stroke, Compulsive Leia
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desiludildo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desiludildo/)*

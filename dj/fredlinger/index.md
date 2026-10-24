@@ -1,6 +1,6 @@
 # Fred Linger
 
-Fred Linger is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
+Fred Linger is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
 
 Fred Linger is a house and techno artist based in Switzerland, with 21 gigs on soundcheck across Basel and Zurich. Often billed alongside Guy Brûlé, Cristian Tamborrini and Oliver Aden & Luis Cruz. Next up: Elysia, Basel on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Fred Linger is a house and techno artist based in Switzerland, with 21 gigs on s
 
 Guy Brûlé, Cristian Tamborrini, Oliver Aden & Luis Cruz
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredlinger/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredlinger/)*

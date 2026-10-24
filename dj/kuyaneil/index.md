@@ -1,6 +1,6 @@
 # Kuya Neil
 
-Kuya Neil is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Sydney on Sat, 24 Oct 2026.
+Kuya Neil is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Sydney on Sat, 24 Oct 2026.
 
 Kuya Neil is a club and experimental artist based in Australia, with 22 gigs on soundcheck across London, Manila, Melbourne and Sydney. Often billed alongside Rydeen (AU), Teether and sovblkpssy. Next up: TBA, Sydney on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kuya Neil is a club and experimental artist based in Australia, with 22 gigs on 
 
 Rydeen (AU), Teether, sovblkpssy
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuyaneil/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuyaneil/)*

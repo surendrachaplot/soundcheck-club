@@ -1,14 +1,13 @@
 # B0YG1RL
 
-B0YG1RL is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at MoMA PS1, New York City on Thu, 22 Oct 2026.
+B0YG1RL is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TRANSMISSION DC, Washington DC on Sat, 31 Oct 2026.
 
-B0YG1RL is a techno and club artist based in United States of America, with 16 gigs on soundcheck across Los Angeles, Mexico City, Miami and New York City and 2 more. Often billed alongside Lady Narcisse, Racci and Aphex Twink. Next up: MoMA PS1, New York City on Thu 22 Oct.
+B0YG1RL is a techno and club artist based in United States of America, with 16 gigs on soundcheck across Los Angeles, Mexico City, Miami and New York City and 2 more. Often billed alongside Lady Narcisse, Racci and Aphex Twink. Next up: TRANSMISSION DC, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | MoMA PS1 | New York City |
 | Sat, 31 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 6 Nov 2026 | The Echoplex | Los Angeles |
 
@@ -27,4 +26,4 @@ B0YG1RL is a techno and club artist based in United States of America, with 16 g
 
 Lady Narcisse, Racci, Aphex Twink
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b0yg1rl/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b0yg1rl/)*

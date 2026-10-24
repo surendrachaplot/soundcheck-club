@@ -1,6 +1,6 @@
 # shabxxs
 
-shabxxs is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Liquid Club, Malta on Fri, 30 Oct 2026.
+shabxxs is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Liquid Club, Malta on Fri, 30 Oct 2026.
 
 shabxxs is a techno and hardcore artist, with 11 gigs on soundcheck across Malta. Often billed alongside A-THØX, MALISTA and Scythe. Next up: Liquid Club, Malta on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ shabxxs is a techno and hardcore artist, with 11 gigs on soundcheck across Malta
 
 A-THØX, MALISTA, Scythe
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shabxxs/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shabxxs/)*

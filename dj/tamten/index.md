@@ -1,6 +1,6 @@
 # TAMTEN
 
-TAMTEN is a New Wave and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Klubojadalnia Młodsza Siostra, Warsaw on Sun, 25 Oct 2026.
+TAMTEN is a New Wave and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Klubojadalnia Młodsza Siostra, Warsaw on Sun, 25 Oct 2026.
 
 TAMTEN is a new wave and techno artist, with 30 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside KUXU, DiV4 and Veronicami. Next up: Klubojadalnia Młodsza Siostra, Warsaw on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ TAMTEN is a new wave and techno artist, with 30 gigs on soundcheck across Krakow
 
 KUXU, DiV4, Veronicami
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamten/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamten/)*

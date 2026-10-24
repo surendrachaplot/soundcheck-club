@@ -1,6 +1,6 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at KREUZWERK, Berlin on Fri, 23 Oct 2026.
+Massimiliano Pagliara is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at KREUZWERK, Berlin on Fri, 23 Oct 2026.
 
 Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 81 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: KREUZWERK, Berlin on Fri 23 Oct.
 
@@ -23,6 +23,7 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs
 
 ## Recently played
 
+- KREUZWERK, Berlin · Fri, 23 Oct 2026
 - Fuchs2, Prague · Sat, 17 Oct 2026
 - New Century Locker, Manchester · Fri, 16 Oct 2026
 - Pérola Negra Club, Porto · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs
 - Société des arts technologiques, Montreal · Sat, 3 Oct 2026
 - KALT, Strasbourg · Sat, 26 Sept 2026
 - Virage, Paris · Fri, 25 Sept 2026
-- BASEMENT, New York City · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

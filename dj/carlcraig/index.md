@@ -1,6 +1,6 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Carl Craig is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Carl Craig is a house and techno artist based in United States of America, with 300 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 63 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -33,4 +33,4 @@ Carl Craig is a house and techno artist based in United States of America, with 
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

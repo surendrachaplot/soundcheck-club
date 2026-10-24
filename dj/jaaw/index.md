@@ -1,6 +1,6 @@
 # Jaaw
 
-Jaaw is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Departamento, Mexico City on Wed, 21 Oct 2026.
+Jaaw is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Departamento, Mexico City on Wed, 21 Oct 2026.
 
 Jaaw is a house and deep house artist, with 39 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Barreto, Duke Skylocker (Disco Dust) and Future Feelings. Next up: Departamento, Mexico City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Jaaw is a house and deep house artist, with 39 gigs on soundcheck across Guadala
 
 Barreto, Duke Skylocker (Disco Dust), Future Feelings
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaaw/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaaw/)*

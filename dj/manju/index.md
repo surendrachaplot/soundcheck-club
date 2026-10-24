@@ -1,6 +1,6 @@
 # manju
 
-manju is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Rugs*, Beijing on Fri, 13 Nov 2026.
+manju is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Rugs*, Beijing on Fri, 13 Nov 2026.
 
 manju is a techno and bass artist, with 65 gigs on soundcheck across Bangkok, Beijing, Kyoto and Lisbon and 2 more. Often billed alongside Juju Manju, Cosmic Egg and Skögul. Next up: Rugs*, Beijing on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ manju is a techno and bass artist, with 65 gigs on soundcheck across Bangkok, Be
 
 Juju Manju, Cosmic Egg, Skögul
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manju/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manju/)*

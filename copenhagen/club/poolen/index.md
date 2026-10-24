@@ -1,14 +1,13 @@
 # Poolen
 
-Poolen is a music venue in Copenhagen with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Paul Van Dyk" on Fri, 23 Oct 2026.
+Poolen is a music venue in Copenhagen with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Intercell Copenhagen" on Fri, 13 Nov 2026.
 
-Poolen is a music venue in Copenhagen listed on soundcheck. 9 upcoming gigs, with line-ups including ARANEA, Cirkeline, Coone and KIRSTY and 2 more. See dates, start times and who's playing. Refshalevej 189, 1432 Copenhagen, Denmark.
+Poolen is a music venue in Copenhagen listed on soundcheck. 8 upcoming gigs, with line-ups including ARANEA, Cirkeline, Coone and KIRSTY and 2 more. See dates, start times and who's playing. Refshalevej 189, 1432 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Paul Van Dyk | Paul Van Dyk |
 | Fri, 13 Nov 2026 | Intercell Copenhagen | Luke Slater, Milo Makua, Oscar Mulero, Philippa Pacho, Rene Wise |
 | Sat, 21 Nov 2026 | Sub Focus | Sub Focus |
 | Thu, 26 Nov 2026 | O/FM Presents: Overmono (DJ set) | Cirkeline, Love Remain, Overmono |
@@ -22,4 +21,4 @@ Poolen is a music venue in Copenhagen listed on soundcheck. 9 upcoming gigs, wit
 
 Refshalevej 189, 1432 Copenhagen, Denmark, Copenhagen
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/poolen/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/poolen/)*

@@ -1,6 +1,6 @@
 # TBA - Secret Location - North of Rome
 
-TBA - Secret Location - North of Rome is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Lisergica ~ Il Borgo dell'Ego Dissolto III" on Sat, 31 Oct 2026.
+TBA - Secret Location - North of Rome is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Lisergica ~ Il Borgo dell'Ego Dissolto III" on Sat, 31 Oct 2026.
 
 TBA - Secret Location - North of Rome is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including lōrenzo, Nicky Macha and Rond. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Location - North of Rome is a music venue in Rome listed on soundch
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Lisergica ~ Il Borgo dell'Ego Dissolto III | Nicky Macha, Rond (1), lōrenzo |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/tba-secret-location-north-of-rome/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/tba-secret-location-north-of-rome/)*

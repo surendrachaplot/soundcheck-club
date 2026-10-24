@@ -1,6 +1,6 @@
 # Dashé
 
-Dashé is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+Dashé is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
 
 Dashé is a techno and club artist based in Australia, with 10 gigs on soundcheck across Adelaide and Melbourne. Often billed alongside Haus of Ralph, Aaliyah Salem and Cristal No.5. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Dashé is a techno and club artist based in Australia, with 10 gigs on soundchec
 
 Haus of Ralph, Aaliyah Salem, Cristal No.5
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashe-au/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashe-au/)*

@@ -1,6 +1,6 @@
 # Sonny Smiles
 
-Sonny Smiles is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
+Sonny Smiles is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
 
 Sonny Smiles is a trance and techno artist based in Japan, with 12 gigs on soundcheck across Berlin. Often billed alongside Aexhy, SACID and LŸBRA. Next up: ://about blank, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sonny Smiles is a trance and techno artist based in Japan, with 12 gigs on sound
 
 Aexhy, SACID, LŸBRA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnysmiles/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnysmiles/)*

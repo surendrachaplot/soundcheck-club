@@ -1,15 +1,13 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
+SANTØS is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at OCZKI, Warsaw on Sat, 24 Oct 2026.
 
-SANTØS is a techno and industrial artist based in Netherlands, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 32 more. Often billed alongside KARAH, KLOFAMA and 6EJOU. Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
+SANTØS is a techno and industrial artist based in Netherlands, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 32 more. Often billed alongside KARAH, KLOFAMA and 6EJOU. Next up: OCZKI, Warsaw on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA - Amsterdam Central Station  | Amsterdam |
-| Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 24 Oct 2026 | OCZKI | Warsaw |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
@@ -23,17 +21,17 @@ SANTØS is a techno and industrial artist based in Netherlands, with 114 gigs on
 
 ## Recently played
 
+- TBA - Amsterdam Central Station , Amsterdam · Fri, 23 Oct 2026
+- Amsterdam Central Station, Amsterdam · Fri, 23 Oct 2026
 - Edelfettwerk, Hamburg · Fri, 16 Oct 2026
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - BASIS, Utrecht · Fri, 2 Oct 2026
 - Airport Würzburg, Nürnberg · Sat, 19 Sept 2026
 - Eden, Ibiza · Tue, 15 Sept 2026
 - The Yard Vienna, Vienna · Sat, 12 Sept 2026
-- The Flinders, Sydney · Fri, 11 Sept 2026
-- Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 KARAH, KLOFAMA, 6EJOU
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*

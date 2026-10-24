@@ -1,6 +1,6 @@
 # EVYA
 
-EVYA is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
+EVYA is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
 
 EVYA is a techno and tech house artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside April the pink, VEGANICECREAM and Blck-Swan. Next up: Sensorium, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ EVYA is a techno and tech house artist based in Germany, with 11 gigs on soundch
 
 April the pink, VEGANICECREAM, Blck-Swan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evya/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evya/)*

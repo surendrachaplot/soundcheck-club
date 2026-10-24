@@ -1,6 +1,6 @@
 # Loft Studios
 
-Loft Studios is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "OINIMOD HALLOWEEN - MANGA YOKAI" on Fri, 30 Oct 2026.
+Loft Studios is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "OINIMOD HALLOWEEN - MANGA YOKAI" on Fri, 30 Oct 2026.
 
 Loft Studios is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Aldonna, Nirvan, Sonus and Squash and 1 more. See dates, start times and who's playing. 77 - 81 Scrubs Lane; London NW10 6QU; United Kingdom.
 
@@ -14,4 +14,4 @@ Loft Studios is a music venue in London listed on soundcheck. 1 upcoming gig, wi
 
 77 - 81 Scrubs Lane; London NW10 6QU; United Kingdom, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/loft-studios/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/loft-studios/)*

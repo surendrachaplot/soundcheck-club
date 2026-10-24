@@ -1,6 +1,6 @@
 # HIJINX
 
-HIJINX is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Soundwell, Salt-lake-city on Thu, 5 Nov 2026.
+HIJINX is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Soundwell, Salt-lake-city on Thu, 5 Nov 2026.
 
 HIJINX is a dubstep and bass artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Bristol, Chicago and Denver and 9 more. Often billed alongside Alix Perez, SGT Pokes and Cesco. Next up: Soundwell, Salt Lake City on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ HIJINX is a dubstep and bass artist based in United Kingdom, with 26 gigs on sou
 
 Alix Perez, SGT Pokes, Cesco
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hijinx/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hijinx/)*

@@ -1,14 +1,13 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Coda, Toronto on Fri, 23 Oct 2026.
+Luuk van Dijk is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Club Space Miami, Miami on Sat, 24 Oct 2026.
 
-Luuk van Dijk is a house and tech house artist based in Netherlands, with 249 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 56 more. Often billed alongside Prunk, L.P. Rhythm and Max Dean. Next up: Coda, Toronto on Fri 23 Oct.
+Luuk van Dijk is a house and tech house artist based in Netherlands, with 249 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 56 more. Often billed alongside Prunk, L.P. Rhythm and Max Dean. Next up: Club Space Miami, Miami on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Coda | Toronto |
 | Sat, 24 Oct 2026 | Club Space Miami | Miami |
 | Sun, 1 Nov 2026 | The Cause | London |
 | Sun, 1 Nov 2026 | Chelmsford City Racecourse | London |
@@ -21,6 +20,7 @@ Luuk van Dijk is a house and tech house artist based in Netherlands, with 249 gi
 
 ## Recently played
 
+- Coda, Toronto · Fri, 23 Oct 2026
 - Document, Bristol · Sat, 10 Oct 2026
 - FVTVR, Paris · Fri, 9 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
@@ -28,10 +28,9 @@ Luuk van Dijk is a house and tech house artist based in Netherlands, with 249 gi
 - Binks Yard, Nottingham · Sat, 26 Sept 2026
 - SWG3, Glasgow · Fri, 25 Sept 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
-- Colorado Charlie, The Hague · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Prunk, L.P. Rhythm, Max Dean
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

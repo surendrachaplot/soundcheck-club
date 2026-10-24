@@ -1,6 +1,6 @@
 # Burko
 
-Burko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, San Diego on Sat, 24 Oct 2026.
+Burko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, San Diego on Sat, 24 Oct 2026.
 
 Burko is a techno and house artist, with 19 gigs on soundcheck across Amsterdam, Denver, Los Angeles and New York City and 2 more. Often billed alongside Sprout, Tyler Chase and bawab. Next up: TBA, San Diego on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Burko is a techno and house artist, with 19 gigs on soundcheck across Amsterdam,
 
 Sprout, Tyler Chase, bawab
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burko/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burko/)*

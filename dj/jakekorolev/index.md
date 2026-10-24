@@ -1,6 +1,6 @@
 # Jake Korolev
 
-Jake Korolev is a Pop and Breakcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Baby's All Right, New York City on Sat, 24 Oct 2026.
+Jake Korolev is a Pop and Breakcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Baby's All Right, New York City on Sat, 24 Oct 2026.
 
 Jake Korolev is a pop and breakcore artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Caratastrophe, FI-LO and Jhariah. Next up: Baby's All Right, New York City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Jake Korolev is a pop and breakcore artist based in United States of America, wi
 
 Caratastrophe, FI-LO, Jhariah
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakekorolev/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakekorolev/)*

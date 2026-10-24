@@ -1,14 +1,13 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "U/OFFu Takes Over KC Grad" on Fri, 23 Oct 2026.
+KC Grad is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "EELF Presents - Belgrade: Shaolin Cowboy, Paluma Sound, Ghetto Uni " on Sat, 7 Nov 2026.
 
-KC Grad is a music venue in Belgrade listed on soundcheck. 3 upcoming gigs, with line-ups including Bianca Intensa, Feloneezy, Grumen and Paluma Sound and 1 more. See dates, start times and who's playing. Belgrade, 11000, Serbia.
+KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Paluma Sound and Shaolin Cowboy. See dates, start times and who's playing. Belgrade, 11000, Serbia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | U/OFFu Takes Over KC Grad | Bianca Intensa, Feloneezy, Grumen |
 | Sat, 7 Nov 2026 | EELF Presents - Belgrade: Shaolin Cowboy, Paluma Sound, Ghetto Uni  | Paluma Sound, Shaolin Cowboy |
 | Sun, 6 Dec 2026 | Low Light Ensemble |  |
 
@@ -16,4 +15,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 3 upcoming gigs, with
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

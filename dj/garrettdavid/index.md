@@ -1,14 +1,13 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Garrett David is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
 
-Garrett David is a house and disco artist based in United States of America, with 214 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 41 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
+Garrett David is a house and disco artist based in United States of America, with 214 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 41 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: TBA, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | TBA | Amsterdam |
 | Fri, 30 Oct 2026 | The Racket Space | Dublin |
 | Sat, 31 Oct 2026 | NOWHERE | Manchester |
@@ -19,6 +18,7 @@ Garrett David is a house and disco artist based in United States of America, wit
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Sawmills, Bristol · Sat, 17 Oct 2026
 - Hoppetosse, Berlin · Fri, 16 Oct 2026
 - Frankhan Selectist, Istanbul · Sat, 10 Oct 2026
@@ -26,10 +26,9 @@ Garrett David is a house and disco artist based in United States of America, wit
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - H0L0, New York City · Sat, 26 Sept 2026
 - Marble Bar, Detroit · Fri, 25 Sept 2026
-- Stardust Garage, Austin · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

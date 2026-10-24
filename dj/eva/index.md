@@ -1,6 +1,6 @@
 # Eva
 
-Eva is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 25 Oct 2026.
+Eva is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 25 Oct 2026.
 
 Eva is a house and techno artist, with 48 gigs on soundcheck across Berlin, Brighton, Dresden and Hamburg and 12 more. Often billed alongside Ida (CH), MAH BOD and Marcel Koar. Next up: Smith St Hotel, Melbourne on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Eva is a house and techno artist, with 48 gigs on soundcheck across Berlin, Brig
 
 Ida (CH), MAH BOD, Marcel Koar
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eva/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eva/)*

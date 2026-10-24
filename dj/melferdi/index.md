@@ -1,6 +1,6 @@
 # MelFerdi
 
-MelFerdi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Toffler, Rotterdam on Sat, 24 Oct 2026.
+MelFerdi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Toffler, Rotterdam on Sat, 24 Oct 2026.
 
 MelFerdi is a techno and house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside All Dave, B-Bop and Baliology. Next up: Toffler, Rotterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MelFerdi is a techno and house artist based in Netherlands, with 10 gigs on soun
 
 All Dave, B-Bop, Baliology
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melferdi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melferdi/)*

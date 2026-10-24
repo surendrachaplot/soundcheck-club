@@ -1,6 +1,6 @@
 # LASK (2)
 
-LASK (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at BUS Hexperience, Barcelona on Sun, 25 Oct 2026.
+LASK (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at BUS Hexperience, Barcelona on Sun, 25 Oct 2026.
 
 LASK is a house and minimal artist based in Greece, with 30 gigs on soundcheck across Athens and Barcelona. Often billed alongside Alexxx, PAZ WAZ HERE and Rele. Next up: BUS Hexperience, Barcelona on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ LASK is a house and minimal artist based in Greece, with 30 gigs on soundcheck a
 
 Alexxx, PAZ WAZ HERE, Rele
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lask-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lask-2/)*

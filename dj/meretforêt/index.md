@@ -1,6 +1,6 @@
 # Meret Forêt
 
-Meret Forêt is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Romantica, Stuttgart on Fri, 30 Oct 2026.
+Meret Forêt is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Romantica, Stuttgart on Fri, 30 Oct 2026.
 
 Meret Forêt is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Stuttgart. Often billed alongside Anica, CALiACRA and Hjalte. Next up: Romantica, Stuttgart on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Meret Forêt is a techno and trance artist based in Germany, with 10 gigs on sou
 
 Anica, CALiACRA, Hjalte
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meretforêt/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meretforêt/)*

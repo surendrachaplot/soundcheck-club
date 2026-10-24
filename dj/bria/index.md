@@ -1,6 +1,6 @@
 # Bria
 
-Bria is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Liberty Hall, Sydney on Sun, 15 Nov 2026.
+Bria is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Liberty Hall, Sydney on Sun, 15 Nov 2026.
 
 Bria is a house and techno artist based in Australia, with 50 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Adi Toohey, Deepa and Evie. Next up: Liberty Hall, Sydney on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Bria is a house and techno artist based in Australia, with 50 gigs on soundcheck
 
 Adi Toohey, Deepa, Evie
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bria/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bria/)*

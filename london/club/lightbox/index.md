@@ -1,15 +1,13 @@
 # Lightbox
 
-Lightbox is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Pop All Night Long - Limited Free Tickets" on Fri, 23 Oct 2026.
+Lightbox is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "VIVA Reggaeton New Talent Night" on Sat, 24 Oct 2026.
 
-Lightbox is a music venue in London listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom.
+Lightbox is a music venue in London listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Pop All Night Long - Limited Free Tickets |  |
-| Fri, 23 Oct 2026 | Hiphop All Night Long - Limited Free Tickets |  |
 | Sat, 24 Oct 2026 | VIVA Reggaeton New Talent Night |  |
 | Sat, 24 Oct 2026 | VIVA Baile |  |
 | Thu, 29 Oct 2026 | Hip Hop Halloween |  |
@@ -21,4 +19,4 @@ Lightbox is a music venue in London listed on soundcheck. 8 upcoming gigs. See d
 
 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/lightbox/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/lightbox/)*

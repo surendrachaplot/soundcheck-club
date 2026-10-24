@@ -1,6 +1,6 @@
 # BUD (1)
 
-BUD (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Royal Lounge, Tokyo on Sun, 15 Nov 2026.
+BUD (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Royal Lounge, Tokyo on Sun, 15 Nov 2026.
 
 BUD is a house and techno artist based in Mongolia, with 10 gigs on soundcheck across London, Paris, Seoul and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and O.Goo. Next up: Royal Lounge, Tokyo on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ BUD is a house and techno artist based in Mongolia, with 10 gigs on soundcheck a
 
 SIGNAL (JP), MOTOKA, O.Goo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bud-1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bud-1/)*

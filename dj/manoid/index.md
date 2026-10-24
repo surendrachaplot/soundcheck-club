@@ -1,6 +1,6 @@
 # Manoid
 
-Manoid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Pałac Kultury i Nauki, Warsaw on Fri, 30 Oct 2026.
+Manoid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Pałac Kultury i Nauki, Warsaw on Fri, 30 Oct 2026.
 
 Manoid is a techno and house artist based in Poland, with 10 gigs on soundcheck across Berlin, Geneva, Krakow and Warsaw and 1 more. Often billed alongside KinkyOutsider, discox and 6EJOU. Next up: Pałac Kultury i Nauki, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Manoid is a techno and house artist based in Poland, with 10 gigs on soundcheck 
 
 KinkyOutsider, discox, 6EJOU
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoid/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoid/)*

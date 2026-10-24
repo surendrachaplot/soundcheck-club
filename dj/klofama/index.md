@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
+KLOFAMA is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
 
 KLOFAMA is a techno and industrial artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 45 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: Afas Live, Amsterdam on Sun 25 Oct.
 
@@ -34,4 +34,4 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 111 gigs on
 
 KARAH, SLVL, Fantasm
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

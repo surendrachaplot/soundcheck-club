@@ -1,6 +1,6 @@
 # Arnau Obiols
 
-Arnau Obiols is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 31 Oct 2026.
+Arnau Obiols is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 31 Oct 2026.
 
 Arnau Obiols is a house and electronica artist based in Spain, with 104 gigs on soundcheck across Barcelona, Ibiza, London and Madrid. Often billed alongside Cucut, Arnau and Adria (ES). Next up: La Terrrazza, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Arnau Obiols is a house and electronica artist based in Spain, with 104 gigs on 
 
 Cucut, Arnau, Adria (ES)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arnauobiols/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arnauobiols/)*

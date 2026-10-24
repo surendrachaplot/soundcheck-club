@@ -1,6 +1,6 @@
 # MassiF
 
-MassiF is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri, 30 Oct 2026.
+MassiF is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri, 30 Oct 2026.
 
 MassiF is a tech house and house artist based in Spain, with 16 gigs on soundcheck across Barcelona and Wroclaw. Often billed alongside Mastro Sally, Alex Thunder and Babo. Next up: TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MassiF is a tech house and house artist based in Spain, with 16 gigs on soundche
 
 Mastro Sally, Alex Thunder, Babo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massif/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massif/)*

@@ -1,6 +1,6 @@
 # CS + Kreme
 
-CS + Kreme is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Miscellania, Melbourne on Fri, 4 Dec 2026.
+CS + Kreme is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Miscellania, Melbourne on Fri, 4 Dec 2026.
 
 CS + Kreme are an experimental and downtempo duo, with 21 gigs on soundcheck across Bali, Berlin, Bristol and Brussels and 9 more. Often billed alongside Grand River, Aarti Jadu and Abul Mogard. Next up: Miscellania, Melbourne on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ CS + Kreme are an experimental and downtempo duo, with 21 gigs on soundcheck acr
 
 Grand River, Aarti Jadu, Abul Mogard
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cskreme/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cskreme/)*

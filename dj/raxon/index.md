@@ -1,6 +1,6 @@
 # Raxon
 
-Raxon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
+Raxon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
 
 Raxon is a techno and house artist based in Egypt, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Maceo Plex, no_ip and Fedele. Next up: Zoom Club, Frankfurt on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Raxon is a techno and house artist based in Egypt, with 77 gigs on soundcheck ac
 
 Maceo Plex, no_ip, Fedele
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raxon/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raxon/)*

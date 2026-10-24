@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
 
 Ignez is a techno and house artist based in Netherlands, with 234 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 72 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist based in Netherlands, with 234 gigs on soundc
 
 Yanamaste, Rødhåd, Alarico
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

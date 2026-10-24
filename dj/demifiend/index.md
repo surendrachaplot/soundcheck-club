@@ -1,6 +1,6 @@
 # Demifiend
 
-Demifiend is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Underground Atlanta, Atlanta on Fri, 30 Oct 2026.
+Demifiend is a Hardcore and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Underground Atlanta, Atlanta on Fri, 30 Oct 2026.
 
 Demifiend is a hardcore and club artist based in United States of America, with 35 gigs on soundcheck across Atlanta, Austin, Baltimore and Chicago and 10 more. Often billed alongside kittenhouse, Gabberbitch69 and Obi-Wan Shinobi. Next up: Underground Atlanta, Atlanta on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Demifiend is a hardcore and club artist based in United States of America, with 
 
 kittenhouse, Gabberbitch69, Obi-Wan Shinobi
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demifiend/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demifiend/)*

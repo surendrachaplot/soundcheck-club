@@ -1,6 +1,6 @@
 # Dopplereffekt
 
-Dopplereffekt is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pillbox Beijing, Beijing on Sat, 24 Oct 2026.
+Dopplereffekt is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Pillbox Beijing, Beijing on Sat, 24 Oct 2026.
 
 Dopplereffekt is a techno and electro artist based in United States of America, with 43 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bristol and 22 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: Pillbox Beijing, Beijing on Sat 24 Oct.
 
@@ -14,6 +14,7 @@ Dopplereffekt is a techno and electro artist based in United States of America, 
 
 ## Recently played
 
+- Reactor Shanghai, Shanghai · Fri, 23 Oct 2026
 - L'Alhambra, Geneva · Thu, 8 Oct 2026
 - Société des arts technologiques, Montreal · Sat, 3 Oct 2026
 - SFU Goldcorp Centre for the Arts, Vancouver · Fri, 2 Oct 2026
@@ -21,10 +22,9 @@ Dopplereffekt is a techno and electro artist based in United States of America, 
 - Elsewhere, New York City · Wed, 23 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Metro, Chicago · Sat, 22 Aug 2026
-- 314 Scholes, New York City · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Aurora Halal, Octo Octa, Skee Mask
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*

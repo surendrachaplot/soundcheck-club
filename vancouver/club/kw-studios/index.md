@@ -1,6 +1,6 @@
 # KW Studios
 
-KW Studios is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "SINAI SOUND SYSYEM & LASAI - Black Fyah - indulgent" on Sat, 31 Oct 2026.
+KW Studios is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "SINAI SOUND SYSYEM & LASAI - Black Fyah - indulgent" on Sat, 31 Oct 2026.
 
 KW Studios is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including indulgent. See dates, start times and who's playing. #10 – 111 Hastings St W, Vancouver, BC V6B 1H4, Canada.
 
@@ -14,4 +14,4 @@ KW Studios is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, w
 
 #10 – 111 Hastings St W, Vancouver, BC V6B 1H4, Canada, Vancouver
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/kw-studios/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/kw-studios/)*

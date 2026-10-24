@@ -1,6 +1,6 @@
 # Mixtlán en nueve cero nueve at nueve cero nueve
 
-Mixtlán en nueve cero nueve on Thu 29 Oct, Mexico City. 4 artists: Itza Chacón, MARCIA, Ninna V. and Shisho. Minimal. See the line-up on soundcheck.
+Mixtlán en nueve cero nueve on Thu 29 Oct, Mexico City. 5 artists: Itza Chacón, MARCIA, Ninna V. and Shisho and 1 more. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Mixtlán en nueve cero nueve on Thu 29 Oct, Mexico City. 4 artists: Itza Chacón
 - MARCIA
 - Ninna V.
 - Shisho
+- Tomas Reid
 
 *Source: [soundcheck](https://soundcheck.club/e/2559668-mixtl-n-en-nueve-cero-nueve-at-nueve-cero-nueve/)*

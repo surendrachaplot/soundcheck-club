@@ -1,14 +1,13 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+Partiboi69 is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
-Partiboi69 is a techno and house artist based in Australia, with 230 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 83 more. Often billed alongside Juicy Romance, KETTAMA and DJ Heartstring. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
+Partiboi69 is a techno and house artist based in Australia, with 230 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 83 more. Often billed alongside Juicy Romance, KETTAMA and DJ Heartstring. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 31 Oct 2026 | Forte Antenne | Rome |
@@ -20,9 +19,11 @@ Partiboi69 is a techno and house artist based in Australia, with 230 gigs on sou
 | Sat, 21 Nov 2026 | Smolna | Warsaw |
 | Fri, 27 Nov 2026 | The Cause | London |
 | Sat, 28 Nov 2026 | Mondo | Madrid |
+| Sun, 29 Nov 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
+- RAWFACTORY, Amsterdam · Fri, 23 Oct 2026
 - Escala25, Lisbon · Sat, 10 Oct 2026
 - TBA - Fohrstraat, 9000 Gent, België, Ghent · Sat, 26 Sept 2026
 - Randall's Island, New York City · Sat, 19 Sept 2026
@@ -30,10 +31,9 @@ Partiboi69 is a techno and house artist based in Australia, with 230 gigs on sou
 - Parque Padre Hurtado, Santiago · Sat, 12 Sept 2026
 - The Ground at Club Space, Miami · Sun, 6 Sept 2026
 - TBA, Miami · Sat, 5 Sept 2026
-- Public Works, San Francisco/Oakland · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Juicy Romance, KETTAMA, DJ Heartstring
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*

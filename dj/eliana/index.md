@@ -1,6 +1,6 @@
 # Eliana
 
-Eliana is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at De Munt La Monnaie, Brussels on Sat, 24 Oct 2026.
+Eliana is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at De Munt La Monnaie, Brussels on Sat, 24 Oct 2026.
 
 Eliana is a house and afro house artist based in Russia, with 11 gigs on soundcheck across Brussels, Chicago, London and Mexico City and 1 more. Often billed alongside AMARI, Alex Kislov and Avo (ES). Next up: De Munt La Monnaie, Brussels on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Eliana is a house and afro house artist based in Russia, with 11 gigs on soundch
 
 AMARI, Alex Kislov, Avo (ES)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliana/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliana/)*

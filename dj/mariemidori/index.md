@@ -1,6 +1,6 @@
 # Marie Midori
 
-Marie Midori is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
+Marie Midori is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
 Marie Midori is a techno and bass artist based in Germany, with 53 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg and 6 more. Often billed alongside Dangermami, MSJY and Cryptofauna. Next up: TBA, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Marie Midori is a techno and bass artist based in Germany, with 53 gigs on sound
 
 Dangermami, MSJY, Cryptofauna
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemidori/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemidori/)*

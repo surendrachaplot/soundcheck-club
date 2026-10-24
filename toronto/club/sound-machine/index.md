@@ -1,14 +1,13 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Thirst Trap: Halloween (Gay Event)" on Fri, 23 Oct 2026.
+Sound Machine is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "WHOREOWEEN: A Naked-ish Event" on Sun, 25 Oct 2026.
 
-Sound Machine is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with line-ups including ADEOLA, baby mmune, hadis and Jojoflores and 2 more. See dates, start times and who's playing. 178 Bathurst Street.
+Sound Machine is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with line-ups including ADEOLA, baby mmune, hadis and Jojoflores and 2 more. See dates, start times and who's playing. 178 Bathurst Street.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Thirst Trap: Halloween (Gay Event) |  |
 | Sun, 25 Oct 2026 | WHOREOWEEN: A Naked-ish Event |  |
 | Thu, 29 Oct 2026 | Selecta 040 | OhKO, hadis |
 | Fri, 30 Oct 2026 | TTYL HALLOWEEN: CRUEL SANTINO | ADEOLA, baby mmune |
@@ -19,4 +18,4 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 6 upcoming gigs,
 
 178 Bathurst Street, Toronto
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*

@@ -1,6 +1,6 @@
 # Lady Libertine
 
-Lady Libertine is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "OOFT!" on Sat, 24 Oct 2026.
+Lady Libertine is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "OOFT!" on Sat, 24 Oct 2026.
 
 Lady Libertine is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including OOFT. See dates, start times and who's playing. 25 W Register St, Edinburgh, EH2 2AA, United Kingdom.
 
@@ -14,4 +14,4 @@ Lady Libertine is a music venue in Edinburgh listed on soundcheck. 1 upcoming gi
 
 25 W Register St, Edinburgh, EH2 2AA, United Kingdom, Edinburgh
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/lady-libertine/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/lady-libertine/)*

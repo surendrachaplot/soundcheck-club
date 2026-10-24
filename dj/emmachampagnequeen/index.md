@@ -1,6 +1,6 @@
 # Emma Champagne Queen
 
-Emma Champagne Queen is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Parck AKA Ping Pong Bar, Amsterdam on Sat, 24 Oct 2026.
+Emma Champagne Queen is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Parck AKA Ping Pong Bar, Amsterdam on Sat, 24 Oct 2026.
 
 Emma Champagne Queen is a house and disco artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside Kirilski, Heritage Listed and Pura Pachanga. Next up: Parck AKA Ping Pong Bar, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Emma Champagne Queen is a house and disco artist based in Netherlands, with 42 g
 
 Kirilski, Heritage Listed, Pura Pachanga
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmachampagnequeen/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmachampagnequeen/)*

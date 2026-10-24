@@ -1,6 +1,6 @@
 # Mishouju
 
-Mishouju is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
+Mishouju is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
 
 Mishouju is a techno and house artist based in Belarus, with 24 gigs on soundcheck across Bangkok, Beijing, Hanoi and Hong Kong and 1 more. Often billed alongside E Nick, provoda and Dusan Nikolic. Next up: Gatosano Da Nang, Vietnam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mishouju is a techno and house artist based in Belarus, with 24 gigs on soundche
 
 E Nick, provoda, Dusan Nikolic
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishouju/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishouju/)*

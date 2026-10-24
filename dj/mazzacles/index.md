@@ -1,6 +1,6 @@
 # Mazzacles
 
-Mazzacles is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Goblin, Auckland on Sun, 25 Oct 2026.
+Mazzacles is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Goblin, Auckland on Sun, 25 Oct 2026.
 
 Mazzacles is a house and techno artist based in Australia, with 86 gigs on soundcheck across Auckland, Berlin, Byron Bay and Melbourne and 1 more. Often billed alongside Kato, Reenie and Simon Caldwell. Next up: Goblin, Auckland on Sun 25 Oct.
 
@@ -31,4 +31,4 @@ Mazzacles is a house and techno artist based in Australia, with 86 gigs on sound
 
 Kato, Reenie, Simon Caldwell
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzacles/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzacles/)*

@@ -1,6 +1,6 @@
 # Synapsefirer
 
-Synapsefirer is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
+Synapsefirer is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
 Synapsefirer is a hardcore and gabber artist based in United Kingdom, with 26 gigs on soundcheck across London. Often billed alongside Baptist (UK), Naramnesia and flippedcrosses. Next up: The Cause, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Synapsefirer is a hardcore and gabber artist based in United Kingdom, with 26 gi
 
 Baptist (UK), Naramnesia, flippedcrosses
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synapsefirer/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synapsefirer/)*

@@ -1,6 +1,6 @@
 # Pocari Sweaty
 
-Pocari Sweaty is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+Pocari Sweaty is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
 Pocari Sweaty is a house and disco artist based in United States of America, with 95 gigs on soundcheck across Hanoi, Ho Chi Minh City, Hong Kong and Melbourne and 3 more. Often billed alongside Kerena, Tsui and L-CC. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Pocari Sweaty is a house and disco artist based in United States of America, wit
 
 Kerena, Tsui, L-CC
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pocarisweaty/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pocarisweaty/)*

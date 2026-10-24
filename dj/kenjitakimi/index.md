@@ -1,6 +1,6 @@
 # Kenji Takimi
 
-Kenji Takimi is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 24 Oct 2026.
+Kenji Takimi is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 24 Oct 2026.
 
 Kenji Takimi is a house and disco artist based in Japan, with 95 gigs on soundcheck across Auckland, Bali, Dubai and Ho Chi Minh City and 6 more. Often billed alongside YAMARCHY, Monkey Timers and Kikiorix. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Kenji Takimi is a house and disco artist based in Japan, with 95 gigs on soundch
 
 YAMARCHY, Monkey Timers, Kikiorix
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitakimi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitakimi/)*

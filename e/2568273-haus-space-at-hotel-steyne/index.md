@@ -1,6 +1,6 @@
 # Haus Space at Hotel Steyne
 
-Haus Space at Hotel Steyne on Fri 6 Nov, Sydney. 1 artist: Cassette. House and Tech House. See the line-up on soundcheck.
+Haus Space at Hotel Steyne on Fri 6 Nov, Sydney. 4 artists: Cassette, Diana Daze, Joehemian and LeMoore. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ Haus Space at Hotel Steyne on Fri 6 Nov, Sydney. 1 artist: Cassette. House and T
 ## Line-up
 
 - Cassette
+- Diana Daze
+- Joehemian
+- LeMoore
 
 *Source: [soundcheck](https://soundcheck.club/e/2568273-haus-space-at-hotel-steyne/)*

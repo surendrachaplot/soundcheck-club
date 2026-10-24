@@ -1,6 +1,6 @@
 # Mason Talbot
 
-Mason Talbot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at fabric, London on Sun, 22 Nov 2026.
+Mason Talbot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at fabric, London on Sun, 22 Nov 2026.
 
 Mason Talbot is a house and tech house artist based in United Kingdom, with 42 gigs on soundcheck across Birmingham, Calgary, Leeds and Liverpool and 2 more. Often billed alongside Nausy, Finn Eden and Locky. Next up: fabric, London on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Mason Talbot is a house and tech house artist based in United Kingdom, with 42 g
 
 Nausy, Finn Eden, Locky
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masontalbot/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masontalbot/)*

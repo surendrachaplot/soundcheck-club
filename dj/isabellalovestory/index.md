@@ -1,14 +1,13 @@
 # Isabella Lovestory
 
-Isabella Lovestory is a Reggaeton and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at MoMA PS1, New York City on Thu, 22 Oct 2026.
+Isabella Lovestory is a Reggaeton and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
 
-Isabella Lovestory is a reggaeton and pop artist based in Honduras, with 46 gigs on soundcheck across Auckland, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Kamixlo, Crystallmess and DJ Python. Next up: MoMA PS1, New York City on Thu 22 Oct.
+Isabella Lovestory is a reggaeton and pop artist based in Honduras, with 46 gigs on soundcheck across Auckland, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Kamixlo, Crystallmess and DJ Python. Next up: Industry City, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | MoMA PS1 | New York City |
 | Fri, 30 Oct 2026 | Industry City | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Isabella Lovestory is a reggaeton and pop artist based in Honduras, with 46 gigs
 
 Kamixlo, Crystallmess, DJ Python
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellalovestory/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellalovestory/)*

@@ -1,6 +1,6 @@
 # Echo & Bounce
 
-Echo & Bounce is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Two-Step X Refuge Halloween Locals" on Fri, 30 Oct 2026.
+Echo & Bounce is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Two-Step X Refuge Halloween Locals" on Fri, 30 Oct 2026.
 
 Echo & Bounce is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Cavemouth. See dates, start times and who's playing. 7 Jacob Ln, Woolloongabba QLD 4102, Australia.
 
@@ -15,4 +15,4 @@ Echo & Bounce is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs
 
 7 Jacob Ln, Woolloongabba QLD 4102, Australia, Brisbane
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/echo-bounce/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/echo-bounce/)*

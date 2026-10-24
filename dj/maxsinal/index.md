@@ -1,6 +1,6 @@
 # Max Sinàl
 
-Max Sinàl is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sun, 25 Oct 2026.
+Max Sinàl is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sun, 25 Oct 2026.
 
 Max Sinàl is a deep house and house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Brighton, London and Paris. Often billed alongside Mr James, LEV (UK) and Elliot Schooling. Next up: Bordello Aperitivo, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Max Sinàl is a deep house and house artist based in United Kingdom, with 36 gig
 
 Mr James, LEV (UK), Elliot Schooling
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*

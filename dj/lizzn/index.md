@@ -1,20 +1,20 @@
 # LIZZN
 
-LIZZN is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pracht, Frankfurt on Fri, 23 Oct 2026.
+LIZZN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Great Räng Teng Teng, Freiburg on Sat, 24 Oct 2026.
 
-LIZZN is a house and techno artist based in Germany, with 83 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 6 more. Often billed alongside Ana Cover, Ligal Tamir and justUS. Next up: Pracht, Frankfurt on Fri 23 Oct.
+LIZZN is a house and techno artist based in Germany, with 83 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 6 more. Often billed alongside Ana Cover, Ligal Tamir and justUS. Next up: The Great Räng Teng Teng, Freiburg on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Pracht | Frankfurt |
 | Sat, 24 Oct 2026 | The Great Räng Teng Teng | Freiburg |
 | Sat, 21 Nov 2026 | Beate Uwe | Berlin |
 | Sat, 12 Dec 2026 | Café Flora | Brussels |
 
 ## Recently played
 
+- Pracht, Frankfurt · Fri, 23 Oct 2026
 - Tausend, Berlin · Thu, 8 Oct 2026
 - Klunkerkranich, Berlin · Fri, 11 Sept 2026
 - KitKatClub, Berlin · Fri, 31 Jul 2026
@@ -22,10 +22,9 @@ LIZZN is a house and techno artist based in Germany, with 83 gigs on soundcheck 
 - Motzstrassenfest at Nollendorfplatz, Berlin · Sun, 19 Jul 2026
 - Ritter Butzke, Berlin · Fri, 17 Jul 2026
 - Cassiopeia, Berlin · Sat, 11 Jul 2026
-- KitKatClub, Berlin · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Ana Cover, Ligal Tamir, justUS
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*

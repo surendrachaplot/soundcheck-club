@@ -1,14 +1,13 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "The Sirens Call 2nd Birthday (Pt.1) with Vladimir Ivkovic & Budino, Liverpool" on Fri, 23 Oct 2026.
+Kapsule is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Glass presents Chaos In The CBD In Dust We Trust Tour" on Sat, 24 Oct 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Binh, Bobby., Bradley Zero and Budino and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Binh, Bobby., Bradley Zero and Chaos In The CBD and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | The Sirens Call 2nd Birthday (Pt.1) with Vladimir Ivkovic & Budino, Liverpool | Budino, Vladimir Ivkovic |
 | Sat, 24 Oct 2026 | Glass presents Chaos In The CBD In Dust We Trust Tour | Chaos In The CBD, RoomToo |
 | Fri, 30 Oct 2026 | PSS Halloween with Rossko, Nay Barr & Riles | Rossko |
 | Sat, 14 Nov 2026 | Foreplay: Soul Mass Transit System (2hr), Sulphur,  Lu.Re | Lu.Re, Soul Mass Transit System, Sulphur |
@@ -18,9 +17,10 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, wi
 | Fri, 4 Dec 2026 | NICECATCH! PRESENTS Foehn & Jerome | Foehn & Jerome |
 | Sat, 5 Dec 2026 | Gabbs at Temple | Gabbs |
 | Fri, 11 Dec 2026 | ENRG presents Jyoty Liverpool | Jyoty |
+| Sun, 27 Dec 2026 | mUmU  [The techno edition] |  |
 
 ## Address
 
 3 Regent Road, Liverpool, L3 7DS, Liverpool
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*

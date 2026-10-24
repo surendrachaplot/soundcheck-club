@@ -1,14 +1,13 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "OFF THE GRID x IKIGAI" on Fri, 23 Oct 2026.
+Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Ezo Festival Night" on Sat, 24 Oct 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including ALCATRAZ, Andrei Ciubuc, Argenis Brito and Baloo (SA) and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including ALCATRAZ, Andrei Ciubuc, Argenis Brito and Baloo (SA) and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | OFF THE GRID x IKIGAI | Diamin, Kithers, Levat, Onirik, Royston Bassmann |
 | Sat, 24 Oct 2026 | Ezo Festival Night | Argenis Brito, BEQA, Baloo (SA), Carlo, Marie Lung, Namir, SUMO |
 | Fri, 30 Oct 2026 | Love Letters From Oslo | Damian Schwartz, Federico Molinari, Markus Sommer, Nekes |
 | Sat, 31 Oct 2026 | LIVE FROM EARTH Halloween | ALCATRAZ, EMMA KING, Sparr00w, bambinodj, bbpue |
@@ -18,9 +17,10 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wi
 | Fri, 13 Nov 2026 | MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell | Andrei Ciubuc, Maik Yells, Robin Ordell, The Pushamann |
 | Sat, 14 Nov 2026 | It's Ours | Marko Nastic, Okain, Ray Okpara, Rossko |
 | Fri, 20 Nov 2026 | Novaturient | Gwenan, San Pedro, Tom Morgan, Usherenko |
+| Sat, 21 Nov 2026 | Rhythm By Nature: Gideon Jackson, Natascha Kann, Joe BRT, SaPu | Joe BRT, Natascha Kann, SaPu |
 
 ## Address
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

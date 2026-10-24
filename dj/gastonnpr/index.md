@@ -1,6 +1,6 @@
 # Gaston Npr
 
-Gaston Npr is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Host, Thessaloniki on Sat, 24 Oct 2026.
+Gaston Npr is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Host, Thessaloniki on Sat, 24 Oct 2026.
 
 Gaston Npr is a techno and industrial artist, with 22 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Bighi, Celestia and ANNĒ. Next up: The Host, Thessaloniki on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Gaston Npr is a techno and industrial artist, with 22 gigs on soundcheck across 
 
 Bighi, Celestia, ANNĒ
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonnpr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonnpr/)*

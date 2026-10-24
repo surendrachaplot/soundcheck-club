@@ -1,6 +1,6 @@
 # Parsa Jafari
 
-Parsa Jafari is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Teatro Albéniz, Gijón, North on Sat, 24 Oct 2026.
+Parsa Jafari is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Teatro Albéniz, Gijón, North on Sat, 24 Oct 2026.
 
 Parsa Jafari is a techno and industrial artist based in Spain, with 58 gigs on soundcheck across Barcelona, Ibiza, Lisbon and London and 2 more. Often billed alongside Nuke, CESAR ALMENA and Raul Ortiz. Next up: Teatro Albéniz, Gijón, North on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Parsa Jafari is a techno and industrial artist based in Spain, with 58 gigs on s
 
 Nuke, CESAR ALMENA, Raul Ortiz
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parsajafari/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parsajafari/)*

@@ -1,6 +1,6 @@
 # Nulab Chengdu
 
-Nulab Chengdu is a music venue in Chengdu with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Qiu You  Festival - 秋游 Day 2" on Sat, 24 Oct 2026.
+Nulab Chengdu is a music venue in Chengdu with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Qiu You  Festival - 秋游 Day 2" on Sat, 24 Oct 2026.
 
 Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 4 upcoming gigs, with line-ups including 3ASiC, ALPHA (NL), Archypness and Brokenchord and 2 more. See dates, start times and who's playing. No.666. Yong'an Rd. Jinjiang Dist. Chengdu China.
 
@@ -17,4 +17,4 @@ Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 4 upcoming gigs,
 
 No.666. Yong'an Rd. Jinjiang Dist. Chengdu China, Chengdu
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*

@@ -1,6 +1,6 @@
 # Yeti Wang
 
-Yeti Wang is a Balearic and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bar Temp., Bangkok on Thu, 29 Oct 2026.
+Yeti Wang is a Balearic and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bar Temp., Bangkok on Thu, 29 Oct 2026.
 
 Yeti Wang is a balearic and deep house artist based in China, with 19 gigs on soundcheck across Bangkok, Chengdu and Liverpool. Often billed alongside Snoodman Deejay, Josh Aitman and Sakers. Next up: Bar Temp., Bangkok on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Yeti Wang is a balearic and deep house artist based in China, with 19 gigs on so
 
 Snoodman Deejay, Josh Aitman, Sakers
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yetiwang/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yetiwang/)*

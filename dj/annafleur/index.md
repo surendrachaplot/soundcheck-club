@@ -1,6 +1,6 @@
 # Annafleur
 
-Annafleur is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Biscuit Factory, Edinburgh on Sat, 14 Nov 2026.
+Annafleur is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Biscuit Factory, Edinburgh on Sat, 14 Nov 2026.
 
 Annafleur is a house and pop artist based in United Kingdom, with 29 gigs on soundcheck across Edinburgh. Often billed alongside Sweet Philly, Katelate and Groundskeeper Fanny. Next up: The Biscuit Factory, Edinburgh on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Annafleur is a house and pop artist based in United Kingdom, with 29 gigs on sou
 
 Sweet Philly, Katelate, Groundskeeper Fanny
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annafleur/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annafleur/)*

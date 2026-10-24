@@ -1,14 +1,13 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "AER @Marmorbar with CARGO, Ozzwald" on Fri, 23 Oct 2026.
+Marmorbar is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "CHROMA XXS - intimacy" on Sat, 24 Oct 2026.
 
-Marmorbar is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including .JKM, anschi, ATARAX and Aude (DR) and 2 more. See dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
+Marmorbar is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including .JKM, anschi, ATARAX and Aude (DR) and 2 more. See dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | AER @Marmorbar with CARGO, Ozzwald | CARGO (DE), ESHAUSTED, FAballert, FUNIC, Ozzwald, funk4, multivitaminmarie |
 | Sat, 24 Oct 2026 | CHROMA XXS - intimacy | .JKM, Leo Roskovec, Mental Limit, Omar Sherif, Ponygirl, PyjamaMama, Serō |
 | Fri, 6 Nov 2026 | KYLIE WEARS BERHAUS | KENZA, Kylie Wears Berghaus, miszo |
 | Fri, 6 Nov 2026 | Kylie Wears Berghaus | KENZA, Kylie Wears Berghaus, miszo |
@@ -20,4 +19,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

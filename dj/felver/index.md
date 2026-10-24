@@ -1,6 +1,6 @@
 # Felver
 
-Felver is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 30 Oct 2026.
+Felver is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 30 Oct 2026.
 
 Felver is a house and electronica artist, with 24 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Antonio Zuza, Curses and Elena Mikac. Next up: Peti Kupe, Zagreb on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Felver is a house and electronica artist, with 24 gigs on soundcheck across Belg
 
 Antonio Zuza, Curses, Elena Mikac
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felver/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felver/)*

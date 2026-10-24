@@ -1,6 +1,6 @@
 # Brunello
 
-Brunello is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
+Brunello is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
 
 Brunello is a house and tech house artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Austin, Chicago and Guadalajara and 8 more. Often billed alongside VTSS, Brutalismus 3000 and Dennis Cruz. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ Brunello is a house and tech house artist based in United States of America, wit
 
 VTSS, Brutalismus 3000, Dennis Cruz
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

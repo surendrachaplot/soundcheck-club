@@ -1,6 +1,6 @@
 # 96zen
 
-96zen is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Palazzo Permanens, Budapest on Fri, 13 Nov 2026.
+96zen is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Palazzo Permanens, Budapest on Fri, 13 Nov 2026.
 
 96zen is a trance and techno artist based in Hungary, with 20 gigs on soundcheck across Budapest. Often billed alongside Valenthin, CRIME and Helena Lua. Next up: Palazzo Permanens, Budapest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@
 
 Valenthin, CRIME, Helena Lua
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/96zen/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/96zen/)*

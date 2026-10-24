@@ -1,6 +1,6 @@
 # Outback
 
-Outback is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
+Outback is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
 
 Outback is a hardcore and gabber artist based in Canada, with 69 gigs on soundcheck across Boston, Montreal, New York City and Toronto and 1 more. Often billed alongside the bald girl, Beamskii and Technopagan. Next up: Collectif MTL, Montreal on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Outback is a hardcore and gabber artist based in Canada, with 69 gigs on soundch
 
 the bald girl, Beamskii, Technopagan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outback/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outback/)*

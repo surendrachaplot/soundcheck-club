@@ -1,6 +1,6 @@
 # Sacre
 
-Sacre is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Comma Bar (69 Tôn Thất Thiệp), Hanoi on Sat, 24 Oct 2026.
+Sacre is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Comma Bar (69 Tôn Thất Thiệp), Hanoi on Sat, 24 Oct 2026.
 
 Sacre is a house and acid artist, with 53 gigs on soundcheck across Amsterdam, Bangkok, Byron Bay and Calgary and 6 more. Often billed alongside Simon Felix, Keimo and Shane.MOV. Next up: TBA - Comma Bar (69 Tôn Thất Thiệp), Hanoi on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Sacre is a house and acid artist, with 53 gigs on soundcheck across Amsterdam, B
 
 Simon Felix, Keimo, Shane.MOV
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacre/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacre/)*

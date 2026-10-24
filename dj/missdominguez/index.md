@@ -1,18 +1,18 @@
 # Miss Dominguez
 
-Miss Dominguez is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+Miss Dominguez is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Sat, 24 Oct 2026.
 
-Miss Dominguez is a progressive house and techno artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Cris-H, W&DY and Weird Sounding Dude. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
+Miss Dominguez is a progressive house and techno artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Cris-H, W&DY and Weird Sounding Dude. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Akhnaton | Amsterdam |
 | Sat, 24 Oct 2026 | 50:HERTZ HOUSE & TECHNO Club Rembrandt Square | Amsterdam |
 
 ## Recently played
 
+- Akhnaton, Amsterdam · Fri, 23 Oct 2026
 - Amsterdams Most Wanted, Amsterdam · Wed, 21 Oct 2026
 - Supperclub Cruise, Amsterdam · Sat, 16 Nov 2024
 - Akhnaton, Amsterdam · Sun, 20 Oct 2024
@@ -25,4 +25,4 @@ Miss Dominguez is a progressive house and techno artist based in Netherlands, wi
 
 Cris-H, W&DY, Weird Sounding Dude
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missdominguez/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missdominguez/)*

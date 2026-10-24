@@ -1,6 +1,6 @@
 # Austin James
 
-Austin James is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cellblock Chicago, Chicago on Fri, 13 Nov 2026.
+Austin James is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cellblock Chicago, Chicago on Fri, 13 Nov 2026.
 
 Austin James is a house and disco artist based in United States of America, with 24 gigs on soundcheck across Chicago. Often billed alongside T. Mixwell and Adonis Childs. Next up: Cellblock Chicago, Chicago on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Austin James is a house and disco artist based in United States of America, with
 
 T. Mixwell, Adonis Childs
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/austinjames/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/austinjames/)*

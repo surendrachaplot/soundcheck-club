@@ -1,6 +1,6 @@
 # Val Fleury
 
-Val Fleury is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at FABRIKA, Philadelphia on Fri, 30 Oct 2026.
+Val Fleury is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at FABRIKA, Philadelphia on Fri, 30 Oct 2026.
 
 Val Fleury is a house and afro house artist based in Liberia, with 29 gigs on soundcheck across Los Angeles, Mexico City, New York City and Philadelphia. Often billed alongside HVNLEE, Bridge (NY) and DJ Sylo. Next up: FABRIKA, Philadelphia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Val Fleury is a house and afro house artist based in Liberia, with 29 gigs on so
 
 HVNLEE, Bridge (NY), DJ Sylo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valfleury/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valfleury/)*

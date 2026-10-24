@@ -1,6 +1,6 @@
 # Polytoxic
 
-Polytoxic is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at K39, Frankfurt on Fri, 30 Oct 2026.
+Polytoxic is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at K39, Frankfurt on Fri, 30 Oct 2026.
 
 Polytoxic is a techno and trance artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Karlsruhe and 3 more. Often billed alongside Kacy, CiKi and Ephy Pinkman. Next up: K39, Frankfurt on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Polytoxic is a techno and trance artist based in Germany, with 65 gigs on soundc
 
 Kacy, CiKi, Ephy Pinkman
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polytoxic/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polytoxic/)*

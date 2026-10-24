@@ -1,14 +1,13 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Seb Wildblood pres. all my thoughts" on Fri, 23 Oct 2026.
+Vittoria Wharf Studio is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Sundays - Voigtmann, Ste Roberts, Ryan Jones" on Sun, 25 Oct 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alien Communications, Andrew Robertson, BAILE and Bekefi and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Alien Communications, Andrew Robertson, Bekefi and BLKC and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Seb Wildblood pres. all my thoughts | BAILE, Birthday in Texas, Blossom Hill, Seb Wildblood |
 | Sun, 25 Oct 2026 | Sundays - Voigtmann, Ste Roberts, Ryan Jones | Ryan Jones, Ste Roberts, Voigtmann |
 | Thu, 29 Oct 2026 | Wrong Way Home: Launch Party [DnB, Jungle] | BLKC (2), Mojay |
 | Sat, 31 Oct 2026 | Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May | Alien Communications, CRL (1), DMX Krew, Kristina May |
@@ -18,9 +17,10 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 16 upcomi
 | Sun, 15 Nov 2026 | M.Á.S LONDON | ENNIO, Paige (Night Service), Rachel de Moncuit, Teecra, sweetestcape |
 | Fri, 20 Nov 2026 | NorthSouth - Open to Close | Dale Mussington, Harry McCanna, NorthSouth, Sam Bangura |
 | Sat, 21 Nov 2026 | Isaac Carter - All Night Long [SOLD OUT] | Isaac Carter |
+| Sun, 22 Nov 2026 | Fred Deakin: Fred Plays Records |  |
 
 ## Address
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

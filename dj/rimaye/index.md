@@ -1,6 +1,6 @@
 # Rimaye
 
-Rimaye is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Rimaye is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
 Rimaye is a house and techno artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Guadalajara, Ibiza and Mexico City and 4 more. Often billed alongside Inbal, Puma (US) and Terence Tabeau. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Rimaye is a house and techno artist based in Germany, with 50 gigs on soundcheck
 
 Inbal, Puma (US), Terence Tabeau
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rimaye/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rimaye/)*

@@ -1,6 +1,6 @@
 # Ben:Rodd
 
-Ben:Rodd is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Panama, Amsterdam on Fri, 23 Oct 2026.
+Ben:Rodd is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Panama, Amsterdam on Fri, 23 Oct 2026.
 
 Ben:Rodd is a tech house and minimal artist, with 9 gigs on soundcheck across Amsterdam, Düsseldorf and Paris. Often billed alongside V-STYLE, Matteo (IT) and CORZ. Next up: Panama, Amsterdam on Fri 23 Oct.
 
@@ -13,6 +13,7 @@ Ben:Rodd is a tech house and minimal artist, with 9 gigs on soundcheck across Am
 
 ## Recently played
 
+- Panama, Amsterdam · Fri, 23 Oct 2026
 - Paname sur Seine, Paris · Sun, 11 Oct 2026
 - Café Movida, Paris · Fri, 14 Jun 2024
 - TBA - Club saint M'art, Paris · Fri, 26 Apr 2024
@@ -25,4 +26,4 @@ Ben:Rodd is a tech house and minimal artist, with 9 gigs on soundcheck across Am
 
 V-STYLE, Matteo (IT), CORZ
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benrodd/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benrodd/)*

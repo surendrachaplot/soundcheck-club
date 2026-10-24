@@ -1,6 +1,6 @@
 # Alfonso Mauro
 
-Alfonso Mauro is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Basic Club, Naples on Fri, 30 Oct 2026.
+Alfonso Mauro is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Basic Club, Naples on Fri, 30 Oct 2026.
 
 Alfonso Mauro is a house and electronica artist based in Italy, with 11 gigs on soundcheck across Naples. Often billed alongside Deep Futuristic, Bardamu and Carlo Martino. Next up: Basic Club, Naples on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alfonso Mauro is a house and electronica artist based in Italy, with 11 gigs on 
 
 Deep Futuristic, Bardamu, Carlo Martino
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsomauro/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsomauro/)*

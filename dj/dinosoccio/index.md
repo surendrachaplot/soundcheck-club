@@ -1,6 +1,6 @@
 # Dino Soccio
 
-Dino Soccio is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Madrone Art Bar, San Francisco/Oakland on Sat, 24 Oct 2026.
+Dino Soccio is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Madrone Art Bar, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 Dino Soccio is a disco and house artist based in United States of America, with 16 gigs on soundcheck across Los Angeles, Mexico City, New York City and San Francisco/Oakland. Often billed alongside Motel Club, Colour Vision and JKriv. Next up: Madrone Art Bar, San Francisco/Oakland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dino Soccio is a disco and house artist based in United States of America, with 
 
 Motel Club, Colour Vision, JKriv
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinosoccio/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinosoccio/)*

@@ -1,6 +1,6 @@
 # ISSA
 
-ISSA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Saloon, Tokyo on Fri, 23 Oct 2026.
+ISSA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Saloon, Tokyo on Fri, 23 Oct 2026.
 
 ISSA is a house and techno artist based in United States of America, with 38 gigs on soundcheck across Medellin, Okinawa, San Francisco/Oakland and Shanghai and 2 more. Often billed alongside r1ku, YUVIE and kengotaki. Next up: Saloon, Tokyo on Fri 23 Oct.
 
@@ -14,6 +14,7 @@ ISSA is a house and techno artist based in United States of America, with 38 gig
 
 ## Recently played
 
+- Saloon, Tokyo · Fri, 23 Oct 2026
 - Circus Tokyo, Tokyo · Sat, 19 Sept 2026
 - TBA - Teeth Bar, San Francisco/Oakland · Sun, 13 Sept 2026
 - Dirty House, Shanghai · Sat, 5 Sept 2026
@@ -21,10 +22,9 @@ ISSA is a house and techno artist based in United States of America, with 38 gig
 - Baren, Medellin · Fri, 7 Aug 2026
 - Circus Tokyo, Tokyo · Thu, 16 Jul 2026
 - clubasia, Tokyo · Fri, 3 Jul 2026
-- The Great Northern, San Francisco/Oakland · Sun, 28 Jun 2026
 
 ## Shares bills with
 
 r1ku, YUVIE, kengotaki
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/issa/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/issa/)*

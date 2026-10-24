@@ -1,6 +1,6 @@
 # Jamesey
 
-Jamesey is a Deep House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The BBE Store, London on Fri, 6 Nov 2026.
+Jamesey is a Deep House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The BBE Store, London on Fri, 6 Nov 2026.
 
 Jamesey is a deep house and disco artist, with 58 gigs on soundcheck across London and Paris. Often billed alongside Matt L-S, Davide Del Vecchio and Kojay. Next up: The BBE Store, London on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Jamesey is a deep house and disco artist, with 58 gigs on soundcheck across Lond
 
 Matt L-S, Davide Del Vecchio, Kojay
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*

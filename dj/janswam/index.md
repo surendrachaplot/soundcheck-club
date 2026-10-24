@@ -1,6 +1,6 @@
 # Jan Swam
 
-Jan Swam is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - secret location, Zagreb on Fri, 13 Nov 2026.
+Jan Swam is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - secret location, Zagreb on Fri, 13 Nov 2026.
 
 Jan Swam is a techno and trance artist based in Spain, with 58 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Emilia Grima, Solma and servei. Next up: TBA - secret location, Zagreb on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jan Swam is a techno and trance artist based in Spain, with 58 gigs on soundchec
 
 Emilia Grima, Solma, servei
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janswam/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janswam/)*

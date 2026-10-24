@@ -1,6 +1,6 @@
 # Mara Menace
 
-Mara Menace is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at nachbar, Amsterdam on Sat, 24 Oct 2026.
+Mara Menace is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at nachbar, Amsterdam on Sat, 24 Oct 2026.
 
 Mara Menace is a techno and house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 10 more. Often billed alongside Maris Shilton, Sicion and Mathys Lenne. Next up: nachbar, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Mara Menace is a techno and house artist based in Germany, with 75 gigs on sound
 
 Maris Shilton, Sicion, Mathys Lenne
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maramenace/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maramenace/)*

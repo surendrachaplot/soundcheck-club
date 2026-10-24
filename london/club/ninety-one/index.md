@@ -1,6 +1,6 @@
 # Ninety One
 
-Ninety One is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Sounds Like London: Roska, Klose One + Mike Chin" on Sat, 24 Oct 2026.
+Ninety One is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Sounds Like London: Roska, Klose One + Mike Chin" on Sat, 24 Oct 2026.
 
 Ninety One is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Bear Winder, BIG DRECO, Calm Stiege and candice a.m and 2 more. See dates, start times and who's playing. 91 Brick Ln, London E1 6QL, UK.
 
@@ -20,4 +20,4 @@ Ninety One is a music venue in London listed on soundcheck. 7 upcoming gigs, wit
 
 91 Brick Ln, London E1 6QL, UK, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*

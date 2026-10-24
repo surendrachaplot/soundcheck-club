@@ -1,6 +1,6 @@
 # Roni Size
 
-Roni Size is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at O2 Academy Bristol, Bristol on Sun, 8 Nov 2026.
+Roni Size is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at O2 Academy Bristol, Bristol on Sun, 8 Nov 2026.
 
 Roni Size is a drum & bass and jungle artist based in United Kingdom, with 91 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 39 more. Often billed alongside Grooverider, LTJ Bukem and Fabio. Next up: O2 Academy Bristol, Bristol on Sun 8 Nov.
 
@@ -35,4 +35,4 @@ Roni Size is a drum & bass and jungle artist based in United Kingdom, with 91 gi
 
 Grooverider, LTJ Bukem, Fabio
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*

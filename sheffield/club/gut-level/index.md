@@ -1,6 +1,6 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Calabash! presents Our Modern Griots" on Fri, 30 Oct 2026.
+Gut Level is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Calabash! presents Our Modern Griots" on Fri, 30 Oct 2026.
 
 Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Bethan and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
@@ -21,4 +21,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, w
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

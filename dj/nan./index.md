@@ -1,6 +1,6 @@
 # NaN.
 
-NaN. is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 31 Oct 2026.
+NaN. is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 31 Oct 2026.
 
 NaN. is an experimental and club artist, with 13 gigs on soundcheck across Berlin. Often billed alongside jivi2mebaby, Katscha and Memeshift. Next up: Acud Macht NEU, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NaN. is an experimental and club artist, with 13 gigs on soundcheck across Berli
 
 jivi2mebaby, Katscha, Memeshift
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nan./)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nan./)*

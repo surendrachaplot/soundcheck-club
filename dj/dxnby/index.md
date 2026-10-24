@@ -1,14 +1,13 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oliva, Amsterdam on Fri, 23 Oct 2026.
+DXNBY is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at IDRA, Manchester on Sat, 31 Oct 2026.
 
-DXNBY is a house and tech house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: Oliva, Amsterdam on Fri 23 Oct.
+DXNBY is a house and tech house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: IDRA, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Oliva | Amsterdam |
 | Sat, 31 Oct 2026 | IDRA | Manchester |
 | Sun, 1 Nov 2026 | The Cause | London |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
@@ -16,6 +15,7 @@ DXNBY is a house and tech house artist based in United Kingdom, with 120 gigs on
 
 ## Recently played
 
+- Oliva, Amsterdam · Fri, 23 Oct 2026
 - The Bulldog Palace, Amsterdam · Thu, 22 Oct 2026
 - World Headquarters, Newcastle · Fri, 2 Oct 2026
 - Shelter Amsterdam, Amsterdam · Sat, 26 Sept 2026
@@ -23,10 +23,9 @@ DXNBY is a house and tech house artist based in United Kingdom, with 120 gigs on
 - Smoke & Mirrors, Chicago · Sat, 19 Sept 2026
 - Club Vinyl, Denver · Fri, 18 Sept 2026
 - Halcyon, San Francisco/Oakland · Sat, 12 Sept 2026
-- Cova Santa, Ibiza · Tue, 4 Aug 2026
 
 ## Shares bills with
 
 Ozzie Guven, ALISHA, East End Dubs
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*

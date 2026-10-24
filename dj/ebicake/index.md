@@ -1,6 +1,6 @@
 # Ebicake
 
-Ebicake is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Beate Uwe, Berlin on Sat, 24 Oct 2026.
+Ebicake is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Beate Uwe, Berlin on Sat, 24 Oct 2026.
 
 Ebicake is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Fredsn, LOVRA and Sebastian Strootmann. Next up: Beate Uwe, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Ebicake is a techno and house artist based in Germany, with 11 gigs on soundchec
 
 Fredsn, LOVRA, Sebastian Strootmann
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ebicake/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ebicake/)*

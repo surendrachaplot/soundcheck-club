@@ -1,6 +1,6 @@
 # Jamie Blanco
 
-Jamie Blanco is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Paradiso Music Room, Byron Bay on Fri, 30 Oct 2026.
+Jamie Blanco is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Paradiso Music Room, Byron Bay on Fri, 30 Oct 2026.
 
 Jamie Blanco is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across Byron Bay, Melbourne and Sydney. Often billed alongside Kato, DJ Subaru and Dea Barandana. Next up: Paradiso Music Room, Byron Bay on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Jamie Blanco is a house and disco artist based in United Kingdom, with 6 gigs on
 
 Kato, DJ Subaru, Dea Barandana
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieblanco-uk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieblanco-uk/)*

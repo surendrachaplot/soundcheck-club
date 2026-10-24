@@ -1,6 +1,6 @@
 # Lux.
 
-Lux. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Lux. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 Lux. is a techno and house artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leipzig and 3 more. Often billed alongside Boyá, Sevensol and Victor (DE). Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ Lux. is a techno and house artist based in Germany, with 18 gigs on soundcheck a
 
 Boyá, Sevensol, Victor (DE)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-de/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-de/)*

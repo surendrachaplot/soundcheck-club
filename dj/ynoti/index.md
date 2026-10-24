@@ -1,6 +1,6 @@
 # yNOTi
 
-yNOTi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Avondale Music Hall, Chicago on Sat, 24 Oct 2026.
+yNOTi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Avondale Music Hall, Chicago on Sat, 24 Oct 2026.
 
 yNOTi is a techno and tech house artist based in United States of America, with 18 gigs on soundcheck across Baltimore, Chicago, Los Angeles and New York City and 2 more. Often billed alongside Bad Boombox, Johannes Schuster and Mischluft. Next up: Avondale Music Hall, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ yNOTi is a techno and tech house artist based in United States of America, with 
 
 Bad Boombox, Johannes Schuster, Mischluft
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ynoti/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ynoti/)*

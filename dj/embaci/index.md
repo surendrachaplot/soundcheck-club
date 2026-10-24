@@ -1,6 +1,6 @@
 # Embaci
 
-Embaci is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Nightclub 101, New York City on Wed, 4 Nov 2026.
+Embaci is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Nightclub 101, New York City on Wed, 4 Nov 2026.
 
 Embaci is an experimental and club artist, with 26 gigs on soundcheck across Berlin, Los Angeles, Manchester and New York City and 3 more. Often billed alongside 8ULENTINA, Klein and SCRAAATCH. Next up: Nightclub 101, New York City on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Embaci is an experimental and club artist, with 26 gigs on soundcheck across Ber
 
 8ULENTINA, Klein, SCRAAATCH
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/embaci/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/embaci/)*

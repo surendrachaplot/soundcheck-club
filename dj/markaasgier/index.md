@@ -1,6 +1,6 @@
 # Mark Aasgier
 
-Mark Aasgier is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kult, Belgrade on Sat, 24 Oct 2026.
+Mark Aasgier is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kult, Belgrade on Sat, 24 Oct 2026.
 
 Mark Aasgier is a house and techno artist based in Serbia, with 19 gigs on soundcheck across Belgrade. Often billed alongside KACANSKY, Nemax and Layzie. Next up: Kult, Belgrade on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mark Aasgier is a house and techno artist based in Serbia, with 19 gigs on sound
 
 KACANSKY, Nemax, Layzie
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markaasgier/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markaasgier/)*

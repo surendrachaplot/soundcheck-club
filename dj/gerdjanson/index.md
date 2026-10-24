@@ -1,6 +1,6 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
+Gerd Janson is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
 
 Gerd Janson is a house and techno artist based in Germany, with 339 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 88 more. Often billed alongside Marcel Dettmann, Âme and DJ Tennis. Next up: RAWFACTORY, Amsterdam on Sat 24 Oct.
 
@@ -36,4 +36,4 @@ Gerd Janson is a house and techno artist based in Germany, with 339 gigs on soun
 
 Marcel Dettmann, Âme, DJ Tennis
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

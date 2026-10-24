@@ -1,14 +1,13 @@
 # Photek
 
-Photek is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lakota, Bristol on Fri, 23 Oct 2026.
+Photek is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 24 Oct 2026.
 
-Photek is a drum & bass and jungle artist based in United Kingdom, with 26 gigs on soundcheck across Antwerp, Berlin, Boston and Bristol and 14 more. Often billed alongside Goldie, Diverge and Ant TC1. Next up: Lakota, Bristol on Fri 23 Oct.
+Photek is a drum & bass and jungle artist based in United Kingdom, with 26 gigs on soundcheck across Antwerp, Berlin, Boston and Bristol and 14 more. Often billed alongside Goldie, Diverge and Ant TC1. Next up: Akvárium Klub, Budapest on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Lakota | Bristol |
 | Sat, 24 Oct 2026 | Akvárium Klub | Budapest |
 | Fri, 13 Nov 2026 | The Racket Space | Dublin |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
@@ -18,6 +17,7 @@ Photek is a drum & bass and jungle artist based in United Kingdom, with 26 gigs 
 
 ## Recently played
 
+- Lakota, Bristol · Fri, 23 Oct 2026
 - Sneaky Pete's, Edinburgh · Sun, 23 Aug 2026
 - The Cause, London · Sat, 22 Aug 2026
 - Gretchen, Berlin · Sat, 27 Jun 2026
@@ -25,10 +25,9 @@ Photek is a drum & bass and jungle artist based in United Kingdom, with 26 gigs 
 - Blå, Oslo · Fri, 19 Jun 2026
 - TBA - Los Angeles (Warehouse), Los Angeles · Fri, 22 May 2026
 - Lincoln Factory, Detroit · Fri, 10 Apr 2026
-- Paragon, New York City · Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Goldie, Diverge, Ant TC1
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/photek/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/photek/)*

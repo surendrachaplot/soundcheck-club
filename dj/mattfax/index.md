@@ -1,6 +1,6 @@
 # Matt Fax
 
-Matt Fax is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Matt Fax is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Matt Fax is a progressive house and trance artist based in France, with 18 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 8 more. Often billed alongside Billy Gillies, Cosmic Gate and Estiva. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Matt Fax is a progressive house and trance artist based in France, with 18 gigs 
 
 Billy Gillies, Cosmic Gate, Estiva
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfax/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfax/)*

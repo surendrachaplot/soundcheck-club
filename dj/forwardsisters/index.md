@@ -1,6 +1,6 @@
 # Forward Sisters
 
-Forward Sisters is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Alt Stralau 71, 10245 Berlin , Berlin on Sat, 24 Oct 2026.
+Forward Sisters is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Alt Stralau 71, 10245 Berlin , Berlin on Sat, 24 Oct 2026.
 
 Forward Sisters is a bass and dub artist based in Germany, with 14 gigs on soundcheck across Berlin, Ljubljana and London. Often billed alongside Genoe, KaraKara and Comf. Next up: TBA - Alt Stralau 71, 10245 Berlin , Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Forward Sisters is a bass and dub artist based in Germany, with 14 gigs on sound
 
 Genoe, KaraKara, Comf
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forwardsisters/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forwardsisters/)*

@@ -1,16 +1,16 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Space•lab with Adam Pits, Dr. Baird and B Alice" on Fri, 23 Oct 2026.
+The Love Inn is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Livity Sound w/ Peverelist & Hodge" on Sat, 24 Oct 2026.
 
-The Love Inn is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, with line-ups including Alien Communications, Andy Martin, Caragh and Chez de Milo and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
+The Love Inn is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, with line-ups including A.Wild, AdomasLP, Alien Communications and Andy Martin and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Space•lab with Adam Pits, Dr. Baird and B Alice |  |
 | Sat, 24 Oct 2026 | Livity Sound w/ Peverelist & Hodge | Hodge, Peverelist |
 | Thu, 29 Oct 2026 | Dub Techno Chess Club w/ A.Wild + Moli | Moli |
+| Thu, 29 Oct 2026 | The Dub Techno Chess Club with A.Wild + Moli | A.Wild, AdomasLP, MEMP3, Moli, Tommy Cross |
 | Fri, 30 Oct 2026 | echoforms with Andy Martin + Residents | Andy Martin, Ollie Kirk |
 | Sat, 31 Oct 2026 | Club Djembe Halloween w/Fold, Caragh & DJ Polo b2b DJ Stolen | Caragh, DJ Polo, DJ Stolen, Fold |
 | Sun, 1 Nov 2026 | Club Blanco Halloween After Party | Chez de Milo, Eksish, Matthew Neequaye |
@@ -23,4 +23,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 11 upcoming gigs,
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

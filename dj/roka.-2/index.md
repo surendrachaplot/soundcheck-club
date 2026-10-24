@@ -1,6 +1,6 @@
 # Roka
 
-Roka is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dr Morse, Melbourne on Sun, 25 Oct 2026.
+Roka is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Dr Morse, Melbourne on Sun, 25 Oct 2026.
 
 Roka is a tech house and house artist based in Australia, with 26 gigs on soundcheck across Byron Bay, London and Melbourne. Often billed alongside Séarlait, DJ Possum and Moopie. Next up: Dr Morse, Melbourne on Sun 25 Oct.
 
@@ -30,4 +30,4 @@ Roka is a tech house and house artist based in Australia, with 26 gigs on soundc
 
 Séarlait, DJ Possum, Moopie
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*

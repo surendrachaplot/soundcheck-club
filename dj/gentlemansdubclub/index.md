@@ -1,6 +1,6 @@
 # Gentleman's Dub Club
 
-Gentleman's Dub Club is a Dub and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 1720, Los Angeles on Sat, 31 Oct 2026.
+Gentleman's Dub Club is a Dub and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 1720, Los Angeles on Sat, 31 Oct 2026.
 
 Gentleman's Dub Club is a dub and dubstep artist based in United Kingdom, with 5 gigs on soundcheck across Bristol, London, Los Angeles and Newcastle and 1 more. Often billed alongside DRS, Danny Byrd and Eva Lazarus. Next up: 1720, Los Angeles on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Gentleman's Dub Club is a dub and dubstep artist based in United Kingdom, with 5
 
 DRS, Danny Byrd, Eva Lazarus
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gentlemansdubclub/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gentlemansdubclub/)*

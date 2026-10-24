@@ -1,6 +1,6 @@
 # Oppose
 
-Oppose is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Host, Thessaloniki on Sat, 24 Oct 2026.
+Oppose is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Host, Thessaloniki on Sat, 24 Oct 2026.
 
 Oppose is a techno and industrial artist, with 19 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Ralone, Delmon and L.N.T.S. Next up: The Host, Thessaloniki on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Oppose is a techno and industrial artist, with 19 gigs on soundcheck across Athe
 
 Ralone, Delmon, L.N.T.S
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppose/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppose/)*

@@ -1,6 +1,6 @@
 # Emma Pea
 
-Emma Pea is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Emma Pea's 'barbeatcue' with Phat Beat" on Sat, 24 Oct 2026.
+Emma Pea is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Emma Pea's 'barbeatcue' with Phat Beat" on Sat, 24 Oct 2026.
 
 Emma Pea is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Hit Beat and Phat Beat. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Emma Pea is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with 
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/emma-pea/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/emma-pea/)*

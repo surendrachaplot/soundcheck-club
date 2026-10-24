@@ -1,6 +1,6 @@
 # Stevo Blaque
 
-Stevo Blaque is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Exley, New York City on Sat, 24 Oct 2026.
+Stevo Blaque is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Exley, New York City on Sat, 24 Oct 2026.
 
 Stevo Blaque is a house and club artist, with 19 gigs on soundcheck across New York City. Often billed alongside Djavan Guy, Jaséda Galore and Sade James. Next up: The Exley, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Stevo Blaque is a house and club artist, with 19 gigs on soundcheck across New Y
 
 Djavan Guy, Jaséda Galore, Sade James
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevoblaque/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevoblaque/)*

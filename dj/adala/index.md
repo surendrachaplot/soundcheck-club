@@ -1,6 +1,6 @@
 # Adala
 
-Adala is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Graf Rumford Bar & Galerie, Munich on Thu, 5 Nov 2026.
+Adala is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Graf Rumford Bar & Galerie, Munich on Thu, 5 Nov 2026.
 
 Adala is a techno and house artist, with 10 gigs on soundcheck across Munich. Often billed alongside Papi Joe, ZARE and Aaron Leviz. Next up: Graf Rumford Bar & Galerie, Munich on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Adala is a techno and house artist, with 10 gigs on soundcheck across Munich. Of
 
 Papi Joe, ZARE, Aaron Leviz
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adala/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adala/)*

@@ -1,6 +1,6 @@
 # Rosati
 
-Rosati is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Rosati is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 Rosati is a techno and house artist based in Netherlands, with 90 gigs on soundcheck across Amsterdam, Athens, Berlin and Bologna and 23 more. Often billed alongside Steffi, Comrade Winston and DVS1. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Rosati is a techno and house artist based in Netherlands, with 90 gigs on soundc
 
 Steffi, Comrade Winston, DVS1
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*

@@ -1,6 +1,6 @@
 # mandhla
 
-mandhla is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Acud Macht NEU, Berlin on Sun, 22 Nov 2026.
+mandhla is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Acud Macht NEU, Berlin on Sun, 22 Nov 2026.
 
 mandhla is a techno and house artist based in Zimbabwe, with 12 gigs on soundcheck across Berlin. Often billed alongside LEGION SEVEN, $ombi and AUCO. Next up: Acud Macht NEU, Berlin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ mandhla is a techno and house artist based in Zimbabwe, with 12 gigs on soundche
 
 LEGION SEVEN, $ombi, AUCO
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandhla/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandhla/)*

@@ -1,6 +1,6 @@
 # Joline Scheffler
 
-Joline Scheffler is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Joline Scheffler is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 Joline Scheffler is a techno and ambient artist based in Sweden, with 11 gigs on soundcheck across Amsterdam, Berlin, Brussels and Leipzig and 4 more. Often billed alongside Altinbas, Darwin and Fergus Sweetland. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -12,6 +12,7 @@ Joline Scheffler is a techno and ambient artist based in Sweden, with 11 gigs on
 
 ## Recently played
 
+- De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
 - Fuse, Brussels · Sat, 17 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - Club Cheek, London · Sat, 29 Aug 2026
@@ -19,10 +20,9 @@ Joline Scheffler is a techno and ambient artist based in Sweden, with 11 gigs on
 - The DBA, Manchester · Sat, 27 Sept 2025
 - Else, Berlin · Fri, 18 Jul 2025
 - FOLD, London · Fri, 25 Apr 2025
-- Neue Welle, Leipzig · Sat, 12 Apr 2025
 
 ## Shares bills with
 
 Altinbas, Darwin, Fergus Sweetland
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolinescheffler/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolinescheffler/)*

@@ -1,6 +1,6 @@
 # Ezequiel Arias
 
-Ezequiel Arias is a Progressive House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oceandiva Original, Netherlands on Sat, 24 Oct 2026.
+Ezequiel Arias is a Progressive House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Oceandiva Original, Netherlands on Sat, 24 Oct 2026.
 
 Ezequiel Arias is a progressive house and deep house artist based in Argentina, with 70 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Budapest and 26 more. Often billed alongside Jody Wisternoff, Romain Garcia and Dosem. Next up: Oceandiva Original, Netherlands on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Ezequiel Arias is a progressive house and deep house artist based in Argentina, 
 
 Jody Wisternoff, Romain Garcia, Dosem
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*

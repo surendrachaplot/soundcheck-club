@@ -1,6 +1,6 @@
 # MIDNXGHT
 
-MIDNXGHT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at elipamanoke, Leipzig on Sun, 25 Oct 2026.
+MIDNXGHT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at elipamanoke, Leipzig on Sun, 25 Oct 2026.
 
 MIDNXGHT is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Berlin, Dresden, Ho Chi Minh City and Leipzig. Often billed alongside DJ SOFTICE, mp.ulle and marengo. Next up: elipamanoke, Leipzig on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ MIDNXGHT is a techno and trance artist based in Germany, with 30 gigs on soundch
 
 DJ SOFTICE, mp.ulle, marengo (2)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnxght/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnxght/)*

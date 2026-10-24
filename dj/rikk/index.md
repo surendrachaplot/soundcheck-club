@@ -1,6 +1,6 @@
 # RIKK
 
-RIKK is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 31 Oct 2026.
+RIKK is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 31 Oct 2026.
 
 RIKK is a drum & bass and bass artist based in Turkey, with 10 gigs on soundcheck across Tallinn and Tokyo. Often billed alongside SAKO, CRAZYHYUGA and ATAMI. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ RIKK is a drum & bass and bass artist based in Turkey, with 10 gigs on soundchec
 
 SAKO, CRAZYHYUGA, ATAMI
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikk/)*

@@ -1,6 +1,6 @@
 # Disclosure
 
-Disclosure is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
+Disclosure is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
 
 Disclosure is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bogotá and 23 more. Often billed alongside Sammy Virji, Kaytranada and Cassian. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Disclosure is a house and techno artist based in United Kingdom, with 52 gigs on
 
 Sammy Virji, Kaytranada, Cassian
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disclosure/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disclosure/)*

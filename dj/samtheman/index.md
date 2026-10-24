@@ -1,6 +1,6 @@
 # Samtheman
 
-Samtheman is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Jazz Cafe, London on Fri, 30 Oct 2026.
+Samtheman is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Jazz Cafe, London on Fri, 30 Oct 2026.
 
 Samtheman is a house and garage artist based in United Kingdom, with 25 gigs on soundcheck across Brighton, Bristol, Leeds and London and 1 more. Often billed alongside Izco, Jamz Supernova and Capo Lee. Next up: The Jazz Cafe, London on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Samtheman is a house and garage artist based in United Kingdom, with 25 gigs on 
 
 Izco, Jamz Supernova, Capo Lee
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samtheman/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samtheman/)*

@@ -1,6 +1,6 @@
 # Mitch Elliott
 
-Mitch Elliott is a Noise and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Fury Fire Boxing Club, Hanoi on Sat, 24 Oct 2026.
+Mitch Elliott is a Noise and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Fury Fire Boxing Club, Hanoi on Sat, 24 Oct 2026.
 
 Mitch Elliott is a noise and experimental artist, with 4 gigs on soundcheck across Hanoi, Sydney and Tokyo. Often billed alongside Lucas Abela, Manticora and Marcus Whale. Next up: Fury Fire Boxing Club, Hanoi on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Mitch Elliott is a noise and experimental artist, with 4 gigs on soundcheck acro
 
 Lucas Abela, Manticora, Marcus Whale
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchelliott/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchelliott/)*

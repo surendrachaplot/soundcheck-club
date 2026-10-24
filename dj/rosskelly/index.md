@@ -1,6 +1,6 @@
 # Ross Kelly
 
-Ross Kelly is a New Wave and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The California Clipper, Chicago on Sat, 24 Oct 2026.
+Ross Kelly is a New Wave and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The California Clipper, Chicago on Sat, 24 Oct 2026.
 
 Ross Kelly is a new wave and italo disco artist based in United States of America, with 14 gigs on soundcheck across Chicago. Often billed alongside Jesse Sandwich, Ali Najdi and BLESSTONIO. Next up: The California Clipper, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ross Kelly is a new wave and italo disco artist based in United States of Americ
 
 Jesse Sandwich, Ali Najdi, BLESSTONIO
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosskelly/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosskelly/)*

@@ -1,6 +1,6 @@
 # DPR (1)
 
-DPR (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Dreamping, South-korea on Sat, 24 Oct 2026.
+DPR (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Dreamping, South-korea on Sat, 24 Oct 2026.
 
 DPR is a house and techno artist based in Brazil, with 38 gigs on soundcheck across Barcelona, Berlin, Bucharest and Chongqing and 16 more. Often billed alongside DJ Kirby, Pluma Bea and Ethan.. Next up: The Dreamping, South Korea on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DPR is a house and techno artist based in Brazil, with 38 gigs on soundcheck acr
 
 DJ Kirby, Pluma Bea, Ethan.
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dpr-1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dpr-1/)*

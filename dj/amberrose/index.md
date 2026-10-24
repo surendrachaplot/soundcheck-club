@@ -1,6 +1,6 @@
 # Amber Rose
 
-Amber Rose is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 27 Nov 2026.
+Amber Rose is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 27 Nov 2026.
 
 Amber Rose is a garage and house artist based in United Kingdom, with 71 gigs on soundcheck across Brighton, Liverpool, London and Manchester. Often billed alongside Papu Raf, Miggs and Matica. Next up: 24 Kitchen Street, Liverpool on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Amber Rose is a garage and house artist based in United Kingdom, with 71 gigs on
 
 Papu Raf, Miggs, Matica
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberrose/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberrose/)*

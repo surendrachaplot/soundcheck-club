@@ -1,15 +1,13 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Alex Wann is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
-Alex Wann is an afro house and house artist based in France, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: The Loft Amsterdam, Amsterdam on Fri 23 Oct.
+Alex Wann is an afro house and house artist based in France, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
-| Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 6 Nov 2026 | Future Nightlife | Toronto |
 | Sat, 7 Nov 2026 | Vera Cocina & بار | Washington DC |
@@ -18,17 +16,17 @@ Alex Wann is an afro house and house artist based in France, with 154 gigs on so
 
 ## Recently played
 
+- The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
+- The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Westlight Rooftop at The William Vale, New York City · Fri, 16 Oct 2026
 - Revolver Upstairs, Melbourne · Sun, 11 Oct 2026
 - The Ivy, Sydney · Sat, 10 Oct 2026
 - Savaya Bali, Bali · Sun, 4 Oct 2026
 - Zumana Bali, Bali · Fri, 2 Oct 2026
 - Kaufleuten, Zurich · Sat, 26 Sept 2026
-- Labattoir, Thessaloniki · Wed, 16 Sept 2026
-- Moon Warsaw, Warsaw · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Notre Dame, Andrea Oliva, Shimza
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

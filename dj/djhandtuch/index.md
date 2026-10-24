@@ -1,18 +1,18 @@
 # DJ Handtuch
 
-DJ Handtuch is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 23 Oct 2026.
+DJ Handtuch is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
 
-DJ Handtuch is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Hamburg and Münster. Often billed alongside DJ Pinky Promise, Alex Benz and Anton Jonathan. Next up: Golden Pudel Club, Hamburg on Fri 23 Oct.
+DJ Handtuch is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Hamburg and Münster. Often billed alongside DJ Pinky Promise, Alex Benz and Anton Jonathan. Next up: Kosmos Karoline, Hamburg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Golden Pudel Club | Hamburg |
 | Sat, 28 Nov 2026 | Kosmos Karoline | Hamburg |
 
 ## Recently played
 
+- Golden Pudel Club, Hamburg · Fri, 23 Oct 2026
 - Lilli Escher, Hamburg · Thu, 15 Oct 2026
 - Fundbureau, Hamburg · Sat, 15 Aug 2026
 - Karoline 45, Hamburg · Sat, 8 Aug 2026
@@ -25,4 +25,4 @@ DJ Handtuch is a techno and trance artist based in Germany, with 9 gigs on sound
 
 DJ Pinky Promise, Alex Benz, Anton Jonathan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandtuch/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandtuch/)*

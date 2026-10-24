@@ -1,6 +1,6 @@
 # TBA - Gateway
 
-TBA - Gateway is a music venue in Minneapolis/St Paul with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "GOTHESS" on Fri, 30 Oct 2026.
+TBA - Gateway is a music venue in Minneapolis/St Paul with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "GOTHESS" on Fri, 30 Oct 2026.
 
 TBA - Gateway is a music venue in Minneapolis/St Paul listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - Gateway is a music venue in Minneapolis/St Paul listed on soundcheck. 3 up
 | Sat, 7 Nov 2026 | RESONANCE |  |
 | Fri, 20 Nov 2026 | A Body Thing |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/tba-gateway/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/tba-gateway/)*

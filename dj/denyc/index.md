@@ -1,6 +1,6 @@
 # DENYC
 
-DENYC is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Level 8 DTLA, Los Angeles on Thu, 22 Oct 2026.
+DENYC is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Level 8 DTLA, Los Angeles on Thu, 22 Oct 2026.
 
 DENYC is a techno and house artist based in United States of America, with 22 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside RCKSLVR, Trou and DJ Alden. Next up: Level 8 DTLA, Los Angeles on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ DENYC is a techno and house artist based in United States of America, with 22 gi
 
 RCKSLVR, Trou, DJ Alden
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denyc/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denyc/)*

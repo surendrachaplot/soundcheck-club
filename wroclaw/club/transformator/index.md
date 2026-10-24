@@ -1,6 +1,6 @@
 # Transformator
 
-Transformator is a music venue in Wroclaw with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Nocne Dramy #26 • GEST • SABRINA + Scena TECHNO" on Sat, 24 Oct 2026.
+Transformator is a music venue in Wroclaw with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Nocne Dramy #26 • GEST • SABRINA + Scena TECHNO" on Sat, 24 Oct 2026.
 
 Transformator is a music venue in Wroclaw listed on soundcheck. 7 upcoming gigs, with line-ups including CRIIM, Damian S, DarkMatter and Despoza and 2 more. See dates, start times and who's playing. Tęczowa 67, 53-602 Wrocław Poland.
 
@@ -20,4 +20,4 @@ Transformator is a music venue in Wroclaw listed on soundcheck. 7 upcoming gigs,
 
 Tęczowa 67, 53-602 Wrocław Poland, Wroclaw
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/transformator/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/transformator/)*

@@ -1,6 +1,6 @@
 # Radio Hito
 
-Radio Hito is a Experimental and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Teatro Vittoria, Turin on Tue, 27 Oct 2026.
+Radio Hito is a Experimental and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Teatro Vittoria, Turin on Tue, 27 Oct 2026.
 
 Radio Hito is an experimental and electro artist based in Belgium, with 21 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 6 more. Often billed alongside Kyoka, Midori Hirano and Tomoko Sauvage. Next up: Teatro Vittoria, Turin on Tue 27 Oct.
 
@@ -27,4 +27,4 @@ Radio Hito is an experimental and electro artist based in Belgium, with 21 gigs 
 
 Kyoka, Midori Hirano, Tomoko Sauvage
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radiohito/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radiohito/)*

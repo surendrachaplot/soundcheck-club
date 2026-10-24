@@ -1,6 +1,6 @@
 # AKA AKA
 
-AKA AKA is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Beate Uwe, Berlin on Sat, 31 Oct 2026.
+AKA AKA is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Beate Uwe, Berlin on Sat, 31 Oct 2026.
 
 AKA AKA is a techno and tech house artist based in Germany, with 55 gigs on soundcheck across Austria, Berlin, Cologne and Dresden and 9 more. Often billed alongside Moonbootica, LOVRA and Paraçek. Next up: Beate Uwe, Berlin on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ AKA AKA is a techno and tech house artist based in Germany, with 55 gigs on soun
 
 Moonbootica, LOVRA, Paraçek
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*

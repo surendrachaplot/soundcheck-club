@@ -1,6 +1,6 @@
 # sporra
 
-sporra is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mastak, Warsaw on Sat, 7 Nov 2026.
+sporra is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mastak, Warsaw on Sat, 7 Nov 2026.
 
 sporra is a techno and electronica artist, with 14 gigs on soundcheck across Warsaw. Often billed alongside Pean, Salat and Inhaberin. Next up: Mastak, Warsaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ sporra is a techno and electronica artist, with 14 gigs on soundcheck across War
 
 Pean, Salat, Inhaberin (2)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sporra/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sporra/)*

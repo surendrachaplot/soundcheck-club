@@ -1,6 +1,6 @@
 # GM1 (IT)
 
-GM1 (IT) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
+GM1 (IT) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
 
 GM1 (IT) is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Berlin. Often billed alongside Hanne B, Amo (IT) and 4NOUK. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ GM1 (IT) is a techno and trance artist based in Germany, with 34 gigs on soundch
 
 Hanne B, Amo (IT), 4NOUK
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gm1it/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gm1it/)*

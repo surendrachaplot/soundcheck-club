@@ -1,6 +1,6 @@
 # Omar Sherif
 
-Omar Sherif is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
+Omar Sherif is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
 
 Omar Sherif is a house and techno artist, with 4 gigs on soundcheck across Berlin and Sheffield. Often billed alongside .JKM, Aidan and Akirahawks. Next up: Marmorbar, Berlin on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Omar Sherif is a house and techno artist, with 4 gigs on soundcheck across Berli
 
 .JKM, Aidan, Akirahawks
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarsherif/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarsherif/)*

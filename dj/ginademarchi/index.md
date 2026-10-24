@@ -1,6 +1,6 @@
 # Gina Demarchi
 
-Gina Demarchi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Sat, 24 Oct 2026.
+Gina Demarchi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Sat, 24 Oct 2026.
 
 Gina Demarchi is a techno and house artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside Amanda Mussi, Anders Horse and Chris Liebing. Next up: Basement (Amsterdam), Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Gina Demarchi is a techno and house artist based in Germany, with 66 gigs on sou
 
 Amanda Mussi, Anders Horse, Chris Liebing
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginademarchi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginademarchi/)*

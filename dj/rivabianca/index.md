@@ -1,6 +1,6 @@
 # Riva + Bianca
 
-Riva + Bianca is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 20 Nov 2026.
+Riva + Bianca is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 20 Nov 2026.
 
 Riva + Bianca are a house and tech house duo based in United States of America, with 69 gigs on soundcheck across Miami, New Jersey, New York City and Philadelphia and 2 more. Often billed alongside Firestone, Ben Arsenal and G I N A. Next up: The Dolphin, Philadelphia on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Riva + Bianca are a house and tech house duo based in United States of America, 
 
 Firestone, Ben Arsenal, G I N A
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivabianca/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivabianca/)*

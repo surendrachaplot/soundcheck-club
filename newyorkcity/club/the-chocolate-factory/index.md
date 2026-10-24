@@ -1,14 +1,13 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Soul in the Horn FT Natasha Diggs & Friends - October 23" on Fri, 23 Oct 2026.
+The Chocolate Factory is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DETOX UNIT, RESONANT LANGUAGE, Schmoop, SORTOF VAGUE + PETALS" on Fri, 30 Oct 2026.
 
-The Chocolate Factory is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Coflo, DJ Spen, Hypho and Kim Ann Foxman and 2 more. See dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
+The Chocolate Factory is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Hypho, Kim Ann Foxman, MOON BABE and Natasha Diggs and 2 more. See dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Soul in the Horn FT Natasha Diggs & Friends - October 23 | Coflo, DJ Spen, Lovie, Natasha Diggs |
 | Fri, 30 Oct 2026 | DETOX UNIT, RESONANT LANGUAGE, Schmoop, SORTOF VAGUE + PETALS | Schmoop |
 | Fri, 6 Nov 2026 | Teksupport: Volkoder (all night long) SOLD OUT | Volkoder |
 | Sat, 7 Nov 2026 | Sights & Sounds: Zombies In Miami (live), Youandewan, Kim Ann Foxman, Nate Mohler (A/V set) | Kim Ann Foxman, Youandewan, Zombies In Miami |
@@ -20,4 +19,4 @@ The Chocolate Factory is a music venue in New York City listed on soundcheck. 7 
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

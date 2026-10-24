@@ -1,6 +1,6 @@
 # 2bnsn
 
-2bnsn is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Crossing View & Rooftop Lounge Mag8, Tokyo on Sun, 8 Nov 2026.
+2bnsn is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Crossing View & Rooftop Lounge Mag8, Tokyo on Sun, 8 Nov 2026.
 
 2bnsn is a progressive house and house artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside Kamekawa, Conures (DJ Tokunaga) and DJ NECO. Next up: Crossing View & Rooftop Lounge Mag8, Tokyo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@
 
 Kamekawa, Conures (DJ Tokunaga), DJ NECO
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2bnsn/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2bnsn/)*

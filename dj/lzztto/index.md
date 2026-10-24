@@ -1,6 +1,6 @@
 # Lzztto
 
-Lzztto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Moog Club, Barcelona on Thu, 12 Nov 2026.
+Lzztto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Moog Club, Barcelona on Thu, 12 Nov 2026.
 
 Lzztto is a house and techno artist based in Venezuela, with 59 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Katmandü, Viktor Olle and Mr. B. Next up: Moog Club, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Lzztto is a house and techno artist based in Venezuela, with 59 gigs on soundche
 
 Katmandü, Viktor Olle, Mr. B
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lzztto/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lzztto/)*

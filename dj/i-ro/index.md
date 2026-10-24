@@ -1,6 +1,6 @@
 # I-RO
 
-I-RO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+I-RO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 I-RO is a techno and house artist based in Netherlands, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Düsseldorf and 13 more. Often billed alongside Beste Hira, Hitam and Thoms Traxx. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -15,6 +15,7 @@ I-RO is a techno and house artist based in Netherlands, with 81 gigs on soundche
 
 ## Recently played
 
+- De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
 - TILLATEC, Amsterdam · Thu, 22 Oct 2026
 - TBA - Spijkerkade 2, Amsterdam · Sun, 4 Oct 2026
 - CLUB RAUM, Amsterdam · Sat, 5 Sept 2026
@@ -22,10 +23,9 @@ I-RO is a techno and house artist based in Netherlands, with 81 gigs on soundche
 - Berghain | Panorama Bar | Säule, Berlin · Thu, 11 Jun 2026
 - Lofi, Amsterdam · Sat, 16 May 2026
 - RSO.BERLIN, Berlin · Sat, 25 Apr 2026
-- Radio Radio, Amsterdam · Sun, 22 Mar 2026
 
 ## Shares bills with
 
 Beste Hira, Hitam, Thoms Traxx
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/i-ro/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/i-ro/)*

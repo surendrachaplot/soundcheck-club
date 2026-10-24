@@ -1,6 +1,6 @@
 # Café Katoen
 
-Café Katoen is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Primal Instinct with Chlär & Friends" on Sat, 24 Oct 2026.
+Café Katoen is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Primal Instinct with Chlär & Friends" on Sat, 24 Oct 2026.
 
 Café Katoen is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Chlär, Maria Cue, TAFKAMP and Temudo and 2 more. See dates, start times and who's playing. Oude Turfmarkt 153, 1012 GC Amsterdam.
 
@@ -15,4 +15,4 @@ Café Katoen is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs
 
 Oude Turfmarkt 153, 1012 GC Amsterdam, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/caf-katoen/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/caf-katoen/)*

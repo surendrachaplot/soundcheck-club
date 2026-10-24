@@ -1,6 +1,6 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sub Club, Glasgow on Sat, 24 Oct 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sub Club, Glasgow on Sat, 24 Oct 2026.
 
 Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 42 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Sub Club, Glasgow on Sat 24 Oct.
 
@@ -36,4 +36,4 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on sou
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

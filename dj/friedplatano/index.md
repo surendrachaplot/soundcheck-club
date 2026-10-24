@@ -1,6 +1,6 @@
 # friedplatano
 
-friedplatano is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Standard, New York City on Thu, 29 Oct 2026.
+friedplatano is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Standard, New York City on Thu, 29 Oct 2026.
 
 friedplatano is a reggaeton and club artist based in United States of America, with 36 gigs on soundcheck across Los Angeles and New York City. Often billed alongside JOSELO, Total XTC and Sterling Juan Diaz. Next up: The Standard, New York City on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ friedplatano is a reggaeton and club artist based in United States of America, w
 
 JOSELO, Total XTC, Sterling Juan Diaz
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friedplatano/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friedplatano/)*

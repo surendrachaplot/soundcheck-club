@@ -1,6 +1,6 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Marie Montexier is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 Marie Montexier is a techno and house artist based in Germany, with 237 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 69 more. Often billed alongside DVS1, Ryan Elliott and KiNK. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ Marie Montexier is a techno and house artist based in Germany, with 237 gigs on 
 
 DVS1, Ryan Elliott, KiNK
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*

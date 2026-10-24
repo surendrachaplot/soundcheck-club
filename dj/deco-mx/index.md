@@ -1,6 +1,6 @@
 # DECO (MX)
 
-DECO (MX) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Departamento, Mexico City on Wed, 21 Oct 2026.
+DECO (MX) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Departamento, Mexico City on Wed, 21 Oct 2026.
 
 DECO (MX) is a house and deep house artist based in United States of America, with 18 gigs on soundcheck across Mexico City. Often billed alongside Barreto, papa jazz and Didaskein. Next up: Departamento, Mexico City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ DECO (MX) is a house and deep house artist based in United States of America, wi
 
 Barreto, papa jazz, Didaskein
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deco-mx/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deco-mx/)*

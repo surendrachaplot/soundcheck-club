@@ -1,6 +1,6 @@
 # wannadosomething?
 
-wannadosomething? is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 21 Nov 2026.
+wannadosomething? is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 21 Nov 2026.
 
 wannadosomething? is a house and techno artist based in Germany, with 42 gigs on soundcheck across Berlin, Copenhagen and Frankfurt. Often billed alongside Maltitz, Charlie Vaux and Nikklaas. Next up: Bulbul Berlin, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ wannadosomething? is a house and techno artist based in Germany, with 42 gigs on
 
 Maltitz, Charlie Vaux, Nikklaas
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wannadosomething/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wannadosomething/)*

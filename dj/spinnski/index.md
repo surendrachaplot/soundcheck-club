@@ -1,6 +1,6 @@
 # Spinnski
 
-Spinnski is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Masters, Zagreb on Sat, 24 Oct 2026.
+Spinnski is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Masters, Zagreb on Sat, 24 Oct 2026.
 
 Spinnski is a minimal and house artist based in Croatia, with 15 gigs on soundcheck across Zagreb. Often billed alongside Mozer, Tome R and Ana Antonova. Next up: Masters, Zagreb on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Spinnski is a minimal and house artist based in Croatia, with 15 gigs on soundch
 
 Mozer, Tome R, Ana Antonova
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinnski/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinnski/)*

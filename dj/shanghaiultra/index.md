@@ -1,6 +1,6 @@
 # Shanghai Ultra
 
-Shanghai Ultra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Doop, Shanghai on Sat, 24 Oct 2026.
+Shanghai Ultra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Doop, Shanghai on Sat, 24 Oct 2026.
 
 Shanghai Ultra is a techno and house artist based in China, with 14 gigs on soundcheck across Shanghai. Often billed alongside Ma Haiping, NAXIN and Illsee. Next up: Doop, Shanghai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Shanghai Ultra is a techno and house artist based in China, with 14 gigs on soun
 
 Ma Haiping, NAXIN, Illsee
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanghaiultra/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanghaiultra/)*

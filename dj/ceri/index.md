@@ -1,6 +1,6 @@
 # Ceri
 
-Ceri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Ceri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 Ceri is a house and techno artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Austin, Berlin and Bristol and 11 more. Often billed alongside Kerri Chandler, DJ Deep and Adiel. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ceri is a house and techno artist based in United Kingdom, with 45 gigs on sound
 
 Kerri Chandler, DJ Deep, Adiel
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceri/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceri/)*

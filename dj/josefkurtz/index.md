@@ -1,6 +1,6 @@
 # JOSEF KURTZ
 
-JOSEF KURTZ is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at St Ninians Church Hall, Glasgow on Fri, 27 Nov 2026.
+JOSEF KURTZ is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at St Ninians Church Hall, Glasgow on Fri, 27 Nov 2026.
 
 JOSEF KURTZ is an experimental and ambient artist, with 11 gigs on soundcheck across Glasgow and London. Often billed alongside susu laroche, Mobbs and Big Leg. Next up: St Ninians Church Hall, Glasgow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ JOSEF KURTZ is an experimental and ambient artist, with 11 gigs on soundcheck ac
 
 susu laroche, Mobbs, Big Leg
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josefkurtz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josefkurtz/)*

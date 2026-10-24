@@ -1,6 +1,6 @@
 # MBB_
 
-MBB_ is a Club and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Yard, Manchester on Sat, 24 Oct 2026.
+MBB_ is a Club and Grime artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Yard, Manchester on Sat, 24 Oct 2026.
 
 MBB_ is a club and grime artist based in United Kingdom, with 29 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside CONE, Lucian (UK) and Plan T. Next up: The Yard, Manchester on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MBB_ is a club and grime artist based in United Kingdom, with 29 gigs on soundch
 
 CONE (2), Lucian (UK), Plan T
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbb_/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbb_/)*

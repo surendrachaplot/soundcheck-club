@@ -1,6 +1,6 @@
 # Dominik André
 
-Dominik André is a House and New Wave artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nest, Basel on Sat, 28 Nov 2026.
+Dominik André is a House and New Wave artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Nest, Basel on Sat, 28 Nov 2026.
 
 Dominik André is a house and new wave artist based in Switzerland, with 35 gigs on soundcheck across Amsterdam, Basel, Berlin and Düsseldorf and 6 more. Often billed alongside Nive, Courtney Bailey and Sound Metaphors Djs. Next up: Nest, Basel on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Dominik André is a house and new wave artist based in Switzerland, with 35 gigs
 
 Nive, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikandre/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikandre/)*

@@ -1,6 +1,6 @@
 # ArioVistus
 
-ArioVistus is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 31 Oct 2026.
+ArioVistus is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 31 Oct 2026.
 
 ArioVistus is a techno and acid artist based in Canada, with 19 gigs on soundcheck across Amsterdam, Montreal, Quebec City and Toronto and 1 more. Often billed alongside Kay Wagner, DEROZ and Sarah Kay. Next up: Entrepôts Dominion, Les, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ArioVistus is a techno and acid artist based in Canada, with 19 gigs on soundche
 
 Kay Wagner, DEROZ, Sarah Kay
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ariovistus/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ariovistus/)*

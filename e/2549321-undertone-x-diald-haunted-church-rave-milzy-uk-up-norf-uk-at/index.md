@@ -1,6 +1,6 @@
 # UNDERTONE x DIALD: Haunted Church Rave / Milzy (UK) & Up Norf (UK) at TBA - Secret Church, Little Portugal
 
-UNDERTONE x DIALD: Haunted Church Rave / Milzy (UK) & Up Norf (UK) at TBA - Secret Church, Little Portugal on Fri 30 Oct, Toronto. 3 artists: In Depth Subject, Milzy and NiUNiU. Bass and Garage. See the line-up on soundcheck.
+UNDERTONE x DIALD: Haunted Church Rave / Milzy (UK) & Up Norf (UK) at TBA - Secret Church, Little Portugal on Fri 30 Oct, Toronto. 4 artists: CAIT., In Depth Subject, Milzy and NiUNiU. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ UNDERTONE x DIALD: Haunted Church Rave / Milzy (UK) & Up Norf (UK) at TBA - Secr
 
 ## Line-up
 
+- CAIT.
 - In Depth Subject
 - Milzy
 - NiUNiU

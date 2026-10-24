@@ -1,14 +1,13 @@
 # WestWeelde
 
-WestWeelde is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "[SOLD OUT] fabricXLoud-Contact: Jeff Mills, FJAAK (Live), Marcel Dettmann, Helena Hauff, Quest" on Fri, 23 Oct 2026.
+WestWeelde is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "The Gardens of Babylon: The Seekers of Light - ADE 2026" on Sat, 24 Oct 2026.
 
-WestWeelde is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including ACID FLORA, Analog Kitchen, Andhim and Animal Trainer and 2 more. See dates, start times and who's playing. Klönneplein 4.
+WestWeelde is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including ACID FLORA, Analog Kitchen, Andhim and Animal Trainer and 2 more. See dates, start times and who's playing. Klönneplein 4.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | [SOLD OUT] fabricXLoud-Contact: Jeff Mills, FJAAK (Live), Marcel Dettmann, Helena Hauff, Quest | Binh, FJAAK, Gabrielle Kwarteng, Helena Hauff, Jeff Mills, Lumiere, Marcel Dettmann, Quelza, Quest (IT) |
 | Sat, 24 Oct 2026 | The Gardens of Babylon: The Seekers of Light - ADE 2026 | ACID FLORA, Animal Trainer, Awka, B-Bop, Bora Uzer, Britta Arnold, Collé, Cyria, Damian Lazarus, Diass, Giolì & Assia, HOVR, Hardt Antoine, Hedda Stenberg, Hot Oasis, Julia Sandstorm, KAHMEYA, MAGA, MXGPU, Madota, Niki Sadeki, OMRI., Omer Tayar, Panyer, Roy Rosenfeld, Sarah Wild, Sinego, Tony L Issac, Vero (NL), WAHM, Xinobi, ZO.1 |
 | Sat, 7 Nov 2026 | John Digweed - Bedrock | John Digweed |
 | Sat, 14 Nov 2026 | 7 Vibes Journey in Amsterdam | Ed Noodle, Mona Pirzad, VE/RA |
@@ -21,4 +20,4 @@ WestWeelde is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, 
 
 Klönneplein 4, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*

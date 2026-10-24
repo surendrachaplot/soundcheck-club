@@ -1,6 +1,6 @@
 # Domen
 
-Domen is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Barraca, Valencia on Sat, 24 Oct 2026.
+Domen is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Barraca, Valencia on Sat, 24 Oct 2026.
 
 Domen is a techno and industrial artist based in Spain, with 22 gigs on soundcheck across Valencia. Often billed alongside Lucas Cabello, Sou Allen and Rafa Siles. Next up: Barraca, Valencia on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Domen is a techno and industrial artist based in Spain, with 22 gigs on soundche
 
 Lucas Cabello, Sou Allen, Rafa Siles
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domen/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domen/)*

@@ -1,6 +1,6 @@
 # Visible Cloaks
 
-Visible Cloaks is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Visible Cloaks is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Visible Cloaks is an experimental and ambient artist based in United States of America, with 12 gigs on soundcheck across London, Mexico City, New York City and Osaka and 6 more. Often billed alongside Yoshio Ojima, Arca and DJ Healthy. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Visible Cloaks is an experimental and ambient artist based in United States of A
 
 Yoshio Ojima, Arca, DJ Healthy
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/visiblecloaks/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/visiblecloaks/)*

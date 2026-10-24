@@ -1,6 +1,6 @@
 # Napakee
 
-Napakee is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
+Napakee is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
 
 Napakee is a techno and electro artist based in South Korea, with 12 gigs on soundcheck across Berlin, Krakow, Leipzig and Seoul. Often billed alongside Mogano, Forest (PL) and Maze DK. Next up: elipamanoke, Leipzig on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Napakee is a techno and electro artist based in South Korea, with 12 gigs on sou
 
 Mogano, Forest (PL), Maze DK
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napakee/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napakee/)*

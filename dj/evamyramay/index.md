@@ -1,6 +1,6 @@
 # Eva Myra May
 
-Eva Myra May is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bar Franca, Los Angeles on Sat, 24 Oct 2026.
+Eva Myra May is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bar Franca, Los Angeles on Sat, 24 Oct 2026.
 
 Eva Myra May is a house and techno artist based in United States of America, with 36 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Pretty Gay Friendly, Ava Blank and coldsweat. Next up: Bar Franca, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Eva Myra May is a house and techno artist based in United States of America, wit
 
 Pretty Gay Friendly, Ava Blank, coldsweat
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evamyramay/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evamyramay/)*

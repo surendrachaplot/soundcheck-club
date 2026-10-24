@@ -1,6 +1,6 @@
 # Amber Leith
 
-Amber Leith is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 15 Nov 2026.
+Amber Leith is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 15 Nov 2026.
 
 Amber Leith is a drum & bass and jungle artist, with 15 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Corran, SOLECTA and 4am Kru. Next up: Sneaky Pete's, Edinburgh on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Amber Leith is a drum & bass and jungle artist, with 15 gigs on soundcheck acros
 
 Corran, SOLECTA, 4am Kru
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberleith/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberleith/)*

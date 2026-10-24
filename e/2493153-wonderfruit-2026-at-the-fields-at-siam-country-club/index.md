@@ -31,7 +31,7 @@ Wonderfruit 2026 at The Fields at Siam Country Club on Thu 3 Dec, Thailand. 37 a
 - Jason Kendig
 - Jesse You
 - Joe Delon
-- justfin
+- Justfin
 - Loyboy
 - LYDO
 - Markie

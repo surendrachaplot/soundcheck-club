@@ -1,6 +1,6 @@
 # Asha (4)
 
-Asha (4) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Montreal on Sat, 24 Oct 2026.
+Asha (4) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Montreal on Sat, 24 Oct 2026.
 
 Asha is a techno and bass artist based in Canada, with 57 gigs on soundcheck across Berlin, Chicago, Mexico City and Montreal and 2 more. Often billed alongside Runa, MIASALAV and dileta. Next up: TBA, Montreal on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Asha is a techno and bass artist based in Canada, with 57 gigs on soundcheck acr
 
 Runa, MIASALAV, dileta
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asha-4/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asha-4/)*

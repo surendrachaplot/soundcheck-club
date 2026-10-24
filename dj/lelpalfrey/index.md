@@ -1,6 +1,6 @@
 # Lel Palfrey
 
-Lel Palfrey is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 7 Nov 2026.
+Lel Palfrey is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 7 Nov 2026.
 
 Lel Palfrey is a disco and funk / soul artist, with 34 gigs on soundcheck across Edinburgh, Glasgow, Ibiza and London. Often billed alongside Euan Fryer, Athens of the North and Austin Ato. Next up: Sneaky Pete's, Edinburgh on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Lel Palfrey is a disco and funk / soul artist, with 34 gigs on soundcheck across
 
 Euan Fryer, Athens of the North, Austin Ato
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lelpalfrey/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lelpalfrey/)*

@@ -1,14 +1,13 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Elon" on Fri, 23 Oct 2026.
+Moondog Hifi is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Zaidan + GETLIVE" on Sat, 24 Oct 2026.
 
-Moondog Hifi is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including dero, Elon, Latas and Rustam Ospanoff and 2 more. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
+Moondog Hifi is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including dero, Latas, Rustam Ospanoff and Sky Society and 1 more. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Elon | Elon |
 | Sat, 24 Oct 2026 | Zaidan + GETLIVE |  |
 | Sun, 25 Oct 2026 | Deep Listening: 'Light As A Feather' |  |
 | Tue, 27 Oct 2026 | Deep Listening |  |
@@ -22,4 +21,4 @@ Moondog Hifi is a music venue in New York City listed on soundcheck. 9 upcoming 
 
 119 Ingraham Street, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*

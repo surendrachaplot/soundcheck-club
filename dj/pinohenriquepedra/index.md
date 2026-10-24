@@ -1,18 +1,19 @@
 # Pino Henrique Pedra
 
-Pino Henrique Pedra is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
+Pino Henrique Pedra is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Sat, 24 Oct 2026.
 
-Pino Henrique Pedra is a house and balearic artist, with 45 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Discos Baratos and Martha Pinel. Next up: Edifício Martinelli, Sao Paulo on Fri 23 Oct.
+Pino Henrique Pedra is a house and balearic artist, with 46 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Discos Baratos and Martha Pinel. Next up: Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Edifício Martinelli | Sao Paulo |
+| Sat, 24 Oct 2026 | Mauacba Skate Coffee & Skate Shop | Rio de Janeiro |
 | Sat, 7 Nov 2026 | Edifício Martinelli | Sao Paulo |
 
 ## Recently played
 
+- Edifício Martinelli, Sao Paulo · Fri, 23 Oct 2026
 - TBA - Rua do Senado, 1 - Centro, Rio de Janeiro - RJ, 20031-180, Brasil, Rio de Janeiro · Sat, 19 Sept 2026
 - TBA - Marina da Glória, Rio de Janeiro · Mon, 7 Sept 2026
 - TBA - Rua do Senado, 1 - Centro, Rio de Janeiro, Rio de Janeiro · Sat, 29 Aug 2026
@@ -20,10 +21,9 @@ Pino Henrique Pedra is a house and balearic artist, with 45 gigs on soundcheck a
 - TBA - Rua do Monte 22, Morro da Providencia, Rio de Janeiro · Fri, 29 May 2026
 - Funilaria Bixiga, Sao Paulo · Sat, 9 May 2026
 - Casinha cc, Sao Paulo · Fri, 10 Apr 2026
-- Mauacba Skate Coffee & Skate Shop, Rio de Janeiro · Thu, 2 Apr 2026
 
 ## Shares bills with
 
 Gui Scott, Discos Baratos, Martha Pinel
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinohenriquepedra/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinohenriquepedra/)*

@@ -1,6 +1,6 @@
 # Onelia
 
-Onelia is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Casa Amante Club, Madrid on Sat, 24 Oct 2026.
+Onelia is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Casa Amante Club, Madrid on Sat, 24 Oct 2026.
 
 Onelia is a house and electronica artist based in Spain, with 8 gigs on soundcheck across Madrid and Tokyo. Often billed alongside Cherry Pie, Marcos Boricua and Nebu Mitte. Next up: Casa Amante Club, Madrid on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Onelia is a house and electronica artist based in Spain, with 8 gigs on soundche
 
 Cherry Pie, Marcos Boricua, Nebu Mitte
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onelia/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onelia/)*

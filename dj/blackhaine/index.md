@@ -1,6 +1,6 @@
 # Blackhaine
 
-Blackhaine is a Experimental and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Institut du Monde Arabe, Paris on Fri, 23 Oct 2026.
+Blackhaine is a Experimental and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Institut du Monde Arabe, Paris on Fri, 23 Oct 2026.
 
 Blackhaine is an experimental and hip-hop artist based in United Kingdom, with 18 gigs on soundcheck across Barcelona, Berlin, Copenhagen and London and 7 more. Often billed alongside Loraine James, Space Afrika and Blawan. Next up: Institut du Monde Arabe, Paris on Fri 23 Oct.
 
@@ -13,6 +13,7 @@ Blackhaine is an experimental and hip-hop artist based in United Kingdom, with 1
 
 ## Recently played
 
+- Institut du Monde Arabe, Paris · Fri, 23 Oct 2026
 - OCZKI, Warsaw · Sun, 4 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - Neue Nationalgalerie, Berlin · Wed, 27 Aug 2025
@@ -20,10 +21,9 @@ Blackhaine is an experimental and hip-hop artist based in United Kingdom, with 1
 - St Barnabas Church, London · Sat, 15 Mar 2025
 - Le Lieu Unique / Nantes, Nantes · Tue, 12 Nov 2024
 - TivoliVredenburg, Utrecht · Thu, 7 Nov 2024
-- Volksbühne, Berlin · Fri, 20 Sept 2024
 
 ## Shares bills with
 
 Loraine James, Space Afrika, Blawan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackhaine/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackhaine/)*

@@ -1,17 +1,17 @@
 # Ace*Mission Studios - Under The 6th Street Bridge
 
-Ace*Mission Studios - Under The 6th Street Bridge is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Factory 93 presents ANOTR" on Fri, 30 Oct 2026.
+Ace*Mission Studios - Under The 6th Street Bridge is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Factory 93 presents ANOTR" on Fri, 30 Oct 2026.
 
-Ace*Mission Studios - Under The 6th Street Bridge is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including ANOTR. See dates, start times and who's playing. 516 S Mission Rd, Los Angeles, CA 90033.
+Ace*Mission Studios - Under The 6th Street Bridge is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including ANOTR and Jesse Perez. See dates, start times and who's playing. 516 S Mission Rd, Los Angeles, CA 90033.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Factory 93 presents ANOTR | ANOTR |
+| Fri, 30 Oct 2026 | Factory 93 presents ANOTR | ANOTR, Jesse Perez |
 
 ## Address
 
 516 S Mission Rd, Los Angeles, CA 90033, Los Angeles
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/ace-mission-studios-under-the-6th-street-bridge/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/ace-mission-studios-under-the-6th-street-bridge/)*

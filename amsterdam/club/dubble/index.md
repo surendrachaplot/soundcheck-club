@@ -1,6 +1,6 @@
 # dubble
 
-dubble is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ADE: Magic Triangle of Afro-Caribbean heritage: West-Africa, Curaçao and Cuba" on Sat, 24 Oct 2026.
+dubble is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ADE: Magic Triangle of Afro-Caribbean heritage: West-Africa, Curaçao and Cuba" on Sat, 24 Oct 2026.
 
 dubble is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Nico Borgio. See dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
 
@@ -16,4 +16,4 @@ dubble is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with
 
 Bilderdijkstraat 46H, Amsterdam, 1052NB, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*

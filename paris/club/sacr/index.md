@@ -1,14 +1,13 @@
 # Sacré
 
-Sacré is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Sacré présente: Ludmila Di Pasquale & Adrien Calvet" on Fri, 23 Oct 2026.
+Sacré is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Sacré présente: Pastel & Axelle Maga" on Sat, 24 Oct 2026.
 
-Sacré is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including Adrien Calvet, Axelle Maga, Baccus and Butch and 2 more. See dates, start times and who's playing. 142 rue montmartre 75002 Paris.
+Sacré is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including Axelle Maga, Baccus, Butch and Daisybelle and 2 more. See dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Sacré présente: Ludmila Di Pasquale & Adrien Calvet | Adrien Calvet, Ludmila Di Pasquale |
 | Sat, 24 Oct 2026 | Sacré présente: Pastel & Axelle Maga | Axelle Maga |
 | Fri, 30 Oct 2026 | Sacré présente: Butch & Family Matters | Butch, Family Matters |
 | Sat, 31 Oct 2026 | Halloween Costume Party: Baccus All Night Long | Baccus |
@@ -18,9 +17,10 @@ Sacré is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with li
 | Fri, 20 Nov 2026 | Sacré Présente: Makèz & Friends | Makèz |
 | Sat, 21 Nov 2026 | Sacré présente: Daisybelle & Orisha | Daisybelle |
 | Fri, 27 Nov 2026 | Sacré présente: Heidi & Franck Roger | Franck Roger, Heidi |
+| Sat, 28 Nov 2026 | Sacré présente: Jafunk, Chaps, Moulin & Juju Manju  | Jafunk, Juju Manju, Moulin |
 
 ## Address
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

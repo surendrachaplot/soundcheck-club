@@ -1,6 +1,6 @@
 # Bert
 
-Bert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at KitKatClub, Berlin on Mon, 30 Nov 2026.
+Bert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at KitKatClub, Berlin on Mon, 30 Nov 2026.
 
 Bert is a house and techno artist based in Canada, with 13 gigs on soundcheck across Amsterdam, Berlin and Warsaw. Often billed alongside Frankie Flowerz, Xminder and Aiko Inoue. Next up: KitKatClub, Berlin on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ Bert is a house and techno artist based in Canada, with 13 gigs on soundcheck ac
 
 Frankie Flowerz, Xminder, Aiko Inoue
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bert/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bert/)*

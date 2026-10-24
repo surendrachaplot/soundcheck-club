@@ -1,8 +1,8 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "VAMOS" on Wed, 21 Oct 2026.
+Enter Shibuya is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "VAMOS" on Wed, 21 Oct 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including ALEXANDER M, arow, Ayana Pattra and comm and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including ALEXANDER M, arow, Ayana Pattra and comm and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
@@ -10,7 +10,6 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, 
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | VAMOS |  |
 | Thu, 22 Oct 2026 | OI | S.H.V |
-| Fri, 23 Oct 2026 | PAM × BOTT | RAAANDY, SAMO (JP) |
 | Sat, 24 Oct 2026 | The Dreamers EP40 | ALEXANDER M, Louis Shannon, Ren Yokoi |
 | Mon, 26 Oct 2026 | Re:cital | LOQU |
 | Tue, 27 Oct 2026 | VIRGO | KUNPEI, SHIZKA, arow, michika |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, 
 | Thu, 29 Oct 2026 | BITN | Shogo Ito, UG (1) |
 | Fri, 30 Oct 2026 | Gluto | DJ Kensei, Dogwoods, Eichi Abe, Herbalistek, OKBOY, comm |
 | Sat, 31 Oct 2026 | UTAGE - うたげ - HALLOWEEN NIGHT | FELINE (JP), IRODORI, SAMO (JP), YUUGOH, Yuki Beb, kengotaki, nasthug, r1ku |
+| Mon, 2 Nov 2026 | Kacha Kacha vol.4 supported by HABUSH | CYBERHACKSYSTEM, MoEPiKA, ShioriyBradshaw |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

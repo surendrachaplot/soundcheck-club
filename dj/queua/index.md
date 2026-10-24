@@ -1,6 +1,6 @@
 # ϙue
 
-ϙue is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Theodora Extra, Barcelona on Thu, 5 Nov 2026.
+ϙue is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Theodora Extra, Barcelona on Thu, 5 Nov 2026.
 
 ϙue is an ambient and experimental artist, with 17 gigs on soundcheck across Barcelona, Berlin, Lisbon and Prague and 1 more. Often billed alongside Udda, XTCLVR and bod [包家巷]. Next up: Theodora Extra, Barcelona on Thu 5 Nov.
 
@@ -25,4 +25,4 @@
 
 Udda, XTCLVR, bod [包家巷]
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queua/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queua/)*

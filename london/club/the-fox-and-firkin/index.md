@@ -1,6 +1,6 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Evidence Music Takeover" on Fri, 23 Oct 2026.
+The Fox and Firkin is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Evidence Music Takeover" on Fri, 23 Oct 2026.
 
 The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including African Head Charge, Ana Isabela, Bena and Calm Stiege and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

@@ -1,6 +1,6 @@
 # Nicky Blackmarket
 
-Nicky Blackmarket is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Nicky Blackmarket is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Birmingham and 11 more. Often billed alongside Nicky B, Kenny Ken and DJ Hype. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -34,4 +34,4 @@ Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, wi
 
 Nicky B, Kenny Ken, DJ Hype
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*

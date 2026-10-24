@@ -1,6 +1,6 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Process Residency Night: DJ DISSOLVE invites: Erika, othrwrld, JAK" on Fri, 23 Oct 2026.
+Process PDX is a music venue in Portland with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Process Residency Night: DJ DISSOLVE invites: Erika, othrwrld, JAK" on Fri, 23 Oct 2026.
 
 Process PDX is a music venue in Portland listed on soundcheck. 11 upcoming gigs, with line-ups including Amtrac, Andy Warren, Carly Barton and Derek Plaslaiko and 2 more. See dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
@@ -23,4 +23,4 @@ Process PDX is a music venue in Portland listed on soundcheck. 11 upcoming gigs,
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

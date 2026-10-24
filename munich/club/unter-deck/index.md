@@ -1,6 +1,6 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Off Supply x Max NRG Supply" on Fri, 30 Oct 2026.
+Unter Deck is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Off Supply x Max NRG Supply" on Fri, 30 Oct 2026.
 
 Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Fej:tal and Max NRG Supply and 2 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
 
@@ -19,4 +19,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming gigs, wit
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

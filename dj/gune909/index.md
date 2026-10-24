@@ -1,6 +1,6 @@
 # Gune 909
 
-Gune 909 is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sigma, Ibiza on Sat, 7 Nov 2026.
+Gune 909 is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sigma, Ibiza on Sat, 7 Nov 2026.
 
 Gune 909 is a techno and acid artist, with 11 gigs on soundcheck across Ibiza and Madrid. Often billed alongside SEMREH, Julo and AntZ. Next up: Sigma, Ibiza on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Gune 909 is a techno and acid artist, with 11 gigs on soundcheck across Ibiza an
 
 SEMREH, Julo, AntZ (2)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gune909/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gune909/)*

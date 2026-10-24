@@ -1,6 +1,6 @@
 # Steve Bug
 
-Steve Bug is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Steve Bug is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Steve Bug is a house and techno artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Auckland, Austria and Barcelona and 35 more. Often billed alongside Mathias Kaden, Steve Challier and miAs. Next up: Kaap Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Steve Bug is a house and techno artist based in Germany, with 61 gigs on soundch
 
 Mathias Kaden, Steve Challier, miAs
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebug/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebug/)*

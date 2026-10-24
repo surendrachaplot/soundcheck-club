@@ -1,6 +1,6 @@
 # HIZAT
 
-HIZAT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Oath, Tokyo on Sat, 24 Oct 2026.
+HIZAT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Oath, Tokyo on Sat, 24 Oct 2026.
 
 HIZAT is a house and techno artist based in Japan, with 72 gigs on soundcheck across Tokyo. Often billed alongside Neon Noir, RYOHEI and SUETSUGU. Next up: Oath, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ HIZAT is a house and techno artist based in Japan, with 72 gigs on soundcheck ac
 
 Neon Noir, RYOHEI, SUETSUGU
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hizat/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hizat/)*

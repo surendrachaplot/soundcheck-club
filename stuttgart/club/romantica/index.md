@@ -1,14 +1,13 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "shockwerk & friends + open decks" on Fri, 23 Oct 2026.
+Romantica is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "11 Years Maier's Lab with Daniel Bortz, Levin (Chaos Disco Club) & A. Maier" on Sat, 24 Oct 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, with line-ups including Alexander Maier, chaos.disco.club, Daniel Bortz and Dj Kero B and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, with line-ups including Alexander Maier, chaos.disco.club, Daniel Bortz and Dj Kero B and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | shockwerk & friends + open decks | Tino Machauer, lex_shockwerk |
 | Sat, 24 Oct 2026 | 11 Years Maier's Lab with Daniel Bortz, Levin (Chaos Disco Club) & A. Maier | Alexander Maier, Daniel Bortz, Permanent Vacation, chaos.disco.club |
 | Thu, 29 Oct 2026 | KATZENGOLD am DONNERSTAG mit 07ELEVEN KOLLEKTIV | Dj Kero B, Source Code (2) |
 | Fri, 30 Oct 2026 | Entrance | FUNKA04, Hjalte, Meret Forêt, Stereo Visions |
@@ -22,4 +21,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

@@ -1,6 +1,6 @@
 # GROOVEBABY
 
-GROOVEBABY is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at ark (Melb), Melbourne on Sat, 24 Oct 2026.
+GROOVEBABY is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at ark (Melb), Melbourne on Sat, 24 Oct 2026.
 
 GROOVEBABY is a techno and club artist based in Australia, with 12 gigs on soundcheck across Adelaide and Melbourne. Often billed alongside BANO (AU), Dancespace and CITIZEN1. Next up: ark (Melb), Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ GROOVEBABY is a techno and club artist based in Australia, with 12 gigs on sound
 
 BANO (AU), Dancespace, CITIZEN1
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovebaby/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovebaby/)*

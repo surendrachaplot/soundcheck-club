@@ -1,6 +1,6 @@
 # Alberto Tolo
 
-Alberto Tolo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kazerne Reigersbos, Amsterdam on Sun, 25 Oct 2026.
+Alberto Tolo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kazerne Reigersbos, Amsterdam on Sun, 25 Oct 2026.
 
 Alberto Tolo is a techno and house artist based in Italy, with 38 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Cologne and 15 more. Often billed alongside Ricksen, L-AUX and Mefteh. Next up: Kazerne Reigersbos, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Alberto Tolo is a techno and house artist based in Italy, with 38 gigs on soundc
 
 Ricksen, L-AUX, Mefteh
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albertotolo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albertotolo/)*

@@ -1,6 +1,6 @@
 # MYOHMY
 
-MYOHMY is a Techno and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Quarry, Liverpool on Sat, 24 Oct 2026.
+MYOHMY is a Techno and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Quarry, Liverpool on Sat, 24 Oct 2026.
 
 MYOHMY is a techno and jungle artist based in United Kingdom, with 40 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Dan Chan, Mia Mai and Pacemaker. Next up: Quarry, Liverpool on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ MYOHMY is a techno and jungle artist based in United Kingdom, with 40 gigs on so
 
 Dan Chan, Mia Mai, Pacemaker
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myohmy/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myohmy/)*

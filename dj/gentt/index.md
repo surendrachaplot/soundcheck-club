@@ -1,6 +1,6 @@
 # Gentt
 
-Gentt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Platform9, Vancouver on Sat, 31 Oct 2026.
+Gentt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Platform9, Vancouver on Sat, 31 Oct 2026.
 
 Gentt is a house and techno artist based in Turkey, with 10 gigs on soundcheck across Vancouver. Often billed alongside Cenk Saraç, STILL LNDN and Brunch.wav. Next up: Platform9, Vancouver on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gentt is a house and techno artist based in Turkey, with 10 gigs on soundcheck a
 
 Cenk Saraç, STILL LNDN, Brunch.wav
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gentt/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gentt/)*

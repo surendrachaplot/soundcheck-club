@@ -1,6 +1,6 @@
 # 30 Years of Chicane, Australian National Tour - Brunswick Heads at Hotel Brunswick
 
-30 Years of Chicane, Australian National Tour - Brunswick Heads at Hotel Brunswick on Fri 22 Jan, Byron Bay. 1 artist: Chicane. See the line-up on soundcheck.
+30 Years of Chicane, Australian National Tour - Brunswick Heads at Hotel Brunswick on Fri 22 Jan, Byron Bay. 1 artist: Chicane. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

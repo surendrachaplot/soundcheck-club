@@ -1,6 +1,6 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Clara Cuvé is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Clara Cuvé is a techno and house artist based in Germany, with 280 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 81 more. Often billed alongside Kobosil, I Hate Models and 999999999. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -23,6 +23,7 @@ Clara Cuvé is a techno and house artist based in Germany, with 280 gigs on soun
 
 ## Recently played
 
+- Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - E1, London · Fri, 16 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
@@ -30,10 +31,9 @@ Clara Cuvé is a techno and house artist based in Germany, with 280 gigs on soun
 - Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
 - Tapada da Ajuda, Lisbon · Sat, 19 Sept 2026
 - Fuse, Brussels · Fri, 18 Sept 2026
-- Roxy, Prague · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Kobosil, I Hate Models, 999999999
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

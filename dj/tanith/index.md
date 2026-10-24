@@ -1,6 +1,6 @@
 # Tanith
 
-Tanith is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 14 Nov 2026.
+Tanith is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 14 Nov 2026.
 
 Tanith is a techno and house artist, with 51 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Hannover and 3 more. Often billed alongside Der Würfler, WolleXDP and DJ Jauche. Next up: Der Weiße Hase, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tanith is a techno and house artist, with 51 gigs on soundcheck across Berlin, D
 
 Der Würfler, WolleXDP, DJ Jauche
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanith/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanith/)*

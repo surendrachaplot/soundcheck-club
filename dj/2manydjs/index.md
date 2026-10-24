@@ -1,6 +1,6 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Electro artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Garage Klub, Antwerp on Sat, 24 Oct 2026.
+2ManyDJs is a House and Electro artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Garage Klub, Antwerp on Sat, 24 Oct 2026.
 
 2ManyDJs is a house and electro artist based in Belgium, with 74 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 30 more. Often billed alongside Erol Alkan, Tiga and Bolis Pupul. Next up: Garage Klub, Antwerp on Sat 24 Oct.
 
@@ -18,6 +18,7 @@
 
 ## Recently played
 
+- Paradiso, Amsterdam · Fri, 23 Oct 2026
 - Rex Club, Paris · Thu, 15 Oct 2026
 - DRUMSHEDS, London · Sat, 10 Oct 2026
 - Palladium, Geneva · Fri, 9 Oct 2026
@@ -25,10 +26,9 @@
 - TBA - Downtown, Los Angeles · Fri, 18 Sept 2026
 - Pacha Ibiza, Ibiza · Thu, 3 Sept 2026
 - Quarters, Brighton · Sun, 30 Aug 2026
-- Parc Nou. El Prat de Llobregat, Barcelona · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Erol Alkan, Tiga, Bolis Pupul
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*

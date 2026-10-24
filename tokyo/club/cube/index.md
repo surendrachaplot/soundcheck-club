@@ -1,6 +1,6 @@
 # Cube
 
-Cube is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Ableton Meetup Tokyo Vol.67 11th Anniversary" on Tue, 3 Nov 2026.
+Cube is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Ableton Meetup Tokyo Vol.67 11th Anniversary" on Tue, 3 Nov 2026.
 
 Cube is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including 7e, Akey, CD HATA and KATIMI AI and 2 more. See dates, start times and who's playing. 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo.
 
@@ -16,4 +16,4 @@ Cube is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-
 
 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo, Tokyo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*

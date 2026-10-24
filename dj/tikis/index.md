@@ -1,6 +1,6 @@
 # TIKIS
 
-TIKIS is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Skull Bar, Athens on Sun, 25 Oct 2026.
+TIKIS is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Skull Bar, Athens on Sun, 25 Oct 2026.
 
 TIKIS is an electronica and techno artist based in Greece, with 10 gigs on soundcheck across Athens, Berlin, Greece and Thessaloniki. Often billed alongside STOZ, Jaymod and Irene Kimova. Next up: Skull Bar, Athens on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ TIKIS is an electronica and techno artist based in Greece, with 10 gigs on sound
 
 STOZ, Jaymod, Irene Kimova
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tikis/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tikis/)*

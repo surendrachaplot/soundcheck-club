@@ -1,6 +1,6 @@
 # MUNNI
 
-MUNNI is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Timber Loft, London on Sun, 8 Nov 2026.
+MUNNI is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Timber Loft, London on Sun, 8 Nov 2026.
 
 MUNNI is a club and house artist based in United Kingdom, with 28 gigs on soundcheck across Bristol and London. Often billed alongside Jelsen, Madjestic Kasual and Organ Tapes. Next up: The Timber Loft, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ MUNNI is a club and house artist based in United Kingdom, with 28 gigs on soundc
 
 Jelsen, Madjestic Kasual, Organ Tapes
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munni/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munni/)*

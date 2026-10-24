@@ -1,6 +1,6 @@
 # Paul Krist
 
-Paul Krist is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
+Paul Krist is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
 
 Paul Krist is a techno and trance artist based in Czech Republic, with 37 gigs on soundcheck across Prague. Often billed alongside KOBOV, NONSENSE (CZ) and Nøteleks. Next up: Sacre Coeur Prague, Prague on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Paul Krist is a techno and trance artist based in Czech Republic, with 37 gigs o
 
 KOBOV, NONSENSE (CZ), Nøteleks
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkrist/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkrist/)*

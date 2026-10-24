@@ -1,6 +1,6 @@
 # Bumpr
 
-Bumpr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Toffler, Rotterdam on Sat, 19 Dec 2026.
+Bumpr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Toffler, Rotterdam on Sat, 19 Dec 2026.
 
 Bumpr is a house and techno artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Ammé, Ben Horton and Fabio Santos. Next up: Toffler, Rotterdam on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Bumpr is a house and techno artist based in Netherlands, with 9 gigs on soundche
 
 Ammé, Ben Horton, Fabio Santos
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpr/)*

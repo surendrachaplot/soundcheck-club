@@ -1,6 +1,6 @@
 # The Woodbridge
 
-The Woodbridge is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Disco Circus: A Dance Party for Clowns" on Sat, 24 Oct 2026.
+The Woodbridge is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Disco Circus: A Dance Party for Clowns" on Sat, 24 Oct 2026.
 
 The Woodbridge is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Lavenge. See dates, start times and who's playing. 799 Towne Ave, Los Angeles, CA 90021.
 
@@ -14,4 +14,4 @@ The Woodbridge is a music venue in Los Angeles listed on soundcheck. 1 upcoming 
 
 799 Towne Ave, Los Angeles, CA 90021, Los Angeles
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-woodbridge/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-woodbridge/)*

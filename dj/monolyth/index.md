@@ -1,6 +1,6 @@
 # Monolyth
 
-Monolyth is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at HI.Club, Naples on Mon, 7 Dec 2026.
+Monolyth is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at HI.Club, Naples on Mon, 7 Dec 2026.
 
 Monolyth is a techno and industrial artist based in Italy, with 15 gigs on soundcheck across Naples and Rome. Often billed alongside Indeck, CezarX and Dario Giuliano. Next up: HI.Club, Naples on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Monolyth is a techno and industrial artist based in Italy, with 15 gigs on sound
 
 Indeck, CezarX, Dario Giuliano
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monolyth/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monolyth/)*

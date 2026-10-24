@@ -1,6 +1,6 @@
 # Pigs Kaput
 
-Pigs Kaput is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cantina Social, Athens on Sat, 24 Oct 2026.
+Pigs Kaput is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cantina Social, Athens on Sat, 24 Oct 2026.
 
 Pigs Kaput is an italo disco and electro artist, with 24 gigs on soundcheck across Athens. Often billed alongside Mangata Projekt, Adam Des and Atypikal. Next up: Cantina Social, Athens on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Pigs Kaput is an italo disco and electro artist, with 24 gigs on soundcheck acro
 
 Mangata Projekt, Adam Des, Atypikal
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pigskaput/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pigskaput/)*

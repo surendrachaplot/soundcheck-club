@@ -1,6 +1,6 @@
 # BOSKY
 
-BOSKY is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bricks, London on Sat, 24 Oct 2026.
+BOSKY is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bricks, London on Sat, 24 Oct 2026.
 
 BOSKY is a garage and jungle artist based in United Kingdom, with 9 gigs on soundcheck across Bristol, London and Southampton. Often billed alongside Efan, SUFI and tasha.mp4. Next up: Bricks, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ BOSKY is a garage and jungle artist based in United Kingdom, with 9 gigs on soun
 
 Efan, SUFI, tasha.mp4
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bosky/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bosky/)*

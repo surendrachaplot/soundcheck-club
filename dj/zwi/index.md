@@ -1,6 +1,6 @@
 # Zwi
 
-Zwi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Zwi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 Zwi is a techno and house artist based in Russia, with 107 gigs on soundcheck across Bali, Bangkok, Beijing and Hanoi and 6 more. Often billed alongside Di Linh, CONG and Techa. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Zwi is a techno and house artist based in Russia, with 107 gigs on soundcheck ac
 
 Di Linh, CONG, Techa
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwi/)*

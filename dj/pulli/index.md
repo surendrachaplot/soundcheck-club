@@ -1,6 +1,6 @@
 # pulli
 
-pulli is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+pulli is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
 pulli is a techno and downtempo artist based in Germany, with 32 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Paris and 3 more. Often billed alongside Pulli & Chomba, Tvísker and tadoh. Next up: Kater, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ pulli is a techno and downtempo artist based in Germany, with 32 gigs on soundch
 
 Pulli & Chomba, Tvísker, tadoh
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pulli/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pulli/)*

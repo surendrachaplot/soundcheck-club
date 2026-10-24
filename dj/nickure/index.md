@@ -1,6 +1,6 @@
 # Nick Ure
 
-Nick Ure is a Experimental and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
+Nick Ure is a Experimental and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
 
 Nick Ure is an experimental and downtempo artist based in Australia, with 14 gigs on soundcheck across Melbourne, New South Wales, Perth and Victoria. Often billed alongside Bridget Small, Drifting Clouds and Elsie. Next up: Miscellania, Melbourne on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Nick Ure is an experimental and downtempo artist based in Australia, with 14 gig
 
 Bridget Small (2), Drifting Clouds, Elsie
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickure/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickure/)*

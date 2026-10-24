@@ -1,6 +1,6 @@
 # yoshiken
 
-yoshiken is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 5 Dec 2026.
+yoshiken is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 5 Dec 2026.
 
 yoshiken is a house and minimal artist based in Japan, with 35 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside yyshuu, Ariaray and JAMIEST. Next up: Aoyama Hachi, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ yoshiken is a house and minimal artist based in Japan, with 35 gigs on soundchec
 
 yyshuu, Ariaray, JAMIEST
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiken/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiken/)*

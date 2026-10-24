@@ -1,6 +1,6 @@
 # Juls
 
-Juls is a Afrobeat and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Carpet Shop, London on Fri, 20 Nov 2026.
+Juls is a Afrobeat and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Carpet Shop, London on Fri, 20 Nov 2026.
 
 Juls is an afrobeat and afrobeats artist based in United Kingdom, with 57 gigs on soundcheck across Atlanta, Barcelona, Bristol and Copenhagen and 9 more. Often billed alongside Larizzle, Jordss and Keyrah. Next up: The Carpet Shop, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Juls is an afrobeat and afrobeats artist based in United Kingdom, with 57 gigs o
 
 Larizzle, Jordss, Keyrah
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juls-gh/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juls-gh/)*

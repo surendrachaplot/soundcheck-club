@@ -1,8 +1,8 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Kostello, Elicia Martin, Hopecore" on Thu, 22 Oct 2026.
+Salon Daomé is a music venue in Montreal with 18 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Kostello, Elicia Martin, Hopecore" on Thu, 22 Oct 2026.
 
-Salon Daomé is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Audrey Bélanger, Don Barbarino, Elicia Martin and Hicky & Kalo and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
+Salon Daomé is a music venue in Montreal listed on soundcheck. 18 upcoming gigs, with line-ups including Akufen, Artphorm, Audrey Bélanger and Cristobal Urbina and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
 ## What's on
 
@@ -16,9 +16,11 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 8 upcoming gigs,
 | Fri, 30 Oct 2026 | Halloween - Plaisirs Sonores | Hicky & Kalo |
 | Sat, 31 Oct 2026 | Punkdt - Halloween | Nathan Burns, Ohm Hourani, Queenie Jr, Salar Ansari, Sweely, Vayia |
 | Fri, 6 Nov 2026 | Osunlade, Jojoflores, D*soul, Kai Tht Guy | Jojoflores, Osunlade |
+| Sat, 7 Nov 2026 | Akufen, Cristobal Urbina | Akufen, Cristobal Urbina |
+| Thu, 12 Nov 2026 | KONTRAST MONTREAL | Okin |
 
 ## Address
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

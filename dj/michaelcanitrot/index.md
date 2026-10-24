@@ -1,6 +1,6 @@
 # Michael Canitrot
 
-Michael Canitrot is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at E1, London on Sat, 21 Nov 2026.
+Michael Canitrot is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at E1, London on Sat, 21 Nov 2026.
 
 Michael Canitrot is a techno and progressive house artist based in France, with 14 gigs on soundcheck across Amsterdam, Basel, Berlin and Dublin and 5 more. Often billed alongside Max Menaged, ANII and Beat Inside. Next up: E1, London on Sat 21 Nov.
 
@@ -13,6 +13,7 @@ Michael Canitrot is a techno and progressive house artist based in France, with 
 
 ## Recently played
 
+- Oceandiva Original, Netherlands · Fri, 23 Oct 2026
 - TBA - Afer HTX, Houston · Sat, 10 Oct 2026
 - Outernet, London · Sat, 4 Apr 2026
 - block., Dublin · Sat, 29 Nov 2025
@@ -20,10 +21,9 @@ Michael Canitrot is a techno and progressive house artist based in France, with 
 - Troxy, London · Fri, 31 Oct 2025
 - Panama, Amsterdam · Thu, 23 Oct 2025
 - LAB theCLUB, Madrid · Fri, 3 Oct 2025
-- KOKO, London · Sat, 20 Jul 2024
 
 ## Shares bills with
 
 Max Menaged, ANII, Beat Inside
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcanitrot/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelcanitrot/)*

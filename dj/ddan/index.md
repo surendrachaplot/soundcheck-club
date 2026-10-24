@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+D.Dan is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 D.Dan is a techno and house artist based in United States of America, with 234 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 74 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -23,6 +23,7 @@ D.Dan is a techno and house artist based in United States of America, with 234 g
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
 - TILLATEC, Amsterdam · Thu, 22 Oct 2026
 - VENT, Tokyo · Sun, 11 Oct 2026
 - UNDERCITY, Seoul · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@ D.Dan is a techno and house artist based in United States of America, with 234 g
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
-- TBA, Montreal · Sun, 20 Sept 2026
 
 ## Shares bills with
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

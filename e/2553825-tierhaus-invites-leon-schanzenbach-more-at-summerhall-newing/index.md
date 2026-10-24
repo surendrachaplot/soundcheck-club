@@ -1,10 +1,10 @@
 # Tierhaus invites LEON SCHANZENBACH + more at Summerhall, Newington at Summerhall
 
-Tierhaus invites LEON SCHANZENBACH + more at Summerhall, Newington on Sat 28 Nov, Edinburgh. 1 artist: LEON SCHANZENBACH. Techno and House. See the line-up on soundcheck.
+Tierhaus invites LEON SCHANZENBACH + more at Summerhall, Newington on Sat 30 Jan, Edinburgh. 1 artist: LEON SCHANZENBACH. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 28 Nov 2026 |
+| Date | Sat, 30 Jan 2027 |
 | Venue | Summerhall |
 | City | Edinburgh |
 

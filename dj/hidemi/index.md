@@ -1,6 +1,6 @@
 # hidemi
 
-hidemi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Royal Lounge, Tokyo on Tue, 3 Nov 2026.
+hidemi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Royal Lounge, Tokyo on Tue, 3 Nov 2026.
 
 hidemi is a techno and house artist based in Japan, with 148 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Takami, cosmolady and Yamariki. Next up: Royal Lounge, Tokyo on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ hidemi is a techno and house artist based in Japan, with 148 gigs on soundcheck 
 
 Takami, cosmolady, Yamariki
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hidemi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hidemi/)*

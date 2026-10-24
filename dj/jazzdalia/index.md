@@ -1,6 +1,6 @@
 # Jazz Dalia
 
-Jazz Dalia is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Jazz Dalia is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Jazz Dalia is a house and bass artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside LAMSI, Héctor Oaks and Jerrau. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -13,6 +13,7 @@ Jazz Dalia is a house and bass artist based in Netherlands, with 25 gigs on soun
 
 ## Recently played
 
+- Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - KABUL à GoGo, Utrecht · Fri, 2 Oct 2026
 - Skatecafe, Amsterdam · Fri, 28 Aug 2026
 - Skatecafe, Amsterdam · Fri, 10 Jul 2026
@@ -20,10 +21,9 @@ Jazz Dalia is a house and bass artist based in Netherlands, with 25 gigs on soun
 - NAR, Utrecht · Sat, 9 May 2026
 - NDSM Docklands, Amsterdam · Sat, 4 Apr 2026
 - BASIS, Utrecht · Fri, 3 Apr 2026
-- Toekomstmuziek, Amsterdam · Fri, 13 Mar 2026
 
 ## Shares bills with
 
 LAMSI, Héctor Oaks, Jerrau
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzdalia/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzdalia/)*

@@ -1,6 +1,6 @@
 # Markus Nikolai
 
-Markus Nikolai is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Markus Nikolai is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Markus Nikolai is a house and minimal artist based in Germany, with 13 gigs on soundcheck across Barcelona, Basel, Berlin and Frankfurt and 7 more. Often billed alongside Caruan, Sammy Dee and Dandy Jack. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Markus Nikolai is a house and minimal artist based in Germany, with 13 gigs on s
 
 Caruan, Sammy Dee, Dandy Jack
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markusnikolai/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markusnikolai/)*

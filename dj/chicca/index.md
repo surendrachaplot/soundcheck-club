@@ -1,6 +1,6 @@
 # CHICCA
 
-CHICCA is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Brixton Jamm, London on Fri, 30 Oct 2026.
+CHICCA is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Brixton Jamm, London on Fri, 30 Oct 2026.
 
 CHICCA is a house and electro artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Benny Page, Caspa Mono and DJ Bowlcut. Next up: Brixton Jamm, London on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ CHICCA is a house and electro artist based in United Kingdom, with 5 gigs on sou
 
 Benny Page, Caspa Mono, DJ Bowlcut
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chicca/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chicca/)*

@@ -1,18 +1,17 @@
 # Seescape
 
-Seescape is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "For The Love - DJ Capital J, Krinjah, Rave Alarm" on Fri, 23 Oct 2026.
+Seescape is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "FOR THE LOVE - DJ CAPITAL J, KRINJAH, RAVE ALARM" on Sat, 24 Oct 2026.
 
-Seescape is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Marcus Visionary. See dates, start times and who's playing. 347 Keele St, Toronto, ON M6P 2K6.
+Seescape is a music venue in Toronto listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 347 Keele St, Toronto, ON M6P 2K6.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | For The Love - DJ Capital J, Krinjah, Rave Alarm | Marcus Visionary |
 | Sat, 24 Oct 2026 | FOR THE LOVE - DJ CAPITAL J, KRINJAH, RAVE ALARM |  |
 
 ## Address
 
 347 Keele St, Toronto, ON M6P 2K6, Toronto
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/seescape/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/seescape/)*

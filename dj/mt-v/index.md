@@ -1,6 +1,6 @@
 # MT-V
 
-MT-V is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at MONKEY LOVE, Warsaw on Sat, 24 Oct 2026.
+MT-V is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at MONKEY LOVE, Warsaw on Sat, 24 Oct 2026.
 
 MT-V is a house and trance artist based in Poland, with 42 gigs on soundcheck across Hamburg, Krakow and Warsaw. Often billed alongside Abrew, Kobayashkn and Easy Audio. Next up: MONKEY LOVE, Warsaw on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ MT-V is a house and trance artist based in Poland, with 42 gigs on soundcheck ac
 
 Abrew, Kobayashkn, Easy Audio
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mt-v/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mt-v/)*

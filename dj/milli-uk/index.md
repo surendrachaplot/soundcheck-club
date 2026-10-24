@@ -1,6 +1,6 @@
 # Milli
 
-Milli is a Club and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 30 Oct 2026.
+Milli is a Club and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 30 Oct 2026.
 
 Milli is a club and disco artist based in United Kingdom, with 70 gigs on soundcheck across Amsterdam, Austin, Berlin and Frankfurt and 3 more. Often billed alongside Anahita Shamsaei, RONISA and Rohan the producer. Next up: Acud Macht NEU, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Milli is a club and disco artist based in United Kingdom, with 70 gigs on soundc
 
 Anahita Shamsaei, RONISA, Rohan the producer
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milli-uk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milli-uk/)*

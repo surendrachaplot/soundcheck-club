@@ -1,6 +1,6 @@
 # Zardonic
 
-Zardonic is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kassa Boat, Budapest on Sat, 31 Oct 2026.
+Zardonic is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kassa Boat, Budapest on Sat, 31 Oct 2026.
 
 Zardonic is a drum & bass and bass artist, with 17 gigs on soundcheck across Berlin, Brussels, Budapest and Cologne and 5 more. Often billed alongside Audio, Counterstrike and Magnetude. Next up: Kassa Boat, Budapest on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Zardonic is a drum & bass and bass artist, with 17 gigs on soundcheck across Ber
 
 Audio, Counterstrike, Magnetude
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zardonic/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zardonic/)*

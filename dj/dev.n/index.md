@@ -1,6 +1,6 @@
 # dev.n
 
-dev.n is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
+dev.n is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
 
 dev.n is a club and house artist based in United States of America, with 6 gigs on soundcheck across Chicago and New York City. Often billed alongside NoahG, BRATATTACK and Botanist. Next up: Bossa Nova Civic Club, New York City on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ dev.n is a club and house artist based in United States of America, with 6 gigs 
 
 NoahG, BRATATTACK, Botanist
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*

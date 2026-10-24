@@ -1,6 +1,6 @@
 # Javi Lier
 
-Javi Lier is a Minimal Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA -  LFO, Madrid on Sat, 21 Nov 2026.
+Javi Lier is a Minimal Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA -  LFO, Madrid on Sat, 21 Nov 2026.
 
 Javi Lier is a minimal techno and bass artist based in Spain, with 14 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Texture (ES), Baldman and Christian AB. Next up: TBA -  LFO, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Javi Lier is a minimal techno and bass artist based in Spain, with 14 gigs on so
 
 Texture (ES), Baldman, Christian AB
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javilier/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javilier/)*

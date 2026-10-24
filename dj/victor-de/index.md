@@ -1,6 +1,6 @@
 # Victor (DE)
 
-Victor (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Radio Radio, Amsterdam on Sun, 25 Oct 2026.
+Victor (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Radio Radio, Amsterdam on Sun, 25 Oct 2026.
 
 Victor (DE) is a techno and house artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 19 more. Often billed alongside Fadi Mohem, Yamour and Ogazón. Next up: Radio Radio, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Victor (DE) is a techno and house artist based in Germany, with 99 gigs on sound
 
 Fadi Mohem, Yamour, Ogazón
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*

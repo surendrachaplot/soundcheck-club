@@ -1,18 +1,18 @@
 # Kush Jones
 
-Kush Jones is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hidden, Manchester on Fri, 23 Oct 2026.
+Kush Jones is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Elsewhere, New York City on Sat, 31 Oct 2026.
 
-Kush Jones is a techno and house artist based in United States of America, with 128 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Bali and 34 more. Often billed alongside DJ SWISHA, MoMA Ready and AceMo. Next up: Hidden, Manchester on Fri 23 Oct.
+Kush Jones is a techno and house artist based in United States of America, with 128 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Bali and 34 more. Often billed alongside DJ SWISHA, MoMA Ready and AceMo. Next up: Elsewhere, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Hidden | Manchester |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played
 
+- Hidden, Manchester · Fri, 23 Oct 2026
 - control, Bucharest · Thu, 22 Oct 2026
 - Nowadays, New York City · Sun, 11 Oct 2026
 - CHICO, Mexico City · Fri, 2 Oct 2026
@@ -20,10 +20,9 @@ Kush Jones is a techno and house artist based in United States of America, with 
 - SILO, New York City · Wed, 29 Jul 2026
 - 131 Mccormack St, Toronto · Sat, 25 Jul 2026
 - Rhythm, Toronto · Sat, 25 Jul 2026
-- Chatroom at Elsewhere, New York City · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 DJ SWISHA, MoMA Ready, AceMo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kushjones/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kushjones/)*

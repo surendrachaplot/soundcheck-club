@@ -1,6 +1,6 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ADE: FEIERAMT x Furia Collective" on Sat, 24 Oct 2026.
+nachbar is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ADE: FEIERAMT x Furia Collective" on Sat, 24 Oct 2026.
 
 nachbar is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, Curses and DJ City and 2 more. See dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
@@ -23,4 +23,4 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, wi
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

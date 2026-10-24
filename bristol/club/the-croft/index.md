@@ -1,6 +1,6 @@
 # The Croft
 
-The Croft is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Mustard Music: Bristol" on Sat, 24 Oct 2026.
+The Croft is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Mustard Music: Bristol" on Sat, 24 Oct 2026.
 
 The Croft is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including Kidsonic, Neev, PERSPECTIVE and Promo ZO and 2 more. See dates, start times and who's playing. 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom.
 
@@ -20,4 +20,4 @@ The Croft is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, wit
 
 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom, Bristol
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-croft/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-croft/)*

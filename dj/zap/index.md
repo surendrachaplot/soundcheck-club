@@ -1,6 +1,6 @@
 # Z@p
 
-Z@p is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WOMB, Tokyo on Sat, 24 Oct 2026.
+Z@p is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at WOMB, Tokyo on Sat, 24 Oct 2026.
 
 Z@p is a techno and house artist based in Uruguay, with 137 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 42 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: WOMB, Tokyo on Sat 24 Oct.
 
@@ -17,6 +17,7 @@ Z@p is a techno and house artist based in Uruguay, with 137 gigs on soundcheck a
 
 ## Recently played
 
+- Ring, Seoul · Fri, 23 Oct 2026
 - Concept Haus, Manchester · Sat, 17 Oct 2026
 - Buda BXL, Brussels · Sat, 10 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
@@ -24,10 +25,9 @@ Z@p is a techno and house artist based in Uruguay, with 137 gigs on soundcheck a
 - Le 211, Paris · Sat, 19 Sept 2026
 - Nitsa Club, Barcelona · Fri, 18 Sept 2026
 - TBA - East Williamsburg, New York City · Fri, 4 Sept 2026
-- FOLD, London · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

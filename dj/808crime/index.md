@@ -1,6 +1,6 @@
 # 808 CRIME
 
-808 CRIME is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Paula, Dresden on Fri, 6 Nov 2026.
+808 CRIME is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Club Paula, Dresden on Fri, 6 Nov 2026.
 
 808 CRIME is a drum & bass and dubstep artist based in Germany, with 14 gigs on soundcheck across Dresden. Often billed alongside M/THREE/D, TINNITUS and SKTR. Next up: Club Paula, Dresden on Fri 6 Nov.
 
@@ -26,4 +26,4 @@
 
 M/THREE/D, TINNITUS, SKTR
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/808crime/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/808crime/)*

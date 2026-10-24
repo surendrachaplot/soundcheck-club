@@ -1,6 +1,6 @@
 # BLAC Koncept
 
-BLAC Koncept is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mustache Bangkok, Bangkok on Sat, 24 Oct 2026.
+BLAC Koncept is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mustache Bangkok, Bangkok on Sat, 24 Oct 2026.
 
 BLAC Koncept is a techno and minimal techno artist, with 19 gigs on soundcheck across Bangkok and Singapore. Often billed alongside Sanguz J, ETIL and DANI8L. Next up: Mustache Bangkok, Bangkok on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ BLAC Koncept is a techno and minimal techno artist, with 19 gigs on soundcheck a
 
 Sanguz J, ETIL, DANI8L
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackoncept/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackoncept/)*

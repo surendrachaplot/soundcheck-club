@@ -1,14 +1,15 @@
 # Stanton Warriors
 
-Stanton Warriors is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
+Stanton Warriors is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
 
-Stanton Warriors is a breakbeat and bass artist based in United Kingdom, with 42 gigs on soundcheck across Berlin, Birmingham, Brighton and Brisbane and 13 more. Often billed alongside Krafty Kuts, Plump DJs and Freestylers. Next up: The Cambridge Junction, South East on Sat 31 Oct.
+Stanton Warriors is a breakbeat and bass artist based in United Kingdom, with 43 gigs on soundcheck across Berlin, Birmingham, Brighton and Brisbane and 14 more. Often billed alongside Krafty Kuts, Plump DJs and Freestylers. Next up: The Cambridge Junction, South East on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Cambridge Junction | South-east |
+| Sat, 21 Nov 2026 | Hala Odra | Poland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Stanton Warriors is a breakbeat and bass artist based in United Kingdom, with 42
 
 Krafty Kuts, Plump DJs, Freestylers
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*

@@ -1,6 +1,6 @@
 # Le Loup
 
-Le Loup is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - 75013, Paris on Sat, 14 Nov 2026.
+Le Loup is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - 75013, Paris on Sat, 14 Nov 2026.
 
 Le Loup is a house and electro artist based in France, with 39 gigs on soundcheck across Barcelona, Beijing, Berlin and Ibiza and 6 more. Often billed alongside Blanco, Bassam and Chris Carrier. Next up: TBA - 75013, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Le Loup is a house and electro artist based in France, with 39 gigs on soundchec
 
 Blanco, Bassam, Chris Carrier
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo/)*

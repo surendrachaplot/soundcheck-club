@@ -1,6 +1,6 @@
 # ANDREA SALVAGGIO
 
-ANDREA SALVAGGIO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sorgiva Village, Milan on Sun, 1 Nov 2026.
+ANDREA SALVAGGIO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sorgiva Village, Milan on Sun, 1 Nov 2026.
 
 ANDREA SALVAGGIO is a techno and house artist based in Italy, with 50 gigs on soundcheck across Barcelona, Bologna, London and Los Angeles and 6 more. Often billed alongside Valerio Della Notte, Enrico Vivaldi and Test_One. Next up: Sorgiva Village, Milan on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ ANDREA SALVAGGIO is a techno and house artist based in Italy, with 50 gigs on so
 
 Valerio Della Notte, Enrico Vivaldi, Test_One
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasalvaggio/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasalvaggio/)*

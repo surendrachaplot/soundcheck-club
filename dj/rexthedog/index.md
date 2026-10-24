@@ -1,6 +1,6 @@
 # Rex the Dog
 
-Rex the Dog is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+Rex the Dog is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
 
 Rex the Dog is a techno and house artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside Michael Mayer, Narciss and Alex Kassian. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
 
@@ -13,6 +13,7 @@ Rex the Dog is a techno and house artist based in United Kingdom, with 32 gigs o
 
 ## Recently played
 
+- Het Sieraad, Amsterdam · Fri, 23 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
 - Seaseaclub Barcelona, Barcelona · Sun, 21 Jun 2026
 - StereoBar, Montreal · Sat, 13 Jun 2026
@@ -20,10 +21,9 @@ Rex the Dog is a techno and house artist based in United Kingdom, with 32 gigs o
 - ://about blank, Berlin · Sat, 24 Jan 2026
 - Polifonic.MX, Guadalajara · Sat, 6 Dec 2025
 - Topazdeluxe, Monterrey · Fri, 5 Dec 2025
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 23 Aug 2025
 
 ## Shares bills with
 
 Michael Mayer, Narciss, Alex Kassian
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rexthedog/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rexthedog/)*

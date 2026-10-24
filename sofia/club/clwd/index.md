@@ -1,6 +1,6 @@
 # Clwd
 
-Clwd is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "BERLIN CALLING" on Sat, 7 Nov 2026.
+Clwd is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "BERLIN CALLING" on Sat, 7 Nov 2026.
 
 Clwd is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with line-ups including MODERN, Speedy J and Vorick. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Clwd is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with line-u
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | BERLIN CALLING | MODERN, Speedy J, Vorick |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/clwd/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/clwd/)*

@@ -1,6 +1,6 @@
 # 50:Hertz Club Train
 
-50:Hertz Club Train is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room" on Sat, 24 Oct 2026.
+50:Hertz Club Train is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room" on Sat, 24 Oct 2026.
 
 50:Hertz Club Train is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including African Stevenson, Alias33, AMARE and AVA Irandoost and 2 more. See dates, start times and who's playing. Stationsplein 15, Amsterdam.
 
@@ -17,4 +17,4 @@
 
 Stationsplein 15, Amsterdam, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/50-hertz-club-train/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/50-hertz-club-train/)*

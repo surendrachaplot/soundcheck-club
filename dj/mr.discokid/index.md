@@ -1,6 +1,6 @@
 # Mr. Disco Kid
 
-Mr. Disco Kid is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Numm, Tokyo on Sat, 31 Oct 2026.
+Mr. Disco Kid is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Numm, Tokyo on Sat, 31 Oct 2026.
 
 Mr. Disco Kid is a house and club artist based in Japan, with 5 gigs on soundcheck across Kyushu and Tokyo. Often billed alongside Abiu, DJ FUMI and DJ SO. Next up: Numm, Tokyo on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Mr. Disco Kid is a house and club artist based in Japan, with 5 gigs on soundche
 
 Abiu, DJ FUMI, DJ SO
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.discokid/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.discokid/)*

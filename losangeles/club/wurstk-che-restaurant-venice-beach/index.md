@@ -1,6 +1,6 @@
 # Wurstküche Restaurant Venice Beach
 
-Wurstküche Restaurant Venice Beach is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "AT YOUR WÜRST W/ Dale Howard" on Sat, 14 Nov 2026.
+Wurstküche Restaurant Venice Beach is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "AT YOUR WÜRST W/ Dale Howard" on Sat, 14 Nov 2026.
 
 Wurstküche Restaurant Venice Beach is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Dale Howard, goodie bags and Stoley. See dates, start times and who's playing. 625 Lincoln Blvd, Venice, CA 90291.
 
@@ -14,4 +14,4 @@ Wurstküche Restaurant Venice Beach is a music venue in Los Angeles listed on so
 
 625 Lincoln Blvd, Venice, CA 90291, Los Angeles
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/wurstk-che-restaurant-venice-beach/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/wurstk-che-restaurant-venice-beach/)*

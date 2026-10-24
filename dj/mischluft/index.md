@@ -1,14 +1,13 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Carlswerk Victoria, Cologne on Fri, 23 Oct 2026.
+Mischluft is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kompass Klub, Ghent on Sat, 31 Oct 2026.
 
-Mischluft is a techno and trance artist based in Germany, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Carlswerk Victoria, Cologne on Fri 23 Oct.
+Mischluft is a techno and trance artist based in Germany, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Kompass Klub, Ghent on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Carlswerk Victoria | Cologne |
 | Sat, 31 Oct 2026 | Kompass Klub | Ghent |
 | Sat, 7 Nov 2026 | Sektor 6D | Warsaw |
 | Sun, 8 Nov 2026 | Mondo | Madrid |
@@ -18,6 +17,7 @@ Mischluft is a techno and trance artist based in Germany, with 226 gigs on sound
 
 ## Recently played
 
+- Carlswerk Victoria, Cologne · Fri, 23 Oct 2026
 - Lofi, Amsterdam · Thu, 22 Oct 2026
 - RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
@@ -25,10 +25,9 @@ Mischluft is a techno and trance artist based in Germany, with 226 gigs on sound
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Avalon Hollywood, Los Angeles · Sat, 12 Sept 2026
 - Echostage, Washington DC · Fri, 11 Sept 2026
-- Factory Town, Miami · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

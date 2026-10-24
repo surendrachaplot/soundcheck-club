@@ -1,18 +1,18 @@
 # OTO (NY)
 
-OTO (NY) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
+OTO (NY) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
 
-OTO (NY) is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Barcelona, Chongqing, New York City and South. Often billed alongside G-Style, SPF 50 and A.N.I.. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
+OTO (NY) is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Barcelona, Chongqing, New York City and South. Often billed alongside G-Style, SPF 50 and A.N.I.. Next up: TBA, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Razzmatazz | Barcelona |
 | Sat, 31 Oct 2026 | TBA | New York City |
 
 ## Recently played
 
+- Razzmatazz, Barcelona · Fri, 23 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - 坚果NUTS, Chongqing · Sat, 18 Jul 2026
@@ -24,4 +24,4 @@ OTO (NY) is a techno and house artist based in United States of America, with 8 
 
 G-Style, SPF 50, A.N.I.
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oto-ny/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oto-ny/)*

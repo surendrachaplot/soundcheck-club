@@ -1,14 +1,13 @@
 # Studionotte
 
-Studionotte is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "PICTURA W/ Gabbs & Fabrizio Sala " on Fri, 23 Oct 2026.
+Studionotte is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "perpetua #03 — day 1" on Sat, 24 Oct 2026.
 
-Studionotte is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with line-ups including Acidgigi, Arkan, Border One and Dario Lem and 2 more. See dates, start times and who's playing. Via Feltre, 30, 20132 Milano MI.
+Studionotte is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with line-ups including Acidgigi, Arkan, Border One and Dario Lem and 2 more. See dates, start times and who's playing. Via Feltre, 30, 20132 Milano MI.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | PICTURA W/ Gabbs & Fabrizio Sala  | Fabrizio Sala, Gabbs |
 | Sat, 24 Oct 2026 | perpetua #03 — day 1 |  |
 | Sun, 25 Oct 2026 | perpetua #03 — day 2 |  |
 | Fri, 30 Oct 2026 | MUM MILANO with Young Gaina | Gabriele, Mattia Lumee, Pabie, Young Gaina |
@@ -20,4 +19,4 @@ Studionotte is a music venue in Milan listed on soundcheck. 7 upcoming gigs, wit
 
 Via Feltre, 30, 20132 Milano MI, Milan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*

@@ -1,6 +1,6 @@
 # DNG (1)
 
-DNG (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DJ Bar Bridge, Tokyo on Sat, 24 Oct 2026.
+DNG (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at DJ Bar Bridge, Tokyo on Sat, 24 Oct 2026.
 
 DNG is a house and techno artist based in Japan, with 132 gigs on soundcheck across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Nari, KOTSU and Hayato. Next up: DJ Bar Bridge, Tokyo on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ DNG is a house and techno artist based in Japan, with 132 gigs on soundcheck acr
 
 Nari (2), KOTSU, Hayato
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dng-1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dng-1/)*

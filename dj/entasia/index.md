@@ -1,6 +1,6 @@
 # Entasia
 
-Entasia is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lofi, Amsterdam on Sat, 24 Oct 2026.
+Entasia is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Lofi, Amsterdam on Sat, 24 Oct 2026.
 
 Entasia is a house and techno artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Antwerp, Bali and Byron Bay and 18 more. Often billed alongside Inafekt, Kyle Starkey and DART. Next up: Lofi, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Entasia is a house and techno artist based in United Kingdom, with 69 gigs on so
 
 Inafekt, Kyle Starkey, DART
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*

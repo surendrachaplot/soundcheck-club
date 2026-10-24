@@ -1,6 +1,6 @@
 # gunk
 
-gunk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Disclosed to ticket holders , Calgary on Sat, 31 Oct 2026.
+gunk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Disclosed to ticket holders , Calgary on Sat, 31 Oct 2026.
 
 gunk is a house and techno artist, with 10 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Rick Sharma, Angel Science and Bingsoo in the club. Next up: TBA - Disclosed to ticket holders , Calgary on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ gunk is a house and techno artist, with 10 gigs on soundcheck across Calgary and
 
 Rick Sharma, Angel Science, Bingsoo in the club
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gunk-ca/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gunk-ca/)*

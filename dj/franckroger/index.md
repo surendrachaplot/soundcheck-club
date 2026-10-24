@@ -1,6 +1,6 @@
 # Franck Roger
 
-Franck Roger is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sacré, Paris on Fri, 27 Nov 2026.
+Franck Roger is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sacré, Paris on Fri, 27 Nov 2026.
 
 Franck Roger is a house and deep house artist based in France, with 36 gigs on soundcheck across Alicante, Barcelona, Bordeaux and Chicago and 13 more. Often billed alongside Karlainthemix, Afshin and Danny Fortunato. Next up: Sacré, Paris on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Franck Roger is a house and deep house artist based in France, with 36 gigs on s
 
 Karlainthemix, Afshin, Danny Fortunato
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franckroger/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franckroger/)*

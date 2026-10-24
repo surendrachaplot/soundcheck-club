@@ -1,6 +1,6 @@
 # Semo
 
-Semo is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Paper, Seoul on Sat, 24 Oct 2026.
+Semo is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Paper, Seoul on Sat, 24 Oct 2026.
 
 Semo is a house and club artist based in South Korea, with 44 gigs on soundcheck across Seoul. Often billed alongside Gyusco, KIKOH and TRUEUNSOL. Next up: Paper, Seoul on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Semo is a house and club artist based in South Korea, with 44 gigs on soundcheck
 
 Gyusco, KIKOH, TRUEUNSOL
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semo/)*

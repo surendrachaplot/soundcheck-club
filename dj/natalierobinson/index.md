@@ -1,6 +1,6 @@
 # Natalie Robinson
 
-Natalie Robinson is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Natalie Robinson is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Natalie Robinson is a house and techno artist based in Germany, with 138 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 29 more. Often billed alongside Katy De Jesus, Naomi (Berlin) and Mike Starr. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -16,6 +16,7 @@ Natalie Robinson is a house and techno artist based in Germany, with 138 gigs on
 
 ## Recently played
 
+- Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - Tresor / Globus, Berlin · Sat, 17 Oct 2026
 - Fuchs2, Prague · Sat, 19 Sept 2026
 - SAGE, Berlin · Sat, 5 Sept 2026
@@ -23,10 +24,9 @@ Natalie Robinson is a house and techno artist based in Germany, with 138 gigs on
 - TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
 - Golden Pudel Club, Hamburg · Sat, 8 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
-- MS Artville, Hamburg · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Katy De Jesus, Naomi (Berlin), Mike Starr
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natalierobinson/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natalierobinson/)*

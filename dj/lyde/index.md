@@ -1,6 +1,6 @@
 # Lyde
 
-Lyde is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at NDR2 Red Room, London on Sat, 24 Oct 2026.
+Lyde is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at NDR2 Red Room, London on Sat, 24 Oct 2026.
 
 Lyde is a progressive house and house artist, with 12 gigs on soundcheck across Leeds and London. Often billed alongside JUST FINN, Henry Bennett and Jabba & The Hutt. Next up: NDR2 Red Room, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lyde is a progressive house and house artist, with 12 gigs on soundcheck across 
 
 JUST FINN, Henry Bennett, Jabba & The Hutt
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyde/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyde/)*

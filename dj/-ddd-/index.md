@@ -1,6 +1,6 @@
 # -ddd-
 
--ddd- is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Boom Boom Villette, Paris on Fri, 30 Oct 2026.
+-ddd- is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Boom Boom Villette, Paris on Fri, 30 Oct 2026.
 
 -ddd- is a house and techno artist, with 18 gigs on soundcheck across Paris. Often billed alongside The Hustler, Amarou and Aurèle. Next up: Boom Boom Villette, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@
 
 The Hustler, Amarou, Aurèle
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/-ddd-/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/-ddd-/)*

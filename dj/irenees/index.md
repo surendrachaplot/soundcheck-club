@@ -1,6 +1,6 @@
 # Irenee S
 
-Irenee S is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 1 Nov 2026.
+Irenee S is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 1 Nov 2026.
 
 Irenee S is an afro house and techno artist based in France, with 10 gigs on soundcheck across Bali, Ibiza, Los Angeles and Madrid. Often billed alongside Sasha Supra, Stefanya Morgan and Apache. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Irenee S is an afro house and techno artist based in France, with 10 gigs on sou
 
 Sasha Supra, Stefanya Morgan, Apache
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irenees/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irenees/)*

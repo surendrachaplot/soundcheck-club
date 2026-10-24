@@ -1,32 +1,30 @@
 # AMÉMÉ
 
-AMÉMÉ is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+AMÉMÉ is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
-AMÉMÉ is a house and afro house artist based in Benin, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: The Loft Amsterdam, Amsterdam on Fri 23 Oct.
+AMÉMÉ is a house and afro house artist based in Benin, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
-| Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 31 Oct 2026 | Essex | Mexico City |
 | Sun, 6 Dec 2026 | Savaya Bali | Bali |
 
 ## Recently played
 
+- The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
+- The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Eivissa Ship, Amsterdam · Thu, 22 Oct 2026
 - Edifício Touring, Rio-de-janeiro · Fri, 9 Oct 2026
 - [UNVRS], Ibiza · Wed, 7 Oct 2026
 - Jungle Island, Miami · Sat, 3 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Fri, 2 Oct 2026
 - Hï Ibiza, Ibiza · Sat, 26 Sept 2026
-- Thuishaven, Amsterdam · Sat, 19 Sept 2026
-- Hï Ibiza, Ibiza · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 Jamie Jones, Loco Dice, NenaHalena
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*

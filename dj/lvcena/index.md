@@ -1,6 +1,6 @@
 # LVCENA
 
-LVCENA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 24 Oct 2026.
+LVCENA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 24 Oct 2026.
 
 LVCENA is a techno and trance artist based in Portugal, with 16 gigs on soundcheck across Berlin and Lisbon. Often billed alongside João Melgueira, ViRiD!S and Ana Dimco. Next up: Kømplex Lisbon, Lisbon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ LVCENA is a techno and trance artist based in Portugal, with 16 gigs on soundche
 
 João Melgueira, ViRiD!S, Ana Dimco
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lvcena/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lvcena/)*

@@ -1,6 +1,6 @@
 # Dede
 
-Dede is a House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Vago, Lisbon on Mon, 19 Oct 2026.
+Dede is a House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Vago, Lisbon on Mon, 19 Oct 2026.
 
 Dede is a house and dancehall artist based in Germany, with 30 gigs on soundcheck across Berlin, Lisbon and New York City. Often billed alongside Adam Purnell, La Gugga and Bernardo Vaz. Next up: Vago, Lisbon on Mon 19 Oct.
 
@@ -25,4 +25,4 @@ Dede is a house and dancehall artist based in Germany, with 30 gigs on soundchec
 
 Adam Purnell, La Gugga, Bernardo Vaz
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dede/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dede/)*

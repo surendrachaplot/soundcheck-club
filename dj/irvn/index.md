@@ -1,6 +1,6 @@
 # Irvn
 
-Irvn is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Fort Greene, Denver on Sat, 24 Oct 2026.
+Irvn is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Fort Greene, Denver on Sat, 24 Oct 2026.
 
 Irvn is a minimal and house artist, with 26 gigs on soundcheck across Denver. Often billed alongside Lidas, Giuliano Lomonte and Kev Obrien. Next up: Fort Greene, Denver on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Irvn is a minimal and house artist, with 26 gigs on soundcheck across Denver. Of
 
 Lidas, Giuliano Lomonte, Kev Obrien
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irvn/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irvn/)*

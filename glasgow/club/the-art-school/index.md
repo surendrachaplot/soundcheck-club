@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SQIFF 2026 Closing Night Party: Paparazzi" on Sat, 24 Oct 2026.
+The Art School is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "SQIFF 2026 Closing Night Party: Paparazzi" on Sat, 24 Oct 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs, with line-ups including ACHIRĀ, Corran, DJ Catnip and Egyptian Lover and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 10 upcoming gig
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

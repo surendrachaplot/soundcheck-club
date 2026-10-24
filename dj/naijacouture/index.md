@@ -1,6 +1,6 @@
 # Naija Couture
 
-Naija Couture is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
+Naija Couture is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
 
 Naija Couture is a techno and club artist based in United States of America, with 35 gigs on soundcheck across New York City, Philadelphia, San Francisco/Oakland and Toronto. Often billed alongside ONEELEVEN, ARCHANGEL (US) and DOLLNXTDOOR. Next up: Bossa Nova Civic Club, New York City on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Naija Couture is a techno and club artist based in United States of America, wit
 
 ONEELEVEN, ARCHANGEL (US), DOLLNXTDOOR
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naijacouture/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naijacouture/)*

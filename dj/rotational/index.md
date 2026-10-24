@@ -1,19 +1,19 @@
 # Rotational
 
-Rotational is a Bass and Dub artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
+Rotational is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
 
-Rotational is a bass and dub artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dublin and 6 more. Often billed alongside Tash LC, AAMIROO and Aalia Iraki. Next up: La Station - Gare des Mines, Paris on Fri 23 Oct.
+Rotational is a bass and dub artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dublin and 6 more. Often billed alongside Tash LC, AAMIROO and Aalia Iraki. Next up: Skatecafe, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 24 Oct 2026 | Skatecafe | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Carcavelos | Lisbon |
 
 ## Recently played
 
+- La Station - Gare des Mines, Paris · Fri, 23 Oct 2026
 - Garage Noord, Amsterdam · Sun, 20 Sept 2026
 - Le Transbordeur, Lyon · Sat, 19 Sept 2026
 - Rotterdam Centre, Rotterdam · Fri, 11 Sept 2026
@@ -21,10 +21,9 @@ Rotational is a bass and dub artist based in Netherlands, with 22 gigs on soundc
 - Aaja Basement, London · Fri, 24 Jul 2026
 - Le Trabendo, Paris · Fri, 3 Jul 2026
 - Garage Noord, Amsterdam · Sat, 13 Jun 2026
-- murmur, Amsterdam · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Tash LC, AAMIROO, Aalia Iraki
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rotational/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rotational/)*

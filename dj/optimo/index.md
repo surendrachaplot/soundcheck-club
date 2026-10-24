@@ -1,15 +1,13 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The White Hotel, Manchester on Fri, 23 Oct 2026.
+Optimo (Espacio) is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Studio 508, Amsterdam on Sat, 24 Oct 2026.
 
-Optimo (Espacio) is a house and techno artist based in United Kingdom, with 200 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 47 more. Often billed alongside Daniel Avery, HAAi and Erol Alkan. Next up: The White Hotel, Manchester on Fri 23 Oct.
+Optimo (Espacio) is a house and techno artist based in United Kingdom, with 201 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 48 more. Often billed alongside Daniel Avery, HAAi and Erol Alkan. Next up: Studio 508, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | The White Hotel | Manchester |
-| Fri, 23 Oct 2026 | The DBA | Manchester |
 | Sat, 24 Oct 2026 | Studio 508 | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | CANVAS | Dundee |
@@ -20,20 +18,22 @@ Optimo (Espacio) is a house and techno artist based in United Kingdom, with 200 
 | Sat, 5 Dec 2026 | Phonox | London |
 | Fri, 18 Dec 2026 | The White Hotel | Manchester |
 | Sat, 19 Dec 2026 | Cobalt Studios | Newcastle |
+| Mon, 15 Mar 2027 | Leysin Ski Resort | Switzerland |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- The White Hotel, Manchester · Fri, 23 Oct 2026
+- The DBA, Manchester · Fri, 23 Oct 2026
 - Palladium, Geneva · Fri, 9 Oct 2026
 - The Berkeley Suite, Glasgow · Sat, 3 Oct 2026
 - FOLD, London · Fri, 25 Sept 2026
 - Various Venues, London · Thu, 24 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Are You Affiliated, Newcastle · Sun, 30 Aug 2026
-- Southwark Park, London · Sat, 29 Aug 2026
-- Distrikt, Leeds · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Daniel Avery, HAAi, Erol Alkan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

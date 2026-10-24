@@ -1,6 +1,6 @@
 # Debit
 
-Debit is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Fruit, North-carolina on Fri, 23 Oct 2026.
+Debit is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Fruit, North-carolina on Fri, 23 Oct 2026.
 
 Debit is a techno and experimental artist based in United States of America, with 202 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 57 more. Often billed alongside APP, Alaska and Flat. Next up: The Fruit, North Carolina on Fri 23 Oct.
 
@@ -16,6 +16,7 @@ Debit is a techno and experimental artist based in United States of America, wit
 
 ## Recently played
 
+- The Fruit, North-carolina · Fri, 23 Oct 2026
 - Kingdom Nightclub, Austin · Fri, 9 Oct 2026
 - OCZKI, Warsaw · Sun, 4 Oct 2026
 - OCZKI, Warsaw · Sun, 4 Oct 2026
@@ -23,10 +24,9 @@ Debit is a techno and experimental artist based in United States of America, wit
 - National Gallery Prague, Prague · Sat, 26 Sept 2026
 - Ormside Projects, London · Sat, 26 Sept 2026
 - B London, London · Sat, 12 Sept 2026
-- Rock N Rolla, Thessaloniki · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 APP, Alaska (2), Flat
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*

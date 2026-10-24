@@ -1,14 +1,13 @@
 # Specka
 
-Specka is a music venue in Madrid with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Impossible Love First Anniversary I Specka Club" on Fri, 23 Oct 2026.
+Specka is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Rosy B-Day & LJ Pájaro 80's/Guitar all night long SOLD OUT (SOLO EN PUERTA)" on Sat, 24 Oct 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with line-ups including Alvaro Cabana, Blaark, Cilla and David Ponziano and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including Alvaro Cabana, Blaark, Cilla and David Ponziano and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Impossible Love First Anniversary I Specka Club | Satom |
 | Sat, 24 Oct 2026 | Rosy B-Day & LJ Pájaro 80's/Guitar all night long SOLD OUT (SOLO EN PUERTA) | Rosy Specka |
 | Sat, 24 Oct 2026 | Alex Nef + Lord High Executioner + OSG Tunes & Tapes in concert |  |
 | Fri, 30 Oct 2026 | Moodulab & Fábula #003 (Halloween Edition) I Specka Club | Denso, Valleyk |
@@ -18,9 +17,10 @@ Specka is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with l
 | Sat, 7 Nov 2026 | SYSTOLIC Showcase 360° Rave #03 - Specka Club Tardes |  |
 | Sun, 8 Nov 2026 | L.Taipán & Alejo L5 I Rap Lord x Blackout I Specka Live |  |
 | Fri, 13 Nov 2026 | Escaparate 14/38 pres. I Gazpacho #07 | KATIA, Tremūl, malauva |
+| Sat, 14 Nov 2026 | Jen Cardini - Halley Club | David Ponziano, Jen Cardini, Yahaira |
 
 ## Address
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

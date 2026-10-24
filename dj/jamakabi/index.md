@@ -1,0 +1,28 @@
+# Jamakabi
+
+Jamakabi is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Brixton Jamm, London on Fri, 30 Oct 2026.
+
+Jamakabi is a grime and dubstep artist based in United Kingdom, with 9 gigs on soundcheck across Bristol, London, Manchester and Sofia. Often billed alongside Footsie, Sir Spyro and Benny Page. Next up: Brixton Jamm, London on Fri 30 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 30 Oct 2026 | Brixton Jamm | London |
+
+## Recently played
+
+- The Steel Yard, London · Fri, 30 Jan 2026
+- fabric, London · Fri, 18 Apr 2025
+- Hidden, Manchester · Fri, 11 Apr 2025
+- Купе / Kupe, Sofia · Fri, 6 Dec 2024
+- The Clock Factory, Bristol · Sat, 13 Jul 2024
+- The Hackney Social, London · Fri, 9 Feb 2024
+- Phonox, London · Fri, 22 Sept 2023
+- Dalston Den, London · Fri, 11 Aug 2023
+
+## Shares bills with
+
+Footsie, Sir Spyro, Benny Page
+
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamakabi/)*

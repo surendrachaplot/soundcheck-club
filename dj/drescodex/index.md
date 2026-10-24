@@ -1,6 +1,6 @@
 # Dres Codex
 
-Dres Codex is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Egg London, London on Sun, 8 Nov 2026.
+Dres Codex is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Egg London, London on Sun, 8 Nov 2026.
 
 Dres Codex is a techno and industrial artist based in United Kingdom, with 30 gigs on soundcheck across Birmingham, Brighton, Cardiff and London and 2 more. Often billed alongside KASTILO, Lau.tastic and Baptist (UK). Next up: Egg London, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Dres Codex is a techno and industrial artist based in United Kingdom, with 30 gi
 
 KASTILO, Lau.tastic, Baptist (UK)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drescodex/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drescodex/)*

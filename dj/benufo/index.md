@@ -1,6 +1,6 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
+Ben UFO is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
 Ben UFO is a techno and house artist based in United Kingdom, with 260 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 76 more. Often billed alongside Helena Hauff, Ogazón and Avalon Emerson. Next up: RADION, Amsterdam on Sun 25 Oct.
 
@@ -21,6 +21,7 @@ Ben UFO is a techno and house artist based in United Kingdom, with 260 gigs on s
 
 ## Recently played
 
+- The Roundhouse, London · Fri, 23 Oct 2026
 - Nitsa Club, Barcelona · Sat, 17 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 16 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
@@ -28,10 +29,9 @@ Ben UFO is a techno and house artist based in United Kingdom, with 260 gigs on s
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
-- Public Works, San Francisco/Oakland · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 Helena Hauff, Ogazón, Avalon Emerson
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

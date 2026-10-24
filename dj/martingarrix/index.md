@@ -1,6 +1,6 @@
 # Martin Garrix
 
-Martin Garrix is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Martin Garrix is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Martin Garrix is a house and progressive house artist based in Netherlands, with 81 gigs on soundcheck across Amsterdam, Austin, Boston and Budapest and 17 more. Often billed alongside Miss Monique, Afrojack and Alesso. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Martin Garrix is a house and progressive house artist based in Netherlands, with
 
 Miss Monique, Afrojack, Alesso
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martingarrix/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martingarrix/)*

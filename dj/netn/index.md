@@ -1,6 +1,6 @@
 # NETN
 
-NETN is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 6 Nov 2026.
+NETN is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 6 Nov 2026.
 
 NETN is a techno and electronica artist based in Spain, with 45 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Theia Daja, DJ TURBO and Alejandro Gata. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ NETN is a techno and electronica artist based in Spain, with 45 gigs on soundche
 
 Theia Daja, DJ TURBO, Alejandro Gata
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/netn/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/netn/)*

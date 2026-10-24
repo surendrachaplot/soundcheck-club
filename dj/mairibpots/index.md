@@ -1,6 +1,6 @@
 # Mairi 'b' Pots
 
-Mairi 'b' Pots is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Voodoo Rooms, Edinburgh on Sat, 24 Oct 2026.
+Mairi 'b' Pots is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Voodoo Rooms, Edinburgh on Sat, 24 Oct 2026.
 
 Mairi 'b' Pots is a disco and house artist, with 72 gigs on soundcheck across Edinburgh and Newcastle. Often billed alongside Trendy Wendy, Jordy Joans and Hobbes. Next up: The Voodoo Rooms, Edinburgh on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Mairi 'b' Pots is a disco and house artist, with 72 gigs on soundcheck across Ed
 
 Trendy Wendy, Jordy Joans, Hobbes
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mairibpots/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mairibpots/)*

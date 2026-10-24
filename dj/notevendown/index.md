@@ -1,6 +1,6 @@
 # NOTEVENDOWN
 
-NOTEVENDOWN is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Vancouver on Sat, 14 Nov 2026.
+NOTEVENDOWN is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Vancouver on Sat, 14 Nov 2026.
 
 NOTEVENDOWN is a techno and bass artist based in Canada, with 11 gigs on soundcheck across Seoul and Vancouver. Often billed alongside DJ Hockey, AWood and ZDBT. Next up: TBA, Vancouver on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ NOTEVENDOWN is a techno and bass artist based in Canada, with 11 gigs on soundch
 
 DJ Hockey, AWood, ZDBT
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notevendown/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notevendown/)*

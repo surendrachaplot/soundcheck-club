@@ -1,6 +1,6 @@
 # Hilu
 
-Hilu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at feedbk, New York City on Sat, 31 Oct 2026.
+Hilu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at feedbk, New York City on Sat, 31 Oct 2026.
 
 Hilu is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Berlin, Brussels, Detroit and Hamburg and 3 more. Often billed alongside Roni Amitai, Casimir von Oettingen and Erhardt Schuster. Next up: feedbk, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hilu is a house and techno artist based in United States of America, with 27 gig
 
 Roni Amitai, Casimir von Oettingen, Erhardt Schuster
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hilu/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hilu/)*

@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a music venue in Brussels with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "CREVETTE RECORDS - 10 YEAR ANNIVERSARY - AFTER PARTY" on Sat, 24 Oct 2026.
+UMI is a music venue in Brussels with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "CREVETTE RECORDS - 10 YEAR ANNIVERSARY - AFTER PARTY" on Sat, 24 Oct 2026.
 
 UMI is a music venue in Brussels listed on soundcheck. 9 upcoming gigs, with line-ups including Adi (CO), adobeprincess, Amelia Holt and Andy Martin and 2 more. See dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
@@ -22,4 +22,4 @@ UMI is a music venue in Brussels listed on soundcheck. 9 upcoming gigs, with lin
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

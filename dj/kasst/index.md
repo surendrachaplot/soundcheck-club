@@ -1,6 +1,6 @@
 # KAS:ST
 
-KAS:ST is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sun, 25 Oct 2026.
+KAS:ST is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sun, 25 Oct 2026.
 
 KAS:ST is a techno and house artist based in France, with 115 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Mathame, Enrico Sangiuliano and Anfisa Letyago. Next up: Amsterdam Central Station, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ KAS:ST is a techno and house artist based in France, with 115 gigs on soundcheck
 
 Mathame, Enrico Sangiuliano, Anfisa Letyago
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*

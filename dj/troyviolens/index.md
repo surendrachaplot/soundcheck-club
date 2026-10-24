@@ -1,14 +1,14 @@
 # Troy Violens
 
-Troy Violens is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Athens on Sat, 7 Nov 2026.
+Troy Violens is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Oddity Club, Athens on Sat, 7 Nov 2026.
 
-Troy Violens is a techno and trance artist based in Greece, with 22 gigs on soundcheck across Athens and Taipei. Often billed alongside Amor Satyr, Fiama and Poor J’Darr. Next up: TBA, Athens on Sat 7 Nov.
+Troy Violens is a techno and trance artist based in Greece, with 22 gigs on soundcheck across Athens and Taipei. Often billed alongside Amor Satyr, Fiama and Poor J’Darr. Next up: Oddity Club, Athens on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA | Athens |
+| Sat, 7 Nov 2026 | Oddity Club | Athens |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Troy Violens is a techno and trance artist based in Greece, with 22 gigs on soun
 
 Amor Satyr, Fiama, Poor J’Darr
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/troyviolens/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/troyviolens/)*

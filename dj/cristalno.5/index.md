@@ -1,6 +1,6 @@
 # Cristal No.5
 
-Cristal No.5 is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Apotheka, Manila on Thu, 29 Oct 2026.
+Cristal No.5 is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Apotheka, Manila on Thu, 29 Oct 2026.
 
 Cristal No.5 is a bass and club artist based in Australia, with 39 gigs on soundcheck across Adelaide, Bangkok, Manila and Melbourne and 1 more. Often billed alongside Haus of Ralph, Mon Franco and Baschoe. Next up: Apotheka, Manila on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Cristal No.5 is a bass and club artist based in Australia, with 39 gigs on sound
 
 Haus of Ralph, Mon Franco, Baschoe
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristalno.5/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristalno.5/)*

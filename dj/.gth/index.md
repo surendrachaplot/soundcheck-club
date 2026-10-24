@@ -1,6 +1,6 @@
 # .g (TH)
 
-.g (TH) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 12 x 12, Bangkok on Sat, 24 Oct 2026.
+.g (TH) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 12 x 12, Bangkok on Sat, 24 Oct 2026.
 
 .g (TH) is a house and techno artist based in Thailand, with 38 gigs on soundcheck across Bangkok. Often billed alongside DMT Disco, Gishiyama and IYY (TH). Next up: 12 x 12, Bangkok on Sat 24 Oct.
 
@@ -28,4 +28,4 @@
 
 DMT Disco, Gishiyama, IYY (TH)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.gth/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.gth/)*

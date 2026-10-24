@@ -1,6 +1,6 @@
 # Mousan Corr
 
-Mousan Corr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Culture Box, Copenhagen on Sat, 28 Nov 2026.
+Mousan Corr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Culture Box, Copenhagen on Sat, 28 Nov 2026.
 
 Mousan Corr is a house and techno artist based in Denmark, with 24 gigs on soundcheck across Copenhagen. Often billed alongside Tim Andresen, NILU and Aja Gulris. Next up: Culture Box, Copenhagen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mousan Corr is a house and techno artist based in Denmark, with 24 gigs on sound
 
 Tim Andresen, NILU, Aja Gulris
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mousancorr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mousancorr/)*

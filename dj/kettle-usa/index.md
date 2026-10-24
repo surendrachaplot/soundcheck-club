@@ -1,6 +1,6 @@
 # Kettle
 
-Kettle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
+Kettle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
 
 Kettle is a house and techno artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside Iggy Nuclear, Conduit and Rila. Next up: Honey's, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kettle is a house and techno artist based in United States of America, with 16 g
 
 Iggy Nuclear, Conduit, Rila
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kettle-usa/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kettle-usa/)*

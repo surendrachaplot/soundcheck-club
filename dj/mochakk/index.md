@@ -1,14 +1,13 @@
 # Mochakk
 
-Mochakk is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at GASHOUDER, Amsterdam on Fri, 23 Oct 2026.
+Mochakk is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Big Night Live, Boston on Thu, 29 Oct 2026.
 
-Mochakk is a house and tech house artist based in Brazil, with 178 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 50 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: GASHOUDER, Amsterdam on Fri 23 Oct.
+Mochakk is a house and tech house artist based in Brazil, with 178 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 50 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Big Night Live, Boston on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 29 Oct 2026 | Big Night Live | Boston |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sat, 31 Oct 2026 | The Gathering @ Armature Works | Tampa-bay |
@@ -18,17 +17,17 @@ Mochakk is a house and tech house artist based in Brazil, with 178 gigs on sound
 
 ## Recently played
 
+- GASHOUDER, Amsterdam · Fri, 23 Oct 2026
+- The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - [UNVRS], Ibiza · Sat, 10 Oct 2026
 - TBA - R. Capivari, S/N - Pacaembu, São Paulo - SP, 01234-010, Sao-paulo · Sat, 3 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - Gallagher Square, San Diego · Thu, 24 Sept 2026
 - Radius, Chicago · Sun, 6 Sept 2026
-- Union Park, Chicago · Fri, 4 Sept 2026
-- BERHTA, Washington DC · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

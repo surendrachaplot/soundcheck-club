@@ -1,6 +1,6 @@
 # All My Friends
 
-All My Friends is a music venue in London with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Jos All Night Long" on Sat, 24 Oct 2026.
+All My Friends is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Jos All Night Long" on Sat, 24 Oct 2026.
 
 All My Friends is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Darush, Huns N' Roses, Jos and Kyle Parsley and 2 more. See dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
@@ -19,4 +19,4 @@ All My Friends is a music venue in London listed on soundcheck. 6 upcoming gigs,
 
 Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*

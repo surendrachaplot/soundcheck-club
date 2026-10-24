@@ -1,6 +1,6 @@
 # Cenk Tripper
 
-Cenk Tripper is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Şahika, Istanbul on Fri, 30 Oct 2026.
+Cenk Tripper is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Şahika, Istanbul on Fri, 30 Oct 2026.
 
 Cenk Tripper is a techno and club artist based in Turkey, with 17 gigs on soundcheck across Belgrade, Istanbul and Tbilisi. Often billed alongside guru'w, INTENSA and Neyzen. Next up: Şahika, Istanbul on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Cenk Tripper is a techno and club artist based in Turkey, with 17 gigs on soundc
 
 guru'w, INTENSA, Neyzen
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cenktripper/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cenktripper/)*

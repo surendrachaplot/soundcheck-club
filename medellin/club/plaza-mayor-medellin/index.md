@@ -1,6 +1,6 @@
 # Plaza Mayor Medellin
 
-Plaza Mayor Medellin is a music venue in Medellin with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Jeff Mills Live at Liquid Room Mix 30 Year Anniversary Tour. Medellín, Colombia" on Sat, 14 Nov 2026.
+Plaza Mayor Medellin is a music venue in Medellin with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Jeff Mills Live at Liquid Room Mix 30 Year Anniversary Tour. Medellín, Colombia" on Sat, 14 Nov 2026.
 
 Plaza Mayor Medellin is a music venue in Medellin listed on soundcheck. 2 upcoming gigs, with line-ups including Jeff Mills, Joseph Capriati and Merino. See dates, start times and who's playing. Calle 41 # 55-80; Antioquia; Medellin; Colombia.
 
@@ -15,4 +15,4 @@ Plaza Mayor Medellin is a music venue in Medellin listed on soundcheck. 2 upcomi
 
 Calle 41 # 55-80; Antioquia; Medellin; Colombia, Medellin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/plaza-mayor-medellin/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/plaza-mayor-medellin/)*

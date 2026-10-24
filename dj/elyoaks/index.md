@@ -1,6 +1,6 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+Ely Oaks is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
 Ely Oaks is a techno and house artist based in Austria, with 53 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 33 more. Often billed alongside Space 92, BOVSKI and DAX J. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
@@ -33,4 +33,4 @@ Ely Oaks is a techno and house artist based in Austria, with 53 gigs on soundche
 
 Space 92, BOVSKI, DAX J
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

@@ -1,6 +1,6 @@
 # Newmatango
 
-Newmatango is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "godproof" on Sat, 24 Oct 2026.
+Newmatango is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "godproof" on Sat, 24 Oct 2026.
 
 Newmatango is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Newmatango is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See d
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | godproof |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/newmatango/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/newmatango/)*

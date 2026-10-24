@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "CHAMPION SOUND" on Fri, 23 Oct 2026.
+Cross Club is a music venue in Prague with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "HALLOWEEN Vol. 11" on Sat, 24 Oct 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 17 upcoming gigs, with line-ups including BBBBBBB and Magnetude. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 16 upcoming gigs, with line-ups including BBBBBBB and Magnetude. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | CHAMPION SOUND |  |
 | Sat, 24 Oct 2026 | HALLOWEEN Vol. 11 |  |
 | Sun, 25 Oct 2026 | VICTORY HARDCORE NIGHT | BBBBBBB |
 | Mon, 26 Oct 2026 | LOS TEKKENOS |  |
@@ -18,9 +17,10 @@ Cross Club is a music venue in Prague listed on soundcheck. 17 upcoming gigs, wi
 | Fri, 30 Oct 2026 | NEUROCELLS & HARD RAVE |  |
 | Fri, 30 Oct 2026 | HARD RAVE Hardtechno night |  |
 | Sat, 31 Oct 2026 | THE MICRONAUT (DE) + NOISY POTS PRAGUE |  |
+| Sun, 1 Nov 2026 | SUNDEJ SE SUNDAY |  |
 
 ## Address
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

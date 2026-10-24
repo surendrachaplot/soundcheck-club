@@ -1,6 +1,6 @@
 # MIESØ
 
-MIESØ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Royal, Amsterdam on Sat, 24 Oct 2026.
+MIESØ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Club Royal, Amsterdam on Sat, 24 Oct 2026.
 
 MIESØ is a techno and industrial artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Gaya Carmeli, BVNNII and Alex Sharp. Next up: Club Royal, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MIESØ is a techno and industrial artist based in Netherlands, with 15 gigs on s
 
 Gaya Carmeli, BVNNII, Alex Sharp
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mieso-nl/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mieso-nl/)*

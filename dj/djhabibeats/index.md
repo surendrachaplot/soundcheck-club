@@ -1,14 +1,13 @@
 # DJ Habibeats
 
-DJ Habibeats is a House and Hip-Hop artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Fortune Sound Club, Vancouver on Fri, 23 Oct 2026.
+DJ Habibeats is a House and Hip-Hop artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Common/UNDRGRND, Calgary on Sat, 24 Oct 2026.
 
-DJ Habibeats is a house and hip-hop artist based in United States of America, with 55 gigs on soundcheck across Auckland, Austin, Bali and Berlin and 24 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Fortune Sound Club, Vancouver on Fri 23 Oct.
+DJ Habibeats is a house and hip-hop artist based in United States of America, with 55 gigs on soundcheck across Auckland, Austin, Bali and Berlin and 24 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Common/UNDRGRND, Calgary on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Fortune Sound Club | Vancouver |
 | Sat, 24 Oct 2026 | Common/UNDRGRND | Calgary |
 | Fri, 30 Oct 2026 | Decca Live | Jacksonville |
 | Sat, 31 Oct 2026 | Midline | Miami |
@@ -18,6 +17,7 @@ DJ Habibeats is a house and hip-hop artist based in United States of America, wi
 
 ## Recently played
 
+- Fortune Sound Club, Vancouver · Fri, 23 Oct 2026
 - Webster Hall, New York City · Sat, 17 Oct 2026
 - Webster Hall, New York City · Sat, 17 Oct 2026
 - Big Night Live, Boston · Fri, 16 Oct 2026
@@ -25,10 +25,9 @@ DJ Habibeats is a house and hip-hop artist based in United States of America, wi
 - Burgess Park, London · Sun, 2 Aug 2026
 - Mayfair Austin, Austin · Fri, 19 Jun 2026
 - Soubois, Montreal · Thu, 21 May 2026
-- Lincoln Factory, Detroit · Fri, 8 May 2026
 
 ## Shares bills with
 
 AUGUSTE, Bianca Maieli, Ushka
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*

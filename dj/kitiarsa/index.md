@@ -1,6 +1,6 @@
 # KITI ARSA
 
-KITI ARSA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 7 Nov 2026.
+KITI ARSA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 7 Nov 2026.
 
 KITI ARSA is a house and techno artist, with 41 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside julës jay, DJ FEELTOOMUCH and Ramón [DE]. Next up: Lehmann Club, Stuttgart on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ KITI ARSA is a house and techno artist, with 41 gigs on soundcheck across Berlin
 
 julës jay, DJ FEELTOOMUCH, Ramón [DE]
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitiarsa/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitiarsa/)*

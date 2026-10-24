@@ -1,6 +1,6 @@
 # Devon Rexi
 
-Devon Rexi is a Dub and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Devon Rexi is a Dub and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
 
 Devon Rexi is a dub and experimental artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Antwerp, Bergen and Berlin and 20 more. Often billed alongside John T. Gast, DJ Marcelle and Batu. Next up: Østre, Bergen on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Devon Rexi is a dub and experimental artist based in Netherlands, with 43 gigs o
 
 John T. Gast, DJ Marcelle, Batu
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devonrexi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devonrexi/)*

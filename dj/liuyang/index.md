@@ -1,6 +1,6 @@
 # LIUYANG
 
-LIUYANG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Dirty House, Shanghai on Sat, 31 Oct 2026.
+LIUYANG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Dirty House, Shanghai on Sat, 31 Oct 2026.
 
 LIUYANG is a techno and house artist, with 58 gigs on soundcheck across Amsterdam, Beijing, Chengdu and Chongqing and 7 more. Often billed alongside Shengchou, S.M.S.H and cisco. Next up: Dirty House, Shanghai on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LIUYANG is a techno and house artist, with 58 gigs on soundcheck across Amsterda
 
 Shengchou, S.M.S.H, cisco (3)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liuyang/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liuyang/)*

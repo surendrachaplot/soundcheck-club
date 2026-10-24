@@ -1,6 +1,6 @@
 # Laura De Greef
 
-Laura De Greef is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Laura De Greef is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
 Laura De Greef is a house and techno artist based in Belgium, with 36 gigs on soundcheck across Amsterdam, Brussels, Ghent and Ibiza and 8 more. Often billed alongside Jamback, Marsolo and M-High. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Laura De Greef is a house and techno artist based in Belgium, with 36 gigs on so
 
 Jamback, Marsolo, M-High
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*

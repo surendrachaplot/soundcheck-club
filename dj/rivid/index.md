@@ -1,6 +1,6 @@
 # RiVid
 
-RiVid is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
+RiVid is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
 
 RiVid is a techno and acid artist based in Czech Republic, with 71 gigs on soundcheck across Berlin, Bratislava, Budapest and Karlsruhe and 5 more. Often billed alongside 2NDRA, SJ Yellow and Stefunno. Next up: Sacre Coeur Prague, Prague on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ RiVid is a techno and acid artist based in Czech Republic, with 71 gigs on sound
 
 2NDRA, SJ Yellow, Stefunno
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivid/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivid/)*

@@ -1,6 +1,6 @@
 # Tonno Disko
 
-Tonno Disko is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 24 Oct 2026.
+Tonno Disko is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 24 Oct 2026.
 
 Tonno Disko is a house and disco artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 15 more. Often billed alongside Leroy Rey, Kirollus and Laura Meester. Next up: Hemkade 48, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Tonno Disko is a house and disco artist based in Netherlands, with 103 gigs on s
 
 Leroy Rey, Kirollus, Laura Meester
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnodisko/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnodisko/)*

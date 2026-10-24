@@ -1,6 +1,6 @@
 # Ina Vietha
 
-Ina Vietha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 1 Nov 2026.
+Ina Vietha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 1 Nov 2026.
 
 Ina Vietha is a techno and house artist based in Norway, with 21 gigs on soundcheck across Berlin and Oslo. Often billed alongside Inga Sama, Femur and INVERNO. Next up: Crack Bellmer, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Ina Vietha is a techno and house artist based in Norway, with 21 gigs on soundch
 
 Inga Sama, Femur, INVERNO
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inavietha/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inavietha/)*

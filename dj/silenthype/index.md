@@ -1,6 +1,6 @@
 # Silent Hype
 
-Silent Hype is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bourbon On Division, Chicago on Thu, 29 Oct 2026.
+Silent Hype is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bourbon On Division, Chicago on Thu, 29 Oct 2026.
 
 Silent Hype is a drum & bass and bass artist, with 32 gigs on soundcheck across Chicago. Often billed alongside Toyacoyah, Initial G and Janesita. Next up: Bourbon On Division, Chicago on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Silent Hype is a drum & bass and bass artist, with 32 gigs on soundcheck across 
 
 Toyacoyah, Initial G, Janesita
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silenthype/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silenthype/)*

@@ -1,14 +1,13 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Salon, Amsterdam on Fri, 23 Oct 2026.
+Craig Richards is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
-Craig Richards is a house and techno artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Het Salon, Amsterdam on Fri 23 Oct.
+Craig Richards is a house and techno artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: RADION, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Het Salon | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Sat, 31 Oct 2026 | WOMB | Tokyo |
 | Mon, 2 Nov 2026 | Circus Osaka | Osaka |
@@ -19,6 +18,7 @@ Craig Richards is a house and techno artist based in United Kingdom, with 164 gi
 
 ## Recently played
 
+- Het Salon, Amsterdam · Fri, 23 Oct 2026
 - Klaproos, Amsterdam · Thu, 22 Oct 2026
 - fabric, London · Sat, 17 Oct 2026
 - Mint XL, Leeds · Fri, 25 Sept 2026
@@ -26,10 +26,9 @@ Craig Richards is a house and techno artist based in United Kingdom, with 164 gi
 - Sub Club, Glasgow · Sat, 19 Sept 2026
 - The Cause, London · Sat, 12 Sept 2026
 - Under the K Bridge, New York City · Sat, 5 Sept 2026
-- H0L0, New York City · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

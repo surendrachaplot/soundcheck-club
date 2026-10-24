@@ -1,6 +1,6 @@
 # Koperblond
 
-Koperblond is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at a Sense of Place, Amsterdam on Sun, 25 Oct 2026.
+Koperblond is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at a Sense of Place, Amsterdam on Sun, 25 Oct 2026.
 
 Koperblond is a house and techno artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside DJ Chuckie, Di After and Freddi. Next up: a Sense of Place, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Koperblond is a house and techno artist based in Netherlands, with 46 gigs on so
 
 DJ Chuckie, Di After, Freddi
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*

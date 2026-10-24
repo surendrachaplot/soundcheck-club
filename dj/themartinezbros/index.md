@@ -1,6 +1,6 @@
 # The Martinez Brothers
 
-The Martinez Brothers is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at YoYo - Palais de Tokyo, Paris on Fri, 30 Oct 2026.
+The Martinez Brothers is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at YoYo - Palais de Tokyo, Paris on Fri, 30 Oct 2026.
 
 The Martinez Brothers is a house and tech house artist based in United States of America, with 199 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: YoYo - Palais de Tokyo, Paris on Fri 30 Oct.
 
@@ -15,6 +15,7 @@ The Martinez Brothers is a house and tech house artist based in United States of
 
 ## Recently played
 
+- Sugarfactory, Amsterdam · Fri, 23 Oct 2026
 - Mediahaven - Minervahaven, Amsterdam · Thu, 22 Oct 2026
 - Studio Club Malaga, Malaga · Sun, 18 Oct 2026
 - Tenax, Florence · Sat, 17 Oct 2026
@@ -22,10 +23,9 @@ The Martinez Brothers is a house and tech house artist based in United States of
 - fabric, London · Sun, 11 Oct 2026
 - [UNVRS], Ibiza · Sat, 10 Oct 2026
 - Hï Ibiza, Ibiza · Fri, 9 Oct 2026
-- TBA, Central · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Paco Osuna, Seth Troxler, Jamie Jones
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*

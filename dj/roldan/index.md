@@ -1,6 +1,6 @@
 # Roldan
 
-Roldan is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Puerto-rico on Thu, 7 Jan 2027.
+Roldan is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Puerto-rico on Thu, 7 Jan 2027.
 
 Roldan is a minimal and house artist based in Spain, with 21 gigs on soundcheck across Barcelona, Madrid, Medellin and Puerto Rico. Often billed alongside DËKYR, freedomB and Tief. Next up: TBA, Puerto Rico on Thu 7 Jan.
 
@@ -25,4 +25,4 @@ Roldan is a minimal and house artist based in Spain, with 21 gigs on soundcheck 
 
 DËKYR, freedomB, Tief (1)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roldan/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roldan/)*

@@ -1,6 +1,6 @@
 # Dirty House
 
-Dirty House is a music venue in Shanghai with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Vomee" on Sat, 24 Oct 2026.
+Dirty House is a music venue in Shanghai with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Vomee" on Sat, 24 Oct 2026.
 
 Dirty House is a music venue in Shanghai listed on soundcheck. 3 upcoming gigs, with line-ups including LIUYANG, Mansun, NAKIN and Sol 39 and 1 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Dirty House is a music venue in Shanghai listed on soundcheck. 3 upcoming gigs, 
 | Fri, 30 Oct 2026 | Halloween Melodic Paradise | Mansun, Sol 39 |
 | Sat, 31 Oct 2026 | Halloween GUEST LIUYANG | LIUYANG, NAKIN |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/dirty-house/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/dirty-house/)*

@@ -1,6 +1,6 @@
 # TEED
 
-TEED is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Workmans Club, Dublin on Sun, 25 Oct 2026.
+TEED is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Workmans Club, Dublin on Sun, 25 Oct 2026.
 
 TEED is a house and bass artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Eats Everything, DJ Holographic and DJ Minx. Next up: The Workmans Club, Dublin on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ TEED is a house and bass artist based in United Kingdom, with 57 gigs on soundch
 
 Eats Everything, DJ Holographic, DJ Minx
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*

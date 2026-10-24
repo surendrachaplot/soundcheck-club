@@ -1,6 +1,6 @@
 # Matthew Dekay
 
-Matthew Dekay is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at What Is Happening Here Gallery, Amsterdam on Sat, 24 Oct 2026.
+Matthew Dekay is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at What Is Happening Here Gallery, Amsterdam on Sat, 24 Oct 2026.
 
 Matthew Dekay is a deep house and house artist, with 21 gigs on soundcheck across Amsterdam, Brussels, Budapest and Copenhagen and 8 more. Often billed alongside YokoO, Lee Burridge and Powel. Next up: What Is Happening Here Gallery, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Matthew Dekay is a deep house and house artist, with 21 gigs on soundcheck acros
 
 YokoO, Lee Burridge, Powel
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdekay/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdekay/)*

@@ -1,6 +1,6 @@
 # IFFYHYPE
 
-IFFYHYPE is a Hardcore and Breakcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Low Profile Studios, London on Fri, 30 Oct 2026.
+IFFYHYPE is a Hardcore and Breakcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Low Profile Studios, London on Fri, 30 Oct 2026.
 
 IFFYHYPE is a hardcore and breakcore artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Bristol, Leeds and Liverpool and 2 more. Often billed alongside goreshit, Gullyteen and Bye2. Next up: Low Profile Studios, London on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ IFFYHYPE is a hardcore and breakcore artist based in United Kingdom, with 23 gig
 
 goreshit, Gullyteen, Bye2
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iffyhype/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iffyhype/)*

@@ -1,6 +1,6 @@
 # Komga
 
-Komga is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Unmute, Hanoi on Sat, 24 Oct 2026.
+Komga is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Unmute, Hanoi on Sat, 24 Oct 2026.
 
 Komga is a techno and house artist based in Vietnam, with 60 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Lam Dao, Viet Anh and Emmytee. Next up: Unmute, Hanoi on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Komga is a techno and house artist based in Vietnam, with 60 gigs on soundcheck 
 
 Lam Dao, Viet Anh, Emmytee
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/komga/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/komga/)*

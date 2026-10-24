@@ -1,6 +1,6 @@
 # Will Freeth
 
-Will Freeth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Will Freeth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
 Will Freeth is a house and techno artist based in Australia, with 12 gigs on soundcheck across Sydney. Often billed alongside Moopie, Mozz and Bouki. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Will Freeth is a house and techno artist based in Australia, with 12 gigs on sou
 
 Moopie, Mozz, Bouki
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willfreeth/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willfreeth/)*

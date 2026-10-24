@@ -1,18 +1,18 @@
 # Ape Drums
 
-Ape Drums is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Fri, 23 Oct 2026.
+Ape Drums is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at ZeyZey, Miami on Thu, 5 Nov 2026.
 
-Ape Drums is an afro house and house artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Austin, Chicago and Houston and 11 more. Often billed alongside AWEN, Andrea Oliva and Diplo. Next up: Warehouse Elementenstraat, Amsterdam on Fri 23 Oct.
+Ape Drums is an afro house and house artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Austin, Chicago and Houston and 11 more. Often billed alongside AWEN, Andrea Oliva and Diplo. Next up: ZeyZey, Miami on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Thu, 5 Nov 2026 | ZeyZey | Miami |
 
 ## Recently played
 
+- Warehouse Elementenstraat, Amsterdam · Fri, 23 Oct 2026
 - 50:Hertz Club Train, Amsterdam · Thu, 22 Oct 2026
 - Chinois Ibiza, Ibiza · Fri, 28 Aug 2026
 - Kashmir, Chicago · Fri, 31 Jul 2026
@@ -20,10 +20,9 @@ Ape Drums is an afro house and house artist based in United States of America, w
 - Night We Met, Nashville · Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza · Mon, 29 Jun 2026
 - Hï Ibiza, Ibiza · Mon, 22 Jun 2026
-- Kastel, Istanbul · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 AWEN, Andrea Oliva, Diplo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*

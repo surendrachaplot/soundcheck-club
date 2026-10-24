@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "BCCO invites: Future.666 + FENIM0RE + BIXBITA" on Sat, 24 Oct 2026.
+Spook Club is a music venue in Valencia with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "BCCO invites: Future.666 + FENIM0RE + BIXBITA" on Sat, 24 Oct 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 14 upcoming gigs, with line-ups including Angelinanyulí, Alarico, Andres Campo and A.N.I. and 2 more. See dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 14 upcoming gigs, 
 
 Pinedo Valencia, Valencia
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

@@ -1,6 +1,6 @@
 # Lost in Paradise Rooftop
 
-Lost in Paradise Rooftop is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Reggaeton Paradise Rooftop Party" on Sat, 24 Oct 2026.
+Lost in Paradise Rooftop is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Reggaeton Paradise Rooftop Party" on Sat, 24 Oct 2026.
 
 Lost in Paradise Rooftop is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Joshua Orange and Roman Chappelle. See dates, start times and who's playing. 11-01 43rd Avenue, Long Island City, NYC.
 
@@ -17,4 +17,4 @@ Lost in Paradise Rooftop is a music venue in New York City listed on soundcheck.
 
 11-01 43rd Avenue, Long Island City, NYC, New York City
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lost-in-paradise-rooftop/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lost-in-paradise-rooftop/)*

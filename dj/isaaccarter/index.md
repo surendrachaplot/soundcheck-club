@@ -1,6 +1,6 @@
 # Isaac Carter
 
-Isaac Carter is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Isaac Carter is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Isaac Carter is a house and tech house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -31,4 +31,4 @@ Isaac Carter is a house and tech house artist based in United Kingdom, with 99 g
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

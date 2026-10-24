@@ -1,6 +1,6 @@
 # ZØRAYA
 
-ZØRAYA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bar Franca, Los Angeles on Sat, 24 Oct 2026.
+ZØRAYA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bar Franca, Los Angeles on Sat, 24 Oct 2026.
 
 ZØRAYA is a house and electronica artist based in United States of America, with 11 gigs on soundcheck across Birmingham, Brighton, London and Los Angeles and 3 more. Often billed alongside H.U.D.L, Dirtie Blonde and FridaY (DE). Next up: Bar Franca, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ZØRAYA is a house and electronica artist based in United States of America, wit
 
 H.U.D.L, Dirtie Blonde, FridaY (DE)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoraya-us/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoraya-us/)*

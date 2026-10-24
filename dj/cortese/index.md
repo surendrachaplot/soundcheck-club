@@ -1,6 +1,6 @@
 # Cortese
 
-Cortese is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Birdcage Radio, Utrecht on Sat, 24 Oct 2026.
+Cortese is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Birdcage Radio, Utrecht on Sat, 24 Oct 2026.
 
 Cortese is a garage and house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Brighton, Cardiff and London and 3 more. Often billed alongside Just Her, Bop and GraceBones. Next up: Birdcage Radio, Utrecht on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Cortese is a garage and house artist based in United Kingdom, with 15 gigs on so
 
 Just Her, Bop, GraceBones
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cortese/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cortese/)*

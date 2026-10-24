@@ -1,6 +1,6 @@
 # Narainee
 
-Narainee is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Inner North, Melbourne on Sat, 24 Oct 2026.
+Narainee is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Inner North, Melbourne on Sat, 24 Oct 2026.
 
 Narainee is a techno and trance artist based in Australia, with 15 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Andy Garvey, DELIRIOUS and Kasper Marott. Next up: TBA - Inner North, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Narainee is a techno and trance artist based in Australia, with 15 gigs on sound
 
 Andy Garvey, DELIRIOUS, Kasper Marott
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/narainee/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/narainee/)*

@@ -1,6 +1,6 @@
 # Dj Nico
 
-Dj Nico is a Club and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Location, Chicago on Fri, 30 Oct 2026.
+Dj Nico is a Club and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Location, Chicago on Fri, 30 Oct 2026.
 
 Dj Nico is a club and ghetto tech artist based in United States of America, with 63 gigs on soundcheck across Atlanta, Baltimore, Chicago and Detroit and 13 more. Often billed alongside Cquestt, Qemist and shekdash. Next up: TBA - Secret Location, Chicago on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Dj Nico is a club and ghetto tech artist based in United States of America, with
 
 Cquestt, Qemist, shekdash
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*

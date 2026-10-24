@@ -1,6 +1,6 @@
 # Leo Force
 
-Leo Force is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
+Leo Force is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Espacio Riesco Expo Centre, Santiago on Sat, 21 Nov 2026.
 
 Leo Force is a techno and electronica artist, with 17 gigs on soundcheck across Amsterdam, Bogotá, Buenos Aires and Medellin and 1 more. Often billed alongside Alignment, 6EJOU and AlexUnder (AR). Next up: Espacio Riesco Expo Centre, Santiago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Leo Force is a techno and electronica artist, with 17 gigs on soundcheck across 
 
 Alignment, 6EJOU, AlexUnder (AR)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leoforce/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leoforce/)*

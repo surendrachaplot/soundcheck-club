@@ -1,6 +1,6 @@
 # Marie Pravda
 
-Marie Pravda is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
+Marie Pravda is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
 
 Marie Pravda is a techno and house artist based in Czech Republic, with 134 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 21 more. Often billed alongside fleika, Kobayashi Maru and Dean High. Next up: Ankali & Planeta Za, Prague on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Marie Pravda is a techno and house artist based in Czech Republic, with 134 gigs
 
 fleika, Kobayashi Maru, Dean High
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariepravda/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariepravda/)*

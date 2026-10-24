@@ -1,6 +1,6 @@
 # Bjr Alex
 
-Bjr Alex is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 31 Oct 2026.
+Bjr Alex is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 31 Oct 2026.
 
 Bjr Alex is a club and techno artist based in France, with 19 gigs on soundcheck across Paris and Strasbourg. Often billed alongside Itaho, Vod Kasat and 1client. Next up: Karmen Camina, Strasbourg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bjr Alex is a club and techno artist based in France, with 19 gigs on soundcheck
 
 Itaho, Vod Kasat, 1client
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjralex/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjralex/)*

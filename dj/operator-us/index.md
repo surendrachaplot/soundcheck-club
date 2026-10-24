@@ -1,6 +1,6 @@
 # operator
 
-operator is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bad Decisions, Melbourne on Fri, 6 Nov 2026.
+operator is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bad Decisions, Melbourne on Fri, 6 Nov 2026.
 
 operator is a techno and acid artist based in United States of America, with 12 gigs on soundcheck across Chicago and Melbourne. Often billed alongside Josh Tong, Eulalia and Shanti. Next up: Bad Decisions, Melbourne on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ operator is a techno and acid artist based in United States of America, with 12 
 
 Josh Tong, Eulalia, Shanti
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/operator-us/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/operator-us/)*

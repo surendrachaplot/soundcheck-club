@@ -1,6 +1,6 @@
 # CINCOCEROSEIS
 
-CINCOCEROSEIS is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Malasaña, Madrid on Thu, 29 Oct 2026.
+CINCOCEROSEIS is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Club Malasaña, Madrid on Thu, 29 Oct 2026.
 
 CINCOCEROSEIS is an electronica and house artist based in Argentina, with 13 gigs on soundcheck across Madrid. Often billed alongside Jorge Padilla, Leandro Bordoni and lea. Next up: Club Malasaña, Madrid on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ CINCOCEROSEIS is an electronica and house artist based in Argentina, with 13 gig
 
 Jorge Padilla, Leandro Bordoni, lea (2)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cincoceroseis/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cincoceroseis/)*

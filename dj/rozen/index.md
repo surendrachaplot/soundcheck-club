@@ -1,6 +1,6 @@
 # Rozen
 
-Rozen is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Back Room, Bali on Sat, 24 Oct 2026.
+Rozen is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Back Room, Bali on Sat, 24 Oct 2026.
 
 Rozen is a minimal and house artist based in Russia, with 19 gigs on soundcheck across Bali, Seoul, Sydney and Tokyo. Often billed alongside Latex, Denis Kaznacheev and Adam Dado. Next up: The Back Room, Bali on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rozen is a minimal and house artist based in Russia, with 19 gigs on soundcheck 
 
 Latex (1), Denis Kaznacheev, Adam Dado
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozen/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozen/)*

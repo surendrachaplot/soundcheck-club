@@ -1,14 +1,13 @@
 # Nosedrip
 
-Nosedrip is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
+Nosedrip is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at San Francisco, Amsterdam on Sun, 25 Oct 2026.
 
-Nosedrip is a techno and house artist based in Belgium, with 141 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 41 more. Often billed alongside OKO DJ, Amelia Holt and Vlada. Next up: Pllek, Amsterdam on Fri 23 Oct.
+Nosedrip is a techno and house artist based in Belgium, with 141 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 41 more. Often billed alongside OKO DJ, Amelia Holt and Vlada. Next up: San Francisco, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | San Francisco | Amsterdam |
 | Thu, 29 Oct 2026 | Bongo Joe | Geneva |
 | Sat, 7 Nov 2026 | The White Hotel | Manchester |
@@ -20,6 +19,7 @@ Nosedrip is a techno and house artist based in Belgium, with 141 gigs on soundch
 
 ## Recently played
 
+- Pllek, Amsterdam · Fri, 23 Oct 2026
 - Spazio Maiocchi, Milan · Thu, 22 Oct 2026
 - The Love Inn, Bristol · Sat, 10 Oct 2026
 - TILLATEC, Amsterdam · Sat, 19 Sept 2026
@@ -27,10 +27,9 @@ Nosedrip is a techno and house artist based in Belgium, with 141 gigs on soundch
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Ruiterijcomplex, Brussels · Sat, 22 Aug 2026
 - Parc Nou. El Prat de Llobregat, Barcelona · Fri, 17 Jul 2026
-- Tones Teatro Natura, Milan · Thu, 16 Jul 2026
 
 ## Shares bills with
 
 OKO DJ, Amelia Holt, Vlada
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*

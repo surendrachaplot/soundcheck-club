@@ -1,6 +1,6 @@
 # Nilo
 
-Nilo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Basis Vinschgau Venosta, North on Sat, 31 Oct 2026.
+Nilo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Basis Vinschgau Venosta, North on Sat, 31 Oct 2026.
 
 Nilo is a techno and house artist based in Italy, with 13 gigs on soundcheck across Naples and North. Often billed alongside Amiran, Jesooria and Kobold. Next up: Basis Vinschgau Venosta, North on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nilo is a techno and house artist based in Italy, with 13 gigs on soundcheck acr
 
 Amiran, Jesooria, Kobold
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilo/)*

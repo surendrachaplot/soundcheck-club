@@ -1,6 +1,6 @@
 # hawi
 
-hawi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TAM, Berlin on Sat, 24 Oct 2026.
+hawi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TAM, Berlin on Sat, 24 Oct 2026.
 
 hawi is a house and techno artist based in Germany, with 21 gigs on soundcheck across Berlin and Ho Chi Minh City. Often billed alongside Thalo Santana, Thabo and Blame Anthony. Next up: TAM, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ hawi is a house and techno artist based in Germany, with 21 gigs on soundcheck a
 
 Thalo Santana, Thabo, Blame Anthony
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hawi-de/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hawi-de/)*

@@ -1,6 +1,6 @@
 # Brussi
 
-Brussi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 30 Oct 2026.
+Brussi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 30 Oct 2026.
 
 Brussi is a house and tech house artist, with 22 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Elvira, Stroppy Pie and Anna Borsuk. Next up: MONKEY LOVE, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Brussi is a house and tech house artist, with 22 gigs on soundcheck across Krako
 
 Elvira, Stroppy Pie, Anna Borsuk
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brussi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brussi/)*

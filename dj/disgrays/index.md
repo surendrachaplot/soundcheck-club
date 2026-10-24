@@ -1,6 +1,6 @@
 # Disgrays
 
-Disgrays is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Miscellania, Melbourne on Sun, 1 Nov 2026.
+Disgrays is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Miscellania, Melbourne on Sun, 1 Nov 2026.
 
 Disgrays is a techno and trance artist based in Australia, with 12 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Faeryn, Greer and Hasvat Informant. Next up: Miscellania, Melbourne on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Disgrays is a techno and trance artist based in Australia, with 12 gigs on sound
 
 Faeryn, Greer, Hasvat Informant
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disgrays/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disgrays/)*

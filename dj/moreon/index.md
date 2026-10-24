@@ -1,6 +1,6 @@
 # Moreon
 
-Moreon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Macarena Club, Barcelona on Sat, 24 Oct 2026.
+Moreon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Macarena Club, Barcelona on Sat, 24 Oct 2026.
 
 Moreon is a house and tech house artist based in Venezuela, with 41 gigs on soundcheck across Austin, Barcelona, Boston and Chicago and 6 more. Often billed alongside LM, DECA (VE) and Baffa. Next up: Macarena Club, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Moreon is a house and tech house artist based in Venezuela, with 41 gigs on soun
 
 LM, DECA (VE), Baffa
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreon/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreon/)*

@@ -1,13 +1,14 @@
 # Julia Weck
 
-Julia Weck is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Julia Weck is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Sat, 24 Oct 2026.
 
-Julia Weck is a disco and house artist, with 15 gigs on soundcheck across Berlin, Brazil, Lisbon and Paris and 2 more. Often billed alongside Giu Viscardi, Vermelho and Benjamin Ferreira. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
+Julia Weck is a house and disco artist, with 16 gigs on soundcheck across Berlin, Brazil, Lisbon and Paris and 2 more. Often billed alongside Giu Viscardi, Vermelho and Benjamin Ferreira. Next up: Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Mauacba Skate Coffee & Skate Shop | Rio de Janeiro |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 
 ## Recently played
@@ -25,4 +26,4 @@ Julia Weck is a disco and house artist, with 15 gigs on soundcheck across Berlin
 
 Giu Viscardi, Vermelho, Benjamin Ferreira
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliaweck/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliaweck/)*

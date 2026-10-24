@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Pacific Ondergronds & KRUISPUNT presents APE (Amsterdam Punk Event)" on Fri, 23 Oct 2026.
+Garage Noord is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "GN does a party with Nyege Nyege & Trackwork" on Sat, 24 Oct 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including 2tongues, 42nd Avenue, Akua and Andy (NL) and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including 2tongues, 42nd Avenue, Akua and Andy (NL) and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Pacific Ondergronds & KRUISPUNT presents APE (Amsterdam Punk Event) | OUST |
 | Sat, 24 Oct 2026 | GN does a party with Nyege Nyege & Trackwork | TiZi (NL), UTILITY, Vv Pete, lis (5) |
 | Sun, 25 Oct 2026 | Breakfast Club ADE: The Final Stretch | 42nd Avenue, Akua, Andy (NL), Angel D'lite, Bennet (DE), Caim, Children of Valis, Crinkhoff, DJ Rino, ESTRELLA, Eversines, Gene On Earth, Iggy P, Lo Ds, Lola Haro, Marie K (1), Matthew Neequaye, Mattie, Moxie, Nathan Homan, Nicolas Lutz, Noizar, RDS, Tsepo, livwutang, tINI |
 | Thu, 29 Oct 2026 | HALLOWEEN GOTH NIGHT BY SPACEBUNKER |  |
@@ -18,9 +17,10 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 17 upcoming gig
 | Fri, 6 Nov 2026 | Loukeman w/ SANDOR DJ, Torus, Macrosoft bar40 hosted by klub krai  | Loukeman, Torus |
 | Sat, 7 Nov 2026 | Mirror Zone | Sean H, Spekki Webu, Stenny, Synthbiont & Anassimandrus |
 | Sun, 8 Nov 2026 | Tempo Marauders 2 year anniversary | Bongoat, YoungWoman, baby ganoush, prekeris |
+| Fri, 13 Nov 2026 | DJ Narciso, Honeydrip (live), Slimfit | DJ Narciso, Honeydrip, Slimfit |
 
 ## Address
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

@@ -1,6 +1,6 @@
 # PlayPlay
 
-PlayPlay is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Animal, New York City on Sat, 24 Oct 2026.
+PlayPlay is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Animal, New York City on Sat, 24 Oct 2026.
 
 PlayPlay is a house and breakbeat artist based in United States of America, with 42 gigs on soundcheck across New York City and Philadelphia. Often billed alongside MF BUTCH, JIALING and Janus Rose. Next up: Animal, New York City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ PlayPlay is a house and breakbeat artist based in United States of America, with
 
 MF BUTCH, JIALING, Janus Rose
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/playplay/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/playplay/)*

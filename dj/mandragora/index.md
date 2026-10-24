@@ -1,6 +1,6 @@
 # Mandragora
 
-Mandragora is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Edge Miami, Miami on Sat, 24 Oct 2026.
+Mandragora is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Edge Miami, Miami on Sat, 24 Oct 2026.
 
 Mandragora is a techno and psytrance artist based in Brazil, with 49 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 20 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Edge Miami, Miami on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Mandragora is a techno and psytrance artist based in Brazil, with 49 gigs on sou
 
 Vladimir Cauchemar, Angerfist, DYEN
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*

@@ -1,6 +1,6 @@
 # Pardis
 
-Pardis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at fi, Cologne on Sat, 12 Dec 2026.
+Pardis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at fi, Cologne on Sat, 12 Dec 2026.
 
 Pardis is a techno and house artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 1 more. Often billed alongside AMSL, Eszter and AGNY. Next up: fi, Cologne on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Pardis is a techno and house artist based in Germany, with 26 gigs on soundcheck
 
 AMSL, Eszter, AGNY
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pardis/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pardis/)*

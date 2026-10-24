@@ -1,6 +1,6 @@
 # corto.alto at Le Poisson Rouge
 
-corto.alto at Le Poisson Rouge on Fri 22 Jan, New York City. 1 artist: corto.alto. See the line-up on soundcheck.
+corto.alto at Le Poisson Rouge on Fri 22 Jan, New York City. 1 artist: corto.alto. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

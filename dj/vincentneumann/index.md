@@ -1,6 +1,6 @@
 # Vincent Neumann
 
-Vincent Neumann is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
+Vincent Neumann is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
 
 Vincent Neumann is a techno and house artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Cologne and 15 more. Often billed alongside Amotik, Virginia and Efdemin. Next up: glimmer, Hamburg on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Vincent Neumann is a techno and house artist based in Germany, with 77 gigs on s
 
 Amotik, Virginia, Efdemin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentneumann/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentneumann/)*

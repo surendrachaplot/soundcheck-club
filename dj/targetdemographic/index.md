@@ -1,14 +1,13 @@
 # Target Demographic
 
-Target Demographic is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Le Bateau Phare, Paris on Fri, 23 Oct 2026.
+Target Demographic is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bridge 48, Barcelona on Sat, 24 Oct 2026.
 
-Target Demographic is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Shaolin Cowboy, Pijus and DJ WINDOWS 7. Next up: Le Bateau Phare, Paris on Fri 23 Oct.
+Target Demographic is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Shaolin Cowboy, Pijus and DJ WINDOWS 7. Next up: Bridge 48, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Le Bateau Phare | Paris |
 | Sat, 24 Oct 2026 | Bridge 48 | Barcelona |
 | Fri, 30 Oct 2026 | Bi Nuu | Berlin |
 | Sat, 31 Oct 2026 | OCZKI | Warsaw |
@@ -22,6 +21,7 @@ Target Demographic is a house and techno artist based in United States of Americ
 
 ## Recently played
 
+- Le Bateau Phare, Paris · Fri, 23 Oct 2026
 - Waterhouse Studios, Amsterdam · Thu, 22 Oct 2026
 - Illegaal, Brussels · Fri, 16 Oct 2026
 - TBA - Junkyard Club, Tbilisi · Tue, 13 Oct 2026
@@ -29,10 +29,9 @@ Target Demographic is a house and techno artist based in United States of Americ
 - Forge, Bucharest · Fri, 9 Oct 2026
 - Forge, Bucharest · Fri, 9 Oct 2026
 - Forge, Bucharest · Fri, 9 Oct 2026
-- The Loft, Vienna · Sun, 8 Jun 2025
 
 ## Shares bills with
 
 Shaolin Cowboy, Pijus, DJ WINDOWS 7
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*

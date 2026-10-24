@@ -1,6 +1,6 @@
 # Florelle
 
-Florelle is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
+Florelle is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
 
 Florelle is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Berlin and Paris. Often billed alongside DJ Henk, subga and jeanska. Next up: ÆDEN, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Florelle is a trance and techno artist based in Germany, with 26 gigs on soundch
 
 DJ Henk, subga, jeanska
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florelle/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florelle/)*

@@ -1,6 +1,6 @@
 # Julian Feierabend
 
-Julian Feierabend is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Gewölbe, Cologne on Fri, 4 Dec 2026.
+Julian Feierabend is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Gewölbe, Cologne on Fri, 4 Dec 2026.
 
 Julian Feierabend is a house and club artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 3 more. Often billed alongside Ramî, Paul Kine and Thalo Santana. Next up: Gewölbe, Cologne on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Julian Feierabend is a house and club artist based in Germany, with 44 gigs on s
 
 Ramî, Paul Kine, Thalo Santana
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j-feierabend/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j-feierabend/)*

@@ -1,6 +1,6 @@
 # Sakai
 
-Sakai is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Koara, Tokyo on Thu, 26 Nov 2026.
+Sakai is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Koara, Tokyo on Thu, 26 Nov 2026.
 
 Sakai is a minimal and house artist based in Japan, with 29 gigs on soundcheck across Osaka and Tokyo. Often billed alongside monielu.h, Mikio Kaminakamura and AOKI takamasa. Next up: Koara, Tokyo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Sakai is a minimal and house artist based in Japan, with 29 gigs on soundcheck a
 
 monielu.h, Mikio Kaminakamura, AOKI takamasa
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakai/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakai/)*

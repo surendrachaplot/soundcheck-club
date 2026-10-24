@@ -1,6 +1,6 @@
 # A.M. Project
 
-A.M. Project is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+A.M. Project is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 A.M. Project is a house and electronica artist based in Spain, with 72 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Ibiza and 9 more. Often billed alongside Samuel Deep, AZAAD and DJ Senc. Next up: Levenslang Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -12,6 +12,7 @@ A.M. Project is a house and electronica artist based in Spain, with 72 gigs on s
 
 ## Recently played
 
+- Meet Berlage, Amsterdam · Fri, 23 Oct 2026
 - Fvtvr, Paris · Sat, 12 Sept 2026
 - Lofi, Amsterdam · Sat, 29 Aug 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona · Sun, 16 Aug 2026
@@ -19,10 +20,9 @@ A.M. Project is a house and electronica artist based in Spain, with 72 gigs on s
 - Distrikt, Leeds · Sun, 3 May 2026
 - TBA - San Antonio, Sa Punta des Molí, Ibiza · Sat, 2 May 2026
 - Les Enfants Brillants, Barcelona · Fri, 1 May 2026
-- Eden, Ibiza · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Samuel Deep, AZAAD, DJ Senc
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amproject/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amproject/)*

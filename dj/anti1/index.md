@@ -1,6 +1,6 @@
 # ANTI (1)
 
-ANTI (1) is a Techno and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+ANTI (1) is a Techno and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 ANTI is a techno and uk funky artist based in Russia, with 11 gigs on soundcheck across Bogotá, Detroit, Poznan and Tbilisi. Often billed alongside Bedriñana, Bluekim and Camille Spectrae. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ANTI is a techno and uk funky artist based in Russia, with 11 gigs on soundcheck
 
 Bedriñana, Bluekim, Camille Spectrae
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anti1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anti1/)*

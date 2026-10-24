@@ -1,6 +1,6 @@
 # bullet tooth
 
-bullet tooth is a House and Garage artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+bullet tooth is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 bullet tooth is a house and garage artist based in United Kingdom, with 138 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 38 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -9,7 +9,6 @@ bullet tooth is a house and garage artist based in United Kingdom, with 138 gigs
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
-| Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 30 Oct 2026 | Depot | Cardiff |
 | Sat, 31 Oct 2026 | NX Newcastle | Newcastle |
@@ -23,6 +22,7 @@ bullet tooth is a house and garage artist based in United Kingdom, with 138 gigs
 
 ## Recently played
 
+- Ijland, Amsterdam · Fri, 23 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - Shelter Amsterdam, Amsterdam · Wed, 21 Oct 2026
 - The Dome, Liverpool · Sat, 17 Oct 2026
@@ -30,10 +30,9 @@ bullet tooth is a house and garage artist based in United Kingdom, with 138 gigs
 - fabric, London · Fri, 9 Oct 2026
 - TRAUM, Antwerp · Fri, 2 Oct 2026
 - Hangaren, Copenhagen · Sat, 26 Sept 2026
-- Document, Bristol · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

@@ -1,6 +1,6 @@
 # Club Bellevue
 
-Club Bellevue is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DAYTIMER: NEXT REUNION" on Sat, 7 Nov 2026.
+Club Bellevue is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DAYTIMER: NEXT REUNION" on Sat, 7 Nov 2026.
 
 Club Bellevue is a music venue in Zurich listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Rämistrasse 6; 8001, Zürich; Switzerland.
 
@@ -16,4 +16,4 @@ Club Bellevue is a music venue in Zurich listed on soundcheck. 3 upcoming gigs. 
 
 Rämistrasse 6; 8001, Zürich; Switzerland, Zurich
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*

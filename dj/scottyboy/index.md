@@ -1,6 +1,6 @@
 # Scotty Boy
 
-Scotty Boy is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bungalow Huntington Beach, Orange County on Sun, 25 Oct 2026.
+Scotty Boy is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Bungalow Huntington Beach, Orange County on Sun, 25 Oct 2026.
 
 Scotty Boy is a house and deep house artist based in United States of America, with 68 gigs on soundcheck across Atlanta, Los Angeles, Miami and Orange County and 1 more. Often billed alongside Jay-J, JJ Flores and Gene Farris. Next up: The Bungalow Huntington Beach, Orange County on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Scotty Boy is a house and deep house artist based in United States of America, w
 
 Jay-J, JJ Flores, Gene Farris
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottyboy/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottyboy/)*

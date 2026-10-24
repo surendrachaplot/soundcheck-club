@@ -1,6 +1,6 @@
 # Dowden
 
-Dowden is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
+Dowden is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
 
 Dowden is a progressive house and techno artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside Marco (UK), Not Demure and Lavie Au Soleil. Next up: Kadinsky Cafe, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Dowden is a progressive house and techno artist based in Germany, with 26 gigs o
 
 Marco (UK), Not Demure, Lavie Au Soleil
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dowden/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dowden/)*

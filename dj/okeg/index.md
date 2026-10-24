@@ -1,6 +1,6 @@
 # OK EG
 
-OK EG is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Loods6, Amsterdam on Thu, 22 Oct 2026.
+OK EG is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Loods6, Amsterdam on Thu, 22 Oct 2026.
 
 OK EG is a techno and experimental artist based in Australia, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 22 more. Often billed alongside Kia (AU), Bambi (FR) and Notte Infinita. Next up: Loods6, Amsterdam on Thu 22 Oct.
 
@@ -14,6 +14,7 @@ OK EG is a techno and experimental artist based in Australia, with 61 gigs on so
 
 ## Recently played
 
+- Loods6, Amsterdam · Fri, 23 Oct 2026
 - Loods6, Amsterdam · Thu, 22 Oct 2026
 - FOLD, London · Sat, 17 Oct 2026
 - TBA, Montreal · Sat, 10 Oct 2026
@@ -21,10 +22,9 @@ OK EG is a techno and experimental artist based in Australia, with 61 gigs on so
 - TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
 - TBA - Downtown, Los Angeles · Sat, 19 Sept 2026
 - public records, New York City · Fri, 18 Sept 2026
-- TBA, New York City · Wed, 16 Sept 2026
 
 ## Shares bills with
 
 Kia (AU), Bambi (FR), Notte Infinita
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*

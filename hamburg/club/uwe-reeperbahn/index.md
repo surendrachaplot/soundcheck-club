@@ -1,13 +1,13 @@
 # UWE Reeperbahn
 
-UWE Reeperbahn is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "CATAQOMB NEVER DIES" on Fri, 23 Oct 2026.
+UWE Reeperbahn is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "House Heaven Vol. XII" on Sat, 7 Nov 2026.
 
-UWE Reeperbahn is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including MANTIS, SOLID and UMKA BEGOVIC. See dates, start times and who's playing.
+UWE Reeperbahn is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including HOUSEHERR. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | CATAQOMB NEVER DIES | MANTIS (4), SOLID (3), UMKA BEGOVIC |
+| Sat, 7 Nov 2026 | House Heaven Vol. XII | HOUSEHERR |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uwe-reeperbahn/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uwe-reeperbahn/)*

@@ -1,6 +1,6 @@
 # The High Dive
 
-The High Dive is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Fangs On Film" on Sat, 24 Oct 2026.
+The High Dive is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Fangs On Film" on Sat, 24 Oct 2026.
 
 The High Dive is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, with line-ups including Auntie Chanel, Obi-Wan Shinobi and Pablo R. Ruiz. See dates, start times and who's playing. 11474 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
@@ -16,4 +16,4 @@ The High Dive is a music venue in Detroit listed on soundcheck. 3 upcoming gigs,
 
 11474 Joseph Campau Ave, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-high-dive/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-high-dive/)*

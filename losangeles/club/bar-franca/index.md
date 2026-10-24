@@ -1,6 +1,6 @@
 # Bar Franca
 
-Bar Franca is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Club Cheri Halloween Special" on Sat, 24 Oct 2026.
+Bar Franca is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Club Cheri Halloween Special" on Sat, 24 Oct 2026.
 
 Bar Franca is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Beggar, Dekmantel Soundsystem, Demi Riquisimo and Dirtie Blonde and 2 more. See dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
@@ -18,4 +18,4 @@ Bar Franca is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs
 
 438 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*

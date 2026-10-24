@@ -1,6 +1,6 @@
 # Nausicaä
 
-Nausicaä is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Burger Disco Club, Athens on Sun, 25 Oct 2026.
+Nausicaä is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Burger Disco Club, Athens on Sun, 25 Oct 2026.
 
 Nausicaä is a house and techno artist based in Greece, with 58 gigs on soundcheck across Athens, Barcelona, Berlin and Greece and 2 more. Often billed alongside Liou, DjGus and 22. Next up: Burger Disco Club, Athens on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Nausicaä is a house and techno artist based in Greece, with 58 gigs on soundche
 
 Liou, DjGus, 22 (1)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nausicaa/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nausicaa/)*

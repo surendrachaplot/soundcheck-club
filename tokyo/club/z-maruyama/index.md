@@ -1,6 +1,6 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ASPIRE (TECHNO / TECH HOUSE)" on Sat, 24 Oct 2026.
+Z Maruyama is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ASPIRE (TECHNO / TECH HOUSE)" on Sat, 24 Oct 2026.
 
 Z Maruyama is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including Amps, ASSIGN, B and Chika Luna and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
@@ -23,4 +23,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, wit
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

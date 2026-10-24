@@ -1,14 +1,13 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "M7 presenta [Up Room] Kollision, Saylø, Nxc [Main Room] Doctor Mücke, Adviro & Marc Fx" on Fri, 23 Oct 2026.
+M7 Club is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "M7 presenta: Khabiar, H-R-Z, Laura SN, Burguets, Marc Fx & Hüeso" on Sat, 24 Oct 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including Adviro, AISHA, ArceX and BreakStyle and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Adviro, AISHA, ArceX and BreakStyle and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | M7 presenta [Up Room] Kollision, Saylø, Nxc [Main Room] Doctor Mücke, Adviro & Marc Fx | Adviro, DOCTOR MÜCKE, Kollision |
 | Sat, 24 Oct 2026 | M7 presenta: Khabiar, H-R-Z, Laura SN, Burguets, Marc Fx & Hüeso | H-R-Z |
 | Sun, 25 Oct 2026 | HARD BOUNCE [Adviro, Yerai] | Adviro |
 | Thu, 29 Oct 2026 | HARD BOUNCE [Adviro & Marc Fx] | Adviro |
@@ -18,9 +17,10 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, wi
 | Sun, 1 Nov 2026 | 2PA [Gaston Zani b2b Bryan Zani] SuttleK & Pepax | Gaston Zani, SuttleK |
 | Thu, 5 Nov 2026 | HARD BOUNCE [Blessed & Adviro] | Adviro |
 | Fri, 6 Nov 2026 | M7 presenta [Up Room] Rian Wood, Apokä & Furious Cris | Rian Wood |
+| Sat, 7 Nov 2026 | M7 presenta [Up Room] AISHA, SuttleK & Mr. Danger | AISHA, SuttleK |
 
 ## Address
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

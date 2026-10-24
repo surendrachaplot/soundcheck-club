@@ -1,6 +1,6 @@
 # Jono Ma
 
-Jono Ma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Haven, Byron Bay on Sat, 24 Oct 2026.
+Jono Ma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Haven, Byron Bay on Sat, 24 Oct 2026.
 
 Jono Ma is a house and techno artist based in Australia, with 17 gigs on soundcheck across Byron Bay, London, Melbourne and Sydney. Often billed alongside Bradley Zero, Dreems and Floating Points. Next up: Haven, Byron Bay on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Jono Ma is a house and techno artist based in Australia, with 17 gigs on soundch
 
 Bradley Zero, Dreems, Floating Points
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonoma/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonoma/)*

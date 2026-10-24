@@ -1,6 +1,6 @@
 # Nadezh No
 
-Nadezh No is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 24 Oct 2026.
+Nadezh No is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 24 Oct 2026.
 
 Nadezh No is a techno and electro artist, with 140 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside Badalian, Meke and nuarrrrr. Next up: Sekta Selekta, Krakow on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Nadezh No is a techno and electro artist, with 140 gigs on soundcheck across Ber
 
 Badalian, Meke, nuarrrrr
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadezhno/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadezhno/)*

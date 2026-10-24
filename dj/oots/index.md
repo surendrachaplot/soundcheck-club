@@ -1,6 +1,6 @@
 # Oots
 
-Oots is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 24 Oct 2026.
+Oots is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 24 Oct 2026.
 
 Oots is a techno and house artist based in Australia, with 21 gigs on soundcheck across Canberra, Hobart, Melbourne and Perth and 1 more. Often billed alongside 6 SENSE, ABSOLUTE. and Bella Claxton. Next up: Sub Club Melbourne, Melbourne on Sat 24 Oct.
 
@@ -13,6 +13,7 @@ Oots is a techno and house artist based in Australia, with 21 gigs on soundcheck
 
 ## Recently played
 
+- One22, Canberra · Fri, 23 Oct 2026
 - Carriageworks, Sydney · Sat, 10 Oct 2026
 - Carousel Bar & Ballroom, Sydney · Fri, 30 Jan 2026
 - Graham St, Port Melbourne, Melbourne · Sat, 24 Jan 2026
@@ -20,10 +21,9 @@ Oots is a techno and house artist based in Australia, with 21 gigs on soundcheck
 - Glamorama, Melbourne · Fri, 12 Sept 2025
 - The Grand Poobah, Hobart · Sat, 12 Jul 2025
 - Xe54, Melbourne · Sat, 10 May 2025
-- The Ivy, Sydney · Sun, 3 Nov 2024
 
 ## Shares bills with
 
 6 SENSE, ABSOLUTE., Bella Claxton
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oots/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oots/)*

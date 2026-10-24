@@ -1,6 +1,6 @@
 # Top Floor
 
-Top Floor is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DBT Halloween Special" on Sat, 31 Oct 2026.
+Top Floor is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DBT Halloween Special" on Sat, 31 Oct 2026.
 
 Top Floor is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs, with line-ups including arnie, DJ Bz, Doogi and Oli Warriner and 1 more. See dates, start times and who's playing. 13 Bigg Market NE1 1SU.
 
@@ -17,4 +17,4 @@ Top Floor is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs, w
 
 13 Bigg Market NE1 1SU, Newcastle
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/top-floor/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/top-floor/)*

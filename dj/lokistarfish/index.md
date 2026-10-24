@@ -1,6 +1,6 @@
 # Loki Starfish
 
-Loki Starfish is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Le Klub, Paris on Sat, 14 Nov 2026.
+Loki Starfish is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Le Klub, Paris on Sat, 14 Nov 2026.
 
 Loki Starfish is an electro and pop artist based in France, with 53 gigs on soundcheck across Marseille and Paris. Often billed alongside Fenouil2000, Lucifer and Sonia. Next up: Le Klub, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Loki Starfish is an electro and pop artist based in France, with 53 gigs on soun
 
 Fenouil2000, Lucifer, Sonia
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lokistarfish/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lokistarfish/)*

@@ -1,6 +1,6 @@
 # Soulnd
 
-Soulnd is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Taba Record Store, Sofia on Sat, 24 Oct 2026.
+Soulnd is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Taba Record Store, Sofia on Sat, 24 Oct 2026.
 
 Soulnd is a drum & bass and dubstep artist, with 42 gigs on soundcheck across London and Sofia. Often billed alongside Amy  B, Ivy Lab and J-Lost. Next up: Taba Record Store, Sofia on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Soulnd is a drum & bass and dubstep artist, with 42 gigs on soundcheck across Lo
 
 Amy  B, Ivy Lab, J-Lost
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulnd/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulnd/)*

@@ -1,6 +1,6 @@
 # Club Magno
 
-Club Magno is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "PLAYGIRL VOL. 21 AT BABYLON CLUB" on Sat, 24 Oct 2026.
+Club Magno is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "PLAYGIRL VOL. 21 AT BABYLON CLUB" on Sat, 24 Oct 2026.
 
 Club Magno is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including DJ Co.kr, Albal, Diego Armando and DJ Seinfeld and 2 more. See dates, start times and who's playing. c. de cedaceros 7, Madrid.
 
@@ -22,4 +22,4 @@ Club Magno is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, wit
 
 c. de cedaceros 7, Madrid, Madrid
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*

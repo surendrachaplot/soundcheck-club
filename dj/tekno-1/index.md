@@ -1,6 +1,6 @@
 # Tekno (1)
 
-Tekno (1) is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Terminus, Paris on Sat, 21 Nov 2026.
+Tekno (1) is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Terminus, Paris on Sat, 21 Nov 2026.
 
 Tekno is a hardcore and acid artist, with 10 gigs on soundcheck across Barcelona, Montreal, Paris and Seoul and 2 more. Often billed alongside Mental, Bassline and Brokn Sound_Machine. Next up: Terminus, Paris on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Tekno is a hardcore and acid artist, with 10 gigs on soundcheck across Barcelona
 
 Mental, Bassline, Brokn Sound_Machine
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekno-1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekno-1/)*

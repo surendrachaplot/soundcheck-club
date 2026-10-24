@@ -1,6 +1,6 @@
 # DJ https
 
-DJ https is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at elipamanoke, Leipzig on Sat, 19 Dec 2026.
+DJ https is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at elipamanoke, Leipzig on Sat, 19 Dec 2026.
 
 DJ https is a techno and trance artist based in Germany, with 71 gigs on soundcheck across Antwerp, Berlin, Cologne and Frankfurt and 13 more. Often billed alongside sarah4K, RaverPik and SHOKI287. Next up: elipamanoke, Leipzig on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ DJ https is a techno and trance artist based in Germany, with 71 gigs on soundch
 
 sarah4K, RaverPik, SHOKI287
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhttps/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhttps/)*

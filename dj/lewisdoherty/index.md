@@ -1,6 +1,6 @@
 # Lewis Doherty
 
-Lewis Doherty is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at La Cheetah Club, Glasgow on Fri, 20 Nov 2026.
+Lewis Doherty is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at La Cheetah Club, Glasgow on Fri, 20 Nov 2026.
 
 Lewis Doherty is a house and techno artist based in United Kingdom, with 37 gigs on soundcheck across Edinburgh, Glasgow and Paris. Often billed alongside BETH, EMJANERO and GROOVE.fm. Next up: La Cheetah Club, Glasgow on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lewis Doherty is a house and techno artist based in United Kingdom, with 37 gigs
 
 BETH, EMJANERO, GROOVE.fm
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisdoherty/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisdoherty/)*

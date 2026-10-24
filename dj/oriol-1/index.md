@@ -1,6 +1,6 @@
 # ORIOL //
 
-ORIOL // is a Disco and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Wendel, Berlin on Fri, 30 Oct 2026.
+ORIOL // is a Disco and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Wendel, Berlin on Fri, 30 Oct 2026.
 
 ORIOL // is a disco and balearic artist based in Spain, with 11 gigs on soundcheck across Berlin. Often billed alongside VictorDiscos. Next up: Wendel, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ ORIOL // is a disco and balearic artist based in Spain, with 11 gigs on soundche
 
 VictorDiscos
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriol-1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriol-1/)*

@@ -1,6 +1,6 @@
 # Max Sinclair
 
-Max Sinclair is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Atno, Budapest on Fri, 6 Nov 2026.
+Max Sinclair is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Atno, Budapest on Fri, 6 Nov 2026.
 
 Max Sinclair is an electro and techno artist based in Hungary, with 55 gigs on soundcheck across Athens, Bratislava, Budapest and Hamburg and 2 more. Often billed alongside AGA2L, LAU and Filmmaker. Next up: Atno, Budapest on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Max Sinclair is an electro and techno artist based in Hungary, with 55 gigs on s
 
 AGA2L, LAU (6), Filmmaker
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinclair/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinclair/)*

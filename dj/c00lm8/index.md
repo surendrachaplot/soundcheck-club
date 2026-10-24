@@ -1,18 +1,18 @@
 # c00lm8
 
-c00lm8 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at fi, Cologne on Fri, 23 Oct 2026.
+c00lm8 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at WP8, Düsseldorf on Sat, 7 Nov 2026.
 
-c00lm8 is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne and Düsseldorf. Often billed alongside AMSL, Elisen and Leon Hagen. Next up: fi, Cologne on Fri 23 Oct.
+c00lm8 is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne and Düsseldorf. Often billed alongside AMSL, Elisen and Leon Hagen. Next up: WP8, Düsseldorf on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | fi | Cologne |
 | Sat, 7 Nov 2026 | WP8 | Düsseldorf |
 
 ## Recently played
 
+- fi, Cologne · Fri, 23 Oct 2026
 - JAKI, Cologne · Fri, 18 Sept 2026
 - Odonien, Cologne · Fri, 24 Jul 2026
 - fi, Cologne · Sat, 27 Jun 2026
@@ -20,10 +20,9 @@ c00lm8 is a house and techno artist based in Germany, with 17 gigs on soundcheck
 - Gewölbe, Cologne · Sun, 5 Apr 2026
 - fi, Cologne · Fri, 20 Mar 2026
 - Renate, Berlin · Thu, 5 Feb 2026
-- fi, Cologne · Wed, 31 Dec 2025
 
 ## Shares bills with
 
 AMSL, Elisen, Leon Hagen
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c00lm8/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c00lm8/)*

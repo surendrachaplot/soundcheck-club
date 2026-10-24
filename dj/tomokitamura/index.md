@@ -1,6 +1,6 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Klaproos, Amsterdam on Sat, 24 Oct 2026.
+Tomoki Tamura is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Klaproos, Amsterdam on Sat, 24 Oct 2026.
 
 Tomoki Tamura is a house and techno artist based in Germany, with 115 gigs on soundcheck across Adelaide, Amsterdam, Baltimore and Bangkok and 42 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Klaproos, Amsterdam on Sat 24 Oct.
 
@@ -33,4 +33,4 @@ Tomoki Tamura is a house and techno artist based in Germany, with 115 gigs on so
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

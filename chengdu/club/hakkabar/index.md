@@ -1,6 +1,6 @@
 # Hakkabar 院吧
 
-Hakkabar 院吧 is a music venue in Chengdu with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "周六 ｜「HYBRID BEATS 」·  The Artisan" on Sat, 24 Oct 2026.
+Hakkabar 院吧 is a music venue in Chengdu with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "周六 ｜「HYBRID BEATS 」·  The Artisan" on Sat, 24 Oct 2026.
 
 Hakkabar 院吧 is a music venue in Chengdu listed on soundcheck. 6 upcoming gigs, with line-ups including 150xs, HAL, PINKBOIALWAYSCRY and The Artisan. See dates, start times and who's playing. 成都市科华北路沸城A座1201.
 
@@ -19,4 +19,4 @@ Hakkabar 院吧 is a music venue in Chengdu listed on soundcheck. 6 upcoming gig
 
 成都市科华北路沸城A座1201, Chengdu
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/hakkabar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/hakkabar/)*

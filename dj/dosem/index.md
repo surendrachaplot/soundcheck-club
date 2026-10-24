@@ -1,6 +1,6 @@
 # Dosem
 
-Dosem is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Audio SF, San Francisco/Oakland on Fri, 20 Nov 2026.
+Dosem is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Audio SF, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Dosem is a progressive house and techno artist based in Spain, with 82 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 35 more. Often billed alongside Jody Wisternoff, Marsh and Nicky Elisabeth. Next up: Audio SF, San Francisco/Oakland on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Dosem is a progressive house and techno artist based in Spain, with 82 gigs on s
 
 Jody Wisternoff, Marsh, Nicky Elisabeth
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*

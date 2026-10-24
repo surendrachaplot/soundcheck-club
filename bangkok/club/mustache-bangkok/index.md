@@ -1,6 +1,6 @@
 # Mustache Bangkok
 
-Mustache Bangkok is a music venue in Bangkok with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Mustache presents BLAC Koncept" on Sat, 24 Oct 2026.
+Mustache Bangkok is a music venue in Bangkok with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Mustache presents BLAC Koncept" on Sat, 24 Oct 2026.
 
 Mustache Bangkok is a music venue in Bangkok listed on soundcheck. 4 upcoming gigs, with line-ups including André Pillar, BLAC Koncept, Daft Funk Live and Theo DGL. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Mustache Bangkok is a music venue in Bangkok listed on soundcheck. 4 upcoming gi
 | Sat, 31 Oct 2026 | Mustache & IVPLAY present: The Forbidden Playground |  |
 | Sat, 16 Jan 2027 | Daft Funk Live | Daft Funk Live |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/mustache-bangkok/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/mustache-bangkok/)*

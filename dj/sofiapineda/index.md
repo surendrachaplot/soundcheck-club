@@ -1,6 +1,6 @@
 # SOFIA PINEDA
 
-SOFIA PINEDA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 24 Oct 2026.
+SOFIA PINEDA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 24 Oct 2026.
 
 SOFIA PINEDA is a house and afro house artist, with 11 gigs on soundcheck across Barcelona. Often billed alongside MARTISTA, Marcel BS and &friends. Next up: BORIS CLUB, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SOFIA PINEDA is a house and afro house artist, with 11 gigs on soundcheck across
 
 MARTISTA, Marcel BS, &friends
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiapineda/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiapineda/)*

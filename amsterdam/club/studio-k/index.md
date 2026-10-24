@@ -1,6 +1,6 @@
 # Studio/K
 
-Studio/K is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ADE: VIRA, Clubnight & Film Funk" on Wed, 21 Oct 2026.
+Studio/K is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ADE: VIRA, Clubnight & Film Funk" on Wed, 21 Oct 2026.
 
 Studio/K is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including AAlva. See dates, start times and who's playing. Timorplein 62; 1094 Zeeburg; Amsterdam; Netherlands.
 
@@ -16,4 +16,4 @@ Studio/K is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, wi
 
 Timorplein 62; 1094 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/studio-k/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/studio-k/)*

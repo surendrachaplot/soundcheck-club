@@ -1,6 +1,6 @@
 # Bedriñana
 
-Bedriñana is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 24 Oct 2026.
+Bedriñana is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 24 Oct 2026.
 
 Bedriñana is a techno and electronica artist, with 25 gigs on soundcheck across Bogotá and Madrid. Often billed alongside Sylvana, La Ramona and Owldisco. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Bedriñana is a techno and electronica artist, with 25 gigs on soundcheck across
 
 Sylvana, La Ramona, Owldisco
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bedrinana/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bedrinana/)*

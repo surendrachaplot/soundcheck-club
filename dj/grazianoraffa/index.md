@@ -1,6 +1,6 @@
 # Graziano Raffa
 
-Graziano Raffa is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bikini Club, Barcelona on Sat, 24 Oct 2026.
+Graziano Raffa is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bikini Club, Barcelona on Sat, 24 Oct 2026.
 
 Graziano Raffa is a progressive house and techno artist based in Italy, with 30 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Buenos Aires and 7 more. Often billed alongside Hernan Cattaneo, Danny Howells and SACK (AR). Next up: Bikini Club, Barcelona on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Graziano Raffa is a progressive house and techno artist based in Italy, with 30 
 
 Hernan Cattaneo, Danny Howells, SACK (AR)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grazianoraffa/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grazianoraffa/)*

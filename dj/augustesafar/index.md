@@ -1,6 +1,6 @@
 # Auguste Safar
 
-Auguste Safar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Audio Club, Geneva on Sat, 24 Oct 2026.
+Auguste Safar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Audio Club, Geneva on Sat, 24 Oct 2026.
 
 Auguste Safar is a house and techno artist based in Switzerland, with 26 gigs on soundcheck across Geneva and Lausanne. Often billed alongside Raphael Graham, AGELESS and DJ Reas. Next up: Audio Club, Geneva on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Auguste Safar is a house and techno artist based in Switzerland, with 26 gigs on
 
 Raphael Graham, AGELESS, DJ Reas
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustesafar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustesafar/)*

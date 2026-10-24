@@ -1,6 +1,6 @@
 # two girls one mom
 
-two girls one mom is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bootshaus, Cologne on Sat, 7 Nov 2026.
+two girls one mom is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bootshaus, Cologne on Sat, 7 Nov 2026.
 
 two girls one mom is a techno and trance artist based in Germany, with 101 gigs on soundcheck across Barcelona, Berlin, Cologne and Frankfurt and 12 more. Often billed alongside bbymeister, August Kind and HANÀ. Next up: Bootshaus, Cologne on Sat 7 Nov.
 
@@ -32,4 +32,4 @@ two girls one mom is a techno and trance artist based in Germany, with 101 gigs 
 
 bbymeister, August Kind, HANÀ
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*

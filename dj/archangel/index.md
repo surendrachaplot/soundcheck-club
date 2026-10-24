@@ -1,6 +1,6 @@
 # Archangel
 
-Archangel is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Nowadays, New York City on Thu, 29 Oct 2026.
+Archangel is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Nowadays, New York City on Thu, 29 Oct 2026.
 
 Archangel is a techno and club artist, with 38 gigs on soundcheck across Athens, Manchester, New York City and Tokyo and 1 more. Often billed alongside Cisne, DOLLNXTDOOR and CoralKILL. Next up: Nowadays, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Archangel is a techno and club artist, with 38 gigs on soundcheck across Athens,
 
 Cisne, DOLLNXTDOOR, CoralKILL
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archangel/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archangel/)*

@@ -1,6 +1,6 @@
 # P.Simons
 
-P.Simons is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Reactor Shanghai, Shanghai on Sat, 24 Oct 2026.
+P.Simons is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Reactor Shanghai, Shanghai on Sat, 24 Oct 2026.
 
 P.Simons is an electro and techno artist based in China, with 2 gigs on soundcheck across Nanjing and Shanghai. Often billed alongside Antigone, Cristian Marras and Fischmonger. Next up: Reactor Shanghai, Shanghai on Sat 24 Oct.
 
@@ -15,4 +15,4 @@ P.Simons is an electro and techno artist based in China, with 2 gigs on soundche
 
 Antigone, Cristian Marras, Fischmonger
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.simons/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.simons/)*

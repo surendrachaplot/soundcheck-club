@@ -1,6 +1,6 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Sidney Charles is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Sidney Charles is a house and tech house artist based in Germany, with 228 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 46 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -22,6 +22,7 @@ Sidney Charles is a house and tech house artist based in Germany, with 228 gigs 
 
 ## Recently played
 
+- Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - Digital, Newcastle · Fri, 9 Oct 2026
 - 528 Ibiza, Ibiza · Sun, 4 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
@@ -29,10 +30,9 @@ Sidney Charles is a house and tech house artist based in Germany, with 228 gigs 
 - UNO MALTA, Malta · Thu, 1 Oct 2026
 - 528 Ibiza, Ibiza · Sun, 27 Sept 2026
 - Steelyard Kelham, Sheffield · Sat, 26 Sept 2026
-- Binks Yard, Nottingham · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Prunk, ALISHA, Gaskin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

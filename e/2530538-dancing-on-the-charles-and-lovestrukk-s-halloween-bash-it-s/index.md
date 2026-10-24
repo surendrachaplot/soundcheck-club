@@ -1,6 +1,6 @@
 # Dancing on the Charles and LoveStrukk's Halloween Bash - It's A Jungle Out There at American Legion Marsh Post #442
 
-Dancing on the Charles and LoveStrukk's Halloween Bash - It's A Jungle Out There at American Legion Marsh Post #442 on Sat 31 Oct, Boston. 2 artists: Patrick Barry and Tom Bartlett. See the line-up on soundcheck.
+Dancing on the Charles and LoveStrukk's Halloween Bash - It's A Jungle Out There at American Legion Marsh Post #442 on Sat 31 Oct, Boston. 2 artists: Patrick Barry and Tom Bartlett. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

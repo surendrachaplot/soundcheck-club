@@ -1,6 +1,6 @@
 # André Pillar
 
-André Pillar is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mustache Bangkok, Bangkok on Sat, 24 Oct 2026.
+André Pillar is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mustache Bangkok, Bangkok on Sat, 24 Oct 2026.
 
 André Pillar is a techno and hardcore artist based in Germany, with 27 gigs on soundcheck across Bangkok, Berlin and Stuttgart. Often billed alongside Sam Laxton, LonSkii and DANI8L. Next up: Mustache Bangkok, Bangkok on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ André Pillar is a techno and hardcore artist based in Germany, with 27 gigs on 
 
 Sam Laxton, LonSkii, DANI8L
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepillar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepillar/)*

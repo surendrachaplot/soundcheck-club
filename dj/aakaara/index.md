@@ -1,6 +1,6 @@
 # AAKAARA
 
-AAKAARA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Vespers Club, London on Sat, 31 Oct 2026.
+AAKAARA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Vespers Club, London on Sat, 31 Oct 2026.
 
 AAKAARA is a techno and electro artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside SIOBHAN., New Flesh and Benebe. Next up: Vespers Club, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ AAKAARA is a techno and electro artist based in United Kingdom, with 14 gigs on 
 
 SIOBHAN., New Flesh (2), Benebe
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aakaara/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aakaara/)*

@@ -1,6 +1,6 @@
 # Umami
 
-Umami is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 30 Oct 2026.
+Umami is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at DNA Lounge, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Umami is a drum & bass and jungle artist based in Germany, with 47 gigs on soundcheck across Barcelona, Berlin, Hong Kong and Madrid and 3 more. Often billed alongside CRKS290, BRAVA and Alvva. Next up: DNA Lounge, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Umami is a drum & bass and jungle artist based in Germany, with 47 gigs on sound
 
 CRKS290, BRAVA, Alvva
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umami/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umami/)*

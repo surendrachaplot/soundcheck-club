@@ -1,6 +1,6 @@
 # Dj Mau Mau
 
-Dj Mau Mau is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Centro Cultural São Paulo, Sao Paulo on Sat, 24 Oct 2026.
+Dj Mau Mau is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Centro Cultural São Paulo, Sao Paulo on Sat, 24 Oct 2026.
 
 Dj Mau Mau is a house and techno artist based in Brazil, with 33 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Anderson Noise, Angelica Moller and ANNYL. Next up: Centro Cultural São Paulo, Sao Paulo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dj Mau Mau is a house and techno artist based in Brazil, with 33 gigs on soundch
 
 Anderson Noise, Angelica Moller, ANNYL
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaumau/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaumau/)*

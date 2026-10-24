@@ -1,6 +1,6 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+.VRIL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 .VRIL is a techno and house artist based in Germany, with 151 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 47 more. Often billed alongside DJ Dustin, Konstantin and Edward. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -16,6 +16,7 @@
 
 ## Recently played
 
+- De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
 - ZENNER, Berlin · Fri, 16 Oct 2026
 - KEPK, Brisbane · Sun, 4 Oct 2026
 - Coil, Melbourne · Sat, 3 Oct 2026
@@ -23,10 +24,9 @@
 - VENT, Tokyo · Fri, 25 Sept 2026
 - Paradiso, Amsterdam · Fri, 18 Sept 2026
 - Fvtvr, Paris · Fri, 18 Sept 2026
-- RSO.BERLIN, Berlin · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 DJ Dustin, Konstantin, Edward
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*

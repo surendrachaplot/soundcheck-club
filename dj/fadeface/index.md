@@ -1,6 +1,6 @@
 # FadeFace
 
-FadeFace is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
+FadeFace is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
 FadeFace is a techno and minimal techno artist based in United States of America, with 11 gigs on soundcheck across Detroit, Miami and New York City. Often billed alongside Secret Raver, Adrian Hex and D3FECTER. Next up: Eden NYC, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ FadeFace is a techno and minimal techno artist based in United States of America
 
 Secret Raver, Adrian Hex, D3FECTER
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadeface/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadeface/)*

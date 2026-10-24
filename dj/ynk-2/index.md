@@ -1,6 +1,6 @@
 # Ynk (2)
 
-Ynk (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
+Ynk (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
 
 Ynk is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside Brandyy, dxrvo and Esoterik. Next up: glimmer, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ynk is a techno and trance artist based in Germany, with 34 gigs on soundcheck a
 
 Brandyy, dxrvo, Esoterik
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ynk-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ynk-2/)*

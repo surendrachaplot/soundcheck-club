@@ -1,6 +1,6 @@
 # Culoe De Song
 
-Culoe De Song is a Afro House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Parallel, Amsterdam on Sat, 24 Oct 2026.
+Culoe De Song is a Afro House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Parallel, Amsterdam on Sat, 24 Oct 2026.
 
 Culoe De Song is an afro house and deep house artist based in South Africa, with 22 gigs on soundcheck across Amsterdam, Bucharest, Cape Town and Glasgow and 7 more. Often billed alongside Caiiro, Kid Fonque and Kitty Amor. Next up: Parallel, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Culoe De Song is an afro house and deep house artist based in South Africa, with
 
 Caiiro, Kid Fonque, Kitty Amor
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/culoedesong/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/culoedesong/)*

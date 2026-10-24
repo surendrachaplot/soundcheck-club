@@ -1,6 +1,6 @@
 # Kenta Tominaga
 
-Kenta Tominaga is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 8 Nov 2026.
+Kenta Tominaga is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 8 Nov 2026.
 
 Kenta Tominaga is a drum & bass and jungle artist based in Japan, with 115 gigs on soundcheck across Tokyo. Often billed alongside vinylDJ Eiji Takehana, Hironobu Jyounai and EIJI SHIRAKAWA. Next up: Aoyama Hachi, Tokyo on Sun 8 Nov.
 
@@ -17,6 +17,7 @@ Kenta Tominaga is a drum & bass and jungle artist based in Japan, with 115 gigs 
 
 ## Recently played
 
+- Aoyama Hachi, Tokyo · Fri, 23 Oct 2026
 - Shibuya OTO, Tokyo · Sat, 10 Oct 2026
 - Shibuya Club Ball, Tokyo · Sat, 3 Oct 2026
 - Aoyama Hachi, Tokyo · Fri, 25 Sept 2026
@@ -24,10 +25,9 @@ Kenta Tominaga is a drum & bass and jungle artist based in Japan, with 115 gigs 
 - Shibuya OTO, Tokyo · Sat, 19 Sept 2026
 - Aoyama Hachi, Tokyo · Sun, 13 Sept 2026
 - Shibuya OTO, Tokyo · Sat, 12 Sept 2026
-- Aoyama Hachi, Tokyo · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 vinylDJ Eiji Takehana, Hironobu Jyounai, EIJI SHIRAKAWA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kentatominaga/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kentatominaga/)*

@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 19 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Tengu X Circles presents: Wigs with IMOGEN All Night Long" on Fri, 23 Oct 2026.
+Yamamori Tengu is a music venue in Dublin with 18 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Equinox presents: Ian Pooley with OneCanChan" on Sat, 24 Oct 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming gigs, with line-ups including A For Alpha, Batu, Carré and Cormac and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 18 upcoming gigs, with line-ups including A For Alpha, Batu, Carré and Cormac and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Tengu X Circles presents: Wigs with IMOGEN All Night Long | IMOGEN |
 | Sat, 24 Oct 2026 | Equinox presents: Ian Pooley with OneCanChan | Ian Pooley, OneCanChan |
 | Sun, 25 Oct 2026 | Soundsystem Sunday: Woozy with Darwin, Carré + Mana Dealer (Live) | Carré, Darwin |
 | Thu, 29 Oct 2026 | DUDJ PRESENTS: CRYME | CRYME, Donncha |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming gigs
 | Sat, 7 Nov 2026 | Tengu presents: RA25 | Batu, Dave Huismans, Loidis, livwutang, ÓIR (1) |
 | Mon, 9 Nov 2026 | Chroma004: TBA |  |
 | Thu, 12 Nov 2026 | Tengu x Omni: L.P. Rhythm | L.P. Rhythm |
+| Fri, 13 Nov 2026 | illicit: DJ Plant Texture | DJ Plant Texture, Rustal |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

@@ -1,6 +1,6 @@
 # Klaudia Gawlas
 
-Klaudia Gawlas is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 7 Nov 2026.
+Klaudia Gawlas is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 7 Nov 2026.
 
 Klaudia Gawlas is a techno and tech house artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Marco Bailey, Spartaque and Fatima Hajji. Next up: Now&Wow, Rotterdam on Sat 7 Nov.
 
@@ -15,6 +15,7 @@ Klaudia Gawlas is a techno and tech house artist based in Germany, with 97 gigs 
 
 ## Recently played
 
+- Club Up, Amsterdam · Fri, 23 Oct 2026
 - Galerie Kurzweil, Darmstadt · Sat, 10 Oct 2026
 - TBA - Robert-Lehr-Ufer 2, 40474 Düsseldorf, Düsseldorf · Sat, 19 Sept 2026
 - TBA - Los Angeles (Warehouse), Los Angeles · Sat, 11 Jul 2026
@@ -22,10 +23,9 @@ Klaudia Gawlas is a techno and tech house artist based in Germany, with 97 gigs 
 - Halcyon, San Francisco/Oakland · Fri, 10 Jul 2026
 - Westhafen, Leipzig · Sat, 27 Jun 2026
 - Ritter Butzke, Berlin · Sat, 20 Jun 2026
-- Hans Bunte Areal, Freiburg · Sun, 24 May 2026
 
 ## Shares bills with
 
 Marco Bailey, Spartaque, Fatima Hajji
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*

@@ -1,6 +1,6 @@
 # Ani Phoebe
 
-Ani Phoebe is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 25 Oct 2026.
+Ani Phoebe is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 25 Oct 2026.
 
 Ani Phoebe is a house and balearic artist, with 77 gigs on soundcheck across Bangkok, Berlin, Detroit and Hanoi and 18 more. Often billed alongside Seelie, Vio PRG and Heels & Souls. Next up: Sunday Sunday, Mexico City on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Ani Phoebe is a house and balearic artist, with 77 gigs on soundcheck across Ban
 
 Seelie, Vio PRG, Heels & Souls
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*

@@ -1,6 +1,6 @@
 # GOLD (4)
 
-GOLD (4) is a Disco and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Garage OST, Leipzig on Tue, 27 Oct 2026.
+GOLD (4) is a Disco and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Garage OST, Leipzig on Tue, 27 Oct 2026.
 
 GOLD is a disco and club artist based in United States of America, with 4 gigs on soundcheck across Detroit, Leipzig, Saxony Anhalt and Tokyo. Often billed alongside AM, Charlie and DJ Cleveland Browne. Next up: Garage OST, Leipzig on Tue 27 Oct.
 
@@ -20,4 +20,4 @@ GOLD is a disco and club artist based in United States of America, with 4 gigs o
 
 AM (8), Charlie, DJ Cleveland Browne
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gold-4/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gold-4/)*

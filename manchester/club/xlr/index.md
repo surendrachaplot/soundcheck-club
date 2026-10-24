@@ -1,14 +1,13 @@
 # XLR
 
-XLR is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "23 Degrees x XLR: Skeptic - All Night Long [B.Y.O.B]" on Fri, 23 Oct 2026.
+XLR is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "FuseFM x XLR [B.Y.O.B]" on Sat, 24 Oct 2026.
 
-XLR is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including DJ HEADTORCH, Emile, Frazer Ray and GSpot and 2 more. See dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
+XLR is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including DJ HEADTORCH, Emile, Frazer Ray and GSpot and 2 more. See dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | 23 Degrees x XLR: Skeptic - All Night Long [B.Y.O.B] | Skeptic |
 | Sat, 24 Oct 2026 | FuseFM x XLR [B.Y.O.B] | Nabeel |
 | Thu, 29 Oct 2026 | Halloween @ XLR; hosted by Linden Grove | Emile |
 | Fri, 30 Oct 2026 | A Warped Halloween: Frazer Ray (LIVE) + more [B.Y.O.B] | Frazer Ray |
@@ -21,4 +20,4 @@ XLR is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with l
 
 455 Wilmslow Road, Withington, Manchester, M20 4AN, Manchester
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*

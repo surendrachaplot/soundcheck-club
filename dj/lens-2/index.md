@@ -1,14 +1,13 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Dubstep artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 23 Oct 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at CCO La Rayonne, Lyon on Sat, 24 Oct 2026.
 
-Lens is a drum & bass and dubstep artist based in United Kingdom, with 34 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 23 more. Often billed alongside Degs, Mozey and Oppidan. Next up: NUMBER 90 LONDON, London on Fri 23 Oct.
+Lens is a drum & bass and dubstep artist based in United Kingdom, with 34 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 23 more. Often billed alongside Degs, Mozey and Oppidan. Next up: CCO La Rayonne, Lyon on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 24 Oct 2026 | CCO La Rayonne | Lyon |
 | Sat, 7 Nov 2026 | Mina Museum | Cluj-napoca |
 | Fri, 13 Nov 2026 | XOYO Birmingham | Birmingham |
@@ -23,6 +22,7 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 34 gigs o
 
 ## Recently played
 
+- NUMBER 90 LONDON, London · Fri, 23 Oct 2026
 - Lost Horizon, Bristol · Sat, 17 Oct 2026
 - Holocene, Portland · Sun, 11 Oct 2026
 - 1720, Los Angeles · Sat, 10 Oct 2026
@@ -30,10 +30,9 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 34 gigs o
 - Flash, Washington DC · Thu, 8 Oct 2026
 - The Crypt (New Orleans), New-orleans · Sat, 3 Oct 2026
 - Tradgarn, Gothenburg · Fri, 25 Sept 2026
-- Sektor 6D, Warsaw · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Degs, Mozey, Oppidan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*

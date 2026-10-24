@@ -1,14 +1,13 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "HYPERWAVES x ORACLE BONES" on Fri, 23 Oct 2026.
+De Fik Garden is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Vault Sessions & Friends ADE" on Sat, 24 Oct 2026.
 
-De Fik Garden is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Andy Garvey, Apsāya, Comrade Winston and Delano Legito and 2 more. See dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
+De Fik Garden is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Andy Garvey, Apsāya, Comrade Winston and Delano Legito and 2 more. See dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | HYPERWAVES x ORACLE BONES | HyperLili, Jeans (NL), Mama Snake, Nikos (NL), trillosta |
 | Sat, 24 Oct 2026 | Vault Sessions & Friends ADE | Comrade Winston, Delano Legito, Idilay, JIA, Joya Astou, Kim She, Prance, TWIENA |
 | Sat, 24 Oct 2026 | KØLT invites Syntharax | Andy Garvey, Apsāya, DINA, MXV (UK), Mia Lund, Nelly, Sapa Rua |
 | Sun, 25 Oct 2026 | BUSI WAKA NANGA DANSI - MARRØN ALL NIGHT | MARRØN |
@@ -18,4 +17,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 5 upcoming gig
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

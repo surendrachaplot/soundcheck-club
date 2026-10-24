@@ -1,6 +1,6 @@
 # Reinstate
 
-Reinstate is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Connor Jillions and Band" on Fri, 6 Nov 2026.
+Reinstate is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Connor Jillions and Band" on Fri, 6 Nov 2026.
 
 Reinstate is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1 Wythes Road.
 
@@ -14,4 +14,4 @@ Reinstate is a music venue in London listed on soundcheck. 1 upcoming gig. See d
 
 1 Wythes Road, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/reinstate/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/reinstate/)*

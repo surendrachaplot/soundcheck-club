@@ -1,6 +1,6 @@
 # Pètal
 
-Pètal is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Kolokotroni Athens Center, Athens on Sun, 8 Nov 2026.
+Pètal is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Kolokotroni Athens Center, Athens on Sun, 8 Nov 2026.
 
 Pètal is a techno artist based in Greece, with 5 gigs on soundcheck across Athens. Often billed alongside Ther3min, Antigone and EMPERØR. Next up: TBA - Kolokotroni Athens Center, Athens on Sun 8 Nov.
 
@@ -21,4 +21,4 @@ Pètal is a techno artist based in Greece, with 5 gigs on soundcheck across Athe
 
 Ther3min, Antigone, EMPERØR
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petal-gr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petal-gr/)*

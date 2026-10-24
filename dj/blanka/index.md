@@ -1,6 +1,6 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+BLANKA is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
 BLANKA is a techno and house artist based in Spain, with 171 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Angioma, Quelza and Setaoc Mass. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
@@ -35,4 +35,4 @@ BLANKA is a techno and house artist based in Spain, with 171 gigs on soundcheck 
 
 Angioma, Quelza, Setaoc Mass
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

@@ -1,6 +1,6 @@
 # berta (ES)
 
-berta (ES) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at El Internacional, Madrid on Sat, 24 Oct 2026.
+berta (ES) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at El Internacional, Madrid on Sat, 24 Oct 2026.
 
 berta (ES) is a house and electronica artist based in Spain, with 12 gigs on soundcheck across Madrid. Often billed alongside FUKCNORMAL, Baldman and Maya B. Next up: El Internacional, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ berta (ES) is a house and electronica artist based in Spain, with 12 gigs on sou
 
 FUKCNORMAL, Baldman, Maya B
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berta/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berta/)*

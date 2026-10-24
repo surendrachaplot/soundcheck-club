@@ -1,6 +1,6 @@
 # EartH
 
-EartH is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Parable: Gui Boratto [LIVE] - Early Evening Concert" on Sat, 24 Oct 2026.
+EartH is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Parable: Gui Boratto [LIVE] - Early Evening Concert" on Sat, 24 Oct 2026.
 
 EartH is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, The Avalanches and DJ Brockie and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
@@ -23,4 +23,4 @@ EartH is a music venue in London listed on soundcheck. 17 upcoming gigs, with li
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

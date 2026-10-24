@@ -1,14 +1,13 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Silva Bumpa - ADE" on Fri, 23 Oct 2026.
+Paradiso is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Speedy J presents STOOR Live - ADE 2026 (Day 1)" on Sat, 24 Oct 2026.
 
-Paradiso is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Oxley, Donato Dozzy, Dynamax and Fleetmac Wood and 2 more. See dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
+Paradiso is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Oxley, Donato Dozzy, Dynamax and Fleetmac Wood and 2 more. See dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Silva Bumpa - ADE | Silva Bumpa |
 | Sat, 24 Oct 2026 | Speedy J presents STOOR Live - ADE 2026 (Day 1) | JakoJako, Lady Starlight, Rødhåd, Speedy J, UFO95 |
 | Sun, 25 Oct 2026 | Speedy J presents STOOR Live - ADE 2026 (Day 2) | Donato Dozzy, Speedy J, The Fear Ratio, Wallis |
 | Thu, 29 Oct 2026 | I.S.U.I.L.P TOUR 26 | Kabeaushé |
@@ -23,4 +22,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, w
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

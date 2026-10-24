@@ -1,6 +1,6 @@
 # Vyper
 
-Vyper is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 30 Oct 2026.
+Vyper is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 30 Oct 2026.
 
 Vyper is a techno and hardcore artist based in United States of America, with 106 gigs on soundcheck across Atlanta, Baltimore, Barcelona and Berlin and 11 more. Often billed alongside Stealthy, Xana 101 and Cyb3r Bull. Next up: Bossa Nova Civic Club, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vyper is a techno and hardcore artist based in United States of America, with 10
 
 Stealthy, Xana 101, Cyb3r Bull
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vyper/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vyper/)*

@@ -1,6 +1,6 @@
 # DJ Sweed
 
-DJ Sweed is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ambient Bar BKK, Bangkok on Sat, 24 Oct 2026.
+DJ Sweed is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ambient Bar BKK, Bangkok on Sat, 24 Oct 2026.
 
 DJ Sweed is a techno and electro artist based in Thailand, with 102 gigs on soundcheck across Bangkok, Beijing, Hanoi and Seoul and 1 more. Often billed alongside DJ Krit Morton, bunnyman.dogs and Winkieb. Next up: Ambient Bar BKK, Bangkok on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ DJ Sweed is a techno and electro artist based in Thailand, with 102 gigs on soun
 
 DJ Krit Morton, bunnyman.dogs, Winkieb
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweed/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweed/)*

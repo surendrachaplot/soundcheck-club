@@ -1,6 +1,6 @@
 # Eliangel
 
-Eliangel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Gobernador José Gómez Cortina 3, Mexico City on Fri, 6 Nov 2026.
+Eliangel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Gobernador José Gómez Cortina 3, Mexico City on Fri, 6 Nov 2026.
 
 Eliangel is a house and techno artist based in Venezuela, with 62 gigs on soundcheck across Berlin, Bogotá, Guadalajara and Medellin and 1 more. Often billed alongside Ferraz, Miss Mara and daveh00d. Next up: TBA - Gobernador José Gómez Cortina 3, Mexico City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Eliangel is a house and techno artist based in Venezuela, with 62 gigs on soundc
 
 Ferraz, Miss Mara, daveh00d
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliangel/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliangel/)*

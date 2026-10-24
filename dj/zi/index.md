@@ -1,6 +1,6 @@
 # zi!
 
-zi! is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ballroom at Palais, London on Sat, 24 Oct 2026.
+zi! is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ballroom at Palais, London on Sat, 24 Oct 2026.
 
 zi! is a techno and bass artist based in Canada, with 76 gigs on soundcheck across Auckland, Baltimore, Berlin and Chicago and 10 more. Often billed alongside Field Note, Dijipoune and Lia Plutonic. Next up: Ballroom at Palais, London on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ zi! is a techno and bass artist based in Canada, with 76 gigs on soundcheck acro
 
 Field Note, Dijipoune, Lia Plutonic
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*

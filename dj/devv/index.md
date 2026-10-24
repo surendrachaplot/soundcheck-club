@@ -1,6 +1,6 @@
 # Devv
 
-Devv is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bless Me Father, Athens on Sun, 25 Oct 2026.
+Devv is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bless Me Father, Athens on Sun, 25 Oct 2026.
 
 Devv is a house and minimal artist, with 38 gigs on soundcheck across Athens, Detroit, Rome and Toronto. Often billed alongside Paul Quzz, Lolo (CA) and Chiara. Next up: Bless Me Father, Athens on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Devv is a house and minimal artist, with 38 gigs on soundcheck across Athens, De
 
 Paul Quzz, Lolo (CA), Chiara
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devv/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devv/)*

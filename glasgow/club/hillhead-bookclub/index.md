@@ -1,6 +1,6 @@
 # Hillhead Bookclub
 
-Hillhead Bookclub is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Disco Mundial" on Fri, 23 Oct 2026.
+Hillhead Bookclub is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Disco Mundial" on Fri, 23 Oct 2026.
 
 Hillhead Bookclub is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with line-ups including Daniel Hive and Temple Sniper. See dates, start times and who's playing. 17 Vinicombe Street; Glasgow, G12 8BE; Scotland.
 
@@ -15,4 +15,4 @@ Hillhead Bookclub is a music venue in Glasgow listed on soundcheck. 2 upcoming g
 
 17 Vinicombe Street; Glasgow, G12 8BE; Scotland, Glasgow
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/hillhead-bookclub/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/hillhead-bookclub/)*

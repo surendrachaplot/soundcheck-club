@@ -1,6 +1,6 @@
 # Juuls Bar
 
-Juuls Bar is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "VOODOO CREW - Special Halloween event" on Sat, 31 Oct 2026.
+Juuls Bar is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "VOODOO CREW - Special Halloween event" on Sat, 31 Oct 2026.
 
 Juuls Bar is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including SpeedQueen. See dates, start times and who's playing. St Joseph Street 8 STJ08, San Ġiljan.
 
@@ -14,4 +14,4 @@ Juuls Bar is a music venue in Malta listed on soundcheck. 1 upcoming gig, with l
 
 St Joseph Street 8 STJ08, San Ġiljan, Malta
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/juuls-bar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/juuls-bar/)*

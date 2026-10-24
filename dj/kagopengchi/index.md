@@ -1,6 +1,6 @@
 # Kago Pengchi
 
-Kago Pengchi is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Luka, Seoul on Sun, 25 Oct 2026.
+Kago Pengchi is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Luka, Seoul on Sun, 25 Oct 2026.
 
 Kago Pengchi is a trance and progressive house artist based in South Korea, with 13 gigs on soundcheck across Seoul. Often billed alongside Casepeat, Kataploks and M42. Next up: Luka, Seoul on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Kago Pengchi is a trance and progressive house artist based in South Korea, with
 
 Casepeat, Kataploks, M42 (1)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kagopengchi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kagopengchi/)*

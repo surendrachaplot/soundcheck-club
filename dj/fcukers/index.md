@@ -1,6 +1,6 @@
 # FCUKERS
 
-FCUKERS is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Night We Met, Nashville on Sat, 24 Oct 2026.
+FCUKERS is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Night We Met, Nashville on Sat, 24 Oct 2026.
 
 FCUKERS is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside DJ Gigola, KETTAMA and CHRIS STASSY. Next up: Night We Met, Nashville on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ FCUKERS is a house and techno artist based in United States of America, with 77 
 
 DJ Gigola, KETTAMA, CHRIS STASSY
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*

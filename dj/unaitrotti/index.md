@@ -1,6 +1,6 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WOMB, Tokyo on Sat, 24 Oct 2026.
+Unai Trotti is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at WOMB, Tokyo on Sat, 24 Oct 2026.
 
 Unai Trotti is a techno and house artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 61 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: WOMB, Tokyo on Sat 24 Oct.
 
@@ -20,6 +20,7 @@ Unai Trotti is a techno and house artist based in United Kingdom, with 185 gigs 
 
 ## Recently played
 
+- Circus Osaka, Osaka · Fri, 23 Oct 2026
 - Final, Taipei · Sat, 17 Oct 2026
 - Hertz, Seoul · Fri, 16 Oct 2026
 - 24 Kitchen Street, Liverpool · Fri, 2 Oct 2026
@@ -27,10 +28,9 @@ Unai Trotti is a techno and house artist based in United Kingdom, with 185 gigs 
 - FOLD, London · Sat, 26 Sept 2026
 - Nocturna, Ibiza · Fri, 25 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
-- Signal, New York City · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Z@p, Vass, Junki Inoue
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

@@ -1,14 +1,13 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Donkline Deluxe" on Fri, 23 Oct 2026.
+Moon Club is a music venue in Bristol with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "G33 / Lu.Re / Harmonia" on Fri, 30 Oct 2026.
 
-Moon Club is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including Arkist, Carl Finlow, DJ Sarah Bonito and EKATA and 2 more. See dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
+Moon Club is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, with line-ups including Arkist, Carl Finlow, EKATA and Fumiya Tanaka and 2 more. See dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Donkline Deluxe | DJ Sarah Bonito |
 | Fri, 30 Oct 2026 | G33 / Lu.Re / Harmonia | G33 (UK), Lu.Re |
 | Sat, 7 Nov 2026 | UN.KNOWN |  |
 | Sat, 14 Nov 2026 | Naughty Parrot presents: Bristol Takeover |  |
@@ -23,4 +22,4 @@ Moon Club is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, wi
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

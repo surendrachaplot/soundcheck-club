@@ -1,6 +1,6 @@
 # Adam Port
 
-Adam Port is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kowalski, Stuttgart on Fri, 13 Nov 2026.
+Adam Port is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kowalski, Stuttgart on Fri, 13 Nov 2026.
 
 Adam Port is a house and techno artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 32 more. Often billed alongside &ME, Rampa and Sossa. Next up: Kowalski, Stuttgart on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Adam Port is a house and techno artist based in Germany, with 82 gigs on soundch
 
 &ME, Rampa, Sossa
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*

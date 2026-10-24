@@ -1,14 +1,13 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Jeff Mills is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sugarfactory, Amsterdam on Sat, 24 Oct 2026.
 
-Jeff Mills is a techno and house artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 70 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
+Jeff Mills is a techno and house artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 70 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Sugarfactory, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |
 | Sun, 25 Oct 2026 | Le Sucre | Lyon |
 | Wed, 28 Oct 2026 | Moog Club | Barcelona |
@@ -20,9 +19,11 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sun, 6 Dec 2026 | Cité De La Musique | Paris |
 | Fri, 11 Dec 2026 | Triennale di Milano | Milan |
+| Sat, 12 Dec 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played
 
+- WestWeelde, Amsterdam · Fri, 23 Oct 2026
 - Saline Royale D'arc-et-Senans (25 Doubs), Lyon · Sun, 11 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 - Amnesia Ibiza, Ibiza · Sun, 27 Sept 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - Vrachon Theater, Athens · Sun, 20 Sept 2026
-- Bunker, Turin · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 DVS1, Marcel Dettmann, Helena Hauff
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

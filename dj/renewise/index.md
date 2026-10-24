@@ -1,14 +1,13 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Rene Wise is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
 
-Rene Wise is a techno and house artist based in United Kingdom, with 283 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Rene Wise is a techno and house artist based in United Kingdom, with 283 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: BRET, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 30 Oct 2026 | Flash | Washington DC |
@@ -20,20 +19,21 @@ Rene Wise is a techno and house artist based in United Kingdom, with 283 gigs on
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 12 Dec 2026 | fabric | London |
 | Fri, 18 Dec 2026 | Hive Club | Zurich |
+| Sat, 19 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played
 
+- Melkweg, Amsterdam · Fri, 23 Oct 2026
+- BRET, Amsterdam · Fri, 23 Oct 2026
 - Circolo Amelia, Milan · Sat, 17 Oct 2026
 - Studio Club Malaga, Malaga · Fri, 16 Oct 2026
 - fi, Cologne · Sat, 10 Oct 2026
 - Lux Fragil, Lisbon · Fri, 9 Oct 2026
 - Art Club, Houston · Sat, 3 Oct 2026
 - 288 Green St, Boston · Fri, 2 Oct 2026
-- Cabooze, Minneapolis-st-paul · Sun, 27 Sept 2026
-- TBA - Los Angeles, Los Angeles · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 MARRØN, Blasha & Allatt, Ogazón
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

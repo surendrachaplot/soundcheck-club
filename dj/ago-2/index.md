@@ -1,6 +1,6 @@
 # Ago (2)
 
-Ago (2) is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
+Ago (2) is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
 
 Ago is a bass and dubstep artist, with 5 gigs on soundcheck across Denver, Florence, Kyoto and London and 1 more. Often billed alongside Commodo, D.J.Fulltono and Fearless Dread. Next up: 26 Leake Street, London on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Ago is a bass and dubstep artist, with 5 gigs on soundcheck across Denver, Flore
 
 Commodo, D.J.Fulltono, Fearless Dread
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ago-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ago-2/)*

@@ -1,6 +1,6 @@
 # Bimhuis
 
-Bimhuis is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Brass Rave Unit - MANOLO" on Sat, 24 Oct 2026.
+Bimhuis is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Brass Rave Unit - MANOLO" on Sat, 24 Oct 2026.
 
 Bimhuis is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -17,4 +17,4 @@ Bimhuis is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs. See
 
 Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*

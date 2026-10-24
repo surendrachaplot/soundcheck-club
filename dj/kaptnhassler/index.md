@@ -1,6 +1,6 @@
 # Käptn Hässler
 
-Käptn Hässler is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Great Räng Teng Teng, Freiburg on Sat, 24 Oct 2026.
+Käptn Hässler is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Great Räng Teng Teng, Freiburg on Sat, 24 Oct 2026.
 
 Käptn Hässler is a techno and deep house artist based in Germany, with 29 gigs on soundcheck across Baden W Rttemberg and Freiburg. Often billed alongside Danca, Solvane and Leika. Next up: The Great Räng Teng Teng, Freiburg on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Käptn Hässler is a techno and deep house artist based in Germany, with 29 gigs
 
 Danca, Solvane, Leika
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaptnhassler/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaptnhassler/)*

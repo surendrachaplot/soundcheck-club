@@ -1,6 +1,6 @@
 # Robert Błaszczyk
 
-Robert Błaszczyk is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Dom Technika, Poznan on Sat, 7 Nov 2026.
+Robert Błaszczyk is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Dom Technika, Poznan on Sat, 7 Nov 2026.
 
 Robert Błaszczyk is a minimal and tech house artist, with 13 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Lcaise, Model 68 and Sourge. Next up: Dom Technika, Poznan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Robert Błaszczyk is a minimal and tech house artist, with 13 gigs on soundcheck
 
 Lcaise, Model 68, Sourge
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertblaszczyk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertblaszczyk/)*

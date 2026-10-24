@@ -1,6 +1,6 @@
 # Joe Cotch
 
-Joe Cotch is a Bass and Guaracha artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Haggerston, London on Sat, 24 Oct 2026.
+Joe Cotch is a Bass and Guaracha artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Haggerston, London on Sat, 24 Oct 2026.
 
 Joe Cotch is a bass and guaracha artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Geneva and 3 more. Often billed alongside Authentically Plastic, Bclip and DJ Lycox. Next up: The Haggerston, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Joe Cotch is a bass and guaracha artist based in United Kingdom, with 22 gigs on
 
 Authentically Plastic, Bclip, DJ Lycox
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joecotch/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joecotch/)*

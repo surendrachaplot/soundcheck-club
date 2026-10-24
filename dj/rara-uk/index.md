@@ -1,6 +1,6 @@
 # rára
 
-rára is a Dancehall and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Colour Factory, London on Fri, 27 Nov 2026.
+rára is a Dancehall and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Colour Factory, London on Fri, 27 Nov 2026.
 
 rára is a dancehall and disco artist, with 12 gigs on soundcheck across Edinburgh, Glasgow, London and Prague. Often billed alongside Shadobeni, Milli and Almass Badat. Next up: Colour Factory, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ rára is a dancehall and disco artist, with 12 gigs on soundcheck across Edinbur
 
 Shadobeni, Milli, Almass Badat
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-uk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-uk/)*

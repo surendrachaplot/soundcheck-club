@@ -1,6 +1,6 @@
 # The Fenton
 
-The Fenton is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "NO TASTE DAY PARTY" on Sat, 24 Oct 2026.
+The Fenton is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "NO TASTE DAY PARTY" on Sat, 24 Oct 2026.
 
 The Fenton is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Fanchu. See dates, start times and who's playing. 161-165 Woodhouse Lane, Leeds LS2 3ED.
 
@@ -16,4 +16,4 @@ The Fenton is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with
 
 161-165 Woodhouse Lane, Leeds LS2 3ED, Leeds
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-fenton/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-fenton/)*

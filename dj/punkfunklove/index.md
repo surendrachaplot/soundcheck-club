@@ -1,6 +1,6 @@
 # PunkFunkLove
 
-PunkFunkLove is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
+PunkFunkLove is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
 
 PunkFunkLove is a techno and acid artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, London, Rio de Janeiro and Rotterdam. Often billed alongside Jayzo, Gostoso and SHIMMER. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ PunkFunkLove is a techno and acid artist based in Netherlands, with 24 gigs on s
 
 Jayzo, Gostoso, SHIMMER
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punkfunklove/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punkfunklove/)*

@@ -1,14 +1,13 @@
 # Volks
 
-Volks is a music venue in Brighton with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "160 Brighton presents: Tim Reaper b2b Fracture (3-hour set)" on Fri, 23 Oct 2026.
+Volks is a music venue in Brighton with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "The Cost of Raving presents: Monrroe + Duskee" on Sat, 24 Oct 2026.
 
-Volks is a music venue in Brighton listed on soundcheck. 12 upcoming gigs, with line-ups including Altern-8, Benny L, Calyx and Cleveland Watkiss and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
+Volks is a music venue in Brighton listed on soundcheck. 11 upcoming gigs, with line-ups including Altern-8, Benny L, Calyx and Cleveland Watkiss and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | 160 Brighton presents: Tim Reaper b2b Fracture (3-hour set) | Fracture, Tim Reaper |
 | Sat, 24 Oct 2026 | The Cost of Raving presents: Monrroe + Duskee | Duskee, MYNX, Monrroe |
 | Sat, 24 Oct 2026 | The Cost of Raving presents: Monrroe + Duskee | Duskee, Monrroe |
 | Sat, 31 Oct 2026 | LSB + DRS present: Space Age Halloween Special | DRS, LSB, Mindstate, Verbz, imo-Lu |
@@ -18,9 +17,10 @@ Volks is a music venue in Brighton listed on soundcheck. 12 upcoming gigs, with 
 | Fri, 20 Nov 2026 | Sub-liminal Recordings: Wiley (Jungle Set) | DJ Brockie, Funsta, Heist, Wiley |
 | Sat, 21 Nov 2026 | Delirium X: The Final Show | HLZ (2), Loxy, Seba, Sloe, Vergano |
 | Sat, 28 Nov 2026 | Ivy Lab - Farewell Tour | Ivy Lab |
+| Sat, 5 Dec 2026 | Metalheadz: Brighton | Benny L, Cleveland Watkiss, Diverge, Doc Scott |
 
 ## Address
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

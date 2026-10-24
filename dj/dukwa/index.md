@@ -1,6 +1,6 @@
 # Dukwa
 
-Dukwa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 24 Oct 2026.
+Dukwa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 24 Oct 2026.
 
 Dukwa is a house and techno artist based in Italy, with 28 gigs on soundcheck across Berlin, Bologna, Dublin and Edinburgh and 10 more. Often billed alongside Seth Troxler, Tommaso Carlà and AGELESS. Next up: Cabaret Voltaire, Edinburgh on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Dukwa is a house and techno artist based in Italy, with 28 gigs on soundcheck ac
 
 Seth Troxler, Tommaso Carlà, AGELESS
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dukwa/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dukwa/)*

@@ -1,20 +1,20 @@
 # Pearson Sound
 
-Pearson Sound is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 23 Oct 2026.
+Pearson Sound is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
 
-Pearson Sound is a techno and bass artist based in United Kingdom, with 105 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Ben UFO, Pangaea and Peach. Next up: Jolene Downtown Miami, Miami on Fri 23 Oct.
+Pearson Sound is a techno and bass artist based in United Kingdom, with 105 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Ben UFO, Pangaea and Peach. Next up: Nowadays, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Jolene Downtown Miami | Miami |
 | Sat, 24 Oct 2026 | Nowadays | New York City |
 | Sat, 31 Oct 2026 | Strange Brew | Bristol |
 | Sat, 19 Dec 2026 | Palais | London |
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami · Fri, 23 Oct 2026
 - Fünk, Mexico City · Sat, 17 Oct 2026
 - TBA - 525 SE Pine st, Portland · Fri, 16 Oct 2026
 - Kaiku, Helsinki · Sat, 19 Sept 2026
@@ -22,10 +22,9 @@ Pearson Sound is a techno and bass artist based in United Kingdom, with 105 gigs
 - RSO.BERLIN, Berlin · Sat, 8 Aug 2026
 - RSO.BERLIN, Berlin · Sat, 8 Aug 2026
 - Blå, Oslo · Fri, 7 Aug 2026
-- fabric, London · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Ben UFO, Pangaea, Peach
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pearsonsound/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pearsonsound/)*

@@ -1,6 +1,6 @@
 # Adrian Camilo
 
-Adrian Camilo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at OXI, Berlin on Sat, 24 Oct 2026.
+Adrian Camilo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at OXI, Berlin on Sat, 24 Oct 2026.
 
 Adrian Camilo is a techno and house artist, with 20 gigs on soundcheck across Berlin and Vienna. Often billed alongside Manuel Correa, Johnson and MKCMLLN. Next up: OXI, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Adrian Camilo is a techno and house artist, with 20 gigs on soundcheck across Be
 
 Manuel Correa, Johnson (2), MKCMLLN
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriancamilo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriancamilo/)*

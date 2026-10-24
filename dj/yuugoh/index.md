@@ -1,6 +1,6 @@
 # YUUGOH
 
-YUUGOH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 31 Oct 2026.
+YUUGOH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 31 Oct 2026.
 
 YUUGOH is a techno and house artist based in Japan, with 64 gigs on soundcheck across Okinawa, Osaka and Tokyo. Often billed alongside TAKENOKO, SAMO (JP) and YUVIE. Next up: Enter Shibuya, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ YUUGOH is a techno and house artist based in Japan, with 64 gigs on soundcheck a
 
 TAKENOKO, SAMO (JP), YUVIE
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuugoh/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuugoh/)*

@@ -1,6 +1,6 @@
 # STOZ
 
-STOZ is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - ATHarea, Athens on Sun, 1 Nov 2026.
+STOZ is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - ATHarea, Athens on Sun, 1 Nov 2026.
 
 STOZ is a house and electronica artist based in Greece, with 32 gigs on soundcheck across Athens, Greece, Milan and Stuttgart and 2 more. Often billed alongside 22, Irene Kimova and Nausicaä. Next up: TBA - ATHarea, Athens on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ STOZ is a house and electronica artist based in Greece, with 32 gigs on soundche
 
 22 (1), Irene Kimova, Nausicaä
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoz/)*

@@ -1,6 +1,6 @@
 # KIT Royal Tropical Institute
 
-KIT Royal Tropical Institute is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "WHATSNEW X Rinse FM - ADE" on Sat, 24 Oct 2026.
+KIT Royal Tropical Institute is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "WHATSNEW X Rinse FM - ADE" on Sat, 24 Oct 2026.
 
 KIT Royal Tropical Institute is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including A For Alpha, Ive Lovers, Julian Anthony (US) and Julian Anthony and 1 more. See dates, start times and who's playing. Mauritskade 64 Amsterdam.
 
@@ -15,4 +15,4 @@ KIT Royal Tropical Institute is a music venue in Amsterdam listed on soundcheck.
 
 Mauritskade 64 Amsterdam, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kit-royal-tropical-institute/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kit-royal-tropical-institute/)*

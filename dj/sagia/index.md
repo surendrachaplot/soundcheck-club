@@ -1,18 +1,18 @@
 # Sagia
 
-Sagia is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Sagia is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Balou Bar, Amsterdam on Sat, 24 Oct 2026.
 
-Sagia is a progressive house and house artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, London and Miami. Often billed alongside Light Gal, Barbur and Beth Lydi. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
+Sagia is a progressive house and house artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, London and Miami. Often billed alongside Light Gal, Barbur and Beth Lydi. Next up: TBA - Balou Bar, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Bears Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - Balou Bar | Amsterdam |
 
 ## Recently played
 
+- Bears Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Forest Road Brewery, London · Fri, 12 Dec 2025
 - Bears Amsterdam, Amsterdam · Sun, 26 Oct 2025
 - Bears Amsterdam, Amsterdam · Sat, 25 Oct 2025
@@ -25,4 +25,4 @@ Sagia is a progressive house and house artist based in United Kingdom, with 9 gi
 
 Light Gal, Barbur, Beth Lydi
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sagia/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sagia/)*

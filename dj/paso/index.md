@@ -1,6 +1,6 @@
 # PASO
 
-PASO is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+PASO is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 PASO is a house and trance artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 1 more. Often billed alongside Nadia Summer, BORLEY and Danse Atmos. Next up: Shelter Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ PASO is a house and trance artist based in United Kingdom, with 48 gigs on sound
 
 Nadia Summer, BORLEY, Danse Atmos
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paso/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paso/)*

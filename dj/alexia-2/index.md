@@ -1,6 +1,6 @@
 # Alexia (2)
 
-Alexia (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Alexia (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
 Alexia is a house and deep house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Just1, Paul Kine and Penelope. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Alexia is a house and deep house artist based in United Kingdom, with 58 gigs on
 
 Just1, Paul Kine, Penelope (2)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*

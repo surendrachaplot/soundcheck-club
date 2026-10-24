@@ -1,6 +1,6 @@
 # Barbellay
 
-Barbellay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bike Jesus, Prague on Sat, 24 Oct 2026.
+Barbellay is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bike Jesus, Prague on Sat, 24 Oct 2026.
 
 Barbellay is a techno and trance artist, with 12 gigs on soundcheck across Bratislava and Prague. Often billed alongside Fantomass, MURKEZZI and Keporkak. Next up: Bike Jesus, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Barbellay is a techno and trance artist, with 12 gigs on soundcheck across Brati
 
 Fantomass, MURKEZZI, Keporkak
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbellay/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbellay/)*

@@ -1,6 +1,6 @@
 # HnyLune
 
-HnyLune is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Circie, Dresden on Sat, 31 Oct 2026.
+HnyLune is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Circie, Dresden on Sat, 31 Oct 2026.
 
 HnyLune is a techno and house artist based in Germany, with 15 gigs on soundcheck across Dresden. Often billed alongside Juan Alejandro, goldie and Alphonsine Koh. Next up: Circie, Dresden on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ HnyLune is a techno and house artist based in Germany, with 15 gigs on soundchec
 
 Juan Alejandro, goldie (2), Alphonsine Koh
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hnylune/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hnylune/)*

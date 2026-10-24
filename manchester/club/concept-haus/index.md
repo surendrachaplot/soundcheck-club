@@ -1,6 +1,6 @@
 # Concept Haus
 
-Concept Haus is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Primal Instinct Showcase" on Sat, 7 Nov 2026.
+Concept Haus is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Primal Instinct Showcase" on Sat, 7 Nov 2026.
 
 Concept Haus is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Akua, Anthea, AVIAX and Chlär and 2 more. See dates, start times and who's playing. 29 Cobden Street, Salford, M66WF.
 
@@ -16,4 +16,4 @@ Concept Haus is a music venue in Manchester listed on soundcheck. 3 upcoming gig
 
 29 Cobden Street, Salford, M66WF, Manchester
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/concept-haus/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/concept-haus/)*

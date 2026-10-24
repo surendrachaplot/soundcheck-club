@@ -1,6 +1,6 @@
 # Boogaloo
 
-Boogaloo is a music venue in Zagreb with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "High Hats presents: Halloween with davyboi" on Fri, 30 Oct 2026.
+Boogaloo is a music venue in Zagreb with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "High Hats presents: Halloween with davyboi" on Fri, 30 Oct 2026.
 
 Boogaloo is a music venue in Zagreb listed on soundcheck. 2 upcoming gigs, with line-ups including Daft Funk Live and davyboi. See dates, start times and who's playing. Ulica Grada Vukovara 68, 10000 Zagreb, Croatia.
 
@@ -15,4 +15,4 @@ Boogaloo is a music venue in Zagreb listed on soundcheck. 2 upcoming gigs, with 
 
 Ulica Grada Vukovara 68, 10000 Zagreb, Croatia, Zagreb
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/boogaloo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/boogaloo/)*

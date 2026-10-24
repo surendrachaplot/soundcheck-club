@@ -1,6 +1,6 @@
 # Michelle Manetti
 
-Michelle Manetti is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Michelle Manetti is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Michelle Manetti is a house and techno artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside FAFF, THEMPRESS and Jaye Ward. Next up: The Cause, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Michelle Manetti is a house and techno artist based in United Kingdom, with 146 
 
 FAFF, THEMPRESS, Jaye Ward
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*

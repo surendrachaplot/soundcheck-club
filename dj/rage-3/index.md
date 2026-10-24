@@ -1,6 +1,6 @@
 # RAGE (3)
 
-RAGE (3) is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+RAGE (3) is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 RAGE is a drum & bass and techno artist based in Germany, with 5 gigs on soundcheck across Berlin, London and Paris. Often billed alongside AAguilAA, ADAM MUNNINGS and ANTYA. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ RAGE is a drum & bass and techno artist based in Germany, with 5 gigs on soundch
 
 AAguilAA, ADAM MUNNINGS, ANTYA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rage-3/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rage-3/)*

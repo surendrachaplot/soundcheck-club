@@ -1,6 +1,6 @@
 # Julius Elias
 
-Julius Elias is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Schlachthaus, Stuttgart on Sun, 8 Nov 2026.
+Julius Elias is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Schlachthaus, Stuttgart on Sun, 8 Nov 2026.
 
 Julius Elias is a techno and acid artist based in Germany, with 12 gigs on soundcheck across Stuttgart. Often billed alongside timodufner, An On Bast and Frederik Neu. Next up: Schlachthaus, Stuttgart on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Julius Elias is a techno and acid artist based in Germany, with 12 gigs on sound
 
 timodufner, An On Bast, Frederik Neu
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliuselias/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliuselias/)*

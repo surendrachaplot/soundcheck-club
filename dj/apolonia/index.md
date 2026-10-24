@@ -1,18 +1,18 @@
 # Apolonia
 
-Apolonia is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 23 Oct 2026.
+Apolonia is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Index, Dublin on Sat, 28 Nov 2026.
 
-Apolonia is a downtempo and electronica artist based in Germany, with 31 gigs on soundcheck across Berlin, Dublin, Hamburg and Munich and 1 more. Often billed alongside WIEK, Krawalle und Liebe and Maurice Mino. Next up: Jonny Knüppel, Berlin on Fri 23 Oct.
+Apolonia is a downtempo and electronica artist based in Germany, with 31 gigs on soundcheck across Berlin, Dublin, Hamburg and Munich and 1 more. Often billed alongside WIEK, Krawalle und Liebe and Maurice Mino. Next up: Index, Dublin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Jonny Knüppel | Berlin |
 | Sat, 28 Nov 2026 | Index | Dublin |
 
 ## Recently played
 
+- Jonny Knüppel, Berlin · Fri, 23 Oct 2026
 - Renate, Berlin · Fri, 16 Oct 2026
 - Lieberscholli, Munich · Sun, 6 Sept 2026
 - Bulbul Berlin, Berlin · Wed, 13 May 2026
@@ -20,10 +20,9 @@ Apolonia is a downtempo and electronica artist based in Germany, with 31 gigs on
 - Südpol, Hamburg · Thu, 1 Jan 2026
 - Crack Bellmer, Berlin · Thu, 20 Nov 2025
 - Hoppetosse, Berlin · Sat, 25 Oct 2025
-- Klunkerkranich, Berlin · Fri, 24 Oct 2025
 
 ## Shares bills with
 
 WIEK, Krawalle und Liebe, Maurice Mino
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apolonia/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apolonia/)*

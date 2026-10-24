@@ -1,6 +1,6 @@
 # RRRKRTA
 
-RRRKRTA is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at West Harlem, Kyoto on Sat, 24 Oct 2026.
+RRRKRTA is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at West Harlem, Kyoto on Sat, 24 Oct 2026.
 
 RRRKRTA is a techno and club artist based in Poland, with 35 gigs on soundcheck across Belgrade, Berlin, Glasgow and Hamburg and 8 more. Often billed alongside Diamin, Elena Colombi and JayJay. Next up: West Harlem, Kyoto on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ RRRKRTA is a techno and club artist based in Poland, with 35 gigs on soundcheck 
 
 Diamin, Elena Colombi, JayJay
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*

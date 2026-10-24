@@ -1,6 +1,6 @@
 # k.tea
 
-k.tea is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Le Bain, New York City on Sun, 25 Oct 2026.
+k.tea is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Le Bain, New York City on Sun, 25 Oct 2026.
 
 k.tea is a house and deep house artist based in United States of America, with 42 gigs on soundcheck across Chicago, Los Angeles and New York City. Often billed alongside Donis, CTRLZORA and Kim Lightfoot. Next up: Le Bain, New York City on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ k.tea is a house and deep house artist based in United States of America, with 4
 
 Donis, CTRLZORA, Kim Lightfoot
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.tea/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.tea/)*

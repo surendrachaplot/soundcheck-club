@@ -1,14 +1,13 @@
 # fabric
 
-fabric is a music venue in London with 32 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "FABRICLIVE X Critical Sound" on Fri, 23 Oct 2026.
+fabric is a music venue in London with 31 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Fool's Paradise: Mark Knight, Mousse T., Michael Gray, Junior Jack, David Penn, Groove P + more" on Sat, 24 Oct 2026.
 
-fabric is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including 2 Bad Mice, Adam Clark, Adana Twins and Alexis Raphael and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 31 upcoming gigs, with line-ups including 2 Bad Mice, Adam Clark, Adana Twins and Alexis Raphael and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | FABRICLIVE X Critical Sound | Amoss, Dub Phizix, Envy, Gino, Jakes, Kasra, Kyrist, LX one, MC GQ, SMG (UK), SP:MC, Sabrina, Samurai Breaks, Sequent, Simula, Skantia, Sully, Sydney Bryce, Waeys |
 | Sat, 24 Oct 2026 | Fool's Paradise: Mark Knight, Mousse T., Michael Gray, Junior Jack, David Penn, Groove P + more | Damian Wilson, David Penn, Groove P, Jaegerossa, Junior Jack, Mark Knight, Michael Gray, Mousse T., Ridney, Soul Avengerz, Suki Soul |
 | Sat, 24 Oct 2026 | fabric: Stephan Bodzin (Live), Ivory, Olympe, Adana Twins, Öona Dahl, LⵣBNA | Adana Twins, Ivory, Olympe, Stephan Bodzin, Öona Dahl |
 | Sun, 25 Oct 2026 | CAYA by fabric: Ben Murphy (All Night Long) | Ben Murphy |
@@ -18,9 +17,10 @@ fabric is a music venue in London listed on soundcheck. 32 upcoming gigs, with l
 | Thu, 5 Nov 2026 | Loukeman | Loukeman |
 | Fri, 6 Nov 2026 | FABRICLIVE: Keyrah B2B Izco, Karen Nyame KG Zengxrl, Lorkestra, Jack Bagshaw, SHAYK | Daviaa, Flores, Izco, Karen Nyame KG, Keyrah, Lorkestra, Mithun, Zengxrl |
 | Sat, 7 Nov 2026 | fabric: Marcel Dettmann, Ellen Allien, Shonky, Marie Montexier, Josh Keit, Nate Oldfield + more | Ellen Allien, Jayson Wynters, Josh Keit, Marcel Dettmann, Marie Montexier, Serenne, Shonky |
+| Sun, 8 Nov 2026 | CAYA by fabric: Step Inside - Lucas Alexander, Bailey, Charlie Rice, FLX, Kayleigh Maria | Bailey (UK), Lucas Alexander, Scon |
 
 ## Address
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

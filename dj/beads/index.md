@@ -1,6 +1,6 @@
 # BEADS
 
-BEADS is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Last Arch, London on Fri, 4 Dec 2026.
+BEADS is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Last Arch, London on Fri, 4 Dec 2026.
 
 BEADS is a techno and club artist, with 19 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Bristol and 10 more. Often billed alongside Annafleur, 6 SENSE and Bianca Scout. Next up: Last Arch, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ BEADS is a techno and club artist, with 19 gigs on soundcheck across Aberdeen, A
 
 Annafleur, 6 SENSE, Bianca Scout
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beads/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beads/)*

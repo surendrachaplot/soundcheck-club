@@ -1,14 +1,13 @@
 # Benny Rodrigues
 
-Benny Rodrigues is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijland, Amsterdam on Fri, 23 Oct 2026.
+Benny Rodrigues is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
-Benny Rodrigues is a house and techno artist based in Netherlands, with 205 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Eindhoven and 5 more. Often billed alongside Michel de Hey, Prunk and Karim Soliman. Next up: Ijland, Amsterdam on Fri 23 Oct.
+Benny Rodrigues is a house and techno artist based in Netherlands, with 205 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Eindhoven and 5 more. Often billed alongside Michel de Hey, Prunk and Karim Soliman. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
@@ -20,20 +19,21 @@ Benny Rodrigues is a house and techno artist based in Netherlands, with 205 gigs
 | Sat, 12 Dec 2026 | Klokgebouw | Eindhoven |
 | Sun, 27 Dec 2026 | Thuishaven | Amsterdam |
 | Thu, 31 Dec 2026 | GASHOUDER | Amsterdam |
+| Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
 
 ## Recently played
 
+- Ijland, Amsterdam · Fri, 23 Oct 2026
+- Radio Radio, Amsterdam · Fri, 23 Oct 2026
 - FOLD, London · Sat, 10 Oct 2026
 - Thuishaven, Amsterdam · Sun, 27 Sept 2026
 - Shelter Amsterdam, Amsterdam · Sat, 19 Sept 2026
 - Bronze Beach, Amsterdam · Sat, 19 Sept 2026
 - Kralingse Bos, Rotterdam · Sat, 12 Sept 2026
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
-- Strijkviertel, Utrecht · Sat, 5 Sept 2026
-- Whitehouse, The Hague · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Michel de Hey, Prunk, Karim Soliman
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*

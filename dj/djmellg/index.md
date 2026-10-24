@@ -1,14 +1,13 @@
 # DJ MELL G
 
-DJ MELL G is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+DJ MELL G is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Zeiss Planetarium Bochum, Bochum on Wed, 28 Oct 2026.
 
-DJ MELL G is a techno and electro artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 54 more. Often billed alongside Newinfluenzer, DJ Stingray 313 and DJ Spit. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+DJ MELL G is a techno and electro artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 54 more. Often billed alongside Newinfluenzer, DJ Stingray 313 and DJ Spit. Next up: Zeiss Planetarium Bochum, Bochum on Wed 28 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Wed, 28 Oct 2026 | Zeiss Planetarium Bochum | Bochum |
 | Fri, 30 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 31 Oct 2026 | Jasna 1 | Warsaw |
@@ -18,17 +17,17 @@ DJ MELL G is a techno and electro artist based in Germany, with 215 gigs on soun
 
 ## Recently played
 
+- RADION, Amsterdam · Fri, 23 Oct 2026
+- Melkweg, Amsterdam · Fri, 23 Oct 2026
 - Luma, Milan · Sat, 3 Oct 2026
 - The White Hotel, Manchester · Fri, 2 Oct 2026
 - Badaboum, Paris · Sat, 26 Sept 2026
 - Uebel & Gefährlich, Hamburg · Fri, 18 Sept 2026
 - Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026
 - Garage Noord, Amsterdam · Fri, 21 Aug 2026
-- 131 Mccormack St, Toronto · Sat, 15 Aug 2026
-- Tokonoma Club, Frankfurt · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Newinfluenzer, DJ Stingray 313, DJ Spit
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*

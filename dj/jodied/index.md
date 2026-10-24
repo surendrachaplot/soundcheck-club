@@ -1,6 +1,6 @@
 # Jodie D
 
-Jodie D is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at 915 Dupont, Toronto on Sat, 24 Oct 2026.
+Jodie D is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 915 Dupont, Toronto on Sat, 24 Oct 2026.
 
 Jodie D is a house and disco artist based in Canada, with 23 gigs on soundcheck across Montreal and Toronto. Often billed alongside Janina Marie, Kiki LeFreak and Sakiko Nagai. Next up: 915 Dupont, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jodie D is a house and disco artist based in Canada, with 23 gigs on soundcheck 
 
 Janina Marie, Kiki LeFreak, Sakiko Nagai
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jodied/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jodied/)*

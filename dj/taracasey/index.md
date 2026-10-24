@@ -1,6 +1,6 @@
 # Tara Casey
 
-Tara Casey is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Rising Sons Brewery, Cork on Sat, 24 Oct 2026.
+Tara Casey is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Rising Sons Brewery, Cork on Sat, 24 Oct 2026.
 
 Tara Casey is a techno and house artist based in Ireland, with 34 gigs on soundcheck across Belfast, Budapest, Cork and Dublin and 1 more. Often billed alongside Devil May Care, NATMAC and Andrew Cairns. Next up: Rising Sons Brewery, Cork on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Tara Casey is a techno and house artist based in Ireland, with 34 gigs on soundc
 
 Devil May Care, NATMAC, Andrew Cairns
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taracasey/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taracasey/)*

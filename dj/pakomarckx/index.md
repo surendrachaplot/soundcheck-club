@@ -1,6 +1,6 @@
 # Pako Marckx
 
-Pako Marckx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at John Doe, Amsterdam on Sat, 24 Oct 2026.
+Pako Marckx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at John Doe, Amsterdam on Sat, 24 Oct 2026.
 
 Pako Marckx is a techno and trance artist based in Belgium, with 21 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bologna and 8 more. Often billed alongside X&trick, Jan Vercauteren and DXPE (ES). Next up: John Doe, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Pako Marckx is a techno and trance artist based in Belgium, with 21 gigs on soun
 
 X&trick, Jan Vercauteren, DXPE (ES)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pakomarckx/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pakomarckx/)*

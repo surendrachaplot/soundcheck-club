@@ -1,14 +1,13 @@
 # Tanison
 
-Tanison is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at El Chapo Cocktail Bar, Athens on Sat, 24 Oct 2026.
+Tanison is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Gazi View, Athens on Fri, 6 Nov 2026.
 
-Tanison is a techno and progressive house artist based in Greece, with 56 gigs on soundcheck across Athens. Often billed alongside Deherian, SCTR and Christian Cambas. Next up: El Chapo Cocktail Bar, Athens on Sat 24 Oct.
+Tanison is a techno and progressive house artist based in Greece, with 56 gigs on soundcheck across Athens. Often billed alongside Deherian, SCTR and Christian Cambas. Next up: Gazi View, Athens on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | El Chapo Cocktail Bar | Athens |
 | Fri, 6 Nov 2026 | Gazi View | Athens |
 | Fri, 13 Nov 2026 | Oddity Club | Athens |
 
@@ -27,4 +26,4 @@ Tanison is a techno and progressive house artist based in Greece, with 56 gigs o
 
 Deherian, SCTR (2), Christian Cambas
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanison/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanison/)*

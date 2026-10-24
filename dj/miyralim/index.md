@@ -1,6 +1,6 @@
 # Miyra Lim
 
-Miyra Lim is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Celeste, Vienna on Sat, 24 Oct 2026.
+Miyra Lim is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Celeste, Vienna on Sat, 24 Oct 2026.
 
 Miyra Lim is a house and trance artist, with 35 gigs on soundcheck across Berlin, Copenhagen and Vienna. Often billed alongside JP Bechamel, AfroNinja and Reeno Reluv. Next up: Celeste, Vienna on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Miyra Lim is a house and trance artist, with 35 gigs on soundcheck across Berlin
 
 JP Bechamel, AfroNinja, Reeno Reluv
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyralim/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyralim/)*

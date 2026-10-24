@@ -1,6 +1,6 @@
 # Shins
 
-Shins is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Social Room, Hong Kong on Sat, 24 Oct 2026.
+Shins is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Social Room, Hong Kong on Sat, 24 Oct 2026.
 
 Shins is a jungle and garage artist based in South Korea, with 123 gigs on soundcheck across Bangkok, Beijing, Hong Kong and Kyoto and 2 more. Often billed alongside Mordecai, DJ Co.kr and Hyejin. Next up: Social Room, Hong Kong on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Shins is a jungle and garage artist based in South Korea, with 123 gigs on sound
 
 Mordecai, DJ Co.kr, Hyejin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shins/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shins/)*

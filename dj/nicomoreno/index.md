@@ -1,6 +1,6 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
+Nico Moreno is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
 
 Nico Moreno is a techno and house artist based in France, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 85 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Kameleonten Areena, Finland on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Nico Moreno is a techno and house artist based in France, with 225 gigs on sound
 
 I Hate Models, DYEN, Trym
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

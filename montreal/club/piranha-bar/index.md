@@ -1,6 +1,6 @@
 # Piranha Bar
 
-Piranha Bar is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Trance Classics vol.2" on Fri, 6 Nov 2026.
+Piranha Bar is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Trance Classics vol.2" on Fri, 6 Nov 2026.
 
 Piranha Bar is a music venue in Montreal listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 680 Saint-Catherine St W, Montreal, Quebec H3B 1C2.
 
@@ -14,4 +14,4 @@ Piranha Bar is a music venue in Montreal listed on soundcheck. 1 upcoming gig. S
 
 680 Saint-Catherine St W, Montreal, Quebec H3B 1C2, Montreal
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piranha-bar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piranha-bar/)*

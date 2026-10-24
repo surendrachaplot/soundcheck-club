@@ -1,6 +1,6 @@
 # JNJS
 
-JNJS is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pacha Ibiza, Ibiza on Fri, 30 Oct 2026.
+JNJS is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Pacha Ibiza, Ibiza on Fri, 30 Oct 2026.
 
 JNJS is a house and minimal artist based in Spain, with 81 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside Tania Vulcano, Carlos Vila and Sossa. Next up: Pacha Ibiza, Ibiza on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ JNJS is a house and minimal artist based in Spain, with 81 gigs on soundcheck ac
 
 Tania Vulcano, Carlos Vila, Sossa
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*

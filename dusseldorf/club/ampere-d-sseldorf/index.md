@@ -1,6 +1,6 @@
 # Ampere Düsseldorf
 
-Ampere Düsseldorf is a music venue in Düsseldorf with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "penrose rebirth" on Sat, 24 Oct 2026.
+Ampere Düsseldorf is a music venue in Düsseldorf with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "penrose rebirth" on Sat, 24 Oct 2026.
 
 Ampere Düsseldorf is a music venue in Düsseldorf listed on soundcheck. 2 upcoming gigs, with line-ups including Anna Reusch, Frank Sonic and Thomas Schumacher. See dates, start times and who's playing. Ronsdorfer Straße 134, 40233 Düsseldorf.
 
@@ -15,4 +15,4 @@ Ampere Düsseldorf is a music venue in Düsseldorf listed on soundcheck. 2 upcom
 
 Ronsdorfer Straße 134, 40233 Düsseldorf, Düsseldorf
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/ampere-d-sseldorf/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/ampere-d-sseldorf/)*

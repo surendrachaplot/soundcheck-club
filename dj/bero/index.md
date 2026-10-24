@@ -1,6 +1,6 @@
 # Bero
 
-Bero is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 24 Oct 2026.
+Bero is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 24 Oct 2026.
 
 Bero is a techno and experimental artist based in Georgia, with 58 gigs on soundcheck across Rome and Tbilisi. Often billed alongside Gio Shengelia, Toko k and Giorgi Devadze. Next up: Mtkvarze, Tbilisi on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bero is a techno and experimental artist based in Georgia, with 58 gigs on sound
 
 Gio Shengelia, Toko k, Giorgi Devadze
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bero/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bero/)*

@@ -1,6 +1,6 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+Julie Desire is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
 Julie Desire is a techno and house artist based in France, with 122 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bologna and 26 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Julie Desire is a techno and house artist based in France, with 122 gigs on soun
 
 Cheriii, Mars O10C, A-440
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*

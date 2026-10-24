@@ -1,6 +1,6 @@
 # Naomi Duan
 
-Naomi Duan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
+Naomi Duan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
 
 Naomi Duan is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Boston, Detroit, Miami and New York City and 1 more. Often billed alongside 1morning, Alex Stein and Daybreak. Next up: Honey's, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Naomi Duan is a techno and house artist based in United States of America, with 
 
 1morning, Alex Stein, Daybreak
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naomiduan/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naomiduan/)*

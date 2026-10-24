@@ -1,18 +1,18 @@
 # LUPE (3)
 
-LUPE (3) is a Downtempo and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hello Stranger, Los Angeles on Fri, 23 Oct 2026.
+LUPE (3) is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Apotheke, Los Angeles on Fri, 6 Nov 2026.
 
-LUPE is a downtempo and deep house artist, with 9 gigs on soundcheck across Los Angeles. Often billed alongside Glo Phase, wave Groove and Jessie Calistri. Next up: Hello Stranger, Los Angeles on Fri 23 Oct.
+LUPE is a downtempo and deep house artist, with 9 gigs on soundcheck across Los Angeles. Often billed alongside Glo Phase, wave Groove and Jessie Calistri. Next up: Apotheke, Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Hello Stranger | Los Angeles |
 | Fri, 6 Nov 2026 | Apotheke | Los Angeles |
 
 ## Recently played
 
+- Hello Stranger, Los Angeles · Fri, 23 Oct 2026
 - The Stowaway, Los Angeles · Sat, 9 Aug 2025
 - Melody Lounge, Los Angeles · Wed, 14 May 2025
 - Melody Lounge, Los Angeles · Wed, 9 Apr 2025
@@ -25,4 +25,4 @@ LUPE is a downtempo and deep house artist, with 9 gigs on soundcheck across Los 
 
 Glo Phase, wave Groove, Jessie Calistri
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lupe-3/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lupe-3/)*

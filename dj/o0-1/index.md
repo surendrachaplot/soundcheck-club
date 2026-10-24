@@ -1,6 +1,6 @@
 # o0 (1)
 
-o0 (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Unmute, Hanoi on Sat, 24 Oct 2026.
+o0 (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Unmute, Hanoi on Sat, 24 Oct 2026.
 
 o0 is a techno and house artist based in China, with 32 gigs on soundcheck across Hanoi, Hong Kong, San Francisco/Oakland and Shenzhen. Often billed alongside Jascer, mingo and Alion. Next up: Unmute, Hanoi on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ o0 is a techno and house artist based in China, with 32 gigs on soundcheck acros
 
 Jascer, mingo, Alion
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o0-1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o0-1/)*

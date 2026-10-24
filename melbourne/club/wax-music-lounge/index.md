@@ -1,6 +1,6 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 49 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "TRIBE" on Sat, 24 Oct 2026.
+Wax Music Lounge is a music venue in Melbourne with 49 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "TRIBE" on Sat, 24 Oct 2026.
 
 Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 49 upcoming gigs, with line-ups including CHARLES-EDDY, leverson and Savage The Girl. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
@@ -23,4 +23,4 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 49 upcoming
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

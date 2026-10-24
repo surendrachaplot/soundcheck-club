@@ -1,6 +1,6 @@
 # Birdee
 
-Birdee is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bungalow Huntington Beach, Orange County on Sun, 25 Oct 2026.
+Birdee is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Bungalow Huntington Beach, Orange County on Sun, 25 Oct 2026.
 
 Birdee is a house and disco artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Leeds, London and Los Angeles and 6 more. Often billed alongside Bustin' Loose, Colour Vision and Monsieur Van Pratt. Next up: The Bungalow Huntington Beach, Orange County on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Birdee is a house and disco artist based in United Kingdom, with 23 gigs on soun
 
 Bustin' Loose, Colour Vision, Monsieur Van Pratt
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/birdee/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/birdee/)*

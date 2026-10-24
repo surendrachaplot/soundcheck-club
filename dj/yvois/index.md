@@ -1,6 +1,6 @@
 # yvois
 
-yvois is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Zemin Art Gallery, Berlin on Thu, 10 Dec 2026.
+yvois is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Zemin Art Gallery, Berlin on Thu, 10 Dec 2026.
 
 yvois is a house and bass artist based in New Zealand, with 15 gigs on soundcheck across Berlin. Often billed alongside DJ Vela, Sk [Rain] and Terri Lee. Next up: Zemin Art Gallery, Berlin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ yvois is a house and bass artist based in New Zealand, with 15 gigs on soundchec
 
 DJ Vela, Sk [Rain], Terri Lee
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yvois/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yvois/)*

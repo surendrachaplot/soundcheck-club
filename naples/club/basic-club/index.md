@@ -1,6 +1,6 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "TRAXMISSIONI • Simo Cell + Metilammina, Rainer Monaco" on Sat, 24 Oct 2026.
+Basic Club is a music venue in Naples with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "TRAXMISSIONI • Simo Cell + Metilammina, Rainer Monaco" on Sat, 24 Oct 2026.
 
 Basic Club is a music venue in Naples listed on soundcheck. 13 upcoming gigs, with line-ups including Mariiin, Aldo Rosati, Alfonso Mauro and Antonio Grassia and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
@@ -23,4 +23,4 @@ Basic Club is a music venue in Naples listed on soundcheck. 13 upcoming gigs, wi
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

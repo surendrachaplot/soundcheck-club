@@ -1,6 +1,6 @@
 # Jay Turio
 
-Jay Turio is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at DeTour, Tokyo on Sun, 25 Oct 2026.
+Jay Turio is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at DeTour, Tokyo on Sun, 25 Oct 2026.
 
 Jay Turio is a trance and techno artist based in France, with 47 gigs on soundcheck across Tokyo. Often billed alongside Okamon, BEPPU and Gilles de la Mare. Next up: DeTour, Tokyo on Sun 25 Oct.
 
@@ -12,6 +12,7 @@ Jay Turio is a trance and techno artist based in France, with 47 gigs on soundch
 
 ## Recently played
 
+- Nagomix, Tokyo · Fri, 23 Oct 2026
 - DeTour, Tokyo · Fri, 9 Oct 2026
 - DeTour, Tokyo · Sun, 27 Sept 2026
 - Nagomix, Tokyo · Fri, 25 Sept 2026
@@ -19,10 +20,9 @@ Jay Turio is a trance and techno artist based in France, with 47 gigs on soundch
 - DeTour, Tokyo · Sun, 30 Aug 2026
 - Nagomix, Tokyo · Fri, 28 Aug 2026
 - DeTour, Tokyo · Tue, 4 Aug 2026
-- DeTour, Tokyo · Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Okamon, BEPPU, Gilles de la Mare
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayturio/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayturio/)*

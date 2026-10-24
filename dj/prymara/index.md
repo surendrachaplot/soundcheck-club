@@ -1,6 +1,6 @@
 # PRYMARA
 
-PRYMARA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Abyss Shanghai, Shanghai on Sat, 24 Oct 2026.
+PRYMARA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Abyss Shanghai, Shanghai on Sat, 24 Oct 2026.
 
 PRYMARA is a techno and trance artist, with 96 gigs on soundcheck across Bali, Beijing, Berlin and Kuala Lumpur and 2 more. Often billed alongside DISCIPLINE, DJ GOGA and DJ EBP. Next up: Abyss Shanghai, Shanghai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ PRYMARA is a techno and trance artist, with 96 gigs on soundcheck across Bali, B
 
 DISCIPLINE, DJ GOGA, DJ EBP
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prymara/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prymara/)*

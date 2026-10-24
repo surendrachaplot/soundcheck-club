@@ -1,6 +1,6 @@
 # Vlad Starque
 
-Vlad Starque is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Blend XL, Amsterdam on Sat, 24 Oct 2026.
+Vlad Starque is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Blend XL, Amsterdam on Sat, 24 Oct 2026.
 
 Vlad Starque is a house and progressive house artist based in Lithuania, with 10 gigs on soundcheck across Amsterdam, Budapest and Riga. Often billed alongside Kapusta, Rexton and ANESI. Next up: Blend XL, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Vlad Starque is a house and progressive house artist based in Lithuania, with 10
 
 Kapusta, Rexton, ANESI
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladstarque/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladstarque/)*

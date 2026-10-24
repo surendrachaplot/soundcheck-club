@@ -1,6 +1,6 @@
 # Andrea Ida
 
-Andrea Ida is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at kv.r., Vienna on Thu, 12 Nov 2026.
+Andrea Ida is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at kv.r., Vienna on Thu, 12 Nov 2026.
 
 Andrea Ida is an electronica and experimental artist based in Austria, with 14 gigs on soundcheck across Berlin and Vienna. Often billed alongside FEELX, Inou Ki Endo and S.verin. Next up: kv.r., Vienna on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Andrea Ida is an electronica and experimental artist based in Austria, with 14 g
 
 FEELX, Inou Ki Endo, S.verin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaida/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaida/)*

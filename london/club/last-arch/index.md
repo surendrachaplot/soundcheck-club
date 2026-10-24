@@ -1,14 +1,13 @@
 # Last Arch
 
-Last Arch is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Double Dip: Just Jane + DASHY & more" on Fri, 23 Oct 2026.
+Last Arch is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Archie Holmes x Arts of the Unknown - Vol.02" on Sat, 24 Oct 2026.
 
-Last Arch is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Archie Holmes, Arts of the Unknown, BEADS and Bunney and 2 more. See dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
+Last Arch is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Archie Holmes, Arts of the Unknown, BEADS and Bunney and 2 more. See dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Double Dip: Just Jane + DASHY & more | DASHY, Just Jane |
 | Sat, 24 Oct 2026 | Archie Holmes x Arts of the Unknown - Vol.02 | Archie Holmes, Arts of the Unknown, Dimi Darko, J. Peacock |
 | Fri, 30 Oct 2026 | [CANCELLED] Más Música | HiFever, Luke Mannion, Ryan Nicholls, Timmy P, Tobias Lineker, Vince LaSalle |
 | Sat, 31 Oct 2026 | Holy Grail Presents: Halloween with Higgo | Higgo, THIRZA |
@@ -18,9 +17,10 @@ Last Arch is a music venue in London listed on soundcheck. 17 upcoming gigs, wit
 | Fri, 20 Nov 2026 | Precinct | Harry Frame, Jiminy Watts, Touré |
 | Sat, 21 Nov 2026 | Archive Theory 001 | DJ Ink, Ryme Tyme, Universal Project |
 | Sat, 21 Nov 2026 | TASTE NIGHT CLUB |  |
+| Fri, 27 Nov 2026 | 23 Degrees: G33 - All Night Long | G33 (UK) |
 
 ## Address
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

@@ -1,6 +1,6 @@
 # NorthSouth
 
-NorthSouth is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Vittoria Wharf Studio, London on Fri, 20 Nov 2026.
+NorthSouth is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Vittoria Wharf Studio, London on Fri, 20 Nov 2026.
 
 NorthSouth is a house and tech house artist, with 32 gigs on soundcheck across Bristol, Leeds, London and Manchester. Often billed alongside Dale Mussington, Harry McCanna and Sam Bangura. Next up: Vittoria Wharf Studio, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ NorthSouth is a house and tech house artist, with 32 gigs on soundcheck across B
 
 Dale Mussington, Harry McCanna, Sam Bangura
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/northsouth/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/northsouth/)*

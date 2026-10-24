@@ -1,15 +1,13 @@
 # Pedro Gariani
 
-Pedro Gariani is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
+Pedro Gariani is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Cine Jussara, Sao Paulo on Sat, 14 Nov 2026.
 
-Pedro Gariani is a house and disco artist based in Brazil, with 60 gigs on soundcheck across Amsterdam, Brazil, Buenos Aires and Rio de Janeiro and 1 more. Often billed alongside Dioun, Etcetera and Paulete Lindacelva. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
+Pedro Gariani is a house and disco artist based in Brazil, with 60 gigs on soundcheck across Amsterdam, Brazil, Buenos Aires and Rio de Janeiro and 1 more. Often billed alongside Dioun, Etcetera and Paulete Lindacelva. Next up: Cine Jussara, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Dune Park | Buenos Aires |
-| Fri, 23 Oct 2026 | Dune Park | Buenos Aires |
 | Sat, 14 Nov 2026 | Cine Jussara | Sao Paulo |
 | Fri, 20 Nov 2026 | Sonora Garden | Sao Paulo |
 | Sat, 12 Dec 2026 | TBA | Sao Paulo |
@@ -17,17 +15,17 @@ Pedro Gariani is a house and disco artist based in Brazil, with 60 gigs on sound
 
 ## Recently played
 
+- Dune Park, Buenos Aires · Fri, 23 Oct 2026
+- Dune Park, Buenos Aires · Fri, 23 Oct 2026
 - Zig Studio, Sao Paulo · Fri, 14 Aug 2026
 - Armazén Solon, Sao Paulo · Sat, 8 Aug 2026
 - TBA, Sao Paulo · Sat, 8 Aug 2026
 - TILLATEC, Amsterdam · Sun, 2 Aug 2026
 - Sonora Garden, Sao Paulo · Fri, 5 Jun 2026
 - Edifício Martinelli, Sao Paulo · Thu, 4 Jun 2026
-- Sonora Garden, Sao Paulo · Fri, 17 Apr 2026
-- Edifício Renata, Sao Paulo · Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Dioun, Etcetera, Paulete Lindacelva
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogariani/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogariani/)*

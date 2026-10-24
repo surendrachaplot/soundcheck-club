@@ -1,6 +1,6 @@
 # Duck Trash
 
-Duck Trash is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at SOS, Detroit on Sat, 24 Oct 2026.
+Duck Trash is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at SOS, Detroit on Sat, 24 Oct 2026.
 
 Duck Trash is a techno and house artist based in United States of America, with 130 gigs on soundcheck across Adelaide, Chicago, Cleveland and Detroit and 3 more. Often billed alongside Amino, Garrison XR and hypemelo. Next up: SOS, Detroit on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Duck Trash is a techno and house artist based in United States of America, with 
 
 Amino, Garrison XR, hypemelo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ducktrash/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ducktrash/)*

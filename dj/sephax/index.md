@@ -1,6 +1,6 @@
 # SEPHAX
 
-SEPHAX is a Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bassement, Madrid on Sat, 24 Oct 2026.
+SEPHAX is a Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Bassement, Madrid on Sat, 24 Oct 2026.
 
 SEPHAX is an industrial artist, with 11 gigs on soundcheck across Madrid. Often billed alongside Cristobal Pesce, RMXR and 6EJOU. Next up: The Bassement, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SEPHAX is an industrial artist, with 11 gigs on soundcheck across Madrid. Often 
 
 Cristobal Pesce, RMXR, 6EJOU
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sephax/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sephax/)*

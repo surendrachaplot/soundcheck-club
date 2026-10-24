@@ -13,6 +13,6 @@ Igloofest MTL #3: Chris Lorenzo on Sat 16 Jan, Montreal. 4 artists: Chris Lorenz
 - Chris Lorenzo
 - No Police
 - SALOME
-- Xia
+- Xia (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2566104-igloofest-mtl-3-chris-lorenzo-at-igloofest/)*

@@ -1,14 +1,13 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SOLD OUT Romare (DJ Set)" on Fri, 23 Oct 2026.
+Fidelity Studio is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Circles: BRIDGE" on Sat, 24 Oct 2026.
 
-Fidelity Studio is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including Basic Channel, Bridge (NY), Call Super and Dr Banana and 2 more. See dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
+Fidelity Studio is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Basic Channel, Bridge (NY), Call Super and Dr Banana and 2 more. See dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | SOLD OUT Romare (DJ Set) | Romare |
 | Sat, 24 Oct 2026 | Circles: BRIDGE | Bridge (NY) |
 | Sun, 25 Oct 2026 | Gerd Janson | Gerd Janson |
 | Mon, 26 Oct 2026 | Emmy Shigeta + Friends | Emmy Shigeta |
@@ -23,4 +22,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 10 upcoming gig
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

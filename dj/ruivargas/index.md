@@ -1,6 +1,6 @@
 # Rui Vargas
 
-Rui Vargas is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 30 Oct 2026.
+Rui Vargas is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 30 Oct 2026.
 
 Rui Vargas is a house and electronica artist based in Portugal, with 133 gigs on soundcheck across Lausanne, Lisbon, Mexico City and Porto and 1 more. Often billed alongside Vargas, Varela and Yen Sung. Next up: Lux Fragil, Lisbon on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Rui Vargas is a house and electronica artist based in Portugal, with 133 gigs on
 
 Vargas, Varela, Yen Sung
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruivargas/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruivargas/)*

@@ -1,6 +1,6 @@
 # The Triffid
 
-The Triffid is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "SMOKEDOPE2016 - BRIS - The Triffid" on Fri, 11 Dec 2026.
+The Triffid is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "SMOKEDOPE2016 - BRIS - The Triffid" on Fri, 11 Dec 2026.
 
 The Triffid is a music venue in Brisbane listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Triffid is a music venue in Brisbane listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | SMOKEDOPE2016 - BRIS - The Triffid |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-triffid/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-triffid/)*

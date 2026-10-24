@@ -1,6 +1,6 @@
 # DomnRob
 
-DomnRob is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 24 Oct 2026.
+DomnRob is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 24 Oct 2026.
 
 DomnRob is a techno and trance artist based in United States of America, with 41 gigs on soundcheck across Miami and Philadelphia. Often billed alongside Dadrev, PROLETAR and Mr. Proper. Next up: The Ground at Club Space, Miami on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DomnRob is a techno and trance artist based in United States of America, with 41
 
 Dadrev, PROLETAR, Mr. Proper
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domnrob/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domnrob/)*

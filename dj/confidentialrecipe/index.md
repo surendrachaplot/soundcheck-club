@@ -1,6 +1,6 @@
 # Confidential Recipe
 
-Confidential Recipe is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
+Confidential Recipe is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
 
 Confidential Recipe is a techno and house artist based in Colombia, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 7 more. Often billed alongside DJ MELEJ, Dagga and RACH. Next up: Kater, Berlin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Confidential Recipe is a techno and house artist based in Colombia, with 77 gigs
 
 DJ MELEJ, Dagga, RACH
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*

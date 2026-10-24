@@ -1,6 +1,6 @@
 # DAIZ
 
-DAIZ is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 24 Oct 2026.
+DAIZ is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cupra City Garage Manchester, Manchester on Sat, 24 Oct 2026.
 
 DAIZ is a garage and drum & bass artist based in United Kingdom, with 64 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside Miggs, Metrodome and Jack Banner. Next up: Cupra City Garage Manchester, Manchester on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DAIZ is a garage and drum & bass artist based in United Kingdom, with 64 gigs on
 
 Miggs, Metrodome, Jack Banner
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daiz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daiz/)*

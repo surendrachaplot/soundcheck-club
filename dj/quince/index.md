@@ -1,6 +1,6 @@
 # Quince
 
-Quince is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Chicago on Fri, 23 Oct 2026.
+Quince is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Chicago on Fri, 23 Oct 2026.
 
 Quince is a trance and techno artist based in Netherlands, with 9 gigs on soundcheck across Berlin, Chicago, Glasgow and Madrid and 1 more. Often billed alongside H1pnos1s, Da Terror and Sandwicho. Next up: TBA, Chicago on Fri 23 Oct.
 
@@ -14,6 +14,7 @@ Quince is a trance and techno artist based in Netherlands, with 9 gigs on soundc
 
 ## Recently played
 
+- TBA, Chicago · Fri, 23 Oct 2026
 - Fabrik, Madrid · Sat, 3 Oct 2026
 - Lokschuppen Berlin, Berlin · Sat, 13 Dec 2025
 - Mondo, Madrid · Thu, 25 Sept 2025
@@ -25,4 +26,4 @@ Quince is a trance and techno artist based in Netherlands, with 9 gigs on soundc
 
 H1pnos1s, Da Terror, Sandwicho
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quince/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quince/)*

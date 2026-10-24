@@ -1,6 +1,6 @@
 # Mahnoor
 
-Mahnoor is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cu, London on Wed, 4 Nov 2026.
+Mahnoor is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cu, London on Wed, 4 Nov 2026.
 
 Mahnoor is a garage and dubstep artist based in United Kingdom, with 31 gigs on soundcheck across London. Often billed alongside Ab.Diablo, Arthi and Izzi. Next up: Cu, London on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Mahnoor is a garage and dubstep artist based in United Kingdom, with 31 gigs on 
 
 Ab.Diablo, Arthi, Izzi
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahnoor/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahnoor/)*

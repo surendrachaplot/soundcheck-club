@@ -1,6 +1,6 @@
 # ARLYSS
 
-ARLYSS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The BBE Store, London on Fri, 30 Oct 2026.
+ARLYSS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The BBE Store, London on Fri, 30 Oct 2026.
 
 ARLYSS is a house and disco artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam and London. Often billed alongside Davide Del Vecchio, Alfaz and Dan Cluskey. Next up: The BBE Store, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ ARLYSS is a house and disco artist based in United Kingdom, with 63 gigs on soun
 
 Davide Del Vecchio, Alfaz, Dan Cluskey
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arlyss/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arlyss/)*

@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Rex Club presents: Sama' Abdulhadi All night long" on Fri, 23 Oct 2026.
+Rex Club is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "House Of Groove invite: Dan Ghenacia, Melody" on Sat, 24 Oct 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including Antal, Anthea, Avenir and Axel Blanc and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Antal, Anthea, Avenir and Axel Blanc and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Rex Club presents: Sama' Abdulhadi All night long | Sama' Abdulhadi |
 | Sat, 24 Oct 2026 | House Of Groove invite: Dan Ghenacia, Melody | Dan Ghenacia, Melody RA+RE |
 | Sun, 25 Oct 2026 | LEGENDS: Moodymann, Jovonn, DJ Deep | DJ Deep, Jovonn, Moodymann |
 | Wed, 28 Oct 2026 | HOTLINE AGENCY presents BETÏSES & Britney Speed extended set | BETÏSES, Britney Speed |
@@ -18,9 +17,10 @@ Rex Club is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with 
 | Wed, 4 Nov 2026 | Westfall presents Reload: Manil b2b Westfall, Shoshana, Spaece | Westfall |
 | Fri, 6 Nov 2026 | BLEU MON JULES: Carla Mo, Babar, Iron Prado, Babuuh | Babar |
 | Sat, 7 Nov 2026 | Rex Club presents: Antal all night long | Antal |
+| Tue, 10 Nov 2026 | Rex Club presents: Gabriel Belabas b2b Poggio all night long | Poggio |
 
 ## Address
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

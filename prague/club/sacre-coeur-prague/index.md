@@ -1,14 +1,13 @@
 # Sacre Coeur Prague
 
-Sacre Coeur Prague is a music venue in Prague with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DNB[SPACE] with S.P.Y & QZB" on Fri, 23 Oct 2026.
+Sacre Coeur Prague is a music venue in Prague with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Church Rave † Golpe all night long" on Sat, 24 Oct 2026.
 
-Sacre Coeur Prague is a music venue in Prague listed on soundcheck. 5 upcoming gigs, with line-ups including Broken Robot, Eska, Golpe and Ketacaos and 2 more. See dates, start times and who's playing. Holečkova 31, Praha 5, 15000, Czech Republic.
+Sacre Coeur Prague is a music venue in Prague listed on soundcheck. 4 upcoming gigs, with line-ups including Broken Robot, Golpe, Ketacaos and KOBOV and 2 more. See dates, start times and who's playing. Holečkova 31, Praha 5, 15000, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | DNB[SPACE] with S.P.Y & QZB | Eska, Markee Ledge, S.P.Y, Sheriff |
 | Sat, 24 Oct 2026 | Church Rave † Golpe all night long | Broken Robot, Golpe |
 | Fri, 30 Oct 2026 | CHURCH RAVE † HARDTECHNOWEEN | Ketacaos, NONSENSE (CZ), Nøteleks, Paul Krist, RiVid, S*Y*N*K |
 | Fri, 30 Oct 2026 | Church rave Hardtechnoween | Ketacaos, Nonsense, Nøteleks, Paul Krist, RiVid, S*Y*N*K |
@@ -18,4 +17,4 @@ Sacre Coeur Prague is a music venue in Prague listed on soundcheck. 5 upcoming g
 
 Holečkova 31, Praha 5, 15000, Czech Republic, Prague
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sacre-coeur-prague/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sacre-coeur-prague/)*

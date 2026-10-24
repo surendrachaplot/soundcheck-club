@@ -1,6 +1,6 @@
 # Parallelle
 
-Parallelle is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Concourse Project, Austin on Sun, 25 Oct 2026.
+Parallelle is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Concourse Project, Austin on Sun, 25 Oct 2026.
 
 Parallelle is a house and deep house artist based in Netherlands, with 118 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside Jan Blomqvist, Bedouin and CamelPhat. Next up: The Concourse Project, Austin on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Parallelle is a house and deep house artist based in Netherlands, with 118 gigs 
 
 Jan Blomqvist, Bedouin, CamelPhat
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*

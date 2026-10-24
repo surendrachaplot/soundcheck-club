@@ -1,6 +1,6 @@
 # Jay Celino
 
-Jay Celino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Penthouse, Glasgow on Sat, 31 Oct 2026.
+Jay Celino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Penthouse, Glasgow on Sat, 31 Oct 2026.
 
 Jay Celino is a house and techno artist, with 29 gigs on soundcheck across Glasgow and London. Often billed alongside Ferrie, Murphy and Gourlay. Next up: The Penthouse, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jay Celino is a house and techno artist, with 29 gigs on soundcheck across Glasg
 
 Ferrie, Murphy, Gourlay
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycelino/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycelino/)*

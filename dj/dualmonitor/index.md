@@ -1,6 +1,6 @@
 # Dual Monitor
 
-Dual Monitor is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Barn Radio, Portland on Fri, 23 Oct 2026.
+Dual Monitor is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Barn Radio, Portland on Fri, 23 Oct 2026.
 
 Dual Monitor is a bass and techno artist based in United Kingdom, with 56 gigs on soundcheck across Bristol, Cardiff, Chicago and Copenhagen and 14 more. Often billed alongside Pluralist (UK), BLUMITSU and Frazer Ray. Next up: Barn Radio, Portland on Fri 23 Oct.
 
@@ -15,6 +15,7 @@ Dual Monitor is a bass and techno artist based in United Kingdom, with 56 gigs o
 
 ## Recently played
 
+- Barn Radio, Portland · Fri, 23 Oct 2026
 - Bal Chavaux, Paris · Fri, 9 Oct 2026
 - Fuchs2, Prague · Fri, 25 Sept 2026
 - radial, London · Sat, 12 Sept 2026
@@ -22,10 +23,9 @@ Dual Monitor is a bass and techno artist based in United Kingdom, with 56 gigs o
 - TBA - Near Salisbury, London · Fri, 12 Jun 2026
 - District Cardiff, Cardiff · Sun, 31 May 2026
 - The Carpet Shop, London · Fri, 29 May 2026
-- TBA - Secret Location, New York City · Sat, 16 May 2026
 
 ## Shares bills with
 
 Pluralist (UK), BLUMITSU, Frazer Ray
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dualmonitor/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dualmonitor/)*

@@ -1,6 +1,6 @@
 # DURDENHAUER
 
-DURDENHAUER is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Comfort Zone, Toronto on Fri, 30 Oct 2026.
+DURDENHAUER is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Comfort Zone, Toronto on Fri, 30 Oct 2026.
 
 DURDENHAUER is a techno and trance artist based in France, with 81 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bordeaux and 25 more. Often billed alongside Kichta, Carla Schmitt and Fenrick. Next up: The Comfort Zone, Toronto on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ DURDENHAUER is a techno and trance artist based in France, with 81 gigs on sound
 
 Kichta, Carla Schmitt, Fenrick
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*

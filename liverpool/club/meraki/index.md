@@ -1,14 +1,13 @@
 # Meraki
 
-Meraki is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Tribe Select - A Night of Techno" on Fri, 23 Oct 2026.
+Meraki is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "MISS HONEY'S HOTLINE: VOLUME 2" on Sat, 24 Oct 2026.
 
-Meraki is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including CHVZ, CIVILIAN, cuci cuci coo and djcd and 2 more. See dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
+Meraki is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with line-ups including CHVZ, CIVILIAN, cuci cuci coo and djcd and 2 more. See dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Tribe Select - A Night of Techno | Molloy |
 | Sat, 24 Oct 2026 | MISS HONEY'S HOTLINE: VOLUME 2 | CHVZ, CIVILIAN, EDJM, Princess Elf Bar, Shemm, millwac |
 | Fri, 30 Oct 2026 | Sianard Events: Ali U |  |
 | Sat, 31 Oct 2026 | A Warped Halloween: Samurai Breaks, Napes, Settle Down + more [SOLD OUT]  | MYOHMY, Napes, Samurai Breaks, Settle Down |
@@ -23,4 +22,4 @@ Meraki is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, wit
 
 3 Dickson St, Liverpool, L3 7EB, United Kingdom, Liverpool
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*

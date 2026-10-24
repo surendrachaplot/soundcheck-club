@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "elifaces #4 hosted by Red Harmony & R-SOHR" on Fri, 23 Oct 2026.
+elipamanoke is a music venue in Leipzig with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Red Harmony" on Fri, 23 Oct 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 17 upcoming gigs, with line-ups including :MUMM, Acid Goldee, Aio and a:technuk and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -8,7 +8,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 17 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | elifaces #4 hosted by Red Harmony & R-SOHR | DJ ritalino, MAGDALENA MAY, Medha, Philipp Drube, R-SOHR |
+| Fri, 23 Oct 2026 | Red Harmony |  |
 | Sat, 24 Oct 2026 | SUGARBASS |  |
 | Sun, 25 Oct 2026 | 2 JAHRE NACHLEGEN | Hypnosta, KREONE, MIDNXGHT, UNTENLINKS |
 | Wed, 28 Oct 2026 | between x Soft Violence | Mariposa x Lyra, Richie Rollin, VLUNA |
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 17 upcoming gigs, 
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

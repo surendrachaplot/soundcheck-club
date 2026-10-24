@@ -1,6 +1,6 @@
 # Djen
 
-Djen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 7 Nov 2026.
+Djen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 7 Nov 2026.
 
 Djen is a techno and house artist based in Spain, with 48 gigs on soundcheck across Lisbon, Madrid and Miami. Often billed alongside Reitze, Tucu (Tucu) and Belkan. Next up: Hangar48 Club, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Djen is a techno and house artist based in Spain, with 48 gigs on soundcheck acr
 
 Reitze, Tucu (Tucu), Belkan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djen/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djen/)*

@@ -1,6 +1,6 @@
 # Schleuse Zwei
 
-Schleuse Zwei is a music venue in Düsseldorf with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Northern Soul Night with Checco Carmignani, Dave Duplock, Christian Goetze, Gerd Baum" on Sat, 24 Oct 2026.
+Schleuse Zwei is a music venue in Düsseldorf with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Northern Soul Night with Checco Carmignani, Dave Duplock, Christian Goetze, Gerd Baum" on Sat, 24 Oct 2026.
 
 Schleuse Zwei is a music venue in Düsseldorf listed on soundcheck. 5 upcoming gigs, with line-ups including Bufiman and Keshavara. See dates, start times and who's playing. Aachener Str. 39, 40223 Düsseldorf, Germany.
 
@@ -18,4 +18,4 @@ Schleuse Zwei is a music venue in Düsseldorf listed on soundcheck. 5 upcoming g
 
 Aachener Str. 39, 40223 Düsseldorf, Germany, Düsseldorf
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/schleuse-zwei/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/schleuse-zwei/)*

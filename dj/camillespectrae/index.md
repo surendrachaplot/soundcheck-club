@@ -1,6 +1,6 @@
 # Camille Spectrae
 
-Camille Spectrae is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 24 Oct 2026.
+Camille Spectrae is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 24 Oct 2026.
 
 Camille Spectrae is a techno and ebm artist based in Colombia, with 20 gigs on soundcheck across Bogotá. Often billed alongside Bluekim, Owldisco and Bedriñana. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Camille Spectrae is a techno and ebm artist based in Colombia, with 20 gigs on s
 
 Bluekim, Owldisco, Bedriñana
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camillespectrae/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camillespectrae/)*

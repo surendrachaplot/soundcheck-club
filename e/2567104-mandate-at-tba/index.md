@@ -1,6 +1,6 @@
 # MANDATE at TBA
 
-MANDATE at TBA on Sat 21 Nov, Toronto. 3 artists: Jaw Jones, MORENXXX and Psi. Techno and House. See the line-up on soundcheck.
+MANDATE at TBA on Sat 21 Nov, Toronto. 4 artists: Jaw Jones, Kuscheln, MORENXXX and Psi. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MANDATE at TBA on Sat 21 Nov, Toronto. 3 artists: Jaw Jones, MORENXXX and Psi. T
 ## Line-up
 
 - Jaw Jones
+- Kuscheln
 - MORENXXX
 - Psi (1)
 

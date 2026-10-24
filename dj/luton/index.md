@@ -1,6 +1,6 @@
 # Luton
 
-Luton is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Karmakoma, Belgrade on Fri, 6 Nov 2026.
+Luton is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Karmakoma, Belgrade on Fri, 6 Nov 2026.
 
 Luton is a house and techno artist based in Serbia, with 48 gigs on soundcheck across Amsterdam, Belgrade and Zagreb. Often billed alongside Scepa, Danilo Kas and Knower. Next up: Karmakoma, Belgrade on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Luton is a house and techno artist based in Serbia, with 48 gigs on soundcheck a
 
 Scepa, Danilo Kas, Knower
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luton/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luton/)*

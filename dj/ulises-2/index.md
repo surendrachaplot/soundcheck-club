@@ -1,6 +1,6 @@
 # Ulises (2)
 
-Ulises (2) is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Somewhere in Barcelona, Barcelona on Sat, 21 Nov 2026.
+Ulises (2) is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Somewhere in Barcelona, Barcelona on Sat, 21 Nov 2026.
 
 Ulises is an electro and acid artist, with 12 gigs on soundcheck across Barcelona. Often billed alongside LEANDRO, AGUSTIN BARBEI and Marianella. Next up: TBA - Somewhere in Barcelona, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ulises is an electro and acid artist, with 12 gigs on soundcheck across Barcelon
 
 LEANDRO (2), AGUSTIN BARBEI, Marianella
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulises-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulises-2/)*

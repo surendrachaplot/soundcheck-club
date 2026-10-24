@@ -1,6 +1,6 @@
 # Anela
 
-Anela is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at 88block, Tokyo on Fri, 27 Nov 2026.
+Anela is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 88block, Tokyo on Fri, 27 Nov 2026.
 
 Anela is a techno and dub artist based in Italy, with 32 gigs on soundcheck across Amsterdam, Berlin, Florence and London and 4 more. Often billed alongside NO FACE, iLAN and KASSANDRA. Next up: 88block, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Anela is a techno and dub artist based in Italy, with 32 gigs on soundcheck acro
 
 NO FACE, iLAN, KASSANDRA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anela-it/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anela-it/)*

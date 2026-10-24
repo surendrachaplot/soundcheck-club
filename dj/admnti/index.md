@@ -1,6 +1,6 @@
 # ADMNTi
 
-ADMNTi is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
+ADMNTi is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
 
 ADMNTi is a house and tech house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 10 more. Often billed alongside Just Jam, Laidlaw and Julian Anthony. Next up: NDSM Scheepsbouwloods, Amsterdam on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ ADMNTi is a house and tech house artist based in United Kingdom, with 64 gigs on
 
 Just Jam, Laidlaw, Julian Anthony
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/admnti/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/admnti/)*

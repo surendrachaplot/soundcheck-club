@@ -1,6 +1,6 @@
 # Open Space Berlin
 
-Open Space Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Utopia/Dystopia" on Sat, 24 Oct 2026.
+Open Space Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Utopia/Dystopia" on Sat, 24 Oct 2026.
 
 Open Space Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Open Space Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Utopia/Dystopia |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/open-space-berlin/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/open-space-berlin/)*

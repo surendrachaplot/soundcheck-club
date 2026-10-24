@@ -1,6 +1,6 @@
 # Schwesta P
 
-Schwesta P is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
+Schwesta P is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
 
 Schwesta P is a techno and trance artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 11 more. Often billed alongside Valeby, EliaHaze and snoritz. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Schwesta P is a techno and trance artist based in Germany, with 116 gigs on soun
 
 Valeby, EliaHaze, snoritz
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*

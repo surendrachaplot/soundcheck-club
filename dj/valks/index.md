@@ -1,6 +1,6 @@
 # Valks
 
-Valks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Neck of the Woods, Auckland on Fri, 27 Nov 2026.
+Valks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Neck of the Woods, Auckland on Fri, 27 Nov 2026.
 
 Valks is a house and techno artist based in New Zealand, with 17 gigs on soundcheck across Auckland and Seoul. Often billed alongside Takydon, Concussion and Brett Bronze. Next up: Neck of the Woods, Auckland on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Valks is a house and techno artist based in New Zealand, with 17 gigs on soundch
 
 Takydon, Concussion, Brett Bronze
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valks/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valks/)*

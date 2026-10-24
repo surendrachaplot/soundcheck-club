@@ -1,14 +1,13 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Remember the Future with Axel Boman, Shumi" on Fri, 23 Oct 2026.
+Gewölbe is a music venue in Cologne with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "breakfest with Leyla & tanjuesch, lu.wicked, Zenker Brothers" on Sat, 24 Oct 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, with line-ups including 04061, Paula Tape, Ahmet Sisman and Anatoli [DE] and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, with line-ups including 04061, Paula Tape, Ahmet Sisman and Anatoli [DE] and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Remember the Future with Axel Boman, Shumi | Axel Boman, Shumi |
 | Sat, 24 Oct 2026 | breakfest with Leyla & tanjuesch, lu.wicked, Zenker Brothers | Leyla (3), Zenker Brothers, lu.wicked, tanjuesch |
 | Fri, 30 Oct 2026 | Klubnacht with Anna Cainelli, Fritz Kalkbrenner, Motip White | Anna Cainelli, Fritz Kalkbrenner, Motip White |
 | Sat, 31 Oct 2026 | instinkt lab with 04061, Blasha & Allatt, mojo | 04061, Blasha & Allatt, mojo |
@@ -18,9 +17,10 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, wit
 | Wed, 11 Nov 2026 | Elfter Elfter with Phonovision | DJ ASS TITS, HiHat, Pavelo Promillo, Slaymira, Sophti, juno.j |
 | Fri, 13 Nov 2026 | Perfect Timing with Biggie Schoellz, Fero Duman, Nic Lorenz, Sidney Charles, SIMES | Fero Duman, Nic Lorenz, SIMES, Sidney Charles |
 | Sat, 14 Nov 2026 | Klubnacht with Michael Mayer - all night long- | Michael Mayer |
+| Fri, 20 Nov 2026 | The Third Room with Ahmet Sisman, Claudio PRC, Di² | Ahmet Sisman, Claudio PRC |
 
 ## Address
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

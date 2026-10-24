@@ -1,6 +1,6 @@
 # Color Club
 
-Color Club is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "High-Quality Mask Required - Mutualism #4: TOXIC - Jeremiah Meece + Your Girlfriend" on Sat, 24 Oct 2026.
+Color Club is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "High-Quality Mask Required - Mutualism #4: TOXIC - Jeremiah Meece + Your Girlfriend" on Sat, 24 Oct 2026.
 
 Color Club is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Jeremiah Meece. See dates, start times and who's playing. 4146 N Elston Ave.
 
@@ -15,4 +15,4 @@ Color Club is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, wi
 
 4146 N Elston Ave, Chicago
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/color-club/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/color-club/)*

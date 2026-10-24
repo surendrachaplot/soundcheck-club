@@ -1,6 +1,6 @@
 # Bella Boo
 
-Bella Boo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Spy Bar, Stockholm on Sat, 31 Oct 2026.
+Bella Boo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Spy Bar, Stockholm on Sat, 31 Oct 2026.
 
 Bella Boo is a house and techno artist based in Sweden, with 45 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 11 more. Often billed alongside Art Alfie, Axel Boman and Kornél Kovács. Next up: Spy Bar, Stockholm on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Bella Boo is a house and techno artist based in Sweden, with 45 gigs on soundche
 
 Art Alfie, Axel Boman, Kornél Kovács
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaboo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaboo/)*

@@ -1,6 +1,6 @@
 # Theo G
 
-Theo G is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 1 Nov 2026.
+Theo G is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 1 Nov 2026.
 
 Theo G is a house and garage artist based in United Kingdom, with 15 gigs on soundcheck across London, Manchester, Newcastle and Sheffield and 1 more. Often billed alongside DDERHAM, Duble Mctruble and Sunny D. Next up: Starlane Pizza Bar, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Theo G is a house and garage artist based in United Kingdom, with 15 gigs on sou
 
 DDERHAM, Duble Mctruble, Sunny D
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theog/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theog/)*

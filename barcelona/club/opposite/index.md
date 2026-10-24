@@ -1,6 +1,6 @@
 # Opposite
 
-Opposite is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "alboroto at Opposite II" on Fri, 30 Oct 2026.
+Opposite is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "alboroto at Opposite II" on Fri, 30 Oct 2026.
 
 Opposite is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Dellavega, DIROS, Gee Beat and Giuseppe Martini and 2 more. See dates, start times and who's playing. Avd. Francesc Ferrer y Guardia, 13, 08038 (Barcelona).
 
@@ -15,4 +15,4 @@ Opposite is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, wi
 
 Avd. Francesc Ferrer y Guardia, 13, 08038 (Barcelona), Barcelona
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opposite/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opposite/)*

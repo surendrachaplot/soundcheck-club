@@ -1,6 +1,6 @@
 # SOLACE PRELUDE at Oddity Club
 
-SOLACE PRELUDE at Oddity Club on Sat 7 Nov, Athens. 11 acts on the bill: Amor Satyr, Animistic Beliefs, Astral Bandit and CHEX and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+SOLACE PRELUDE at Oddity Club on Sat 7 Nov, Athens. 7 artists: Amor Satyr, Astral Bandit, CHEX and DBBD and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,14 +11,10 @@ SOLACE PRELUDE at Oddity Club on Sat 7 Nov, Athens. 11 acts on the bill: Amor Sa
 ## Line-up
 
 - Amor Satyr
-- Animistic Beliefs
 - Astral Bandit
 - CHEX
 - DBBD
-- Fiama
 - MAXImum
-- Only Fire
-- Paralich
 - TOXIMAMI
 - Troy Violens
 

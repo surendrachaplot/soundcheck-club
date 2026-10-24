@@ -1,18 +1,18 @@
 # Kevin Di Serna
 
-Kevin Di Serna is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - AMK Club, Almagro, Buenos Aires on Fri, 23 Oct 2026.
+Kevin Di Serna is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
-Kevin Di Serna is a progressive house and house artist based in Argentina, with 30 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Copenhagen and 6 more. Often billed alongside Hernan Cattaneo, Agustin Ficarra and Dave Seaman. Next up: TBA - AMK Club, Almagro, Buenos Aires on Fri 23 Oct.
+Kevin Di Serna is a progressive house and house artist based in Argentina, with 30 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Copenhagen and 6 more. Often billed alongside Hernan Cattaneo, Agustin Ficarra and Dave Seaman. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA - AMK Club, Almagro | Buenos Aires |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 
 ## Recently played
 
+- TBA - AMK Club, Almagro, Buenos Aires · Fri, 23 Oct 2026
 - Veronica Schip, Amsterdam · Thu, 22 Oct 2026
 - Culture Box, Copenhagen · Sat, 17 Oct 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza · Thu, 15 Oct 2026
@@ -20,10 +20,9 @@ Kevin Di Serna is a progressive house and house artist based in Argentina, with 
 - TBA - Club Araoz, Palermo, Buenos Aires · Fri, 14 Aug 2026
 - Luz De Gas, Barcelona · Tue, 23 Jun 2026
 - Veronica Schip, Amsterdam · Sat, 20 Jun 2026
-- Madrid Caja Mágica, Madrid · Sat, 30 May 2026
 
 ## Shares bills with
 
 Hernan Cattaneo, Agustin Ficarra, Dave Seaman
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindiserna/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindiserna/)*

@@ -1,6 +1,6 @@
 # Aline Brooklyn
 
-Aline Brooklyn is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
+Aline Brooklyn is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
 
 Aline Brooklyn is a house and electro artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bordeaux and 9 more. Often billed alongside Aman Umber, Krol and Maxime dB. Next up: FVTVR, Paris on Fri 6 Nov.
 
@@ -13,6 +13,7 @@ Aline Brooklyn is a house and electro artist based in United States of America, 
 
 ## Recently played
 
+- Peter de Grote, Amsterdam · Fri, 23 Oct 2026
 - Blast Galaxy, Amsterdam · Thu, 22 Oct 2026
 - DURO, Milan · Fri, 25 Sept 2026
 - DURO, Milan · Fri, 25 Sept 2026
@@ -20,10 +21,9 @@ Aline Brooklyn is a house and electro artist based in United States of America, 
 - Sunseabar Beach Club, Barcelona · Sun, 21 Jun 2026
 - MR Porter Barcelona, Barcelona · Sat, 20 Jun 2026
 - La Terrrazza, Barcelona · Thu, 18 Jun 2026
-- Lincoln Factory, Detroit · Mon, 25 May 2026
 
 ## Shares bills with
 
 Aman Umber, Krol, Maxime dB
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Alinebrooklyn/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Alinebrooklyn/)*

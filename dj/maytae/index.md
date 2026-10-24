@@ -1,6 +1,6 @@
 # MAYTAE
 
-MAYTAE is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+MAYTAE is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 MAYTAE is a techno and bass artist based in Thailand, with 29 gigs on soundcheck across Bali, Bangkok and Hanoi. Often billed alongside Marmosets, Winkieb and DJ Sweed. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MAYTAE is a techno and bass artist based in Thailand, with 29 gigs on soundcheck
 
 Marmosets, Winkieb, DJ Sweed
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maytae/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maytae/)*

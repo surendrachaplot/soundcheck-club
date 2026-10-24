@@ -1,6 +1,6 @@
 # Vickies
 
-Vickies is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 24 Oct 2026.
+Vickies is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 24 Oct 2026.
 
 Vickies is a house and techno artist based in France, with 40 gigs on soundcheck across Berlin, Brussels, Lyon and Marseille and 1 more. Often billed alongside Sainte Exp, C.L.E.O 2.5.A.7 and Lucia Loot. Next up: Le Chapiteau - Marseille, Marseille on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Vickies is a house and techno artist based in France, with 40 gigs on soundcheck
 
 Sainte Exp, C.L.E.O 2.5.A.7, Lucia Loot
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vickies/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vickies/)*

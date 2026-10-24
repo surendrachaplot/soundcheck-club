@@ -1,14 +1,13 @@
 # STORM
 
-STORM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+STORM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 19 Nov 2026.
 
-STORM is a techno and house artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Bergen, Berlin and Brussels and 7 more. Often billed alongside Aba Shanti-I, Alex Zhang Hungtai and Arooj Aftab. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
+STORM is a techno and house artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Bergen, Berlin and Brussels and 7 more. Often billed alongside Aba Shanti-I, Alex Zhang Hungtai and Arooj Aftab. Next up: Ministerium Club, Lisbon on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Thu, 19 Nov 2026 | Ministerium Club | Lisbon |
 
 ## Recently played
@@ -26,4 +25,4 @@ STORM is a techno and house artist based in Netherlands, with 23 gigs on soundch
 
 Aba Shanti-I, Alex Zhang Hungtai, Arooj Aftab
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/storm-nl/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/storm-nl/)*

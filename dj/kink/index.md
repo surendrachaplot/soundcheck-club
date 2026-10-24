@@ -1,6 +1,6 @@
 # KiNK
 
-KiNK is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+KiNK is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 KiNK is a techno and house artist based in Bulgaria, with 201 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 60 more. Often billed alongside Raredub, FJAAK and Ben Klock. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ KiNK is a techno and house artist based in Bulgaria, with 201 gigs on soundcheck
 
 Raredub, FJAAK, Ben Klock
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*

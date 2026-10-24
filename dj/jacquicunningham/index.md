@@ -1,6 +1,6 @@
 # Jacqui Cunningham
 
-Jacqui Cunningham is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Jacqui Cunningham is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Jacqui Cunningham is a house and techno artist based in Australia, with 51 gigs on soundcheck across Berlin, Guadalajara, Hamburg and Hobart and 3 more. Often billed alongside Caleb Jackson, Mimi J and Beman. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Jacqui Cunningham is a house and techno artist based in Australia, with 51 gigs 
 
 Caleb Jackson, Mimi J, Beman
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquicunningham/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquicunningham/)*

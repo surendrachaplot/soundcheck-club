@@ -1,6 +1,6 @@
 # Razaq El Toro
 
-Razaq El Toro is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Vertigo, Toronto on Fri, 23 Oct 2026.
+Razaq El Toro is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Vertigo, Toronto on Fri, 23 Oct 2026.
 
 Razaq El Toro is an afro house and afro tech artist based in Canada, with 41 gigs on soundcheck across Toronto. Often billed alongside martinses, Sonic Griot and Afrique Like Me. Next up: Vertigo, Toronto on Fri 23 Oct.
 
@@ -12,6 +12,7 @@ Razaq El Toro is an afro house and afro tech artist based in Canada, with 41 gig
 
 ## Recently played
 
+- Vertigo, Toronto · Fri, 23 Oct 2026
 - Mooi Space, Toronto · Sun, 11 Oct 2026
 - Soleil, Toronto · Sat, 19 Sept 2026
 - TBA - HYVE, Toronto · Fri, 17 Jul 2026
@@ -19,10 +20,9 @@ Razaq El Toro is an afro house and afro tech artist based in Canada, with 41 gig
 - Vertigo, Toronto · Fri, 22 May 2026
 - 821 Runnymede Rd, Toronto · Sat, 9 May 2026
 - Penthouse 17, Toronto · Sat, 14 Mar 2026
-- Vertigo, Toronto · Fri, 6 Feb 2026
 
 ## Shares bills with
 
 martinses, Sonic Griot, Afrique Like Me
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razaqeltoro/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razaqeltoro/)*

@@ -1,6 +1,6 @@
 # Junior Buzz
 
-Junior Buzz is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Aaja Basement, London on Sat, 31 Oct 2026.
+Junior Buzz is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Aaja Basement, London on Sat, 31 Oct 2026.
 
 Junior Buzz is a hardcore and jungle artist based in United Kingdom, with 31 gigs on soundcheck across London. Often billed alongside Rhi Spect, Hughesee and Snoozy. Next up: Aaja Basement, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Junior Buzz is a hardcore and jungle artist based in United Kingdom, with 31 gig
 
 Rhi Spect, Hughesee, Snoozy
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorbuzz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorbuzz/)*

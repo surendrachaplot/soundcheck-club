@@ -1,6 +1,6 @@
 # Le Zeralda
 
-Le Zeralda is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Blason + Cigvë X Kole Galbraith + Joan Jett Fanclub + Cringe" on Sat, 24 Oct 2026.
+Le Zeralda is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Blason + Cigvë X Kole Galbraith + Joan Jett Fanclub + Cringe" on Sat, 24 Oct 2026.
 
 Le Zeralda is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Blason, BOOH, Benedetta and GGGG and 2 more. See dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
 
@@ -19,4 +19,4 @@ Le Zeralda is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with
 
 125 avenue Gallieni, Bagnolet, Paris
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*

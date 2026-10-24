@@ -1,14 +1,13 @@
 # 77
 
-77 is a music venue in London with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "77 SESSIONS: DEB FA" on Fri, 23 Oct 2026.
+77 is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Pyra x Residents presents: A House on Fire II" on Sat, 24 Oct 2026.
 
-77 is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Akhil (UK), Alan Dixon, AliTR and DOVnROBS and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Akhil (UK), Alan Dixon, AliTR and DOVnROBS and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | 77 SESSIONS: DEB FA | Kidflo |
 | Sat, 24 Oct 2026 | Pyra x Residents presents: A House on Fire II | Akhil (UK), S FLY |
 | Sun, 25 Oct 2026 | 77 PRESENT SUNDAYZ: DJ OBI |  |
 | Mon, 26 Oct 2026 | FullHouse Monday Party: Special Guest |  |
@@ -18,9 +17,10 @@
 | Fri, 6 Nov 2026 | 77: SONA | SONA (2) |
 | Sat, 7 Nov 2026 | 77: MASAKA AFRICANA FT MICKEY DASTINZ |  |
 | Fri, 13 Nov 2026 | 77: Wheats | Wheats |
+| Sat, 14 Nov 2026 | Lone Collective x 77 present: Pablo Fierro | AliTR, Jezza, Pablo Fierro, Yoel Telyaz, yaman (3) |
 
 ## Address
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

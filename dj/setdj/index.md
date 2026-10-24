@@ -1,6 +1,6 @@
 # $et
 
-$et is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Black Cat, Washington DC on Sat, 24 Oct 2026.
+$et is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Black Cat, Washington DC on Sat, 24 Oct 2026.
 
 $et is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside camb, xXabiXx and Fish House Funk. Next up: Black Cat, Washington DC on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ $et is a house and techno artist based in United States of America, with 28 gigs
 
 camb, xXabiXx, Fish House Funk
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setdj/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setdj/)*

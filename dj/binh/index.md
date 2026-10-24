@@ -1,14 +1,13 @@
 # Binh
 
-Binh is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Binh is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
-Binh is a techno and house artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 48 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
+Binh is a techno and house artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 48 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: RADION, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 30 Oct 2026 | Warehouse 34 | Newcastle |
@@ -22,6 +21,7 @@ Binh is a techno and house artist based in Germany, with 215 gigs on soundcheck 
 
 ## Recently played
 
+- WestWeelde, Amsterdam · Fri, 23 Oct 2026
 - Concept Haus, Manchester · Sat, 17 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 17 Oct 2026
 - Gaffe, London · Fri, 9 Oct 2026
@@ -29,10 +29,9 @@ Binh is a techno and house artist based in Germany, with 215 gigs on soundcheck 
 - Sunday Sunday, Mexico City · Sat, 26 Sept 2026
 - Nowadays, New York City · Fri, 25 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
-- Stardust Garage, Austin · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

@@ -1,6 +1,6 @@
 # Bedouin
 
-Bedouin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+Bedouin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
 Bedouin is a house and techno artist based in United States of America, with 228 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 43 more. Often billed alongside Seth Troxler, Carlita and DJ Tennis. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Bedouin is a house and techno artist based in United States of America, with 228
 
 Seth Troxler, Carlita, DJ Tennis
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bedouin/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bedouin/)*

@@ -1,6 +1,6 @@
 # Insolent
 
-Insolent is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sonorama, Medellin on Fri, 30 Oct 2026.
+Insolent is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sonorama, Medellin on Fri, 30 Oct 2026.
 
 Insolent is a techno and industrial artist based in Colombia, with 34 gigs on soundcheck across Medellin. Often billed alongside Vannesa Gnz, Andres Gil and Deraout. Next up: Sonorama, Medellin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Insolent is a techno and industrial artist based in Colombia, with 34 gigs on so
 
 Vannesa Gnz, Andres Gil, Deraout
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insolent/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insolent/)*

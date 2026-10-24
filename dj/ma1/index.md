@@ -1,6 +1,6 @@
 # MA1
 
-MA1 is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Steel Yard, London on Sat, 24 Oct 2026.
+MA1 is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Steel Yard, London on Sat, 24 Oct 2026.
 
 MA1 is an afro house and house artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Tippa, Angela Rose and Pioneer. Next up: The Steel Yard, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MA1 is an afro house and house artist based in United Kingdom, with 15 gigs on s
 
 Tippa, Angela Rose, Pioneer
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ma1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ma1/)*

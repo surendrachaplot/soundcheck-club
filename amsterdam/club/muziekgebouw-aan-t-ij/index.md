@@ -1,6 +1,6 @@
 # Muziekgebouw aan t' IJ
 
-Muziekgebouw aan t' IJ is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ADE: Oh Voyage, DJ Klapsalon + Afrobotic" on Sat, 24 Oct 2026.
+Muziekgebouw aan t' IJ is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ADE: Oh Voyage, DJ Klapsalon + Afrobotic" on Sat, 24 Oct 2026.
 
 Muziekgebouw aan t' IJ is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Klapsalon, Kangding Ray, upsammy and Valentina Magaletti. See dates, start times and who's playing. Piet Heinkade 1, 1019 BR Amsterdam.
 
@@ -16,4 +16,4 @@ Muziekgebouw aan t' IJ is a music venue in Amsterdam listed on soundcheck. 3 upc
 
 Piet Heinkade 1, 1019 BR Amsterdam, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/muziekgebouw-aan-t-ij/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/muziekgebouw-aan-t-ij/)*

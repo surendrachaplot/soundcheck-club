@@ -1,6 +1,6 @@
 # Simisola
 
-Simisola is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Boyfriend co-op, New York City on Thu, 29 Oct 2026.
+Simisola is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Boyfriend co-op, New York City on Thu, 29 Oct 2026.
 
 Simisola is a club and techno artist, with 25 gigs on soundcheck across New York City and Pittsburgh. Often billed alongside Love Higher, wahala.wav and MORENXXX. Next up: Boyfriend co-op, New York City on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Simisola is a club and techno artist, with 25 gigs on soundcheck across New York
 
 Love Higher, wahala.wav, MORENXXX
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simisola/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simisola/)*

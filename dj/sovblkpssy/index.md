@@ -1,6 +1,6 @@
 # sovblkpssy
 
-sovblkpssy is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Sydney on Sat, 24 Oct 2026.
+sovblkpssy is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Sydney on Sat, 24 Oct 2026.
 
 sovblkpssy is a club and bass artist based in Australia, with 36 gigs on soundcheck across Adelaide, Melbourne and Sydney. Often billed alongside Rydeen (AU), Kuya Neil and Attu. Next up: TBA, Sydney on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ sovblkpssy is a club and bass artist based in Australia, with 36 gigs on soundch
 
 Rydeen (AU), Kuya Neil, Attu
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sovblkpssy/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sovblkpssy/)*

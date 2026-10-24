@@ -1,6 +1,6 @@
 # Martin Mind
 
-Martin Mind is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Alte Pakethalle, Bavaria on Sat, 7 Nov 2026.
+Martin Mind is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Alte Pakethalle, Bavaria on Sat, 7 Nov 2026.
 
 Martin Mind is a techno and tech house artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Bavaria, Berlin and Istanbul and 4 more. Often billed alongside Black Box, Unseen. and Human Rias. Next up: Alte Pakethalle, Bavaria on Sat 7 Nov.
 
@@ -12,6 +12,7 @@ Martin Mind is a techno and tech house artist based in Germany, with 27 gigs on 
 
 ## Recently played
 
+- Amsterdam Central Station, Amsterdam · Fri, 23 Oct 2026
 - Climax-Institutes, Stuttgart · Sat, 18 Jul 2026
 - Kramladen, Vienna · Sat, 27 Jun 2026
 - Die Rakete, Nürnberg · Sat, 20 Jun 2026
@@ -19,10 +20,9 @@ Martin Mind is a techno and tech house artist based in Germany, with 27 gigs on 
 - Bahnwärter Thiel, Munich · Wed, 3 Jun 2026
 - Climax-Institutes, Stuttgart · Sat, 21 Feb 2026
 - Bahnwärter Thiel, Munich · Fri, 16 Jan 2026
-- Amsterdam Central Station, Amsterdam · Sat, 25 Oct 2025
 
 ## Shares bills with
 
 Black Box, Unseen., Human Rias
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinmind/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinmind/)*

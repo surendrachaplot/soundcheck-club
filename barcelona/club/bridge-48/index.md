@@ -1,6 +1,6 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti" on Sat, 24 Oct 2026.
+Bridge 48 is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti" on Sat, 24 Oct 2026.
 
 Bridge 48 is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Arof, Atari Stacey, Aude and Audiolux and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
@@ -23,4 +23,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, 
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

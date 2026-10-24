@@ -1,6 +1,6 @@
 # Acres
 
-Acres is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Funky House Brunch" on Sat, 24 Oct 2026.
+Acres is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Funky House Brunch" on Sat, 24 Oct 2026.
 
 Acres is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Sambo. See dates, start times and who's playing. 12 Acklam Rd, London, W10 5QZ.
 
@@ -15,4 +15,4 @@ Acres is a music venue in London listed on soundcheck. 2 upcoming gigs, with lin
 
 12 Acklam Rd, London, W10 5QZ, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/acres/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/acres/)*

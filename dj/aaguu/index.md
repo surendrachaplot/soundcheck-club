@@ -1,6 +1,6 @@
 # AAGUU
 
-AAGUU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Dreamping, South-korea on Sat, 24 Oct 2026.
+AAGUU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Dreamping, South-korea on Sat, 24 Oct 2026.
 
 AAGUU is a house and techno artist based in India, with 25 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 8 more. Often billed alongside Rishi Sippy, DZ GAS and Di Linh. Next up: The Dreamping, South Korea on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ AAGUU is a house and techno artist based in India, with 25 gigs on soundcheck ac
 
 Rishi Sippy, DZ GAS, Di Linh
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguu/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguu/)*

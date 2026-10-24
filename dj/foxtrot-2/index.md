@@ -1,6 +1,6 @@
 # Foxtrot (2)
 
-Foxtrot (2) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Foxtrot (2) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Foxtrot is a techno and dub techno artist based in New Zealand, with 11 gigs on soundcheck across Auckland, Brisbane, Christchurch and London and 2 more. Often billed alongside Caru (NZ), Clay Louis and Peach Milk. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Foxtrot is a techno and dub techno artist based in New Zealand, with 11 gigs on 
 
 Caru (NZ), Clay Louis, Peach Milk
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*

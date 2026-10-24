@@ -1,6 +1,6 @@
 # TESFAY
 
-TESFAY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Reverie at the Park, Toronto on Fri, 20 Nov 2026.
+TESFAY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Reverie at the Park, Toronto on Fri, 20 Nov 2026.
 
 TESFAY is a house and tech house artist based in Canada, with 19 gigs on soundcheck across London and Toronto. Often billed alongside AKWA, Blooma and Hep (CA). Next up: Reverie at the Park, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ TESFAY is a house and tech house artist based in Canada, with 19 gigs on soundch
 
 AKWA, Blooma, Hep (CA)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tesfay/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tesfay/)*

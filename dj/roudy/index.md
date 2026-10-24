@@ -1,0 +1,28 @@
+# ROUDY
+
+ROUDY is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Salon Daomé, Montreal on Sat, 14 Nov 2026.
+
+ROUDY is a deep house and house artist based in Canada, with 21 gigs on soundcheck across Montreal and New York City. Often billed alongside FAMÜ, Napo Lugo and Brian Cuta. Next up: Salon Daomé, Montreal on Sat 14 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | Salon Daomé | Montreal |
+
+## Recently played
+
+- StereoBar, Montreal · Sun, 27 Sept 2026
+- Vino Disco, Montreal · Sat, 15 Aug 2026
+- Village au Pied-du-Courant, Montreal · Thu, 11 Jun 2026
+- Bogart House, New York City · Sat, 16 May 2026
+- StereoBar, Montreal · Fri, 10 Apr 2026
+- StereoBar, Montreal · Wed, 31 Dec 2025
+- StereoBar, Montreal · Fri, 26 Sept 2025
+- StereoBar, Montreal · Sun, 13 Jul 2025
+
+## Shares bills with
+
+FAMÜ, Napo Lugo, Brian Cuta
+
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roudy/)*

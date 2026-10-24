@@ -1,14 +1,13 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Cooking with Palms Trax x Doka Studio [ADE] (SOLD OUT)" on Fri, 23 Oct 2026.
+Doka is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Kiosk Radio x The Lot Radio x Doka Culture live stream [ADE]" on Sat, 24 Oct 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Antal, Ays (NL), babyschön and Coco Maria and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Antal, Ays (NL), babyschön and Coco Maria and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Cooking with Palms Trax x Doka Studio [ADE] (SOLD OUT) | Palms Trax |
 | Sat, 24 Oct 2026 | Kiosk Radio x The Lot Radio x Doka Culture live stream [ADE] |  |
 | Sat, 24 Oct 2026 | Kiosk Radio x The Lot Radio w/ livwutang - Orpheu The Wizard b2b Lloyd - babyschön [ADE] | Lloydski, Orpheu The Wizard, babyschön, livwutang |
 | Sat, 24 Oct 2026 | Kiosk Radio x The Lot Radio with Softi - neska - Pieter Jansen - Marco Weibel - Nelly - ZTO | Marco Weibel, Nelly, Pieter Jansen, Softi, neska |
@@ -22,4 +21,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with l
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

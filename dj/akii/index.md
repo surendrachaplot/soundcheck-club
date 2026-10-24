@@ -1,6 +1,6 @@
 # akii
 
-akii is a Bass and Dub artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
+akii is a Bass and Dub artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
 
 akii is a bass and dub artist based in Japan, with 59 gigs on soundcheck across Barcelona, Berlin, Kyoto and Tokyo. Often billed alongside M.I.O, Aliceyuki and Andrew (TREKKIE TRAX). Next up: TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ akii is a bass and dub artist based in Japan, with 59 gigs on soundcheck across 
 
 M.I.O, Aliceyuki, Andrew (TREKKIE TRAX)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akii/)*

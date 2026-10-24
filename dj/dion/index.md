@@ -1,6 +1,6 @@
 # DIØN
 
-DIØN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+DIØN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 DIØN is a techno and house artist based in Netherlands, with 110 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Cynthia Spiering, Alignment and Shlømo. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -14,6 +14,7 @@ DIØN is a techno and house artist based in Netherlands, with 110 gigs on soundc
 
 ## Recently played
 
+- Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Strijkviertel, Utrecht · Sat, 5 Sept 2026
 - BERHTA, Washington DC · Sat, 1 Aug 2026
@@ -21,10 +22,9 @@ DIØN is a techno and house artist based in Netherlands, with 110 gigs on soundc
 - Thuishaven, Amsterdam · Sun, 21 Jun 2026
 - Kralingse Bos, Rotterdam · Sat, 13 Jun 2026
 - Academy LA, Los Angeles · Fri, 29 May 2026
-- 1015 Folsom, San Francisco/Oakland · Thu, 28 May 2026
 
 ## Shares bills with
 
 Cynthia Spiering, Alignment, Shlømo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dion/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dion/)*

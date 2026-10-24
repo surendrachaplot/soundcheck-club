@@ -1,6 +1,6 @@
 # Taidi
 
-Taidi is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Heim Shanghai, Shanghai on Sat, 24 Oct 2026.
+Taidi is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Heim Shanghai, Shanghai on Sat, 24 Oct 2026.
 
 Taidi is a club and house artist, with 51 gigs on soundcheck across Bangkok, Beijing, Chengdu and Shanghai and 1 more. Often billed alongside YKK (CN), Sanyo and DJ Pex. Next up: Heim Shanghai, Shanghai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Taidi is a club and house artist, with 51 gigs on soundcheck across Bangkok, Bei
 
 YKK (CN), Sanyo, DJ Pex
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taidi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taidi/)*

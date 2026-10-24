@@ -1,6 +1,6 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oliva, Amsterdam on Sat, 24 Oct 2026.
+Ranger Trucco is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Oliva, Amsterdam on Sat, 24 Oct 2026.
 
 Ranger Trucco is a house and tech house artist based in United States of America, with 106 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 29 more. Often billed alongside Prunk, Ms. Mada and KETTAMA. Next up: Oliva, Amsterdam on Sat 24 Oct.
 
@@ -34,4 +34,4 @@ Ranger Trucco is a house and tech house artist based in United States of America
 
 Prunk, Ms. Mada, KETTAMA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

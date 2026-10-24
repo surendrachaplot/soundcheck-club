@@ -1,6 +1,6 @@
 # CTRLZORA
 
-CTRLZORA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - N Honore & N Milwaukee, Chicago on Sun, 25 Oct 2026.
+CTRLZORA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - N Honore & N Milwaukee, Chicago on Sun, 25 Oct 2026.
 
 CTRLZORA is a house and techno artist based in United States of America, with 118 gigs on soundcheck across Atlanta, Chicago, Copenhagen and Detroit and 9 more. Often billed alongside JADALAREIGN, BLESSTONIO and Cordell Johnson. Next up: TBA - N Honore & N Milwaukee, Chicago on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ CTRLZORA is a house and techno artist based in United States of America, with 11
 
 JADALAREIGN, BLESSTONIO, Cordell Johnson
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*

@@ -1,6 +1,6 @@
 # Revivis
 
-Revivis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Studio La Flor, Berlin on Sat, 24 Oct 2026.
+Revivis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Studio La Flor, Berlin on Sat, 24 Oct 2026.
 
 Revivis is a house and techno artist, with 21 gigs on soundcheck across Barcelona, Belgrade, Berlin and Frankfurt and 3 more. Often billed alongside Running Hot, Christa K and LIA. Next up: Studio La Flor, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Revivis is a house and techno artist, with 21 gigs on soundcheck across Barcelon
 
 Running Hot, Christa K, LIA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revivis/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revivis/)*

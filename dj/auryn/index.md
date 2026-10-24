@@ -1,6 +1,6 @@
 # Auryn
 
-Auryn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 9 Nov 2026.
+Auryn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 9 Nov 2026.
 
 Auryn is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin, Hannover and The Hague. Often billed alongside Inverse Element, .VRIL and AADJA. Next up: Tresor / Globus, Berlin on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ Auryn is a techno and house artist based in Germany, with 9 gigs on soundcheck a
 
 Inverse Element, .VRIL, AADJA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auryn/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auryn/)*

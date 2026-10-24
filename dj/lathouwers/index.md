@@ -1,6 +1,6 @@
 # Lathouwers
 
-Lathouwers is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
+Lathouwers is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
 
 Lathouwers is a house and minimal artist based in Belgium, with 22 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside WLC (BE), FBR (be) and Jose Noventa. Next up: Supperclub Cruise, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lathouwers is a house and minimal artist based in Belgium, with 22 gigs on sound
 
 WLC (BE), FBR (be), Jose Noventa
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lathouwers/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lathouwers/)*

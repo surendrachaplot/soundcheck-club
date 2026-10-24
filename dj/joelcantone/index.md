@@ -1,6 +1,6 @@
 # Joel Cantone
 
-Joel Cantone is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Golden Sheaf, New-south-wales on Sat, 14 Nov 2026.
+Joel Cantone is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Golden Sheaf, New-south-wales on Sat, 14 Nov 2026.
 
 Joel Cantone is a house and tech house artist based in Australia, with 22 gigs on soundcheck across Bali, Brisbane, Manchester and Melbourne and 2 more. Often billed alongside Aidan Bega, RSquared and Stacie Fields. Next up: The Golden Sheaf, New South Wales on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Joel Cantone is a house and tech house artist based in Australia, with 22 gigs o
 
 Aidan Bega, RSquared, Stacie Fields
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelcantone/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelcantone/)*

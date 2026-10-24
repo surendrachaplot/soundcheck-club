@@ -1,6 +1,6 @@
 # Delirium
 
-Delirium is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Support Women DJs Open Decks" on Thu, 5 Nov 2026.
+Delirium is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Support Women DJs Open Decks" on Thu, 5 Nov 2026.
 
 Delirium is a music venue in New York City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 286 Meserole, Brooklyn, NY 11206, United States.
 
@@ -15,4 +15,4 @@ Delirium is a music venue in New York City listed on soundcheck. 2 upcoming gigs
 
 286 Meserole, Brooklyn, NY 11206, United States, New York City
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/delirium/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/delirium/)*

@@ -1,14 +1,13 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijland, Amsterdam on Fri, 23 Oct 2026.
+Kepler is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
-Kepler is a house and tech house artist based in United Kingdom, with 168 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 35 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: Ijland, Amsterdam on Fri 23 Oct.
+Kepler is a house and tech house artist based in United Kingdom, with 168 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 35 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Thu, 29 Oct 2026 | TBA - Secret Location | London |
 | Sat, 31 Oct 2026 | Mint Warehouse | Leeds |
@@ -21,17 +20,17 @@ Kepler is a house and tech house artist based in United Kingdom, with 168 gigs o
 
 ## Recently played
 
+- Ijland, Amsterdam · Fri, 23 Oct 2026
+- Levenslang Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Gaswrx Birmingham, Birmingham · Sat, 17 Oct 2026
 - Club Colette, Birmingham · Sat, 17 Oct 2026
 - Concorde 2, Brighton · Fri, 9 Oct 2026
 - Cova Santa, Ibiza · Tue, 6 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
-- Amnesia Ibiza, Ibiza · Sun, 27 Sept 2026
-- Index, Dublin · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Burnski, Job de Jong, L.P. Rhythm
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

@@ -1,14 +1,13 @@
 # Onyx (E1)
 
-Onyx (E1) is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Doc Scott, Ama (UK), DIGITAL, FOKUS (Live), Ill Truth, TREX, Rizzle, Visionobi" on Fri, 23 Oct 2026.
+Onyx (E1) is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "La Bonita 360°" on Sat, 24 Oct 2026.
 
-Onyx (E1) is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Ama (UK), Bensley, Cast Lov and Clefheart and 2 more. See dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
+Onyx (E1) is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Bensley, Cast Lov, Clefheart and Colyn and 2 more. See dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Doc Scott, Ama (UK), DIGITAL, FOKUS (Live), Ill Truth, TREX, Rizzle, Visionobi | Ama (UK), DIGITAL, Doc Scott, FOKUS (Live), Ill Truth, Kira (3), Loxy, Rizzle, Visionobi |
 | Sat, 24 Oct 2026 | La Bonita 360° | Nico Ferrari |
 | Fri, 30 Oct 2026 | Parable & Louder Halloween: Colyn, Henri Bergmann, Everything Is Art | Cast Lov, Colyn, Everything Is ART, Henri Bergmann, Innerstice |
 | Sun, 1 Nov 2026 | L'Italia S'è Festa - Haunted House | Clefheart |
@@ -22,4 +21,4 @@ Onyx (E1) is a music venue in London listed on soundcheck. 9 upcoming gigs, with
 
 Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*

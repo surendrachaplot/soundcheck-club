@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "MONZA" on Sat, 24 Oct 2026.
+Circus Osaka is a music venue in Osaka with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "MONZA" on Sat, 24 Oct 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 17 upcoming gigs, with line-ups including AI, AOKI takamasa, Bloody Cheeki $odz and Bouki and 2 more. See dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -23,4 +23,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 17 upcoming gigs, w
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

@@ -1,6 +1,6 @@
 # Peter Pixzel
 
-Peter Pixzel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at SASS Music Club, Vienna on Thu, 29 Oct 2026.
+Peter Pixzel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at SASS Music Club, Vienna on Thu, 29 Oct 2026.
 
 Peter Pixzel is a house and techno artist, with 26 gigs on soundcheck across Barcelona, Copenhagen, London and Vienna. Often billed alongside Jacob Husley, Duncan Thomas and LUUD. Next up: SASS Music Club, Vienna on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Peter Pixzel is a house and techno artist, with 26 gigs on soundcheck across Bar
 
 Jacob Husley, Duncan Thomas, LUUD
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpixzel/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpixzel/)*

@@ -1,6 +1,6 @@
 # Kilarska
 
-Kilarska is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Foksal 19, Warsaw on Fri, 30 Oct 2026.
+Kilarska is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Foksal 19, Warsaw on Fri, 30 Oct 2026.
 
 Kilarska is a techno and trance artist, with 25 gigs on soundcheck across Berlin, Hannover, Krakow and Poznan and 3 more. Often billed alongside Penera, MATRIX3K and Pan JJ. Next up: Foksal 19, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kilarska is a techno and trance artist, with 25 gigs on soundcheck across Berlin
 
 Penera, MATRIX3K, Pan JJ
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilarska/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilarska/)*

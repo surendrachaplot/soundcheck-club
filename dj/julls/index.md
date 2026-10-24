@@ -1,6 +1,6 @@
 # JULLS
 
-JULLS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Location (Austin), Chicago on Sat, 31 Oct 2026.
+JULLS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Location (Austin), Chicago on Sat, 31 Oct 2026.
 
 JULLS is a techno and acid artist based in United States of America, with 23 gigs on soundcheck across Barcelona, Chicago, Detroit and Malta. Often billed alongside Flores Negras, Veri Peri and uRaNg3L. Next up: TBA - Secret Location (Austin), Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ JULLS is a techno and acid artist based in United States of America, with 23 gig
 
 Flores Negras, Veri Peri, uRaNg3L
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julls/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julls/)*

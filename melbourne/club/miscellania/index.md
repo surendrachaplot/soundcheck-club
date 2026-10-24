@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "MEZZANINE: Mike Midnight & Radart (LIVE), Purient (LIVE), Claire O'Brien, Takeo.K + more" on Sat, 24 Oct 2026.
+Miscellania is a music venue in Melbourne with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "MEZZANINE: Mike Midnight & Radart (LIVE), Purient (LIVE), Claire O'Brien, Takeo.K + more" on Sat, 24 Oct 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 16 upcoming gigs, with line-ups including Amphi, ATARANGI, Bridget Small and CCL and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -23,4 +23,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 16 upcoming gigs
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

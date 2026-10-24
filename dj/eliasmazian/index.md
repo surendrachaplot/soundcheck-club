@@ -1,6 +1,6 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Café Soleil Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Elias Mazian is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Café Soleil Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Elias Mazian is a house and techno artist based in Netherlands, with 127 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside Suze Ijó, Tsepo and Doppelgang. Next up: Café Soleil Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -34,4 +34,4 @@ Elias Mazian is a house and techno artist based in Netherlands, with 127 gigs on
 
 Suze Ijó, Tsepo, Doppelgang
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*

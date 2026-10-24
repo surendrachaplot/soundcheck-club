@@ -1,6 +1,6 @@
 # roomquake
 
-roomquake is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Azumaya, Tokyo on Mon, 26 Oct 2026.
+roomquake is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Azumaya, Tokyo on Mon, 26 Oct 2026.
 
 roomquake is a techno and house artist based in Japan, with 22 gigs on soundcheck across Tokyo. Often billed alongside Kanamemandala, Seimei and Eichi Abe. Next up: Azumaya, Tokyo on Mon 26 Oct.
 
@@ -27,4 +27,4 @@ roomquake is a techno and house artist based in Japan, with 22 gigs on soundchec
 
 Kanamemandala, Seimei, Eichi Abe
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roomquake/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roomquake/)*

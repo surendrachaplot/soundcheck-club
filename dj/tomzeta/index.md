@@ -1,6 +1,6 @@
 # Tom Zeta
 
-Tom Zeta is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Tom Zeta is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Tom Zeta is a house and deep house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Belgrade and 10 more. Often billed alongside Adam Ten, Matthias Tanzmann and Mita Gami. Next up: Kaap Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Tom Zeta is a house and deep house artist based in Netherlands, with 30 gigs on 
 
 Adam Ten, Matthias Tanzmann, Mita Gami
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*

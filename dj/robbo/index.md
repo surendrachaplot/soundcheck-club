@@ -1,6 +1,6 @@
 # Robbo
 
-Robbo is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Location, Essex , South-east on Sat, 31 Oct 2026.
+Robbo is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Location, Essex , South-east on Sat, 31 Oct 2026.
 
 Robbo is a house and minimal artist based in United Kingdom, with 40 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Jenson., Jenson and Josh Keit. Next up: TBA - Secret Location, Essex , South East on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Robbo is a house and minimal artist based in United Kingdom, with 40 gigs on sou
 
 Jenson., Jenson, Josh Keit
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*

@@ -1,6 +1,6 @@
 # Aurora
 
-Aurora is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at St Ethelburga's Centre for Reconciliation and Peace, London on Sat, 31 Oct 2026.
+Aurora is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at St Ethelburga's Centre for Reconciliation and Peace, London on Sat, 31 Oct 2026.
 
 Aurora is a tech house and techno artist based in United Kingdom, with 14 gigs on soundcheck across Athens, Berlin, Bristol and Copenhagen and 6 more. Often billed alongside 2HOT2PLAY, Adrien Calvet and Alex Nantaya. Next up: St Ethelburga's Centre for Reconciliation and Peace, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Aurora is a tech house and techno artist based in United Kingdom, with 14 gigs o
 
 2HOT2PLAY, Adrien Calvet, Alex Nantaya
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*

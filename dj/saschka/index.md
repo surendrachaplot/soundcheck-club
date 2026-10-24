@@ -1,6 +1,6 @@
 # saschka
 
-saschka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Celeste, Vienna on Sat, 31 Oct 2026.
+saschka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Celeste, Vienna on Sat, 31 Oct 2026.
 
 saschka is a techno and house artist based in Germany, with 42 gigs on soundcheck across London, Prague, Riga and Stuttgart and 1 more. Often billed alongside esti.d, AfroNinja and DJ Sprudel. Next up: Celeste, Vienna on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ saschka is a techno and house artist based in Germany, with 42 gigs on soundchec
 
 esti.d, AfroNinja, DJ Sprudel
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saschka/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saschka/)*

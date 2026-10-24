@@ -1,6 +1,6 @@
 # VOX (1)
 
-VOX (1) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Under Deer Lounge, Tokyo on Sat, 24 Oct 2026.
+VOX (1) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Under Deer Lounge, Tokyo on Sat, 24 Oct 2026.
 
 VOX is a techno and bass artist based in Japan, with 11 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside PANICWORKS, AYANA KOSHIBA and EMILIO. Next up: Under Deer Lounge, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ VOX is a techno and bass artist based in Japan, with 11 gigs on soundcheck acros
 
 PANICWORKS, AYANA KOSHIBA, EMILIO (3)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vox-1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vox-1/)*

@@ -1,6 +1,6 @@
 # Mari Ella
 
-Mari Ella is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Djoon, Paris on Sun, 1 Nov 2026.
+Mari Ella is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Djoon, Paris on Sun, 1 Nov 2026.
 
 Mari Ella is a house and deep house artist based in United States of America, with 42 gigs on soundcheck across Detroit, Miami, New York City and Paris and 2 more. Often billed alongside Mike Nasty, MOON BABE and Roman Martinez. Next up: Djoon, Paris on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Mari Ella is a house and deep house artist based in United States of America, wi
 
 Mike Nasty, MOON BABE, Roman Martinez
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariella-ny/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariella-ny/)*

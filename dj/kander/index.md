@@ -1,6 +1,6 @@
 # Kander
 
-Kander is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 24 Oct 2026.
+Kander is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 24 Oct 2026.
 
 Kander is a techno and trance artist based in United Kingdom, with 169 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 54 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: The Ground at Club Space, Miami on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Kander is a techno and trance artist based in United Kingdom, with 169 gigs on s
 
 Azyr, Faster Horses, SIKOTI
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*

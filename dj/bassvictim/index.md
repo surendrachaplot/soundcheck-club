@@ -1,20 +1,20 @@
 # Bassvictim
 
-Bassvictim is a Electro and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Radius, Chicago on Fri, 23 Oct 2026.
+Bassvictim is a Electro and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Roadrunner, Boston on Mon, 26 Oct 2026.
 
-Bassvictim is an electro and experimental artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside mMega, Thoom and Evian Christ. Next up: Radius, Chicago on Fri 23 Oct.
+Bassvictim is an electro and experimental artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside mMega, Thoom and Evian Christ. Next up: Roadrunner, Boston on Mon 26 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Radius | Chicago |
 | Mon, 26 Oct 2026 | Roadrunner | Boston |
 | Tue, 27 Oct 2026 | Union Transfer | Philadelphia |
 | Tue, 27 Oct 2026 | Union Transfer | Philadelphia |
 
 ## Recently played
 
+- Radius, Chicago · Fri, 23 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - The Midway, San Francisco/Oakland · Fri, 25 Sept 2026
@@ -22,10 +22,9 @@ Bassvictim is an electro and experimental artist based in United Kingdom, with 5
 - Final, Taipei · Sat, 11 Apr 2026
 - STK 47 WAREHOUSE, Krakow · Fri, 5 Dec 2025
 - Odessa Club, Warsaw · Thu, 4 Dec 2025
-- 2 Progi, Poznan · Wed, 3 Dec 2025
 
 ## Shares bills with
 
 mMega, Thoom, Evian Christ
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvictim/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvictim/)*

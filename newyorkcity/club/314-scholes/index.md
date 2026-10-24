@@ -1,6 +1,6 @@
 # 314 Scholes
 
-314 Scholes is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "URGE: Drumloop & Scant/Omei/Parasite Nurse/January Hunt" on Sat, 24 Oct 2026.
+314 Scholes is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "URGE: Drumloop & Scant/Omei/Parasite Nurse/January Hunt" on Sat, 24 Oct 2026.
 
 314 Scholes is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including 1morning, 1OO1O, JAEL and Modeselektor and 2 more. See dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
@@ -20,4 +20,4 @@
 
 314 Scholes St Brooklyn, NY 11206, New York City
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*

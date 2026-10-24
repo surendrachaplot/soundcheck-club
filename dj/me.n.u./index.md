@@ -1,6 +1,6 @@
 # ME.N.U.
 
-ME.N.U. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
+ME.N.U. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
 
 ME.N.U. is a techno and house artist based in North Macedonia, with 6 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside After Affair, BOHNCKE and GLF's. Next up: Waterhouse Studios, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ ME.N.U. is a techno and house artist based in North Macedonia, with 6 gigs on so
 
 After Affair, BOHNCKE, GLF's
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/me.n.u./)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/me.n.u./)*

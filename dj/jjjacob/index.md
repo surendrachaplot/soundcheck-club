@@ -1,13 +1,14 @@
 # jjjacob
 
-jjjacob is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Basement Vesterbro, Copenhagen on Fri, 20 Nov 2026.
+jjjacob is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Gólya, Budapest on Fri, 6 Nov 2026.
 
-jjjacob is an experimental and techno artist based in Denmark, with 10 gigs on soundcheck across Copenhagen, London, Melbourne and Paris. Often billed alongside Amelia Holt, BABii and Dudde. Next up: Basement Vesterbro, Copenhagen on Fri 20 Nov.
+jjjacob is an experimental and ambient artist based in Denmark, with 11 gigs on soundcheck across Budapest, Copenhagen, London and Melbourne and 1 more. Often billed alongside Amelia Holt, BABii and Dudde. Next up: Gólya, Budapest on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Gólya | Budapest |
 | Fri, 20 Nov 2026 | Basement Vesterbro | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ jjjacob is an experimental and techno artist based in Denmark, with 10 gigs on s
 
 Amelia Holt, BABii, Dudde
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjacob/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjacob/)*

@@ -1,6 +1,6 @@
 # Earworm
 
-Earworm is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Wormhole: Mawkus (US) & Daryl Knows" on Sat, 24 Oct 2026.
+Earworm is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Wormhole: Mawkus (US) & Daryl Knows" on Sat, 24 Oct 2026.
 
 Earworm is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with line-ups including Bongomann, Daryl Knows, Mawkus and Toppings. See dates, start times and who's playing. 16 North Canal Rd, Singapore 048828.
 
@@ -17,4 +17,4 @@ Earworm is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, wit
 
 16 North Canal Rd, Singapore 048828, Singapore
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/earworm/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/earworm/)*

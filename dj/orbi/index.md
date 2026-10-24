@@ -1,14 +1,15 @@
 # Orbi
 
-Orbi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Ankara on Sat, 24 Oct 2026.
+Orbi is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Ankara on Sat, 24 Oct 2026.
 
-Orbi is a techno and trance artist based in Germany, with 41 gigs on soundcheck across Ankara, Berlin, Cologne and Ghent and 3 more. Often billed alongside EGE363, REEZN and Neoma. Next up: TBA, Ankara on Sat 24 Oct.
+Orbi is a techno and trance artist based in Germany, with 42 gigs on soundcheck across Ankara, Berlin, Cologne and Ghent and 3 more. Often billed alongside EGE363, REEZN and Neoma. Next up: TBA, Ankara on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | TBA | Ankara |
+| Sat, 12 Dec 2026 | 74 Hall | Istanbul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Orbi is a techno and trance artist based in Germany, with 41 gigs on soundcheck 
 
 EGE363, REEZN, Neoma
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbi/)*

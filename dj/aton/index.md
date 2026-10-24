@@ -1,6 +1,6 @@
 # Aton
 
-Aton is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Giri, Berlin on Sat, 24 Oct 2026.
+Aton is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Giri, Berlin on Sat, 24 Oct 2026.
 
 Aton is a techno and house artist based in Italy, with 38 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 8 more. Often billed alongside Mattia Lumee, Basse Frequenze Soundsystem and Francesco Salvadori. Next up: Giri, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Aton is a techno and house artist based in Italy, with 38 gigs on soundcheck acr
 
 Mattia Lumee, Basse Frequenze Soundsystem, Francesco Salvadori
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aton/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aton/)*

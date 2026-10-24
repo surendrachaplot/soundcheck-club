@@ -1,6 +1,6 @@
 # MARIUS SEBASTIAN
 
-MARIUS SEBASTIAN is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Basing House, London on Sat, 21 Nov 2026.
+MARIUS SEBASTIAN is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Basing House, London on Sat, 21 Nov 2026.
 
 MARIUS SEBASTIAN is a techno and minimal techno artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside MEAKIN, I-DA and MAXYM. Next up: Basing House, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ MARIUS SEBASTIAN is a techno and minimal techno artist based in United Kingdom, 
 
 MEAKIN, I-DA, MAXYM
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariussebastian/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariussebastian/)*

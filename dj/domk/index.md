@@ -1,6 +1,6 @@
 # Dom K
 
-Dom K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at IT Athens, Athens on Fri, 30 Oct 2026.
+Dom K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at IT Athens, Athens on Fri, 30 Oct 2026.
 
 Dom K is a techno and house artist, with 17 gigs on soundcheck across Athens. Often billed alongside Takis DK, Mágafas and Gatsio. Next up: IT Athens, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Dom K is a techno and house artist, with 17 gigs on soundcheck across Athens. Of
 
 Takis DK, Mágafas, Gatsio
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domk/)*

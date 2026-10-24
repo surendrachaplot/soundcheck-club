@@ -1,6 +1,6 @@
 # Amy  B
 
-Amy  B is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Planet Wax, London on Sun, 25 Oct 2026.
+Amy  B is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Planet Wax, London on Sun, 25 Oct 2026.
 
 Amy  B is a drum & bass and jungle artist, with 7 gigs on soundcheck across London. Often billed alongside Dexta, Uncle G and Abby Daze. Next up: Planet Wax, London on Sun 25 Oct.
 
@@ -23,4 +23,4 @@ Amy  B is a drum & bass and jungle artist, with 7 gigs on soundcheck across Lond
 
 Dexta, Uncle G, Abby Daze
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyb/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyb/)*

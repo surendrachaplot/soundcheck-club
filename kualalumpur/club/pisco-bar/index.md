@@ -1,6 +1,6 @@
 # Pisco Bar
 
-Pisco Bar is a music venue in Kuala Lumpur with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Rogue Instinct x NWHR x Less Is More: Di Linh (Equation,VN), Jenn Chunes, Kiko, Maïatsou" on Sat, 24 Oct 2026.
+Pisco Bar is a music venue in Kuala Lumpur with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Rogue Instinct x NWHR x Less Is More: Di Linh (Equation,VN), Jenn Chunes, Kiko, Maïatsou" on Sat, 24 Oct 2026.
 
 Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 3 upcoming gigs, with line-ups including Alam, Di Linh, Heuremin (MY) and Jenn Chunes and 2 more. See dates, start times and who's playing. 29 Jalan Mesui, Changkat.
 
@@ -16,4 +16,4 @@ Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 3 upcoming gigs
 
 29 Jalan Mesui, Changkat, Kuala Lumpur
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*

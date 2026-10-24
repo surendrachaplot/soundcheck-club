@@ -1,6 +1,6 @@
 # Menal Batti
 
-Menal Batti is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Vienna on Sat, 7 Nov 2026.
+Menal Batti is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Vienna on Sat, 7 Nov 2026.
 
 Menal Batti is a techno and trance artist, with 52 gigs on soundcheck across Amsterdam, Berlin, Brussels and Frankfurt and 9 more. Often billed alongside saschka, DJ Vibekiller and Katia Curie. Next up: TBA, Vienna on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Menal Batti is a techno and trance artist, with 52 gigs on soundcheck across Ams
 
 saschka, DJ Vibekiller, Katia Curie
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menalbatti/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menalbatti/)*

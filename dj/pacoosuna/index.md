@@ -1,6 +1,6 @@
 # Paco Osuna
 
-Paco Osuna is a Tech House and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Escape, Amsterdam on Sat, 24 Oct 2026.
+Paco Osuna is a Tech House and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Escape, Amsterdam on Sat, 24 Oct 2026.
 
 Paco Osuna is a tech house and house artist based in Spain, with 253 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 51 more. Often billed alongside The Martinez Brothers, Melanie Ribbe and Marco Carola. Next up: Escape, Amsterdam on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ Paco Osuna is a tech house and house artist based in Spain, with 253 gigs on sou
 
 The Martinez Brothers, Melanie Ribbe, Marco Carola
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacoosuna/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacoosuna/)*

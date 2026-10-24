@@ -1,14 +1,13 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Lara Sinclair" on Fri, 23 Oct 2026.
+Paradise Palms is a music venue in Edinburgh with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Zoe from Finance and Ed Mahon" on Sat, 24 Oct 2026.
 
-Paradise Palms is a music venue in Edinburgh listed on soundcheck. 5 upcoming gigs, with line-ups including Lara Sinclair, Yiota and Zoe from Finance. See dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
+Paradise Palms is a music venue in Edinburgh listed on soundcheck. 4 upcoming gigs, with line-ups including Yiota and Zoe from Finance. See dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Lara Sinclair | Lara Sinclair |
 | Sat, 24 Oct 2026 | Zoe from Finance and Ed Mahon | Zoe from Finance |
 | Tue, 27 Oct 2026 | EPiKA DJ Masterclass with Yiota | Yiota |
 | Tue, 27 Oct 2026 | EMS DJs |  |
@@ -18,4 +17,4 @@ Paradise Palms is a music venue in Edinburgh listed on soundcheck. 5 upcoming gi
 
 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom, Edinburgh
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*

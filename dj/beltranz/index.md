@@ -1,6 +1,6 @@
 # beltranz
 
-beltranz is a Hardcore and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Core, Madrid on Fri, 30 Oct 2026.
+beltranz is a Hardcore and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Core, Madrid on Fri, 30 Oct 2026.
 
 beltranz is a hardcore and tech house artist, with 20 gigs on soundcheck across Barcelona, Madrid and Seoul. Often billed alongside Elena Barker, DISTORT (ES) and Baby Pantera. Next up: Core, Madrid on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ beltranz is a hardcore and tech house artist, with 20 gigs on soundcheck across 
 
 Elena Barker, DISTORT (ES), Baby Pantera
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beltranz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beltranz/)*

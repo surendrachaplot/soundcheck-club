@@ -1,14 +1,13 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Geiger + Vaz Oliver + Emmanuelle 5 (DJ-Set)" on Fri, 23 Oct 2026.
+Madame Claude is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Gintsugi + Narova + Jurassique Parque (DJ-Set)" on Sat, 24 Oct 2026.
 
-Madame Claude is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Emmanuelle 5 and MOONBEAN. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
+Madame Claude is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including MOONBEAN. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Geiger + Vaz Oliver + Emmanuelle 5 (DJ-Set) | Emmanuelle 5 |
 | Sat, 24 Oct 2026 | Gintsugi + Narova + Jurassique Parque (DJ-Set) |  |
 | Mon, 26 Oct 2026 | Experimontag: Kreisfrequenz ((ω)) Felix-Florian Tödtloff + Crystallization |  |
 | Fri, 30 Oct 2026 | MOONBEAN + ORBITAL GLOOM + Oberst Panizza (DJ-Set) | MOONBEAN |
@@ -19,4 +18,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, 
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

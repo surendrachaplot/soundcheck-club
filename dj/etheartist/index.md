@@ -1,6 +1,6 @@
 # E The Artist
 
-E The Artist is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at National Concert Hall, Dublin on Sun, 25 Oct 2026.
+E The Artist is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at National Concert Hall, Dublin on Sun, 25 Oct 2026.
 
 E The Artist is a club and experimental artist based in Ireland, with 29 gigs on soundcheck across Dublin, Glasgow, Liverpool and Prague and 3 more. Often billed alongside Rory Sweeney, Julia Louise KnifeFist and Rhyzine. Next up: National Concert Hall, Dublin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ E The Artist is a club and experimental artist based in Ireland, with 29 gigs on
 
 Rory Sweeney, Julia Louise KnifeFist, Rhyzine
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etheartist/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etheartist/)*

@@ -1,6 +1,6 @@
 # Ryan King
 
-Ryan King is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at feedbk, New York City on Sat, 24 Oct 2026.
+Ryan King is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at feedbk, New York City on Sat, 24 Oct 2026.
 
 Ryan King is a house and techno artist based in United States of America, with 25 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Burchan Acar, Max Sprauer and Shvili. Next up: feedbk, New York City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Ryan King is a house and techno artist based in United States of America, with 2
 
 Burchan Acar, Max Sprauer, Shvili
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanking/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanking/)*

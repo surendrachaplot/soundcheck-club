@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "59 Bel Records x Prima Materia x Dismal" on Sun, 25 Oct 2026.
+La Cité Fertile is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "59 Bel Records x Prima Materia x Dismal" on Sun, 25 Oct 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Daniel Meister, Dictent Vroom, EMIRA and Equus Belli and 2 more. See dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -16,4 +16,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 3 upcoming gigs
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

@@ -1,14 +1,13 @@
 # N00M1
 
-N00M1 is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+N00M1 is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at BASIS, Utrecht on Fri, 6 Nov 2026.
 
-N00M1 is a techno and acid artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Berlin, Cologne and Malta and 4 more. Often billed alongside DIØN, KARAH and Azyr. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
+N00M1 is a techno and acid artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Berlin, Cologne and Malta and 4 more. Often billed alongside DIØN, KARAH and Azyr. Next up: BASIS, Utrecht on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Fri, 6 Nov 2026 | BASIS | Utrecht |
 
 ## Recently played
@@ -26,4 +25,4 @@ N00M1 is a techno and acid artist based in Netherlands, with 35 gigs on soundche
 
 DIØN, KARAH, Azyr
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n00m1/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n00m1/)*

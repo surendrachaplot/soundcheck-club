@@ -1,6 +1,6 @@
 # Leah Marie
 
-Leah Marie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Prisma, Berlin on Sun, 25 Oct 2026.
+Leah Marie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Prisma, Berlin on Sun, 25 Oct 2026.
 
 Leah Marie is a house and techno artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Lisbon and 4 more. Often billed alongside Manu Strasse, Till Antonio and Adron_. Next up: Prisma, Berlin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Leah Marie is a house and techno artist based in Germany, with 41 gigs on soundc
 
 Manu Strasse, Till Antonio, Adron_
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leahmarie/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leahmarie/)*

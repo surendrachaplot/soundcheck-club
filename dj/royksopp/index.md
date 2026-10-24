@@ -1,6 +1,6 @@
 # Royksopp
 
-Royksopp is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at OST, Berlin on Sat, 24 Oct 2026.
+Royksopp is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at OST, Berlin on Sat, 24 Oct 2026.
 
 Royksopp is a house and electronica artist based in Norway, with 46 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 24 more. Often billed alongside Ben Böhmer, Jayda G and The Blaze. Next up: OST, Berlin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Royksopp is a house and electronica artist based in Norway, with 46 gigs on soun
 
 Ben Böhmer, Jayda G, The Blaze
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royksopp/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royksopp/)*

@@ -1,6 +1,6 @@
 # Tom Pavicich
 
-Tom Pavicich is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Grand Social, Dublin on Sat, 24 Oct 2026.
+Tom Pavicich is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Grand Social, Dublin on Sat, 24 Oct 2026.
 
 Tom Pavicich is a house and progressive house artist based in Argentina, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 5 more. Often billed alongside oulcan, Mati Amoretti and FTRXPRS. Next up: The Grand Social, Dublin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Tom Pavicich is a house and progressive house artist based in Argentina, with 39
 
 oulcan, Mati Amoretti, FTRXPRS
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tompavicich/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tompavicich/)*

@@ -1,6 +1,6 @@
 # Kruz
 
-Kruz is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
+Kruz is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
 
 Kruz is a house and italo disco artist, with 43 gigs on soundcheck across Amsterdam, Bogotá, Medellin and Rotterdam and 1 more. Often billed alongside Sergio Iglesias, Surfer Rosa and Marsman. Next up: Video Club, Bogotá on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kruz is a house and italo disco artist, with 43 gigs on soundcheck across Amster
 
 Sergio Iglesias, Surfer Rosa, Marsman
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kruz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kruz/)*

@@ -1,6 +1,6 @@
 # Pistil
 
-Pistil is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "KUN" on Sat, 24 Oct 2026.
+Pistil is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "KUN" on Sat, 24 Oct 2026.
 
 Pistil is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including COOK SWEET, Coolrnch, HAGY and KNARFTSITRA and 2 more. See dates, start times and who's playing. 130- 5 Itaewon-dong, Seoul, South Korea.
 
@@ -16,4 +16,4 @@ Pistil is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with lin
 
 130- 5 Itaewon-dong, Seoul, South Korea, Seoul
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*

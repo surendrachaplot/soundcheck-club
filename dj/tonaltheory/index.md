@@ -1,6 +1,6 @@
 # TonalTheory
 
-TonalTheory is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Loso, Richmond on Fri, 30 Oct 2026.
+TonalTheory is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Loso, Richmond on Fri, 30 Oct 2026.
 
 TonalTheory is a techno and trance artist based in United States of America, with 44 gigs on soundcheck across Atlanta, Baltimore, Copenhagen and Dallas/Fort Worth and 7 more. Often billed alongside STUKES, JADE CAO and KRØK. Next up: Loso, Richmond on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ TonalTheory is a techno and trance artist based in United States of America, wit
 
 STUKES, JADE CAO, KRØK
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaltheory/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaltheory/)*

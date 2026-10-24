@@ -1,6 +1,6 @@
 # Julia Linkogel
 
-Julia Linkogel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+Julia Linkogel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
 
 Julia Linkogel is a techno and house artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 8 more. Often billed alongside Adriatique, Baime and Ae:ther. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
 
@@ -13,6 +13,7 @@ Julia Linkogel is a techno and house artist based in Germany, with 32 gigs on so
 
 ## Recently played
 
+- Het Sieraad, Amsterdam · Fri, 23 Oct 2026
 - E1, London · Sat, 10 Oct 2026
 - Volt Club Milano, Milan · Sat, 19 Sept 2026
 - Hamburg Cruise Center Altona, Hamburg · Fri, 28 Aug 2026
@@ -20,10 +21,9 @@ Julia Linkogel is a techno and house artist based in Germany, with 32 gigs on so
 - Boston Manor Park, London · Sun, 26 Jul 2026
 - Luz De Gas, Barcelona · Sat, 6 Jun 2026
 - MODULE, Copenhagen · Wed, 3 Jun 2026
-- Volt Club Milano, Milan · Sat, 2 May 2026
 
 ## Shares bills with
 
 Adriatique, Baime, Ae:ther
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*

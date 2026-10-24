@@ -1,6 +1,6 @@
 # Hataken
 
-Hataken is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Groundless Factory, Beijing on Sat, 24 Oct 2026.
+Hataken is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Groundless Factory, Beijing on Sat, 24 Oct 2026.
 
 Hataken is an electro and techno artist based in Japan, with 20 gigs on soundcheck across Beijing, Berlin, Osaka and Seoul and 1 more. Often billed alongside OYKNI, Espinoza and Masayoshi Sakaguchi. Next up: Groundless Factory, Beijing on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Hataken is an electro and techno artist based in Japan, with 20 gigs on soundche
 
 OYKNI, Espinoza, Masayoshi Sakaguchi
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hataken/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hataken/)*

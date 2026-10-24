@@ -1,6 +1,6 @@
 # Cow Palace
 
-Cow Palace is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Sammy Virji" on Fri, 13 Nov 2026.
+Cow Palace is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Sammy Virji" on Fri, 13 Nov 2026.
 
 Cow Palace is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Saint Ludo, Sam Gellaitry and Sammy Virji. See dates, start times and who's playing. 2600 Geneva Ave, Daly City, CA 94014, United States.
 
@@ -14,4 +14,4 @@ Cow Palace is a music venue in San Francisco/Oakland listed on soundcheck. 1 upc
 
 2600 Geneva Ave, Daly City, CA 94014, United States, San Francisco/Oakland
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cow-palace/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cow-palace/)*

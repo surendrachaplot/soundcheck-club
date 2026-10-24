@@ -1,8 +1,8 @@
 # Danny Howells
 
-Danny Howells is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bikini Club, Barcelona on Sat, 24 Oct 2026.
+Danny Howells is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bikini Club, Barcelona on Sat, 24 Oct 2026.
 
-Danny Howells is a progressive house and house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brighton and 22 more. Often billed alongside Dave Seaman, Graziano Raffa and Anthony Pappa. Next up: Bikini Club, Barcelona on Sat 24 Oct.
+Danny Howells is a progressive house and house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brighton and 22 more. Often billed alongside Dave Seaman, Graziano Raffa and Anthony Pappa. Next up: Bikini Club, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Danny Howells is a progressive house and house artist based in United Kingdom, w
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Bikini Club | Barcelona |
 | Sat, 24 Oct 2026 | Bikini Club | Barcelona |
+| Fri, 11 Dec 2026 | The Golden Lion | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Danny Howells is a progressive house and house artist based in United Kingdom, w
 
 Dave Seaman, Graziano Raffa, Anthony Pappa
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*

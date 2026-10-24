@@ -1,6 +1,6 @@
 # Rodilla Club at Japan Monterrey
 
-Rodilla Club at Japan Monterrey on Sat 24 Oct, Mexico City. 4 artists: acidheaven, Liquid J, NAP (MX) and rodman. Techno and Club. See the line-up on soundcheck.
+Rodilla Club at Japan Monterrey on Sat 24 Oct, Mexico City. 4 artists: Liquid J, NAP (MX), rodman and ZDBT. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ Rodilla Club at Japan Monterrey on Sat 24 Oct, Mexico City. 4 artists: acidheave
 
 ## Line-up
 
-- acidheaven
 - Liquid J
 - NAP (MX)
 - rodman
+- ZDBT
 
 *Source: [soundcheck](https://soundcheck.club/e/2546726-rodilla-club-at-japan-monterrey/)*

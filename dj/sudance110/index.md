@@ -1,6 +1,6 @@
 # su dance110
 
-su dance110 is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Morphine Raum, Berlin on Sat, 24 Oct 2026.
+su dance110 is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Morphine Raum, Berlin on Sat, 24 Oct 2026.
 
 su dance110 is an experimental and noise artist, with 17 gigs on soundcheck across Beijing, Berlin, Copenhagen and Kuala Lumpur and 3 more. Often billed alongside Cinna Peyghamy, FEIYI and Gina Lo. Next up: Morphine Raum, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ su dance110 is an experimental and noise artist, with 17 gigs on soundcheck acro
 
 Cinna Peyghamy, FEIYI, Gina Lo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sudance110/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sudance110/)*

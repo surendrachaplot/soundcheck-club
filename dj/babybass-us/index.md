@@ -1,6 +1,6 @@
 # Baby Bass
 
-Baby Bass is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Aire Miami, Miami on Sun, 25 Oct 2026.
+Baby Bass is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Aire Miami, Miami on Sun, 25 Oct 2026.
 
 Baby Bass is a house and deep house artist based in United States of America, with 9 gigs on soundcheck across Miami and Washington DC. Often billed alongside Alan Epps, CVT MVNSION and Chriz Javey. Next up: Aire Miami, Miami on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Baby Bass is a house and deep house artist based in United States of America, wi
 
 Alan Epps, CVT MVNSION, Chriz Javey
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babybass-us/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babybass-us/)*

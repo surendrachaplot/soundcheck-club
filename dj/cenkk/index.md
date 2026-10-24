@@ -1,6 +1,6 @@
 # CENKK
 
-CENKK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bar Feijoa, Amsterdam on Sun, 25 Oct 2026.
+CENKK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bar Feijoa, Amsterdam on Sun, 25 Oct 2026.
 
 CENKK is a techno and house artist based in United States of America, with 43 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Copenhagen and 3 more. Often billed alongside Tom Peters, Yashar (UK) and Kate Moss. Next up: Bar Feijoa, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ CENKK is a techno and house artist based in United States of America, with 43 gi
 
 Tom Peters, Yashar (UK), Kate Moss
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cenkk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cenkk/)*

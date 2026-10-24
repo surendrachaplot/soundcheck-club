@@ -1,6 +1,6 @@
 # Alex Liveris
 
-Alex Liveris is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at El Chapo Cocktail Bar, Athens on Sun, 25 Oct 2026.
+Alex Liveris is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at El Chapo Cocktail Bar, Athens on Sun, 25 Oct 2026.
 
 Alex Liveris is a house and afro house artist, with 9 gigs on soundcheck across Athens and Malta. Often billed alongside Mikele, Isi and JOHNJAYDEE. Next up: El Chapo Cocktail Bar, Athens on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Alex Liveris is a house and afro house artist, with 9 gigs on soundcheck across 
 
 Mikele, Isi (1), JOHNJAYDEE
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexliveris/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexliveris/)*

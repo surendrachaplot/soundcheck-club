@@ -1,6 +1,6 @@
 # dandarplaya
 
-dandarplaya is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Begrüntes Haus, Bangkok on Sat, 31 Oct 2026.
+dandarplaya is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Begrüntes Haus, Bangkok on Sat, 31 Oct 2026.
 
 dandarplaya is an experimental and hardcore artist, with 27 gigs on soundcheck across Bangkok and Seoul. Often billed alongside HU550, kochewww and angelic waves. Next up: Begrüntes Haus, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ dandarplaya is an experimental and hardcore artist, with 27 gigs on soundcheck a
 
 HU550, kochewww, angelic waves
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandarplaya/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandarplaya/)*

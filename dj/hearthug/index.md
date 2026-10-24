@@ -1,6 +1,6 @@
 # HearThug
 
-HearThug is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sat, 24 Oct 2026.
+HearThug is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sat, 24 Oct 2026.
 
 HearThug is a house and electro artist based in Tunisia, with 62 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Hasta La Vista, Baby, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ HearThug is a house and electro artist based in Tunisia, with 62 gigs on soundch
 
 Occibel, IAMBP, Alyhas
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

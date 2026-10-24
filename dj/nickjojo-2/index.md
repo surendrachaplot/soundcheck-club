@@ -1,6 +1,6 @@
 # Nick Jojo (2)
 
-Nick Jojo (2) is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Zelus Athens, Athens on Sat, 24 Oct 2026.
+Nick Jojo (2) is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Zelus Athens, Athens on Sat, 24 Oct 2026.
 
 Nick Jojo is a house artist based in Greece, with 53 gigs on soundcheck across Athens, Ibiza and Mykonos. Often billed alongside KORRILA, Fotinos and Alex Kosh. Next up: Zelus Athens, Athens on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nick Jojo is a house artist based in Greece, with 53 gigs on soundcheck across A
 
 KORRILA, Fotinos, Alex Kosh
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickjojo-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickjojo-2/)*

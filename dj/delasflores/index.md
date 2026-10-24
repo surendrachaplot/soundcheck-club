@@ -1,6 +1,6 @@
 # DELASFLORES
 
-DELASFLORES is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+DELASFLORES is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 DELASFLORES is a techno and house artist based in Spain, with 46 gigs on soundcheck across Barcelona, Berlin, Brighton and Dublin and 10 more. Often billed alongside B.Love, Fantastic Man and Felon5. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DELASFLORES is a techno and house artist based in Spain, with 46 gigs on soundch
 
 B.Love, Fantastic Man, Felon5
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delasflores/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delasflores/)*

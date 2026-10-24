@@ -1,6 +1,6 @@
 # MJMA
 
-MJMA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+MJMA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 MJMA is a techno and house artist based in Thailand, with 69 gigs on soundcheck across Bangkok and Hanoi. Often billed alongside LOMOROOM, Mae Happyair and 5.5MM. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -13,6 +13,7 @@ MJMA is a techno and house artist based in Thailand, with 69 gigs on soundcheck 
 
 ## Recently played
 
+- Horn, Bangkok · Fri, 23 Oct 2026
 - Horn, Bangkok · Sat, 10 Oct 2026
 - Horn, Bangkok · Thu, 10 Sept 2026
 - The Wireless Club, Bangkok · Fri, 28 Aug 2026
@@ -20,10 +21,9 @@ MJMA is a techno and house artist based in Thailand, with 69 gigs on soundcheck 
 - Horn, Bangkok · Sat, 1 Aug 2026
 - Horn, Bangkok · Fri, 24 Jul 2026
 - Horn, Bangkok · Sat, 18 Jul 2026
-- Horn, Bangkok · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 LOMOROOM, Mae Happyair, 5.5MM
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mjma/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mjma/)*

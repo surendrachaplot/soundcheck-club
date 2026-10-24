@@ -1,6 +1,6 @@
 # colell
 
-colell is a Trance and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The White Hotel, Manchester on Wed, 4 Nov 2026.
+colell is a Trance and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The White Hotel, Manchester on Wed, 4 Nov 2026.
 
 colell is a trance and electronica artist based in Spain, with 47 gigs on soundcheck across Barcelona, Berlin, Leeds and Lisbon and 7 more. Often billed alongside HØLEIGH, April (UK) and Claws. Next up: The White Hotel, Manchester on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ colell is a trance and electronica artist based in Spain, with 47 gigs on soundc
 
 HØLEIGH, April (UK), Claws
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*

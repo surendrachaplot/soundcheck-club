@@ -1,6 +1,6 @@
 # Levenslang Amsterdam
 
-Levenslang Amsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SLPFNK - LEVENSLANG ADE" on Sat, 24 Oct 2026.
+Levenslang Amsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "SLPFNK - LEVENSLANG ADE" on Sat, 24 Oct 2026.
 
 Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Di Stefano, A.M. Project, Doudou MD and Dyed Soundorom and 2 more. See dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096AN, Amsterdam.
 
@@ -15,4 +15,4 @@ Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcom
 
 H.J.E. Wenckebachweg 48, 1096AN, Amsterdam, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*

@@ -1,6 +1,6 @@
 # SEL OCTAGON TOKYO
 
-SEL OCTAGON TOKYO is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "WEEKEND OCTAGON" on Sat, 24 Oct 2026.
+SEL OCTAGON TOKYO is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "WEEKEND OCTAGON" on Sat, 24 Oct 2026.
 
 SEL OCTAGON TOKYO is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including HIBIKI, kazuma, KOSHIRO and Lemi and 2 more. See dates, start times and who's playing. Axall Roppongi B1F, 7-8-6 Roppongi, Minato-ku, Tokyo, 106-0032 Japan.
 
@@ -20,4 +20,4 @@ SEL OCTAGON TOKYO is a music venue in Tokyo listed on soundcheck. 7 upcoming gig
 
 Axall Roppongi B1F, 7-8-6 Roppongi, Minato-ku, Tokyo, 106-0032 Japan, Tokyo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/sel-octagon-tokyo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/sel-octagon-tokyo/)*

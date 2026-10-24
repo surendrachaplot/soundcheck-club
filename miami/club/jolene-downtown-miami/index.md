@@ -1,14 +1,13 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Pearson Sound" on Fri, 23 Oct 2026.
+Jolene Downtown Miami is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Ida Engberg & ONYVAA" on Sat, 24 Oct 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcoming gigs, with line-ups including Milo Ziro, Adiel, Aline Umber and Aramís Lorié and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including Adiel, Aline Umber, Aramís Lorié and BASHKKA and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Pearson Sound | Liquid J, Milo Ziro, Pearson Sound |
 | Sat, 24 Oct 2026 | Ida Engberg & ONYVAA | Ida Engberg, KUJO (US), ONYVAA |
 | Thu, 29 Oct 2026 | Aline Umber b2b Krol (All Night Long) | Aline Umber, Krol |
 | Fri, 30 Oct 2026 | Hercules and Love Affair | Aramís Lorié, Hercules & Love Affair, Terence Tabeau |
@@ -23,4 +22,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcomin
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

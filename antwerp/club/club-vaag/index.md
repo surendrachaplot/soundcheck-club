@@ -1,14 +1,13 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Club Vaag invites BØĘRY & Raxeller" on Fri, 23 Oct 2026.
+Club Vaag is a music venue in Antwerp with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Club Vaag invites Nikolina" on Sat, 24 Oct 2026.
 
-Club Vaag is a music venue in Antwerp listed on soundcheck. 10 upcoming gigs, with line-ups including 333CXT, BAUGRUPPE90, BLNK and BØĘRY and 2 more. See dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
+Club Vaag is a music venue in Antwerp listed on soundcheck. 9 upcoming gigs, with line-ups including 333CXT, BAUGRUPPE90, BLNK and FennX and 2 more. See dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Club Vaag invites BØĘRY & Raxeller | BØĘRY, Raxeller |
 | Sat, 24 Oct 2026 | Club Vaag invites Nikolina | JIPSEY, Nikolina, Riana Holley, myu:sa |
 | Sun, 25 Oct 2026 | Club Vaag invites Ueberrest, TASSERY & THISO | JIPSEY, TASSERY, THISO, Ueberrest |
 | Fri, 30 Oct 2026 | Club Vaag invites MIKA HEGGEMAN & SUPRISE HEADLINER | Mika Heggemann, Vince Alphen |
@@ -23,4 +22,4 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 10 upcoming gigs, wi
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

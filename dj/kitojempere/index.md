@@ -1,6 +1,6 @@
 # Kito Jempere
 
-Kito Jempere is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 24 Oct 2026.
+Kito Jempere is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 24 Oct 2026.
 
 Kito Jempere is a house and jazz artist, with 11 gigs on soundcheck across Dubai, Osaka and Tokyo. Often billed alongside Kenji Takimi, Lipelis and Toshiya Kawasaki. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kito Jempere is a house and jazz artist, with 11 gigs on soundcheck across Dubai
 
 Kenji Takimi, Lipelis, Toshiya Kawasaki
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitojempere/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitojempere/)*

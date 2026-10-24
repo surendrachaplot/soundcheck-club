@@ -1,6 +1,6 @@
 # Latas
 
-Latas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Moondog Hifi, New York City on Thu, 29 Oct 2026.
+Latas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Moondog Hifi, New York City on Thu, 29 Oct 2026.
 
 Latas is a house and deep house artist based in United States of America, with 22 gigs on soundcheck across New York City. Often billed alongside Akin Paksoy, Jack Mulqueen and dero. Next up: Moondog Hifi, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Latas is a house and deep house artist based in United States of America, with 2
 
 Akin Paksoy, Jack Mulqueen, dero
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latas/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latas/)*

@@ -1,6 +1,6 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TV Lounge, Detroit on Fri, 30 Oct 2026.
+LADYMONIX is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TV Lounge, Detroit on Fri, 30 Oct 2026.
 
 LADYMONIX is a house and techno artist based in United States of America, with 159 gigs on soundcheck across Atlanta, Berlin, Boston and Chicago and 23 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: TV Lounge, Detroit on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ LADYMONIX is a house and techno artist based in United States of America, with 1
 
 Rimarkable, Waajeed, Stacey Hotwaxx Hale
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*

@@ -1,6 +1,6 @@
 # Harry Bone
 
-Harry Bone is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Empire Tavern, London on Fri, 30 Oct 2026.
+Harry Bone is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Empire Tavern, London on Fri, 30 Oct 2026.
 
 Harry Bone is a house and disco artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Rennie Peters, STEWPOT and Toby Elliot. Next up: Empire Tavern, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Harry Bone is a house and disco artist based in United Kingdom, with 11 gigs on 
 
 Rennie Peters, STEWPOT, Toby Elliot
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrybone/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrybone/)*

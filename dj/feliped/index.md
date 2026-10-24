@@ -1,6 +1,6 @@
 # felipe d
 
-felipe d is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Stud, San Francisco/Oakland on Sat, 7 Nov 2026.
+felipe d is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Stud, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 felipe d is a baile funk and club artist based in Brazil, with 34 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside QUEENIE (US), Profesito and DJ Saratonin. Next up: The Stud, San Francisco/Oakland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ felipe d is a baile funk and club artist based in Brazil, with 34 gigs on soundc
 
 QUEENIE (US), Profesito, DJ Saratonin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feliped/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feliped/)*

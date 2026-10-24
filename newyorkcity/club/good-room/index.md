@@ -1,14 +1,13 @@
 # Good Room
 
-Good Room is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "XOXA + Tossd ft DJ Shannon, Kim Anh, YASMEENAH, DJ DEADNAME, Sevyn Love, Giovannii, Will Jack" on Fri, 23 Oct 2026.
+Good Room is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night)" on Sat, 24 Oct 2026.
 
-Good Room is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including 2ManyDJs, Anastazja, Andy Pry and Benny Soto and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including 2ManyDJs, Anastazja, Andy Pry and Benny Soto and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | XOXA + Tossd ft DJ Shannon, Kim Anh, YASMEENAH, DJ DEADNAME, Sevyn Love, Giovannii, Will Jack | DJ DEADNAME, DJ Shannon, Giovannii, Kim Anh, Sevyn Love, Will Jack, YASMEENAH (2) |
 | Sat, 24 Oct 2026 | FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) | JDH & Dave P, Mozhgan, Universal Cave |
 | Thu, 29 Oct 2026 | 2ManyDJs, Rory Phillips | 2ManyDJs, Rory Phillips |
 | Fri, 30 Oct 2026 | Synthicide Halloween ft Terence Fixmer, Andi, Justin Aulis Long, Stiffdance | Andi, Justin Aulis Long, Stiffdance, Terence Fixmer |
@@ -18,9 +17,10 @@ Good Room is a music venue in New York City listed on soundcheck. 18 upcoming gi
 | Fri, 13 Nov 2026 | Anastazja, Honey Bun, Royal Male, LOLO | Anastazja, Honey Bun, LOLO (US), Royal Male |
 | Sat, 14 Nov 2026 | 240 Months of Riotvan ft Panthera Krause, Peter Invasion, Timo Lee, Mike Simonetti (all night) | Mike Simonetti, Panthera Krause, Peter Invasion, Timo Lee |
 | Sun, 15 Nov 2026 | 718 Sessions- 24th Year Anniversary Party | Danny Krivit, Go Kiryu, HIRAME |
+| Thu, 19 Nov 2026 | Homies Givin' 2026 | Extra Meesh, Papa, TYLERFROMWHERE, gabby cocco |
 
 ## Address
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

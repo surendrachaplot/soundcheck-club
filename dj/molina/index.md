@@ -1,6 +1,6 @@
 # Molina
 
-Molina is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Molina is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
 Molina is a tech house and house artist based in Colombia, with 22 gigs on soundcheck across Amsterdam, Leeds, Medellin and Mexico City and 2 more. Often billed alongside Obando, Buttechno and Christian AB. Next up: public records, New York City on Mon 9 Nov.
 
@@ -26,4 +26,4 @@ Molina is a tech house and house artist based in Colombia, with 22 gigs on sound
 
 Obando, Buttechno, Christian AB
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molina/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molina/)*

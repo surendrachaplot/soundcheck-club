@@ -1,6 +1,6 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+Lea Occhi is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
 Lea Occhi is a techno and house artist based in France, with 211 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Amotik, Lobster (NL) and Dasha Rush. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
@@ -17,6 +17,7 @@ Lea Occhi is a techno and house artist based in France, with 211 gigs on soundch
 
 ## Recently played
 
+- Pakhuis de Zwijger, Amsterdam · Fri, 23 Oct 2026
 - TILLATEC, Amsterdam · Thu, 22 Oct 2026
 - Bar Theo, Amsterdam · Thu, 22 Oct 2026
 - San Francisco, Amsterdam · Thu, 22 Oct 2026
@@ -24,10 +25,9 @@ Lea Occhi is a techno and house artist based in France, with 211 gigs on soundch
 - La Station - Gare des Mines, Paris · Sun, 11 Oct 2026
 - Fvtvr, Paris · Fri, 2 Oct 2026
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
-- Le Trabendo, Paris · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Amotik, Lobster (NL), Dasha Rush
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

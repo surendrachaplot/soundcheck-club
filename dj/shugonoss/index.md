@@ -1,6 +1,6 @@
 # Shugo Noss
 
-Shugo Noss is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Inner North, Melbourne on Sat, 24 Oct 2026.
+Shugo Noss is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Inner North, Melbourne on Sat, 24 Oct 2026.
 
 Shugo Noss is a techno and trance artist, with 13 gigs on soundcheck across Berlin, Madrid, Melbourne and Sydney. Often billed alongside Shaven, AWHM and Agata (PL). Next up: TBA - Inner North, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Shugo Noss is a techno and trance artist, with 13 gigs on soundcheck across Berl
 
 Shaven, AWHM, Agata (PL)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shugonoss/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shugonoss/)*

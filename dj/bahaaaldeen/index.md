@@ -1,6 +1,6 @@
 # BAHAA AL DEEN
 
-BAHAA AL DEEN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at AMT, Berlin on Sat, 5 Dec 2026.
+BAHAA AL DEEN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at AMT, Berlin on Sat, 5 Dec 2026.
 
 BAHAA AL DEEN is a house and techno artist based in Germany, with 27 gigs on soundcheck across Berlin, Frankfurt, Lisbon and Vienna. Often billed alongside Ramy Hasnawe, Karim Alkhayat and Oskar Knickelbein. Next up: AMT, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ BAHAA AL DEEN is a house and techno artist based in Germany, with 27 gigs on sou
 
 Ramy Hasnawe, Karim Alkhayat, Oskar Knickelbein
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bahaaaldeen/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bahaaaldeen/)*

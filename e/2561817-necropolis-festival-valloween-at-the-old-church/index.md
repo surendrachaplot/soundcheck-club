@@ -1,6 +1,6 @@
 # Necropolis Festival: VALLOWEEN at The Old Church
 
-Necropolis Festival: VALLOWEEN at The Old Church on Sat 13 Feb, London. 1 artist: Arrosa. See the line-up on soundcheck.
+Necropolis Festival: VALLOWEEN at The Old Church on Sat 13 Feb, London. 3 artists: Arrosa, Brother of Set and Leviminks. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Necropolis Festival: VALLOWEEN at The Old Church on Sat 13 Feb, London. 1 artist
 ## Line-up
 
 - Arrosa
+- Brother of Set
+- Leviminks
 
 *Source: [soundcheck](https://soundcheck.club/e/2561817-necropolis-festival-valloween-at-the-old-church/)*

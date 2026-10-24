@@ -1,6 +1,6 @@
 # GoaGraf
 
-GoaGraf is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at elipamanoke, Leipzig on Fri, 30 Oct 2026.
+GoaGraf is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at elipamanoke, Leipzig on Fri, 30 Oct 2026.
 
 GoaGraf is a trance and psytrance artist, with 16 gigs on soundcheck across Dresden and Leipzig. Often billed alongside Acid Goldee, monotony and Ash Roy. Next up: elipamanoke, Leipzig on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ GoaGraf is a trance and psytrance artist, with 16 gigs on soundcheck across Dres
 
 Acid Goldee, monotony, Ash Roy
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goagraf/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goagraf/)*

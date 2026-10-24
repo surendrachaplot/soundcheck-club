@@ -1,6 +1,6 @@
 # Tal Stef
 
-Tal Stef is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Les Studios du Rhin, Strasbourg on Sun, 8 Nov 2026.
+Tal Stef is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Les Studios du Rhin, Strasbourg on Sun, 8 Nov 2026.
 
 Tal Stef is a house and disco artist based in France, with 26 gigs on soundcheck across Strasbourg. Often billed alongside Javier, El Kazed and Makar. Next up: Les Studios du Rhin, Strasbourg on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Tal Stef is a house and disco artist based in France, with 26 gigs on soundcheck
 
 Javier (1), El Kazed, Makar
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talstef/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talstef/)*

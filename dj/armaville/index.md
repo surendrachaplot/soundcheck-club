@@ -1,6 +1,6 @@
 # Armaville
 
-Armaville is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Späti 73, Warschauer Str. 73, Berlin on Sat, 24 Oct 2026.
+Armaville is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Späti 73, Warschauer Str. 73, Berlin on Sat, 24 Oct 2026.
 
 Armaville is a trance and techno artist based in Colombia, with 12 gigs on soundcheck across Berlin. Often billed alongside Dr.Waumiau, F O R E S I G H T and FAballert. Next up: TBA - Späti 73, Warschauer Str. 73, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Armaville is a trance and techno artist based in Colombia, with 12 gigs on sound
 
 Dr.Waumiau, F O R E S I G H T, FAballert
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armaville/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armaville/)*

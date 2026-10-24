@@ -1,18 +1,18 @@
 # Elias Goldmund
 
-Elias Goldmund is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kulturlounge, Leipzig on Fri, 23 Oct 2026.
+Elias Goldmund is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kater, Berlin on Fri, 20 Nov 2026.
 
-Elias Goldmund is a techno and downtempo artist, with 34 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 4 more. Often billed alongside Naicet, Corios and R3NATA. Next up: Kulturlounge, Leipzig on Fri 23 Oct.
+Elias Goldmund is a techno and downtempo artist, with 34 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 4 more. Often billed alongside Naicet, Corios and R3NATA. Next up: Kater, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Kulturlounge | Leipzig |
 | Fri, 20 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 
+- Kulturlounge, Leipzig · Fri, 23 Oct 2026
 - Renate, Berlin · Fri, 16 Oct 2026
 - Klunkerkranich, Berlin · Sat, 3 Oct 2026
 - Mammoth Moma5, Berlin · Sat, 6 Jun 2026
@@ -20,10 +20,9 @@ Elias Goldmund is a techno and downtempo artist, with 34 gigs on soundcheck acro
 - Bahnwärter Thiel, Munich · Fri, 24 Apr 2026
 - Kater, Berlin · Sat, 17 Jan 2026
 - Klunkerkranich, Berlin · Fri, 24 Oct 2025
-- Kater, Berlin · Sat, 12 Jul 2025
 
 ## Shares bills with
 
 Naicet, Corios, R3NATA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasgoldmund/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasgoldmund/)*

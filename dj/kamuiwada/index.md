@@ -1,6 +1,6 @@
 # Kamui Wada
 
-Kamui Wada is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at HVEN, Tokyo on Sat, 24 Oct 2026.
+Kamui Wada is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at HVEN, Tokyo on Sat, 24 Oct 2026.
 
 Kamui Wada is a garage and house artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside DJ Flexure, yumes and Acrocanthosaurus. Next up: HVEN, Tokyo on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Kamui Wada is a garage and house artist based in Japan, with 4 gigs on soundchec
 
 DJ Flexure, yumes, Acrocanthosaurus
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamuiwada/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamuiwada/)*

@@ -1,14 +1,15 @@
 # YASDUB
 
-YASDUB is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 26 Oct 2026.
+YASDUB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 26 Oct 2026.
 
-YASDUB is a house and bass artist, with 34 gigs on soundcheck across Detroit, Kyoto, London and Osaka and 1 more. Often billed alongside CH.0, Bushmind and OG Militant B. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 26 Oct.
+YASDUB is a house and techno artist, with 35 gigs on soundcheck across Detroit, Kyoto, London and Osaka and 1 more. Often billed alongside CH.0, Bushmind and OG Militant B. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 26 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 26 Oct 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Fri, 13 Nov 2026 | Chika-Ikkai | Osaka |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ YASDUB is a house and bass artist, with 34 gigs on soundcheck across Detroit, Ky
 
 CH.0, Bushmind, OG Militant B
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasdub/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasdub/)*

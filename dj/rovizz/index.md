@@ -1,6 +1,6 @@
 # Rovizz
 
-Rovizz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Turbina, Budapest on Thu, 19 Nov 2026.
+Rovizz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Turbina, Budapest on Thu, 19 Nov 2026.
 
 Rovizz is a techno and trance artist, with 46 gigs on soundcheck across Budapest. Often billed alongside Daniel Moritz, schraeder and CRB. Next up: Turbina, Budapest on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Rovizz is a techno and trance artist, with 46 gigs on soundcheck across Budapest
 
 Daniel Moritz, schraeder, CRB
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rovizz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rovizz/)*

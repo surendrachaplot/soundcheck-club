@@ -1,6 +1,6 @@
 # BRATATTACK
 
-BRATATTACK is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
+BRATATTACK is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
 
 BRATATTACK is a club and techno artist based in United States of America, with 42 gigs on soundcheck across Atlanta, Baltimore, Boston and Charlotte and 5 more. Often billed alongside JAGU4R, Don Fairylèon and flotussin. Next up: Bossa Nova Civic Club, New York City on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ BRATATTACK is a club and techno artist based in United States of America, with 4
 
 JAGU4R, Don Fairylèon, flotussin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*

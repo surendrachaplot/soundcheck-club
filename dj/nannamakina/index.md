@@ -1,6 +1,6 @@
 # Nanna Makina
 
-Nanna Makina is a Trance and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Vienna's, Glasgow on Fri, 13 Nov 2026.
+Nanna Makina is a Trance and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Vienna's, Glasgow on Fri, 13 Nov 2026.
 
 Nanna Makina is a trance and hardcore artist based in United Kingdom, with 7 gigs on soundcheck across Glasgow, Liverpool and Manchester. Often billed alongside MC Tazo, 2 Sick Puppiez and 2FEL. Next up: Vienna's, Glasgow on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Nanna Makina is a trance and hardcore artist based in United Kingdom, with 7 gig
 
 MC Tazo, 2 Sick Puppiez, 2FEL
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nannamakina/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nannamakina/)*

@@ -1,14 +1,13 @@
 # t e s t p r e s s
 
-t e s t p r e s s is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+t e s t p r e s s is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at SWG3, Glasgow on Fri, 4 Dec 2026.
 
-t e s t p r e s s is a techno and trance artist based in United Kingdom, with 118 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 34 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
+t e s t p r e s s is a techno and trance artist based in United Kingdom, with 118 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 34 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: SWG3, Glasgow on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
 
@@ -27,4 +26,4 @@ t e s t p r e s s is a techno and trance artist based in United Kingdom, with 11
 
 Trancemaster Krause, Cleopard2000, Céleste
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/testpress/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/testpress/)*

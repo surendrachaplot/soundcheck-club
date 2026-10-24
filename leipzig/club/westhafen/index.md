@@ -1,6 +1,6 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Westhafen HALLOWEEN with Trancecore & ELOS" on Sat, 31 Oct 2026.
+Westhafen is a music venue in Leipzig with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Westhafen HALLOWEEN with Trancecore & ELOS" on Sat, 31 Oct 2026.
 
 Westhafen is a music venue in Leipzig listed on soundcheck. 7 upcoming gigs, with line-ups including Amøn, CAVVØ, CHRL and David Löhlein and 2 more. See dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
@@ -20,4 +20,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 7 upcoming gigs, wit
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

@@ -1,6 +1,6 @@
 # Ivo Mono
 
-Ivo Mono is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 31 Oct 2026.
+Ivo Mono is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 31 Oct 2026.
 
 Ivo Mono is a techno and tech house artist based in Sweden, with 10 gigs on soundcheck across Gothenburg. Often billed alongside Futeki, Rich and Alexander Lind. Next up: Ivans Pilsnerbar, Gothenburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ivo Mono is a techno and tech house artist based in Sweden, with 10 gigs on soun
 
 Futeki, Rich, Alexander Lind
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivomono/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivomono/)*

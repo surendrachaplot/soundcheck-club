@@ -1,6 +1,6 @@
 # Bolosis
 
-Bolosis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun, 22 Nov 2026.
+Bolosis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun, 22 Nov 2026.
 
 Bolosis is a techno and house artist based in Greece, with 15 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside .Fro., IMPVLSIV and Mr.M. Next up: Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Bolosis is a techno and house artist based in Greece, with 15 gigs on soundcheck
 
 .Fro., IMPVLSIV, Mr.M
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolosis/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolosis/)*

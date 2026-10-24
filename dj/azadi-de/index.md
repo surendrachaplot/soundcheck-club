@@ -1,6 +1,6 @@
 # AZADÎ
 
-AZADÎ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Culture Box, Copenhagen on Fri, 20 Nov 2026.
+AZADÎ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Culture Box, Copenhagen on Fri, 20 Nov 2026.
 
 AZADÎ is a techno and house artist based in Denmark, with 22 gigs on soundcheck across Berlin, Copenhagen and Malmo. Often billed alongside Midele, Evvolita and Johannes Astrup. Next up: Culture Box, Copenhagen on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ AZADÎ is a techno and house artist based in Denmark, with 22 gigs on soundcheck
 
 Midele, Evvolita, Johannes Astrup
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azadi-de/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azadi-de/)*

@@ -1,6 +1,6 @@
 # Benwal
 
-Benwal is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sugarfactory, Amsterdam on Sun, 25 Oct 2026.
+Benwal is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sugarfactory, Amsterdam on Sun, 25 Oct 2026.
 
 Benwal is a techno and trance artist based in Netherlands, with 210 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 55 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: Sugarfactory, Amsterdam on Sun 25 Oct.
 
@@ -36,4 +36,4 @@ Benwal is a techno and trance artist based in Netherlands, with 210 gigs on soun
 
 Kyle Starkey, MALUGI, Bad Boombox
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

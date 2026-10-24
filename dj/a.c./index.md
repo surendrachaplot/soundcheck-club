@@ -1,6 +1,6 @@
 # A.C.
 
-A.C. is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 31 Oct 2026.
+A.C. is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 31 Oct 2026.
 
 A.C. is a techno and acid artist based in Poland, with 57 gigs on soundcheck across Krakow, Medellin, Warsaw and Wroclaw. Often billed alongside 2LAV, Hikikomori and AregV. Next up: STK 47 WAREHOUSE, Krakow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ A.C. is a techno and acid artist based in Poland, with 57 gigs on soundcheck acr
 
 2LAV, Hikikomori, AregV
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.c./)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.c./)*

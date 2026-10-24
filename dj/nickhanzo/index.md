@@ -1,6 +1,6 @@
 # Nick Hanzo
 
-Nick Hanzo is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at the inner circle vienna / wien, Vienna on Sat, 24 Oct 2026.
+Nick Hanzo is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at the inner circle vienna / wien, Vienna on Sat, 24 Oct 2026.
 
 Nick Hanzo is an acid and house artist based in Austria, with 31 gigs on soundcheck across Berlin, Budapest and Vienna. Often billed alongside Kormos, Kim Wexler and Joyce Muniz. Next up: the inner circle vienna / wien, Vienna on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Nick Hanzo is an acid and house artist based in Austria, with 31 gigs on soundch
 
 Kormos, Kim Wexler, Joyce Muniz
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhanzo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhanzo/)*

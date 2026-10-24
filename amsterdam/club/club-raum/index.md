@@ -1,6 +1,6 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ADE - SPIELRAUM: 55 HOURS" on Fri, 23 Oct 2026.
+CLUB RAUM is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ADE - SPIELRAUM: 55 HOURS" on Fri, 23 Oct 2026.
 
 CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Abstract Division, Aldonna, Alex Kassian and A Strange Wedding and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
@@ -23,4 +23,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, 
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

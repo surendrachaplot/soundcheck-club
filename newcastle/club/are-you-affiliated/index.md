@@ -1,14 +1,13 @@
 # Are You Affiliated
 
-Are You Affiliated is a music venue in Newcastle with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Knats AfterShow Party W/ Knats & Friends + Man Power" on Fri, 23 Oct 2026.
+Are You Affiliated is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Me Me Me Halloween Fancy Dress Ball with Decius (Soundsysytem) Man Power, Logan Fisher & ROSIE" on Sat, 31 Oct 2026.
 
-Are You Affiliated is a music venue in Newcastle listed on soundcheck. 5 upcoming gigs, with line-ups including 2ManyDJs, Ben Caldwell, Bradley Zero and Decius and 2 more. See dates, start times and who's playing. Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ.
+Are You Affiliated is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs, with line-ups including 2ManyDJs, Ben Caldwell, Bradley Zero and Decius and 2 more. See dates, start times and who's playing. Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Knats AfterShow Party W/ Knats & Friends + Man Power | Man Power |
 | Sat, 31 Oct 2026 | Me Me Me Halloween Fancy Dress Ball with Decius (Soundsysytem) Man Power, Logan Fisher & ROSIE | Decius, Logan Fisher, Man Power, ROSIE |
 | Fri, 20 Nov 2026 | Bodega Live + Support |  |
 | Sat, 5 Dec 2026 | Me Me Me with Bradley Zero b2b Man Power | Bradley Zero, Man Power |
@@ -18,4 +17,4 @@ Are You Affiliated is a music venue in Newcastle listed on soundcheck. 5 upcomin
 
 Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ, Newcastle
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*

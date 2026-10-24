@@ -1,6 +1,6 @@
 # Lawrence
 
-Lawrence is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Lawrence is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
 Lawrence is a house and techno artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 20 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Lawrence is a house and techno artist based in Germany, with 67 gigs on soundche
 
 Konstantin, Edward, Map.ache
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrence/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrence/)*

@@ -1,18 +1,18 @@
 # CatLadyHi
 
-CatLadyHi is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
+CatLadyHi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Westlight Rooftop at The William Vale, New York City on Fri, 30 Oct 2026.
 
-CatLadyHi is a house and tech house artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside Miss Hazard, Bea Trinidad and Beltran. Next up: Dead Letter No. 9, New York City on Fri 23 Oct.
+CatLadyHi is a house and tech house artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside Miss Hazard, Bea Trinidad and Beltran. Next up: Westlight Rooftop at The William Vale, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Dead Letter No. 9 | New York City |
 | Fri, 30 Oct 2026 | Westlight Rooftop at The William Vale | New York City |
 
 ## Recently played
 
+- Dead Letter No. 9, New York City · Fri, 23 Oct 2026
 - MAD Radio NYC, New York City · Thu, 1 Oct 2026
 - Dead Letter No. 9, New York City · Thu, 24 Sept 2026
 - Fulton Fish Market - Hunts Point, New York City · Sat, 5 Sept 2026
@@ -20,10 +20,9 @@ CatLadyHi is a house and tech house artist based in United States of America, wi
 - Dead Letter No. 9, New York City · Fri, 7 Aug 2026
 - Sunset Park Rooftop, New York City · Sat, 11 Jul 2026
 - Elsewhere, New York City · Fri, 26 Jun 2026
-- Knockdown Center, New York City · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Miss Hazard, Bea Trinidad, Beltran
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*

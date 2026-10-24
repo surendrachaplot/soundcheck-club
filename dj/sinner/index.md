@@ -1,6 +1,6 @@
 # Sinner
 
-Sinner is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Wellenfarm, Berlin on Sat, 7 Nov 2026.
+Sinner is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Wellenfarm, Berlin on Sat, 7 Nov 2026.
 
 Sinner is a techno and hardcore artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Buenos Aires, Glasgow and Liverpool and 3 more. Often billed alongside Illegible, AA/XX and ALIVEMAEX. Next up: Wellenfarm, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sinner is a techno and hardcore artist based in United Kingdom, with 13 gigs on 
 
 Illegible, AA/XX, ALIVEMAEX
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinner/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinner/)*

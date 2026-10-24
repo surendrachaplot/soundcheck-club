@@ -1,6 +1,6 @@
 # Distrikt 35: Decoder (Axis, Dallas) at 宀 Club
 
-Distrikt 35: Decoder (Axis, Dallas) at 宀 Club on Fri 22 Jan, Hong Kong. 1 artist: Decoder. See the line-up on soundcheck.
+Distrikt 35: Decoder (Axis, Dallas) at 宀 Club on Fri 22 Jan, Hong Kong. 1 artist: Decoder. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

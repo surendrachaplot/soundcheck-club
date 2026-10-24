@@ -1,6 +1,6 @@
 # Lana Dushe
 
-Lana Dushe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Eventhuset, Stockholm on Sat, 12 Dec 2026.
+Lana Dushe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Eventhuset, Stockholm on Sat, 12 Dec 2026.
 
 Lana Dushe is a techno and house artist, with 29 gigs on soundcheck across Helsinki, Riga, Stockholm and Tallinn. Often billed alongside Merimell, Cyril Berg and Dapo (EE). Next up: Eventhuset, Stockholm on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Lana Dushe is a techno and house artist, with 29 gigs on soundcheck across Helsi
 
 Merimell, Cyril Berg, Dapo (EE)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lanadushe/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lanadushe/)*

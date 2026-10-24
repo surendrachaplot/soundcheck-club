@@ -1,6 +1,6 @@
 # The Journey
 
-The Journey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at OneSixOne, Melbourne on Fri, 13 Nov 2026.
+The Journey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at OneSixOne, Melbourne on Fri, 13 Nov 2026.
 
 The Journey is a house and techno artist based in Australia, with 40 gigs on soundcheck across Auckland, Berlin, Brisbane and Frankfurt and 7 more. Often billed alongside Mike Callander, Rachel May and Rem Siman. Next up: OneSixOne, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ The Journey is a house and techno artist based in Australia, with 40 gigs on sou
 
 Mike Callander, Rachel May, Rem Siman
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourney/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourney/)*

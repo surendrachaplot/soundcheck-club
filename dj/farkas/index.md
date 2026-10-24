@@ -1,6 +1,6 @@
 # Farkas
 
-Farkas is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Giri, Berlin on Wed, 4 Nov 2026.
+Farkas is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Giri, Berlin on Wed, 4 Nov 2026.
 
 Farkas is a techno and experimental artist, with 10 gigs on soundcheck across Berlin, Hamburg, Leipzig and Lyon. Often billed alongside Jaag, Ponygirl and Subkutan. Next up: Giri, Berlin on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Farkas is a techno and experimental artist, with 10 gigs on soundcheck across Be
 
 Jaag, Ponygirl, Subkutan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farkas/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farkas/)*

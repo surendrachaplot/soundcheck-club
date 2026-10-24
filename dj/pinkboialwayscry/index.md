@@ -1,6 +1,6 @@
 # PINKBOIALWAYSCRY
 
-PINKBOIALWAYSCRY is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at To Another Galaxy, Chengdu on Sat, 24 Oct 2026.
+PINKBOIALWAYSCRY is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at To Another Galaxy, Chengdu on Sat, 24 Oct 2026.
 
 PINKBOIALWAYSCRY is a techno and bass artist based in China, with 68 gigs on soundcheck across Bangkok, Beijing, Berlin and Chengdu and 2 more. Often billed alongside Luna LI, HakkaEllen and DJ Pex. Next up: To Another Galaxy, Chengdu on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ PINKBOIALWAYSCRY is a techno and bass artist based in China, with 68 gigs on sou
 
 Luna LI, HakkaEllen, DJ Pex
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkboialwayscry/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkboialwayscry/)*

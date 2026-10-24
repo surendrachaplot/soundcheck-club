@@ -1,6 +1,6 @@
 # GARSA
 
-GARSA is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Paramour, Brussels on Fri, 13 Nov 2026.
+GARSA is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Paramour, Brussels on Fri, 13 Nov 2026.
 
 GARSA is an electro and ebm artist, with 14 gigs on soundcheck across Berlin and Brussels. Often billed alongside Lila Luzi, xupt and Maneta. Next up: Paramour, Brussels on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ GARSA is an electro and ebm artist, with 14 gigs on soundcheck across Berlin and
 
 Lila Luzi, xupt, Maneta
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garsa/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garsa/)*

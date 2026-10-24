@@ -1,6 +1,6 @@
 # SKALA
 
-SKALA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+SKALA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 SKALA is a techno and house artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ SKALA is a techno and house artist based in Germany, with 99 gigs on soundcheck 
 
 Theologos, ELIF, Mila Stern
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*

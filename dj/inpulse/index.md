@@ -1,6 +1,6 @@
 # Inpulse
 
-Inpulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Garage 442, Barcelona on Sat, 24 Oct 2026.
+Inpulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Garage 442, Barcelona on Sat, 24 Oct 2026.
 
 Inpulse is a techno and house artist, with 51 gigs on soundcheck across Barcelona. Often billed alongside Baffa, DJ MELEJ and Onoffon. Next up: Garage 442, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Inpulse is a techno and house artist, with 51 gigs on soundcheck across Barcelon
 
 Baffa, DJ MELEJ, Onoffon
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inpulse/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inpulse/)*

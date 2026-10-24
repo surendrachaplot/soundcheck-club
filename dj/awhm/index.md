@@ -1,6 +1,6 @@
 # AWHM
 
-AWHM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Inner North, Melbourne on Sat, 24 Oct 2026.
+AWHM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Inner North, Melbourne on Sat, 24 Oct 2026.
 
 AWHM is a techno and trance artist, with 16 gigs on soundcheck across Berlin, Budapest, Copenhagen and Melbourne. Often billed alongside Ana Malo, DJ Void and LUCKY4U. Next up: TBA - Inner North, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ AWHM is a techno and trance artist, with 16 gigs on soundcheck across Berlin, Bu
 
 Ana Malo, DJ Void, LUCKY4U
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awhm/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awhm/)*

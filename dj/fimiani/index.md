@@ -1,6 +1,6 @@
 # FIMIANI
 
-FIMIANI is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+FIMIANI is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 FIMIANI is a house and italo disco artist based in Italy, with 41 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Kapote, Sam Ruffillo and Stump Valley. Next up: Pacific Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ FIMIANI is a house and italo disco artist based in Italy, with 41 gigs on soundc
 
 Kapote, Sam Ruffillo, Stump Valley
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fimiani/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fimiani/)*

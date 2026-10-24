@@ -1,6 +1,6 @@
 # Espen Cook
 
-Espen Cook is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Villa, Oslo on Sat, 24 Oct 2026.
+Espen Cook is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Villa, Oslo on Sat, 24 Oct 2026.
 
 Espen Cook is a house and techno artist, with 27 gigs on soundcheck across Hong Kong, Oslo, Shenzhen and Tokyo. Often billed alongside Al Jones, arow and Bonnie. Next up: The Villa, Oslo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Espen Cook is a house and techno artist, with 27 gigs on soundcheck across Hong 
 
 Al Jones, arow, Bonnie
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/espencook/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/espencook/)*

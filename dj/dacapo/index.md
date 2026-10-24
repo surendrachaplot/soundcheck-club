@@ -1,6 +1,6 @@
 # Da Capo
 
-Da Capo is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+Da Capo is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
 Da Capo is an afro house and afro tech artist based in South Africa, with 60 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Enoo Napa, Caiiro and Van Zand. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Da Capo is an afro house and afro tech artist based in South Africa, with 60 gig
 
 Enoo Napa, Caiiro, Van Zand
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*

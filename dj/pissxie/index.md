@@ -1,6 +1,6 @@
 # pissxie
 
-pissxie is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Distillery N17, London on Fri, 27 Nov 2026.
+pissxie is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Distillery N17, London on Fri, 27 Nov 2026.
 
 pissxie is a hardcore and bass artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside alterum, Takenbymarshall and Lewis G. Burton. Next up: Distillery N17, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ pissxie is a hardcore and bass artist based in United Kingdom, with 25 gigs on s
 
 alterum, Takenbymarshall, Lewis G. Burton
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pissxie/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pissxie/)*

@@ -1,6 +1,6 @@
 # metaverde
 
-metaverde is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Renate, Berlin on Fri, 25 Dec 2026.
+metaverde is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Renate, Berlin on Fri, 25 Dec 2026.
 
 metaverde is a house and techno artist based in Germany, with 37 gigs on soundcheck across Berlin. Often billed alongside Enchanted Rhythms, Vio PRG and Alexandra. Next up: Renate, Berlin on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ metaverde is a house and techno artist based in Germany, with 37 gigs on soundch
 
 Enchanted Rhythms, Vio PRG, Alexandra
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaverde/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaverde/)*

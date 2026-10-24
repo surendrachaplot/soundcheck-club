@@ -1,6 +1,6 @@
 # Masters At Work
 
-Masters At Work is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Palexpo - Hall 6, Geneva on Sat, 24 Oct 2026.
+Masters At Work is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Palexpo - Hall 6, Geneva on Sat, 24 Oct 2026.
 
 Masters At Work is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Cork, Detroit and Geneva and 6 more. Often billed alongside Carl Craig, Horse Meat Disco and Kenny Dope. Next up: Palexpo - Hall 6, Geneva on Sat 24 Oct.
 
@@ -12,6 +12,7 @@ Masters At Work is a house and techno artist based in United States of America, 
 
 ## Recently played
 
+- Cork Opera House, Cork · Fri, 23 Oct 2026
 - Amnesia Ibiza, Ibiza · Fri, 9 Oct 2026
 - Club Space Miami, Miami · Sat, 4 Jul 2026
 - Pacha New York, New York City · Sat, 27 Jun 2026
@@ -19,10 +20,9 @@ Masters At Work is a house and techno artist based in United States of America, 
 - The Warehouse Project, Manchester · Sat, 22 Nov 2025
 - Pacha Ibiza, Ibiza · Thu, 2 Oct 2025
 - Pacha Ibiza, Ibiza · Sat, 2 Aug 2025
-- Musica Club NYC, New York City · Fri, 4 Jul 2025
 
 ## Shares bills with
 
 Carl Craig, Horse Meat Disco, Kenny Dope
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maw/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maw/)*

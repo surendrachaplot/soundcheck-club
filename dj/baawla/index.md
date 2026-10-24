@@ -1,6 +1,6 @@
 # BAAWLA
 
-BAAWLA is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cakeshop, Seoul on Thu, 29 Oct 2026.
+BAAWLA is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cakeshop, Seoul on Thu, 29 Oct 2026.
 
 BAAWLA is a garage and bass artist based in South Korea, with 39 gigs on soundcheck across Bangkok, Bristol, Hong Kong and London and 1 more. Often billed alongside rom, AEIDA and Coziest. Next up: Cakeshop, Seoul on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ BAAWLA is a garage and bass artist based in South Korea, with 39 gigs on soundch
 
 rom (6), AEIDA, Coziest
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baawla/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baawla/)*

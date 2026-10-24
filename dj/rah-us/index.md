@@ -1,6 +1,6 @@
 # RAH (US)
 
-RAH (US) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
+RAH (US) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
 RAH (US) is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Boston, New York City and Washington DC. Often billed alongside Marteka Fair, KRØK and Matthew Cha. Next up: Eden NYC, New York City on Sun 1 Nov.
 
@@ -27,4 +27,4 @@ RAH (US) is a techno and house artist based in United States of America, with 18
 
 Marteka Fair, KRØK, Matthew Cha
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-us/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-us/)*

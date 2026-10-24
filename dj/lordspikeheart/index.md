@@ -1,6 +1,6 @@
 # Lord Spikeheart
 
-Lord Spikeheart is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+Lord Spikeheart is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
 
 Lord Spikeheart is an experimental and electronica artist based in Kenya, with 36 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 20 more. Often billed alongside aya, bela and Abul Mogard. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Lord Spikeheart is an experimental and electronica artist based in Kenya, with 3
 
 aya, bela, Abul Mogard
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordspikeheart/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordspikeheart/)*

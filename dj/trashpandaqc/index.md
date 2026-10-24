@@ -1,6 +1,6 @@
 # Trash Panda QC
 
-Trash Panda QC is a Acid and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
+Trash Panda QC is a Acid and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
 
 Trash Panda QC is an acid and ambient artist, with 3 gigs on soundcheck across Chicago and New York City. Often billed alongside m50. Next up: TBA, Chicago on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Trash Panda QC is an acid and ambient artist, with 3 gigs on soundcheck across C
 
 m50
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trashpandaqc/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trashpandaqc/)*

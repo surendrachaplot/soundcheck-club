@@ -1,6 +1,6 @@
 # Anthony Jasper
 
-Anthony Jasper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Tigris, Detroit on Sat, 24 Oct 2026.
+Anthony Jasper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Tigris, Detroit on Sat, 24 Oct 2026.
 
 Anthony Jasper is a house and techno artist based in United States of America, with 31 gigs on soundcheck across Detroit. Often billed alongside MGUN, Max Watts and Nate (Det). Next up: Tigris, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Anthony Jasper is a house and techno artist based in United States of America, w
 
 MGUN, Max Watts, Nate (Det)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyjasper/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyjasper/)*

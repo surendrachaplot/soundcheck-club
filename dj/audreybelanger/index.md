@@ -1,6 +1,6 @@
 # Audrey Bélanger
 
-Audrey Bélanger is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Salon Daomé, Montreal on Fri, 23 Oct 2026.
+Audrey Bélanger is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Salon Daomé, Montreal on Fri, 23 Oct 2026.
 
 Audrey Bélanger is a house and electro artist, with 25 gigs on soundcheck across Montreal, Quebec City and Toronto. Often billed alongside Andrea de Tour, splitshift and Asha. Next up: Salon Daomé, Montreal on Fri 23 Oct.
 
@@ -13,6 +13,7 @@ Audrey Bélanger is a house and electro artist, with 25 gigs on soundcheck acros
 
 ## Recently played
 
+- Salon Daomé, Montreal · Fri, 23 Oct 2026
 - Société des arts technologiques, Montreal · Sat, 5 Sept 2026
 - StereoBar, Montreal · Sat, 22 Aug 2026
 - Village au Pied-du-Courant, Montreal · Sun, 12 Jul 2026
@@ -20,10 +21,9 @@ Audrey Bélanger is a house and electro artist, with 25 gigs on soundcheck acros
 - Bather, Toronto · Sat, 13 Jun 2026
 - Bar Datcha, Montreal · Fri, 24 Apr 2026
 - Parquette, Montreal · Fri, 6 Mar 2026
-- Place Jean-Béliveau, Quebec City · Thu, 5 Mar 2026
 
 ## Shares bills with
 
 Andrea de Tour, splitshift (2), Asha (4)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audreybelanger/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audreybelanger/)*

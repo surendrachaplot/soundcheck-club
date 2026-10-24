@@ -1,6 +1,6 @@
 # AN!KA
 
-AN!KA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Dual, Bangkok on Sat, 28 Nov 2026.
+AN!KA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Dual, Bangkok on Sat, 28 Nov 2026.
 
 AN!KA is a house and techno artist based in Thailand, with 18 gigs on soundcheck across Bangkok and Osaka. Often billed alongside Meltmode, Make A Dance and Wildealer. Next up: Dual, Bangkok on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ AN!KA is a house and techno artist based in Thailand, with 18 gigs on soundcheck
 
 Meltmode (2), Make A Dance, Wildealer
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/an!ka/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/an!ka/)*

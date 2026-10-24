@@ -1,6 +1,6 @@
 # Shveba
 
-Shveba is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tausend, Berlin on Thu, 29 Oct 2026.
+Shveba is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Tausend, Berlin on Thu, 29 Oct 2026.
 
 Shveba is a house and disco artist, with 25 gigs on soundcheck across Berlin, Lisbon, Riga and Tbilisi. Often billed alongside MMAO, Wonky D and Caren Callas. Next up: Tausend, Berlin on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Shveba is a house and disco artist, with 25 gigs on soundcheck across Berlin, Li
 
 MMAO, Wonky D, Caren Callas
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shveba/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shveba/)*

@@ -1,6 +1,6 @@
 # BLUME
 
-BLUME is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 18 Dec 2026.
+BLUME is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 18 Dec 2026.
 
 BLUME is a techno and ambient artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Basel, Berlin and Dublin and 7 more. Often billed alongside Sa Pa, Andriy K. and King Softy. Next up: CLUB RAUM, Amsterdam on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ BLUME is a techno and ambient artist based in Germany, with 58 gigs on soundchec
 
 Sa Pa, Andriy K., King Softy
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blume/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blume/)*

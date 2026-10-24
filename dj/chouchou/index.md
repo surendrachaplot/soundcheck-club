@@ -1,6 +1,6 @@
 # Chouchou
 
-Chouchou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cici Park, Chongqing on Sat, 24 Oct 2026.
+Chouchou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cici Park, Chongqing on Sat, 24 Oct 2026.
 
 Chouchou is a house and techno artist, with 25 gigs on soundcheck across Barcelona, Beijing, Chongqing and London and 1 more. Often billed alongside OoLONG, CicE and Finascia. Next up: Cici Park, Chongqing on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Chouchou is a house and techno artist, with 25 gigs on soundcheck across Barcelo
 
 OoLONG (2), CicE, Finascia
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chouchou/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chouchou/)*

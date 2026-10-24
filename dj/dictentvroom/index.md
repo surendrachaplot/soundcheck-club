@@ -1,6 +1,6 @@
 # Dictent Vroom
 
-Dictent Vroom is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at La Cité Fertile, Paris on Sun, 25 Oct 2026.
+Dictent Vroom is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at La Cité Fertile, Paris on Sun, 25 Oct 2026.
 
 Dictent Vroom is a techno and electro artist based in France, with 17 gigs on soundcheck across Berlin, Marseille, Osaka and Paris and 1 more. Often billed alongside Ad Astra, Bliss and Louis The 4th. Next up: La Cité Fertile, Paris on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Dictent Vroom is a techno and electro artist based in France, with 17 gigs on so
 
 Ad Astra, Bliss (1), Louis The 4th
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dictentvroom/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dictentvroom/)*

@@ -1,6 +1,6 @@
 # lil ja
 
-lil ja is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at PAC Padiglione D'arte Contemporanea, Milan on Sat, 24 Oct 2026.
+lil ja is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at PAC Padiglione D'arte Contemporanea, Milan on Sat, 24 Oct 2026.
 
 lil ja is a house and baile funk artist based in Sweden, with 21 gigs on soundcheck across Berlin, Brussels, Cologne and Madrid and 3 more. Often billed alongside HEDDA, faceblindbabe and Hanaby. Next up: PAC Padiglione D'arte Contemporanea, Milan on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ lil ja is a house and baile funk artist based in Sweden, with 21 gigs on soundch
 
 HEDDA, faceblindbabe, Hanaby
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilja/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilja/)*

@@ -1,6 +1,6 @@
 # MENESIX
 
-MENESIX is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TivoliVredenburg, Utrecht on Sat, 21 Nov 2026.
+MENESIX is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TivoliVredenburg, Utrecht on Sat, 21 Nov 2026.
 
 MENESIX is a house and tech house artist based in Netherlands, with 59 gigs on soundcheck across Amsterdam, Ibiza, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Karim Soliman and Rayzir. Next up: TivoliVredenburg, Utrecht on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ MENESIX is a house and tech house artist based in Netherlands, with 59 gigs on s
 
 Benny Rodrigues, Karim Soliman, Rayzir
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menesix/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menesix/)*

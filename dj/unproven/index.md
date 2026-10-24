@@ -1,6 +1,6 @@
 # Unproven
 
-Unproven is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Fabrik, Madrid on Sat, 19 Dec 2026.
+Unproven is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Fabrik, Madrid on Sat, 19 Dec 2026.
 
 Unproven is a hardcore and techno artist based in Netherlands, with 13 gigs on soundcheck across Cologne, Frankfurt, Glasgow and Madrid and 3 more. Often billed alongside Dimitri K, Manifest Destiny and Korsakoff. Next up: Fabrik, Madrid on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Unproven is a hardcore and techno artist based in Netherlands, with 13 gigs on s
 
 Dimitri K, Manifest Destiny, Korsakoff
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unproven/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unproven/)*

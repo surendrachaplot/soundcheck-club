@@ -1,6 +1,6 @@
 # Jaycap
 
-Jaycap is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at ROSA, Berlin on Fri, 13 Nov 2026.
+Jaycap is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at ROSA, Berlin on Fri, 13 Nov 2026.
 
 Jaycap is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin. Often billed alongside Feel .MA, Ben Manson and Darren Black. Next up: ROSA, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jaycap is a techno and house artist based in Germany, with 37 gigs on soundcheck
 
 Feel .MA, Ben Manson, Darren Black
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycap/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycap/)*

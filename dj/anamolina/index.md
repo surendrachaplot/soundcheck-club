@@ -1,6 +1,6 @@
 # Ana Molina
 
-Ana Molina is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 24 Oct 2026.
+Ana Molina is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 24 Oct 2026.
 
 Ana Molina is a house and disco artist based in Spain, with 26 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Black Loops, Emanuele Barilli and jiyun kim. Next up: Orangerie Neukölln, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Ana Molina is a house and disco artist based in Spain, with 26 gigs on soundchec
 
 Black Loops, Emanuele Barilli, jiyun kim
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anamolina/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anamolina/)*

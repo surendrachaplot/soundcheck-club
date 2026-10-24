@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sugarfactory, Amsterdam on Sun, 25 Oct 2026.
+Traumer is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sugarfactory, Amsterdam on Sun, 25 Oct 2026.
 
 Traumer is a house and tech house artist based in France, with 344 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 84 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Sugarfactory, Amsterdam on Sun 25 Oct.
 
@@ -22,6 +22,7 @@ Traumer is a house and tech house artist based in France, with 344 gigs on sound
 
 ## Recently played
 
+- Blast Galaxy, Amsterdam · Fri, 23 Oct 2026
 - RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
 - Hï Ibiza, Ibiza · Tue, 6 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
@@ -29,10 +30,9 @@ Traumer is a house and tech house artist based in France, with 344 gigs on sound
 - Chinois Ibiza, Ibiza · Wed, 30 Sept 2026
 - Postkantine, Basel · Sat, 26 Sept 2026
 - Audio Club, Geneva · Fri, 25 Sept 2026
-- Amnesia Ibiza, Ibiza · Tue, 22 Sept 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Shonky, Rossi
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

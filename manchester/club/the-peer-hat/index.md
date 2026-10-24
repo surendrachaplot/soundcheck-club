@@ -1,6 +1,6 @@
 # The Peer Hat
 
-The Peer Hat is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "[CANCELLED] ! work party " on Sat, 24 Oct 2026.
+The Peer Hat is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "[CANCELLED] ! work party " on Sat, 24 Oct 2026.
 
 The Peer Hat is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Babs and Old Child. See dates, start times and who's playing. 14-16 Faraday St, Manchester M1 1BE, United Kingdom.
 
@@ -16,4 +16,4 @@ The Peer Hat is a music venue in Manchester listed on soundcheck. 3 upcoming gig
 
 14-16 Faraday St, Manchester M1 1BE, United Kingdom, Manchester
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-peer-hat/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-peer-hat/)*

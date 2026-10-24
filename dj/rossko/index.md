@@ -1,6 +1,6 @@
 # Rossko
 
-Rossko is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kapsule, Liverpool on Fri, 30 Oct 2026.
+Rossko is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kapsule, Liverpool on Fri, 30 Oct 2026.
 
 Rossko is a house and tech house artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 15 more. Often billed alongside Julian Anthony, Rich NXT and Reeshy. Next up: Kapsule, Liverpool on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Rossko is a house and tech house artist based in United Kingdom, with 83 gigs on
 
 Julian Anthony, Rich NXT, Reeshy
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*

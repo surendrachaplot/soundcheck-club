@@ -1,6 +1,6 @@
 # Young Boy Dancing Group
 
-Young Boy Dancing Group is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Layer Studio 20, Seoul on Sat, 24 Oct 2026.
+Young Boy Dancing Group is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Layer Studio 20, Seoul on Sat, 24 Oct 2026.
 
 Young Boy Dancing Group is a club and experimental artist, with 15 gigs on soundcheck across Berlin, Ho Chi Minh City, London and New York City and 6 more. Often billed alongside 404.zero, Coki and Con Pani. Next up: Layer Studio 20, Seoul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Young Boy Dancing Group is a club and experimental artist, with 15 gigs on sound
 
 404.zero, Coki, Con Pani
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngboydancinggroup/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngboydancinggroup/)*

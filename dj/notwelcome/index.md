@@ -1,6 +1,6 @@
 # Notwelcome
 
-Notwelcome is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri, 13 Nov 2026.
+Notwelcome is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri, 13 Nov 2026.
 
 Notwelcome is a house and techno artist based in Latvia, with 48 gigs on soundcheck across Riga. Often billed alongside ARRISHA, Kelvin and Aniri Chan. Next up: TBA - Kroņu iela 23B, Riga, Latvia., Riga on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Notwelcome is a house and techno artist based in Latvia, with 48 gigs on soundch
 
 ARRISHA, Kelvin, Aniri Chan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notwelcome/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notwelcome/)*

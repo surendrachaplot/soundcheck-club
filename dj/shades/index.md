@@ -1,6 +1,6 @@
 # Shades
 
-Shades is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at SILO, New York City on Thu, 29 Oct 2026.
+Shades is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at SILO, New York City on Thu, 29 Oct 2026.
 
 Shades is a drum & bass and bass artist based in Belgium, with 12 gigs on soundcheck across Denver, Los Angeles, Miami and Missouri and 8 more. Often billed alongside Alix Perez, EPROM and ONHELL. Next up: SILO, New York City on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Shades is a drum & bass and bass artist based in Belgium, with 12 gigs on soundc
 
 Alix Perez, EPROM, ONHELL
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shades/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shades/)*

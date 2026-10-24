@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "TOASTER" on Sat, 24 Oct 2026.
+Collingwood Basement is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "TOASTER" on Sat, 24 Oct 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including BERGA, DJ Kiti, DJ Sprinter and Honeysmack and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -21,4 +21,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 8 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

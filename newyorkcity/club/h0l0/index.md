@@ -1,14 +1,13 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Effy" on Fri, 23 Oct 2026.
+H0L0 is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Honcho H0L0 Takeover" on Sat, 24 Oct 2026.
 
-H0L0 is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 999ADJ, Amarji King, Argenis Brito and Armii1n and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including 999ADJ, Amarji King, Argenis Brito and Armii1n and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Effy | Effy, QRTR, Samantha DaSilva |
 | Sat, 24 Oct 2026 | Honcho H0L0 Takeover | 'nohup', 999ADJ, Carlos Souffront, Carrie Sours, Carrieondisco, Honcho, Simisea, Sterling Juan Diaz, wngdu |
 | Thu, 29 Oct 2026 | AKATA | Amarji King, Ase Manual |
 | Sat, 31 Oct 2026 | ReSolute presents: Why So Serious! | Argenis Brito, Automatic Writing, Benny Soto, Bruno Limma, Connie, Dan Shake, Dandy Jack, E.LINA, Heidi Lawden, Henry Chow, J Gabriel, Joe Tagessian, Jonny Sum, Lauren Ritter, Maksim, Masomenos, Max Sprauer, Mayell, Muallem, O.BEE, Onur Özer, Orazio Rispo, Rasho, Ron Like Hell, Shvili, Sibil (1), Sweely, Tobias Lindén, Tomas Station, Willy Soul |
@@ -18,9 +17,10 @@ H0L0 is a music venue in New York City listed on soundcheck. 14 upcoming gigs, w
 | Fri, 13 Nov 2026 | ABOV FLINTA* NYC | Clarisa Kimskii, Daybreak, Katalina Schwarz, Volvox |
 | Sat, 14 Nov 2026 | ReSolute with Dyed Soundorom  | CAMILLA, Dyed Soundorom, Josefina Tapia, Shvili |
 | Thu, 19 Nov 2026 | BKG Takeover | Jaxx, NICHE (2), Sangarang |
+| Sat, 21 Nov 2026 | MegaMilk | Leonardo Glovibes |
 
 ## Address
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

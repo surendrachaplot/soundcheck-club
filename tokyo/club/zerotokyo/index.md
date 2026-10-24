@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "MIDNIGHT STELLAR supported by GOLD DISC - ALL MIX -" on Sat, 24 Oct 2026.
+ZEROTOKYO is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "MIDNIGHT STELLAR supported by GOLD DISC - ALL MIX -" on Sat, 24 Oct 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including Anfisa Letyago, AVALON, CRAZYHYUGA and DJ 34 and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

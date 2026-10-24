@@ -1,6 +1,6 @@
 # Oliveira's Mozambican Restaurant
 
-Oliveira's Mozambican Restaurant is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Halloween Zouk" on Sat, 31 Oct 2026.
+Oliveira's Mozambican Restaurant is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Halloween Zouk" on Sat, 31 Oct 2026.
 
 Oliveira's Mozambican Restaurant is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Oliveira's Mozambican Restaurant is a music venue in Lisbon listed on soundcheck
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Halloween Zouk |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/oliveira-s-mozambican-restaurant/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/oliveira-s-mozambican-restaurant/)*

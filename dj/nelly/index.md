@@ -1,6 +1,6 @@
 # Nelly
 
-Nelly is a R&B and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
+Nelly is a R&B and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
 
 Nelly is a r&b and techno artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Manchester and 7 more. Often billed alongside AALIYAH, Ciara and Drake (DE). Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Nelly is a r&b and techno artist based in United Kingdom, with 28 gigs on soundc
 
 AALIYAH, Ciara, Drake (DE)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly/)*

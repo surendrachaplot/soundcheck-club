@@ -1,6 +1,6 @@
 # Owldisco
 
-Owldisco is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Owldisco is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Owldisco is an electro and techno artist based in Colombia, with 56 gigs on soundcheck across Bogot, Bogotá and Medellin. Often billed alongside RAVER90, Bluekim and cabeatslo. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Owldisco is an electro and techno artist based in Colombia, with 56 gigs on soun
 
 RAVER90, Bluekim, cabeatslo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owldisco/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owldisco/)*

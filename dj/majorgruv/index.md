@@ -1,6 +1,6 @@
 # Major Gruv
 
-Major Gruv is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Exley, New York City on Sat, 24 Oct 2026.
+Major Gruv is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Exley, New York City on Sat, 24 Oct 2026.
 
 Major Gruv is a house and progressive house artist based in United States of America, with 14 gigs on soundcheck across New York City and Washington DC. Often billed alongside microfossil, Giovannii and maenad. Next up: The Exley, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Major Gruv is a house and progressive house artist based in United States of Ame
 
 microfossil, Giovannii, maenad
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majorgruv/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majorgruv/)*

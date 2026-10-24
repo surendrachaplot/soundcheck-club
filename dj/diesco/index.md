@@ -1,6 +1,6 @@
 # Diesco
 
-Diesco is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bikini Club, Barcelona on Fri, 6 Nov 2026.
+Diesco is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bikini Club, Barcelona on Fri, 6 Nov 2026.
 
 Diesco is a house and electro artist based in Mexico, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Vince Void, Pau Rosés and Adria (ES). Next up: Bikini Club, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Diesco is a house and electro artist based in Mexico, with 59 gigs on soundcheck
 
 Vince Void, Pau Rosés, Adria (ES)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diesco/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diesco/)*

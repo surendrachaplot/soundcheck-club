@@ -1,6 +1,6 @@
 # Iori
 
-Iori is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Location, Playa-del-carmen on Sat, 24 Oct 2026.
+Iori is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Location, Playa-del-carmen on Sat, 24 Oct 2026.
 
 Iori is a techno and house artist based in Japan, with 66 gigs on soundcheck across Okinawa, Osaka, Playa Del Carmen and Seoul and 1 more. Often billed alongside Sakuma, YUTA and YouForgot. Next up: TBA - Secret Location, Playa Del Carmen on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Iori is a techno and house artist based in Japan, with 66 gigs on soundcheck acr
 
 Sakuma, YUTA, YouForgot
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iori/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iori/)*

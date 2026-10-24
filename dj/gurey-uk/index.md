@@ -1,6 +1,6 @@
 # GUREY
 
-GUREY is a UK Funky and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Piehouse Coop, London on Sat, 28 Nov 2026.
+GUREY is a UK Funky and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Piehouse Coop, London on Sat, 28 Nov 2026.
 
 GUREY is an uk funky and bass artist, with 14 gigs on soundcheck across London and Tokyo. Often billed alongside CHEZA LUCINA, Godsfave and THEMPRESS. Next up: Piehouse Coop, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ GUREY is an uk funky and bass artist, with 14 gigs on soundcheck across London a
 
 CHEZA LUCINA, Godsfave, THEMPRESS
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gurey-uk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gurey-uk/)*

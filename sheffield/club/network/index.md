@@ -1,6 +1,6 @@
 # Network
 
-Network is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Uprising Halloween All Dayer 2026" on Sat, 24 Oct 2026.
+Network is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Uprising Halloween All Dayer 2026" on Sat, 24 Oct 2026.
 
 Network is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with line-ups including Scott Brown. See dates, start times and who's playing. 32 Cambridge Street, S1 4HP, Sheffield.
 
@@ -15,4 +15,4 @@ Network is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, wit
 
 32 Cambridge Street, S1 4HP, Sheffield, Sheffield
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/network/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/network/)*

@@ -1,6 +1,6 @@
 # ADAB
 
-ADAB is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 20 Oct 2026.
+ADAB is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 20 Oct 2026.
 
 ADAB is a techno and house artist based in United States of America, with 68 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Detroit and 9 more. Often billed alongside Kiernan Laveaux, Russell E.L. Butler and Eris Drew. Next up: Drama Radio Bar, Mexico City on Tue 20 Oct.
 
@@ -27,4 +27,4 @@ ADAB is a techno and house artist based in United States of America, with 68 gig
 
 Kiernan Laveaux, Russell E.L. Butler, Eris Drew
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adab/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adab/)*

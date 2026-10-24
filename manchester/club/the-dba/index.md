@@ -1,14 +1,13 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Fat Out with Optimo (Espacio), Abena, Sheri" on Fri, 23 Oct 2026.
+The DBA is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "BENT - QUEER DAY RAVE" on Sat, 24 Oct 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, with line-ups including 3MR., 4STR0, Abby Harris and Abena and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including 3MR., 4STR0, Abby Harris and Atiké and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Fat Out with Optimo (Espacio), Abena, Sheri | Abena, DANCING WITH STANLEY, Optimo (Espacio), SHERI (2) |
 | Sat, 24 Oct 2026 | BENT - QUEER DAY RAVE | Abby Harris, Jase Jeffery, Mystery Affair, Nayfun, Rúadh, Skip, blvk.velvet |
 | Wed, 28 Oct 2026 | PRAXIS | Willow J, maevie |
 | Thu, 29 Oct 2026 | Doll World Halloween |  |
@@ -18,9 +17,10 @@ The DBA is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, w
 | Fri, 6 Nov 2026 | La twalet | 3MR., Chafik, Girlfriend, Judas Du, Seksu |
 | Sat, 7 Nov 2026 | YUK! presents - Lena Willikens, Neev & Keegan Mc | Keegan McQuade, Lena Willikens, Neev. |
 | Fri, 13 Nov 2026 | Vol 8: Cyberpunk |  |
+| Fri, 13 Nov 2026 | This Guy presents: SHOWDOWN | Hanz, Nestor, SHADEV, d. clemente |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

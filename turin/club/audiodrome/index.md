@@ -1,6 +1,6 @@
 # Audiodrome
 
-Audiodrome is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "JO VYNN for OVER PARTY" on Sat, 24 Oct 2026.
+Audiodrome is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "JO VYNN for OVER PARTY" on Sat, 24 Oct 2026.
 
 Audiodrome is a music venue in Turin listed on soundcheck. 3 upcoming gigs, with line-ups including AMMARA, Enrico Sangiuliano, Gandalf and Serafina and 1 more. See dates, start times and who's playing. Strada Mongina 9, 10024 Moncalieri (TO), Italy.
 
@@ -16,4 +16,4 @@ Audiodrome is a music venue in Turin listed on soundcheck. 3 upcoming gigs, with
 
 Strada Mongina 9, 10024 Moncalieri (TO), Italy, Turin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*

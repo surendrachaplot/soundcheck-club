@@ -1,6 +1,6 @@
 # Bronwyn.
 
-Bronwyn. is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Electric Garden, Dublin on Sat, 31 Oct 2026.
+Bronwyn. is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Electric Garden, Dublin on Sat, 31 Oct 2026.
 
 Bronwyn. is a techno and electronica artist based in Ireland, with 13 gigs on soundcheck across Dublin. Often billed alongside JWY, Naoise and Rhyzine. Next up: Electric Garden, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bronwyn. is a techno and electronica artist based in Ireland, with 13 gigs on so
 
 JWY (1), Naoise, Rhyzine
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn./)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn./)*

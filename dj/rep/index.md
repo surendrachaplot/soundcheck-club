@@ -1,6 +1,6 @@
 # R Ξ Π
 
-R Ξ Π is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Koenji Cave, Tokyo on Sat, 31 Oct 2026.
+R Ξ Π is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Koenji Cave, Tokyo on Sat, 31 Oct 2026.
 
 R Ξ Π is a techno and industrial artist, with 39 gigs on soundcheck across Amsterdam, Beijing, Melbourne and Okinawa and 2 more. Often billed alongside MMS, ΛNGELVS and PUNX. Next up: Koenji Cave, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ R Ξ Π is a techno and industrial artist, with 39 gigs on soundcheck across Ams
 
 MMS, ΛNGELVS, PUNX
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rep/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rep/)*

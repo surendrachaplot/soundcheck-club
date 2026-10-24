@@ -1,6 +1,6 @@
 # chldrns
 
-chldrns is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Fünk, Mexico City on Thu, 29 Oct 2026.
+chldrns is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Fünk, Mexico City on Thu, 29 Oct 2026.
 
 chldrns is a house and minimal artist, with 24 gigs on soundcheck across London, Mexico City, Prague and Valencia. Often billed alongside Gallō, Bastard Love and Kodemul. Next up: Fünk, Mexico City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ chldrns is a house and minimal artist, with 24 gigs on soundcheck across London,
 
 Gallō, Bastard Love, Kodemul
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chldrns/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chldrns/)*

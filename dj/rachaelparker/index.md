@@ -1,6 +1,6 @@
 # Rachael Parker
 
-Rachael Parker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TV Lounge, Detroit on Sat, 24 Oct 2026.
+Rachael Parker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TV Lounge, Detroit on Sat, 24 Oct 2026.
 
 Rachael Parker is a house and techno artist based in United States of America, with 26 gigs on soundcheck across Detroit. Often billed alongside Bruce Bailey, DJ SYNC and LYTSKIN DAVE. Next up: TV Lounge, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rachael Parker is a house and techno artist based in United States of America, w
 
 Bruce Bailey, DJ SYNC, LYTSKIN DAVE
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachaelparker/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachaelparker/)*

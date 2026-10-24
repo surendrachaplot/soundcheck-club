@@ -1,6 +1,6 @@
 # Stratos K
 
-Stratos K is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Dark Sun Club, Athens on Sat, 24 Oct 2026.
+Stratos K is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Dark Sun Club, Athens on Sat, 24 Oct 2026.
 
 Stratos K is a techno and industrial artist based in Greece, with 22 gigs on soundcheck across Athens. Often billed alongside Alisa Murphy, SARIN and Conjecture. Next up: Dark Sun Club, Athens on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Stratos K is a techno and industrial artist based in Greece, with 22 gigs on sou
 
 Alisa Murphy, SARIN, Conjecture
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stratosk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stratosk/)*

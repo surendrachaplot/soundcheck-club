@@ -1,14 +1,13 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Supergloss is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
-Supergloss is a techno and trance artist based in Germany, with 244 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
+Supergloss is a techno and trance artist based in Germany, with 244 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
@@ -18,6 +17,7 @@ Supergloss is a techno and trance artist based in Germany, with 244 gigs on soun
 
 ## Recently played
 
+- Thuishaven, Amsterdam · Fri, 23 Oct 2026
 - H7 Warehouse, Amsterdam · Thu, 22 Oct 2026
 - Knockdown Center, New York City · Sat, 17 Oct 2026
 - Red Rocks Amphitheatre, Colorado · Sat, 10 Oct 2026
@@ -25,10 +25,9 @@ Supergloss is a techno and trance artist based in Germany, with 244 gigs on soun
 - Kømplex Lisbon, Lisbon · Sun, 4 Oct 2026
 - Kømplex Lisbon, Lisbon · Sun, 4 Oct 2026
 - RSO.BERLIN, Berlin · Fri, 2 Oct 2026
-- Nitsa Club, Barcelona · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

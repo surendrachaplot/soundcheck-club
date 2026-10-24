@@ -1,6 +1,6 @@
 # Hertz Collision
 
-Hertz Collision is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at BASE Milano, Milan on Sat, 31 Oct 2026.
+Hertz Collision is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at BASE Milano, Milan on Sat, 31 Oct 2026.
 
 Hertz Collision is a techno and acid artist based in Italy, with 39 gigs on soundcheck across Athens, Berlin, Florence and London and 11 more. Often billed alongside ARMANDO, IKIIR and Sciahri. Next up: BASE Milano, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hertz Collision is a techno and acid artist based in Italy, with 39 gigs on soun
 
 ARMANDO, IKIIR, Sciahri
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hertzcollision/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hertzcollision/)*

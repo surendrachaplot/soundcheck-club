@@ -1,6 +1,6 @@
 # Parfait
 
-Parfait is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri, 30 Oct 2026.
+Parfait is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri, 30 Oct 2026.
 
 Parfait is a techno and house artist based in France, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Charlie Sparks, SNTS and 999999999. Next up: TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Parfait is a techno and house artist based in France, with 180 gigs on soundchec
 
 Charlie Sparks, SNTS, 999999999
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parfait-fr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parfait-fr/)*

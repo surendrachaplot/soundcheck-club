@@ -1,6 +1,6 @@
 # Melokolektiv
 
-Melokolektiv is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Cruise Club, Amsterdam on Sat, 24 Oct 2026.
+Melokolektiv is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Cruise Club, Amsterdam on Sat, 24 Oct 2026.
 
 Melokolektiv is a house and deep house artist based in France, with 8 gigs on soundcheck across Amsterdam, Geneva, London and Marseille and 2 more. Often billed alongside AMÉMÉ, Amour Propre and Birds of Mind. Next up: The Cruise Club, Amsterdam on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Melokolektiv is a house and deep house artist based in France, with 8 gigs on so
 
 AMÉMÉ, Amour Propre, Birds of Mind
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melokolektiv/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melokolektiv/)*

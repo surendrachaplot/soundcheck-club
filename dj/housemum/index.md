@@ -1,6 +1,6 @@
 # House Mum
 
-House Mum is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Miscellania, Melbourne on Fri, 13 Nov 2026.
+House Mum is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Miscellania, Melbourne on Fri, 13 Nov 2026.
 
 House Mum is a techno and bass artist based in Australia, with 69 gigs on soundcheck across Hobart, Melbourne and Sydney. Often billed alongside Yollks, Haus of Ralph and Mon Franco. Next up: Miscellania, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ House Mum is a techno and bass artist based in Australia, with 69 gigs on soundc
 
 Yollks, Haus of Ralph, Mon Franco
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/housemum/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/housemum/)*

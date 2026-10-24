@@ -1,19 +1,19 @@
 # Luciùs
 
-Luciùs is a Trance and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Umbo, Zurich on Fri, 23 Oct 2026.
+Luciùs is a Trance and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
 
-Luciùs is a trance and electro artist, with 14 gigs on soundcheck across Oslo, Stockholm and Zurich. Often billed alongside HyperLili, Jamira Estrada and Kalabrese. Next up: Umbo, Zurich on Fri 23 Oct.
+Luciùs is a trance and electro artist, with 14 gigs on soundcheck across Oslo, Stockholm and Zurich. Often billed alongside HyperLili, Jamira Estrada and Kalabrese. Next up: Zentralwäscherei, Zurich on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Umbo | Zurich |
 | Sat, 31 Oct 2026 | Zentralwäscherei | Zurich |
 | Sat, 31 Oct 2026 | Zentralwäscherei | Zurich |
 
 ## Recently played
 
+- Umbo, Zurich · Fri, 23 Oct 2026
 - Kauz, Zurich · Sat, 20 Dec 2025
 - Timebar, Stockholm · Thu, 24 Jul 2025
 - Kafe Hærverk, Oslo · Fri, 18 Jul 2025
@@ -21,10 +21,9 @@ Luciùs is a trance and electro artist, with 14 gigs on soundcheck across Oslo, 
 - Zukunft, Zurich · Thu, 14 Nov 2024
 - Kauz, Zurich · Fri, 30 Aug 2024
 - Zukunft, Zurich · Thu, 11 Apr 2024
-- Zukunft, Zurich · Sat, 17 Feb 2024
 
 ## Shares bills with
 
 HyperLili, Jamira Estrada, Kalabrese
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucius-ch/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucius-ch/)*

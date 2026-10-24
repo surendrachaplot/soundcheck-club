@@ -1,6 +1,6 @@
 # Krismika
 
-Krismika is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at export, Rotterdam on Fri, 30 Oct 2026.
+Krismika is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at export, Rotterdam on Fri, 30 Oct 2026.
 
 Krismika is a house and ebm artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Belgrade, Istanbul and Prague and 3 more. Often billed alongside Mowgli (NL), Ofra and Marsman. Next up: export, Rotterdam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Krismika is a house and ebm artist based in Netherlands, with 33 gigs on soundch
 
 Mowgli (NL), Ofra, Marsman
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krismika/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krismika/)*

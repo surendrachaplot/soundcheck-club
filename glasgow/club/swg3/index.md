@@ -1,6 +1,6 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 35 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Colours Presents - Kimmic" on Sat, 24 Oct 2026.
+SWG3 is a music venue in Glasgow with 35 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Colours Presents - Kimmic" on Sat, 24 Oct 2026.
 
 SWG3 is a music venue in Glasgow listed on soundcheck. 35 upcoming gigs, with line-ups including Alexandria, AMMARA, Archie Hamilton and Boss Priester and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 35 upcoming gigs, with li
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

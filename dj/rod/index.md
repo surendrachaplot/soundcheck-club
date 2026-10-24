@@ -1,6 +1,6 @@
 # ROD
 
-ROD is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+ROD is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 ROD is a techno and house artist based in Netherlands, with 53 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Dortmund / Essen and 8 more. Often billed alongside Benny Rodrigues, Cynthia Spiering and STERAC. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -15,6 +15,7 @@ ROD is a techno and house artist based in Netherlands, with 53 gigs on soundchec
 
 ## Recently played
 
+- Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo · Sun, 27 Sept 2026
 - CLUB RAUM, Amsterdam · Sat, 19 Sept 2026
 - Barragem da Queimadela, Porto · Thu, 10 Sept 2026
@@ -22,10 +23,9 @@ ROD is a techno and house artist based in Netherlands, with 53 gigs on soundchec
 - Zeche Zollverein, Dortmund / Essen · Fri, 10 Jul 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 16 May 2026
 - BRET, Amsterdam · Sat, 2 May 2026
-- TILLATEC, Amsterdam · Sun, 29 Mar 2026
 
 ## Shares bills with
 
 Benny Rodrigues, Cynthia Spiering, STERAC
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rod/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rod/)*

@@ -1,6 +1,6 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Mau P is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Mau P is a house and tech house artist based in Netherlands, with 171 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 47 more. Often billed alongside Joseph Capriati, Charlotte de Witte and DJ Tennis. Next up: The Loft Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Mau P is a house and tech house artist based in Netherlands, with 171 gigs on so
 
 Joseph Capriati, Charlotte de Witte, DJ Tennis
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

@@ -1,6 +1,6 @@
 # Tomu DJ
 
-Tomu DJ is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 21 Nov 2026.
+Tomu DJ is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 Tomu DJ is a club and techno artist based in United States of America, with 57 gigs on soundcheck across New York City, San Francisco/Oakland, Taipei and Tokyo. Often billed alongside 40split, RITCHRD and SOBA. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Tomu DJ is a club and techno artist based in United States of America, with 57 g
 
 40split, RITCHRD, SOBA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomudj/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomudj/)*

@@ -1,6 +1,6 @@
 # Goga
 
-Goga is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Abyss Shanghai, Shanghai on Sat, 24 Oct 2026.
+Goga is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Abyss Shanghai, Shanghai on Sat, 24 Oct 2026.
 
 Goga is a techno and reggaeton artist, with 12 gigs on soundcheck across Mexico City and Shanghai. Often billed alongside DISCIPLINE, PRYMARA and DJ HOT. Next up: Abyss Shanghai, Shanghai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Goga is a techno and reggaeton artist, with 12 gigs on soundcheck across Mexico 
 
 DISCIPLINE, PRYMARA, DJ HOT
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goga/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goga/)*

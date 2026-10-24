@@ -1,6 +1,6 @@
 # Yeadon
 
-Yeadon is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Archive, Leeds on Sat, 30 Jan 2027.
+Yeadon is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Archive, Leeds on Sat, 30 Jan 2027.
 
 Yeadon is a progressive house and house artist based in United Kingdom, with 11 gigs on soundcheck across Birmingham, Glasgow, Leeds and Liverpool and 3 more. Often billed alongside Lainey, Because of Art and Belms. Next up: Archive, Leeds on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Yeadon is a progressive house and house artist based in United Kingdom, with 11 
 
 Lainey, Because of Art, Belms
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeadon/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeadon/)*

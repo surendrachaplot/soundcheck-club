@@ -1,6 +1,6 @@
 # Haus of Ralph
 
-Haus of Ralph is a Bass and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bourke Street Courtyard, Melbourne on Sat, 24 Oct 2026.
+Haus of Ralph is a Bass and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bourke Street Courtyard, Melbourne on Sat, 24 Oct 2026.
 
 Haus of Ralph is a bass and club artist based in Australia, with 76 gigs on soundcheck across Adelaide, Auckland, Bangkok and Berlin and 5 more. Often billed alongside Cristal No.5, Zalina and House Mum. Next up: Bourke Street Courtyard, Melbourne on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Haus of Ralph is a bass and club artist based in Australia, with 76 gigs on soun
 
 Cristal No.5, Zalina, House Mum
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hausofralph/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hausofralph/)*

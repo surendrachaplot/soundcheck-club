@@ -1,6 +1,6 @@
 # Okkyung Lee
 
-Okkyung Lee is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bozar, Brussels on Sat, 24 Oct 2026.
+Okkyung Lee is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bozar, Brussels on Sat, 24 Oct 2026.
 
 Okkyung Lee is an experimental and ambient artist based in South Korea, with 14 gigs on soundcheck across Bergen, Berlin, Bristol and Brussels and 6 more. Often billed alongside Gavsborg, MBODJ and Amnesia Scanner. Next up: Bozar, Brussels on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Okkyung Lee is an experimental and ambient artist based in South Korea, with 14 
 
 Gavsborg, MBODJ, Amnesia Scanner
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okkyunglee/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okkyunglee/)*

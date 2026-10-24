@@ -1,6 +1,6 @@
 # Jorg Kuning
 
-Jorg Kuning is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Jorg Kuning is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
 Jorg Kuning is a house and techno artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 15 more. Often billed alongside Bitzer Maloney, Daisy Moon and K-LONE. Next up: Shelter Amsterdam, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Jorg Kuning is a house and techno artist based in United Kingdom, with 68 gigs o
 
 Bitzer Maloney, Daisy Moon, K-LONE
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgkuning/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgkuning/)*

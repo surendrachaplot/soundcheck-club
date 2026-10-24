@@ -1,6 +1,6 @@
 # Prismode
 
-Prismode is a Techno and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 24 Oct 2026.
+Prismode is a Techno and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 24 Oct 2026.
 
 Prismode is a techno and progressive house artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 21 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Tanzhaus West, Frankfurt on Sat 24 Oct.
 
@@ -23,6 +23,7 @@ Prismode is a techno and progressive house artist based in Germany, with 123 gig
 
 ## Recently played
 
+- Supperclub Cruise, Amsterdam · Fri, 23 Oct 2026
 - Fridas Pier, Stuttgart · Sat, 17 Oct 2026
 - Ritter Butzke, Berlin · Sat, 10 Oct 2026
 - Docks, Hamburg · Fri, 9 Oct 2026
@@ -30,10 +31,9 @@ Prismode is a techno and progressive house artist based in Germany, with 123 gig
 - Ritter Butzke, Berlin · Sat, 19 Sept 2026
 - Hamburg Cruise Center Altona, Hamburg · Fri, 28 Aug 2026
 - Bahnwärter Thiel, Munich · Sat, 22 Aug 2026
-- TBA - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Solvane, Markus Klee, Super Flu
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*

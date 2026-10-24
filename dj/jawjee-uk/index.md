@@ -1,6 +1,6 @@
 # Jawjee
 
-Jawjee is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Brixton Jamm, London on Sat, 24 Oct 2026.
+Jawjee is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Brixton Jamm, London on Sat, 24 Oct 2026.
 
 Jawjee is a progressive house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across Bristol and London. Often billed alongside Guy J, John '00' Fleming and Lavie Au Soleil. Next up: Brixton Jamm, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Jawjee is a progressive house and deep house artist based in United Kingdom, wit
 
 Guy J, John '00' Fleming, Lavie Au Soleil
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjee-uk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjee-uk/)*

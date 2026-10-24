@@ -1,6 +1,6 @@
 # Golpe
 
-Golpe is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sacre Coeur Prague, Prague on Sat, 24 Oct 2026.
+Golpe is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sacre Coeur Prague, Prague on Sat, 24 Oct 2026.
 
 Golpe is a techno and industrial artist based in Czech Republic, with 52 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 21 more. Often billed alongside RiVid, Svetec and TASSERY. Next up: Sacre Coeur Prague, Prague on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Golpe is a techno and industrial artist based in Czech Republic, with 52 gigs on
 
 RiVid, Svetec, TASSERY
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*

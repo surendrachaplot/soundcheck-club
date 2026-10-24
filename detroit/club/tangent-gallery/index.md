@@ -1,14 +1,13 @@
 # Tangent Gallery
 
-Tangent Gallery is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "CORRUPTION: Persephone's Masquerade" on Fri, 23 Oct 2026.
+Tangent Gallery is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "SAMHAIN XXVI WEEKEND" on Fri, 30 Oct 2026.
 
-Tangent Gallery is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including Afra, Alchemical Sisters, ANNĒ and BMG and 2 more. See dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
+Tangent Gallery is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Afra, Alchemical Sisters, ANNĒ and BMG and 2 more. See dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | CORRUPTION: Persephone's Masquerade | Mike Parallax, Petra Steele, Remnant, Shakti (US) |
 | Fri, 30 Oct 2026 | SAMHAIN XXVI WEEKEND | Afra, Alchemical Sisters, BMG, Daniel Bell, Erika, Eris Drew, Hodge, Lakuti, Mike Servito, Mozhgan, Neel, Octo Octa, Serge, Tama Sumo, Tammy Lakkis |
 | Fri, 30 Oct 2026 | I.T. presents Beyond | Daniel Bell |
 | Sat, 31 Oct 2026 | SAMHAIN XXVI | Afra, Alchemical Sisters, BMG, Erika, Eris Drew, Hodge, Lakuti, Mike Servito, Mozhgan, Neel, Octo Octa, Serge, Tama Sumo, Tammy Lakkis |
@@ -20,4 +19,4 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 7 upcoming gig
 
 715 E Milwaukee St, Detroit, MI 48202, Detroit
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*

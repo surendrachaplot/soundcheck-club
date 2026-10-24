@@ -1,6 +1,6 @@
 # Hidden Empire
 
-Hidden Empire is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - several venues in Aarau, Zurich on Wed, 21 Oct 2026.
+Hidden Empire is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - several venues in Aarau, Zurich on Wed, 21 Oct 2026.
 
 Hidden Empire is a techno and house artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 32 more. Often billed alongside Oliver Koletzki, Annett Gapstream and Kotoe. Next up: TBA - several venues in Aarau, Zurich on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Hidden Empire is a techno and house artist based in Germany, with 73 gigs on sou
 
 Oliver Koletzki, Annett Gapstream, Kotoe
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenempire/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenempire/)*

@@ -1,6 +1,6 @@
 # Kon Faber
 
-Kon Faber is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Beate Uwe, Berlin on Sat, 7 Nov 2026.
+Kon Faber is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Beate Uwe, Berlin on Sat, 7 Nov 2026.
 
 Kon Faber is a house and techno artist based in Germany, with 39 gigs on soundcheck across Berlin, Brisbane, Copenhagen and Frankfurt and 9 more. Often billed alongside Fabian Krooss, DirdyGerdi and Isabeau Fort. Next up: Beate Uwe, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kon Faber is a house and techno artist based in Germany, with 39 gigs on soundch
 
 Fabian Krooss, DirdyGerdi, Isabeau Fort
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konfaber/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konfaber/)*

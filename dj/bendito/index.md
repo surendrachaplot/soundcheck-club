@@ -1,14 +1,15 @@
 # Bendito
 
-Bendito is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
+Bendito is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
 
-Bendito is a house and disco artist based in United States of America, with 90 gigs on soundcheck across Chicago, Houston, London and Montreal and 3 more. Often billed alongside Jeremy Giros, Donis and Elephantglasses. Next up: Nowadays, New York City on Sat 24 Oct.
+Bendito is a house and disco artist based in United States of America, with 91 gigs on soundcheck across Chicago, Houston, London and Montreal and 3 more. Often billed alongside Jeremy Giros, Donis and DJ Ultra Violet. Next up: Nowadays, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Nowadays | New York City |
+| Sat, 21 Nov 2026 | Superior Ingredients | New York City |
 | Sat, 28 Nov 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -24,6 +25,6 @@ Bendito is a house and disco artist based in United States of America, with 90 g
 
 ## Shares bills with
 
-Jeremy Giros, Donis, Elephantglasses
+Jeremy Giros, Donis, DJ Ultra Violet
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bendito/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bendito/)*

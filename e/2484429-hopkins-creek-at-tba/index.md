@@ -1,6 +1,6 @@
 # Hopkins Creek at TBA
 
-Hopkins Creek at TBA on Fri 6 Nov, Victoria. 43 artists: Activator (AU), Art (AU), Babycino and Bridget Small and 39 more. See the line-up on soundcheck.
+Hopkins Creek at TBA on Fri 6 Nov, Victoria. 42 artists: Activator (AU), Art (AU), Babycino and Bridget Small and 38 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -25,7 +25,6 @@ Hopkins Creek at TBA on Fri 6 Nov, Victoria. 43 artists: Activator (AU), Art (AU
 - Dreems
 - Drifting Clouds
 - Ed Kent
-- EIJI SHIRAKAWA
 - Elsie
 - Eric Duncan
 - Frank Booker
@@ -43,7 +42,7 @@ Hopkins Creek at TBA on Fri 6 Nov, Victoria. 43 artists: Activator (AU), Art (AU
 - Naycab
 - Nick Ure
 - Norachi
-- Powder (DE)
+- Powder
 - Radart
 - Richard Sen
 - SCARLETT

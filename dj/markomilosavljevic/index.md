@@ -1,6 +1,6 @@
 # Marko Milosavljevic
 
-Marko Milosavljevic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kult, Belgrade on Sat, 14 Nov 2026.
+Marko Milosavljevic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kult, Belgrade on Sat, 14 Nov 2026.
 
 Marko Milosavljevic is a house and techno artist based in Serbia, with 19 gigs on soundcheck across Belgrade. Often billed alongside Luton, Scepa and Dejan Milicevic. Next up: Kult, Belgrade on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Marko Milosavljevic is a house and techno artist based in Serbia, with 19 gigs o
 
 Luton, Scepa, Dejan Milicevic
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markomilosavljevic/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markomilosavljevic/)*

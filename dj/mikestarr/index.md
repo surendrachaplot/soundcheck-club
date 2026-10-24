@@ -1,6 +1,6 @@
 # Mike Starr
 
-Mike Starr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Südpol, Hamburg on Sat, 24 Oct 2026.
+Mike Starr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Südpol, Hamburg on Sat, 24 Oct 2026.
 
 Mike Starr is a house and techno artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Natalie Robinson, Virginia and BASHKKA. Next up: Südpol, Hamburg on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Mike Starr is a house and techno artist based in United Kingdom, with 99 gigs on
 
 Natalie Robinson, Virginia, BASHKKA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*

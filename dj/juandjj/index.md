@@ -1,6 +1,6 @@
 # juandjj
 
-juandjj is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Abrazarnos, Mexico City on Wed, 21 Oct 2026.
+juandjj is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Abrazarnos, Mexico City on Wed, 21 Oct 2026.
 
 juandjj is a house and techno artist based in Colombia, with 19 gigs on soundcheck across Medellin and Mexico City. Often billed alongside Alby Esc, Celice Monnette and Eliangel. Next up: Abrazarnos, Mexico City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ juandjj is a house and techno artist based in Colombia, with 19 gigs on soundche
 
 Alby Esc, Celice Monnette, Eliangel
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juandjj/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juandjj/)*

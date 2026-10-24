@@ -1,6 +1,6 @@
 # Blame The Mono
 
-Blame The Mono is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Oddity Club, Athens on Sat, 24 Oct 2026.
+Blame The Mono is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Oddity Club, Athens on Sat, 24 Oct 2026.
 
 Blame The Mono is a techno and trance artist, with 70 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 26 more. Often billed alongside DLV, KTK (DE) and CAIVA. Next up: Oddity Club, Athens on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Blame The Mono is a techno and trance artist, with 70 gigs on soundcheck across 
 
 DLV, KTK (DE), CAIVA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*

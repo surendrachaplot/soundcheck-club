@@ -1,6 +1,6 @@
 # Human Space Machine
 
-Human Space Machine is a Techno and Dub Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Human Space Machine is a Techno and Dub Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 Human Space Machine is a techno and dub techno artist based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Eversines, Cobahn and Kaap. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -18,6 +18,7 @@ Human Space Machine is a techno and dub techno artist based in Netherlands, with
 
 ## Recently played
 
+- De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
 - RSO.BERLIN, Berlin · Fri, 9 Oct 2026
 - TBA - Spijkerkade 2, Amsterdam · Sun, 4 Oct 2026
 - Lux Fragil, Lisbon · Fri, 2 Oct 2026
@@ -25,10 +26,9 @@ Human Space Machine is a techno and dub techno artist based in Netherlands, with
 - Backsteinboot, Berlin · Sat, 11 Jul 2026
 - RADION, Amsterdam · Sat, 4 Jul 2026
 - Cadavra, Madrid · Sat, 27 Jun 2026
-- TBA, Amsterdam · Sun, 24 May 2026
 
 ## Shares bills with
 
 Eversines, Cobahn, Kaap
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*

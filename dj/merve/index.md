@@ -1,6 +1,6 @@
 # Merve
 
-Merve is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TILLATEC, Amsterdam on Sat, 24 Oct 2026.
+Merve is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TILLATEC, Amsterdam on Sat, 24 Oct 2026.
 
 Merve is a house and techno artist based in Australia, with 94 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 34 more. Often billed alongside Fastlove, Sansibar and Angel D'lite. Next up: TILLATEC, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Merve is a house and techno artist based in Australia, with 94 gigs on soundchec
 
 Fastlove, Sansibar, Angel D'lite
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*

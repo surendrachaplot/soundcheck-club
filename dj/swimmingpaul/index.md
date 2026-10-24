@@ -1,8 +1,8 @@
 # Swimming Paul
 
-Swimming Paul is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Swimming Paul is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
-Swimming Paul is a house and electro artist based in France, with 74 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
+Swimming Paul is a house and garage artist based in France, with 75 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Swimming Paul is a house and electro artist based in France, with 74 gigs on sou
 | Fri, 13 Nov 2026 | Complex Maastricht | Netherlands |
 | Fri, 27 Nov 2026 | Circolo Magnolia | Milan |
 | Sat, 9 Jan 2027 | The Rechabite | Perth |
+| Fri, 22 Jan 2027 | The Regency Ballroom | San Francisco/Oakland |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Swimming Paul is a house and electro artist based in France, with 74 gigs on sou
 
 OGUZ, Alex Wann, Beltran
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmingpaul/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmingpaul/)*

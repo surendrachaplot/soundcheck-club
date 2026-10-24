@@ -1,6 +1,6 @@
 # Shir Miya
 
-Shir Miya is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Shir Miya is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Shir Miya is a house and techno artist, with 27 gigs on soundcheck across Miami and New York City. Often billed alongside True Vine, Cami di Marzo and grant sabadash. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Shir Miya is a house and techno artist, with 27 gigs on soundcheck across Miami 
 
 True Vine, Cami di Marzo, grant sabadash
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirmiya/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirmiya/)*

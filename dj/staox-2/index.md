@@ -1,6 +1,6 @@
 # STAOX (2)
 
-STAOX (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at KHIDI, Tbilisi on Sat, 24 Oct 2026.
+STAOX (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at KHIDI, Tbilisi on Sat, 24 Oct 2026.
 
 STAOX is a techno artist, with 12 gigs on soundcheck across Tbilisi. Often billed alongside KETEVAN, Dual Pistols and Frequency Shifter. Next up: KHIDI, Tbilisi on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ STAOX is a techno artist, with 12 gigs on soundcheck across Tbilisi. Often bille
 
 KETEVAN, Dual Pistols, Frequency Shifter
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staox-2/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staox-2/)*

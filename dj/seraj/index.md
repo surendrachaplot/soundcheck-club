@@ -1,6 +1,6 @@
 # Sera J
 
-Sera J is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at glimmer, Hamburg on Sat, 24 Oct 2026.
+Sera J is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at glimmer, Hamburg on Sat, 24 Oct 2026.
 
 Sera J is a techno and house artist based in Greece, with 44 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside ANNĒ, SHDW and Alarico. Next up: glimmer, Hamburg on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Sera J is a techno and house artist based in Greece, with 44 gigs on soundcheck 
 
 ANNĒ, SHDW, Alarico
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*

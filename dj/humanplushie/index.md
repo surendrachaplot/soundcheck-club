@@ -1,6 +1,6 @@
 # human plushie
 
-human plushie is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
+human plushie is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
 
 human plushie is a techno and club artist based in United States of America, with 28 gigs on soundcheck across Boston, Nashville, Pennsylvania and Philadelphia and 2 more. Often billed alongside rippenzack, Sambee and 6LOV3. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ human plushie is a techno and club artist based in United States of America, wit
 
 rippenzack, Sambee, 6LOV3
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*

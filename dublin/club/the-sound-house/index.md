@@ -1,14 +1,13 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "GLIMMER 001: Queer Techno Party" on Fri, 23 Oct 2026.
+The Sound House is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Tropical Groove: Pre-Halloween 2nd Edition with FNX" on Sat, 24 Oct 2026.
 
-The Sound House is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including Girls of the Internet, JACK MARLOW, Máthair and MAV666 and 2 more. See dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
+The Sound House is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Girls of the Internet, JACK MARLOW, Máthair and MAV666 and 2 more. See dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | GLIMMER 001: Queer Techno Party | Sémaé, Wotton |
 | Sat, 24 Oct 2026 | Tropical Groove: Pre-Halloween 2nd Edition with FNX | Octo |
 | Sat, 31 Oct 2026 | RATHAUS HALLOWEEN | MAV666, Máthair |
 | Sat, 31 Oct 2026 | ROOM SERVICE RECS LAUNCH PARTY |  |
@@ -23,4 +22,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 10 upcoming gig
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

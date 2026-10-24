@@ -1,6 +1,6 @@
 # YASUKI
 
-YASUKI is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 31 Oct 2026.
+YASUKI is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 31 Oct 2026.
 
 YASUKI is a drum & bass and techno artist based in Japan, with 8 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside DJ AKi, Kulage and SN_Yeah. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ YASUKI is a drum & bass and techno artist based in Japan, with 8 gigs on soundch
 
 DJ AKi, Kulage, SN_Yeah
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasuki-jp/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasuki-jp/)*

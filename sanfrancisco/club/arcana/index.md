@@ -1,6 +1,6 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Arcana TURNS 5! with MIKE BEE (VINYL DREAM)" on Sat, 24 Oct 2026.
+Arcana is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Arcana TURNS 5! with MIKE BEE (VINYL DREAM)" on Sat, 24 Oct 2026.
 
 Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including Adra, Beach Motors, Femme Jatale and Louie El Ser and 2 more. See dates, start times and who's playing. 2512 Mission St, San Francisco.
 
@@ -19,4 +19,4 @@ Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcomin
 
 2512 Mission St, San Francisco, San Francisco/Oakland
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*

@@ -1,6 +1,6 @@
 # Albal
 
-Albal is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Magno, Madrid on Sat, 24 Oct 2026.
+Albal is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Club Magno, Madrid on Sat, 24 Oct 2026.
 
 Albal is a techno and tech house artist based in Spain, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Juguete, ISAbella and acidheaven. Next up: Club Magno, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Albal is a techno and tech house artist based in Spain, with 50 gigs on soundche
 
 Juguete, ISAbella, acidheaven
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albal/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albal/)*

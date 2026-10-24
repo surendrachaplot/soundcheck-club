@@ -1,6 +1,6 @@
 # Ethan West
 
-Ethan West is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Suono, Liverpool on Sat, 24 Oct 2026.
+Ethan West is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Suono, Liverpool on Sat, 24 Oct 2026.
 
 Ethan West is a house and disco artist based in United Kingdom, with 26 gigs on soundcheck across Liverpool and London. Often billed alongside AC Groove, Davide Del Vecchio and Sy Sez. Next up: Suono, Liverpool on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ethan West is a house and disco artist based in United Kingdom, with 26 gigs on 
 
 AC Groove, Davide Del Vecchio, Sy Sez
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanwest/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanwest/)*

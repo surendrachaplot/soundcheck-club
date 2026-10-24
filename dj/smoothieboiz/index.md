@@ -1,6 +1,6 @@
 # Smoothie Boiz
 
-Smoothie Boiz is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri, 30 Oct 2026.
+Smoothie Boiz is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri, 30 Oct 2026.
 
 Smoothie Boiz is a techno and club artist based in Vietnam, with 83 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Leipzig and 4 more. Often billed alongside Phát Paris, Kỳ Mỹ and lil toilet. Next up: TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Smoothie Boiz is a techno and club artist based in Vietnam, with 83 gigs on soun
 
 Phát Paris, Kỳ Mỹ, lil toilet
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothieboiz/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothieboiz/)*

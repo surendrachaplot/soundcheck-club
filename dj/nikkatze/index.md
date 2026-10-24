@@ -1,6 +1,6 @@
 # nikkatze
 
-nikkatze is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Centro Cultural São Paulo, Sao Paulo on Sat, 24 Oct 2026.
+nikkatze is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Centro Cultural São Paulo, Sao Paulo on Sat, 24 Oct 2026.
 
 nikkatze is a techno and house artist, with 23 gigs on soundcheck across Berlin, Mexico City, New York City and Sao Paulo and 1 more. Often billed alongside Renato Cohen, DJ DUE and Transvegana. Next up: Centro Cultural São Paulo, Sao Paulo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ nikkatze is a techno and house artist, with 23 gigs on soundcheck across Berlin,
 
 Renato Cohen, DJ DUE, Transvegana
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkatze/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkatze/)*

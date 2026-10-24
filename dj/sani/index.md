@@ -1,6 +1,6 @@
 # Sani
 
-Sani is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mutant Radio, Tbilisi on Fri, 23 Oct 2026.
+Sani is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mutant Radio, Tbilisi on Fri, 23 Oct 2026.
 
 Sani is a techno and drum & bass artist, with 20 gigs on soundcheck across Berlin, Istanbul, Marseille and Tbilisi. Often billed alongside Anketa, Vazhmarr and Arnii. Next up: Mutant Radio, Tbilisi on Fri 23 Oct.
 
@@ -12,6 +12,7 @@ Sani is a techno and drum & bass artist, with 20 gigs on soundcheck across Berli
 
 ## Recently played
 
+- Mutant Radio, Tbilisi · Fri, 23 Oct 2026
 - Tbili Orgia, Tbilisi · Wed, 31 Dec 2025
 - Le Makeda, Marseille · Fri, 12 Dec 2025
 - Bassiani, Tbilisi · Sat, 22 Nov 2025
@@ -19,10 +20,9 @@ Sani is a techno and drum & bass artist, with 20 gigs on soundcheck across Berli
 - TES, Tbilisi · Fri, 25 Jul 2025
 - Left Bank, Tbilisi · Fri, 4 Jul 2025
 - Tbili Orgia, Tbilisi · Fri, 27 Jun 2025
-- Left Bank, Tbilisi · Fri, 25 Apr 2025
 
 ## Shares bills with
 
 Anketa, Vazhmarr, Arnii
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sani/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sani/)*

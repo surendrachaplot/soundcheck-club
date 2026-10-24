@@ -1,6 +1,6 @@
 # yenskis
 
-yenskis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Avondale Music Hall, Chicago on Sat, 24 Oct 2026.
+yenskis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Avondale Music Hall, Chicago on Sat, 24 Oct 2026.
 
 yenskis is a techno and trance artist, with 19 gigs on soundcheck across Chicago, Hanoi and Ho Chi Minh City. Often billed alongside Goss, Smoothie Boiz and ILONA. Next up: Avondale Music Hall, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ yenskis is a techno and trance artist, with 19 gigs on soundcheck across Chicago
 
 Goss, Smoothie Boiz, ILONA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yenskis/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yenskis/)*

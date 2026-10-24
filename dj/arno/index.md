@@ -1,6 +1,6 @@
 # Arno
 
-Arno is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - CASA FUTURO , Buenos Aires on Sat, 24 Oct 2026.
+Arno is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - CASA FUTURO , Buenos Aires on Sat, 24 Oct 2026.
 
 Arno is a house and techno artist based in Germany, with 54 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 12 more. Often billed alongside HiHat, Aino DJ and DJ ASS TITS. Next up: TBA - CASA FUTURO , Buenos Aires on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Arno is a house and techno artist based in Germany, with 54 gigs on soundcheck a
 
 HiHat, Aino DJ, DJ ASS TITS
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arno/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arno/)*

@@ -1,6 +1,6 @@
 # Chrissy Please
 
-Chrissy Please is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 28 Oct 2026.
+Chrissy Please is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 28 Oct 2026.
 
 Chrissy Please is a house and bass artist, with 11 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Decibel, Camillionaire and DWATA. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Chrissy Please is a house and bass artist, with 11 gigs on soundcheck across San
 
 Decibel, Camillionaire, DWATA
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissyplease/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissyplease/)*

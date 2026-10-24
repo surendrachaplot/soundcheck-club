@@ -1,6 +1,6 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
+Lee Burridge is a Deep House and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
 
 Lee Burridge is a deep house and house artist based in United Kingdom, with 165 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 42 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: VENT, Tokyo on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 165 
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

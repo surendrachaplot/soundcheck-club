@@ -1,6 +1,6 @@
 # Saverio Celestri
 
-Saverio Celestri is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Doggy Klœb, Malaga on Sat, 7 Nov 2026.
+Saverio Celestri is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Doggy Klœb, Malaga on Sat, 7 Nov 2026.
 
 Saverio Celestri is an electro and techno artist based in Italy, with 34 gigs on soundcheck across Barcelona, Berlin, Bologna and Bucharest and 7 more. Often billed alongside Enrico Vivaldi, Psycho Mind Transmission and Avo (ES). Next up: Doggy Klœb, Malaga on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Saverio Celestri is an electro and techno artist based in Italy, with 34 gigs on
 
 Enrico Vivaldi, Psycho Mind Transmission, Avo (ES)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saveriocelestri/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saveriocelestri/)*

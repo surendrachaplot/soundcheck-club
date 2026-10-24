@@ -1,6 +1,6 @@
 # el Capitan
 
-el Capitan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sensorium, Berlin on Wed, 23 Dec 2026.
+el Capitan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sensorium, Berlin on Wed, 23 Dec 2026.
 
 el Capitan is a techno and house artist, with 22 gigs on soundcheck across Berlin and Istanbul. Often billed alongside ugurmeister, Mal.Da and Ghed. Next up: Sensorium, Berlin on Wed 23 Dec.
 
@@ -25,4 +25,4 @@ el Capitan is a techno and house artist, with 22 gigs on soundcheck across Berli
 
 ugurmeister, Mal.Da, Ghed
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elcapitan/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elcapitan/)*

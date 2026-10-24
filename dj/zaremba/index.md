@@ -1,6 +1,6 @@
 # ZAREMBA
 
-ZAREMBA is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at VVOSK RECORDS, Warsaw on Sat, 31 Oct 2026.
+ZAREMBA is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at VVOSK RECORDS, Warsaw on Sat, 31 Oct 2026.
 
 ZAREMBA is a minimal and tech house artist, with 19 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Kamilescu, Raku and Elvira. Next up: VVOSK RECORDS, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ZAREMBA is a minimal and tech house artist, with 19 gigs on soundcheck across Kr
 
 Kamilescu, Raku, Elvira
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaremba/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaremba/)*

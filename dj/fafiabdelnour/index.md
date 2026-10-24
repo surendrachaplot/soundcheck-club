@@ -1,6 +1,6 @@
 # Fafi Abdel Nour
 
-Fafi Abdel Nour is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Fafi Abdel Nour is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 Fafi Abdel Nour is a house and techno artist based in Netherlands, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 57 more. Often billed alongside Jennifer Loveless, Octo Octa and Shanti Celeste. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Fafi Abdel Nour is a house and techno artist based in Netherlands, with 224 gigs
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
-| Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 7 Nov 2026 | Le Trabendo | Paris |
 | Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
@@ -19,17 +18,17 @@ Fafi Abdel Nour is a house and techno artist based in Netherlands, with 224 gigs
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
+- Pllek, Amsterdam · Fri, 23 Oct 2026
 - Nitsa Club, Barcelona · Sat, 17 Oct 2026
 - Edifício Martinelli, Sao Paulo · Sat, 3 Oct 2026
 - Potato Head Beach Club, Bali · Sat, 26 Sept 2026
 - TBA, Denver · Sat, 19 Sept 2026
 - TBA - Los Angeles, Los Angeles · Sat, 12 Sept 2026
 - Ijburg, Amsterdam · Sun, 30 Aug 2026
-- Buda BXL, Brussels · Sat, 22 Aug 2026
-- Chinois Ibiza, Ibiza · Tue, 18 Aug 2026
 
 ## Shares bills with
 
 Jennifer Loveless, Octo Octa, Shanti Celeste
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*

@@ -1,6 +1,6 @@
 # Dicso_Muzek
 
-Dicso_Muzek is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 30 Oct 2026.
+Dicso_Muzek is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 30 Oct 2026.
 
 Dicso_Muzek is a house and electro artist based in Germany, with 65 gigs on soundcheck across Berlin. Often billed alongside Better Call Paul, Nikklaas and ADAM REC.. Next up: Bulbul Berlin, Berlin on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Dicso_Muzek is a house and electro artist based in Germany, with 65 gigs on soun
 
 Better Call Paul, Nikklaas, ADAM REC.
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dicso_muzek/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dicso_muzek/)*

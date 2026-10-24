@@ -1,6 +1,6 @@
 # Lauren Steel
 
-Lauren Steel is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat, 24 Oct 2026.
+Lauren Steel is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat, 24 Oct 2026.
 
 Lauren Steel is a house and deep house artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam, Brighton and London. Often billed alongside Danny Snowden, Ethan Jenner and GUEST (UK). Next up: TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Lauren Steel is a house and deep house artist based in United Kingdom, with 7 gi
 
 Danny Snowden, Ethan Jenner, GUEST (UK)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurensteel/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurensteel/)*

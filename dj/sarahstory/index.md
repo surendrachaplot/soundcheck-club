@@ -1,6 +1,6 @@
 # Sarah Story
 
-Sarah Story is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+Sarah Story is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 Sarah Story is a house and techno artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 26 more. Often billed alongside Arielle Free, Danny Howard and Eats Everything. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sarah Story is a house and techno artist based in United Kingdom, with 93 gigs o
 
 Arielle Free, Danny Howard, Eats Everything
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahstory/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahstory/)*

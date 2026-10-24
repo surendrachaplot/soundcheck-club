@@ -1,6 +1,6 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "r.hythmik invites: Ostrich" on Sat, 24 Oct 2026.
+Rhythm is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "r.hythmik invites: Ostrich" on Sat, 24 Oct 2026.
 
 Rhythm is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Ankathesia, Blkvirgo, Burnin' Vernon and Carerra & Tavares and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
@@ -23,4 +23,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with 
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

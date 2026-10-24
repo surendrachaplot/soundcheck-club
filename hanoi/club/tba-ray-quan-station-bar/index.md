@@ -1,6 +1,6 @@
 # TBA - Ray Quan Station Bar
 
-TBA - Ray Quan Station Bar is a music venue in Hanoi with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "TRAX ON TRACKS VOL.3" on Sat, 24 Oct 2026.
+TBA - Ray Quan Station Bar is a music venue in Hanoi with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "TRAX ON TRACKS VOL.3" on Sat, 24 Oct 2026.
 
 TBA - Ray Quan Station Bar is a music venue in Hanoi listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Ray Quan Station Bar is a music venue in Hanoi listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | TRAX ON TRACKS VOL.3 |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/tba-ray-quan-station-bar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/tba-ray-quan-station-bar/)*

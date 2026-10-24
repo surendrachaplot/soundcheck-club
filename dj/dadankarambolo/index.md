@@ -1,6 +1,6 @@
 # dadan karambolo
 
-dadan karambolo is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ciało, Wroclaw on Fri, 4 Dec 2026.
+dadan karambolo is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ciało, Wroclaw on Fri, 4 Dec 2026.
 
 dadan karambolo is a techno and bass artist, with 21 gigs on soundcheck across Krakow, Oslo, Warsaw and Wroclaw. Often billed alongside Glassz, Guiltee and Donija. Next up: Ciało, Wroclaw on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ dadan karambolo is a techno and bass artist, with 21 gigs on soundcheck across K
 
 Glassz, Guiltee, Donija
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadankarambolo/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadankarambolo/)*

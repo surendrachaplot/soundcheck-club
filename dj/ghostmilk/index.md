@@ -1,18 +1,18 @@
 # GHOST MILK
 
-GHOST MILK is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+GHOST MILK is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-GHOST MILK is a club and techno artist based in United States of America, with 11 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside DJ Ari B, DJ Saratonin and Profesito. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
+GHOST MILK is a club and techno artist based in United States of America, with 11 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside DJ Ari B, DJ Saratonin and Profesito. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Monarch | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
+- Monarch, San Francisco/Oakland · Fri, 23 Oct 2026
 - El Rio, San Francisco/Oakland · Thu, 24 Sept 2026
 - TBA - SECRET SF LOCATION, San Francisco/Oakland · Sat, 16 May 2026
 - El Rio, San Francisco/Oakland · Fri, 12 Dec 2025
@@ -20,10 +20,9 @@ GHOST MILK is a club and techno artist based in United States of America, with 1
 - El Rio, San Francisco/Oakland · Sat, 15 Feb 2025
 - Oakland Secret, San Francisco/Oakland · Sat, 30 Nov 2024
 - Crybaby, San Francisco/Oakland · Sun, 8 Sept 2024
-- Kisl 88.7 FM in Avalon, Los Angeles · Fri, 23 Aug 2024
 
 ## Shares bills with
 
 DJ Ari B, DJ Saratonin, Profesito
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostmilk/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostmilk/)*

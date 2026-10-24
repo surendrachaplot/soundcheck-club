@@ -1,15 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Jana Rush, DJ Strawberry, Traxman, spliffany evans" on Fri, 23 Oct 2026.
+Podlasie Club is a music venue in Chicago with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "CLUB HOSPITALITY" on Sat, 24 Oct 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including ASL Princess, Brendan Lemkin, Buzzi and CCTV and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 8 upcoming gigs, with line-ups including ASL Princess, Buzzi, CCTV and CTRLZORA and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Jana Rush, DJ Strawberry, Traxman, spliffany evans | DJ Strawberry, Jana Rush, Traxman, spliffany evans |
-| Fri, 23 Oct 2026 | OPEN DECKS | Brendan Lemkin |
 | Sat, 24 Oct 2026 | CLUB HOSPITALITY | ASL Princess, DJ GayBash!, LITA DA DOLL, Loqum |
 | Thu, 29 Oct 2026 | STRAPPED: BUTCH BOX |  |
 | Fri, 30 Oct 2026 | Kerrie, CCTV, Shanti | CCTV, Kerrie, Shanti |
@@ -23,4 +21,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming gigs
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

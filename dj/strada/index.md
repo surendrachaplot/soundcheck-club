@@ -1,6 +1,6 @@
 # Strada
 
-Strada is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at L863, Rome on Sun, 25 Oct 2026.
+Strada is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at L863, Rome on Sun, 25 Oct 2026.
 
 Strada is a dub and drum & bass artist based in Italy, with 10 gigs on soundcheck across Milan, Naples and Rome. Often billed alongside Piezo, A-Tweed and Aitch. Next up: L863, Rome on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Strada is a dub and drum & bass artist based in Italy, with 10 gigs on soundchec
 
 Piezo, A-Tweed, Aitch (2)
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strada/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strada/)*

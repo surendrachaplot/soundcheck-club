@@ -1,6 +1,6 @@
 # Sara Tabar
 
-Sara Tabar is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Night Tales, London on Sat, 31 Oct 2026.
+Sara Tabar is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Night Tales, London on Sat, 31 Oct 2026.
 
 Sara Tabar is a disco and house artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Luke Una, Armând and Cheffie Cooks. Next up: Night Tales, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sara Tabar is a disco and house artist based in United Kingdom, with 10 gigs on 
 
 Luke Una, Armând, Cheffie Cooks
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saratabar/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saratabar/)*

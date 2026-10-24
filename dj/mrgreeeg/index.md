@@ -1,6 +1,6 @@
 # MR GREEEG
 
-MR GREEEG is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Apotheke, Los Angeles on Sun, 25 Oct 2026.
+MR GREEEG is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Apotheke, Los Angeles on Sun, 25 Oct 2026.
 
 MR GREEEG is a house and deep house artist based in United States of America, with 16 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Adam Rose, Krane and ALKMST. Next up: Apotheke, Los Angeles on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ MR GREEEG is a house and deep house artist based in United States of America, wi
 
 Adam Rose, Krane, ALKMST
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgreeeg/)*
+*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgreeeg/)*
