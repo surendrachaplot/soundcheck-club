@@ -1,6 +1,6 @@
 # Mera Bhai
 
-Mera Bhai is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 21 Nov 2026.
+Mera Bhai is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 21 Nov 2026.
 
 Mera Bhai is a house and electronica artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Dublin, Glasgow and London and 3 more. Often billed alongside Lawrence Hart, Raji Rags and Raidaa. Next up: Yamamori Tengu, Dublin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mera Bhai is a house and electronica artist based in United Kingdom, with 18 gig
 
 Lawrence Hart, Raji Rags, Raidaa
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merabhai/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merabhai/)*

@@ -1,6 +1,6 @@
 # Act of Rage
 
-Act of Rage is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kesselhaus, Munich on Sat, 31 Oct 2026.
+Act of Rage is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kesselhaus, Munich on Sat, 31 Oct 2026.
 
 Act of Rage is a hardcore and techno artist based in United Kingdom, with 24 gigs on soundcheck across Brussels, Cologne, Dortmund / Essen and Frankfurt and 8 more. Often billed alongside Partyraiser, Angerfist and Marc Acardipane. Next up: Kesselhaus, Munich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Act of Rage is a hardcore and techno artist based in United Kingdom, with 24 gig
 
 Partyraiser, Angerfist, Marc Acardipane
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/actofrage/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/actofrage/)*

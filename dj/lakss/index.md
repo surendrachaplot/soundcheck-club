@@ -1,6 +1,6 @@
 # Lakss
 
-Lakss is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Rauxa Lab, Barcelona on Sun, 25 Oct 2026.
+Lakss is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Rauxa Lab, Barcelona on Sun, 25 Oct 2026.
 
 Lakss is a house and electro artist based in Spain, with 2 gigs on soundcheck across Barcelona. Often billed alongside kaviga, B2G and Balou. Next up: Rauxa Lab, Barcelona on Sun 25 Oct.
 
@@ -15,4 +15,4 @@ Lakss is a house and electro artist based in Spain, with 2 gigs on soundcheck ac
 
 kaviga, B2G (1), Balou (2)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lakss/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lakss/)*

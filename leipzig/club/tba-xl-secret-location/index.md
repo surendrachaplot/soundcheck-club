@@ -1,6 +1,6 @@
 # TBA - XL Secret Location
 
-TBA - XL Secret Location is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "LEIPZIG: Fantasm All Night Long Warehouse Tour" on Sat, 6 Mar 2027.
+TBA - XL Secret Location is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "LEIPZIG: Fantasm All Night Long Warehouse Tour" on Sat, 6 Mar 2027.
 
 TBA - XL Secret Location is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line-ups including Fantasm. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - XL Secret Location is a music venue in Leipzig listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 6 Mar 2027 | LEIPZIG: Fantasm All Night Long Warehouse Tour | Fantasm |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/tba-xl-secret-location/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/tba-xl-secret-location/)*

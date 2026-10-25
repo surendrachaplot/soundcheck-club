@@ -1,6 +1,6 @@
 # Baptist (UK)
 
-Baptist (UK) is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
+Baptist (UK) is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
 Baptist (UK) is a hardcore and gabber artist based in United Kingdom, with 38 gigs on soundcheck across Berlin and London. Often billed alongside Synapsefirer, Lau.tastic and Dres Codex. Next up: The Cause, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Baptist (UK) is a hardcore and gabber artist based in United Kingdom, with 38 gi
 
 Synapsefirer, Lau.tastic, Dres Codex
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistuk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistuk/)*

@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Noctive + Cebrian + Angel Burgos" on Sat, 24 Oct 2026.
+Doggy Klœb is a music venue in Malaga with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Moruki + Dudster" on Fri, 30 Oct 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 12 upcoming gigs, with line-ups including Andrés Sancho, Arval, Checa and Dudster and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 11 upcoming gigs, with line-ups including Andrés Sancho, Arval, Checa and Dudster and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Noctive + Cebrian + Angel Burgos | Noctive |
 | Fri, 30 Oct 2026 | Moruki + Dudster | Dudster, Moruki |
 | Fri, 30 Oct 2026 | Doggy & Clothes | PCL (1) |
 | Sat, 31 Oct 2026 | Halloween Edition: Mirador x Doggy Klœb | Andrés Sancho |
@@ -18,9 +17,10 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 12 upcoming gigs, w
 | Sat, 14 Nov 2026 | Dark Room: Checa invites Histeriko | Checa |
 | Fri, 20 Nov 2026 | Moruki invites Sakro | Moruki, Sakro |
 | Sat, 21 Nov 2026 | Cultura Club: Rickie + Rvbbio | Rickie, rubbio |
+| Fri, 27 Nov 2026 | Doggy Project presents: Jimin | Jimin, Unreal Vibes |
 
 ## Address
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

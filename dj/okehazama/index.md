@@ -1,6 +1,6 @@
 # Okehazama
 
-Okehazama is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Dogenzaka Church, Tokyo on Sun, 25 Oct 2026.
+Okehazama is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Dogenzaka Church, Tokyo on Sun, 25 Oct 2026.
 
 Okehazama is an amapiano and house artist based in Japan, with 18 gigs on soundcheck across Tokyo. Often billed alongside 35DH-1, DADO and Hiroto. Next up: Dogenzaka Church, Tokyo on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Okehazama is an amapiano and house artist based in Japan, with 18 gigs on soundc
 
 35DH-1, DADO, Hiroto
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okehazama/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okehazama/)*

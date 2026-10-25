@@ -1,6 +1,6 @@
 # Fideles
 
-Fideles is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Pllek, Amsterdam on Sun, 25 Oct 2026.
+Fideles is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Pllek, Amsterdam on Sun, 25 Oct 2026.
 
 Fideles is a techno and house artist based in Italy, with 134 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 45 more. Often billed alongside Brina Knauss, Miss Monique and Mathame. Next up: Pllek, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Fideles is a techno and house artist based in Italy, with 134 gigs on soundcheck
 
 Brina Knauss, Miss Monique, Mathame
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*

@@ -1,6 +1,6 @@
 # Conducta b2b AceMo, Surusinghe / x3butterfly b2b Physical Therapy, Conducta at public records
 
-Conducta b2b AceMo, Surusinghe / x3butterfly b2b Physical Therapy, Conducta at public records on Sun 1 Nov, New York City. 5 artists: AceMo, Conducta, Physical Therapy and Surusinghe and 1 more. Bass. See the line-up on soundcheck.
+Conducta b2b AceMo, Surusinghe / x3butterfly b2b Physical Therapy, Conducta at public records on Sun 1 Nov, New York City. 5 artists: AceMo, Conducta, Physical Therapy and Surusinghe and 1 more. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Groundskeeper Fanny
 
-Groundskeeper Fanny is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Biscuit Factory, Edinburgh on Sat, 14 Nov 2026.
+Groundskeeper Fanny is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Biscuit Factory, Edinburgh on Sat, 14 Nov 2026.
 
 Groundskeeper Fanny is a pop and house artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Annafleur, Sweet Philly and Katelate. Next up: The Biscuit Factory, Edinburgh on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Groundskeeper Fanny is a pop and house artist based in United Kingdom, with 15 g
 
 Annafleur, Sweet Philly, Katelate
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groundskeeperfanny/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groundskeeperfanny/)*

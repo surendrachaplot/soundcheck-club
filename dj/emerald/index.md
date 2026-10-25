@@ -1,6 +1,6 @@
 # Emerald
 
-Emerald is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+Emerald is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
 Emerald is a house and garage artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Special Request, Aletha and KILIMANJARO. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Emerald is a house and garage artist based in United Kingdom, with 73 gigs on so
 
 Special Request, Aletha, KILIMANJARO
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emerald/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emerald/)*

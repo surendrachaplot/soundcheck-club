@@ -1,14 +1,13 @@
 # Eev Frances
 
-Eev Frances is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Location, Philadelphia on Fri, 23 Oct 2026.
+Eev Frances is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Philadelphia Ethical Society, Philadelphia on Sat, 21 Nov 2026.
 
-Eev Frances is a club and techno artist based in United States of America, with 20 gigs on soundcheck across New York City and Philadelphia. Often billed alongside JEWELSSEA, SHUGAZI and DJ Papaya. Next up: TBA - Secret Location, Philadelphia on Fri 23 Oct.
+Eev Frances is a club and techno artist based in United States of America, with 20 gigs on soundcheck across New York City and Philadelphia. Often billed alongside JEWELSSEA, SHUGAZI and DJ Papaya. Next up: Philadelphia Ethical Society, Philadelphia on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA - Secret Location | Philadelphia |
 | Sat, 21 Nov 2026 | Philadelphia Ethical Society | Philadelphia |
 
 ## Recently played
@@ -26,4 +25,4 @@ Eev Frances is a club and techno artist based in United States of America, with 
 
 JEWELSSEA, SHUGAZI, DJ Papaya
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eevfrances/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eevfrances/)*

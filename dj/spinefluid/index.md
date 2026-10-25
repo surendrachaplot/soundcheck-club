@@ -1,6 +1,6 @@
 # Spinefluid
 
-Spinefluid is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Room 2 Glasgow, Glasgow on Sat, 31 Oct 2026.
+Spinefluid is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Room 2 Glasgow, Glasgow on Sat, 31 Oct 2026.
 
 Spinefluid is a techno and electronica artist based in Lithuania, with 16 gigs on soundcheck across Edinburgh, Glasgow and Manchester. Often billed alongside 3MR., Soretsia and Stolen Velour. Next up: Room 2 Glasgow, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Spinefluid is a techno and electronica artist based in Lithuania, with 16 gigs o
 
 3MR., Soretsia, Stolen Velour
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinefluid/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinefluid/)*

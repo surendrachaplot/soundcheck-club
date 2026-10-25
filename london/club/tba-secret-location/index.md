@@ -1,22 +1,22 @@
-# TBA - Secret Location 
+# TBA - Secret Location
 
-TBA - Secret Location  is a music venue in London with 71 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "LUCID DREAM" on Fri, 23 Oct 2026.
+TBA - Secret Location is a music venue in London with 54 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "David Hohme, DISCOGNITION + Symstrata" on Sat, 24 Oct 2026.
 
-TBA - Secret Location  is a music venue in London listed on soundcheck. 71 upcoming gigs, with line-ups including Kepler, Absono, AINES and Allan and 2 more. See dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 54 upcoming gigs, with line-ups including Kepler, Absono, AINES and Allan and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | LUCID DREAM | Brendocha, TRAXXSTAR, WILHELMINA, skyrimmmed |
-| Fri, 23 Oct 2026 | Anticlub | Eev Frances, Nine of Wands, Sambee, rippenzack |
-| Sat, 24 Oct 2026 | Tinzo + Jojo's Dark Library - San Francisco | Jojo Lorenzo, Tinzo |
-| Sat, 24 Oct 2026 | strange pavilions pres. DO/OR/DIE, GOMORRAH, IVAN, JUNE B2B ANDU |  |
-| Sat, 24 Oct 2026 | Iori, The Dara - Luz y Vida Fest, Playa del Carmen | Iori, The Dara, jadD |
-| Sat, 24 Oct 2026 | BULTO TOY STORE - 24 OCT | Jose BB, LOLSNAKE, Moritz III, Phase Fatale, Sara Delirio, VINVAR, lost echoes (CO) |
-| Sat, 24 Oct 2026 | Another Excuse |  |
 | Sat, 24 Oct 2026 | David Hohme, DISCOGNITION + Symstrata |  |
-| Sat, 24 Oct 2026 | PARKING | Carla Durisch, Onur Ozman |
-| Sat, 24 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
+| Sun, 25 Oct 2026 | Himmel unter Berlin Vol. III | Andreas Lutz, Kon (FR), Martin Messier, media.tribe |
+| Thu, 29 Oct 2026 | RAW CUTS: X CLUB | Lana Vese, Michelle Kay, X CLUB., duco, y2aura |
+| Thu, 29 Oct 2026 | Beatport Live x 10 Years of On Loop - FREE RSVP | Burnski, Jennifer Loveless, Kepler, Moxie, Wallace |
+| Fri, 30 Oct 2026 | ReSolute Halloween with DJ Harvey & Friends | DJ Harvey |
+| Fri, 30 Oct 2026 | Twisted Circus | CLAWZ, DJ SEXSTASY, Ellen Allien, hhunter |
+| Fri, 30 Oct 2026 | Def Halloween Warehouse |  |
+| Fri, 30 Oct 2026 | BEATS ON THE BOAT: 'SHIPWRECKED.' | MADAMA, Samir (DVS), Sophi B |
+| Fri, 30 Oct 2026 | HEAT//sink ~ | Jumpr, Liza Spinnelli, Mutualism |
+| Fri, 30 Oct 2026 | SISTER.SPOOKZ CRYPT CRAWLERZ | Absono, Dj Nico, karennoid, sister.spooky |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

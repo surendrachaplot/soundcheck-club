@@ -1,6 +1,6 @@
 # znl (1)
 
-znl (1) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Waldorf, MD, Washington DC on Sat, 14 Nov 2026.
+znl (1) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Waldorf, MD, Washington DC on Sat, 14 Nov 2026.
 
 znl is a club and house artist based in United States of America, with 20 gigs on soundcheck across New York City and Washington DC. Often billed alongside CYB3R T0NIN, Rommy and belizenotbrazil. Next up: TBA - Waldorf, MD, Washington DC on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ znl is a club and house artist based in United States of America, with 20 gigs o
 
 CYB3R T0NIN, Rommy, belizenotbrazil
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/znl-1/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/znl-1/)*

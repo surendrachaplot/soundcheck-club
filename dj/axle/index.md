@@ -1,6 +1,6 @@
 # Axle
 
-Axle is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
+Axle is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
 
 Axle is a dubstep and bass artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Bristol, Edinburgh and London and 5 more. Often billed alongside Fearless Dread, Henry Greenleaf and Sharnie. Next up: The Prospect Building, Bristol on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Axle is a dubstep and bass artist based in United Kingdom, with 27 gigs on sound
 
 Fearless Dread, Henry Greenleaf, Sharnie
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axle/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axle/)*

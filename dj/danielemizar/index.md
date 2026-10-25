@@ -1,6 +1,6 @@
 # Daniele Mizar
 
-Daniele Mizar is a Funk / Soul and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Jazz Cafe, London on Wed, 4 Nov 2026.
+Daniele Mizar is a Funk / Soul and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Jazz Cafe, London on Wed, 4 Nov 2026.
 
 Daniele Mizar is a funk / soul and italo disco artist based in Italy, with 19 gigs on soundcheck across London. Often billed alongside Kamar, Bena and Raji Rags. Next up: The Jazz Cafe, London on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Daniele Mizar is a funk / soul and italo disco artist based in Italy, with 19 gi
 
 Kamar, Bena, Raji Rags
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielemizar/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielemizar/)*

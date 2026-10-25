@@ -1,6 +1,6 @@
 # NONTOX Rabbits
 
-NONTOX Rabbits is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 31 Oct 2026.
+NONTOX Rabbits is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 31 Oct 2026.
 
 NONTOX Rabbits is a techno and tech house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Maschine, Morris Fitch and Bisk. Next up: Der Weiße Hase, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NONTOX Rabbits is a techno and tech house artist based in Germany, with 9 gigs o
 
 Maschine, Morris Fitch, Bisk
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nontoxrabbits/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nontoxrabbits/)*

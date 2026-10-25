@@ -1,6 +1,6 @@
 # Alfio Pienne
 
-Alfio Pienne is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Crew Bar Meta, Naples on Sun, 25 Oct 2026.
+Alfio Pienne is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Crew Bar Meta, Naples on Sun, 25 Oct 2026.
 
 Alfio Pienne is a house and tech house artist based in Italy, with 9 gigs on soundcheck across Milan, Naples and Tbilisi. Often billed alongside Alex Bohemien, EKSPO and Federica Visone. Next up: Crew Bar Meta, Naples on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Alfio Pienne is a house and tech house artist based in Italy, with 9 gigs on sou
 
 Alex Bohemien, EKSPO, Federica Visone
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfiopienne/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfiopienne/)*

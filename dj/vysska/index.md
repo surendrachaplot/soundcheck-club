@@ -1,6 +1,6 @@
 # VYSSKA
 
-VYSSKA is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Romantso, Athens on Tue, 27 Oct 2026.
+VYSSKA is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Romantso, Athens on Tue, 27 Oct 2026.
 
 VYSSKA is an electro and techno artist, with 14 gigs on soundcheck across Athens. Often billed alongside Maaantz, Miss Trouli and Adam Des. Next up: Romantso, Athens on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ VYSSKA is an electro and techno artist, with 14 gigs on soundcheck across Athens
 
 Maaantz, Miss Trouli, Adam Des
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vysska/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vysska/)*

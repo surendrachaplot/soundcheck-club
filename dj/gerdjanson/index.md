@@ -1,14 +1,13 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
+Gerd Janson is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Fidelity Studio, Dublin on Sun, 25 Oct 2026.
 
-Gerd Janson is a house and techno artist based in Germany, with 339 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 88 more. Often billed alongside Marcel Dettmann, Âme and DJ Tennis. Next up: RAWFACTORY, Amsterdam on Sat 24 Oct.
+Gerd Janson is a house and techno artist based in Germany, with 339 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 88 more. Often billed alongside Marcel Dettmann, Âme and DJ Tennis. Next up: Fidelity Studio, Dublin on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sun, 25 Oct 2026 | Fidelity Studio | Dublin |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 31 Oct 2026 | Dockland | Münster |
@@ -20,9 +19,11 @@ Gerd Janson is a house and techno artist based in Germany, with 339 gigs on soun
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
+| Sat, 5 Dec 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
+- RAWFACTORY, Amsterdam · Sat, 24 Oct 2026
 - WestWeelde, Amsterdam · Thu, 22 Oct 2026
 - Charlie, Munich · Sat, 17 Oct 2026
 - Hito Scheveningen, The Hague · Sun, 4 Oct 2026
@@ -30,10 +31,9 @@ Gerd Janson is a house and techno artist based in Germany, with 339 gigs on soun
 - Pacha Ibiza, Ibiza · Thu, 1 Oct 2026
 - Gewölbe, Cologne · Fri, 18 Sept 2026
 - Karmakoma, Belgrade · Fri, 11 Sept 2026
-- La Terrrazza, Barcelona · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Marcel Dettmann, Âme, DJ Tennis
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

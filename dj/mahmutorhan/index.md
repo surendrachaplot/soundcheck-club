@@ -1,14 +1,13 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Phantom, Paris, Paris on Sat, 24 Oct 2026.
+Mahmut Orhan is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Klein Phönix, Istanbul on Wed, 28 Oct 2026.
 
-Mahmut Orhan is a house and afro house artist based in Turkey, with 143 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside ARODES, Shimza and Adriatique. Next up: Phantom, Paris, Paris on Sat 24 Oct.
+Mahmut Orhan is a house and afro house artist based in Turkey, with 143 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside ARODES, Shimza and Adriatique. Next up: Klein Phönix, Istanbul on Wed 28 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Phantom, Paris | Paris |
 | Wed, 28 Oct 2026 | Klein Phönix | Istanbul |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Sat, 5 Dec 2026 | Warehouse ZRH | Switzerland |
@@ -19,6 +18,7 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 143 gigs on 
 
 ## Recently played
 
+- Phantom, Paris, Paris · Sat, 24 Oct 2026
 - Theater Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Hotel Arena, Amsterdam · Wed, 21 Oct 2026
 - UFO im Velodrom, Berlin · Sat, 17 Oct 2026
@@ -26,10 +26,9 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 143 gigs on 
 - Romaero - Baneasa, Bucharest · Fri, 9 Oct 2026
 - Chinois Ibiza, Ibiza · Wed, 7 Oct 2026
 - Eventpyramide Vösendorf, Austria · Sat, 3 Oct 2026
-- Eventpyramide Vösendorf, Austria · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 ARODES, Shimza, Adriatique
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

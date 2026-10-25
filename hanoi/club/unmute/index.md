@@ -1,14 +1,13 @@
 # Unmute
 
-Unmute is a music venue in Hanoi with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "OIL SOUND SYSTEM Takeover: NK100, o0.PiPi, Komga, Emmytee" on Sat, 24 Oct 2026.
+Unmute is a music venue in Hanoi with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Unmute W/ OMOLOKO (Curral / Mathosa)" on Fri, 30 Oct 2026.
 
-Unmute is a music venue in Hanoi listed on soundcheck. 14 upcoming gigs, with line-ups including Animistic Beliefs, Bakey, Carrier and Central and 2 more. See dates, start times and who's playing. Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi.
+Unmute is a music venue in Hanoi listed on soundcheck. 13 upcoming gigs, with line-ups including Animistic Beliefs, Bakey, Carrier and Central and 2 more. See dates, start times and who's playing. Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | OIL SOUND SYSTEM Takeover: NK100, o0.PiPi, Komga, Emmytee | Emmytee, Komga, NK100, o0 (1) |
 | Fri, 30 Oct 2026 | Unmute W/ OMOLOKO (Curral / Mathosa) | Hocking, OMOLOKO |
 | Sat, 31 Oct 2026 | WET DYNASTY: LÊNH LÁNG LAND VOL III: 3 YEARS OF TERROR | LINHTONIK, MIA FLAW, PH00000NG, Phát Paris |
 | Thu, 5 Nov 2026 | Unmute 3RD ANNIVERSARY DAY I & II & III | CON.R, Emmytee, Erik Luebs, Hibiya Line, Isabella Mavleeva, Kiki Raikkonen, Komga, Lam Dao, Nam Phùng, PH00000NG, Park:ING, TaoFu, Tiny Giant, Viet Anh, YELLOWUHURU, YKK (CN), Yasmin |
@@ -18,9 +17,10 @@ Unmute is a music venue in Hanoi listed on soundcheck. 14 upcoming gigs, with li
 | Fri, 27 Nov 2026 | Unmute W/ Carrier (The Trilogy Tapes/UK) | Carrier |
 | Fri, 11 Dec 2026 | Unmute with Wata Igarashi | Wata Igarashi |
 | Sat, 12 Dec 2026 | Unmute with Pariah | Pariah |
+| Fri, 25 Dec 2026 | Unmute with PICTURE B2B DJ Central | Central |
 
 ## Address
 
 Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi, Hanoi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/unmute/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/unmute/)*

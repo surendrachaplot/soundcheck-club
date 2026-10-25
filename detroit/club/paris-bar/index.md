@@ -1,6 +1,6 @@
 # Paris Bar
 
-Paris Bar is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Haute to Death 19 Year Anniversary -wsg- Charles Trees, DJ Etta, dream beach, and Peter Croce" on Sat, 31 Oct 2026.
+Paris Bar is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Haute to Death 19 Year Anniversary -wsg- Charles Trees, DJ Etta, dream beach, and Peter Croce" on Sat, 31 Oct 2026.
 
 Paris Bar is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, with line-ups including 1-800-CALL-ASH, Auntie Chanel, Charles Trees and DJ Etta (US) and 2 more. See dates, start times and who's playing. 2961 E McNichols Rd, Hamtramck, MI 48212, United States.
 
@@ -16,4 +16,4 @@ Paris Bar is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, wit
 
 2961 E McNichols Rd, Hamtramck, MI 48212, United States, Detroit
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*

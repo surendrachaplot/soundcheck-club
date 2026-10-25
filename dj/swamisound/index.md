@@ -1,6 +1,6 @@
 # Swami Sound
 
-Swami Sound is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
+Swami Sound is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
 
 Swami Sound is a garage and house artist based in United States of America, with 116 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 19 more. Often billed alongside gum.mp3, AceMo and Dazegxd. Next up: Marble Bar, Detroit on Sat 24 Oct.
 
@@ -17,6 +17,7 @@ Swami Sound is a garage and house artist based in United States of America, with
 
 ## Recently played
 
+- Marble Bar, Detroit · Sat, 24 Oct 2026
 - Paragon, New York City · Sat, 10 Oct 2026
 - Barn Radio, Portland · Sat, 3 Oct 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 25 Sept 2026
@@ -24,10 +25,9 @@ Swami Sound is a garage and house artist based in United States of America, with
 - Bossa Nova Civic Club, New York City · Fri, 11 Sept 2026
 - TBA - Camp Tall Timbers, WV, Washington DC · Fri, 4 Sept 2026
 - Bastet, Philadelphia · Sat, 15 Aug 2026
-- The Chocolate Factory, New York City · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 gum.mp3, AceMo, Dazegxd
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*

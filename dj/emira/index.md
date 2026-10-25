@@ -1,6 +1,6 @@
 # EMIRA
 
-EMIRA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
+EMIRA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
 
 EMIRA is a techno and house artist based in Tunisia, with 44 gigs on soundcheck across Berlin, Hannover, Milan and Paris and 1 more. Often billed alongside The Camel, VNVK and Tiem. Next up: Renate, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ EMIRA is a techno and house artist based in Tunisia, with 44 gigs on soundcheck 
 
 The Camel, VNVK, Tiem
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emira/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emira/)*

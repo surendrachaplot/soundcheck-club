@@ -1,6 +1,6 @@
 # Obando
 
-Obando is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Salon Amador, Medellin on Wed, 28 Oct 2026.
+Obando is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Salon Amador, Medellin on Wed, 28 Oct 2026.
 
 Obando is a tech house and house artist, with 69 gigs on soundcheck across Bogotá, Madrid, Medellin and Miami. Often billed alongside Matheo Velez, Raized and Jose M. Next up: Salon Amador, Medellin on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Obando is a tech house and house artist, with 69 gigs on soundcheck across Bogot
 
 Matheo Velez, Raized, Jose M
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obando/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obando/)*

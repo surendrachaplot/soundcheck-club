@@ -1,6 +1,6 @@
 # erroneous
 
-erroneous is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Fire, London on Sat, 31 Oct 2026.
+erroneous is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Fire, London on Sat, 31 Oct 2026.
 
 erroneous is a tech house and deep house artist based in United Kingdom, with 28 gigs on soundcheck across London. Often billed alongside Diana Loredana, Thomas Galbardi and Duwat?. Next up: Fire, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ erroneous is a tech house and deep house artist based in United Kingdom, with 28
 
 Diana Loredana, Thomas Galbardi, Duwat?
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erroneous/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erroneous/)*

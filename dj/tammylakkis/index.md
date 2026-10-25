@@ -1,6 +1,6 @@
 # Tammy Lakkis
 
-Tammy Lakkis is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
+Tammy Lakkis is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
 
 Tammy Lakkis is a house and techno artist based in United States of America, with 281 gigs on soundcheck across Amsterdam, Berlin, Boston and Chicago and 11 more. Often billed alongside Shigeto, Kenjiro and Ryan Spencer. Next up: Marble Bar, Detroit on Sat 24 Oct.
 
@@ -16,6 +16,7 @@ Tammy Lakkis is a house and techno artist based in United States of America, wit
 
 ## Recently played
 
+- Marble Bar, Detroit · Sat, 24 Oct 2026
 - Menjo's, Detroit · Fri, 25 Sept 2026
 - MotorCity Wine, Detroit · Mon, 14 Sept 2026
 - TBA - Detroit - 3 Locations / 3 Days (see LINEUP), Detroit · Thu, 10 Sept 2026
@@ -23,10 +24,9 @@ Tammy Lakkis is a house and techno artist based in United States of America, wit
 - Northern Lights Lounge, Detroit · Sat, 29 Aug 2026
 - Marble Bar, Detroit · Fri, 28 Aug 2026
 - Temple Bar, Detroit · Sat, 15 Aug 2026
-- MotorCity Wine, Detroit · Mon, 10 Aug 2026
 
 ## Shares bills with
 
 Shigeto, Kenjiro, Ryan Spencer
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tammylakkis/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tammylakkis/)*

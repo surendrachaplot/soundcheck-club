@@ -1,14 +1,13 @@
 # Henry Saiz
 
-Henry Saiz is a Progressive House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+Henry Saiz is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Sing Sing Theater, Bangkok on Wed, 28 Oct 2026.
 
-Henry Saiz is a progressive house and house artist based in Spain, with 68 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 22 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
+Henry Saiz is a progressive house and house artist based in Spain, with 68 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 22 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: Sing Sing Theater, Bangkok on Wed 28 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Onder Hans | Amsterdam |
 | Wed, 28 Oct 2026 | Sing Sing Theater | Bangkok |
 | Fri, 30 Oct 2026 | Café del Mar Phuket | Thailand |
 | Sat, 7 Nov 2026 | Cafe Del Mar | Sydney |
@@ -17,6 +16,7 @@ Henry Saiz is a progressive house and house artist based in Spain, with 68 gigs 
 
 ## Recently played
 
+- Onder Hans, Amsterdam · Sat, 24 Oct 2026
 - Pacific Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - The Steel Yard, London · Fri, 25 Sept 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 5 Sept 2026
@@ -24,10 +24,9 @@ Henry Saiz is a progressive house and house artist based in Spain, with 68 gigs 
 - Seaseaclub Barcelona, Barcelona · Fri, 14 Aug 2026
 - Bikini Club, Barcelona · Thu, 18 Jun 2026
 - WaV, Liverpool · Sat, 6 Jun 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza · Thu, 21 May 2026
 
 ## Shares bills with
 
 Amadori, Luciano Lozz, Gespona
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysaiz/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysaiz/)*

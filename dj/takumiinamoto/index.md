@@ -1,6 +1,6 @@
 # Takumi Inamoto
 
-Takumi Inamoto is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Z Maruyama, Tokyo on Mon, 2 Nov 2026.
+Takumi Inamoto is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Z Maruyama, Tokyo on Mon, 2 Nov 2026.
 
 Takumi Inamoto is a techno and trance artist based in Japan, with 27 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hong Kong and 2 more. Often billed alongside DJ MARIA., OCCA and DJ Yazi. Next up: Z Maruyama, Tokyo on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Takumi Inamoto is a techno and trance artist based in Japan, with 27 gigs on sou
 
 DJ MARIA., OCCA, DJ Yazi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takumiinamoto/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takumiinamoto/)*

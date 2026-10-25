@@ -1,6 +1,6 @@
 # Rangø
 
-Rangø is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
+Rangø is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
 
 Rangø is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Hamburg and Prague. Often billed alongside Pornbugs, Hans Hammer and Erhardt Schuster. Next up: Hafenklang, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rangø is a techno and house artist based in Germany, with 28 gigs on soundcheck
 
 Pornbugs, Hans Hammer, Erhardt Schuster
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rango/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rango/)*

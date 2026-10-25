@@ -1,6 +1,6 @@
 # Vivace
 
-Vivace is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Manning Bar, Sydney on Sat, 31 Oct 2026.
+Vivace is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Manning Bar, Sydney on Sat, 31 Oct 2026.
 
 Vivace is a techno and garage artist, with 7 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and London and 2 more. Often billed alongside PØVE, Adrian Mills and Alex Farell. Next up: Manning Bar, Sydney on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Vivace is a techno and garage artist, with 7 gigs on soundcheck across Aberdeen,
 
 PØVE, Adrian Mills, Alex Farell
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace/)*

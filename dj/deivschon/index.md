@@ -1,6 +1,6 @@
 # Deiv Schon
 
-Deiv Schon is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 25 Oct 2026.
+Deiv Schon is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 25 Oct 2026.
 
 Deiv Schon is a deep house and house artist based in Argentina, with 11 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and Los Angeles and 3 more. Often billed alongside Martinignaccio, 1 to 1 and Borak. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Deiv Schon is a deep house and house artist based in Argentina, with 11 gigs on 
 
 Martinignaccio, 1 to 1, Borak
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deivschon/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deivschon/)*

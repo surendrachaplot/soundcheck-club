@@ -1,14 +1,13 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "NOS: Moonrise - Guillaume Michaud, Latour, Okliis" on Fri, 23 Oct 2026.
+NWHR is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "NWHR Invites Volvox [NYC]" on Sat, 24 Oct 2026.
 
-NWHR is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Guillaume Michaud, h1bou, Kris Tin and Latour and 2 more. See dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
+NWHR is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with line-ups including h1bou, Kris Tin, Markus Suckut and nastygloss and 2 more. See dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | NOS: Moonrise - Guillaume Michaud, Latour, Okliis | Guillaume Michaud, Latour |
 | Sat, 24 Oct 2026 | NWHR Invites Volvox [NYC] | Kris Tin, Volvox, h1bou |
 | Sat, 31 Oct 2026 | Visceral \\// REQUIEM |  |
 | Sat, 7 Nov 2026 | Arder: Sev Dah | Sev Dah |
@@ -20,4 +19,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with li
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

@@ -1,6 +1,6 @@
 # Viiaan
 
-Viiaan is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
+Viiaan is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
 Viiaan is a techno and club artist based in Mexico, with 110 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 9 more. Often billed alongside Octoptic, Retter (DE) and Boo Lean. Next up: TBA, Berlin on Sat 24 Oct.
 
@@ -13,6 +13,7 @@ Viiaan is a techno and club artist based in Mexico, with 110 gigs on soundcheck 
 
 ## Recently played
 
+- TBA, Berlin · Sat, 24 Oct 2026
 - Tresor / Globus, Berlin · Fri, 11 Sept 2026
 - TBA - Secret Location (near Frankfurter Allee), Berlin · Wed, 2 Sept 2026
 - Panke, Berlin · Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ Viiaan is a techno and club artist based in Mexico, with 110 gigs on soundcheck 
 - LAUT, Barcelona · Thu, 18 Jun 2026
 - Renate, Berlin · Thu, 11 Jun 2026
 - TBA - NK, Berlin · Sun, 31 May 2026
-- Lauschangriff, Berlin · Wed, 27 May 2026
 
 ## Shares bills with
 
 Octoptic, Retter (DE), Boo Lean
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viiaan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viiaan/)*

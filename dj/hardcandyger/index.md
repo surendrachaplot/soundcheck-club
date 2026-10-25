@@ -1,6 +1,6 @@
 # HARD CANDY (GER)
 
-HARD CANDY (GER) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
+HARD CANDY (GER) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 27 Nov 2026.
 
 HARD CANDY (GER) is a techno and trance artist, with 24 gigs on soundcheck across Antwerp, Basel, Belfast and Berlin and 11 more. Often billed alongside Adrian Mills, DJ Cringey and Miss Bashful x DBBD. Next up: DSTRKT Club Berlin, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ HARD CANDY (GER) is a techno and trance artist, with 24 gigs on soundcheck acros
 
 Adrian Mills, DJ Cringey, Miss Bashful x DBBD
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hardcandyger/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hardcandyger/)*

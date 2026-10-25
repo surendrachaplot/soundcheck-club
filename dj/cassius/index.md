@@ -1,14 +1,13 @@
 # Cassius
 
-Cassius is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Garage Klub, Antwerp on Sat, 24 Oct 2026.
+Cassius is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Duel Club, Naples on Sun, 25 Oct 2026.
 
-Cassius is a house and techno artist based in France, with 54 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Myd, Busy P and LB aka LABAT. Next up: Garage Klub, Antwerp on Sat 24 Oct.
+Cassius is a house and techno artist based in France, with 54 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Myd, Busy P and LB aka LABAT. Next up: Duel Club, Naples on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Garage Klub | Antwerp |
 | Sun, 25 Oct 2026 | Duel Club | Naples |
 | Fri, 30 Oct 2026 | Pumpehuset | Copenhagen |
 | Sat, 31 Oct 2026 | Outernet Live | London |
@@ -20,6 +19,7 @@ Cassius is a house and techno artist based in France, with 54 gigs on soundcheck
 
 ## Recently played
 
+- Garage Klub, Antwerp · Sat, 24 Oct 2026
 - Circolo Magnolia, Milan · Fri, 23 Oct 2026
 - Button Factory, Dublin · Fri, 16 Oct 2026
 - Amnesia Ibiza, Ibiza · Fri, 21 Aug 2026
@@ -27,10 +27,9 @@ Cassius is a house and techno artist based in France, with 54 gigs on soundcheck
 - TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
 - Calatheabeachclub, Naples · Sat, 13 Jun 2026
 - Silencio, Paris · Tue, 2 Jun 2026
-- Place Noord, Brussels · Sat, 30 May 2026
 
 ## Shares bills with
 
 Myd, Busy P, LB aka LABAT
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*

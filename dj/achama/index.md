@@ -1,6 +1,6 @@
 # ACHAMA
 
-ACHAMA is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Massive, Seattle on Fri, 30 Oct 2026.
+ACHAMA is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Massive, Seattle on Fri, 30 Oct 2026.
 
 ACHAMA is a club and techno artist based in United States of America, with 22 gigs on soundcheck across Portland, Seattle and Tokyo. Often billed alongside N SO, MUNÉO and Jason Code. Next up: Massive, Seattle on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ ACHAMA is a club and techno artist based in United States of America, with 22 gi
 
 N SO, MUNÉO, Jason Code
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*

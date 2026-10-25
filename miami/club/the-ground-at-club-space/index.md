@@ -1,14 +1,13 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "BABY J" on Fri, 23 Oct 2026.
+The Ground at Club Space is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "BLACK ROOM: Kander" on Sat, 24 Oct 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including 1-800-Lolita, Berrakka, ALEJO (US) and Alexx in Chainss and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with line-ups including ALEJO (US), Alexx in Chainss, Anunaku and Bakke and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | BABY J | 1-800-Lolita, Baby J (2), Berrakka, SUCIA! |
 | Sat, 24 Oct 2026 | BLACK ROOM: Kander | CÛLTÛS VÎS, Dadrev, DomnRob, Kander |
 | Fri, 30 Oct 2026 | Halloweek: Emo Nite |  |
 | Sat, 31 Oct 2026 | PERREO DEL FUTURO Halloween | Anunaku, MARACUYá, Manuka Honey, Mr. Bitch, SATURNSARii, TSVI, yung_womb |
@@ -22,4 +21,4 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 9 upcom
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

@@ -1,18 +1,18 @@
 # Lawrence Lee
 
-Lawrence Lee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Nouveau Casino, Paris on Sat, 24 Oct 2026.
+Lawrence Lee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at RSO.BERLIN, Berlin on Thu, 31 Dec 2026.
 
-Lawrence Lee is a techno and house artist, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Beijing and 20 more. Often billed alongside HAO (CN), Jensen Interceptor and Cora (CN). Next up: Nouveau Casino, Paris on Sat 24 Oct.
+Lawrence Lee is a techno and house artist, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Beijing and 20 more. Often billed alongside HAO (CN), Jensen Interceptor and Cora (CN). Next up: RSO.BERLIN, Berlin on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Nouveau Casino | Paris |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- Nouveau Casino, Paris · Sat, 24 Oct 2026
 - OXI, Berlin · Tue, 22 Sept 2026
 - TBA - Private Location, Berlin · Sat, 5 Sept 2026
 - RSO.BERLIN, Berlin · Fri, 24 Jul 2026
@@ -20,10 +20,9 @@ Lawrence Lee is a techno and house artist, with 86 gigs on soundcheck across Ams
 - Tempio del Futuro Perduto, Milan · Fri, 29 May 2026
 - ÆDEN, Berlin · Fri, 1 May 2026
 - RSO.BERLIN, Berlin · Sat, 17 Jan 2026
-- RSO.BERLIN, Berlin · Sat, 29 Nov 2025
 
 ## Shares bills with
 
 HAO (CN), Jensen Interceptor, Cora (CN)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelee/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelee/)*

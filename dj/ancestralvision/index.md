@@ -1,6 +1,6 @@
 # Ancestral Vision
 
-Ancestral Vision is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ankali & Planeta Za, Prague on Tue, 27 Oct 2026.
+Ancestral Vision is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ankali & Planeta Za, Prague on Tue, 27 Oct 2026.
 
 Ancestral Vision is an experimental and techno artist, with 16 gigs on soundcheck across Berlin, Glasgow, London and Montreal and 1 more. Often billed alongside Mother Criminal, Exhausted Modern and Kobayashi Maru. Next up: Ankali & Planeta Za, Prague on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Ancestral Vision is an experimental and techno artist, with 16 gigs on soundchec
 
 Mother Criminal, Exhausted Modern, Kobayashi Maru
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ancestralvision/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ancestralvision/)*

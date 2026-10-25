@@ -1,6 +1,6 @@
 # Gabo Oliveira
 
-Gabo Oliveira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - CALLE BADAJOZ 115, 08018 BARCELONA, Barcelona on Fri, 30 Oct 2026.
+Gabo Oliveira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - CALLE BADAJOZ 115, 08018 BARCELONA, Barcelona on Fri, 30 Oct 2026.
 
 Gabo Oliveira is a house and techno artist based in Brazil, with 56 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Rods Franchin, XipNoize and PAZ WAZ HERE. Next up: TBA - CALLE BADAJOZ 115, 08018 BARCELONA, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Gabo Oliveira is a house and techno artist based in Brazil, with 56 gigs on soun
 
 Rods Franchin, XipNoize, PAZ WAZ HERE
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabooliveira/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabooliveira/)*

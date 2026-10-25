@@ -1,6 +1,6 @@
 # CARISTA
 
-CARISTA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 31 Oct 2026.
+CARISTA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 CARISTA is a house and techno artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Job Jobse, Eris Drew and Suze Ijó. Next up: Seaseaclub Barcelona, Barcelona on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ CARISTA is a house and techno artist based in Netherlands, with 195 gigs on soun
 
 Job Jobse, Eris Drew, Suze Ijó
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carista/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carista/)*

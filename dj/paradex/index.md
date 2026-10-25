@@ -1,6 +1,6 @@
 # PARADEX
 
-PARADEX is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - SECRET WAREHOUSE LOCATION 18+, Philadelphia on Sat, 31 Oct 2026.
+PARADEX is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - SECRET WAREHOUSE LOCATION 18+, Philadelphia on Sat, 31 Oct 2026.
 
 PARADEX is a techno and acid artist, with 42 gigs on soundcheck across Miami, New York City and Philadelphia. Often billed alongside DEMEN-TEK, @nimal and Dadrev. Next up: TBA - SECRET WAREHOUSE LOCATION 18+, Philadelphia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PARADEX is a techno and acid artist, with 42 gigs on soundcheck across Miami, Ne
 
 DEMEN-TEK, @nimal, Dadrev
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paradex/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paradex/)*

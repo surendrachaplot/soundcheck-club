@@ -1,6 +1,6 @@
 # Minusa Music Club
 
-Minusa Music Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "WAX on Table" on Fri, 6 Nov 2026.
+Minusa Music Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "WAX on Table" on Fri, 6 Nov 2026.
 
 Minusa Music Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Ghïgø and orphei. See dates, start times and who's playing. Calle de Monteleón, 5, Centro, 28004 Madrid.
 
@@ -15,4 +15,4 @@ Minusa Music Club is a music venue in Madrid listed on soundcheck. 2 upcoming gi
 
 Calle de Monteleón, 5, Centro, 28004 Madrid, Madrid
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/minusa-music-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/minusa-music-club/)*

@@ -1,6 +1,6 @@
 # Chris Massey
 
-Chris Massey is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Joshua Brooks, Manchester on Sun, 25 Oct 2026.
+Chris Massey is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Joshua Brooks, Manchester on Sun, 25 Oct 2026.
 
 Chris Massey is a disco and house artist based in United Kingdom, with 47 gigs on soundcheck across Dundee, Leeds and Manchester. Often billed alongside Muddy Feet, Supernature Disco and Psychederek. Next up: Joshua Brooks, Manchester on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Chris Massey is a disco and house artist based in United Kingdom, with 47 gigs o
 
 Muddy Feet, Supernature Disco, Psychederek
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismassey/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismassey/)*

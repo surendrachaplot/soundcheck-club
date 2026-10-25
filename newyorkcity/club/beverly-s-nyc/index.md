@@ -1,6 +1,6 @@
 # Beverly's NYC
 
-Beverly's NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "PJ Psoas (PDX), Max Pearl & Turner Capehart" on Sat, 7 Nov 2026.
+Beverly's NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "PJ Psoas (PDX), Max Pearl & Turner Capehart" on Sat, 7 Nov 2026.
 
 Beverly's NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Soul Ipsum. See dates, start times and who's playing. 297 Grand St, New York, NY.
 
@@ -14,4 +14,4 @@ Beverly's NYC is a music venue in New York City listed on soundcheck. 1 upcoming
 
 297 Grand St, New York, NY, New York City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/beverly-s-nyc/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/beverly-s-nyc/)*

@@ -1,6 +1,6 @@
 # Kara-Lis Coverdale
 
-Kara-Lis Coverdale is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Convent of St. Agnes, Prague on Sun, 8 Nov 2026.
+Kara-Lis Coverdale is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Convent of St. Agnes, Prague on Sun, 8 Nov 2026.
 
 Kara-Lis Coverdale is an experimental and ambient artist based in Canada, with 28 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Sarah Davachi, A Guy Called Gerald and Assyouti. Next up: The Convent of St. Agnes, Prague on Sun 8 Nov.
 
@@ -27,4 +27,4 @@ Kara-Lis Coverdale is an experimental and ambient artist based in Canada, with 2
 
 Sarah Davachi, A Guy Called Gerald, Assyouti
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kara-liscoverdale/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kara-liscoverdale/)*

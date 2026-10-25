@@ -1,6 +1,6 @@
 # Deherian
 
-Deherian is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Gazi View, Athens on Fri, 6 Nov 2026.
+Deherian is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gazi View, Athens on Fri, 6 Nov 2026.
 
 Deherian is a techno and industrial artist based in Greece, with 63 gigs on soundcheck across Athens and Paris. Often billed alongside Tanison, Christian Cambas and Steve Sai. Next up: Gazi View, Athens on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Deherian is a techno and industrial artist based in Greece, with 63 gigs on soun
 
 Tanison, Christian Cambas, Steve Sai
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deherian/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deherian/)*

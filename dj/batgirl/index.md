@@ -1,6 +1,6 @@
 # batgirl
 
-batgirl is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Bow, London on Sat, 7 Nov 2026.
+batgirl is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Bow, London on Sat, 7 Nov 2026.
 
 batgirl is a techno and house artist based in United Kingdom, with 22 gigs on soundcheck across Brighton and London. Often billed alongside Ruby SD, Delano (UK) and Jacob Trip. Next up: TBA - Bow, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ batgirl is a techno and house artist based in United Kingdom, with 22 gigs on so
 
 Ruby SD, Delano (UK), Jacob Trip
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batgirl/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batgirl/)*

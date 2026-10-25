@@ -1,6 +1,6 @@
 # Ryuta Ishimoto
 
-Ryuta Ishimoto is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cube, Tokyo on Sat, 14 Nov 2026.
+Ryuta Ishimoto is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cube, Tokyo on Sat, 14 Nov 2026.
 
 Ryuta Ishimoto is a techno and acid artist based in Japan, with 36 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside FENGX2, Kosuke and Messiahwaits. Next up: Cube, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ryuta Ishimoto is a techno and acid artist based in Japan, with 36 gigs on sound
 
 FENGX2, Kosuke, Messiahwaits
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryutaishimoto/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryutaishimoto/)*

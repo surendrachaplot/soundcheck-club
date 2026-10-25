@@ -1,6 +1,6 @@
 # Porter
 
-Porter is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 13 Nov 2026.
+Porter is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 13 Nov 2026.
 
 Porter is a house and club artist, with 14 gigs on soundcheck across Berlin and Prague. Often billed alongside Caren Callas, Flo Pirke and KimPalm. Next up: Bulbul Berlin, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Porter is a house and club artist, with 14 gigs on soundcheck across Berlin and 
 
 Caren Callas, Flo Pirke, KimPalm
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/porter/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/porter/)*

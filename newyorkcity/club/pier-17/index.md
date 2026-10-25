@@ -1,6 +1,6 @@
 # Pier 17
 
-Pier 17 is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Rooftop Halloween: Krewella & Nervo, Arty & DVBBS" on Sat, 31 Oct 2026.
+Pier 17 is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Rooftop Halloween: Krewella & Nervo, Arty & DVBBS" on Sat, 31 Oct 2026.
 
 Pier 17 is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Arty, Krewella and Nervo. See dates, start times and who's playing. South Street Seaport, 12 Fulton St; New York, NY 10038; United States.
 
@@ -14,4 +14,4 @@ Pier 17 is a music venue in New York City listed on soundcheck. 1 upcoming gig, 
 
 South Street Seaport, 12 Fulton St; New York, NY 10038; United States, New York City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-17/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-17/)*

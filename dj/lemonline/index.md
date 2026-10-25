@@ -1,14 +1,13 @@
 # Lemonline
 
-Lemonline is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Pittsburgh on Fri, 23 Oct 2026.
+Lemonline is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Spirit, Pittsburgh on Fri, 30 Oct 2026.
 
-Lemonline is a house and club artist based in United States of America, with 31 gigs on soundcheck across Pittsburgh. Often billed alongside LEFSE, Ron Mist and Formosa. Next up: TBA, Pittsburgh on Fri 23 Oct.
+Lemonline is a house and club artist based in United States of America, with 31 gigs on soundcheck across Pittsburgh. Often billed alongside LEFSE, Ron Mist and Formosa. Next up: Spirit, Pittsburgh on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA | Pittsburgh |
 | Fri, 30 Oct 2026 | Spirit | Pittsburgh |
 | Fri, 6 Nov 2026 | Club Pittsburgh | Pittsburgh |
 
@@ -27,4 +26,4 @@ Lemonline is a house and club artist based in United States of America, with 31 
 
 LEFSE, Ron Mist, Formosa (1)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonline/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemonline/)*

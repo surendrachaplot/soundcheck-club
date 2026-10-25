@@ -1,6 +1,6 @@
 # Arlo
 
-Arlo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Roadrunner, Boston on Thu, 25 Mar 2027.
+Arlo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Roadrunner, Boston on Thu, 25 Mar 2027.
 
 Arlo is a house and tech house artist based in Spain, with 18 gigs on soundcheck across Barcelona, Boston, Bristol and Chicago and 6 more. Often billed alongside Elderbrook, Martini Raw and Rules. Next up: Roadrunner, Boston on Thu 25 Mar.
 
@@ -26,4 +26,4 @@ Arlo is a house and tech house artist based in Spain, with 18 gigs on soundcheck
 
 Elderbrook, Martini Raw, Rules
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo/)*

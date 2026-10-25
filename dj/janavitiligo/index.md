@@ -1,6 +1,6 @@
 # Jana Vitiligo
 
-Jana Vitiligo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
+Jana Vitiligo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
 
 Jana Vitiligo is a house and tech house artist based in Belgium, with 10 gigs on soundcheck across Amsterdam, Antwerp, Düsseldorf and Ghent and 1 more. Often billed alongside Major K, Judoc and Femmebot Grooves. Next up: Sol y Luna Lounge & Club, Düsseldorf on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Jana Vitiligo is a house and tech house artist based in Belgium, with 10 gigs on
 
 Major K, Judoc, Femmebot Grooves
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janavitiligo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janavitiligo/)*

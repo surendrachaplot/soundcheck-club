@@ -1,14 +1,13 @@
 # Sacré
 
-Sacré is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Sacré présente: Pastel & Axelle Maga" on Sat, 24 Oct 2026.
+Sacré is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Sacré présente: Butch & Family Matters" on Fri, 30 Oct 2026.
 
-Sacré is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including Axelle Maga, Baccus, Butch and Daisybelle and 2 more. See dates, start times and who's playing. 142 rue montmartre 75002 Paris.
+Sacré is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Baccus, Butch, Daisybelle and Duskus and 2 more. See dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Sacré présente: Pastel & Axelle Maga | Axelle Maga |
 | Fri, 30 Oct 2026 | Sacré présente: Butch & Family Matters | Butch, Family Matters |
 | Sat, 31 Oct 2026 | Halloween Costume Party: Baccus All Night Long | Baccus |
 | Fri, 6 Nov 2026 | Dusky présent Signals Tour | Dusky, Messes Basses |
@@ -23,4 +22,4 @@ Sacré is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with li
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

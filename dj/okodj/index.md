@@ -1,6 +1,6 @@
 # OKO DJ
 
-OKO DJ is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at San Francisco, Amsterdam on Sun, 25 Oct 2026.
+OKO DJ is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at San Francisco, Amsterdam on Sun, 25 Oct 2026.
 
 OKO DJ is an experimental and techno artist based in France, with 103 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Eiger Drums Propaganda, Nosedrip and Judaah. Next up: San Francisco, Amsterdam on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ OKO DJ is an experimental and techno artist based in France, with 103 gigs on so
 
 Eiger Drums Propaganda, Nosedrip, Judaah
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okodj/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okodj/)*

@@ -1,6 +1,6 @@
 # 22nd Coffee Shop & Bar
 
-22nd Coffee Shop & Bar is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "[FREE] SOUND OF FEELINGS: HALLOWEEN MELODIC TECHNO AND DEEP HOUSE PARTY" on Sat, 31 Oct 2026.
+22nd Coffee Shop & Bar is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "[FREE] SOUND OF FEELINGS: HALLOWEEN MELODIC TECHNO AND DEEP HOUSE PARTY" on Sat, 31 Oct 2026.
 
 22nd Coffee Shop & Bar is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including SURJAL and Wiikii. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | [FREE] SOUND OF FEELINGS: HALLOWEEN MELODIC TECHNO AND DEEP HOUSE PARTY | SURJAL, Wiikii |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/22nd-coffee-shop-bar/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/22nd-coffee-shop-bar/)*

@@ -1,6 +1,6 @@
 # Dito
 
-Dito is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bassiani, Tbilisi on Sat, 7 Nov 2026.
+Dito is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bassiani, Tbilisi on Sat, 7 Nov 2026.
 
 Dito is a house and techno artist based in Georgia, with 56 gigs on soundcheck across Berlin, Copenhagen, Munich and San Francisco/Oakland and 2 more. Often billed alongside Kvanchi, Sophie Phare and Newa. Next up: Bassiani, Tbilisi on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Dito is a house and techno artist based in Georgia, with 56 gigs on soundcheck a
 
 Kvanchi, Sophie Phare, Newa
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dito/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dito/)*

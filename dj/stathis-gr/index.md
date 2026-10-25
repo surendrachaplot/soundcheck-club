@@ -1,14 +1,13 @@
 # Stathis (GR)
 
-Stathis (GR) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at KREUZWERK, Berlin on Fri, 23 Oct 2026.
+Stathis (GR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
 
-Stathis (GR) is a house and techno artist, with 61 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Luigi Di Venere, Maria Politi and Chris Cruse. Next up: KREUZWERK, Berlin on Fri 23 Oct.
+Stathis (GR) is a house and techno artist, with 61 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Luigi Di Venere, Maria Politi and Chris Cruse. Next up: Circolo Amelia, Milan on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | KREUZWERK | Berlin |
 | Sat, 7 Nov 2026 | Circolo Amelia | Milan |
 
 ## Recently played
@@ -26,4 +25,4 @@ Stathis (GR) is a house and techno artist, with 61 gigs on soundcheck across Ams
 
 Luigi Di Venere, Maria Politi, Chris Cruse
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stathis-gr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stathis-gr/)*

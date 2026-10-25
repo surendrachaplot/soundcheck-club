@@ -1,6 +1,6 @@
 # Cult Cruise at Red River Cruise
 
-Cult Cruise at Red River Cruise on Sat 31 Oct, Hanoi. 5 artists: Emmytee, HDMI?, Sacre and Simon Felix and 1 more. Acid and Electronica. See the line-up on soundcheck.
+Cult Cruise at Red River Cruise on Sat 31 Oct, Hanoi. 7 artists: Akatsuki, Emmytee, HDMI? and NaiBan and 3 more. Acid and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Cult Cruise at Red River Cruise on Sat 31 Oct, Hanoi. 5 artists: Emmytee, HDMI?,
 
 ## Line-up
 
+- Akatsuki
 - Emmytee
 - HDMI?
+- NaiBan
 - Sacre
 - Simon Felix
 - unpurist

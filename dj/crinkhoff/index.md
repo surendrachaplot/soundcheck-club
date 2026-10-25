@@ -1,6 +1,6 @@
 # Crinkhoff
 
-Crinkhoff is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
+Crinkhoff is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
 
 Crinkhoff is a house and techno artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Stëfän Däniëls, DJ Delivero and ESTRELLA. Next up: Garage Noord, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Crinkhoff is a house and techno artist based in Netherlands, with 15 gigs on sou
 
 Stëfän Däniëls, DJ Delivero, ESTRELLA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crinkhoff/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crinkhoff/)*

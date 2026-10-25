@@ -1,6 +1,6 @@
 # AROHA
 
-AROHA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+AROHA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 AROHA is a house and techno artist based in New Zealand, with 15 gigs on soundcheck across Auckland, London, Melbourne and Singapore and 1 more. Often billed alongside Mike Callander, Out Of Sorts and Harvey Sutherland. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -26,4 +26,4 @@ AROHA is a house and techno artist based in New Zealand, with 15 gigs on soundch
 
 Mike Callander, Out Of Sorts, Harvey Sutherland
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aroha/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aroha/)*

@@ -1,6 +1,6 @@
 # 93kb
 
-93kb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Klub K4, Ljubljana on Sat, 14 Nov 2026.
+93kb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Klub K4, Ljubljana on Sat, 14 Nov 2026.
 
 93kb is a house and techno artist based in Slovenia, with 13 gigs on soundcheck across Ljubljana. Often billed alongside Akaj, Lottie (SI) and Mornik. Next up: Klub K4, Ljubljana on Sat 14 Nov.
 
@@ -25,4 +25,4 @@
 
 Akaj, Lottie (SI), Mornik
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/93kb/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/93kb/)*

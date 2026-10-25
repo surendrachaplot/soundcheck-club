@@ -1,6 +1,6 @@
 # Tomocomo
 
-Tomocomo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at レコードコンビニ, Tokyo on Sat, 31 Oct 2026.
+Tomocomo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at レコードコンビニ, Tokyo on Sat, 31 Oct 2026.
 
 Tomocomo is a techno and trance artist based in Japan, with 30 gigs on soundcheck across Tokyo. Often billed alongside Jun Jikooha, Do Shock Booze and Funky Gong. Next up: レコードコンビニ, Tokyo on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Tomocomo is a techno and trance artist based in Japan, with 30 gigs on soundchec
 
 Jun Jikooha, Do Shock Booze, Funky Gong
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomocomo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomocomo/)*

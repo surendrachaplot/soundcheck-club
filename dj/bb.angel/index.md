@@ -1,6 +1,6 @@
 # BB. angel
 
-BB. angel is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at OHM, Berlin on Sat, 5 Dec 2026.
+BB. angel is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at OHM, Berlin on Sat, 5 Dec 2026.
 
 BB. angel is a trance and techno artist, with 8 gigs on soundcheck across Berlin and Prague. Often billed alongside Ayū, Fiona and Georgia Bird. Next up: OHM, Berlin on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ BB. angel is a trance and techno artist, with 8 gigs on soundcheck across Berlin
 
 Ayū (1), Fiona (2), Georgia Bird
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bb.angel/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bb.angel/)*

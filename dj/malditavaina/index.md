@@ -1,8 +1,8 @@
 # Maldita Vaina
 
-Maldita Vaina is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Dabadaba, North on Sat, 31 Oct 2026.
+Maldita Vaina is a Reggaeton and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Dabadaba, North on Sat, 31 Oct 2026.
 
-Maldita Vaina is a club and bass artist based in Dominican Republic, with 12 gigs on soundcheck across Berlin, Houston, Leeds and London and 3 more. Often billed alongside Total XTC, ARMANA KHAN and ASHTREY. Next up: Dabadaba, North on Sat 31 Oct.
+Maldita Vaina is a reggaeton and club artist based in Dominican Republic, with 13 gigs on soundcheck across Berlin, Brussels, Houston and Leeds and 4 more. Often billed alongside Total XTC, ARMANA KHAN and ASHTREY. Next up: Dabadaba, North on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maldita Vaina is a club and bass artist based in Dominican Republic, with 12 gig
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Dabadaba | North |
 | Sat, 7 Nov 2026 | Panke | Berlin |
+| Sat, 21 Nov 2026 | KVS | Brussels |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Maldita Vaina is a club and bass artist based in Dominican Republic, with 12 gig
 
 Total XTC, ARMANA KHAN, ASHTREY
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malditavaina/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malditavaina/)*

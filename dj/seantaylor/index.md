@@ -1,6 +1,6 @@
 # Sean Taylor
 
-Sean Taylor is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The California Clipper, Chicago on Tue, 27 Oct 2026.
+Sean Taylor is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The California Clipper, Chicago on Tue, 27 Oct 2026.
 
 Sean Taylor is a house and funk / soul artist based in United States of America, with 16 gigs on soundcheck across Chicago and Liverpool. Often billed alongside Duke Shin, Humboldt Arboreal Soundsystem and Jaq Attaque. Next up: The California Clipper, Chicago on Tue 27 Oct.
 
@@ -26,4 +26,4 @@ Sean Taylor is a house and funk / soul artist based in United States of America,
 
 Duke Shin, Humboldt Arboreal Soundsystem, Jaq Attaque
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seantaylor/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seantaylor/)*

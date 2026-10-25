@@ -1,6 +1,6 @@
 # Lito (1)
 
-Lito (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
+Lito (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
 
 Lito is a house and techno artist based in France, with 8 gigs on soundcheck across Barcelona, Bogotá, Hamburg and Mexico City and 1 more. Often billed alongside Arnau, Arnau Ariza and Bonzo. Next up: Kosmos Karoline, Hamburg on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Lito is a house and techno artist based in France, with 8 gigs on soundcheck acr
 
 Arnau, Arnau Ariza, Bonzo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lito-1/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lito-1/)*

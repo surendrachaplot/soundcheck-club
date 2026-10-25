@@ -1,6 +1,6 @@
 # Amy Unland
 
-Amy Unland is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Chicago - West Town, Chicago on Sat, 31 Oct 2026.
+Amy Unland is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Chicago - West Town, Chicago on Sat, 31 Oct 2026.
 
 Amy Unland is a house and tech house artist, with 52 gigs on soundcheck across Chicago. Often billed alongside Jimmie Page, samantha rad and BRKN. Next up: TBA - Chicago - West Town, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Amy Unland is a house and tech house artist, with 52 gigs on soundcheck across C
 
 Jimmie Page, samantha rad, BRKN
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyunland/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyunland/)*

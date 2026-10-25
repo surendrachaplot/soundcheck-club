@@ -1,19 +1,19 @@
 # Alex Stein
 
-Alex Stein is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
+Alex Stein is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 30 Oct 2026.
 
-Alex Stein is a techno and tech house artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Barcelona and 36 more. Often billed alongside Victor Ruiz, Maurice Mino and AM.I. Next up: Stromwerk Dresden, Dresden on Sat 24 Oct.
+Alex Stein is a techno and tech house artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Barcelona and 36 more. Often billed alongside Victor Ruiz, Maurice Mino and AM.I. Next up: Ritter Butzke, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Stromwerk Dresden | Dresden |
 | Fri, 30 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 5 Dec 2026 | TBA - Hacienda La Luna, Morelos Mexico. | Morelos |
 
 ## Recently played
 
+- Stromwerk Dresden, Dresden · Sat, 24 Oct 2026
 - Crane Hotel Faralda, Amsterdam · Fri, 23 Oct 2026
 - Meet Berlage, Amsterdam · Fri, 23 Oct 2026
 - TBA - WAREHOUSE, Arizona · Fri, 16 Oct 2026
@@ -21,10 +21,9 @@ Alex Stein is a techno and tech house artist based in Germany, with 76 gigs on s
 - Die Rakete, Nürnberg · Fri, 25 Sept 2026
 - TBA - La Biblioteca, San Telmo, Buenos Aires · Fri, 11 Sept 2026
 - Westhafen, Leipzig · Sat, 18 Jul 2026
-- SILO, New York City · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Victor Ruiz, Maurice Mino, AM.I
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexstein/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexstein/)*

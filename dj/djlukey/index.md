@@ -1,8 +1,8 @@
 # DJ Lukey
 
-DJ Lukey is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 22 Jan 2027.
+DJ Lukey is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 22 Jan 2027.
 
-DJ Lukey is a house and breakbeat artist based in United Kingdom, with 35 gigs on soundcheck across Copenhagen. Often billed alongside Sound and Fury, Gavnlig and Tea Lewis. Next up: Pumpehuset, Copenhagen on Fri 22 Jan.
+DJ Lukey is a breakbeat and house artist based in United Kingdom, with 35 gigs on soundcheck across Copenhagen. Often billed alongside Sound and Fury, Gavnlig and Tea Lewis. Next up: Pumpehuset, Copenhagen on Fri 22 Jan.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Lukey is a house and breakbeat artist based in United Kingdom, with 35 gigs o
 
 Sound and Fury, Gavnlig, Tea Lewis
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlukey/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlukey/)*

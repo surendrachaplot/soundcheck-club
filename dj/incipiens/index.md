@@ -1,6 +1,6 @@
 # incipiens
 
-incipiens is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Rama Soundgarden, Medellin on Fri, 30 Oct 2026.
+incipiens is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Rama Soundgarden, Medellin on Fri, 30 Oct 2026.
 
 incipiens is a minimal and house artist, with 31 gigs on soundcheck across Bogotá, Medellin and Tokyo. Often billed alongside Salvador Hören, Hören and Martin Leaves. Next up: Rama Soundgarden, Medellin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ incipiens is a minimal and house artist, with 31 gigs on soundcheck across Bogot
 
 Salvador Hören, Hören, Martin Leaves
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/incipiens/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/incipiens/)*

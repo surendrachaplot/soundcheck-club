@@ -1,6 +1,6 @@
 # Lars Huismann
 
-Lars Huismann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Artheater, Cologne on Sat, 31 Oct 2026.
+Lars Huismann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Artheater, Cologne on Sat, 31 Oct 2026.
 
 Lars Huismann is a techno and house artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 56 more. Often billed alongside SHDW, ANNĒ and Chontane. Next up: Artheater, Cologne on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Lars Huismann is a techno and house artist based in Germany, with 118 gigs on so
 
 SHDW, ANNĒ, Chontane
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*

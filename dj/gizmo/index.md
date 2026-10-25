@@ -1,13 +1,14 @@
 # Gizmo
 
-Gizmo is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
+Gizmo is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
 
-Gizmo is a techno and hardcore artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ghent and 4 more. Often billed alongside Shabiki, Lazykid and Rad.Lez. Next up: Thuishaven, Amsterdam on Sat 7 Nov.
+Gizmo is a techno and hardcore artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ghent and 4 more. Often billed alongside Lazykid, Shabiki and Rad.Lez. Next up: KitKatClub, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | KitKatClub | Berlin |
 | Sat, 7 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 5 Dec 2026 | export | Rotterdam |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
@@ -26,6 +27,6 @@ Gizmo is a techno and hardcore artist based in Germany, with 30 gigs on soundche
 
 ## Shares bills with
 
-Shabiki, Lazykid, Rad.Lez
+Lazykid, Shabiki, Rad.Lez
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gizmo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gizmo/)*

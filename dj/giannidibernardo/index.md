@@ -1,6 +1,6 @@
 # Gianni Di Bernardo
 
-Gianni Di Bernardo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Autodromo di Imola, Central on Sat, 31 Oct 2026.
+Gianni Di Bernardo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Autodromo di Imola, Central on Sat, 31 Oct 2026.
 
 Gianni Di Bernardo is a techno and industrial artist based in Italy, with 55 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 21 more. Often billed alongside Luca Agnelli, Mattia Trani and Paolo Ferrara. Next up: TBA - Autodromo di Imola, Central on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gianni Di Bernardo is a techno and industrial artist based in Italy, with 55 gig
 
 Luca Agnelli, Mattia Trani, Paolo Ferrara
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*

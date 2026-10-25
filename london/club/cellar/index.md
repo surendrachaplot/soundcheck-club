@@ -1,6 +1,6 @@
 # Cellar
 
-Cellar is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Kaleido Vol.2 at Cellar Dalston" on Sat, 31 Oct 2026.
+Cellar is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Kaleido Vol.2 at Cellar Dalston" on Sat, 31 Oct 2026.
 
 Cellar is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Aaron Burr, DJ Himitsu, Earth2Sam and Finn Nelson and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Cellar is a music venue in London listed on soundcheck. 5 upcoming gigs, with li
 | Sat, 28 Nov 2026 | Subterrain Records presents: Slim & Juliana Branco | Aaron Burr (2), Juliana Branco, Max Fisher, Slim (IE) |
 | Fri, 11 Dec 2026 | InSenses | Kreshik, Studio Batsumi |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cellar/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cellar/)*

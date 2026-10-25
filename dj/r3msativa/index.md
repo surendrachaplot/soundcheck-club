@@ -1,6 +1,6 @@
 # R3m Sativa
 
-R3m Sativa is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ulana's, Philadelphia on Fri, 30 Oct 2026.
+R3m Sativa is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ulana's, Philadelphia on Fri, 30 Oct 2026.
 
 R3m Sativa is a club and techno artist, with 20 gigs on soundcheck across New York City and Philadelphia. Often billed alongside lorboo, ONEELEVEN and Caiya. Next up: Ulana's, Philadelphia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ R3m Sativa is a club and techno artist, with 20 gigs on soundcheck across New Yo
 
 lorboo, ONEELEVEN, Caiya
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r3msativa/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r3msativa/)*

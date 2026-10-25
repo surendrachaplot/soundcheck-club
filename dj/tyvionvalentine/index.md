@@ -1,6 +1,6 @@
 # Tyvion Valentine
 
-Tyvion Valentine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Next Door Records Two, London on Sat, 14 Nov 2026.
+Tyvion Valentine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Next Door Records Two, London on Sat, 14 Nov 2026.
 
 Tyvion Valentine is a house and techno artist based in United Kingdom, with 16 gigs on soundcheck across Dublin and London. Often billed alongside iasc, DIEBYVEG and DJ-CK. Next up: Next Door Records Two, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Tyvion Valentine is a house and techno artist based in United Kingdom, with 16 g
 
 iasc, DIEBYVEG, DJ-CK
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyvionvalentine/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyvionvalentine/)*

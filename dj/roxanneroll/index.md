@@ -1,14 +1,13 @@
 # Roxanne Roll
 
-Roxanne Roll is a Disco and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Zebulon, Los Angeles on Sat, 24 Oct 2026.
+Roxanne Roll is a Disco and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at ZeyZey, Miami on Fri, 30 Oct 2026.
 
-Roxanne Roll is a disco and house artist based in United States of America, with 109 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 38 more. Often billed alongside Fleetmac Wood, Alex Oxley and Horror Hi-Fi. Next up: Zebulon, Los Angeles on Sat 24 Oct.
+Roxanne Roll is a disco and house artist based in United States of America, with 109 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 38 more. Often billed alongside Fleetmac Wood, Alex Oxley and Horror Hi-Fi. Next up: ZeyZey, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Zebulon | Los Angeles |
 | Fri, 30 Oct 2026 | ZeyZey | Miami |
 | Fri, 30 Oct 2026 | ZeyZey | Miami |
 | Sat, 31 Oct 2026 | Public Works | San Francisco/Oakland |
@@ -19,6 +18,7 @@ Roxanne Roll is a disco and house artist based in United States of America, with
 
 ## Recently played
 
+- Zebulon, Los Angeles · Sat, 24 Oct 2026
 - Kiku Room, San Diego · Fri, 23 Oct 2026
 - House of Yes, New York City · Fri, 16 Oct 2026
 - The Social, London · Fri, 25 Sept 2026
@@ -26,10 +26,9 @@ Roxanne Roll is a disco and house artist based in United States of America, with
 - The Social, London · Fri, 26 Jun 2026
 - TBA - 1566 Carroll Ave, San Francisco, CA 94124, San Francisco/Oakland · Sat, 6 Jun 2026
 - Gold Diggers, Los Angeles · Thu, 28 May 2026
-- Club Tee Gee, Los Angeles · Fri, 8 May 2026
 
 ## Shares bills with
 
 Fleetmac Wood, Alex Oxley, Horror Hi-Fi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanneroll/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxanneroll/)*

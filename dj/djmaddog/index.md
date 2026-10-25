@@ -1,6 +1,6 @@
 # DJ maddog
 
-DJ maddog is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Then House 29 locust street. Brooklyn, New York City on Thu, 29 Oct 2026.
+DJ maddog is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Then House 29 locust street. Brooklyn, New York City on Thu, 29 Oct 2026.
 
 DJ maddog is a club and hardcore artist based in United States of America, with 53 gigs on soundcheck across Boston, Brussels, Byron Bay and Cardiff and 13 more. Often billed alongside Chelita, Replicator and Roiju. Next up: TBA - Then House 29 locust street. Brooklyn, New York City on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ DJ maddog is a club and hardcore artist based in United States of America, with 
 
 Chelita, Replicator, Roiju
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog/)*

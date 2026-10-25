@@ -1,6 +1,6 @@
 # FUL Kyoto
 
-FUL Kyoto is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "FUL FRIDAY" on Fri, 30 Oct 2026.
+FUL Kyoto is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "FUL FRIDAY" on Fri, 30 Oct 2026.
 
 FUL Kyoto is a music venue in Kyoto listed on soundcheck. 1 upcoming gig, with line-ups including DJ KAZUMA. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ FUL Kyoto is a music venue in Kyoto listed on soundcheck. 1 upcoming gig, with l
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | FUL FRIDAY | DJ KAZUMA |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/ful-kyoto/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/ful-kyoto/)*

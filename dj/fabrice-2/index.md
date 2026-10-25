@@ -1,6 +1,6 @@
 # Fabrice (2)
 
-Fabrice (2) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Fabrice (2) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Fabrice is a house and afro house artist based in Germany, with 9 gigs on soundcheck across Austria, Berlin, Cologne and Dubai and 3 more. Often billed alongside Chelina Manuhutu, PERFECT TIMING and AKA AKA. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Fabrice is a house and afro house artist based in Germany, with 9 gigs on soundc
 
 Chelina Manuhutu, PERFECT TIMING, AKA AKA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabrice-2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabrice-2/)*

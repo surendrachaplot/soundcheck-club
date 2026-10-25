@@ -1,6 +1,6 @@
 # Aaron Static
 
-Aaron Static is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 6 Nov 2026.
+Aaron Static is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 6 Nov 2026.
 
 Aaron Static is a drum & bass and jungle artist based in Australia, with 12 gigs on soundcheck across Melbourne. Often billed alongside Stackpackers, J-Slyde and MELTA. Next up: QQQ ST. Park, Melbourne on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Aaron Static is a drum & bass and jungle artist based in Australia, with 12 gigs
 
 Stackpackers, J-Slyde, MELTA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronstatic/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronstatic/)*

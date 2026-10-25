@@ -1,14 +1,13 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "VOID x Decadance with Barbellay, Fantomass, Keporkak, MURKEZZI, VOID RIDER" on Sat, 24 Oct 2026.
+Bike Jesus is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "pluko" on Sun, 25 Oct 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including Barbellay, BERLIN, Credit 00 and CRY.NN and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including BERLIN, Credit 00, DARDANELLA and Dash (CZ) and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | VOID x Decadance with Barbellay, Fantomass, Keporkak, MURKEZZI, VOID RIDER | Barbellay, CRY.NN, Fantomass, Keporkak, MURKEZZI, VOID RIDER |
 | Sun, 25 Oct 2026 | pluko |  |
 | Fri, 30 Oct 2026 | glitter.hit meets Transatlantic: Europa + Freestyler + Lux18 + Rama + domizako + TBA | Europa (1), Freestyler (2), Lux18, Rama (2), domizako |
 | Sat, 31 Oct 2026 | ƑƩⱮӾႠӨⱤƩ: Ӈలҝลţల ርลไไĬתּဌ | Mother Menace, SAVBEA, XENEA LUMRA |
@@ -18,9 +17,10 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, wi
 | Sat, 21 Nov 2026 | ACT OF THE BOUNCE X HYPE INSPIRED - Fembot - Diva - RADYK - DARDANELLA - SJ Ghost | DARDANELLA, Diva, Fembot, RADYK |
 | Wed, 2 Dec 2026 | Fejká | Fejká |
 | Fri, 4 Dec 2026 | Tonic Walter | BERLIN, PARIS (AU) |
+| Fri, 11 Dec 2026 | AMOREX X-MAS | Kaotic |
 
 ## Address
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

@@ -1,6 +1,6 @@
 # Younes Jamil
 
-Younes Jamil is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at [119], Berlin on Sat, 31 Oct 2026.
+Younes Jamil is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at [119], Berlin on Sat, 31 Oct 2026.
 
 Younes Jamil is a techno and trance artist based in Germany, with 31 gigs on soundcheck across Berlin, Hamburg and Vienna. Often billed alongside Carl Raban, Frischling and Multifun. Next up: [119], Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Younes Jamil is a techno and trance artist based in Germany, with 31 gigs on sou
 
 Carl Raban, Frischling, Multifun
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/younesjamil/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/younesjamil/)*

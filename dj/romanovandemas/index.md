@@ -1,6 +1,6 @@
 # ROMANO VAN DE MAS
 
-ROMANO VAN DE MAS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at WDM, Hannover on Fri, 30 Oct 2026.
+ROMANO VAN DE MAS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at WDM, Hannover on Fri, 30 Oct 2026.
 
 ROMANO VAN DE MAS is a techno and house artist based in Germany, with 30 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Hannover and 1 more. Often billed alongside Bconscious, Gforty and HAMY. Next up: WDM, Hannover on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ROMANO VAN DE MAS is a techno and house artist based in Germany, with 30 gigs on
 
 Bconscious, Gforty, HAMY
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanovandemas/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanovandemas/)*

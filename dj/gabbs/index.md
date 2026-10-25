@@ -1,14 +1,13 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Under Bron, Stockholm on Sat, 24 Oct 2026.
+Gabbs is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
 
-Gabbs is a house and techno artist based in Italy, with 200 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 46 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Under Bron, Stockholm on Sat 24 Oct.
+Gabbs is a house and techno artist based in Italy, with 200 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 46 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Under Bron | Stockholm |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sat, 31 Oct 2026 | Club Guesthouse | Bucharest |
 | Fri, 6 Nov 2026 | Lasociaciøn | Madrid |
@@ -22,6 +21,7 @@ Gabbs is a house and techno artist based in Italy, with 200 gigs on soundcheck a
 
 ## Recently played
 
+- Under Bron, Stockholm · Sat, 24 Oct 2026
 - Studionotte, Milan · Fri, 23 Oct 2026
 - THE MAGICK BAR, Rome · Sat, 17 Oct 2026
 - Gallery 1986, Vilnius · Fri, 16 Oct 2026
@@ -29,10 +29,9 @@ Gabbs is a house and techno artist based in Italy, with 200 gigs on soundcheck a
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - Fünk, Mexico City · Fri, 18 Sept 2026
 - Bunker, Turin · Sat, 12 Sept 2026
-- Frankielanuit!, Toulouse · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Alexia Glensy, Alex Dima, Cap
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

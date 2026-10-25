@@ -1,6 +1,6 @@
 # Quartyard
 
-Quartyard is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "LED presents Shermanology" on Sat, 7 Nov 2026.
+Quartyard is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "LED presents Shermanology" on Sat, 7 Nov 2026.
 
 Quartyard is a music venue in San Diego listed on soundcheck. 5 upcoming gigs, with line-ups including Bag Raiders, Doc Martin, H-Foundation and J. Worra and 2 more. See dates, start times and who's playing. 1301 Market Street, San Diego, CA.
 
@@ -18,4 +18,4 @@ Quartyard is a music venue in San Diego listed on soundcheck. 5 upcoming gigs, w
 
 1301 Market Street, San Diego, CA, San Diego
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*

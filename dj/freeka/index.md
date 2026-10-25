@@ -1,6 +1,6 @@
 # Freeka
 
-Freeka is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at D9 Aribau, Barcelona on Sat, 7 Nov 2026.
+Freeka is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at D9 Aribau, Barcelona on Sat, 7 Nov 2026.
 
 Freeka is a techno and acid artist based in Italy, with 40 gigs on soundcheck across Barcelona. Often billed alongside ROSS z, DD.MATTS and IZAN CRAMER. Next up: D9 Aribau, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Freeka is a techno and acid artist based in Italy, with 40 gigs on soundcheck ac
 
 ROSS z, DD.MATTS, IZAN CRAMER
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freeka/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freeka/)*

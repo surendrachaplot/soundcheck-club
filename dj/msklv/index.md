@@ -1,6 +1,6 @@
 # MSK (LV)
 
-MSK (LV) is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at H2o6, Riga on Sat, 14 Nov 2026.
+MSK (LV) is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at H2o6, Riga on Sat, 14 Nov 2026.
 
 MSK (LV) is a drum & bass and techno artist, with 34 gigs on soundcheck across Riga. Often billed alongside nummurs, AIVISO and Dispoze. Next up: H2o6, Riga on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MSK (LV) is a drum & bass and techno artist, with 34 gigs on soundcheck across R
 
 nummurs, AIVISO, Dispoze
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msklv/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msklv/)*

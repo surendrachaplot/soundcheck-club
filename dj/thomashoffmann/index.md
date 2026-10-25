@@ -1,6 +1,6 @@
 # Thomas Hoffmann
 
-Thomas Hoffmann is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 13 Nov 2026.
+Thomas Hoffmann is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 13 Nov 2026.
 
 Thomas Hoffmann is a techno and acid artist based in Germany, with 16 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Syrtaki, Jonas Hilkert and Rafush. Next up: Golden Pudel Club, Hamburg on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Thomas Hoffmann is a techno and acid artist based in Germany, with 16 gigs on so
 
 Syrtaki, Jonas Hilkert, Rafush
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomashoffmann/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomashoffmann/)*

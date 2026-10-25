@@ -1,18 +1,18 @@
 # Ornery
 
-Ornery is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Balou Bar, Amsterdam on Sat, 24 Oct 2026.
+Ornery is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Baggerbeest, Amsterdam on Sun, 25 Oct 2026.
 
-Ornery is a progressive house and techno artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Dubai and 4 more. Often billed alongside Barbur, POLS and 6RAJ. Next up: TBA - Balou Bar, Amsterdam on Sat 24 Oct.
+Ornery is a progressive house and techno artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Dubai and 4 more. Often billed alongside Barbur, POLS and 6RAJ. Next up: Club Baggerbeest, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA - Balou Bar | Amsterdam |
 | Sun, 25 Oct 2026 | Club Baggerbeest | Amsterdam |
 
 ## Recently played
 
+- TBA - Balou Bar, Amsterdam · Sat, 24 Oct 2026
 - 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam · Fri, 23 Oct 2026
 - TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Matrix Club Berlin (Techno Stage), Berlin · Sat, 26 Sept 2026
@@ -20,10 +20,9 @@ Ornery is a progressive house and techno artist based in Italy, with 23 gigs on 
 - Matrix Club Berlin, Berlin · Sat, 25 Jul 2026
 - Matrix Club Berlin (Techno Stage), Berlin · Fri, 12 Jun 2026
 - Birgit, Berlin · Fri, 29 May 2026
-- Birgit, Berlin · Fri, 29 May 2026
 
 ## Shares bills with
 
 Barbur, POLS, 6RAJ
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ornery/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ornery/)*

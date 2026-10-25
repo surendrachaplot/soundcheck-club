@@ -1,13 +1,14 @@
 # Centrific
 
-Centrific is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at smartbar, Chicago on Sat, 14 Nov 2026.
+Centrific is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sun, 25 Oct 2026.
 
-Centrific is a techno and house artist based in United States of America, with 45 gigs on soundcheck across Chicago, Denver, Detroit and Los Angeles and 7 more. Often billed alongside Dustin Zahn, Christian James and Lonefront. Next up: smartbar, Chicago on Sat 14 Nov.
+Centrific is a techno and house artist based in United States of America, with 46 gigs on soundcheck across Chicago, Denver, Detroit and Los Angeles and 7 more. Often billed alongside Dustin Zahn, Christian James and Lonefront. Next up: TBA - Los Angeles, Los Angeles on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 14 Nov 2026 | smartbar | Chicago |
 | Sat, 21 Nov 2026 | TBA - TRXX WRHS | Minneapolis-st-paul |
 
@@ -26,4 +27,4 @@ Centrific is a techno and house artist based in United States of America, with 4
 
 Dustin Zahn, Christian James, Lonefront
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/centrific/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/centrific/)*

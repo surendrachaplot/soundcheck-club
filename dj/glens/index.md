@@ -1,6 +1,6 @@
 # Glen S
 
-Glen S is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
+Glen S is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
 
 Glen S is a progressive house and trance artist based in Australia, with 36 gigs on soundcheck across Berlin, Byron Bay, Chengdu and Chicago and 11 more. Often billed alongside Abdul Raeva, Akirahawks and Alfred Czital. Next up: TBA - 2 Hours from Sydney, Sydney on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Glen S is a progressive house and trance artist based in Australia, with 36 gigs
 
 Abdul Raeva, Akirahawks, Alfred Czital
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glens/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glens/)*

@@ -1,6 +1,6 @@
 # Lilith
 
-Lilith is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at FVTVR, Paris on Sat, 14 Nov 2026.
+Lilith is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at FVTVR, Paris on Sat, 14 Nov 2026.
 
 Lilith is a techno and industrial artist based in Netherlands, with 34 gigs on soundcheck across Birmingham, Chengdu, Chongqing and Dundee and 7 more. Often billed alongside pretzelz, ARTISAH and Bleach. Next up: FVTVR, Paris on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Lilith is a techno and industrial artist based in Netherlands, with 34 gigs on s
 
 pretzelz, ARTISAH, Bleach
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilith/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilith/)*

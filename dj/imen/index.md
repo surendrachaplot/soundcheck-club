@@ -1,6 +1,6 @@
 # IMEN
 
-IMEN is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+IMEN is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 IMEN is a house and afro house artist based in Iran, with 21 gigs on soundcheck across Amsterdam, Bali, Cologne and Dubai and 4 more. Often billed alongside ATMEN, Affani and Audera. Next up: TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ IMEN is a house and afro house artist based in Iran, with 21 gigs on soundcheck 
 
 ATMEN, Affani, Audera
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imen/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imen/)*

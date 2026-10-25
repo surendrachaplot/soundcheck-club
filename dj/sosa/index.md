@@ -1,6 +1,6 @@
 # Sosa
 
-Sosa is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Sosa is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
 Sosa is a tech house and house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 20 more. Often billed alongside East End Dubs, FISHER and Paco Osuna. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Sosa is a tech house and house artist based in United States of America, with 79
 
 East End Dubs, FISHER, Paco Osuna
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa/)*

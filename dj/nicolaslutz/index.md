@@ -1,6 +1,6 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
+Nicolas Lutz is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
 
 Nicolas Lutz is a techno and house artist based in Uruguay, with 185 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Garage Noord, Amsterdam on Sun 25 Oct.
 
@@ -36,4 +36,4 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 185 gigs on sou
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

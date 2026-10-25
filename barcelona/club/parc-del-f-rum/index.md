@@ -1,6 +1,6 @@
 # Parc del Fòrum
 
-Parc del Fòrum is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "KINYXX Open Air Halloween [Balla Barcelona Festival]" on Fri, 30 Oct 2026.
+Parc del Fòrum is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "KINYXX Open Air Halloween [Balla Barcelona Festival]" on Fri, 30 Oct 2026.
 
 Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including 6EJOU, AARON SEVILLA, ANJELIKA SAHAKIAN and CASSIMM and 2 more. See dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
 
@@ -12,12 +12,12 @@ Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 7 upcoming g
 | Fri, 30 Oct 2026 | Fury 3rd Anniversary [DAY 1] x Halloween [Balla Barcelona Festival] | 6EJOU, Cristobal Pesce, DYEN, Hádes, Mad Dog, Nyctonian, Revenja, Rowsi |
 | Fri, 30 Oct 2026 | AFRODISE Barcelona Halloween [Balla Barcelona Festival] | AARON SEVILLA |
 | Fri, 30 Oct 2026 | CLOSA SELECTS w/ MRAK - Open Air Halloween [Balla Barcelona Festival] | MARTISTA, MRAK, NIIXII, no_ip |
-| Sat, 31 Oct 2026 | Jackies Open Air Halloween [Balla Barcelona Festival] | CASSIMM, Claptone, GIVIO, Grace Kim, Matisa, Mr. Belt & Wezol, Paul Reynolds, Piem, Ross From Friends, Sarah Andersson |
-| Sat, 31 Oct 2026 | Throwback Open Air Halloween [Balla Barcelona Festival] | Mr Majestyk |
-| Sat, 31 Oct 2026 | Hop on The Top Open Air Halloween [Balla Barcelona Festival] | DJ AMAZING, Hector Hope, Suko |
+| Sat, 31 Oct 2026 | ALMOST SOLD OUT * Jackies Open Air Halloween [Balla Barcelona Festival] | CASSIMM, Claptone, GIVIO, Grace Kim, Matisa, Mr. Belt & Wezol, Paul Reynolds, Piem, Ross From Friends, Sarah Andersson |
+| Sat, 31 Oct 2026 | ALMOST SOLD OUT * Throwback Open Air Halloween [Balla Barcelona Festival] | Mr Majestyk |
+| Sat, 31 Oct 2026 | ALMOST SOLD OUT * Hop on The Top Open Air Halloween [Balla Barcelona Festival] | DJ AMAZING, Hector Hope, Suko |
 
 ## Address
 
 Rambla Prim, 2-4; 08019 Barcelona; Spain, Barcelona
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*

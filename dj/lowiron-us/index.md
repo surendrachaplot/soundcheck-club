@@ -1,6 +1,6 @@
 # low iron
 
-low iron is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Barbary, Philadelphia on Fri, 30 Oct 2026.
+low iron is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Barbary, Philadelphia on Fri, 30 Oct 2026.
 
 low iron is a techno and club artist, with 97 gigs on soundcheck across New York City, Philadelphia, Pittsburgh and Washington DC. Often billed alongside Phreakwency, Nail Salon and JEWELSSEA. Next up: The Barbary, Philadelphia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ low iron is a techno and club artist, with 97 gigs on soundcheck across New York
 
 Phreakwency, Nail Salon (2), JEWELSSEA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowiron-us/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowiron-us/)*

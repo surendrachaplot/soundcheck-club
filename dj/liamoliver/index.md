@@ -1,6 +1,6 @@
 # Liam Oliver
 
-Liam Oliver is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
+Liam Oliver is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
 
 Liam Oliver is a house and italo disco artist based in United Kingdom, with 17 gigs on soundcheck across Manchester. Often billed alongside Tom2trax, James Greenwood and Aiden Francis. Next up: Honey Street Studio, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Liam Oliver is a house and italo disco artist based in United Kingdom, with 17 g
 
 Tom2trax, James Greenwood, Aiden Francis
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liamoliver/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liamoliver/)*

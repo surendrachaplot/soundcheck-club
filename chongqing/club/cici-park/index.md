@@ -1,14 +1,13 @@
 # Cici Park
 
-Cici Park is a music venue in Chongqing with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "「LINK」pres. Jan Golly" on Sat, 24 Oct 2026.
+Cici Park is a music venue in Chongqing with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Open Deck @cicipark" on Wed, 28 Oct 2026.
 
-Cici Park is a music venue in Chongqing listed on soundcheck. 6 upcoming gigs, with line-ups including A-Tweed, BONZ, Chouchou and DE FEO and 2 more. See dates, start times and who's playing. Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）.
+Cici Park is a music venue in Chongqing listed on soundcheck. 5 upcoming gigs, with line-ups including A-Tweed, BONZ, DE FEO and Jamira Estrada and 2 more. See dates, start times and who's playing. Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | 「LINK」pres. Jan Golly | Chouchou, Jan Golly |
 | Wed, 28 Oct 2026 | Open Deck @cicipark | BONZ (3) |
 | Fri, 30 Oct 2026 | CICI Halloween Day 1 | Jamira Estrada, NVST, Sunyoung |
 | Sat, 31 Oct 2026 | Cici Halloween Day 2 |  |
@@ -19,4 +18,4 @@ Cici Park is a music venue in Chongqing listed on soundcheck. 6 upcoming gigs, w
 
 Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）, Chongqing
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/cici-park/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/cici-park/)*

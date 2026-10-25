@@ -1,13 +1,14 @@
 # Mars (FR)
 
-Mars (FR) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at ZUBAR, Tokyo on Sat, 14 Nov 2026.
+Mars (FR) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at ZUBAR, Tokyo on Fri, 13 Nov 2026.
 
-Mars (FR) is a techno and house artist based in France, with 10 gigs on soundcheck across Buenos Aires, Chicago, Lyon and Madrid and 1 more. Often billed alongside ANiIIIIiiiKii, Adorio and Amy Unland. Next up: ZUBAR, Tokyo on Sat 14 Nov.
+Mars (FR) is a techno and house artist based in France, with 11 gigs on soundcheck across Buenos Aires, Chicago, Lyon and Madrid and 1 more. Often billed alongside ANiIIIIiiiKii, Adorio and Amy Unland. Next up: ZUBAR, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | ZUBAR | Tokyo |
 | Sat, 14 Nov 2026 | ZUBAR | Tokyo |
 | Fri, 20 Nov 2026 | ZUBAR | Tokyo |
 
@@ -26,4 +27,4 @@ Mars (FR) is a techno and house artist based in France, with 10 gigs on soundche
 
 ANiIIIIiiiKii, Adorio, Amy Unland
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsfr-fr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsfr-fr/)*

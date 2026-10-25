@@ -1,6 +1,6 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sun, 25 Oct 2026.
+PAWSA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sun, 25 Oct 2026.
 
 PAWSA is a house and tech house artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Dennis Cruz, Silvie Loto and Seth Troxler. Next up: Taets Art & Event Park, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ PAWSA is a house and tech house artist based in United Kingdom, with 156 gigs on
 
 Dennis Cruz, Silvie Loto, Seth Troxler
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

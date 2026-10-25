@@ -1,14 +1,13 @@
 # Shrine Auditorium and Expo Hall
 
-Shrine Auditorium and Expo Hall is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Madeon presents Victory Live" on Sat, 24 Oct 2026.
+Shrine Auditorium and Expo Hall is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "ZULAN" on Fri, 6 Nov 2026.
 
-Shrine Auditorium and Expo Hall is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Afrojack, ali rq, Brutalismus 3000 and deBasement and 2 more. See dates, start times and who's playing. 665 W. Jefferson Blvd, Los Angeles, CA 90007.
+Shrine Auditorium and Expo Hall is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Afrojack, ali rq, Brutalismus 3000 and deBasement and 2 more. See dates, start times and who's playing. 665 W. Jefferson Blvd, Los Angeles, CA 90007.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Madeon presents Victory Live | Madeon |
 | Fri, 6 Nov 2026 | ZULAN |  |
 | Thu, 19 Nov 2026 | Brutalismus 3000 | Brutalismus 3000, Eurohead, OZA, ali rq, deBasement |
 | Fri, 27 Nov 2026 | Afrojack presents: CONTROL | Afrojack |
@@ -19,4 +18,4 @@ Shrine Auditorium and Expo Hall is a music venue in Los Angeles listed on soundc
 
 665 W. Jefferson Blvd, Los Angeles, CA 90007, Los Angeles
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/shrine-auditorium-and-expo-hall/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/shrine-auditorium-and-expo-hall/)*

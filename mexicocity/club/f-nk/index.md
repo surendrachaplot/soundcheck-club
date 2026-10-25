@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Nesta + Eugle + Emmë" on Fri, 23 Oct 2026.
+Fünk is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "QUERICO Tokyo: Move D + Hanzo Tono + Lily" on Sat, 24 Oct 2026.
 
-Fünk is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, with line-ups including Âme, Boyá, chldrns and Dj Luigi and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including Âme, Boyá, chldrns and Dj Luigi and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Nesta + Eugle + Emmë | Nesta |
 | Sat, 24 Oct 2026 | QUERICO Tokyo: Move D + Hanzo Tono + Lily | Hanzo Tono, Lily (JP), Move D |
 | Thu, 29 Oct 2026 | Lamore Night x Fünk | Dj Luigi, Gallō, chldrns |
 | Fri, 30 Oct 2026 | Âme DJ + Mystery Affair + Paulor | Mystery Affair, Paulor, Âme |
@@ -22,4 +21,4 @@ Fünk is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, wit
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

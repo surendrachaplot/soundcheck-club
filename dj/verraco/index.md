@@ -1,14 +1,13 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 24 Oct 2026.
+Verraco is a Techno and Bass artist with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hive Club, Zurich on Fri, 30 Oct 2026.
 
-Verraco is a techno and bass artist based in Colombia, with 180 gigs on soundcheck across Amsterdam, Athens, Atlanta and Baltimore and 52 more. Often billed alongside Bitter Babe, Batu and CCL. Next up: Radio Radio, Amsterdam on Sat 24 Oct.
+Verraco is a techno and bass artist based in Colombia, with 180 gigs on soundcheck across Amsterdam, Athens, Atlanta and Baltimore and 52 more. Often billed alongside Bitter Babe, Batu and CCL. Next up: Hive Club, Zurich on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Radio Radio | Amsterdam |
 | Fri, 30 Oct 2026 | Hive Club | Zurich |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | Marble Bar | Detroit |
@@ -20,9 +19,11 @@ Verraco is a techno and bass artist based in Colombia, with 180 gigs on soundche
 | Sat, 5 Dec 2026 | TBA | Mexico City |
 | Thu, 18 Feb 2027 | Bozar | Brussels |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
+| Fri, 28 May 2027 | Peckham Rye Park | London |
 
 ## Recently played
 
+- Radio Radio, Amsterdam · Sat, 24 Oct 2026
 - Bajes Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Nitsa Club, Barcelona · Sat, 17 Oct 2026
 - The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ Verraco is a techno and bass artist based in Colombia, with 180 gigs on soundche
 - TBA, Bogotá · Sat, 26 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
-- La Piel Roja, Bogotá · Wed, 9 Sept 2026
 
 ## Shares bills with
 
 Bitter Babe, Batu, CCL
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

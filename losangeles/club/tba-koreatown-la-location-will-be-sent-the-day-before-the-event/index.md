@@ -1,6 +1,6 @@
 # TBA - Koreatown, LA. (Location will be sent the day before the event)
 
-TBA - Koreatown, LA. (Location will be sent the day before the event) is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "E.N.D. presents: Halloween Rooftop Rave" on Sat, 31 Oct 2026.
+TBA - Koreatown, LA. (Location will be sent the day before the event) is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "E.N.D. presents: Halloween Rooftop Rave" on Sat, 31 Oct 2026.
 
 TBA - Koreatown, LA. (Location will be sent the day before the event) is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Koreatown, LA. (Location will be sent the day before the event) is a music
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | E.N.D. presents: Halloween Rooftop Rave |  |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-koreatown-la-location-will-be-sent-the-day-before-the-event/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-koreatown-la-location-will-be-sent-the-day-before-the-event/)*

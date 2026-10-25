@@ -1,14 +1,13 @@
 # Cristina Lazic
 
-Cristina Lazic is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
+Cristina Lazic is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at BRET, Amsterdam on Sun, 25 Oct 2026.
 
-Cristina Lazic is a house and tech house artist based in Italy, with 93 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 26 more. Often billed alongside East End Dubs, Joseph Capriati and Hot Since 82. Next up: Yellow House, Amsterdam on Sat 24 Oct.
+Cristina Lazic is a house and tech house artist based in Italy, with 93 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 26 more. Often billed alongside East End Dubs, Joseph Capriati and Hot Since 82. Next up: BRET, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Sun, 25 Oct 2026 | BRET | Amsterdam |
 | Sat, 7 Nov 2026 | TBA | Dubai |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
@@ -19,6 +18,7 @@ Cristina Lazic is a house and tech house artist based in Italy, with 93 gigs on 
 
 ## Recently played
 
+- Yellow House, Amsterdam · Sat, 24 Oct 2026
 - Department 184, Milan · Fri, 9 Oct 2026
 - Department 184, Milan · Fri, 9 Oct 2026
 - Het Sieraad, Amsterdam · Fri, 2 Oct 2026
@@ -26,10 +26,9 @@ Cristina Lazic is a house and tech house artist based in Italy, with 93 gigs on 
 - Balagan Roma, Rome · Fri, 18 Sept 2026
 - Les Enfants Brillants, Barcelona · Fri, 28 Aug 2026
 - Quinta do Miratejo, Lisbon · Sun, 16 Aug 2026
-- Collect - Cais do Sodre, Lisbon · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 East End Dubs, Joseph Capriati, Hot Since 82
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*

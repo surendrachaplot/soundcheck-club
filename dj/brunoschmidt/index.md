@@ -1,6 +1,6 @@
 # Bruno Schmidt
 
-Bruno Schmidt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Private Location, Seattle on Sat, 24 Oct 2026.
+Bruno Schmidt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Private Location, Seattle on Sat, 24 Oct 2026.
 
 Bruno Schmidt is a house and techno artist based in United Kingdom, with 156 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 43 more. Often billed alongside Andrew James Gustav, Morgan and Emsho. Next up: TBA - Private Location, Seattle on Sat 24 Oct.
 
@@ -13,6 +13,7 @@ Bruno Schmidt is a house and techno artist based in United Kingdom, with 156 gig
 
 ## Recently played
 
+- TBA - Private Location, Seattle · Sat, 24 Oct 2026
 - Green Room NYC, New York City · Sat, 26 Sept 2026
 - Green Room NYC, New York City · Thu, 24 Sept 2026
 - Toekomstmuziek, Amsterdam · Fri, 11 Sept 2026
@@ -20,10 +21,9 @@ Bruno Schmidt is a house and techno artist based in United Kingdom, with 156 gig
 - THE MAGICK BAR, Rome · Sat, 5 Sept 2026
 - Rūmu, Lisbon · Wed, 22 Jul 2026
 - Club der Visionaere, Berlin · Wed, 15 Jul 2026
-- Oven Club, Valencia · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Andrew James Gustav, Morgan, Emsho
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*

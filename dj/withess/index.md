@@ -1,6 +1,6 @@
 # With Ess
 
-With Ess is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
+With Ess is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
 
 With Ess is a house and techno artist based in Australia, with 15 gigs on soundcheck across Melbourne. Often billed alongside Amraks, Champagnemuma and Char(k). Next up: Runner Up Rooftop Bar, Melbourne on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ With Ess is a house and techno artist based in Australia, with 15 gigs on soundc
 
 Amraks, Champagnemuma, Char(k)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/withess/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/withess/)*

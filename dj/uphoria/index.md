@@ -1,6 +1,6 @@
 # uphoria
 
-uphoria is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
+uphoria is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
 
 uphoria is a techno and hardcore artist based in France, with 40 gigs on soundcheck across Barcelona, Belfast, Brussels and Ghent and 14 more. Often billed alongside ECZODIA, Emma Ollivary and Hortense de Beauharnais. Next up: Brussels Expo, Brussels on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ uphoria is a techno and hardcore artist based in France, with 40 gigs on soundch
 
 ECZODIA, Emma Ollivary, Hortense de Beauharnais
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uphoria/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uphoria/)*

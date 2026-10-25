@@ -1,14 +1,13 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Jungle & DnB Rave" on Sat, 24 Oct 2026.
+Hidden is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Hidden Halloween Thurs w/ DJ Q & Flowdan, Hugo Chegwin + more" on Thu, 29 Oct 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including Adele Tondu, Agnelli & Nelson, Allius and Amelia Leigh and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Adele Tondu, Agnelli & Nelson, Allius and Amelia Leigh and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Jungle & DnB Rave |  |
 | Thu, 29 Oct 2026 | Hidden Halloween Thurs w/ DJ Q & Flowdan, Hugo Chegwin + more | DJ Q, Flowdan, SHADEV, Warpfit |
 | Fri, 30 Oct 2026 | Hit & Run x Critical Sound x GASH MCR: HALLOWEEN SPECIAL | Amoss, EN:VY, Enei, JAZ IMSKY, Kasra, Rich Reason, SALÓ, Samurai Breaks, Sexy Lady Massive, Sparkz (NL), Sully, T-Man (UK), mamba.exe |
 | Sat, 31 Oct 2026 | Katy B presents: Little Red Rave: Arthi, Bok Bok, Andre Zimmer | Andre Zimmer, Arthi, Bok Bok, Camille Doe, Hanz, K1ng Arthur, Katy B |
@@ -18,9 +17,10 @@ Hidden is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, wi
 | Fri, 13 Nov 2026 | PTD Records x Solace present: Kara Okay, Auramatic b2b Tarik | Auramatic, D-LIA, F3rg13, Kara Okay |
 | Sat, 14 Nov 2026 | Lens: Moving Mad UK Tour - Manchester | Lens (2) |
 | Sat, 14 Nov 2026 | DJ ASSAULT & Detroit In Effect - REC. x Hidden | Adele Tondu, DJ Assault, Detroit In Effect, Hanz, b.lo |
+| Fri, 20 Nov 2026 | Riley presents Get with The Program - Manchester |  |
 
 ## Address
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

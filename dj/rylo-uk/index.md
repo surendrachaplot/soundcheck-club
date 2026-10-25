@@ -1,6 +1,6 @@
 # RYLO (UK)
 
-RYLO (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Stage and Radio, Manchester on Thu, 3 Dec 2026.
+RYLO (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Stage and Radio, Manchester on Thu, 3 Dec 2026.
 
 RYLO (UK) is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Manchester. Often billed alongside HSTN, imad:re and FXCKBOUT. Next up: Stage and Radio, Manchester on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ RYLO (UK) is a house and techno artist based in United Kingdom, with 13 gigs on 
 
 HSTN, imad:re, FXCKBOUT
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rylo-uk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rylo-uk/)*

@@ -1,6 +1,6 @@
 # Lb's Record Bar
 
-Lb's Record Bar is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DaveBoots" on Sun, 25 Oct 2026.
+Lb's Record Bar is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "DaveBoots" on Sun, 25 Oct 2026.
 
 Lb's Record Bar is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Jack Popper. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Lb's Record Bar is a music venue in Melbourne listed on soundcheck. 3 upcoming g
 | Thu, 29 Oct 2026 | DaveBoots |  |
 | Sun, 1 Nov 2026 | Jack Popper @ Lb's Record Bar | Jack Popper |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/lb-s-record-bar/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/lb-s-record-bar/)*

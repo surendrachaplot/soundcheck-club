@@ -1,14 +1,13 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Queerpool XXXI" on Sat, 24 Oct 2026.
+Südpol is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Expedition Südpol" on Fri, 30 Oct 2026.
 
-Südpol is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including 3LEEZA, 5euroGoldi, abs8lute and AGILY and 2 more. See dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
+Südpol is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including 3LEEZA, 5euroGoldi, abs8lute and AGILY and 2 more. See dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Queerpool XXXI | ANNARA, Bonzai Bonner, CYRK, Hanaby, Jana Falcon, Josiane, Kidcat, Mike Starr, softchaos |
 | Fri, 30 Oct 2026 | Expedition Südpol | AGILY, Antoine Baiser, Artemis, Bryan Kessler, DINA, Dora Dox, Ektoplast, KBLZ, Kora (CA), Najeh, Peter Paasch, Philipp Fein, Stornoline, Tala Berg, Tetra Hydro, Vale, die Rote Dora, shaccø |
 | Sat, 7 Nov 2026 | Alle Lampen an | Francesca, LENI, Sahra Bass, Urem, miszo |
 | Fri, 13 Nov 2026 | Expedition Südpol | Chris Hanke, DINKS, EPHIE, Falke, Horst Haller, Jamal, Katzenohr, Kotoe, Melbo, Newinfluenzer, Rachel Raw, Robert Romain, Surreal (DE), UNZHA, Vio PRG, abs8lute, bīsu, ple:xy |
@@ -19,4 +18,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with 
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

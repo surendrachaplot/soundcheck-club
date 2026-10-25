@@ -1,14 +1,13 @@
 # Collect - Cais do Sodre
 
-Collect - Cais do Sodre is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Saturday at Collect, Cais do Sodré" on Sat, 24 Oct 2026.
+Collect - Cais do Sodre is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "COLLECT w/ MIRO" on Mon, 26 Oct 2026.
 
-Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, with line-ups including Allfield and Simas Slabačiauskas. See dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
+Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, with line-ups including Allfield. See dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Saturday at Collect, Cais do Sodré | Simas Slabačiauskas |
 | Mon, 26 Oct 2026 | COLLECT w/ MIRO |  |
 | Tue, 27 Oct 2026 | COLLECT w/ ALLFIELD | Allfield |
 | Wed, 28 Oct 2026 | COLLECT w/ GAMUT by BENN |  |
@@ -19,4 +18,4 @@ Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 6 upcom
 
 R. Nova do Carvalho 60 62, 1200-371 Lisboa, Lisbon
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*

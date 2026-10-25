@@ -1,6 +1,6 @@
 # AFAR
 
-AFAR is a Electronica and Krautrock artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at MS Stubnitz, Hamburg on Tue, 1 Dec 2026.
+AFAR is a Electronica and Krautrock artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at MS Stubnitz, Hamburg on Tue, 1 Dec 2026.
 
 AFAR is an electronica and krautrock artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 6 more. Often billed alongside Arutani, ELIF and Gina Sabatini. Next up: MS Stubnitz, Hamburg on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ AFAR is an electronica and krautrock artist based in Germany, with 23 gigs on so
 
 Arutani, ELIF, Gina Sabatini
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afar/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afar/)*

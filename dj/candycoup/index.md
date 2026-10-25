@@ -1,6 +1,6 @@
 # Candy Coup
 
-Candy Coup is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
+Candy Coup is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
 
 Candy Coup is a techno and house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Rotterdam and The Hague. Often billed alongside Chucho, DIORA and DJ Shahmaran. Next up: export, Rotterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Candy Coup is a techno and house artist based in Netherlands, with 15 gigs on so
 
 Chucho, DIORA, DJ Shahmaran
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candycoup/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candycoup/)*

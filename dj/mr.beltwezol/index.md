@@ -1,6 +1,6 @@
 # Mr. Belt & Wezol
 
-Mr. Belt & Wezol is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
+Mr. Belt & Wezol is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
 
 Mr. Belt & Wezol are a house and disco duo based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 16 more. Often billed alongside Karim Soliman, RUZE and Ammé. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ Mr. Belt & Wezol are a house and disco duo based in Netherlands, with 55 gigs on
 
 Karim Soliman, RUZE, Ammé
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*

@@ -1,6 +1,6 @@
 # Brixton Storeys
 
-Brixton Storeys is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "HAUNTED BRIXTON - Brixton's Biggest Halloween Experience" on Fri, 30 Oct 2026.
+Brixton Storeys is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "HAUNTED BRIXTON - Brixton's Biggest Halloween Experience" on Fri, 30 Oct 2026.
 
 Brixton Storeys is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Crazy Cousinz, ID, Sweets and Tracksuits and 1 more. See dates, start times and who's playing. 467- 469 Brixton Rd, London SW9 8HH.
 
@@ -15,4 +15,4 @@ Brixton Storeys is a music venue in London listed on soundcheck. 2 upcoming gigs
 
 467- 469 Brixton Rd, London SW9 8HH, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-storeys/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-storeys/)*

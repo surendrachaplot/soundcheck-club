@@ -1,6 +1,6 @@
 # Fennek
 
-Fennek is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at elipamanoke, Leipzig on Sat, 21 Nov 2026.
+Fennek is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at elipamanoke, Leipzig on Sat, 21 Nov 2026.
 
 Fennek is a techno and house artist, with 22 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Langnikel, Moto Moto and Aio. Next up: elipamanoke, Leipzig on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Fennek is a techno and house artist, with 22 gigs on soundcheck across Berlin, H
 
 Langnikel, Moto Moto, Aio
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fennek/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fennek/)*

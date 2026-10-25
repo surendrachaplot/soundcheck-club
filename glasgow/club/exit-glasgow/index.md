@@ -1,6 +1,6 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh)" on Fri, 30 Oct 2026.
+EXIT Glasgow is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh)" on Fri, 30 Oct 2026.
 
 EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with line-ups including Aba Shanti-I, Angel Negrin, Blackeye MC and Conor Thomas and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
@@ -23,4 +23,4 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs,
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

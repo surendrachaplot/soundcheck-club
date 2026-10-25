@@ -1,6 +1,6 @@
 # Doctora Amor
 
-Doctora Amor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
+Doctora Amor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
 
 Doctora Amor is a house and techno artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside CHRANDY, Agua con gas and Femur. Next up: Renate, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Doctora Amor is a house and techno artist based in Germany, with 16 gigs on soun
 
 CHRANDY, Agua con gas, Femur
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctoraamor/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctoraamor/)*

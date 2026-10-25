@@ -1,6 +1,6 @@
 # Atrice
 
-Atrice is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kauz, Zurich on Fri, 6 Nov 2026.
+Atrice is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kauz, Zurich on Fri, 6 Nov 2026.
 
 Atrice is a techno and bass artist based in Switzerland, with 52 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 18 more. Often billed alongside Emilia Grima, Fireground and Jan Swam. Next up: Kauz, Zurich on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Atrice is a techno and bass artist based in Switzerland, with 52 gigs on soundch
 
 Emilia Grima, Fireground, Jan Swam
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atrice/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atrice/)*

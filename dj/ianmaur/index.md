@@ -1,6 +1,6 @@
 # Ian Maur
 
-Ian Maur is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at La Cité Fertile, Paris on Sun, 25 Oct 2026.
+Ian Maur is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at La Cité Fertile, Paris on Sun, 25 Oct 2026.
 
 Ian Maur is a techno and ambient artist based in France, with 58 gigs on soundcheck across Berlin, Bordeaux and Paris. Often billed alongside Sklaer, Ben Hamama and Lefblom. Next up: La Cité Fertile, Paris on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Ian Maur is a techno and ambient artist based in France, with 58 gigs on soundch
 
 Sklaer, Ben Hamama, Lefblom
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmaur/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmaur/)*

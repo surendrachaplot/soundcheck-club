@@ -1,6 +1,6 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Inkonst, Malmo on Sat, 31 Oct 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Inkonst, Malmo on Sat, 31 Oct 2026.
 
 DJ Assault is a ghetto tech and techno artist based in United States of America, with 180 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 49 more. Often billed alongside Fullbodydurag, DJ Godfather and Detroit In Effect. Next up: Inkonst, Malmo on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ DJ Assault is a ghetto tech and techno artist based in United States of America,
 
 Fullbodydurag, DJ Godfather, Detroit In Effect
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

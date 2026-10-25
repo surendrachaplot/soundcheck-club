@@ -1,6 +1,6 @@
 # Dazzle Drums
 
-Dazzle Drums is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at DAN Oiso, Kanto on Sat, 7 Nov 2026.
+Dazzle Drums is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at DAN Oiso, Kanto on Sat, 7 Nov 2026.
 
 Dazzle Drums is a house and techno artist based in Japan, with 276 gigs on soundcheck across Amsterdam, Barcelona, Kanto and Kyoto and 8 more. Often billed alongside MINAMI, Toshio Matsuura and DJ Emma. Next up: DAN Oiso, Kanto on Sat 7 Nov.
 
@@ -32,4 +32,4 @@ Dazzle Drums is a house and techno artist based in Japan, with 276 gigs on sound
 
 MINAMI, Toshio Matsuura, DJ Emma
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazzledrums/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazzledrums/)*

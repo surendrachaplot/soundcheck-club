@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Polar Disco Day to Night Party" on Sun, 25 Oct 2026.
+radial is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Polar Disco Day to Night Party" on Sun, 25 Oct 2026.
 
 radial is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Seyer (UK), Adam Curtain, ADHDj (UK) and Alien Communications and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 16 upcoming gigs, with l
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

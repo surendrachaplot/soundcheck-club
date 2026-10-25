@@ -1,6 +1,6 @@
 # Dwson
 
-Dwson is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cabo Beach Club, Cape Town on Sun, 27 Dec 2026.
+Dwson is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cabo Beach Club, Cape Town on Sun, 27 Dec 2026.
 
 Dwson is an afro house and house artist based in South Africa, with 10 gigs on soundcheck across Cape Town. Often billed alongside Black Coffee, Mila-Rose and Zakes Bantwini. Next up: Cabo Beach Club, Cape Town on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Dwson is an afro house and house artist based in South Africa, with 10 gigs on s
 
 Black Coffee, Mila-Rose, Zakes Bantwini
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dwson/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dwson/)*

@@ -1,6 +1,6 @@
 # Izak Jules
 
-Izak Jules is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Izak Jules is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Izak Jules is a house and tech house artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Leeds, Rotterdam and Turin. Often billed alongside Daniele Temperilli, Julien Fuentes and LORI (NL). Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Izak Jules is a house and tech house artist based in Netherlands, with 35 gigs o
 
 Daniele Temperilli, Julien Fuentes, LORI (NL)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izakjules/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izakjules/)*

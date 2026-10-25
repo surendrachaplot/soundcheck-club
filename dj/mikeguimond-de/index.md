@@ -1,13 +1,14 @@
 # Mike Guimond
 
-Mike Guimond is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Good Room, New York City on Sat, 7 Nov 2026.
+Mike Guimond is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Le Bain, New York City on Sat, 31 Oct 2026.
 
-Mike Guimond is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Berlin, Helsinki, Mexico City and Munich and 1 more. Often billed alongside Seth Magoon, Harim and Justin Strauss. Next up: Good Room, New York City on Sat 7 Nov.
+Mike Guimond is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Berlin, Helsinki, Mexico City and Munich and 1 more. Often billed alongside Seth Magoon, Harim and Justin Strauss. Next up: Le Bain, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Le Bain | New York City |
 | Sat, 7 Nov 2026 | Good Room | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mike Guimond is a house and techno artist based in United States of America, wit
 
 Seth Magoon, Harim, Justin Strauss
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeguimond-de/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeguimond-de/)*

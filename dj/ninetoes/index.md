@@ -1,6 +1,6 @@
 # Ninetoes
 
-Ninetoes is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 1-800-Lucky, Miami on Sun, 1 Nov 2026.
+Ninetoes is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 1-800-Lucky, Miami on Sun, 1 Nov 2026.
 
 Ninetoes is a tech house and house artist based in Germany, with 30 gigs on soundcheck across Berlin, Bogotá, Chicago and Copenhagen and 16 more. Often billed alongside Ale Castro, Alex Clavijo and Alexander Maier. Next up: 1-800-Lucky, Miami on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Ninetoes is a tech house and house artist based in Germany, with 30 gigs on soun
 
 Ale Castro, Alex Clavijo, Alexander Maier
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninetoes/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninetoes/)*

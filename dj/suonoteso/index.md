@@ -1,6 +1,6 @@
 # Suonoteso
 
-Suonoteso is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Location - Leer info, North on Fri, 30 Oct 2026.
+Suonoteso is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Secret Location - Leer info, North on Fri, 30 Oct 2026.
 
 Suonoteso is a techno and house artist based in Italy, with 15 gigs on soundcheck across Barcelona and North. Often billed alongside Thomas Kick, Bumpy Jones and Devesa. Next up: TBA - Secret Location - Leer info, North on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Suonoteso is a techno and house artist based in Italy, with 15 gigs on soundchec
 
 Thomas Kick (2), Bumpy Jones, Devesa
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suonoteso/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suonoteso/)*

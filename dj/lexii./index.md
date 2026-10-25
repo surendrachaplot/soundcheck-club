@@ -1,18 +1,18 @@
 # LEXII.
 
-LEXII. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+LEXII. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
-LEXII. is a house and techno artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Berlin, London and New York City and 2 more. Often billed alongside TEDESCO, Lagoon Femshayma and Ivicore. Next up: DRUMSHEDS, London on Sat 24 Oct.
+LEXII. is a house and techno artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Berlin, London and New York City and 2 more. Often billed alongside TEDESCO, Lagoon Femshayma and Ivicore. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | Eutopia Warehouse | London |
 
 ## Recently played
 
+- DRUMSHEDS, London · Sat, 24 Oct 2026
 - Radio Radio, Amsterdam · Sun, 2 Aug 2026
 - NUMBER 90 LONDON, London · Sat, 4 Jul 2026
 - Dalston Superstore, London · Fri, 29 May 2026
@@ -20,10 +20,9 @@ LEXII. is a house and techno artist based in United Kingdom, with 43 gigs on sou
 - Colour Factory, London · Sat, 25 Apr 2026
 - Colour Factory, London · Sat, 4 Apr 2026
 - fabric, London · Sun, 22 Mar 2026
-- Colour Factory, London · Wed, 31 Dec 2025
 
 ## Shares bills with
 
 TEDESCO, Lagoon Femshayma, Ivicore
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexii./)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexii./)*

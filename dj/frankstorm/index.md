@@ -1,20 +1,20 @@
 # Frank Storm
 
-Frank Storm is a Tech House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Tenax, Florence on Sat, 24 Oct 2026.
+Frank Storm is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Floyd, Miami on Sun, 25 Oct 2026.
 
-Frank Storm is a tech house and techno artist based in Italy, with 49 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bogotá and 13 more. Often billed alongside Marco Carola, Ale De Tuglie and Wade. Next up: Tenax, Florence on Sat 24 Oct.
+Frank Storm is a tech house and techno artist based in Italy, with 49 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bogotá and 13 more. Often billed alongside Marco Carola, Ale De Tuglie and Wade. Next up: Floyd, Miami on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Tenax | Florence |
 | Sun, 25 Oct 2026 | Floyd | Miami |
 | Sat, 21 Nov 2026 | Cinecittà World | Rome |
 | Sat, 2 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
 
 ## Recently played
 
+- Tenax, Florence · Sat, 24 Oct 2026
 - Pacha Ibiza, Ibiza · Thu, 8 Oct 2026
 - Café del Mar Malta, Malta · Sat, 19 Sept 2026
 - Pacha Ibiza, Ibiza · Fri, 21 Aug 2026
@@ -22,10 +22,9 @@ Frank Storm is a tech house and techno artist based in Italy, with 49 gigs on so
 - Pacha Ibiza, Ibiza · Fri, 10 Jul 2026
 - Safari Disco Club, Barcelona · Sun, 21 Jun 2026
 - Ex Macello, Milan · Sat, 13 Jun 2026
-- Pacha Ibiza, Ibiza · Wed, 10 Jun 2026
 
 ## Shares bills with
 
 Marco Carola, Ale De Tuglie, Wade
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*

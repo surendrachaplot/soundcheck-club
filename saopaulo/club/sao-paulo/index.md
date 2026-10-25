@@ -1,18 +1,17 @@
 # Sao Paulo
 
-Sao Paulo is a music venue in Sao Paulo with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "CRICRI" on Fri, 23 Oct 2026.
+Sao Paulo is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Michael Bibi presents One Life São Paulo" on Sat, 28 Nov 2026.
 
-Sao Paulo is a music venue in Sao Paulo listed on soundcheck. 2 upcoming gigs, with line-ups including Michael Bibi. See dates, start times and who's playing. Centro.
+Sao Paulo is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, with line-ups including Michael Bibi. See dates, start times and who's playing. Centro.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | CRICRI |  |
 | Sat, 28 Nov 2026 | Michael Bibi presents One Life São Paulo | Michael Bibi |
 
 ## Address
 
 Centro, Sao Paulo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/sao-paulo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/sao-paulo/)*

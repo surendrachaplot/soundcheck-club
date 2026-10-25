@@ -1,19 +1,19 @@
 # Frankey & Sandrino
 
-Frankey & Sandrino is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+Frankey & Sandrino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Volt Club Milano, Milan on Sat, 31 Oct 2026.
 
-Frankey & Sandrino are a techno and house duo based in Germany, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Musumeci, Arutani and Britta Arnold. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
+Frankey & Sandrino are a techno and house duo based in Germany, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Musumeci, Arutani and Britta Arnold. Next up: Volt Club Milano, Milan on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Onder Hans | Amsterdam |
 | Sat, 31 Oct 2026 | Volt Club Milano | Milan |
 | Sat, 21 Nov 2026 | Hong Kong Observation Wheel & AIA Vitality Park | Hong Kong |
 
 ## Recently played
 
+- Onder Hans, Amsterdam · Sat, 24 Oct 2026
 - Buda BXL, Brussels · Sat, 26 Sept 2026
 - Odonien, Cologne · Fri, 11 Sept 2026
 - Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow · Sat, 5 Sept 2026
@@ -21,10 +21,9 @@ Frankey & Sandrino are a techno and house duo based in Germany, with 80 gigs on 
 - TBA - Casa Blanca, Microcentro, Buenos Aires · Fri, 10 Jul 2026
 - Barco Sound House, Madrid · Sat, 20 Jun 2026
 - BORIS CLUB, Barcelona · Fri, 19 Jun 2026
-- Astra Miami, Miami · Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Musumeci, Arutani, Britta Arnold
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankeyandsandrino/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankeyandsandrino/)*

@@ -1,8 +1,8 @@
 # Compliments
 
-Compliments is a Bass and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
+Compliments is a Bass and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
 
-Compliments is a bass and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Edinburgh, London and New York City. Often billed alongside DJ Trebuchet, Daksh and AYAYA. Next up: M.O.T, London on Fri 6 Nov.
+Compliments is a bass and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Edinburgh, London and New York City. Often billed alongside DJ Trebuchet, Daksh and livwutang. Next up: M.O.T, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ Compliments is a bass and deep house artist based in United Kingdom, with 8 gigs
 
 ## Shares bills with
 
-DJ Trebuchet, Daksh, AYAYA
+DJ Trebuchet, Daksh, livwutang
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/compliments/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/compliments/)*

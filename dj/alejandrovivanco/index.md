@@ -1,6 +1,6 @@
 # Alejandro Vivanco
 
-Alejandro Vivanco is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Parque Ciudad Empresarial, Santiago on Sun, 6 Dec 2026.
+Alejandro Vivanco is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Parque Ciudad Empresarial, Santiago on Sun, 6 Dec 2026.
 
 Alejandro Vivanco is a house and minimal artist based in Chile, with 9 gigs on soundcheck across Santiago. Often billed alongside Umho, Dominique Tijoux and Dyed Soundorom. Next up: Parque Ciudad Empresarial, Santiago on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Alejandro Vivanco is a house and minimal artist based in Chile, with 9 gigs on s
 
 Umho, Dominique Tijoux, Dyed Soundorom
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrovivanco/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrovivanco/)*

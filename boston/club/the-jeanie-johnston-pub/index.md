@@ -1,6 +1,6 @@
 # The Jeanie Johnston Pub
 
-The Jeanie Johnston Pub is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "SIREN: 1-Year Anniversary – KIKIPO / Kylie Terra / DJ Dollhaus" on Fri, 6 Nov 2026.
+The Jeanie Johnston Pub is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "SIREN: 1-Year Anniversary – KIKIPO / Kylie Terra / DJ Dollhaus" on Fri, 6 Nov 2026.
 
 The Jeanie Johnston Pub is a music venue in Boston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 144 South St., Jamaica Plain, Boston, MA 02130, USA.
 
@@ -14,4 +14,4 @@ The Jeanie Johnston Pub is a music venue in Boston listed on soundcheck. 1 upcom
 
 144 South St., Jamaica Plain, Boston, MA 02130, USA, Boston
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-jeanie-johnston-pub/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-jeanie-johnston-pub/)*

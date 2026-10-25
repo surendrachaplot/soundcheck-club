@@ -1,6 +1,6 @@
 # Audri
 
-Audri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Masada, Milan on Sun, 8 Nov 2026.
+Audri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Masada, Milan on Sun, 8 Nov 2026.
 
 Audri is a house and techno artist, with 19 gigs on soundcheck across Berlin, Lisbon, Los Angeles and Milan and 3 more. Often billed alongside Ladagoje, KI/KA and Akaj. Next up: Masada, Milan on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Audri is a house and techno artist, with 19 gigs on soundcheck across Berlin, Li
 
 Ladagoje, KI/KA, Akaj
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audri/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audri/)*

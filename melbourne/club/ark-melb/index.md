@@ -1,14 +1,13 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ark // Special Guest (TBA) - April Kerry - GROOVEBABY" on Sat, 24 Oct 2026.
+ark (Melb) is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "ark // Guy Contact - DJ Luv You" on Sat, 31 Oct 2026.
 
-ark (Melb) is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs, with line-ups including April Kerry, Auramatic, CHEEKI and Crybaby and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
+ark (Melb) is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including Auramatic, Crybaby, Cybernet and Dan Newman and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | ark // Special Guest (TBA) - April Kerry - GROOVEBABY | April Kerry, CHEEKI, GROOVEBABY, STAGEFRIGHT |
 | Sat, 31 Oct 2026 | ark // Guy Contact - DJ Luv You | DJ Luv You, Guy Contact |
 | Sat, 7 Nov 2026 | ark // Crÿbaby - MASSI. - Harry Connell -  | Crybaby, Harry Connell, MASSI. |
 | Sat, 14 Nov 2026 | ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] | James Poole, KELLAR |
@@ -18,9 +17,10 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs,
 | Sat, 12 Dec 2026 | ark // RTK Tarantino [UK] - ????? [??] | RTK Tarantino |
 | Sat, 19 Dec 2026 | ark // Cybernet - Ed Kent - Mabel - Nak | Cybernet, Ed Kent, Mabel, Nak (AU) |
 | Sat, 26 Dec 2026 | ark // ??????? ????? - ??????? [??] - Hannah D - Lex | Hannah D, Lex |
+| Sat, 2 Jan 2027 | DUSKY (UK) 'Signals World Tour' - Melbourne | Dusky, Jack Colletta, Vynes, Yarra |
 
 ## Address
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

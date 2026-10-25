@@ -1,6 +1,6 @@
 # sEmoa
 
-sEmoa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Behind This Wall, London on Fri, 13 Nov 2026.
+sEmoa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Behind This Wall, London on Fri, 13 Nov 2026.
 
 sEmoa is a house and techno artist based in Romania, with 26 gigs on soundcheck across London. Often billed alongside alia indigo, Desuba and LUUD. Next up: Behind This Wall, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ sEmoa is a house and techno artist based in Romania, with 26 gigs on soundcheck 
 
 alia indigo, Desuba, LUUD
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semoa/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semoa/)*

@@ -1,6 +1,6 @@
 # Bourbon On Division
 
-Bourbon On Division is a music venue in Chicago with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "NSW x Bourbon: Sound Test Thursday Halloween" on Thu, 29 Oct 2026.
+Bourbon On Division is a music venue in Chicago with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "NSW x Bourbon: Sound Test Thursday Halloween" on Thu, 29 Oct 2026.
 
 Bourbon On Division is a music venue in Chicago listed on soundcheck. 3 upcoming gigs, with line-ups including Current, DJ Heather, Harry Cross and Jason Kendig and 2 more. See dates, start times and who's playing. 2050 W Division St, Chicago, IL 60622, USA.
 
@@ -16,4 +16,4 @@ Bourbon On Division is a music venue in Chicago listed on soundcheck. 3 upcoming
 
 2050 W Division St, Chicago, IL 60622, USA, Chicago
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bourbon-on-division/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bourbon-on-division/)*

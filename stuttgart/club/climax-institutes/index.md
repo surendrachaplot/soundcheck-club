@@ -1,14 +1,13 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Different Reality 'Juicy Fruits' at Climax Institutes with VIKOSH, KENNEDY, MYKEY, Adono, DAMIY" on Sat, 24 Oct 2026.
+Climax-Institutes is a music venue in Stuttgart with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "APPETIZER - Adi Dassler · Fernando Pais · Seymen" on Thu, 29 Oct 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 11 upcoming gigs, with line-ups including Adi Dassler, Adono, Chamelio 3000 and E-PUNK and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcoming gigs, with line-ups including Adi Dassler, Chamelio 3000, E-PUNK and Michael Clash Gottschalk and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Different Reality 'Juicy Fruits' at Climax Institutes with VIKOSH, KENNEDY, MYKEY, Adono, DAMIY | Adono |
 | Thu, 29 Oct 2026 | APPETIZER - Adi Dassler · Fernando Pais · Seymen | Adi Dassler, Seymen (2) |
 | Fri, 30 Oct 2026 | FREITAG SOUND SERIES#4 |  |
 | Sat, 31 Oct 2026 | GROOVE SENSATION | Chamelio 3000, Michael Clash Gottschalk |
@@ -18,9 +17,10 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 11 upcomin
 | Sat, 21 Nov 2026 | WORN-OUT  | Vincent Neumann |
 | Thu, 26 Nov 2026 | THURSDAZE | Michael Clash Gottschalk |
 | Fri, 11 Dec 2026 | This !s & Friends | E-PUNK, NeTHiNG, TRNKA |
+| Fri, 1 Jan 2027 | This !s & zuurii präsentieren Fernando Pais (The Birthday Celebration) | E-PUNK, NeTHiNG, TRNKA |
 
 ## Address
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

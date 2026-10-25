@@ -1,14 +1,13 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "USANSO" on Sat, 24 Oct 2026.
+Cakeshop is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Cakeshop presents: T.NO" on Thu, 29 Oct 2026.
 
-Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with line-ups including AEIDA, Azrel, BAAWLA and bojvck and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
+Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with line-ups including AEIDA, Azrel, BAAWLA and bojvck and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | USANSO | T.K (KR), Vitaline, pa de haan. |
 | Thu, 29 Oct 2026 | Cakeshop presents: T.NO | AEIDA, BAAWLA, DJ heavenly wisdom, T.NO, untitled (2) |
 | Sat, 31 Oct 2026 | HALLOWEEN | Citi Jeong, Coziest, Excultist, Guinneissik, KoiKoi, Muin, NIMNOI, Nimvy, bojvck, ccottonmouth, rue (3) |
 | Fri, 6 Nov 2026 | Neffa-T: More Breaks & Kimchi Factory Homies present | HASHTAGPOPE, MOONICE, Neffa-T, Nimvy, RAFA (KR), Tabris, untitled (2) |
@@ -20,4 +19,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with l
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

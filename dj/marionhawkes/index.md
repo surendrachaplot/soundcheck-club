@@ -1,6 +1,6 @@
 # Marion Hawkes
 
-Marion Hawkes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Ulster Sports Club, Belfast on Sat, 31 Oct 2026.
+Marion Hawkes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Ulster Sports Club, Belfast on Sat, 31 Oct 2026.
 
 Marion Hawkes is a house and techno artist based in United Kingdom, with 49 gigs on soundcheck across Belfast, Bristol, Cork and Dublin and 5 more. Often billed alongside Conor Schmtz, Inside Moves and Jordan Nocturne. Next up: The Ulster Sports Club, Belfast on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Marion Hawkes is a house and techno artist based in United Kingdom, with 49 gigs
 
 Conor Schmtz, Inside Moves, Jordan Nocturne
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marionhawkes/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marionhawkes/)*

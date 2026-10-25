@@ -1,6 +1,6 @@
 # Richard Fearless
 
-Richard Fearless is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Amsterdam on Sun, 25 Oct 2026.
+Richard Fearless is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Amsterdam on Sun, 25 Oct 2026.
 
 Richard Fearless is a techno and experimental artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Belfast, Belgrade and Bristol and 9 more. Often billed alongside Daniel Avery, Tom Dubwise and DJ MELL G. Next up: TBA, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Richard Fearless is a techno and experimental artist based in United Kingdom, wi
 
 Daniel Avery, Tom Dubwise, DJ MELL G
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfearless-uk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfearless-uk/)*

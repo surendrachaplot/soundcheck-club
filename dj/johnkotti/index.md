@@ -1,6 +1,6 @@
 # John Kotti
 
-John Kotti is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at M-BIA, Berlin on Sat, 7 Nov 2026.
+John Kotti is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at M-BIA, Berlin on Sat, 7 Nov 2026.
 
 John Kotti is a psytrance and trance artist based in Germany, with 34 gigs on soundcheck across Berlin. Often billed alongside Emma, L X S and Momentune. Next up: M-BIA, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ John Kotti is a psytrance and trance artist based in Germany, with 34 gigs on so
 
 Emma (8), L X S, Momentune
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkotti/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkotti/)*

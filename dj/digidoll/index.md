@@ -1,6 +1,6 @@
 # Digi Doll
 
-Digi Doll is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Red Rattler, Sydney on Fri, 30 Oct 2026.
+Digi Doll is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Red Rattler, Sydney on Fri, 30 Oct 2026.
 
 Digi Doll is a techno and club artist based in Australia, with 9 gigs on soundcheck across Sydney. Often billed alongside PARTIGIRL, Domonique Dee and MINI SKIRT MIDI. Next up: The Red Rattler, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Digi Doll is a techno and club artist based in Australia, with 9 gigs on soundch
 
 PARTIGIRL, Domonique Dee, MINI SKIRT MIDI
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digidoll/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digidoll/)*

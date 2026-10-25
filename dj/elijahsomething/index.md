@@ -1,14 +1,13 @@
 # Elijah Something
 
-Elijah Something is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 24 Oct 2026.
+Elijah Something is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 31 Oct 2026.
 
-Elijah Something is a house and techno artist based in Australia, with 55 gigs on soundcheck across Amsterdam, Bali, Beijing and Byron Bay and 6 more. Often billed alongside Cassette, Caleb Jackson and Litmus. Next up: The Lass O'Gowrie Hotel, Sydney on Sat 24 Oct.
+Elijah Something is a house and techno artist based in Australia, with 55 gigs on soundcheck across Amsterdam, Bali, Beijing and Byron Bay and 6 more. Often billed alongside Cassette, Caleb Jackson and Litmus. Next up: Sub Club Melbourne, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | The Lass O'Gowrie Hotel | Sydney |
 | Sat, 31 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 31 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
@@ -16,6 +15,7 @@ Elijah Something is a house and techno artist based in Australia, with 55 gigs o
 
 ## Recently played
 
+- The Lass O'Gowrie Hotel, Sydney · Sat, 24 Oct 2026
 - Chinese Laundry, Sydney · Sat, 17 Oct 2026
 - The Ivy, Sydney · Sun, 4 Oct 2026
 - Distrikt, Leeds · Fri, 21 Aug 2026
@@ -23,10 +23,9 @@ Elijah Something is a house and techno artist based in Australia, with 55 gigs o
 - Starlane Pizza Bar, London · Sat, 27 Jun 2026
 - TBA - Inner West Warehouse, Sydney · Sat, 6 Jun 2026
 - Chinese Laundry, Sydney · Fri, 15 May 2026
-- The Chippo Hotel, Sydney · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Cassette, Caleb Jackson, Litmus
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahsomething/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahsomething/)*

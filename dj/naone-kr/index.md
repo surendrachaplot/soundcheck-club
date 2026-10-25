@@ -1,6 +1,6 @@
 # Naone
 
-Naone is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Naone is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
 Naone is a techno and house artist based in South Korea, with 190 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 35 more. Often billed alongside mad miran, Iggy P and Sansibar. Next up: ingang, Amsterdam on Sat 24 Oct.
 
@@ -22,6 +22,7 @@ Naone is a techno and house artist based in South Korea, with 190 gigs on soundc
 
 ## Recently played
 
+- ingang, Amsterdam · Sat, 24 Oct 2026
 - OXI, Berlin · Fri, 23 Oct 2026
 - La Cité Fertile, Paris · Sat, 26 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
@@ -29,10 +30,9 @@ Naone is a techno and house artist based in South Korea, with 190 gigs on soundc
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
 - Gaffe, London · Sun, 6 Sept 2026
 - Tuinen van West, Amsterdam · Sat, 29 Aug 2026
-- Backsteinboot, Berlin · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 mad miran, Iggy P, Sansibar
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

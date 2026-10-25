@@ -1,6 +1,6 @@
 # CIRCOLO BOTULINO
 
-CIRCOLO BOTULINO is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Botox Matinee" on Sat, 24 Oct 2026.
+CIRCOLO BOTULINO is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Botox Matinee" on Sat, 24 Oct 2026.
 
 CIRCOLO BOTULINO is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including AIN'T GEORGE, DJ PIRO, EMME and OTHERSIDE (ITA) and 2 more. See dates, start times and who's playing. Via Plezzo, 16, 20132 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ CIRCOLO BOTULINO is a music venue in Milan listed on soundcheck. 2 upcoming gigs
 
 Via Plezzo, 16, 20132 Milano MI, Italy, Milan
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-botulino/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-botulino/)*

@@ -1,6 +1,6 @@
 # SAY3
 
-SAY3 is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Jupiter Disco, New York City on Fri, 30 Oct 2026.
+SAY3 is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Jupiter Disco, New York City on Fri, 30 Oct 2026.
 
 SAY3 is an afro house and techno artist based in United States of America, with 23 gigs on soundcheck across Miami, Montreal, New York City and Toronto. Often billed alongside DJ Marfox, DJ Nigga Fox and J-Cush. Next up: Jupiter Disco, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SAY3 is an afro house and techno artist based in United States of America, with 
 
 DJ Marfox, DJ Nigga Fox, J-Cush
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/say3/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/say3/)*

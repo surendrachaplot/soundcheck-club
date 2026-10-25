@@ -1,31 +1,30 @@
 # YAMARCHY
 
-YAMARCHY is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at VENT, Tokyo on Sat, 24 Oct 2026.
+YAMARCHY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Yoyogi Park, Tokyo on Sat, 24 Oct 2026.
 
-YAMARCHY is a house and techno artist based in Japan, with 351 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 15 more. Often billed alongside Monkey Timers, CHIDA and FFAN. Next up: VENT, Tokyo on Sat 24 Oct.
+YAMARCHY is a house and techno artist based in Japan, with 351 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 15 more. Often billed alongside Monkey Timers, CHIDA and FFAN. Next up: Yoyogi Park, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | VENT | Tokyo |
 | Sat, 24 Oct 2026 | Yoyogi Park | Tokyo |
 | Sat, 7 Nov 2026 | West Harlem | Kyoto |
 | Sat, 21 Nov 2026 | Noon + Cafe | Osaka |
 
 ## Recently played
 
+- VENT, Tokyo · Sat, 24 Oct 2026
+- Yoyogi Park, Tokyo · Sat, 24 Oct 2026
 - Mitsuki, Tokyo · Wed, 21 Oct 2026
 - DJ Bar Bridge, Tokyo · Fri, 16 Oct 2026
 - Mitsuki, Tokyo · Thu, 15 Oct 2026
 - Mitsuki, Tokyo · Sun, 11 Oct 2026
 - Nyapi, Seoul · Thu, 8 Oct 2026
 - Club Shaft, Tohoku · Sat, 3 Oct 2026
-- Mitsuki, Tokyo · Wed, 30 Sept 2026
-- RASA, Singapore · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Monkey Timers, CHIDA, FFAN
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamarchy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamarchy/)*

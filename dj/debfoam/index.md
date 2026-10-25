@@ -1,6 +1,6 @@
 # Deb Foam
 
-Deb Foam is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Culture Box, Copenhagen on Fri, 18 Dec 2026.
+Deb Foam is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Culture Box, Copenhagen on Fri, 18 Dec 2026.
 
 Deb Foam is a techno and bass artist based in Denmark, with 32 gigs on soundcheck across Copenhagen and Malmo. Often billed alongside Debbie Sings, Gavnlig and Zoumer. Next up: Culture Box, Copenhagen on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Deb Foam is a techno and bass artist based in Denmark, with 32 gigs on soundchec
 
 Debbie Sings, Gavnlig, Zoumer
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debfoam/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debfoam/)*

@@ -1,6 +1,6 @@
 # Taiga (LV)
 
-Taiga (LV) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Laska V21, Riga on Sat, 31 Oct 2026.
+Taiga (LV) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Laska V21, Riga on Sat, 31 Oct 2026.
 
 Taiga (LV) is a techno and acid artist based in Latvia, with 38 gigs on soundcheck across Riga. Often billed alongside SIRDSAPES, Ikss and Kelvin. Next up: Laska V21, Riga on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Taiga (LV) is a techno and acid artist based in Latvia, with 38 gigs on soundche
 
 SIRDSAPES, Ikss, Kelvin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taigalv/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taigalv/)*

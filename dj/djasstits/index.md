@@ -1,6 +1,6 @@
 # DJ ASS TITS
 
-DJ ASS TITS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 31 Oct 2026.
+DJ ASS TITS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 31 Oct 2026.
 
 DJ ASS TITS is a techno and house artist based in Germany, with 69 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 6 more. Often billed alongside HiHat, DJ Palga and paaradoxx. Next up: Tokonoma Club, Frankfurt on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ DJ ASS TITS is a techno and house artist based in Germany, with 69 gigs on sound
 
 HiHat, DJ Palga, paaradoxx
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djasstits/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djasstits/)*

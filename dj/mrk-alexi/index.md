@@ -1,6 +1,6 @@
 # Mr K-Alexi
 
-Mr K-Alexi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Le Nocturne, Chicago on Sun, 25 Oct 2026.
+Mr K-Alexi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Le Nocturne, Chicago on Sun, 25 Oct 2026.
 
 Mr K-Alexi is a house and deep house artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Chicago and 4 more. Often billed alongside DJ Minx, Lola Haro and Marcel Dettmann. Next up: Le Nocturne, Chicago on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Mr K-Alexi is a house and deep house artist based in United States of America, w
 
 DJ Minx, Lola Haro, Marcel Dettmann
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrk-alexi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrk-alexi/)*

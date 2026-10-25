@@ -1,6 +1,6 @@
 # DJ2D2
 
-DJ2D2 is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
+DJ2D2 is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
 
 DJ2D2 is a disco and house artist based in Spain, with 110 gigs on soundcheck across Barcelona. Often billed alongside PethbUri, Dirti Larita and Sushinigami. Next up: Razzmatazz, Barcelona on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ DJ2D2 is a disco and house artist based in Spain, with 110 gigs on soundcheck ac
 
 PethbUri, Dirti Larita, Sushinigami
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj2d2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj2d2/)*

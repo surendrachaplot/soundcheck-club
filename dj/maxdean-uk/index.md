@@ -1,6 +1,6 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
+Max Dean is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
 
 Max Dean is a house and tech house artist based in United Kingdom, with 245 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 45 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: NDSM Scheepsbouwloods, Amsterdam on Sun 25 Oct.
 
@@ -36,4 +36,4 @@ Max Dean is a house and tech house artist based in United Kingdom, with 245 gigs
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

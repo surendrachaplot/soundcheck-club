@@ -1,6 +1,6 @@
 # Pied Piper
 
-Pied Piper is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Onyx (E1), London on Sat, 28 Nov 2026.
+Pied Piper is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Onyx (E1), London on Sat, 28 Nov 2026.
 
 Pied Piper is a garage and uk funky artist based in United Kingdom, with 27 gigs on soundcheck across Birmingham, London and Manchester. Often billed alongside MC Creed, MC CKP and MC DT. Next up: Onyx (E1), London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Pied Piper is a garage and uk funky artist based in United Kingdom, with 27 gigs
 
 MC Creed, MC CKP, MC DT
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piedpiper/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piedpiper/)*

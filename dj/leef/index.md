@@ -1,19 +1,19 @@
 # Leef
 
-Leef is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Illegaal, Brussels on Sat, 24 Oct 2026.
+Leef is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at B21, Brussels on Fri, 30 Oct 2026.
 
-Leef is a house and electro artist based in Canada, with 43 gigs on soundcheck across Brussels, Leipzig, Marseille and Montreal and 2 more. Often billed alongside Evita, JP Metis and Gamine. Next up: Illegaal, Brussels on Sat 24 Oct.
+Leef is a house and electro artist based in Canada, with 43 gigs on soundcheck across Brussels, Leipzig, Marseille and Montreal and 2 more. Often billed alongside Evita, JP Metis and Gamine. Next up: B21, Brussels on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Illegaal | Brussels |
 | Fri, 30 Oct 2026 | B21 | Brussels |
 | Fri, 27 Nov 2026 | UMI | Brussels |
 
 ## Recently played
 
+- Illegaal, Brussels · Sat, 24 Oct 2026
 - UMI, Brussels · Sat, 12 Sept 2026
 - UMI, Brussels · Sat, 29 Aug 2026
 - Circle Park, Brussels · Sat, 18 Jul 2026
@@ -21,10 +21,9 @@ Leef is a house and electro artist based in Canada, with 43 gigs on soundcheck a
 - UMI, Brussels · Sat, 27 Jun 2026
 - Zentralwäscherei, Zurich · Sat, 30 May 2026
 - Le Sample, Paris · Sat, 16 May 2026
-- UMI, Brussels · Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Evita, JP Metis, Gamine
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leef/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leef/)*

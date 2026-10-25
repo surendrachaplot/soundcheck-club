@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "AUDIODISE Halloween pres. Fumiya Tanaka, Hamish & Toby, Huerta - 18:30-03:00 - 3 stages" on Fri, 30 Oct 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "AUDIODISE Halloween pres. Fumiya Tanaka, Hamish & Toby, Huerta - 18:30-03:00 - 3 stages" on Fri, 30 Oct 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, Binh and Brizas and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -23,4 +23,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 11 upco
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

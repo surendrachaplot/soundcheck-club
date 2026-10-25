@@ -1,6 +1,6 @@
 # Piscesprince
 
-Piscesprince is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Eagle NYC, New York City on Thu, 29 Oct 2026.
+Piscesprince is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Eagle NYC, New York City on Thu, 29 Oct 2026.
 
 Piscesprince is a pop and club artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside Robyn DaBank, ASTER (DJ) and fake.stan. Next up: Eagle NYC, New York City on Thu 29 Oct.
 
@@ -24,4 +24,4 @@ Piscesprince is a pop and club artist based in United States of America, with 8 
 
 Robyn DaBank, ASTER (DJ), fake.stan
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piscesprince/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piscesprince/)*

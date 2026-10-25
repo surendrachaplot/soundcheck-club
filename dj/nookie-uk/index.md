@@ -1,6 +1,6 @@
 # Nookie (UK)
 
-Nookie (UK) is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Planet Wax, London on Sat, 14 Nov 2026.
+Nookie (UK) is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Planet Wax, London on Sat, 14 Nov 2026.
 
 Nookie (UK) is a jungle and drum & bass artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Boston and 11 more. Often billed alongside Ray Keith, Madcap and Subject 13. Next up: Planet Wax, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Nookie (UK) is a jungle and drum & bass artist based in United Kingdom, with 51 
 
 Ray Keith, Madcap, Subject 13
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nookie-uk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nookie-uk/)*

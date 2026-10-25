@@ -1,18 +1,18 @@
 # Stefan Rose
 
-Stefan Rose is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Cruise Club, Amsterdam on Sat, 24 Oct 2026.
+Stefan Rose is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cafe La Palma, Madrid on Fri, 30 Oct 2026.
 
-Stefan Rose is an electronica and house artist based in United States of America, with 9 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and London and 1 more. Often billed alongside Saulo Pisa, Aka theo and DASHA (UK). Next up: The Cruise Club, Amsterdam on Sat 24 Oct.
+Stefan Rose is an electronica and house artist based in United States of America, with 9 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and London and 1 more. Often billed alongside Saulo Pisa, Aka theo and DASHA (UK). Next up: Cafe La Palma, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | The Cruise Club | Amsterdam |
 | Fri, 30 Oct 2026 | Cafe La Palma | Madrid |
 
 ## Recently played
 
+- The Cruise Club, Amsterdam · Sat, 24 Oct 2026
 - UNLOCKED, London · Fri, 2 Oct 2026
 - The Cross, London · Sat, 4 Jul 2026
 - Macarena Club, Barcelona · Wed, 20 May 2026
@@ -25,4 +25,4 @@ Stefan Rose is an electronica and house artist based in United States of America
 
 Saulo Pisa, Aka theo, DASHA (UK)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanrose/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanrose/)*

@@ -1,6 +1,6 @@
 # Body Clinic
 
-Body Clinic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Glamorama, Melbourne on Fri, 6 Nov 2026.
+Body Clinic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Glamorama, Melbourne on Fri, 6 Nov 2026.
 
 Body Clinic is a house and techno artist based in United Kingdom, with 43 gigs on soundcheck across Aberdeen, Belfast, Belgrade and Dublin and 7 more. Often billed alongside Holly Lester, Wigs and Sophie. Next up: Glamorama, Melbourne on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Body Clinic is a house and techno artist based in United Kingdom, with 43 gigs o
 
 Holly Lester, Wigs, Sophie (2)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodyclinic/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodyclinic/)*

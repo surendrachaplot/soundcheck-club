@@ -1,6 +1,6 @@
 # Trixie
 
-Trixie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at All My Friends, London on Fri, 30 Oct 2026.
+Trixie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at All My Friends, London on Fri, 30 Oct 2026.
 
 Trixie is a techno and house artist based in Colombia, with 9 gigs on soundcheck across Brussels, London, Malta and Rome. Often billed alongside DJ Programma, Oaky Doke and Om Dream. Next up: All My Friends, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Trixie is a techno and house artist based in Colombia, with 9 gigs on soundcheck
 
 DJ Programma, Oaky Doke, Om Dream
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie/)*

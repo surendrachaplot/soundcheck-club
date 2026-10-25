@@ -1,14 +1,13 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Süss am Samstag - FREE ENTRY UNTIL 10 PM" on Sat, 24 Oct 2026.
+Süss War Gestern is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙)" on Tue, 27 Oct 2026.
 
-Süss War Gestern is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Bäggy, Better Call Paul, Dicso_Muzek and HRTML and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
+Süss War Gestern is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Bäggy, Better Call Paul, Dicso_Muzek and Kite and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Süss am Samstag - FREE ENTRY UNTIL 10 PM | HRTML, Louisiane, Toni Clara |
 | Tue, 27 Oct 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) | Sugar Jim Jr. |
 | Fri, 30 Oct 2026 | Süsse Halloween FREE ENTRY IN COSTUME | Bäggy, MMAO, Shveba, Wi5dom, YESSIR |
 | Sat, 31 Oct 2026 | Süsse Halloween FREE ENTRY IN FULL COSTUME | Kite, Skotsch |
@@ -18,9 +17,10 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 16 upcoming g
 | Tue, 10 Nov 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) | nuarrrrr |
 | Tue, 17 Nov 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) | Umami Sound |
 | Tue, 24 Nov 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) | Dicso_Muzek |
+| Tue, 1 Dec 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) |  |
 
 ## Address
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

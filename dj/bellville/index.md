@@ -1,6 +1,6 @@
 # Bellville
 
-Bellville is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
+Bellville is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
 
 Bellville is a house and techno artist based in Germany, with 15 gigs on soundcheck across Berlin and Cologne. Often billed alongside Cosmic Dance, Jeremy Reinhard and Jonas Fritz. Next up: Odonien, Cologne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bellville is a house and techno artist based in Germany, with 15 gigs on soundch
 
 Cosmic Dance, Jeremy Reinhard, Jonas Fritz
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellville/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellville/)*

@@ -1,6 +1,6 @@
 # Under Bridge Madrid
 
-Under Bridge Madrid is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Halloween x Under Bridge" on Sat, 31 Oct 2026.
+Under Bridge Madrid is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Halloween x Under Bridge" on Sat, 31 Oct 2026.
 
 Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Alexis mayer, TRIXXI and Tucu (Tucu). See dates, start times and who's playing. Calle de Caños Viejos, 3.
 
@@ -14,4 +14,4 @@ Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 1 upcoming 
 
 Calle de Caños Viejos, 3, Madrid
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*

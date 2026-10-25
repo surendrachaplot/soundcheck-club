@@ -1,14 +1,13 @@
 # Thaïs (FR)
 
-Thaïs (FR) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Barcelona on Fri, 23 Oct 2026.
+Thaïs (FR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Paris on Sat, 31 Oct 2026.
 
-Thaïs (FR) is a techno and house artist based in France, with 37 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Andy Pi, Beatrice M. and Blanche. Next up: TBA, Barcelona on Fri 23 Oct.
+Thaïs (FR) is a techno and house artist based in France, with 37 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Andy Pi, Beatrice M. and Blanche. Next up: TBA, Paris on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA | Barcelona |
 | Sat, 31 Oct 2026 | TBA | Paris |
 
 ## Recently played
@@ -26,4 +25,4 @@ Thaïs (FR) is a techno and house artist based in France, with 37 gigs on soundc
 
 Andy Pi, Beatrice M., Blanche
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïs-fr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïs-fr/)*

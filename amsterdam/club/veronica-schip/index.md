@@ -1,6 +1,6 @@
 # Veronica Schip
 
-Veronica Schip is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ORIGINS x Deep Echoes pres. ALL HANDS ON DECK" on Sun, 25 Oct 2026.
+Veronica Schip is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "ORIGINS x Deep Echoes pres. ALL HANDS ON DECK" on Sun, 25 Oct 2026.
 
 Veronica Schip is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Jaap Ligthart, Julia Linkogel, KARINSMATIC and L:NQ and 2 more. See dates, start times and who's playing. NDSM-Pier 1, 1033 RG Amsterdam, Netherlands.
 
@@ -17,4 +17,4 @@ Veronica Schip is a music venue in Amsterdam listed on soundcheck. 4 upcoming gi
 
 NDSM-Pier 1, 1033 RG Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*

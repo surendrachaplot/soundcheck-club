@@ -1,6 +1,6 @@
 # Javi (US)
 
-Javi (US) is a Latin Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Tamarack, San Francisco/Oakland on Sat, 31 Oct 2026.
+Javi (US) is a Latin Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Tamarack, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Javi (US) is a latin bass and baile funk artist based in United States of America, with 10 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ JUANNY, erika (SF) and Lonald J. Bandz. Next up: Tamarack, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Javi (US) is a latin bass and baile funk artist based in United States of Americ
 
 DJ JUANNY, erika (SF), Lonald J. Bandz
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javius/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javius/)*

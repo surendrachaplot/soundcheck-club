@@ -1,6 +1,6 @@
 # Eliel Capa
 
-Eliel Capa is a Techno and Guaracha artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Versalles 64, Mexico City on Sat, 24 Oct 2026.
+Eliel Capa is a Techno and Guaracha artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Versalles 64, Mexico City on Sat, 24 Oct 2026.
 
 Eliel Capa is a techno and guaracha artist based in Mexico, with 97 gigs on soundcheck across Berlin, Madrid, Mexico City and New York City and 1 more. Often billed alongside Enya Botello, Pablo Lara and Diego Walle. Next up: Versalles 64, Mexico City on Sat 24 Oct.
 
@@ -12,6 +12,7 @@ Eliel Capa is a techno and guaracha artist based in Mexico, with 97 gigs on soun
 
 ## Recently played
 
+- Versalles 64, Mexico City · Sat, 24 Oct 2026
 - Madreams, Madrid · Fri, 18 Sept 2026
 - Abrazarnos, Mexico City · Thu, 3 Sept 2026
 - YuYu Cine Club, Mexico City · Fri, 14 Aug 2026
@@ -19,10 +20,9 @@ Eliel Capa is a techno and guaracha artist based in Mexico, with 97 gigs on soun
 - Versalles 64, Mexico City · Sat, 1 Aug 2026
 - [sic] Community Club, Mexico City · Sat, 27 Jun 2026
 - TBA - La dirección de la fiesta será enviada el 26/06 a las 15 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City · Fri, 26 Jun 2026
-- 3 Dollar Bill, New York City · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Enya Botello, Pablo Lara, Diego Walle
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elielcapa/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elielcapa/)*

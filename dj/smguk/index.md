@@ -1,6 +1,6 @@
 # SMG (UK)
 
-SMG (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+SMG (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
 SMG (UK) is a drum & bass and jungle artist based in United Kingdom, with 13 gigs on soundcheck across Bristol, Leipzig, London and Madrid and 7 more. Often billed alongside Waeys, Simula and Calyx. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ SMG (UK) is a drum & bass and jungle artist based in United Kingdom, with 13 gig
 
 Waeys, Simula, Calyx
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*

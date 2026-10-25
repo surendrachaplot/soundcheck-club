@@ -1,6 +1,6 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Theo Parrish is a House and Funk / Soul artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Theo Parrish is a house and funk / soul artist based in United States of America, with 132 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 34 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -33,4 +33,4 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

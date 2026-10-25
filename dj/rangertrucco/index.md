@@ -1,14 +1,13 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Oliva, Amsterdam on Sat, 24 Oct 2026.
+Ranger Trucco is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 7 Nov 2026.
 
-Ranger Trucco is a house and tech house artist based in United States of America, with 106 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 29 more. Often billed alongside Prunk, Ms. Mada and KETTAMA. Next up: Oliva, Amsterdam on Sat 24 Oct.
+Ranger Trucco is a house and tech house artist based in United States of America, with 106 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 29 more. Often billed alongside Prunk, Ms. Mada and KETTAMA. Next up: Blackstone Street Warehouse, Liverpool on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Oliva | Amsterdam |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 7 Nov 2026 | Index | Dublin |
@@ -21,6 +20,7 @@ Ranger Trucco is a house and tech house artist based in United States of America
 
 ## Recently played
 
+- Oliva, Amsterdam · Sat, 24 Oct 2026
 - The Loft Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Thuishaven, Amsterdam · Thu, 22 Oct 2026
 - Culture, Washington DC · Sun, 18 Oct 2026
@@ -28,10 +28,9 @@ Ranger Trucco is a house and tech house artist based in United States of America
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - The Great Northern, San Francisco/Oakland · Fri, 25 Sept 2026
 - World Headquarters, Newcastle · Sat, 19 Sept 2026
-- Motion Club, Aberdeen · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Prunk, Ms. Mada, KETTAMA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

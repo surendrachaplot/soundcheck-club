@@ -1,6 +1,6 @@
 # Mcspyder
 
-Mcspyder is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Jimmy Woo, Amsterdam on Sun, 25 Oct 2026.
+Mcspyder is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Jimmy Woo, Amsterdam on Sun, 25 Oct 2026.
 
 Mcspyder is a house and afro house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Berlin and Rotterdam. Often billed alongside Slimzee, DJ Gomes and CZETAN. Next up: Jimmy Woo, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Mcspyder is a house and afro house artist based in Netherlands, with 10 gigs on 
 
 Slimzee, DJ Gomes, CZETAN
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcspyder/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcspyder/)*

@@ -1,6 +1,6 @@
 # Surka (1)
 
-Surka (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Slane Castle, Ireland on Thu, 31 Dec 2026.
+Surka (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Slane Castle, Ireland on Thu, 31 Dec 2026.
 
 Surka is a house and techno artist based in Ireland, with 71 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 2 more. Often billed alongside Collie, Accomplice and Boots & Kats. Next up: Slane Castle, Ireland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Surka is a house and techno artist based in Ireland, with 71 gigs on soundcheck 
 
 Collie (1), Accomplice, Boots & Kats
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surka-1/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surka-1/)*

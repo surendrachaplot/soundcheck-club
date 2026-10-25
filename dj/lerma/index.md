@@ -1,6 +1,6 @@
 # Lerma
 
-Lerma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Platform 9, Vancouver on Fri, 30 Oct 2026.
+Lerma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Platform 9, Vancouver on Fri, 30 Oct 2026.
 
 Lerma is a house and techno artist based in Canada, with 27 gigs on soundcheck across Vancouver. Often billed alongside DJ dood, Max Ulis and INNEZZ. Next up: TBA - Platform 9, Vancouver on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Lerma is a house and techno artist based in Canada, with 27 gigs on soundcheck a
 
 DJ dood, Max Ulis, INNEZZ
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerma/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerma/)*

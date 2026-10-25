@@ -1,6 +1,6 @@
 # P.O.U
 
-P.O.U is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Rolling Stock, London on Sat, 31 Oct 2026.
+P.O.U is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Rolling Stock, London on Sat, 31 Oct 2026.
 
 P.O.U is a techno and tech house artist based in Ireland, with 32 gigs on soundcheck across Amsterdam, Dublin, Geneva and Ibiza and 2 more. Often billed alongside Ginchy, Desyfer and Leena Punks. Next up: Rolling Stock, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ P.O.U is a techno and tech house artist based in Ireland, with 32 gigs on soundc
 
 Ginchy, Desyfer, Leena Punks
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*

@@ -1,14 +1,13 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+Faster Horses is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
-Faster Horses is a techno and trance artist based in United Kingdom, with 262 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 63 more. Often billed alongside Azyr, Leaha and Kander. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
+Faster Horses is a techno and trance artist based in United Kingdom, with 262 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 63 more. Often billed alongside Azyr, Leaha and Kander. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Sat, 31 Oct 2026 | Floyd | Miami |
 | Fri, 20 Nov 2026 | Lakota | Bristol |
@@ -20,9 +19,11 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 262 gi
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
+| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 
+- NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
 - H7 Warehouse, Amsterdam · Fri, 23 Oct 2026
 - Thuishaven, Amsterdam · Fri, 23 Oct 2026
 - NX Newcastle, Newcastle · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 262 gi
 - Village Underground, London · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
 - The Warehouse, Leeds · Sat, 3 Oct 2026
-- Club Vaag, Antwerp · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Azyr, Leaha, Kander
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

@@ -1,6 +1,6 @@
 # Cole Knight
 
-Cole Knight is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 24 Oct 2026.
+Cole Knight is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 24 Oct 2026.
 
 Cole Knight is a house and techno artist based in United States of America, with 105 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 24 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: The Monkey Loft, Seattle on Sat 24 Oct.
 
@@ -16,6 +16,7 @@ Cole Knight is a house and techno artist based in United States of America, with
 
 ## Recently played
 
+- The Monkey Loft, Seattle · Sat, 24 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Rouge Room, Las-vegas · Fri, 9 Oct 2026
@@ -23,10 +24,9 @@ Cole Knight is a house and techno artist based in United States of America, with
 - It'll Do, Dallas/Fort Worth · Sat, 26 Sept 2026
 - Club Space Miami, Miami · Fri, 11 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
-- Floyd, Miami · Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Jamie Jones, Ben Sterling, Ms. Mada
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coleknight/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coleknight/)*

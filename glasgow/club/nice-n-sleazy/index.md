@@ -1,14 +1,13 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Dark Protocol W / ona:v / Residents " on Sat, 24 Oct 2026.
+Nice N Sleazy is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "DUURTY TECHNO (SPOOKY SLEAZY SEASON)" on Wed, 28 Oct 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs, with line-ups including Casual Look, Gabor Matty, Jordan smith and Julz Lever and 2 more. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs, with line-ups including Casual Look, Gabor Matty, Jordan smith and Julz Lever and 2 more. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Dark Protocol W / ona:v / Residents  | Jordan smith, ona:v |
 | Wed, 28 Oct 2026 | DUURTY TECHNO (SPOOKY SLEAZY SEASON) |  |
 | Thu, 29 Oct 2026 | SOUNDLAPSE 001 | Jordan smith, Julz Lever, Sirius Alza |
 | Fri, 30 Oct 2026 | <3 Y2K ICONS :: HALLOWEEN PARTY <3 | Casual Look |
@@ -22,4 +21,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs,
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

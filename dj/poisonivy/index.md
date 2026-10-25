@@ -1,6 +1,6 @@
 # Poison Ivy
 
-Poison Ivy is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Poison Ivy is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Poison Ivy is a techno and bass artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, London, Los Angeles and Manchester and 5 more. Often billed alongside LARA, Jaye Ward and Kmya. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Poison Ivy is a techno and bass artist based in United Kingdom, with 34 gigs on 
 
 LARA, Jaye Ward, Kmya
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poisonivy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poisonivy/)*

@@ -1,0 +1,17 @@
+# Akabane Enab
+
+Akabane Enab is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "North Tokyo Night – House & Disco Music Night –" on Fri, 20 Nov 2026.
+
+Akabane Enab is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Neri, Stev3NN and yuy4. See dates, start times and who's playing. 103101 Akabane, Kita-ku, Tokyo, 115-0045 Japan.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Fri, 20 Nov 2026 | North Tokyo Night – House & Disco Music Night – | Neri, Stev3NN, yuy4 |
+
+## Address
+
+103101 Akabane, Kita-ku, Tokyo, 115-0045 Japan, Tokyo
+
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/akabane-enab/)*

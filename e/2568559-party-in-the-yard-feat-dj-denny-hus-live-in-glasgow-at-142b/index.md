@@ -1,6 +1,6 @@
 # PARTY IN THE YARD! feat. DJ DENNY HUS Live in Glasgow at 142b Lounge
 
-PARTY IN THE YARD! feat. DJ DENNY HUS Live in Glasgow at 142b Lounge on Sat 28 Nov, Glasgow. Dancehall and Reggaeton. See the line-up on soundcheck.
+PARTY IN THE YARD! feat. DJ DENNY HUS Live in Glasgow at 142b Lounge on Sat 28 Nov, Glasgow. Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

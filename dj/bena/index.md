@@ -1,6 +1,6 @@
 # Bena
 
-Bena is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Fox and Firkin, London on Sat, 28 Nov 2026.
+Bena is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Fox and Firkin, London on Sat, 28 Nov 2026.
 
 Bena is a disco and techno artist based in United States of America, with 12 gigs on soundcheck across Frankfurt, London and Vilnius. Often billed alongside Chameleonas, Daniele Mizar and Emanuel Pavlova. Next up: The Fox and Firkin, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bena is a disco and techno artist based in United States of America, with 12 gig
 
 Chameleonas, Daniele Mizar, Emanuel Pavlova
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bena/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bena/)*

@@ -1,6 +1,6 @@
 # EXIL
 
-EXIL is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "southstar" on Fri, 20 Nov 2026.
+EXIL is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "southstar" on Fri, 20 Nov 2026.
 
 EXIL is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including southstar. See dates, start times and who's playing. Hardstrasse 245; 8005, Zürich; Switzerland.
 
@@ -14,4 +14,4 @@ EXIL is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-
 
 Hardstrasse 245; 8005, Zürich; Switzerland, Zurich
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/exil/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/exil/)*

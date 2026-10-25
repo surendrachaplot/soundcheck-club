@@ -1,6 +1,6 @@
 # ANATTA
 
-ANATTA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Formation Brewery, Phoenix on Sat, 14 Nov 2026.
+ANATTA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Formation Brewery, Phoenix on Sat, 14 Nov 2026.
 
 ANATTA is a house and tech house artist, with 22 gigs on soundcheck across Chicago, Los Angeles, Miami and Monterrey and 7 more. Often billed alongside Chesster, Anatta (CL) and Muffy. Next up: Formation Brewery, Phoenix on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ANATTA is a house and tech house artist, with 22 gigs on soundcheck across Chica
 
 Chesster, Anatta (CL), Muffy
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anatta/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anatta/)*

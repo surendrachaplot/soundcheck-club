@@ -1,6 +1,6 @@
 # Obscura
 
-Obscura is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
+Obscura is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
 
 Obscura is a drum & bass and bass artist, with 14 gigs on soundcheck across Birmingham, Manchester, Osaka and San Francisco/Oakland and 1 more. Often billed alongside Seeka, Beno and Jack Banner. Next up: TBA, Sydney on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Obscura is a drum & bass and bass artist, with 14 gigs on soundcheck across Birm
 
 Seeka, Beno, Jack Banner
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obscura/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obscura/)*

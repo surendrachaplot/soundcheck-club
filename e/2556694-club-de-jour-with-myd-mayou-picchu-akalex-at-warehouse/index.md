@@ -1,6 +1,6 @@
 # CLUB DE JOUR with Myd, Mayou Picchu & Akalex at Warehouse
 
-CLUB DE JOUR with Myd, Mayou Picchu & Akalex at Warehouse on Sat 23 Jan, Nantes. 2 artists: Akalex and Myd. See the line-up on soundcheck.
+CLUB DE JOUR with Myd, Mayou Picchu & Akalex at Warehouse on Sat 23 Jan, Nantes. 2 artists: Akalex and Myd. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

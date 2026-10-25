@@ -1,19 +1,19 @@
 # Linnea Mae
 
-Linnea Mae is a Electro and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Patision65, Athens on Sat, 24 Oct 2026.
+Linnea Mae is a Electro and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 5 Nov 2026.
 
-Linnea Mae is an electro and breakbeat artist, with 11 gigs on soundcheck across Athens, Berlin and Prague. Often billed alongside anna andersrum, Acidic Juice and DATA RYDER. Next up: Patision65, Athens on Sat 24 Oct.
+Linnea Mae is an electro and breakbeat artist, with 11 gigs on soundcheck across Athens, Berlin and Prague. Often billed alongside anna andersrum, Acidic Juice and DATA RYDER. Next up: Crack Bellmer, Berlin on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Patision65 | Athens |
 | Thu, 5 Nov 2026 | Crack Bellmer | Berlin |
 | Sat, 5 Dec 2026 | BABY01 | Berlin |
 
 ## Recently played
 
+- Patision65, Athens · Sat, 24 Oct 2026
 - Renate, Berlin · Sat, 29 Aug 2026
 - TBA, Berlin · Fri, 10 Jul 2026
 - Humboldthain Club, Berlin · Sat, 6 Jun 2026
@@ -21,10 +21,9 @@ Linnea Mae is an electro and breakbeat artist, with 11 gigs on soundcheck across
 - Sameheads, Berlin · Thu, 16 Apr 2026
 - Bohnengold, Berlin · Fri, 13 Mar 2026
 - Bohnengold, Berlin · Fri, 13 Feb 2026
-- Bike Jesus, Prague · Fri, 19 Sept 2025
 
 ## Shares bills with
 
 anna andersrum, Acidic Juice, DATA RYDER
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linneamae/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linneamae/)*

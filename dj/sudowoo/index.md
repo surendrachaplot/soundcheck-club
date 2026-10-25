@@ -1,6 +1,6 @@
 # Sudowoo
 
-Sudowoo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Flac, Seoul on Fri, 30 Oct 2026.
+Sudowoo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Flac, Seoul on Fri, 30 Oct 2026.
 
 Sudowoo is a tech house and house artist based in South Korea, with 46 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Departs, Davico and Demuk. Next up: Flac, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sudowoo is a tech house and house artist based in South Korea, with 46 gigs on s
 
 Departs, Davico, Demuk
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sudowoo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sudowoo/)*

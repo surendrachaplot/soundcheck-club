@@ -1,14 +1,13 @@
 # TBA - Ask A Raver
 
-TBA - Ask A Raver is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Rave & Resistance Rent Party" on Fri, 23 Oct 2026.
+TBA - Ask A Raver is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Rave & Resistance" on Fri, 30 Oct 2026.
 
-TBA - Ask A Raver is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-ups including Elock, Flores Negras, Silver October and sulffffffur and 2 more. See dates, start times and who's playing.
+TBA - Ask A Raver is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including Silver October and sulffffffur. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Rave & Resistance Rent Party | Elock, Flores Negras, Vales Madre, Zona Cinco |
 | Fri, 30 Oct 2026 | Rave & Resistance | Silver October, sulffffffur |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-ask-a-raver/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-ask-a-raver/)*

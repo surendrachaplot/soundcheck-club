@@ -1,6 +1,6 @@
 # Riel
 
-Riel is a UK Funky and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Club Cheek, London on Fri, 30 Oct 2026.
+Riel is a UK Funky and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Cheek, London on Fri, 30 Oct 2026.
 
 Riel is an uk funky and reggaeton artist based in United Kingdom, with 5 gigs on soundcheck across Atlanta and London. Often billed alongside Tibor, Lozzy and Marleigh. Next up: Club Cheek, London on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Riel is an uk funky and reggaeton artist based in United Kingdom, with 5 gigs on
 
 Tibor, Lozzy, Marleigh
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riel/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riel/)*

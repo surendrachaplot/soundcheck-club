@@ -1,8 +1,8 @@
 # Masada
 
-Masada is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Pennyroyal, Masada, Dana Ruh & more" on Sun, 25 Oct 2026.
+Masada is a music venue in Milan with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Pennyroyal, Masada, Dana Ruh & more" on Sun, 25 Oct 2026.
 
-Masada is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with line-ups including Akaj, ATEQ, Audri and Camillo and 2 more. See dates, start times and who's playing. Viale Carlo Espinasse, 41, 20156 Milan, Italy.
+Masada is a music venue in Milan listed on soundcheck. 8 upcoming gigs, with line-ups including Akaj, akin.souls, ATEQ and Audri and 2 more. See dates, start times and who's playing. Viale Carlo Espinasse, 41, 20156 Milan, Italy.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Masada is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with lin
 | Sun, 1 Nov 2026 | Neon_Masada // Leo Mas  | Leo Mas, Nicola Mazzetti, Uabos, Valerio Della Notte |
 | Sat, 7 Nov 2026 | DVS1 House set // Acquario (Masada) | ATEQ, DVS1, Münch, Simone Lunghi, Viels |
 | Sun, 8 Nov 2026 | CASAMATTA - Database Showcase - Masada | Akaj, Audri, Camillo (3), Otis |
+| Sat, 14 Nov 2026 | Closer 11th Years Birthday Masada /// Connor Wall - Hasvat Informant - Rosati live | Connor Wall, Hasvat Informant, Ikaar, Rosati, Spad, akin.souls |
 | Sun, 15 Nov 2026 | Render with skyra, Hamatsuki, Orion | Hamatsuki, Mattia Dambrosio, ORION (IT), Outburst Knobs, skyra |
 | Sat, 5 Dec 2026 | Dorisburg (live), Javel, raptAGOG // Acquario (Masada) | Dorisburg, Globular Waves, Javel, Outburst Knobs, Viels |
 
@@ -20,4 +21,4 @@ Masada is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with lin
 
 Viale Carlo Espinasse, 41, 20156 Milan, Italy, Milan
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*

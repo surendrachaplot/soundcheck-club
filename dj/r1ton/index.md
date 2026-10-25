@@ -1,6 +1,6 @@
 # R1TON
 
-R1TON is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 27 Nov 2026.
+R1TON is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 27 Nov 2026.
 
 R1TON is a techno artist based in Spain, with 12 gigs on soundcheck across Madrid. Often billed alongside Súper Pä, KRSDJ and Syback. Next up: EL SÓTANO, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ R1TON is a techno artist based in Spain, with 12 gigs on soundcheck across Madri
 
 Súper Pä, KRSDJ, Syback
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ton/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ton/)*

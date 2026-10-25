@@ -1,6 +1,6 @@
 # Goat Spokesperson
 
-Goat Spokesperson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Samis Bar, Athens on Sun, 25 Oct 2026.
+Goat Spokesperson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Samis Bar, Athens on Sun, 25 Oct 2026.
 
 Goat Spokesperson is a techno and house artist based in Germany, with 11 gigs on soundcheck across Athens, Berlin, Melbourne and Sydney. Often billed alongside Arson Fire, Estée Louder and Gay Roberto. Next up: Samis Bar, Athens on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Goat Spokesperson is a techno and house artist based in Germany, with 11 gigs on
 
 Arson Fire, Estée Louder, Gay Roberto
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goatspokesperson/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goatspokesperson/)*

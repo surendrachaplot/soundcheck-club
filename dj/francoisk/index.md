@@ -1,6 +1,6 @@
 # Francois K
 
-Francois K is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Hype Discoteca, Naples on Sat, 31 Oct 2026.
+Francois K is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hype Discoteca, Naples on Sat, 31 Oct 2026.
 
 Francois K is a house and disco artist based in United States of America, with 127 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Joe Claussell, Danny Krivit and Colleen 'Cosmo' Murphy. Next up: Hype Discoteca, Naples on Sat 31 Oct.
 
@@ -14,6 +14,7 @@ Francois K is a house and disco artist based in United States of America, with 1
 
 ## Recently played
 
+- Liquidroom, Tokyo · Sat, 24 Oct 2026
 - Le Bain, New York City · Sun, 18 Oct 2026
 - Le Bain, New York City · Sun, 11 Oct 2026
 - BASE Milano, Milan · Sat, 10 Oct 2026
@@ -21,10 +22,9 @@ Francois K is a house and disco artist based in United States of America, with 1
 - Le Bain, New York City · Sun, 27 Sept 2026
 - Le Bain, New York City · Sun, 20 Sept 2026
 - Le Bain, New York City · Sun, 13 Sept 2026
-- Locust Grove, New York City · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Joe Claussell, Danny Krivit, Colleen 'Cosmo' Murphy
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*

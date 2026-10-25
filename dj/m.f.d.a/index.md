@@ -1,6 +1,6 @@
 # M.F.D.A
 
-M.F.D.A is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
+M.F.D.A is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
 
 M.F.D.A is a techno and hardcore artist, with 8 gigs on soundcheck across Krakow, Vilnius and Wroclaw. Often billed alongside Aslan, GNADENLOS and HELLIS. Next up: Transformator, Wroclaw on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ M.F.D.A is a techno and hardcore artist, with 8 gigs on soundcheck across Krakow
 
 Aslan (3), GNADENLOS, HELLIS
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.f.d.a/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.f.d.a/)*

@@ -1,14 +1,13 @@
 # Renate
 
-Renate is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Renate Klubnacht with Boisha, Kedi Bounce, SERA & Francesco Passantino" on Sat, 24 Oct 2026.
+Renate is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "House of Lunacy Halloween Ball - The Danse Macabre" on Thu, 29 Oct 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including Abstraxion, Adlas, Adri Alibi and Alexandra and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Abstraxion, Adlas, Adri Alibi and Alexandra and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Renate Klubnacht with Boisha, Kedi Bounce, SERA & Francesco Passantino | FANK, Francesco Passantino, IZZA (SI), Kedi Bounce, Mandel, PERT, SERA (2), Shanda, moe. |
 | Thu, 29 Oct 2026 | House of Lunacy Halloween Ball - The Danse Macabre |  |
 | Fri, 30 Oct 2026 | Renate Klubnacht with HABITUS x CURA Berlin | Adlas, Anna Kost, Concussion, MASCHA, Maccari, Max Dewavrin, Vale, Waldymoto |
 | Sat, 31 Oct 2026 | Renate's Halloween Klubnacht w/ Coco Cobra, casadephunk, Jiāla & Antina's SpookWave | Coco Cobra, Evaluvfrog, Hongor, Manolo. (DE), Organza, Panooc, Robin Flux, elliephunk |
@@ -18,9 +17,10 @@ Renate is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with l
 | Thu, 12 Nov 2026 | Renate Thursdays |  |
 | Fri, 13 Nov 2026 | Renate Klubnacht with Carly Zeng & CREAM | Brahmski, Carly Zeng, Johana Jost, Kontronatura, Mille (DE), Vanaenae, Yas Reven |
 | Sat, 14 Nov 2026 | Renate Klubnacht w/ SNC, Mara Menace & Loveshack | Bekkler, Bonzai Bonner, Charlie Vaux, DCHM, EMIRA, Mara Menace, Maruwa, SNC Crew, exuvia |
+| Fri, 20 Nov 2026 | Renate Klubnacht with Black.Is, Moses Joses & HitYaWithThat | Denzel, Hitomi (DE), Julion De'Angelo, Moses Joses |
 
 ## Address
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

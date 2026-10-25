@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+salute is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 salute is a house and techno artist based in Austria, with 209 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside HAAi, DJ BORING and Eliza Rose. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ salute is a house and techno artist based in Austria, with 209 gigs on soundchec
 
 HAAi, DJ BORING, Eliza Rose
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

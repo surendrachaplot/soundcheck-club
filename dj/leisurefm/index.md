@@ -1,14 +1,15 @@
 # leisure fm
 
-leisure fm is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Vespers Club, London on Thu, 26 Nov 2026.
+leisure fm is a Experimental and Pop artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Vespers Club, London on Thu, 26 Nov 2026.
 
-leisure fm is an experimental and pop artist based in Poland, with 10 gigs on soundcheck across London. Often billed alongside Conrad Pack, Harietta and Aïsha Devi. Next up: Vespers Club, London on Thu 26 Nov.
+leisure fm is an experimental and pop artist based in Poland, with 11 gigs on soundcheck across London. Often billed alongside Conrad Pack, Harietta and Aïsha Devi. Next up: Vespers Club, London on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 26 Nov 2026 | Vespers Club | London |
+| Thu, 18 Feb 2027 | TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects) | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ leisure fm is an experimental and pop artist based in Poland, with 10 gigs on so
 
 Conrad Pack, Harietta, Aïsha Devi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leisurefm/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leisurefm/)*

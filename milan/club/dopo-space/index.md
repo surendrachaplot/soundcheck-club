@@ -1,6 +1,6 @@
 # Dopo?Space
 
-Dopo?Space is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "BUKA" on Sat, 7 Nov 2026.
+Dopo?Space is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "BUKA" on Sat, 7 Nov 2026.
 
 Dopo?Space is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Joe Cotch and Katatonic Silentio. See dates, start times and who's playing. Via Carlo Boncompagni, 51/10, 20139 Milano MI.
 
@@ -14,4 +14,4 @@ Dopo?Space is a music venue in Milan listed on soundcheck. 1 upcoming gig, with 
 
 Via Carlo Boncompagni, 51/10, 20139 Milano MI, Milan
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/dopo-space/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/dopo-space/)*

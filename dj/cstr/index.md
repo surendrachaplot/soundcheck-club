@@ -1,6 +1,6 @@
 # cstr
 
-cstr is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 24 Oct 2026.
+cstr is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 cstr is a techno and garage artist based in United States of America, with 23 gigs on soundcheck across Nottingham and San Francisco/Oakland. Often billed alongside Karl Havok, Saffaire and Jobert Rowney Dunior. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 24 Oct.
 
@@ -13,6 +13,7 @@ cstr is a techno and garage artist based in United States of America, with 23 gi
 
 ## Recently played
 
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 24 Oct 2026
 - Public Works, San Francisco/Oakland · Sat, 10 Oct 2026
 - Arcana, San Francisco/Oakland · Sat, 5 Sept 2026
 - Monarch, San Francisco/Oakland · Fri, 15 May 2026
@@ -20,10 +21,9 @@ cstr is a techno and garage artist based in United States of America, with 23 gi
 - F8 1192 Folsom, San Francisco/Oakland · Wed, 8 Apr 2026
 - Monarch, San Francisco/Oakland · Fri, 23 Jan 2026
 - Public Works, San Francisco/Oakland · Fri, 2 Jan 2026
-- F8 1192 Folsom, San Francisco/Oakland · Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Karl Havok, Saffaire, Jobert Rowney Dunior
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cstr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cstr/)*

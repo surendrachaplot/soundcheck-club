@@ -1,6 +1,6 @@
 # YUKI.T
 
-YUKI.T is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Blvck Water, Osaka on Wed, 28 Oct 2026.
+YUKI.T is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Blvck Water, Osaka on Wed, 28 Oct 2026.
 
 YUKI.T is a psytrance and techno artist based in Japan, with 31 gigs on soundcheck across Barcelona, Lisbon, Osaka and Tokyo. Often billed alongside MASOI, Tom Monkey and Shinji Sugiyama. Next up: Blvck Water, Osaka on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ YUKI.T is a psytrance and techno artist based in Japan, with 31 gigs on soundche
 
 MASOI, Tom Monkey, Shinji Sugiyama
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuki.t/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuki.t/)*

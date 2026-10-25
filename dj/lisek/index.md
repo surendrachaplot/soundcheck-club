@@ -1,20 +1,20 @@
 # Lisek
 
-Lisek is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at OST, Berlin on Sat, 24 Oct 2026.
+Lisek is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 5 Dec 2026.
 
-Lisek is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 4 more. Often billed alongside DJ Sweedee, Sober At The Disco and CH4YN. Next up: OST, Berlin on Sat 24 Oct.
+Lisek is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 4 more. Often billed alongside DJ Sweedee, Sober At The Disco and CH4YN. Next up: Lokschuppen Berlin, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | OST | Berlin |
 | Sat, 5 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Sat, 28 Aug 2027 | Sommerbad Neuköln | Berlin |
 
 ## Recently played
 
+- OST, Berlin · Sat, 24 Oct 2026
 - OST, Berlin · Fri, 23 Oct 2026
 - Monarch, Berlin · Fri, 16 Oct 2026
 - ÆDEN, Berlin · Sat, 26 Sept 2026
@@ -22,10 +22,9 @@ Lisek is a techno and trance artist based in Germany, with 62 gigs on soundcheck
 - Lokschuppen Berlin, Berlin · Sat, 12 Sept 2026
 - Sommerbad Neukölln, Berlin · Sun, 30 Aug 2026
 - TBA - Greifswalder Str. 24, 10405 Berlin, Berlin · Sat, 15 Aug 2026
-- ÆDEN, Berlin · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 DJ Sweedee, Sober At The Disco, CH4YN
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisek/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisek/)*

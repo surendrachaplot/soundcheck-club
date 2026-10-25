@@ -1,6 +1,6 @@
 # Malice
 
-Malice is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Malice is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Malice is a techno and electro artist based in Germany, with 26 gigs on soundcheck across Barcelona, Bogotá, Christchurch and Cologne and 8 more. Often billed alongside Bedriñana, Sound Rush and Sylvana. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Malice is a techno and electro artist based in Germany, with 26 gigs on soundche
 
 Bedriñana, Sound Rush, Sylvana
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malice/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malice/)*

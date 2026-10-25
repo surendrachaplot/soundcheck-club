@@ -1,15 +1,16 @@
 # Lola Kay
 
-Lola Kay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Club AMT, Berlin on Tue, 27 Oct 2026.
+Lola Kay is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at AMT, Berlin on Tue, 27 Oct 2026.
 
-Lola Kay is a techno and house artist based in Germany, with 69 gigs on soundcheck across Barcelona, Berlin, Copenhagen and London and 5 more. Often billed alongside ValaV, AMARANTE and REXER. Next up: Club AMT, Berlin on Tue 27 Oct.
+Lola Kay is a techno and house artist based in Germany, with 70 gigs on soundcheck across Barcelona, Berlin, Copenhagen and London and 5 more. Often billed alongside ValaV, AMARANTE and REXER. Next up: AMT, Berlin on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 27 Oct 2026 | Club AMT | Berlin |
+| Tue, 27 Oct 2026 | AMT | Berlin |
 | Thu, 12 Nov 2026 | Crack Bellmer | Berlin |
+| Sat, 21 Nov 2026 | Acud Macht NEU | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Lola Kay is a techno and house artist based in Germany, with 69 gigs on soundche
 
 ValaV, AMARANTE, REXER
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolakay/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolakay/)*

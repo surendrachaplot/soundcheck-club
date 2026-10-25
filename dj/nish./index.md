@@ -1,6 +1,6 @@
 # nish.
 
-nish. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Refuge, New York City on Sat, 14 Nov 2026.
+nish. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Refuge, New York City on Sat, 14 Nov 2026.
 
 nish. is a house and deep house artist based in United States of America, with 8 gigs on soundcheck across Los Angeles and New York City. Often billed alongside BL SUEDE, Mana Moves and Andy Oro. Next up: Refuge, New York City on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ nish. is a house and deep house artist based in United States of America, with 8
 
 BL SUEDE, Mana Moves, Andy Oro
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nish./)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nish./)*

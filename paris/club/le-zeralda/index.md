@@ -1,16 +1,13 @@
 # Le Zeralda
 
-Le Zeralda is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Blason + Cigvë X Kole Galbraith + Joan Jett Fanclub + Cringe" on Sat, 24 Oct 2026.
+Le Zeralda is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "After VOLTAGE + D.KO Records: Mézigue, Benedetta, GGGG b2b Mad Rey, Romain Play, Marli" on Sun, 25 Oct 2026.
 
-Le Zeralda is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Blason, BOOH, Benedetta and GGGG and 2 more. See dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
+Le Zeralda is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Benedetta, GGGG, Mad Rey and Marli and 2 more. See dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Blason + Cigvë X Kole Galbraith + Joan Jett Fanclub + Cringe | Blason |
-| Sat, 24 Oct 2026 | Danza Autoriza : Booh, Leilo, Rivka | BOOH, Rivka |
-| Sat, 24 Oct 2026 | Blason + Cigvë X Kole Galbraith + Joan Jett Fanclub + Cringe | Blason |
 | Sun, 25 Oct 2026 | After VOLTAGE + D.KO Records: Mézigue, Benedetta, GGGG b2b Mad Rey, Romain Play, Marli | Benedetta, GGGG, Mad Rey, Marli, Mézigue, Romain Play |
 | Sun, 1 Nov 2026 | Dissidance : Ara, Rrose Selavy, Servye & More |  |
 | Sat, 14 Nov 2026 | Rawdive, L'ecuyer, Ottoman Gruw B2b Nelestial |  |
@@ -19,4 +16,4 @@ Le Zeralda is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with
 
 125 avenue Gallieni, Bagnolet, Paris
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*

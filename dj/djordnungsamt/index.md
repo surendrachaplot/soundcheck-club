@@ -1,6 +1,6 @@
 # DJ ORDNUNGSAMT
 
-DJ ORDNUNGSAMT is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
+DJ ORDNUNGSAMT is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
 
 DJ ORDNUNGSAMT is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Freiburg and 3 more. Often billed alongside sterni (DE), 20_5_3_8_14_15 and Limoncello. Next up: Odonien, Cologne on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ DJ ORDNUNGSAMT is a techno and trance artist based in Germany, with 34 gigs on s
 
 sterni (DE), 20_5_3_8_14_15, Limoncello
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djordnungsamt/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djordnungsamt/)*

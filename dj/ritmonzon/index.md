@@ -1,6 +1,6 @@
 # Ritmonzón
 
-Ritmonzón is a Funk / Soul and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Café de Nadie, Mexico City on Wed, 21 Oct 2026.
+Ritmonzón is a Funk / Soul and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Café de Nadie, Mexico City on Wed, 21 Oct 2026.
 
 Ritmonzón is a funk / soul and vaporwave artist based in Mexico, with 22 gigs on soundcheck across Mexico City. Often billed alongside Dj Raw (MX), Pablo Miya and Love Language. Next up: Café de Nadie, Mexico City on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Ritmonzón is a funk / soul and vaporwave artist based in Mexico, with 22 gigs o
 
 Dj Raw (MX), Pablo Miya, Love Language
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritmonzon/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritmonzon/)*

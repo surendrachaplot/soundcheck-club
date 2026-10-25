@@ -1,6 +1,6 @@
 # Mat Schubert
 
-Mat Schubert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Dachboden at 25h Hotel, Vienna on Mon, 26 Oct 2026.
+Mat Schubert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Dachboden at 25h Hotel, Vienna on Mon, 26 Oct 2026.
 
 Mat Schubert is a house and techno artist, with 44 gigs on soundcheck across Vienna. Often billed alongside Ardmos, Chiara Valentina and UPHORA. Next up: Dachboden at 25h Hotel, Vienna on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Mat Schubert is a house and techno artist, with 44 gigs on soundcheck across Vie
 
 Ardmos, Chiara Valentina, UPHORA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matschubert/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matschubert/)*

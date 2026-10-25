@@ -1,6 +1,6 @@
 # Stefanie Raschke
 
-Stefanie Raschke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Pacha, Munich on Sat, 31 Oct 2026.
+Stefanie Raschke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Pacha, Munich on Sat, 31 Oct 2026.
 
 Stefanie Raschke is a techno and house artist, with 36 gigs on soundcheck across Berlin, Brighton, Copenhagen and Dubai and 8 more. Often billed alongside Pascale Voltaire, Cioz and Julian Wassermann. Next up: Pacha, Munich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Stefanie Raschke is a techno and house artist, with 36 gigs on soundcheck across
 
 Pascale Voltaire, Cioz, Julian Wassermann
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanieraschke-de/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanieraschke-de/)*

@@ -1,18 +1,18 @@
 # Robert Owens
 
-Robert Owens is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Robert Owens is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 28 Nov 2026.
 
-Robert Owens is a house and techno artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Frankie Flowerz, Mad Shivers and Philippe Autuori. Next up: Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat 24 Oct.
+Robert Owens is a house and techno artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Frankie Flowerz, Mad Shivers and Philippe Autuori. Next up: CLUB RAUM, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Club Piazza Rembrandt / Rembrandtplein 45, Amsterdam | Amsterdam |
 | Sat, 28 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
+- Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Slow Club- Other Side of Tama, Poznan · Sat, 19 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 12 Sept 2026
 - Gestrandet An Der Jannowitzbrücke, Berlin · Sat, 5 Sept 2026
@@ -20,10 +20,9 @@ Robert Owens is a house and techno artist based in United States of America, wit
 - Lokschuppen Berlin, Berlin · Sun, 16 Aug 2026
 - Signal, New York City · Sun, 19 Jul 2026
 - Copper Boot, Toronto · Sat, 18 Jul 2026
-- ZeyZey, Miami · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Frankie Flowerz, Mad Shivers, Philippe Autuori
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertowens/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertowens/)*

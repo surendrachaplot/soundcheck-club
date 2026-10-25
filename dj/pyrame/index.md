@@ -1,6 +1,6 @@
 # Pyrame
 
-Pyrame is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Folklor, Lausanne on Fri, 30 Oct 2026.
+Pyrame is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Folklor, Lausanne on Fri, 30 Oct 2026.
 
 Pyrame is a house and electro artist based in Switzerland, with 58 gigs on soundcheck across Barcelona, Berlin, Lausanne and Marseille. Often billed alongside Acid Washed, Bardamu and Justin Rivera. Next up: Folklor, Lausanne on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Pyrame is a house and electro artist based in Switzerland, with 58 gigs on sound
 
 Acid Washed, Bardamu, Justin Rivera
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyrame/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyrame/)*

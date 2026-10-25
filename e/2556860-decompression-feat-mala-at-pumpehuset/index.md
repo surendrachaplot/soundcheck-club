@@ -1,6 +1,6 @@
 # Decompression feat. Mala at Pumpehuset
 
-Decompression feat. Mala at Pumpehuset on Fri 22 Jan, Copenhagen. 4 artists: DJ Lukey, Mala, Tea Lewis and Tine Valentin. See the line-up on soundcheck.
+Decompression feat. Mala at Pumpehuset on Fri 22 Jan, Copenhagen. 4 artists: DJ Lukey, Mala, Tea Lewis and Tine Valentin. Breakbeat and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "House Of Groove invite: Dan Ghenacia, Melody" on Sat, 24 Oct 2026.
+Rex Club is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "LEGENDS: Moodymann, Jovonn, DJ Deep" on Sun, 25 Oct 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Antal, Anthea, Avenir and Axel Blanc and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including Antal, Anthea, Avenir and Axel Blanc and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | House Of Groove invite: Dan Ghenacia, Melody | Dan Ghenacia, Melody RA+RE |
 | Sun, 25 Oct 2026 | LEGENDS: Moodymann, Jovonn, DJ Deep | DJ Deep, Jovonn, Moodymann |
 | Wed, 28 Oct 2026 | HOTLINE AGENCY presents BETÏSES & Britney Speed extended set | BETÏSES, Britney Speed |
 | Thu, 29 Oct 2026 | Furtive: Kili, Ghosty, Petit Castor | Ghosty (1), Kili (3) |
@@ -18,9 +17,10 @@ Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with 
 | Fri, 6 Nov 2026 | BLEU MON JULES: Carla Mo, Babar, Iron Prado, Babuuh | Babar |
 | Sat, 7 Nov 2026 | Rex Club presents: Antal all night long | Antal |
 | Tue, 10 Nov 2026 | Rex Club presents: Gabriel Belabas b2b Poggio all night long | Poggio |
+| Thu, 12 Nov 2026 | Shutdown reboost: Rony, Chopsoe Blumhouse, basstrick, Komodo | Komodo |
 
 ## Address
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

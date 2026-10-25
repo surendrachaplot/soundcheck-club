@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "RAZZCLUBS: DJ Godfather + Natural Language + Bas Mooy + Kaiser + David Elimelech" on Sat, 24 Oct 2026.
+Razzmatazz is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks)" on Sun, 1 Nov 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including adobeprincess, Alex Wilcox, Alvaro Medina and Andrae Durden and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including adobeprincess, Alex Wilcox, Alvaro Medina and Andrae Durden and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | RAZZCLUBS: DJ Godfather + Natural Language + Bas Mooy + Kaiser + David Elimelech | Bas Mooy, DJ Godfather, DJ KETAFLUSH, David Elimelech, Elwood, Kaiser (K S R), Miramizu, NAUAL, Natural Language, Rosecut, Speare, Spiderwrap |
 | Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | ANJELIKA SAHAKIAN, Art of Fighters, DIDIXX, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
 | Fri, 6 Nov 2026 | RAZZCLUBS: Egyptian Lover + Griffi + Alvaro Medina + BMT: Flava D | Alvaro Medina, Egyptian Lover, Flava D, Montenegro, RUXI, Yume (JP) |
 | Sat, 7 Nov 2026 | RAZZCLUBS: Shanti Celeste + NIKS - Powered By Greenlight Sound System | Arnic, DJ MELL G, Dsprfcto, Hi-Ki, Jhort, NIKS, Nadia Struiwigh, Olor Acre, Pelacha, Shanti Celeste, WLDV |
@@ -18,9 +17,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs,
 | Fri, 20 Nov 2026 | RAZZCLUBS: Jolani Jhones + Rico Rosa + LaBlackie + ᵀʰᵉ ᵀʷⁱⁿˢ live | Jolani Jhones, LaBlackie, Marta Mer |
 | Sat, 21 Nov 2026 | Pre-human x Refractor: Alohn, Andrae Durden, Convoluted Mental Mirror, Gaber, Malesa | Andrae Durden, Convoluted Mental Mirror, Malesa |
 | Sat, 21 Nov 2026 | RAZZCLUBS: Lizz presenta La Chismoteka: Entropika + Reeko b2b Tensal + SHXCXCHCXSH Live | Blaark, Convoluted Mental Mirror, Kanti, ORFIGYAL, Reeko, SHXCXCHCXSH, Tensal |
+| Thu, 26 Nov 2026 | COBRAH | COBRAH |
 
 ## Address
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

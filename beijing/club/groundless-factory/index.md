@@ -1,14 +1,13 @@
 # Groundless Factory
 
-Groundless Factory is a music venue in Beijing with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "MODULAR COMMUNE VOL 24 TECHNO AFTERPARTY" on Sat, 24 Oct 2026.
+Groundless Factory is a music venue in Beijing with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "w/ MAX DURANTE" on Fri, 30 Oct 2026.
 
-Groundless Factory is a music venue in Beijing listed on soundcheck. 2 upcoming gigs, with line-ups including An On Bast, Hataken, Lorenzo Donato and MAX DURANTE and 2 more. See dates, start times and who's playing.
+Groundless Factory is a music venue in Beijing listed on soundcheck. 1 upcoming gig, with line-ups including MAX DURANTE. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | MODULAR COMMUNE VOL 24 TECHNO AFTERPARTY | An On Bast, Hataken, Lorenzo Donato, MODGEIST, Odyssee, Parakuat |
 | Fri, 30 Oct 2026 | w/ MAX DURANTE | MAX DURANTE |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/groundless-factory/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/groundless-factory/)*

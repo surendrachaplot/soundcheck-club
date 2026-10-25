@@ -1,6 +1,6 @@
 # YUVIE
 
-YUVIE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Saloon, Tokyo on Sat, 31 Oct 2026.
+YUVIE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Saloon, Tokyo on Sat, 31 Oct 2026.
 
 YUVIE is a techno and house artist based in Japan, with 180 gigs on soundcheck across Okinawa, Osaka, Seoul and Taipei and 1 more. Often billed alongside r1ku, kengotaki and SAMO (JP). Next up: Saloon, Tokyo on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ YUVIE is a techno and house artist based in Japan, with 180 gigs on soundcheck a
 
 r1ku, kengotaki, SAMO (JP)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuvie/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuvie/)*

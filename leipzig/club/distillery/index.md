@@ -1,14 +1,13 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Vinylschleifer StepBack" on Sat, 24 Oct 2026.
+Distillery is a music venue in Leipzig with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Erobique " on Thu, 29 Oct 2026.
 
-Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, with line-ups including Arman John, a:tok, Bela Bertram and Bephål and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
+Distillery is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs, with line-ups including Arman John, a:tok, Bela Bertram and Bephål and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Vinylschleifer StepBack | Da Voice, Hanno Hinkelbein, Jerome Hill, Lydmate, Templeton |
 | Thu, 29 Oct 2026 | Erobique  | Erobique |
 | Fri, 30 Oct 2026 | DUALISM with PARACEK & SPEEDBOYS LIVE | DJ KAMMERFLIMMERN, LAURIX (DE), Limoncello, Paraçek, SPEEDBOYS, Templeton, bertziherzi, dj twerking class, komszi*komsza |
 | Sat, 31 Oct 2026 | Selectors Club | Costanza, Gwenan, Kassem Mosse, Lea Jessen, Roko (2), grandmalheur |
@@ -18,9 +17,10 @@ Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, w
 | Sat, 21 Nov 2026 | Roman Flügel × nebula | Cynthia Matisse, Lea Jessen, Roman Flügel, a:tok, moraine, morphin, noxsonos |
 | Sun, 29 Nov 2026 | STAUB + Rillendisco |  |
 | Fri, 4 Dec 2026 | DUALISM with DJ DRECKISCH, Butschi, Arman John | Arman John, Butschi, DJ DRECKISCH |
+| Sat, 9 Jan 2027 | Don't Stop | Chris Liebing |
 
 ## Address
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

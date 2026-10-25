@@ -1,6 +1,6 @@
 # Mary-chan
 
-Mary-chan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Tabula Rasa, Tokyo on Sun, 25 Oct 2026.
+Mary-chan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Tabula Rasa, Tokyo on Sun, 25 Oct 2026.
 
 Mary-chan is a house and techno artist based in Japan, with 52 gigs on soundcheck across Seoul and Tokyo. Often billed alongside AY, O.Goo and TAKUTO. Next up: Tabula Rasa, Tokyo on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Mary-chan is a house and techno artist based in Japan, with 52 gigs on soundchec
 
 AY (10), O.Goo, TAKUTO (2)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-chan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-chan/)*

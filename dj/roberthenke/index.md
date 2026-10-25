@@ -1,6 +1,6 @@
 # Robert Henke
 
-Robert Henke is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Robert Henke is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Robert Henke is an electronica and experimental artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 6 more. Often billed alongside Caterina Barbieri, Timnah and Valentina Magaletti. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Robert Henke is an electronica and experimental artist based in Germany, with 13
 
 Caterina Barbieri, Timnah, Valentina Magaletti
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthenke/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthenke/)*

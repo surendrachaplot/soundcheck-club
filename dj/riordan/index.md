@@ -1,6 +1,6 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Riordan is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Riordan is a house and tech house artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Gorgon City, Prunk and Jackie Hollander. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -23,6 +23,7 @@ Riordan is a house and tech house artist based in United Kingdom, with 134 gigs 
 
 ## Recently played
 
+- Club Space Miami, Miami · Sat, 24 Oct 2026
 - Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - Quartyard, San Diego · Sat, 10 Oct 2026
 - 1015 Folsom, San Francisco/Oakland · Fri, 9 Oct 2026
@@ -30,10 +31,9 @@ Riordan is a house and tech house artist based in United Kingdom, with 134 gigs 
 - Circus Tokyo, Tokyo · Thu, 1 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 5 Sept 2026
 - [UNVRS], Ibiza · Wed, 19 Aug 2026
-- BCM, Mallorca · Tue, 18 Aug 2026
 
 ## Shares bills with
 
 Gorgon City, Prunk, Jackie Hollander
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*

@@ -1,6 +1,6 @@
 # DJ Raff
 
-DJ Raff is a Latin Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Fanialive Wien, Vienna on Sat, 7 Nov 2026.
+DJ Raff is a Latin Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Fanialive Wien, Vienna on Sat, 7 Nov 2026.
 
 DJ Raff is a latin bass and electronica artist based in Chile, with 14 gigs on soundcheck across Barcelona, Chengdu, London and Shanghai and 2 more. Often billed alongside Earthly Measures, AUKA and Dreems. Next up: Fanialive Wien, Vienna on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Raff is a latin bass and electronica artist based in Chile, with 14 gigs on s
 
 Earthly Measures, AUKA, Dreems
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djraff/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djraff/)*

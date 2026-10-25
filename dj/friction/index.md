@@ -1,6 +1,6 @@
 # Friction
 
-Friction is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at MK Arena, Midlands on Sat, 31 Oct 2026.
+Friction is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at MK Arena, Midlands on Sat, 31 Oct 2026.
 
 Friction is a drum & bass and bass artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Berlin and 46 more. Often billed alongside Hybrid Minds, Linguistics and A Little Sound. Next up: MK Arena, Midlands on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Friction is a drum & bass and bass artist based in United Kingdom, with 89 gigs 
 
 Hybrid Minds, Linguistics, A Little Sound
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*

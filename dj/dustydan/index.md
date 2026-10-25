@@ -1,6 +1,6 @@
 # Dusty Dan
 
-Dusty Dan is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Phonox, London on Thu, 5 Nov 2026.
+Dusty Dan is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Phonox, London on Thu, 5 Nov 2026.
 
 Dusty Dan is a techno and bass artist based in United Kingdom, with 52 gigs on soundcheck across Adelaide, Bristol, Budapest and Dublin and 12 more. Often billed alongside smokey.t, ZEMA and Aloka. Next up: Phonox, London on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Dusty Dan is a techno and bass artist based in United Kingdom, with 52 gigs on s
 
 smokey.t, ZEMA, Aloka
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustydan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustydan/)*

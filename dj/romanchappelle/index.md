@@ -1,6 +1,6 @@
 # Roman Chappelle
 
-Roman Chappelle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Lost in Paradise Rooftop, New York City on Sun, 25 Oct 2026.
+Roman Chappelle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Lost in Paradise Rooftop, New York City on Sun, 25 Oct 2026.
 
 Roman Chappelle is a house and disco artist based in United States of America, with 31 gigs on soundcheck across New York City and Washington DC. Often billed alongside Sainte Francis, Bea Hardy and Dwells. Next up: Lost in Paradise Rooftop, New York City on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Roman Chappelle is a house and disco artist based in United States of America, w
 
 Sainte Francis, Bea Hardy, Dwells
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanchappelle/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanchappelle/)*

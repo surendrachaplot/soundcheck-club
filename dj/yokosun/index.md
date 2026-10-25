@@ -1,6 +1,6 @@
 # YOKOSUN
 
-YOKOSUN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+YOKOSUN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 YOKOSUN is a house and techno artist based in Japan, with 108 gigs on soundcheck across Bali, Bangkok, Hanoi and Ho Chi Minh City and 5 more. Often billed alongside BongBongQuayQuay, Hibiya Line and Park:ING. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ YOKOSUN is a house and techno artist based in Japan, with 108 gigs on soundcheck
 
 BongBongQuayQuay, Hibiya Line, Park:ING
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokosun/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokosun/)*

@@ -1,6 +1,6 @@
 # Manikk
 
-Manikk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
+Manikk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
 
 Manikk is a techno and house artist, with 75 gigs on soundcheck across Bangkok, Beijing, Hanoi and Ho Chi Minh City and 3 more. Often billed alongside Di Linh, CONG and TaoFu. Next up: Gatosano Da Nang, Vietnam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Manikk is a techno and house artist, with 75 gigs on soundcheck across Bangkok, 
 
 Di Linh, CONG, TaoFu
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manikk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manikk/)*

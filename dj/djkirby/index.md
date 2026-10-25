@@ -1,6 +1,6 @@
 # DJ Kirby
 
-DJ Kirby is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+DJ Kirby is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 DJ Kirby is a house and electro artist based in China, with 40 gigs on soundcheck across Chengdu, Chongqing, Hong Kong and Krakow and 2 more. Often billed alongside MLCH, Stitty and AngeliKa. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Kirby is a house and electro artist based in China, with 40 gigs on soundchec
 
 MLCH, Stitty, AngeliKa
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkirby/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkirby/)*

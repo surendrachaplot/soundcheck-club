@@ -1,6 +1,6 @@
 # Karina Schneider
 
-Karina Schneider is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Radio Radio, Amsterdam on Sun, 25 Oct 2026.
+Karina Schneider is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Radio Radio, Amsterdam on Sun, 25 Oct 2026.
 
 Karina Schneider is a techno and house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 3 more. Often billed alongside Marc Schneider, Beau Didier and Flits. Next up: Radio Radio, Amsterdam on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ Karina Schneider is a techno and house artist based in Germany, with 75 gigs on 
 
 Marc Schneider, Beau Didier, Flits
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*

@@ -1,6 +1,6 @@
 # MikAH
 
-MikAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
+MikAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
 
 MikAH is a techno and house artist based in Germany, with 55 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg. Often billed alongside Miyagi, Bizzarro Universe and SUZé. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MikAH is a techno and house artist based in Germany, with 55 gigs on soundcheck 
 
 Miyagi, Bizzarro Universe, SUZé
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikah/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikah/)*

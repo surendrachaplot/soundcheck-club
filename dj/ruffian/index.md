@@ -1,19 +1,19 @@
 # Ruffian
 
-Ruffian is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
+Ruffian is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
-Ruffian is a hardcore and techno artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Cologne, Munich and Rotterdam and 1 more. Often billed alongside Pavo, Buzz Fuzz and The Darkraver. Next up: Maassilo, Rotterdam on Sat 24 Oct.
+Ruffian is a hardcore and techno artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Cologne, Munich and Rotterdam and 1 more. Often billed alongside Pavo, Buzz Fuzz and The Darkraver. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Maassilo | Rotterdam |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 20 Feb 2027 | Het Sieraad | Amsterdam |
 
 ## Recently played
 
+- Maassilo, Rotterdam · Sat, 24 Oct 2026
 - Klub Progresja, Warsaw · Sat, 19 Sept 2026
 - Recreatiegebied Gaasperplas, Amsterdam · Sat, 4 Jul 2026
 - WestWeelde, Amsterdam · Sat, 4 Apr 2026
@@ -21,10 +21,9 @@ Ruffian is a hardcore and techno artist based in Netherlands, with 11 gigs on so
 - Bootshaus, Cologne · Fri, 7 Mar 2025
 - WestWeelde, Amsterdam · Sat, 30 Nov 2024
 - Lofi, Amsterdam · Sat, 10 Aug 2024
-- Hemkade 48, Amsterdam · Sat, 8 Jun 2024
 
 ## Shares bills with
 
 Pavo, Buzz Fuzz, The Darkraver
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffian/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffian/)*

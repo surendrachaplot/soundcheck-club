@@ -1,6 +1,6 @@
 # Kramladen
 
-Kramladen is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Spectral with Patrick Scuro" on Sun, 25 Oct 2026.
+Kramladen is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Spectral with Patrick Scuro" on Sun, 25 Oct 2026.
 
 Kramladen is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with line-ups including Alena Noctis, Hetum, Michel Lauriola and Patrick Scuro and 2 more. See dates, start times and who's playing. U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien.
 
@@ -16,4 +16,4 @@ Kramladen is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with
 
 U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien, Vienna
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*

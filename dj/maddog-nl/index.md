@@ -1,6 +1,6 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+Mad Dog is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
 Mad Dog is a techno and hardcore artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Angerfist, DYEN and Korsakoff. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Mad Dog is a techno and hardcore artist based in Italy, with 70 gigs on soundche
 
 Angerfist, DYEN, Korsakoff
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*

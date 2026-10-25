@@ -1,6 +1,6 @@
 # Caire
 
-Caire is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Honey's, New York City on Sun, 15 Nov 2026.
+Caire is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Honey's, New York City on Sun, 15 Nov 2026.
 
 Caire is a house and downtempo artist based in United States of America, with 20 gigs on soundcheck across Montreal and New York City. Often billed alongside Wauce, AG and CMD+JAZMINE. Next up: Honey's, New York City on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Caire is a house and downtempo artist based in United States of America, with 20
 
 Wauce, AG (1), CMD+JAZMINE
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caire/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caire/)*

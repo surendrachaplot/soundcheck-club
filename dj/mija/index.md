@@ -1,6 +1,6 @@
 # Mija
 
-Mija is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Dom im Berg, Austria on Sun, 25 Oct 2026.
+Mija is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Dom im Berg, Austria on Sun, 25 Oct 2026.
 
 Mija is a techno and trance artist based in United States of America, with 153 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 58 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Dom im Berg, Austria on Sun 25 Oct.
 
@@ -34,4 +34,4 @@ Mija is a techno and trance artist based in United States of America, with 153 g
 
 Bad Boombox, Mischluft, Janis Zielinski
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*

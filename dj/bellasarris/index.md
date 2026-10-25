@@ -1,6 +1,6 @@
 # Bella Sarris
 
-Bella Sarris is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 31 Oct 2026.
+Bella Sarris is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 31 Oct 2026.
 
 Bella Sarris is a house and techno artist based in Sweden, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside ISAbella, THC and Angel D'lite. Next up: Nitsa Club, Barcelona on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Bella Sarris is a house and techno artist based in Sweden, with 88 gigs on sound
 
 ISAbella, THC, Angel D'lite
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellasarris/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellasarris/)*

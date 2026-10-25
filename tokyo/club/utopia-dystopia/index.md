@@ -1,15 +1,13 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Unique" on Sat, 24 Oct 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Sync The Bass" on Sat, 31 Oct 2026.
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including 雷庵(RYan), Anri, Aviator and CKRN303 and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
+UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Aviator, Da Yama, Flint (UK) and Jackit and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Unique | Anri, CKRN303, KAIKAI, Krankent, SIGNAL (JP), Sofozor, TECSTONE, ki (43), 雷庵(RYan) |
-| Sat, 24 Oct 2026 | Unique | Anri, CKRN303, KAIKAI, Krankent, SIGNAL (JP), Sofozor, TECSTONE, ki (43), 雷庵(RYan) |
 | Sat, 31 Oct 2026 | Sync The Bass | Aviator, Flint (UK), Jackit, Kandy, RIKK, ReFuCafé, TAIKI, YASUKI, ron3lyscript |
 | Fri, 6 Nov 2026 | HCTP | Da Yama, Shimon Taka |
 | Sat, 14 Nov 2026 | plug vol.25 | KASHIWAGI, Kajitsu, Nobuharu Morimoto, SEIichiro Mitsuma, Soma Oue |
@@ -18,4 +16,4 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 5 upcoming gig
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

@@ -1,15 +1,13 @@
 # E1
 
-E1 is a music venue in London with 37 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "The Menendez Brothers & Friends: Winter Series" on Sat, 17 Oct 2026.
+E1 is a music venue in London with 35 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Donnie Darko Halloween House Party" on Sun, 25 Oct 2026.
 
-E1 is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including Paolo Ferrara, ABEL (UK), ACOR and Ade Smilez and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 35 upcoming gigs, with line-ups including Paolo Ferrara, ABEL (UK), ACOR and Ade Smilez and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | The Menendez Brothers & Friends: Winter Series | The Menendez Brothers |
-| Sat, 24 Oct 2026 | Rave Beyond Reality |  |
 | Sun, 25 Oct 2026 | Donnie Darko Halloween House Party |  |
 | Thu, 29 Oct 2026 | Zombie Mansion Immersive Halloween party with Sam Supplier and Mark Radford  | Art e Fect, Etayo JD, Mark Radford, NYCity Soundz, Sam Supplier, VanRock |
 | Fri, 30 Oct 2026 | BCCO: BIIANCO, FENIM0RE, future.666 & ÜBERKIKZ  presented by BACARDÍ | BIIANCO, FENIM0RE, future.666, ÜBERKIKZ |
@@ -18,9 +16,11 @@ E1 is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-
 | Fri, 6 Nov 2026 | ALIVE: Paolo Ferrara (All Night Long) | Paolo Ferrara |
 | Fri, 6 Nov 2026 | Polyamor: davyboi, Justin Jay, Cleopard2000, ASHTREY | ASHTREY, Cleopard2000, Justin Jay, davyboi |
 | Sat, 7 Nov 2026 | Functions 30 × 10 Years of LSD | Function, LSD, Livid (UK), Luke Slater, Steve Bicknell |
+| Sat, 7 Nov 2026 | House Delight |  |
+| Sat, 7 Nov 2026 | RED NOVEMBER | Ade Smilez, Olayemi, Red Hour |
 
 ## Address
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

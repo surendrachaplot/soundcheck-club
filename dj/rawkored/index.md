@@ -1,6 +1,6 @@
 # RAWKORED
 
-RAWKORED is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat, 31 Oct 2026.
+RAWKORED is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat, 31 Oct 2026.
 
 RAWKORED is a techno and drum & bass artist based in Latvia, with 7 gigs on soundcheck across Riga and Sheffield. Often billed alongside ANASI, DEP (LV) and DV8 (LV). Next up: TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ RAWKORED is a techno and drum & bass artist based in Latvia, with 7 gigs on soun
 
 ANASI, DEP (LV), DV8 (LV)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawkored/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawkored/)*

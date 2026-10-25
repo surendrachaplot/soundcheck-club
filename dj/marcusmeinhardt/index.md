@@ -1,6 +1,6 @@
 # Marcus Meinhardt
 
-Marcus Meinhardt is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Palais, Munich on Sat, 24 Oct 2026.
+Marcus Meinhardt is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Palais, Munich on Sat, 24 Oct 2026.
 
 Marcus Meinhardt is a techno and tech house artist based in Germany, with 70 gigs on soundcheck across Barcelona, Berlin, Cologne and Copenhagen and 13 more. Often billed alongside Solvane, Pauli Pocket and Prismode. Next up: Palais, Munich on Sat 24 Oct.
 
@@ -14,6 +14,7 @@ Marcus Meinhardt is a techno and tech house artist based in Germany, with 70 gig
 
 ## Recently played
 
+- Palais, Munich · Sat, 24 Oct 2026
 - Hive Club, Zurich · Sat, 26 Sept 2026
 - Bahnwärter Thiel, Munich · Sat, 15 Aug 2026
 - Hive Club, Zurich · Sat, 8 Aug 2026
@@ -21,10 +22,9 @@ Marcus Meinhardt is a techno and tech house artist based in Germany, with 70 gig
 - Supermarket, Zurich · Fri, 24 Jul 2026
 - Ritter Butzke, Berlin · Fri, 10 Jul 2026
 - Hive Club, Zurich · Sun, 24 May 2026
-- Hive Club, Zurich · Sat, 2 May 2026
 
 ## Shares bills with
 
 Solvane, Pauli Pocket, Prismode
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusmeinhardt/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusmeinhardt/)*

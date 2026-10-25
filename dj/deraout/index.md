@@ -1,6 +1,6 @@
 # Deraout
 
-Deraout is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Deraout is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 Deraout is a techno and house artist based in Colombia, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 4 more. Often billed alongside Vannesa Gnz, Andres Gil and Ricardo C. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Deraout is a techno and house artist based in Colombia, with 86 gigs on soundche
 
 Vannesa Gnz, Andres Gil, Ricardo C
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*

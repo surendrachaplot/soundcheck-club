@@ -1,6 +1,6 @@
 # Agustín Negri
 
-Agustín Negri is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 25 Oct 2026.
+Agustín Negri is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 25 Oct 2026.
 
 Agustín Negri is a tech house and house artist, with 8 gigs on soundcheck across Barcelona. Often billed alongside Agustin Bosco, FREDDIESS and Main Leaf. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ Agustín Negri is a tech house and house artist, with 8 gigs on soundcheck acros
 
 Agustin Bosco, FREDDIESS, Main Leaf
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustínnegri/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustínnegri/)*

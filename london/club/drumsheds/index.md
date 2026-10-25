@@ -1,14 +1,13 @@
 # DRUMSHEDS
 
-DRUMSHEDS is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "False Idols Halloween w/ Kim Petras (live), COBRAH, Rose Gray, VTSS, Patrick Mason" on Sat, 24 Oct 2026.
+DRUMSHEDS is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "elrow Horroween Festival with MK, LB aka LABAT, Sarah Story" on Sat, 31 Oct 2026.
 
-DRUMSHEDS is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Kepler, AAT (NL), ADMNTi and Adrian Mills and 2 more. See dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
+DRUMSHEDS is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Kepler, AAT (NL), ADMNTi and Adrian Mills and 2 more. See dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | False Idols Halloween w/ Kim Petras (live), COBRAH, Rose Gray, VTSS, Patrick Mason | COBRAH, Cakes Da Killa, Cashu, Donnie Sunshine, Goth Jafar, Josh Caffé, Joshua James (UK), Julie Desire, LEXII., Lady Shaka, Little Gay Brother, Patrick Mason, Someone Sunny, TEDESCO, Twang, UNiiQU3, VTSS |
 | Sat, 31 Oct 2026 | elrow Horroween Festival with MK, LB aka LABAT, Sarah Story | AAT (NL), ASLO, Alan Fitzpatrick, Arielle Free, Ayce, Danny Howard, Diffrent, Emma B, Fatzo, Fish56Octagon, Franky Wah, Funk Cartel, Kellie Allen, LB aka LABAT, Marc Kinchen, Oden, Sarah Story, Sasha GiGi, Tatiana (3), Tre Reynolds, Wade, branqueeno, hitty, lau.ra |
 | Sat, 7 Nov 2026 | Worried About Henry with Wilkinson, Bou, Kanine, Luude and many more  | Artemis, Bou (UK), Break (2), Breakage, Business As Usual, Capo Lee, Champion, Chimpo, DJ Flight, Denham Audio, Duskee, FOKUS (Live), Flowdan, Frazer Ray, HOAX, Halogenix, Izco, Just Jane, Kanine, Luude, MC GQ, Miggs, Monrroe, ODF (1), OKO (1), RAGE (3), Redlight, SIMMS, SP:MC, Salo (2), Skeptical, Special Request, Strategy, Sweetpea, Wilkinson, mixtress |
 | Fri, 13 Nov 2026 | La Discothèque with Purple Disco Machine, Folamour, Dan Shake, Ron Trent, Jayda G | DJ Paulette, Daisybelle, Dan Shake, Dombresky, Folamour, Heléna Star, Jayda G, Jennifer Loveless, Purple Disco Machine, Ron Trent, SIGGY, Tarzsa |
@@ -18,9 +17,10 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 15 upcoming gigs, wit
 | Sat, 28 Nov 2026 | FUSE London |  |
 | Sat, 28 Nov 2026 | FUSE 18th Birthday at Drumshed |  |
 | Sun, 29 Nov 2026 | SOLD OUT Piano People w/ South Gidi, DJ LAG b2b General C'Mamane | DJ LAG, Dj Maphorisa, Nésa Thea, cruz ctrl |
+| Sat, 5 Dec 2026 | Resistance London with Paul Kalkbrenner, Miss Monique, Kölsch, Sven Väth and many more | ANNA, Dana Ruh, Deer Jade, FAE (3), Gerd Janson, Miss Monique, Paul Kalkbrenner, Qrion, Roman Flügel, Sven Vath |
 
 ## Address
 
 6 Glover Drive, Edmonton, London, N18 3HF, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*

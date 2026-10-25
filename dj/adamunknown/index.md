@@ -1,6 +1,6 @@
 # Adam Unknown
 
-Adam Unknown is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Manray, Boston on Thu, 29 Oct 2026.
+Adam Unknown is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Manray, Boston on Thu, 29 Oct 2026.
 
 Adam Unknown is a house and techno artist, with 25 gigs on soundcheck across Boston, New York City and Pittsburgh. Often billed alongside Math3ca, Mx. Blaire and Jordan Graham. Next up: Manray, Boston on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Adam Unknown is a house and techno artist, with 25 gigs on soundcheck across Bos
 
 Math3ca, Mx. Blaire, Jordan Graham
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamunknown/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamunknown/)*

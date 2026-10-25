@@ -1,6 +1,6 @@
 # Emika Elena
 
-Emika Elena is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 21 Nov 2026.
+Emika Elena is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 21 Nov 2026.
 
 Emika Elena is a techno and industrial artist, with 17 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Tokyo. Often billed alongside Hypnotic Black Magic, BLACK ANTHEM RESTORE and Derek Plaslaiko. Next up: Garage Noord, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Emika Elena is a techno and industrial artist, with 17 gigs on soundcheck across
 
 Hypnotic Black Magic, BLACK ANTHEM RESTORE, Derek Plaslaiko
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emikaelena-jp/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emikaelena-jp/)*

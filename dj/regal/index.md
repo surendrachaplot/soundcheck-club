@@ -1,19 +1,19 @@
 # Regal
 
-Regal is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Sat, 24 Oct 2026.
+Regal is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at KALT, Strasbourg on Sat, 31 Oct 2026.
 
-Regal is a techno and acid artist based in Spain, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Nuke, Amelie Lens and Daria Kolosova. Next up: Basement (Amsterdam), Amsterdam on Sat 24 Oct.
+Regal is a techno and acid artist based in Spain, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Nuke, Amelie Lens and Daria Kolosova. Next up: KALT, Strasbourg on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Sat, 31 Oct 2026 | KALT | Strasbourg |
 | Fri, 6 Nov 2026 | KHIDI | Tbilisi |
 
 ## Recently played
 
+- Basement (Amsterdam), Amsterdam · Sat, 24 Oct 2026
 - Q-Factory, Amsterdam · Thu, 22 Oct 2026
 - Grand Park, Los Angeles · Sat, 26 Sept 2026
 - IFEMA, Madrid · Fri, 18 Sept 2026
@@ -21,10 +21,9 @@ Regal is a techno and acid artist based in Spain, with 152 gigs on soundcheck ac
 - ART Madrid Club, Madrid · Fri, 11 Sept 2026
 - Les Enfants Brillants, Barcelona · Thu, 10 Sept 2026
 - KMSKA, Antwerp · Sat, 5 Sept 2026
-- Garage Klub, Antwerp · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Nuke, Amelie Lens, Daria Kolosova
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*

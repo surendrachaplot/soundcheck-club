@@ -1,14 +1,13 @@
 # Cupra City Garage Manchester
 
-Cupra City Garage Manchester is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "AbsentAntiks X Cupra Takeover: SAVANNAH" on Sat, 24 Oct 2026.
+Cupra City Garage Manchester is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "D.A.Y.P x ABB presents: Occibel (FREE Party)" on Fri, 6 Nov 2026.
 
-Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including DAIZ, Joe Roche, KURLZ and Macy Lancaster and 2 more. See dates, start times and who's playing. 4-6 St Ann St, Manchester M2 7LG.
+Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Joe Roche, KURLZ, Macy Lancaster and Mascott and 2 more. See dates, start times and who's playing. 4-6 St Ann St, Manchester M2 7LG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | AbsentAntiks X Cupra Takeover: SAVANNAH | DAIZ, SAVANNAH |
 | Fri, 6 Nov 2026 | D.A.Y.P x ABB presents: Occibel (FREE Party) | Joe Roche, KURLZ, Occibel |
 | Sat, 14 Nov 2026 | Tim Green presents: Memories - Manchester | Tim Green |
 | Sat, 21 Nov 2026 | Good Custard x Ruf Dug at CUPRA | Macy Lancaster, Mascott, Ruf Dug, Sharayda |
@@ -17,4 +16,4 @@ Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck
 
 4-6 St Ann St, Manchester M2 7LG, Manchester
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*

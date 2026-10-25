@@ -1,6 +1,6 @@
 # FLOSS
 
-FLOSS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at BABY01, Berlin on Fri, 30 Oct 2026.
+FLOSS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at BABY01, Berlin on Fri, 30 Oct 2026.
 
 FLOSS is a house and techno artist based in Germany, with 3 gigs on soundcheck across Berlin and Dresden. Often billed alongside Dela Nesto, Dj handbag and HnyLune. Next up: BABY01, Berlin on Fri 30 Oct.
 
@@ -16,4 +16,4 @@ FLOSS is a house and techno artist based in Germany, with 3 gigs on soundcheck a
 
 Dela Nesto, Dj handbag, HnyLune
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floss/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floss/)*

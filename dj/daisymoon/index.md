@@ -1,6 +1,6 @@
 # Daisy Moon
 
-Daisy Moon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Movers, Nottingham on Sat, 31 Oct 2026.
+Daisy Moon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Movers, Nottingham on Sat, 31 Oct 2026.
 
 Daisy Moon is a house and techno artist based in United Kingdom, with 69 gigs on soundcheck across Berlin, Bristol, Brussels and Glasgow and 6 more. Often billed alongside Shanti Celeste, Golesworthy and Jorg Kuning. Next up: Movers, Nottingham on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Daisy Moon is a house and techno artist based in United Kingdom, with 69 gigs on
 
 Shanti Celeste, Golesworthy, Jorg Kuning
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisymoon/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisymoon/)*

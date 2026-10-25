@@ -1,6 +1,6 @@
 # Jepe
 
-Jepe is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bar Feijoa, Amsterdam on Sun, 25 Oct 2026.
+Jepe is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bar Feijoa, Amsterdam on Sun, 25 Oct 2026.
 
 Jepe is a house and techno artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cyprus and 10 more. Often billed alongside Berny, Manu Strasse and Sasse. Next up: Bar Feijoa, Amsterdam on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ Jepe is a house and techno artist based in Germany, with 43 gigs on soundcheck a
 
 Berny, Manu Strasse, Sasse
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*

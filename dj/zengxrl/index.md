@@ -1,6 +1,6 @@
 # Zengxrl
 
-Zengxrl is a Afro House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at fabric, London on Fri, 6 Nov 2026.
+Zengxrl is a Afro House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at fabric, London on Fri, 6 Nov 2026.
 
 Zengxrl is an afro house and baile funk artist based in Portugal, with 26 gigs on soundcheck across Barcelona, Berlin, Dortmund / Essen and Geneva and 5 more. Often billed alongside Branko, Meg10 and VIL (PT). Next up: fabric, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Zengxrl is an afro house and baile funk artist based in Portugal, with 26 gigs o
 
 Branko, Meg10, VIL (PT)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zengxrl/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zengxrl/)*

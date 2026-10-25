@@ -1,19 +1,19 @@
 # Jeno
 
-Jeno is a Acid and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 24 Oct 2026.
+Jeno is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
 
-Jeno is an acid and house artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Los Angeles and San Francisco/Oakland. Often billed alongside DJ Spun, Doc Martin and Tranquil Elephantizer. Next up: Underground SF, San Francisco/Oakland on Sat 24 Oct.
+Jeno is an acid and house artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Los Angeles and San Francisco/Oakland. Often billed alongside DJ Spun, Doc Martin and Tranquil Elephantizer. Next up: Afas Live, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Underground SF | San Francisco/Oakland |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 5 Mar 2027 | Ziggo Dome | Amsterdam |
 
 ## Recently played
 
+- Underground SF, San Francisco/Oakland · Sat, 24 Oct 2026
 - Underground SF, San Francisco/Oakland · Fri, 23 Oct 2026
 - F8 1192 Folsom, San Francisco/Oakland · Wed, 19 Aug 2026
 - Phoenix Hotel, San Francisco/Oakland · Sat, 15 Aug 2026
@@ -21,10 +21,9 @@ Jeno is an acid and house artist based in United States of America, with 27 gigs
 - The Foundry, San Francisco/Oakland · Sat, 20 Dec 2025
 - Vintage Space at The Flamingo, San Francisco/Oakland · Fri, 14 Nov 2025
 - F8 1192 Folsom, San Francisco/Oakland · Wed, 5 Nov 2025
-- F8 1192 Folsom, San Francisco/Oakland · Mon, 22 Sept 2025
 
 ## Shares bills with
 
 DJ Spun, Doc Martin, Tranquil Elephantizer
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeno/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeno/)*

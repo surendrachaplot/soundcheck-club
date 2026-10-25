@@ -1,6 +1,6 @@
 # SARABAMBA
 
-SARABAMBA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Combo Social Club, Florence on Fri, 30 Oct 2026.
+SARABAMBA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Combo Social Club, Florence on Fri, 30 Oct 2026.
 
 SARABAMBA is a techno and trance artist based in Italy, with 42 gigs on soundcheck across Bologna, Bucharest, Budapest and Florence and 4 more. Often billed alongside Krystal Kostee, Abo Abo and Crossing Avenue. Next up: Combo Social Club, Florence on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SARABAMBA is a techno and trance artist based in Italy, with 42 gigs on soundche
 
 Krystal Kostee, Abo Abo, Crossing Avenue
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarabamba/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarabamba/)*

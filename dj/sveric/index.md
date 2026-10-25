@@ -1,6 +1,6 @@
 # Sveric
 
-Sveric is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 7 Nov 2026.
+Sveric is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 7 Nov 2026.
 
 Sveric is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Anne-Lu, Berrin Tan and FI3BER. Next up: Fabrique im Gängeviertel, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sveric is a techno and trance artist based in Germany, with 12 gigs on soundchec
 
 Anne-Lu, Berrin Tan, FI3BER
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sveric/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sveric/)*

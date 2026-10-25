@@ -1,6 +1,6 @@
 # Sala Taro
 
-Sala Taro is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "OVERTONE presents ronni [ALL NIGHT LONG]" on Fri, 13 Nov 2026.
+Sala Taro is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "OVERTONE presents ronni [ALL NIGHT LONG]" on Fri, 13 Nov 2026.
 
 Sala Taro is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including ronni. See dates, start times and who's playing. Carrer de Rossend Arús, 9, 08014 Barcelona, Spain.
 
@@ -14,4 +14,4 @@ Sala Taro is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, wi
 
 Carrer de Rossend Arús, 9, 08014 Barcelona, Spain, Barcelona
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-taro/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-taro/)*

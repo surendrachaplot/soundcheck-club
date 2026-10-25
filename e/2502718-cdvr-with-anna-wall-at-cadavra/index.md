@@ -1,6 +1,6 @@
 # CDVR with Anna Wall at Cadavra
 
-CDVR with Anna Wall at Cadavra on Sat 7 Nov, Madrid. 1 artist: Anna Wall. Electronica. See the line-up on soundcheck.
+CDVR with Anna Wall at Cadavra on Sat 7 Nov, Madrid. 5 artists: Anna Wall, Conio, KISKI and Marina Antih and 1 more. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,9 @@ CDVR with Anna Wall at Cadavra on Sat 7 Nov, Madrid. 1 artist: Anna Wall. Electr
 ## Line-up
 
 - Anna Wall
+- Conio
+- KISKI
+- Marina Antih
+- Nurias
 
 *Source: [soundcheck](https://soundcheck.club/e/2502718-cdvr-with-anna-wall-at-cadavra/)*

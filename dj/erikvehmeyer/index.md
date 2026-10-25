@@ -1,6 +1,6 @@
 # Erik Vehmeyer
 
-Erik Vehmeyer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
+Erik Vehmeyer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
 
 Erik Vehmeyer is a house and deep house artist based in United States of America, with 42 gigs on soundcheck across Budapest, Los Angeles and San Francisco/Oakland. Often billed alongside Daizz, Dr. Recommended and Jimmy B. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Erik Vehmeyer is a house and deep house artist based in United States of America
 
 Daizz, Dr. Recommended, Jimmy B
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erikvehmeyer/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erikvehmeyer/)*

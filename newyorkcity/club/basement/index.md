@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "FIST: Lacchesi / Nene H / Word of Command / DJ Clone / Jubilee / Mez Monty / Connor Wrong" on Fri, 23 Oct 2026.
+BASEMENT is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Dustin Zahn / Kameliia / Ade Kassim / Hercules & Love Affair / Eli Escobar / Andi" on Sat, 24 Oct 2026.
 
-BASEMENT is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Justine Perry, LYDO, Ade Kassim and Alex Kassian and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Justine Perry, LYDO, Ade Kassim and Alex Kassian and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | FIST: Lacchesi / Nene H / Word of Command / DJ Clone / Jubilee / Mez Monty / Connor Wrong | Connor Wrong, DJ Clone, Jubilee, Lacchesi, Mez Monty, Nene H, Word of Command |
 | Sat, 24 Oct 2026 | Dustin Zahn / Kameliia / Ade Kassim / Hercules & Love Affair / Eli Escobar / Andi | Ade Kassim, Andi, Dustin Zahn, Eli Escobar, Hercules & Love Affair, Kameliia |
 | Fri, 30 Oct 2026 | BOUND Blackout: Laure Croft / SKIN / Katie Rex / Kim Anh / Dj Warning / likeholywine / nonsuit | Dj Warning, Katie Rex, Kim Anh, Laure Croft, SKIN, likeholywine, nonsuit |
 | Sat, 31 Oct 2026 | Herrensauna: MCMLXXXV / SALOME / LORD ASA / CEM / Dee Diggs / Sevyn Love | CEM, Dee Diggs, LORD ASA, MCMLXXXV, SALOME, Sevyn Love |
@@ -23,4 +22,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 10 upcoming gig
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

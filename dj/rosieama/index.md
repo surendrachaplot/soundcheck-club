@@ -1,14 +1,13 @@
 # Rosie Ama
 
-Rosie Ama is a House and Post-Punk artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
+Rosie Ama is a House and Post-Punk artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Altar, London on Fri, 30 Oct 2026.
 
-Rosie Ama is a house and post-punk artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Bristol, Leeds and London and 4 more. Often billed alongside Matt Cowell, Harry James and Ally Tropical. Next up: San Francisco, Amsterdam on Sat 24 Oct.
+Rosie Ama is a house and post-punk artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Bristol, Leeds and London and 4 more. Often billed alongside Matt Cowell, Harry James and Ally Tropical. Next up: Altar, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | San Francisco | Amsterdam |
 | Fri, 30 Oct 2026 | Altar | London |
 | Fri, 13 Nov 2026 | Gut Level | Sheffield |
 | Sat, 14 Nov 2026 | The Model | Nottingham |
@@ -18,6 +17,7 @@ Rosie Ama is a house and post-punk artist based in United Kingdom, with 37 gigs 
 
 ## Recently played
 
+- San Francisco, Amsterdam · Sat, 24 Oct 2026
 - The Social, London · Fri, 9 Oct 2026
 - The Cause, London · Sat, 15 Aug 2026
 - KOKO, London · Sat, 25 Jul 2026
@@ -25,10 +25,9 @@ Rosie Ama is a house and post-punk artist based in United Kingdom, with 37 gigs 
 - Big Penny Social, London · Sat, 13 Jun 2026
 - The Waiting Room, London · Fri, 5 Jun 2026
 - The Waiting Room, London · Sat, 9 May 2026
-- Hackney Wick Multiple Venues, London · Sat, 2 May 2026
 
 ## Shares bills with
 
 Matt Cowell, Harry James, Ally Tropical
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosieama/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosieama/)*

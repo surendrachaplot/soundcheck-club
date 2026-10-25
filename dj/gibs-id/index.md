@@ -1,6 +1,6 @@
 # Gibs (ID)
 
-Gibs (ID) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at City Hall, Barcelona on Wed, 28 Oct 2026.
+Gibs (ID) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at City Hall, Barcelona on Wed, 28 Oct 2026.
 
 Gibs (ID) is a house and electro artist based in Indonesia, with 10 gigs on soundcheck across Amsterdam, Bali, Barcelona and London and 1 more. Often billed alongside PAPU, Zoot and Adrien Calvet. Next up: City Hall, Barcelona on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Gibs (ID) is a house and electro artist based in Indonesia, with 10 gigs on soun
 
 PAPU, Zoot, Adrien Calvet
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gibs-id/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gibs-id/)*

@@ -1,6 +1,6 @@
 # Anaté
 
-Anaté is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at OXI, Berlin on Fri, 27 Nov 2026.
+Anaté is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at OXI, Berlin on Fri, 27 Nov 2026.
 
 Anaté is a techno and house artist based in Germany, with 54 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Upzet, Anton Quasi and DE.fine. Next up: OXI, Berlin on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Anaté is a techno and house artist based in Germany, with 54 gigs on soundcheck
 
 Upzet, Anton Quasi, DE.fine
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anate/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anate/)*

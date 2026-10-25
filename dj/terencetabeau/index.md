@@ -1,6 +1,6 @@
 # Terence Tabeau
 
-Terence Tabeau is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 30 Oct 2026.
+Terence Tabeau is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 30 Oct 2026.
 
 Terence Tabeau is a house and disco artist based in United States of America, with 60 gigs on soundcheck across Austin, Miami, Osaka and Tokyo. Often billed alongside Will Renuart, Artime and Danny Daze. Next up: Jolene Downtown Miami, Miami on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Terence Tabeau is a house and disco artist based in United States of America, wi
 
 Will Renuart, Artime, Danny Daze
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*

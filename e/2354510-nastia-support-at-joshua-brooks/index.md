@@ -1,10 +1,10 @@
 # Nastia + Support at Joshua Brooks
 
-Nastia + Support at Joshua Brooks on Fri 6 Nov, Manchester. 4 artists: AYDN, CEEKAY, Ezrela and Nastia. Techno. See the line-up on soundcheck.
+Nastia + Support at Joshua Brooks on Sun 5 Mar, Manchester. 4 artists: AYDN, CEEKAY, Ezrela and Nastia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 6 Nov 2026 |
+| Date | Sun, 5 Mar 2028 |
 | Venue | Joshua Brooks |
 | City | Manchester |
 

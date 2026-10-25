@@ -1,6 +1,6 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
+Andrey Pushkarev is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
 
 Andrey Pushkarev is a house and minimal artist, with 111 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 48 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: Noorderlicht Café, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Andrey Pushkarev is a house and minimal artist, with 111 gigs on soundcheck acro
 
 Lola Palmer, Eli Verveine, Mihai Popoviciu
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

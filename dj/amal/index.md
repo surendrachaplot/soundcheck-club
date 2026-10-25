@@ -1,6 +1,6 @@
 # Amal
 
-Amal is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at El Secreto De Rosita, Washington DC on Thu, 29 Oct 2026.
+Amal is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at El Secreto De Rosita, Washington DC on Thu, 29 Oct 2026.
 
 Amal is a club and techno artist based in United States of America, with 69 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 12 more. Often billed alongside Nativesun, Black Rave Culture and James Bangura. Next up: El Secreto De Rosita, Washington DC on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Amal is a club and techno artist based in United States of America, with 69 gigs
 
 Nativesun, Black Rave Culture, James Bangura
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*

@@ -1,6 +1,6 @@
 # Soundstream
 
-Soundstream is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at smartbar, Chicago on Sun, 25 Oct 2026.
+Soundstream is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at smartbar, Chicago on Sun, 25 Oct 2026.
 
 Soundstream is a house and disco artist based in Germany, with 70 gigs on soundcheck across Berlin, Brussels, Budapest and Chicago and 15 more. Often billed alongside Snow (DE), Virginia and Nick Höppner. Next up: smartbar, Chicago on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Soundstream is a house and disco artist based in Germany, with 70 gigs on soundc
 
 Snow (DE), Virginia, Nick Höppner
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundstream/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundstream/)*

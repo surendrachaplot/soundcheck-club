@@ -1,6 +1,6 @@
 # Slopy
 
-Slopy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at ZUBAR, Tokyo on Sun, 8 Nov 2026.
+Slopy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at ZUBAR, Tokyo on Sun, 8 Nov 2026.
 
 Slopy is a house and techno artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside Florence, TOSHIHISA HIRANO and Aki Dolanikov. Next up: ZUBAR, Tokyo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Slopy is a house and techno artist based in Japan, with 26 gigs on soundcheck ac
 
 Florence (2), TOSHIHISA HIRANO, Aki Dolanikov
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slopy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slopy/)*

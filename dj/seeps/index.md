@@ -1,6 +1,6 @@
 # SEEPS
 
-SEEPS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
+SEEPS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
 
 SEEPS is a house and deep house artist based in United States of America, with 65 gigs on soundcheck across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Aaron Paar, DJ Sneak and Ian Llorens. Next up: TBA, Los Angeles on Sat 24 Oct.
 
@@ -12,6 +12,7 @@ SEEPS is a house and deep house artist based in United States of America, with 6
 
 ## Recently played
 
+- TBA, Los Angeles · Sat, 24 Oct 2026
 - California Plaza, Los Angeles · Sat, 10 Oct 2026
 - The Airliner, Los Angeles · Sat, 10 Oct 2026
 - The Little Jerry, Toronto · Fri, 2 Oct 2026
@@ -19,10 +20,9 @@ SEEPS is a house and deep house artist based in United States of America, with 6
 - public records, New York City · Sat, 8 Aug 2026
 - TBA - Downtown Los Angeles, Los Angeles · Sat, 11 Jul 2026
 - TBA - IYKYK , Los Angeles · Sat, 27 Jun 2026
-- TBA, Los Angeles · Sat, 2 May 2026
 
 ## Shares bills with
 
 Aaron Paar, DJ Sneak, Ian Llorens
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*

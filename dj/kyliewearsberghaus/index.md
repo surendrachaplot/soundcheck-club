@@ -1,14 +1,13 @@
 # Kylie Wears Berghaus
 
-Kylie Wears Berghaus is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Stereo, Glasgow on Sat, 24 Oct 2026.
+Kylie Wears Berghaus is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Faith in Strangers, South-east on Fri, 30 Oct 2026.
 
-Kylie Wears Berghaus is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across Athens, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Hannah Holland, KENZA and miszo. Next up: Stereo, Glasgow on Sat 24 Oct.
+Kylie Wears Berghaus is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across Athens, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Hannah Holland, KENZA and miszo. Next up: Faith in Strangers, South East on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Stereo | Glasgow |
 | Fri, 30 Oct 2026 | Faith in Strangers | South-east |
 | Sat, 31 Oct 2026 | The Cause | London |
 | Fri, 6 Nov 2026 | Marmorbar | Berlin |
@@ -21,6 +20,7 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, with 
 
 ## Recently played
 
+- Stereo, Glasgow · Sat, 24 Oct 2026
 - Hare & Hounds, Birmingham · Fri, 9 Oct 2026
 - The Merchant, Liverpool · Sat, 26 Sept 2026
 - Lost Horizon, Bristol · Fri, 25 Sept 2026
@@ -28,10 +28,9 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, with 
 - Night Tales Loft, London · Fri, 28 Aug 2026
 - Patterns, Brighton · Fri, 31 Jul 2026
 - Sneaky Pete's, Edinburgh · Sat, 11 Jul 2026
-- The DBA, Manchester · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Hannah Holland, KENZA, miszo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*

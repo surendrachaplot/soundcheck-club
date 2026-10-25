@@ -1,6 +1,6 @@
 # DJ THADZ
 
-DJ THADZ is a Footwork and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - SW SIDE, Chicago on Fri, 30 Oct 2026.
+DJ THADZ is a Footwork and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - SW SIDE, Chicago on Fri, 30 Oct 2026.
 
 DJ THADZ is a footwork and ghetto tech artist based in United States of America, with 16 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside DJ Clent, DJ PJ and DJ Slugo. Next up: TBA - SW SIDE, Chicago on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ DJ THADZ is a footwork and ghetto tech artist based in United States of America,
 
 DJ Clent, DJ PJ, DJ Slugo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djthadz/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djthadz/)*

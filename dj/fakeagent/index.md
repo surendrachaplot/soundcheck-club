@@ -1,6 +1,6 @@
 # Fake Agent
 
-Fake Agent is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
+Fake Agent is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
 
 Fake Agent is a techno and house artist, with 29 gigs on soundcheck across Bratislava and Prague. Often billed alongside Pink Concrete, Adamatron and aláya. Next up: Fuchs2, Prague on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Fake Agent is a techno and house artist, with 29 gigs on soundcheck across Brati
 
 Pink Concrete, Adamatron, aláya
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fakeagent/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fakeagent/)*

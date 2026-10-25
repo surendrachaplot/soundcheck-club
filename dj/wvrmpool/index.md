@@ -1,13 +1,14 @@
 # WVRM POOL
 
-WVRM POOL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
+WVRM POOL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Patterns, Brighton on Sat, 12 Dec 2026.
 
-WVRM POOL is a techno and trance artist based in Singapore, with 29 gigs on soundcheck across Amsterdam, Berlin, Bristol and London and 2 more. Often billed alongside Slinky Kinky, Varanasi and Desiree'. Next up: Distillery N17, London on Thu 31 Dec.
+WVRM POOL is a techno and trance artist based in Singapore, with 30 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 3 more. Often billed alongside Slinky Kinky, Varanasi and Desiree'. Next up: Patterns, Brighton on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Patterns | Brighton |
 | Thu, 31 Dec 2026 | Distillery N17 | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ WVRM POOL is a techno and trance artist based in Singapore, with 29 gigs on soun
 
 Slinky Kinky, Varanasi, Desiree'
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wvrmpool/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wvrmpool/)*

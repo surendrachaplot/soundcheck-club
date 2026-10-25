@@ -1,16 +1,13 @@
 # Lisa Korver
 
-Lisa Korver is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Lisa Korver is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
 
-Lisa Korver is a techno and house artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam, Antwerp, Eindhoven and Ibiza and 9 more. Often billed alongside LAMMER, OLIVIA LENSEN and Freddi. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+Lisa Korver is a techno and house artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam, Antwerp, Eindhoven and Ibiza and 9 more. Often billed alongside LAMMER, OLIVIA LENSEN and Freddi. Next up: Grelle Forelle, Vienna on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
-| Sat, 24 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
-| Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 6 Nov 2026 | Grelle Forelle | Vienna |
 | Sat, 7 Nov 2026 | Beursgebouw | Eindhoven |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
@@ -22,17 +19,17 @@ Lisa Korver is a techno and house artist based in Netherlands, with 75 gigs on s
 
 ## Recently played
 
+- Warehouse Elementenstraat, Amsterdam · Sat, 24 Oct 2026
+- H7 Warehouse, Amsterdam · Sat, 24 Oct 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - TivoliVredenburg, Utrecht · Sat, 17 Oct 2026
 - Garage Klub, Antwerp · Fri, 9 Oct 2026
 - Cabaret  Aléatoire, Marseille · Fri, 25 Sept 2026
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - Colorado Charlie, The Hague · Sun, 30 Aug 2026
-- Tuinen van West, Amsterdam · Sat, 29 Aug 2026
-- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 LAMMER, OLIVIA LENSEN, Freddi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*

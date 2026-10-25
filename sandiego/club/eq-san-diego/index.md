@@ -1,17 +1,16 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DISCO S!UT" on Sat, 24 Oct 2026.
+EQ San Diego is a music venue in San Diego with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "REVERB: HALLOWEEN featuring DEA MAGNA" on Thu, 29 Oct 2026.
 
-EQ San Diego is a music venue in San Diego listed on soundcheck. 10 upcoming gigs, with line-ups including A.Knives, ARP8, Baby Jane and Christian Löffler and 2 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
+EQ San Diego is a music venue in San Diego listed on soundcheck. 9 upcoming gigs, with line-ups including A.Knives, ARP8, Baby Jane and Christian Löffler and 2 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | DISCO S!UT |  |
 | Thu, 29 Oct 2026 | REVERB: HALLOWEEN featuring DEA MAGNA | A.Knives, DEA MAGNA, JAQ.XS |
 | Fri, 30 Oct 2026 | FNGRS CRSSD presents Christian Löffler | Christian Löffler |
-| Sat, 31 Oct 2026 | NIGHT GROOVES: HALLOWEEN | ARP8, Codak, Kasama |
+| Sat, 31 Oct 2026 | NIGHT GROOVES: HALLOWEEN BLOODRAVE | ARP8, Codak, Kasama |
 | Thu, 5 Nov 2026 | The Techno Jungle |  |
 | Fri, 6 Nov 2026 | LED presents DENNETT [IN THE ROUND] |  |
 | Fri, 13 Nov 2026 | FNGRS CRSSD presents Dekmantel Soundsystem | Dekmantel Soundsystem, Max Web, Naone |
@@ -23,4 +22,4 @@ EQ San Diego is a music venue in San Diego listed on soundcheck. 10 upcoming gig
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

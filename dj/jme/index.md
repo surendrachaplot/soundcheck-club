@@ -1,19 +1,19 @@
 # j:me
 
-j:me is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Basement Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+j:me is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
 
-j:me is a house and tech house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Jude Lenihan, Benji King and Phill de Janeiro. Next up: Basement Amsterdam, Amsterdam on Sat 24 Oct.
+j:me is a house and tech house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Jude Lenihan, Benji King and Phill de Janeiro. Next up: The Cause, London on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Basement Amsterdam | Amsterdam |
 | Sun, 1 Nov 2026 | The Cause | London |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Basement Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Shelter Amsterdam, Amsterdam · Wed, 21 Oct 2026
 - Stage and Radio, Manchester · Fri, 16 Oct 2026
 - fabric, London · Fri, 9 Oct 2026
@@ -21,10 +21,9 @@ j:me is a house and tech house artist based in United Kingdom, with 38 gigs on s
 - renae, Manchester · Fri, 11 Sept 2026
 - NUMBER 90 LONDON, London · Sat, 18 Jul 2026
 - Amnesia Ibiza, Ibiza · Thu, 9 Jul 2026
-- 528 Ibiza, Ibiza · Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Jude Lenihan, Benji King, Phill de Janeiro
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*

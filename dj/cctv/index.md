@@ -1,6 +1,6 @@
 # CCTV
 
-CCTV is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Podlasie Club, Chicago on Fri, 30 Oct 2026.
+CCTV is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Podlasie Club, Chicago on Fri, 30 Oct 2026.
 
 CCTV is a techno and electro artist based in United States of America, with 11 gigs on soundcheck across Berlin, Chicago and Copenhagen. Often billed alongside anna andersrum, ATT1C and CHILDISH BAMBINO. Next up: Podlasie Club, Chicago on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ CCTV is a techno and electro artist based in United States of America, with 11 g
 
 anna andersrum, ATT1C, CHILDISH BAMBINO
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cctv/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cctv/)*

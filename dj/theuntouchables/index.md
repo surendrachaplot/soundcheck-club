@@ -1,6 +1,6 @@
 # The Untouchables
 
-The Untouchables is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
+The Untouchables is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
 
 The Untouchables is a drum & bass and techno artist based in Belgium, with 18 gigs on soundcheck across Barcelona, Berlin, Brighton and Brussels and 8 more. Often billed alongside KŌMA, Bredren and DUKU. Next up: Nowadays, New York City on Sat 24 Oct.
 
@@ -12,6 +12,7 @@ The Untouchables is a drum & bass and techno artist based in Belgium, with 18 gi
 
 ## Recently played
 
+- Nowadays, New York City · Sat, 24 Oct 2026
 - TBA, Milan · Sat, 13 Jun 2026
 - Unit3, Manchester · Fri, 22 May 2026
 - Fuse, Brussels · Fri, 7 Nov 2025
@@ -19,10 +20,9 @@ The Untouchables is a drum & bass and techno artist based in Belgium, with 18 gi
 - TBA - ABYSS location and further details, Berlin · Sun, 28 Sept 2025
 - Circle Park, Brussels · Sat, 14 Jun 2025
 - Volks, Brighton · Fri, 4 Apr 2025
-- Razzmatazz, Barcelona · Sat, 7 Dec 2024
 
 ## Shares bills with
 
 KŌMA (3), Bredren, DUKU
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theuntouchables/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theuntouchables/)*

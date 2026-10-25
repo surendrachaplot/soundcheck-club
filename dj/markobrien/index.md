@@ -1,6 +1,6 @@
 # Mark O'Brien
 
-Mark O'Brien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Mark O'Brien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Mark O'Brien is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside BEYA, DJ M3 and likeholywine. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Mark O'Brien is a house and techno artist based in United States of America, wit
 
 BEYA, DJ M3, likeholywine
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markobrien/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markobrien/)*

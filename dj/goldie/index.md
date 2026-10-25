@@ -1,6 +1,6 @@
 # Goldie
 
-Goldie is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Chalk, Brighton on Thu, 12 Nov 2026.
+Goldie is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Chalk, Brighton on Thu, 12 Nov 2026.
 
 Goldie is a drum & bass and jungle artist based in United Kingdom, with 177 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 62 more. Often billed alongside Ant TC1, Doc Scott and Diverge. Next up: Chalk, Brighton on Thu 12 Nov.
 
@@ -31,4 +31,4 @@ Goldie is a drum & bass and jungle artist based in United Kingdom, with 177 gigs
 
 Ant TC1, Doc Scott, Diverge
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*

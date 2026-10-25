@@ -1,6 +1,6 @@
 # Modea
 
-Modea is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
+Modea is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
 
 Modea is a techno and trance artist, with 11 gigs on soundcheck across Bangkok, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside John O'Callaghan, Uakoz and Aly & Fila. Next up: Outernet Live, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Modea is a techno and trance artist, with 11 gigs on soundcheck across Bangkok, 
 
 John O'Callaghan, Uakoz, Aly & Fila
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modea-ie/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modea-ie/)*

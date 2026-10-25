@@ -1,6 +1,6 @@
 # Ori The Ghost
 
-Ori The Ghost is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Minneapolis/St Paul on Fri, 6 Nov 2026.
+Ori The Ghost is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Minneapolis/St Paul on Fri, 6 Nov 2026.
 
 Ori The Ghost is a techno and breakbeat artist, with 20 gigs on soundcheck across Chicago, Minneapolis/St Paul and New York City. Often billed alongside El Niño indigo, Dazzle and LLYYNNXX. Next up: TBA, Minneapolis/St Paul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ori The Ghost is a techno and breakbeat artist, with 20 gigs on soundcheck acros
 
 El Niño indigo, Dazzle, LLYYNNXX
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oritheghost/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oritheghost/)*

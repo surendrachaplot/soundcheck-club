@@ -1,6 +1,6 @@
 # Aeden (1)
 
-Aeden (1) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at B2 Rīga, Riga on Sat, 21 Nov 2026.
+Aeden (1) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at B2 Rīga, Riga on Sat, 21 Nov 2026.
 
 Aeden is a techno and acid artist based in Latvia, with 16 gigs on soundcheck across Riga and Tallinn. Often billed alongside Aniri Chan, Garjane and Ksenia Kamikaza. Next up: B2 Rīga, Riga on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Aeden is a techno and acid artist based in Latvia, with 16 gigs on soundcheck ac
 
 Aniri Chan, Garjane, Ksenia Kamikaza
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aeden-1/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aeden-1/)*

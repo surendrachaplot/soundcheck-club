@@ -1,6 +1,6 @@
 # Juliana Yamasaki
 
-Juliana Yamasaki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
+Juliana Yamasaki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
 
 Juliana Yamasaki is a techno and house artist based in Brazil, with 18 gigs on soundcheck across Bali, Berlin, Bogotá and Cologne and 6 more. Often billed alongside WOODPECKER, FLEXTASY and Killing the Light. Next up: Fusion Club, Münster on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Juliana Yamasaki is a techno and house artist based in Brazil, with 18 gigs on s
 
 WOODPECKER, FLEXTASY, Killing the Light
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianayamasaki/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianayamasaki/)*

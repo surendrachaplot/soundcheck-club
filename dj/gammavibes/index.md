@@ -1,6 +1,6 @@
 # Gamma Vibes
 
-Gamma Vibes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at MAD Radio NYC, New York City on Sat, 31 Oct 2026.
+Gamma Vibes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at MAD Radio NYC, New York City on Sat, 31 Oct 2026.
 
 Gamma Vibes is a techno and house artist, with 25 gigs on soundcheck across New York City and Philadelphia. Often billed alongside AL.P0, Lauren Yoon and ntrllite. Next up: MAD Radio NYC, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gamma Vibes is a techno and house artist, with 25 gigs on soundcheck across New 
 
 AL.P0, Lauren Yoon, ntrllite
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gammavibes/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gammavibes/)*

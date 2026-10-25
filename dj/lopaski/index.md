@@ -1,8 +1,8 @@
 # Lopaski
 
-Lopaski is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Rūmu, Lisbon on Wed, 28 Oct 2026.
+Lopaski is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Rūmu, Lisbon on Wed, 28 Oct 2026.
 
-Lopaski is a house and minimal artist, with 8 gigs on soundcheck across Birmingham, Lisbon and Manchester. Often billed alongside Shez, Tom Craven and KRN. Next up: Rūmu, Lisbon on Wed 28 Oct.
+Lopaski is a house and minimal artist based in United Kingdom, with 8 gigs on soundcheck across Birmingham, Lisbon and Manchester. Often billed alongside Shez, Tom Craven and KRN. Next up: Rūmu, Lisbon on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Lopaski is a house and minimal artist, with 8 gigs on soundcheck across Birmingh
 
 Shez, Tom Craven, KRN
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lopaski/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lopaski/)*

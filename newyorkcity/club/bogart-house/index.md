@@ -1,18 +1,17 @@
 # Bogart House
 
-Bogart House is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "CvnTea: A Spooky Soirée...for C*nts" on Sat, 24 Oct 2026.
+Bogart House is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "AGF Events presents Chromatic Shift with My Friend, Hausman, Schuyler Ocean, and Henry Neely" on Sat, 31 Oct 2026.
 
-Bogart House is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Meilgaarden, My Friend and Nita Aviance. See dates, start times and who's playing. 230 Bogart St, Brooklyn, 11206.
+Bogart House is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including My Friend. See dates, start times and who's playing. 230 Bogart St, Brooklyn, 11206.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | CvnTea: A Spooky Soirée...for C*nts | Meilgaarden, Nita Aviance |
 | Sat, 31 Oct 2026 | AGF Events presents Chromatic Shift with My Friend, Hausman, Schuyler Ocean, and Henry Neely | My Friend |
 
 ## Address
 
 230 Bogart St, Brooklyn, 11206, New York City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*

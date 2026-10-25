@@ -1,6 +1,6 @@
 # 2thirty8
 
-2thirty8 is a Garage and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Hideout, Malta on Sat, 7 Nov 2026.
+2thirty8 is a Garage and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hideout, Malta on Sat, 7 Nov 2026.
 
 2thirty8 is a garage and funk / soul artist based in New Zealand, with 14 gigs on soundcheck across Malta. Often billed alongside Razzett Sound, Jahh Roland and Plank. Next up: Hideout, Malta on Sat 7 Nov.
 
@@ -25,4 +25,4 @@
 
 Razzett Sound, Jahh Roland, Plank
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2thirty8/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2thirty8/)*

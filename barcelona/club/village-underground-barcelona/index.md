@@ -1,14 +1,13 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Silencio - Dance for a Cause" on Sat, 24 Oct 2026.
+Village Underground Barcelona is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "01366 ̸ ANNO V {HALLOWEEN}" on Sat, 31 Oct 2026.
 
-Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including 4R15, Aleja Sanchez, Ana Alves and Anabel Arroyo and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
+Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including 4R15, Anabel Arroyo, Aristides and Baldman and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Silencio - Dance for a Cause | ANDRØMEDA, Aleja Sanchez, Ana Alves, Franco Rossi, Hayden F, JimboJamboJambini, Marc Gruau, SAINT SINNER |
 | Sat, 31 Oct 2026 | 01366 ̸ ANNO V {HALLOWEEN} | Anabel Arroyo, Aristides, Baldman, Darwin, Jhort, Joey Stella, Queixal, radd |
 | Sat, 7 Nov 2026 | THE SOUND SOCIETY: A Love From Outer Space Chapter II | Sean Johnston |
 | Fri, 13 Nov 2026 | CHEZ PERROS with Jimin, Sohrab at VU BCN | Jimin, Perro Jimbo, VIKk, sohrab. |
@@ -22,4 +21,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

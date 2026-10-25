@@ -1,6 +1,6 @@
 # Scrappa
 
-Scrappa is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Oxford Underground, Sydney on Sat, 31 Oct 2026.
+Scrappa is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Oxford Underground, Sydney on Sat, 31 Oct 2026.
 
 Scrappa is a garage and house artist, with 16 gigs on soundcheck across Adelaide, Brisbane, Canberra and Melbourne and 2 more. Often billed alongside Charlie Shell, Eva Charley and GMOZ. Next up: Oxford Underground, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Scrappa is a garage and house artist, with 16 gigs on soundcheck across Adelaide
 
 Charlie Shell, Eva Charley, GMOZ
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scrappa/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scrappa/)*

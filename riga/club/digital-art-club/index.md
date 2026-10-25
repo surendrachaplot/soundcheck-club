@@ -1,6 +1,6 @@
 # Digital ART Club
 
-Digital ART Club is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "LAST PARTY: AXEOMA HALLOWEEN" on Sat, 31 Oct 2026.
+Digital ART Club is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "LAST PARTY: AXEOMA HALLOWEEN" on Sat, 31 Oct 2026.
 
 Digital ART Club is a music venue in Riga listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Digital ART Club is a music venue in Riga listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | LAST PARTY: AXEOMA HALLOWEEN |  |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/digital-art-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/digital-art-club/)*

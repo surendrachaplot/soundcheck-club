@@ -1,6 +1,6 @@
 # Skeme Richards
 
-Skeme Richards is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Philadelphia Museum of Art, Philadelphia on Fri, 20 Nov 2026.
+Skeme Richards is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Philadelphia Museum of Art, Philadelphia on Fri, 20 Nov 2026.
 
 Skeme Richards is a funk / soul and disco artist based in United States of America, with 42 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Miami and 5 more. Often billed alongside Sky Society, Leja Hazer and Yukiko. Next up: Philadelphia Museum of Art, Philadelphia on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Skeme Richards is a funk / soul and disco artist based in United States of Ameri
 
 Sky Society, Leja Hazer, Yukiko
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skemerichards/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skemerichards/)*

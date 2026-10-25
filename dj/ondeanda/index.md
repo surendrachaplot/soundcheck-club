@@ -1,18 +1,18 @@
 # Onde Anda
 
-Onde Anda is a Funk / Soul and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bunker Club, London on Sat, 24 Oct 2026.
+Onde Anda is a Funk / Soul and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Vespers Club, London on Sat, 14 Nov 2026.
 
-Onde Anda is a funk / soul and latin bass artist based in Italy, with 33 gigs on soundcheck across London. Often billed alongside Dexter Dooley, Spraytan and Tare. Next up: Bunker Club, London on Sat 24 Oct.
+Onde Anda is a funk / soul and latin bass artist based in Italy, with 33 gigs on soundcheck across London. Often billed alongside Dexter Dooley, Spraytan and Tare. Next up: Vespers Club, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Bunker Club | London |
 | Sat, 14 Nov 2026 | Vespers Club | London |
 
 ## Recently played
 
+- Bunker Club, London · Sat, 24 Oct 2026
 - Bunker Club, London · Sat, 26 Sept 2026
 - Bunker Club, London · Sat, 13 Jun 2026
 - Bunker Club, London · Sat, 25 Apr 2026
@@ -20,10 +20,9 @@ Onde Anda is a funk / soul and latin bass artist based in Italy, with 33 gigs on
 - Bunker Club, London · Sat, 21 Feb 2026
 - Bunker Club, London · Sat, 24 Jan 2026
 - Bunker Club, London · Fri, 12 Dec 2025
-- Avalon Cafe Bermondsey, London · Thu, 23 Oct 2025
 
 ## Shares bills with
 
 Dexter Dooley, Spraytan, Tare (2)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ondeanda/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ondeanda/)*

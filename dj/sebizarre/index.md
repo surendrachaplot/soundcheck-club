@@ -1,6 +1,6 @@
 # Sebizarre
 
-Sebizarre is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 12 Dec 2026.
+Sebizarre is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 12 Dec 2026.
 
 Sebizarre is a house and minimal artist based in France, with 14 gigs on soundcheck across Paris. Often billed alongside El Hey, NOCH and IAMBP. Next up: Cabaret Sauvage, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Sebizarre is a house and minimal artist based in France, with 14 gigs on soundch
 
 El Hey, NOCH (2), IAMBP
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebizarre/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebizarre/)*

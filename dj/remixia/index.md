@@ -1,6 +1,6 @@
 # REMIXIA
 
-REMIXIA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
+REMIXIA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
 
 REMIXIA is a house and afro house artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Ibiza and 1 more. Often billed alongside CLEIDO, Major League Djz and BADBOX. Next up: fabric, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ REMIXIA is a house and afro house artist based in United Kingdom, with 32 gigs o
 
 CLEIDO, Major League Djz, BADBOX
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remixia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remixia/)*

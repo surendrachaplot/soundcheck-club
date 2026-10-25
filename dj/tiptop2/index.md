@@ -1,6 +1,6 @@
 # tip top
 
-tip top is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 17 Little Portland Street, London on Thu, 29 Oct 2026.
+tip top is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 17 Little Portland Street, London on Thu, 29 Oct 2026.
 
 tip top is a house and minimal artist, with 13 gigs on soundcheck across London. Often billed alongside DMC., Kian OK and B.Love. Next up: 17 Little Portland Street, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ tip top is a house and minimal artist, with 13 gigs on soundcheck across London.
 
 DMC., Kian OK, B.Love
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiptop2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiptop2/)*

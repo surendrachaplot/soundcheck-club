@@ -1,6 +1,6 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sugarfactory, Amsterdam on Sun, 25 Oct 2026.
+ISAbella is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Sugarfactory, Amsterdam on Sun, 25 Oct 2026.
 
 ISAbella is a house and techno artist based in Colombia, with 274 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 54 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Sugarfactory, Amsterdam on Sun 25 Oct.
 
@@ -30,4 +30,4 @@ ISAbella is a house and techno artist based in Colombia, with 274 gigs on soundc
 
 Roza Terenzi, BASHKKA, Gabrielle Kwarteng
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*

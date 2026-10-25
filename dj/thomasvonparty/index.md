@@ -1,6 +1,6 @@
 # Thomas Von Party
 
-Thomas Von Party is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+Thomas Von Party is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
 
 Thomas Von Party is an acid and house artist based in Canada, with 17 gigs on soundcheck across Milan and Montreal. Often billed alongside Dj Sarcastic, Nosh and Andie. Next up: Le Sainte-Catherine Hall, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Thomas Von Party is an acid and house artist based in Canada, with 17 gigs on so
 
 Dj Sarcastic, Nosh, Andie
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasvonparty/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasvonparty/)*

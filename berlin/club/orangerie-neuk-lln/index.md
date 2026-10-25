@@ -1,14 +1,13 @@
 # Orangerie Neukölln
 
-Orangerie Neukölln is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Heart2Hearts" on Sat, 24 Oct 2026.
+Orangerie Neukölln is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "at the afters we are briefly gorgeous" on Wed, 28 Oct 2026.
 
-Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Ana Molina, ATTA (GER), babxi and Blossom Hill and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
+Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Blossom Hill, Dario Radisic, Jelle from the Block and Kallaloo and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Heart2Hearts | ATTA (GER), Ana Molina, Brahmski, Martin Meyer, babxi, groovyjuri |
 | Wed, 28 Oct 2026 | at the afters we are briefly gorgeous |  |
 | Thu, 29 Oct 2026 | Naked Grapes with Dimensionless Unity |  |
 | Fri, 30 Oct 2026 | Sound Canteen with Bomchello b2b Terje |  |
@@ -18,9 +17,10 @@ Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 11 upcoming
 | Thu, 12 Nov 2026 | Naked Grapes with Ru.i | Ru.i |
 | Fri, 13 Nov 2026 | Sound Canteen with Dario Radišić | Dario Radisic |
 | Thu, 19 Nov 2026 | Naked Grapes with Dracaena |  |
+| Sat, 21 Nov 2026 | ÍNTIMO with Sarah Ninon, The Brahma & Jelle from the Block | Jelle from the Block, Sarah Ninon, The Brahma |
 
 ## Address
 
 Schierker Str. 8, 12051 Berlin, Germany, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*

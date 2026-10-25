@@ -1,6 +1,6 @@
 # Beggar
 
-Beggar is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bar Franca, Los Angeles on Fri, 30 Oct 2026.
+Beggar is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bar Franca, Los Angeles on Fri, 30 Oct 2026.
 
 Beggar is a house and deep house artist based in United States of America, with 36 gigs on soundcheck across Los Angeles and Sydney. Often billed alongside DJ Shroomie, Akumen and agraybé. Next up: Bar Franca, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Beggar is a house and deep house artist based in United States of America, with 
 
 DJ Shroomie, Akumen, agraybé
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beggar/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beggar/)*

@@ -1,15 +1,13 @@
 # Warehouse Elementenstraat
 
-Warehouse Elementenstraat is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Lisa Korver All Day - ADE" on Sat, 24 Oct 2026.
+Warehouse Elementenstraat is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "240KM/H - ADE Takeover" on Sun, 25 Oct 2026.
 
-Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including A.M.C., Adrian Mills, Aphøtic and A-Sides and 2 more. See dates, start times and who's playing. Elementenstraat 25, 1014 AR, Amsterdam.
+Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including A.M.C., Adrian Mills, Aphøtic and A-Sides and 2 more. See dates, start times and who's playing. Elementenstraat 25, 1014 AR, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Lisa Korver All Day - ADE | Lisa Korver |
-| Sat, 24 Oct 2026 | Skepta pres. Más Tiempo | Skepta |
 | Sun, 25 Oct 2026 | 240KM/H - ADE Takeover | Adrian Mills, Aphøtic, Félicie, Johannes Schuster, ines isla, zwilling. |
 | Mon, 26 Oct 2026 | Prospa & WAVY present: Prophecy | Prospa |
 | Fri, 30 Oct 2026 | Another Halloween #4 | DIORA, TEKNA |
@@ -20,4 +18,4 @@ Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 7 
 
 Elementenstraat 25, 1014 AR, Amsterdam, Amsterdam
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*

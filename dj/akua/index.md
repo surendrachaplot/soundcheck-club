@@ -1,6 +1,6 @@
 # Akua
 
-Akua is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
+Akua is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
 
 Akua is a techno and house artist based in United States of America, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 58 more. Often billed alongside 1morning, Freddy K and Rødhåd. Next up: Garage Noord, Amsterdam on Sun 25 Oct.
 
@@ -31,4 +31,4 @@ Akua is a techno and house artist based in United States of America, with 224 gi
 
 1morning, Freddy K, Rødhåd
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*

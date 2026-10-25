@@ -1,6 +1,6 @@
 # Helsloot
 
-Helsloot is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
+Helsloot is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
 
 Helsloot is a techno and progressive house artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Austin, Berlin and Bristol and 19 more. Often billed alongside Tinlicker, Estiva and Hollt. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Helsloot is a techno and progressive house artist based in Netherlands, with 49 
 
 Tinlicker, Estiva, Hollt
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helsloot/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helsloot/)*

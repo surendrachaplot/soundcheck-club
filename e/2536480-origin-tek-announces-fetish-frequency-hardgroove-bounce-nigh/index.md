@@ -1,11 +1,11 @@
-# origin.tek ANNOUNCES: FETISH FREQUENCY - HARDGROOVE & BOUNCE NIGHT at The Bakery
+# origin.tek ANNOUNCES: FETISH FREQUENCY - HARDGROOVE & BOUNCE NIGHT at 24 Kitchen Street
 
-origin.tek ANNOUNCES: FETISH FREQUENCY - HARDGROOVE & BOUNCE NIGHT at The Bakery on Fri 13 Nov, Liverpool. 2 artists: CHVZ and G I N A. Techno and Minimal Techno. See the line-up on soundcheck.
+origin.tek ANNOUNCES: FETISH FREQUENCY - HARDGROOVE & BOUNCE NIGHT at 24 Kitchen Street on Fri 13 Nov, Liverpool. 2 artists: CHVZ and G I N A. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 13 Nov 2026 |
-| Venue | The Bakery |
+| Venue | 24 Kitchen Street |
 | City | Liverpool |
 
 ## Line-up

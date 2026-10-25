@@ -1,6 +1,6 @@
 # Gusted
 
-Gusted is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - BluePoint Liege, Belgium on Fri, 30 Oct 2026.
+Gusted is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - BluePoint Liege, Belgium on Fri, 30 Oct 2026.
 
 Gusted is a trance and techno artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Belgium, Berlin and Brussels and 11 more. Often billed alongside Mija, Bad Boombox and Janis Zielinski. Next up: TBA - BluePoint Liege, Belgium on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Gusted is a trance and techno artist based in United States of America, with 31 
 
 Mija, Bad Boombox, Janis Zielinski
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusted/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusted/)*

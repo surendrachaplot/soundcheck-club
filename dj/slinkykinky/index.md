@@ -1,13 +1,14 @@
 # Slinky Kinky
 
-Slinky Kinky is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
+Slinky Kinky is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Patterns, Brighton on Sat, 12 Dec 2026.
 
-Slinky Kinky is a techno and trance artist based in United Kingdom, with 12 gigs on soundcheck across London and Sheffield. Often billed alongside WVRM POOL, Melati and Desiree'. Next up: Distillery N17, London on Thu 31 Dec.
+Slinky Kinky is a techno and trance artist based in United Kingdom, with 13 gigs on soundcheck across Brighton, London and Sheffield. Often billed alongside WVRM POOL, Melati and Desiree'. Next up: Patterns, Brighton on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Patterns | Brighton |
 | Thu, 31 Dec 2026 | Distillery N17 | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Slinky Kinky is a techno and trance artist based in United Kingdom, with 12 gigs
 
 WVRM POOL, Melati, Desiree'
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slinkykinky/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slinkykinky/)*

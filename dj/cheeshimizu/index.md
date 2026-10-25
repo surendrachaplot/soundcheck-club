@@ -1,14 +1,15 @@
 # Chee Shimizu
 
-Chee Shimizu is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at San Francisco, Amsterdam on Sun, 25 Oct 2026.
+Chee Shimizu is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at San Francisco, Amsterdam on Sun, 25 Oct 2026.
 
-Chee Shimizu is a house and electronica artist based in Japan, with 37 gigs on soundcheck across Adelaide, Amsterdam, Bali and Brazil and 5 more. Often billed alongside AKIRAM EN, Justin Carter and Colleen 'Cosmo' Murphy. Next up: San Francisco, Amsterdam on Sun 25 Oct.
+Chee Shimizu is a house and electronica artist based in Japan, with 38 gigs on soundcheck across Adelaide, Amsterdam, Bali and Brazil and 5 more. Often billed alongside AKIRAM EN, Justin Carter and Colleen 'Cosmo' Murphy. Next up: San Francisco, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | San Francisco | Amsterdam |
+| Fri, 6 Nov 2026 | Numm | Tokyo |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 
 ## Recently played
@@ -26,4 +27,4 @@ Chee Shimizu is a house and electronica artist based in Japan, with 37 gigs on s
 
 AKIRAM EN, Justin Carter, Colleen 'Cosmo' Murphy
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeshimizu/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeshimizu/)*

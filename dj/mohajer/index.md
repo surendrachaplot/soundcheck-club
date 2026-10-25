@@ -1,6 +1,6 @@
 # Mohajer
 
-Mohajer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
+Mohajer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
 
 Mohajer is a techno and house artist based in Sweden, with 114 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Rachel Noon, Schacke and Yazzus. Next up: KREUZWERK, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Mohajer is a techno and house artist based in Sweden, with 114 gigs on soundchec
 
 Rachel Noon, Schacke, Yazzus
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mohajer/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mohajer/)*

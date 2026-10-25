@@ -1,14 +1,13 @@
 # Tonno Disko
 
-Tonno Disko is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 24 Oct 2026.
+Tonno Disko is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
 
-Tonno Disko is a house and disco artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 15 more. Often billed alongside Leroy Rey, Kirollus and Laura Meester. Next up: Hemkade 48, Amsterdam on Sat 24 Oct.
+Tonno Disko is a house and disco artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 15 more. Often billed alongside Leroy Rey, Kirollus and Laura Meester. Next up: Brixton Jamm, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sat, 31 Oct 2026 | Brixton Jamm | London |
 | Sat, 7 Nov 2026 | Het Sieraad | Amsterdam |
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
@@ -16,6 +15,7 @@ Tonno Disko is a house and disco artist based in Netherlands, with 103 gigs on s
 
 ## Recently played
 
+- Hemkade 48, Amsterdam · Sat, 24 Oct 2026
 - Thuishaven, Amsterdam · Thu, 22 Oct 2026
 - Biblioteca di Parco Sempione, Milan · Sun, 4 Oct 2026
 - Night Tales Loft, London · Fri, 25 Sept 2026
@@ -23,10 +23,9 @@ Tonno Disko is a house and disco artist based in Netherlands, with 103 gigs on s
 - TBA - address sent to all ticket holders , London · Thu, 23 Jul 2026
 - Flux, Istanbul · Fri, 17 Jul 2026
 - SISSI'S Amsterdam, Amsterdam · Fri, 3 Jul 2026
-- SISSI'S Amsterdam, Amsterdam · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Leroy Rey, Kirollus, Laura Meester
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnodisko/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnodisko/)*

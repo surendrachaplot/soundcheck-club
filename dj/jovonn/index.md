@@ -1,18 +1,18 @@
 # Jovonn
 
-Jovonn is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 24 Oct 2026.
+Jovonn is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Rex Club, Paris on Sun, 25 Oct 2026.
 
-Jovonn is a house and deep house artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 16 more. Often billed alongside Chez Damier, Garrett David and Omer Mil. Next up: Circolo degli Illuminati, Rome on Sat 24 Oct.
+Jovonn is a house and deep house artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 16 more. Often billed alongside Chez Damier, Garrett David and Omer Mil. Next up: Rex Club, Paris on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Circolo degli Illuminati | Rome |
 | Sun, 25 Oct 2026 | Rex Club | Paris |
 
 ## Recently played
 
+- Circolo degli Illuminati, Rome · Sat, 24 Oct 2026
 - Jolene Sound Room Brooklyn, New York City · Fri, 9 Oct 2026
 - Salon Daomé, Montreal · Fri, 25 Sept 2026
 - Phono Lake, Amsterdam · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ Jovonn is a house and deep house artist based in United States of America, with 
 - Tokonoma Club, Frankfurt · Sat, 15 Aug 2026
 - Lux Fragil, Lisbon · Fri, 14 Aug 2026
 - Punch Bowl Social 360-Bar, Chicago · Thu, 30 Jul 2026
-- MAD Radio NYC, New York City · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Chez Damier, Garrett David, Omer Mil
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jovonn/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jovonn/)*

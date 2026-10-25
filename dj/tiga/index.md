@@ -1,14 +1,13 @@
 # Tiga
 
-Tiga is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
+Tiga is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Tiga is a techno and house artist based in Canada, with 129 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 45 more. Often billed alongside DJ Holographic, DJ Tennis and Ben Sterling. Next up: RAWFACTORY, Amsterdam on Sat 24 Oct.
+Tiga is a techno and house artist based in Canada, with 129 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 45 more. Often billed alongside DJ Holographic, DJ Tennis and Ben Sterling. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 31 Oct 2026 | Pier 48's Shed A | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 20 Nov 2026 | Laska V21 | Riga |
@@ -21,6 +20,7 @@ Tiga is a techno and house artist based in Canada, with 129 gigs on soundcheck a
 
 ## Recently played
 
+- RAWFACTORY, Amsterdam · Sat, 24 Oct 2026
 - BRET, Amsterdam · Thu, 22 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - TBA - Metropolis Venue, Lithuania · Sat, 10 Oct 2026
@@ -28,10 +28,9 @@ Tiga is a techno and house artist based in Canada, with 129 gigs on soundcheck a
 - OCZKI, Warsaw · Sat, 3 Oct 2026
 - Tama, Poznan · Fri, 2 Oct 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
-- Fulton Fish Market - Hunts Point, New York City · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 DJ Holographic, DJ Tennis, Ben Sterling
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

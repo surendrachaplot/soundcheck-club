@@ -1,14 +1,13 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Walkband Live" on Sat, 24 Oct 2026.
+Frankhan Selectist is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Isolate: Ede" on Fri, 30 Oct 2026.
 
-Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 9 upcoming gigs, with line-ups including Alican, Berkan V8, BOOSAY and Cabanne and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
+Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with line-ups including Alican, Berkan V8, BOOSAY and Cabanne and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Walkband Live |  |
 | Fri, 30 Oct 2026 | Isolate: Ede | Alican, Ede, Murat Uncuoglu |
 | Sat, 31 Oct 2026 | Halloween: Frankhanstein | BOOSAY, Berkan V8, GARAN GARAN |
 | Fri, 6 Nov 2026 | DJ Tennis | DJ Tennis |
@@ -22,4 +21,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 9 upcoming
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

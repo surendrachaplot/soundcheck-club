@@ -1,6 +1,6 @@
 # Devika
 
-Devika is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Astron Club, Athens on Sat, 14 Nov 2026.
+Devika is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Astron Club, Athens on Sat, 14 Nov 2026.
 
 Devika is a techno and electro artist based in Greece, with 24 gigs on soundcheck across Athens and Berlin. Often billed alongside Katra, 3.14 and ANFS. Next up: Astron Club, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Devika is a techno and electro artist based in Greece, with 24 gigs on soundchec
 
 Katra, 3.14, ANFS
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devika/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devika/)*

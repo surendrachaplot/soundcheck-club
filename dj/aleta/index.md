@@ -1,8 +1,8 @@
 # Aleta
 
-Aleta is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Das Werk, Vienna on Sun, 25 Oct 2026.
+Aleta is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Das Werk, Vienna on Sun, 25 Oct 2026.
 
-Aleta is a techno and trance artist based in Austria, with 25 gigs on soundcheck across Berlin and Vienna. Often billed alongside BRX, Vanessa Sa and WO.IZZY. Next up: Das Werk, Vienna on Sun 25 Oct.
+Aleta is a techno and trance artist based in Austria, with 26 gigs on soundcheck across Berlin and Vienna. Often billed alongside BRX, KRAWALLBARBIE and Vanessa Sa. Next up: Das Werk, Vienna on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Aleta is a techno and trance artist based in Austria, with 25 gigs on soundcheck
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Das Werk | Vienna |
 | Fri, 30 Oct 2026 | Grelle Forelle | Vienna |
+| Sat, 21 Nov 2026 | FLUCC | Vienna |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Aleta is a techno and trance artist based in Austria, with 25 gigs on soundcheck
 
 ## Shares bills with
 
-BRX (2), Vanessa Sa, WO.IZZY
+BRX (2), KRAWALLBARBIE, Vanessa Sa
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleta/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleta/)*

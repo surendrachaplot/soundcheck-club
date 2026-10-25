@@ -1,6 +1,6 @@
 # Dirty Disco Divas
 
-Dirty Disco Divas is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 5 Dec 2026.
+Dirty Disco Divas is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 5 Dec 2026.
 
 Dirty Disco Divas is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Hamburg. Often billed alongside WhoIsWho, Elon Bass and BNZN. Next up: Uebel & Gefährlich, Hamburg on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Dirty Disco Divas is a techno and trance artist based in Germany, with 18 gigs o
 
 WhoIsWho, Elon Bass, BNZN
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydiscodivas/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydiscodivas/)*

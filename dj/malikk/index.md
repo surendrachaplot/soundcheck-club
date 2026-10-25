@@ -1,6 +1,6 @@
 # MALIKK
 
-MALIKK is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Flac, Seoul on Fri, 30 Oct 2026.
+MALIKK is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Flac, Seoul on Fri, 30 Oct 2026.
 
 MALIKK is a tech house and house artist, with 16 gigs on soundcheck across Amsterdam, Dubai, Ibiza and Lyon and 6 more. Often billed alongside Jamie Jones, ALISHA and Sirus Hood. Next up: Flac, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MALIKK is a tech house and house artist, with 16 gigs on soundcheck across Amste
 
 Jamie Jones, ALISHA, Sirus Hood
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malikk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malikk/)*

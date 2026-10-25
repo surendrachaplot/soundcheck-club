@@ -1,14 +1,13 @@
 # HVEN
 
-HVEN is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "HVEN presents: Off Centre" on Sat, 24 Oct 2026.
+HVEN is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "OTHER HOURS" on Thu, 29 Oct 2026.
 
-HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including AHREUM, AiMii, AMANE and Azumai and 2 more. See dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
+HVEN is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including AHREUM, AiMii, AMANE and Azumai and 2 more. See dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | HVEN presents: Off Centre | DJ Flexure, Kamui Wada, Kota, MileZ, RashBone, TAJI |
 | Thu, 29 Oct 2026 | OTHER HOURS | AHREUM, Kris Fuji, Ryo Tsutsui |
 | Sat, 31 Oct 2026 | HVEN presents: Masquerave | VÏVÏ |
 | Sat, 31 Oct 2026 | HVEN Halloween: Pearl Garden | Elli Arakawa, Kotatsu, SOGI |
@@ -20,4 +19,4 @@ HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-
 
 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan, Tokyo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*

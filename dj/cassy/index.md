@@ -1,6 +1,6 @@
 # Cassy
 
-Cassy is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Cassy is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
 Cassy is a house and techno artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Bali, Baltimore and Barcelona and 57 more. Often billed alongside Carlos Valdes, Anja Schneider and Konstantin. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
@@ -31,4 +31,4 @@ Cassy is a house and techno artist based in United Kingdom, with 185 gigs on sou
 
 Carlos Valdes, Anja Schneider, Konstantin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*

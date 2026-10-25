@@ -1,6 +1,6 @@
 # TBA -  as shown on the flyer 
 
-TBA -  as shown on the flyer  is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "MAAAD" on Sun, 15 Nov 2026.
+TBA -  as shown on the flyer  is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "MAAAD" on Sun, 15 Nov 2026.
 
 TBA -  as shown on the flyer  is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA -  as shown on the flyer  is a music venue in Tokyo listed on soundcheck. 1 
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | MAAAD |  |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-as-shown-on-the-flyer/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-as-shown-on-the-flyer/)*

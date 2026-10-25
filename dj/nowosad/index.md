@@ -1,6 +1,6 @@
 # Nowosad
 
-Nowosad is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Foksal 19, Warsaw on Fri, 30 Oct 2026.
+Nowosad is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Foksal 19, Warsaw on Fri, 30 Oct 2026.
 
 Nowosad is a house and electro artist, with 38 gigs on soundcheck across Berlin, Warsaw and Wroclaw. Often billed alongside Jellin, Easy Audio and uiava. Next up: Foksal 19, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nowosad is a house and electro artist, with 38 gigs on soundcheck across Berlin,
 
 Jellin, Easy Audio, uiava
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nowosad/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nowosad/)*

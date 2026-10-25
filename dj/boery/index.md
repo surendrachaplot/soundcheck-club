@@ -1,14 +1,13 @@
 # BØĘRY
 
-BØĘRY is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
+BØĘRY is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
 
-BØĘRY is a techno and hardcore artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 13 more. Often billed alongside Raxeller, BLNK and LIEKS. Next up: OFF Kultur, Budapest on Sat 24 Oct.
+BØĘRY is a techno and hardcore artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 13 more. Often billed alongside Raxeller, BLNK and LIEKS. Next up: Afas Live, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | OFF Kultur | Budapest |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
@@ -20,9 +19,11 @@ BØĘRY is a techno and hardcore artist based in Netherlands, with 34 gigs on so
 | Sat, 19 Dec 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Thu, 31 Dec 2026 | Garage Klub | Antwerp |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
+| Fri, 5 Mar 2027 | Ziggo Dome | Amsterdam |
 
 ## Recently played
 
+- OFF Kultur, Budapest · Sat, 24 Oct 2026
 - Club Vaag, Antwerp · Fri, 23 Oct 2026
 - Maassilo, Rotterdam · Sat, 10 Oct 2026
 - Hans Bunte Areal, Freiburg · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ BØĘRY is a techno and hardcore artist based in Netherlands, with 34 gigs on so
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - Strantwerpen, Antwerp · Sat, 5 Sept 2026
 - Strantwerpen, Antwerp · Sat, 5 Sept 2026
-- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Raxeller, BLNK, LIEKS
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*

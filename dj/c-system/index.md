@@ -1,6 +1,6 @@
 # C-System
 
-C-System is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Dabadaba, North on Sat, 26 Dec 2026.
+C-System is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Dabadaba, North on Sat, 26 Dec 2026.
 
 C-System is a techno and electro artist, with 8 gigs on soundcheck across Barcelona, Bogotá, Madrid and Naples and 2 more. Often billed alongside A.N.I., Chris Liebing and DJ Rolando. Next up: Dabadaba, North on Sat 26 Dec.
 
@@ -24,4 +24,4 @@ C-System is a techno and electro artist, with 8 gigs on soundcheck across Barcel
 
 A.N.I., Chris Liebing, DJ Rolando
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c-system/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c-system/)*

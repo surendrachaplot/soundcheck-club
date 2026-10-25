@@ -1,6 +1,6 @@
 # Hannah Diamond
 
-Hannah Diamond is a Pop and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
+Hannah Diamond is a Pop and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
 
 Hannah Diamond is a pop and club artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Kane West, THELIMITDOESNOTEXIST and Doss. Next up: Colour Factory, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Hannah Diamond is a pop and club artist based in United Kingdom, with 43 gigs on
 
 Kane West, THELIMITDOESNOTEXIST, Doss
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahdiamond/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahdiamond/)*

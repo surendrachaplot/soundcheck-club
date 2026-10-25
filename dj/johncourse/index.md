@@ -1,6 +1,6 @@
 # John Course
 
-John Course is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Thu, 31 Dec 2026.
+John Course is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Thu, 31 Dec 2026.
 
 John Course is a house and techno artist based in Australia, with 23 gigs on soundcheck across Adelaide, Auckland, Bali and Brisbane and 3 more. Often billed alongside Brandon Block, Danny Tenaglia and Darren Emerson. Next up: TBA - Il Mercato Centrale, Melbourne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ John Course is a house and techno artist based in Australia, with 23 gigs on sou
 
 Brandon Block, Danny Tenaglia, Darren Emerson
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johncourse/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johncourse/)*

@@ -1,6 +1,6 @@
 # Acidnena
 
-Acidnena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Madreams, Madrid on Fri, 30 Oct 2026.
+Acidnena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Madreams, Madrid on Fri, 30 Oct 2026.
 
 Acidnena is a techno and house artist based in Argentina, with 83 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Leipzig and 5 more. Often billed alongside Verushka, M8NSE and Drazzit. Next up: Madreams, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Acidnena is a techno and house artist based in Argentina, with 83 gigs on soundc
 
 Verushka, M8NSE, Drazzit
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidnena/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidnena/)*

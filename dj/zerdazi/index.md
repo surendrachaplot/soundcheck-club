@@ -1,6 +1,6 @@
 # Zerdazi
 
-Zerdazi is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Lab.Club, London on Fri, 30 Oct 2026.
+Zerdazi is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Lab.Club, London on Fri, 30 Oct 2026.
 
 Zerdazi is a dubstep and bass artist, with 10 gigs on soundcheck across Ibiza and London. Often billed alongside Kassita, DJ Le Baron and ELRA. Next up: Lab.Club, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Zerdazi is a dubstep and bass artist, with 10 gigs on soundcheck across Ibiza an
 
 Kassita, DJ Le Baron, ELRA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zerdazi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zerdazi/)*

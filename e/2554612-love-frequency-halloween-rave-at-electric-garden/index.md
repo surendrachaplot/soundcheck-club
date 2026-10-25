@@ -1,6 +1,6 @@
 # LOVE FREQUENCY: Halloween Rave at Electric Garden
 
-LOVE FREQUENCY: Halloween Rave at Electric Garden on Sat 31 Oct, Dublin. 3 artists: Bronwyn., Suckerfish and Yours Truly. Techno and House. See the line-up on soundcheck.
+LOVE FREQUENCY: Halloween Rave at Electric Garden on Sat 31 Oct, Dublin. 4 artists: Bronwyn., Shampain, Suckerfish and Yours Truly. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ LOVE FREQUENCY: Halloween Rave at Electric Garden on Sat 31 Oct, Dublin. 3 artis
 ## Line-up
 
 - Bronwyn.
+- Shampain
 - Suckerfish
 - Yours Truly (5)
 

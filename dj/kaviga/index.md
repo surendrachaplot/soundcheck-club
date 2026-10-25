@@ -1,6 +1,6 @@
 # kaviga
 
-kaviga is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Rauxa Lab, Barcelona on Sun, 25 Oct 2026.
+kaviga is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Rauxa Lab, Barcelona on Sun, 25 Oct 2026.
 
 kaviga is a house and electro artist based in Spain, with 3 gigs on soundcheck across Barcelona. Often billed alongside B2G, Lakss and Balou. Next up: Rauxa Lab, Barcelona on Sun 25 Oct.
 
@@ -19,4 +19,4 @@ kaviga is a house and electro artist based in Spain, with 3 gigs on soundcheck a
 
 B2G (1), Lakss, Balou (2)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaviga/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaviga/)*

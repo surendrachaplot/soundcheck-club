@@ -1,6 +1,6 @@
 # Mar710
 
-Mar710 is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Passevite, Lisbon on Sun, 25 Oct 2026.
+Mar710 is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Passevite, Lisbon on Sun, 25 Oct 2026.
 
 Mar710 is an ambient and experimental artist, with 11 gigs on soundcheck across Lisbon. Often billed alongside nharo, Imberbe and João Melgueira. Next up: Passevite, Lisbon on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Mar710 is an ambient and experimental artist, with 11 gigs on soundcheck across 
 
 nharo, Imberbe, João Melgueira
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mar710/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mar710/)*

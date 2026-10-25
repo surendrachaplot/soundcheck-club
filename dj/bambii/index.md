@@ -1,6 +1,6 @@
 # Bambii
 
-Bambii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Regency Ballroom, San Francisco/Oakland on Sun, 8 Nov 2026.
+Bambii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Regency Ballroom, San Francisco/Oakland on Sun, 8 Nov 2026.
 
 Bambii is a techno and house artist based in Canada, with 109 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 28 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: The Regency Ballroom, San Francisco/Oakland on Sun 8 Nov.
 
@@ -27,4 +27,4 @@ Bambii is a techno and house artist based in Canada, with 109 gigs on soundcheck
 
 Young Teesh, Nino Brown (2), Nia Archives
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*

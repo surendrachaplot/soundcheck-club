@@ -1,6 +1,6 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Juicy Gang Meets Explorers" on Fri, 30 Oct 2026.
+Tokonoma Club is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Juicy Gang Meets Explorers" on Fri, 30 Oct 2026.
 
 Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs, with line-ups including 131bpm, Alas, Back2Bass and Beste Hira and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
@@ -16,4 +16,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 3 upcoming gig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

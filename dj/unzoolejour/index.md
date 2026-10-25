@@ -1,6 +1,6 @@
 # Un Zoo Le Jour
 
-Un Zoo Le Jour is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Next by House Nation Montreal, Montreal on Sun, 25 Oct 2026.
+Un Zoo Le Jour is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Next by House Nation Montreal, Montreal on Sun, 25 Oct 2026.
 
 Un Zoo Le Jour is a progressive house and house artist, with 23 gigs on soundcheck across Montreal. Often billed alongside Vicky Devika, Elle J and Airon. Next up: Next by House Nation Montreal, Montreal on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Un Zoo Le Jour is a progressive house and house artist, with 23 gigs on soundche
 
 Vicky Devika, Elle J, Airon
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unzoolejour/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unzoolejour/)*

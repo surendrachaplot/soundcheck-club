@@ -1,6 +1,6 @@
 # Zip
 
-Zip is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Mon, 26 Oct 2026.
+Zip is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Mon, 26 Oct 2026.
 
 Zip is a minimal and house artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Sammy Dee, Ricardo Villalobos and Margaret Dygas. Next up: The Loft Amsterdam, Amsterdam on Mon 26 Oct.
 
@@ -27,4 +27,4 @@ Zip is a minimal and house artist based in Germany, with 73 gigs on soundcheck a
 
 Sammy Dee, Ricardo Villalobos, Margaret Dygas
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zip/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zip/)*

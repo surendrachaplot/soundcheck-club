@@ -1,6 +1,6 @@
 # Zuzu
 
-Zuzu is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Big Dig Records: Construct" on Thu, 29 Oct 2026.
+Zuzu is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Big Dig Records: Construct" on Thu, 29 Oct 2026.
 
 Zuzu is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including brazen, Christinathesaintt and TO:NY. See dates, start times and who's playing. 510 Massachusetts Ave, Cambridge MA 02136.
 
@@ -16,4 +16,4 @@ Zuzu is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line
 
 510 Massachusetts Ave, Cambridge MA 02136, Boston
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/zuzu/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/zuzu/)*

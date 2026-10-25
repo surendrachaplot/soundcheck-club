@@ -1,6 +1,6 @@
 # Alena Noctis
 
-Alena Noctis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kramladen, Vienna on Sun, 25 Oct 2026.
+Alena Noctis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kramladen, Vienna on Sun, 25 Oct 2026.
 
 Alena Noctis is a techno and acid artist based in Austria, with 30 gigs on soundcheck across Amsterdam, Budapest, Munich and Vienna. Often billed alongside Relinquo, Patrik Pagan and DANBERG. Next up: Kramladen, Vienna on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Alena Noctis is a techno and acid artist based in Austria, with 30 gigs on sound
 
 Relinquo, Patrik Pagan, DANBERG
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alenanoctis/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alenanoctis/)*

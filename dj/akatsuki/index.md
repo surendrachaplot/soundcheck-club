@@ -1,14 +1,14 @@
 # Akatsuki
 
-Akatsuki is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+Akatsuki is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
 
-Akatsuki is a house and funk / soul artist, with 39 gigs on soundcheck across Hanoi and Tokyo. Often billed alongside NaiBan, Wai Kru and Sydney Barringer. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
+Akatsuki is a house and funk / soul artist, with 40 gigs on soundcheck across Hanoi and Tokyo. Often billed alongside NaiBan, Wai Kru and Sydney Barringer. Next up: Red River Cruise, Hanoi on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Le Maquis Club | Hanoi |
+| Sat, 31 Oct 2026 | Red River Cruise | Hanoi |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Akatsuki is a house and funk / soul artist, with 39 gigs on soundcheck across Ha
 
 NaiBan, Wai Kru, Sydney Barringer
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akatsuki/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akatsuki/)*

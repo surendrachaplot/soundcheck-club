@@ -1,6 +1,6 @@
 # RÆZA
 
-RÆZA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+RÆZA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 RÆZA is a techno and house artist based in France, with 73 gigs on soundcheck across Amsterdam, Berlin, Dresden and Hamburg and 9 more. Often billed alongside Rachel Noon, Lea Occhi and BASHKKA. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ RÆZA is a techno and house artist based in France, with 73 gigs on soundcheck a
 
 Rachel Noon, Lea Occhi, BASHKKA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raeza/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raeza/)*

@@ -1,20 +1,20 @@
 # Greg Wilson
 
-Greg Wilson is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Hare & Hounds, Birmingham on Sat, 24 Oct 2026.
+Greg Wilson is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hoylake Social Club, Liverpool on Fri, 30 Oct 2026.
 
-Greg Wilson is a house and disco artist based in United Kingdom, with 70 gigs on soundcheck across Birmingham, Brighton, Bristol and Brussels and 18 more. Often billed alongside Graeme Park, Todd Terry and DJ Paulette. Next up: Hare & Hounds, Birmingham on Sat 24 Oct.
+Greg Wilson is a house and disco artist based in United Kingdom, with 70 gigs on soundcheck across Birmingham, Brighton, Bristol and Brussels and 18 more. Often billed alongside Graeme Park, Todd Terry and DJ Paulette. Next up: Hoylake Social Club, Liverpool on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Hare & Hounds | Birmingham |
 | Fri, 30 Oct 2026 | Hoylake Social Club | Liverpool |
 | Sun, 22 Nov 2026 | Floyd | Miami |
 | Sat, 28 Nov 2026 | Palm House | Liverpool |
 
 ## Recently played
 
+- Hare & Hounds, Birmingham · Sat, 24 Oct 2026
 - Charlies Loft, Glasgow · Fri, 25 Sept 2026
 - Freeze HiFi, Liverpool · Wed, 23 Sept 2026
 - Le Bain, New York City · Sun, 20 Sept 2026
@@ -22,10 +22,9 @@ Greg Wilson is a house and disco artist based in United Kingdom, with 70 gigs on
 - Freight Island Newcastle, Newcastle · Sat, 15 Aug 2026
 - TBA - address sent to all ticket holders , London · Thu, 23 Jul 2026
 - Freight Island, Manchester · Sat, 18 Jul 2026
-- CANVAS, Dundee · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Graeme Park, Todd Terry, DJ Paulette
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregwilson/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregwilson/)*

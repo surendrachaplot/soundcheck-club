@@ -1,19 +1,19 @@
 # WIEK
 
-WIEK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at MUENZE, Berlin on Sat, 24 Oct 2026.
+WIEK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
 
-WIEK is a techno and house artist based in Germany, with 41 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich. Often billed alongside TraumaMia, Apolonia and Katzenohr. Next up: MUENZE, Berlin on Sat 24 Oct.
+WIEK is a techno and house artist based in Germany, with 41 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich. Often billed alongside TraumaMia, Apolonia and Katzenohr. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | MUENZE | Berlin |
 | Sat, 31 Oct 2026 | PKH Warehouse | Berlin |
 | Sat, 7 Nov 2026 | Westhafen | Leipzig |
 
 ## Recently played
 
+- MUENZE, Berlin · Sat, 24 Oct 2026
 - Jonny Knüppel, Berlin · Fri, 23 Oct 2026
 - Jonny Knüppel, Berlin · Sat, 8 Aug 2026
 - Hinterhof Mitte, Berlin · Fri, 31 Jul 2026
@@ -21,10 +21,9 @@ WIEK is a techno and house artist based in Germany, with 41 gigs on soundcheck a
 - Jonny Knüppel, Berlin · Sat, 9 May 2026
 - Fitzroy, Berlin · Sat, 4 Apr 2026
 - TBA, Berlin · Sat, 28 Feb 2026
-- Hafenklang, Hamburg · Sat, 13 Dec 2025
 
 ## Shares bills with
 
 TraumaMia, Apolonia, Katzenohr
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wiek/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wiek/)*

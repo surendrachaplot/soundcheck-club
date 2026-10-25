@@ -1,6 +1,6 @@
 # Christinathesaintt
 
-Christinathesaintt is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Zuzu, Boston on Fri, 30 Oct 2026.
+Christinathesaintt is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Zuzu, Boston on Fri, 30 Oct 2026.
 
 Christinathesaintt is a club and house artist based in United States of America, with 8 gigs on soundcheck across Boston and New York City. Often billed alongside Elysian, ARCHANGEL (US) and Adelaide. Next up: Zuzu, Boston on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Christinathesaintt is a club and house artist based in United States of America,
 
 Elysian (1), ARCHANGEL (US), Adelaide (1)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christinathesaintt/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christinathesaintt/)*

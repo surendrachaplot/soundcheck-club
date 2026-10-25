@@ -1,6 +1,6 @@
 # djvonnebenan
 
-djvonnebenan is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
+djvonnebenan is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
 
 djvonnebenan is a trance and techno artist based in Germany, with 49 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Maschérie, DJ Thai Take Away and Femme Fatale. Next up: Lokschuppen Berlin, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ djvonnebenan is a trance and techno artist based in Germany, with 49 gigs on sou
 
 Maschérie, DJ Thai Take Away, Femme Fatale
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvonnebenan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvonnebenan/)*

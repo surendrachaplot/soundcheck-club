@@ -1,6 +1,6 @@
 # YOOKiE
 
-YOOKiE is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 30 Oct 2026.
+YOOKiE is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 30 Oct 2026.
 
 YOOKiE is a dubstep and bass artist based in United States of America, with 10 gigs on soundcheck across Austin, Boston, Chicago and Los Angeles and 5 more. Often billed alongside Chris Lake, REZZ and Wax Motif. Next up: Sainte-Catherine Hall, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ YOOKiE is a dubstep and bass artist based in United States of America, with 10 g
 
 Chris Lake, REZZ, Wax Motif
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yookie/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yookie/)*

@@ -1,6 +1,6 @@
-# BEAT BUREAU at Schokoladen
+# Beat Bureau at Schokoladen
 
-BEAT BUREAU at Schokoladen on Sat 14 Nov, Berlin. 2 artists: Pris V and Tau Ceti. EBM and New Wave. See the line-up on soundcheck.
+Beat Bureau at Schokoladen on Sat 14 Nov, Berlin. 2 artists: Pris V and Tau Ceti. EBM and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

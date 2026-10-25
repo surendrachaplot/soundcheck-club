@@ -1,18 +1,16 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Golden Habit" on Sat, 24 Oct 2026.
+Teritorija is a music venue in Riga with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "mOZ // VLAD PHANGAN" on Fri, 30 Oct 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 9 upcoming gigs, with line-ups including ANASI, Esoniq, Existal and Golden Habit and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 7 upcoming gigs, with line-ups including ANASI, Esoniq, Existal and Kelvin and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Golden Habit | Golden Habit |
 | Fri, 30 Oct 2026 | mOZ // VLAD PHANGAN | VLAD PHANGAN, mOZ (2) |
 | Sat, 31 Oct 2026 | Esoniq | Esoniq |
 | Fri, 13 Nov 2026 | Cosmo Rave: Gravity |  |
-| Fri, 20 Nov 2026 | Platz fur Tanz x Teritorija: Pfirter (AR), Moteka (FR) | Ksenia Kamikaza, Moteka, Pfirter |
 | Fri, 4 Dec 2026 | KINKY RAVE w/ Lockhart (UK) | Ksenia Kamikaza, LETRIX, Lockhart, Pulss, UZAY |
 | Fri, 11 Dec 2026 | Let's Do Techno X Scotish Base vol. 3 | ANASI, Existal, KOLE AUDRO, Kelvin, Kupris, LETRIX, Notwelcome, NØSARA, RAWKORED, Riposte, UZAY, zulfree |
 | Fri, 18 Dec 2026 | Platz fur Tanz x Teritorija: Marco Ramos (NL) | Ksenia Kamikaza, Marco Ramos, MarekSPolzki |
@@ -22,4 +20,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 9 upcoming gigs, with 
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

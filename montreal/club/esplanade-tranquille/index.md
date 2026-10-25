@@ -1,6 +1,6 @@
 # Esplanade Tranquille
 
-Esplanade Tranquille is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Molior 25: Célébrations" on Thu, 29 Oct 2026.
+Esplanade Tranquille is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Molior 25: Célébrations" on Thu, 29 Oct 2026.
 
 Esplanade Tranquille is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Asha, dileta and France Jobin. See dates, start times and who's playing. 1442 rue Clark, Montréal, QC H2X 1Z7, Canada.
 
@@ -14,4 +14,4 @@ Esplanade Tranquille is a music venue in Montreal listed on soundcheck. 1 upcomi
 
 1442 rue Clark, Montréal, QC H2X 1Z7, Canada, Montreal
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esplanade-tranquille/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esplanade-tranquille/)*

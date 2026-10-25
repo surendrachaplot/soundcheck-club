@@ -1,15 +1,13 @@
 # OT301
 
-OT301 is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "AADE: ADEV after" on Sat, 24 Oct 2026.
+OT301 is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "PRSPCT Fundraver for Gaza Skate Team" on Sun, 25 Oct 2026.
 
-OT301 is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Alberta Balsam, Bella Hall, Déandrah and DJ Lis and 2 more. See dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
+OT301 is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Bella Hall, Déandrah, DJ Lis and DOLPHIN and 2 more. See dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | AADE: ADEV after | Alberta Balsam, Industrial Romantico, Tania Kim, Waldo |
-| Sat, 24 Oct 2026 | AADE: ADEV after | Alberta Balsam, Industrial Romantico, Waldo |
 | Sun, 25 Oct 2026 | PRSPCT Fundraver for Gaza Skate Team | DOLPHIN, Pythius, The Outside Agency, Thrasher |
 | Fri, 30 Oct 2026 | VIS 01 AMS | Bella Hall, Sachiko |
 | Fri, 6 Nov 2026 | SYNTHETIC REALITY | Feralia Planitia, Feryne, MAX DURANTE |
@@ -18,9 +16,11 @@ OT301 is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with
 | Sat, 21 Nov 2026 | ABBYSS-2 | Unit Moebius |
 | Fri, 4 Dec 2026 | Resonance |  |
 | Sat, 5 Dec 2026 | Melanż | Dominika Karaszewska |
+| Thu, 10 Dec 2026 | Massief presents: Tamen | DJ Lis, Déandrah, Gimmeamfbreakbeat, Son Of Sesh, Tamen |
+| Fri, 11 Dec 2026 | Cat in the bag - Jungle sessions |  |
 
 ## Address
 
 Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*

@@ -1,14 +1,13 @@
 # Dom Townsend
 
-Dom Townsend is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Arts Club, Liverpool on Sat, 24 Oct 2026.
+Dom Townsend is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 54 Liverpool, Liverpool on Sat, 31 Oct 2026.
 
-Dom Townsend is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across Dublin, Ibiza and Liverpool. Often billed alongside Sam Divine, Claptone and Hannah Wants. Next up: Arts Club, Liverpool on Sat 24 Oct.
+Dom Townsend is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across Dublin, Ibiza and Liverpool. Often billed alongside Sam Divine, Claptone and Hannah Wants. Next up: 54 Liverpool, Liverpool on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Arts Club | Liverpool |
 | Sat, 31 Oct 2026 | 54 Liverpool | Liverpool |
 | Sat, 31 Oct 2026 | 54 Liverpool | Liverpool |
 | Sat, 28 Nov 2026 | 54 Liverpool | Liverpool |
@@ -16,6 +15,7 @@ Dom Townsend is a house and tech house artist based in United Kingdom, with 28 g
 
 ## Recently played
 
+- Arts Club, Liverpool · Sat, 24 Oct 2026
 - Gbar, Liverpool · Sat, 26 Sept 2026
 - 54 Liverpool, Liverpool · Sun, 30 Aug 2026
 - Chinois Ibiza, Ibiza · Sat, 8 Aug 2026
@@ -23,10 +23,9 @@ Dom Townsend is a house and tech house artist based in United Kingdom, with 28 g
 - WaV, Liverpool · Sat, 13 Jun 2026
 - Arts Club, Liverpool · Sun, 5 Apr 2026
 - Liberte Liverpool, Liverpool · Wed, 31 Dec 2025
-- Zenn Rooftop, Liverpool · Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Sam Divine, Claptone, Hannah Wants
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domtownsend/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domtownsend/)*

@@ -1,6 +1,6 @@
 # FENDI-K
 
-FENDI-K is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Cause, London on Fri, 18 Dec 2026.
+FENDI-K is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Cause, London on Fri, 18 Dec 2026.
 
 FENDI-K is a jungle and drum & bass artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, Hamburg and London. Often billed alongside OS:MAN, Silva Snipa and VXRGO. Next up: The Cause, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ FENDI-K is a jungle and drum & bass artist based in United Kingdom, with 24 gigs
 
 OS:MAN, Silva Snipa, VXRGO
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fendi-k/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fendi-k/)*

@@ -1,14 +1,13 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "EERSTE LADING: GEM ENERGY LAUNCH PARTY" on Sat, 24 Oct 2026.
+Chinastraat is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Sweet Nothing Daytime Warehouse - Afterparty" on Sat, 31 Oct 2026.
 
-Chinastraat is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, with line-ups including Amalie, Amotik, Arthur Robert and Clara D and 2 more. See dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
+Chinastraat is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Amalie, Amotik, Arthur Robert and Clara D and 2 more. See dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | EERSTE LADING: GEM ENERGY LAUNCH PARTY |  |
 | Sat, 31 Oct 2026 | Sweet Nothing Daytime Warehouse - Afterparty | DJ IP, Hurts, SHOKI287, THELMA |
 | Sun, 1 Nov 2026 | Groove Theory with Connor Wall | Clara D, Connor Wall, Max. (BE), Rafael Munoz |
 | Sat, 7 Nov 2026 | FRACTAAL X ALLE REMMEN LOS [ACIDCORE & HARDCORE UPTEMPO] | Foubert, Inkorrekt, MARDENMEISTER |
@@ -19,4 +18,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, wit
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

@@ -1,6 +1,6 @@
 # Fahlberg
 
-Fahlberg is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bar & Kantine Schiffbau, Zurich on Sat, 31 Oct 2026.
+Fahlberg is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bar & Kantine Schiffbau, Zurich on Sat, 31 Oct 2026.
 
 Fahlberg is a house and afro house artist based in Sweden, with 39 gigs on soundcheck across Amsterdam, Austin, Berlin and Brussels and 21 more. Often billed alongside Chris Luno, Elderbrook and Mathame. Next up: Bar & Kantine Schiffbau, Zurich on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Fahlberg is a house and afro house artist based in Sweden, with 39 gigs on sound
 
 Chris Luno, Elderbrook, Mathame
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*

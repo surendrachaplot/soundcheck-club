@@ -1,6 +1,6 @@
 # Sebibadboy
 
-Sebibadboy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 19 Oct 2026.
+Sebibadboy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 19 Oct 2026.
 
 Sebibadboy is a house and techno artist based in South Korea, with 51 gigs on soundcheck across Seoul. Often billed alongside Youngseok, Gyusco and Nolove. Next up: Stoked&stoned, Seoul on Mon 19 Oct.
 
@@ -25,4 +25,4 @@ Sebibadboy is a house and techno artist based in South Korea, with 51 gigs on so
 
 Youngseok, Gyusco, Nolove
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebibadboy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebibadboy/)*

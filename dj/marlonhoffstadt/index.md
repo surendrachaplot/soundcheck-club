@@ -1,6 +1,6 @@
 # Marlon Hoffstadt
 
-Marlon Hoffstadt is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Marlon Hoffstadt is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Marlon Hoffstadt is a techno and trance artist based in Germany, with 141 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside MALUGI, Surf 2 Glory and I Hate Models. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Marlon Hoffstadt is a techno and trance artist based in Germany, with 141 gigs o
 
 MALUGI, Surf 2 Glory, I Hate Models
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonhoffstadt/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonhoffstadt/)*

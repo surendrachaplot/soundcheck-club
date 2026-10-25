@@ -1,6 +1,6 @@
 # AGUSTIN BARBEI
 
-AGUSTIN BARBEI is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Somewhere in Barcelona, Barcelona on Sat, 21 Nov 2026.
+AGUSTIN BARBEI is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Somewhere in Barcelona, Barcelona on Sat, 21 Nov 2026.
 
 AGUSTIN BARBEI is an electro and house artist based in Argentina, with 18 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Lisbon and 2 more. Often billed alongside Ulises, Alessandro Miranda and Alyhas. Next up: TBA - Somewhere in Barcelona, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ AGUSTIN BARBEI is an electro and house artist based in Argentina, with 18 gigs o
 
 Ulises (2), Alessandro Miranda, Alyhas
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbarbei/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbarbei/)*

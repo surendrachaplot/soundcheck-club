@@ -1,6 +1,6 @@
 # Sklaer
 
-Sklaer is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at La Cité Fertile, Paris on Sun, 25 Oct 2026.
+Sklaer is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at La Cité Fertile, Paris on Sun, 25 Oct 2026.
 
 Sklaer is a techno and electro artist based in France, with 41 gigs on soundcheck across Berlin, Bordeaux, Lyon and Nantes and 1 more. Often billed alongside Ian Maur, Clarence and Clarence Rise. Next up: La Cité Fertile, Paris on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Sklaer is a techno and electro artist based in France, with 41 gigs on soundchec
 
 Ian Maur, Clarence, Clarence Rise
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sklaer/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sklaer/)*

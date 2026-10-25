@@ -1,6 +1,6 @@
 # Tim Reaper
 
-Tim Reaper is a Jungle and Drum & Bass artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+Tim Reaper is a Jungle and Drum & Bass artist with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
 Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 255 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 49 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
@@ -9,7 +9,6 @@ Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 255 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
-| Sat, 24 Oct 2026 | 24 Kitchen Street | Liverpool |
 | Thu, 29 Oct 2026 | M.O.T | London |
 | Fri, 30 Oct 2026 | Gaffe | London |
 | Sat, 31 Oct 2026 | La Cheetah Club | Glasgow |
@@ -20,9 +19,11 @@ Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 255 
 | Sat, 28 Nov 2026 | M.O.T | London |
 | Thu, 31 Dec 2026 | The Clock Factory | Bristol |
 | Sat, 6 Feb 2027 | The Warehouse | Leeds |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
+- 24 Kitchen Street, Liverpool · Sat, 24 Oct 2026
 - Volks, Brighton · Fri, 23 Oct 2026
 - Zwart Goud Record Store, Amsterdam · Thu, 22 Oct 2026
 - Zwart Goud Record Store, Amsterdam · Wed, 21 Oct 2026
@@ -30,10 +31,9 @@ Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 255 
 - TRAUM, Antwerp · Sat, 10 Oct 2026
 - Beaver Works, Leeds · Sat, 3 Oct 2026
 - radial, London · Sat, 3 Oct 2026
-- FOUND, Berlin · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Dwarde, Sully, Coco Bryce
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*

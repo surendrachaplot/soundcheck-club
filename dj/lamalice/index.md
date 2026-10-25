@@ -1,19 +1,19 @@
 # LAMALICE
 
-LAMALICE is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Nido Marseille, Marseille on Sat, 24 Oct 2026.
+LAMALICE is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
 
-LAMALICE is a house and electro artist based in France, with 124 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 35 more. Often billed alongside Massaï, ABI (FR) and Ill Spleen. Next up: Nido Marseille, Marseille on Sat 24 Oct.
+LAMALICE is a house and electro artist based in France, with 124 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 35 more. Often billed alongside Massaï, ABI (FR) and Ill Spleen. Next up: Hasta La Vista, Baby, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Nido Marseille | Marseille |
 | Sun, 25 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 | Fri, 6 Nov 2026 | Signal | New York City |
 
 ## Recently played
 
+- Nido Marseille, Marseille · Sat, 24 Oct 2026
 - Badaboum, Paris · Fri, 16 Oct 2026
 - Studionotte, Milan · Fri, 9 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
@@ -21,10 +21,9 @@ LAMALICE is a house and electro artist based in France, with 124 gigs on soundch
 - TBA - Barbatana Foz de Lizandro, Lisbon · Fri, 21 Aug 2026
 - Fvtvr, Paris · Sat, 15 Aug 2026
 - TBA - ART CLUB Cabriès, Marseille · Sat, 1 Aug 2026
-- Platforma Wolff, Bucharest · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Massaï, ABI (FR), Ill Spleen
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalice/)*

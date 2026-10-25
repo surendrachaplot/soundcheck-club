@@ -1,14 +1,14 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Warmth presents: DJ Spinn, James Massiah, DJ GAWAD, Nihal + more" on Sat, 24 Oct 2026.
+Ormside Projects is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Lorenzo Senni: The Architecture of Intensity" on Sun, 25 Oct 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Ab.Diablo, Appleblim, Beatrice M. and Buckley (UK) and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Appleblim, Beatrice M., Buckley (UK) and Colombian Drone Mafia and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Warmth presents: DJ Spinn, James Massiah, DJ GAWAD, Nihal + more | Ab.Diablo, DJ Spinn, James Massiah, Nihal El Aasar, VIRI$$ |
+| Sun, 25 Oct 2026 | Lorenzo Senni: The Architecture of Intensity | Colombian Drone Mafia, KPAX, Lorenzo Senni, PDM, UNSAY |
 | Fri, 30 Oct 2026 | mi-el presents Pulling Threads w/ Kelman Duran, ojoo, Lord Tusk | Kelman Duran, Lord Tusk, mi-el, ojoo |
 | Sat, 31 Oct 2026 | 5 GATE TEMPLE ~ HALLOWEEN ~ Nkisi / JUNIOR LOVES / D. PHYLLEIA / LANDLOCK (LIVE) | John T. Gast, Nkisi, Xterea, d.phylleia |
 | Thu, 5 Nov 2026 | SAFADA: Nature Hacks Technology | Gadutra, Nymity |
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gi
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

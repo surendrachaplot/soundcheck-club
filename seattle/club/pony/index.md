@@ -1,6 +1,6 @@
 # Pony
 
-Pony is a music venue in Seattle with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "False Prophet presents Audiodrome" on Sat, 14 Nov 2026.
+Pony is a music venue in Seattle with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "False Prophet presents Audiodrome" on Sat, 14 Nov 2026.
 
 Pony is a music venue in Seattle listed on soundcheck. 2 upcoming gigs, with line-ups including DJ SH1-TR, Kadeejah Streets, Lord Phatrick and Mozhgan and 1 more. See dates, start times and who's playing. 1221 E Madison St; Seattle; WA 98122.
 
@@ -15,4 +15,4 @@ Pony is a music venue in Seattle listed on soundcheck. 2 upcoming gigs, with lin
 
 1221 E Madison St; Seattle; WA 98122, Seattle
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/pony/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/pony/)*

@@ -1,6 +1,6 @@
 # Amethy
 
-Amethy is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Oliva, Amsterdam on Sun, 25 Oct 2026.
+Amethy is a Afro House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Oliva, Amsterdam on Sun, 25 Oct 2026.
 
 Amethy is an afro house and tech house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam and Tallinn. Often billed alongside KARINSMATIC, Corren Cavini and Kitty Marroni. Next up: Oliva, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Amethy is an afro house and tech house artist based in Netherlands, with 11 gigs
 
 KARINSMATIC, Corren Cavini, Kitty Marroni
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amethy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amethy/)*

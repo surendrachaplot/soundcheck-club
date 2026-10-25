@@ -1,6 +1,6 @@
 # Pridi
 
-Pridi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mastak, Warsaw on Fri, 30 Oct 2026.
+Pridi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mastak, Warsaw on Fri, 30 Oct 2026.
 
 Pridi is a tech house and house artist based in Belarus, with 30 gigs on soundcheck across Antwerp, Berlin, Brussels and Hamburg and 4 more. Often billed alongside Plastik, Ilya Semashkevich and Shjva. Next up: Mastak, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Pridi is a tech house and house artist based in Belarus, with 30 gigs on soundch
 
 Plastik (1), Ilya Semashkevich, Shjva
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pridi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pridi/)*

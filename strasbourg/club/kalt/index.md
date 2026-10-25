@@ -1,14 +1,13 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Yasmin Gardezi" on Sat, 24 Oct 2026.
+KALT is a music venue in Strasbourg with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Backspin Records: Regal, Steve RedHead, Isaiah & Carmen Electro" on Sat, 31 Oct 2026.
 
-KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming gigs, with line-ups including Adiel, AISHA, Alex Kassian and Antigone and 2 more. See dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
+KALT is a music venue in Strasbourg listed on soundcheck. 11 upcoming gigs, with line-ups including Adiel, AISHA, Alex Kassian and Antigone and 2 more. See dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Yasmin Gardezi | FTFL, Yasmin Gardezi, Zaher |
 | Sat, 31 Oct 2026 | Backspin Records: Regal, Steve RedHead, Isaiah & Carmen Electro | Carmen Electro, Dima Roas, Isaiah (NL), Regal, Steve RedHead |
 | Sat, 7 Nov 2026 | Bae Blade | Bae Blade |
 | Tue, 10 Nov 2026 | KROM: Cera Khin & CLTX | CLTX, Cera Khin, Chill (FR), Dima Roas, STU (FR) |
@@ -18,9 +17,10 @@ KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming gigs, with
 | Sat, 5 Dec 2026 | Mac Declos (all night long) | Mac Declos |
 | Sat, 12 Dec 2026 | Adiel | Adiel |
 | Sat, 19 Dec 2026 | David Löhlein | David Löhlein |
+| Sat, 26 Dec 2026 | Antigone (all night long) | Antigone |
 
 ## Address
 
 1 Rue la Fayette, Strasbourg, France, Strasbourg
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*

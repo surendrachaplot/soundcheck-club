@@ -1,6 +1,6 @@
 # Luis Fandiño
 
-Luis Fandiño is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Sun, 1 Nov 2026.
+Luis Fandiño is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Sun, 1 Nov 2026.
 
 Luis Fandiño is a house and minimal artist based in Venezuela, with 30 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Moiseline, Swing de sasha and DJ MELEJ. Next up: Mad Radio Bogotá, Bogotá on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Luis Fandiño is a house and minimal artist based in Venezuela, with 30 gigs on 
 
 Moiseline, Swing de sasha, DJ MELEJ
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisfandino/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisfandino/)*

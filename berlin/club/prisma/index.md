@@ -1,6 +1,6 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Klubkneipe x Resonance" on Sun, 25 Oct 2026.
+Prisma is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Klubkneipe x Resonance" on Sun, 25 Oct 2026.
 
 Prisma is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including D.Sociation, DJ Kodah, NAIR (IN) and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
@@ -21,4 +21,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with li
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

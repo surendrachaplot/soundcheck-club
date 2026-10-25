@@ -1,6 +1,6 @@
 # Eric Ross
 
-Eric Ross is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA -   HEY HEY SOCIAL , San-antonio on Fri, 11 Dec 2026.
+Eric Ross is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA -   HEY HEY SOCIAL , San-antonio on Fri, 11 Dec 2026.
 
 Eric Ross is a techno and house artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Dallas/Fort Worth, Detroit and New York City and 1 more. Often billed alongside Curtis Bledsoe, DJ Roach and De León. Next up: TBA -   HEY HEY SOCIAL , San Antonio on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Eric Ross is a techno and house artist based in United States of America, with 1
 
 Curtis Bledsoe, DJ Roach, De León
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericross/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericross/)*

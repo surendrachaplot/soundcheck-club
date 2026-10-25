@@ -1,14 +1,13 @@
 # Shaolin Cowboy
 
-Shaolin Cowboy is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bridge 48, Barcelona on Sat, 24 Oct 2026.
+Shaolin Cowboy is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Fuchs2, Prague on Tue, 27 Oct 2026.
 
-Shaolin Cowboy is a house and garage artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Target Demographic. Next up: Bridge 48, Barcelona on Sat 24 Oct.
+Shaolin Cowboy is a house and garage artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Target Demographic. Next up: Fuchs2, Prague on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Bridge 48 | Barcelona |
 | Tue, 27 Oct 2026 | Fuchs2 | Prague |
 | Fri, 30 Oct 2026 | Bi Nuu | Berlin |
 | Sat, 31 Oct 2026 | OCZKI | Warsaw |
@@ -18,6 +17,7 @@ Shaolin Cowboy is a house and garage artist based in United Kingdom, with 56 gig
 
 ## Recently played
 
+- Bridge 48, Barcelona · Sat, 24 Oct 2026
 - Le Bateau Phare, Paris · Fri, 23 Oct 2026
 - Waterhouse Studios, Amsterdam · Thu, 22 Oct 2026
 - Illegaal, Brussels · Fri, 16 Oct 2026
@@ -25,10 +25,9 @@ Shaolin Cowboy is a house and garage artist based in United Kingdom, with 56 gig
 - Forge, Bucharest · Fri, 9 Oct 2026
 - Forge, Bucharest · Fri, 9 Oct 2026
 - The Jazz Cafe, London · Sat, 27 Jun 2026
-- Club Twentyone, Florence · Fri, 17 Apr 2026
 
 ## Shares bills with
 
 dj poolboi, DJ Cinéma Quartier Latin, Target Demographic
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaolincowboy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaolincowboy/)*

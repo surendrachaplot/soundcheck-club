@@ -1,14 +1,13 @@
 # Fugaz Bar
 
-Fugaz Bar is a music venue in Sao Paulo with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Fugaz recebe Mateus G" on Sat, 24 Oct 2026.
+Fugaz Bar is a music venue in Sao Paulo with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Fugaz recebe Golden Kong" on Wed, 28 Oct 2026.
 
-Fugaz Bar is a music venue in Sao Paulo listed on soundcheck. 11 upcoming gigs. See dates, start times and who's playing. Rua Cardeal Arcoverde, 1479.
+Fugaz Bar is a music venue in Sao Paulo listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. Rua Cardeal Arcoverde, 1479.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Fugaz recebe Mateus G |  |
 | Wed, 28 Oct 2026 | Fugaz recebe Golden Kong |  |
 | Thu, 29 Oct 2026 | Fugaz recebe Vitão Morales |  |
 | Fri, 30 Oct 2026 | Fugaz recebe Ana CMP |  |
@@ -18,9 +17,10 @@ Fugaz Bar is a music venue in Sao Paulo listed on soundcheck. 11 upcoming gigs. 
 | Thu, 19 Nov 2026 | Fugaz recebe Mateus G |  |
 | Fri, 20 Nov 2026 | Fugaz recebe Discolada |  |
 | Thu, 26 Nov 2026 | Fugaz recebe Chãnce da Silva |  |
+| Fri, 27 Nov 2026 | Fugaz recebe Golden Kong |  |
 
 ## Address
 
 Rua Cardeal Arcoverde, 1479, Sao Paulo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fugaz-bar/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fugaz-bar/)*

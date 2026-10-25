@@ -1,18 +1,18 @@
 # Varanasi
 
-Varanasi is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Distillery N17, London on Sat, 24 Oct 2026.
+Varanasi is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
-Varanasi is a techno and progressive house artist based in United Kingdom, with 39 gigs on soundcheck across Berlin, Brighton, London and Manchester. Often billed alongside Himboy, RayRay and SBBS. Next up: Distillery N17, London on Sat 24 Oct.
+Varanasi is a techno and progressive house artist based in United Kingdom, with 39 gigs on soundcheck across Berlin, Brighton, London and Manchester. Often billed alongside Himboy, RayRay and SBBS. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Distillery N17 | London |
 | Fri, 30 Oct 2026 | Eutopia Warehouse | London |
 
 ## Recently played
 
+- Distillery N17, London · Sat, 24 Oct 2026
 - Omeara, London · Sat, 17 Oct 2026
 - TBA - EAST LONDON - Announced to ticket holders on the day, London · Fri, 25 Sept 2026
 - Algha's Plantroom, London · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ Varanasi is a techno and progressive house artist based in United Kingdom, with 
 - TBA - EAST LONDON - Announced to ticket holders on the day, London · Fri, 7 Aug 2026
 - NUMBER 90 LONDON, London · Sun, 21 Jun 2026
 - TBA, London · Sat, 23 May 2026
-- TBA - secret, London · Sat, 9 May 2026
 
 ## Shares bills with
 
 Himboy, RayRay, SBBS
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*

@@ -1,14 +1,13 @@
 # Fronsi
 
-Fronsi is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
+Fronsi is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 30 Oct 2026.
 
-Fronsi is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Amøn, zwilling. and DETOXX. Next up: Toekomstmuziek, Amsterdam on Sat 24 Oct.
+Fronsi is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Amøn, zwilling. and DETOXX. Next up: Lokschuppen Berlin, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Fri, 30 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 7 Nov 2026 | Indiego Glocksee | Hannover |
 | Fri, 20 Nov 2026 | Uebel & Gefährlich | Hamburg |
@@ -16,6 +15,7 @@ Fronsi is a trance and techno artist based in Germany, with 26 gigs on soundchec
 
 ## Recently played
 
+- Toekomstmuziek, Amsterdam · Sat, 24 Oct 2026
 - Schrotty, Cologne · Fri, 9 Oct 2026
 - PKH Warehouse, Berlin · Fri, 2 Oct 2026
 - Westhafen, Leipzig · Sat, 19 Sept 2026
@@ -23,10 +23,9 @@ Fronsi is a trance and techno artist based in Germany, with 26 gigs on soundchec
 - Lokschuppen Berlin, Berlin · Sun, 2 Aug 2026
 - Lokschuppen Berlin, Berlin · Fri, 24 Jul 2026
 - OST, Berlin · Fri, 10 Jul 2026
-- Bosc Tancat / Diverbosc, Barcelona · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Amøn, zwilling., DETOXX
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fronsi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fronsi/)*

@@ -1,18 +1,18 @@
 # Moni von Pisani
 
-Moni von Pisani is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at BruchBerg Bar, Berlin on Sat, 24 Oct 2026.
+Moni von Pisani is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 26 Nov 2026.
 
-Moni von Pisani is a house and disco artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Nicki Spumante, Zehlendorfer Disco Squad and Alex Iso. Next up: BruchBerg Bar, Berlin on Sat 24 Oct.
+Moni von Pisani is a house and disco artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Nicki Spumante, Zehlendorfer Disco Squad and Alex Iso. Next up: Bulbul Berlin, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | BruchBerg Bar | Berlin |
 | Thu, 26 Nov 2026 | Bulbul Berlin | Berlin |
 
 ## Recently played
 
+- BruchBerg Bar, Berlin · Sat, 24 Oct 2026
 - Klunkerkranich, Berlin · Sat, 17 Oct 2026
 - Klunkerkranich, Berlin · Sat, 26 Sept 2026
 - Prisma, Berlin · Fri, 11 Sept 2026
@@ -25,4 +25,4 @@ Moni von Pisani is a house and disco artist based in Germany, with 9 gigs on sou
 
 Nicki Spumante, Zehlendorfer Disco Squad, Alex Iso
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monivonpisani/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monivonpisani/)*

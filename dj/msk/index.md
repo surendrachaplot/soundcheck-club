@@ -1,6 +1,6 @@
 # Ms. K
 
-Ms. K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Malmo on Sat, 7 Nov 2026.
+Ms. K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Malmo on Sat, 7 Nov 2026.
 
 Ms. K is a techno and house artist based in Sweden, with 37 gigs on soundcheck across Gothenburg, Malmo and Stockholm. Often billed alongside Billie Jo, Harami and Emin G. Next up: TBA, Malmo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ms. K is a techno and house artist based in Sweden, with 37 gigs on soundcheck a
 
 Billie Jo, Harami, Emin G
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msk/)*

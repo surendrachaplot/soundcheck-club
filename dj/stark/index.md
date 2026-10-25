@@ -1,6 +1,6 @@
 # Stark
 
-Stark is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Atno, Budapest on Fri, 30 Oct 2026.
+Stark is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Atno, Budapest on Fri, 30 Oct 2026.
 
 Stark is a house and club artist, with 27 gigs on soundcheck across Berlin, Budapest, Melbourne and New York City. Often billed alongside Hanussen, Knoll and MSKD. Next up: Atno, Budapest on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Stark is a house and club artist, with 27 gigs on soundcheck across Berlin, Buda
 
 Hanussen, Knoll, MSKD
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*

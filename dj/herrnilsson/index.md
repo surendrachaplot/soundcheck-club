@@ -1,6 +1,6 @@
 # Herr Nilsson
 
-Herr Nilsson is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Gothenburg Studios, Gothenburg on Sat, 31 Oct 2026.
+Herr Nilsson is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gothenburg Studios, Gothenburg on Sat, 31 Oct 2026.
 
 Herr Nilsson is a techno and psytrance artist based in Sweden, with 14 gigs on soundcheck across Gothenburg, Stockholm and Thessaloniki. Often billed alongside Teenage Mutants, Alex Stein and DINO. Next up: Gothenburg Studios, Gothenburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Herr Nilsson is a techno and psytrance artist based in Sweden, with 14 gigs on s
 
 Teenage Mutants, Alex Stein, DINO (3)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herrnilsson/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herrnilsson/)*

@@ -1,14 +1,13 @@
 # Connor Wrong
 
-Connor Wrong is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at BASEMENT, New York City on Fri, 23 Oct 2026.
+Connor Wrong is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Signal, New York City on Fri, 13 Nov 2026.
 
-Connor Wrong is a techno and bass artist based in United States of America, with 46 gigs on soundcheck across Montreal, New York City and Philadelphia. Often billed alongside DJ DEADNAME, Male Merge and Miss Parker. Next up: BASEMENT, New York City on Fri 23 Oct.
+Connor Wrong is a techno and bass artist based in United States of America, with 46 gigs on soundcheck across Montreal, New York City and Philadelphia. Often billed alongside DJ DEADNAME, Male Merge and Miss Parker. Next up: Signal, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | BASEMENT | New York City |
 | Fri, 13 Nov 2026 | Signal | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Connor Wrong is a techno and bass artist based in United States of America, with
 
 DJ DEADNAME, Male Merge, Miss Parker
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwrong/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwrong/)*

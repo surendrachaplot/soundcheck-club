@@ -1,8 +1,8 @@
 # Roksana
 
-Roksana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at SILO, New York City on Thu, 19 Nov 2026.
+Roksana is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at SILO, New York City on Thu, 19 Nov 2026.
 
-Roksana is a techno and house artist, with 11 gigs on soundcheck across Krakow, New York City, Warsaw and Wroclaw. Often billed alongside Minna Murra, Lush Tempora and Patron (PL). Next up: SILO, New York City on Thu 19 Nov.
+Roksana is a techno and industrial artist, with 12 gigs on soundcheck across Krakow, New York City, Warsaw and Wroclaw. Often billed alongside Minna Murra, Lush Tempora and Blasterjaxx. Next up: SILO, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Roksana is a techno and house artist, with 11 gigs on soundcheck across Krakow, 
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | SILO | New York City |
 | Fri, 20 Nov 2026 | Melrose Ballroom | New York City |
+| Sat, 21 Nov 2026 | Melrose Ballroom | New York City |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Roksana is a techno and house artist, with 11 gigs on soundcheck across Krakow, 
 
 ## Shares bills with
 
-Minna Murra, Lush Tempora, Patron (PL)
+Minna Murra, Lush Tempora, Blasterjaxx
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roksana/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roksana/)*

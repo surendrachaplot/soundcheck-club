@@ -1,14 +1,13 @@
 # Vero Standke
 
-Vero Standke is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Golden Gate, Berlin on Fri, 23 Oct 2026.
+Vero Standke is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
 
-Vero Standke is a techno and tech house artist based in Germany, with 33 gigs on soundcheck across Berlin. Often billed alongside FEVZEE, MEEMA and Mattone. Next up: Golden Gate, Berlin on Fri 23 Oct.
+Vero Standke is a techno and tech house artist based in Germany, with 33 gigs on soundcheck across Berlin. Often billed alongside FEVZEE, MEEMA and Mattone. Next up: Kater, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Golden Gate | Berlin |
 | Sat, 21 Nov 2026 | Kater | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Vero Standke is a techno and tech house artist based in Germany, with 33 gigs on
 
 FEVZEE, MEEMA, Mattone
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verostandke/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verostandke/)*

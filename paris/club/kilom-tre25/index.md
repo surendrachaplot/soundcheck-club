@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ACID KISS: DJ Pierre, Miss Djax, DR RUBINSTEIN" on Sat, 24 Oct 2026.
+Kilomètre25 is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "HUSH: 3LEESA, IOSIO, K0:LAB, REVEX, THISO, TOXIMAMI" on Fri, 30 Oct 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Cattoni, Danny Wabbit, DJ Hyperdrive and DJ Jee and 2 more. See dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Cattoni, Danny Wabbit, DJ Hyperdrive and Forest (PL) and 2 more. See dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | ACID KISS: DJ Pierre, Miss Djax, DR RUBINSTEIN | DJ Jee, DJ Pierre, Dr. Rubinstein, Miss Djax, Sarah Sommers |
 | Fri, 30 Oct 2026 | HUSH: 3LEESA, IOSIO, K0:LAB, REVEX, THISO, TOXIMAMI | IOSIO, THISO, TOXIMAMI |
 | Sat, 31 Oct 2026 | KILOMETRE25 CLOSING: HALLOWEEN with THELMA, Danny Wabbit | Cattoni, DJ Hyperdrive, Danny Wabbit, Forest (PL), In-Tan, THELMA |
 
@@ -16,4 +15,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 3 upcoming gigs, wi
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

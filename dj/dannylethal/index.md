@@ -1,14 +1,13 @@
 # Danny Lethal
 
-Danny Lethal is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Los Angeles on Fri, 23 Oct 2026.
+Danny Lethal is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Icon DC, Washington DC on Sat, 16 Jan 2027.
 
-Danny Lethal is a house and tech house artist based in United States of America, with 28 gigs on soundcheck across Atlanta, Austin, Berlin and Houston and 10 more. Often billed alongside Boomer Banks, Luis M. and Amarji King. Next up: TBA, Los Angeles on Fri 23 Oct.
+Danny Lethal is a house and tech house artist based in United States of America, with 28 gigs on soundcheck across Atlanta, Austin, Berlin and Houston and 10 more. Often billed alongside Boomer Banks, Luis M. and Amarji King. Next up: Icon DC, Washington DC on Sat 16 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA | Los Angeles |
 | Sat, 16 Jan 2027 | Icon DC | Washington DC |
 
 ## Recently played
@@ -26,4 +25,4 @@ Danny Lethal is a house and tech house artist based in United States of America,
 
 Boomer Banks, Luis M., Amarji King
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylethal/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylethal/)*

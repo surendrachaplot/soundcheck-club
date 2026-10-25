@@ -1,6 +1,6 @@
 # Poli-Pearl
 
-Poli-Pearl is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
+Poli-Pearl is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
 
 Poli-Pearl is a house and balearic artist, with 20 gigs on soundcheck across Melbourne, Perth and Victoria. Often billed alongside DITA (ID), DJ JNETT and Lay Down The Groove. Next up: TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Poli-Pearl is a house and balearic artist, with 20 gigs on soundcheck across Mel
 
 DITA (ID), DJ JNETT, Lay Down The Groove
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poli-pearl/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poli-pearl/)*

@@ -1,6 +1,6 @@
 # sleeptwitch
 
-sleeptwitch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bredouille, Berlin on Fri, 30 Oct 2026.
+sleeptwitch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bredouille, Berlin on Fri, 30 Oct 2026.
 
 sleeptwitch is a house and techno artist based in Germany, with 46 gigs on soundcheck across Berlin, Cologne and Vienna. Often billed alongside Keex, Pschukk and BBYG. Next up: Bredouille, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ sleeptwitch is a house and techno artist based in Germany, with 46 gigs on sound
 
 Keex, Pschukk, BBYG
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleeptwitch/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleeptwitch/)*

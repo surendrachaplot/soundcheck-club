@@ -1,6 +1,6 @@
 # optionlist
 
-optionlist is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Praya Dubia, London on Sun, 25 Oct 2026.
+optionlist is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Praya Dubia, London on Sun, 25 Oct 2026.
 
 optionlist is a hardcore and experimental artist based in Latvia, with 19 gigs on soundcheck across Glasgow, London, Manchester and Riga. Often billed alongside Ship Sket, novasdemise and Dhangsha. Next up: Praya Dubia, London on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ optionlist is a hardcore and experimental artist based in Latvia, with 19 gigs o
 
 Ship Sket, novasdemise, Dhangsha
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optionlist/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optionlist/)*

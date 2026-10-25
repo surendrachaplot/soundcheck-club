@@ -1,6 +1,6 @@
 # Gavin Peters
 
-Gavin Peters is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Plaza Camden, London on Sat, 31 Oct 2026.
+Gavin Peters is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Plaza Camden, London on Sat, 31 Oct 2026.
 
 Gavin Peters is a house and deep house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Tippa, Mark Radford and Carlos Aries. Next up: Plaza Camden, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gavin Peters is a house and deep house artist based in United Kingdom, with 18 g
 
 Tippa, Mark Radford, Carlos Aries
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gavinpeters/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gavinpeters/)*

@@ -1,14 +1,13 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+Ueberrest is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Vaag, Antwerp on Sun, 25 Oct 2026.
 
-Ueberrest is a techno and trance artist based in Switzerland, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 52 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
+Ueberrest is a techno and trance artist based in Switzerland, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 52 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Club Vaag, Antwerp on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sun, 25 Oct 2026 | Club Vaag | Antwerp |
 | Thu, 29 Oct 2026 | Basel Venue | Santiago |
 | Fri, 6 Nov 2026 | Public Works | San Francisco/Oakland |
@@ -20,9 +19,11 @@ Ueberrest is a techno and trance artist based in Switzerland, with 124 gigs on s
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
 | Fri, 29 Jan 2027 | DSTRKT Club Berlin | Berlin |
+| Sat, 6 Feb 2027 | Edelfettwerk | Hamburg |
 
 ## Recently played
 
+- NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
 - Gate Milano, Milan · Fri, 23 Oct 2026
 - Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
 - TBA - Heat Club, Switzerland · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@ Ueberrest is a techno and trance artist based in Switzerland, with 124 gigs on s
 - Blackstone Street Warehouse, Liverpool · Sat, 3 Oct 2026
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - Südbrücke Open Air, Cologne · Sat, 26 Sept 2026
-- Club Vaag, Antwerp · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Kobosil, Somewhen, KUKO
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

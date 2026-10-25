@@ -1,6 +1,6 @@
 # Code Black
 
-Code Black is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Chin Chin Club, Amsterdam on Sat, 24 Oct 2026.
+Code Black is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Chin Chin Club, Amsterdam on Sat, 24 Oct 2026.
 
 Code Black is a hardcore and gabber artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Helsinki, Los Angeles and Madrid and 3 more. Often billed alongside Wildstylez, Coone and Darren Styles. Next up: Chin Chin Club, Amsterdam on Sat 24 Oct.
 
@@ -13,6 +13,7 @@ Code Black is a hardcore and gabber artist based in Netherlands, with 11 gigs on
 
 ## Recently played
 
+- Chin Chin Club, Amsterdam · Sat, 24 Oct 2026
 - 02 Victoria Warehouse, Manchester · Sat, 28 Feb 2026
 - TBA - Genting Dream, Singapore · Sun, 16 Nov 2025
 - The Foundry, San Francisco/Oakland · Sun, 31 Aug 2025
@@ -20,10 +21,9 @@ Code Black is a hardcore and gabber artist based in Netherlands, with 11 gigs on
 - Melkweg, Amsterdam · Sat, 19 Oct 2024
 - NOS Event Center, Los Angeles · Fri, 30 Aug 2024
 - Fabrik, Madrid · Fri, 14 Jun 2024
-- Fabrik, Madrid · Sat, 16 Dec 2023
 
 ## Shares bills with
 
 Wildstylez, Coone, Darren Styles
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/codeblack/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/codeblack/)*

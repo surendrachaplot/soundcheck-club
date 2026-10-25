@@ -1,6 +1,6 @@
 # Bulma
 
-Bulma is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TRANSMISSION DC, Washington DC on Sat, 31 Oct 2026.
+Bulma is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TRANSMISSION DC, Washington DC on Sat, 31 Oct 2026.
 
 Bulma is a techno and hardcore artist based in France, with 35 gigs on soundcheck across Barcelona, Beijing, Ho Chi Minh City and Kuala Lumpur and 13 more. Often billed alongside Suicide Club, Kilo Vee and Alvva. Next up: TRANSMISSION DC, Washington DC on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bulma is a techno and hardcore artist based in France, with 35 gigs on soundchec
 
 Suicide Club, Kilo Vee, Alvva
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bulma/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bulma/)*

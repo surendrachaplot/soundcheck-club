@@ -1,6 +1,6 @@
 # PUZZ
 
-PUZZ is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ciało, Wroclaw on Fri, 30 Oct 2026.
+PUZZ is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ciało, Wroclaw on Fri, 30 Oct 2026.
 
 PUZZ is a techno and acid artist based in Poland, with 28 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Tekknik, Furie and somnifobia. Next up: Ciało, Wroclaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ PUZZ is a techno and acid artist based in Poland, with 28 gigs on soundcheck acr
 
 Tekknik, Furie, somnifobia
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puzz/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puzz/)*

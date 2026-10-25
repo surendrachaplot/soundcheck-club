@@ -1,8 +1,8 @@
 # Gammer
 
-Gammer is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Gammer is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Gammer is a hardcore and techno artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Liverpool, London and Los Angeles and 3 more. Often billed alongside Darren Styles, Hixxy and Klubfiller. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Gammer is a hardcore and techno artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Liverpool, London and Los Angeles and 3 more. Often billed alongside Darren Styles, LNY TNZ and Blasterjaxx. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gammer is a hardcore and techno artist based in United Kingdom, with 15 gigs on 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 20 Nov 2026 | Melrose Ballroom | New York City |
+| Sat, 21 Nov 2026 | Melrose Ballroom | New York City |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Gammer is a hardcore and techno artist based in United Kingdom, with 15 gigs on 
 
 ## Shares bills with
 
-Darren Styles, Hixxy, Klubfiller
+Darren Styles, LNY TNZ, Blasterjaxx
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gammer/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gammer/)*

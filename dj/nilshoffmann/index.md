@@ -1,14 +1,13 @@
 # Nils Hoffmann
 
-Nils Hoffmann is a Deep House and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+Nils Hoffmann is a Deep House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Divide Nightclub, Adelaide on Fri, 30 Oct 2026.
 
-Nils Hoffmann is a deep house and progressive house artist based in Germany, with 97 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 41 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
+Nils Hoffmann is a deep house and progressive house artist based in Germany, with 97 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 41 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Divide Nightclub, Adelaide on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
 | Fri, 30 Oct 2026 | Divide Nightclub | Adelaide |
 | Sat, 31 Oct 2026 | Sydney Portugal Community Club | Sydney |
 | Sat, 7 Nov 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
@@ -30,4 +29,4 @@ Nils Hoffmann is a deep house and progressive house artist based in Germany, wit
 
 Marsh, Nicky Elisabeth, Romain Garcia
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*

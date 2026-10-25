@@ -1,6 +1,6 @@
 # Samuel Deep
 
-Samuel Deep is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Blast Galaxy, Amsterdam on Sun, 25 Oct 2026.
+Samuel Deep is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Blast Galaxy, Amsterdam on Sun, 25 Oct 2026.
 
 Samuel Deep is a house and tech house artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Blast Galaxy, Amsterdam on Sun 25 Oct.
 
@@ -31,4 +31,4 @@ Samuel Deep is a house and tech house artist based in Netherlands, with 195 gigs
 
 Doudou MD, DJ Senc, Laidlaw
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*

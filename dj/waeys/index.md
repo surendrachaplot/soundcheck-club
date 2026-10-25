@@ -1,6 +1,6 @@
 # Waeys
 
-Waeys is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+Waeys is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
 Waeys is a drum & bass and jungle artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 18 more. Often billed alongside Kasra, Enei and Simula. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Waeys is a drum & bass and jungle artist based in Netherlands, with 37 gigs on s
 
 Kasra, Enei, Simula
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waeys/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waeys/)*

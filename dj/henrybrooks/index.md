@@ -1,6 +1,6 @@
 # Henry Brooks
 
-Henry Brooks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Chicago on Sat, 31 Oct 2026.
+Henry Brooks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Chicago on Sat, 31 Oct 2026.
 
 Henry Brooks is a techno and house artist based in United States of America, with 51 gigs on soundcheck across Atlanta, Berlin, Boston and Chicago and 10 more. Often billed alongside DJ I.V., The AM/AMX and Rebecca Goldberg. Next up: TBA, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Henry Brooks is a techno and house artist based in United States of America, wit
 
 DJ I.V., The AM/AMX, Rebecca Goldberg
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrybrooks/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrybrooks/)*

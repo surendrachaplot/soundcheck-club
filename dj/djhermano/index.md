@@ -1,6 +1,6 @@
 # Dj Hermano
 
-Dj Hermano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Video Club, Bogotá on Sun, 1 Nov 2026.
+Dj Hermano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Video Club, Bogotá on Sun, 1 Nov 2026.
 
 Dj Hermano is a house and techno artist based in Brazil, with 88 gigs on soundcheck across Bogotá, Chicago, Los Angeles and Mexico City and 10 more. Often billed alongside Pretty Gay Friendly, CUERPOS and Mok-T. Next up: Video Club, Bogotá on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Dj Hermano is a house and techno artist based in Brazil, with 88 gigs on soundch
 
 Pretty Gay Friendly, CUERPOS, Mok-T
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhermano/)*

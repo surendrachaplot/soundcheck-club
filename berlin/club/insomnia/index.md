@@ -1,14 +1,13 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Venus Bizarre" on Sat, 24 Oct 2026.
+Insomnia is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Berlin Kink" on Thu, 29 Oct 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including BOHO, Diana May, Emmanuelle 5 and Epicx and 2 more. See dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including BOHO, Diana May, Emmanuelle 5 and Epicx and 2 more. See dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Venus Bizarre | Epicx, Sika Akis, Wiebe Roose |
 | Thu, 29 Oct 2026 | Berlin Kink |  |
 | Sat, 31 Oct 2026 | UNLEASHED by UNDR - Kinky Techno Halloween | BOHO, Jakob Lesch, Miss UNLEASHED |
 | Fri, 6 Nov 2026 | Master & Servant |  |
@@ -18,9 +17,10 @@ Insomnia is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with
 | Sat, 14 Nov 2026 | Colours of the Night | Sika Akis |
 | Fri, 20 Nov 2026 | FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party |  |
 | Sat, 21 Nov 2026 | HEAT by UNDR - Kinky House & Techno Party | Epicx, Mia Mangata, PyjamaMama, Sika Akis |
+| Thu, 26 Nov 2026 | Berlin Kink |  |
 
 ## Address
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

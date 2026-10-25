@@ -1,14 +1,13 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Hemkade 48, Amsterdam on Sat, 24 Oct 2026.
+Armand Van Helden is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
-Armand Van Helden is a house and disco artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 43 more. Often billed alongside MiNNA, Fatzo and Oden. Next up: Hemkade 48, Amsterdam on Sat 24 Oct.
+Armand Van Helden is a house and disco artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 43 more. Often billed alongside MiNNA, Fatzo and Oden. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Sun, 1 Nov 2026 | Chelmsford City Racecourse | London |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
@@ -22,6 +21,7 @@ Armand Van Helden is a house and disco artist based in United States of America,
 
 ## Recently played
 
+- Hemkade 48, Amsterdam · Sat, 24 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - TBA - Lurin live, Peru · Sat, 10 Oct 2026
 - Los Angeles State Historic Park, Los Angeles · Sun, 27 Sept 2026
@@ -29,10 +29,9 @@ Armand Van Helden is a house and disco artist based in United States of America,
 - DRUMSHEDS, London · Sat, 19 Sept 2026
 - Amnesia Ibiza, Ibiza · Fri, 18 Sept 2026
 - Gaswrx Birmingham, London · Sat, 12 Sept 2026
-- Pacha Ibiza, Ibiza · Thu, 10 Sept 2026
 
 ## Shares bills with
 
 MiNNA, Fatzo, Oden
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

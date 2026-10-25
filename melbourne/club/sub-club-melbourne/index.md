@@ -1,14 +1,13 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Novel presents Oots" on Sat, 24 Oct 2026.
+Sub Club Melbourne is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "morph" on Fri, 30 Oct 2026.
 
-Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Babycino and Baxter and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
+Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Babycino and Baxter and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Novel presents Oots | Oots |
 | Fri, 30 Oct 2026 | morph |  |
 | Sat, 31 Oct 2026 | Refuge & Club Well pres. Elijah Something | A.Well, Amber Ferraro, Elijah Something, Jan Kost |
 | Sat, 31 Oct 2026 | Club Well X Refuge Recordings feat. Elijah Something | A.Well, Amber Ferraro, Elijah Something, Jan Kost |
@@ -21,4 +20,4 @@ Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 8 upcomin
 
 Flinders Ct, Melbourne VIC 3000, Australia, Melbourne
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*

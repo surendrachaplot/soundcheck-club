@@ -1,18 +1,18 @@
 # Dj Blue
 
-Dj Blue is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Nulab Chengdu, Chengdu on Sat, 24 Oct 2026.
+Dj Blue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Nulab Chengdu, Chengdu on Sun, 25 Oct 2026.
 
-Dj Blue is a techno and house artist, with 9 gigs on soundcheck across Chengdu, Chongqing, Hanoi and Shanghai. Often billed alongside 3ASiC, ALPHA (NL) and Archypness. Next up: Nulab Chengdu, Chengdu on Sat 24 Oct.
+Dj Blue is a techno and house artist, with 9 gigs on soundcheck across Chengdu, Chongqing, Hanoi and Shanghai. Often billed alongside 3ASiC, ALPHA (NL) and Archypness. Next up: Nulab Chengdu, Chengdu on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Nulab Chengdu | Chengdu |
 | Sun, 25 Oct 2026 | Nulab Chengdu | Chengdu |
 
 ## Recently played
 
+- Nulab Chengdu, Chengdu · Sat, 24 Oct 2026
 - Nulab Chengdu, Chengdu · Fri, 23 Oct 2026
 - Hakkabar 院吧, Chengdu · Sat, 1 Aug 2026
 - 坚果NUTS, Chongqing · Sat, 18 Jul 2026
@@ -25,4 +25,4 @@ Dj Blue is a techno and house artist, with 9 gigs on soundcheck across Chengdu, 
 
 3ASiC, ALPHA (NL), Archypness
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djblue/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djblue/)*

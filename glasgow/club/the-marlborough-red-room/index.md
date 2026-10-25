@@ -1,6 +1,6 @@
 # The Marlborough Red Room
 
-The Marlborough Red Room is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Triple XL presents 'ABSOLUTE PLEASURE'" on Sat, 31 Oct 2026.
+The Marlborough Red Room is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Triple XL presents 'ABSOLUTE PLEASURE'" on Sat, 31 Oct 2026.
 
 The Marlborough Red Room is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including Bellarosa, Dreamstate_2k, LAUZ and leahgte and 2 more. See dates, start times and who's playing. 26 Langside Avenue, Glasgow, G41 2QS, United Kingdom.
 
@@ -17,4 +17,4 @@ The Marlborough Red Room is a music venue in Glasgow listed on soundcheck. 4 upc
 
 26 Langside Avenue, Glasgow, G41 2QS, United Kingdom, Glasgow
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-marlborough-red-room/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-marlborough-red-room/)*

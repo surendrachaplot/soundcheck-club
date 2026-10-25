@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Alex Cosmo Blake — Live performance " on Wed, 4 Nov 2026.
+Atemporal is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Alex Cosmo Blake — Live performance " on Wed, 4 Nov 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -19,4 +19,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming gigs. See 
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

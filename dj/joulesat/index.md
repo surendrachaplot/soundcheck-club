@@ -1,6 +1,6 @@
 # Joules (AT)
 
-Joules (AT) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at SASS Music Club, Vienna on Sun, 25 Oct 2026.
+Joules (AT) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at SASS Music Club, Vienna on Sun, 25 Oct 2026.
 
 Joules (AT) is a house and tech house artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside Roibo, Valio and Anni Herzer. Next up: SASS Music Club, Vienna on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ Joules (AT) is a house and tech house artist based in Austria, with 8 gigs on so
 
 Roibo, Valio, Anni Herzer
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joulesat/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joulesat/)*

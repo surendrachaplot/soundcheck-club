@@ -1,6 +1,6 @@
 # King Shiloh
 
-King Shiloh is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Lofi, Amsterdam on Fri, 4 Dec 2026.
+King Shiloh is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Lofi, Amsterdam on Fri, 4 Dec 2026.
 
 King Shiloh is a dub and bass artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Ghent, Leeds and Los Angeles and 4 more. Often billed alongside Iration Steppas, Mala and Channel One Sound. Next up: Lofi, Amsterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ King Shiloh is a dub and bass artist based in Netherlands, with 20 gigs on sound
 
 Iration Steppas, Mala, Channel One Sound
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingshiloh/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingshiloh/)*

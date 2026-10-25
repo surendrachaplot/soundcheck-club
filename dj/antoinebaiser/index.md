@@ -1,6 +1,6 @@
 # Antoine Baiser
 
-Antoine Baiser is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Antoine Baiser is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 Antoine Baiser is a techno and electro artist based in Germany, with 59 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Munich. Often billed alongside Surreal (DE), face* and Marco Baskind. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Antoine Baiser is a techno and electro artist based in Germany, with 59 gigs on 
 
 Surreal (DE), face*, Marco Baskind
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoinebaiser/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoinebaiser/)*

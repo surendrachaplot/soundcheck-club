@@ -1,6 +1,6 @@
 # something blue
 
-something blue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 31 Oct 2026.
+something blue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 31 Oct 2026.
 
 something blue is a techno and house artist based in United States of America, with 121 gigs on soundcheck across Austin, Chicago, Detroit and Pittsburgh. Often billed alongside Auntie Chanel, Ashton Swinton and dream beach. Next up: Lincoln Factory, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ something blue is a techno and house artist based in United States of America, w
 
 Auntie Chanel, Ashton Swinton, dream beach
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somethingblue/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somethingblue/)*

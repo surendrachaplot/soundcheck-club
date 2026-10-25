@@ -1,6 +1,6 @@
 # Cecilio
 
-Cecilio is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Reforesters Laboratory, New York City on Sun, 25 Oct 2026.
+Cecilio is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Reforesters Laboratory, New York City on Sun, 25 Oct 2026.
 
 Cecilio is a house and techno artist based in Spain, with 116 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 28 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: Reforesters Laboratory, New York City on Sun 25 Oct.
 
@@ -29,4 +29,4 @@ Cecilio is a house and techno artist based in Spain, with 116 gigs on soundcheck
 
 Laurine, S.Moreira, Jorge Escribano
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*

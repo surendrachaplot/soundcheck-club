@@ -1,14 +1,13 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Luigi Tozzi live (Hypnus Records /IT), Kessa (WRD /IT), Aberra (WRD /IT)" on Sat, 24 Oct 2026.
+Azimut Club is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Dukwa hosted by EAR\WAX halloween night" on Sat, 31 Oct 2026.
 
-Azimut Club is a music venue in Turin listed on soundcheck. 9 upcoming gigs, with line-ups including Aberra, Allegretti, BLANKA and dj sweet6teen and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
+Azimut Club is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with line-ups including Allegretti, BLANKA, dj sweet6teen and Dukwa and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Luigi Tozzi live (Hypnus Records /IT), Kessa (WRD /IT), Aberra (WRD /IT) | Aberra, Kessa, Luigi Tozzi |
 | Sat, 31 Oct 2026 | Dukwa hosted by EAR\WAX halloween night | Dukwa |
 | Sat, 14 Nov 2026 | Dj Sweet 6Teen hosted by EAR\WAX | dj sweet6teen |
 | Fri, 20 Nov 2026 | Naone (down2earth, UTTU, Safe Trip /NL), Rice Papers (Continua, WRD /IT) hosted by Continua | Naone |
@@ -22,4 +21,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 9 upcoming gigs, wit
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

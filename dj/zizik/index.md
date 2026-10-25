@@ -1,13 +1,14 @@
 # zizi k
 
-zizi k is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 12 Dec 2026.
+zizi k is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Cadavra, Madrid on Sat, 14 Nov 2026.
 
-zizi k is a house and techno artist based in Colombia, with 28 gigs on soundcheck across Barcelona, Bogotá, Lisbon and Madrid and 1 more. Often billed alongside Gala (ES), Donnie Cosmo and Jose BB. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 12 Dec.
+zizi k is a house and techno artist based in Colombia, with 29 gigs on soundcheck across Barcelona, Bogotá, Lisbon and Madrid and 1 more. Often billed alongside Gala (ES), Certain People and Donnie Cosmo. Next up: Cadavra, Madrid on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Cadavra | Madrid |
 | Sat, 12 Dec 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 18 Dec 2026 | Cadavra | Madrid |
 
@@ -24,6 +25,6 @@ zizi k is a house and techno artist based in Colombia, with 28 gigs on soundchec
 
 ## Shares bills with
 
-Gala (ES), Donnie Cosmo, Jose BB
+Gala (ES), Certain People, Donnie Cosmo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zizik/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zizik/)*

@@ -1,14 +1,13 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 24 Oct 2026.
+DJ Hell is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
 
-DJ Hell is a techno and house artist based in Germany, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: Momem - Museum of Modern Electronic Music, Frankfurt on Sat 24 Oct.
+DJ Hell is a techno and house artist based in Germany, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 31 Oct 2026 | OST | Berlin |
 | Sat, 14 Nov 2026 | Stromwerk Dresden | Dresden |
@@ -19,6 +18,7 @@ DJ Hell is a techno and house artist based in Germany, with 148 gigs on soundche
 
 ## Recently played
 
+- Momem - Museum of Modern Electronic Music, Frankfurt · Sat, 24 Oct 2026
 - Melkweg, Amsterdam · Fri, 23 Oct 2026
 - Fuse, Brussels · Sat, 17 Oct 2026
 - Richard Wagner Museum, Bavaria · Fri, 16 Oct 2026
@@ -26,10 +26,9 @@ DJ Hell is a techno and house artist based in Germany, with 148 gigs on soundche
 - Eventhuset, Stockholm · Sat, 26 Sept 2026
 - Rex Club, Paris · Fri, 25 Sept 2026
 - 528 Ibiza, Ibiza · Wed, 23 Sept 2026
-- Lux Fragil, Lisbon · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Binh, Paty Vapor, Helena Hauff
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*

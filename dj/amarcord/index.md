@@ -1,6 +1,6 @@
 # Amarcord
 
-Amarcord is a Italo Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kulturlounge, Leipzig on Sat, 19 Dec 2026.
+Amarcord is a Italo Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kulturlounge, Leipzig on Sat, 19 Dec 2026.
 
 Amarcord is an italo disco and acid artist based in Italy, with 14 gigs on soundcheck across Barcelona, Berlin, Cardiff and Leipzig and 5 more. Often billed alongside Dorian Flagrant, Facets and Kendal. Next up: Kulturlounge, Leipzig on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Amarcord is an italo disco and acid artist based in Italy, with 14 gigs on sound
 
 Dorian Flagrant, Facets, Kendal
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amarcord/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amarcord/)*

@@ -1,14 +1,13 @@
 # Tylr
 
-Tylr is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at SOS, Detroit on Fri, 23 Oct 2026.
+Tylr is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Spkrbox, Detroit on Thu, 29 Oct 2026.
 
-Tylr is a house and techno artist based in United States of America, with 340 gigs on soundcheck across Detroit, London, New York City and San Francisco/Oakland and 2 more. Often billed alongside Loren, Garrison XR and Kass (US). Next up: SOS, Detroit on Fri 23 Oct.
+Tylr is a house and techno artist based in United States of America, with 340 gigs on soundcheck across Detroit, London, New York City and San Francisco/Oakland and 2 more. Often billed alongside Loren, Garrison XR and Kass (US). Next up: Spkrbox, Detroit on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | SOS | Detroit |
 | Thu, 29 Oct 2026 | Spkrbox | Detroit |
 | Thu, 29 Oct 2026 | Spkrbox | Detroit |
 | Fri, 30 Oct 2026 | TBA - EL Trombone | Detroit |
@@ -28,4 +27,4 @@ Tylr is a house and techno artist based in United States of America, with 340 gi
 
 Loren, Garrison XR, Kass (US)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tylr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tylr/)*

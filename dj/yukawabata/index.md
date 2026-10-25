@@ -1,6 +1,6 @@
 # Yu Kawabata
 
-Yu Kawabata is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at IT Athens, Athens on Sat, 14 Nov 2026.
+Yu Kawabata is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at IT Athens, Athens on Sat, 14 Nov 2026.
 
 Yu Kawabata is a techno and industrial artist based in Japan, with 25 gigs on soundcheck across Athens, Barcelona, Beijing and Berlin and 13 more. Often billed alongside MAX DURANTE, Benbien and FENGX2. Next up: IT Athens, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yu Kawabata is a techno and industrial artist based in Japan, with 25 gigs on so
 
 MAX DURANTE, Benbien, FENGX2
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukawabata/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukawabata/)*

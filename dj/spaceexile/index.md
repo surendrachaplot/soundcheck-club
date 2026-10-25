@@ -1,6 +1,6 @@
 # Space Exile
 
-Space Exile is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
+Space Exile is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
 Space Exile is a house and techno artist, with 9 gigs on soundcheck across Berlin. Often billed alongside Kör Boira, Prieste5s and Retter (DE). Next up: TBA, Berlin on Sat 24 Oct.
 
@@ -12,6 +12,7 @@ Space Exile is a house and techno artist, with 9 gigs on soundcheck across Berli
 
 ## Recently played
 
+- TBA, Berlin · Sat, 24 Oct 2026
 - OHM, Berlin · Thu, 3 Sept 2026
 - Renate, Berlin · Thu, 11 Jun 2026
 - Urban Spree, Berlin · Fri, 15 Aug 2025
@@ -19,10 +20,9 @@ Space Exile is a house and techno artist, with 9 gigs on soundcheck across Berli
 - AVA Club, Berlin · Sat, 30 Dec 2023
 - TBA - Secret Location, Berlin · Fri, 29 Dec 2023
 - AVA Club, Berlin · Sat, 8 Apr 2023
-- QS1 Studio, Berlin · Sat, 28 Jan 2023
 
 ## Shares bills with
 
 Kör Boira, Prieste5s, Retter (DE)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceexile/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceexile/)*

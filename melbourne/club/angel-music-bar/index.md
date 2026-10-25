@@ -1,14 +1,13 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Angel presents Squidgenini, Work Wife, Ewan Sutardy" on Sat, 24 Oct 2026.
+Angel Music Bar is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Yang Thai 1st Birthday" on Fri, 30 Oct 2026.
 
-Angel Music Bar is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including afreckle, Alex Albrecht, Andy Hart and Dasha SPRW and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
+Angel Music Bar is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including afreckle, Alex Albrecht, Andy Hart and Dasha SPRW and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Angel presents Squidgenini, Work Wife, Ewan Sutardy | Empty DJ, Squidgenini, Work Wife |
 | Fri, 30 Oct 2026 | Yang Thai 1st Birthday | DJ Possum, Karani, Moopie, Myles Mac |
 | Sat, 31 Oct 2026 | Angel presents Pearl | Alex Albrecht, Andy Hart, Dasha SPRW, Dawn Again, Kate Miller, Yi Lum (2) |
 | Tue, 3 Nov 2026 | NOW.HERE.THIS. x Angel Music Bar | Felix Meredith, Kgomotso, Mansa, NALIITA |
@@ -20,4 +19,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 7 upcoming g
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

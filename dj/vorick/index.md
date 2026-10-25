@@ -1,6 +1,6 @@
 # Vorick
 
-Vorick is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Clwd, Sofia on Sat, 7 Nov 2026.
+Vorick is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Clwd, Sofia on Sat, 7 Nov 2026.
 
 Vorick is a techno and tech house artist based in Bulgaria, with 34 gigs on soundcheck across London, Paris and Sofia. Often billed alongside Egor Sintsoff, HUMAN ERROR and Peppou. Next up: Clwd, Sofia on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Vorick is a techno and tech house artist based in Bulgaria, with 34 gigs on soun
 
 Egor Sintsoff, HUMAN ERROR, Peppou
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vorick/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vorick/)*

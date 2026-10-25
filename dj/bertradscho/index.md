@@ -1,6 +1,6 @@
 # Bert Radscho
 
-Bert Radscho is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Groovestation, Dresden on Fri, 30 Oct 2026.
+Bert Radscho is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Groovestation, Dresden on Fri, 30 Oct 2026.
 
 Bert Radscho is a house and disco artist based in Germany, with 12 gigs on soundcheck across Dresden. Often billed alongside Ronald Koon, Sinamin and Alec Troniq. Next up: Groovestation, Dresden on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bert Radscho is a house and disco artist based in Germany, with 12 gigs on sound
 
 Ronald Koon, Sinamin, Alec Troniq
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bertradscho/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bertradscho/)*

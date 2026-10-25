@@ -1,6 +1,6 @@
 # Bouffant Bouffant
 
-Bouffant Bouffant is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Xanadu, New York City on Sun, 8 Nov 2026.
+Bouffant Bouffant is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Xanadu, New York City on Sun, 8 Nov 2026.
 
 Bouffant Bouffant is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Berlin, Hanoi, Ho Chi Minh City and Hong Kong and 10 more. Often billed alongside Tristan Dufrene, phlegm and D1ME. Next up: Xanadu, New York City on Sun 8 Nov.
 
@@ -27,4 +27,4 @@ Bouffant Bouffant is a house and techno artist based in United States of America
 
 Tristan Dufrene, phlegm, D1ME
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouffantbouffant/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouffantbouffant/)*

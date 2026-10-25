@@ -1,6 +1,6 @@
 # CuCiCuCi
 
-CuCiCuCi is a Ambient and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 90mil, Berlin on Sat, 14 Nov 2026.
+CuCiCuCi is a Ambient and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 90mil, Berlin on Sat, 14 Nov 2026.
 
 CuCiCuCi is an ambient and dub artist based in Germany, with 9 gigs on soundcheck across Beijing, Berlin and Singapore. Often billed alongside Alex Jenkin, Laura Fiore and Margaux Gazur. Next up: 90mil, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ CuCiCuCi is an ambient and dub artist based in Germany, with 9 gigs on soundchec
 
 Alex Jenkin, Laura Fiore, Margaux Gazur
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicuci/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicuci/)*

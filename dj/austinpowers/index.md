@@ -1,6 +1,6 @@
 # Austin Powers
 
-Austin Powers is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Holešovická Tržnice, Prague on Fri, 13 Nov 2026.
+Austin Powers is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Holešovická Tržnice, Prague on Fri, 13 Nov 2026.
 
 Austin Powers is a disco and balearic artist based in Czech Republic, with 46 gigs on soundcheck across Berlin, Hamburg and Prague. Often billed alongside Schaumstoff, Demonika and NCOL. Next up: Holešovická Tržnice, Prague on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Austin Powers is a disco and balearic artist based in Czech Republic, with 46 gi
 
 Schaumstoff, Demonika, NCOL
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/austinpowers/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/austinpowers/)*

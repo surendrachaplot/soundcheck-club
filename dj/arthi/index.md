@@ -1,6 +1,6 @@
 # Arthi
 
-Arthi is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at fabric, London on Fri, 30 Oct 2026.
+Arthi is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at fabric, London on Fri, 30 Oct 2026.
 
 Arthi is a garage and house artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Barcelona and 27 more. Often billed alongside Bakey, Katy B and Diffrent. Next up: fabric, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Arthi is a garage and house artist based in United Kingdom, with 107 gigs on sou
 
 Bakey, Katy B, Diffrent
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*

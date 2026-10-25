@@ -1,6 +1,6 @@
 # Duellist
 
-Duellist is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Petit Bain, Paris on Sat, 31 Oct 2026.
+Duellist is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Petit Bain, Paris on Sat, 31 Oct 2026.
 
 Duellist is a techno and industrial artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, Detroit, Edinburgh and Lisbon and 7 more. Often billed alongside Axkan, K.ARMA and VMBRA. Next up: Petit Bain, Paris on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Duellist is a techno and industrial artist based in United Kingdom, with 25 gigs
 
 Axkan, K.ARMA, VMBRA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duellist/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duellist/)*

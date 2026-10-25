@@ -1,6 +1,6 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Nørbak is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
 Nørbak is a techno and house artist based in Portugal, with 163 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Bajes Amsterdam, Amsterdam on Sun 25 Oct.
 
@@ -30,4 +30,4 @@ Nørbak is a techno and house artist based in Portugal, with 163 gigs on soundch
 
 Temudo, Quelza, CRAVO
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

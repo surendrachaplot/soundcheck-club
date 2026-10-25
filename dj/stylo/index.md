@@ -1,6 +1,6 @@
 # Stylo
 
-Stylo is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Oliva, Amsterdam on Sun, 25 Oct 2026.
+Stylo is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Oliva, Amsterdam on Sun, 25 Oct 2026.
 
 Stylo is a techno and hip-hop artist based in Israel, with 21 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Anyma, DJ B2B and Mind Against. Next up: Oliva, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Stylo is a techno and hip-hop artist based in Israel, with 21 gigs on soundcheck
 
 Anyma, DJ B2B, Mind Against
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stylo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stylo/)*

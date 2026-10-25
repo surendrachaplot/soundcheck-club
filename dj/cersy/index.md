@@ -1,6 +1,6 @@
 # Cersy
 
-Cersy is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Cersy is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 Cersy is a techno and bass artist based in United Kingdom, with 83 gigs on soundcheck across Bristol, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside Allius, GFA and Kop-Z. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Cersy is a techno and bass artist based in United Kingdom, with 83 gigs on sound
 
 Allius, GFA, Kop-Z
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cersy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cersy/)*

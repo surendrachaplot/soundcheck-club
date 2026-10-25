@@ -1,6 +1,6 @@
 # Mad Rey
 
-Mad Rey is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Le Zeralda, Paris on Sun, 25 Oct 2026.
+Mad Rey is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Le Zeralda, Paris on Sun, 25 Oct 2026.
 
 Mad Rey is a house and electro artist based in France, with 63 gigs on soundcheck across Amsterdam, Berlin, Geneva and Lisbon and 6 more. Often billed alongside Mézigue, GGGG and Flabaire. Next up: Le Zeralda, Paris on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Mad Rey is a house and electro artist based in France, with 63 gigs on soundchec
 
 Mézigue, GGGG, Flabaire
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*

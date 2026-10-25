@@ -1,14 +1,13 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "S&M presents: 808 State (DJ Set)" on Sat, 24 Oct 2026.
+Sidney & Matilda is a music venue in Sheffield with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "BLEND 4: IT'S SLIME TIME" on Fri, 30 Oct 2026.
 
-Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 7 upcoming gigs, with line-ups including 808 State, Aries, Danny Byrd and DJ Hazard and 2 more. See dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
+Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 6 upcoming gigs, with line-ups including Aries, Danny Byrd, DJ Hazard and DJ Rap and 2 more. See dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | S&M presents: 808 State (DJ Set) | 808 State |
 | Fri, 30 Oct 2026 | BLEND 4: IT'S SLIME TIME | Linnemann |
 | Sat, 31 Oct 2026 | WICKED BEHAVIOUR: MATTIK, Ziggy Ostas, DEADBEAT UK & MANY MORE  | F3rg13, IMO UK, INKLING GIRLZ, JOESELECTA, Mattik (UK), Ziggy Ostas |
 | Fri, 13 Nov 2026 | Steel City D&B Winter Warmer with Danny Byrd + Aries | Aries, Danny Byrd |
@@ -20,4 +19,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 7 upcoming 
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

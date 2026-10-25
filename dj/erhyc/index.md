@@ -1,6 +1,6 @@
 # Erhyc
 
-Erhyc is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
+Erhyc is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
 
 Erhyc is a techno and tech house artist based in Germany, with 67 gigs on soundcheck across Munich, Nürnberg and Vienna. Often billed alongside B 4ME, ANXA and Julie Fleischer. Next up: Rote Sonne, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Erhyc is a techno and tech house artist based in Germany, with 67 gigs on soundc
 
 B 4ME, ANXA, Julie Fleischer
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erhyc/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erhyc/)*

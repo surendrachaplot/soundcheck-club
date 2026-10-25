@@ -1,6 +1,6 @@
 # Connollys of Leap
 
-Connollys of Leap is a music venue in Cork with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Bassbin: 30 Year Anniversary" on Fri, 11 Dec 2026.
+Connollys of Leap is a music venue in Cork with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Bassbin: 30 Year Anniversary" on Fri, 11 Dec 2026.
 
 Connollys of Leap is a music venue in Cork listed on soundcheck. 1 upcoming gig, with line-ups including don rosco, Naphta, Steo and Zero T. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Connollys of Leap is a music venue in Cork listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Bassbin: 30 Year Anniversary | Naphta, Steo, Zero T, don rosco |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/cork/club/connollys-of-leap/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/cork/club/connollys-of-leap/)*

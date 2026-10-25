@@ -1,6 +1,6 @@
 # Nicky B
 
-Nicky B is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Planet Wax, London on Fri, 27 Nov 2026.
+Nicky B is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Planet Wax, London on Fri, 27 Nov 2026.
 
 Nicky B is a drum & bass and jungle artist based in United Kingdom, with 89 gigs on soundcheck across Birmingham, Brighton, Bristol and Glasgow and 4 more. Often billed alongside Nicky Blackmarket, IC3 and Kenny Ken. Next up: Planet Wax, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Nicky B is a drum & bass and jungle artist based in United Kingdom, with 89 gigs
 
 Nicky Blackmarket, IC3, Kenny Ken
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyb/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyb/)*

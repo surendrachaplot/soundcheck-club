@@ -1,6 +1,6 @@
 # Ben Murphy
 
-Ben Murphy is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at fabric, London on Sun, 25 Oct 2026.
+Ben Murphy is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at fabric, London on Sun, 25 Oct 2026.
 
 Ben Murphy is a tech house and minimal artist based in United Kingdom, with 16 gigs on soundcheck across Lausanne, Leeds, London and Manchester and 1 more. Often billed alongside Marcellus, Mas Fuego and Andrew Kay. Next up: fabric, London on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Ben Murphy is a tech house and minimal artist based in United Kingdom, with 16 g
 
 Marcellus, Mas Fuego, Andrew Kay
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benmurphy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benmurphy/)*

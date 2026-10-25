@@ -1,6 +1,6 @@
 # pasosprohibidos
 
-pasosprohibidos is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Rum Shack, Glasgow on Sat, 31 Oct 2026.
+pasosprohibidos is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Rum Shack, Glasgow on Sat, 31 Oct 2026.
 
 pasosprohibidos is an electronic artist, with 8 gigs on soundcheck across Glasgow. Often billed alongside DJ LaOsa, DJ D-Vent and Carmen Baía. Next up: The Rum Shack, Glasgow on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ pasosprohibidos is an electronic artist, with 8 gigs on soundcheck across Glasgo
 
 DJ LaOsa, DJ D-Vent, Carmen Baía
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasosprohibidos/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasosprohibidos/)*

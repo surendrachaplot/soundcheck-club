@@ -1,6 +1,6 @@
 # 550am
 
-550am is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Paragon, New York City on Thu, 31 Dec 2026.
+550am is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Paragon, New York City on Thu, 31 Dec 2026.
 
 550am is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Chicago, New York City and Seattle. Often billed alongside Nark, Bimbo Hypnosis and Gagbert. Next up: Paragon, New York City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@
 
 Nark, Bimbo Hypnosis, Gagbert
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/550am/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/550am/)*

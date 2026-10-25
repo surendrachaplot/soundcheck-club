@@ -1,18 +1,17 @@
 # Z-Bau
 
-Z-Bau is a music venue in Nürnberg with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Die Früh-ins-Bett Party with Amecelli" on Sat, 24 Oct 2026.
+Z-Bau is a music venue in Nürnberg with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "bratty • with charli xcx & other brat coded artists • nürnberg" on Fri, 15 Jan 2027.
 
-Z-Bau is a music venue in Nürnberg listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Frankenstr.200.
+Z-Bau is a music venue in Nürnberg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Frankenstr.200.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Die Früh-ins-Bett Party with Amecelli |  |
 | Fri, 15 Jan 2027 | bratty • with charli xcx & other brat coded artists • nürnberg |  |
 
 ## Address
 
 Frankenstr.200, Nürnberg
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*

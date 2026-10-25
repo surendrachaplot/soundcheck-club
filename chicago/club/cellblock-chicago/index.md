@@ -1,18 +1,17 @@
 # Cellblock Chicago
 
-Cellblock Chicago is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Masquerade" on Sat, 24 Oct 2026.
+Cellblock Chicago is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Chemistry" on Fri, 13 Nov 2026.
 
-Cellblock Chicago is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Austin James, Mister Hoochiemama, Mister Wallace and Papa Xanny. See dates, start times and who's playing. 3702 n halsted, chicago il 60613.
+Cellblock Chicago is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Austin James. See dates, start times and who's playing. 3702 n halsted, chicago il 60613.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Masquerade | Mister Hoochiemama, Mister Wallace, Papa Xanny |
 | Fri, 13 Nov 2026 | Chemistry | Austin James |
 
 ## Address
 
 3702 n halsted, chicago il 60613, Chicago
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/cellblock-chicago/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/cellblock-chicago/)*

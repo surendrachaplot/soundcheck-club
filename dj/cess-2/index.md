@@ -1,6 +1,6 @@
 # Cess (2)
 
-Cess (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Nido Marseille, Marseille on Fri, 6 Nov 2026.
+Cess (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Nido Marseille, Marseille on Fri, 6 Nov 2026.
 
 Cess is a house and electro artist, with 19 gigs on soundcheck across Amsterdam, Barcelona, London and Marseille and 1 more. Often billed alongside Cristobal, LAMALICE and Massaï. Next up: Nido Marseille, Marseille on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Cess is a house and electro artist, with 19 gigs on soundcheck across Amsterdam,
 
 Cristobal, LAMALICE, Massaï
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cess-2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cess-2/)*

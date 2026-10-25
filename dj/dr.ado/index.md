@@ -1,14 +1,15 @@
 # Dr. ADO
 
-Dr. ADO is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Tonal, Mexico City on Sun, 1 Nov 2026.
+Dr. ADO is a Afro House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Tonal, Mexico City on Sun, 1 Nov 2026.
 
-Dr. ADO is an afro house and amapiano artist based in United Kingdom, with 37 gigs on soundcheck across London, Lyon and Mexico City. Often billed alongside IYE YIN DAE, SAMIA and GOLDEN PINEAPPLE. Next up: Tonal, Mexico City on Sun 1 Nov.
+Dr. ADO is an afro house and amapiano artist based in United Kingdom, with 38 gigs on soundcheck across London, Lyon and Mexico City. Often billed alongside IYE YIN DAE, SAMIA and GOLDEN PINEAPPLE. Next up: Tonal, Mexico City on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Tonal | Mexico City |
+| Fri, 6 Nov 2026 | Vespers Club | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dr. ADO is an afro house and amapiano artist based in United Kingdom, with 37 gi
 
 IYE YIN DAE, SAMIA, GOLDEN PINEAPPLE
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.ado/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.ado/)*

@@ -1,6 +1,6 @@
 # proswervez
 
-proswervez is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Play Boston, Boston on Sat, 31 Oct 2026.
+proswervez is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Play Boston, Boston on Sat, 31 Oct 2026.
 
 proswervez is a house and club artist based in United States of America, with 14 gigs on soundcheck across Boston. Often billed alongside DJ Rayvino, Elysian and HypeLies. Next up: Play Boston, Boston on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ proswervez is a house and club artist based in United States of America, with 14
 
 DJ Rayvino, Elysian (1), HypeLies
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proswervez/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proswervez/)*

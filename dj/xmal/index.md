@@ -1,6 +1,6 @@
 # xmal
 
-xmal is a Experimental and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Dokzaal, Amsterdam on Sun, 25 Oct 2026.
+xmal is a Experimental and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Dokzaal, Amsterdam on Sun, 25 Oct 2026.
 
 xmal is an experimental and balearic artist, with 11 gigs on soundcheck across Amsterdam and London. Often billed alongside Surssup, 300SkullsAndCounting and Bassvictim. Next up: Dokzaal, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ xmal is an experimental and balearic artist, with 11 gigs on soundcheck across A
 
 Surssup, 300SkullsAndCounting, Bassvictim
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xmal/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xmal/)*

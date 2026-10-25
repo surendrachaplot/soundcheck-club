@@ -1,6 +1,6 @@
 # Christian AB
 
-Christian AB is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
+Christian AB is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
 Christian AB is a techno and house artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 22 more. Often billed alongside Christian AB, Francesco Del Garda and Ogazón. Next up: RADION, Amsterdam on Sun 25 Oct.
 
@@ -33,4 +33,4 @@ Christian AB is a techno and house artist based in United Kingdom, with 42 gigs 
 
 Christian AB, Francesco Del Garda, Ogazón
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*

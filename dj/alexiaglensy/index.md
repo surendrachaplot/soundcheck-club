@@ -1,6 +1,6 @@
 # Alexia Glensy
 
-Alexia Glensy is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Amsterdam on Sun, 25 Oct 2026.
+Alexia Glensy is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Amsterdam on Sun, 25 Oct 2026.
 
 Alexia Glensy is a house and techno artist based in Brazil, with 177 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 39 more. Often billed alongside Alex Dima, Gabbs and Cap. Next up: TBA, Amsterdam on Sun 25 Oct.
 
@@ -32,4 +32,4 @@ Alexia Glensy is a house and techno artist based in Brazil, with 177 gigs on sou
 
 Alex Dima, Gabbs, Cap
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*

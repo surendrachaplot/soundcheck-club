@@ -1,6 +1,6 @@
 # Deejay Energy
 
-Deejay Energy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Thu, 29 Oct 2026.
+Deejay Energy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Thu, 29 Oct 2026.
 
 Deejay Energy is a techno and house artist based in Mexico, with 89 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 10 more. Often billed alongside Enya Botello, Bluecommand and Fig (DYN). Next up: Bar Part Time, San Francisco/Oakland on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Deejay Energy is a techno and house artist based in Mexico, with 89 gigs on soun
 
 Enya Botello, Bluecommand, Fig (DYN)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*

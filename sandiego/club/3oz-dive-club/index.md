@@ -1,14 +1,13 @@
 # 3oz Dive Club
 
-3oz Dive Club is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "WELKER - presented by For Those Who Need Records" on Sat, 24 Oct 2026.
+3oz Dive Club is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "FENIK - presented by Control & Freak / / Who Cares" on Fri, 30 Oct 2026.
 
-3oz Dive Club is a music venue in San Diego listed on soundcheck. 6 upcoming gigs, with line-ups including Egyptian Lover, Funkhousir, Luke Alessi and Mali. See dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
+3oz Dive Club is a music venue in San Diego listed on soundcheck. 5 upcoming gigs, with line-ups including Egyptian Lover and Luke Alessi. See dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | WELKER - presented by For Those Who Need Records | Funkhousir, Mali |
 | Fri, 30 Oct 2026 | FENIK - presented by Control & Freak / / Who Cares |  |
 | Sat, 31 Oct 2026 | Edris Omar - Halloween Night |  |
 | Fri, 13 Nov 2026 | FNGRS CRSSD presents Luke Alessi | Luke Alessi |
@@ -19,4 +18,4 @@
 
 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA, San Diego
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*

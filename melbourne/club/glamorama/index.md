@@ -1,14 +1,13 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DRÉ + Joey Coco at Glamorama Saturdays" on Sat, 24 Oct 2026.
+Glamorama is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Glam X B!TE presents: Halloween Freak Show" on Sat, 31 Oct 2026.
 
-Glamorama is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Jacks, BETHANY, Body Clinic and CHARBINKS and 2 more. See dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
+Glamorama is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Acid Jacks, BETHANY, Body Clinic and CHARBINKS and 2 more. See dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | DRÉ + Joey Coco at Glamorama Saturdays | Joey Coco, Ruby Lou |
 | Sat, 31 Oct 2026 | Glam X B!TE presents: Halloween Freak Show | Renaessance, ZAFIRO (AU) |
 | Mon, 2 Nov 2026 | PTD Records presents: Benjamin at Glamorama (Cup Monday) | BETHANY (1), DJ Jessy |
 | Fri, 6 Nov 2026 | Interval - Body Clinic [IE] (3 Hours) + Friend Of A Friend | Body Clinic, FriendofaFriend |
@@ -20,4 +19,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, w
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

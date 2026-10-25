@@ -1,6 +1,6 @@
 # Tremūl
 
-Tremūl is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Specka, Madrid on Fri, 13 Nov 2026.
+Tremūl is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Specka, Madrid on Fri, 13 Nov 2026.
 
 Tremūl is a techno and electronica artist based in Spain, with 21 gigs on soundcheck across Bogotá and Madrid. Often billed alongside Aizikovic, KATIA and Xorpel. Next up: Specka, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tremūl is a techno and electronica artist based in Spain, with 21 gigs on sound
 
 Aizikovic, KATIA, Xorpel
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tremul/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tremul/)*

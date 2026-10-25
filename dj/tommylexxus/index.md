@@ -1,6 +1,6 @@
 # Tommy Lexxus
 
-Tommy Lexxus is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Gretchen, Berlin on Sat, 16 Jan 2027.
+Tommy Lexxus is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gretchen, Berlin on Sat, 16 Jan 2027.
 
 Tommy Lexxus is a drum & bass and dubstep artist based in United States of America, with 42 gigs on soundcheck across Berlin, Hamburg and Prague. Often billed alongside Dj Quien, Mc Jamie White and Grzly Adams. Next up: Gretchen, Berlin on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Tommy Lexxus is a drum & bass and dubstep artist based in United States of Ameri
 
 Dj Quien, Mc Jamie White, Grzly Adams
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylexxus/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylexxus/)*

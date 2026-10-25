@@ -1,6 +1,6 @@
 # Marian
 
-Marian is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ijland, Amsterdam on Mon, 26 Oct 2026.
+Marian is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Ijland, Amsterdam on Mon, 26 Oct 2026.
 
 Marian is a tech house and house artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Boston, Ibiza and Miami and 1 more. Often billed alongside ART NO LOGIA, Abdon and Aca [RO]. Next up: Ijland, Amsterdam on Mon 26 Oct.
 
@@ -23,4 +23,4 @@ Marian is a tech house and house artist based in Germany, with 7 gigs on soundch
 
 ART NO LOGIA, Abdon, Aca [RO]
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marian/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marian/)*

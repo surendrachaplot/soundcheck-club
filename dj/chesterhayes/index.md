@@ -1,6 +1,6 @@
 # Chester Hayes
 
-Chester Hayes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
+Chester Hayes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
 
 Chester Hayes is a house and techno artist, with 10 gigs on soundcheck across London. Often billed alongside Sue Veneers, Jake Reed and Dan Beaumont. Next up: Low Profile Studios, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Chester Hayes is a house and techno artist, with 10 gigs on soundcheck across Lo
 
 Sue Veneers, Jake Reed, Dan Beaumont
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chesterhayes/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chesterhayes/)*

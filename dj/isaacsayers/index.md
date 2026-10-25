@@ -1,6 +1,6 @@
 # Isaac Sayers
 
-Isaac Sayers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
+Isaac Sayers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 21 Nov 2026.
 
 Isaac Sayers is a techno and house artist based in United Kingdom, with 28 gigs on soundcheck across Edinburgh. Often billed alongside Jack Brown, KMD. and NØUR. Next up: People's Leisure Club, Edinburgh on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Isaac Sayers is a techno and house artist based in United Kingdom, with 28 gigs 
 
 Jack Brown (2), KMD., NØUR
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacsayers/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacsayers/)*

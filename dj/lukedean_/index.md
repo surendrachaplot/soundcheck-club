@@ -1,6 +1,6 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
+Luke Dean_ is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
 
 Luke Dean_ is a house and tech house artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 34 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: NDSM Scheepsbouwloods, Amsterdam on Sun 25 Oct.
 
@@ -35,4 +35,4 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 121 gi
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

@@ -1,6 +1,6 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Canned Heat with Roland Gonzales" on Sun, 25 Oct 2026.
+Sans Soleil is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Canned Heat with Roland Gonzales" on Sun, 25 Oct 2026.
 
 Sans Soleil is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including bell.pierre and Roland Gonzales. See dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
@@ -15,4 +15,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, 
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

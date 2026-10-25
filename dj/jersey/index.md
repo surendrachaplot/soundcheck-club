@@ -1,14 +1,15 @@
 # Jersey
 
-Jersey is a Electro and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at La Cigale, Paris on Wed, 13 Jan 2027.
+Jersey is a Electro and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at La Cigale, Paris on Wed, 13 Jan 2027.
 
-Jersey is an electro and garage artist based in France, with 37 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside Marcel Dettmann, Marlon Hoffstadt and VTSS. Next up: La Cigale, Paris on Wed 13 Jan.
+Jersey is an electro and garage artist based in France, with 38 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside Marcel Dettmann, Marlon Hoffstadt and VTSS. Next up: La Cigale, Paris on Wed 13 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 13 Jan 2027 | La Cigale | Paris |
+| Fri, 22 Jan 2027 | Electric Brixton | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jersey is an electro and garage artist based in France, with 37 gigs on soundche
 
 Marcel Dettmann, Marlon Hoffstadt, VTSS
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jersey/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jersey/)*

@@ -1,14 +1,13 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
+Boys Noize is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
 
-Boys Noize is a techno and house artist based in Germany, with 177 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 64 more. Often billed alongside VTSS, MCR-T and Patrick Mason. Next up: Melkweg, Amsterdam on Sat 24 Oct.
+Boys Noize is a techno and house artist based in Germany, with 177 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 64 more. Often billed alongside VTSS, MCR-T and Patrick Mason. Next up: Gold Bar Hangar, California on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Mon, 2 Nov 2026 | The Grammy Museum at L.A. Live | Los Angeles |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
@@ -20,6 +19,7 @@ Boys Noize is a techno and house artist based in Germany, with 177 gigs on sound
 
 ## Recently played
 
+- Melkweg, Amsterdam · Sat, 24 Oct 2026
 - Nitsa Club, Barcelona · Fri, 23 Oct 2026
 - Studio1111, Berlin · Sat, 17 Oct 2026
 - Mia Mao, Paris · Fri, 16 Oct 2026
@@ -27,10 +27,9 @@ Boys Noize is a techno and house artist based in Germany, with 177 gigs on sound
 - The Cause, London · Sat, 3 Oct 2026
 - Switch, Porto · Fri, 2 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 VTSS, MCR-T, Patrick Mason
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

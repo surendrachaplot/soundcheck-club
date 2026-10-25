@@ -1,14 +1,13 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Zinc Warehouse Party" on Sat, 24 Oct 2026.
+The Steel Yard is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "The Halloween Rave" on Thu, 29 Oct 2026.
 
-The Steel Yard is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Bassface, Beezo, Carlos Aries and Crossy and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
+The Steel Yard is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Bassface, Crossy, Erik Hagleton and John Jones and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Zinc Warehouse Party | Beezo, Carlos Aries, DJ Majesty, JAYDAA, Jerome Six, MA1, Shenin Amara, Supa D, Tippa, kismet |
 | Thu, 29 Oct 2026 | The Halloween Rave |  |
 | Fri, 13 Nov 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // 360° LEVEL UP *SPECIAL GUESTS* FREE TICKETS + FREE DRINK | Bassface |
 | Fri, 13 Nov 2026 | XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS! LAST FREE TICKETS + FREE DRINK |  |
@@ -23,4 +22,4 @@ The Steel Yard is a music venue in London listed on soundcheck. 10 upcoming gigs
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

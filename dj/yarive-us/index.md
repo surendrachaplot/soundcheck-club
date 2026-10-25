@@ -1,6 +1,6 @@
 # Yari (VE)
 
-Yari (VE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Taco Kat, Orlando on Sat, 31 Oct 2026.
+Yari (VE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Taco Kat, Orlando on Sat, 31 Oct 2026.
 
 Yari (VE) is a techno and trance artist based in United States of America, with 17 gigs on soundcheck across Florence, Miami, Orlando and San Francisco/Oakland and 1 more. Often billed alongside Jake Anthony (PR), INIGMA and Lore J. Next up: Taco Kat, Orlando on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yari (VE) is a techno and trance artist based in United States of America, with 
 
 Jake Anthony (PR), INIGMA, Lore J
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarive-us/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarive-us/)*

@@ -1,6 +1,6 @@
 # DJ-SUN
 
-DJ-SUN is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 31 Oct 2026.
+DJ-SUN is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 31 Oct 2026.
 
 DJ-SUN is a club and house artist based in United States of America, with 71 gigs on soundcheck across Baltimore, Los Angeles, New Orleans and New York City and 3 more. Often billed alongside Tromac, flotussin and CalvoMusic. Next up: Umbria Arts, Philadelphia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ-SUN is a club and house artist based in United States of America, with 71 gig
 
 Tromac, flotussin, CalvoMusic
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*

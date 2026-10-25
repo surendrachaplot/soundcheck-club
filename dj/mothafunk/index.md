@@ -1,6 +1,6 @@
 # Mothafunk
 
-Mothafunk is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at My Aeon, Melbourne on Sat, 31 Oct 2026.
+Mothafunk is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at My Aeon, Melbourne on Sat, 31 Oct 2026.
 
 Mothafunk is a house and disco artist based in United States of America, with 73 gigs on soundcheck across Chicago, Los Angeles, Melbourne and New York City and 1 more. Often billed alongside Zjoso, Chris NG and Kgomotso. Next up: My Aeon, Melbourne on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Mothafunk is a house and disco artist based in United States of America, with 73
 
 Zjoso, Chris NG, Kgomotso
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*

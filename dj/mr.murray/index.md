@@ -1,14 +1,13 @@
 # Mr. Murray
 
-Mr. Murray is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Signal, New York City on Fri, 23 Oct 2026.
+Mr. Murray is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at ErF Studios, New York City on Fri, 13 Nov 2026.
 
-Mr. Murray is a techno and house artist based in United States of America, with 87 gigs on soundcheck across Atlanta, Berlin, Boston and Detroit and 6 more. Often billed alongside CAMILLA, 98dots and Daura. Next up: Signal, New York City on Fri 23 Oct.
+Mr. Murray is a techno and house artist based in United States of America, with 87 gigs on soundcheck across Atlanta, Berlin, Boston and Detroit and 6 more. Often billed alongside CAMILLA, 98dots and Daura. Next up: ErF Studios, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Signal | New York City |
 | Fri, 13 Nov 2026 | ErF Studios | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Mr. Murray is a techno and house artist based in United States of America, with 
 
 CAMILLA, 98dots, Daura
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.murray/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.murray/)*

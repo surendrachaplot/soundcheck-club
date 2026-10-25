@@ -1,6 +1,6 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Night Tales, London on Fri, 30 Oct 2026.
+Luke Una is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Night Tales, London on Fri, 30 Oct 2026.
 
 Luke Una is a house and disco artist based in United Kingdom, with 148 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 36 more. Often billed alongside Erol Alkan, Joey T and Simon Morell. Next up: Night Tales, London on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Luke Una is a house and disco artist based in United Kingdom, with 148 gigs on s
 
 Erol Alkan, Joey T, Simon Morell
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

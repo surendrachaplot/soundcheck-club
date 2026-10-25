@@ -1,6 +1,6 @@
 # Mascha Roth
 
-Mascha Roth is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at objekt klein a, Dresden on Sat, 7 Nov 2026.
+Mascha Roth is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at objekt klein a, Dresden on Sat, 7 Nov 2026.
 
 Mascha Roth is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Berlin, Dresden, Erfurt and Leipzig and 1 more. Often billed alongside DUSTNER, Motrick and Skurrben. Next up: objekt klein a, Dresden on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Mascha Roth is a techno and trance artist based in Germany, with 34 gigs on soun
 
 DUSTNER, Motrick, Skurrben
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascharoth/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascharoth/)*

@@ -1,6 +1,6 @@
 # DJ ZAC
 
-DJ ZAC is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Pedreira Paulo Leminski, Brazil on Mon, 6 Sept 2032.
+DJ ZAC is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Pedreira Paulo Leminski, Brazil on Mon, 6 Sept 2032.
 
 DJ ZAC is a progressive house and techno artist, with 27 gigs on soundcheck across Amsterdam, Barcelona, Brazil and Buenos Aires and 8 more. Often billed alongside 2melo, Catori and David Hohme. Next up: Pedreira Paulo Leminski, Brazil on Mon 6 Sept.
 
@@ -25,4 +25,4 @@ DJ ZAC is a progressive house and techno artist, with 27 gigs on soundcheck acro
 
 2melo, Catori, David Hohme
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djzac/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djzac/)*

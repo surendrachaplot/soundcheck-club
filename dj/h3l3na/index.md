@@ -1,6 +1,6 @@
 # H3L3NA
 
-H3L3NA is a Jungle and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 31 Oct 2026.
+H3L3NA is a Jungle and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at La Cheetah Club, Glasgow on Sat, 31 Oct 2026.
 
 H3L3NA is a jungle and breakbeat artist based in United Kingdom, with 13 gigs on soundcheck across Glasgow and London. Often billed alongside Chinese Daughter, Darkstepper and Priscilla. Next up: La Cheetah Club, Glasgow on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ H3L3NA is a jungle and breakbeat artist based in United Kingdom, with 13 gigs on
 
 Chinese Daughter, Darkstepper, Priscilla
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h3l3na/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h3l3na/)*

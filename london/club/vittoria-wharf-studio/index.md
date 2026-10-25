@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Sundays - Voigtmann, Ste Roberts, Ryan Jones" on Sun, 25 Oct 2026.
+Vittoria Wharf Studio is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Sundays - Voigtmann, Ste Roberts, Ryan Jones" on Sun, 25 Oct 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Alien Communications, Andrew Robertson, Bekefi and BLKC and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -23,4 +23,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 15 upcomi
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

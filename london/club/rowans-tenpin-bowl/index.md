@@ -1,14 +1,13 @@
 # Rowans Tenpin Bowl
 
-Rowans Tenpin Bowl is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Saturday at Rowans - UPSTAIRS TO THE UNDERGROUND" on Sat, 24 Oct 2026.
+Rowans Tenpin Bowl is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Fridays at Rowans - UPSTAIRS TO THE UNDERGROUND" on Fri, 30 Oct 2026.
 
-Rowans Tenpin Bowl is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 10 Stroud Green Road, Finsbury Park, London N4 2DF.
+Rowans Tenpin Bowl is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 10 Stroud Green Road, Finsbury Park, London N4 2DF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Saturday at Rowans - UPSTAIRS TO THE UNDERGROUND |  |
 | Fri, 30 Oct 2026 | Fridays at Rowans - UPSTAIRS TO THE UNDERGROUND |  |
 | Sat, 31 Oct 2026 | Saturday at Rowans - UPSTAIRS TO THE UNDERGROUND |  |
 
@@ -16,4 +15,4 @@ Rowans Tenpin Bowl is a music venue in London listed on soundcheck. 3 upcoming g
 
 10 Stroud Green Road, Finsbury Park, London N4 2DF, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/rowans-tenpin-bowl/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/rowans-tenpin-bowl/)*

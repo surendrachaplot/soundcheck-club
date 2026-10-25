@@ -1,14 +1,13 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Let out your Geek! Anime & Cosplay Community Party" on Sat, 24 Oct 2026.
+Void Club is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Kinder der Nacht & DEXIT Mannheim - Halloween Rave" on Fri, 30 Oct 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AAguilAA, access:dance, Alex Pastore and Anton Quasi and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including AAguilAA, access:dance, Alex Pastore and Anton Quasi and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Let out your Geek! Anime & Cosplay Community Party |  |
 | Fri, 30 Oct 2026 | Kinder der Nacht & DEXIT Mannheim - Halloween Rave | GHOST DE, Jose Bonetto, Lila Kova, Rob Robsen, Seimen Dexter |
 | Sat, 31 Oct 2026 | Therapy Sessions XVII - Hell-O-Ween with Current Value, Peter Kurten, Upzet, Unknown, Zak McCoy | Current Value, Emma Ro.zn, Gianni Noel, IZA (6), TØMMSEN, Upzet, Zak McCoy, unknown.dnb |
 | Fri, 6 Nov 2026 | Dionys x Tenpercent / Hardtechno x Trance/Bounce Rave (2 Floors) | Brizze, ELZIRA, JUWLZ, Joshkabonna, Kopflos, Sievert Serviert, Sonse |
@@ -18,9 +17,10 @@ Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wit
 | Fri, 20 Nov 2026 | Lucid Dreaming - 15 Years Anniversary with Seba (SE) | Seba, Shaded Lines, Upzet |
 | Sat, 21 Nov 2026 | Ziber BERLIN ☆ THIEVES | AAguilAA, BLEACH.LIVE, Glotzer, Melanie Havens, Merlin Cum, Miro Von, RAGE (3), SXCL, ilbroccolovolante, tigerdisco |
 | Fri, 27 Nov 2026 | Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007 | Alex Pastore, Anton Quasi, Billain, IHOPEIEXIST, Kenzura, Krushak, RMW (DE), Torn (RU), icanseesounds, nillonollin |
+| Sat, 28 Nov 2026 | 8 Years Expedicion with Mountain (JP), Jumpat, Upzet | Upzet |
 
 ## Address
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

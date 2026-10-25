@@ -1,6 +1,6 @@
 # Robiin
 
-Robiin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bardo Speakeasy, Mexico City on Sat, 7 Nov 2026.
+Robiin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bardo Speakeasy, Mexico City on Sat, 7 Nov 2026.
 
 Robiin is a house and tech house artist, with 9 gigs on soundcheck across Amsterdam, Madrid and Mexico City. Often billed alongside ARIS (MX), Doc Brown and GEO LINN. Next up: Bardo Speakeasy, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Robiin is a house and tech house artist, with 9 gigs on soundcheck across Amster
 
 ARIS (MX), Doc Brown, GEO LINN
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robiin/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robiin/)*

@@ -1,6 +1,6 @@
 # MMM
 
-MMM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Socore Factory, Osaka on Thu, 19 Nov 2026.
+MMM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Socore Factory, Osaka on Thu, 19 Nov 2026.
 
 MMM is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Hamburg, Milan and Osaka and 3 more. Often billed alongside ALUCA, ATEBOI and Aku. Next up: Socore Factory, Osaka on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ MMM is a house and techno artist based in Germany, with 10 gigs on soundcheck ac
 
 ALUCA, ATEBOI, Aku
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmm/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmm/)*

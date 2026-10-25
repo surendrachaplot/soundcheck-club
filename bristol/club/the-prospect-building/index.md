@@ -1,14 +1,13 @@
 # The Prospect Building
 
-The Prospect Building is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "BIG MOOD" on Sat, 24 Oct 2026.
+The Prospect Building is a music venue in Bristol with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Above & Beyond presents Anjunabeats Warehouse" on Fri, 30 Oct 2026.
 
-The Prospect Building is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including 4am Kru, Above & Beyond, ABSOLUTE. and A Little Sound and 2 more. See dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
+The Prospect Building is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, with line-ups including 4am Kru, Above & Beyond, A Little Sound and Anaïs and 2 more. See dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | BIG MOOD | ABSOLUTE., Bimini, Jodie Harsh, Liam Parsons |
 | Fri, 30 Oct 2026 | Above & Beyond presents Anjunabeats Warehouse | Above & Beyond, Marsh, Mat Zo, Sanaz |
 | Sat, 31 Oct 2026 | 4am Kru / [The Blast] Halloween Carnival of the Dead x LSTD | 4am Kru, Blackeye MC, Chimpo, DJ Storm, Guido YZ, Hypershe, Janaway, Lou Nour, Napes, Oppidan, Origin8a & Propa, SIS:DEM, Sexy Lady Massive, Shirley Temper, The Bass Injector |
 | Sat, 14 Nov 2026 | UKF Bristol | A Little Sound, Anaïs, IC3, K Motionz, MC Texas, Wilkinson |
@@ -23,4 +22,4 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 10 upcom
 
 45 Feeder Rd Bristol, BS2 0SE, Bristol
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*

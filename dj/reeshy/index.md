@@ -1,14 +1,13 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Basement Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Reeshy is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TESTBED, Leeds on Sat, 31 Oct 2026.
 
-Reeshy is a house and tech house artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: Basement Amsterdam, Amsterdam on Sat 24 Oct.
+Reeshy is a house and tech house artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: TESTBED, Leeds on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Basement Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Sat, 31 Oct 2026 | Lofi | Amsterdam |
 | Fri, 13 Nov 2026 | TESTBED | Leeds |
@@ -21,6 +20,7 @@ Reeshy is a house and tech house artist based in United Kingdom, with 118 gigs o
 
 ## Recently played
 
+- Basement Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - The Loft, Manchester · Sat, 17 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 1 Oct 2026
 - Electric Studios, Sheffield · Fri, 25 Sept 2026
@@ -28,10 +28,9 @@ Reeshy is a house and tech house artist based in United Kingdom, with 118 gigs o
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - Starlane Pizza Bar, London · Sat, 5 Sept 2026
 - Under The Arches, Leeds · Sat, 29 Aug 2026
-- Shelter Amsterdam, Amsterdam · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Laidlaw, Julian Anthony
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*

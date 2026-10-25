@@ -1,6 +1,6 @@
 # Audem
 
-Audem is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at La Java, Paris on Fri, 13 Nov 2026.
+Audem is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at La Java, Paris on Fri, 13 Nov 2026.
 
 Audem is a house and hip-hop artist based in France, with 13 gigs on soundcheck across Berlin, London, Milan and Nantes and 1 more. Often billed alongside oOgo, Fakear and ALDAVE. Next up: La Java, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Audem is a house and hip-hop artist based in France, with 13 gigs on soundcheck 
 
 oOgo, Fakear, ALDAVE
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audem/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audem/)*

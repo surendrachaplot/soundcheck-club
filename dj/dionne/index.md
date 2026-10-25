@@ -1,6 +1,6 @@
 # Dionne
 
-Dionne is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Pas Berlin, Berlin on Sun, 1 Nov 2026.
+Dionne is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Pas Berlin, Berlin on Sun, 1 Nov 2026.
 
 Dionne is a house and progressive house artist, with 35 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Gerd Janson, Charmaine and Lennault. Next up: Pas Berlin, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Dionne is a house and progressive house artist, with 35 gigs on soundcheck acros
 
 Gerd Janson, Charmaine, Lennault
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dionne/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dionne/)*

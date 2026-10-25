@@ -1,14 +1,13 @@
 # Cristian Marras
 
-Cristian Marras is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Horn, Bangkok on Sat, 24 Oct 2026.
+Cristian Marras is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
 
-Cristian Marras is a techno and house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 17 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: Horn, Bangkok on Sat 24 Oct.
+Cristian Marras is a techno and house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 17 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: Pawnshop, Taipei on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Horn | Bangkok |
 | Sun, 1 Nov 2026 | Pawnshop | Taipei |
 | Fri, 6 Nov 2026 | Foundationclub | Nanjing |
 | Fri, 13 Nov 2026 | KitKatClub | Berlin |
@@ -17,6 +16,7 @@ Cristian Marras is a techno and house artist based in Germany, with 75 gigs on s
 
 ## Recently played
 
+- Horn, Bangkok · Sat, 24 Oct 2026
 - Faust, Seoul · Fri, 23 Oct 2026
 - RADION, Amsterdam · Sat, 10 Oct 2026
 - Fuchs2, Prague · Sat, 3 Oct 2026
@@ -24,10 +24,9 @@ Cristian Marras is a techno and house artist based in Germany, with 75 gigs on s
 - ÆDEN, Berlin · Sat, 29 Aug 2026
 - KitKatClub, Berlin · Sun, 26 Jul 2026
 - Komplex Berlin, Berlin · Sat, 25 Jul 2026
-- TBA - Klingelhöferstr 3, 10785 Berlin, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Mar/us, Metaraph, OCD
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*

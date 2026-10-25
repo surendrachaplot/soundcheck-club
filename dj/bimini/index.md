@@ -1,18 +1,18 @@
 # Bimini
 
-Bimini is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Prospect Building, Bristol on Sat, 24 Oct 2026.
+Bimini is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at FORGE, Sheffield on Sun, 25 Oct 2026.
 
-Bimini is a techno and house artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brisbane and 18 more. Often billed alongside ABSOLUTE., Hannah Holland and Horse Meat Disco. Next up: The Prospect Building, Bristol on Sat 24 Oct.
+Bimini is a techno and house artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brisbane and 18 more. Often billed alongside ABSOLUTE., Hannah Holland and Horse Meat Disco. Next up: FORGE, Sheffield on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | The Prospect Building | Bristol |
 | Sun, 25 Oct 2026 | FORGE | Sheffield |
 
 ## Recently played
 
+- The Prospect Building, Bristol · Sat, 24 Oct 2026
 - Preston Park, Brighton, Berlin · Sat, 1 Aug 2026
 - 160dl Studios, London · Fri, 31 Jul 2026
 - Times Square, Newcastle, Newcastle · Sat, 25 Jul 2026
@@ -20,10 +20,9 @@ Bimini is a techno and house artist based in United Kingdom, with 49 gigs on sou
 - Lakota, Bristol · Sat, 18 Jul 2026
 - Ostrov Štvanice, Prague · Fri, 10 Jul 2026
 - Ministry Of Sound, London · Sat, 4 Jul 2026
-- Cakeshop, Seoul · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 ABSOLUTE., Hannah Holland, Horse Meat Disco
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*

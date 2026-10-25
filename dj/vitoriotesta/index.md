@@ -1,6 +1,6 @@
 # Vitorio Testa
 
-Vitorio Testa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Paloma, Berlin on Thu, 5 Nov 2026.
+Vitorio Testa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Paloma, Berlin on Thu, 5 Nov 2026.
 
 Vitorio Testa is a techno and house artist based in Spain, with 29 gigs on soundcheck across Amsterdam, Barcelona and Berlin. Often billed alongside Vitorio Testa, Adrian Marth and Atari Stacey. Next up: Paloma, Berlin on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Vitorio Testa is a techno and house artist based in Spain, with 29 gigs on sound
 
 Vitorio Testa, Adrian Marth, Atari Stacey
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitoriotesta/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitoriotesta/)*

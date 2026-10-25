@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "31102026" on Sat, 31 Oct 2026.
+K-Bar Powiśle is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "31102026" on Sat, 31 Oct 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including hawwwa and m0nagenda. See dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -14,4 +14,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, 
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

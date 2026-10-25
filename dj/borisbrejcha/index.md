@@ -1,14 +1,13 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Minimal Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Theater Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Boris Brejcha is a Techno and Minimal Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bernexpo Halle, Bern on Fri, 30 Oct 2026.
 
-Boris Brejcha is a techno and minimal techno artist based in Germany, with 142 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 63 more. Often billed alongside Moritz Hofbauer, Ann Clue and Deniz Bul. Next up: Theater Amsterdam, Amsterdam on Sat 24 Oct.
+Boris Brejcha is a techno and minimal techno artist based in Germany, with 142 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 63 more. Often billed alongside Moritz Hofbauer, Ann Clue and Deniz Bul. Next up: Bernexpo Halle, Bern on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Bernexpo Halle | Bern |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Eventpyramide Vösendorf | Austria |
@@ -20,6 +19,7 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, with 142 g
 
 ## Recently played
 
+- Theater Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Arena Riga, Latvia · Fri, 23 Oct 2026
 - La Fabrica, Argentina · Fri, 16 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
@@ -27,10 +27,9 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, with 142 g
 - Alexandra Palace, London · Sat, 19 Sept 2026
 - Amnesia Ibiza, Ibiza · Wed, 26 Aug 2026
 - Kiesgrube, Düsseldorf · Sun, 16 Aug 2026
-- TBA - Brussels, Brussels · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Moritz Hofbauer, Ann Clue, Deniz Bul
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*

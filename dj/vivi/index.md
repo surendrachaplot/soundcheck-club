@@ -1,6 +1,6 @@
 # vivi
 
-vivi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Heaps Normal Health Club, Sydney on Sun, 22 Nov 2026.
+vivi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Heaps Normal Health Club, Sydney on Sun, 22 Nov 2026.
 
 vivi is a house and disco artist based in Australia, with 43 gigs on soundcheck across Berlin, Cologne, Hamburg and London and 2 more. Often billed alongside Justice, MikAH and Ashlea Milinkovic. Next up: Heaps Normal Health Club, Sydney on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ vivi is a house and disco artist based in Australia, with 43 gigs on soundcheck 
 
 Justice, MikAH, Ashlea Milinkovic
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*

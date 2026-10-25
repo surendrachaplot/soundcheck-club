@@ -1,6 +1,6 @@
 # Karl Almaria
 
-Karl Almaria is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Chicago - West Town, Chicago on Sat, 31 Oct 2026.
+Karl Almaria is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Chicago - West Town, Chicago on Sat, 31 Oct 2026.
 
 Karl Almaria is a house and deep house artist based in United States of America, with 56 gigs on soundcheck across Chicago. Often billed alongside Gene Hunt, Geto Mark and Adorio. Next up: TBA - Chicago - West Town, Chicago on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Karl Almaria is a house and deep house artist based in United States of America,
 
 Gene Hunt, Geto Mark, Adorio
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlalmaria/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlalmaria/)*

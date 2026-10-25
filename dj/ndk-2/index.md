@@ -1,6 +1,6 @@
 # ndk (2)
 
-ndk (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at or, Tokyo on Sun, 1 Nov 2026.
+ndk (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at or, Tokyo on Sun, 1 Nov 2026.
 
 ndk is a techno and trance artist, with 24 gigs on soundcheck across Taipei and Tokyo. Often billed alongside DJ 34, TORUKK and FUMOFFU. Next up: or, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ ndk is a techno and trance artist, with 24 gigs on soundcheck across Taipei and 
 
 DJ 34, TORUKK, FUMOFFU
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ndk-2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ndk-2/)*

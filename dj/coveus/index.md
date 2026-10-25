@@ -1,6 +1,6 @@
 # COVE(US)
 
-COVE(US) is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at telos.haus, New York City on Thu, 29 Oct 2026.
+COVE(US) is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at telos.haus, New York City on Thu, 29 Oct 2026.
 
 COVE(US) is a techno and progressive house artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Cow Tools, R-DNA and Megan Rosengarten. Next up: telos.haus, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ COVE(US) is a techno and progressive house artist based in United States of Amer
 
 Cow Tools, R-DNA, Megan Rosengarten
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coveus/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coveus/)*

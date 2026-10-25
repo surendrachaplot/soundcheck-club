@@ -1,6 +1,6 @@
 # 74 Hall
 
-74 Hall is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DØMINA - HALLOWEEN NIGHT" on Wed, 28 Oct 2026.
+74 Hall is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "DØMINA - HALLOWEEN NIGHT" on Wed, 28 Oct 2026.
 
 74 Hall is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with line-ups including Alignment, Arda Yazkan, Cristobal Pesce and Doruksen and 2 more. See dates, start times and who's playing. Zeytinlik Mah. Yakut Sok. No:7 (Eski 74 Sineması), 34140 Bakırköy/İstanbul.
 
@@ -21,4 +21,4 @@
 
 Zeytinlik Mah. Yakut Sok. No:7 (Eski 74 Sineması), 34140 Bakırköy/İstanbul, Istanbul
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/74-hall/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/74-hall/)*

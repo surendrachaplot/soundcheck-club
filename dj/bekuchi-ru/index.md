@@ -1,6 +1,6 @@
 # Bekuchi
 
-Bekuchi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
+Bekuchi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
 
 Bekuchi is a house and techno artist based in Georgia, with 98 gigs on soundcheck across Berlin, Paris, Prague and Tbilisi and 1 more. Often billed alongside Tomma, Kraumur and Mancho. Next up: Left Bank, Tbilisi on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bekuchi is a house and techno artist based in Georgia, with 98 gigs on soundchec
 
 Tomma, Kraumur, Mancho
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekuchi-ru/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekuchi-ru/)*

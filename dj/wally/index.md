@@ -1,6 +1,6 @@
 # Wally
 
-Wally is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Wally is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Wally is a jungle and drum & bass artist based in Canada, with 23 gigs on soundcheck across Amsterdam, Manchester, Montreal and Toronto. Often billed alongside STLKR, Crimewave and IIITHRIII. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Wally is a jungle and drum & bass artist based in Canada, with 23 gigs on soundc
 
 STLKR, Crimewave, IIITHRIII
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wally/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wally/)*

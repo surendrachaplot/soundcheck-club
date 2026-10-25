@@ -1,6 +1,6 @@
 # Milo Passier
 
-Milo Passier is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Yellow House, Amsterdam on Sun, 25 Oct 2026.
+Milo Passier is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Yellow House, Amsterdam on Sun, 25 Oct 2026.
 
 Milo Passier is a house and tech house artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and Rotterdam and 1 more. Often billed alongside Kirilski, Lasse Top and Pura Pachanga. Next up: Yellow House, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Milo Passier is a house and tech house artist based in Netherlands, with 25 gigs
 
 Kirilski, Lasse Top, Pura Pachanga
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milopassier/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milopassier/)*

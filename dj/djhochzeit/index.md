@@ -1,6 +1,6 @@
 # DJ Hochzeit
 
-DJ Hochzeit is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at glimmer, Hamburg on Fri, 30 Oct 2026.
+DJ Hochzeit is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at glimmer, Hamburg on Fri, 30 Oct 2026.
 
 DJ Hochzeit is a house and breakbeat artist based in Germany, with 34 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside ogmilian, DJ Babyblade and MLE. Next up: glimmer, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Hochzeit is a house and breakbeat artist based in Germany, with 34 gigs on so
 
 ogmilian, DJ Babyblade, MLE (2)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhochzeit/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhochzeit/)*

@@ -1,14 +1,13 @@
 # Laia
 
-Laia is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at nachbar, Amsterdam on Sat, 24 Oct 2026.
+Laia is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
 
-Laia is a techno and house artist based in Spain, with 131 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 14 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: nachbar, Amsterdam on Sat 24 Oct.
+Laia is a techno and house artist based in Spain, with 131 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 14 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | nachbar | Amsterdam |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
@@ -21,6 +20,7 @@ Laia is a techno and house artist based in Spain, with 131 gigs on soundcheck ac
 
 ## Recently played
 
+- nachbar, Amsterdam · Sat, 24 Oct 2026
 - TILLATEC, Amsterdam · Wed, 21 Oct 2026
 - KREUZWERK, Berlin · Fri, 9 Oct 2026
 - Plaza Monumental de Barcelona, Barcelona · Sat, 3 Oct 2026
@@ -28,10 +28,9 @@ Laia is a techno and house artist based in Spain, with 131 gigs on soundcheck ac
 - IFEMA, Madrid · Fri, 18 Sept 2026
 - IFEMA, Madrid · Fri, 18 Sept 2026
 - Karmakoma, Belgrade · Fri, 18 Sept 2026
-- The Bassement, Madrid · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 Roll Dann, Shadow Hrym (ES), Alexandre Laeddis
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*

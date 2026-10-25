@@ -1,6 +1,6 @@
 # Julie Silset
 
-Julie Silset is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Julie Silset is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
 
 Julie Silset is a techno and experimental artist, with 29 gigs on soundcheck across Bergen, Oslo and Tbilisi. Often billed alongside Rudi Valdersnes, Reckless Kettle and Hildisvini. Next up: Østre, Bergen on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Julie Silset is a techno and experimental artist, with 29 gigs on soundcheck acr
 
 Rudi Valdersnes, Reckless Kettle, Hildisvini
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliesilset/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliesilset/)*

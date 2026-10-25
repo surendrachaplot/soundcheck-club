@@ -1,6 +1,6 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Bassement, Madrid on Thu, 29 Oct 2026.
+Pawlowski is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Bassement, Madrid on Thu, 29 Oct 2026.
 
 Pawlowski is a techno and trance artist based in France, with 141 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 61 more. Often billed alongside Nico Moreno, Azyr and LESSSS. Next up: The Bassement, Madrid on Thu 29 Oct.
 
@@ -29,4 +29,4 @@ Pawlowski is a techno and trance artist based in France, with 141 gigs on soundc
 
 Nico Moreno, Azyr, LESSSS
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*

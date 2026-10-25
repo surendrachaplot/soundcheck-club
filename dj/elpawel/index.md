@@ -1,6 +1,6 @@
 # Elpawel
 
-Elpawel is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Charlie, Munich on Sat, 7 Nov 2026.
+Elpawel is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Charlie, Munich on Sat, 7 Nov 2026.
 
 Elpawel is a house and hip-hop artist based in Germany, with 18 gigs on soundcheck across Berlin, Munich, Rio de Janeiro and Vienna. Often billed alongside Inu G, Jeyrototo and Benjamin Roeder. Next up: Charlie, Munich on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Elpawel is a house and hip-hop artist based in Germany, with 18 gigs on soundche
 
 Inu G, Jeyrototo, Benjamin Roeder
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elpawel/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elpawel/)*

@@ -1,6 +1,6 @@
 # Bain Mathieu
 
-Bain Mathieu is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DARK AREA" on Sat, 24 Oct 2026.
+Bain Mathieu is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "DARK AREA" on Sat, 24 Oct 2026.
 
 Bain Mathieu is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including Babaganouschka, Mat Moebius, Ponsif and Special K (CA) and 1 more. See dates, start times and who's playing. 2915 Ontario Est; Montreal, QC H2K 1X7; Canada.
 
@@ -15,4 +15,4 @@ Bain Mathieu is a music venue in Montreal listed on soundcheck. 2 upcoming gigs,
 
 2915 Ontario Est; Montreal, QC H2K 1X7; Canada, Montreal
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bain-mathieu/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bain-mathieu/)*

@@ -1,18 +1,17 @@
 # Antal
 
-Antal is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Antal is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Doka, Amsterdam on Sun, 25 Oct 2026.
 
-Antal is a house and disco artist based in Netherlands, with 170 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+Antal is a house and disco artist based in Netherlands, with 171 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: Doka, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
-| Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Sun, 25 Oct 2026 | Doka | Amsterdam |
 | Sat, 7 Nov 2026 | Rex Club | Paris |
 | Sun, 8 Nov 2026 | Salle des Fêtes de Fives | Lille |
+| Sat, 14 Nov 2026 | Inter-City | The Hague |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 28 Nov 2026 | fabric | London |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
@@ -23,6 +22,7 @@ Antal is a house and disco artist based in Netherlands, with 170 gigs on soundch
 
 ## Recently played
 
+- Lofi, Amsterdam · Sat, 24 Oct 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - San Francisco, Amsterdam · Thu, 22 Oct 2026
 - 1 Hotel Tokyo, Tokyo · Sat, 10 Oct 2026
@@ -30,10 +30,9 @@ Antal is a house and disco artist based in Netherlands, with 170 gigs on soundch
 - Eastway Baths, London · Sun, 27 Sept 2026
 - La Cheetah Club, Glasgow · Sat, 26 Sept 2026
 - OHM, Berlin · Sat, 19 Sept 2026
-- Doka, Amsterdam · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Hunee, Kléo, Coco Maria
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*

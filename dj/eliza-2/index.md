@@ -1,6 +1,6 @@
 # Eliza (2)
 
-Eliza (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Fitzroy, Berlin on Sat, 14 Nov 2026.
+Eliza (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Fitzroy, Berlin on Sat, 14 Nov 2026.
 
 Eliza is a techno and house artist based in Germany, with 46 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 12 more. Often billed alongside Miran N, Akaj and DRAMA SOURCE ARTIFACTS. Next up: Fitzroy, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Eliza is a techno and house artist based in Germany, with 46 gigs on soundcheck 
 
 Miran N, Akaj, DRAMA SOURCE ARTIFACTS
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza-2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza-2/)*

@@ -1,14 +1,13 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sugarfactory, Amsterdam on Sat, 24 Oct 2026.
+Blasha & Allatt is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Skatecafe, Amsterdam on Sun, 25 Oct 2026.
 
-Blasha & Allatt are a techno and house duo based in United Kingdom, with 308 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 64 more. Often billed alongside aalice, Freddy K and Steffi. Next up: Sugarfactory, Amsterdam on Sat 24 Oct.
+Blasha & Allatt are a techno and house duo based in United Kingdom, with 308 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 64 more. Often billed alongside aalice, Freddy K and Steffi. Next up: Skatecafe, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 31 Oct 2026 | Gewölbe | Cologne |
 | Sun, 1 Nov 2026 | NUMBER 90 LONDON | London |
@@ -22,6 +21,7 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 308 gig
 
 ## Recently played
 
+- Sugarfactory, Amsterdam · Sat, 24 Oct 2026
 - TILLATEC, Amsterdam · Thu, 22 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 17 Oct 2026
 - Fuse, Brussels · Sat, 17 Oct 2026
@@ -29,10 +29,9 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 308 gig
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - Concept Haus, Manchester · Sat, 10 Oct 2026
 - FOLD, London · Sat, 3 Oct 2026
-- Top Floor, Newcastle · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 aalice, Freddy K, Steffi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

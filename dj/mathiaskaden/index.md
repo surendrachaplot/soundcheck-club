@@ -1,15 +1,13 @@
 # Mathias Kaden
 
-Mathias Kaden is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Mathias Kaden is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 31 Oct 2026.
 
-Mathias Kaden is a house and techno artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Antwerp, Austria and Bali and 23 more. Often billed alongside Chris Liebing, Matthias Tanzmann and VNTM. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
+Mathias Kaden is a house and techno artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Antwerp, Austria and Bali and 23 more. Often billed alongside Chris Liebing, Matthias Tanzmann and VNTM. Next up: MH5 Rooftop, Munich on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
-| Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Sat, 31 Oct 2026 | MH5 Rooftop | Munich |
 | Sat, 7 Nov 2026 | Alte Pakethalle | Bavaria |
 | Sat, 28 Nov 2026 | Ampere | Antwerp |
@@ -17,17 +15,17 @@ Mathias Kaden is a house and techno artist based in Germany, with 77 gigs on sou
 
 ## Recently played
 
+- Thuishaven, Amsterdam · Sat, 24 Oct 2026
+- Yellow House, Amsterdam · Sat, 24 Oct 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 10 Oct 2026
 - Club Frau Holle, Hamburg · Fri, 18 Sept 2026
 - Kater, Berlin · Fri, 11 Sept 2026
 - Distillery, Leipzig · Sat, 22 Aug 2026
 - Paal69, Amsterdam · Sun, 16 Aug 2026
 - Sloterpark, Amsterdam · Sat, 8 Aug 2026
-- Parkcafe, Cologne · Sat, 11 Jul 2026
-- Audio Club, Geneva · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Chris Liebing, Matthias Tanzmann, VNTM
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*

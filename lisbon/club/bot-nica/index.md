@@ -1,6 +1,6 @@
 # Botânica
 
-Botânica is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "The Pulse Lisboa" on Thu, 5 Nov 2026.
+Botânica is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "The Pulse Lisboa" on Thu, 5 Nov 2026.
 
 Botânica is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including SWAMI (FR). See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Botânica is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with 
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | The Pulse Lisboa | SWAMI (FR) |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/bot-nica/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/bot-nica/)*

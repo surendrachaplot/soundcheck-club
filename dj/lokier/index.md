@@ -1,6 +1,6 @@
 # Lokier
 
-Lokier is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Faust, Seoul on Sat, 7 Nov 2026.
+Lokier is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Faust, Seoul on Sat, 7 Nov 2026.
 
 Lokier is a techno and trance artist based in Mexico, with 96 gigs on soundcheck across Antwerp, Athens, Barcelona and Basel and 42 more. Often billed alongside 999999999, Lee Ann Roberts and DYEN. Next up: Faust, Seoul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Lokier is a techno and trance artist based in Mexico, with 96 gigs on soundcheck
 
 999999999, Lee Ann Roberts, DYEN
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lokier/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lokier/)*

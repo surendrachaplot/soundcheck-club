@@ -1,6 +1,6 @@
 # SEB JVMES
 
-SEB JVMES is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 12th Knot Rooftop Bar, London on Fri, 30 Oct 2026.
+SEB JVMES is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 12th Knot Rooftop Bar, London on Fri, 30 Oct 2026.
 
 SEB JVMES is an afro tech and afro house artist, with 11 gigs on soundcheck across London. Often billed alongside AliTR, Jezza and BATU (TR). Next up: 12th Knot Rooftop Bar, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SEB JVMES is an afro tech and afro house artist, with 11 gigs on soundcheck acro
 
 AliTR, Jezza, BATU (TR)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebjvmes/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebjvmes/)*

@@ -1,6 +1,6 @@
 # Heuremin (MY)
 
-Heuremin (MY) is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at fono, Kuala Lumpur on Fri, 30 Oct 2026.
+Heuremin (MY) is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at fono, Kuala Lumpur on Fri, 30 Oct 2026.
 
 Heuremin (MY) is a techno and acid artist based in Malaysia, with 6 gigs on soundcheck across Kuala Lumpur. Often billed alongside 7CIRCLE, Brainer and Greystick. Next up: fono, Kuala Lumpur on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Heuremin (MY) is a techno and acid artist based in Malaysia, with 6 gigs on soun
 
 7CIRCLE, Brainer, Greystick
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heureminmy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heureminmy/)*

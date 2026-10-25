@@ -1,6 +1,6 @@
 # Sebastian Rebig
 
-Sebastian Rebig is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Golden Gate, Berlin on Sat, 24 Oct 2026.
+Sebastian Rebig is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Golden Gate, Berlin on Sat, 24 Oct 2026.
 
 Sebastian Rebig is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Roxtone, Aubrey and Bryan Kessler. Next up: Golden Gate, Berlin on Sat 24 Oct.
 
@@ -13,6 +13,7 @@ Sebastian Rebig is a house and techno artist based in Germany, with 10 gigs on s
 
 ## Recently played
 
+- Golden Gate, Berlin · Sat, 24 Oct 2026
 - Minimal Bar, Berlin · Sat, 25 Apr 2026
 - Giselle, Düsseldorf · Sat, 17 Jan 2026
 - Giselle, Düsseldorf · Sat, 4 Oct 2025
@@ -20,10 +21,9 @@ Sebastian Rebig is a house and techno artist based in Germany, with 10 gigs on s
 - CUBE, Düsseldorf · Sat, 3 Jun 2023
 - CUBE, Düsseldorf · Sat, 1 Apr 2023
 - CUBE, Düsseldorf · Sat, 4 Feb 2023
-- Golzheim, Düsseldorf · Fri, 27 Jan 2023
 
 ## Shares bills with
 
 Roxtone, Aubrey, Bryan Kessler
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianrebig/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianrebig/)*

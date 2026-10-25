@@ -1,15 +1,13 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "ADE: TraTraTrax with Verraco b2b Pariah • Gabrielle Kwarteng • Jesse G" on Sat, 24 Oct 2026.
+Radio Radio is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "amore x radio radio | ADE night closing (12h)" on Sun, 25 Oct 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Bennet (DE), Berkan V8, Doran and Eileen (NL) and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Bennet (DE), Berkan V8, Doran and Eileen (NL) and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | ADE: TraTraTrax with Verraco b2b Pariah • Gabrielle Kwarteng • Jesse G | Gabrielle Kwarteng, Jesse G, Pariah, Verraco |
-| Sat, 24 Oct 2026 | ADE:  Identified Patient b2b mad miran — All Day Long | Identified Patient, mad miran |
 | Sun, 25 Oct 2026 | amore x radio radio / ADE night closing (12h) | Bennet (DE), Berkan V8, Doran, Gaudi (NL), Jasmín, Karina Schneider, Victor (DE) |
 | Sun, 25 Oct 2026 | ADE: LITTLEBIG with Marie Montexier b2b KiNK • George FitzGerald | George FitzGerald, KiNK, Marie Montexier |
 | Fri, 30 Oct 2026 | Moody Mehran • Miguel De Bois | Miguel De Bois, Moody Mehran |
@@ -21,4 +19,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs,
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

@@ -1,6 +1,6 @@
 # bod [包家巷]
 
-bod [包家巷] is a Experimental and Ambient artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mutant Radio, Tbilisi on Thu, 5 Nov 2026.
+bod [包家巷] is a Experimental and Ambient artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Mutant Radio, Tbilisi on Thu, 5 Nov 2026.
 
 bod [包家巷] is an experimental and ambient artist based in United States of America, with 79 gigs on soundcheck across Beijing, Belfast, Berlin and Bristol and 18 more. Often billed alongside Warlord®, PAX and Softmatter. Next up: Mutant Radio, Tbilisi on Thu 5 Nov.
 
@@ -29,4 +29,4 @@ bod [包家巷] is an experimental and ambient artist based in United States of 
 
 Warlord®, PAX (2), Softmatter
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bod/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bod/)*

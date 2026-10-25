@@ -1,6 +1,6 @@
 # Three6sashia
 
-Three6sashia is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, San Francisco/Oakland on Sat, 24 Oct 2026.
+Three6sashia is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 Three6sashia is a house and techno artist based in United States of America, with 7 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Infinite Jess, Spiñorita and Big Happy. Next up: TBA, San Francisco/Oakland on Sat 24 Oct.
 
@@ -13,6 +13,7 @@ Three6sashia is a house and techno artist based in United States of America, wit
 
 ## Recently played
 
+- TBA, San Francisco/Oakland · Sat, 24 Oct 2026
 - Underground SF, San Francisco/Oakland · Fri, 23 Oct 2026
 - Arcana, San Francisco/Oakland · Fri, 12 Jun 2026
 - The TBA - Oakland Loom, 2220 Livingston St, Oakland, CA 94606, San Francisco/Oakland · Sun, 19 Apr 2026
@@ -23,4 +24,4 @@ Three6sashia is a house and techno artist based in United States of America, wit
 
 Infinite Jess, Spiñorita, Big Happy
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/three6sashia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/three6sashia/)*

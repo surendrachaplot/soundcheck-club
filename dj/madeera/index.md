@@ -1,6 +1,6 @@
 # madeera
 
-madeera is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Southern Feed Store, Atlanta on Sun, 25 Oct 2026.
+madeera is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Southern Feed Store, Atlanta on Sun, 25 Oct 2026.
 
 madeera is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Atlanta, Detroit, Dublin and Newcastle and 3 more. Often billed alongside Brent Shay, Antikkka and Cody Hammer. Next up: Southern Feed Store, Atlanta on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ madeera is a techno and house artist based in United States of America, with 23 
 
 Brent Shay, Antikkka, Cody Hammer
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*

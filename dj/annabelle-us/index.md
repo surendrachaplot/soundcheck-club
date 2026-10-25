@@ -1,6 +1,6 @@
 # Annabelle (US)
 
-Annabelle (US) is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mood Ring, New York City on Fri, 30 Oct 2026.
+Annabelle (US) is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mood Ring, New York City on Fri, 30 Oct 2026.
 
 Annabelle (US) is a club and hip-hop artist, with 12 gigs on soundcheck across London and New York City. Often billed alongside Zillion, Dennis Free and EDEN BEKELE. Next up: Mood Ring, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Annabelle (US) is a club and hip-hop artist, with 12 gigs on soundcheck across L
 
 Zillion, Dennis Free, EDEN BEKELE
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annabelle-us/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annabelle-us/)*

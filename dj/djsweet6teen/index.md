@@ -1,8 +1,8 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at FORGE, Sheffield on Fri, 30 Oct 2026.
+dj sweet6teen is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at FORGE, Sheffield on Fri, 30 Oct 2026.
 
-dj sweet6teen is a house and techno artist based in Germany, with 271 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 58 more. Often billed alongside Angel D'lite, Peach and Gene On Earth. Next up: FORGE, Sheffield on Fri 30 Oct.
+dj sweet6teen is a house and techno artist based in Germany, with 272 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 59 more. Often billed alongside Angel D'lite, Peach and Gene On Earth. Next up: FORGE, Sheffield on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ dj sweet6teen is a house and techno artist based in Germany, with 271 gigs on so
 
 ## Recently played
 
+- Robert Johnson, Hesse · Sat, 24 Oct 2026
 - Pllek, Amsterdam · Thu, 22 Oct 2026
 - Gewölbe, Cologne · Sun, 18 Oct 2026
 - Under The Arches, Leeds · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@ dj sweet6teen is a house and techno artist based in Germany, with 271 gigs on so
 - Minimüzikhol, Istanbul · Fri, 9 Oct 2026
 - Club Guesthouse, Bucharest · Sat, 3 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
-- TILLATEC, Amsterdam · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Angel D'lite, Peach, Gene On Earth
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

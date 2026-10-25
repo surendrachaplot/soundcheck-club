@@ -1,6 +1,6 @@
 # Meltmode (2)
 
-Meltmode (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Æther BKK, Bangkok on Sat, 31 Oct 2026.
+Meltmode (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Æther BKK, Bangkok on Sat, 31 Oct 2026.
 
 Meltmode is a house and tech house artist based in Thailand, with 43 gigs on soundcheck across Bali, Bangkok, Ibiza and Kuala Lumpur and 4 more. Often billed alongside Wildealer, Tissanai and AN!KA. Next up: Æther BKK, Bangkok on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Meltmode is a house and tech house artist based in Thailand, with 43 gigs on sou
 
 Wildealer, Tissanai, AN!KA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meltmode-2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meltmode-2/)*

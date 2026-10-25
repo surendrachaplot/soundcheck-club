@@ -1,6 +1,6 @@
 # DEROZAN
 
-DEROZAN is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 14 Nov 2026.
+DEROZAN is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 14 Nov 2026.
 
 DEROZAN is an experimental and club artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside CyberFairy777, HyperLili and Giaderza. Next up: Garage Noord, Amsterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DEROZAN is an experimental and club artist based in Netherlands, with 24 gigs on
 
 CyberFairy777, HyperLili, Giaderza
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derozan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derozan/)*

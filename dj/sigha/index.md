@@ -1,6 +1,6 @@
 # Sigha
 
-Sigha is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
+Sigha is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
 
 Sigha is a techno and hardcore artist based in United Kingdom, with 18 gigs on soundcheck across Barcelona, Beijing, Berlin and Chengdu and 7 more. Often billed alongside Herald, HiTOMi and NATSUMI. Next up: Circus Tokyo, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sigha is a techno and hardcore artist based in United Kingdom, with 18 gigs on s
 
 Herald (1), HiTOMi, NATSUMI
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sigha/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sigha/)*

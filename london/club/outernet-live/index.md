@@ -1,14 +1,13 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "AFRODESI London" on Sat, 24 Oct 2026.
+Outernet Live is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Labyrinth presents: Cassius Last Ever Live Show" on Sat, 31 Oct 2026.
 
-Outernet Live is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including AALIYAH, AJNA, ALISHA and Cassius and 2 more. See dates, start times and who's playing. Denmark Street, London WC2H.
+Outernet Live is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including AALIYAH, AJNA, ALISHA and Cassius and 2 more. See dates, start times and who's playing. Denmark Street, London WC2H.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | AFRODESI London | MR SAJ |
 | Sat, 31 Oct 2026 | Labyrinth presents: Cassius Last Ever Live Show | Cassius, Fantastic Man, Tiffany Quinn |
 | Sat, 7 Nov 2026 | Two Shell (with Weirdcore) — HERE @ Outernet, London | Two Shell |
 | Sat, 14 Nov 2026 | The History of Jungle | DJ Hype, DJ Rap, DJ SS, Eksman, Grooverider, Inja, Kenny Ken, MC Det, MC Flux, MC GQ, Majistrate, Navigator, Nicky Blackmarket, Roni Size |
@@ -18,9 +17,10 @@ Outernet Live is a music venue in London listed on soundcheck. 15 upcoming gigs,
 | Fri, 27 Nov 2026 | Culture Shock presents Transmissions | Culture Shock |
 | Sat, 28 Nov 2026 | Kybba - Evening Show [London] |  |
 | Sat, 28 Nov 2026 | Kybba - Late Show [London] |  |
+| Sat, 5 Dec 2026 | Labyrinth presents: okgiorgio x PARISI Live | PARISI, okgiorgio |
 
 ## Address
 
 Denmark Street, London WC2H, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

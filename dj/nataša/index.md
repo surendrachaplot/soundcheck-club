@@ -1,18 +1,18 @@
 # nataša
 
-nataša is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Feijoa, Amsterdam on Sat, 24 Oct 2026.
+nataša is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bar Feijoa, Amsterdam on Sun, 25 Oct 2026.
 
-nataša is a techno and house artist, with 9 gigs on soundcheck across Amsterdam, Cape Town and Ibiza. Often billed alongside Felix E, Kyle Russouw and Michael Ritter. Next up: Feijoa, Amsterdam on Sat 24 Oct.
+nataša is a techno and house artist, with 9 gigs on soundcheck across Amsterdam, Cape Town and Ibiza. Often billed alongside Felix E, Kyle Russouw and Michael Ritter. Next up: Bar Feijoa, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Feijoa | Amsterdam |
 | Sun, 25 Oct 2026 | Bar Feijoa | Amsterdam |
 
 ## Recently played
 
+- Feijoa, Amsterdam · Sat, 24 Oct 2026
 - Mødular., Cape Town · Wed, 23 Sept 2026
 - Sigma, Ibiza · Sat, 25 Apr 2026
 - The Ostrich Farm, Cape Town · Sat, 20 Dec 2025
@@ -25,4 +25,4 @@ nataša is a techno and house artist, with 9 gigs on soundcheck across Amsterdam
 
 Felix E, Kyle Russouw, Michael Ritter
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataša/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataša/)*

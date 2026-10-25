@@ -1,6 +1,6 @@
 # Kim Jooyoung
 
-Kim Jooyoung is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sound space α, Kyushu on Sat, 21 Nov 2026.
+Kim Jooyoung is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sound space α, Kyushu on Sat, 21 Nov 2026.
 
 Kim Jooyoung is a techno and house artist based in South Korea, with 54 gigs on soundcheck across Kyushu and Seoul. Often billed alongside Cy Nico, Kim.Qna and Minjoon. Next up: Sound space α, Kyushu on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Kim Jooyoung is a techno and house artist based in South Korea, with 54 gigs on 
 
 Cy Nico, Kim.Qna, Minjoon
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimjooyoung/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimjooyoung/)*

@@ -1,6 +1,6 @@
 # Olgica
 
-Olgica is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ormside Projects, London on Sat, 7 Nov 2026.
+Olgica is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ormside Projects, London on Sat, 7 Nov 2026.
 
 Olgica is a techno and bass artist based in Serbia, with 24 gigs on soundcheck across Amsterdam, Belgrade, Bratislava and Ghent and 5 more. Often billed alongside BØRT, Hermeneia and Sun People. Next up: Ormside Projects, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Olgica is a techno and bass artist based in Serbia, with 24 gigs on soundcheck a
 
 BØRT, Hermeneia, Sun People
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olgica/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olgica/)*

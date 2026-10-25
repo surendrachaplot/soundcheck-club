@@ -1,14 +1,13 @@
 # Mdlr
 
-Mdlr is a music venue in Singapore with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "HAIR RAISER Halloween feat. GOTTMIK (Drag Race) by FOMOHOMO & POOF DOOF" on Sat, 24 Oct 2026.
+Mdlr is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "GIVE. X Thugshop presents - GrooveStation (Spooky Edition)" on Fri, 30 Oct 2026.
 
-Mdlr is a music venue in Singapore listed on soundcheck. 5 upcoming gigs, with line-ups including Animistic Beliefs, charmicide, Erwin Linden and howrøng and 2 more. See dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
+Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with line-ups including Animistic Beliefs, charmicide, Erwin Linden and howrøng and 2 more. See dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | HAIR RAISER Halloween feat. GOTTMIK (Drag Race) by FOMOHOMO & POOF DOOF | Lilith Blaque |
 | Fri, 30 Oct 2026 | GIVE. X Thugshop presents - GrooveStation (Spooky Edition) | Erwin Linden, Vinnie Stew |
 | Sat, 7 Nov 2026 | [Bussy Temple x Strange Weather] KINNARI 001: BUSSY WEATHER | Animistic Beliefs, charmicide, howrøng, nydthakid |
 | Fri, 20 Nov 2026 | Thugshop presents - Special Request | RAAJ, Special Request |
@@ -18,4 +17,4 @@ Mdlr is a music venue in Singapore listed on soundcheck. 5 upcoming gigs, with l
 
 62 Cecil Street #02-00, Singapore 049710, Singapore
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*

@@ -1,6 +1,6 @@
 # Versalles 64
 
-Versalles 64 is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "[sic]: Macarena B2B OMFDAN / Alby Esc / Celice" on Sat, 24 Oct 2026.
+Versalles 64 is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "[sic]: Macarena B2B OMFDAN / Alby Esc / Celice" on Sat, 24 Oct 2026.
 
 Versalles 64 is a music venue in Mexico City listed on soundcheck. 3 upcoming gigs, with line-ups including Alatriste (MX), Alby Esc, Celice Monnette and Eliel Capa and 2 more. See dates, start times and who's playing. Calle Versalles 64, Col. Juárez. CDMX.
 
@@ -16,4 +16,4 @@ Versalles 64 is a music venue in Mexico City listed on soundcheck. 3 upcoming gi
 
 Calle Versalles 64, Col. Juárez. CDMX, Mexico City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*

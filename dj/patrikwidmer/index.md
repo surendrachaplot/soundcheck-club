@@ -1,19 +1,19 @@
 # Patrik Widmer
 
-Patrik Widmer is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Liev Coffee & Pastry, Amsterdam on Sat, 24 Oct 2026.
+Patrik Widmer is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Supermarket, Zurich on Fri, 6 Nov 2026.
 
-Patrik Widmer is a techno and acid artist based in Switzerland, with 61 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hong Kong and 2 more. Often billed alongside mvdi, Erebos and DJ Jordan. Next up: Liev Coffee & Pastry, Amsterdam on Sat 24 Oct.
+Patrik Widmer is a techno and acid artist based in Switzerland, with 61 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hong Kong and 2 more. Often billed alongside mvdi, Erebos and DJ Jordan. Next up: Supermarket, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Liev Coffee & Pastry | Amsterdam |
 | Fri, 6 Nov 2026 | Supermarket | Zurich |
 | Sat, 30 Jan 2027 | Zinkbad Eventhalle | Zurich |
 
 ## Recently played
 
+- Liev Coffee & Pastry, Amsterdam · Sat, 24 Oct 2026
 - Club04, Zurich · Fri, 16 Oct 2026
 - Club04, Zurich · Fri, 25 Sept 2026
 - Supermarket, Zurich · Fri, 21 Aug 2026
@@ -21,10 +21,9 @@ Patrik Widmer is a techno and acid artist based in Switzerland, with 61 gigs on 
 - Club Bellevue, Zurich · Fri, 3 Jul 2026
 - Supermarket, Zurich · Fri, 29 May 2026
 - Club04, Zurich · Fri, 15 May 2026
-- Alte Kaserne, Zurich · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 mvdi, Erebos, DJ Jordan
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikwidmer/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikwidmer/)*

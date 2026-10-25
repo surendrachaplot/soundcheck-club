@@ -1,6 +1,6 @@
 # Jason Merle
 
-Jason Merle is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Benelux BAR, Amsterdam on Sun, 25 Oct 2026.
+Jason Merle is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Benelux BAR, Amsterdam on Sun, 25 Oct 2026.
 
 Jason Merle is a house and deep house artist based in United States of America, with 9 gigs on soundcheck across Amsterdam, Austin, Houston and San Diego and 1 more. Often billed alongside DJ Dazy, Hector Moralez and Jason Hodges. Next up: Benelux BAR, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Jason Merle is a house and deep house artist based in United States of America, 
 
 DJ Dazy, Hector Moralez, Jason Hodges
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonmerle/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonmerle/)*

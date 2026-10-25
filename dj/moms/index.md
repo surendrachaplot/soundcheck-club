@@ -1,6 +1,6 @@
 # MoMs
 
-MoMs is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Departamento, Mexico City on Wed, 21 Oct 2026.
+MoMs is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Departamento, Mexico City on Wed, 21 Oct 2026.
 
 MoMs is a house and deep house artist, with 22 gigs on soundcheck across Mexico City and Paris. Often billed alongside Bonnz!, GOLDEN PINEAPPLE and DJ Milka. Next up: Departamento, Mexico City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ MoMs is a house and deep house artist, with 22 gigs on soundcheck across Mexico 
 
 Bonnz!, GOLDEN PINEAPPLE, DJ Milka
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moms/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moms/)*

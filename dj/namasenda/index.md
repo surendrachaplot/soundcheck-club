@@ -1,6 +1,6 @@
 # Namasenda
 
-Namasenda is a Pop and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
+Namasenda is a Pop and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
 
 Namasenda is a pop and club artist based in Sweden, with 22 gigs on soundcheck across Barcelona, Brussels, Glasgow and Leipzig and 10 more. Often billed alongside Boys Noize, CITYTRONIX and Clementaum. Next up: Colour Factory, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Namasenda is a pop and club artist based in Sweden, with 22 gigs on soundcheck a
 
 Boys Noize, CITYTRONIX, Clementaum
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*

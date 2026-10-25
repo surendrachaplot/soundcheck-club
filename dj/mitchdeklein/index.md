@@ -1,6 +1,6 @@
 # Mitch de Klein
 
-Mitch de Klein is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
+Mitch de Klein is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
 
 Mitch de Klein is a techno and house artist based in Netherlands, with 36 gigs on soundcheck across Amsterdam, Istanbul, Netherlands and Rotterdam and 1 more. Often billed alongside Hollt, Huminal and Olivier Weiter. Next up: 50:Hertz Club Train, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Mitch de Klein is a techno and house artist based in Netherlands, with 36 gigs o
 
 Hollt, Huminal, Olivier Weiter
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchdeklein/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchdeklein/)*

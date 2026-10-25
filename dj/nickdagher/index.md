@@ -1,18 +1,18 @@
 # Nick Dagher
 
-Nick Dagher is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Spkrbox, Detroit on Sat, 24 Oct 2026.
+Nick Dagher is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Strays, Detroit on Fri, 30 Oct 2026.
 
-Nick Dagher is a techno and bass artist based in United States of America, with 40 gigs on soundcheck across Chicago, Detroit, Dresden and Los Angeles and 1 more. Often billed alongside Young Muscle, Charles Trees and Garrison XR. Next up: Spkrbox, Detroit on Sat 24 Oct.
+Nick Dagher is a techno and bass artist based in United States of America, with 40 gigs on soundcheck across Chicago, Detroit, Dresden and Los Angeles and 1 more. Often billed alongside Young Muscle, Charles Trees and Garrison XR. Next up: The Strays, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Spkrbox | Detroit |
 | Fri, 30 Oct 2026 | The Strays | Detroit |
 
 ## Recently played
 
+- Spkrbox, Detroit · Sat, 24 Oct 2026
 - Hizz Lounge, Detroit · Fri, 23 Oct 2026
 - Hizz Lounge, Detroit · Sat, 1 Aug 2026
 - Hizz Lounge, Detroit · Sat, 20 Jun 2026
@@ -20,10 +20,9 @@ Nick Dagher is a techno and bass artist based in United States of America, with 
 - TBA - The Vault 313, Detroit · Sat, 30 May 2026
 - Hizz Lounge, Detroit · Sat, 23 May 2026
 - Hizz Lounge, Detroit · Fri, 3 Apr 2026
-- TBA - @interferencedetroit for address, Detroit · Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Young Muscle, Charles Trees, Garrison XR
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdagher/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdagher/)*

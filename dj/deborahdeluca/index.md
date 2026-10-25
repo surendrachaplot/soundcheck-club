@@ -1,14 +1,13 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kesselhaus Augsburg, Augsburg on Sat, 24 Oct 2026.
+Deborah De Luca is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 30 Oct 2026.
 
-Deborah De Luca is a techno and tech house artist based in Italy, with 175 gigs on soundcheck across Antwerp, Athens, Augsburg and Austin and 56 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Kesselhaus Augsburg, Augsburg on Sat 24 Oct.
+Deborah De Luca is a techno and tech house artist based in Italy, with 175 gigs on soundcheck across Antwerp, Athens, Augsburg and Austin and 56 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Kesselhaus Augsburg | Augsburg |
 | Fri, 30 Oct 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Sat, 31 Oct 2026 | Audio Club | Geneva |
 | Sat, 7 Nov 2026 | Maimarkthalle | Mannheim |
@@ -19,6 +18,7 @@ Deborah De Luca is a techno and tech house artist based in Italy, with 175 gigs 
 
 ## Recently played
 
+- Kesselhaus Augsburg, Augsburg · Sat, 24 Oct 2026
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 9 Oct 2026
 - Hafen 49, Mannheim · Sat, 26 Sept 2026
 - Epic Prague, Prague · Fri, 25 Sept 2026
@@ -26,10 +26,9 @@ Deborah De Luca is a techno and tech house artist based in Italy, with 175 gigs 
 - fabric, London · Fri, 18 Sept 2026
 - TBA - Bora Bora Medellin, Medellin · Sat, 5 Sept 2026
 - Cavo Paradiso, Mykonos · Sat, 29 Aug 2026
-- Kaufleuten, Zurich · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

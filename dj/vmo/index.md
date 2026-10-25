@@ -1,6 +1,6 @@
 # VMO
 
-VMO is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 30 Oct 2026.
+VMO is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 30 Oct 2026.
 
 VMO is a techno and experimental artist, with 30 gigs on soundcheck across Barcelona, Berlin, Lyon and Manchester and 6 more. Often billed alongside Violent Magic Orchestra, Marie Davidson and ALTF4. Next up: MIDNIGHT EAST, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ VMO is a techno and experimental artist, with 30 gigs on soundcheck across Barce
 
 Violent Magic Orchestra, Marie Davidson, ALTF4
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vmo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vmo/)*

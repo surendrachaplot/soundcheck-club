@@ -1,6 +1,6 @@
 # Javier Plateado
 
-Javier Plateado is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
+Javier Plateado is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
 
 Javier Plateado is an electronica and techno artist based in Colombia, with 10 gigs on soundcheck across Bogotá. Often billed alongside RAUM, Surfer Rosa and Bruno Anthony. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Javier Plateado is an electronica and techno artist based in Colombia, with 10 g
 
 RAUM (2), Surfer Rosa, Bruno Anthony
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javierplateado/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javierplateado/)*

@@ -1,6 +1,6 @@
 # Alex Zhang Hungtai
 
-Alex Zhang Hungtai is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at MS Stubnitz, Hamburg on Thu, 5 Nov 2026.
+Alex Zhang Hungtai is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at MS Stubnitz, Hamburg on Thu, 5 Nov 2026.
 
 Alex Zhang Hungtai is an experimental and techno artist based in Taiwan, with 27 gigs on soundcheck across Barcelona, Berlin, Brussels and Glasgow and 14 more. Often billed alongside Aba Shanti-I, Arooj Aftab and BRINGAS. Next up: MS Stubnitz, Hamburg on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Alex Zhang Hungtai is an experimental and techno artist based in Taiwan, with 27
 
 Aba Shanti-I, Arooj Aftab, BRINGAS
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexzhanghungtai/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexzhanghungtai/)*

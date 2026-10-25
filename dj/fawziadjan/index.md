@@ -1,6 +1,6 @@
 # Fawzi Adjan
 
-Fawzi Adjan is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Babour Sauvage, Paris on Sun, 13 Dec 2026.
+Fawzi Adjan is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Babour Sauvage, Paris on Sun, 13 Dec 2026.
 
 Fawzi Adjan is a minimal and techno artist, with 18 gigs on soundcheck across Paris. Often billed alongside Daymount, Fa Mao and Robert Plankett. Next up: Babour Sauvage, Paris on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Fawzi Adjan is a minimal and techno artist, with 18 gigs on soundcheck across Pa
 
 Daymount, Fa Mao, Robert Plankett
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fawziadjan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fawziadjan/)*

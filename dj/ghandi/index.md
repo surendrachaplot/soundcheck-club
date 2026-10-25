@@ -1,6 +1,6 @@
 # Ghandi
 
-Ghandi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los-angeles on Thu, 29 Oct 2026.
+Ghandi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los-angeles on Thu, 29 Oct 2026.
 
 Ghandi is a house and techno artist based in Czech Republic, with 25 gigs on soundcheck across Glasgow, Ibiza, Los Angeles and Prague. Often billed alongside Saku, Bazooka Joe and Dash (CZ). Next up: TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los Angeles on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Ghandi is a house and techno artist based in Czech Republic, with 25 gigs on sou
 
 Saku, Bazooka Joe, Dash (CZ)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghandi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghandi/)*

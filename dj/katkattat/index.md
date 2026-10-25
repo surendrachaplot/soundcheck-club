@@ -1,6 +1,6 @@
 # Kat Kat Tat
 
-Kat Kat Tat is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Fuchs2, Prague on Fri, 30 Oct 2026.
+Kat Kat Tat is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Fuchs2, Prague on Fri, 30 Oct 2026.
 
 Kat Kat Tat is a techno and house artist based in Germany, with 77 gigs on soundcheck across Berlin, Cologne, Dresden and Nürnberg and 3 more. Often billed alongside Freya Algiz, Lillou and Avocado. Next up: Fuchs2, Prague on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Kat Kat Tat is a techno and house artist based in Germany, with 77 gigs on sound
 
 Freya Algiz, Lillou, Avocado
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katkattat/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katkattat/)*

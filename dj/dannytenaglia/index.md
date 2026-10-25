@@ -1,14 +1,13 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Superior Ingredients, New York City on Sat, 24 Oct 2026.
+Danny Tenaglia is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Stereo, Montreal on Sat, 31 Oct 2026.
 
-Danny Tenaglia is a house and techno artist based in United States of America, with 118 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 32 more. Often billed alongside Brandon Block, Darren Emerson and John Course. Next up: Superior Ingredients, New York City on Sat 24 Oct.
+Danny Tenaglia is a house and techno artist based in United States of America, with 118 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 32 more. Often billed alongside Brandon Block, Darren Emerson and John Course. Next up: Stereo, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Superior Ingredients | New York City |
 | Sat, 31 Oct 2026 | Stereo | Montreal |
 | Sat, 14 Nov 2026 | The Barbary | Philadelphia |
 | Fri, 4 Dec 2026 | Sub Club | Glasgow |
@@ -18,6 +17,7 @@ Danny Tenaglia is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- Superior Ingredients, New York City · Sat, 24 Oct 2026
 - TBA - Ciudad Universitaria, Belgrano, Buenos Aires · Sat, 17 Oct 2026
 - Studio Club Malaga, Malaga · Sat, 3 Oct 2026
 - Studio Club Malaga, Malaga · Sat, 3 Oct 2026
@@ -25,10 +25,9 @@ Danny Tenaglia is a house and techno artist based in United States of America, w
 - Knockdown Center, New York City · Sat, 5 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 30 Aug 2026
 - Belmont Veterans Memorial Pier, Los Angeles · Sun, 16 Aug 2026
-- The Timber Yard, Melbourne · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Brandon Block, Darren Emerson, John Course
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

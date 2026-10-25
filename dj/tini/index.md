@@ -1,6 +1,6 @@
 # tINI
 
-tINI is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+tINI is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 tINI is a house and techno artist based in Germany, with 263 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 67 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ tINI is a house and techno artist based in Germany, with 263 gigs on soundcheck 
 
 Gene On Earth, Anthea, Dyed Soundorom
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*

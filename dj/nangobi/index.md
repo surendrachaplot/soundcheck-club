@@ -1,6 +1,6 @@
 # NANGOBI
 
-NANGOBI is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
+NANGOBI is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
 
 NANGOBI is a techno and tech house artist based in Uganda, with 8 gigs on soundcheck across Chicago. Often billed alongside ATT1C, dirtymoney and Amotik. Next up: TBA, Chicago on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ NANGOBI is a techno and tech house artist based in Uganda, with 8 gigs on soundc
 
 ATT1C, dirtymoney, Amotik
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nangobi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nangobi/)*

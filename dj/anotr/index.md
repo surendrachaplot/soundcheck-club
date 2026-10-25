@@ -1,20 +1,20 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
+ANOTR is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Ace*Mission Studios - Under The 6th Street Bridge, Los Angeles on Fri, 30 Oct 2026.
 
-ANOTR is a house and tech house artist based in Netherlands, with 162 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 37 more. Often billed alongside Seth Troxler, Dennis Cruz and Chloé Caillet. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
+ANOTR is a house and tech house artist based in Netherlands, with 162 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 37 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Ace*Mission Studios - Under The 6th Street Bridge, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Fri, 30 Oct 2026 | Ace*Mission Studios - Under The 6th Street Bridge | Los Angeles |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sat, 28 Nov 2026 | TBA - Estadio Fray Nano  | Mexico City |
 
 ## Recently played
 
+- Taets Art & Event Park, Amsterdam · Sat, 24 Oct 2026
 - TBA - Passeio Marítimo de Algés, Portugal, Lisbon · Sat, 10 Oct 2026
 - TBA, Central · Fri, 2 Oct 2026
 - [UNVRS], Ibiza · Tue, 29 Sept 2026
@@ -22,10 +22,9 @@ ANOTR is a house and tech house artist based in Netherlands, with 162 gigs on so
 - Hï Ibiza, Ibiza · Sat, 19 Sept 2026
 - Alexandra Palace, London · Fri, 18 Sept 2026
 - Alexandra Palace, London · Thu, 17 Sept 2026
-- Universidad Autónoma de Madrid (UAM), Madrid · Sat, 12 Sept 2026
 
 ## Shares bills with
 
-Seth Troxler, Dennis Cruz, Chloé Caillet
+Seth Troxler, Dennis Cruz, Toman
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*

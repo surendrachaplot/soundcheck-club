@@ -1,6 +1,6 @@
 # Potions
 
-Potions is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at smartbar, Chicago on Thu, 19 Nov 2026.
+Potions is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at smartbar, Chicago on Thu, 19 Nov 2026.
 
 Potions is a bass and dubstep artist based in United States of America, with 11 gigs on soundcheck across Atlanta, Chicago, Detroit and Los Angeles and 4 more. Often billed alongside Player Dave, Hamdi and Mark Grusane. Next up: smartbar, Chicago on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Potions is a bass and dubstep artist based in United States of America, with 11 
 
 Player Dave, Hamdi, Mark Grusane
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/potions/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/potions/)*

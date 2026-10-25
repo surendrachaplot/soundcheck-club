@@ -1,6 +1,6 @@
 # JOA (IT)
 
-JOA (IT) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+JOA (IT) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 JOA (IT) is a techno and experimental artist based in Italy, with 20 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ibiza and 6 more. Often billed alongside Virginia W, Aaron Hibell and Alesso. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ JOA (IT) is a techno and experimental artist based in Italy, with 20 gigs on sou
 
 Virginia W, Aaron Hibell, Alesso
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joait/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joait/)*

@@ -1,6 +1,6 @@
 # Dylan Griffin
 
-Dylan Griffin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
+Dylan Griffin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
 
 Dylan Griffin is a house and techno artist based in Australia, with 28 gigs on soundcheck across Auckland, Melbourne and Sydney. Often billed alongside Mike Callander, Acid Safari and Jozef Conor. Next up: Revolver Upstairs, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dylan Griffin is a house and techno artist based in Australia, with 28 gigs on s
 
 Mike Callander, Acid Safari, Jozef Conor
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylangriffin/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylangriffin/)*

@@ -1,6 +1,6 @@
 # Mossambi
 
-Mossambi is a Experimental and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Cu, London on Fri, 27 Nov 2026.
+Mossambi is a Experimental and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cu, London on Fri, 27 Nov 2026.
 
 Mossambi is an experimental and dubstep artist, with 12 gigs on soundcheck across Bristol and London. Often billed alongside Izzi, A.L.F and Avran. Next up: Cu, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mossambi is an experimental and dubstep artist, with 12 gigs on soundcheck acros
 
 Izzi, A.L.F, Avran
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mossambi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mossambi/)*

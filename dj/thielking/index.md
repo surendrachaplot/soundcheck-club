@@ -1,6 +1,6 @@
 # Thielking
 
-Thielking is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
+Thielking is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
 
 Thielking is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Berlin and Munich. Often billed alongside Ravejezuz, DJ Paradox and Trash Bandit. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Thielking is a trance and techno artist based in Germany, with 14 gigs on soundc
 
 Ravejezuz, DJ Paradox, Trash Bandit
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thielking/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thielking/)*

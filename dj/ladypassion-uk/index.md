@@ -1,6 +1,6 @@
 # Lady Passion
 
-Lady Passion is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 31 Oct 2026.
+Lady Passion is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 31 Oct 2026.
 
 Lady Passion is a garage and house artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dublin and 8 more. Often billed alongside DJ Perception, Jeremy Sylvester and Neffa-T. Next up: Starlane Pizza Bar, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Lady Passion is a garage and house artist based in United Kingdom, with 76 gigs 
 
 DJ Perception, Jeremy Sylvester, Neffa-T
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladypassion-uk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladypassion-uk/)*

@@ -1,6 +1,6 @@
 # KUNPEI
 
-KUNPEI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 27 Oct 2026.
+KUNPEI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 27 Oct 2026.
 
 KUNPEI is a techno and house artist based in Japan, with 35 gigs on soundcheck across Tokyo. Often billed alongside AMIDAdrive, LogicBeat and Rickey Shannon. Next up: Enter Shibuya, Tokyo on Tue 27 Oct.
 
@@ -26,4 +26,4 @@ KUNPEI is a techno and house artist based in Japan, with 35 gigs on soundcheck a
 
 AMIDAdrive, LogicBeat, Rickey Shannon
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kunpei/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kunpei/)*

@@ -1,6 +1,6 @@
 # Sandrien
 
-Sandrien is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Sandrien is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 Sandrien is a techno and house artist based in Netherlands, with 186 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 41 more. Often billed alongside DVS1, JakoJako and Fafi Abdel Nour. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ Sandrien is a techno and house artist based in Netherlands, with 186 gigs on sou
 
 DVS1, JakoJako, Fafi Abdel Nour
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*

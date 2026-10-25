@@ -1,6 +1,6 @@
 # Cher Semain
 
-Cher Semain is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Yellow House, Amsterdam on Sun, 25 Oct 2026.
+Cher Semain is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Yellow House, Amsterdam on Sun, 25 Oct 2026.
 
 Cher Semain is a house and tech house artist, with 22 gigs on soundcheck across Amsterdam, Ibiza, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Philou Louzolo and Ammé. Next up: Yellow House, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Cher Semain is a house and tech house artist, with 22 gigs on soundcheck across 
 
 Benny Rodrigues, Philou Louzolo, Ammé
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chersemain/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chersemain/)*

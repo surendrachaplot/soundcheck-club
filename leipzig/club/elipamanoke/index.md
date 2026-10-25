@@ -1,15 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Red Harmony" on Fri, 23 Oct 2026.
+elipamanoke is a music venue in Leipzig with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "2 JAHRE NACHLEGEN" on Sun, 25 Oct 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 17 upcoming gigs, with line-ups including :MUMM, Acid Goldee, Aio and a:technuk and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming gigs, with line-ups including :MUMM, Acid Goldee, Aio and a:technuk and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Red Harmony |  |
-| Sat, 24 Oct 2026 | SUGARBASS |  |
 | Sun, 25 Oct 2026 | 2 JAHRE NACHLEGEN | Hypnosta, KREONE, MIDNXGHT, UNTENLINKS |
 | Wed, 28 Oct 2026 | between x Soft Violence | Mariposa x Lyra, Richie Rollin, VLUNA |
 | Fri, 30 Oct 2026 | Trancegedance - Halloween Special | Acid Goldee, GoaGraf, ch4r20tte, monotony |
@@ -18,9 +16,11 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 17 upcoming gigs, 
 | Sat, 7 Nov 2026 | 5YEARS PRAXIS13.5 | CAVEN, Humanoizer, Hypnosta, MOFS, Malena (2), Maze DK, NACHTIGALL, Napakee, Neptune, Regent |
 | Tue, 17 Nov 2026 | SUBØHM x eli pres. Lola Cerise | DJ STIMULA, DYNASTY, KREONE, Lola Cerise, Mascha Roth, SubkoØne |
 | Fri, 20 Nov 2026 | soft & HARD CRUSH | Cat-J, DYNASTY, KETA PERRY, LYZI, PyjamaMama, meowmeyer |
+| Sat, 21 Nov 2026 | KOSMOS with Mehr is Mehr | Aio, Fennek, GIANNA, Mehr is Mehr, Randali, Shabiki |
+| Sat, 28 Nov 2026 | newfaces – weekend edition |  |
 
 ## Address
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

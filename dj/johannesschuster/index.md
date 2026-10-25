@@ -1,6 +1,6 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Sun, 25 Oct 2026.
+Johannes Schuster is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Sun, 25 Oct 2026.
 
 Johannes Schuster is a techno and trance artist based in Germany, with 241 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 58 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Warehouse Elementenstraat, Amsterdam on Sun 25 Oct.
 
@@ -36,4 +36,4 @@ Johannes Schuster is a techno and trance artist based in Germany, with 241 gigs 
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

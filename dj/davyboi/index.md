@@ -1,14 +1,13 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+davyboi is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 25 Oct 2026.
 
-davyboi is a techno and trance artist based in Germany, with 197 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Cleopard2000, Mika Heggemann and Trancemaster Krause. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+davyboi is a techno and trance artist based in Germany, with 197 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Cleopard2000, Mika Heggemann and Trancemaster Krause. Next up: Thuishaven, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 30 Oct 2026 | Boogaloo | Zagreb |
 | Sat, 31 Oct 2026 | Werksviertel Mitte | Munich |
@@ -35,4 +34,4 @@ davyboi is a techno and trance artist based in Germany, with 197 gigs on soundch
 
 Cleopard2000, Mika Heggemann, Trancemaster Krause
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

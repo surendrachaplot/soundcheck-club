@@ -1,6 +1,6 @@
 # XENEA LUMRA
 
-XENEA LUMRA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bike Jesus, Prague on Sat, 31 Oct 2026.
+XENEA LUMRA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bike Jesus, Prague on Sat, 31 Oct 2026.
 
 XENEA LUMRA is a techno and trance artist based in Czech Republic, with 15 gigs on soundcheck across Prague. Often billed alongside Katrixia, SAVBEA and Big Lil. Next up: Bike Jesus, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ XENEA LUMRA is a techno and trance artist based in Czech Republic, with 15 gigs 
 
 Katrixia, SAVBEA, Big Lil
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xenealumra/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xenealumra/)*

@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Felipe Valenzuela + Pin / Bar: Cosy O & Dj Lance" on Sat, 24 Oct 2026.
+Oven Club is a music venue in Valencia with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Soumz" on Wed, 28 Oct 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 6 upcoming gigs, with line-ups including Blanch, CAMMMMM, Chico Blanco and Felipe Valenzuela and 2 more. See dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 5 upcoming gigs, with line-ups including Blanch, CAMMMMM, Chico Blanco and Tommaso Pizzelli and 1 more. See dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Felipe Valenzuela + Pin / Bar: Cosy O & Dj Lance | Felipe Valenzuela |
 | Wed, 28 Oct 2026 | Soumz |  |
 | Thu, 29 Oct 2026 | &MØRE + KAI LEWIS + JO$S |  |
 | Fri, 30 Oct 2026 | N&O + Blanch + Tommaso Pizzelli / Bar: Fingerlickin' Good Collective | Blanch, Tommaso Pizzelli (2) |
@@ -19,4 +18,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 6 upcoming gigs, wi
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

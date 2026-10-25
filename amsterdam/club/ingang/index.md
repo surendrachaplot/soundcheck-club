@@ -1,6 +1,6 @@
 # ingang
 
-ingang is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "noclubs presents: the return of yes clubs" on Sat, 24 Oct 2026.
+ingang is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "noclubs presents: the return of yes clubs" on Sat, 24 Oct 2026.
 
 ingang is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including ADHI, Alex Downey, Casio the Calculator and deep creep and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 86, Amsterdam, The Netherlands.
 
@@ -15,4 +15,4 @@ ingang is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with
 
 Gedempt Hamerkanaal 86, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ingang/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ingang/)*

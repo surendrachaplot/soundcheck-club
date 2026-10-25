@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Honcho H0L0 Takeover" on Sat, 24 Oct 2026.
+H0L0 is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Honcho H0L0 Takeover" on Sat, 24 Oct 2026.
 
 H0L0 is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including 999ADJ, Amarji King, Argenis Brito and Armii1n and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in New York City listed on soundcheck. 13 upcoming gigs, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

@@ -1,18 +1,18 @@
 # PBR Streetgang
 
-PBR Streetgang is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Golden Lion, Manchester on Sat, 24 Oct 2026.
+PBR Streetgang is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Metro's Sports and Social Club, Manchester on Sat, 31 Oct 2026.
 
-PBR Streetgang is a house and disco artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside Crazy P, James Holroyd and Alexis Raphael. Next up: The Golden Lion, Manchester on Sat 24 Oct.
+PBR Streetgang is a house and disco artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside Crazy P, James Holroyd and Alexis Raphael. Next up: Metro's Sports and Social Club, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | The Golden Lion | Manchester |
 | Sat, 31 Oct 2026 | Metro's Sports and Social Club | Manchester |
 
 ## Recently played
 
+- The Golden Lion, Manchester · Sat, 24 Oct 2026
 - Mssng Pieces, London · Sat, 3 Oct 2026
 - Cobalt Studios, Newcastle · Fri, 28 Aug 2026
 - Cobalt Studios, Newcastle · Fri, 28 Aug 2026
@@ -20,10 +20,9 @@ PBR Streetgang is a house and disco artist based in United Kingdom, with 45 gigs
 - Sawmills, Bristol · Sat, 27 Jun 2026
 - The Golden Lion, Manchester · Sat, 6 Jun 2026
 - LDN East, London · Sun, 3 May 2026
-- The Light Bar, London · Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Crazy P, James Holroyd, Alexis Raphael
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pbrstreetgang/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pbrstreetgang/)*

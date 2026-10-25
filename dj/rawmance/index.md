@@ -1,6 +1,6 @@
 # Rawmance
 
-Rawmance is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - The Red Roof Chuch (132 Av President Kennedy), Montreal on Sat, 7 Nov 2026.
+Rawmance is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - The Red Roof Chuch (132 Av President Kennedy), Montreal on Sat, 7 Nov 2026.
 
 Rawmance is a techno and electronica artist, with 23 gigs on soundcheck across Mexico City, Montreal, New York City and Poznan and 3 more. Often billed alongside Asymmetrical, Alessandro Adriani and CPR Annie. Next up: TBA - The Red Roof Chuch (132 Av President Kennedy), Montreal on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Rawmance is a techno and electronica artist, with 23 gigs on soundcheck across M
 
 Asymmetrical, Alessandro Adriani, CPR Annie
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawmance/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawmance/)*

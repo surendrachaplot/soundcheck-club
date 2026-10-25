@@ -1,6 +1,6 @@
 # Jstin*sss
 
-Jstin*sss is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Pawnshop, Taipei on Thu, 29 Oct 2026.
+Jstin*sss is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Pawnshop, Taipei on Thu, 29 Oct 2026.
 
 Jstin*sss is an electronic artist, with 6 gigs on soundcheck across Taipei. Often billed alongside Jesse Chen, Raina and F.G.D.. Next up: Pawnshop, Taipei on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ Jstin*sss is an electronic artist, with 6 gigs on soundcheck across Taipei. Ofte
 
 Jesse Chen, Raina, F.G.D.
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jstinsss/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jstinsss/)*

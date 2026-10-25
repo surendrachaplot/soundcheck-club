@@ -1,6 +1,6 @@
 # Pablo Ceballos
 
-Pablo Ceballos is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Superior Ingredients, New York City on Sun, 29 Nov 2026.
+Pablo Ceballos is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Superior Ingredients, New York City on Sun, 29 Nov 2026.
 
 Pablo Ceballos is a house and tech house artist, with 23 gigs on soundcheck across Madrid, Miami, Montreal and New York City and 4 more. Often billed alongside Oscar G, VYNX and ANNYA. Next up: Superior Ingredients, New York City on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Pablo Ceballos is a house and tech house artist, with 23 gigs on soundcheck acro
 
 Oscar G, VYNX, ANNYA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloceballos/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloceballos/)*

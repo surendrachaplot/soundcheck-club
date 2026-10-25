@@ -1,14 +1,13 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang" on Sat, 24 Oct 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Club Tineke Halloween - SISSI'S Amsterdam" on Fri, 30 Oct 2026.
 
-SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including A For Alpha, bebe bad, Benny Rodrigues and Berkan V8 and 2 more. See dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
+SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Benny Rodrigues, Cas Tang, Hayley Zalassi and Ive Lovers and 2 more. See dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Sissi's ADE Saturday w/ Champion, Berkan b2b Maruwa, Doppelgang | A For Alpha, Berkan V8, Champion, Doppelgang, JAEL, MALLAURY, Maruwa, PAURRO, The Flexican, William Kiss, bebe bad |
 | Fri, 30 Oct 2026 | Club Tineke Halloween - SISSI'S Amsterdam | Benny Rodrigues, Cas Tang, Hayley Zalassi, Ive Lovers, Lasse Top, Lewis Carroll |
 | Sat, 31 Oct 2026 | Sissi's Halloween by Slimradio |  |
 | Fri, 6 Nov 2026 | Sissi's Friday w/ KUMO & Tera Kora invites King Doudou |  |
@@ -21,4 +20,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 8 upcoming
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

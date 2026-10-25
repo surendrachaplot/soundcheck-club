@@ -1,6 +1,6 @@
 # Dj Fucci
 
-Dj Fucci is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Prvert Club, Monterrey on Sat, 31 Oct 2026.
+Dj Fucci is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Prvert Club, Monterrey on Sat, 31 Oct 2026.
 
 Dj Fucci is a techno and house artist based in Mexico, with 121 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 19 more. Often billed alongside sadgal, Enya Botello and Octoptic. Next up: Prvert Club, Monterrey on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dj Fucci is a techno and house artist based in Mexico, with 121 gigs on soundche
 
 sadgal, Enya Botello, Octoptic
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfucci/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfucci/)*

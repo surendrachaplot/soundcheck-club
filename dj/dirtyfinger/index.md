@@ -1,6 +1,6 @@
 # Dirtyfinger
 
-Dirtyfinger is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mood Ring, New York City on Fri, 13 Nov 2026.
+Dirtyfinger is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mood Ring, New York City on Fri, 13 Nov 2026.
 
 Dirtyfinger is a house and disco artist based in United States of America, with 21 gigs on soundcheck across New York City. Often billed alongside BUNZ, DJ Primo and Peregrine (US). Next up: Mood Ring, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dirtyfinger is a house and disco artist based in United States of America, with 
 
 BUNZ, DJ Primo, Peregrine (US)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyfinger/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyfinger/)*

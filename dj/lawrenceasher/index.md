@@ -1,6 +1,6 @@
 # Lawrence Asher
 
-Lawrence Asher is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at feedbk, New York City on Sat, 24 Oct 2026.
+Lawrence Asher is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at feedbk, New York City on Sat, 24 Oct 2026.
 
 Lawrence Asher is a house and minimal artist based in France, with 24 gigs on soundcheck across Amsterdam, Bangkok, Berlin and New York City and 3 more. Often billed alongside Niff, Brasi and Jack D. Next up: feedbk, New York City on Sat 24 Oct.
 
@@ -12,6 +12,7 @@ Lawrence Asher is a house and minimal artist based in France, with 24 gigs on so
 
 ## Recently played
 
+- feedbk, New York City · Sat, 24 Oct 2026
 - Bar Dancing Multipla, Amsterdam · Sat, 13 Jun 2026
 - Else, Berlin · Fri, 29 May 2026
 - Paloma, Berlin · Sat, 25 Apr 2026
@@ -19,10 +20,9 @@ Lawrence Asher is a house and minimal artist based in France, with 24 gigs on so
 - Sonnenraum, Berlin · Fri, 30 Jan 2026
 - Under Bron, Stockholm · Sat, 11 Oct 2025
 - Daikanyama ORD., Tokyo · Fri, 26 Sept 2025
-- Elsewhere, Bangkok · Fri, 19 Sept 2025
 
 ## Shares bills with
 
 Niff, Brasi, Jack D
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrenceasher/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrenceasher/)*

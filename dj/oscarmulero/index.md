@@ -1,33 +1,32 @@
 # Oscar Mulero
 
-Oscar Mulero is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+Oscar Mulero is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hive Club, Zurich on Fri, 30 Oct 2026.
 
-Oscar Mulero is a techno and house artist based in Spain, with 174 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Ben Sims, Adriana Lopez and DVS1. Next up: Havenpark, Amsterdam on Sat 24 Oct.
+Oscar Mulero is a techno and house artist based in Spain, with 175 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Ben Sims, Adriana Lopez and DVS1. Next up: Hive Club, Zurich on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
-| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Fri, 30 Oct 2026 | Hive Club | Zurich |
 | Sat, 31 Oct 2026 | Nitsa Club | Barcelona |
 | Fri, 13 Nov 2026 | Poolen | Copenhagen |
+| Sat, 14 Nov 2026 | Circolo Amelia | Milan |
 | Sat, 21 Nov 2026 | Industrial Copera | South |
 
 ## Recently played
 
+- Havenpark, Amsterdam · Sat, 24 Oct 2026
+- Havenpark, Amsterdam · Sat, 24 Oct 2026
 - Bajes Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - IFEMA, Madrid · Fri, 18 Sept 2026
 - IFEMA, Madrid · Fri, 18 Sept 2026
 - The Bassement, Madrid · Fri, 18 Sept 2026
 - Fvtvr, Paris · Fri, 18 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin · Fri, 14 Aug 2026
-- RADION, Amsterdam · Sun, 2 Aug 2026
 
 ## Shares bills with
 
 Ben Sims, Adriana Lopez, DVS1
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*

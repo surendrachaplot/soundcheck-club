@@ -1,6 +1,6 @@
 # Pariah
 
-Pariah is a Techno and Bass artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Pariah is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 Pariah is a techno and bass artist based in United Kingdom, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside mad miran, Verraco and Blawan. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -9,8 +9,6 @@ Pariah is a techno and bass artist based in United Kingdom, with 181 gigs on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
-| Sat, 24 Oct 2026 | Klaproos | Amsterdam |
-| Sat, 24 Oct 2026 | Radio Radio | Amsterdam |
 | Fri, 30 Oct 2026 | Ankali & Planeta Za | Prague |
 | Fri, 6 Nov 2026 | Marble Bar | Detroit |
 | Fri, 6 Nov 2026 | TRANSMISSION DC | Washington DC |
@@ -23,17 +21,17 @@ Pariah is a techno and bass artist based in United Kingdom, with 181 gigs on sou
 
 ## Recently played
 
+- Klaproos, Amsterdam · Sat, 24 Oct 2026
+- Radio Radio, Amsterdam · Sat, 24 Oct 2026
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
 - export, Rotterdam · Fri, 16 Oct 2026
 - OHM, Berlin · Fri, 9 Oct 2026
 - Cadavra, Madrid · Thu, 1 Oct 2026
 - Gaffe, London · Sat, 19 Sept 2026
 - FOLD, London · Fri, 14 Aug 2026
-- Ääniwalli, Helsinki · Fri, 14 Aug 2026
-- TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 mad miran, Verraco, Blawan
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*

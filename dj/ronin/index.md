@@ -1,6 +1,6 @@
 # Ronin
 
-Ronin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Ronin is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
 Ronin is a house and tech house artist, with 15 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dubai and 5 more. Often billed alongside John Bowtie, Paul Svenson and Abaque. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ronin is a house and tech house artist, with 15 gigs on soundcheck across Amster
 
 John Bowtie, Paul Svenson (2), Abaque
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronin/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronin/)*

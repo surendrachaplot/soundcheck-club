@@ -1,14 +1,13 @@
 # Ian Asher
 
-Ian Asher is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Concourse Project, Austin on Sat, 24 Oct 2026.
+Ian Asher is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
-Ian Asher is a house and tech house artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Austin, Boston and Brisbane and 23 more. Often billed alongside KREAM, Alok and Azyr. Next up: The Concourse Project, Austin on Sat 24 Oct.
+Ian Asher is a house and tech house artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Austin, Boston and Brisbane and 23 more. Often billed alongside KREAM, Alok and Azyr. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | The Concourse Project | Austin |
 | Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
@@ -19,6 +18,7 @@ Ian Asher is a house and tech house artist based in United States of America, wi
 
 ## Recently played
 
+- The Concourse Project, Austin · Sat, 24 Oct 2026
 - Big Night Live, Boston · Sat, 12 Sept 2026
 - LIV Nightclub Miami, Miami · Sat, 25 Jul 2026
 - Ushuaïa Ibiza, Ibiza · Mon, 20 Jul 2026
@@ -26,10 +26,9 @@ Ian Asher is a house and tech house artist based in United States of America, wi
 - NOS Event Center, Los Angeles · Fri, 27 Mar 2026
 - Q Nightclub, Seattle · Sat, 10 Jan 2026
 - Elektricity, Detroit · Sat, 13 Dec 2025
-- Loo Loo, Mexico City · Sat, 4 Oct 2025
 
 ## Shares bills with
 
 KREAM, Alok, Azyr
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*

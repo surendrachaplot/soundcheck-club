@@ -1,6 +1,6 @@
 # Hinode
 
-Hinode is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
+Hinode is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
 Hinode is a psytrance and techno artist, with 11 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Mars89, Rickshinmi and TEI TEI. Next up: Kinone Pension, Kanto on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Hinode is a psytrance and techno artist, with 11 gigs on soundcheck across Kanto
 
 Mars89, Rickshinmi, TEI TEI
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode/)*

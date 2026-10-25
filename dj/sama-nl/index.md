@@ -1,6 +1,6 @@
 # SAMA (NL)
 
-SAMA (NL) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+SAMA (NL) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 SAMA (NL) is a techno and house artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Colombia, Gothenburg and Ibiza and 7 more. Often billed alongside Vera Grace, SHE/HER and Delano Legito. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ SAMA (NL) is a techno and house artist based in Netherlands, with 38 gigs on sou
 
 Vera Grace, SHE/HER, Delano Legito
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sama-nl/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sama-nl/)*

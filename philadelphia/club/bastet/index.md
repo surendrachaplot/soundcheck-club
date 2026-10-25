@@ -1,14 +1,13 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Club Congress with Clubby Boy ALL NITE LONG" on Sat, 24 Oct 2026.
+Bastet is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "BASTET PRESENTS: Traxx, Sight -Beyond- Sound || DJ Jamz, Dommis, Lady JMW" on Fri, 30 Oct 2026.
 
-Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including America Loves Me, Big Queso, Coffintexts and Cowa and 2 more. See dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
+Bastet is a music venue in Philadelphia listed on soundcheck. 5 upcoming gigs, with line-ups including Big Queso, Coffintexts, Cowa and Cubby and 2 more. See dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Club Congress with Clubby Boy ALL NITE LONG | America Loves Me, DJ Matpat, miipmiip |
 | Fri, 30 Oct 2026 | BASTET PRESENTS: Traxx, Sight -Beyond- Sound // DJ Jamz, Dommis, Lady JMW | DJ Dommis, Sight -Beyond- Sound, Traxx |
 | Sat, 31 Oct 2026 | HALLOWBEAM | Coffintexts, Cubby, Cyrus (PHL), JEWELSSEA, KYRUH, SHUGAZI |
 | Fri, 6 Nov 2026 | BASTET PRESENTS: Regal 86 | Regal86 |
@@ -19,4 +18,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, w
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

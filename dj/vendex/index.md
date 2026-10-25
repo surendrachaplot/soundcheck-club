@@ -1,14 +1,13 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 821 Runnymede Rd, Toronto on Sat, 24 Oct 2026.
+Vendex is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
-Vendex is a techno and industrial artist based in Spain, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside CARV, Alignment and Azyr. Next up: 821 Runnymede Rd, Toronto on Sat 24 Oct.
+Vendex is a techno and industrial artist based in Spain, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside CARV, Alignment and Azyr. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | 821 Runnymede Rd | Toronto |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Fri, 30 Oct 2026 | Edinburgh Corn Exchange | Edinburgh |
 | Fri, 30 Oct 2026 | Edinburgh Corn Exchange | Edinburgh |
@@ -20,9 +19,11 @@ Vendex is a techno and industrial artist based in Spain, with 226 gigs on soundc
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 12 Dec 2026 | Kompass Klub | Ghent |
 | Sat, 19 Dec 2026 | Hans Bunte Areal | Freiburg |
+| Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played
 
+- 821 Runnymede Rd, Toronto · Sat, 24 Oct 2026
 - Brooklyn Roots Collective, New York City · Fri, 23 Oct 2026
 - Basel Venue, Santiago · Fri, 16 Oct 2026
 - Index, Dublin · Fri, 9 Oct 2026
@@ -30,10 +31,9 @@ Vendex is a techno and industrial artist based in Spain, with 226 gigs on soundc
 - Tama, Poznan · Fri, 25 Sept 2026
 - Son Fusteret, Mallorca · Sat, 19 Sept 2026
 - The Limelight, Belfast · Sat, 12 Sept 2026
-- Gate Milano, Milan · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 CARV, Alignment, Azyr
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

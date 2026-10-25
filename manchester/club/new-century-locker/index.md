@@ -1,14 +1,13 @@
 # New Century Locker
 
-New Century Locker is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Izco" on Sat, 24 Oct 2026.
+New Century Locker is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Decius (Live)" on Fri, 30 Oct 2026.
 
-New Century Locker is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Decius, Dennis Bovell, Egyptian Lover and Hannah Holland and 2 more. See dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
+New Century Locker is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Decius, Dennis Bovell, Egyptian Lover and Hannah Holland and 2 more. See dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Izco | Izco |
 | Fri, 30 Oct 2026 | Decius (Live) | Decius |
 | Fri, 6 Nov 2026 | Two Shell | Two Shell |
 | Sat, 7 Nov 2026 | Soichi Terada presents Sumo x Apes | Soichi Terada |
@@ -18,9 +17,10 @@ New Century Locker is a music venue in Manchester listed on soundcheck. 12 upcom
 | Fri, 4 Dec 2026 | Joe-Armon Jones & Maxwell Owin | Joe Armon-Jones, Maxwell Owin |
 | Sat, 5 Dec 2026 | Jyoty | Jyoty |
 | Fri, 11 Dec 2026 | Heidi | Heidi |
+| Thu, 31 Dec 2026 | NYE: Kylie Wears Berghaus | Hannah Holland, KURLZ, Kylie Wears Berghaus |
 
 ## Address
 
 34 Hanover St Manchester M4 4AH, Manchester
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*

@@ -1,6 +1,6 @@
 # JayMe
 
-JayMe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Acadana, Hong Kong on Sat, 21 Nov 2026.
+JayMe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Acadana, Hong Kong on Sat, 21 Nov 2026.
 
 JayMe is a house and techno artist based in China, with 43 gigs on soundcheck across Florence and Hong Kong. Often billed alongside Andy-S, The Heman and Jeremy Cheung. Next up: Acadana, Hong Kong on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ JayMe is a house and techno artist based in China, with 43 gigs on soundcheck ac
 
 Andy-S, The Heman, Jeremy Cheung
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayme/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayme/)*

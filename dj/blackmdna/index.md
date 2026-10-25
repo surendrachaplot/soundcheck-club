@@ -1,6 +1,6 @@
 # BLACKMDNA
 
-BLACKMDNA is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ground Floor, Philadelphia on Thu, 29 Oct 2026.
+BLACKMDNA is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ground Floor, Philadelphia on Thu, 29 Oct 2026.
 
 BLACKMDNA is a club and hip-hop artist based in United States of America, with 18 gigs on soundcheck across New York City and Philadelphia. Often billed alongside magglezzz, Krispy and SOUNDBWOY. Next up: Ground Floor, Philadelphia on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ BLACKMDNA is a club and hip-hop artist based in United States of America, with 1
 
 magglezzz, Krispy, SOUNDBWOY
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmdna/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmdna/)*

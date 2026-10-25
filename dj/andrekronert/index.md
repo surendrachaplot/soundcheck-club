@@ -1,6 +1,6 @@
 # Andre Kronert
 
-Andre Kronert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
+Andre Kronert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
 
 Andre Kronert is a techno and house artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Berlin, Cologne and Detroit and 5 more. Often billed alongside Claus Bachor, Edgar Peng and 909 RACING TEAM. Next up: Noorderlicht Café, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Andre Kronert is a techno and house artist based in Germany, with 12 gigs on sou
 
 Claus Bachor, Edgar Peng, 909 RACING TEAM
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrekronert/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrekronert/)*

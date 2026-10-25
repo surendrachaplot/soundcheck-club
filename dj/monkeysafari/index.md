@@ -1,6 +1,6 @@
 # Monkey Safari
 
-Monkey Safari is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 14 Nov 2026.
+Monkey Safari is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 14 Nov 2026.
 
 Monkey Safari is a house and techno artist based in Germany, with 120 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 39 more. Often billed alongside Einmusik, Nora En Pure and Surreal Flight. Next up: Ritter Butzke, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Monkey Safari is a house and techno artist based in Germany, with 120 gigs on so
 
 Einmusik, Nora En Pure, Surreal Flight
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*

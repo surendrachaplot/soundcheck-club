@@ -1,6 +1,6 @@
 # Flaiv Đarkø
 
-Flaiv Đarkø is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Superlove, Milan on Thu, 29 Oct 2026.
+Flaiv Đarkø is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Superlove, Milan on Thu, 29 Oct 2026.
 
 Flaiv Đarkø is a techno and hardcore artist based in Italy, with 33 gigs on soundcheck across Milan. Often billed alongside FluffeR, Xammy and Ego-Bastia. Next up: Superlove, Milan on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Flaiv Đarkø is a techno and hardcore artist based in Italy, with 33 gigs on so
 
 FluffeR, Xammy, Ego-Bastia
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flaivdarko/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flaivdarko/)*

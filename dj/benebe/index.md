@@ -1,6 +1,6 @@
 # Benebe
 
-Benebe is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Crate Brewery, London on Sat, 7 Nov 2026.
+Benebe is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Crate Brewery, London on Sat, 7 Nov 2026.
 
 Benebe is a house and techno artist based in United Kingdom, with 61 gigs on soundcheck across London, Taipei and Tokyo. Often billed alongside Kafn, DJ Cash in Hand and Adela. Next up: Crate Brewery, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Benebe is a house and techno artist based in United Kingdom, with 61 gigs on sou
 
 Kafn, DJ Cash in Hand, Adela
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benebe/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benebe/)*

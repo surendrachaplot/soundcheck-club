@@ -1,6 +1,6 @@
 # Becking
 
-Becking is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Panama, Amsterdam on Sun, 25 Oct 2026.
+Becking is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Panama, Amsterdam on Sun, 25 Oct 2026.
 
 Becking is a house and bass artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Leeds and Manchester. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: Panama, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Becking is a house and bass artist based in Netherlands, with 18 gigs on soundch
 
 Kirilski, Pura Pachanga, Snooz
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*

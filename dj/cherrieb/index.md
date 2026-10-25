@@ -1,6 +1,6 @@
 # Cherrie B
 
-Cherrie B is a Pop and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
+Cherrie B is a Pop and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
 
 Cherrie B is a pop and experimental artist based in United Kingdom, with 8 gigs on soundcheck across Glasgow, London, Los Angeles and New York City. Often billed alongside LOVECAT, Angel Money and Anop. Next up: Colour Factory, London on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Cherrie B is a pop and experimental artist based in United Kingdom, with 8 gigs 
 
 LOVECAT, Angel Money, Anop
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrieb/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrieb/)*

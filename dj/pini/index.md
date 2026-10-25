@@ -1,6 +1,6 @@
 # PINI
 
-PINI is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sidecar, Barcelona on Sun, 25 Oct 2026.
+PINI is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Sidecar, Barcelona on Sun, 25 Oct 2026.
 
 PINI is a house and disco artist based in Spain, with 106 gigs on soundcheck across Barcelona. Often billed alongside Yves Samuel, Victor Hugo and Sonia Heis. Next up: Sidecar, Barcelona on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ PINI is a house and disco artist based in Spain, with 106 gigs on soundcheck acr
 
 Yves Samuel, Victor Hugo, Sonia Heis
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pini/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pini/)*

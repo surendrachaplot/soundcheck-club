@@ -1,6 +1,6 @@
 # Index x Omni: Apollonia at Index
 
-Index x Omni: Apollonia on Sat 28 Nov, Dublin. 1 artist: Apolonia. Electronica. See the line-up on soundcheck.
+Index x Omni: Apollonia on Sat 28 Nov, Dublin. 1 artist: Apollonia. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Index x Omni: Apollonia on Sat 28 Nov, Dublin. 1 artist: Apolonia. Electronica. 
 
 ## Line-up
 
-- Apolonia
+- Apollonia
 
 *Source: [soundcheck](https://soundcheck.club/e/2561702-index-x-omni-apollonia-at-index/)*

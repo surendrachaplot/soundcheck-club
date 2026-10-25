@@ -1,6 +1,6 @@
 # DJ Carlita
 
-DJ Carlita is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at OHM, Berlin on Fri, 18 Dec 2026.
+DJ Carlita is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at OHM, Berlin on Fri, 18 Dec 2026.
 
 DJ Carlita is a bass and techno artist based in Germany, with 22 gigs on soundcheck across Barcelona, Berlin, Bogotá and Copenhagen and 1 more. Often billed alongside cheng nwsh, Katiusha and Low End Activist. Next up: OHM, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ DJ Carlita is a bass and techno artist based in Germany, with 22 gigs on soundch
 
 cheng nwsh, Katiusha, Low End Activist
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcarlita/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcarlita/)*

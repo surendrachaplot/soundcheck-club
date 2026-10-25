@@ -1,6 +1,6 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Jayda G is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Jayda G is a house and techno artist based in Canada, with 139 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 53 more. Often billed alongside salute, Melvo Baptiste and Ewan McVicar. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Jayda G is a house and techno artist based in Canada, with 139 gigs on soundchec
 
 salute, Melvo Baptiste, Ewan McVicar
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

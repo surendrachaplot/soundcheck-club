@@ -1,6 +1,6 @@
 # Alexis mayer
 
-Alexis mayer is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 31 Oct 2026.
+Alexis mayer is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 31 Oct 2026.
 
 Alexis mayer is a house and afro house artist based in Argentina, with 17 gigs on soundcheck across Madrid. Often billed alongside Tucu (Tucu), Guidomik and TRIXXI. Next up: Under Bridge Madrid, Madrid on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Alexis mayer is a house and afro house artist based in Argentina, with 17 gigs o
 
 Tucu (Tucu), Guidomik, TRIXXI
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexismayer/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexismayer/)*

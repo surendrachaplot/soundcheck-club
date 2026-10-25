@@ -1,6 +1,6 @@
 # Scarlett (NZ)
 
-Scarlett (NZ) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Goblin, Auckland on Sun, 25 Oct 2026.
+Scarlett (NZ) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Goblin, Auckland on Sun, 25 Oct 2026.
 
 Scarlett (NZ) is a house and techno artist based in New Zealand, with 10 gigs on soundcheck across Auckland. Often billed alongside Jack Masters, Andwahn and DJ Fuckoff. Next up: Goblin, Auckland on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Scarlett (NZ) is a house and techno artist based in New Zealand, with 10 gigs on
 
 Jack Masters, Andwahn, DJ Fuckoff
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettnz/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettnz/)*

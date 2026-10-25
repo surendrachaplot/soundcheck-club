@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at public records, New York City on Sun, 25 Oct 2026.
+Kiernan Laveaux is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at public records, New York City on Sun, 25 Oct 2026.
 
 Kiernan Laveaux is a techno and house artist based in United States of America, with 172 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 30 more. Often billed alongside ADAB, Malzof and CCL. Next up: public records, New York City on Sun 25 Oct.
 
@@ -30,4 +30,4 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 
 ADAB, Malzof, CCL
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

@@ -1,6 +1,6 @@
 # Rauschhaus
 
-Rauschhaus is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 21 Nov 2026.
+Rauschhaus is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 21 Nov 2026.
 
 Rauschhaus is a techno and progressive house artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Callecat. Next up: Kaap Amsterdam, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rauschhaus is a techno and progressive house artist based in Germany, with 45 gi
 
 Markus Klee, Around Us, Callecat
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*

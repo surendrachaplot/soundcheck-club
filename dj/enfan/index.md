@@ -1,6 +1,6 @@
 # ENFAN
 
-ENFAN is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+ENFAN is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 ENFAN is a techno and hardcore artist based in United States of America, with 34 gigs on soundcheck across Antwerp, Berlin, Cologne and Karlsruhe and 7 more. Often billed alongside KARAH, Cassie Raptor and Lolalita. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ENFAN is a techno and hardcore artist based in United States of America, with 34
 
 KARAH, Cassie Raptor, Lolalita
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enfan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enfan/)*

@@ -1,6 +1,6 @@
 # Olivia Swim
 
-Olivia Swim is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
+Olivia Swim is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
 
 Olivia Swim is a techno and bass artist based in Slovenia, with 9 gigs on soundcheck across Berlin and Ljubljana. Often billed alongside DASH (SLO), Prince Lucija and DVS. Next up: Klub K4, Ljubljana on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Olivia Swim is a techno and bass artist based in Slovenia, with 9 gigs on soundc
 
 DASH (SLO), Prince Lucija, DVS
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviaswim/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviaswim/)*

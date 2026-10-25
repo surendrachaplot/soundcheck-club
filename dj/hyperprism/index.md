@@ -1,6 +1,6 @@
 # Hyperprism
 
-Hyperprism is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Solace, Melbourne on Thu, 29 Oct 2026.
+Hyperprism is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Solace, Melbourne on Thu, 29 Oct 2026.
 
 Hyperprism is a techno and deep house artist, with 7 gigs on soundcheck across Melbourne. Often billed alongside Idealist, 2 Factor Authentication and ANNX. Next up: Solace, Melbourne on Thu 29 Oct.
 
@@ -23,4 +23,4 @@ Hyperprism is a techno and deep house artist, with 7 gigs on soundcheck across M
 
 Idealist, 2 Factor Authentication, ANNX
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperprism/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperprism/)*

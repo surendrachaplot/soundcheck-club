@@ -1,6 +1,6 @@
 # Amy Wiles
 
-Amy Wiles is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Amy Wiles is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 Amy Wiles is a trance and progressive house artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Austin, Brighton and Brisbane and 17 more. Often billed alongside Leena Punks, Ferry Corsten and Billy Gillies. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ Amy Wiles is a trance and progressive house artist based in United Kingdom, with
 
 Leena Punks, Ferry Corsten, Billy Gillies
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amywiles/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amywiles/)*

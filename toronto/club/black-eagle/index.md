@@ -1,6 +1,6 @@
 # Black Eagle
 
-Black Eagle is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "pre-halloween at the Black Eagle (presented by fishtank residents)" on Fri, 30 Oct 2026.
+Black Eagle is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "pre-halloween at the Black Eagle (presented by fishtank residents)" on Fri, 30 Oct 2026.
 
 Black Eagle is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Delicious DJ, LArA and Prince Batrick. See dates, start times and who's playing. 457 Church Street, Toronto, Ontario, M4Y 2C5 CANADA.
 
@@ -14,4 +14,4 @@ Black Eagle is a music venue in Toronto listed on soundcheck. 1 upcoming gig, wi
 
 457 Church Street, Toronto, Ontario, M4Y 2C5 CANADA, Toronto
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/black-eagle/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/black-eagle/)*

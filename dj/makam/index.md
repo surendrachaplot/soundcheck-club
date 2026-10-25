@@ -1,6 +1,6 @@
 # Makam
 
-Makam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Makam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 Makam is a techno and house artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Madrid and 3 more. Often billed alongside Talismann, AMORAL and Dasha Rush. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Makam is a techno and house artist based in Netherlands, with 26 gigs on soundch
 
 Talismann, AMORAL, Dasha Rush
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makam/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makam/)*

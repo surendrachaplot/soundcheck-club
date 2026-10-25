@@ -1,6 +1,6 @@
 # Mobilegirl
 
-Mobilegirl is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at OHM, Berlin on Thu, 29 Oct 2026.
+Mobilegirl is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at OHM, Berlin on Thu, 29 Oct 2026.
 
 Mobilegirl is a club and bass artist based in Germany, with 77 gigs on soundcheck across Adelaide, Amsterdam, Basel and Beijing and 21 more. Often billed alongside Nico Adomako, Kanucia and Why Be. Next up: OHM, Berlin on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Mobilegirl is a club and bass artist based in Germany, with 77 gigs on soundchec
 
 Nico Adomako, Kanucia, Why Be
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mobilegirl/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mobilegirl/)*

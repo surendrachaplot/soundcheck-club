@@ -1,6 +1,6 @@
 # SHAW (TW)
 
-SHAW (TW) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at HQI, London on Fri, 30 Oct 2026.
+SHAW (TW) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at HQI, London on Fri, 30 Oct 2026.
 
 SHAW (TW) is a techno and house artist based in Taiwan, with 9 gigs on soundcheck across London and Taipei. Often billed alongside Angela BU, FRANK (UK) and VIDO. Next up: HQI, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SHAW (TW) is a techno and house artist based in Taiwan, with 9 gigs on soundchec
 
 Angela BU, FRANK (UK), VIDO (2)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaw-tw/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaw-tw/)*

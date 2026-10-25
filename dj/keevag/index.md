@@ -1,6 +1,6 @@
 # Keeva G
 
-Keeva G is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - SECRET LOCATION BT7, Belfast on Sat, 31 Oct 2026.
+Keeva G is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - SECRET LOCATION BT7, Belfast on Sat, 31 Oct 2026.
 
 Keeva G is a techno and house artist, with 18 gigs on soundcheck across Amsterdam, Belfast, Berlin and Cork and 3 more. Often billed alongside Cricky Lyttle, AOIFE and IndeniaL. Next up: TBA - SECRET LOCATION BT7, Belfast on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Keeva G is a techno and house artist, with 18 gigs on soundcheck across Amsterda
 
 Cricky Lyttle, AOIFE, IndeniaL
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keevag/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keevag/)*

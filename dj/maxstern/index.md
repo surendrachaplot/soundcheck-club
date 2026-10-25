@@ -1,6 +1,6 @@
 # Max Stern
 
-Max Stern is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Club Space Miami, Miami on Sun, 1 Nov 2026.
+Max Stern is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Space Miami, Miami on Sun, 1 Nov 2026.
 
 Max Stern is a tech house and house artist based in Chile, with 61 gigs on soundcheck across Miami and New York City. Often billed alongside Bakke, DIFFER and Thunderpony. Next up: Club Space Miami, Miami on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Max Stern is a tech house and house artist based in Chile, with 61 gigs on sound
 
 Bakke, DIFFER, Thunderpony
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstern/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstern/)*

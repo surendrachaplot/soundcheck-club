@@ -1,6 +1,6 @@
 # Audiolux
 
-Audiolux is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bridge 48, Barcelona on Thu, 29 Oct 2026.
+Audiolux is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bridge 48, Barcelona on Thu, 29 Oct 2026.
 
 Audiolux is a techno and electronica artist based in Spain, with 11 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Blaark, Lowsystem and MÄEM. Next up: Bridge 48, Barcelona on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Audiolux is a techno and electronica artist based in Spain, with 11 gigs on soun
 
 Blaark, Lowsystem, MÄEM
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audiolux/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audiolux/)*

@@ -1,6 +1,6 @@
 # Circa
 
-Circa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Vertigo, Toronto on Fri, 23 Oct 2026.
+Circa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Vertigo, Toronto on Fri, 23 Oct 2026.
 
 Circa is a house and tech house artist based in United Kingdom, with 13 gigs on soundcheck across Bristol, London, New York City and Toronto. Often billed alongside Jonathan Rosa, Ardalan and KIMVANITY. Next up: Vertigo, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Circa is a house and tech house artist based in United Kingdom, with 13 gigs on 
 
 Jonathan Rosa, Ardalan, KIMVANITY
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/circa/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/circa/)*

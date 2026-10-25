@@ -1,6 +1,6 @@
 # Mendel
 
-Mendel is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Doka, Amsterdam on Sun, 25 Oct 2026.
+Mendel is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Doka, Amsterdam on Sun, 25 Oct 2026.
 
 Mendel is a disco and house artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 27 more. Often billed alongside Ruby Savage, Giu Nunez and Millos Kaiser. Next up: Doka, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Mendel is a disco and house artist based in Netherlands, with 102 gigs on soundc
 
 Ruby Savage, Giu Nunez, Millos Kaiser
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.mendel/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.mendel/)*

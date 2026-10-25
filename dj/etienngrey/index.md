@@ -1,6 +1,6 @@
 # Etienn Grey
 
-Etienn Grey is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
+Etienn Grey is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
 
 Etienn Grey is a techno and ambient artist based in Czech Republic, with 28 gigs on soundcheck across Prague. Often billed alongside ishka machina, SJ Yellow and Takē. Next up: Fuchs2, Prague on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Etienn Grey is a techno and ambient artist based in Czech Republic, with 28 gigs
 
 ishka machina, SJ Yellow, Takē
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etienngrey/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etienngrey/)*

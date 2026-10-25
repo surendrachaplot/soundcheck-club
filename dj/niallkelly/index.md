@@ -1,6 +1,6 @@
 # Niall Kelly
 
-Niall Kelly is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at radial, London on Sun, 25 Oct 2026.
+Niall Kelly is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at radial, London on Sun, 25 Oct 2026.
 
 Niall Kelly is a techno and house artist based in Ireland, with 38 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dublin and 7 more. Often billed alongside Manrick Stapez, PHLOXO and HAUSBRAND. Next up: radial, London on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Niall Kelly is a techno and house artist based in Ireland, with 38 gigs on sound
 
 Manrick Stapez, PHLOXO, HAUSBRAND
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niallkelly/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niallkelly/)*

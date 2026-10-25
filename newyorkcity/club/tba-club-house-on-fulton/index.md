@@ -1,6 +1,6 @@
 # TBA - Club House on Fulton
 
-TBA - Club House on Fulton is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Sala Sessions w TORIBIO & AllthingsAda" on Sun, 25 Oct 2026.
+TBA - Club House on Fulton is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Sala Sessions w TORIBIO & AllthingsAda" on Sun, 25 Oct 2026.
 
 TBA - Club House on Fulton is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Toribio. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Club House on Fulton is a music venue in New York City listed on soundchec
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Sala Sessions w TORIBIO & AllthingsAda | Toribio |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-club-house-on-fulton/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-club-house-on-fulton/)*

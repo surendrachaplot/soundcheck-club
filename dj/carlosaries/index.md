@@ -1,18 +1,18 @@
 # Carlos Aries
 
-Carlos Aries is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Steel Yard, London on Sat, 24 Oct 2026.
+Carlos Aries is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 93 Feet East, London on Sat, 7 Nov 2026.
 
-Carlos Aries is a house and deep house artist based in United Kingdom, with 39 gigs on soundcheck across London. Often billed alongside Mark Radford, Jerome Six and Shenin Amara. Next up: The Steel Yard, London on Sat 24 Oct.
+Carlos Aries is a house and deep house artist based in United Kingdom, with 39 gigs on soundcheck across London. Often billed alongside Mark Radford, Jerome Six and Shenin Amara. Next up: 93 Feet East, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | The Steel Yard | London |
 | Sat, 7 Nov 2026 | 93 Feet East | London |
 
 ## Recently played
 
+- The Steel Yard, London · Sat, 24 Oct 2026
 - Studio 338, London · Sat, 11 Jul 2026
 - Basing House, London · Fri, 1 May 2026
 - Secret Location, London · Sun, 12 Apr 2026
@@ -20,10 +20,9 @@ Carlos Aries is a house and deep house artist based in United Kingdom, with 39 g
 - E1, London · Sun, 16 Nov 2025
 - 93 Feet East, London · Sat, 6 Sept 2025
 - Lit, London · Fri, 4 Apr 2025
-- 93 Feet East, London · Sun, 23 Mar 2025
 
 ## Shares bills with
 
 Mark Radford, Jerome Six, Shenin Amara
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosaries/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosaries/)*

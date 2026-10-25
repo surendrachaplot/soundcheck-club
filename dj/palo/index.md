@@ -1,14 +1,15 @@
 # PALØ
 
-PALØ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 74 Hall, Istanbul on Sat, 7 Nov 2026.
+PALØ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 74 Hall, Istanbul on Sat, 7 Nov 2026.
 
-PALØ is a techno and trance artist, with 30 gigs on soundcheck across Amsterdam, Athens, Belfast and Berlin and 13 more. Often billed alongside Aphøtic, AREA ØNE and Cloudy. Next up: 74 Hall, Istanbul on Sat 7 Nov.
+PALØ is a techno and hardcore artist, with 31 gigs on soundcheck across Amsterdam, Athens, Belfast and Berlin and 14 more. Often billed alongside Aphøtic, SANTØS and AREA ØNE. Next up: 74 Hall, Istanbul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | 74 Hall | Istanbul |
+| Mon, 7 Dec 2026 | Ministry Club | Medellin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ PALØ is a techno and trance artist, with 30 gigs on soundcheck across Amsterdam
 
 ## Shares bills with
 
-Aphøtic, AREA ØNE, Cloudy
+Aphøtic, SANTØS, AREA ØNE
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palo/)*

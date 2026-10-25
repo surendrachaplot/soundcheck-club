@@ -1,6 +1,6 @@
 # Julien Vertigo
 
-Julien Vertigo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at D! Club, Lausanne on Fri, 13 Nov 2026.
+Julien Vertigo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at D! Club, Lausanne on Fri, 13 Nov 2026.
 
 Julien Vertigo is a techno and electro artist, with 11 gigs on soundcheck across Basel, Geneva and Lausanne. Often billed alongside Aalson, Above & Beyond and Adrianou. Next up: D! Club, Lausanne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Julien Vertigo is a techno and electro artist, with 11 gigs on soundcheck across
 
 Aalson, Above & Beyond, Adrianou
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julienvertigo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julienvertigo/)*

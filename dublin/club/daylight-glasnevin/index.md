@@ -1,13 +1,13 @@
 # Daylight Glasnevin
 
-Daylight Glasnevin is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Lota presents: ROOMS - Release Party" on Wed, 21 Oct 2026.
+Daylight Glasnevin is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "JUNGLEGRIPS - Bushwack ViceGrips" on Sat, 14 Nov 2026.
 
-Daylight Glasnevin is a music venue in Dublin listed on soundcheck. 1 upcoming gig, with line-ups including Xenia Xamanek. See dates, start times and who's playing.
+Daylight Glasnevin is a music venue in Dublin listed on soundcheck. 1 upcoming gig, with line-ups including DETEKT. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Lota presents: ROOMS - Release Party | Xenia Xamanek |
+| Sat, 14 Nov 2026 | JUNGLEGRIPS - Bushwack ViceGrips | DETEKT |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/daylight-glasnevin/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/daylight-glasnevin/)*

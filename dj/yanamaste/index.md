@@ -1,16 +1,13 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+Yanamaste is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at SMUT Athens, Athens on Tue, 27 Oct 2026.
 
-Yanamaste is a techno and house artist based in Georgia, with 269 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 77 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Havenpark, Amsterdam on Sat 24 Oct.
+Yanamaste is a techno and house artist based in Georgia, with 269 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 77 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: SMUT Athens, Athens on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
-| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
-| Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Tue, 27 Oct 2026 | SMUT Athens | Athens |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
@@ -20,20 +17,23 @@ Yanamaste is a techno and house artist based in Georgia, with 269 gigs on soundc
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Sun, 6 Dec 2026 | The Bassement | Madrid |
 
 ## Recently played
 
+- Havenpark, Amsterdam · Sat, 24 Oct 2026
+- Havenpark, Amsterdam · Sat, 24 Oct 2026
+- Bajes Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Ääniwalli, Helsinki · Fri, 23 Oct 2026
 - Kompass Klub, Ghent · Fri, 9 Oct 2026
 - Klein Phönix, Istanbul · Sat, 3 Oct 2026
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - Q35 WAREHOUSE, Turin · Sat, 19 Sept 2026
-- IFEMA, Madrid · Fri, 18 Sept 2026
-- IFEMA, Madrid · Fri, 18 Sept 2026
-- EXIL, Zurich · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

@@ -1,15 +1,13 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 25 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "HOUSE OF LUV: HALLOWEEN SPECIAL" on Sat, 24 Oct 2026.
+Planet Wax is a music venue in London with 23 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "SUNDAY SERVICE (LIVE)" on Sun, 25 Oct 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including A.N.T, Abby Daze, Amy  B and Andy Foundations and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including A.N.T, Abby Daze, Amy  B and Andy Foundations and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | HOUSE OF LUV: HALLOWEEN SPECIAL | Boo, EMLEE |
-| Sat, 24 Oct 2026 | THE WUB CLUB	LABEL TAKEOVER | Snowy (1) |
 | Sun, 25 Oct 2026 | SUNDAY SERVICE (LIVE) | Amy  B, Dexta, Uncle G |
 | Wed, 28 Oct 2026 | OPEN DECKS |  |
 | Thu, 29 Oct 2026 | BLAK 2 FUTURE presents Dopamine | Deselecta, O.KAYE |
@@ -18,9 +16,11 @@ Planet Wax is a music venue in London listed on soundcheck. 25 upcoming gigs, wi
 | Sat, 31 Oct 2026 | Bad Intentions x Planet Wax | Layson, Madelic |
 | Sun, 1 Nov 2026 | INFRARED. FM: Sunday Sessions | Joe Joiner |
 | Thu, 5 Nov 2026 | RECREATION | A.N.T, Catch25, Kassian, Rebekah Abdeen |
+| Fri, 6 Nov 2026 | Planet Wax INC.	Two Years of 'ON AIR' | Abby Daze, Amy  B, Dexta, Sho Gabi, Uncle G |
+| Sat, 7 Nov 2026 | DILEMMA & FRIENDS: TAKEOVER Planet Wax | BCee, Winslow |
 
 ## Address
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

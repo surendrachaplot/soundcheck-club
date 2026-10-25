@@ -1,6 +1,6 @@
 # Jiminy Watts
 
-Jiminy Watts is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Last Arch, London on Fri, 20 Nov 2026.
+Jiminy Watts is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Last Arch, London on Fri, 20 Nov 2026.
 
 Jiminy Watts is a house and electro artist based in United Kingdom, with 45 gigs on soundcheck across Brighton, Bristol, London and Manchester. Often billed alongside Jacob Trip, Rolo and Elleinad. Next up: Last Arch, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Jiminy Watts is a house and electro artist based in United Kingdom, with 45 gigs
 
 Jacob Trip, Rolo (2), Elleinad
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminywatts/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminywatts/)*

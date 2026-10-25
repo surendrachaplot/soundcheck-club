@@ -1,6 +1,6 @@
 # PAYDAR
 
-PAYDAR is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at ALICE, Copenhagen on Sat, 7 Nov 2026.
+PAYDAR is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at ALICE, Copenhagen on Sat, 7 Nov 2026.
 
 PAYDAR is a club and electronica artist based in Denmark, with 23 gigs on soundcheck across Bangkok, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Dj Paydar, CHAMOS and Gavnlig. Next up: ALICE, Copenhagen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ PAYDAR is a club and electronica artist based in Denmark, with 23 gigs on soundc
 
 Dj Paydar, CHAMOS, Gavnlig
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paydar/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paydar/)*

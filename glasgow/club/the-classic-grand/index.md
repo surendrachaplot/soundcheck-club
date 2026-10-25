@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "MLLM - DJ Competition 2026" on Sun, 25 Oct 2026.
+The Classic Grand is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "MLLM - DJ Competition 2026" on Sun, 25 Oct 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), DYEN and Joe Deacon and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 13 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

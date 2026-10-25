@@ -1,6 +1,6 @@
 # HAAi
 
-HAAi is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun, 25 Oct 2026.
+HAAi is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun, 25 Oct 2026.
 
 HAAi is a house and techno artist based in Australia, with 238 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside salute, DJ BORING and DJ Tennis. Next up: Athens Conservatoire - Ωδείον Αθηνών, Athens on Sun 25 Oct.
 
@@ -36,4 +36,4 @@ HAAi is a house and techno artist based in Australia, with 238 gigs on soundchec
 
 salute, DJ BORING, DJ Tennis
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

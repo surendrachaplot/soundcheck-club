@@ -1,6 +1,6 @@
 # Pyur
 
-Pyur is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
+Pyur is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
 
 Pyur is an experimental and ambient artist based in Germany, with 8 gigs on soundcheck across Amsterdam, Berlin, Ljubljana and Munich and 2 more. Often billed alongside Polygonia, Violent Magic Orchestra and ABADIR. Next up: Theatro Circo, Portugal on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Pyur is an experimental and ambient artist based in Germany, with 8 gigs on soun
 
 Polygonia, Violent Magic Orchestra, ABADIR
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyur/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyur/)*

@@ -1,18 +1,18 @@
 # Nina ØDB
 
-Nina ØDB is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Studio55, Berlin on Sat, 24 Oct 2026.
+Nina ØDB is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The B Side Berlin, Berlin on Wed, 28 Oct 2026.
 
-Nina ØDB is a techno and tech house artist, with 9 gigs on soundcheck across Berlin. Often billed alongside J~Dizz¥, Blck-Swan and AWGdeejay. Next up: Studio55, Berlin on Sat 24 Oct.
+Nina ØDB is a techno and tech house artist, with 9 gigs on soundcheck across Berlin. Often billed alongside J~Dizz¥, Blck-Swan and AWGdeejay. Next up: The B Side Berlin, Berlin on Wed 28 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Studio55 | Berlin |
 | Wed, 28 Oct 2026 | The B Side Berlin | Berlin |
 
 ## Recently played
 
+- Studio55, Berlin · Sat, 24 Oct 2026
 - ÆDEN, Berlin · Wed, 7 Oct 2026
 - Sensorium, Berlin · Sat, 4 Apr 2026
 - ÆDEN, Berlin · Wed, 4 Mar 2026
@@ -25,4 +25,4 @@ Nina ØDB is a techno and tech house artist, with 9 gigs on soundcheck across Be
 
 J~Dizz¥, Blck-Swan, AWGdeejay
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaodb/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaodb/)*

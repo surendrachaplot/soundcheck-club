@@ -1,6 +1,6 @@
 # Ivy
 
-Ivy is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
+Ivy is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
 
 Ivy is a bass and club artist based in United States of America, with 28 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Buenos Aires and 9 more. Often billed alongside Paramat, Freda and KAMIKAZE. Next up: TBA, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ivy is a bass and club artist based in United States of America, with 28 gigs on
 
 Paramat, Freda, KAMIKAZE
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy/)*

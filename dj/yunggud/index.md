@@ -1,18 +1,18 @@
 # Yung Gud
 
-Yung Gud is a Electronica and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 170 Russell, Melbourne on Fri, 23 Oct 2026.
+Yung Gud is a Electronica and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Metro Theatre, Sydney on Sat, 24 Oct 2026.
 
-Yung Gud is an electronica and hip-hop artist based in Sweden, with 7 gigs on soundcheck across Berlin, Copenhagen, London and Melbourne and 1 more. Often billed alongside Woesum, Felix Lee and Kamixlo. Next up: 170 Russell, Melbourne on Fri 23 Oct.
+Yung Gud is an electronica and hip-hop artist based in Sweden, with 7 gigs on soundcheck across Berlin, Copenhagen, London and Melbourne and 1 more. Often billed alongside Woesum, Felix Lee and Kamixlo. Next up: The Metro Theatre, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | 170 Russell | Melbourne |
 | Sat, 24 Oct 2026 | The Metro Theatre | Sydney |
 
 ## Recently played
 
+- The Metro Theatre, Sydney · Sat, 24 Oct 2026
 - 170 Russell, Melbourne · Fri, 23 Oct 2026
 - Haus der Visionäre, Berlin · Sat, 4 Jul 2026
 - Village Underground, London · Sun, 28 Jun 2026
@@ -24,4 +24,4 @@ Yung Gud is an electronica and hip-hop artist based in Sweden, with 7 gigs on so
 
 Woesum, Felix Lee, Kamixlo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunggud/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunggud/)*

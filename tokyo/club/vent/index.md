@@ -1,14 +1,13 @@
 # VENT
 
-VENT is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "XDB / PACIFIC MODE x Solstice" on Sat, 24 Oct 2026.
+VENT is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Claudio PRC" on Fri, 30 Oct 2026.
 
-VENT is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including 5ive, AI, AKIRAM EN and ANNĒ and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
+VENT is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including AI, AKIRAM EN, ANNĒ and arow and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | XDB / PACIFIC MODE x Solstice | 5ive, ChunLi, DJ Healthy, Hue Ray, Joni DJ, KOTSU, XDB, YAMARCHY |
 | Fri, 30 Oct 2026 | Claudio PRC | Claudio PRC, DJ SO, JOMA (2), KanaK, Kengo Yuasa, Naoki Fujii, Neutran |
 | Sat, 31 Oct 2026 | Takaaki Itoh / SHAPE × MIND OFF Halloween | Dani Savant, Drunken Kong, Jun (+886), Mucaro, RINALUCKY, Takaaki Itoh, WAKA XINXI, YURI VALEN |
 | Mon, 2 Nov 2026 | Tigerhead | Tigerhead |
@@ -18,9 +17,10 @@ VENT is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line
 | Sat, 14 Nov 2026 | Marcellus Pittman | Marcellus Pittman, Samo, The Library, hiroto yano, suzu |
 | Fri, 20 Nov 2026 | CC:DISCO | CC:DISCO!, FU (JP), Onsawa&tkc, RIHO ASAEDA, mag (JP) |
 | Sat, 21 Nov 2026 | Philippa Pacho / VELTRAUM | Mari Sakurai, NITA, Philippa Pacho, Yo Nishijima, arow, machìna |
+| Sun, 22 Nov 2026 | Special Request | Special Request |
 
 ## Address
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

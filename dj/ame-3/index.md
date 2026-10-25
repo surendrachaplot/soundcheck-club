@@ -1,6 +1,6 @@
 # AME (JP)
 
-AME (JP) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Azumaya, Tokyo on Tue, 3 Nov 2026.
+AME (JP) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Azumaya, Tokyo on Tue, 3 Nov 2026.
 
 AME (JP) is a techno and acid artist based in Japan, with 21 gigs on soundcheck across Barcelona and Tokyo. Often billed alongside YURI VALEN, YOXIKI and nataria. Next up: Azumaya, Tokyo on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ AME (JP) is a techno and acid artist based in Japan, with 21 gigs on soundcheck 
 
 YURI VALEN, YOXIKI, nataria
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ame-3/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ame-3/)*

@@ -1,14 +1,13 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "✦ Kitchen Collective ✦: New Season" on Sat, 24 Oct 2026.
+Ankali & Planeta Za is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Psychosound x Studio71: Konstelace" on Tue, 27 Oct 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with line-ups including 3ever, aláya, Ancestral Vision and anthró and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including 3ever, aláya, Ancestral Vision and anthró and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | ✦ Kitchen Collective ✦: New Season | AVHD, Blanchita, DJames (2), Krackk, Marie Pravda, Møreti, Takē, White Aura, frujty, ishka machina |
 | Tue, 27 Oct 2026 | Psychosound x Studio71: Konstelace | Ancestral Vision, Oolongbru, Roudnas |
 | Fri, 30 Oct 2026 | Archiv Teknologi: Pariah, Microchic, kletis | Microchic, Pariah, kletis |
 | Sat, 31 Oct 2026 | Spooky Sexy Extravgnza | Ayiaa, Big Lil, Fembot, PRDELANZA, TAPCUE, VISNEACS, patricccio |
@@ -18,9 +17,10 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 13 upcoming
 | Sat, 14 Nov 2026 | HEAT X with GLIA | Demonika, GLIA, Midirama, VI:AM, Zuzana Hakl |
 | Fri, 20 Nov 2026 | ✮EERIE COLLECTIVE X The Kitchen✮ | AVHD, DDK (1), DJames (2), KRISTIE KARDIO, RADYK, SOLE DOSI, ZiZi, ishka machina, zazitech |
 | Sat, 21 Nov 2026 | Temple Of ⏐ გიორგობა | Kavkaz Widow, MARS (4), MLK:M, Technadze, VISNEACS, saHHar |
+| Fri, 4 Dec 2026 | hereandthere | Fake Agent, Fireground, Koruth, Marie Pravda, Pink Concrete, Richard Akingbehin, Schwa, Valley Dolly, White Aura, nthng |
 
 ## Address
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

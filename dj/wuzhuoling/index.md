@@ -1,6 +1,6 @@
 # Wu Zhuoling
 
-Wu Zhuoling is a IDM and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Creator Dock 创作者码头, Chengdu on Sun, 25 Oct 2026.
+Wu Zhuoling is a IDM and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Creator Dock 创作者码头, Chengdu on Sun, 25 Oct 2026.
 
 Wu Zhuoling is an idm and techno artist based in China, with 48 gigs on soundcheck across Beijing, Berlin, Chengdu and Chongqing and 8 more. Often billed alongside Kaishandao, Shao and CTAFAD. Next up: Creator Dock 创作者码头, Chengdu on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Wu Zhuoling is an idm and techno artist based in China, with 48 gigs on soundche
 
 Kaishandao, Shao, CTAFAD
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuzhuoling/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuzhuoling/)*

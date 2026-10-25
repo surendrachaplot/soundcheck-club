@@ -1,6 +1,6 @@
 # Statera Cellars
 
-Statera Cellars is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "SWERQ: A Benefit for OSWC" on Sat, 14 Nov 2026.
+Statera Cellars is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "SWERQ: A Benefit for OSWC" on Sat, 14 Nov 2026.
 
 Statera Cellars is a music venue in Portland listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 109 se salmon st.
 
@@ -16,4 +16,4 @@ Statera Cellars is a music venue in Portland listed on soundcheck. 3 upcoming gi
 
 109 se salmon st, Portland
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/statera-cellars/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/statera-cellars/)*

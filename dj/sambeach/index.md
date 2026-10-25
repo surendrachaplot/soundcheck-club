@@ -1,6 +1,6 @@
 # Sam Beach
 
-Sam Beach is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Sam Beach is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Sam Beach is a house and tech house artist based in United Kingdom, with 49 gigs on soundcheck across Ibiza and London. Often billed alongside Nick Clev, Harry Dale and JAYDAA. Next up: The Cause, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Sam Beach is a house and tech house artist based in United Kingdom, with 49 gigs
 
 Nick Clev, Harry Dale, JAYDAA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sambeach/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sambeach/)*

@@ -1,18 +1,18 @@
 # Ixbalanke
 
-Ixbalanke is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Cologne on Sat, 24 Oct 2026.
+Ixbalanke is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 30 Oct 2026.
 
-Ixbalanke is a techno and electro artist based in Mexico, with 7 gigs on soundcheck across Amsterdam, Berlin, Cologne and Mexico City and 3 more. Often billed alongside T.Linder, Adonis Wolf and Amotik. Next up: TBA, Cologne on Sat 24 Oct.
+Ixbalanke is a techno and electro artist based in Mexico, with 7 gigs on soundcheck across Amsterdam, Berlin, Cologne and Mexico City and 3 more. Often billed alongside T.Linder, Adonis Wolf and Amotik. Next up: Der Weiße Hase, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | Cologne |
 | Fri, 30 Oct 2026 | Der Weiße Hase | Berlin |
 
 ## Recently played
 
+- TBA, Cologne · Sat, 24 Oct 2026
 - Q-Factory, Amsterdam · Thu, 23 Oct 2025
 - NWHR, Montreal · Fri, 5 Sept 2025
 - Fishtank, San Diego · Tue, 9 Jan 2024
@@ -23,4 +23,4 @@ Ixbalanke is a techno and electro artist based in Mexico, with 7 gigs on soundch
 
 T.Linder, Adonis Wolf, Amotik
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ixbalanke/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ixbalanke/)*

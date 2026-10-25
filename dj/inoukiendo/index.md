@@ -1,6 +1,6 @@
 # Inou Ki Endo
 
-Inou Ki Endo is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kollektiv Kaorle, Vienna on Fri, 20 Nov 2026.
+Inou Ki Endo is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kollektiv Kaorle, Vienna on Fri, 20 Nov 2026.
 
 Inou Ki Endo is a techno and experimental artist, with 19 gigs on soundcheck across Berlin, Budapest and Vienna. Often billed alongside S.verin, Alpha Tracks and MARAws. Next up: Kollektiv Kaorle, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Inou Ki Endo is a techno and experimental artist, with 19 gigs on soundcheck acr
 
 S.verin, Alpha Tracks, MARAws
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inoukiendo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inoukiendo/)*

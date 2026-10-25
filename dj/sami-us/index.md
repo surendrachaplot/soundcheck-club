@@ -1,18 +1,18 @@
 # S A M I
 
-S A M I is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
+S A M I is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
-S A M I is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Milan and New York City. Often billed alongside okDUNC, tyben and sixsix. Next up: Honey's, New York City on Sat 24 Oct.
+S A M I is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Milan and New York City. Often billed alongside okDUNC, tyben and sixsix. Next up: Eden NYC, New York City on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Honey's | New York City |
 | Sun, 1 Nov 2026 | Eden NYC | New York City |
 
 ## Recently played
 
+- Honey's, New York City · Sat, 24 Oct 2026
 - TBA - Brooklyn Open Air, New York City · Sat, 22 Aug 2026
 - SILO, New York City · Thu, 20 Aug 2026
 - H0L0, New York City · Sat, 11 Jul 2026
@@ -20,10 +20,9 @@ S A M I is a techno and house artist based in United States of America, with 33 
 - Jupiter Disco, New York City · Sun, 5 Apr 2026
 - TBA, New York City · Fri, 6 Mar 2026
 - TBA - Warehouse, New York City · Sat, 24 Jan 2026
-- Bossa Nova Civic Club, New York City · Tue, 23 Dec 2025
 
 ## Shares bills with
 
 okDUNC, tyben, sixsix
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sami-us/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sami-us/)*

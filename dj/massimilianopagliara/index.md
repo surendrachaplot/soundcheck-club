@@ -1,15 +1,13 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at KREUZWERK, Berlin on Fri, 23 Oct 2026.
+Massimiliano Pagliara is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at SASS Music Club, Vienna on Fri, 30 Oct 2026.
 
-Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 81 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: KREUZWERK, Berlin on Fri 23 Oct.
+Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 81 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: SASS Music Club, Vienna on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | KREUZWERK | Berlin |
-| Sat, 24 Oct 2026 | REC Napoli | Naples |
 | Fri, 30 Oct 2026 | SASS Music Club | Vienna |
 | Sat, 31 Oct 2026 | Printhouse | Munich |
 | Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
@@ -23,6 +21,7 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs
 
 ## Recently played
 
+- REC Napoli, Naples · Sat, 24 Oct 2026
 - KREUZWERK, Berlin · Fri, 23 Oct 2026
 - Fuchs2, Prague · Sat, 17 Oct 2026
 - New Century Locker, Manchester · Fri, 16 Oct 2026
@@ -30,10 +29,9 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs
 - Apollo Club Milano, Milan · Fri, 9 Oct 2026
 - Société des arts technologiques, Montreal · Sat, 3 Oct 2026
 - KALT, Strasbourg · Sat, 26 Sept 2026
-- Virage, Paris · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

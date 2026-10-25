@@ -1,6 +1,6 @@
 # Alex Bohemien
 
-Alex Bohemien is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Sun, 25 Oct 2026.
+Alex Bohemien is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Sun, 25 Oct 2026.
 
 Alex Bohemien is a tech house and house artist based in Italy, with 59 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Broosk, Key Eff and Redical. Next up: Grand Café Heineken Hoek, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Alex Bohemien is a tech house and house artist based in Italy, with 59 gigs on s
 
 Broosk, Key Eff, Redical
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*

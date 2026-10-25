@@ -1,6 +1,6 @@
 # Russell Haswell
 
-Russell Haswell is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 14 Nov 2026.
+Russell Haswell is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 14 Nov 2026.
 
 Russell Haswell is an experimental and techno artist based in United Kingdom, with 21 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bristol and 4 more. Often billed alongside Regis, Samuel Kerridge and MICROCORPS. Next up: EXIT Glasgow, Glasgow on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Russell Haswell is an experimental and techno artist based in United Kingdom, wi
 
 Regis, Samuel Kerridge, MICROCORPS
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/russellhaswell/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/russellhaswell/)*

@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "AETHERFEST" on Sun, 25 Oct 2026.
+Freight Brixton is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "AETHERFEST" on Sun, 25 Oct 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including CHÉ WAX, Marvin Humes and SHEMYYY. See dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -18,4 +18,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 5 upcoming gigs
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

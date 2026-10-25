@@ -1,6 +1,6 @@
 # DJ Nebelmaschine
 
-DJ Nebelmaschine is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+DJ Nebelmaschine is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
 DJ Nebelmaschine is a techno and tech house artist based in Germany, with 16 gigs on soundcheck across Berlin, London, Munich and Nürnberg. Often billed alongside Anna Lazer, Liebe Nachbarn and Bernd Bugatti. Next up: Kater, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DJ Nebelmaschine is a techno and tech house artist based in Germany, with 16 gig
 
 Anna Lazer, Liebe Nachbarn, Bernd Bugatti
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnebelmaschine/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnebelmaschine/)*

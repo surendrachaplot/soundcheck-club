@@ -1,14 +1,13 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "M7 presenta: Khabiar, H-R-Z, Laura SN, Burguets, Marc Fx & Hüeso" on Sat, 24 Oct 2026.
+M7 Club is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "HARD BOUNCE [Adviro, Yerai]" on Sun, 25 Oct 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Adviro, AISHA, ArceX and BreakStyle and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Adviro, AISHA, ArceX and BreakStyle and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | M7 presenta: Khabiar, H-R-Z, Laura SN, Burguets, Marc Fx & Hüeso | H-R-Z |
 | Sun, 25 Oct 2026 | HARD BOUNCE [Adviro, Yerai] | Adviro |
 | Thu, 29 Oct 2026 | HARD BOUNCE [Adviro & Marc Fx] | Adviro |
 | Fri, 30 Oct 2026 | M7 presenta [Up Room] FØSS, SuttleK, Flakø [Main Room] HØMMIECDALL, Marc Fx & VØLNA | FØSS, SuttleK, VØLNA |
@@ -18,9 +17,10 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, wi
 | Thu, 5 Nov 2026 | HARD BOUNCE [Blessed & Adviro] | Adviro |
 | Fri, 6 Nov 2026 | M7 presenta [Up Room] Rian Wood, Apokä & Furious Cris | Rian Wood |
 | Sat, 7 Nov 2026 | M7 presenta [Up Room] AISHA, SuttleK & Mr. Danger | AISHA, SuttleK |
+| Sat, 7 Nov 2026 | CARAVE Eric Morin, Paco Maroto, Javi Always, Oscar Garcia & Pablo Gomez | Paco Maroto |
 
 ## Address
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

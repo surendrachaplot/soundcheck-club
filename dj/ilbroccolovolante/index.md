@@ -1,8 +1,8 @@
 # ilbroccolovolante
 
-ilbroccolovolante is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 30 Oct 2026.
+ilbroccolovolante is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 30 Oct 2026.
 
-ilbroccolovolante is a house and techno artist based in Italy, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 6 more. Often billed alongside Kidcat, zikade and materia hache. Next up: Crack Bellmer, Berlin on Fri 30 Oct.
+ilbroccolovolante is a house and techno artist based in Italy, with 82 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 7 more. Often billed alongside Kidcat, zikade and materia hache. Next up: Crack Bellmer, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ ilbroccolovolante is a house and techno artist based in Italy, with 81 gigs on s
 
 ## Recently played
 
+- Südpol, Hamburg · Sat, 24 Oct 2026
 - OXI, Berlin · Fri, 9 Oct 2026
 - OXI, Berlin · Sat, 19 Sept 2026
 - Pleasure Patterns, Berlin · Sat, 5 Sept 2026
@@ -21,10 +22,9 @@ ilbroccolovolante is a house and techno artist based in Italy, with 81 gigs on s
 - Sonnenraum, Berlin · Sun, 30 Aug 2026
 - Kater, Berlin · Fri, 28 Aug 2026
 - Marmorbar, Berlin · Sat, 22 Aug 2026
-- Crack Bellmer, Berlin · Sun, 2 Aug 2026
 
 ## Shares bills with
 
 Kidcat, zikade, materia hache
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*

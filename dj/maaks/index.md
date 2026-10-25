@@ -1,6 +1,6 @@
 # MAAKS
 
-MAAKS is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Hideout, Malta on Sat, 7 Nov 2026.
+MAAKS is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hideout, Malta on Sat, 7 Nov 2026.
 
 MAAKS is a techno and hardcore artist, with 8 gigs on soundcheck across Hamburg and Malta. Often billed alongside Jahh Roland, Aytac Yener and Molario. Next up: Hideout, Malta on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ MAAKS is a techno and hardcore artist, with 8 gigs on soundcheck across Hamburg 
 
 Jahh Roland, Aytac Yener, Molario
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maaks/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maaks/)*

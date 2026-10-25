@@ -1,6 +1,6 @@
 # Wuki
 
-Wuki is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Bellwether, Los Angeles on Fri, 6 Nov 2026.
+Wuki is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Bellwether, Los Angeles on Fri, 6 Nov 2026.
 
 Wuki is a house and bass artist based in United States of America, with 39 gigs on soundcheck across Austin, Boston, Budapest and Charlotte and 19 more. Often billed alongside Azzecca, Chris Lake and Dillon Francis. Next up: The Bellwether, Los Angeles on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Wuki is a house and bass artist based in United States of America, with 39 gigs 
 
 Azzecca, Chris Lake, Dillon Francis
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuki/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuki/)*

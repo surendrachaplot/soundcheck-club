@@ -1,6 +1,6 @@
 # JOHN DIXON
 
-JOHN DIXON is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Le Klub, Paris on Fri, 20 Nov 2026.
+JOHN DIXON is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Le Klub, Paris on Fri, 20 Nov 2026.
 
 JOHN DIXON is a techno and psytrance artist based in France, with 17 gigs on soundcheck across Paris. Often billed alongside Acid Oslo, Alys LF and Ben Manson. Next up: Le Klub, Paris on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ JOHN DIXON is a techno and psytrance artist based in France, with 17 gigs on sou
 
 Acid Oslo, Alys LF, Ben Manson
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johndixon/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johndixon/)*

@@ -1,6 +1,6 @@
 # Raysoo
 
-Raysoo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at KitKatClub, Berlin on Mon, 23 Nov 2026.
+Raysoo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at KitKatClub, Berlin on Mon, 23 Nov 2026.
 
 Raysoo is a house and techno artist, with 76 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 4 more. Often billed alongside Biscuit (MY), Meliha and Obadius. Next up: KitKatClub, Berlin on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ Raysoo is a house and techno artist, with 76 gigs on soundcheck across Bali, Ban
 
 Biscuit (MY), Meliha, Obadius
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raysoo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raysoo/)*

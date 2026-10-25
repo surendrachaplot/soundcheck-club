@@ -1,6 +1,6 @@
 # Enya Botello
 
-Enya Botello is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Mexico City on Sat, 24 Oct 2026.
+Enya Botello is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Mexico City on Sat, 24 Oct 2026.
 
 Enya Botello is a techno and house artist based in Mexico, with 210 gigs on soundcheck across Bogotá, Guadalajara, London and Mexico City and 4 more. Often billed alongside Eliel Capa, Deejay Energy and Magnolia Coronado. Next up: TBA, Mexico City on Sat 24 Oct.
 
@@ -14,6 +14,7 @@ Enya Botello is a techno and house artist based in Mexico, with 210 gigs on soun
 
 ## Recently played
 
+- TBA, Mexico City · Sat, 24 Oct 2026
 - Goethe Institut Mexiko, Mexico City · Sat, 17 Oct 2026
 - Relink:Data, Mexico City · Fri, 16 Oct 2026
 - Japan Monterrey, Mexico City · Sat, 10 Oct 2026
@@ -21,10 +22,9 @@ Enya Botello is a techno and house artist based in Mexico, with 210 gigs on soun
 - Fünk, Mexico City · Thu, 24 Sept 2026
 - Drama Radio Bar, Mexico City · Tue, 22 Sept 2026
 - Japan Monterrey, Mexico City · Fri, 18 Sept 2026
-- Rei Room, Mexico City · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 Eliel Capa, Deejay Energy, Magnolia Coronado
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enyabotello/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enyabotello/)*

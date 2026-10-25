@@ -1,6 +1,6 @@
 # Nastia
 
-Nastia is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+Nastia is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
 Nastia is a techno and house artist based in Ukraine, with 200 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 78 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
@@ -31,4 +31,4 @@ Nastia is a techno and house artist based in Ukraine, with 200 gigs on soundchec
 
 Stef Mendesidis, The Advent, DJ Bone
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

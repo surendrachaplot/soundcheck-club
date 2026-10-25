@@ -1,6 +1,6 @@
 # Bobby Thorpe
 
-Bobby Thorpe is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at New Wave Ramen, Manchester on Sat, 31 Oct 2026.
+Bobby Thorpe is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at New Wave Ramen, Manchester on Sat, 31 Oct 2026.
 
 Bobby Thorpe is a house and disco artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Liverpool and 2 more. Often billed alongside Bijon, Kickin Pigeon and Royal Male. Next up: New Wave Ramen, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bobby Thorpe is a house and disco artist based in United Kingdom, with 53 gigs o
 
 Bijon, Kickin Pigeon, Royal Male
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbythorpe/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbythorpe/)*

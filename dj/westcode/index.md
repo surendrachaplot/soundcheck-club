@@ -1,13 +1,14 @@
 # West Code
 
-West Code is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Under Club, Buenos Aires on Fri, 20 Nov 2026.
+West Code is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Under Club, Buenos Aires on Fri, 20 Nov 2026.
 
-West Code is a techno and electronica artist, with 22 gigs on soundcheck across Belfast, Berlin, Buenos Aires and Ljubljana and 6 more. Often billed alongside cufaxx, JXXXO and Lucas Sosa (AR). Next up: Under Club, Buenos Aires on Fri 20 Nov.
+West Code is a techno and electronica artist, with 23 gigs on soundcheck across Belfast, Berlin, Buenos Aires and Ljubljana and 6 more. Often billed alongside cufaxx, JXXXO and Lucas Sosa (AR). Next up: Under Club, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Under Club | Buenos Aires |
 | Fri, 20 Nov 2026 | Under Club | Buenos Aires |
 
 ## Recently played
@@ -25,4 +26,4 @@ West Code is a techno and electronica artist, with 22 gigs on soundcheck across 
 
 cufaxx, JXXXO, Lucas Sosa (AR)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westcode/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westcode/)*

@@ -1,6 +1,6 @@
 # underscores
 
-underscores is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Botanique, Brussels on Fri, 6 Nov 2026.
+underscores is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Botanique, Brussels on Fri, 6 Nov 2026.
 
 underscores is an electro and house artist based in United States of America, with 9 gigs on soundcheck across Brussels, Chicago, Los Angeles and Melbourne and 2 more. Often billed alongside umru, FCUKERS and ALISHA. Next up: Botanique, Brussels on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ underscores is an electro and house artist based in United States of America, wi
 
 umru, FCUKERS, ALISHA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*

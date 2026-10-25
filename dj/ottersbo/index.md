@@ -1,6 +1,6 @@
 # Ottersbo
 
-Ottersbo is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Trekanten, Oslo on Sun, 15 Nov 2026.
+Ottersbo is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Trekanten, Oslo on Sun, 15 Nov 2026.
 
 Ottersbo is a trance and techno artist based in Norway, with 8 gigs on soundcheck across Bergen and Oslo. Often billed alongside Anémi, Guild Navigator and Komet99. Next up: Trekanten, Oslo on Sun 15 Nov.
 
@@ -24,4 +24,4 @@ Ottersbo is a trance and techno artist based in Norway, with 8 gigs on soundchec
 
 Anémi, Guild Navigator, Komet99
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottersbo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottersbo/)*

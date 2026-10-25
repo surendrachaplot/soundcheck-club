@@ -1,14 +1,13 @@
 # LALENA
 
-LALENA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 24 Oct 2026.
+LALENA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
 
-LALENA is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Austria, Berlin and Cologne and 6 more. Often billed alongside David Hasert, Diode Eins and Alchemiah. Next up: Het Sieraad, Amsterdam on Sat 24 Oct.
+LALENA is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Austria, Berlin and Cologne and 6 more. Often billed alongside David Hasert, Diode Eins and Alchemiah. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |
 | Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 27 Nov 2026 | Gewölbe | Cologne |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
@@ -16,17 +15,17 @@ LALENA is a techno and house artist based in Germany, with 69 gigs on soundcheck
 
 ## Recently played
 
+- Het Sieraad, Amsterdam · Sat, 24 Oct 2026
+- 50:Hertz Club Train, Amsterdam · Sat, 24 Oct 2026
 - Südbrücke Open Air, Cologne · Sun, 16 Aug 2026
 - Zürich - Various Venues, Zurich · Mon, 3 Aug 2026
 - Parkcafe, Cologne · Sat, 11 Jul 2026
 - Südbrücke, Cologne · Sun, 21 Jun 2026
 - TBA -  Fühlinger See, Cologne · Thu, 4 Jun 2026
 - Odonien, Cologne · Sun, 24 May 2026
-- Gewölbe, Cologne · Fri, 1 May 2026
-- Odonien, Cologne · Fri, 10 Apr 2026
 
 ## Shares bills with
 
 David Hasert, Diode Eins, Alchemiah
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lalena/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lalena/)*

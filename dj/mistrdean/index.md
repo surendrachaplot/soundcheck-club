@@ -1,6 +1,6 @@
 # Mistr Dean
 
-Mistr Dean is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 30 Oct 2026.
+Mistr Dean is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 30 Oct 2026.
 
 Mistr Dean is a techno and house artist, with 13 gigs on soundcheck across Melbourne, Sydney and Tokyo. Often billed alongside Savage The Girl, AI and AKEYLAH. Next up: Circus Tokyo, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mistr Dean is a techno and house artist, with 13 gigs on soundcheck across Melbo
 
 Savage The Girl, AI (10), AKEYLAH
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mistrdean/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mistrdean/)*

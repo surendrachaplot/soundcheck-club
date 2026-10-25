@@ -1,14 +1,13 @@
 # Camillionaire
 
-Camillionaire is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 23 Oct 2026.
+Camillionaire is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-Camillionaire is a house and bass artist based in United States of America, with 42 gigs on soundcheck across California and San Francisco/Oakland. Often billed alongside Phöön, FeLine and Mood Ring. Next up: The Great Northern, San Francisco/Oakland on Fri 23 Oct.
+Camillionaire is a house and bass artist based in United States of America, with 42 gigs on soundcheck across California and San Francisco/Oakland. Often billed alongside Phöön, FeLine and Mood Ring. Next up: Underground SF, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | Underground SF | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +25,4 @@ Camillionaire is a house and bass artist based in United States of America, with
 
 Phöön, FeLine, Mood Ring
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camillionaire/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camillionaire/)*

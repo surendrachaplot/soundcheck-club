@@ -1,6 +1,6 @@
 # LZZY
 
-LZZY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - JOLOKO, Kuala Lumpur on Sat, 31 Oct 2026.
+LZZY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - JOLOKO, Kuala Lumpur on Sat, 31 Oct 2026.
 
 LZZY is a house and techno artist based in Malaysia, with 66 gigs on soundcheck across Kuala Lumpur, Lisbon and Singapore. Often billed alongside JonnyVicious, Roshan and Meliha. Next up: TBA - JOLOKO, Kuala Lumpur on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LZZY is a house and techno artist based in Malaysia, with 66 gigs on soundcheck 
 
 JonnyVicious, Roshan, Meliha
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lzzy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lzzy/)*

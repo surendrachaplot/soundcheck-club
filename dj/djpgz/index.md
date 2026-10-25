@@ -1,6 +1,6 @@
 # DJ PGZ
 
-DJ PGZ is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Second Story Studios, Melbourne on Sat, 14 Nov 2026.
+DJ PGZ is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Second Story Studios, Melbourne on Sat, 14 Nov 2026.
 
 DJ PGZ is a techno and house artist based in Australia, with 82 gigs on soundcheck across Adelaide, Bali, Byron Bay and Hanoi and 5 more. Often billed alongside Yikes, Kia (AU) and Moopie. Next up: Second Story Studios, Melbourne on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ DJ PGZ is a techno and house artist based in Australia, with 82 gigs on soundche
 
 Yikes, Kia (AU), Moopie
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpgz/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpgz/)*

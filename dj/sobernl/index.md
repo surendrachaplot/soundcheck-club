@@ -1,6 +1,6 @@
 # SOBER (NL)
 
-SOBER (NL) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at BASIS, Utrecht on Fri, 13 Nov 2026.
+SOBER (NL) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at BASIS, Utrecht on Fri, 13 Nov 2026.
 
 SOBER (NL) is a techno and industrial artist based in Netherlands, with 10 gigs on soundcheck across Berlin, Budapest, Dublin and Madrid and 6 more. Often billed alongside A2XBY, SNTS and ANSY. Next up: BASIS, Utrecht on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SOBER (NL) is a techno and industrial artist based in Netherlands, with 10 gigs 
 
 A2XBY, SNTS, ANSY
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sobernl/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sobernl/)*

@@ -1,14 +1,13 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 21 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Chromatic: Oneman20" on Sat, 24 Oct 2026.
+The Bongo Club is a music venue in Edinburgh with 20 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Volta: Phase Records Takeover [HALLOWEEN SPECIAL]" on Tue, 27 Oct 2026.
 
-The Bongo Club is a music venue in Edinburgh listed on soundcheck. 21 upcoming gigs, with line-ups including Carmen Baía, Darrell Pulse, DJ Gregory and DJ Hype and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
+The Bongo Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming gigs, with line-ups including Carmen Baía, Darrell Pulse, DJ Gregory and DJ Hype and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Chromatic: Oneman20 | Oneman, ZO3 (1) |
 | Tue, 27 Oct 2026 | Volta: Phase Records Takeover [HALLOWEEN SPECIAL] |  |
 | Wed, 28 Oct 2026 | HOOSEPARTY: THE FINAL GIRLS | Miss Cabbage, Salam Kitty |
 | Thu, 29 Oct 2026 | TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) | Maya Hacker, Silva Snipa, TODD |
@@ -18,9 +17,10 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 21 upcoming g
 | Fri, 6 Nov 2026 | Disorder: 4th Birthday w/ DJ Hype (Playaz) [JUNGLE AND DRUM & BASS] | DJ Hype, Harry Jackson |
 | Sat, 7 Nov 2026 | Hobbes Music x Noetic Rhythm: DJ Gregory, Ricardo, Hobbes + more | DJ Gregory, Hobbes |
 | Thu, 12 Nov 2026 | 𖤓SOLASTA II𖤓 | Carmen Baía, FIFI LA ROUX, zohra |
+| Fri, 13 Nov 2026 | Tektite x FoxBam |  |
 
 ## Address
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

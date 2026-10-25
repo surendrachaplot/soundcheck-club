@@ -1,6 +1,6 @@
 # SvP
 
-SvP is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
+SvP is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
 
 SvP is a house and tech house artist, with 14 gigs on soundcheck across Berlin, Miami and Warsaw. Often billed alongside Luca Nova, Palm Key and paulsberg. Next up: AMT, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ SvP is a house and tech house artist, with 14 gigs on soundcheck across Berlin, 
 
 Luca Nova, Palm Key, paulsberg
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svp/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svp/)*

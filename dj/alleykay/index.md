@@ -1,14 +1,13 @@
 # Alley Kay
 
-Alley Kay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 23 Oct 2026.
+Alley Kay is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-Alley Kay is a techno and house artist based in Canada, with 73 gigs on soundcheck across Calgary, Cleveland, Detroit and Miami and 5 more. Often billed alongside Darkova, Addy and Greg Gow. Next up: Sainte-Catherine Hall, Montreal on Fri 23 Oct.
+Alley Kay is a techno and house artist based in Canada, with 73 gigs on soundcheck across Calgary, Cleveland, Detroit and Miami and 5 more. Often billed alongside Darkova, Addy and Greg Gow. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Sainte-Catherine Hall | Montreal |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
 ## Recently played
@@ -26,4 +25,4 @@ Alley Kay is a techno and house artist based in Canada, with 73 gigs on soundche
 
 Darkova, Addy, Greg Gow
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alleykay/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alleykay/)*

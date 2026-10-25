@@ -1,6 +1,6 @@
 # STK (MT)
 
-STK (MT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Groove Gardens, Malta on Sun, 1 Nov 2026.
+STK (MT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Groove Gardens, Malta on Sun, 1 Nov 2026.
 
 STK (MT) is a techno and house artist based in Malta, with 38 gigs on soundcheck across Malta. Often billed alongside Damz, Georg MT and Budg. Next up: Groove Gardens, Malta on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ STK (MT) is a techno and house artist based in Malta, with 38 gigs on soundcheck
 
 Damz, Georg MT, Budg
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stk-mt/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stk-mt/)*

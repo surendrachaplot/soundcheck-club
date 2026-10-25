@@ -1,6 +1,6 @@
 # HVOB
 
-HVOB is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Robert Johnson, Hesse on Sat, 14 Nov 2026.
+HVOB is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Robert Johnson, Hesse on Sat, 14 Nov 2026.
 
 HVOB is a house and techno artist, with 68 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Eris Drew, Paul Kalkbrenner and ANOTR. Next up: Robert Johnson, Hesse on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ HVOB is a house and techno artist, with 68 gigs on soundcheck across Amsterdam, 
 
 Eris Drew, Paul Kalkbrenner, ANOTR
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hvob/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hvob/)*

@@ -1,6 +1,6 @@
 # Tristan Dufrene
 
-Tristan Dufrene is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sun, 1 Nov 2026.
+Tristan Dufrene is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sun, 1 Nov 2026.
 
 Tristan Dufrene is a techno and electro artist based in United States of America, with 52 gigs on soundcheck across Austin, Chicago, Detroit and Mexico City and 2 more. Often billed alongside Nile Ashton, D1ME and lady lavender. Next up: The Crypt (New Orleans), New Orleans on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Tristan Dufrene is a techno and electro artist based in United States of America
 
 Nile Ashton, D1ME, lady lavender
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandufrene/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandufrene/)*

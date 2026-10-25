@@ -1,6 +1,6 @@
 # No Pants No Game at Pawnshop
 
-No Pants No Game at Pawnshop on Fri 27 Nov, Taipei. 4 artists: Elinnn, HAO (CN), SOPA and Tsui. See the line-up on soundcheck.
+No Pants No Game at Pawnshop on Fri 27 Nov, Taipei. 3 artists: Elinnn, SOPA and Tsui. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ No Pants No Game at Pawnshop on Fri 27 Nov, Taipei. 4 artists: Elinnn, HAO (CN),
 ## Line-up
 
 - Elinnn
-- HAO (CN)
 - SOPA
 - Tsui
 

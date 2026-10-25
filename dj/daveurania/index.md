@@ -1,6 +1,6 @@
 # Dave Urania
 
-Dave Urania is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at UMI, Brussels on Fri, 13 Nov 2026.
+Dave Urania is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at UMI, Brussels on Fri, 13 Nov 2026.
 
 Dave Urania is a progressive house and tech house artist, with 13 gigs on soundcheck across Brussels, Ibiza and Madrid. Often billed alongside Thomas M, TEDDY JX and BLOND:ISH. Next up: UMI, Brussels on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dave Urania is a progressive house and tech house artist, with 13 gigs on soundc
 
 Thomas M, TEDDY JX, BLOND:ISH
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveurania/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveurania/)*

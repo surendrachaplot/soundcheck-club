@@ -1,6 +1,6 @@
 # Charlieowo
 
-Charlieowo is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Warehouse Location, Hong Kong on Sat, 31 Oct 2026.
+Charlieowo is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Secret Warehouse Location, Hong Kong on Sat, 31 Oct 2026.
 
 Charlieowo is a techno and bass artist based in China, with 40 gigs on soundcheck across Chengdu, Hong Kong, Seoul and Tokyo. Often billed alongside Faxtory, ADRIANNA.C and Dan-neo. Next up: TBA - Secret Warehouse Location, Hong Kong on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Charlieowo is a techno and bass artist based in China, with 40 gigs on soundchec
 
 Faxtory, ADRIANNA.C, Dan-neo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieowo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieowo/)*

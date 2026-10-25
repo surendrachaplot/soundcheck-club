@@ -1,6 +1,6 @@
 # Tonic Walter
 
-Tonic Walter is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Central Chapelle, Paris on Fri, 11 Dec 2026.
+Tonic Walter is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Central Chapelle, Paris on Fri, 11 Dec 2026.
 
 Tonic Walter is a techno and deep house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Montee, Angara and Philipp Wolf. Next up: Central Chapelle, Paris on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Tonic Walter is a techno and deep house artist based in Germany, with 43 gigs on
 
 Montee, Angara, Philipp Wolf
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonicwalter/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonicwalter/)*

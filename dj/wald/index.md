@@ -1,6 +1,6 @@
 # Wald
 
-Wald is a Downtempo and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at La Fin Taipei, Taipei on Sat, 31 Oct 2026.
+Wald is a Downtempo and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at La Fin Taipei, Taipei on Sat, 31 Oct 2026.
 
 Wald is a downtempo and balearic artist, with 9 gigs on soundcheck across New York City, Stockholm and Taipei. Often billed alongside ECHO, B.Y.E. and Bara W. Next up: La Fin Taipei, Taipei on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Wald is a downtempo and balearic artist, with 9 gigs on soundcheck across New Yo
 
 ECHO, B.Y.E., Bara W
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wald/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wald/)*

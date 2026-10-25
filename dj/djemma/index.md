@@ -1,6 +1,6 @@
 # DJ Emma
 
-DJ Emma is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 25 Oct 2026.
+DJ Emma is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 25 Oct 2026.
 
 DJ Emma is a house and techno artist based in Japan, with 266 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside KATIMI AI, KZA and Yamariki. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 25 Oct.
 
@@ -33,4 +33,4 @@ DJ Emma is a house and techno artist based in Japan, with 266 gigs on soundcheck
 
 KATIMI AI, KZA, Yamariki
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djemma/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djemma/)*

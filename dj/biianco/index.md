@@ -1,6 +1,6 @@
 # BIIANCO
 
-BIIANCO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
+BIIANCO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
 
 BIIANCO is a techno and trance artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Basel and 41 more. Often billed alongside Fenrick, Adrian Mills and Afem Syko. Next up: E1, London on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ BIIANCO is a techno and trance artist based in United States of America, with 11
 
 Fenrick, Adrian Mills, Afem Syko
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

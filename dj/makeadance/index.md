@@ -1,6 +1,6 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Golden Lion, Manchester on Fri, 30 Oct 2026.
+Make A Dance is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Golden Lion, Manchester on Fri, 30 Oct 2026.
 
 Make A Dance is a house and disco artist based in United Kingdom, with 141 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 41 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: The Golden Lion, Manchester on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Make A Dance is a house and disco artist based in United Kingdom, with 141 gigs 
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

@@ -1,6 +1,6 @@
 # Solofan
 
-Solofan is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 29 Oct 2026.
+Solofan is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 29 Oct 2026.
 
 Solofan is a techno and club artist based in Egypt, with 27 gigs on soundcheck across New York City. Often billed alongside Alissa Brianna, DJPT and Mohamed (US). Next up: Bossa Nova Civic Club, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Solofan is a techno and club artist based in Egypt, with 27 gigs on soundcheck a
 
 Alissa Brianna, DJPT, Mohamed (US)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solofan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solofan/)*

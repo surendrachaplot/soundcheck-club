@@ -1,14 +1,13 @@
 # Club Space Miami
 
-Club Space Miami is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Nicole Moudaber" on Fri, 23 Oct 2026.
+Club Space Miami is a music venue in Miami with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Riordan, Luuk van Dijk, Julian Fijma & James Poole" on Sat, 24 Oct 2026.
 
-Club Space Miami is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including Bakke, Bedouin, Beltran and CamelPhat and 2 more. See dates, start times and who's playing. 34 NE 11th St; Miami, FL 33132; United States.
+Club Space Miami is a music venue in Miami listed on soundcheck. 12 upcoming gigs, with line-ups including Bakke, Bedouin, Beltran and CamelPhat and 2 more. See dates, start times and who's playing. 34 NE 11th St; Miami, FL 33132; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Nicole Moudaber | Bakke, Danyelino, Joe Vanditti, Nicole Moudaber, Rafa Barrios, Sister System |
 | Sat, 24 Oct 2026 | Riordan, Luuk van Dijk, Julian Fijma & James Poole | James Poole, Julian Fijma, Luuk van Dijk, Mai iachetti, Ms. Mada, Riordan |
 | Fri, 30 Oct 2026 | Halloweek: CamelPhat & Volkoder | CamelPhat, Danyelino, Volkoder, Whitesquare, Will Buck |
 | Sat, 31 Oct 2026 | Halloweek: Bedouin + Seth Troxler b2b Victor Calderone + Jamback b2b Toman | Bakke, Bedouin, Jamback, Ms. Mada, Seth Troxler, Toman, Victor Calderone |
@@ -18,9 +17,10 @@ Club Space Miami is a music venue in Miami listed on soundcheck. 13 upcoming gig
 | Fri, 27 Nov 2026 | Teletech |  |
 | Sat, 28 Nov 2026 | Two & Half Cats |  |
 | Tue, 1 Dec 2026 | Prophecy (Space Basel 2026) | Prospa |
+| Wed, 2 Dec 2026 | Beltools (Space Basel 2026) | Beltran |
 
 ## Address
 
 34 NE 11th St; Miami, FL 33132; United States, Miami
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*

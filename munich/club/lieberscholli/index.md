@@ -1,14 +1,13 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Feiern wie früher - nur früher! Der DAY RAVE mit Anna Reusch & Thomas Schumacher" on Sat, 24 Oct 2026.
+Lieberscholli is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Human Rias invites Oliver Huntemann" on Fri, 30 Oct 2026.
 
-Lieberscholli is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with line-ups including Aircraft, Anna Reusch, Danya (DE) and DJ Yugo and 2 more. See dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
+Lieberscholli is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Aircraft, Danya (DE), DJ Yugo and Goiaba and 2 more. See dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Feiern wie früher - nur früher! Der DAY RAVE mit Anna Reusch & Thomas Schumacher | Anna Reusch, JessRey, Thomas Schumacher |
 | Fri, 30 Oct 2026 | Human Rias invites Oliver Huntemann | Human Rias, Oliver Huntemann |
 | Fri, 6 Nov 2026 | Aircraft LIVE / POETRY + LO-FI BEATS / AFTERPARTY BY TUFF MONTY | Aircraft |
 | Fri, 13 Nov 2026 | Dark Pulse |  |
@@ -20,4 +19,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 7 upcoming gigs, 
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

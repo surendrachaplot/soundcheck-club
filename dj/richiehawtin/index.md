@@ -1,6 +1,6 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Institut du Monde Arabe, Paris on Sat, 24 Oct 2026.
+Richie Hawtin is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Institut du Monde Arabe, Paris on Sat, 24 Oct 2026.
 
 Richie Hawtin is a techno and house artist based in United Kingdom, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Héctor Oaks, Adiel and Nina Kraviz. Next up: Institut du Monde Arabe, Paris on Sat 24 Oct.
 
@@ -18,6 +18,7 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 201 gig
 
 ## Recently played
 
+- Institut du Monde Arabe, Paris · Sat, 24 Oct 2026
 - TBA, Amsterdam · Thu, 22 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
@@ -25,10 +26,9 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 201 gig
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 - Tapada da Ajuda, Lisbon · Sat, 26 Sept 2026
 - 528 Ibiza, Ibiza · Wed, 23 Sept 2026
-- Amnesia Ibiza, Ibiza · Tue, 15 Sept 2026
 
 ## Shares bills with
 
 Héctor Oaks, Adiel, Nina Kraviz
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

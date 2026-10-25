@@ -1,6 +1,6 @@
 # Safestay Rooftop
 
-Safestay Rooftop is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "HALLLOWEEN EVE DISCO PARTY by Dancers " on Sat, 31 Oct 2026.
+Safestay Rooftop is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "HALLLOWEEN EVE DISCO PARTY by Dancers " on Sat, 31 Oct 2026.
 
 Safestay Rooftop is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Howard and Oversant. See dates, start times and who's playing. Pg. de Gràcia, 33 08007 Barcelona.
 
@@ -18,4 +18,4 @@ Safestay Rooftop is a music venue in Barcelona listed on soundcheck. 5 upcoming 
 
 Pg. de Gràcia, 33 08007 Barcelona, Barcelona
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/safestay-rooftop/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/safestay-rooftop/)*

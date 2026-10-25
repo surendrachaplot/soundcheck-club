@@ -1,6 +1,6 @@
 # Faraz (UK)
 
-Faraz (UK) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at komunal, Birmingham on Fri, 30 Oct 2026.
+Faraz (UK) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at komunal, Birmingham on Fri, 30 Oct 2026.
 
 Faraz (UK) is a house and minimal artist based in United Kingdom, with 5 gigs on soundcheck across Birmingham, Leeds and London. Often billed alongside Boss Priester, Brennan and Burnski. Next up: komunal, Birmingham on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Faraz (UK) is a house and minimal artist based in United Kingdom, with 5 gigs on
 
 Boss Priester, Brennan, Burnski
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farazuk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farazuk/)*

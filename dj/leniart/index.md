@@ -1,6 +1,6 @@
 # Leniart
 
-Leniart is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
+Leniart is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
 
 Leniart is a techno and house artist based in Germany, with 8 gigs on soundcheck across Dortmund / Essen. Often billed alongside Metrapha, Flotze and D.Dan. Next up: Zeche Zollverein, Dortmund / Essen on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Leniart is a techno and house artist based in Germany, with 8 gigs on soundcheck
 
 Metrapha, Flotze, D.Dan
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leniart/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leniart/)*

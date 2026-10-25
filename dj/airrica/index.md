@@ -1,6 +1,6 @@
 # Airrica
 
-Airrica is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Airrica is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Airrica is a house and techno artist based in United States of America, with 101 gigs on soundcheck across Atlanta, Barcelona, Brussels and Calgary and 28 more. Often billed alongside Damian Lazarus, Black Coffee and Chloé Caillet. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Airrica is a house and techno artist based in United States of America, with 101
 
 Damian Lazarus, Black Coffee, Chloé Caillet
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/airrica/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/airrica/)*

@@ -1,6 +1,6 @@
 # Trent
 
-Trent is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sameheads, Berlin on Sat, 7 Nov 2026.
+Trent is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sameheads, Berlin on Sat, 7 Nov 2026.
 
 Trent is a house and disco artist based in Italy, with 45 gigs on soundcheck across Bangkok, Beijing, Berlin and Chicago and 15 more. Often billed alongside Juan Ramos, GreenVision and YAMARCHY. Next up: Sameheads, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Trent is a house and disco artist based in Italy, with 45 gigs on soundcheck acr
 
 Juan Ramos, GreenVision, YAMARCHY
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trent/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trent/)*

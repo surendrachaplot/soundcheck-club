@@ -1,18 +1,18 @@
 # LUMINE
 
-LUMINE is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
+LUMINE is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at BASIS, Utrecht on Sat, 7 Nov 2026.
 
-LUMINE is a house and trance artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Hamburg and Utrecht. Often billed alongside S3PPA, 22 Interns and 2HOT2PLAY. Next up: The Bulldog Palace, Amsterdam on Sat 24 Oct.
+LUMINE is a house and trance artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Hamburg and Utrecht. Often billed alongside S3PPA, 22 Interns and 2HOT2PLAY. Next up: BASIS, Utrecht on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Sat, 7 Nov 2026 | BASIS | Utrecht |
 
 ## Recently played
 
+- The Bulldog Palace, Amsterdam · Sat, 24 Oct 2026
 - Toekomstmuziek, Amsterdam · Wed, 21 Oct 2026
 - Toekomstmuziek, Amsterdam · Fri, 18 Sept 2026
 - Yellow House, Amsterdam · Fri, 28 Aug 2026
@@ -25,4 +25,4 @@ LUMINE is a house and trance artist based in Netherlands, with 9 gigs on soundch
 
 S3PPA, 22 Interns, 2HOT2PLAY
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumine/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumine/)*

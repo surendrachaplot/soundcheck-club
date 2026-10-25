@@ -1,14 +1,13 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "CAIVA, Vixen, steamboi" on Sat, 24 Oct 2026.
+Hangaren is a music venue in Copenhagen with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Bar' Funk" on Fri, 30 Oct 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 14 upcoming gigs, with line-ups including Anna Logic, babysquid, Bad Boombox and Baime and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, with line-ups including Anna Logic, babysquid, Bad Boombox and Baime and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | CAIVA, Vixen, steamboi | CAIVA, Vixen, steamboi |
 | Fri, 30 Oct 2026 | Bar' Funk |  |
 | Fri, 6 Nov 2026 | fumi, Sylvia, David Garset, Milo Makua | David Garset, Milo Makua, Sylvia (ES), fumi (DE) |
 | Sat, 7 Nov 2026 |  Cassie Raptor, Kardinal Bertram, LMN | Cassie Raptor, Kardinal Bertram, LMN (1) |
@@ -18,9 +17,10 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 14 upcoming gigs, 
 | Sat, 21 Nov 2026 | Part Time Killer, babysquid, Fanni Fluid, Eva Claudia   | Eva Claudia, Fanni Fluid, Part Time Killer, babysquid |
 | Fri, 27 Nov 2026 | Mac Declos (all night long) | Mac Declos |
 | Sat, 28 Nov 2026 | Britta Arnold, MiniMalene, OnsBerg | Britta Arnold, MiniMalene (2), OnsBerg |
+| Fri, 4 Dec 2026 | Diffrent | Diffrent |
 
 ## Address
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

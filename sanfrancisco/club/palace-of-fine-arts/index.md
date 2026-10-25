@@ -1,6 +1,6 @@
 # Palace of Fine Arts
 
-Palace of Fine Arts is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Ghost Palace Halloween" on Fri, 30 Oct 2026.
+Palace of Fine Arts is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Ghost Palace Halloween" on Fri, 30 Oct 2026.
 
 Palace of Fine Arts is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including Aluna, AMPRS&ND, Bedouin and BUCK/OFF and 2 more. See dates, start times and who's playing. 3601 Lyon Street, San Francisco, CA 94123.
 
@@ -16,4 +16,4 @@ Palace of Fine Arts is a music venue in San Francisco/Oakland listed on soundche
 
 3601 Lyon Street, San Francisco, CA 94123, San Francisco/Oakland
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/palace-of-fine-arts/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/palace-of-fine-arts/)*

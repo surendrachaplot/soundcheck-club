@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Autumn Rooftop House Party feat. Refrakt, Miss Hap" on Sun, 25 Oct 2026.
+The Sultan Room is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Autumn Rooftop House Party feat. Refrakt, Miss Hap" on Sun, 25 Oct 2026.
 
 The Sultan Room is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Lawyer. See dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -18,4 +18,4 @@ The Sultan Room is a music venue in New York City listed on soundcheck. 5 upcomi
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

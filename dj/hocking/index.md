@@ -1,6 +1,6 @@
 # Hocking
 
-Hocking is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Unmute, Hanoi on Fri, 30 Oct 2026.
+Hocking is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Unmute, Hanoi on Fri, 30 Oct 2026.
 
 Hocking is a house and techno artist, with 55 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and London. Often billed alongside Feelz, George Adore and K-Sang. Next up: Unmute, Hanoi on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Hocking is a house and techno artist, with 55 gigs on soundcheck across Bangkok,
 
 Feelz, George Adore, K-Sang
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hocking/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hocking/)*

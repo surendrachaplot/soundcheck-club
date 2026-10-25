@@ -1,14 +1,13 @@
 # Fleur Shore
 
-Fleur Shore is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
+Fleur Shore is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Studio Club Malaga, Malaga on Sun, 25 Oct 2026.
 
-Fleur Shore is a house and tech house artist based in United Kingdom, with 200 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 49 more. Often billed alongside Jamie Jones, Archie Hamilton and Prunk. Next up: Jimmy Woo, Amsterdam on Fri 23 Oct.
+Fleur Shore is a house and tech house artist based in United Kingdom, with 200 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 49 more. Often billed alongside Jamie Jones, Archie Hamilton and Prunk. Next up: Studio Club Malaga, Malaga on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Jimmy Woo | Amsterdam |
 | Sun, 25 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 31 Oct 2026 | Afrobar | Sicily |
 | Sat, 14 Nov 2026 | Warehouse ZRH | Zurich |
@@ -28,4 +27,4 @@ Fleur Shore is a house and tech house artist based in United Kingdom, with 200 g
 
 Jamie Jones, Archie Hamilton, Prunk
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*

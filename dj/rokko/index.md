@@ -1,6 +1,6 @@
 # Rokko
 
-Rokko is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Freedonia, Barcelona on Sat, 7 Nov 2026.
+Rokko is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Freedonia, Barcelona on Sat, 7 Nov 2026.
 
 Rokko is a techno and electronica artist, with 10 gigs on soundcheck across Amsterdam, Barcelona, Karlsruhe and Munich and 1 more. Often billed alongside TRAFFK, PABLØ (DE) and Arc Mode. Next up: Freedonia, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Rokko is a techno and electronica artist, with 10 gigs on soundcheck across Amst
 
 TRAFFK, PABLØ (DE), Arc Mode
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rokko/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rokko/)*

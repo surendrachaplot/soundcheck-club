@@ -1,6 +1,6 @@
 # Juanitablue
 
-Juanitablue is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Juanitablue is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Juanitablue is a techno and electronica artist based in Colombia, with 25 gigs on soundcheck across Bogotá. Often billed alongside Kabinett, Nuclear Digital Transistor and Bedriñana. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Juanitablue is a techno and electronica artist based in Colombia, with 25 gigs o
 
 Kabinett, Nuclear Digital Transistor, Bedriñana
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanitablue/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanitablue/)*

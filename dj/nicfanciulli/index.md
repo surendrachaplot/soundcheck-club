@@ -1,6 +1,6 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Caribbean Lake Park, Dominican-republic on Sat, 7 Nov 2026.
+Nic Fanciulli is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Caribbean Lake Park, Dominican-republic on Sat, 7 Nov 2026.
 
 Nic Fanciulli is a house and tech house artist based in United Kingdom, with 214 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 49 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Caribbean Lake Park, Dominican Republic on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Nic Fanciulli is a house and tech house artist based in United Kingdom, with 214
 
 Andrea Oliva, Raul Rodriguez, Chelina Manuhutu
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*

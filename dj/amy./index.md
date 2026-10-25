@@ -1,6 +1,6 @@
 # AMY.
 
-AMY. is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Solace, Melbourne on Sat, 7 Nov 2026.
+AMY. is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Solace, Melbourne on Sat, 7 Nov 2026.
 
 AMY. is a techno and bass artist based in Australia, with 21 gigs on soundcheck across Melbourne. Often billed alongside BDE, CAITY WATSON and ALIEN-A. Next up: Solace, Melbourne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ AMY. is a techno and bass artist based in Australia, with 21 gigs on soundcheck 
 
 BDE, CAITY WATSON, ALIEN-A
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amy./)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amy./)*

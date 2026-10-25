@@ -1,6 +1,6 @@
 # Europa (1)
 
-Europa (1) is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Badaboum, Paris on Thu, 29 Oct 2026.
+Europa (1) is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Badaboum, Paris on Thu, 29 Oct 2026.
 
 Europa is an experimental and club artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 22 more. Often billed alongside Sodomland, Emma DJ and Otis (BE). Next up: Badaboum, Paris on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Europa is an experimental and club artist based in Germany, with 74 gigs on soun
 
 Sodomland, Emma DJ, Otis (BE)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/europa-1/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/europa-1/)*

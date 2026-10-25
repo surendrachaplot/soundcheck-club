@@ -1,6 +1,6 @@
 # Bieu
 
-Bieu is a Baile Funk and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
+Bieu is a Baile Funk and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
 
 Bieu is a baile funk and electronica artist based in Portugal, with 40 gigs on soundcheck across Berlin, Brussels, Dublin and Geneva and 3 more. Often billed alongside S4DO, Maribell and xavbeatz. Next up: Beato 30, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bieu is a baile funk and electronica artist based in Portugal, with 40 gigs on s
 
 S4DO, Maribell, xavbeatz
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bieu/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bieu/)*

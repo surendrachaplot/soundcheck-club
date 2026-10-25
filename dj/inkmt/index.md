@@ -1,6 +1,6 @@
 # iNK MT
 
-iNK MT is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Liquid Club, Malta on Fri, 6 Nov 2026.
+iNK MT is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Liquid Club, Malta on Fri, 6 Nov 2026.
 
 iNK MT is a techno and minimal techno artist based in Malta, with 10 gigs on soundcheck across Berlin and Malta. Often billed alongside OBLX, Joshua Calleja and FIASKA. Next up: Liquid Club, Malta on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ iNK MT is a techno and minimal techno artist based in Malta, with 10 gigs on sou
 
 OBLX, Joshua Calleja, FIASKA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inkmt/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inkmt/)*

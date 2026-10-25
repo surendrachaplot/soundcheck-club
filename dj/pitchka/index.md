@@ -1,6 +1,6 @@
 # PITCHKA
 
-PITCHKA is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Revolver Upstairs, Melbourne on Mon, 2 Nov 2026.
+PITCHKA is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Revolver Upstairs, Melbourne on Mon, 2 Nov 2026.
 
 PITCHKA is a baile funk and house artist based in Australia, with 2 gigs on soundcheck across Melbourne. Often billed alongside Zalina, Aquenta and Deepa. Next up: Revolver Upstairs, Melbourne on Mon 2 Nov.
 
@@ -15,4 +15,4 @@ PITCHKA is a baile funk and house artist based in Australia, with 2 gigs on soun
 
 Zalina, Aquenta, Deepa
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchka/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchka/)*

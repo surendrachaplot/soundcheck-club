@@ -1,6 +1,6 @@
 # Hiatus Kaiyote
 
-Hiatus Kaiyote is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
+Hiatus Kaiyote is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
 
 Hiatus Kaiyote is a house and funk / soul artist based in Australia, with 8 gigs on soundcheck across Byron Bay, Melbourne, Mexico City and Paris and 1 more. Often billed alongside Benny Chiu, 1tbsp and Alex Rita. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Hiatus Kaiyote is a house and funk / soul artist based in Australia, with 8 gigs
 
 Benny Chiu, 1tbsp, Alex Rita
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiatuskaiyote/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiatuskaiyote/)*

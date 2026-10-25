@@ -1,14 +1,13 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Alizzz (DJ Set)" on Fri, 23 Oct 2026.
+Bar Oriente is a music venue in Mexico City with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Iñigo Vontier, Mensik, Satya" on Sat, 24 Oct 2026.
 
-Bar Oriente is a music venue in Mexico City listed on soundcheck. 11 upcoming gigs, with line-ups including acidheaven, AEREA, AJ Christou and Alatriste and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexico City listed on soundcheck. 10 upcoming gigs, with line-ups including AEREA, AJ Christou, Alatriste and Anastazja and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Alizzz (DJ Set) | Alizzz, Laura Put, acidheaven |
 | Sat, 24 Oct 2026 | Iñigo Vontier, Mensik, Satya | Iñigo Vontier, Mensik |
 | Wed, 28 Oct 2026 | Prana Musik |  |
 | Thu, 29 Oct 2026 | The Boogie Room | Alatriste, Cinema Paradisco, Drophem |
@@ -18,9 +17,10 @@ Bar Oriente is a music venue in Mexico City listed on soundcheck. 11 upcoming gi
 | Sat, 7 Nov 2026 | AEREA (live) | AEREA |
 | Fri, 13 Nov 2026 | 25 Years of Roam w/Jason Peters, Andre VII, Mijo, TBA | Andre VII, Jason Peters, Mijo |
 | Fri, 27 Nov 2026 | Radio Slave (U.K. - REKIDS) | Radio Slave |
+| Sat, 28 Nov 2026 | Simon Doty (Canada / Recess) | Simon Doty |
 
 ## Address
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

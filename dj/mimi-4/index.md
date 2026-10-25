@@ -1,6 +1,6 @@
 # Mimi (4)
 
-Mimi (4) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Mimi (4) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
 Mimi is a house and minimal artist based in Portugal, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 7 more. Often billed alongside Konstantin, Leafar Legov and Map.ache. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Mimi is a house and minimal artist based in Portugal, with 17 gigs on soundcheck
 
 Konstantin, Leafar Legov, Map.ache
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi-4/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi-4/)*

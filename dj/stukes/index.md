@@ -1,6 +1,6 @@
 # STUKES
 
-STUKES is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Loso, Richmond on Fri, 30 Oct 2026.
+STUKES is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Loso, Richmond on Fri, 30 Oct 2026.
 
 STUKES is a techno and house artist based in United States of America, with 42 gigs on soundcheck across Baltimore, Detroit, Los Angeles and New York City and 3 more. Often billed alongside B_X_R_N_X_R_D, Xav (US) and TonalTheory. Next up: Loso, Richmond on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ STUKES is a techno and house artist based in United States of America, with 42 g
 
 B_X_R_N_X_R_D, Xav (US), TonalTheory
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stukes/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stukes/)*

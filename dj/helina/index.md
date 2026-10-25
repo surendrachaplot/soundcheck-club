@@ -1,6 +1,6 @@
 # Helina
 
-Helina is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
+Helina is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
 
 Helina is a house and club artist based in Germany, with 43 gigs on soundcheck across Berlin, Copenhagen, Dresden and Frankfurt and 4 more. Often billed alongside JADA MORAES, ALBA and Beqqi. Next up: AMT, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Helina is a house and club artist based in Germany, with 43 gigs on soundcheck a
 
 JADA MORAES, ALBA (3), Beqqi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helina/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helina/)*

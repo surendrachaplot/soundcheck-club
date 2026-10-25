@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Julian Anthony is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Julian Anthony is a house and tech house artist based in Netherlands, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 34 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -9,7 +9,6 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 161 g
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
-| Sat, 24 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Fri, 20 Nov 2026 | BRET | Amsterdam |
 | Sat, 21 Nov 2026 | Quarters | Brighton |
@@ -18,6 +17,7 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 161 g
 
 ## Recently played
 
+- KIT Royal Tropical Institute, Amsterdam · Sat, 24 Oct 2026
 - Shelter Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - Gaswrx Birmingham, Birmingham · Sat, 17 Oct 2026
@@ -25,10 +25,9 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 161 g
 - 3oz Dive Club, San Diego · Fri, 9 Oct 2026
 - Cova Santa, Ibiza · Tue, 29 Sept 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
-- Dune Park, Buenos Aires · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Laidlaw, Voigtmann, Reeshy
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

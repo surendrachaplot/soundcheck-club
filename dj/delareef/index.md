@@ -1,6 +1,6 @@
 # De La Reef
 
-De La Reef is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Glove That Fits, London on Sat, 7 Nov 2026.
+De La Reef is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Glove That Fits, London on Sat, 7 Nov 2026.
 
 De La Reef is a house and techno artist based in Spain, with 64 gigs on soundcheck across Barcelona, Berlin, Brighton and Edinburgh and 2 more. Often billed alongside Alien Communications, Jos and Ste Roberts. Next up: The Glove That Fits, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ De La Reef is a house and techno artist based in Spain, with 64 gigs on soundche
 
 Alien Communications, Jos, Ste Roberts
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delareef/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delareef/)*

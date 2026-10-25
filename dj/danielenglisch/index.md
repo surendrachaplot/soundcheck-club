@@ -1,6 +1,6 @@
 # Daniel Englisch
 
-Daniel Englisch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Cologne on Sat, 23 Jan 2027.
+Daniel Englisch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Cologne on Sat, 23 Jan 2027.
 
 Daniel Englisch is a techno and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Cologne, Detroit and Utrecht. Often billed alongside Detune, Raw Underground and Redmadvelvet. Next up: TBA, Cologne on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Daniel Englisch is a techno and house artist based in Netherlands, with 17 gigs 
 
 Detune, Raw Underground, Redmadvelvet
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielenglisch/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielenglisch/)*

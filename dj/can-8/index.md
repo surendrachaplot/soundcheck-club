@@ -1,6 +1,6 @@
 # Can (8)
 
-Can (8) is a Experimental and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at clubasia, Tokyo on Sun, 25 Oct 2026.
+Can (8) is a Experimental and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at clubasia, Tokyo on Sun, 25 Oct 2026.
 
 Can is an experimental and house artist based in Japan, with 6 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Daichi Wago, DJ B2B and Eichi Abe. Next up: clubasia, Tokyo on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ Can is an experimental and house artist based in Japan, with 6 gigs on soundchec
 
 Daichi Wago, DJ B2B, Eichi Abe
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/can-8/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/can-8/)*

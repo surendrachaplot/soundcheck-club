@@ -1,6 +1,6 @@
 # HoneyLuv
 
-HoneyLuv is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
+HoneyLuv is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
 
 HoneyLuv is a house and tech house artist based in United States of America, with 185 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 48 more. Often billed alongside Dennis Ferrer, Nic Fanciulli and Andrea Oliva. Next up: Fleet Steps - Mrs Macquaries Point, Sydney on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ HoneyLuv is a house and tech house artist based in United States of America, wit
 
 Dennis Ferrer, Nic Fanciulli, Andrea Oliva
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*

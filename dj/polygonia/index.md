@@ -1,6 +1,6 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
+Polygonia is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
 
 Polygonia is a techno and house artist based in Germany, with 247 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 71 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
 
@@ -21,6 +21,7 @@ Polygonia is a techno and house artist based in Germany, with 247 gigs on soundc
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 24 Oct 2026
 - Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Lux Fragil, Lisbon · Fri, 16 Oct 2026
 - Video Club, Bogotá · Fri, 18 Sept 2026
@@ -28,10 +29,9 @@ Polygonia is a techno and house artist based in Germany, with 247 gigs on soundc
 - MTELUS, Montreal · Fri, 28 Aug 2026
 - Esplanade Tranquille, Montreal · Thu, 27 Aug 2026
 - Quartier Des Spectacles, Montreal · Tue, 25 Aug 2026
-- Ääniwalli, Helsinki · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 GiGi FM, BASHKKA, Efdemin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*

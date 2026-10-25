@@ -1,6 +1,6 @@
 # rahi4ever
 
-rahi4ever is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Rhythm, Toronto on Sun, 25 Oct 2026.
+rahi4ever is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Rhythm, Toronto on Sun, 25 Oct 2026.
 
 rahi4ever is a house and tech house artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside Tomb Raver, Ardalan and Burnii. Next up: Rhythm, Toronto on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ rahi4ever is a house and tech house artist based in Canada, with 10 gigs on soun
 
 Tomb Raver, Ardalan, Burnii
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rahi4ever/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rahi4ever/)*

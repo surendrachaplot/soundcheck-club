@@ -1,14 +1,13 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "SALO / ALLNIGHTER: Midirama" on Sat, 24 Oct 2026.
+Fuchs2 is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Krallice + Kailas" on Sun, 25 Oct 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | SALO / ALLNIGHTER: Midirama | Midirama |
 | Sun, 25 Oct 2026 | Krallice + Kailas |  |
 | Tue, 27 Oct 2026 | EELF Presents - Prague: Shaolin Cowboy, GEE LEE, Paluma Sound, AVHD | AVHD, GEE LEE, Paluma Sound, Shaolin Cowboy |
 | Fri, 30 Oct 2026 | BRVTAL HALLOWEEN: Ancient Methods ☆ The Brvtalist ☆ Nastya Muravyova ☆ C4AT ☆ Kat Kat Tat | Ancient Methods, Kat Kat Tat, Lillou, Nastya Muravyova, The Brvtalist |
@@ -18,9 +17,10 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with l
 | Thu, 12 Nov 2026 | SALO: Lovačka Srca Takeover | VLZQUES |
 | Sat, 14 Nov 2026 | X-RAY MEETS SWITCH: Mez & Grandmixxer | Dj Alyaz, Grandmixxer, JohnyM, Limit Eight |
 | Mon, 16 Nov 2026 | ALL NIGHT LONG: SJ Yellow | SJ Yellow |
+| Fri, 27 Nov 2026 | WRONG 10 YEARS with Prison Religion, Wick, Zaffer 9 | ESTER., Prison Religion, tmk (CZ) |
 
 ## Address
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

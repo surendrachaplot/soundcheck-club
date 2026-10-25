@@ -1,6 +1,6 @@
 # Dignos
 
-Dignos is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Manila on Sat, 31 Oct 2026.
+Dignos is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Manila on Sat, 31 Oct 2026.
 
 Dignos is a techno and trance artist, with 21 gigs on soundcheck across Hanoi, Hong Kong, Manila and Singapore. Often billed alongside Karlo, T33G33 and Shaoxing. Next up: TBA, Manila on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dignos is a techno and trance artist, with 21 gigs on soundcheck across Hanoi, H
 
 Karlo, T33G33, Shaoxing
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dignos/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dignos/)*

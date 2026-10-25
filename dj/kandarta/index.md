@@ -1,6 +1,6 @@
 # Kandarta
 
-Kandarta is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at WOMB, Tokyo on Fri, 27 Nov 2026.
+Kandarta is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at WOMB, Tokyo on Fri, 27 Nov 2026.
 
 Kandarta is a techno and tech house artist based in Japan, with 15 gigs on soundcheck across Ibiza and Tokyo. Often billed alongside RYOHEI, Louis Shannon and SAITO. Next up: WOMB, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kandarta is a techno and tech house artist based in Japan, with 15 gigs on sound
 
 RYOHEI, Louis Shannon, SAITO
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kandarta/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kandarta/)*

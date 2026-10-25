@@ -1,6 +1,6 @@
 # Sam Goku
 
-Sam Goku is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
+Sam Goku is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
 
 Sam Goku is a techno and house artist, with 79 gigs on soundcheck across Amsterdam, Beijing, Berlin and Brussels and 21 more. Often billed alongside Rosa Red, Benjamin Fröhlich and Glaskin. Next up: nachbar, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Sam Goku is a techno and house artist, with 79 gigs on soundcheck across Amsterd
 
 Rosa Red, Benjamin Fröhlich, Glaskin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgoku/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgoku/)*

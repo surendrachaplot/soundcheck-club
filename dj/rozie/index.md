@@ -1,6 +1,6 @@
 # Rozie
 
-Rozie is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 30 Oct 2026.
+Rozie is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 30 Oct 2026.
 
 Rozie is a house and trance artist based in Netherlands, with 83 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Münster and 5 more. Often billed alongside Moody Mehran, Benwal and Freddi. Next up: Complex Maastricht, Netherlands on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Rozie is a house and trance artist based in Netherlands, with 83 gigs on soundch
 
 Moody Mehran, Benwal, Freddi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozie/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozie/)*

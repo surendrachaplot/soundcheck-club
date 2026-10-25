@@ -1,6 +1,6 @@
 # Sam Gino
 
-Sam Gino is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Teres at Jj's, Bahrain on Fri, 30 Oct 2026.
+Sam Gino is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Teres at Jj's, Bahrain on Fri, 30 Oct 2026.
 
 Sam Gino is an afro house and house artist based in Bulgaria, with 15 gigs on soundcheck across Bahrain, Dubai and Tanzania. Often billed alongside KENZA KAYATI, Paul Svenson and Agha. Next up: Teres at Jj's, Bahrain on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Sam Gino is an afro house and house artist based in Bulgaria, with 15 gigs on so
 
 KENZA KAYATI, Paul Svenson (2), Agha
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgino/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgino/)*

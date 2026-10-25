@@ -1,6 +1,6 @@
 # Albano Bastonero
 
-Albano Bastonero is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sun, 25 Oct 2026.
+Albano Bastonero is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sun, 25 Oct 2026.
 
 Albano Bastonero is a progressive house and techno artist based in Argentina, with 23 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Ibiza and 2 more. Often billed alongside Tim Andresen, John Cosani and Nick Varon. Next up: Kadinsky Cafe, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Albano Bastonero is a progressive house and techno artist based in Argentina, wi
 
 Tim Andresen, John Cosani, Nick Varon
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albanobastonero/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albanobastonero/)*

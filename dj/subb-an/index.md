@@ -1,6 +1,6 @@
 # Subb-an
 
-Subb-an is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Loft Studios, London on Fri, 30 Oct 2026.
+Subb-an is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Loft Studios, London on Fri, 30 Oct 2026.
 
 Subb-an is a house and tech house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 30 more. Often billed alongside Anika Kunst, Bunny and Croft. Next up: Loft Studios, London on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Subb-an is a house and tech house artist based in United Kingdom, with 64 gigs o
 
 Anika Kunst, Bunny, Croft (1)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*

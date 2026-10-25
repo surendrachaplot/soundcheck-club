@@ -1,6 +1,6 @@
 # marienus
 
-marienus is a New Wave and EBM artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at export, Rotterdam on Fri, 30 Oct 2026.
+marienus is a New Wave and EBM artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at export, Rotterdam on Fri, 30 Oct 2026.
 
 marienus is a new wave and ebm artist, with 12 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and Utrecht. Often billed alongside kimmah, Garçon Taupe and Marsman. Next up: export, Rotterdam on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ marienus is a new wave and ebm artist, with 12 gigs on soundcheck across Amsterd
 
 kimmah, Garçon Taupe, Marsman
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marienus/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marienus/)*

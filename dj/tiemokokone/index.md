@@ -1,6 +1,6 @@
 # Tièmoko Koné
 
-Tièmoko Koné is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Disco Zwei, Mannheim on Fri, 30 Oct 2026.
+Tièmoko Koné is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Disco Zwei, Mannheim on Fri, 30 Oct 2026.
 
 Tièmoko Koné is a techno and house artist based in Germany, with 10 gigs on soundcheck across Auckland, Berlin, Christchurch and Frankfurt and 3 more. Often billed alongside Keepsakes, The Rat and Alex.Do. Next up: Disco Zwei, Mannheim on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tièmoko Koné is a techno and house artist based in Germany, with 10 gigs on so
 
 Keepsakes, The Rat, Alex.Do
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiemokokone/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiemokokone/)*

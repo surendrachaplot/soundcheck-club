@@ -1,14 +1,13 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "OPSYGENE #8" on Sat, 24 Oct 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Eify + FOGG + Licking Rainbows" on Thu, 29 Oct 2026.
 
-Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
+Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | OPSYGENE #8 |  |
 | Thu, 29 Oct 2026 | Eify + FOGG + Licking Rainbows |  |
 | Fri, 30 Oct 2026 | Freddie's Kings + Margot Viotti |  |
 | Sat, 31 Oct 2026 | Halloween Rock Party Vol.2 |  |
@@ -23,4 +22,4 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 10 upcoming gi
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

@@ -1,14 +1,13 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Len Faki is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 30 Oct 2026.
 
-Len Faki is a techno and house artist based in Germany, with 164 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Daria Kolosova, Sam Paganini and Chris Liebing. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+Len Faki is a techno and house artist based in Germany, with 164 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Daria Kolosova, Sam Paganini and Chris Liebing. Next up: RSO.BERLIN, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Sat, 14 Nov 2026 | Lofi | Amsterdam |
@@ -19,6 +18,7 @@ Len Faki is a techno and house artist based in Germany, with 164 gigs on soundch
 
 ## Recently played
 
+- Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
 - VIERNULVIER, Ghent · Sat, 17 Oct 2026
 - Hafen 49, Mannheim · Sat, 3 Oct 2026
 - Forte Antenne, Rome · Fri, 2 Oct 2026
@@ -26,10 +26,9 @@ Len Faki is a techno and house artist based in Germany, with 164 gigs on soundch
 - Else, Berlin · Sun, 20 Sept 2026
 - Phonox, London · Sat, 19 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
-- Forte Antenne, Rome · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Daria Kolosova, Sam Paganini, Chris Liebing
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*

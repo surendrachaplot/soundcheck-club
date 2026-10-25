@@ -1,14 +1,13 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "LOCAL with BODY//WORK" on Sat, 24 Oct 2026.
+Plot 22 is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "LOCAL with HIJACK" on Fri, 30 Oct 2026.
 
-Plot 22 is a music venue in Sheffield listed on soundcheck. 5 upcoming gigs, with line-ups including Archie Gray, Kid Lib, Soul Mass Transit System and Tommy Badman and 1 more. See dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
+Plot 22 is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs, with line-ups including Archie Gray, Kid Lib, Soul Mass Transit System and Tommy Badman and 1 more. See dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | LOCAL with BODY//WORK |  |
 | Fri, 30 Oct 2026 | LOCAL with HIJACK |  |
 | Fri, 6 Nov 2026 | Soul Mass Transit System presents: Grand Soul Central - All Night Long - Sheffield | Soul Mass Transit System |
 | Fri, 4 Dec 2026 | Simpler Times 04.12.26 | Archie Gray, Tys (1) |
@@ -18,4 +17,4 @@ Plot 22 is a music venue in Sheffield listed on soundcheck. 5 upcoming gigs, wit
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

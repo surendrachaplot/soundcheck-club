@@ -1,6 +1,6 @@
 # Chico
 
-Chico is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Parallel, Amsterdam on Sat, 24 Oct 2026.
+Chico is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Parallel, Amsterdam on Sat, 24 Oct 2026.
 
 Chico is a hip-hop and techno artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Chicago, Dundee and Glasgow and 3 more. Often billed alongside Lbert, Nova Caza and Aetha. Next up: Parallel, Amsterdam on Sat 24 Oct.
 
@@ -12,6 +12,7 @@ Chico is a hip-hop and techno artist based in Germany, with 16 gigs on soundchec
 
 ## Recently played
 
+- Parallel, Amsterdam · Sat, 24 Oct 2026
 - The Roxy, Los Angeles · Sat, 3 Oct 2026
 - TBA, Amsterdam · Sun, 27 Sept 2026
 - Club 69, Glasgow · Fri, 11 Sept 2026
@@ -19,10 +20,9 @@ Chico is a hip-hop and techno artist based in Germany, with 16 gigs on soundchec
 - SISSI'S Amsterdam, Amsterdam · Sun, 26 Apr 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 31 Jan 2026
 - Kadinsky Cafe, Amsterdam · Fri, 12 Dec 2025
-- Skatecafe, Amsterdam · Sat, 4 Oct 2025
 
 ## Shares bills with
 
 Lbert, Nova Caza, Aetha
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chico/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chico/)*

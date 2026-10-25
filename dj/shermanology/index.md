@@ -1,6 +1,6 @@
 # Shermanology
 
-Shermanology is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Quartyard, San Diego on Sat, 7 Nov 2026.
+Shermanology is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Quartyard, San Diego on Sat, 7 Nov 2026.
 
 Shermanology is a house and tech house artist based in Curacao, with 106 gigs on soundcheck across Amsterdam, Austin, Basel and Boston and 32 more. Often billed alongside Sam Divine, Eats Everything and Arielle Free. Next up: Quartyard, San Diego on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Shermanology is a house and tech house artist based in Curacao, with 106 gigs on
 
 Sam Divine, Eats Everything, Arielle Free
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*

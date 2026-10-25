@@ -1,6 +1,6 @@
 # The Goodfoot
 
-The Goodfoot is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Bollywood Horror XXIV with DJ Anjali and The Incredible Kid" on Sat, 31 Oct 2026.
+The Goodfoot is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Bollywood Horror XXIV with DJ Anjali and The Incredible Kid" on Sat, 31 Oct 2026.
 
 The Goodfoot is a music venue in Portland listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 2845 SE Stark Street, Portland, Oregon 97214, USA'.
 
@@ -15,4 +15,4 @@ The Goodfoot is a music venue in Portland listed on soundcheck. 2 upcoming gigs.
 
 2845 SE Stark Street, Portland, Oregon 97214, USA', Portland
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-goodfoot/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-goodfoot/)*

@@ -1,6 +1,6 @@
 # Holly Why
 
-Holly Why is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Grow, London on Fri, 30 Oct 2026.
+Holly Why is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Grow, London on Fri, 30 Oct 2026.
 
 Holly Why is a minimal and house artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Birmingham, Leeds and Liverpool and 3 more. Often billed alongside Damian Nova, Josh Demello and Kearun. Next up: Grow, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Holly Why is a minimal and house artist based in United Kingdom, with 34 gigs on
 
 Damian Nova, Josh Demello, Kearun
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hollywhy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hollywhy/)*

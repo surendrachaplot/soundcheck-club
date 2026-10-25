@@ -1,8 +1,8 @@
 # Dru Ruiz
 
-Dru Ruiz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Spkrbox, Detroit on Sun, 25 Oct 2026.
+Dru Ruiz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Spkrbox, Detroit on Sun, 25 Oct 2026.
 
-Dru Ruiz is a techno and house artist based in United States of America, with 150 gigs on soundcheck across Chicago, Detroit, New York City and Tampa Bay. Often billed alongside DJ Hyperactive, Garrison XR and LATEX GIRL. Next up: Spkrbox, Detroit on Sun 25 Oct.
+Dru Ruiz is a techno and house artist based in United States of America, with 151 gigs on soundcheck across Chicago, Detroit, Michigan and New York City and 1 more. Often billed alongside DJ Hyperactive, Garrison XR and LATEX GIRL. Next up: Spkrbox, Detroit on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dru Ruiz is a techno and house artist based in United States of America, with 15
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Spkrbox | Detroit |
 | Sat, 31 Oct 2026 | Lincoln Factory | Detroit |
+| Fri, 4 Dec 2026 | TBA | Michigan |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Dru Ruiz is a techno and house artist based in United States of America, with 15
 
 DJ Hyperactive, Garrison XR, LATEX GIRL
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/druruiz/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/druruiz/)*

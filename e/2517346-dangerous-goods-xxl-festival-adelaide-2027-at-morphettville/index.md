@@ -1,6 +1,6 @@
 # Dangerous Goods XXL Festival - Adelaide 2027 at Morphettville Racecourse
 
-Dangerous Goods XXL Festival - Adelaide 2027 at Morphettville Racecourse on Sat 23 Jan, Adelaide. 5 artists: Adam Bartas, ASLO, Holy Priest and Nik Kastel and 1 more. See the line-up on soundcheck.
+Dangerous Goods XXL Festival - Adelaide 2027 at Morphettville Racecourse on Sat 23 Jan, Adelaide. 5 artists: Adam Bartas, ASLO, Holy Priest and Nik Kastel and 1 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

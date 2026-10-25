@@ -1,6 +1,6 @@
 # SAVBEA
 
-SAVBEA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Bike Jesus, Prague on Sat, 31 Oct 2026.
+SAVBEA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bike Jesus, Prague on Sat, 31 Oct 2026.
 
 SAVBEA is a techno and house artist based in Ukraine, with 28 gigs on soundcheck across Prague. Often billed alongside Katrixia, OKSI and XENEA LUMRA. Next up: Bike Jesus, Prague on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ SAVBEA is a techno and house artist based in Ukraine, with 28 gigs on soundcheck
 
 Katrixia, OKSI, XENEA LUMRA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savbea/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savbea/)*

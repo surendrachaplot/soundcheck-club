@@ -1,6 +1,6 @@
 # yung_womb
 
-yung_womb is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
+yung_womb is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
 
 yung_womb is a bass and techno artist based in Colombia, with 81 gigs on soundcheck across Berlin, Bogotá, Cologne and Colombia and 7 more. Often billed alongside SLIC Unit, Nissa Carrington and Slimgirl fat. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ yung_womb is a bass and techno artist based in Colombia, with 81 gigs on soundch
 
 SLIC Unit, Nissa Carrington, Slimgirl fat
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yung_womb/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yung_womb/)*

@@ -1,15 +1,13 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+DJ BORING is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-DJ BORING is a house and techno artist based in Australia, with 232 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+DJ BORING is a house and techno artist based in Australia, with 232 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
-| Sat, 24 Oct 2026 | Ciało | Wroclaw |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Industry City | New York City |
 | Fri, 13 Nov 2026 | TBA | Amsterdam |
@@ -22,6 +20,7 @@ DJ BORING is a house and techno artist based in Australia, with 232 gigs on soun
 
 ## Recently played
 
+- Ciało, Wroclaw · Sat, 24 Oct 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - WestWeelde, Amsterdam · Thu, 22 Oct 2026
 - Klymax Discotheque, Bali · Fri, 2 Oct 2026
@@ -29,10 +28,9 @@ DJ BORING is a house and techno artist based in Australia, with 232 gigs on soun
 - The Foundry, San Francisco/Oakland · Fri, 18 Sept 2026
 - Academy LA, Los Angeles · Sat, 12 Sept 2026
 - Village Studios, Vancouver · Fri, 11 Sept 2026
-- Substation, Seattle · Thu, 10 Sept 2026
 
 ## Shares bills with
 
 Sally C, salute, DJ Seinfeld
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*

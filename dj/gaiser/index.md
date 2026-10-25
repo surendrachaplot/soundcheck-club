@@ -1,6 +1,6 @@
 # Gaiser
 
-Gaiser is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
+Gaiser is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
 
 Gaiser is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Amsterdam, Athens, Berlin and Denver and 4 more. Often billed alongside Laure Croft, Shosho and 999999999. Next up: Supperclub Cruise, Amsterdam on Sat 24 Oct.
 
@@ -12,6 +12,7 @@ Gaiser is a techno and house artist based in United States of America, with 12 g
 
 ## Recently played
 
+- Supperclub Cruise, Amsterdam · Sat, 24 Oct 2026
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - BRET, Amsterdam · Thu, 22 Oct 2026
 - TBA - warehouse Denver Colorado , Denver · Sat, 22 Aug 2026
@@ -19,10 +20,9 @@ Gaiser is a techno and house artist based in United States of America, with 12 g
 - Sofia Airport Park, Sofia · Fri, 19 Jun 2026
 - Tresor / Globus, Berlin · Fri, 8 May 2026
 - Grelle Forelle, Vienna · Fri, 26 Sept 2025
-- Oddity Club, Athens · Sun, 31 Dec 2023
 
 ## Shares bills with
 
 Laure Croft, Shosho, 999999999
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiser/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiser/)*

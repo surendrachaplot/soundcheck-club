@@ -1,6 +1,6 @@
 # Espitia (2)
 
-Espitia (2) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Video Club, Bogotá on Sat, 31 Oct 2026.
+Espitia (2) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Video Club, Bogotá on Sat, 31 Oct 2026.
 
 Espitia is a house and club artist based in Colombia, with 59 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Antonio C, Memek and Charlie Florez. Next up: Video Club, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Espitia is a house and club artist based in Colombia, with 59 gigs on soundcheck
 
 Antonio C, Memek, Charlie Florez
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/espitia-2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/espitia-2/)*

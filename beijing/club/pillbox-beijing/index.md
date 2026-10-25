@@ -1,13 +1,14 @@
 # Pillbox Beijing
 
-Pillbox Beijing is a music venue in Beijing with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Antigen pres. 底特律传奇Electro组合Dopplereffekt三十周年巡演" on Sat, 24 Oct 2026.
+Pillbox Beijing is a music venue in Beijing with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "八仙过海: The Eight Immortals" on Fri, 30 Oct 2026.
 
-Pillbox Beijing is a music venue in Beijing listed on soundcheck. 1 upcoming gig, with line-ups including Dopplereffekt, T.K.L and W.X.M. See dates, start times and who's playing.
+Pillbox Beijing is a music venue in Beijing listed on soundcheck. 2 upcoming gigs, with line-ups including Bearback, d.i.o., Errorsmith and Evian Christ and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Antigen pres. 底特律传奇Electro组合Dopplereffekt三十周年巡演 | Dopplereffekt, T.K.L, W.X.M |
+| Fri, 30 Oct 2026 | 八仙过海: The Eight Immortals | MELATRONIX, S.M.S.H, Skögul, W.X.M |
+| Sat, 31 Oct 2026 | Antigen pres. Evian Christ + Errorsmith | Bearback, Errorsmith, Evian Christ, d.i.o. |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/pillbox-beijing/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/pillbox-beijing/)*

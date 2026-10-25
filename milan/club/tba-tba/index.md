@@ -1,14 +1,13 @@
 # TBA - TBA 
 
-TBA - TBA  is a music venue in Milan with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DISCOS BARATOS E ORGANIKKA (BARCELONA) NO RIO DE JANEIRO" on Sat, 24 Oct 2026.
+TBA - TBA  is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "INFINITY FM _ presenta Giuliano Porcelli" on Sun, 25 Oct 2026.
 
-TBA - TBA  is a music venue in Milan listed on soundcheck. 8 upcoming gigs, with line-ups including Blason, Dana Kuehr, Ethan. and Giuliano Porcelli and 2 more. See dates, start times and who's playing.
+TBA - TBA  is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with line-ups including Blason, Dana Kuehr, Ethan. and Giuliano Porcelli and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | DISCOS BARATOS E ORGANIKKA (BARCELONA) NO RIO DE JANEIRO |  |
 | Sun, 25 Oct 2026 | INFINITY FM _ presenta Giuliano Porcelli | Giuliano Porcelli |
 | Fri, 30 Oct 2026 | Guest Giuliano Porcelli su X-Centri1c | Giuliano Porcelli |
 | Fri, 27 Nov 2026 | Guest Giuliano Porcelli su X-Centri1c | Giuliano Porcelli |
@@ -17,4 +16,4 @@ TBA - TBA  is a music venue in Milan listed on soundcheck. 8 upcoming gigs, with
 | Fri, 25 Dec 2026 | Guest Giuliano Porcelli su X-Centri1c | Giuliano Porcelli |
 | Sun, 27 Dec 2026 | INFINITY FM _ presenta Giuliano Porcelli | Giuliano Porcelli |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-tba/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-tba/)*

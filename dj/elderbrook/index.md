@@ -1,6 +1,6 @@
 # Elderbrook
 
-Elderbrook is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Elderbrook is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 Elderbrook is a house and electro artist based in United Kingdom, with 104 gigs on soundcheck across Atlanta, Austin, Bali and Barcelona and 49 more. Often billed alongside Cassian, Boys Noize and Eli Brown. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Elderbrook is a house and electro artist based in United Kingdom, with 104 gigs 
 
 Cassian, Boys Noize, Eli Brown
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*

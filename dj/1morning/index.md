@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and Club artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Green Room NYC, New York City on Fri, 30 Oct 2026.
+1morning is a Techno and Club artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Green Room NYC, New York City on Fri, 30 Oct 2026.
 
 1morning is a techno and club artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside Akua, Regal86 and DJ Stingray 313. Next up: Green Room NYC, New York City on Fri 30 Oct.
 
@@ -30,4 +30,4 @@
 
 Akua, Regal86, DJ Stingray 313
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

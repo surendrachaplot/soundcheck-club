@@ -1,6 +1,6 @@
 # EMPERØR
 
-EMPERØR is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - UPON REGISTRATION, Athens on Sun, 1 Nov 2026.
+EMPERØR is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - UPON REGISTRATION, Athens on Sun, 1 Nov 2026.
 
 EMPERØR is a techno and acid artist based in Greece, with 19 gigs on soundcheck across Athens. Often billed alongside NAAMAA, Alisa Murphy and Ther3min. Next up: TBA - UPON REGISTRATION, Athens on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ EMPERØR is a techno and acid artist based in Greece, with 19 gigs on soundcheck
 
 NAAMAA, Alisa Murphy, Ther3min
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emperor/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emperor/)*

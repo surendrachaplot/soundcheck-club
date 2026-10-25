@@ -1,14 +1,13 @@
 # Giri
 
-Giri is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Satelliet Studio" on Sat, 24 Oct 2026.
+Giri is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Occultists Showcase" on Wed, 28 Oct 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Am Nil, ANNARA, Aton and Avilynn and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Am Nil, ANNARA, Avilynn and BIUSH and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Satelliet Studio | Aton, Daraio, Linda shiro, Otis (CA) |
 | Wed, 28 Oct 2026 | Occultists Showcase | James Demon, Nicky Miller, Special Guest (US) |
 | Thu, 29 Oct 2026 | Fundraiser for Palestine |  |
 | Fri, 30 Oct 2026 | PATIKA presents: Witches get stitches | BIUSH, BUSSI, CSILLA, LynnMayya, Neksi |
@@ -18,9 +17,10 @@ Giri is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with lin
 | Fri, 6 Nov 2026 | Giri x OFF THE RECORD  | Am Nil, Avilynn, Revenanth |
 | Wed, 11 Nov 2026 | Giri presents Baci Concert |  |
 | Thu, 12 Nov 2026 | Giri invites |  |
+| Fri, 13 Nov 2026 | Giri x Éclat release |  |
 
 ## Address
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

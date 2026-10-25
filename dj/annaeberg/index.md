@@ -1,6 +1,6 @@
 # Anna Eberg
 
-Anna Eberg is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Philadelphia, Philadelphia on Sat, 5 Dec 2026.
+Anna Eberg is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Philadelphia, Philadelphia on Sat, 5 Dec 2026.
 
 Anna Eberg is a techno and trance artist based in United States of America, with 27 gigs on soundcheck across Boston, New York City and Philadelphia. Often billed alongside ANDRÉS GARCIL, PHIL TY and CSILLA. Next up: TBA - Philadelphia, Philadelphia on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Anna Eberg is a techno and trance artist based in United States of America, with
 
 ANDRÉS GARCIL, PHIL TY, CSILLA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaeberg/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaeberg/)*

@@ -1,15 +1,14 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Signature Techno After party - Open until 10am" on Sat, 24 Oct 2026.
+Union Club, Vauxhall is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Signature Techno After party - Open until 10am" on Sat, 24 Oct 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Rebel, Armooniaman, Chopper and Cristian Ebasta and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Rebel, Armooniaman, Chopper and Cristian Ebasta and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Signature Techno After party - Open until 10am | Armooniaman, Luigi Imperato, Sophia Nicole, Thomas Galbardi |
-| Sat, 24 Oct 2026 | Orbit Sunday night / Monday morning after party | Nero, Thomas Galbardi, Vortex x |
 | Sun, 25 Oct 2026 | Orbit Sunday night / Monday morning after party | Giusy S (2), MYMA, Thomas Galbardi |
 | Thu, 29 Oct 2026 | DESIRE - Weekly Thursday After Party - HALLOWEEN SPECIAL | Dhez, Duwat?, Elisa Nau., Simone Sim |
 | Fri, 30 Oct 2026 | AFTER PARTY - FOX IN THE HAUNTED BOX  (SPECIAL GUESTS  UNTIL 10 AM ) | Alex Rebel, Chopper, Cristian Ebasta, Dani B, El Cassar, Enrico Chirchiello, Jess Bays, Loora, Monnay, Moonz, Picep, Saphyne, Sonho |
@@ -20,4 +19,4 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 7 upcoming
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

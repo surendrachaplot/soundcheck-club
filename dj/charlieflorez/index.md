@@ -1,6 +1,6 @@
 # Charlie Florez
 
-Charlie Florez is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 50 | 50, Medellin on Fri, 30 Oct 2026.
+Charlie Florez is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 50 | 50, Medellin on Fri, 30 Oct 2026.
 
 Charlie Florez is a house and club artist based in Colombia, with 45 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Memek, Panthora and Julio Garcés. Next up: 50 | 50, Medellin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Charlie Florez is a house and club artist based in Colombia, with 45 gigs on sou
 
 Memek, Panthora, Julio Garcés
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieflorez/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieflorez/)*

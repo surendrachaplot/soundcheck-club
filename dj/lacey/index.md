@@ -1,6 +1,6 @@
 # LACEY
 
-LACEY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at SIX Feet Under, Cardiff on Fri, 30 Oct 2026.
+LACEY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at SIX Feet Under, Cardiff on Fri, 30 Oct 2026.
 
 LACEY is a house and tech house artist, with 15 gigs on soundcheck across Bristol, Cardiff, Ibiza and Leeds and 4 more. Often billed alongside ELLIS, Lacey IQ and Yazmin Lacey. Next up: SIX Feet Under, Cardiff on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ LACEY is a house and tech house artist, with 15 gigs on soundcheck across Bristo
 
 ELLIS (2), Lacey IQ, Yazmin Lacey
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacey/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacey/)*

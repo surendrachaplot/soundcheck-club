@@ -1,6 +1,6 @@
 # Peter Pan
 
-Peter Pan is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Weberknecht, Vienna on Fri, 30 Oct 2026.
+Peter Pan is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Weberknecht, Vienna on Fri, 30 Oct 2026.
 
 Peter Pan is a tech house and techno artist, with 13 gigs on soundcheck across Barcelona, Oslo and Vienna. Often billed alongside Terje Saether, Carina Helen and Eric Small. Next up: Weberknecht, Vienna on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Peter Pan is a tech house and techno artist, with 13 gigs on soundcheck across B
 
 Terje Saether, Carina Helen, Eric Small
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpan-no/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpan-no/)*

@@ -1,6 +1,6 @@
 # Handmade
 
-Handmade is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 7 Nov 2026.
+Handmade is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 7 Nov 2026.
 
 Handmade is a techno and house artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 18 more. Often billed alongside VCO, Madalba and Kingsizebed. Next up: Tresor / Globus, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Handmade is a techno and house artist based in Germany, with 114 gigs on soundch
 
 VCO, Madalba, Kingsizebed
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/handmade/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/handmade/)*

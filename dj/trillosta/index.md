@@ -1,6 +1,6 @@
 # trillosta
 
-trillosta is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Elysia, Basel on Sat, 31 Oct 2026.
+trillosta is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Elysia, Basel on Sat, 31 Oct 2026.
 
 trillosta is a techno and trance artist based in Belgium, with 62 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 4 more. Often billed alongside Wannes Lenaers, Helena Lauwaert and Pegassi. Next up: Elysia, Basel on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ trillosta is a techno and trance artist based in Belgium, with 62 gigs on soundc
 
 Wannes Lenaers, Helena Lauwaert, Pegassi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trillosta/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trillosta/)*

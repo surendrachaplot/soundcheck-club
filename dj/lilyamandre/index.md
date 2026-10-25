@@ -1,6 +1,6 @@
 # Lilya Mandre
 
-Lilya Mandre is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Airport Düsseldorf, Düsseldorf on Sat, 31 Oct 2026.
+Lilya Mandre is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Airport Düsseldorf, Düsseldorf on Sat, 31 Oct 2026.
 
 Lilya Mandre is a house and afro house artist based in Morocco, with 30 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Ibiza and 12 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: Airport Düsseldorf, Düsseldorf on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Lilya Mandre is a house and afro house artist based in Morocco, with 30 gigs on 
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyamandre/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyamandre/)*

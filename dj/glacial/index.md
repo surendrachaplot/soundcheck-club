@@ -1,6 +1,6 @@
 # Glacial
 
-Glacial is a Psytrance and IDM artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
+Glacial is a Psytrance and IDM artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
 
 Glacial is a psytrance and idm artist, with 4 gigs on soundcheck across Sydney. Often billed alongside Eternal Soul, Nyctophungi and $CRAIC. Next up: TBA, Sydney on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Glacial is a psytrance and idm artist, with 4 gigs on soundcheck across Sydney. 
 
 Eternal Soul, Nyctophungi, $CRAIC
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glacial/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glacial/)*

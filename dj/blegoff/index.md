@@ -1,6 +1,6 @@
 # B Le Goff
 
-B Le Goff is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 20 Oct 2026.
+B Le Goff is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 20 Oct 2026.
 
 B Le Goff is an electronica and downtempo artist, with 23 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, EM2K and Palmi. Next up: Drama Radio Bar, Mexico City on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ B Le Goff is an electronica and downtempo artist, with 23 gigs on soundcheck acr
 
 Bluecommand, EM2K, Palmi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blegoff/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blegoff/)*

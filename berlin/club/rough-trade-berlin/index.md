@@ -1,6 +1,6 @@
 # Rough Trade Berlin
 
-Rough Trade Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Chloé: 'Shape of the Unknown' DJ Set + Signing" on Wed, 18 Nov 2026.
+Rough Trade Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Chloé: 'Shape of the Unknown' DJ Set + Signing" on Wed, 18 Nov 2026.
 
 Rough Trade Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Chloé and Flexonaut. See dates, start times and who's playing. Karl-Marx-Straße 101, 12043 Berlin.
 
@@ -14,4 +14,4 @@ Rough Trade Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming g
 
 Karl-Marx-Straße 101, 12043 Berlin, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rough-trade-berlin/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rough-trade-berlin/)*

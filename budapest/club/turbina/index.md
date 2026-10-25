@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Menishu ALL NIGHT LONG" on Wed, 28 Oct 2026.
+Turbina is a music venue in Budapest with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Menishu ALL NIGHT LONG" on Wed, 28 Oct 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 5 upcoming gigs, with line-ups including Atashi, Bencsama, Captain Hook and Chris Dustin and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -18,4 +18,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 5 upcoming gigs, with
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

@@ -1,14 +1,13 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "OBSCUUR x Trancecore ADE with zwilling., DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE" on Sat, 24 Oct 2026.
+Toekomstmuziek is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Kapsule presents LIBERO at ADE" on Sun, 25 Oct 2026.
 
-Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including a51d_with_f, Alycia Bezgo, Amøn and Audiofools and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
+Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including a51d_with_f, Audiofools, Biagio Ess and Christoph Cham and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | OBSCUUR x Trancecore ADE with zwilling., DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE | Alycia Bezgo, Amøn, Boltcore, DETOXX, DICE, DJ DRECKISCH, Fronsi, JOKESONYOU, Kø:lab, nordcorreia.mp3, zwilling. |
 | Sun, 25 Oct 2026 | Kapsule presents LIBERO at ADE | Dan Costello, FIFI FORTE, FIRZA, Joey London, KREED., Mike Morrisey, Robin Nicolas, Sho (UK) |
 | Sun, 25 Oct 2026 | 30th ADE: Only Mistakes - Kikko INVITES | Biagio Ess, Kikko, Stefan Andrei |
 | Sat, 31 Oct 2026 | Disco Inferno: Funk De Nacht | Christoph Cham, Dari¥a, Gostoso, Yoey, a51d_with_f |
@@ -23,4 +22,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 10 upcoming g
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

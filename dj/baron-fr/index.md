@@ -1,6 +1,6 @@
 # Baron
 
-Baron is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
+Baron is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
 
 Baron is a house and tech house artist based in France, with 6 gigs on soundcheck across Amsterdam, Bali, Berlin and Mykonos and 1 more. Often billed alongside Dorian Craft, Aftersunday and Bedouin. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ Baron is a house and tech house artist based in France, with 6 gigs on soundchec
 
 Dorian Craft, Aftersunday, Bedouin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*

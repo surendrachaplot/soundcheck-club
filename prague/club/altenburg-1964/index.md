@@ -1,18 +1,17 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Dethmute x SPEEDCORETREW with SHADOW WIZARD MONEY GANG, Lil Kevo 303, BoLs/sLoB, AINUR UNX" on Sat, 24 Oct 2026.
+Altenburg 1964 is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Sachsentrance HALLOWEEN" on Sat, 31 Oct 2026.
 
-Altenburg 1964 is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including AINUR UNX, BoLs/sLoB, divinity statue and HKKPTR and 2 more. See dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
+Altenburg 1964 is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including HKKPTR, RaverPik, Sabu! and The Jakob Sister. See dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Dethmute x SPEEDCORETREW with SHADOW WIZARD MONEY GANG, Lil Kevo 303, BoLs/sLoB, AINUR UNX | AINUR UNX, BoLs/sLoB, Lil Kevo 303, MINNU, Wojownik, divinity statue |
 | Sat, 31 Oct 2026 | Sachsentrance HALLOWEEN | HKKPTR, RaverPik, Sabu!, The Jakob Sister |
 
 ## Address
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

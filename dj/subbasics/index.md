@@ -1,6 +1,6 @@
 # Sub Basics
 
-Sub Basics is a Dubstep and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
+Sub Basics is a Dubstep and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
 
 Sub Basics is a dubstep and dub techno artist based in United Kingdom, with 32 gigs on soundcheck across Adelaide, Auckland, Barcelona and Berlin and 12 more. Often billed alongside Truant (UK), Witch Trials and Fearless Dread. Next up: 26 Leake Street, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Sub Basics is a dubstep and dub techno artist based in United Kingdom, with 32 g
 
 Truant (UK), Witch Trials, Fearless Dread
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subbasics/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subbasics/)*

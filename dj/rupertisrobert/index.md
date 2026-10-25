@@ -1,6 +1,6 @@
 # Rupert is Robert
 
-Rupert is Robert is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Workshop, Melbourne on Sat, 31 Oct 2026.
+Rupert is Robert is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Workshop, Melbourne on Sat, 31 Oct 2026.
 
 Rupert is Robert is a disco and house artist, with 9 gigs on soundcheck across Melbourne. Often billed alongside mitch.aiff, Cooper Dodge and Cuerpo Negro. Next up: Workshop, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rupert is Robert is a disco and house artist, with 9 gigs on soundcheck across M
 
 mitch.aiff, Cooper Dodge, Cuerpo Negro
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rupertisrobert/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rupertisrobert/)*

@@ -1,6 +1,6 @@
 # Shaun J. Wright
 
-Shaun J. Wright is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at smartbar, Chicago on Sat, 24 Oct 2026.
+Shaun J. Wright is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at smartbar, Chicago on Sat, 24 Oct 2026.
 
 Shaun J. Wright is a house and techno artist based in United States of America, with 211 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 10 more. Often billed alongside Michael Serafini, Derrick Carter and Mike Servito. Next up: smartbar, Chicago on Sat 24 Oct.
 
@@ -18,6 +18,7 @@ Shaun J. Wright is a house and techno artist based in United States of America, 
 
 ## Recently played
 
+- smartbar, Chicago · Sat, 24 Oct 2026
 - smartbar, Chicago · Sun, 18 Oct 2026
 - Zebbie's Garden, Washington DC · Sun, 11 Oct 2026
 - TBA, Toronto · Fri, 2 Oct 2026
@@ -25,10 +26,9 @@ Shaun J. Wright is a house and techno artist based in United States of America, 
 - TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago · Fri, 25 Sept 2026
 - TBA, New York City · Sat, 19 Sept 2026
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
-- smartbar, Chicago · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Michael Serafini, Derrick Carter, Mike Servito
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunjwright/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunjwright/)*

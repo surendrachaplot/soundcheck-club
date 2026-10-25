@@ -1,14 +1,13 @@
 # Maassilo
 
-Maassilo is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Megarave" on Sat, 24 Oct 2026.
+Maassilo is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Hospital30 Halloween Rotterdam" on Fri, 30 Oct 2026.
 
-Maassilo is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with line-ups including A.M.C., AAT (NL), amara and Art of Fighters and 2 more. See dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
+Maassilo is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with line-ups including A.M.C., AAT (NL), amara and Audio and 2 more. See dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Megarave | Art of Fighters, Buzz Fuzz, Endymion, Lunatic, Neophyte, Ophidian, Panic, Ruffian |
 | Fri, 30 Oct 2026 | Hospital30 Halloween Rotterdam | A.M.C., Audio, Buunshin, Circadian, Ed Rush, Enta, Hoax (UK), Metrik, Netsky, Nu:Tone, Phace, SMG (UK), Waeys |
 | Sat, 31 Oct 2026 | Glow in the Dark 'Halloween Special' 2026 | AAT (NL), AUTOFLOWER, BLNK, Benny Rodrigues, BØĘRY, Cici Daze, Cynthia Spiering, DAF, Dennis Quin, IOSIO, Jessie Dols, Job de Jong, KELLAR, Karim Soliman, LIEKS, MIT (6), Michel de Hey, NewTone, Olive Anguz, SANTØS, Sam Hofman, Stef Davidse, Stefan Meser, TiTi, Vieze Asbak, amara |
 | Sat, 14 Nov 2026 | TiTi All Night Long | TiTi |
@@ -19,4 +18,4 @@ Maassilo is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, wi
 
 Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/maassilo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/maassilo/)*

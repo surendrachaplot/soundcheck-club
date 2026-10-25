@@ -1,15 +1,13 @@
 # Blindspot*
 
-Blindspot* is a music venue in Bucharest with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Subquake 001" on Fri, 23 Oct 2026.
+Blindspot* is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "SSS X TDIB w/ Caniche [ TRESOR / PUSH ], NTHR, Thomas Rob B2B Gheordu, VERMIN" on Fri, 30 Oct 2026.
 
-Blindspot* is a music venue in Bucharest listed on soundcheck. 9 upcoming gigs, with line-ups including Aiur, Alienmade, ANIN and Caniche and 2 more. See dates, start times and who's playing. Bulevardul Energeticienilor 13-15.
+Blindspot* is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, with line-ups including Alienmade, ANIN, Caniche and Drao and 2 more. See dates, start times and who's playing. Bulevardul Energeticienilor 13-15.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Subquake 001 | The FLO |
-| Sat, 24 Oct 2026 | Mana Techno | Aiur, CAT GROOVE, Controlled Voltage, FRIDHA, MU/SA |
 | Fri, 30 Oct 2026 | SSS X TDIB w/ Caniche [ TRESOR / PUSH ], NTHR, Thomas Rob B2B Gheordu, VERMIN | Caniche, Gheordu, NTHR, Thomas Rob, VERMIN |
 | Sat, 31 Oct 2026 | TEKNOWEEN |  |
 | Fri, 6 Nov 2026 | ЯOTOR [GROOVE TECHNO] |  |
@@ -22,4 +20,4 @@ Blindspot* is a music venue in Bucharest listed on soundcheck. 9 upcoming gigs, 
 
 Bulevardul Energeticienilor 13-15, Bucharest
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*

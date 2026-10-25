@@ -1,15 +1,13 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 31 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Takuya Nakamura: Free Time - Glasgow 6-10pm" on Sat, 24 Oct 2026.
+Sub Club is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "FLY - Tommy Phillips - Glasgow" on Thu, 29 Oct 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 31 upcoming gigs, with line-ups including Alex Culross, Archie Hamilton, Avalon Emerson and AXION and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, with line-ups including Alex Culross, Archie Hamilton, AXION and Blasha & Allatt and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Takuya Nakamura: Free Time - Glasgow 6-10pm | Hu-Sane, Takuya Nakamura |
-| Sat, 24 Oct 2026 | Subculture w/ Stevie Cox + Avalon Emerson | Avalon Emerson, Stevie Cox |
 | Thu, 29 Oct 2026 | FLY - Tommy Phillips - Glasgow | Alex Culross, Tommy Phillips |
 | Fri, 30 Oct 2026 | Animal Farm: MARRØN - Quail + AXION | AXION, MARRØN, Quail |
 | Sat, 31 Oct 2026 | Subculture w/ Harri [All Night Long] | DJ Harri |
@@ -18,9 +16,11 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 31 upcoming gigs, wit
 | Sat, 7 Nov 2026 | Subculture w/ Domenic Cappello + Stevie Cox | Domenic Cappello, Stevie Cox |
 | Sun, 8 Nov 2026 | Through The Roof // Scott Steer [All Night Long] |  |
 | Thu, 12 Nov 2026 | RARE Club // Wheats | Wheats, gau7t |
+| Fri, 13 Nov 2026 | RTM: Edit Select & Slam & KAAI | Edit-Select, KAAI, Slam |
+| Sat, 14 Nov 2026 | Subculture with Harri + Pancratio | DJ Harri, Pancratio |
 
 ## Address
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

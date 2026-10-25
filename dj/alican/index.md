@@ -1,6 +1,6 @@
 # Alican
 
-Alican is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 30 Oct 2026.
+Alican is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 30 Oct 2026.
 
 Alican is a house and techno artist based in Turkey, with 79 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Murat Uncuoglu, Gespona and Emirhan Kacar. Next up: Frankhan Selectist, Istanbul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alican is a house and techno artist based in Turkey, with 79 gigs on soundcheck 
 
 Murat Uncuoglu, Gespona, Emirhan Kacar
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alican/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alican/)*

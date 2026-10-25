@@ -1,6 +1,6 @@
 # Stinny Stone
 
-Stinny Stone is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
+Stinny Stone is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
 
 Stinny Stone is a techno and trance artist based in Germany, with 97 gigs on soundcheck across Barcelona, Berlin, Bogotá and Budapest and 22 more. Often billed alongside SOHOE, Cobb Douglas and futurristic. Next up: Lokschuppen Berlin, Berlin on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Stinny Stone is a techno and trance artist based in Germany, with 97 gigs on sou
 
 SOHOE, Cobb Douglas, futurristic
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*

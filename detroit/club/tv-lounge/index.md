@@ -1,14 +1,13 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DFEST • FALL EDITION" on Sat, 24 Oct 2026.
+TV Lounge is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "T Hill Detroit Radio presents Gospel House 313" on Sun, 25 Oct 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including Bruce Bailey, Deeper Waters, DJ Bone and DJ Skeez and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including Bruce Bailey, DJ Bone, Eli Escobar and hypemelo and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | DFEST • FALL EDITION | Bruce Bailey, DJ SYNC, DJ Skeez, Deeper Waters, Mike Agent X Clark, Rachael Parker, Rebecca Goldberg |
 | Sun, 25 Oct 2026 | T Hill Detroit Radio presents Gospel House 313 | Terrence Parker |
 | Fri, 30 Oct 2026 | Pre- HALLOWEEN TURN UP | Bruce Bailey, LADYMONIX |
 | Sat, 31 Oct 2026 | Halloween at TV | Marcus NF Harris, Ryan Sadorus, Zoe Talley, hypemelo, jamea. |
@@ -20,4 +19,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, wit
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

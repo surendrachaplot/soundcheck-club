@@ -1,6 +1,6 @@
 # Folamour
 
-Folamour is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at De Kromhouthal, Amsterdam on Sun, 25 Oct 2026.
+Folamour is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at De Kromhouthal, Amsterdam on Sun, 25 Oct 2026.
 
 Folamour is a house and disco artist based in France, with 159 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: De Kromhouthal, Amsterdam on Sun 25 Oct.
 
@@ -29,4 +29,4 @@ Folamour is a house and disco artist based in France, with 159 gigs on soundchec
 
 Dan Shake, Seth Troxler, TSHA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*

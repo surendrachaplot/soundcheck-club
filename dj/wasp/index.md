@@ -1,6 +1,6 @@
 # WASP
 
-WASP is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Saloon, Tokyo on Wed, 11 Nov 2026.
+WASP is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Saloon, Tokyo on Wed, 11 Nov 2026.
 
 WASP is a house and hip-hop artist based in Japan, with 73 gigs on soundcheck across Bristol, Istanbul, Melbourne and Osaka and 2 more. Often billed alongside George Bolton, Gen Yamada and MARZY. Next up: Saloon, Tokyo on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ WASP is a house and hip-hop artist based in Japan, with 73 gigs on soundcheck ac
 
 George Bolton, Gen Yamada, MARZY
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wasp/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wasp/)*

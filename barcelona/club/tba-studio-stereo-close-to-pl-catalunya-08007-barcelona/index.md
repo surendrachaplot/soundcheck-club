@@ -1,14 +1,13 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 33 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Studio Stereo x Pa'volar pres. Phil Evans (Pager Records)" on Sat, 24 Oct 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 32 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Studio Stereo x Less Is More pres. Kid Moss b2b Guedes" on Thu, 29 Oct 2026.
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 33 upcoming gigs, with line-ups including Alex Garcia, Ana Alves, B2G and Balou and 2 more. See dates, start times and who's playing.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 32 upcoming gigs, with line-ups including Alex Garcia, Ana Alves, B2G and Balou and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Studio Stereo x Pa'volar pres. Phil Evans (Pager Records) | Bustins, Friascut, Phil Evans |
 | Thu, 29 Oct 2026 | Studio Stereo x Less Is More pres. Kid Moss b2b Guedes | Guedes (ES), Kid Moss, MATEO BERGOGLIO, Narima Satori |
 | Fri, 30 Oct 2026 | Studio Stereo x Raw Prod pres. Ana Alves | Ana Alves, COULIN, Mimiq, Montse, Tetric |
 | Sat, 31 Oct 2026 | Studio Stereo Halloween pres. Junki Inoue (extended set) (Cartulis, JAP) | DJ Service, Imanol (2), Junki Inoue |
@@ -18,5 +17,6 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Thu, 12 Nov 2026 | Studio Stereo TBA |  |
 | Fri, 13 Nov 2026 | Studio Stereo x TiZi pres. Monile b2b Labouts (Yoyaku Selectors) all night long |  |
 | Sat, 14 Nov 2026 | Studio Stereo TBA |  |
+| Thu, 19 Nov 2026 | Studio Stereo TBA |  |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

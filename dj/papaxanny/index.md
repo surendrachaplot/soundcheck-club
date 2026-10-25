@@ -1,18 +1,18 @@
 # Papa Xanny
 
-Papa Xanny is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Cellblock Chicago, Chicago on Sat, 24 Oct 2026.
+Papa Xanny is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-Papa Xanny is a techno and club artist based in United States of America, with 56 gigs on soundcheck across Chicago and San Francisco/Oakland. Often billed alongside nonsuit, Beverly Chills and DYLUSION. Next up: Cellblock Chicago, Chicago on Sat 24 Oct.
+Papa Xanny is a techno and club artist based in United States of America, with 56 gigs on soundcheck across Chicago and San Francisco/Oakland. Often billed alongside nonsuit, Beverly Chills and DYLUSION. Next up: The Great Northern, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Cellblock Chicago | Chicago |
 | Fri, 30 Oct 2026 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
+- Cellblock Chicago, Chicago · Sat, 24 Oct 2026
 - Podlasie Club, Chicago · Sat, 17 Oct 2026
 - The San Francisco Mint, San Francisco/Oakland · Fri, 25 Sept 2026
 - F8 1192 Folsom, San Francisco/Oakland · Fri, 7 Aug 2026
@@ -20,10 +20,9 @@ Papa Xanny is a techno and club artist based in United States of America, with 5
 - The Stud, San Francisco/Oakland · Sun, 26 Jul 2026
 - TBA, San Francisco/Oakland · Sat, 18 Jul 2026
 - The Great Northern, San Francisco/Oakland · Sun, 28 Jun 2026
-- F8 1192 Folsom, San Francisco/Oakland · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 nonsuit, Beverly Chills, DYLUSION
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papaxanny/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papaxanny/)*

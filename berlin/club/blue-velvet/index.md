@@ -1,6 +1,6 @@
 # Blue Velvet
 
-Blue Velvet is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Shelter" on Sat, 7 Nov 2026.
+Blue Velvet is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Shelter" on Sat, 7 Nov 2026.
 
 Blue Velvet is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including ELM(IN), Jai Juu, Makeen and phazer. and 2 more. See dates, start times and who's playing. Sangerhauser Weg 3, 12349 Berlin.
 
@@ -15,4 +15,4 @@ Blue Velvet is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wi
 
 Sangerhauser Weg 3, 12349 Berlin, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/blue-velvet/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/blue-velvet/)*

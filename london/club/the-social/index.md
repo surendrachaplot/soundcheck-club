@@ -1,14 +1,13 @@
 # The Social
 
-The Social is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "HARDBACK: A Private Affair" on Sat, 24 Oct 2026.
+The Social is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "LOCALISM: NIGHT manoeuvres Takeover" on Fri, 30 Oct 2026.
 
-The Social is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Abby Daze, ANNA PURA, Ben Repertoire and CHÉ WAX and 2 more. See dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
+The Social is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Abby Daze, Ben Repertoire, CHÉ WAX and Dj magic touch and 2 more. See dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | HARDBACK: A Private Affair | ANNA PURA, Unit YoRHa, figo, madame3swords, overshine, six-winged hilda |
 | Fri, 30 Oct 2026 | LOCALISM: NIGHT manoeuvres Takeover | NIGHT manoeuvres |
 | Thu, 5 Nov 2026 | Gloop Unit Single Release Show | lifeloose |
 | Fri, 6 Nov 2026 | LOCALISM: CHÉ WAX | CHÉ WAX |
@@ -20,4 +19,4 @@ The Social is a music venue in London listed on soundcheck. 7 upcoming gigs, wit
 
 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*

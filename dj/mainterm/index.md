@@ -1,6 +1,6 @@
 # Mainterm
 
-Mainterm is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Sala ART, Madrid on Fri, 13 Nov 2026.
+Mainterm is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sala ART, Madrid on Fri, 13 Nov 2026.
 
 Mainterm is a techno artist, with 9 gigs on soundcheck across Madrid. Often billed alongside Germán Agudo, BENNETT and Ben Sims. Next up: Sala ART, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Mainterm is a techno artist, with 9 gigs on soundcheck across Madrid. Often bill
 
 Germán Agudo, BENNETT, Ben Sims
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mainterm/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mainterm/)*

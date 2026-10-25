@@ -1,6 +1,6 @@
 # Mijk van Dijk
 
-Mijk van Dijk is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Strasse E, Dresden on Sat, 31 Oct 2026.
+Mijk van Dijk is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Strasse E, Dresden on Sat, 31 Oct 2026.
 
 Mijk van Dijk is a techno and tech house artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dresden and 5 more. Often billed alongside Nat SuPrise, Felix Reichelt and DJ Doorkeeper. Next up: Strasse E, Dresden on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Mijk van Dijk is a techno and tech house artist based in Germany, with 51 gigs o
 
 Nat SuPrise, Felix Reichelt, DJ Doorkeeper
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mijkvandijk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mijkvandijk/)*

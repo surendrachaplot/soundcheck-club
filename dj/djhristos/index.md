@@ -1,6 +1,6 @@
 # DJ Hristos
 
-DJ Hristos is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 6 Nov 2026.
+DJ Hristos is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 6 Nov 2026.
 
 DJ Hristos is a club and experimental artist, with 17 gigs on soundcheck across Barcelona, Berlin, Budapest and Dublin and 3 more. Often billed alongside DJ GHEPARD, gmaail and t0ni. Next up: Acud Macht NEU, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Hristos is a club and experimental artist, with 17 gigs on soundcheck across 
 
 DJ GHEPARD, gmaail, t0ni
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhristos/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhristos/)*

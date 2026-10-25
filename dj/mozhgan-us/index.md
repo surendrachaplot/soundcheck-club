@@ -1,14 +1,13 @@
 # Mozhgan
 
-Mozhgan is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Good Room, New York City on Sat, 24 Oct 2026.
+Mozhgan is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
-Mozhgan is a techno and acid artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Austin, Bali and Baltimore and 24 more. Often billed alongside Solar, BMG and Carlos Souffront. Next up: Good Room, New York City on Sat 24 Oct.
+Mozhgan is a techno and acid artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Austin, Bali and Baltimore and 24 more. Often billed alongside Solar, BMG and Carlos Souffront. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Good Room | New York City |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Fri, 30 Oct 2026 | Process PDX | Portland |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
@@ -16,6 +15,7 @@ Mozhgan is a techno and acid artist based in United States of America, with 100 
 
 ## Recently played
 
+- Good Room, New York City · Sat, 24 Oct 2026
 - F8 1192 Folsom, San Francisco/Oakland · Sat, 3 Oct 2026
 - F8 1192 Folsom, San Francisco/Oakland · Sat, 3 Oct 2026
 - The Stud, San Francisco/Oakland · Sat, 26 Sept 2026
@@ -23,10 +23,9 @@ Mozhgan is a techno and acid artist based in United States of America, with 100 
 - Subspace, Denver · Sat, 19 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
 - TBA - Laytonville, CA, San Francisco/Oakland · Fri, 11 Sept 2026
-- F8 1192 Folsom, San Francisco/Oakland · Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Solar, BMG, Carlos Souffront
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mozhgan-us/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mozhgan-us/)*

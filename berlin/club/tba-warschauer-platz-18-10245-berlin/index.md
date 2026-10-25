@@ -1,6 +1,6 @@
 # TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "[8]: HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HALLOWEEN [2 STAGES / DAY 1]" on Fri, 30 Oct 2026.
+TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "[8]: HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HALLOWEEN [2 STAGES / DAY 1]" on Fri, 30 Oct 2026.
 
 TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Bungalovv, CÁRPATOS, CUNT REMEMBER and daki* and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin listed on soun
 | Fri, 13 Nov 2026 | [8]: FRIDAY 13TH |  |
 | Thu, 31 Dec 2026 | NYE with FOREVER ENDLESS UNLIMITED CLUBBING |  |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-platz-18-10245-berlin/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-platz-18-10245-berlin/)*

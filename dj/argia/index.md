@@ -1,6 +1,6 @@
 # Argia
 
-Argia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at KOKO, London on Fri, 13 Nov 2026.
+Argia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at KOKO, London on Fri, 13 Nov 2026.
 
 Argia is a techno and house artist based in Spain, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Alican, Murat Uncuoglu and Âme. Next up: KOKO, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Argia is a techno and house artist based in Spain, with 80 gigs on soundcheck ac
 
 Alican, Murat Uncuoglu, Âme
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*

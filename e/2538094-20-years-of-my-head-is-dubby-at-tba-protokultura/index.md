@@ -1,6 +1,6 @@
 # 20 years of My Head Is Dubby at TBA - Protokultura
 
-20 years of My Head Is Dubby at TBA - Protokultura on Sat 21 Nov, Wroclaw. 4 artists: BUKEZ FINEZT, Felixculpah, My Head Is Dubby and Silkie. Drum & Bass and Dubstep. See the line-up on soundcheck.
+20 years of My Head Is Dubby at TBA - Protokultura on Sat 21 Nov, Wroclaw. 5 artists: Alley Cat, BUKEZ FINEZT, Felixculpah and My Head Is Dubby and 1 more. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Alley Cat
 - BUKEZ FINEZT
 - Felixculpah
 - My Head Is Dubby

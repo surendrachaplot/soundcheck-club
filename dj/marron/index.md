@@ -1,14 +1,13 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+MARRØN is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at De Fik Garden, Amsterdam on Sun, 25 Oct 2026.
 
-MARRØN is a techno and house artist based in Netherlands, with 308 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 85 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+MARRØN is a techno and house artist based in Netherlands, with 308 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 85 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: De Fik Garden, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | De Fik Garden | Amsterdam |
 | Sun, 25 Oct 2026 | Kazerne Reigersbos | Amsterdam |
 | Fri, 30 Oct 2026 | Sub Club | Glasgow |
@@ -20,9 +19,11 @@ MARRØN is a techno and house artist based in Netherlands, with 308 gigs on soun
 | Fri, 27 Nov 2026 | Hive Club | Zurich |
 | Sat, 28 Nov 2026 | Q35 WAREHOUSE | Turin |
 | Fri, 11 Dec 2026 | Flux | Istanbul |
+| Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
 - Razzmatazz, Barcelona · Sat, 17 Oct 2026
 - Den Anden Side, Copenhagen · Fri, 16 Oct 2026
 - Concept Haus, Manchester · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@ MARRØN is a techno and house artist based in Netherlands, with 308 gigs on soun
 - BRET, Amsterdam · Sun, 4 Oct 2026
 - Gotec, Karlsruhe · Sat, 3 Oct 2026
 - Studio Club Malaga, Malaga · Fri, 2 Oct 2026
-- TBA - Los Angeles, Los Angeles · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Freddy K, Rene Wise
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

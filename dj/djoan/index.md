@@ -1,6 +1,6 @@
 # Djoan
 
-Djoan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 5 Nov 2026.
+Djoan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 5 Nov 2026.
 
 Djoan is a house and tech house artist based in Chile, with 34 gigs on soundcheck across Barcelona, Berlin and Mexico City. Often billed alongside Miguel Silva, Elwei and Breezy S. Next up: 303 Audiophile Bar, Barcelona on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Djoan is a house and tech house artist based in Chile, with 34 gigs on soundchec
 
 Miguel Silva, Elwei, Breezy S
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djoan/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djoan/)*

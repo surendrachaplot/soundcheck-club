@@ -1,19 +1,18 @@
 # EM2K
 
-EM2K is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Mexico City on Fri, 23 Oct 2026.
+EM2K is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at nueve cero nueve, Mexico City on Sun, 1 Nov 2026.
 
-EM2K is a house and techno artist based in Mexico, with 74 gigs on soundcheck across Guadalajara, Mexico City and Monterrey. Often billed alongside AGSULO, allangrank and Bluecommand. Next up: TBA, Mexico City on Fri 23 Oct.
+EM2K is a house and techno artist based in Mexico, with 74 gigs on soundcheck across Guadalajara, Mexico City and Monterrey. Often billed alongside AGSULO, allangrank and Bluecommand. Next up: nueve cero nueve, Mexico City on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA | Mexico City |
 | Sun, 1 Nov 2026 | nueve cero nueve | Mexico City |
 
 ## Recently played
 
-- TBA, Mexico City · Fri, 23 Oct 2026
+- TBA - Marsella 47 Colonia Juarez, Mexico City · Fri, 23 Oct 2026
 - Drama Radio Bar, Mexico City · Tue, 13 Oct 2026
 - TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City · Sat, 3 Oct 2026
 - CHICO, Mexico City · Sat, 3 Oct 2026
@@ -26,4 +25,4 @@ EM2K is a house and techno artist based in Mexico, with 74 gigs on soundcheck ac
 
 AGSULO, allangrank, Bluecommand
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/em2k/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/em2k/)*

@@ -1,15 +1,13 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+FJAAK is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Mia Mao, Paris on Fri, 30 Oct 2026.
 
-FJAAK is a techno and house artist based in Germany, with 299 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 90 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+FJAAK is a techno and house artist based in Germany, with 299 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 90 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: Mia Mao, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
-| Sat, 24 Oct 2026 | TBA | Atlanta |
 | Fri, 30 Oct 2026 | Mia Mao | Paris |
 | Sat, 31 Oct 2026 | fabric | London |
 | Fri, 6 Nov 2026 | Fuchs2 | Prague |
@@ -20,20 +18,22 @@ FJAAK is a techno and house artist based in Germany, with 299 gigs on soundcheck
 | Fri, 20 Nov 2026 | Public Works | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sun, 22 Nov 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 28 Nov 2026 | Warehouse ZRH | Zurich |
+| Sat, 5 Dec 2026 | Arènes De Metz | East |
 
 ## Recently played
 
+- Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
+- TBA, Atlanta · Sat, 24 Oct 2026
 - WestWeelde, Amsterdam · Fri, 23 Oct 2026
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - Das Zimmer, Mannheim · Fri, 16 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
 - Selva Club, East · Sat, 10 Oct 2026
 - Nowadays, New York City · Sun, 27 Sept 2026
-- 131 Mccormack St, Toronto · Fri, 25 Sept 2026
-- TBA - NYC , New York City · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Elli Acula, Anna Z., Ben Klock
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

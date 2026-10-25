@@ -1,6 +1,6 @@
 # Cipy
 
-Cipy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Macarena Club, Barcelona on Thu, 5 Nov 2026.
+Cipy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Macarena Club, Barcelona on Thu, 5 Nov 2026.
 
 Cipy is a house and deep house artist based in Spain, with 57 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Guadalajara and 2 more. Often billed alongside Ivan Pugliares, Reezar and SABALZA. Next up: Macarena Club, Barcelona on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Cipy is a house and deep house artist based in Spain, with 57 gigs on soundcheck
 
 Ivan Pugliares, Reezar, SABALZA
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cipy/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cipy/)*

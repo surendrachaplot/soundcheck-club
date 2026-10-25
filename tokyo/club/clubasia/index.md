@@ -1,14 +1,13 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Circle eight" on Sat, 24 Oct 2026.
+clubasia is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "魔界難入 Vol.5" on Sun, 25 Oct 2026.
 
-clubasia is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line-ups including 6.do, 80KIDZ, AKARI and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+clubasia is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including 6.do, 80KIDZ, AKARI and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Circle eight | Keigo (JP) |
 | Sun, 25 Oct 2026 | 魔界難入 Vol.5 | Can (8), Daichi Wago, Ichiro, nano odorine |
 | Sun, 25 Oct 2026 | BLAHRMY × BAKU 『RESPECT FOR MY G's』 RELEASE LIVE in asia |  |
 | Sun, 25 Oct 2026 | BLAHRMY × BAKU 『RESPECT FOR MY G's』 RELEASE LIVE in asia |  |
@@ -18,9 +17,10 @@ clubasia is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with 
 | Thu, 29 Oct 2026 | vandalo | CALPISS, Moodman, Rami, SOGI, Shoma fr,dambosound |
 | Fri, 30 Oct 2026 | YAGIKYUN HALLOWEEN PARTY 2K26   -N² 1st Album 『iDANCE2MUSIC』 release party- | 6.do, AKARI, BiBiYUA, Cooper, JACKSON kaki, RYUU, West Ape, ecec |
 | Sat, 31 Oct 2026 | EMO NIGHT HALLOWEEN |  |
+| Fri, 6 Nov 2026 | 'BEAT BOUTIQUE ll' | JASS (JO), Olive Oil, POM (1) |
 
 ## Address
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

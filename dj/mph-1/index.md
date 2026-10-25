@@ -1,6 +1,6 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Night We Met, Nashville on Thu, 29 Oct 2026.
+MPH (1) is a Garage and Bass artist with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Night We Met, Nashville on Thu, 29 Oct 2026.
 
 MPH is a garage and bass artist based in United Kingdom, with 131 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 49 more. Often billed alongside Oppidan, Flava D and Hamdi. Next up: Night We Met, Nashville on Thu 29 Oct.
 
@@ -36,4 +36,4 @@ MPH is a garage and bass artist based in United Kingdom, with 131 gigs on soundc
 
 Oppidan, Flava D, Hamdi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

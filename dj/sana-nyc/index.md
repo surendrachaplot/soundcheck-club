@@ -1,6 +1,6 @@
 # Sana (NYC)
 
-Sana (NYC) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sun, 1 Nov 2026.
+Sana (NYC) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sun, 1 Nov 2026.
 
 Sana (NYC) is a house and techno artist, with 21 gigs on soundcheck across London, New Orleans and New York City. Often billed alongside Krithi, $EJ and 444. Next up: The Crypt (New Orleans), New Orleans on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Sana (NYC) is a house and techno artist, with 21 gigs on soundcheck across Londo
 
 Krithi, $EJ, 444 (1)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sana-nyc/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sana-nyc/)*

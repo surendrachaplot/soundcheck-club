@@ -1,14 +1,13 @@
 # WaV
 
-WaV is a music venue in Liverpool with 12 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "909 x WAV presents James Zabiela & Dmitry Molosh" on Sat, 24 Oct 2026.
+WaV is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "David Rust presents Redline" on Fri, 30 Oct 2026.
 
-WaV is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with line-ups including Aidyscape, David Rust, Daxson and Dmitry Molosh and 2 more. See dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
+WaV is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Aidyscape, David Rust, Daxson and Hidde van Wee and 2 more. See dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | 909 x WAV presents James Zabiela & Dmitry Molosh | Dmitry Molosh, Fidge, James Zabiela |
 | Fri, 30 Oct 2026 | David Rust presents Redline | David Rust |
 | Sat, 31 Oct 2026 | SHOW ME LUV: Halloween Night |  |
 | Fri, 6 Nov 2026 | Apex X Amplify Presents: WILL ATKINSON | JRD |
@@ -18,9 +17,10 @@ WaV is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with l
 | Fri, 4 Dec 2026 | Commune Presents: Hidde Van Wee 4 Hour Set | Hidde van Wee |
 | Sat, 5 Dec 2026 | Into The Groove |  |
 | Fri, 11 Dec 2026 | United For Seb |  |
+| Sat, 12 Dec 2026 | Genesis "Lost Frequency" | Aidyscape, Daxson |
 
 ## Address
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

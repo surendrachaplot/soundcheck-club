@@ -1,6 +1,6 @@
 # Mole (US)
 
-Mole (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Honey's, New York City on Thu, 5 Nov 2026.
+Mole (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Honey's, New York City on Thu, 5 Nov 2026.
 
 Mole (US) is a house and techno artist based in United States of America, with 22 gigs on soundcheck across New York City. Often billed alongside Contractor, Piersmog and Connor Wrong. Next up: Honey's, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Mole (US) is a house and techno artist based in United States of America, with 2
 
 Contractor, Piersmog, Connor Wrong
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mole-3/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mole-3/)*

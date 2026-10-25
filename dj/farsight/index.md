@@ -1,6 +1,6 @@
 # Farsight
 
-Farsight is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
+Farsight is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
 
 Farsight is a techno and bass artist based in United States of America, with 103 gigs on soundcheck across Atlanta, Austin, Baltimore and Beijing and 17 more. Often billed alongside RITCHRD, nonsuit and DJ JUANNY. Next up: Mina Museum, Cluj Napoca on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Farsight is a techno and bass artist based in United States of America, with 103
 
 RITCHRD, nonsuit, DJ JUANNY
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farsight/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farsight/)*

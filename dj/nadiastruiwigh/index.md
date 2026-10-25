@@ -1,6 +1,6 @@
 # Nadia Struiwigh
 
-Nadia Struiwigh is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Loods6, Amsterdam on Thu, 22 Oct 2026.
+Nadia Struiwigh is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Loods6, Amsterdam on Thu, 22 Oct 2026.
 
 Nadia Struiwigh is a techno and electronica artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside .VRIL, DJ MELL G and Fireground. Next up: Loods6, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Nadia Struiwigh is a techno and electronica artist based in Germany, with 94 gig
 
 .VRIL, DJ MELL G, Fireground
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*

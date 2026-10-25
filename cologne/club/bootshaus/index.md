@@ -1,14 +1,13 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 18 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "SA - 24.10.2026 | KitKatClub" on Sat, 24 Oct 2026.
+Bootshaus is a music venue in Cologne with 17 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "EARLY ACCESS pres. Dyzen" on Fri, 30 Oct 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 18 upcoming gigs, with line-ups including 6EJOU, 999999999, Alle Farben and AVANT and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, with line-ups including 6EJOU, 999999999, Alle Farben and AVANT and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | SA - 24.10.2026 / KitKatClub |  |
 | Fri, 30 Oct 2026 | EARLY ACCESS pres. Dyzen | AVANT, Dyzen, Solique |
 | Fri, 30 Oct 2026 | HARDWICK x LOKIMITDERMASKE x DJ TÖRKE [ Bootshaus Köln] |  |
 | Sat, 31 Oct 2026 | Bootshaus & Loonyland pres. Halloween 2026 | Ave (DE), Caro van Ee, Chris El Greco, Jerome, LSG |
@@ -18,9 +17,10 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 18 upcoming gigs, wi
 | Sat, 14 Nov 2026 | Wonderful Days - The Classic Rave Festival VOL X | DJ Falk, DJ Sammy, Da Hool, Eric Sneo, Franky Jones, Jens Lissat, Jones |
 | Fri, 20 Nov 2026 | Alle Farben - A World full of Colors Club Tour 2026 | Alle Farben, Lahos |
 | Fri, 20 Nov 2026 | JEBROER 360 LIVE SHOW |  |
+| Fri, 27 Nov 2026 | NEELIX pres. by NIBIRII | DELTA LABS, Johan (PT), Momentune |
 
 ## Address
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

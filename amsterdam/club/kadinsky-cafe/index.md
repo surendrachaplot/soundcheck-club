@@ -1,16 +1,13 @@
 # Kadinsky Cafe
 
-Kadinsky Cafe is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Manual Family Get Together 2026" on Sat, 24 Oct 2026.
+Kadinsky Cafe is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Kadinsky Sessions Closing Party" on Sun, 25 Oct 2026.
 
-Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Abity, Agustin Ficarra, Albano Bastonero and ALISHA and 2 more. See dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
+Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Abity, Agustin Ficarra, Albano Bastonero and Kebin van Reeken and 1 more. See dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Manual Family Get Together 2026 | Around Us, BODAI, Camiel Villa, DJ Zombi, Francesco Pico, MC PPholl, NOIYSE PROJECT, Paul Hazendonk, Qbical, QuiQui, ROARK |
-| Sat, 24 Oct 2026 | Ruben Karapetyan presents Meet & Greet | ALISHA, Abity, Dowden, Not Demure |
-| Sat, 24 Oct 2026 | Ruben Karapetyan presents Meet & Greet | Abity, Alísha, Dowden, Kostya Outta, Not Demure |
 | Sun, 25 Oct 2026 | Kadinsky Sessions Closing Party |  |
 | Sun, 25 Oct 2026 | The Homeless Trovador by Not Demure & Friends | Abity, Agustin Ficarra, Albano Bastonero, Kebin van Reeken, Not Demure |
 
@@ -18,4 +15,4 @@ Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 5 upcoming gig
 
 Zoutsteeg 9-11 1012 LX Amsterdam, Amsterdam
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*

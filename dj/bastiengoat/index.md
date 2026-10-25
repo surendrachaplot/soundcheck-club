@@ -1,14 +1,13 @@
 # bastiengoat
 
-bastiengoat is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 23 Oct 2026.
+bastiengoat is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-bastiengoat is a club and techno artist based in United States of America, with 67 gigs on soundcheck across Atlanta, Calgary, Denver and London and 8 more. Often billed alongside RITCHRD, Bored Lord and Discnogirl. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 23 Oct.
+bastiengoat is a club and techno artist based in United States of America, with 67 gigs on soundcheck across Atlanta, Calgary, Denver and London and 8 more. Often billed alongside RITCHRD, Bored Lord and Discnogirl. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +25,4 @@ bastiengoat is a club and techno artist based in United States of America, with 
 
 RITCHRD, Bored Lord, Discnogirl
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastiengoat/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastiengoat/)*

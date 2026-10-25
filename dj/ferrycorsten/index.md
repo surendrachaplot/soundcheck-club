@@ -1,6 +1,6 @@
 # Ferry Corsten
 
-Ferry Corsten is a Trance and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
+Ferry Corsten is a Trance and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
 
 Ferry Corsten is a trance and progressive house artist based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Austin, Brisbane and Bristol and 30 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: 50:Hertz Club Train, Amsterdam on Sun 25 Oct.
 
@@ -30,4 +30,4 @@ Ferry Corsten is a trance and progressive house artist based in Netherlands, wit
 
 Amy Wiles, Billy Gillies, Aly & Fila
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*

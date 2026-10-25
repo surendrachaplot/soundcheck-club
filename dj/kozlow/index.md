@@ -1,6 +1,6 @@
 # KOZLOW
 
-KOZLOW is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Outer Heaven, New York City on Fri, 30 Oct 2026.
+KOZLOW is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Outer Heaven, New York City on Fri, 30 Oct 2026.
 
 KOZLOW is a house and deep house artist based in United States of America, with 21 gigs on soundcheck across London, Mexico City and New York City. Often billed alongside Tolga, Orson and Orson.NYC. Next up: Outer Heaven, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KOZLOW is a house and deep house artist based in United States of America, with 
 
 Tolga, Orson (2), Orson.NYC
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kozlow/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kozlow/)*

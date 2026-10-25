@@ -1,15 +1,13 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+Partiboi69 is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Forte Antenne, Rome on Sat, 31 Oct 2026.
 
-Partiboi69 is a techno and house artist based in Australia, with 230 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 83 more. Often billed alongside Juicy Romance, KETTAMA and DJ Heartstring. Next up: Havenpark, Amsterdam on Sat 24 Oct.
+Partiboi69 is a techno and house artist based in Australia, with 230 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 83 more. Often billed alongside Juicy Romance, KETTAMA and DJ Heartstring. Next up: Forte Antenne, Rome on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
-| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 31 Oct 2026 | Forte Antenne | Rome |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 7 Nov 2026 | NX Newcastle | Newcastle |
@@ -20,20 +18,22 @@ Partiboi69 is a techno and house artist based in Australia, with 230 gigs on sou
 | Fri, 27 Nov 2026 | The Cause | London |
 | Sat, 28 Nov 2026 | Mondo | Madrid |
 | Sun, 29 Nov 2026 | Lofi | Amsterdam |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
+- Havenpark, Amsterdam · Sat, 24 Oct 2026
+- Havenpark, Amsterdam · Sat, 24 Oct 2026
 - RAWFACTORY, Amsterdam · Fri, 23 Oct 2026
 - Escala25, Lisbon · Sat, 10 Oct 2026
 - TBA - Fohrstraat, 9000 Gent, België, Ghent · Sat, 26 Sept 2026
 - Randall's Island, New York City · Sat, 19 Sept 2026
 - Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
 - Parque Padre Hurtado, Santiago · Sat, 12 Sept 2026
-- The Ground at Club Space, Miami · Sun, 6 Sept 2026
-- TBA, Miami · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Juicy Romance, KETTAMA, DJ Heartstring
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*

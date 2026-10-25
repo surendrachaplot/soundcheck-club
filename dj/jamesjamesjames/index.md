@@ -1,8 +1,8 @@
 # jamesjamesjames
 
-jamesjamesjames is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at 1720, Los Angeles on Wed, 28 Oct 2026.
+jamesjamesjames is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 1720, Los Angeles on Wed, 28 Oct 2026.
 
-jamesjamesjames is a techno and progressive house artist based in Australia, with 24 gigs on soundcheck across Adelaide, Brisbane, Chicago and Helsinki and 8 more. Often billed alongside Varg²™, Willaris. K and Caucasian Opportunities. Next up: 1720, Los Angeles on Wed 28 Oct.
+jamesjamesjames is a techno and progressive house artist based in Australia, with 25 gigs on soundcheck across Adelaide, Brisbane, Chicago and Helsinki and 9 more. Often billed alongside Varg²™, Willaris. K and Caucasian Opportunities. Next up: 1720, Los Angeles on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ jamesjamesjames is a techno and progressive house artist based in Australia, wit
 | --- | --- | --- |
 | Wed, 28 Oct 2026 | 1720 | Los Angeles |
 | Sat, 31 Oct 2026 | Nova PDX | Portland |
+| Sat, 23 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ jamesjamesjames is a techno and progressive house artist based in Australia, wit
 
 Varg²™, Willaris. K, Caucasian Opportunities
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjamesjames/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjamesjames/)*

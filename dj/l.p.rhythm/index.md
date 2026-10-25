@@ -1,14 +1,13 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+L.P. Rhythm is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
 
-L.P. Rhythm is a house and tech house artist based in United Kingdom, with 186 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 35 more. Often billed alongside Gaskin, Luuk van Dijk and Sidney Charles. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+L.P. Rhythm is a house and tech house artist based in United Kingdom, with 187 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 35 more. Often billed alongside Gaskin, Luuk van Dijk and Sidney Charles. Next up: NDSM Scheepsbouwloods, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 30 Oct 2026 | Floyd | Miami |
 | Sat, 7 Nov 2026 | La Cheetah Club | Glasgow |
@@ -16,6 +15,7 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, with 186 g
 | Sat, 21 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Sat, 12 Dec 2026 | Klokgebouw | Eindhoven |
+| Thu, 31 Dec 2026 | Digital | Newcastle |
 
 ## Recently played
 
@@ -32,4 +32,4 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, with 186 g
 
 Gaskin, Luuk van Dijk, Sidney Charles
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

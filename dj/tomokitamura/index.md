@@ -1,14 +1,13 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Klaproos, Amsterdam on Sat, 24 Oct 2026.
+Tomoki Tamura is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri, 30 Oct 2026.
 
-Tomoki Tamura is a house and techno artist based in Germany, with 115 gigs on soundcheck across Adelaide, Amsterdam, Baltimore and Bangkok and 42 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Klaproos, Amsterdam on Sat 24 Oct.
+Tomoki Tamura is a house and techno artist based in Germany, with 115 gigs on soundcheck across Adelaide, Amsterdam, Baltimore and Bangkok and 42 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Email Deepsidebaltimore@gmail.com for info/address | Baltimore |
 | Sat, 31 Oct 2026 | Flash | Washington DC |
 | Sun, 1 Nov 2026 | TBA - Outdoor Location - DTLA  | Los Angeles |
@@ -20,6 +19,7 @@ Tomoki Tamura is a house and techno artist based in Germany, with 115 gigs on so
 
 ## Recently played
 
+- Klaproos, Amsterdam · Sat, 24 Oct 2026
 - Benelux BAR, Amsterdam · Thu, 22 Oct 2026
 - Benelux BAR, Amsterdam · Thu, 22 Oct 2026
 - Frankhan Selectist, Istanbul · Sat, 17 Oct 2026
@@ -27,10 +27,9 @@ Tomoki Tamura is a house and techno artist based in Germany, with 115 gigs on so
 - Audiodise Park Montjuic, Barcelona · Sun, 27 Sept 2026
 - Hoppetosse, Berlin · Sat, 26 Sept 2026
 - Tomodachi, Ibiza · Sat, 19 Sept 2026
-- Sameheads, Berlin · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

@@ -1,14 +1,13 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+Alex Wann is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Future Nightlife, Toronto on Fri, 6 Nov 2026.
 
-Alex Wann is an afro house and house artist based in France, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
+Alex Wann is an afro house and house artist based in France, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: Future Nightlife, Toronto on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 6 Nov 2026 | Future Nightlife | Toronto |
 | Sat, 7 Nov 2026 | Vera Cocina & بار | Washington DC |
 | Sat, 14 Nov 2026 | Bohemia Beach Club | Dubai |
@@ -16,6 +15,7 @@ Alex Wann is an afro house and house artist based in France, with 154 gigs on so
 
 ## Recently played
 
+- NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
 - The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Westlight Rooftop at The William Vale, New York City · Fri, 16 Oct 2026
@@ -23,10 +23,9 @@ Alex Wann is an afro house and house artist based in France, with 154 gigs on so
 - The Ivy, Sydney · Sat, 10 Oct 2026
 - Savaya Bali, Bali · Sun, 4 Oct 2026
 - Zumana Bali, Bali · Fri, 2 Oct 2026
-- Kaufleuten, Zurich · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Notre Dame, Andrea Oliva, Shimza
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

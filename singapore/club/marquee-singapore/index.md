@@ -1,6 +1,6 @@
 # Marquee Singapore
 
-Marquee Singapore is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Marquee Singapore presents LEVI" on Sat, 28 Nov 2026.
+Marquee Singapore is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Marquee Singapore presents LEVI" on Sat, 28 Nov 2026.
 
 Marquee Singapore is a music venue in Singapore listed on soundcheck. 1 upcoming gig, with line-ups including Levi (AU). See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Marquee Singapore is a music venue in Singapore listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Marquee Singapore presents LEVI | Levi (AU) |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/marquee-singapore/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/marquee-singapore/)*

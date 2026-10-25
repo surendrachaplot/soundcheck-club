@@ -1,14 +1,15 @@
 # Qrion
 
-Qrion is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Evergreen Brick Works, Toronto on Sat, 31 Oct 2026.
+Qrion is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Evergreen Brick Works, Toronto on Sat, 31 Oct 2026.
 
-Qrion is a house and techno artist based in Japan, with 79 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 30 more. Often billed alongside Nicky Elisabeth, Rezident and Romain Garcia. Next up: Evergreen Brick Works, Toronto on Sat 31 Oct.
+Qrion is a house and techno artist based in Japan, with 80 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 30 more. Often billed alongside Nicky Elisabeth, Rezident and Romain Garcia. Next up: Evergreen Brick Works, Toronto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Evergreen Brick Works | Toronto |
+| Fri, 20 Nov 2026 | Circus Tokyo | Tokyo |
 | Sat, 21 Nov 2026 | Circus Osaka | Osaka |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
@@ -29,4 +30,4 @@ Qrion is a house and techno artist based in Japan, with 79 gigs on soundcheck ac
 
 Nicky Elisabeth, Rezident, Romain Garcia
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*

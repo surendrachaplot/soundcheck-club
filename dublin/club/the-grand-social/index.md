@@ -1,14 +1,13 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "MAREAH presents Guy J" on Sat, 24 Oct 2026.
+The Grand Social is a music venue in Dublin with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "RED LINE: ANDATA - Techno, Hard Bounce & Hard Trance in Dublin" on Fri, 6 Nov 2026.
 
-The Grand Social is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including ALPER SKR, ALX (IE), ANDATA and Guy J and 2 more. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
+The Grand Social is a music venue in Dublin listed on soundcheck. 6 upcoming gigs, with line-ups including ALPER SKR, ALX (IE), ANDATA and Henri Bergmann and 2 more. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | MAREAH presents Guy J | Guy J, Tom Pavicich |
 | Fri, 6 Nov 2026 | RED LINE: ANDATA - Techno, Hard Bounce & Hard Trance in Dublin | ALPER SKR, ANDATA, SAMUX, WINSLAO |
 | Fri, 6 Nov 2026 | EUPHONIC PRESENTS ANOLUXX [DEBUT SHOW] | ALX (IE), Trypdø |
 | Sun, 8 Nov 2026 | MGNA Crrrta & ideasforconversations |  |
@@ -20,4 +19,4 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 7 upcoming gig
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

@@ -1,6 +1,6 @@
 # Adriana Lopez
 
-Adriana Lopez is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Portland on Fri, 30 Oct 2026.
+Adriana Lopez is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Portland on Fri, 30 Oct 2026.
 
 Adriana Lopez is a techno and house artist based in Colombia, with 166 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: TBA, Portland on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Adriana Lopez is a techno and house artist based in Colombia, with 166 gigs on s
 
 Oscar Mulero, Dasha Rush, UFO95
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*

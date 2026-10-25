@@ -1,6 +1,6 @@
 # Amber Ferraro
 
-Amber Ferraro is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 25 Oct 2026.
+Amber Ferraro is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 25 Oct 2026.
 
 Amber Ferraro is a house and deep house artist based in Australia, with 119 gigs on soundcheck across Melbourne. Often billed alongside Adam Trace, Jay Ramon and Crozier. Next up: Revolver Upstairs, Melbourne on Sun 25 Oct.
 
@@ -29,4 +29,4 @@ Amber Ferraro is a house and deep house artist based in Australia, with 119 gigs
 
 Adam Trace, Jay Ramon, Crozier
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberferraro/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberferraro/)*

@@ -1,6 +1,6 @@
 # The Woodshop
 
-The Woodshop is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "NYC'S BIGGEST DRUM AND BASS & DUBSTEP HALLOWEEN CELEBRATION WITH DR. APOLLO & LMNOP" on Sat, 31 Oct 2026.
+The Woodshop is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "NYC'S BIGGEST DRUM AND BASS & DUBSTEP HALLOWEEN CELEBRATION WITH DR. APOLLO & LMNOP" on Sat, 31 Oct 2026.
 
 The Woodshop is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Bass, Dave Shichman, Dirtyphonics and Lens and 2 more. See dates, start times and who's playing. 21a Meadow Street, Brooklyn, NY 11206.
 
@@ -17,4 +17,4 @@ The Woodshop is a music venue in New York City listed on soundcheck. 4 upcoming 
 
 21a Meadow Street, Brooklyn, NY 11206, New York City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-woodshop/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-woodshop/)*

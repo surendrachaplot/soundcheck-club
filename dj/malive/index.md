@@ -1,14 +1,13 @@
 # Malive
 
-Malive is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
+Malive is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Mon, 26 Oct 2026.
 
-Malive is a house and tech house artist based in Brazil, with 43 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Claptone, Antdot and Betical. Next up: THE OTHER SIDE, Amsterdam on Sat 24 Oct.
+Malive is a house and tech house artist based in Brazil, with 43 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Claptone, Antdot and Betical. Next up: Crane Hotel Faralda, Amsterdam on Mon 26 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Mon, 26 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Fri, 30 Oct 2026 | Lula Club | Madrid |
 | Sat, 31 Oct 2026 | Nordstern | Basel |
@@ -16,6 +15,7 @@ Malive is a house and tech house artist based in Brazil, with 43 gigs on soundch
 
 ## Recently played
 
+- THE OTHER SIDE, Amsterdam · Sat, 24 Oct 2026
 - ORIGIN, Los Angeles · Sat, 10 Oct 2026
 - Madarae San Francisco, San Francisco/Oakland · Fri, 9 Oct 2026
 - Jungle Island, Miami · Sat, 3 Oct 2026
@@ -23,10 +23,9 @@ Malive is a house and tech house artist based in Brazil, with 43 gigs on soundch
 - Savaya Bali, Bali · Sat, 19 Sept 2026
 - Cova Santa, Ibiza · Fri, 14 Aug 2026
 - Budapest Park, Budapest · Fri, 7 Aug 2026
-- Central Park SummerStage, New York City · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Claptone, Antdot, Betical
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

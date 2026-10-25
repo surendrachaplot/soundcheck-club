@@ -1,6 +1,6 @@
 # kayBe (UK)
 
-kayBe (UK) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+kayBe (UK) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 kayBe (UK) is a house and electronica artist based in Australia, with 17 gigs on soundcheck across Amsterdam, Berlin, London and Stockholm. Often billed alongside Flawd, BDC (Aus) and Fabïan. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ kayBe (UK) is a house and electronica artist based in Australia, with 17 gigs on
 
 Flawd, BDC (Aus), Fabïan
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaybeuk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaybeuk/)*

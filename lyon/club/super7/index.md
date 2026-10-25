@@ -1,14 +1,13 @@
 # Super7
 
-Super7 is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "DOZZA • Patxi" on Sat, 24 Oct 2026.
+Super7 is a music venue in Lyon with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Bolly Cat • UNKNWNINJA" on Sun, 25 Oct 2026.
 
-Super7 is a music venue in Lyon listed on soundcheck. 6 upcoming gigs, with line-ups including Bolly Cat and Patxi. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
+Super7 is a music venue in Lyon listed on soundcheck. 5 upcoming gigs, with line-ups including Bolly Cat. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | DOZZA • Patxi | Patxi |
 | Sun, 25 Oct 2026 | Bolly Cat • UNKNWNINJA | Bolly Cat |
 | Thu, 29 Oct 2026 | Super7: lieu de vie et club |  |
 | Fri, 30 Oct 2026 | Super7: lieu de vie et club |  |
@@ -19,4 +18,4 @@ Super7 is a music venue in Lyon listed on soundcheck. 6 upcoming gigs, with line
 
 40 rue Saint-Jérôme 69007 Lyon, Lyon
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*

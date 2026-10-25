@@ -1,6 +1,6 @@
 # MAZE (KR)
 
-MAZE (KR) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
+MAZE (KR) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
 
 MAZE (KR) is a club and techno artist based in Iran, with 34 gigs on soundcheck across Seoul. Often billed alongside dayoung, KoiKoi and Ligrye. Next up: Blank Site, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MAZE (KR) is a club and techno artist based in Iran, with 34 gigs on soundcheck 
 
 dayoung, KoiKoi, Ligrye
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-kr/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-kr/)*

@@ -1,6 +1,6 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Cinthie is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Cinthie is a house and techno artist based in Germany, with 315 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 65 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -9,8 +9,6 @@ Cinthie is a house and techno artist based in Germany, with 315 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
-| Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
-| Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Fri, 30 Oct 2026 | Nitsa Club | Barcelona |
 | Sat, 7 Nov 2026 | Le Trabendo | Paris |
 | Fri, 13 Nov 2026 | Sala Villanos | Madrid |
@@ -20,20 +18,22 @@ Cinthie is a house and techno artist based in Germany, with 315 gigs on soundche
 | Fri, 27 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | public records | New York City |
 | Fri, 11 Dec 2026 | fabric | London |
+| Sat, 12 Dec 2026 | Folklor | Lausanne |
+| Sat, 16 Jan 2027 | Klakaz | Athens |
 
 ## Recently played
 
+- TILLATEC, Amsterdam · Sat, 24 Oct 2026
+- Yellow House, Amsterdam · Sat, 24 Oct 2026
 - Shelter Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Basement (Amsterdam), Amsterdam · Thu, 22 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - Basement Amsterdam, Amsterdam · Wed, 21 Oct 2026
 - Fuse, Brussels · Fri, 16 Oct 2026
 - Sonnenraum, Berlin · Sun, 4 Oct 2026
-- TBA - Santa Maria della Pietà, Rome · Sat, 3 Oct 2026
-- Forte Antenne, Rome · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Meat, Gabrielle Kwarteng, Ogazón
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

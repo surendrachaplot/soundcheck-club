@@ -1,6 +1,6 @@
 # Otis
 
-Otis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Masada, Milan on Sun, 8 Nov 2026.
+Otis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Masada, Milan on Sun, 8 Nov 2026.
 
 Otis is a techno and house artist, with 18 gigs on soundcheck across Barcelona, Frankfurt, Madrid and Mexico City and 3 more. Often billed alongside Drag & Drop, Bo Irion and Dan Bay. Next up: Masada, Milan on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Otis is a techno and house artist, with 18 gigs on soundcheck across Barcelona, 
 
 Drag & Drop, Bo Irion, Dan Bay
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otis/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otis/)*

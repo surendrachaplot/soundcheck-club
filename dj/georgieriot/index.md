@@ -1,6 +1,6 @@
 # Georgie Riot
 
-Georgie Riot is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Ice Cream Factory, Perth on Fri, 30 Oct 2026.
+Georgie Riot is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ice Cream Factory, Perth on Fri, 30 Oct 2026.
 
 Georgie Riot is a drum & bass and bass artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Bristol and 13 more. Often billed alongside Imanu, Anaïs and Benny L. Next up: Ice Cream Factory, Perth on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Georgie Riot is a drum & bass and bass artist based in United Kingdom, with 21 g
 
 Imanu, Anaïs, Benny L
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieriot/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieriot/)*

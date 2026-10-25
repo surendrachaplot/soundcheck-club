@@ -1,6 +1,6 @@
 # feedbk
 
-feedbk is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "feedbk with Lawrence Asher, Ryan King" on Sat, 24 Oct 2026.
+feedbk is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "feedbk with Lawrence Asher, Ryan King" on Sat, 24 Oct 2026.
 
 feedbk is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Garcia, Andrew James Gustav, Aton and Burchan Acar and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
 
@@ -18,4 +18,4 @@ feedbk is a music venue in New York City listed on soundcheck. 5 upcoming gigs, 
 
 153 Morgan Avenue, New York City
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

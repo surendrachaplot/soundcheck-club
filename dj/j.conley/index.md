@@ -1,6 +1,6 @@
 # J. Conley
 
-J. Conley is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Commune, Liverpool on Thu, 3 Dec 2026.
+J. Conley is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Commune, Liverpool on Thu, 3 Dec 2026.
 
 J. Conley is an ambient and electronica artist, with 13 gigs on soundcheck across Liverpool. Often billed alongside Binyamin, Cult Rosa and Dj Streaks. Next up: Commune, Liverpool on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ J. Conley is an ambient and electronica artist, with 13 gigs on soundcheck acros
 
 Binyamin, Cult Rosa, Dj Streaks
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.conley/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.conley/)*

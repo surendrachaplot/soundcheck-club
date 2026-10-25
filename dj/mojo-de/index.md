@@ -1,6 +1,6 @@
 # mojo
 
-mojo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Gewölbe, Cologne on Sat, 31 Oct 2026.
+mojo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gewölbe, Cologne on Sat, 31 Oct 2026.
 
 mojo is a techno and house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bratislava and 14 more. Often billed alongside Waldymoto, Ariel (DE) and Kribs. Next up: Gewölbe, Cologne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ mojo is a techno and house artist based in Germany, with 93 gigs on soundcheck a
 
 Waldymoto, Ariel (DE), Kribs
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mojo-de/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mojo-de/)*

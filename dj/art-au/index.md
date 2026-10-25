@@ -1,6 +1,6 @@
 # Art (AU)
 
-Art (AU) is a Ambient and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
+Art (AU) is a Ambient and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
 
 Art (AU) is an ambient and deep house artist based in Australia, with 13 gigs on soundcheck across Bangkok, Berlin, Hobart and Lisbon and 3 more. Often billed alongside Rev Lon, Bex and Billus. Next up: Triangle, Osaka on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Art (AU) is an ambient and deep house artist based in Australia, with 13 gigs on
 
 Rev Lon, Bex, Billus
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/art-au/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/art-au/)*

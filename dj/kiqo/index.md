@@ -1,6 +1,6 @@
 # Kiqo
 
-Kiqo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Atno, Budapest on Fri, 30 Oct 2026.
+Kiqo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Atno, Budapest on Fri, 30 Oct 2026.
 
 Kiqo is a house and techno artist based in Hungary, with 78 gigs on soundcheck across Budapest and Madrid. Often billed alongside Meduzah, baeker and klpflrtpr. Next up: Atno, Budapest on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kiqo is a house and techno artist based in Hungary, with 78 gigs on soundcheck a
 
 Meduzah, baeker, klpflrtpr
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiqo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiqo/)*

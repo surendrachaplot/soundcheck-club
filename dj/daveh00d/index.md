@@ -1,6 +1,6 @@
 # daveh00d
 
-daveh00d is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Balagan, Mexico City on Thu, 29 Oct 2026.
+daveh00d is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Balagan, Mexico City on Thu, 29 Oct 2026.
 
 daveh00d is a house and pop artist based in Mexico, with 46 gigs on soundcheck across Guadalajara, Mexico City and Pittsburgh. Often billed alongside OMFDAN, Alby Esc and Amapola Rose. Next up: Balagan, Mexico City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ daveh00d is a house and pop artist based in Mexico, with 46 gigs on soundcheck a
 
 OMFDAN, Alby Esc, Amapola Rose
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveh00d/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveh00d/)*

@@ -1,6 +1,6 @@
 # LEI
 
-LEI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Chinatown, SF  The exact venue address will be emailed to ticket holders before the event., San Francisco/Oakland on Sat, 7 Nov 2026.
+LEI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Chinatown, SF  The exact venue address will be emailed to ticket holders before the event., San Francisco/Oakland on Sat, 7 Nov 2026.
 
 LEI is a house and minimal artist based in Ukraine, with 21 gigs on soundcheck across Berlin, New York City, Paris and San Francisco/Oakland and 1 more. Often billed alongside OmNa, Monoclick and James Houdini. Next up: TBA - Chinatown, SF  The exact venue address will be emailed to ticket holders before the event., San Francisco/Oakland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ LEI is a house and minimal artist based in Ukraine, with 21 gigs on soundcheck a
 
 OmNa, Monoclick, James Houdini
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lei/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lei/)*

@@ -1,6 +1,6 @@
 # TBA - The Old Library
 
-TBA - The Old Library is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Underwater presents #8: Nixsa Jingle & FT (50 tickets only)" on Sun, 25 Oct 2026.
+TBA - The Old Library is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Underwater presents #8: Nixsa Jingle & FT (50 tickets only)" on Sun, 25 Oct 2026.
 
 TBA - The Old Library is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Old Library is a music venue in London listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Underwater presents #8: Nixsa Jingle & FT (50 tickets only) |  |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-the-old-library/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-the-old-library/)*

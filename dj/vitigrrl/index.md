@@ -1,6 +1,6 @@
 # VITIGRRL
 
-VITIGRRL is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Le Nocturne, Chicago on Sun, 25 Oct 2026.
+VITIGRRL is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Le Nocturne, Chicago on Sun, 25 Oct 2026.
 
 VITIGRRL is a house and deep house artist based in United States of America, with 54 gigs on soundcheck across Chicago, Detroit, New Orleans and New York City and 1 more. Often billed alongside DJ Lady D, Derrick Carter and Michael Serafini. Next up: Le Nocturne, Chicago on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ VITIGRRL is a house and deep house artist based in United States of America, wit
 
 DJ Lady D, Derrick Carter, Michael Serafini
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitigrrl/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitigrrl/)*

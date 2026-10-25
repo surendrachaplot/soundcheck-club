@@ -1,18 +1,18 @@
 # Yachym
 
-Yachym is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Husitská 22, Prague on Sat, 24 Oct 2026.
+Yachym is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Klub Famu, Prague on Fri, 20 Nov 2026.
 
-Yachym is a bass and garage artist based in Czech Republic, with 8 gigs on soundcheck across Prague. Often billed alongside Meldaboi, SMB and Silverbo1. Next up: Husitská 22, Prague on Sat 24 Oct.
+Yachym is a bass and garage artist based in Czech Republic, with 8 gigs on soundcheck across Prague. Often billed alongside Meldaboi, SMB and Silverbo1. Next up: Klub Famu, Prague on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Husitská 22 | Prague |
 | Fri, 20 Nov 2026 | Klub Famu | Prague |
 
 ## Recently played
 
+- Husitská 22, Prague · Sat, 24 Oct 2026
 - Bike Jesus, Prague · Fri, 23 Oct 2026
 - Löwitův Mlýn, Prague · Sat, 20 Jun 2026
 - Gabriel Loci, Prague · Wed, 31 Dec 2025
@@ -24,4 +24,4 @@ Yachym is a bass and garage artist based in Czech Republic, with 8 gigs on sound
 
 Meldaboi, SMB (1), Silverbo1
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yachym/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yachym/)*

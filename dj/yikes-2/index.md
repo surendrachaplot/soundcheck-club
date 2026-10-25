@@ -1,6 +1,6 @@
 # Yikes
 
-Yikes is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Wool Mill, Melbourne on Sat, 31 Oct 2026.
+Yikes is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Wool Mill, Melbourne on Sat, 31 Oct 2026.
 
 Yikes is a house and techno artist based in Australia, with 66 gigs on soundcheck across Brisbane, Hamburg, Melbourne and Montreal and 3 more. Often billed alongside DJ PGZ, Kia (AU) and Moopie. Next up: The Wool Mill, Melbourne on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Yikes is a house and techno artist based in Australia, with 66 gigs on soundchec
 
 DJ PGZ, Kia (AU), Moopie
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yikes-2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yikes-2/)*

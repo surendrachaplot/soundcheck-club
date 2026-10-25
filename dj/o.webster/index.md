@@ -1,6 +1,6 @@
 # O.WEBSTER
 
-O.WEBSTER is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Gaffe, London on Sat, 28 Nov 2026.
+O.WEBSTER is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gaffe, London on Sat, 28 Nov 2026.
 
 O.WEBSTER is a house and techno artist, with 25 gigs on soundcheck across Edinburgh, Lisbon and London. Often billed alongside Checketts, Adam Chapman and Dembinski. Next up: Gaffe, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ O.WEBSTER is a house and techno artist, with 25 gigs on soundcheck across Edinbu
 
 Checketts, Adam Chapman, Dembinski
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.webster/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.webster/)*

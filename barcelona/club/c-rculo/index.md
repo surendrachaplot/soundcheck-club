@@ -1,14 +1,13 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Inner Circle feat. Another Expensive One" on Sat, 24 Oct 2026.
+Círculo is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Inner Circle feat. David Ghetto" on Thu, 29 Oct 2026.
 
-Círculo is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including A4U (RU), David Ghetto, LeMichael and Majo Alarcon. See dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
+Círculo is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including A4U (RU), David Ghetto, LeMichael and Majo Alarcon. See dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Inner Circle feat. Another Expensive One |  |
 | Thu, 29 Oct 2026 | Inner Circle feat. David Ghetto | David Ghetto |
 | Fri, 30 Oct 2026 | Inner Circle feat. Majo Alarcon | Majo Alarcon |
 | Sat, 31 Oct 2026 | Inner Circle feat. LeMichael aka LM | LeMichael |
@@ -23,4 +22,4 @@ Círculo is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, w
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

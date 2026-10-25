@@ -1,6 +1,6 @@
 # Snad
 
-Snad is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+Snad is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
 Snad is a house and minimal artist based in United States of America, with 63 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 18 more. Often billed alongside Jakob Seidensticker, Mejia and Bärtaub. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Snad is a house and minimal artist based in United States of America, with 63 gi
 
 Jakob Seidensticker, Mejia, Bärtaub
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snad-us/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snad-us/)*

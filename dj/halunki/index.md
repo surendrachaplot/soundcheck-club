@@ -1,13 +1,14 @@
 # Halunki
 
-Halunki is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Beate Uwe, Berlin on Sat, 28 Nov 2026.
+Halunki is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Monarch, Berlin on Fri, 13 Nov 2026.
 
-Halunki is a house and disco artist, with 13 gigs on soundcheck across Berlin. Often billed alongside KRUBALLY, Johnny Loco and Marie.Luis. Next up: Beate Uwe, Berlin on Sat 28 Nov.
+Halunki is a house and garage artist, with 14 gigs on soundcheck across Berlin. Often billed alongside KRUBALLY, Johnny Loco and Marie.Luis. Next up: Monarch, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Monarch | Berlin |
 | Sat, 28 Nov 2026 | Beate Uwe | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Halunki is a house and disco artist, with 13 gigs on soundcheck across Berlin. O
 
 KRUBALLY, Johnny Loco, Marie.Luis
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halunki/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halunki/)*

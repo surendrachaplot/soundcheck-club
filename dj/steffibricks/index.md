@@ -1,6 +1,6 @@
 # Steffi Bricks
 
-Steffi Bricks is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
+Steffi Bricks is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
 
 Steffi Bricks is a broken beat and house artist based in United Kingdom, with 17 gigs on soundcheck across Bristol, London and Nottingham. Often billed alongside Blue Soup DJ, LWANGA and Faro. Next up: Colour Factory, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Steffi Bricks is a broken beat and house artist based in United Kingdom, with 17
 
 Blue Soup DJ, LWANGA, Faro
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steffibricks/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steffibricks/)*

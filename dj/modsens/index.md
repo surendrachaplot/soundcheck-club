@@ -1,6 +1,6 @@
 # Mod Sens
 
-Mod Sens is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+Mod Sens is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
 Mod Sens is a bass and techno artist based in Sweden, with 9 gigs on soundcheck across Bristol, Copenhagen, Edinburgh and Malmo. Often billed alongside Bolam, Ekaliff and Axle. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mod Sens is a bass and techno artist based in Sweden, with 9 gigs on soundcheck 
 
 Bolam, Ekaliff, Axle
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modsens/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modsens/)*

@@ -1,6 +1,6 @@
 # Jean-Jez
 
-Jean-Jez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 14 Nov 2026.
+Jean-Jez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 14 Nov 2026.
 
 Jean-Jez is a house and techno artist, with 49 gigs on soundcheck across Berlin and Munich. Often billed alongside Kang, critical P and Kedi Bounce. Next up: Bulbul Berlin, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jean-Jez is a house and techno artist, with 49 gigs on soundcheck across Berlin 
 
 Kang, critical P, Kedi Bounce
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-jez/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-jez/)*

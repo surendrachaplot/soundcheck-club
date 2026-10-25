@@ -1,6 +1,6 @@
 # Docks
 
-Docks is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "BOOM ROOM with Somewhen" on Fri, 6 Nov 2026.
+Docks is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "BOOM ROOM with Somewhen" on Fri, 6 Nov 2026.
 
 Docks is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including Iorie, Nina Hepburn, Somewhen and SUZé. See dates, start times and who's playing. Spielbudenplatz 19, 20359 Hamburg.
 
@@ -18,4 +18,4 @@ Docks is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with li
 
 Spielbudenplatz 19, 20359 Hamburg, Hamburg
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/docks/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/docks/)*

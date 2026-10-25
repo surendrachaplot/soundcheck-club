@@ -1,6 +1,6 @@
 # Brent Shay
 
-Brent Shay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Spkrbox, Detroit on Wed, 4 Nov 2026.
+Brent Shay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Spkrbox, Detroit on Wed, 4 Nov 2026.
 
 Brent Shay is a techno and house artist based in United States of America, with 102 gigs on soundcheck across Detroit, London, New York City and Orlando and 3 more. Often billed alongside Dj Disc, Pitchblnd and madeera. Next up: Spkrbox, Detroit on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Brent Shay is a techno and house artist based in United States of America, with 
 
 Dj Disc, Pitchblnd, madeera
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*

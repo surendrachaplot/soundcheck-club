@@ -1,14 +1,13 @@
 # Village Underground
 
-Village Underground is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Origins x VU Free Rave: House Techno Trance" on Sat, 24 Oct 2026.
+Village Underground is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Channel One Sound System UK Tour: London" on Sun, 25 Oct 2026.
 
-Village Underground is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Acid Arab, aeriform, amil raja and Batu and 2 more. See dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
+Village Underground is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Acid Arab, aeriform, amil raja and Batu and 2 more. See dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Origins x VU Free Rave: House Techno Trance |  |
 | Sun, 25 Oct 2026 | Channel One Sound System UK Tour: London | Channel One Sound |
 | Fri, 30 Oct 2026 | Origins: Batu [All Night Long]  | Batu |
 | Sat, 31 Oct 2026 | Mungo's HiFi (Full Soundsystem) - Halloween Daytime Session | Mungo's Hi Fi |
@@ -18,9 +17,10 @@ Village Underground is a music venue in London listed on soundcheck. 17 upcoming
 | Fri, 27 Nov 2026 | Labyrinth presents: Distruction Boyz |  |
 | Sat, 28 Nov 2026 | Keeno LIVE ft Vibre Strings | Keeno |
 | Sat, 28 Nov 2026 | Ella Knight's House Party | Ella Knight |
+| Sat, 5 Dec 2026 | RIRIA presents 'Floating' - Village Underground | RIRIA |
 
 ## Address
 
 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*

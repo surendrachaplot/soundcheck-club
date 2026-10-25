@@ -1,6 +1,6 @@
 # Wallace
 
-Wallace is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
+Wallace is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
 
 Wallace is a house and techno artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Bergen and 35 more. Often billed alongside Bradley Zero, Gallegos and Moxie. Next up: TBA - Secret Location, London on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Wallace is a house and techno artist based in United Kingdom, with 87 gigs on so
 
 Bradley Zero, Gallegos, Moxie
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallace/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallace/)*

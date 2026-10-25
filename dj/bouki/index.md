@@ -1,6 +1,6 @@
 # Bouki
 
-Bouki is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Circus Osaka, Osaka on Sun, 22 Nov 2026.
+Bouki is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Circus Osaka, Osaka on Sun, 22 Nov 2026.
 
 Bouki is a garage and bass artist based in United Kingdom, with 63 gigs on soundcheck across Brisbane, Lyon, Melbourne and Osaka and 2 more. Often billed alongside Obeido, Bella Bella and Mimi J. Next up: Circus Osaka, Osaka on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Bouki is a garage and bass artist based in United Kingdom, with 63 gigs on sound
 
 Obeido, Bella Bella, Mimi J
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouki/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouki/)*

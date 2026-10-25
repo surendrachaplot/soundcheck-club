@@ -1,18 +1,17 @@
 # Aahhh Rooftop
 
-Aahhh Rooftop is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Toy Tonics Jam" on Sat, 24 Oct 2026.
+Aahhh Rooftop is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Toy Tonics Jam" on Sat, 21 Nov 2026.
 
-Aahhh Rooftop is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including A-DEE, COEO, Davide Dev and DJLolo and 1 more. See dates, start times and who's playing. Speicherstraße 20, 81671 München.
+Aahhh Rooftop is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including A-DEE, COEO and Zsa-Zsa. See dates, start times and who's playing. Speicherstraße 20, 81671 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Toy Tonics Jam | DJLolo, Davide Dev |
 | Sat, 21 Nov 2026 | Toy Tonics Jam | A-DEE, COEO, Zsa-Zsa |
 
 ## Address
 
 Speicherstraße 20, 81671 München, Munich
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/aahhh-rooftop/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/aahhh-rooftop/)*

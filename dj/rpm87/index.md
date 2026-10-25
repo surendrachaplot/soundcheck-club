@@ -1,6 +1,6 @@
 # Rpm87
 
-Rpm87 is a New Wave and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Rpm87 is a New Wave and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 Rpm87 is a new wave and electro artist based in Chile, with 31 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Bluekim, Invalid User and Owldisco. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rpm87 is a new wave and electro artist based in Chile, with 31 gigs on soundchec
 
 Bluekim, Invalid User, Owldisco
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rpm87/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rpm87/)*

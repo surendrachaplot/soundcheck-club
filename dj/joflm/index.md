@@ -1,18 +1,18 @@
 # Jo FLM
 
-Jo FLM is a Club and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at murmur, Amsterdam on Sat, 24 Oct 2026.
+Jo FLM is a Club and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 14 Nov 2026.
 
-Jo FLM is a club and dub artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Brussels, Rotterdam and The Hague and 1 more. Often billed alongside Toff Youth, drum song (dj) and Rozaly. Next up: murmur, Amsterdam on Sat 24 Oct.
+Jo FLM is a club and dub artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Brussels, Rotterdam and The Hague and 1 more. Often billed alongside Toff Youth, drum song (dj) and Rozaly. Next up: Garage Noord, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | murmur | Amsterdam |
 | Sat, 14 Nov 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 
+- murmur, Amsterdam · Sat, 24 Oct 2026
 - Garage Noord, Amsterdam · Sat, 26 Sept 2026
 - Pilar - VUB, Brussels · Thu, 24 Sept 2026
 - murmur, Amsterdam · Sat, 29 Aug 2026
@@ -20,10 +20,9 @@ Jo FLM is a club and dub artist based in Netherlands, with 28 gigs on soundcheck
 - De Nijverheid, Utrecht · Sat, 11 Jul 2026
 - Garage Noord, Amsterdam · Sat, 20 Jun 2026
 - Garage Noord, Amsterdam · Fri, 10 Apr 2026
-- Laak, The Hague · Thu, 9 Apr 2026
 
 ## Shares bills with
 
 Toff Youth, drum song (dj), Rozaly
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joflm/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joflm/)*

@@ -1,6 +1,6 @@
 # Clover
 
-Clover is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Arca, Milan on Sat, 31 Oct 2026.
+Clover is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Arca, Milan on Sat, 31 Oct 2026.
 
 Clover is a techno and house artist based in Italy, with 14 gigs on soundcheck across Milan, Paris and Tokyo. Often billed alongside Andrewww, Acid Gigi and Acidgigi. Next up: Arca, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Clover is a techno and house artist based in Italy, with 14 gigs on soundcheck a
 
 Andrewww, Acid Gigi, Acidgigi
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clover/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clover/)*

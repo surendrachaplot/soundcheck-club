@@ -1,14 +1,13 @@
 # DJ Koolt
 
-DJ Koolt is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA - Club House, Santiago on Sat, 24 Oct 2026.
+DJ Koolt is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
 
-DJ Koolt is a techno and house artist based in Uruguay, with 106 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 35 more. Often billed alongside Sugar Free, ASIA (DE) and Ogazón. Next up: TBA - Club House, Santiago on Sat 24 Oct.
+DJ Koolt is a techno and house artist based in Uruguay, with 106 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 35 more. Often billed alongside Sugar Free, ASIA (DE) and Ogazón. Next up: Nowadays, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA - Club House | Santiago |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
 | Fri, 6 Nov 2026 | Public Works | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | TBA | Seattle |
@@ -16,6 +15,7 @@ DJ Koolt is a techno and house artist based in Uruguay, with 106 gigs on soundch
 
 ## Recently played
 
+- TBA - Club House, Santiago · Sat, 24 Oct 2026
 - The Cause, London · Sat, 12 Sept 2026
 - Seaseaclub Barcelona, Barcelona · Thu, 10 Sept 2026
 - nachbar, Amsterdam · Fri, 4 Sept 2026
@@ -23,10 +23,9 @@ DJ Koolt is a techno and house artist based in Uruguay, with 106 gigs on soundch
 - Les Enfants Brillants, Barcelona · Sat, 8 Aug 2026
 - Amsterdamse Bos, Amsterdam · Sun, 2 Aug 2026
 - ISOamsterdam, Amsterdam · Sat, 1 Aug 2026
-- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Sugar Free, ASIA (DE), Ogazón
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*

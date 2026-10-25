@@ -1,6 +1,6 @@
 # ESKEI83
 
-ESKEI83 is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 19 Dec 2026.
+ESKEI83 is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 19 Dec 2026.
 
 ESKEI83 is a drum & bass and dubstep artist based in Germany, with 32 gigs on soundcheck across Barcelona, Berlin, Bristol and Calgary and 16 more. Often billed alongside 808 CRIME, M/THREE/D and Murdock. Next up: Stromwerk Dresden, Dresden on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ ESKEI83 is a drum & bass and dubstep artist based in Germany, with 32 gigs on so
 
 808 CRIME, M/THREE/D, Murdock
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eskei83/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eskei83/)*

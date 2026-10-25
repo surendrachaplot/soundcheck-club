@@ -1,6 +1,6 @@
 # Brixton Radio
 
-Brixton Radio is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Thick Groovy Fridays" on Fri, 30 Oct 2026.
+Brixton Radio is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Thick Groovy Fridays" on Fri, 30 Oct 2026.
 
 Brixton Radio is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Angie (FR), Chopper, DRY HUMP and Gabriel Dancer and 2 more. See dates, start times and who's playing. 23 Alphabet Mews, London SW9 0FN, UK.
 
@@ -15,4 +15,4 @@ Brixton Radio is a music venue in London listed on soundcheck. 2 upcoming gigs, 
 
 23 Alphabet Mews, London SW9 0FN, UK, London
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-radio/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-radio/)*

@@ -1,6 +1,6 @@
 # btrast
 
-btrast is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Switch Bar, Barcelona on Sat, 31 Oct 2026.
+btrast is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Switch Bar, Barcelona on Sat, 31 Oct 2026.
 
 btrast is a house and techno artist, with 18 gigs on soundcheck across Barcelona, Rotterdam and The Hague. Often billed alongside Pep Descals, Fontana (ES) and Arnau. Next up: Switch Bar, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ btrast is a house and techno artist, with 18 gigs on soundcheck across Barcelona
 
 Pep Descals, Fontana (ES), Arnau
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/btrast/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/btrast/)*

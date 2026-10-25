@@ -1,19 +1,19 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Gewölbe, Cologne on Sat, 24 Oct 2026.
+Zenker Brothers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
-Zenker Brothers is a techno and house artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside Stenny, Skee Mask and re:ni. Next up: Gewölbe, Cologne on Sat 24 Oct.
+Zenker Brothers is a techno and house artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside Stenny, Skee Mask and re:ni. Next up: The Cause, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Gewölbe | Cologne |
 | Sat, 31 Oct 2026 | The Cause | London |
 | Fri, 2 Jul 2027 | TBA - Veta Festival, Barruelo de Santullán | North |
 
 ## Recently played
 
+- Gewölbe, Cologne · Sat, 24 Oct 2026
 - ingang, Amsterdam · Fri, 23 Oct 2026
 - Printhouse, Munich · Sat, 17 Oct 2026
 - TBA, Vancouver · Sun, 11 Oct 2026
@@ -21,10 +21,9 @@ Zenker Brothers is a techno and house artist based in Germany, with 160 gigs on 
 - TBA, Boston · Thu, 8 Oct 2026
 - TBA - Los Angeles (Warehouse), Los Angeles · Sat, 3 Oct 2026
 - The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
-- BASEMENT, New York City · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Stenny, Skee Mask, re:ni
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*

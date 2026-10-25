@@ -1,6 +1,6 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Psytrance artist with 18 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
+Samuel Moriero (2) is a Techno and Psytrance artist with 18 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
 
 Samuel Moriero is a techno and psytrance artist based in Italy, with 34 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: Afas Live, Amsterdam on Sun 25 Oct.
 
@@ -36,4 +36,4 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 34 gigs on 
 
 Onlynumbers, ASLO, Adam Bartas
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

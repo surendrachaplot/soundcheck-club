@@ -1,6 +1,6 @@
 # KOSHIRO
 
-KOSHIRO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at SEL OCTAGON TOKYO, Tokyo on Thu, 29 Oct 2026.
+KOSHIRO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at SEL OCTAGON TOKYO, Tokyo on Thu, 29 Oct 2026.
 
 KOSHIRO is a techno and trance artist based in Japan, with 55 gigs on soundcheck across Osaka and Tokyo. Often billed alongside YANNY, Lynta and AI. Next up: SEL OCTAGON TOKYO, Tokyo on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ KOSHIRO is a techno and trance artist based in Japan, with 55 gigs on soundcheck
 
 YANNY (1), Lynta, AI (10)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koshiro/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koshiro/)*

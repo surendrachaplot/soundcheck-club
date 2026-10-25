@@ -1,14 +1,13 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Out & Abt SF: Halloween Dance Party/200 Channels" on Sat, 24 Oct 2026.
+Monarch is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Random Access: RNDM-AXS _ 1029 - 'Halloween Special" on Thu, 29 Oct 2026.
 
-Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including 10cust, 1OO1O, AMERICANRECYCLING and arktoi and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including 10cust, 1OO1O, AMERICANRECYCLING and Axel Boman and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Out & Abt SF: Halloween Dance Party/200 Channels | Cowboy Blvck, My My, Olivia Lauren, arktoi |
 | Thu, 29 Oct 2026 | Random Access: RNDM-AXS _ 1029 - 'Halloween Special | Byter, KAJE |
 | Sat, 31 Oct 2026 | THE AFTERLIFE: FEATURING 10CUST | Jaded (UK) |
 | Sat, 31 Oct 2026 | The Afterlife: feat. 10cust, Dalhaus, crushh, AMERICANRECYCLING & More | 10cust, AMERICANRECYCLING, Dalhaus, crushh |
@@ -18,9 +17,10 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcom
 | Fri, 20 Nov 2026 | Marsolo | Marsolo |
 | Sat, 21 Nov 2026 | Revolutions: Staxx of Wax | Duserock |
 | Fri, 11 Dec 2026 | As You Like It Unedited: Open to Close with Axel Boman | Axel Boman |
+| Thu, 31 Dec 2026 | Mostly Cloudy New Year's Eve |  |
 
 ## Address
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

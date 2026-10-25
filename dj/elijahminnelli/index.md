@@ -1,8 +1,8 @@
 # Elijah Minnelli
 
-Elijah Minnelli is a Dub and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Elijah Minnelli is a Dub and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Cause, London on Sat, 28 Nov 2026.
 
-Elijah Minnelli is a dub and experimental artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Bristol, Brussels and Edinburgh and 8 more. Often billed alongside Hermeneia, i-sha and Al Wootton. Next up: The Cause, London on Sat 28 Nov.
+Elijah Minnelli is a dub and experimental artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Bristol, Brussels and Edinburgh and 8 more. Often billed alongside i-sha, Hermeneia and Al Wootton. Next up: The Cause, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Elijah Minnelli is a dub and experimental artist based in United Kingdom, with 2
 
 ## Shares bills with
 
-Hermeneia, i-sha, Al Wootton
+i-sha, Hermeneia, Al Wootton
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahminnelli/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahminnelli/)*

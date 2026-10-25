@@ -1,6 +1,6 @@
 # BiBiYUA
 
-BiBiYUA is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at clubasia, Tokyo on Fri, 30 Oct 2026.
+BiBiYUA is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at clubasia, Tokyo on Fri, 30 Oct 2026.
 
 BiBiYUA is a hip-hop and techno artist, with 16 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside KANTA, ecec and Akira. Next up: clubasia, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ BiBiYUA is a hip-hop and techno artist, with 16 gigs on soundcheck across Osaka,
 
 KANTA, ecec, Akira
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiyua/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiyua/)*

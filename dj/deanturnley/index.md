@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Dean Turnley is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Dean Turnley is a house and tech house artist based in Australia, with 34 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Belfast and 26 more. Often billed alongside Hamdi, Jamback and MPH. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -22,6 +22,7 @@ Dean Turnley is a house and tech house artist based in Australia, with 34 gigs o
 
 ## Recently played
 
+- Descent, Boston · Sat, 24 Oct 2026
 - Art Club, Houston · Fri, 23 Oct 2026
 - Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - Jolene Downtown Miami, Miami · Sun, 18 Oct 2026
@@ -29,10 +30,9 @@ Dean Turnley is a house and tech house artist based in Australia, with 34 gigs o
 - The Fruit, North-carolina · Fri, 16 Oct 2026
 - Refuge, New-york-city · Sat, 10 Oct 2026
 - Big Pink, Detroit · Fri, 9 Oct 2026
-- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Hamdi, Jamback, MPH (1)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

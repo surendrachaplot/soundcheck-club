@@ -1,6 +1,6 @@
 # Griffin Maxwell Brooks
 
-Griffin Maxwell Brooks is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
+Griffin Maxwell Brooks is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
 
 Griffin Maxwell Brooks is a house and techno artist based in United States of America, with 62 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 2 more. Often billed alongside Amber Valentine, Jojo Lorenzo and SKYWALKER (US). Next up: TBA, Los Angeles on Sat 24 Oct.
 
@@ -14,6 +14,7 @@ Griffin Maxwell Brooks is a house and techno artist based in United States of Am
 
 ## Recently played
 
+- TBA, Los Angeles · Sat, 24 Oct 2026
 - Trans-Pecos, New York City · Fri, 23 Oct 2026
 - Green Room NYC, New York City · Sat, 3 Oct 2026
 - Elsewhere, New York City · Sat, 22 Aug 2026
@@ -21,10 +22,9 @@ Griffin Maxwell Brooks is a house and techno artist based in United States of Am
 - SILO, New York City · Fri, 10 Jul 2026
 - TBA, Los Angeles · Sat, 4 Jul 2026
 - House of Yes, New York City · Sat, 27 Jun 2026
-- BERHTA, Washington DC · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Amber Valentine, Jojo Lorenzo, SKYWALKER (US)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/griffinmaxwellbrooks/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/griffinmaxwellbrooks/)*

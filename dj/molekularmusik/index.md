@@ -1,6 +1,6 @@
 # Molekularmusik
 
-Molekularmusik is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Romantica, Stuttgart on Sat, 14 Nov 2026.
+Molekularmusik is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Romantica, Stuttgart on Sat, 14 Nov 2026.
 
 Molekularmusik is a techno and tech house artist based in Germany, with 26 gigs on soundcheck across Munich and Stuttgart. Often billed alongside tim|bre, Alyne and Line. Next up: Romantica, Stuttgart on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Molekularmusik is a techno and tech house artist based in Germany, with 26 gigs 
 
 tim|bre, Alyne, Line
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molekularmusik/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molekularmusik/)*

@@ -1,14 +1,13 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 14 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "WONKYWEEN" on Sat, 24 Oct 2026.
+Elektricity is a music venue in Detroit with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "CHOPTOBER: DEVILS NIGHT EDITION" on Fri, 30 Oct 2026.
 
-Elektricity is a music venue in Detroit listed on soundcheck. 14 upcoming gigs, with line-ups including Casey Club, Gossamer, Mary Droppinz and Melt (CA) and 2 more. See dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
+Elektricity is a music venue in Detroit listed on soundcheck. 13 upcoming gigs, with line-ups including Casey Club, Gossamer, Mary Droppinz and Melt (CA) and 2 more. See dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | WONKYWEEN |  |
 | Fri, 30 Oct 2026 | CHOPTOBER: DEVILS NIGHT EDITION |  |
 | Sat, 31 Oct 2026 | NURKO: MICHIGAN HORROR STORY - CARNIVAL OF CHAOS |  |
 | Fri, 6 Nov 2026 | OPEN THE PIT | Gossamer |
@@ -18,9 +17,10 @@ Elektricity is a music venue in Detroit listed on soundcheck. 14 upcoming gigs, 
 | Sat, 21 Nov 2026 | WHALES: DANGEROUS WATERS TOUR |  |
 | Fri, 27 Nov 2026 | DEEP DARK BASS |  |
 | Fri, 4 Dec 2026 | LAYZ with KOZMOZ |  |
+| Sat, 5 Dec 2026 | CODD DUBZ X HE$H: THRASHED TOUR | Melt (CA) |
 
 ## Address
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

@@ -1,14 +1,13 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 19 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Melina Serser + PIP" on Sat, 24 Oct 2026.
+Cobalt Studios is a music venue in Newcastle with 18 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Que Sakamoto All Night Long" on Fri, 30 Oct 2026.
 
-Cobalt Studios is a music venue in Newcastle listed on soundcheck. 19 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and dj sweet6teen and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
+Cobalt Studios is a music venue in Newcastle listed on soundcheck. 18 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and dj sweet6teen and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Melina Serser + PIP | Melina Serser, PIP. |
 | Fri, 30 Oct 2026 | Que Sakamoto All Night Long | Que Sakamoto |
 | Sat, 31 Oct 2026 | A Taste Of Honey 001: Sex Postive Disco Cabaret & Rave |  |
 | Fri, 6 Nov 2026 | dreamland: Peach b2b Jay Duncan All Night Long | Jay Duncan, Peach |
@@ -18,9 +17,10 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 19 upcoming g
 | Fri, 13 Nov 2026 | Ivan Smagghe All Night Long (Age 21+) | Ivan Smagghe |
 | Sat, 14 Nov 2026 | Shy Bairns presents // PIP b2b Weston All Night Long | PIP., Weston |
 | Fri, 20 Nov 2026 | Juiced 2nd Birthday with dj sweet6teen + James Worker | James Worker, dj sweet6teen |
+| Sat, 21 Nov 2026 | 'Some Like It Early' presents: Marcia Carr | Marcia Carr |
 
 ## Address
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

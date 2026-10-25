@@ -1,14 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Others to the Baile" on Sat, 24 Oct 2026.
+Crack Bellmer is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "GAY PANIC: Alter Ego" on Sun, 25 Oct 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including 2727, anna andersrum, ARMANDO and bad.dnny and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including 2727, anna andersrum, ARMANDO and bad.dnny and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Others to the Baile | Kandylion, Robin Flux, Sky Deep, Thomasito, VRTL, materia hache |
 | Sun, 25 Oct 2026 | GAY PANIC: Alter Ego | DJ Gianni, materia hache |
 | Wed, 28 Oct 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 | Thu, 29 Oct 2026 | Night District | Dub Isotope, Eklekt1k, FISK, Lyndon Lewis, Migz |
@@ -18,9 +17,10 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 19 upcoming gigs,
 | Thu, 5 Nov 2026 | MACHINE LEARNING: residents + friends [free entry until 22:00!] | CCTV, DATA RYDER, Leba, Linnea Mae, anna andersrum |
 | Fri, 6 Nov 2026 | GÜAYOTA X NOFUTURE | Juana Valeria, Paulawar, Zoran, bad.dnny |
 | Fri, 6 Nov 2026 | GÜAYOTA X NOFUTURE | Juana Valeria, Paulawar, Zoran, bad.dnny |
+| Sat, 7 Nov 2026 | streamlines | Jona Sorger, PAUNA, Younes Jamil |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

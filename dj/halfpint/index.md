@@ -1,14 +1,13 @@
 # HALFPINT
 
-HALFPINT is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
+HALFPINT is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Amber's, Manchester on Sat, 7 Nov 2026.
 
-HALFPINT is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Central and 6 more. Often billed alongside Jamback, Sossa and Seth Troxler. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
+HALFPINT is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Central and 6 more. Often billed alongside Jamback, Sossa and Prospa. Next up: Amber's, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Sat, 7 Nov 2026 | Amber's | Manchester |
 | Sun, 8 Nov 2026 | 93 Feet East | London |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
@@ -17,6 +16,7 @@ HALFPINT is a house and techno artist based in United Kingdom, with 50 gigs on s
 
 ## Recently played
 
+- Taets Art & Event Park, Amsterdam · Sat, 24 Oct 2026
 - fabric, London · Fri, 16 Oct 2026
 - TBA, Central · Fri, 2 Oct 2026
 - NDSM Docklands, Amsterdam · Sun, 13 Sept 2026
@@ -24,10 +24,9 @@ HALFPINT is a house and techno artist based in United Kingdom, with 50 gigs on s
 - fabric, London · Sat, 29 Aug 2026
 - DC-10, Ibiza · Mon, 24 Aug 2026
 - Shelter Amsterdam, Amsterdam · Fri, 7 Aug 2026
-- DC-10, Ibiza · Mon, 3 Aug 2026
 
 ## Shares bills with
 
-Jamback, Sossa, Seth Troxler
+Jamback, Sossa, Prospa
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*

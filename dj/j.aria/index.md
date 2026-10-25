@@ -1,6 +1,6 @@
 # J. Aria
 
-J. Aria is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Electrowerkz, London on Fri, 13 Nov 2026.
+J. Aria is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Electrowerkz, London on Fri, 13 Nov 2026.
 
 J. Aria is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Berlin, Bristol, London and New York City. Often billed alongside Joshua James, Nadine Noor and ASHTREY. Next up: Electrowerkz, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ J. Aria is a house and techno artist based in United Kingdom, with 51 gigs on so
 
 Joshua James, Nadine Noor, ASHTREY
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.aria/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.aria/)*

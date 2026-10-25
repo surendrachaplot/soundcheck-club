@@ -1,6 +1,6 @@
 # Ali Love
 
-Ali Love is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Ali Love is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 Ali Love is a house and tech house artist based in United Kingdom, with 16 gigs on soundcheck across Ibiza, Iceland, Lisbon and Liverpool and 2 more. Often billed alongside Sammy Porter, Andrea Fiorito and Kalabrese. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -25,4 +25,4 @@ Ali Love is a house and tech house artist based in United Kingdom, with 16 gigs 
 
 Sammy Porter, Andrea Fiorito, Kalabrese
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alilove/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alilove/)*

@@ -1,6 +1,6 @@
 # bad juuju
 
-bad juuju is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Public Works, San Francisco/Oakland on Thu, 5 Nov 2026.
+bad juuju is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Public Works, San Francisco/Oakland on Thu, 5 Nov 2026.
 
 bad juuju is a techno and house artist based in United States of America, with 52 gigs on soundcheck across New York City, San Francisco/Oakland and Seattle. Often billed alongside Vertigo, CYBER1A and Skiis. Next up: Public Works, San Francisco/Oakland on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ bad juuju is a techno and house artist based in United States of America, with 5
 
 Vertigo, CYBER1A, Skiis
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badjuuju/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badjuuju/)*

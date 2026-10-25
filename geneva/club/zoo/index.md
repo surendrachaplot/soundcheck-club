@@ -1,14 +1,13 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 7 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "VNR4EVER *RÔTI DE PDG*: Kween K b2b Carmol Elektra • Psychotaste • Qui est Qui" on Sat, 24 Oct 2026.
+Zoo is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "RHYTHM NIGHT: Braises de Velours (All Night Long) [VJ Hypothenox]" on Fri, 30 Oct 2026.
 
-Zoo is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, with line-ups including Andy Martin, A Strange Wedding, Braises de Velours and CAIVA and 2 more. See dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
+Zoo is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, with line-ups including Andy Martin, A Strange Wedding, Braises de Velours and CAIVA and 2 more. See dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | VNR4EVER *RÔTI DE PDG*: Kween K b2b Carmol Elektra • Psychotaste • Qui est Qui |  |
 | Fri, 30 Oct 2026 | RHYTHM NIGHT: Braises de Velours (All Night Long) [VJ Hypothenox] | Braises de Velours |
 | Sat, 31 Oct 2026 | DYSTOPIC DIMENSIONS: CAIVA • Dr. G • HANAA [VJ Babyblazer] | CAIVA, Dr. G, HANAA |
 | Fri, 6 Nov 2026 | BFF: POSIIR & Perfo [VJs GaspardSalomina] | Perfo |
@@ -20,4 +19,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, with line-
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

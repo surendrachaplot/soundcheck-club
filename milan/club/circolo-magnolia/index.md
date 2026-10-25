@@ -1,6 +1,6 @@
 # Circolo Magnolia
 
-Circolo Magnolia is a music venue in Milan with 8 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Berlin Calling - A Journey Through 2000's Techno with Madù, Roti, Dj Stammig" on Fri, 30 Oct 2026.
+Circolo Magnolia is a music venue in Milan with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Berlin Calling - A Journey Through 2000's Techno with Madù, Roti, Dj Stammig" on Fri, 30 Oct 2026.
 
 Circolo Magnolia is a music venue in Milan listed on soundcheck. 8 upcoming gigs, with line-ups including AllaDerivaLontano, Blood of Aza, Drvmmer (IT) and GLADJEE and 2 more. See dates, start times and who's playing. Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy.
 
@@ -21,4 +21,4 @@ Circolo Magnolia is a music venue in Milan listed on soundcheck. 8 upcoming gigs
 
 Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy, Milan
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*

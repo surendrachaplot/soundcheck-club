@@ -1,6 +1,6 @@
 # Quivver
 
-Quivver is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at The Golden Lion, Manchester on Fri, 11 Dec 2026.
+Quivver is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Golden Lion, Manchester on Fri, 11 Dec 2026.
 
 Quivver is a progressive house and house artist, with 33 gigs on soundcheck across Amsterdam, Bali, Barcelona and Boston and 15 more. Often billed alongside Dave Seaman, Steve Parry and Cris-H. Next up: The Golden Lion, Manchester on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Quivver is a progressive house and house artist, with 33 gigs on soundcheck acro
 
 Dave Seaman, Steve Parry, Cris-H
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quivver/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quivver/)*

@@ -1,6 +1,6 @@
 # Anyma
 
-Anyma is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at La Défense Arena, Paris on Sat, 12 Dec 2026.
+Anyma is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at La Défense Arena, Paris on Sat, 12 Dec 2026.
 
 Anyma is a techno and progressive house artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Budapest and 22 more. Often billed alongside Kevin de Vries, Tale Of Us and Chris Avantgarde. Next up: La Défense Arena, Paris on Sat 12 Dec.
 
@@ -27,4 +27,4 @@ Anyma is a techno and progressive house artist based in Germany, with 72 gigs on
 
 Kevin de Vries, Tale Of Us, Chris Avantgarde
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anyma/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anyma/)*

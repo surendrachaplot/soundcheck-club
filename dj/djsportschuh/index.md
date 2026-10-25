@@ -1,6 +1,6 @@
 # DJ SPORTSCHUH
 
-DJ SPORTSCHUH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 19 Dec 2026.
+DJ SPORTSCHUH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 19 Dec 2026.
 
 DJ SPORTSCHUH is a techno and house artist based in Germany, with 139 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside BNZN, Flavius (DE) and ATTA (GER). Next up: Indiego Glocksee, Hannover on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ DJ SPORTSCHUH is a techno and house artist based in Germany, with 139 gigs on so
 
 BNZN, Flavius (DE), ATTA (GER)
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*
+*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*
