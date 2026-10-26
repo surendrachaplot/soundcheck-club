@@ -1,6 +1,6 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
+Harry McCanna is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
 
 Harry McCanna is a house and tech house artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: TILLATEC, Amsterdam on Mon 26 Oct.
 
@@ -30,4 +30,4 @@ Harry McCanna is a house and tech house artist based in United Kingdom, with 141
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

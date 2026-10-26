@@ -1,6 +1,6 @@
 # 22 (1)
 
-22 (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - ATHarea, Athens on Sun, 1 Nov 2026.
+22 (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - ATHarea, Athens on Sun, 1 Nov 2026.
 
 22 is a techno and house artist based in Tunisia, with 37 gigs on soundcheck across Athens, Berlin, Greece and Krakow. Often billed alongside STOZ, Liou and RNO. Next up: TBA - ATHarea, Athens on Sun 1 Nov.
 
@@ -25,4 +25,4 @@
 
 STOZ, Liou, RNO (1)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/22-1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/22-1/)*

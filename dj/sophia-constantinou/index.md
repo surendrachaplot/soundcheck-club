@@ -1,6 +1,6 @@
 # Sophia Constantinou
 
-Sophia Constantinou is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 6 Nov 2026.
+Sophia Constantinou is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 6 Nov 2026.
 
 Sophia Constantinou is a techno and bass artist based in United Kingdom, with 5 gigs on soundcheck across Glasgow and London. Often billed alongside DJelley, Carmen Baía and DJ Love UK. Next up: The Berkeley Suite, Glasgow on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Sophia Constantinou is a techno and bass artist based in United Kingdom, with 5 
 
 DJelley, Carmen Baía, DJ Love UK
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-constantinou/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-constantinou/)*

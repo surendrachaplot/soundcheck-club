@@ -1,6 +1,6 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 32 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Ponyboy Halloween : A Nightlife Horror Opera (GALVANIZERS TAKEOVER)" on Fri, 30 Oct 2026.
+SWG3 is a music venue in Glasgow with 32 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Ponyboy Halloween : A Nightlife Horror Opera (GALVANIZERS TAKEOVER)" on Fri, 30 Oct 2026.
 
 SWG3 is a music venue in Glasgow listed on soundcheck. 32 upcoming gigs, with line-ups including Alexandria, AMMARA, Archie Hamilton and Boss Priester and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 32 upcoming gigs, with li
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

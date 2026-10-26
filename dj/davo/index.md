@@ -1,6 +1,6 @@
 # Davo
 
-Davo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
+Davo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
 
 Davo is a techno and house artist, with 5 gigs on soundcheck across Bogotá, Madrid and Sheffield. Often billed alongside 4night, Alfi and DIOW. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 1 Nov.
 
@@ -21,4 +21,4 @@ Davo is a techno and house artist, with 5 gigs on soundcheck across Bogotá, Mad
 
 4night, Alfi, DIOW
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davo/)*

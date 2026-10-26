@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "2ManyDJs, Rory Phillips" on Thu, 29 Oct 2026.
+Good Room is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "2ManyDJs, Rory Phillips" on Thu, 29 Oct 2026.
 
-Good Room is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 2ManyDJs, Anastazja, Andy Pry and Benny Soto and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including 2ManyDJs, Anastazja, Andy Pry and Benny Soto and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Good Room is a music venue in New York City listed on soundcheck. 16 upcoming gi
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

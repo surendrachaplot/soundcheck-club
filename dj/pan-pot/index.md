@@ -1,14 +1,13 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
+Pan-Pot is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at BERHTA, Washington DC on Fri, 30 Oct 2026.
 
-Pan-Pot is a techno and house artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 76 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
+Pan-Pot is a techno and house artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 76 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: BERHTA, Washington DC on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 30 Oct 2026 | BERHTA | Washington DC |
 | Sat, 31 Oct 2026 | TBA - Club Guatemala | Guatemala |
 | Sat, 31 Oct 2026 | Club Guatemala | Guatemala |
@@ -33,4 +32,4 @@ Pan-Pot is a techno and house artist based in Germany, with 217 gigs on soundche
 
 Adam Beyer, Anfisa Letyago, Enrico Sangiuliano
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

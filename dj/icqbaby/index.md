@@ -1,6 +1,6 @@
 # ICQ Baby
 
-ICQ Baby is a Drum & Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Col. Centro, CDMX, Mexico City on Sat, 31 Oct 2026.
+ICQ Baby is a Drum & Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Col. Centro, CDMX, Mexico City on Sat, 31 Oct 2026.
 
 ICQ Baby is a drum & bass and baile funk artist, with 8 gigs on soundcheck across Mexico City, Rio de Janeiro, Sao Paulo and Seoul. Often billed alongside BAE BAE, Bamao Yendé and Batekoo. Next up: TBA - Col. Centro, CDMX, Mexico City on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ ICQ Baby is a drum & bass and baile funk artist, with 8 gigs on soundcheck acros
 
 BAE BAE, Bamao Yendé, Batekoo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icqbaby/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icqbaby/)*

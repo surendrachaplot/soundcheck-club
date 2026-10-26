@@ -1,6 +1,6 @@
 # ILUSM
 
-ILUSM is a Club and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Ottobar, Baltimore on Tue, 27 Oct 2026.
+ILUSM is a Club and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ottobar, Baltimore on Tue, 27 Oct 2026.
 
 ILUSM is a club and ghetto tech artist based in United States of America, with 53 gigs on soundcheck across Baltimore, New Orleans, New York City and Washington DC. Often billed alongside Girlypop Princess, NANAGOTCHI and Ether Pleaser. Next up: Ottobar, Baltimore on Tue 27 Oct.
 
@@ -27,4 +27,4 @@ ILUSM is a club and ghetto tech artist based in United States of America, with 5
 
 Girlypop Princess, NANAGOTCHI, Ether Pleaser
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilusm/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilusm/)*

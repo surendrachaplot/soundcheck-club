@@ -1,14 +1,13 @@
 # Anthony Godfather (2)
 
-Anthony Godfather (2) is a Tech House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Sun, 25 Oct 2026.
+Anthony Godfather (2) is a Tech House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
 
-Anthony Godfather is a tech house and techno artist based in Spain, with 15 gigs on soundcheck across Amsterdam, Barcelona, London and Madrid and 1 more. Often billed alongside Abdon, Darius Syrossian and Joey Daniel. Next up: Basement (Amsterdam), Amsterdam on Sun 25 Oct.
+Anthony Godfather is a tech house and techno artist based in Spain, with 15 gigs on soundcheck across Amsterdam, Barcelona, London and Madrid and 1 more. Often billed alongside Abdon, Darius Syrossian and Joey Daniel. Next up: 45 London, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Fri, 30 Oct 2026 | 45 London | London |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Sat, 14 Nov 2026 | The Bassement | Madrid |
@@ -16,6 +15,7 @@ Anthony Godfather is a tech house and techno artist based in Spain, with 15 gigs
 
 ## Recently played
 
+- Basement (Amsterdam), Amsterdam · Sun, 25 Oct 2026
 - Silencio, Paris · Thu, 24 Sept 2026
 - Luz De Gas, Barcelona · Sat, 12 Sept 2026
 - The Bassement, Madrid · Sat, 23 May 2026
@@ -23,10 +23,9 @@ Anthony Godfather is a tech house and techno artist based in Spain, with 15 gigs
 - Fabrik, Madrid · Wed, 1 Apr 2026
 - The Bassement, Madrid · Sat, 21 Feb 2026
 - Ministry Of Sound, London · Sat, 7 Feb 2026
-- The Bassement, Madrid · Wed, 24 Dec 2025
 
 ## Shares bills with
 
 Abdon, Darius Syrossian, Joey Daniel
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*

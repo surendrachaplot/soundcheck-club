@@ -1,6 +1,6 @@
 # Steffi
 
-Steffi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Steffi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
 
 Steffi is a techno and house artist based in Netherlands, with 151 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 27 more. Often billed alongside Virginia, Blasha & Allatt and Tasha. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Steffi is a techno and house artist based in Netherlands, with 151 gigs on sound
 
 Virginia, Blasha & Allatt, Tasha
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steffi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steffi/)*

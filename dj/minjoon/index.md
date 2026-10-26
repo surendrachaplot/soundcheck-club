@@ -1,6 +1,6 @@
 # Minjoon
 
-Minjoon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Modeci, Seoul on Fri, 30 Oct 2026.
+Minjoon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Modeci, Seoul on Fri, 30 Oct 2026.
 
 Minjoon is a techno and house artist based in South Korea, with 93 gigs on soundcheck across Kyushu, Seoul, South Korea and Tokyo. Often billed alongside Nujeat, Zeemen and Kim.Qna. Next up: Modeci, Seoul on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Minjoon is a techno and house artist based in South Korea, with 93 gigs on sound
 
 Nujeat, Zeemen, Kim.Qna
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minjoon/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minjoon/)*

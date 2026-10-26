@@ -1,14 +1,13 @@
 # essaim
 
-essaim is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "extended - Equus Belli, Nina Kraviz" on Sun, 25 Oct 2026.
+essaim is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "tribalism anniversaire essaim YEAR002 - Altinbas b2b Ndrx, Rachel Noon, ZEL" on Fri, 30 Oct 2026.
 
-essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Justine Perry, A.Litique, Aleqs Notal and Altinbas and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+essaim is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including Justine Perry, A.Litique, Aleqs Notal and Altinbas and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | extended - Equus Belli, Nina Kraviz | Equus Belli, Nina Kraviz |
 | Fri, 30 Oct 2026 | tribalism anniversaire essaim YEAR002 - Altinbas b2b Ndrx, Rachel Noon, ZEL | Altinbas, Ndrx, Rachel Noon, ZEL |
 | Sat, 31 Oct 2026 | cocoon anniversaire essaim YEAR002 - Binh, Mars O10C, Zombies In Miami | Binh, Mars O10C, Zombies In Miami |
 | Fri, 6 Nov 2026 | tribalism - ASEC Live, A.Litique, Justine Perry b2b Paula Koski | A.Litique, ASEC, Justine Perry, Paula Koski |
@@ -18,9 +17,10 @@ essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with li
 | Thu, 12 Nov 2026 | RA25: Paris : Joe Claussell b2b Ron Trent - Open to close | Joe Claussell, Ron Trent |
 | Fri, 13 Nov 2026 | tribalism - Quelza - all night long | Quelza |
 | Sat, 14 Nov 2026 | Ben UFO, Jane Dark | Ben UFO |
+| Sun, 15 Nov 2026 | extended - Rhadoo - open to close | Rhadoo |
 
 ## Address
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

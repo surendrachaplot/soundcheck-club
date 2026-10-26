@@ -1,6 +1,6 @@
 # Labüsch-Bar, Winterthur
 
-Labüsch-Bar, Winterthur is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Burlesque Evening" on Fri, 13 Nov 2026.
+Labüsch-Bar, Winterthur is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Burlesque Evening" on Fri, 13 Nov 2026.
 
 Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Zur Kesselschmiede 27, 8400 Winterthur, Switzerland.
 
@@ -15,4 +15,4 @@ Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 2 upco
 
 Zur Kesselschmiede 27, 8400 Winterthur, Switzerland, Zurich
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*

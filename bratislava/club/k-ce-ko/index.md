@@ -1,6 +1,6 @@
 # Kácečko
 
-Kácečko is a music venue in Bratislava with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Modestep (UK): Danube Music Day 2026" on Fri, 20 Nov 2026.
+Kácečko is a music venue in Bratislava with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Modestep (UK): Danube Music Day 2026" on Fri, 20 Nov 2026.
 
 Kácečko is a music venue in Bratislava listed on soundcheck. 1 upcoming gig, with line-ups including Modestep. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kácečko is a music venue in Bratislava listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Modestep (UK): Danube Music Day 2026 | Modestep |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/k-ce-ko/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/k-ce-ko/)*

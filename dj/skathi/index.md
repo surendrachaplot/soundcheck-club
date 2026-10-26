@@ -1,6 +1,6 @@
 # skathi
 
-skathi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gewölbe, Cologne on Sat, 7 Nov 2026.
+skathi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gewölbe, Cologne on Sat, 7 Nov 2026.
 
 skathi is a house and techno artist based in Germany, with 44 gigs on soundcheck across Cologne, Dortmund / Essen and Münster. Often billed alongside Valeby, ALYF and Redfocks. Next up: Gewölbe, Cologne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ skathi is a house and techno artist based in Germany, with 44 gigs on soundcheck
 
 Valeby, ALYF, Redfocks
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skathi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skathi/)*

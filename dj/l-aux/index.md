@@ -1,6 +1,6 @@
 # L-AUX
 
-L-AUX is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
+L-AUX is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
 
 L-AUX is a techno and trance artist based in Switzerland, with 53 gigs on soundcheck across Basel, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Mefteh, Alex Friday and Ricksen. Next up: Lokschuppen Berlin, Berlin on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ L-AUX is a techno and trance artist based in Switzerland, with 53 gigs on soundc
 
 Mefteh, Alex Friday, Ricksen
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l-aux/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l-aux/)*

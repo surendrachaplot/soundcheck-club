@@ -1,6 +1,6 @@
 # Cleveland Watkiss
 
-Cleveland Watkiss is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Carpet Shop, London on Sun, 15 Nov 2026.
+Cleveland Watkiss is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Carpet Shop, London on Sun, 15 Nov 2026.
 
 Cleveland Watkiss is a drum & bass and jungle artist based in United Kingdom, with 25 gigs on soundcheck across Birmingham, Brighton, Bristol and Brussels and 2 more. Often billed alongside Grooverider, Fabio and Doc Scott. Next up: The Carpet Shop, London on Sun 15 Nov.
 
@@ -27,4 +27,4 @@ Cleveland Watkiss is a drum & bass and jungle artist based in United Kingdom, wi
 
 Grooverider, Fabio, Doc Scott
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clevelandwatkiss/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clevelandwatkiss/)*

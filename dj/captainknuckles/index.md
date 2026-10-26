@@ -1,6 +1,6 @@
 # Captain Knuckles
 
-Captain Knuckles is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
+Captain Knuckles is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
 
 Captain Knuckles is a house and tech house artist based in Hungary, with 79 gigs on soundcheck across Budapest. Often billed alongside Sobek, Sabani and Adx. Next up: Hungarian Railway Museum, Budapest on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Captain Knuckles is a house and tech house artist based in Hungary, with 79 gigs
 
 Sobek, Sabani, Adx
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainknuckles/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainknuckles/)*

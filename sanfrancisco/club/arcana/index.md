@@ -1,6 +1,6 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Cariberico Live Band" on Thu, 29 Oct 2026.
+Arcana is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Cariberico Live Band" on Thu, 29 Oct 2026.
 
 Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcoming gigs, with line-ups including Adra, Beach Motors, Femme Jatale and Louie El Ser and 2 more. See dates, start times and who's playing. 2512 Mission St, San Francisco.
 
@@ -18,4 +18,4 @@ Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcomin
 
 2512 Mission St, San Francisco, San Francisco/Oakland
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*

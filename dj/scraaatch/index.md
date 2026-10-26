@@ -1,6 +1,6 @@
 # SCRAAATCH
 
-SCRAAATCH is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Nightclub 101, New York City on Wed, 4 Nov 2026.
+SCRAAATCH is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Nightclub 101, New York City on Wed, 4 Nov 2026.
 
 SCRAAATCH is an experimental and techno artist based in United States of America, with 22 gigs on soundcheck across New York City and Philadelphia. Often billed alongside chuki, Doula and Embaci. Next up: Nightclub 101, New York City on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ SCRAAATCH is an experimental and techno artist based in United States of America
 
 chuki, Doula, Embaci
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scraaatch/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scraaatch/)*

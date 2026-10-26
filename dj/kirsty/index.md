@@ -1,6 +1,6 @@
 # KIRSTY
 
-KIRSTY is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Edinburgh Corn Exchange, Edinburgh on Fri, 30 Oct 2026.
+KIRSTY is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Edinburgh Corn Exchange, Edinburgh on Fri, 30 Oct 2026.
 
 KIRSTY is a techno and hardcore artist based in Ireland, with 77 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 24 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: Edinburgh Corn Exchange, Edinburgh on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ KIRSTY is a techno and hardcore artist based in Ireland, with 77 gigs on soundch
 
 Lolalita, KimberlaID, Restricted
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

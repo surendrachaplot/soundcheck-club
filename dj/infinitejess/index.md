@@ -1,14 +1,13 @@
 # Infinite Jess
 
-Infinite Jess is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, San Francisco/Oakland on Sat, 24 Oct 2026.
+Infinite Jess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Stud, San Francisco/Oakland on Sat, 28 Nov 2026.
 
-Infinite Jess is a house and techno artist based in United States of America, with 45 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Carlos Souffront, Eichef and Galen. Next up: TBA, San Francisco/Oakland on Sat 24 Oct.
+Infinite Jess is a house and techno artist based in United States of America, with 45 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Carlos Souffront, Eichef and Galen. Next up: The Stud, San Francisco/Oakland on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | The Stud | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +25,4 @@ Infinite Jess is a house and techno artist based in United States of America, wi
 
 Carlos Souffront, Eichef, Galen
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infinitejess/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infinitejess/)*

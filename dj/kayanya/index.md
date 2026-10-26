@@ -1,6 +1,6 @@
 # Kaya Nya
 
-Kaya Nya is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 4 Nov 2026.
+Kaya Nya is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 4 Nov 2026.
 
 Kaya Nya is a dub and bass artist, with 5 gigs on soundcheck across Berlin. Often billed alongside DJ ojo, Lyndon Lewis and Marius Iris. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 4 Nov.
 
@@ -21,4 +21,4 @@ Kaya Nya is a dub and bass artist, with 5 gigs on soundcheck across Berlin. Ofte
 
 DJ ojo, Lyndon Lewis, Marius Iris
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kayanya/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kayanya/)*

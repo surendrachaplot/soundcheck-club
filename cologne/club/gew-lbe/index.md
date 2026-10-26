@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Klubnacht with Anna Cainelli, Fritz Kalkbrenner, Motip White" on Fri, 30 Oct 2026.
+Gewölbe is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Klubnacht with Anna Cainelli, Fritz Kalkbrenner, Motip White" on Fri, 30 Oct 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including 04061, Paula Tape, Ahmet Sisman and Anatoli [DE] and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -23,4 +23,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, wit
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

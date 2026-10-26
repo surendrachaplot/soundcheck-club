@@ -1,6 +1,6 @@
 # Natasha Kitty Katt
 
-Natasha Kitty Katt is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gabriela, New York City on Sat, 31 Oct 2026.
+Natasha Kitty Katt is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gabriela, New York City on Sat, 31 Oct 2026.
 
 Natasha Kitty Katt is a disco and house artist based in United Kingdom, with 58 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Leeds and 9 more. Often billed alongside Dicky Trisco, Craig Smith and Young Pulse. Next up: Gabriela, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Natasha Kitty Katt is a disco and house artist based in United Kingdom, with 58 
 
 Dicky Trisco, Craig Smith, Young Pulse
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natashakittykatt/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natashakittykatt/)*

@@ -1,14 +1,16 @@
 # Jane Darke
 
-Jane Darke is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Vespers Club, London on Sat, 31 Oct 2026.
+Jane Darke is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Vespers Club, London on Sat, 31 Oct 2026.
 
-Jane Darke is a techno and ebm artist based in United Kingdom, with 20 gigs on soundcheck across Brighton, Edinburgh and London. Often billed alongside JON KRIEGER, Arrosa and Claudia Kane. Next up: Vespers Club, London on Sat 31 Oct.
+Jane Darke is a techno and ebm artist based in United Kingdom, with 22 gigs on soundcheck across Brighton, Edinburgh and London. Often billed alongside JON KRIEGER, Arrosa and Claudia Kane. Next up: Vespers Club, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Vespers Club | London |
+| Sat, 19 Dec 2026 | The Old Church | London |
+| Sat, 23 Jan 2027 | The Steel Yard | London |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Jane Darke is a techno and ebm artist based in United Kingdom, with 20 gigs on s
 
 JON KRIEGER, Arrosa, Claudia Kane
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janedarke/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janedarke/)*

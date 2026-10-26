@@ -1,6 +1,6 @@
 # AMR
 
-AMR is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Pav, Cork on Sat, 7 Nov 2026.
+AMR is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Pav, Cork on Sat, 7 Nov 2026.
 
 AMR is a techno and tech house artist, with 15 gigs on soundcheck across Athens, Cologne, Cork and Oslo and 1 more. Often billed alongside An Daghdha, CHACHØU and Franco Cepulo. Next up: The Pav, Cork on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ AMR is a techno and tech house artist, with 15 gigs on soundcheck across Athens,
 
 An Daghdha, CHACHØU, Franco Cepulo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amr-de/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amr-de/)*

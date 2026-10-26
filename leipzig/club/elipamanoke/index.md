@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "2 JAHRE NACHLEGEN" on Sun, 25 Oct 2026.
+elipamanoke is a music venue in Leipzig with 14 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "between x Soft Violence" on Wed, 28 Oct 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming gigs, with line-ups including :MUMM, Acid Goldee, Aio and a:technuk and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 14 upcoming gigs, with line-ups including :MUMM, Acid Goldee, Aio and a:technuk and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | 2 JAHRE NACHLEGEN | Hypnosta, KREONE, MIDNXGHT, UNTENLINKS |
 | Wed, 28 Oct 2026 | between x Soft Violence | Mariposa x Lyra, Richie Rollin, VLUNA |
 | Fri, 30 Oct 2026 | Trancegedance - Halloween Special | Acid Goldee, GoaGraf, ch4r20tte, monotony |
 | Sat, 31 Oct 2026 | ZAN – Witches* & Friends | DJ STIMULA, SCHUB, Siggi Petrol, a:technuk, clubm8, lena xx |
@@ -18,9 +17,10 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming gigs, 
 | Fri, 20 Nov 2026 | soft & HARD CRUSH | Cat-J, DYNASTY, KETA PERRY, LYZI, PyjamaMama, meowmeyer |
 | Sat, 21 Nov 2026 | KOSMOS with Mehr is Mehr | Aio, Fennek, GIANNA, Mehr is Mehr, Randali, Shabiki |
 | Sat, 28 Nov 2026 | newfaces – weekend edition |  |
+| Fri, 4 Dec 2026 | STUDIO 69 | Cufme, DJ Business (2), Eluzid, Josi Miller (2), PIG (1), Sophti |
 
 ## Address
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

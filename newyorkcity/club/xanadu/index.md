@@ -1,6 +1,6 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Xanadu x Choke Hole x Function 'WITCHSLAP' (skate + drag wrestling + dance party + concert)" on Fri, 30 Oct 2026.
+Xanadu is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Xanadu x Choke Hole x Function 'WITCHSLAP' (skate + drag wrestling + dance party + concert)" on Fri, 30 Oct 2026.
 
 Xanadu is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Conduit, Amelia Holt, Bouffant Bouffant and Dangerous Rose and 2 more. See dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
@@ -19,4 +19,4 @@ Xanadu is a music venue in New York City listed on soundcheck. 6 upcoming gigs, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

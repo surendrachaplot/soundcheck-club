@@ -1,6 +1,6 @@
 # Pezzner
 
-Pezzner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Mountaineering Club, Seattle on Sat, 31 Oct 2026.
+Pezzner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Mountaineering Club, Seattle on Sat, 31 Oct 2026.
 
 Pezzner is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Portland, San Diego, San Francisco/Oakland and Seattle and 2 more. Often billed alongside Doza, Michael Manahan and Hanssen. Next up: The Mountaineering Club, Seattle on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Pezzner is a house and techno artist based in United States of America, with 30 
 
 Doza, Michael Manahan, Hanssen
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pezzner/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pezzner/)*

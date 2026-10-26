@@ -1,6 +1,6 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "MyPleasure // HALLOKINK // Opening Ball" on Sat, 31 Oct 2026.
+Sala ART is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "MyPleasure // HALLOKINK // Opening Ball" on Sat, 31 Oct 2026.
 
 Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Artaban, BENNETT, Costa and Mainterm and 2 more. See dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
@@ -17,4 +17,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with 
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

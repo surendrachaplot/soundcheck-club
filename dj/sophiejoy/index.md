@@ -1,6 +1,6 @@
 # Sophie Joy
 
-Sophie Joy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Rake's, London on Sat, 7 Nov 2026.
+Sophie Joy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Rake's, London on Sat, 7 Nov 2026.
 
 Sophie Joy is a house and disco artist based in United Kingdom, with 16 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Guy Williams, Eats Everything and Gina Breeze. Next up: Rake's, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Sophie Joy is a house and disco artist based in United Kingdom, with 16 gigs on 
 
 Guy Williams, Eats Everything, Gina Breeze
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiejoy/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiejoy/)*

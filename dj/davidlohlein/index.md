@@ -1,8 +1,8 @@
 # David Löhlein
 
-David Löhlein is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
+David Löhlein is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
 
-David Löhlein is a techno and trance artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 59 more. Often billed alongside Raphael Dincsoy, Rove Ranger and Clara Cuvé. Next up: Smolna, Warsaw on Sat 31 Oct.
+David Löhlein is a techno and trance artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 60 more. Often billed alongside Raphael Dincsoy, Rove Ranger and Clara Cuvé. Next up: Smolna, Warsaw on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ David Löhlein is a techno and trance artist based in Germany, with 183 gigs on 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Smolna | Warsaw |
 | Fri, 13 Nov 2026 | Drugstore Beograd | Belgrade |
+| Sat, 14 Nov 2026 | TBA - Parking Garage Kresna Uprising | Skopje |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Sat, 28 Nov 2026 | Uebel & Gefährlich | Hamburg |
@@ -32,4 +33,4 @@ David Löhlein is a techno and trance artist based in Germany, with 183 gigs on 
 
 Raphael Dincsoy, Rove Ranger, Clara Cuvé
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*

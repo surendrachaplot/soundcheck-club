@@ -1,6 +1,6 @@
 # Adam Bartas
 
-Adam Bartas is a Techno and Psytrance artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Arena Joondalup, Perth on Fri, 15 Jan 2027.
+Adam Bartas is a Techno and Psytrance artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Arena Joondalup, Perth on Fri, 15 Jan 2027.
 
 Adam Bartas is a techno and psytrance artist based in Australia, with 8 gigs on soundcheck across Adelaide, Brisbane, Melbourne and Perth and 1 more. Often billed alongside ASLO, Nik Kastel and Samuel Moriero. Next up: Arena Joondalup, Perth on Fri 15 Jan.
 
@@ -24,4 +24,4 @@ Adam Bartas is a techno and psytrance artist based in Australia, with 8 gigs on 
 
 ASLO, Nik Kastel, Samuel Moriero (2)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambartas/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambartas/)*

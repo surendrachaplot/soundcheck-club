@@ -1,14 +1,13 @@
 # Basing House
 
-Basing House is a music venue in London with 27 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Michael Mathers The Ultimate Eminem Tribute Live" on Sun, 25 Oct 2026.
+Basing House is a music venue in London with 26 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Introspective EP Listening Party – ZYNR & Friends" on Wed, 28 Oct 2026.
 
-Basing House is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including Alexandra (UK), Alythia Kwan, Andy Moor and A-Sides and 2 more. See dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
+Basing House is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including Alexandra (UK), Alythia Kwan, Andy Moor and A-Sides and 2 more. See dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Michael Mathers The Ultimate Eminem Tribute Live |  |
 | Wed, 28 Oct 2026 | Introspective EP Listening Party – ZYNR & Friends |  |
 | Thu, 29 Oct 2026 | YOUR MUM'S HOUSE: HALLOWEEN AT OURS |  |
 | Fri, 30 Oct 2026 | Division Sounds presents: Night Of The Dead Halloween Special Part 2 |  |
@@ -18,9 +17,10 @@ Basing House is a music venue in London listed on soundcheck. 27 upcoming gigs, 
 | Sat, 7 Nov 2026 | NON STOP PRESENTS BREATHE | Gavin Wilson, Jon E Cash |
 | Thu, 12 Nov 2026 | YOUR MUM'S HOUSE |  |
 | Fri, 13 Nov 2026 | Homeground featuring Eksman: Shoreditch | Eksman, Nicky Blackmarket |
+| Sat, 14 Nov 2026 | Sub:Conscious Records x BOTTAZZIO - Deep Tech Minimal House |  |
 
 ## Address
 
 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*

@@ -1,6 +1,6 @@
 # Phreenetic
 
-Phreenetic is a Techno and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 7 Nov 2026.
+Phreenetic is a Techno and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 7 Nov 2026.
 
 Phreenetic is a techno and jazz artist based in Italy, with 6 gigs on soundcheck across Berlin and Florence. Often billed alongside Jacopo Forli, NKK (IT) and Soffice. Next up: Deposito Pontecorvo, Florence on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Phreenetic is a techno and jazz artist based in Italy, with 6 gigs on soundcheck
 
 Jacopo Forli, NKK (IT), Soffice
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phreenetic/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phreenetic/)*

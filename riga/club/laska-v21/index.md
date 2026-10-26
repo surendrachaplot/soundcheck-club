@@ -1,6 +1,6 @@
 # Laska V21
 
-Laska V21 is a music venue in Riga with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "SABATS 2026" on Sat, 31 Oct 2026.
+Laska V21 is a music venue in Riga with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "SABATS 2026" on Sat, 31 Oct 2026.
 
 Laska V21 is a music venue in Riga listed on soundcheck. 4 upcoming gigs, with line-ups including Evanora Unlimited, First kiss, Grisha Nirgov and mOZ and 2 more. See dates, start times and who's playing. Vagonu iela 21Latgales priekšpilsēta, Rīga, LV-1009, Latvia.
 
@@ -17,4 +17,4 @@ Laska V21 is a music venue in Riga listed on soundcheck. 4 upcoming gigs, with l
 
 Vagonu iela 21Latgales priekšpilsēta, Rīga, LV-1009, Latvia, Riga
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/laska-v21/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/laska-v21/)*

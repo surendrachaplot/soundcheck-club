@@ -1,6 +1,6 @@
 # Entasia
 
-Entasia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Night Tales, London on Fri, 27 Nov 2026.
+Entasia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Night Tales, London on Fri, 27 Nov 2026.
 
 Entasia is a house and techno artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Antwerp, Bali and Byron Bay and 18 more. Often billed alongside Inafekt, Kyle Starkey and DART. Next up: Night Tales, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Entasia is a house and techno artist based in United Kingdom, with 69 gigs on so
 
 Inafekt, Kyle Starkey, DART
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*

@@ -1,6 +1,6 @@
 # Nervo
 
-Nervo is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Nervo is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Nervo is a house and electro artist based in Australia, with 24 gigs on soundcheck across Bangkok, Barcelona, Bogotá and Boston and 11 more. Often billed alongside Dimitri Vegas & Like Mike, Steve Aoki and Robin Schulz. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Nervo is a house and electro artist based in Australia, with 24 gigs on soundche
 
 Dimitri Vegas & Like Mike, Steve Aoki, Robin Schulz
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nervo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nervo/)*

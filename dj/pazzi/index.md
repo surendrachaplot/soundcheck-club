@@ -1,6 +1,6 @@
 # Pazzi
 
-Pazzi is a House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Smolna, Warsaw on Mon, 26 Oct 2026.
+Pazzi is a House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Smolna, Warsaw on Mon, 26 Oct 2026.
 
 Pazzi is a house artist based in Cyprus, with 5 gigs on soundcheck across Cyprus and Warsaw. Often billed alongside AWEN, Adam Beyer and Adiel. Next up: Smolna, Warsaw on Mon 26 Oct.
 
@@ -21,4 +21,4 @@ Pazzi is a house artist based in Cyprus, with 5 gigs on soundcheck across Cyprus
 
 AWEN, Adam Beyer, Adiel
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pazzi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pazzi/)*

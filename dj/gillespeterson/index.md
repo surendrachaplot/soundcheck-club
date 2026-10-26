@@ -1,14 +1,13 @@
 # Gilles Peterson
 
-Gilles Peterson is a Jazz and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at La Marbrerie, Paris on Sun, 25 Oct 2026.
+Gilles Peterson is a Jazz and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Fri, 6 Nov 2026.
 
-Gilles Peterson is a jazz and house artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 27 more. Often billed alongside Patrick Forge, Jamz Supernova and MUSCLECARS. Next up: La Marbrerie, Paris on Sun 25 Oct.
+Gilles Peterson is a jazz and house artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 27 more. Often billed alongside Patrick Forge, Jamz Supernova and MUSCLECARS. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | La Marbrerie | Paris |
 | Fri, 6 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 | Sat, 14 Nov 2026 | Northcote Theatre | Melbourne |
 | Sun, 15 Nov 2026 | Liberty Hall | Sydney |
@@ -17,6 +16,7 @@ Gilles Peterson is a jazz and house artist based in United Kingdom, with 83 gigs
 
 ## Recently played
 
+- La Marbrerie, Paris · Sun, 25 Oct 2026
 - The Cause, London · Sat, 19 Sept 2026
 - Dahlia Stereo, Manchester · Thu, 10 Sept 2026
 - Finsbury Park, London · Sat, 8 Aug 2026
@@ -24,10 +24,9 @@ Gilles Peterson is a jazz and house artist based in United Kingdom, with 83 gigs
 - La Bellevilloise, Paris · Thu, 9 Jul 2026
 - public records, New York City · Thu, 11 Jun 2026
 - Sonnenraum, Berlin · Sun, 31 May 2026
-- Lofi, Amsterdam · Sat, 23 May 2026
 
 ## Shares bills with
 
 Patrick Forge, Jamz Supernova, MUSCLECARS
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*

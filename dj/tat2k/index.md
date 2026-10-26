@@ -1,14 +1,16 @@
 # TAT2K
 
-TAT2K is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at R Lounge, Tokyo on Thu, 5 Nov 2026.
+TAT2K is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Numm, Tokyo on Wed, 4 Nov 2026.
 
-TAT2K is a house and techno artist based in Japan, with 132 gigs on soundcheck across Seoul and Tokyo. Often billed alongside TKS1T, Da Yama and Issyo. Next up: R Lounge, Tokyo on Thu 5 Nov.
+TAT2K is a house and techno artist based in Japan, with 134 gigs on soundcheck across Seoul and Tokyo. Often billed alongside TKS1T, Da Yama and Issyo. Next up: Numm, Tokyo on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 4 Nov 2026 | Numm | Tokyo |
 | Thu, 5 Nov 2026 | R Lounge | Tokyo |
+| Sat, 7 Nov 2026 | Numm | Tokyo |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ TAT2K is a house and techno artist based in Japan, with 132 gigs on soundcheck a
 
 TKS1T, Da Yama, Issyo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tat2k/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tat2k/)*

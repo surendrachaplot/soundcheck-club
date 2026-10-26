@@ -1,6 +1,6 @@
 # petit richie
 
-petit richie is a Disco and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at VFD, London on Fri, 13 Nov 2026.
+petit richie is a Disco and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at VFD, London on Fri, 13 Nov 2026.
 
 petit richie is a disco and garage artist, with 6 gigs on soundcheck across London. Often billed alongside Emilia G, anxiousaaron and AC Industries. Next up: VFD, London on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ petit richie is a disco and garage artist, with 6 gigs on soundcheck across Lond
 
 Emilia G, anxiousaaron, AC Industries
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petitrichie/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petitrichie/)*

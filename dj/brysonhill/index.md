@@ -1,6 +1,6 @@
 # Bryson Hill
 
-Bryson Hill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+Bryson Hill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 Bryson Hill is a house and techno artist based in Australia, with 12 gigs on soundcheck across Amsterdam, Melbourne, Seoul and Sydney and 1 more. Often billed alongside Arielle Free, Carla Martinez and Club Angel. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Bryson Hill is a house and techno artist based in Australia, with 12 gigs on sou
 
 Arielle Free, Carla Martinez, Club Angel
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brysonhill/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brysonhill/)*

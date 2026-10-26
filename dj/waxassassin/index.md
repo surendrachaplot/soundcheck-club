@@ -1,6 +1,6 @@
 # Wax Assassin
 
-Wax Assassin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - (313) 395 8288, Detroit on Sat, 14 Nov 2026.
+Wax Assassin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - (313) 395 8288, Detroit on Sat, 14 Nov 2026.
 
 Wax Assassin is a techno and house artist based in United States of America, with 172 gigs on soundcheck across Cleveland and Detroit. Often billed alongside we1sman, LATEX GIRL and Duck Trash. Next up: TBA - (313) 395 8288, Detroit on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Wax Assassin is a techno and house artist based in United States of America, wit
 
 we1sman, LATEX GIRL, Duck Trash
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxassassin/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxassassin/)*

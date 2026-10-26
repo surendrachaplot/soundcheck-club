@@ -1,6 +1,6 @@
 # Puha
 
-Puha is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mastak, Warsaw on Fri, 30 Oct 2026.
+Puha is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mastak, Warsaw on Fri, 30 Oct 2026.
 
 Puha is a minimal and house artist based in Belarus, with 35 gigs on soundcheck across Krakow, Tbilisi and Warsaw. Often billed alongside Samogulov, Ilya Semashkevich and Shjva. Next up: Mastak, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Puha is a minimal and house artist based in Belarus, with 35 gigs on soundcheck 
 
 Samogulov, Ilya Semashkevich, Shjva
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puha/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puha/)*

@@ -1,6 +1,6 @@
 # Aldania
 
-Aldania is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at John Doe, Amsterdam on Wed, 28 Oct 2026.
+Aldania is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at John Doe, Amsterdam on Wed, 28 Oct 2026.
 
 Aldania is a techno and house artist, with 5 gigs on soundcheck across Amsterdam. Often billed alongside AZA, Age of Aconitum and DJ Chuckie. Next up: John Doe, Amsterdam on Wed 28 Oct.
 
@@ -21,4 +21,4 @@ Aldania is a techno and house artist, with 5 gigs on soundcheck across Amsterdam
 
 AZA, Age of Aconitum, DJ Chuckie
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldania/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldania/)*

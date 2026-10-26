@@ -1,6 +1,6 @@
 # Loner Tennis Club
 
-Loner Tennis Club is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ragoo, Milan on Thu, 29 Oct 2026.
+Loner Tennis Club is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ragoo, Milan on Thu, 29 Oct 2026.
 
 Loner Tennis Club is an electro and techno artist based in Italy, with 14 gigs on soundcheck across Milan, Nottingham and Turin. Often billed alongside AMRED, Cntrl_space and Mark Wark. Next up: Ragoo, Milan on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Loner Tennis Club is an electro and techno artist based in Italy, with 14 gigs o
 
 AMRED, Cntrl_space, Mark Wark
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lonertennisclub/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lonertennisclub/)*

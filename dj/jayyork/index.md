@@ -1,6 +1,6 @@
 # jay york
 
-jay york is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+jay york is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 jay york is a techno and minimal techno artist based in United States of America, with 71 gigs on soundcheck across Berlin, Boston, Chicago and Denver and 9 more. Often billed alongside Barbosa, Decoder and Adrian Hex. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ jay york is a techno and minimal techno artist based in United States of America
 
 Barbosa, Decoder, Adrian Hex
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayyork/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayyork/)*

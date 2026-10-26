@@ -1,6 +1,6 @@
 # Sarv
 
-Sarv is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at CGM - Club Giovanile Milano, Milan on Sat, 31 Oct 2026.
+Sarv is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at CGM - Club Giovanile Milano, Milan on Sat, 31 Oct 2026.
 
 Sarv is a techno and electronica artist, with 6 gigs on soundcheck across Berlin, Ljubljana, Lyon and Milan. Often billed alongside ADIRA, Anomalie Magnétique and Arabian Panther. Next up: CGM - Club Giovanile Milano, Milan on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Sarv is a techno and electronica artist, with 6 gigs on soundcheck across Berlin
 
 ADIRA, Anomalie Magnétique, Arabian Panther
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarv/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarv/)*

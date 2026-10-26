@@ -1,6 +1,6 @@
 # Gaston Fiore
 
-Gaston Fiore is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 30 Oct 2026.
+Gaston Fiore is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 30 Oct 2026.
 
 Gaston Fiore is a techno and trance artist based in Argentina, with 33 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Buenos Aires and 8 more. Often billed alongside Dist, TINKERHELL and Ana Hagen. Next up: Entrepôts Dominion, Les, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Gaston Fiore is a techno and trance artist based in Argentina, with 33 gigs on s
 
 Dist, TINKERHELL, Ana Hagen
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonfiore/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonfiore/)*

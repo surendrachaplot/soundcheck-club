@@ -1,6 +1,6 @@
 # Scott Brown
 
-Scott Brown is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Scott Brown is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 Scott Brown is a hardcore and gabber artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside Dougal, Charlie B and Mark Breeze. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Scott Brown is a hardcore and gabber artist based in United Kingdom, with 38 gig
 
 Dougal, Charlie B, Mark Breeze
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbrown/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbrown/)*

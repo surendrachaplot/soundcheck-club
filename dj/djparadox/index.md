@@ -1,8 +1,8 @@
 # DJ Paradox
 
-DJ Paradox is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
+DJ Paradox is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
 
-DJ Paradox is a techno and trance artist, with 13 gigs on soundcheck across Berlin and Chicago. Often billed alongside David Samó, Thielking and Ravejezuz. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
+DJ Paradox is a techno and trance artist, with 13 gigs on soundcheck across Berlin and Chicago. Often billed alongside David Samó, Thielking and ClubSubbe. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ DJ Paradox is a techno and trance artist, with 13 gigs on soundcheck across Berl
 
 ## Shares bills with
 
-David Samó, Thielking, Ravejezuz
+David Samó, Thielking, ClubSubbe
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djparadox/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djparadox/)*

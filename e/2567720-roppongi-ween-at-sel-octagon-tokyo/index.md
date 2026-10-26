@@ -1,6 +1,6 @@
 # ROPPONGI WEEN at SEL OCTAGON TOKYO
 
-ROPPONGI WEEN at SEL OCTAGON TOKYO on Sat 31 Oct, Tokyo. 2 artists: Lemi and Miki. Electro and Club. See the line-up on soundcheck.
+ROPPONGI WEEN at SEL OCTAGON TOKYO on Sat 31 Oct, Tokyo. 1 artist: Lemi. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ ROPPONGI WEEN at SEL OCTAGON TOKYO on Sat 31 Oct, Tokyo. 2 artists: Lemi and Mik
 ## Line-up
 
 - Lemi
-- Miki
 
 *Source: [soundcheck](https://soundcheck.club/e/2567720-roppongi-ween-at-sel-octagon-tokyo/)*

@@ -1,6 +1,6 @@
 # Amoss
 
-Amoss is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hidden, Manchester on Fri, 30 Oct 2026.
+Amoss is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Hidden, Manchester on Fri, 30 Oct 2026.
 
 Amoss is a drum & bass and jungle artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 6 more. Often billed alongside Sydney Bryce, Objectiv and SP:MC. Next up: Hidden, Manchester on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Amoss is a drum & bass and jungle artist based in United Kingdom, with 23 gigs o
 
 Sydney Bryce, Objectiv, SP:MC
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amoss/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amoss/)*

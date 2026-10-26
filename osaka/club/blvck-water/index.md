@@ -1,6 +1,6 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "'sutura' TECHNO ADDICT at Night Club Blvck Water ~dyn Birthday Bash~" on Tue, 27 Oct 2026.
+Blvck Water is a music venue in Osaka with 15 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "'sutura' TECHNO ADDICT at Night Club Blvck Water ~dyn Birthday Bash~" on Tue, 27 Oct 2026.
 
 Blvck Water is a music venue in Osaka listed on soundcheck. 15 upcoming gigs, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and Chopstick and 2 more. See dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
@@ -10,7 +10,7 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 15 upcoming gigs, wi
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water ~dyn Birthday Bash~ | ZAGUN, amor (JP), dyn (JP), 死者蘇生CH |
 | Wed, 28 Oct 2026 | RHYTHM SHIFT Vol.24 | Chopstick (3), WOLT, YUKI.T |
-| Fri, 30 Oct 2026 | HALLOWEEN HARD TECHNO NIGHT 'CRACKS' invites Messiahwaits (MHz, Berlin) with FENGX2 | FENGX2, Messiahwaits |
+| Fri, 30 Oct 2026 | HALLOWEEN HARD TECHNO NIGHT 'CRACKS' invites Messiahwaits (MHz, Berlin) with FENGX2, LIZA | FENGX2, LIZA (6), Messiahwaits |
 | Sat, 31 Oct 2026 | PULSE FICTION | MARIHO, MASOI |
 | Fri, 6 Nov 2026 | HARD TECHNO 'CRACKS' RESIDENT NIGHT — FENGX2 HYBRID SET | FENGX2 |
 | Sat, 7 Nov 2026 | AWAKING THE UNKNOWN |  |
@@ -23,4 +23,4 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 15 upcoming gigs, wi
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

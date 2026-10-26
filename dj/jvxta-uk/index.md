@@ -1,6 +1,6 @@
 # JVXTA
 
-JVXTA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Waiting Room, London on Sat, 28 Nov 2026.
+JVXTA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Waiting Room, London on Sat, 28 Nov 2026.
 
 JVXTA is a house and deep house artist, with 12 gigs on soundcheck across Berlin and London. Often billed alongside Zapata, Beeches and Al Zanders. Next up: The Waiting Room, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ JVXTA is a house and deep house artist, with 12 gigs on soundcheck across Berlin
 
 Zapata, Beeches, Al Zanders
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jvxta-uk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jvxta-uk/)*

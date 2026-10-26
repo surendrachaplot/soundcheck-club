@@ -1,6 +1,6 @@
 # Stoneface & Terminal
 
-Stoneface & Terminal is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Paula, Dresden on Sat, 12 Dec 2026.
+Stoneface & Terminal is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Paula, Dresden on Sat, 12 Dec 2026.
 
 Stoneface & Terminal are a trance and progressive house duo, with 5 gigs on soundcheck across Dresden, Hamburg, Ibiza and London and 1 more. Often billed alongside Kyau & Albert, AKID and Alan Ruddick. Next up: Club Paula, Dresden on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Stoneface & Terminal are a trance and progressive house duo, with 5 gigs on soun
 
 Kyau & Albert, AKID, Alan Ruddick
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonefaceterminal/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonefaceterminal/)*

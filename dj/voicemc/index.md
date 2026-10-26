@@ -1,6 +1,6 @@
 # VoicemC
 
-VoicemC is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at KOKO, London on Sat, 9 Jan 2027.
+VoicemC is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KOKO, London on Sat, 9 Jan 2027.
 
 VoicemC is a drum & bass and jungle artist, with 17 gigs on soundcheck across Brighton and London. Often billed alongside Fabio, GQ and Grooverider. Next up: KOKO, London on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ VoicemC is a drum & bass and jungle artist, with 17 gigs on soundcheck across Br
 
 Fabio, GQ, Grooverider
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voicemc/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voicemc/)*

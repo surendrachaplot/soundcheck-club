@@ -1,6 +1,6 @@
 # Mano Le Tough
 
-Mano Le Tough is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
+Mano Le Tough is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
 
 Mano Le Tough is a house and techno artist based in Germany, with 176 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 58 more. Often billed alongside Âme, DJ Tennis and Jonathan Kaspar. Next up: The Warehouse By IT Quarter, Cyprus on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Mano Le Tough is a house and techno artist based in Germany, with 176 gigs on so
 
 Âme, DJ Tennis, Jonathan Kaspar
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*

@@ -1,6 +1,6 @@
 # Willy Delphia
 
-Willy Delphia is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The BBE Store, London on Fri, 30 Oct 2026.
+Willy Delphia is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The BBE Store, London on Fri, 30 Oct 2026.
 
 Willy Delphia is a house and jazz artist based in New Zealand, with 6 gigs on soundcheck across London. Often billed alongside ARLYSS, Liminal People and Maria Hanlon. Next up: The BBE Store, London on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Willy Delphia is a house and jazz artist based in New Zealand, with 6 gigs on so
 
 ARLYSS, Liminal People, Maria Hanlon
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willydelphia/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willydelphia/)*

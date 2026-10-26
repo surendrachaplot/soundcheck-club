@@ -1,6 +1,6 @@
 # Fortune (US)
 
-Fortune (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Chicago Eagle, Chicago on Sat, 14 Nov 2026.
+Fortune (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Chicago Eagle, Chicago on Sat, 14 Nov 2026.
 
 Fortune (US) is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Chicago, Detroit and Minneapolis/St Paul. Often billed alongside Jaggy, Andrew Emil and Bai-ee. Next up: Chicago Eagle, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Fortune (US) is a house and techno artist based in United Kingdom, with 13 gigs 
 
 Jaggy, Andrew Emil, Bai-ee
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fortuneus/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fortuneus/)*

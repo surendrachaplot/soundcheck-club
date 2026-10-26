@@ -1,6 +1,6 @@
 # basic chanel
 
-basic chanel is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at FOLD, London on Sat, 7 Nov 2026.
+basic chanel is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at FOLD, London on Sat, 7 Nov 2026.
 
 basic chanel is a techno and bass artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Berlin, Brussels and London and 6 more. Often billed alongside Paquita Gordon, Allecto and Cam Joon. Next up: FOLD, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ basic chanel is a techno and bass artist based in United Kingdom, with 45 gigs o
 
 Paquita Gordon, Allecto, Cam Joon
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*

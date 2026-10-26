@@ -1,6 +1,6 @@
 # skruba
 
-skruba is a Grime and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Artworks East, London on Sat, 5 Dec 2026.
+skruba is a Grime and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Artworks East, London on Sat, 5 Dec 2026.
 
 skruba is a grime and house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Carien, Ben Watson and Bread & Butter. Next up: Artworks East, London on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ skruba is a grime and house artist based in United Kingdom, with 5 gigs on sound
 
 Carien, Ben Watson, Bread & Butter
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skruba/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skruba/)*

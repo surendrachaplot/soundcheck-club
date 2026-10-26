@@ -1,6 +1,6 @@
 # Recreo Bar
 
-Recreo Bar is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Ank 42" on Thu, 29 Oct 2026.
+Recreo Bar is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Ank 42" on Thu, 29 Oct 2026.
 
 Recreo Bar is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Carrer de la Mercè, 26, 08002 Barcelona, Spain.
 
@@ -14,4 +14,4 @@ Recreo Bar is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. S
 
 Carrer de la Mercè, 26, 08002 Barcelona, Spain, Barcelona
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/recreo-bar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/recreo-bar/)*

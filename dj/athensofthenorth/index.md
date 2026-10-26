@@ -1,6 +1,6 @@
 # Athens of the North
 
-Athens of the North is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cafe 1001, London on Fri, 30 Oct 2026.
+Athens of the North is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cafe 1001, London on Fri, 30 Oct 2026.
 
 Athens of the North is a disco and house artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Barcelona, Edinburgh and Glasgow and 2 more. Often billed alongside Euan Fryer, Lel Palfrey and James Alexander Bright. Next up: Cafe 1001, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Athens of the North is a disco and house artist based in United Kingdom, with 18
 
 Euan Fryer, Lel Palfrey, James Alexander Bright
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/athensofthenorth/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/athensofthenorth/)*

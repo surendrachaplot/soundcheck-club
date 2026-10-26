@@ -1,6 +1,6 @@
 # SBBS
 
-SBBS is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
+SBBS is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Distillery N17, London on Thu, 31 Dec 2026.
 
 SBBS is a techno and tech house artist based in France, with 28 gigs on soundcheck across Brighton, London, Manchester and Mexico City. Often billed alongside Gridlock, Varanasi and RayRay. Next up: Distillery N17, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ SBBS is a techno and tech house artist based in France, with 28 gigs on soundche
 
 Gridlock, Varanasi, RayRay
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*

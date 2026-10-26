@@ -1,6 +1,6 @@
 # The Lord Gladstone
 
-The Lord Gladstone is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Afterlife" on Sat, 31 Oct 2026.
+The Lord Gladstone is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Afterlife" on Sat, 31 Oct 2026.
 
 The Lord Gladstone is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with line-ups including Andrew Wowk, Bovver Beats, Casual P and Jateen and 2 more. See dates, start times and who's playing. 115 Regent St, Chippendale NSW 2008, Australia.
 
@@ -17,4 +17,4 @@ The Lord Gladstone is a music venue in Sydney listed on soundcheck. 4 upcoming g
 
 115 Regent St, Chippendale NSW 2008, Australia, Sydney
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lord-gladstone/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lord-gladstone/)*

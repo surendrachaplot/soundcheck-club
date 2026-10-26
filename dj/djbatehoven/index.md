@@ -1,6 +1,6 @@
 # DJ Batehoven
 
-DJ Batehoven is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kontrast, Manchester on Fri, 13 Nov 2026.
+DJ Batehoven is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kontrast, Manchester on Fri, 13 Nov 2026.
 
 DJ Batehoven is a disco and house artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Bristol and Manchester. Often billed alongside Alex Moore, KURLZ and Mascott. Next up: Kontrast, Manchester on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DJ Batehoven is a disco and house artist based in United Kingdom, with 9 gigs on
 
 Alex Moore, KURLZ, Mascott
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbatehoven/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbatehoven/)*

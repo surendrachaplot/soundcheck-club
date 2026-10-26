@@ -1,6 +1,6 @@
 # BIG SLIME
 
-BIG SLIME is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Trainscendence, Melbourne on Tue, 3 Nov 2026.
+BIG SLIME is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Trainscendence, Melbourne on Tue, 3 Nov 2026.
 
 BIG SLIME is a techno and garage artist, with 5 gigs on soundcheck across Melbourne. Often billed alongside fbw.archive, KALI (AU) and MOWGLI (AU). Next up: Trainscendence, Melbourne on Tue 3 Nov.
 
@@ -21,4 +21,4 @@ BIG SLIME is a techno and garage artist, with 5 gigs on soundcheck across Melbou
 
 fbw.archive, KALI (AU), MOWGLI (AU)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigslime/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigslime/)*

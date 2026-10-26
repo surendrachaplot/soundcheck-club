@@ -1,6 +1,6 @@
 # TBA - Kitchener, Ontario - Warehouse Location - see show poster for details
 
-TBA - Kitchener, Ontario - Warehouse Location - see show poster for details is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "EXPAND" on Sat, 7 Nov 2026.
+TBA - Kitchener, Ontario - Warehouse Location - see show poster for details is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "EXPAND" on Sat, 7 Nov 2026.
 
 TBA - Kitchener, Ontario - Warehouse Location - see show poster for details is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Kasia. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Kitchener, Ontario - Warehouse Location - see show poster for details is a
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | EXPAND | Kasia (2) |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-kitchener-ontario-warehouse-location-see-show-poster-for-details/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-kitchener-ontario-warehouse-location-see-show-poster-for-details/)*

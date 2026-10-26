@@ -1,6 +1,6 @@
 # Z@p
 
-Z@p is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Z@p is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Z@p is a techno and house artist based in Uruguay, with 137 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 42 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Z@p is a techno and house artist based in Uruguay, with 137 gigs on soundcheck a
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

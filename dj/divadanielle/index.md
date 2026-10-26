@@ -1,6 +1,6 @@
 # divaDanielle
 
-divaDanielle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+divaDanielle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 divaDanielle is a house and techno artist based in United States of America, with 8 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Anthony Mansfield, BEYA and Deckard. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -24,4 +24,4 @@ divaDanielle is a house and techno artist based in United States of America, wit
 
 Anthony Mansfield, BEYA, Deckard
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/divadanielle/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/divadanielle/)*

@@ -1,26 +1,26 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Krallice + Kailas" on Sun, 25 Oct 2026.
+Fuchs2 is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "EELF Presents - Prague: Shaolin Cowboy, GEE LEE, Paluma Sound, AVHD" on Tue, 27 Oct 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Krallice + Kailas |  |
 | Tue, 27 Oct 2026 | EELF Presents - Prague: Shaolin Cowboy, GEE LEE, Paluma Sound, AVHD | AVHD, GEE LEE, Paluma Sound, Shaolin Cowboy |
 | Fri, 30 Oct 2026 | BRVTAL HALLOWEEN: Ancient Methods ☆ The Brvtalist ☆ Nastya Muravyova ☆ C4AT ☆ Kat Kat Tat | Ancient Methods, Kat Kat Tat, Lillou, Nastya Muravyova, The Brvtalist |
 | Sat, 31 Oct 2026 | FACE-OFF: 2NDRA F2F NEUWERTH ☆ SJ Yellow F2F tmk ☆ Etienn Grey F2F Fake Agent ☆ Dunik F2F Mich | 2NDRA, Atlaskin, Etienn Grey, Fake Agent, NEUWERTH, SJ Yellow, VNNUK, tmk (CZ) |
 | Fri, 6 Nov 2026 | TECHNO ALLIANCE: FJAAK ☆ Nina Farrina ☆ Midirama | FJAAK, Midirama, Nina Farrina |
-| Sat, 7 Nov 2026 | Rave Generation | DjEgo, GRVYWRLD, KJAER, Kerrie, Lucas Hulan, Mirka, Paul Krist, Philip Ackowsky, Raul Young, Rudeboy |
+| Sat, 7 Nov 2026 | Rave Generation / Fuchs2+ - Bike Jesus - Techno Agency | DjEgo, GRVYWRLD, KJAER, Kerrie, Lucas Hulan, Mirka, Paul Krist, Philip Ackowsky, Raul Young, Rudeboy |
 | Thu, 12 Nov 2026 | SALO: Lovačka Srca Takeover | VLZQUES |
 | Sat, 14 Nov 2026 | X-RAY MEETS SWITCH: Mez & Grandmixxer | Dj Alyaz, Grandmixxer, JohnyM, Limit Eight |
 | Mon, 16 Nov 2026 | ALL NIGHT LONG: SJ Yellow | SJ Yellow |
 | Fri, 27 Nov 2026 | WRONG 10 YEARS with Prison Religion, Wick, Zaffer 9 | ESTER., Prison Religion, tmk (CZ) |
+| Sat, 5 Dec 2026 | Zlomená Scéna presents: Overview Music |  |
 
 ## Address
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

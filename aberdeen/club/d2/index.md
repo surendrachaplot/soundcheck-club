@@ -1,6 +1,6 @@
 # D2
 
-D2 is a music venue in Aberdeen with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Herdmania - Shell in a Cell" on Sat, 31 Oct 2026.
+D2 is a music venue in Aberdeen with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Herdmania - Shell in a Cell" on Sat, 31 Oct 2026.
 
 D2 is a music venue in Aberdeen listed on soundcheck. 4 upcoming gigs, with line-ups including Cornetta, Keepsakes and kidProquo. See dates, start times and who's playing. 1 Belmont Street, Aberdeen, Scotland, United Kingdom.
 
@@ -17,4 +17,4 @@ D2 is a music venue in Aberdeen listed on soundcheck. 4 upcoming gigs, with line
 
 1 Belmont Street, Aberdeen, Scotland, United Kingdom, Aberdeen
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/aberdeen/club/d2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/aberdeen/club/d2/)*

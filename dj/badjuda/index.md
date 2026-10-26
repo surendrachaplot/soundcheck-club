@@ -1,6 +1,6 @@
 # BADJUDA
 
-BADJUDA is a Baile Funk and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bar Datcha, Montreal on Fri, 20 Nov 2026.
+BADJUDA is a Baile Funk and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bar Datcha, Montreal on Fri, 20 Nov 2026.
 
 BADJUDA is a baile funk and afro house artist based in France, with 5 gigs on soundcheck across Montreal. Often billed alongside BINKY, Brendocha and CUERPOS. Next up: Bar Datcha, Montreal on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ BADJUDA is a baile funk and afro house artist based in France, with 5 gigs on so
 
 BINKY, Brendocha, CUERPOS
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badjuda/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badjuda/)*

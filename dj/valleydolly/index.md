@@ -1,14 +1,13 @@
 # Valley Dolly
 
-Valley Dolly is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
+Valley Dolly is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 4 Dec 2026.
 
-Valley Dolly is a house and techno artist based in Georgia, with 66 gigs on soundcheck across Berlin, Brussels, Hannover and Lisbon and 5 more. Often billed alongside Kvanchi, Sophie Phare and Hamatsuki. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
+Valley Dolly is a house and techno artist based in Georgia, with 66 gigs on soundcheck across Berlin, Brussels, Hannover and Lisbon and 5 more. Often billed alongside Kvanchi, Sophie Phare and Hamatsuki. Next up: Ankali & Planeta Za, Prague on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 4 Dec 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
@@ -26,4 +25,4 @@ Valley Dolly is a house and techno artist based in Georgia, with 66 gigs on soun
 
 Kvanchi, Sophie Phare, Hamatsuki
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*

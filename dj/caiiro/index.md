@@ -1,6 +1,6 @@
 # Caiiro
 
-Caiiro is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Roundhouse, London on Sat, 31 Oct 2026.
+Caiiro is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Roundhouse, London on Sat, 31 Oct 2026.
 
 Caiiro is an afro house and house artist based in South Africa, with 85 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 26 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: The Roundhouse, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Caiiro is an afro house and house artist based in South Africa, with 85 gigs on 
 
 Enoo Napa, Da Capo, Van Zand
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*

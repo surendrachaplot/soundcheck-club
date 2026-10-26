@@ -1,6 +1,6 @@
 # The Cross
 
-The Cross is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "WYRD X FLOCK: HOUSE OF MIRRORS" on Fri, 30 Oct 2026.
+The Cross is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "WYRD X FLOCK: HOUSE OF MIRRORS" on Fri, 30 Oct 2026.
 
 The Cross is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Ardishko, Atsou, Darley and Dolce Verde and 2 more. See dates, start times and who's playing. The Cross, 2-4, Wharfdale Rd, N1 9RY.
 
@@ -18,4 +18,4 @@ The Cross is a music venue in London listed on soundcheck. 5 upcoming gigs, with
 
 The Cross, 2-4, Wharfdale Rd, N1 9RY, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*

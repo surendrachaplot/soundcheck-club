@@ -1,6 +1,6 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Locklead is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Locklead is a house and tech house artist based in Netherlands, with 202 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 42 more. Often billed alongside Marsolo, CHRIS STASSY and Rossi. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -34,4 +34,4 @@ Locklead is a house and tech house artist based in Netherlands, with 202 gigs on
 
 Marsolo, CHRIS STASSY, Rossi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

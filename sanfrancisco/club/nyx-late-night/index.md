@@ -1,6 +1,6 @@
 # NYX: Late Night
 
-NYX: Late Night is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "[LeCrew] HAUNTED" on Fri, 30 Oct 2026.
+NYX: Late Night is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "[LeCrew] HAUNTED" on Fri, 30 Oct 2026.
 
 NYX: Late Night is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including sosicksosad and ValouFlex. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ NYX: Late Night is a music venue in San Francisco/Oakland listed on soundcheck. 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | [LeCrew] HAUNTED | ValouFlex, sosicksosad |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/nyx-late-night/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/nyx-late-night/)*

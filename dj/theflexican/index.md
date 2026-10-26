@@ -1,6 +1,6 @@
 # The Flexican
 
-The Flexican is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
+The Flexican is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
 
 The Flexican is a house and bass artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam and Netherlands. Often billed alongside Berkan V8, Cromby and DJ Cringey. Next up: Lijm & Cultuur, Netherlands on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ The Flexican is a house and bass artist based in Netherlands, with 15 gigs on so
 
 Berkan V8, Cromby, DJ Cringey
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theflexican/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theflexican/)*

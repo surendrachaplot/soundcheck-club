@@ -1,6 +1,6 @@
 # MOON BABE
 
-MOON BABE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Chocolate Factory, New York City on Wed, 25 Nov 2026.
+MOON BABE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Chocolate Factory, New York City on Wed, 25 Nov 2026.
 
 MOON BABE is a house and deep house artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside Mari Ella, BUNZ and Bunni. Next up: The Chocolate Factory, New York City on Wed 25 Nov.
 
@@ -24,4 +24,4 @@ MOON BABE is a house and deep house artist based in United States of America, wi
 
 Mari Ella, BUNZ, Bunni
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbabe/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbabe/)*

@@ -1,6 +1,6 @@
 # LE KLOWN
 
-LE KLOWN is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Domicile, Miami on Sat, 31 Oct 2026.
+LE KLOWN is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Domicile, Miami on Sat, 31 Oct 2026.
 
 LE KLOWN is a techno and hardcore artist, with 27 gigs on soundcheck across Barcelona, Bordeaux, Glasgow and Marseille and 8 more. Often billed alongside KARELBLADE, DUNA ËDEN and Drivr. Next up: Domicile, Miami on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LE KLOWN is a techno and hardcore artist, with 27 gigs on soundcheck across Barc
 
 KARELBLADE, DUNA ËDEN, Drivr
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leklown/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leklown/)*

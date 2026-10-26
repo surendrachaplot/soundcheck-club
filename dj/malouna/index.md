@@ -1,6 +1,6 @@
 # Malouna
 
-Malouna is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 30 Oct 2026.
+Malouna is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 30 Oct 2026.
 
 Malouna is a techno and house artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Berlin, Cyprus and Frankfurt and 1 more. Often billed alongside Markus Klee, Prismode and Solvane. Next up: Ritter Butzke, Berlin on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Malouna is a techno and house artist based in Germany, with 28 gigs on soundchec
 
 Markus Klee, Prismode, Solvane
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malouna/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malouna/)*

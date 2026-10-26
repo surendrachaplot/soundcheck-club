@@ -1,6 +1,6 @@
 # EEVEE (3)
 
-EEVEE (3) is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Honey's, New York City on Thu, 29 Oct 2026.
+EEVEE (3) is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Honey's, New York City on Thu, 29 Oct 2026.
 
 EEVEE is a club and ghetto tech artist, with 21 gigs on soundcheck across New York City. Often billed alongside Petal, CMD+JAZMINE and Fire Aux. Next up: Honey's, New York City on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ EEVEE is a club and ghetto tech artist, with 21 gigs on soundcheck across New Yo
 
 Petal, CMD+JAZMINE, Fire Aux
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eevee-3/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eevee-3/)*

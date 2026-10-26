@@ -1,6 +1,6 @@
 # Stella Zekri
 
-Stella Zekri is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Stella Zekri is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Stella Zekri is a house and techno artist based in France, with 202 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside Camilla Rae, 131bpm and CCL. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -31,4 +31,4 @@ Stella Zekri is a house and techno artist based in France, with 202 gigs on soun
 
 Camilla Rae, 131bpm, CCL
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*

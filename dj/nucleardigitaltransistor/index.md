@@ -1,6 +1,6 @@
 # Nuclear Digital Transistor
 
-Nuclear Digital Transistor is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
+Nuclear Digital Transistor is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
 
 Nuclear Digital Transistor is a techno and electro artist, with 30 gigs on soundcheck across Barcelona, Berlin, Bogotá and Colombia and 4 more. Often billed alongside Kabinett, Juanitablue and Bedriñana. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Nuclear Digital Transistor is a techno and electro artist, with 30 gigs on sound
 
 Kabinett, Juanitablue, Bedriñana
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nucleardigitaltransistor/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nucleardigitaltransistor/)*

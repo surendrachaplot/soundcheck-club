@@ -1,6 +1,6 @@
 # Klaus Ahlers
 
-Klaus Ahlers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, San Francisco/Oakland on Fri, 30 Oct 2026.
+Klaus Ahlers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Klaus Ahlers is a house and techno artist, with 8 gigs on soundcheck across San Francisco/Oakland. Often billed alongside James Houdini, Monoclick and Cassy. Next up: TBA, San Francisco/Oakland on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Klaus Ahlers is a house and techno artist, with 8 gigs on soundcheck across San 
 
 James Houdini, Monoclick, Cassy
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klausahlers/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klausahlers/)*

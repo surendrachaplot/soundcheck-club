@@ -1,6 +1,6 @@
 # Kabza De Small
 
-Kabza De Small is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Boxpark Wembley, London on Sun, 27 Dec 2026.
+Kabza De Small is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Boxpark Wembley, London on Sun, 27 Dec 2026.
 
 Kabza De Small is an amapiano and afro house artist, with 11 gigs on soundcheck across Amsterdam, Cape Town, Ibiza and London and 2 more. Often billed alongside Dj Maphorisa, Atmos Blaq and Que DJ. Next up: Boxpark Wembley, London on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Kabza De Small is an amapiano and afro house artist, with 11 gigs on soundcheck 
 
 Dj Maphorisa, Atmos Blaq, Que DJ
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabzadesmall/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabzadesmall/)*

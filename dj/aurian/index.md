@@ -1,6 +1,6 @@
 # Aurian
 
-Aurian is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
+Aurian is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
 
 Aurian is a techno and trance artist based in France, with 12 gigs on soundcheck across Berlin and Paris. Often billed alongside Albane, MNBOO and Marchandazing. Next up: Chateau Ephémère, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Aurian is a techno and trance artist based in France, with 12 gigs on soundcheck
 
 Albane, MNBOO, Marchandazing
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurian/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurian/)*

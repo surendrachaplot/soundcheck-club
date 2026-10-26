@@ -1,15 +1,13 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Insomnia" on Sun, 25 Oct 2026.
+Das Werk is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "RAM - Rave am Mittwoch" on Wed, 28 Oct 2026.
 
-Das Werk is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with line-ups including Albin Brezlan, Aleta, Alex TB and Anatol and 2 more. See dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
+Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including Albin Brezlan, Alex TB, Anatol and Arman Shadow and 2 more. See dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Insomnia | Aleta, DJ PARKVERBOT, DJ Wolle, TAUSEND2Ø, THURI, WO.IZZY |
-| Sun, 25 Oct 2026 | Insomnia - Nebelblau x Civic | DJ Wolle, Simonkannnix, TAUSEND2Ø, THURI |
 | Wed, 28 Oct 2026 | RAM - Rave am Mittwoch | TAPCUE |
 | Fri, 30 Oct 2026 | SCHWERKRAFT W/ Alex TB, PRAKAS , OSMOS | Alex TB, Farbod, PRAKAS, Rui de Janeiro |
 | Sat, 31 Oct 2026 | HALLOWEEN Special | Arman Shadow, Crystal O, Dj Wifi (3), Joey (2), LUZZT, Qaoz, Trugbild |
@@ -23,4 +21,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

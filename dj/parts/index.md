@@ -1,6 +1,6 @@
 # PARTS
 
-PARTS is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Golden Jubilee & Yacht Club, London on Sat, 10 Apr 2027.
+PARTS is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Golden Jubilee & Yacht Club, London on Sat, 10 Apr 2027.
 
 PARTS is a progressive house and trance artist based in United Kingdom, with 14 gigs on soundcheck across Lisbon and London. Often billed alongside MXV (UK), Amber Stomp and Amy Wiles. Next up: Golden Jubilee & Yacht Club, London on Sat 10 Apr.
 
@@ -25,4 +25,4 @@ PARTS is a progressive house and trance artist based in United Kingdom, with 14 
 
 MXV (UK), Amber Stomp, Amy Wiles
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parts/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parts/)*

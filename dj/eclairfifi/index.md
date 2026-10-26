@@ -1,6 +1,6 @@
 # Eclair Fifi
 
-Eclair Fifi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Cheek, London on Fri, 11 Dec 2026.
+Eclair Fifi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Cheek, London on Fri, 11 Dec 2026.
 
 Eclair Fifi is a house and techno artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 24 more. Often billed alongside LWS, TSHA and Optimo (Espacio). Next up: Club Cheek, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Eclair Fifi is a house and techno artist based in United Kingdom, with 111 gigs 
 
 LWS, TSHA, Optimo (Espacio)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eclairfifi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eclairfifi/)*

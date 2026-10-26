@@ -1,6 +1,6 @@
 # Extrawelt
 
-Extrawelt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Staatstheater & Alte Feuerwache, Saarland on Wed, 28 Oct 2026.
+Extrawelt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Staatstheater & Alte Feuerwache, Saarland on Wed, 28 Oct 2026.
 
 Extrawelt is a techno and house artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 19 more. Often billed alongside Robag Wruhme, Anja Schneider and Gregor Tresher. Next up: Staatstheater & Alte Feuerwache, Saarland on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ Extrawelt is a techno and house artist based in Germany, with 54 gigs on soundch
 
 Robag Wruhme, Anja Schneider, Gregor Tresher
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/extrawelt/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/extrawelt/)*

@@ -1,6 +1,6 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Haloween Party x Donatas Chipak [LT]" on Fri, 30 Oct 2026.
+B2 Rīga is a music venue in Riga with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Haloween Party x Donatas Chipak [LT]" on Fri, 30 Oct 2026.
 
 B2 Rīga is a music venue in Riga listed on soundcheck. 6 upcoming gigs, with line-ups including Aeden, Alaburda, Brenna Ryan and D I N and 2 more. See dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
@@ -19,4 +19,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 6 upcoming gigs, with li
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

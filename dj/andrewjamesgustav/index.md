@@ -1,6 +1,6 @@
 # Andrew James Gustav
 
-Andrew James Gustav is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at feedbk, New York City on Sat, 31 Oct 2026.
+Andrew James Gustav is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at feedbk, New York City on Sat, 31 Oct 2026.
 
 Andrew James Gustav is a techno and house artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 15 more. Often billed alongside Bruno Schmidt, Alien Communications and Jos. Next up: feedbk, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Andrew James Gustav is a techno and house artist based in United Kingdom, with 7
 
 Bruno Schmidt, Alien Communications, Jos
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*

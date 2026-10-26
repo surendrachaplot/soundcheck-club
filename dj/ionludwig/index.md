@@ -1,6 +1,6 @@
 # Ion Ludwig
 
-Ion Ludwig is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Ion Ludwig is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Ion Ludwig is a minimal and house artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 26 more. Often billed alongside Rhadoo, Aline (CH) and BILA. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Ion Ludwig is a minimal and house artist based in Germany, with 94 gigs on sound
 
 Rhadoo, Aline (CH), BILA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*

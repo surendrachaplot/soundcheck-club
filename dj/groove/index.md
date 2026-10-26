@@ -1,6 +1,6 @@
 # Groove
 
-Groove is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Boxpark Wembley, London on Sun, 27 Dec 2026.
+Groove is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Boxpark Wembley, London on Sun, 27 Dec 2026.
 
 Groove is a techno and tech house artist based in Bulgaria, with 30 gigs on soundcheck across Athens, Bangkok, Berlin and Bristol and 13 more. Often billed alongside DANI8L, ANNA and After X. Next up: Boxpark Wembley, London on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Groove is a techno and tech house artist based in Bulgaria, with 30 gigs on soun
 
 DANI8L, ANNA, After X
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groove/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groove/)*

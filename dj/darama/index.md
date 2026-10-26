@@ -1,6 +1,6 @@
 # Darama
 
-Darama is a Breakbeat and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Palais, London on Fri, 20 Nov 2026.
+Darama is a Breakbeat and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Palais, London on Fri, 20 Nov 2026.
 
 Darama is a breakbeat and afro house artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, Dublin, London and Manchester. Often billed alongside yourboykiran, Chande and Izzi. Next up: Palais, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Darama is a breakbeat and afro house artist based in United Kingdom, with 18 gig
 
 yourboykiran, Chande, Izzi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darama/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darama/)*

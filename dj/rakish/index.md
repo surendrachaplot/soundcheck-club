@@ -1,6 +1,6 @@
 # Rakish
 
-Rakish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 4 Dec 2026.
+Rakish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 4 Dec 2026.
 
 Rakish is a house and techno artist based in Australia, with 38 gigs on soundcheck across Adelaide, Melbourne and Sydney. Often billed alongside Deepa, Jhassic and Baschoe. Next up: Oxford Art Factory, Sydney on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Rakish is a house and techno artist based in Australia, with 38 gigs on soundche
 
 Deepa, Jhassic, Baschoe
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rakish/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rakish/)*

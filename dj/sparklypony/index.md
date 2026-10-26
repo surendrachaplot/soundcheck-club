@@ -1,6 +1,6 @@
 # Sparkly Pony
 
-Sparkly Pony is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at AMT, Berlin on Fri, 20 Nov 2026.
+Sparkly Pony is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at AMT, Berlin on Fri, 20 Nov 2026.
 
 Sparkly Pony is a house and techno artist, with 63 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Paris and 1 more. Often billed alongside Dgeral, James Lotion and Khloe. Next up: AMT, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Sparkly Pony is a house and techno artist, with 63 gigs on soundcheck across Ber
 
 Dgeral, James Lotion, Khloe
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparklypony/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparklypony/)*

@@ -1,6 +1,6 @@
 # Am Nil
 
-Am Nil is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Giri, Berlin on Fri, 6 Nov 2026.
+Am Nil is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Giri, Berlin on Fri, 6 Nov 2026.
 
 Am Nil is an ambient and techno artist based in Germany, with 15 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside APRS, Serenus and superamas. Next up: Giri, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Am Nil is an ambient and techno artist based in Germany, with 15 gigs on soundch
 
 APRS, Serenus, superamas
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amnil/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amnil/)*

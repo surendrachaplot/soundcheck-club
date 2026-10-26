@@ -1,6 +1,6 @@
 # HWRD
 
-HWRD is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Artheater, Cologne on Fri, 11 Dec 2026.
+HWRD is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Artheater, Cologne on Fri, 11 Dec 2026.
 
 HWRD is a techno and minimal techno artist based in Germany, with 36 gigs on soundcheck across Auckland, Berlin, Cologne and Dortmund / Essen and 4 more. Often billed alongside Shrff, Amilli and K. Luisa. Next up: Artheater, Cologne on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ HWRD is a techno and minimal techno artist based in Germany, with 36 gigs on sou
 
 Shrff, Amilli, K. Luisa
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hwrd/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hwrd/)*

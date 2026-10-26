@@ -1,6 +1,6 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Unit 51, Aberdeen on Sat, 31 Oct 2026.
+Joe Rolét is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Unit 51, Aberdeen on Sat, 31 Oct 2026.
 
 Joe Rolét is a tech house and house artist based in United Kingdom, with 29 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Berlin and 10 more. Often billed alongside Fleur Shore, Max Dean and Olive F. Next up: Unit 51, Aberdeen on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Joe Rolét is a tech house and house artist based in United Kingdom, with 29 gig
 
 Fleur Shore, Max Dean, Olive F
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*

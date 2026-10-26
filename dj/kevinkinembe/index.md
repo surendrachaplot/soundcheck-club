@@ -1,6 +1,6 @@
 # Kevin Kinembe
 
-Kevin Kinembe is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
+Kevin Kinembe is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
 
 Kevin Kinembe is an afro house and house artist based in Belgium, with 6 gigs on soundcheck across Amsterdam, Antwerp, Düsseldorf and Ibiza. Often billed alongside Jana Vitiligo, Secret Soda and Judoc. Next up: Sol y Luna Lounge & Club, Düsseldorf on Wed 11 Nov.
 
@@ -22,4 +22,4 @@ Kevin Kinembe is an afro house and house artist based in Belgium, with 6 gigs on
 
 Jana Vitiligo, Secret Soda, Judoc
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkinembe/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkinembe/)*

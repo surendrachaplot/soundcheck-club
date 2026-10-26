@@ -1,6 +1,6 @@
 # Amtrac
 
-Amtrac is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at ZeyZey, Miami on Fri, 6 Nov 2026.
+Amtrac is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at ZeyZey, Miami on Fri, 6 Nov 2026.
 
 Amtrac is a house and deep house artist based in United States of America, with 76 gigs on soundcheck across Austin, Chicago, Dallas/Fort Worth and Denver and 20 more. Often billed alongside Totally Enormous Extinct Dinosaurs, Tourist and CRi. Next up: ZeyZey, Miami on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Amtrac is a house and deep house artist based in United States of America, with 
 
 Totally Enormous Extinct Dinosaurs, Tourist, CRi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*

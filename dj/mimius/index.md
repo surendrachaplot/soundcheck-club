@@ -1,6 +1,6 @@
 # m i m i (US)
 
-m i m i (US) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Circus Tokyo, Tokyo on Thu, 29 Oct 2026.
+m i m i (US) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Circus Tokyo, Tokyo on Thu, 29 Oct 2026.
 
 m i m i (US) is a trance and techno artist based in United States of America, with 11 gigs on soundcheck across Boston, New York City and Tokyo. Often billed alongside EMMA KING, Replicator and Dasychira. Next up: Circus Tokyo, Tokyo on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ m i m i (US) is a trance and techno artist based in United States of America, wi
 
 EMMA KING, Replicator, Dasychira
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimius/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimius/)*

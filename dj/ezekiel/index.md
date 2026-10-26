@@ -1,6 +1,6 @@
 # Ezekiel
 
-Ezekiel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Skin Club, Madrid on Sat, 21 Nov 2026.
+Ezekiel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Skin Club, Madrid on Sat, 21 Nov 2026.
 
 Ezekiel is a techno and house artist based in Spain, with 7 gigs on soundcheck across Berlin, London and Madrid. Often billed alongside Cristian Marras, Daddy Squad and ADAM MUNNINGS. Next up: Skin Club, Madrid on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Ezekiel is a techno and house artist based in Spain, with 7 gigs on soundcheck a
 
 Cristian Marras, Daddy Squad, ADAM MUNNINGS
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezekiel/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezekiel/)*

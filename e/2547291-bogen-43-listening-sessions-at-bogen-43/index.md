@@ -1,6 +1,6 @@
 # Bogen 43 listening sessions at Bogen 43
 
-Bogen 43 listening sessions on Sun 1 Nov, Berlin. 2 artists: eira haul and Olsvangèr. Ambient and Experimental. See the line-up on soundcheck.
+Bogen 43 listening sessions on Sun 1 Nov, Berlin. 2 artists: eira haul and primawerner. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ Bogen 43 listening sessions on Sun 1 Nov, Berlin. 2 artists: eira haul and Olsva
 ## Line-up
 
 - eira haul
-- Olsvangèr
+- primawerner
 
 *Source: [soundcheck](https://soundcheck.club/e/2547291-bogen-43-listening-sessions-at-bogen-43/)*

@@ -1,6 +1,6 @@
 # NIEBO
 
-NIEBO is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "ARK: GOODBOYS live" on Fri, 27 Nov 2026.
+NIEBO is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "ARK: GOODBOYS live" on Fri, 27 Nov 2026.
 
 NIEBO is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Nowy Świat 21, 00-001 Warszawa.
 
@@ -14,4 +14,4 @@ NIEBO is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates
 
 Nowy Świat 21, 00-001 Warszawa, Warsaw
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*

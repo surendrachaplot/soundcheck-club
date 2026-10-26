@@ -1,13 +1,14 @@
 # Pointhope
 
-Pointhope is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Mitsuki, Tokyo on Mon, 2 Nov 2026.
+Pointhope is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Mitsuki, Tokyo on Mon, 2 Nov 2026.
 
-Pointhope is a techno and trance artist based in Japan, with 21 gigs on soundcheck across Tokyo. Often billed alongside Eichi Abe, JUN INAGAWA and West Ape. Next up: Mitsuki, Tokyo on Mon 2 Nov.
+Pointhope is a techno and trance artist based in Japan, with 22 gigs on soundcheck across Tokyo. Often billed alongside Eichi Abe, JUN INAGAWA and SOGI. Next up: Mitsuki, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 2 Nov 2026 | Mitsuki | Tokyo |
 | Mon, 2 Nov 2026 | Mitsuki | Tokyo |
 | Fri, 20 Nov 2026 | clubasia | Tokyo |
 
@@ -24,6 +25,6 @@ Pointhope is a techno and trance artist based in Japan, with 21 gigs on soundche
 
 ## Shares bills with
 
-Eichi Abe, JUN INAGAWA, West Ape
+Eichi Abe, JUN INAGAWA, SOGI
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pointhope/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pointhope/)*

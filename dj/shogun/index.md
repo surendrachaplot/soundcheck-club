@@ -1,6 +1,6 @@
 # Shogun
 
-Shogun is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Vaag, Antwerp on Sun, 22 Nov 2026.
+Shogun is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Vaag, Antwerp on Sun, 22 Nov 2026.
 
 Shogun is a techno and hardcore artist based in United States of America, with 13 gigs on soundcheck across Antwerp, Berlin, Dublin and Houston and 6 more. Often billed alongside DJ IDeaL, AKONA and AYANA KOSHIBA. Next up: Club Vaag, Antwerp on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Shogun is a techno and hardcore artist based in United States of America, with 1
 
 DJ IDeaL, AKONA, AYANA KOSHIBA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shogun/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shogun/)*

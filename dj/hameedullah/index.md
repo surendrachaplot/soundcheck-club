@@ -1,14 +1,15 @@
 # Hameedullah
 
-Hameedullah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Podlasie Club, Chicago on Thu, 5 Nov 2026.
+Hameedullah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Podlasie Club, Chicago on Thu, 5 Nov 2026.
 
-Hameedullah is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside 11111111111, CTRLZORA and Brendan Lemkin. Next up: Podlasie Club, Chicago on Thu 5 Nov.
+Hameedullah is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside 11111111111, CTRLZORA and Brendan Lemkin. Next up: Podlasie Club, Chicago on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Podlasie Club | Chicago |
+| Sun, 15 Nov 2026 | Elastic Arts | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hameedullah is a house and techno artist based in United States of America, with
 
 11111111111, CTRLZORA, Brendan Lemkin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hameedullah/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hameedullah/)*

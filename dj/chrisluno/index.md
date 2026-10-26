@@ -1,6 +1,6 @@
 # Chris Luno
 
-Chris Luno is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Zumana Bali, Bali on Fri, 30 Oct 2026.
+Chris Luno is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Zumana Bali, Bali on Fri, 30 Oct 2026.
 
 Chris Luno is a house and deep house artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 46 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Zumana Bali, Bali on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Chris Luno is a house and deep house artist based in Germany, with 91 gigs on so
 
 dj poolboi, sunflwr, Aliska
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*

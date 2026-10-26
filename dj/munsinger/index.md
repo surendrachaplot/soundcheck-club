@@ -1,6 +1,6 @@
 # Munsinger
 
-Munsinger is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
+Munsinger is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
 
 Munsinger is a techno and ebm artist based in France, with 41 gigs on soundcheck across Berlin, Brussels, Helsinki and Lisbon and 5 more. Often billed alongside 24sex-b, Oxblood and Ixpé. Next up: Ääniwalli, Helsinki on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Munsinger is a techno and ebm artist based in France, with 41 gigs on soundcheck
 
 24sex-b, Oxblood, Ixpé
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munsinger/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munsinger/)*

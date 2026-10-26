@@ -1,6 +1,6 @@
 # Mia Kaltes
 
-Mia Kaltes is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kauz, Zurich on Sat, 31 Oct 2026.
+Mia Kaltes is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kauz, Zurich on Sat, 31 Oct 2026.
 
 Mia Kaltes is a house and disco artist, with 11 gigs on soundcheck across Zurich. Often billed alongside Baerg, Canson and Heimlich Knüller. Next up: Kauz, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mia Kaltes is a house and disco artist, with 11 gigs on soundcheck across Zurich
 
 Baerg, Canson, Heimlich Knüller
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miakaltes/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miakaltes/)*

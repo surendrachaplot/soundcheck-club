@@ -1,6 +1,6 @@
 # Alexander Skancke
 
-Alexander Skancke is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Alexander Skancke is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Alexander Skancke is a house and techno artist based in Norway, with 100 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 29 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -29,4 +29,4 @@ Alexander Skancke is a house and techno artist based in Norway, with 100 gigs on
 
 Henriku, Trent Voyage, Dorian Paic
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*

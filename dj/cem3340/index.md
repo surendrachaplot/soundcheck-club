@@ -1,6 +1,6 @@
 # CEM3340
 
-CEM3340 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
+CEM3340 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
 
 CEM3340 is an electro and techno artist based in Italy, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 5 more. Often billed alongside ARMANDO, Acida Dominga and Afra. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ CEM3340 is an electro and techno artist based in Italy, with 14 gigs on soundche
 
 ARMANDO, Acida Dominga, Afra
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cem3340/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cem3340/)*

@@ -1,6 +1,6 @@
 # Nils Edte
 
-Nils Edte is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sauna Social Club, London on Sun, 1 Nov 2026.
+Nils Edte is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sauna Social Club, London on Sun, 1 Nov 2026.
 
 Nils Edte is a techno and minimal techno artist, with 8 gigs on soundcheck across Barcelona, London, Milan and Stuttgart. Often billed alongside Laima Adelaide, Alessandro Baroncini and Artefakt. Next up: Sauna Social Club, London on Sun 1 Nov.
 
@@ -24,4 +24,4 @@ Nils Edte is a techno and minimal techno artist, with 8 gigs on soundcheck acros
 
 Laima Adelaide, Alessandro Baroncini, Artefakt
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsedte/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsedte/)*

@@ -1,15 +1,14 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Vault Sessions x Key Vinyl ADE CLOSING" on Sun, 25 Oct 2026.
+RADION is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Vault Sessions x Key Vinyl ADE CLOSING" on Sun, 25 Oct 2026.
 
-RADION is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including 42nd Avenue, Alarico, Beau Didier and Ben UFO and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
+RADION is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, Beau Didier, BIANKA and Blasha & Allatt and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Vault Sessions x Key Vinyl ADE CLOSING | Alarico, FENIM0RE, Freddy K, Grace Dahl, Rebecca Delle Piane, Toobris, Vilchezz, ÜBERKIKZ |
-| Sun, 25 Oct 2026 | Breakfast Club ADE: Second Wind | 42nd Avenue, Ben UFO, Caim, Christian AB, Craig Richards, Gene On Earth, Lo Ds, Marie K (1), Matthew Neequaye, Mattias El Mansouri, OK Williams, Ogazón, PHIA, Vasco, Yumi, koen.fm (2) |
 | Fri, 30 Oct 2026 | RADION Invites: Fever Dream x Patchwork Family | Bongoat, Bussy, CyberFairy777, Kaikaina, Lara Renner, Millyosa, Prance, softchaos |
 | Sat, 31 Oct 2026 | Wasteland Halloween Ball |  |
 | Fri, 6 Nov 2026 | CLUB NIGHT | HUJUS |
@@ -18,9 +17,10 @@ RADION is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, wit
 | Fri, 20 Nov 2026 | Rødhåd All Night Long - Vault Sessions & RADION | Rødhåd |
 | Fri, 27 Nov 2026 | Labyrinth Weekend | BIANKA, Dasha Rush, I-RO, Jephta, Luke Slater, Maria Cue, Nørbak, Parrish Smith, Phase Fatale, SAMA (NL), Serti, Talismann, Valody |
 | Fri, 4 Dec 2026 | De Reünie |  |
+| Sat, 12 Dec 2026 | Vault Sessions X BASSIANI WKNDR | Blasha & Allatt, DJ MARIA., DVS1, Fadi Mohem, HVL, Kancheli, Lea Occhi, Lobster (NL), Ndrx, Newa, Ogazón, Phil Berg, VSC (Vault Sessions Collective) |
 
 ## Address
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

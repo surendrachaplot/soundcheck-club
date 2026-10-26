@@ -1,14 +1,13 @@
 # LNY TNZ
 
-LNY TNZ is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Chin Chin Club, Amsterdam on Sat, 24 Oct 2026.
+LNY TNZ is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-LNY TNZ is a techno and hardcore artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Cologne, Los Angeles and Madrid and 2 more. Often billed alongside Blasterjaxx, Gammer and Lush Tempora. Next up: Chin Chin Club, Amsterdam on Sat 24 Oct.
+LNY TNZ is a techno and hardcore artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Cologne, Los Angeles and Madrid and 2 more. Often billed alongside Blasterjaxx, Gammer and Lush Tempora. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Chin Chin Club | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 20 Nov 2026 | Melrose Ballroom | New York City |
 | Sat, 21 Nov 2026 | Melrose Ballroom | New York City |
@@ -28,4 +27,4 @@ LNY TNZ is a techno and hardcore artist based in Netherlands, with 12 gigs on so
 
 Blasterjaxx, Gammer, Lush Tempora
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lnytnz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lnytnz/)*

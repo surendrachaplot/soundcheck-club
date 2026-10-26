@@ -1,6 +1,6 @@
 # LIVIA (3)
 
-LIVIA (3) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Afas Live, Amsterdam on Thu, 31 Dec 2026.
+LIVIA (3) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Afas Live, Amsterdam on Thu, 31 Dec 2026.
 
 LIVIA is a techno and industrial artist, with 5 gigs on soundcheck across Amsterdam and Florence. Often billed alongside NO1ELSE, A.N.I. and DJ Dobrel. Next up: Afas Live, Amsterdam on Thu 31 Dec.
 
@@ -21,4 +21,4 @@ LIVIA is a techno and industrial artist, with 5 gigs on soundcheck across Amster
 
 NO1ELSE, A.N.I., DJ Dobrel
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livia-3/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livia-3/)*

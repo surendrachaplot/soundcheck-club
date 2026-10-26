@@ -1,6 +1,6 @@
 # moregasm
 
-moregasm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Detroit on Sat, 31 Oct 2026.
+moregasm is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Detroit on Sat, 31 Oct 2026.
 
 moregasm is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Detroit. Often billed alongside KICK (DET), DJ Candor and DJ SPHiNX. Next up: TBA, Detroit on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ moregasm is a techno and house artist based in United States of America, with 8 
 
 KICK (DET), DJ Candor, DJ SPHiNX
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moregasm/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moregasm/)*

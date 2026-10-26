@@ -1,8 +1,8 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "OnTime Records Pres: Rob Pearson" on Fri, 30 Oct 2026.
+Eiger Studios is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "OnTime Records Pres: Rob Pearson" on Fri, 30 Oct 2026.
 
-Eiger Studios is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including Benny Bysouth, Bobby., BUTCHABOI and Constance and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
+Eiger Studios is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with line-ups including Benny Bysouth, Bobby., BUTCHABOI and Chris Liberator and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, 
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

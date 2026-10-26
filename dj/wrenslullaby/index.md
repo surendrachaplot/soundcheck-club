@@ -1,6 +1,6 @@
 # Wren's Lullaby
 
-Wren's Lullaby is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Woods, New York City on Sat, 31 Oct 2026.
+Wren's Lullaby is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Woods, New York City on Sat, 31 Oct 2026.
 
 Wren's Lullaby is a techno and hardcore artist based in United States of America, with 25 gigs on soundcheck across Berlin and New York City. Often billed alongside Megan Rosengarten, TS Julien and SENGA. Next up: The Woods, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Wren's Lullaby is a techno and hardcore artist based in United States of America
 
 Megan Rosengarten, TS Julien, SENGA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrenslullaby/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrenslullaby/)*

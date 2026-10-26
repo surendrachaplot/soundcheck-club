@@ -1,6 +1,6 @@
 # Niebla
 
-Niebla is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Wed, 28 Oct 2026.
+Niebla is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Wed, 28 Oct 2026.
 
 Niebla is a house and techno artist based in Colombia, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 6 more. Often billed alongside Julian Gomez, Verraco and DJ Sergie. Next up: Mad Radio Bogotá, Bogotá on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Niebla is a house and techno artist based in Colombia, with 68 gigs on soundchec
 
 Julian Gomez, Verraco, DJ Sergie
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niebla/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niebla/)*

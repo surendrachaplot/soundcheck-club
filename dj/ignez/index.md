@@ -1,15 +1,13 @@
 # Ignez
 
-Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Ignez is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
 
-Ignez is a techno and house artist based in Netherlands, with 234 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 72 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
+Ignez is a techno and house artist based in Netherlands, with 234 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 72 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: TBA - Brooklyn, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
-| Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 31 Oct 2026 | TBA - VOID | Denver |
 | Sat, 7 Nov 2026 | Fuse | Brussels |
@@ -20,9 +18,12 @@ Ignez is a techno and house artist based in Netherlands, with 234 gigs on soundc
 | Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 4 Dec 2026 | Palais | London |
 | Sat, 5 Dec 2026 | REC Napoli | Naples |
+| Mon, 7 Dec 2026 | Link | Bologna |
+| Sat, 12 Dec 2026 | Valsemøllen | Bergen |
 
 ## Recently played
 
+- Bajes Amsterdam, Amsterdam · Sun, 25 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 24 Oct 2026
 - Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Fuse, Brussels · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@ Ignez is a techno and house artist based in Netherlands, with 234 gigs on soundc
 - Fabrik, Madrid · Sun, 11 Oct 2026
 - Flux, Istanbul · Sat, 10 Oct 2026
 - Tokonoma Club, Frankfurt · Fri, 9 Oct 2026
-- E1, London · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Yanamaste, Rødhåd, Alarico
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

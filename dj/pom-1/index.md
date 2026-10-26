@@ -1,14 +1,13 @@
 # POM (1)
 
-POM (1) is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at ESC, Montreal on Sat, 24 Oct 2026.
+POM (1) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at clubasia, Tokyo on Fri, 6 Nov 2026.
 
-POM is a techno and breakbeat artist based in Canada, with 5 gigs on soundcheck across Montreal and Tokyo. Often billed alongside nastygloss, CrisseMarqueur and JASS (JO). Next up: ESC, Montreal on Sat 24 Oct.
+POM is a techno and breakbeat artist based in Canada, with 5 gigs on soundcheck across Montreal and Tokyo. Often billed alongside nastygloss, CrisseMarqueur and JASS (JO). Next up: clubasia, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | ESC | Montreal |
 | Fri, 6 Nov 2026 | clubasia | Tokyo |
 
 ## Recently played
@@ -22,4 +21,4 @@ POM is a techno and breakbeat artist based in Canada, with 5 gigs on soundcheck 
 
 nastygloss, CrisseMarqueur, JASS (JO)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pom-1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pom-1/)*

@@ -1,6 +1,6 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Deseo BS AS, Buenos Aires on Fri, 30 Oct 2026.
+Marcellus Pittman is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Deseo BS AS, Buenos Aires on Fri, 30 Oct 2026.
 
 Marcellus Pittman is a house and techno artist based in United States of America, with 172 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Ash Lauryn, Antal and DITA (ID). Next up: Deseo BS AS, Buenos Aires on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Marcellus Pittman is a house and techno artist based in United States of America
 
 Ash Lauryn, Antal, DITA (ID)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

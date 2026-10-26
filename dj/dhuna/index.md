@@ -1,6 +1,6 @@
 # Dhuna
 
-Dhuna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Recinto Ferial de Cáceres, South on Sun, 1 Nov 2026.
+Dhuna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Recinto Ferial de Cáceres, South on Sun, 1 Nov 2026.
 
 Dhuna is a techno and house artist, with 7 gigs on soundcheck across Amsterdam, Madrid, Malaga and Miami and 1 more. Often billed alongside Raúl Pacheco, Adriana Lopez and Alignment. Next up: Recinto Ferial de Cáceres, South on Sun 1 Nov.
 
@@ -23,4 +23,4 @@ Dhuna is a techno and house artist, with 7 gigs on soundcheck across Amsterdam, 
 
 Raúl Pacheco, Adriana Lopez, Alignment
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhuna/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhuna/)*

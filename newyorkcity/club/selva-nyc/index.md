@@ -1,6 +1,6 @@
 # Selva NYC
 
-Selva NYC is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "kshack club night" on Tue, 27 Oct 2026.
+Selva NYC is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "kshack club night" on Tue, 27 Oct 2026.
 
 Selva NYC is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including CMD+JAZMINE, DJ girlcrush and Ivy Oh. See dates, start times and who's playing. 1329 WILLOUGHBY AVE BROOKLYN, NY 11237, USA.
 
@@ -16,4 +16,4 @@ Selva NYC is a music venue in New York City listed on soundcheck. 3 upcoming gig
 
 1329 WILLOUGHBY AVE BROOKLYN, NY 11237, USA, New York City
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/selva-nyc/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/selva-nyc/)*

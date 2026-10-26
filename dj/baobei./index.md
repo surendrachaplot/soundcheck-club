@@ -1,6 +1,6 @@
 # Baobei.
 
-Baobei. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Volar, Ho Chi Minh City on Fri, 30 Oct 2026.
+Baobei. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Volar, Ho Chi Minh City on Fri, 30 Oct 2026.
 
 Baobei. is a techno and house artist, with 21 gigs on soundcheck across Bangkok, Hanoi and Ho Chi Minh City. Often billed alongside Phát Paris, Gỏi Cuốn and Park:ING. Next up: TBA - Volar, Ho Chi Minh City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Baobei. is a techno and house artist, with 21 gigs on soundcheck across Bangkok,
 
 Phát Paris, Gỏi Cuốn, Park:ING
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baobei./)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baobei./)*

@@ -1,6 +1,6 @@
 # MARCIA
 
-MARCIA is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 29 Oct 2026.
+MARCIA is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 29 Oct 2026.
 
 MARCIA is an electronica and techno artist, with 18 gigs on soundcheck across Krakow, Mexico City and Warsaw. Often billed alongside Nadezh No, Chugajstra and 1 AM. Next up: nueve cero nueve, Mexico City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ MARCIA is an electronica and techno artist, with 18 gigs on soundcheck across Kr
 
 Nadezh No, Chugajstra, 1 AM (1)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcia/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcia/)*

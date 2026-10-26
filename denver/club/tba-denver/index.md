@@ -1,6 +1,6 @@
 # TBA - Denver
 
-TBA - Denver is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "TEKUNOMAMA PRESENTS D.Dan " on Sat, 12 Dec 2026.
+TBA - Denver is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "TEKUNOMAMA PRESENTS D.Dan " on Sat, 12 Dec 2026.
 
 TBA - Denver is a music venue in Denver listed on soundcheck. 1 upcoming gig, with line-ups including Andrew Bon Bosher and D.Dan. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Denver is a music venue in Denver listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | TEKUNOMAMA PRESENTS D.Dan  | Andrew Bon Bosher, D.Dan |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-denver/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-denver/)*

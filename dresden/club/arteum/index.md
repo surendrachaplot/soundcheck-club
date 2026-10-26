@@ -1,6 +1,6 @@
 # Arteum
 
-Arteum is a music venue in Dresden with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Red Zone - Hardtekk Fest Dresden" on Fri, 20 Nov 2026.
+Arteum is a music venue in Dresden with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Red Zone - Hardtekk Fest Dresden" on Fri, 20 Nov 2026.
 
 Arteum is a music venue in Dresden listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Arteum is a music venue in Dresden listed on soundcheck. 1 upcoming gig. See dat
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Red Zone - Hardtekk Fest Dresden |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/arteum/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/arteum/)*

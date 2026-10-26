@@ -1,6 +1,6 @@
 # Lb Honne
 
-Lb Honne is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+Lb Honne is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
 
 Lb Honne is a house and techno artist based in Switzerland, with 40 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 6 more. Often billed alongside matsssiii, Ben Kaczor and boaksi. Next up: Kauz, Zurich on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Lb Honne is a house and techno artist based in Switzerland, with 40 gigs on soun
 
 matsssiii, Ben Kaczor, boaksi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lbhonne/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lbhonne/)*

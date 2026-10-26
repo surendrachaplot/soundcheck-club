@@ -1,18 +1,18 @@
 # ANNASNEL
 
-ANNASNEL is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Db55, Amsterdam on Sun, 25 Oct 2026.
+ANNASNEL is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Yellow House, Amsterdam on Sat, 7 Nov 2026.
 
-ANNASNEL is a house and trance artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Niklas Becher, UriBlanch and 22 Interns. Next up: Db55, Amsterdam on Sun 25 Oct.
+ANNASNEL is a house and trance artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Niklas Becher, UriBlanch and 22 Interns. Next up: Yellow House, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Db55 | Amsterdam |
 | Sat, 7 Nov 2026 | Yellow House | Amsterdam |
 
 ## Recently played
 
+- Db55, Amsterdam · Sun, 25 Oct 2026
 - Ijver, Amsterdam · Fri, 23 Oct 2026
 - Huis van Iemand Anders, Amsterdam · Sat, 3 Oct 2026
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ ANNASNEL is a house and trance artist based in Netherlands, with 24 gigs on soun
 - Jonny Knüppel, Berlin · Sat, 20 Jun 2026
 - BASIS, Utrecht · Fri, 5 Jun 2026
 - TBA - Tonton Noord, Amsterdam · Sat, 30 May 2026
-- Toekomstmuziek, Amsterdam · Sun, 26 Apr 2026
 
 ## Shares bills with
 
 Niklas Becher, UriBlanch, 22 Interns
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annasnel/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annasnel/)*

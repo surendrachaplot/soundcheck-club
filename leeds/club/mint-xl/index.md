@@ -1,13 +1,14 @@
 # Mint XL
 
-Mint XL is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Mint XL Halloween: Riordan, Delilah, Stef Davidse + more" on Fri, 30 Oct 2026.
+Mint XL is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Mint XL Hallowe'en Pt.1: RTK Tarantino, Mason Talbot" on Wed, 28 Oct 2026.
 
-Mint XL is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including A For Alpha, ALISHA, Anil Aras and Annie Errez and 2 more. See dates, start times and who's playing.
+Mint XL is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including A For Alpha, ALISHA, Anil Aras and Annie Errez and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Wed, 28 Oct 2026 | Mint XL Hallowe'en Pt.1: RTK Tarantino, Mason Talbot | Mason Talbot, RTK-303 |
 | Fri, 30 Oct 2026 | Mint XL Halloween: Riordan, Delilah, Stef Davidse + more | Delilah, Emma B, Kara Okay, ODF (1), Riordan, Stef Davidse |
 | Sat, 31 Oct 2026 | Ewan McVicar presents Halloween | Ewan McVicar |
 | Sat, 7 Nov 2026 | Mint XL presents ALISHA + more | ALISHA, DXNBY, Danny Snowden, Jaeko, RUZE, Robbie Doherty, wAFF |
@@ -17,4 +18,4 @@ Mint XL is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with li
 | Sat, 28 Nov 2026 | Framework presents Nicolas Lutz & Junki Inoue | Annie Errez, Bobby O'Donnell, Junki Inoue, Nicolas Lutz, Phil Warner |
 | Sat, 19 Dec 2026 | Framework x Mugpie: Christian AB & Unai Trotti | Annie Errez, Christian AB, Unai Trotti |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*

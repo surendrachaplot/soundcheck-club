@@ -1,6 +1,6 @@
 # Diskonnected
 
-Diskonnected is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
+Diskonnected is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
 
 Diskonnected is a techno and house artist, with 111 gigs on soundcheck across Amsterdam, Bali, Bangkok and Beijing and 24 more. Often billed alongside Andy Chiu, L-CC and Tsui. Next up: Pawnshop, Taipei on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Diskonnected is a techno and house artist, with 111 gigs on soundcheck across Am
 
 Andy Chiu, L-CC, Tsui
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskonnected/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskonnected/)*

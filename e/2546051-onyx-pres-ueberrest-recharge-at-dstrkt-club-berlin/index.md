@@ -1,6 +1,6 @@
 # ONYX pres. Ueberrest: 'RECHARGE' at DSTRKT Club Berlin
 
-ONYX pres. Ueberrest: 'RECHARGE' at DSTRKT Club Berlin on Fri 29 Jan, Berlin. 2 artists: Danilo Filipe and Ueberrest. See the line-up on soundcheck.
+ONYX pres. Ueberrest: 'RECHARGE' at DSTRKT Club Berlin on Fri 29 Jan, Berlin. 4 artists: Alex Friday, Bruno Brero, Danilo Filipe and Ueberrest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ ONYX pres. Ueberrest: 'RECHARGE' at DSTRKT Club Berlin on Fri 29 Jan, Berlin. 2 
 
 ## Line-up
 
+- Alex Friday
+- Bruno Brero
 - Danilo Filipe
 - Ueberrest
 

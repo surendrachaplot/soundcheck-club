@@ -1,6 +1,6 @@
 # A.T.E.K
 
-A.T.E.K is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at K39, Frankfurt on Fri, 30 Oct 2026.
+A.T.E.K is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at K39, Frankfurt on Fri, 30 Oct 2026.
 
 A.T.E.K is a techno and trance artist, with 7 gigs on soundcheck across Düsseldorf, Frankfurt and Stuttgart. Often billed alongside PAU, Polytoxic and CiKi. Next up: K39, Frankfurt on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ A.T.E.K is a techno and trance artist, with 7 gigs on soundcheck across Düsseld
 
 PAU (6), Polytoxic, CiKi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.t.e.k/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.t.e.k/)*

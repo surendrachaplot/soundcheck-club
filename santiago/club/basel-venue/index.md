@@ -1,6 +1,6 @@
 # Basel Venue
 
-Basel Venue is a music venue in Santiago with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Ueberrest (Extended Set)" on Thu, 29 Oct 2026.
+Basel Venue is a music venue in Santiago with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Ueberrest (Extended Set)" on Thu, 29 Oct 2026.
 
 Basel Venue is a music venue in Santiago listed on soundcheck. 2 upcoming gigs, with line-ups including Jeff Mills and Ueberrest. See dates, start times and who's playing. Av. Independencia 565.
 
@@ -15,4 +15,4 @@ Basel Venue is a music venue in Santiago listed on soundcheck. 2 upcoming gigs, 
 
 Av. Independencia 565, Santiago
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/basel-venue/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/basel-venue/)*

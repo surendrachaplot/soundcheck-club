@@ -1,6 +1,6 @@
 # Mazos
 
-Mazos is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Multiple Venues (93 Feet East & E1 Afterparty), London on Sat, 31 Oct 2026.
+Mazos is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Multiple Venues (93 Feet East & E1 Afterparty), London on Sat, 31 Oct 2026.
 
 Mazos is a house and tech house artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, London and Malta. Often billed alongside G CHASE, Gracey Grey and Pat Wilson. Next up: TBA - Multiple Venues (93 Feet East & E1 Afterparty), London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mazos is a house and tech house artist based in United Kingdom, with 21 gigs on 
 
 G CHASE, Gracey Grey, Pat Wilson
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazos/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazos/)*

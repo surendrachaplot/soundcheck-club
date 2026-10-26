@@ -1,6 +1,6 @@
 # David James MCR
 
-David James MCR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The DBA, Manchester on Sat, 12 Dec 2026.
+David James MCR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The DBA, Manchester on Sat, 12 Dec 2026.
 
 David James MCR is a house and techno artist based in United Kingdom, with 26 gigs on soundcheck across London and Manchester. Often billed alongside Jase Jeffery, Esmé and Fastlove. Next up: The DBA, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ David James MCR is a house and techno artist based in United Kingdom, with 26 gi
 
 Jase Jeffery, Esmé, Fastlove
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjames-mcr/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjames-mcr/)*

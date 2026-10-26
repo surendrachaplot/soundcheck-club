@@ -1,6 +1,6 @@
 # Kenny Montana
 
-Kenny Montana is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
+Kenny Montana is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
 
 Kenny Montana is a house and disco artist based in Belgium, with 47 gigs on soundcheck across Antwerp, Brussels, Ghent and Milan and 1 more. Often billed alongside Thang, John Noseda and Montana. Next up: Kompass Klub, Ghent on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Kenny Montana is a house and disco artist based in Belgium, with 47 gigs on soun
 
 Thang, John Noseda, Montana
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennymontana/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennymontana/)*

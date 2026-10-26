@@ -1,6 +1,6 @@
 # Corps Guestphalia Berlin
 
-Corps Guestphalia Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "FREAK-QUENCY — Halloween Semester Opening - Students & Friends" on Sat, 31 Oct 2026.
+Corps Guestphalia Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "FREAK-QUENCY — Halloween Semester Opening - Students & Friends" on Sat, 31 Oct 2026.
 
 Corps Guestphalia Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Corps Guestphalia Berlin is a music venue in Berlin listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | FREAK-QUENCY — Halloween Semester Opening - Students & Friends |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/corps-guestphalia-berlin/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/corps-guestphalia-berlin/)*

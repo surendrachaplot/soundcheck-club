@@ -1,14 +1,13 @@
 # Somna
 
-Somna is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Chin Chin Club, Amsterdam on Sat, 24 Oct 2026.
+Somna is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Basing House, London on Sat, 31 Oct 2026.
 
-Somna is a trance and techno artist based in Canada, with 7 gigs on soundcheck across Amsterdam, Chicago, London and San Diego and 2 more. Often billed alongside Rinaly, Andy Moor and AEMI. Next up: Chin Chin Club, Amsterdam on Sat 24 Oct.
+Somna is a trance and techno artist based in Canada, with 7 gigs on soundcheck across Amsterdam, Chicago, London and San Diego and 2 more. Often billed alongside Rinaly, Andy Moor and AEMI. Next up: Basing House, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Chin Chin Club | Amsterdam |
 | Sat, 31 Oct 2026 | Basing House | London |
 
 ## Recently played
@@ -24,4 +23,4 @@ Somna is a trance and techno artist based in Canada, with 7 gigs on soundcheck a
 
 Rinaly, Andy Moor, AEMI
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somna/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somna/)*

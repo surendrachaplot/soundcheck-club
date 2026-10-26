@@ -1,8 +1,8 @@
 # Burdekin Hotel
 
-Burdekin Hotel is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Shook Thursdays Feat. Fox Bailey" on Thu, 5 Nov 2026.
+Burdekin Hotel is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Shook Thursdays Feat. Fox Bailey" on Thu, 5 Nov 2026.
 
-Burdekin Hotel is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Cece, Malux, Ohcult and Syrup Stackz. See dates, start times and who's playing. 2 Oxford St; Darlinghurst, NSW 2010; Australia.
+Burdekin Hotel is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with line-ups including Cece, Malux, Ohcult and Syrup Stackz. See dates, start times and who's playing. 2 Oxford St; Darlinghurst, NSW 2010; Australia.
 
 ## What's on
 
@@ -10,10 +10,11 @@ Burdekin Hotel is a music venue in Sydney listed on soundcheck. 3 upcoming gigs,
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Shook Thursdays Feat. Fox Bailey |  |
 | Sat, 7 Nov 2026 | SKOPE, Malux, COPYCATT & more | Cece, Malux, Ohcult, Syrup Stackz |
+| Sat, 14 Nov 2026 | Junipero |  |
 | Sat, 12 Dec 2026 | Party Hounds & Furry Events: Neuro Mad: Loud and Fear |  |
 
 ## Address
 
 2 Oxford St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*

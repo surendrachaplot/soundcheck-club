@@ -1,13 +1,15 @@
 # Slipway
 
-Slipway is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Unzip x Honeypot Present: Solarfunk" on Sat, 31 Oct 2026.
+Slipway is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Unzip x Honeypot Present: Solarfunk" on Sat, 31 Oct 2026.
 
-Slipway is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Slipway is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Jonti and Mel Blue. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Unzip x Honeypot Present: Solarfunk |  |
+| Sun, 15 Nov 2026 | Slippery Summa Sundayz with Maz |  |
+| Sat, 12 Dec 2026 | Synthfest Sydney 26 | Jonti, Mel Blue |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/slipway/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/slipway/)*

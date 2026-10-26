@@ -1,6 +1,6 @@
 # Neidex
 
-Neidex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Cross, London on Sat, 31 Oct 2026.
+Neidex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Cross, London on Sat, 31 Oct 2026.
 
 Neidex is a house and techno artist, with 36 gigs on soundcheck across London, Paris and Prague. Often billed alongside Darley, Mary X and Dolce Verde. Next up: The Cross, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Neidex is a house and techno artist, with 36 gigs on soundcheck across London, P
 
 Darley, Mary X, Dolce Verde
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neidex/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neidex/)*

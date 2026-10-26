@@ -1,6 +1,6 @@
 # YOKO aka LAiR
 
-YOKO aka LAiR is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Joule, Osaka on Tue, 29 Dec 2026.
+YOKO aka LAiR is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Joule, Osaka on Tue, 29 Dec 2026.
 
 YOKO aka LAiR is a techno and minimal techno artist based in Japan, with 39 gigs on soundcheck across Osaka and Tokyo. Often billed alongside O-MAN, Nao Nomura and Drunken Kong. Next up: Joule, Osaka on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ YOKO aka LAiR is a techno and minimal techno artist based in Japan, with 39 gigs
 
 O-MAN, Nao Nomura, Drunken Kong
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoakalair/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoakalair/)*

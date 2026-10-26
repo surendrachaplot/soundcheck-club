@@ -1,6 +1,6 @@
 # VRDS
 
-VRDS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 74 Hall, Istanbul on Sat, 21 Nov 2026.
+VRDS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 74 Hall, Istanbul on Sat, 21 Nov 2026.
 
 VRDS is a techno and industrial artist, with 14 gigs on soundcheck across Istanbul. Often billed alongside AIRCRAFT UPON TRAITORS, Epifanix and YOZÉ. Next up: 74 Hall, Istanbul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ VRDS is a techno and industrial artist, with 14 gigs on soundcheck across Istanb
 
 AIRCRAFT UPON TRAITORS, Epifanix, YOZÉ
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vrds/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vrds/)*

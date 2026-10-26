@@ -1,6 +1,6 @@
 # Friends.zone with Mister Teaser (PT) & Guests at Minimal Bar
 
-Friends.zone with Mister Teaser (PT) & Guests at Minimal Bar on Sat 23 Jan, Berlin. 1 artist: Mister Teaser. See the line-up on soundcheck.
+Friends.zone with Mister Teaser (PT) & Guests at Minimal Bar on Sat 23 Jan, Berlin. 1 artist: Mister Teaser. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

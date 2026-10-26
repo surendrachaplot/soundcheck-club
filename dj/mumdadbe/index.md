@@ -1,6 +1,6 @@
 # Mum & Dad (BE)
 
-Mum & Dad (BE) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
+Mum & Dad (BE) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
 
 Mum & Dad (BE) are a house and afro house duo based in Belgium, with 7 gigs on soundcheck across Amsterdam, Belgium, Brussels and London. Often billed alongside Jana Vitiligo, Major K and RELO4D. Next up: Cercle Royal Gaulois, Belgium on Sun 15 Nov.
 
@@ -23,4 +23,4 @@ Mum & Dad (BE) are a house and afro house duo based in Belgium, with 7 gigs on s
 
 Jana Vitiligo, Major K, RELO4D
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdadbe/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdadbe/)*

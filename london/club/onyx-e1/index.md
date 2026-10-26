@@ -1,6 +1,6 @@
 # Onyx (E1)
 
-Onyx (E1) is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Parable & Louder Halloween: Colyn, Henri Bergmann, Everything Is Art" on Fri, 30 Oct 2026.
+Onyx (E1) is a music venue in London with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Parable & Louder Halloween: Colyn, Henri Bergmann, Everything Is Art" on Fri, 30 Oct 2026.
 
 Onyx (E1) is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Bensley, Cast Lov, Clefheart and Colyn and 2 more. See dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
 
@@ -20,4 +20,4 @@ Onyx (E1) is a music venue in London listed on soundcheck. 7 upcoming gigs, with
 
 Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*

@@ -1,6 +1,6 @@
 # Kinyo
 
-Kinyo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ragacy Coffee, Hanoi on Sat, 31 Oct 2026.
+Kinyo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ragacy Coffee, Hanoi on Sat, 31 Oct 2026.
 
 Kinyo is a techno and house artist based in France, with 46 gigs on soundcheck across Hanoi. Often billed alongside Show of Force, Tok and Wai Kru. Next up: Ragacy Coffee, Hanoi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kinyo is a techno and house artist based in France, with 46 gigs on soundcheck a
 
 Show of Force, Tok (1), Wai Kru
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinyo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinyo/)*

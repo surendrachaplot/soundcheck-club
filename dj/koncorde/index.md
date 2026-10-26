@@ -1,6 +1,6 @@
 # Koncorde
 
-Koncorde is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Pawnshop, Taipei on Fri, 6 Nov 2026.
+Koncorde is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pawnshop, Taipei on Fri, 6 Nov 2026.
 
 Koncorde is a techno and experimental artist based in Taiwan, with 8 gigs on soundcheck across Taipei. Often billed alongside KINRO, MAX HUANG and Abo Abo. Next up: Pawnshop, Taipei on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Koncorde is a techno and experimental artist based in Taiwan, with 8 gigs on sou
 
 KINRO, MAX HUANG, Abo Abo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koncorde/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koncorde/)*

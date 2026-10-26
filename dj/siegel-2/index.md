@@ -1,6 +1,6 @@
 # SIEGEL (2)
 
-SIEGEL (2) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+SIEGEL (2) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 SIEGEL is a house and tech house artist based in United States of America, with 42 gigs on soundcheck across Los Angeles, Medellin, Miami and Montreal and 1 more. Often billed alongside Cami di Marzo, DIFFER and JOVIGIBS. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ SIEGEL is a house and tech house artist based in United States of America, with 
 
 Cami di Marzo, DIFFER, JOVIGIBS
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siegel-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siegel-2/)*

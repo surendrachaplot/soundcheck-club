@@ -1,6 +1,6 @@
 # Ministry Club
 
-Ministry Club is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "El Alboroto 001 presenta: franck en Medellin" on Sat, 28 Nov 2026.
+Ministry Club is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "El Alboroto 001 presenta: franck en Medellin" on Sat, 28 Nov 2026.
 
 Ministry Club is a music venue in Medellin listed on soundcheck. 3 upcoming gigs, with line-ups including franck, PALØ and SANTØS. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Ministry Club is a music venue in Medellin listed on soundcheck. 3 upcoming gigs
 | Sat, 28 Nov 2026 | franck x Maktub X OCC - Medellín | franck |
 | Mon, 7 Dec 2026 | APOKALYPSE 2026 presenta: SANTØS | PALØ, SANTØS |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/ministry-club/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/ministry-club/)*

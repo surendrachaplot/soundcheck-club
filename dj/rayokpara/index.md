@@ -1,6 +1,6 @@
 # Ray Okpara
 
-Ray Okpara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hoppetosse, Berlin on Sat, 14 Nov 2026.
+Ray Okpara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hoppetosse, Berlin on Sat, 14 Nov 2026.
 
 Ray Okpara is a house and techno artist based in Germany, with 43 gigs on soundcheck across Berlin, Frankfurt, Geneva and London and 7 more. Often billed alongside Okain, Marko Nastic and Moruki. Next up: Hoppetosse, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ray Okpara is a house and techno artist based in Germany, with 43 gigs on soundc
 
 Okain, Marko Nastic, Moruki
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rayokpara/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rayokpara/)*

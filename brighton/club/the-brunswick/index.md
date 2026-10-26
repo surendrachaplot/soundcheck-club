@@ -1,18 +1,17 @@
 # The Brunswick
 
-The Brunswick is a music venue in Brighton with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Machine Learning" on Sun, 25 Oct 2026.
+The Brunswick is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Dissent" on Fri, 20 Nov 2026.
 
-The Brunswick is a music venue in Brighton listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1 Holland Road, Hove, BN31JF.
+The Brunswick is a music venue in Brighton listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1 Holland Road, Hove, BN31JF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Machine Learning |  |
 | Fri, 20 Nov 2026 | Dissent |  |
 
 ## Address
 
 1 Holland Road, Hove, BN31JF, Brighton
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-brunswick/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-brunswick/)*

@@ -1,14 +1,13 @@
 # Concepción Huerta
 
-Concepción Huerta is a Experimental and Drone artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
+Concepción Huerta is a Experimental and Drone artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
 
-Concepción Huerta is an experimental and drone artist based in Mexico, with 36 gigs on soundcheck across Barcelona, Berlin, Guadalajara and London and 6 more. Often billed alongside Abul Mogard, Rafael Anton Irisarri and Turning Torso. Next up: TBA, Berlin on Sat 24 Oct.
+Concepción Huerta is an experimental and drone artist based in Mexico, with 36 gigs on soundcheck across Barcelona, Berlin, Guadalajara and London and 6 more. Often billed alongside Abul Mogard, Rafael Anton Irisarri and Turning Torso. Next up: Volksbühne, Berlin on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | Berlin |
 | Mon, 2 Nov 2026 | Volksbühne | Berlin |
 | Fri, 13 Nov 2026 | CHICO | Mexico City |
 | Fri, 20 Nov 2026 | CHICO | Mexico City |
@@ -28,4 +27,4 @@ Concepción Huerta is an experimental and drone artist based in Mexico, with 36 
 
 Abul Mogard, Rafael Anton Irisarri, Turning Torso
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concepcionhuerta/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concepcionhuerta/)*

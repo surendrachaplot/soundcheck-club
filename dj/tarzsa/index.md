@@ -1,6 +1,6 @@
 # Tarzsa
 
-Tarzsa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 6 Nov 2026.
+Tarzsa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 6 Nov 2026.
 
 Tarzsa is a house and techno artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 22 more. Often billed alongside Bradley Zero, Dan Shake and Joy Orbison. Next up: Angel Music Bar, Melbourne on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Tarzsa is a house and techno artist based in United Kingdom, with 89 gigs on sou
 
 Bradley Zero, Dan Shake, Joy Orbison
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*

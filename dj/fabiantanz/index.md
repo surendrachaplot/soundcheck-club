@@ -1,6 +1,6 @@
 # Fabian Tanz
 
-Fabian Tanz is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gazebo, Stockholm on Sat, 14 Nov 2026.
+Fabian Tanz is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gazebo, Stockholm on Sat, 14 Nov 2026.
 
 Fabian Tanz is an electronica and deep house artist, with 7 gigs on soundcheck across Gothenburg and Stockholm. Often billed alongside Acid Pauli, Ajaks and Bomström. Next up: Gazebo, Stockholm on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Fabian Tanz is an electronica and deep house artist, with 7 gigs on soundcheck a
 
 Acid Pauli, Ajaks, Bomström
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiantanz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiantanz/)*

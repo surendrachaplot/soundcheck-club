@@ -1,6 +1,6 @@
 # Adi
 
-Adi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Loft, Manchester on Fri, 30 Oct 2026.
+Adi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Loft, Manchester on Fri, 30 Oct 2026.
 
 Adi is a house and techno artist based in United States of America, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside DJ Rino, SVS and Unai Trotti. Next up: The Loft, Manchester on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Adi is a house and techno artist based in United States of America, with 44 gigs
 
 DJ Rino, SVS (1), Unai Trotti
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adi/)*

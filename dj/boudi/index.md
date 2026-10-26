@@ -1,6 +1,6 @@
 # Boudi
 
-Boudi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at PIP Den Haag, The Hague on Sat, 31 Oct 2026.
+Boudi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at PIP Den Haag, The Hague on Sat, 31 Oct 2026.
 
 Boudi is a house and techno artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Hamburg, Tbilisi and The Hague. Often billed alongside Boyd Schidt, Koperblond and Sevda. Next up: PIP Den Haag, The Hague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Boudi is a house and techno artist based in Netherlands, with 9 gigs on soundche
 
 Boyd Schidt, Koperblond, Sevda
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boudi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boudi/)*

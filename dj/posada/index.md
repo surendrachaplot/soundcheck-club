@@ -1,6 +1,6 @@
 # Posada
 
-Posada is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sonido Alicante, Alicante on Sat, 31 Oct 2026.
+Posada is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sonido Alicante, Alicante on Sat, 31 Oct 2026.
 
 Posada is a house and electro artist based in Colombia, with 28 gigs on soundcheck across Alicante, Barcelona, Madrid and Medellin and 1 more. Often billed alongside Elop, Lucien and Ettier. Next up: Sonido Alicante, Alicante on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Posada is a house and electro artist based in Colombia, with 28 gigs on soundche
 
 Elop, Lucien (3), Ettier
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posada/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posada/)*

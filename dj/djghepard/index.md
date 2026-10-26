@@ -1,6 +1,6 @@
 # DJ GHEPARD
 
-DJ GHEPARD is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, London on Sat, 7 Nov 2026.
+DJ GHEPARD is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, London on Sat, 7 Nov 2026.
 
 DJ GHEPARD is a club and experimental artist based in Italy, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside t0ni, gmaail and DJ Hristos. Next up: TBA, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ GHEPARD is a club and experimental artist based in Italy, with 75 gigs on sou
 
 t0ni, gmaail, DJ Hristos
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djghepard/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djghepard/)*

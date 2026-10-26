@@ -1,6 +1,6 @@
 # Major K
 
-Major K is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
+Major K is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
 
 Major K is a tech house and techno artist based in Belgium, with 18 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Judoc, Jana Vitiligo and Munay. Next up: Sol y Luna Lounge & Club, Düsseldorf on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ Major K is a tech house and techno artist based in Belgium, with 18 gigs on soun
 
 Judoc, Jana Vitiligo, Munay
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majork/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majork/)*

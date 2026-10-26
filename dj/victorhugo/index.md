@@ -1,14 +1,13 @@
 # Victor Hugo
 
-Victor Hugo is a House and Electronica artist with 23 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Sidecar, Barcelona on Sun, 25 Oct 2026.
+Victor Hugo is a House and Electronica artist with 22 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Chica Club, Barcelona on Wed, 28 Oct 2026.
 
-Victor Hugo is a house and electronica artist based in Mexico, with 95 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mexico City and 2 more. Often billed alongside INOFF, PINI and Eudald Selva. Next up: Sidecar, Barcelona on Sun 25 Oct.
+Victor Hugo is a house and electronica artist based in Mexico, with 95 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mexico City and 2 more. Often billed alongside INOFF, PINI and Eudald Selva. Next up: Chica Club, Barcelona on Wed 28 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Sidecar | Barcelona |
 | Wed, 28 Oct 2026 | Chica Club | Barcelona |
 | Sun, 1 Nov 2026 | Sidecar | Barcelona |
 | Wed, 4 Nov 2026 | Chica Club | Barcelona |
@@ -20,9 +19,11 @@ Victor Hugo is a house and electronica artist based in Mexico, with 95 gigs on s
 | Wed, 25 Nov 2026 | Chica Club | Barcelona |
 | Sun, 29 Nov 2026 | Sidecar | Barcelona |
 | Wed, 2 Dec 2026 | Chica Club | Barcelona |
+| Sun, 6 Dec 2026 | Sidecar | Barcelona |
 
 ## Recently played
 
+- Sidecar, Barcelona · Sun, 25 Oct 2026
 - Chica Club, Barcelona · Wed, 21 Oct 2026
 - Sidecar, Barcelona · Sun, 18 Oct 2026
 - Chica Club, Barcelona · Wed, 14 Oct 2026
@@ -30,10 +31,9 @@ Victor Hugo is a house and electronica artist based in Mexico, with 95 gigs on s
 - Sidecar, Barcelona · Sun, 4 Oct 2026
 - Dr. Resin Social Club, Barcelona · Thu, 1 Oct 2026
 - BUS Hexperience, Barcelona · Sun, 27 Sept 2026
-- Sidecar, Barcelona · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 INOFF, PINI, Eudald Selva
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*

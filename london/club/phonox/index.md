@@ -1,8 +1,8 @@
 # Phonox
 
-Phonox is a music venue in London with 40 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Insomnia London: Yves Tomas, Roaming Data, Lucine, Brody James" on Thu, 29 Oct 2026.
+Phonox is a music venue in London with 41 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Insomnia London: Yves Tomas, Roaming Data, Lucine, Brody James" on Thu, 29 Oct 2026.
 
-Phonox is a music venue in London listed on soundcheck. 40 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Brody James and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 41 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Phonox is a music venue in London listed on soundcheck. 40 upcoming gigs, with l
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

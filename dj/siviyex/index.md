@@ -1,6 +1,6 @@
 # Siviyex
 
-Siviyex is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bsmt 254, Toronto on Fri, 6 Nov 2026.
+Siviyex is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bsmt 254, Toronto on Fri, 6 Nov 2026.
 
 Siviyex is an electro and techno artist, with 6 gigs on soundcheck across Toronto. Often billed alongside Ciel, Sappho.XD and Acote. Next up: Bsmt 254, Toronto on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Siviyex is an electro and techno artist, with 6 gigs on soundcheck across Toront
 
 Ciel, Sappho.XD, Acote
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siviyex/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siviyex/)*

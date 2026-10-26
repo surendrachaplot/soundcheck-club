@@ -1,6 +1,6 @@
 # Rage.inald
 
-Rage.inald is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Compound, Baltimore on Fri, 30 Oct 2026.
+Rage.inald is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Compound, Baltimore on Fri, 30 Oct 2026.
 
 Rage.inald is a techno and house artist based in United States of America, with 44 gigs on soundcheck across Baltimore, New York City and Philadelphia. Often billed alongside MIRA MIRA, Raw Unkut and Pamela_ and her sons. Next up: The Compound, Baltimore on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rage.inald is a techno and house artist based in United States of America, with 
 
 MIRA MIRA, Raw Unkut, Pamela_ and her sons
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rageinald/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rageinald/)*

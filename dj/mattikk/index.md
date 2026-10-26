@@ -1,14 +1,13 @@
 # Mattikk
 
-Mattikk is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Mattikk is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 6 Nov 2026.
 
-Mattikk is a techno and ambient artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and The Hague. Often billed alongside Konduku, Tammo Hesselink and Remma. Next up: ingang, Amsterdam on Sat 24 Oct.
+Mattikk is a techno and ambient artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and The Hague. Often billed alongside Konduku, Tammo Hesselink and Remma. Next up: Tresor / Globus, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | ingang | Amsterdam |
 | Fri, 6 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Mattikk is a techno and ambient artist based in Netherlands, with 28 gigs on sou
 
 Konduku, Tammo Hesselink, Remma
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattikk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattikk/)*

@@ -1,6 +1,6 @@
 # DJ heavenly wisdom
 
-DJ heavenly wisdom is a Grime and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cakeshop, Seoul on Thu, 29 Oct 2026.
+DJ heavenly wisdom is a Grime and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cakeshop, Seoul on Thu, 29 Oct 2026.
 
 DJ heavenly wisdom is a grime and bass artist, with 5 gigs on soundcheck across Athens, London and Seoul. Often billed alongside BAAWLA, pa de haan. and AEIDA. Next up: Cakeshop, Seoul on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ DJ heavenly wisdom is a grime and bass artist, with 5 gigs on soundcheck across 
 
 BAAWLA, pa de haan., AEIDA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheavenlywisdom/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheavenlywisdom/)*

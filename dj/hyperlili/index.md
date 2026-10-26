@@ -1,6 +1,6 @@
 # HyperLili
 
-HyperLili is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
+HyperLili is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
 
 HyperLili is a techno and trance artist based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Basel, Berlin and Bordeaux and 6 more. Often billed alongside Jeans (NL), Cosmox and CyberFairy777. Next up: Zentralwäscherei, Zurich on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ HyperLili is a techno and trance artist based in Netherlands, with 56 gigs on so
 
 Jeans (NL), Cosmox, CyberFairy777
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperlili/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperlili/)*

@@ -1,6 +1,6 @@
 # Jimmy Rocket
 
-Jimmy Rocket is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Model, Nottingham on Fri, 6 Nov 2026.
+Jimmy Rocket is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Model, Nottingham on Fri, 6 Nov 2026.
 
 Jimmy Rocket is a bass and techno artist based in United Kingdom, with 16 gigs on soundcheck across Nottingham. Often billed alongside M75, Toura and Aura (UK). Next up: The Model, Nottingham on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jimmy Rocket is a bass and techno artist based in United Kingdom, with 16 gigs o
 
 M75 (1), Toura, Aura (UK)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyrocket/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyrocket/)*

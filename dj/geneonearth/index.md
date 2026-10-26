@@ -1,15 +1,13 @@
 # Gene On Earth
 
-Gene On Earth is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
+Gene On Earth is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 6 Nov 2026.
 
-Gene On Earth is a house and techno artist based in United States of America, with 223 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 63 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: RADION, Amsterdam on Sun 25 Oct.
+Gene On Earth is a house and techno artist based in United States of America, with 223 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 63 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Sekta Selekta, Krakow on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | RADION | Amsterdam |
-| Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 6 Nov 2026 | Sekta Selekta | Krakow |
 | Thu, 12 Nov 2026 | Eiger Studios | Leeds |
 | Fri, 13 Nov 2026 | The Loft | Manchester |
@@ -23,17 +21,17 @@ Gene On Earth is a house and techno artist based in United States of America, wi
 
 ## Recently played
 
+- RADION, Amsterdam · Sun, 25 Oct 2026
+- Garage Noord, Amsterdam · Sun, 25 Oct 2026
 - Pllek, Amsterdam · Thu, 22 Oct 2026
 - Distrikt, Leeds · Sat, 17 Oct 2026
 - DURO, Milan · Fri, 16 Oct 2026
 - DURO, Milan · Fri, 16 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
 - Les Beaux-Arts de Marseille - Inseamm., Marseille · Fri, 9 Oct 2026
-- Flash, Washington DC · Sun, 27 Sept 2026
-- Fünk, Mexico City · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 The Ghost, Dyed Soundorom, tINI
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

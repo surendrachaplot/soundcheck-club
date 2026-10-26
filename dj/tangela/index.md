@@ -1,6 +1,6 @@
 # Tangela
 
-Tangela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Haven, Byron-bay on Sat, 31 Oct 2026.
+Tangela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Haven, Byron-bay on Sat, 31 Oct 2026.
 
 Tangela is a techno and house artist based in Australia, with 125 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside amuwa, Command D and Kia (AU). Next up: Haven, Byron Bay on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tangela is a techno and house artist based in Australia, with 125 gigs on soundc
 
 amuwa, Command D (1), Kia (AU)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*

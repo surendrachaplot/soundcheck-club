@@ -1,6 +1,6 @@
 # Footscray Community Arts Centre
 
-Footscray Community Arts Centre is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "RONA. & Triple R present: Everywhen" on Sat, 5 Dec 2026.
+Footscray Community Arts Centre is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "RONA. & Triple R present: Everywhen" on Sat, 5 Dec 2026.
 
 Footscray Community Arts Centre is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Naycab, RONA. and Yikes. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Footscray Community Arts Centre is a music venue in Melbourne listed on soundche
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | RONA. & Triple R present: Everywhen | Naycab, RONA., Yikes |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/footscray-community-arts-centre/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/footscray-community-arts-centre/)*

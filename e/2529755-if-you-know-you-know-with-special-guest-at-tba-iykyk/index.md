@@ -1,6 +1,6 @@
 # If You Know You Know with Special Guest at TBA - IYKYK 
 
-If You Know You Know with Special Guest at TBA - IYKYK  on Fri 27 Nov, Los Angeles. House and Minimal. See the line-up on soundcheck.
+If You Know You Know with Special Guest at TBA - IYKYK  on Fri 27 Nov, Los Angeles. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

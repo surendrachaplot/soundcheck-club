@@ -1,6 +1,6 @@
 # Fållan
 
-Fållan is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "stockholm 4 ever 2.0" on Sat, 21 Nov 2026.
+Fållan is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "stockholm 4 ever 2.0" on Sat, 21 Nov 2026.
 
 Fållan is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including JAMIIE and Major League Djz. See dates, start times and who's playing. Fållan 10, 12161, Stockholm.
 
@@ -15,4 +15,4 @@ Fållan is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, wit
 
 Fållan 10, 12161, Stockholm, Stockholm
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/f-llan/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/f-llan/)*

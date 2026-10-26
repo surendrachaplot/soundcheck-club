@@ -1,6 +1,6 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Legal, Munich on Fri, 30 Oct 2026.
+Katia Curie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Legal, Munich on Fri, 30 Oct 2026.
 
 Katia Curie is a house and techno artist based in Ukraine, with 127 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 24 more. Often billed alongside Nizar Sarakbi, KATIA and vince. Next up: Legal, Munich on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Katia Curie is a house and techno artist based in Ukraine, with 127 gigs on soun
 
 Nizar Sarakbi, KATIA, vince
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*

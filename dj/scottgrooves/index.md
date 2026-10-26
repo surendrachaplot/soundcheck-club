@@ -1,14 +1,13 @@
 # Scott Grooves
 
-Scott Grooves is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
+Scott Grooves is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - down by the water, Montreal on Sat, 31 Oct 2026.
 
-Scott Grooves is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Adelaide, Berlin, Detroit and Dortmund / Essen and 4 more. Often billed alongside Alton Miller, Andrés and DJ Cent. Next up: Marble Bar, Detroit on Sat 24 Oct.
+Scott Grooves is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Adelaide, Berlin, Detroit and Dortmund / Essen and 4 more. Often billed alongside Alton Miller, Andrés and DJ Cent. Next up: TBA - down by the water, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Marble Bar | Detroit |
 | Sat, 31 Oct 2026 | TBA - down by the water | Montreal |
 
 ## Recently played
@@ -26,4 +25,4 @@ Scott Grooves is a house and techno artist based in United States of America, wi
 
 Alton Miller, Andrés, DJ Cent
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottgrooves/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottgrooves/)*

@@ -1,6 +1,6 @@
 # Sg
 
-Sg is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at SIX Feet Under, Cardiff on Fri, 30 Oct 2026.
+Sg is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at SIX Feet Under, Cardiff on Fri, 30 Oct 2026.
 
 Sg is a tech house and techno artist, with 7 gigs on soundcheck across Cardiff, Manchester, Melbourne and Paris and 1 more. Often billed alongside FINTEK, TEMPER TANTRA and Alic. Next up: SIX Feet Under, Cardiff on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Sg is a tech house and techno artist, with 7 gigs on soundcheck across Cardiff, 
 
 FINTEK, TEMPER TANTRA, Alic
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sg/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sg/)*

@@ -1,6 +1,6 @@
 # pruefunke
 
-pruefunke is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at MS Stubnitz, Hamburg on Fri, 13 Nov 2026.
+pruefunke is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at MS Stubnitz, Hamburg on Fri, 13 Nov 2026.
 
 pruefunke is a drum & bass and bass artist, with 11 gigs on soundcheck across Hamburg and Leipzig. Often billed alongside SUNS, nili8 and Eightball. Next up: MS Stubnitz, Hamburg on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ pruefunke is a drum & bass and bass artist, with 11 gigs on soundcheck across Ha
 
 SUNS, nili8, Eightball
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pruefunke/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pruefunke/)*

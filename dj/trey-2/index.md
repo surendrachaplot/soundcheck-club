@@ -1,6 +1,6 @@
 # TREY (2)
 
-TREY (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Solace, Melbourne on Sat, 31 Oct 2026.
+TREY (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Solace, Melbourne on Sat, 31 Oct 2026.
 
 TREY is a house and techno artist, with 5 gigs on soundcheck across Melbourne. Often billed alongside Pvrtal, FAF and Afrodisiac. Next up: Solace, Melbourne on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ TREY is a house and techno artist, with 5 gigs on soundcheck across Melbourne. O
 
 Pvrtal, FAF (1), Afrodisiac
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trey-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trey-2/)*

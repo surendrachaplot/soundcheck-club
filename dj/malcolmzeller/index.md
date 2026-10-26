@@ -1,6 +1,6 @@
 # Malcolm Zeller
 
-Malcolm Zeller is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
+Malcolm Zeller is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
 
 Malcolm Zeller is a tech house and house artist based in United States of America, with 15 gigs on soundcheck across Chicago, Miami, New York City and Washington DC. Often billed alongside Malone, Calussa and HoneyLuv. Next up: Factory Town, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Malcolm Zeller is a tech house and house artist based in United States of Americ
 
 Malone, Calussa, HoneyLuv
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmzeller/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmzeller/)*

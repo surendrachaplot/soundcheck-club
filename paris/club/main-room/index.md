@@ -1,6 +1,6 @@
 # main room
 
-main room is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Pluko" on Thu, 29 Oct 2026.
+main room is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Pluko" on Thu, 29 Oct 2026.
 
 main room is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -15,4 +15,4 @@ main room is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See d
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/main-room/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/main-room/)*

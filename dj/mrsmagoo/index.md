@@ -1,6 +1,6 @@
 # Mrs Magoo
 
-Mrs Magoo is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hootananny Brixton, London on Sat, 12 Dec 2026.
+Mrs Magoo is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hootananny Brixton, London on Sat, 12 Dec 2026.
 
 Mrs Magoo is a jungle and drum & bass artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brisbane and 6 more. Often billed alongside DJ Brockie, DJ Rap and Deefa. Next up: Hootananny Brixton, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Mrs Magoo is a jungle and drum & bass artist based in United Kingdom, with 27 gi
 
 DJ Brockie, DJ Rap, Deefa
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrsmagoo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrsmagoo/)*

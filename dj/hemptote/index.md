@@ -1,6 +1,6 @@
 # HEMPTOTE
 
-HEMPTOTE is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gate Milano, Milan on Sat, 14 Nov 2026.
+HEMPTOTE is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gate Milano, Milan on Sat, 14 Nov 2026.
 
 HEMPTOTE is a techno artist based in Italy, with 46 gigs on soundcheck across Berlin, Bristol, Florence and Milan. Often billed alongside Pura Solenne, LELE INOS and KREATHVRE. Next up: Gate Milano, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ HEMPTOTE is a techno artist based in Italy, with 46 gigs on soundcheck across Be
 
 Pura Solenne, LELE INOS, KREATHVRE
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemptote/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemptote/)*

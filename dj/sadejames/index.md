@@ -1,6 +1,6 @@
 # Sade James
 
-Sade James is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mood Ring, New York City on Wed, 18 Nov 2026.
+Sade James is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mood Ring, New York City on Wed, 18 Nov 2026.
 
 Sade James is a club and ghetto tech artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside Lil Zé, Djavan Guy and Love Higher. Next up: Mood Ring, New York City on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Sade James is a club and ghetto tech artist based in United States of America, w
 
 Lil Zé, Djavan Guy, Love Higher
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sadejames/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sadejames/)*

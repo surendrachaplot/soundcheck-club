@@ -1,6 +1,6 @@
 # A.Wild
 
-A.Wild is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Love Inn, Bristol on Thu, 29 Oct 2026.
+A.Wild is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Love Inn, Bristol on Thu, 29 Oct 2026.
 
 A.Wild is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Bristol, London and New York City. Often billed alongside Luca and Sol, Edward and Acid Sally. Next up: The Love Inn, Bristol on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ A.Wild is a house and techno artist based in United Kingdom, with 13 gigs on sou
 
 Luca and Sol, Edward, Acid Sally
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.wild/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.wild/)*

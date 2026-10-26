@@ -1,6 +1,6 @@
 # MEMP3
 
-MEMP3 is a Dub Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Love Inn, Bristol on Thu, 29 Oct 2026.
+MEMP3 is a Dub Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Love Inn, Bristol on Thu, 29 Oct 2026.
 
 MEMP3 is a dub techno and house artist based in United Kingdom, with 31 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside AdomasLP, Tommy Cross and Ruf Dug. Next up: The Love Inn, Bristol on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ MEMP3 is a dub techno and house artist based in United Kingdom, with 31 gigs on 
 
 AdomasLP, Tommy Cross, Ruf Dug
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memp3/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memp3/)*

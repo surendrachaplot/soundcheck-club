@@ -1,6 +1,6 @@
 # TORTE BAR
 
-TORTE BAR is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "SLIME x OAXIS" on Wed, 28 Oct 2026.
+TORTE BAR is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "SLIME x OAXIS" on Wed, 28 Oct 2026.
 
 TORTE BAR is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Chaosmos, Chris Video, Kidcat and lavv and 1 more. See dates, start times and who's playing. Brusendorferstraße 11-12, Siegfried-Aufhäuser Platz, 12055 Berlin.
 
@@ -15,4 +15,4 @@ TORTE BAR is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with
 
 Brusendorferstraße 11-12, Siegfried-Aufhäuser Platz, 12055 Berlin, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/torte-bar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/torte-bar/)*

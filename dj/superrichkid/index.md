@@ -1,6 +1,6 @@
 # superrichkid
 
-superrichkid is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Azumaya, Tokyo on Mon, 26 Oct 2026.
+superrichkid is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Azumaya, Tokyo on Mon, 26 Oct 2026.
 
 superrichkid is a techno and hip-hop artist, with 5 gigs on soundcheck across Tokyo. Often billed alongside JUN INAGAWA, roomquake and Romy Mats. Next up: Azumaya, Tokyo on Mon 26 Oct.
 
@@ -21,4 +21,4 @@ superrichkid is a techno and hip-hop artist, with 5 gigs on soundcheck across To
 
 JUN INAGAWA, roomquake, Romy Mats
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superrichkid/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superrichkid/)*

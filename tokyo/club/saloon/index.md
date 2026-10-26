@@ -1,6 +1,6 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "GURUGURU" on Thu, 29 Oct 2026.
+Saloon is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "GURUGURU" on Thu, 29 Oct 2026.
 
 Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including AI, AJA, ALPHA and arpxp and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
@@ -22,4 +22,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with lin
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

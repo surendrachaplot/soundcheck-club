@@ -1,14 +1,13 @@
 # Mitrimar
 
-Mitrimar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - 333, New York City on Sat, 24 Oct 2026.
+Mitrimar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
-Mitrimar is a house and techno artist, with 9 gigs on soundcheck across New York City. Often billed alongside Woreq, Armii1n and Bruno Schmidt. Next up: TBA - 333, New York City on Sat 24 Oct.
+Mitrimar is a house and techno artist, with 9 gigs on soundcheck across New York City. Often billed alongside Woreq, Armii1n and Bruno Schmidt. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA - 333 | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Mitrimar is a house and techno artist, with 9 gigs on soundcheck across New York
 
 Woreq, Armii1n, Bruno Schmidt
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitrimar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitrimar/)*

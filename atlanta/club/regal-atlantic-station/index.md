@@ -1,6 +1,6 @@
 # Regal Atlantic Station
 
-Regal Atlantic Station is a music venue in Atlanta with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "CLUB KID – Nightlife Community Movie Screening (Atlanta)" on Tue, 27 Oct 2026.
+Regal Atlantic Station is a music venue in Atlanta with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "CLUB KID – Nightlife Community Movie Screening (Atlanta)" on Tue, 27 Oct 2026.
 
 Regal Atlantic Station is a music venue in Atlanta listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Regal Atlantic Station is a music venue in Atlanta listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | CLUB KID – Nightlife Community Movie Screening (Atlanta) |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/regal-atlantic-station/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/regal-atlantic-station/)*

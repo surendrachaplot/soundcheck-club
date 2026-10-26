@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "EFFIE & Eurohead" on Thu, 29 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "EFFIE & Eurohead" on Thu, 29 Oct 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including ACHIRI, ACKERMAN, Acrocanthosaurus and AI and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -14,7 +14,7 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, w
 | Mon, 2 Nov 2026 | CULTURE SHIT RECORDS VOL.4 1 YEAR ANNIVERSARY | ACHIRI, ISSA, Lamine, MoEPiKA, Sugar and Spice, YUVIE, nasthug |
 | Tue, 3 Nov 2026 | (DnB) Formula Tokyo show by Beginning | Formula LDN, SAKO |
 | Fri, 6 Nov 2026 | VIVID H34RTS | Iga, Number Collector, Xamd, Yoyou, aryy, kegøn, lazydoll |
-| Sat, 7 Nov 2026 | BINARY VOL.30 RELEASE PARTY feat. Kasra | Azumai, Fonts, Kasra |
+| Sat, 7 Nov 2026 | Criritical Sound Japan 2026 | Azumai, Fonts, Kasra |
 | Sun, 8 Nov 2026 | HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW | ACKERMAN (2), HEAVEN'S GATE CREW, nabii |
 | Sat, 14 Nov 2026 | Explosive in Tokyo | Coretex, Dustvoxx, Dynamax, Hayate (2) |
 | Sun, 15 Nov 2026 | LYNY Tokyo show | SAKO |
@@ -23,4 +23,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, w
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

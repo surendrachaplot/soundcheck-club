@@ -1,6 +1,6 @@
 # Auntie Flo
 
-Auntie Flo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Truman Brewery Multiple Venues, London on Fri, 23 Apr 2027.
+Auntie Flo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Truman Brewery Multiple Venues, London on Fri, 23 Apr 2027.
 
 Auntie Flo is a house and electronica artist based in United Kingdom, with 31 gigs on soundcheck across Barcelona, Berlin, Bristol and Dundee and 7 more. Often billed alongside Austin Ato, Hobbes and Jacksonville. Next up: Truman Brewery Multiple Venues, London on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Auntie Flo is a house and electronica artist based in United Kingdom, with 31 gi
 
 Austin Ato, Hobbes, Jacksonville
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieflo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieflo/)*

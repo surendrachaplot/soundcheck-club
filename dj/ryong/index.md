@@ -1,6 +1,6 @@
 # Ryong
 
-Ryong is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 31 Oct 2026.
+Ryong is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 31 Oct 2026.
 
 Ryong is an experimental and club artist based in Denmark, with 39 gigs on soundcheck across Berlin, Copenhagen, Osaka and Seoul and 2 more. Often billed alongside Croatian Amor, Franarchy and Soli City. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ryong is an experimental and club artist based in Denmark, with 39 gigs on sound
 
 Croatian Amor, Franarchy, Soli City
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryong/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryong/)*

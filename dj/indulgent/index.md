@@ -1,6 +1,6 @@
 # indulgent
 
-indulgent is a Afro House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at KW Studios, Vancouver on Sat, 31 Oct 2026.
+indulgent is a Afro House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KW Studios, Vancouver on Sat, 31 Oct 2026.
 
 indulgent is an afro house and dancehall artist, with 6 gigs on soundcheck across Vancouver. Often billed alongside Abasi, DJ Hannah and Kozue. Next up: KW Studios, Vancouver on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ indulgent is an afro house and dancehall artist, with 6 gigs on soundcheck acros
 
 Abasi, DJ Hannah, Kozue
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indulgent/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indulgent/)*

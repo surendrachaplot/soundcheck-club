@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "mOZ // VLAD PHANGAN" on Fri, 30 Oct 2026.
+Teritorija is a music venue in Riga with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "mOZ // VLAD PHANGAN" on Fri, 30 Oct 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 7 upcoming gigs, with line-ups including ANASI, Esoniq, Existal and Kelvin and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -20,4 +20,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 7 upcoming gigs, with 
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

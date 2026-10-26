@@ -1,8 +1,8 @@
 # Wonja
 
-Wonja is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Sat, 31 Oct 2026.
+Wonja is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Wonja is a techno and bass artist, with 27 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside llloyd (US), suade (US) and Akanbi. Next up: Bar Part Time, San Francisco/Oakland on Sat 31 Oct.
+Wonja is a techno and bass artist based in United States of America, with 27 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside llloyd (US), suade (US) and Akanbi. Next up: Bar Part Time, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Wonja is a techno and bass artist, with 27 gigs on soundcheck across New York Ci
 
 llloyd (US), suade (US), Akanbi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wonja/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wonja/)*

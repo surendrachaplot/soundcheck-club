@@ -1,6 +1,6 @@
 # Tresor.West
 
-Tresor.West is a music venue in Dortmund / Essen with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Halloween" on Sat, 31 Oct 2026.
+Tresor.West is a music venue in Dortmund / Essen with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Halloween" on Sat, 31 Oct 2026.
 
 Tresor.West is a music venue in Dortmund / Essen listed on soundcheck. 2 upcoming gigs, with line-ups including Ahmet Sisman, Alice in Flames, Aöcram and Benjamin Damage and 2 more. See dates, start times and who's playing. Phoenixplatz 4, 44263 Dortmund.
 
@@ -15,4 +15,4 @@ Tresor.West is a music venue in Dortmund / Essen listed on soundcheck. 2 upcomin
 
 Phoenixplatz 4, 44263 Dortmund, Dortmund / Essen
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/tresor-west/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/tresor-west/)*

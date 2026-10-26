@@ -1,6 +1,6 @@
 # flotussin
 
-flotussin is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Paragon, New York City on Sat, 14 Nov 2026.
+flotussin is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Paragon, New York City on Sat, 14 Nov 2026.
 
 flotussin is a club and techno artist based in United States of America, with 101 gigs on soundcheck across Atlanta, Baltimore, Chicago and Dallas/Fort Worth and 9 more. Often billed alongside Tromac, DJ-SUN and Kotic Couture. Next up: Paragon, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ flotussin is a club and techno artist based in United States of America, with 10
 
 Tromac, DJ-SUN, Kotic Couture
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*

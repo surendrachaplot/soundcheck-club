@@ -1,6 +1,6 @@
 # Mareeo
 
-Mareeo is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Altrove, Milan on Sat, 31 Oct 2026.
+Mareeo is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Altrove, Milan on Sat, 31 Oct 2026.
 
 Mareeo is a techno and club artist, with 14 gigs on soundcheck across Milan and Paris. Often billed alongside Broke One, Miss Jay (RO) and Saint Ludo. Next up: Altrove, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mareeo is a techno and club artist, with 14 gigs on soundcheck across Milan and 
 
 Broke One, Miss Jay (RO), Saint Ludo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareeo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareeo/)*

@@ -1,6 +1,6 @@
 # Ondrej K
 
-Ondrej K is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Sky Lounge 360, Prague on Fri, 30 Oct 2026.
+Ondrej K is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sky Lounge 360, Prague on Fri, 30 Oct 2026.
 
 Ondrej K is a house and techno artist based in Czech Republic, with 79 gigs on soundcheck across Prague. Often billed alongside Identic, Hugorieri and DJ Lumiere. Next up: Sky Lounge 360, Prague on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Ondrej K is a house and techno artist based in Czech Republic, with 79 gigs on s
 
 Identic, Hugorieri, DJ Lumiere
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejk/)*

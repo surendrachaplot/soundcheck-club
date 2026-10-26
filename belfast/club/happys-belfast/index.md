@@ -1,6 +1,6 @@
 # Happys Belfast
 
-Happys Belfast is a music venue in Belfast with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "TEMPO TUUUESDAYS: HARDHOUSE HALLOWEEN" on Tue, 27 Oct 2026.
+Happys Belfast is a music venue in Belfast with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "TEMPO TUUUESDAYS: HARDHOUSE HALLOWEEN" on Tue, 27 Oct 2026.
 
 Happys Belfast is a music venue in Belfast listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 149 Lisburn Road, Belfast, BT9 7AJ.
 
@@ -15,4 +15,4 @@ Happys Belfast is a music venue in Belfast listed on soundcheck. 2 upcoming gigs
 
 149 Lisburn Road, Belfast, BT9 7AJ, Belfast
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/happys-belfast/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/happys-belfast/)*

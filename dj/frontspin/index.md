@@ -1,6 +1,6 @@
 # Frontspin
 
-Frontspin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 11 Nov 2026.
+Frontspin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 11 Nov 2026.
 
 Frontspin is a techno and electro artist based in Germany, with 8 gigs on soundcheck across Berlin and Dortmund / Essen. Often billed alongside dj uglyyy, Mariami and Paul Claude. Next up: Tresor / Globus, Berlin on Wed 11 Nov.
 
@@ -24,4 +24,4 @@ Frontspin is a techno and electro artist based in Germany, with 8 gigs on soundc
 
 dj uglyyy, Mariami, Paul Claude
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frontspin/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frontspin/)*

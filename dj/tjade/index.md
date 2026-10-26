@@ -1,6 +1,6 @@
 # Tjade
 
-Tjade is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Colour Factory, London on Fri, 20 Nov 2026.
+Tjade is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Colour Factory, London on Fri, 20 Nov 2026.
 
 Tjade is a house and techno artist based in Netherlands, with 128 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 21 more. Often billed alongside Lucky Done Gone, Moody Mehran and Bella Claxton. Next up: Colour Factory, London on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Tjade is a house and techno artist based in Netherlands, with 128 gigs on soundc
 
 Lucky Done Gone, Moody Mehran, Bella Claxton
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*

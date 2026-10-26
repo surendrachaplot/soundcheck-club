@@ -1,6 +1,6 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "RATHAUS HALLOWEEN" on Sat, 31 Oct 2026.
+The Sound House is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "RATHAUS HALLOWEEN" on Sat, 31 Oct 2026.
 
 The Sound House is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Girls of the Internet, JACK MARLOW, Máthair and MAV666 and 2 more. See dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
@@ -21,4 +21,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 8 upcoming gigs
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

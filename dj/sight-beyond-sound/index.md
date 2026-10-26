@@ -1,6 +1,6 @@
 # Sight -Beyond- Sound
 
-Sight -Beyond- Sound is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bastet, Philadelphia on Fri, 30 Oct 2026.
+Sight -Beyond- Sound is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bastet, Philadelphia on Fri, 30 Oct 2026.
 
 Sight -Beyond- Sound is a house and techno artist based in United States of America, with 37 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Christian Tokyo, BlckTeeth and DJ Dommis. Next up: Bastet, Philadelphia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sight -Beyond- Sound is a house and techno artist based in United States of Amer
 
 Christian Tokyo, BlckTeeth, DJ Dommis
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sight-beyond-sound/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sight-beyond-sound/)*

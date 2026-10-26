@@ -1,6 +1,6 @@
 # Zuzana Hakl
 
-Zuzana Hakl is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 14 Nov 2026.
+Zuzana Hakl is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 14 Nov 2026.
 
 Zuzana Hakl is a techno and electro artist based in Czech Republic, with 72 gigs on soundcheck across Bratislava, Lisbon, Prague and Wroclaw. Often billed alongside TerminusTechnikus, Epoché and SJ Yellow. Next up: Ankali & Planeta Za, Prague on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Zuzana Hakl is a techno and electro artist based in Czech Republic, with 72 gigs
 
 TerminusTechnikus, Epoché, SJ Yellow
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzanahakl/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzanahakl/)*

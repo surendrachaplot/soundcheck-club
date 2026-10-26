@@ -1,6 +1,6 @@
 # Yan (CZ)
 
-Yan (CZ) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 6 Nov 2026.
+Yan (CZ) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 6 Nov 2026.
 
 Yan (CZ) is a techno and trance artist based in Czech Republic, with 105 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bratislava and 16 more. Often billed alongside Alfred Czital, Dash (CZ) and Raleigh. Next up: Ankali & Planeta Za, Prague on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Yan (CZ) is a techno and trance artist based in Czech Republic, with 105 gigs on
 
 Alfred Czital, Dash (CZ), Raleigh
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yan-cz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yan-cz/)*

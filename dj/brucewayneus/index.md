@@ -1,14 +1,16 @@
 # Bruce Wayne (US)
 
-Bruce Wayne (US) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hotel Chantelle, New York City on Fri, 30 Oct 2026.
+Bruce Wayne (US) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Hotel Chantelle, New York City on Fri, 30 Oct 2026.
 
-Bruce Wayne (US) is a house and techno artist based in United States of America, with 28 gigs on soundcheck across New York City. Often billed alongside IgP, KRAVE and MP LOVE. Next up: Hotel Chantelle, New York City on Fri 30 Oct.
+Bruce Wayne (US) is a house and techno artist based in United States of America, with 30 gigs on soundcheck across New York State and New York City. Often billed alongside IgP, KRAVE and MP LOVE. Next up: Hotel Chantelle, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Hotel Chantelle | New York City |
+| Sun, 8 Nov 2026 | 1 Hotel Brooklyn Bridge | New-york-state |
+| Sun, 8 Nov 2026 | 1 Hotel Brooklyn Bridge | New-york-state |
 | Thu, 19 Nov 2026 | SILO | New York City |
 
 ## Recently played
@@ -26,4 +28,4 @@ Bruce Wayne (US) is a house and techno artist based in United States of America,
 
 IgP (1), KRAVE, MP LOVE
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brucewayneus/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brucewayneus/)*

@@ -1,6 +1,6 @@
 # Dj Kuschelschal
 
-Dj Kuschelschal is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
+Dj Kuschelschal is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
 
 Dj Kuschelschal is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin, Cologne and Frankfurt. Often billed alongside ARPL, BENITO (DE) and Bellville. Next up: Odonien, Cologne on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Dj Kuschelschal is a techno and trance artist based in Germany, with 4 gigs on s
 
 ARPL, BENITO (DE), Bellville
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkuschelschal/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkuschelschal/)*

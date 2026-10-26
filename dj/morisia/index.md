@@ -1,6 +1,6 @@
 # Morisia
 
-Morisia is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Studio dB, Berlin on Fri, 13 Nov 2026.
+Morisia is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Studio dB, Berlin on Fri, 13 Nov 2026.
 
 Morisia is a house and club artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Nikklaas, Better Call Paul and 7ommes. Next up: Studio dB, Berlin on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Morisia is a house and club artist based in Germany, with 7 gigs on soundcheck a
 
 Nikklaas, Better Call Paul, 7ommes
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morisia/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morisia/)*

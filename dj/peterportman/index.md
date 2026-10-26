@@ -1,13 +1,14 @@
 # Peter Portman
 
-Peter Portman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ložionica, Belgrade on Sat, 21 Nov 2026.
+Peter Portman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Vienna on Sat, 31 Oct 2026.
 
-Peter Portman is a house and techno artist based in Serbia, with 19 gigs on soundcheck across Beijing, Belgrade, Chengdu and Shanghai and 1 more. Often billed alongside Dejan Milicevic, Mancha and Gostoja. Next up: Ložionica, Belgrade on Sat 21 Nov.
+Peter Portman is a house and techno artist based in Serbia, with 20 gigs on soundcheck across Beijing, Belgrade, Chengdu and Shanghai and 1 more. Often billed alongside Dejan Milicevic, Mancha and Anni Herzer. Next up: TBA, Vienna on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | TBA | Vienna |
 | Sat, 21 Nov 2026 | Ložionica | Belgrade |
 
 ## Recently played
@@ -23,6 +24,6 @@ Peter Portman is a house and techno artist based in Serbia, with 19 gigs on soun
 
 ## Shares bills with
 
-Dejan Milicevic, Mancha, Gostoja
+Dejan Milicevic, Mancha, Anni Herzer
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterportman/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterportman/)*

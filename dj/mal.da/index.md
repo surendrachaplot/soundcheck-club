@@ -1,6 +1,6 @@
 # Mal.Da
 
-Mal.Da is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Slot, Hamburg on Sat, 7 Nov 2026.
+Mal.Da is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Slot, Hamburg on Sat, 7 Nov 2026.
 
 Mal.Da is a techno and hip-hop artist based in Germany, with 13 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Kenji Tanaka, el Capitan and Asem Shama. Next up: Slot, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mal.Da is a techno and hip-hop artist based in Germany, with 13 gigs on soundche
 
 Kenji Tanaka, el Capitan, Asem Shama
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mal.da/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mal.da/)*

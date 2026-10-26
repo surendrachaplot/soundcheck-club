@@ -1,6 +1,6 @@
 # Areola Grande Latte
 
-Areola Grande Latte is a Acid and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Spread Eagle, London on Sat, 31 Oct 2026.
+Areola Grande Latte is a Acid and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Spread Eagle, London on Sat, 31 Oct 2026.
 
 Areola Grande Latte is an acid and hip-hop artist based in United Kingdom, with 13 gigs on soundcheck across Brighton and London. Often billed alongside Michelle Manetti, Bil-Sol and Florence.. Next up: The Spread Eagle, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Areola Grande Latte is an acid and hip-hop artist based in United Kingdom, with 
 
 Michelle Manetti, Bil-Sol, Florence.
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/areolagrandelatte/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/areolagrandelatte/)*

@@ -1,6 +1,6 @@
 # Luz De Gas
 
-Luz De Gas is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Nacar Club curated by Brunch Electronik / Agents Of Time" on Sat, 7 Nov 2026.
+Luz De Gas is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Nacar Club curated by Brunch Electronik / Agents Of Time" on Sat, 7 Nov 2026.
 
 Luz De Gas is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Agents Of Time, Âme, JAMIIE and LIZA.. See dates, start times and who's playing. Carrer de Muntaner, 246, 08021 Barcelona.
 
@@ -16,4 +16,4 @@ Luz De Gas is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, 
 
 Carrer de Muntaner, 246, 08021 Barcelona, Barcelona
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*

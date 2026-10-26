@@ -1,6 +1,6 @@
 # Gareden
 
-Gareden is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Secret Villa Munich, Baden-w-rttemberg on Sat, 31 Oct 2026.
+Gareden is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Secret Villa Munich, Baden-w-rttemberg on Sat, 31 Oct 2026.
 
 Gareden is a house and club artist based in Germany, with 5 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Cologne. Often billed alongside Black Box, ZARE and Ginchy. Next up: Secret Villa Munich, Baden W Rttemberg on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Gareden is a house and club artist based in Germany, with 5 gigs on soundcheck a
 
 Black Box, ZARE, Ginchy
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gareden/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gareden/)*

@@ -1,6 +1,6 @@
 # Osunlade
 
-Osunlade is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Salon Daomé, Montreal on Fri, 6 Nov 2026.
+Osunlade is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Salon Daomé, Montreal on Fri, 6 Nov 2026.
 
 Osunlade is a house and deep house artist based in Greece, with 85 gigs on soundcheck across Adelaide, Atlanta, Baltimore and Berlin and 26 more. Often billed alongside Kyri R2, Natasha Diggs and Kapela. Next up: Salon Daomé, Montreal on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Osunlade is a house and deep house artist based in Greece, with 85 gigs on sound
 
 Kyri R2, Natasha Diggs, Kapela
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osunlade/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osunlade/)*

@@ -1,8 +1,8 @@
 # Aya (2)
 
-Aya (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hertz, Seoul on Sat, 31 Oct 2026.
+Aya (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hertz, Seoul on Sat, 31 Oct 2026.
 
-Aya is a techno and house artist, with 30 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Kuala Lumpur and 3 more. Often billed alongside HAAN A., sho&tell and Amber H. Next up: Hertz, Seoul on Sat 31 Oct.
+Aya is a techno and house artist based in Japan, with 30 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Kuala Lumpur and 3 more. Often billed alongside HAAN A., sho&tell and Amber H. Next up: Hertz, Seoul on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Aya is a techno and house artist, with 30 gigs on soundcheck across Bangkok, Han
 
 HAAN A., sho&tell, Amber H
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aya-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aya-2/)*

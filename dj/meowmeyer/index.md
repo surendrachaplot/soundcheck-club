@@ -1,6 +1,6 @@
 # meowmeyer
 
-meowmeyer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at elipamanoke, Leipzig on Fri, 20 Nov 2026.
+meowmeyer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at elipamanoke, Leipzig on Fri, 20 Nov 2026.
 
 meowmeyer is a techno and trance artist based in Germany, with 6 gigs on soundcheck across Leipzig. Often billed alongside DIRTY YOUTH, Plateau Bitch and Acid Goldee. Next up: elipamanoke, Leipzig on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ meowmeyer is a techno and trance artist based in Germany, with 6 gigs on soundch
 
 DIRTY YOUTH, Plateau Bitch, Acid Goldee
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meowmeyer/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meowmeyer/)*

@@ -1,6 +1,6 @@
 # Anika Kunst
 
-Anika Kunst is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Moog Club, Barcelona on Wed, 4 Nov 2026.
+Anika Kunst is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Moog Club, Barcelona on Wed, 4 Nov 2026.
 
 Anika Kunst is a techno and acid artist based in Spain, with 135 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 23 more. Often billed alongside Stojche, Ben Sims and Tasha. Next up: Moog Club, Barcelona on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Anika Kunst is a techno and acid artist based in Spain, with 135 gigs on soundch
 
 Stojche, Ben Sims, Tasha
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*

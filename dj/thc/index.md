@@ -1,6 +1,6 @@
 # THC
 
-THC is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at FOLD, London on Sat, 31 Oct 2026.
+THC is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at FOLD, London on Sat, 31 Oct 2026.
 
 THC is a house and techno artist based in Colombia, with 222 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: FOLD, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ THC is a house and techno artist based in Colombia, with 222 gigs on soundcheck 
 
 DHC, S-candalo, Byron Yeates
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*

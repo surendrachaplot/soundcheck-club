@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Julian Anthony is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Julian Anthony is a house and tech house artist based in Netherlands, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 34 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -30,4 +30,4 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 161 g
 
 Laidlaw, Voigtmann, Reeshy
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

@@ -1,6 +1,6 @@
 # Michelle Varsalona
 
-Michelle Varsalona is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Superlove, Milan on Thu, 29 Oct 2026.
+Michelle Varsalona is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Superlove, Milan on Thu, 29 Oct 2026.
 
 Michelle Varsalona is a techno and hardcore artist based in Italy, with 11 gigs on soundcheck across Milan and Turin. Often billed alongside ASURA., ANKKH and ATTA__DJ. Next up: Superlove, Milan on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Michelle Varsalona is a techno and hardcore artist based in Italy, with 11 gigs 
 
 ASURA., ANKKH, ATTA__DJ
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellevarsalona/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellevarsalona/)*

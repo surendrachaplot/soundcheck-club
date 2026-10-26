@@ -1,6 +1,6 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Dubstep artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
 
 Lens is a drum & bass and dubstep artist based in United Kingdom, with 34 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 23 more. Often billed alongside Degs, Mozey and Oppidan. Next up: Mina Museum, Cluj Napoca on Sat 7 Nov.
 
@@ -34,4 +34,4 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 34 gigs o
 
 Degs, Mozey, Oppidan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*

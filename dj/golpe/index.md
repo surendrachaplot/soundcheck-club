@@ -1,6 +1,6 @@
 # Golpe
 
-Golpe is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
+Golpe is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
 
 Golpe is a techno and industrial artist based in Czech Republic, with 52 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 21 more. Often billed alongside RiVid, Svetec and TASSERY. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Golpe is a techno and industrial artist based in Czech Republic, with 52 gigs on
 
 RiVid, Svetec, TASSERY
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*

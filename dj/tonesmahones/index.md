@@ -1,6 +1,6 @@
 # Tones Mahones
 
-Tones Mahones is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mena Berlin, Berlin on Fri, 13 Nov 2026.
+Tones Mahones is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mena Berlin, Berlin on Fri, 13 Nov 2026.
 
 Tones Mahones is a house and downtempo artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Hyperbole, Rosa Kante and Tamtoomi. Next up: Mena Berlin, Berlin on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Tones Mahones is a house and downtempo artist, with 6 gigs on soundcheck across 
 
 Hyperbole, Rosa Kante, Tamtoomi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonesmahones/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonesmahones/)*

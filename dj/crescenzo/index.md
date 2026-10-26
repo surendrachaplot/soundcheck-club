@@ -1,6 +1,6 @@
 # Crescenzo
 
-Crescenzo is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sanctuary, Montreal on Sat, 31 Oct 2026.
+Crescenzo is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sanctuary, Montreal on Sat, 31 Oct 2026.
 
 Crescenzo is a house and dub techno artist based in Canada, with 32 gigs on soundcheck across Amsterdam and Montreal. Often billed alongside FAMÜ, Jino K and Brian Cuta. Next up: Sanctuary, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Crescenzo is a house and dub techno artist based in Canada, with 32 gigs on soun
 
 FAMÜ, Jino K, Brian Cuta
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crescenzo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crescenzo/)*

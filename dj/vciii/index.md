@@ -1,6 +1,6 @@
 # VCIII
 
-VCIII is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at M.N.Roy, Mexico City on Thu, 12 Nov 2026.
+VCIII is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at M.N.Roy, Mexico City on Thu, 12 Nov 2026.
 
 VCIII is a progressive house and electronica artist, with 6 gigs on soundcheck across Mexico City. Often billed alongside SSYSTEM, BLUMOR and Hernan Cattaneo. Next up: M.N.Roy, Mexico City on Thu 12 Nov.
 
@@ -22,4 +22,4 @@ VCIII is a progressive house and electronica artist, with 6 gigs on soundcheck a
 
 SSYSTEM, BLUMOR, Hernan Cattaneo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vciii/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vciii/)*

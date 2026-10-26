@@ -1,6 +1,6 @@
 # CLAESSENS
 
-CLAESSENS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Patronaat, Amsterdam on Sat, 28 Nov 2026.
+CLAESSENS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Patronaat, Amsterdam on Sat, 28 Nov 2026.
 
 CLAESSENS is a techno and trance artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Münster and 4 more. Often billed alongside Rini Berlini, Afem Syko and Jakob Lesch. Next up: Patronaat, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ CLAESSENS is a techno and trance artist based in Netherlands, with 16 gigs on so
 
 Rini Berlini, Afem Syko, Jakob Lesch
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claessens/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claessens/)*

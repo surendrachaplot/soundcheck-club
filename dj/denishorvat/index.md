@@ -1,6 +1,6 @@
 # Denis Horvat
 
-Denis Horvat is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
+Denis Horvat is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
 
 Denis Horvat is a techno and house artist based in Denmark, with 112 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 33 more. Often billed alongside Colyn, Lehar and Echonomist. Next up: 50:Hertz Club Train, Amsterdam on Sun 25 Oct.
 
@@ -15,6 +15,7 @@ Denis Horvat is a techno and house artist based in Denmark, with 112 gigs on sou
 
 ## Recently played
 
+- 50:Hertz Club Train, Amsterdam · Sun, 25 Oct 2026
 - Society, Brussels · Sat, 17 Oct 2026
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - Klein Phönix, Istanbul · Sat, 12 Sept 2026
@@ -22,10 +23,9 @@ Denis Horvat is a techno and house artist based in Denmark, with 112 gigs on sou
 - Kater, Berlin · Fri, 3 Jul 2026
 - Barco Sound House, Madrid · Sat, 20 Jun 2026
 - BORIS CLUB, Barcelona · Fri, 19 Jun 2026
-- Docklands Festival, Münster · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Colyn, Lehar, Echonomist
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denishorvat/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denishorvat/)*

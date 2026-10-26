@@ -1,6 +1,6 @@
 # Decno
 
-Decno is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Ivory Hotel, Glasgow on Sun, 27 Dec 2026.
+Decno is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Ivory Hotel, Glasgow on Sun, 27 Dec 2026.
 
 Decno is a techno and house artist, with 24 gigs on soundcheck across Glasgow, Manchester and Vienna. Often billed alongside Craigen, LAZLO and D4N. Next up: The Ivory Hotel, Glasgow on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Decno is a techno and house artist, with 24 gigs on soundcheck across Glasgow, M
 
 Craigen, LAZLO, D4N (1)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decno/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decno/)*

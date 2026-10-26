@@ -1,6 +1,6 @@
 # Special Guest DJ
 
-Special Guest DJ is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Harmony Yacht, New York City on Sat, 31 Oct 2026.
+Special Guest DJ is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Harmony Yacht, New York City on Sat, 31 Oct 2026.
 
 Special Guest DJ is a techno and bass artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Ben Bondy, CCL and Vlada. Next up: Harmony Yacht, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Special Guest DJ is a techno and bass artist based in United States of America, 
 
 Ben Bondy, CCL, Vlada
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*

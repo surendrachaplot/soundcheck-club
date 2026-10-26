@@ -1,6 +1,6 @@
 # DOCTOR MÜCKE
 
-DOCTOR MÜCKE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Superlove, Milan on Thu, 29 Oct 2026.
+DOCTOR MÜCKE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Superlove, Milan on Thu, 29 Oct 2026.
 
 DOCTOR MÜCKE is a techno and trance artist based in Italy, with 52 gigs on soundcheck across Barcelona, Berlin, Bologna and Cologne and 14 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: Superlove, Milan on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ DOCTOR MÜCKE is a techno and trance artist based in Italy, with 52 gigs on soun
 
 RESA UTOPICA, EGE363, Amo (IT)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*

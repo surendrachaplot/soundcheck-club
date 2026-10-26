@@ -1,6 +1,6 @@
 # Redd Ophis
 
-Redd Ophis is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 28 Nov 2026.
+Redd Ophis is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 28 Nov 2026.
 
 Redd Ophis is a techno and industrial artist based in Ireland, with 22 gigs on soundcheck across Brighton, Bucharest, Dublin and Edinburgh and 2 more. Often billed alongside Claus Fuss, Giselle Guedes and Pre Silent. Next up: The Bongo Club, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Redd Ophis is a techno and industrial artist based in Ireland, with 22 gigs on s
 
 Claus Fuss, Giselle Guedes, Pre Silent
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reddophis/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reddophis/)*

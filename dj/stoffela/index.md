@@ -1,6 +1,6 @@
 # STOFFELA
 
-STOFFELA is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at KOKO, London on Sat, 19 Dec 2026.
+STOFFELA is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KOKO, London on Sat, 19 Dec 2026.
 
 STOFFELA is an afro house and techno artist based in South Africa, with 21 gigs on soundcheck across Amsterdam, Barcelona, Cape Town and Cyprus and 6 more. Often billed alongside Shimza, ARODES and Black Coffee. Next up: KOKO, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ STOFFELA is an afro house and techno artist based in South Africa, with 21 gigs 
 
 Shimza, ARODES, Black Coffee
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffela/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffela/)*

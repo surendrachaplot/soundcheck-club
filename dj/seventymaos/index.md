@@ -1,6 +1,6 @@
 # SeventyMaos
 
-SeventyMaos is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 30 Oct 2026.
+SeventyMaos is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 30 Oct 2026.
 
 SeventyMaos is a bass and techno artist, with 55 gigs on soundcheck across Beijing, Chengdu, Shanghai and Shenzhen. Often billed alongside Sonicare, Sanyo and DJ Pex. Next up: Nulab Chengdu, Chengdu on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SeventyMaos is a bass and techno artist, with 55 gigs on soundcheck across Beiji
 
 Sonicare, Sanyo, DJ Pex
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seventymaos/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seventymaos/)*

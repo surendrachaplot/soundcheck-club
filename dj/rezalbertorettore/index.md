@@ -1,6 +1,6 @@
 # Rez Alberto Rettore
 
-Rez Alberto Rettore is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hoxton Cabin, London on Sat, 31 Oct 2026.
+Rez Alberto Rettore is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hoxton Cabin, London on Sat, 31 Oct 2026.
 
 Rez Alberto Rettore is a techno and progressive house artist based in United Kingdom, with 20 gigs on soundcheck across Berlin and London. Often billed alongside Alex Talamo, Pietro LGF and Adela. Next up: Hoxton Cabin, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rez Alberto Rettore is a techno and progressive house artist based in United Kin
 
 Alex Talamo, Pietro LGF, Adela
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rezalbertorettore/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rezalbertorettore/)*

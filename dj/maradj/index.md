@@ -1,6 +1,6 @@
 # mara (AU)
 
-mara (AU) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Ivy, Sydney on Sat, 14 Nov 2026.
+mara (AU) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Ivy, Sydney on Sat, 14 Nov 2026.
 
 mara (AU) is a techno and tech house artist based in Australia, with 59 gigs on soundcheck across Brisbane, Perth and Sydney. Often billed alongside HIJCKD, Allen Cedano and KAYA (AU). Next up: The Ivy, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ mara (AU) is a techno and tech house artist based in Australia, with 59 gigs on 
 
 HIJCKD, Allen Cedano, KAYA (AU)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maradj/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maradj/)*

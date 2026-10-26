@@ -1,6 +1,6 @@
 # Immigrant Muscle
 
-Immigrant Muscle is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bambi's, Toronto on Fri, 30 Oct 2026.
+Immigrant Muscle is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Bambi's, Toronto on Fri, 30 Oct 2026.
 
 Immigrant Muscle is a house and club artist, with 24 gigs on soundcheck across Toronto. Often billed alongside Ensoul, Bikethug and House of Lords. Next up: Bambi's, Toronto on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Immigrant Muscle is a house and club artist, with 24 gigs on soundcheck across T
 
 Ensoul, Bikethug, House of Lords
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/immigrantmuscle/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/immigrantmuscle/)*

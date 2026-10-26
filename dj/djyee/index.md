@@ -1,6 +1,6 @@
 # DJ Yee
 
-DJ Yee is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Smoot Standard, Boston on Sat, 28 Nov 2026.
+DJ Yee is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Smoot Standard, Boston on Sat, 28 Nov 2026.
 
 DJ Yee is a house and tech house artist based in United States of America, with 6 gigs on soundcheck across Boston. Often billed alongside FRANÇOIS G and Rob Philmar. Next up: The Smoot Standard, Boston on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ DJ Yee is a house and tech house artist based in United States of America, with 
 
 FRANÇOIS G, Rob Philmar
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyee/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyee/)*

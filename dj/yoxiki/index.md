@@ -1,6 +1,6 @@
 # YOXIKI
 
-YOXIKI is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at clubasia, Tokyo on Mon, 26 Oct 2026.
+YOXIKI is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at clubasia, Tokyo on Mon, 26 Oct 2026.
 
 YOXIKI is a techno and industrial artist based in Japan, with 78 gigs on soundcheck across Seoul and Tokyo. Often billed alongside CHIKA, YURI VALEN and DALJAE. Next up: clubasia, Tokyo on Mon 26 Oct.
 
@@ -26,4 +26,4 @@ YOXIKI is a techno and industrial artist based in Japan, with 78 gigs on soundch
 
 CHIKA, YURI VALEN, DALJAE
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoxiki/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoxiki/)*

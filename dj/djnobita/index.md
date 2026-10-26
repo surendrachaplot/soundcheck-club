@@ -1,6 +1,6 @@
 # DJ Nobita
 
-DJ Nobita is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Deep Green, Thailand on Sat, 31 Oct 2026.
+DJ Nobita is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Deep Green, Thailand on Sat, 31 Oct 2026.
 
 DJ Nobita is a house and minimal artist, with 5 gigs on soundcheck across Bangkok, Osaka and Thailand. Often billed alongside April, DJ Casper and DJ TADA. Next up: Deep Green, Thailand on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ DJ Nobita is a house and minimal artist, with 5 gigs on soundcheck across Bangko
 
 April, DJ Casper, DJ TADA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobita/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobita/)*

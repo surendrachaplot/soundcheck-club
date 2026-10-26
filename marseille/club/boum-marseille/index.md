@@ -1,6 +1,6 @@
 # BOUM MARSEILLE
 
-BOUM MARSEILLE is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Halloqweer feat. Sheitan" on Sat, 31 Oct 2026.
+BOUM MARSEILLE is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Halloqweer feat. Sheitan" on Sat, 31 Oct 2026.
 
 BOUM MARSEILLE is a music venue in Marseille listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 21 rue André Poggioli, 13006 Marseille.
 
@@ -14,4 +14,4 @@ BOUM MARSEILLE is a music venue in Marseille listed on soundcheck. 1 upcoming gi
 
 21 rue André Poggioli, 13006 Marseille, Marseille
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/boum-marseille/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/boum-marseille/)*

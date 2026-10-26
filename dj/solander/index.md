@@ -1,6 +1,6 @@
 # Solander
 
-Solander is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Sat, 31 Oct 2026.
+Solander is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Sat, 31 Oct 2026.
 
 Solander is a minimal and house artist based in Spain, with 5 gigs on soundcheck across Barcelona, Düsseldorf and Madrid. Often billed alongside SHEEN, Ben:Rodd and CORZ. Next up: Sol y Luna Lounge & Club, Düsseldorf on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Solander is a minimal and house artist based in Spain, with 5 gigs on soundcheck
 
 SHEEN (2), Ben:Rodd, CORZ
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solander/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solander/)*

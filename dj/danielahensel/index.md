@@ -1,6 +1,6 @@
 # Daniela Hensel
 
-Daniela Hensel is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+Daniela Hensel is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
 
 Daniela Hensel is a techno and acid artist based in Germany, with 55 gigs on soundcheck across Basel, Berlin, Bogotá and Boston and 12 more. Often billed alongside YouSawLaurent, Daniel Boon and Basstronauten. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
 
@@ -25,4 +25,4 @@ Daniela Hensel is a techno and acid artist based in Germany, with 55 gigs on sou
 
 YouSawLaurent, Daniel Boon, Basstronauten
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielahensel/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielahensel/)*

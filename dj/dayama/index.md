@@ -1,6 +1,6 @@
 # Da Yama
 
-Da Yama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Numm, Tokyo on Mon, 26 Oct 2026.
+Da Yama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Numm, Tokyo on Mon, 26 Oct 2026.
 
 Da Yama is a techno and house artist based in Japan, with 198 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Taichi Kawahira, Kojiro and junkie babe. Next up: Numm, Tokyo on Mon 26 Oct.
 
@@ -26,4 +26,4 @@ Da Yama is a techno and house artist based in Japan, with 198 gigs on soundcheck
 
 Taichi Kawahira, Kojiro, junkie babe
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dayama/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dayama/)*

@@ -1,14 +1,15 @@
 # Lisa Mizuno
 
-Lisa Mizuno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Nishiazabu （Ask if you don't know）, Tokyo on Fri, 6 Nov 2026.
+Lisa Mizuno is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Nishiazabu （Ask if you don't know）, Tokyo on Fri, 6 Nov 2026.
 
-Lisa Mizuno is a techno and house artist based in Japan, with 99 gigs on soundcheck across Barcelona, Beijing, Kanto and Osaka and 3 more. Often billed alongside DANA NADA, YANNY and DANDAN. Next up: TBA - Nishiazabu （Ask if you don't know）, Tokyo on Fri 6 Nov.
+Lisa Mizuno is a techno and experimental artist based in Japan, with 100 gigs on soundcheck across Barcelona, Beijing, Kanto and Osaka and 3 more. Often billed alongside DANA NADA, YANNY and DANDAN. Next up: TBA - Nishiazabu （Ask if you don't know）, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA - Nishiazabu （Ask if you don't know） | Tokyo |
+| Sat, 14 Nov 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
 | Sun, 22 Nov 2026 | Oizumi-Kojo | Kanto |
 
 ## Recently played
@@ -26,4 +27,4 @@ Lisa Mizuno is a techno and house artist based in Japan, with 99 gigs on soundch
 
 DANA NADA, YANNY (1), DANDAN
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamizuno/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamizuno/)*

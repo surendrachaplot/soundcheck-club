@@ -1,6 +1,6 @@
 # TOTTI
 
-TOTTI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Bassement, Madrid on Thu, 29 Oct 2026.
+TOTTI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Bassement, Madrid on Thu, 29 Oct 2026.
 
 TOTTI is a techno and trance artist based in Spain, with 29 gigs on soundcheck across Barcelona and Madrid. Often billed alongside CUTIE, Ruben XXL and Sandwicho. Next up: The Bassement, Madrid on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ TOTTI is a techno and trance artist based in Spain, with 29 gigs on soundcheck a
 
 CUTIE, Ruben XXL, Sandwicho
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totti/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totti/)*

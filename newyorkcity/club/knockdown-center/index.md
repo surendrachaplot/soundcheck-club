@@ -1,6 +1,6 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "The Blaze (Live)" on Wed, 28 Oct 2026.
+Knockdown Center is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "The Blaze (Live)" on Wed, 28 Oct 2026.
 
 Knockdown Center is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Anish Kumar, Bonobo, Brutalismus 3000 and DAX J and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
@@ -20,4 +20,4 @@ Knockdown Center is a music venue in New York City listed on soundcheck. 7 upcom
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

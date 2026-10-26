@@ -1,14 +1,13 @@
 # Move D
 
-Move D is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Fünk, Mexico City on Sat, 24 Oct 2026.
+Move D is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 6 Nov 2026.
 
-Move D is a house and techno artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Robert Drewek, Prosumer and Discrete Circuit. Next up: Fünk, Mexico City on Sat 24 Oct.
+Move D is a house and techno artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Robert Drewek, Prosumer and Discrete Circuit. Next up: Revolver Upstairs, Melbourne on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Fünk | Mexico City |
 | Fri, 6 Nov 2026 | Revolver Upstairs | Melbourne |
 | Sat, 7 Nov 2026 | Fraser Park | Sydney |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
@@ -31,4 +30,4 @@ Move D is a house and techno artist based in Germany, with 163 gigs on soundchec
 
 Robert Drewek, Prosumer, Discrete Circuit
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*

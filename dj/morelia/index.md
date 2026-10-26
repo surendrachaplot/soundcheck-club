@@ -1,6 +1,6 @@
 # Morelia
 
-Morelia is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Morelia is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Morelia is a techno and trance artist based in United States of America, with 42 gigs on soundcheck across Berlin, Cologne, Dallas/Fort Worth and Denver and 7 more. Often billed alongside Pixie Dust, Amøn and KLING&KLANG. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Morelia is a techno and trance artist based in United States of America, with 42
 
 Pixie Dust, Amøn, KLING&KLANG
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morelia/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morelia/)*

@@ -1,6 +1,6 @@
 # Nino Brown
 
-Nino Brown is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Igloofest, Montreal on Fri, 22 Jan 2027.
+Nino Brown is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Igloofest, Montreal on Fri, 22 Jan 2027.
 
 Nino Brown is a techno and house artist based in Australia, with 9 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Young Teesh, 999ADJ and Bambii. Next up: Igloofest, Montreal on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Nino Brown is a techno and house artist based in Australia, with 9 gigs on sound
 
 Young Teesh, 999ADJ, Bambii
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninobrown/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninobrown/)*

@@ -1,6 +1,6 @@
 # Cosies
 
-Cosies is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Phantasy & Splendor Crew" on Sat, 7 Nov 2026.
+Cosies is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Phantasy & Splendor Crew" on Sat, 7 Nov 2026.
 
 Cosies is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with line-ups including Bronwyn, Col the Doctor, Vasho and Vic Parker. See dates, start times and who's playing. 34 Portland Square; Bristol BS2 8RG, United Kingdom.
 
@@ -14,4 +14,4 @@ Cosies is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with li
 
 34 Portland Square; Bristol BS2 8RG, United Kingdom, Bristol
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*

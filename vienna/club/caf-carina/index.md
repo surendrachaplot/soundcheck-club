@@ -1,6 +1,6 @@
 # Café Carina
 
-Café Carina is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Aircraft comes back to Vienna! Cafe Carina - 9 December 2026" on Wed, 9 Dec 2026.
+Café Carina is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Aircraft comes back to Vienna! Cafe Carina - 9 December 2026" on Wed, 9 Dec 2026.
 
 Café Carina is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Aircraft. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Café Carina is a music venue in Vienna listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Wed, 9 Dec 2026 | Aircraft comes back to Vienna! Cafe Carina - 9 December 2026 | Aircraft |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/caf-carina/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/caf-carina/)*

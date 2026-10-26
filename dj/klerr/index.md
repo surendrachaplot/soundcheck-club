@@ -1,6 +1,6 @@
 # KLËRR
 
-KLËRR is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Studionotte, Milan on Sat, 7 Nov 2026.
+KLËRR is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Studionotte, Milan on Sat, 7 Nov 2026.
 
 KLËRR is a techno and electronica artist based in Italy, with 15 gigs on soundcheck across Berlin and Milan. Often billed alongside 7Astris, Ditzy and Eathan. Next up: Studionotte, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ KLËRR is a techno and electronica artist based in Italy, with 15 gigs on soundc
 
 7Astris, Ditzy, Eathan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klerr/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klerr/)*

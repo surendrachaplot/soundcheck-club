@@ -1,6 +1,6 @@
 # Sons Of Hidden
 
-Sons Of Hidden is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 26 Dec 2026.
+Sons Of Hidden is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 26 Dec 2026.
 
 Sons Of Hidden is a techno and electronica artist, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 10 more. Often billed alongside Marco Ramos, Andres Gil and Deraout. Next up: RSO.BERLIN, Berlin on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Sons Of Hidden is a techno and electronica artist, with 38 gigs on soundcheck ac
 
 Marco Ramos, Andres Gil, Deraout
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonsofhidden/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonsofhidden/)*

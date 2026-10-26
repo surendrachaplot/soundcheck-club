@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "HEISSS I 30 hours" on Sat, 24 Oct 2026.
+RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx" on Fri, 30 Oct 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 131bpm, Justine Perry, Adiel and AEREA and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including 131bpm, Justine Perry, Adiel and AEREA and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | HEISSS I 30 hours | Amphia, Andre Zimmer, COZi, Carluschka, Cryptofauna, Disguised, E2NMN, Ignez, Kaiser (K S R), Kim She, Oblique, Red Rooms, Silberhauch, Toobris |
 | Fri, 30 Oct 2026 | FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx | Arthur Robert, Decoder, IGLO, Inox Traxx, Len Faki |
 | Sat, 31 Oct 2026 | BCCO Halloween | AEREA, ASEC, Bailey Ibbs, Benabou, DJ Hyperdrive, Elnur, FENIM0RE, Luigi Madonna, Luxi Villar, Mac Declos, Matrixxman, Mython, PAU (6), SALIMATA, SELESSA T., future.666 |
 | Fri, 6 Nov 2026 | TRIBE CLUB SERIES with Funk Tribu, Supergloss, Linds, Tom Carroll & KARISH | Funk Tribu, KARISH, Linds, Supergloss |
@@ -18,9 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, wi
 | Fri, 20 Nov 2026 | RSO: YEAR FIVE w/ Function, Stef Mendesidis, Tasha b2b Deetron, CEM, Maara, Stenny (Live) | 131bpm, Anna Z., Answer Code Request, CEM, DJ TOOL, Dangermami, Deano, Deetron, Ellen Allien, Function, Henning Baer, Hyperaktivist, Inox Traxx, Jesse G, Julie Desire, Maara, Mary Lake, Olympe4000, RUIZ OSC1, Remco Beekwilder, Sepehr, Stef Mendesidis, Stenny, Tasha, Toobris, Xiorro |
 | Fri, 27 Nov 2026 | Selected x Fluid w/ PRADA2000, Panteros666, George Radsport & Keyklau | CAIVA, Frederic., Keyklau, PRADA2000, Panteros666 |
 | Sat, 28 Nov 2026 | XTRUDE w/ Antigone, Peryl (Live), Lars Huismann, Newa, STEYA, Bambi, oma totem | Ana Rs, Antigone, Bambi (FR), LPV, Lars Huismann, Ndrx, Newa, Peryl, STEYA, Shaleen, oma totem |
+| Fri, 11 Dec 2026 | Deestricted |  |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

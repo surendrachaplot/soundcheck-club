@@ -1,14 +1,13 @@
 # EQ (Estratosfera + Qiri)
 
-EQ (Estratosfera + Qiri) is a Club and Electronica artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Barn Radio, Portland on Sat, 24 Oct 2026.
+EQ (Estratosfera + Qiri) is a Club and Electronica artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - 186 Harvard Avenue, Allston, MA, Boston on Thu, 29 Oct 2026.
 
-EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 25 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 19 more. Often billed alongside Bclip, Jawnino and Ahadadream. Next up: Barn Radio, Portland on Sat 24 Oct.
+EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 25 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 19 more. Often billed alongside Bclip, Jawnino and Ahadadream. Next up: TBA - 186 Harvard Avenue, Allston, MA, Boston on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Barn Radio | Portland |
 | Thu, 29 Oct 2026 | TBA - 186 Harvard Avenue, Allston, MA | Boston |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
 | Fri, 6 Nov 2026 | The Great Northern | San Francisco/Oakland |
@@ -33,4 +32,4 @@ EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with
 
 Bclip, Jawnino, Ahadadream
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*

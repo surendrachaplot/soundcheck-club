@@ -1,6 +1,6 @@
 # Lora Mipsum
 
-Lora Mipsum is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat, 5 Dec 2026.
+Lora Mipsum is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat, 5 Dec 2026.
 
 Lora Mipsum is a progressive house and techno artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Bristol and 14 more. Often billed alongside ANNX, Richard Gregory and Inner Zone. Next up: Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Lora Mipsum is a progressive house and techno artist based in United Kingdom, wi
 
 ANNX, Richard Gregory, Inner Zone
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loramipsum/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loramipsum/)*

@@ -1,6 +1,6 @@
 # yaego
 
-yaego is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at BERHTA, Washington DC on Sat, 31 Oct 2026.
+yaego is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at BERHTA, Washington DC on Sat, 31 Oct 2026.
 
 yaego is a techno and electronica artist based in United States of America, with 15 gigs on soundcheck across London, Los Angeles, Mexico City and Miami and 5 more. Often billed alongside CFCF, Doss and POiSON GiRL FRiEND. Next up: BERHTA, Washington DC on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ yaego is a techno and electronica artist based in United States of America, with
 
 CFCF, Doss, POiSON GiRL FRiEND
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yaego/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yaego/)*

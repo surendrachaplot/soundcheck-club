@@ -1,6 +1,6 @@
 # Gazebo
 
-Gazebo is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Resebyråns FOKUS - Secret Cinema" on Sat, 31 Oct 2026.
+Gazebo is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Resebyråns FOKUS - Secret Cinema" on Sat, 31 Oct 2026.
 
 Gazebo is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with line-ups including Ahiram, Antonsson, Ed Noodle and Fabian Tanz and 2 more. See dates, start times and who's playing. Upplagsvägen 22, 142 91 Skogås.
 
@@ -16,4 +16,4 @@ Gazebo is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with
 
 Upplagsvägen 22, 142 91 Skogås, Stockholm
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*

@@ -1,8 +1,8 @@
 # ma.ksim
 
-ma.ksim is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
+ma.ksim is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
 
-ma.ksim is a techno and house artist, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Electronic Elephant, Leon Licht and Rangø. Next up: Hafenklang, Hamburg on Sat 31 Oct.
+ma.ksim is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Electronic Elephant, Leon Licht and Rangø. Next up: Hafenklang, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ma.ksim is a techno and house artist, with 17 gigs on soundcheck across Berlin a
 
 Electronic Elephant, Leon Licht, Rangø
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ma.ksim/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ma.ksim/)*

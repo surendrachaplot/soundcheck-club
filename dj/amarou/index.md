@@ -1,6 +1,6 @@
 # Amarou
 
-Amarou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at La Bellevilloise, Paris on Fri, 20 Nov 2026.
+Amarou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at La Bellevilloise, Paris on Fri, 20 Nov 2026.
 
 Amarou is a techno and house artist based in France, with 15 gigs on soundcheck across Paris. Often billed alongside -ddd-, Aurèle and Anima Ex Sana. Next up: La Bellevilloise, Paris on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Amarou is a techno and house artist based in France, with 15 gigs on soundcheck 
 
 -ddd-, Aurèle, Anima Ex Sana
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amarou/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amarou/)*

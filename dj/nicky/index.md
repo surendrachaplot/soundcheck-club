@@ -1,6 +1,6 @@
 # Nicky
 
-Nicky is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at BARDO, Milan on Tue, 27 Oct 2026.
+Nicky is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at BARDO, Milan on Tue, 27 Oct 2026.
 
 Nicky is a techno and trance artist, with 5 gigs on soundcheck across Bogotá, Milan and Sydney. Often billed alongside PyRaD, AEREA and Diossa. Next up: BARDO, Milan on Tue 27 Oct.
 
@@ -21,4 +21,4 @@ Nicky is a techno and trance artist, with 5 gigs on soundcheck across Bogotá, M
 
 PyRaD, AEREA, Diossa
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicky/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicky/)*

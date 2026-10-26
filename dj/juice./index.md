@@ -1,6 +1,6 @@
 # Juice.
 
-Juice. is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Flash, Washington DC on Sat, 19 Dec 2026.
+Juice. is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Flash, Washington DC on Sat, 19 Dec 2026.
 
 Juice. is a techno and dubstep artist, with 6 gigs on soundcheck across Los Angeles and Washington DC. Often billed alongside Annie Lew, Apsara and BAUGRUPPE90. Next up: Flash, Washington DC on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Juice. is a techno and dubstep artist, with 6 gigs on soundcheck across Los Ange
 
 Annie Lew, Apsara, BAUGRUPPE90
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juice./)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juice./)*

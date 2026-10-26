@@ -1,6 +1,6 @@
 # The Globe, Glossop
 
-The Globe, Glossop is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Grey Lantern presents: Garefowl [AD93]" on Wed, 28 Oct 2026.
+The Globe, Glossop is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Grey Lantern presents: Garefowl [AD93]" on Wed, 28 Oct 2026.
 
 The Globe, Glossop is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Chilly (LDN), Conor Thomas and Faux Naif. See dates, start times and who's playing. The Globe, 144 High St W, Glossop SK13 8HJ.
 
@@ -15,4 +15,4 @@ The Globe, Glossop is a music venue in Manchester listed on soundcheck. 2 upcomi
 
 The Globe, 144 High St W, Glossop SK13 8HJ, Manchester
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-globe-glossop/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-globe-glossop/)*

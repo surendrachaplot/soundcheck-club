@@ -1,6 +1,6 @@
 # Bloody Mary
 
-Bloody Mary is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 31 Oct 2026.
+Bloody Mary is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 31 Oct 2026.
 
 Bloody Mary is a techno and acid artist, with 159 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 46 more. Often billed alongside Alienata, Afra and Kris Baha. Next up: TBA - Los Angeles (Warehouse), Los Angeles on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Bloody Mary is a techno and acid artist, with 159 gigs on soundcheck across Amst
 
 Alienata, Afra, Kris Baha
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodymary/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodymary/)*

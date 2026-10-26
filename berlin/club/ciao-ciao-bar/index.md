@@ -1,6 +1,6 @@
 # ciao ciao Bar
 
-ciao ciao Bar is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Trevosa X Dark Disco - Special Edition: Halloween" on Sat, 31 Oct 2026.
+ciao ciao Bar is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Trevosa X Dark Disco - Special Edition: Halloween" on Sat, 31 Oct 2026.
 
 ciao ciao Bar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Berlin Bunny, Contrafiction, Dagger and Die Grillen and 2 more. See dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
 
@@ -17,4 +17,4 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, 
 
 Falckensteinstr. 47 / 48, 10997 Berlin, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*

@@ -1,14 +1,13 @@
 # Ben Böhmer
 
-Ben Böhmer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Ben Böhmer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
 
-Ben Böhmer is a house and techno artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 47 more. Often billed alongside Adriatique, KI/KI and Paul Kalkbrenner. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
+Ben Böhmer is a house and techno artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 47 more. Often billed alongside Adriatique, KI/KI and Paul Kalkbrenner. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 30 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Sat, 28 Nov 2026 | Trübsee Station, Engelberg | Switzerland |
 
@@ -27,4 +26,4 @@ Ben Böhmer is a house and techno artist based in Germany, with 96 gigs on sound
 
 Adriatique, KI/KI, Paul Kalkbrenner
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbohmer/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbohmer/)*

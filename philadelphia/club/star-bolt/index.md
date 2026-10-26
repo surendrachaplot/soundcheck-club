@@ -1,6 +1,6 @@
 # Star|Bolt
 
-Star|Bolt is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Something Out There - Sqonk, Shapesift, Skopik, Iannetta, Gryph" on Fri, 20 Nov 2026.
+Star|Bolt is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Something Out There - Sqonk, Shapesift, Skopik, Iannetta, Gryph" on Fri, 20 Nov 2026.
 
 Star|Bolt is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs, with line-ups including Nic Baker and Pit Boyz. See dates, start times and who's playing. 1936 N Front St, Philadelphia, PA 19122.
 
@@ -15,4 +15,4 @@ Star|Bolt is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs
 
 1936 N Front St, Philadelphia, PA 19122, Philadelphia
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/star-bolt/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/star-bolt/)*

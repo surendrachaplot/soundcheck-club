@@ -1,6 +1,6 @@
 # NAD!NE
 
-NAD!NE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at UMI, Brussels on Fri, 6 Nov 2026.
+NAD!NE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at UMI, Brussels on Fri, 6 Nov 2026.
 
 NAD!NE is a techno and house artist based in Lebanon, with 26 gigs on soundcheck across Berlin, Brussels and Zurich. Often billed alongside DECONOFF, DJ Jordan and Sopar. Next up: UMI, Brussels on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ NAD!NE is a techno and house artist based in Lebanon, with 26 gigs on soundcheck
 
 DECONOFF, DJ Jordan, Sopar
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nad!ne/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nad!ne/)*

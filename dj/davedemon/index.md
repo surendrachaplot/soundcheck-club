@@ -1,6 +1,6 @@
 # Dave Demon
 
-Dave Demon is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Favela, Münster on Sat, 14 Nov 2026.
+Dave Demon is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Favela, Münster on Sat, 14 Nov 2026.
 
 Dave Demon is a techno and electro artist based in Germany, with 7 gigs on soundcheck across Berlin, Mannheim and Münster. Often billed alongside GHOST DE, DJ Jordan and Rob Robsen. Next up: Club Favela, Münster on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Dave Demon is a techno and electro artist based in Germany, with 7 gigs on sound
 
 GHOST DE, DJ Jordan, Rob Robsen
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davedemon/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davedemon/)*

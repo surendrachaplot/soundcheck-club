@@ -1,6 +1,6 @@
 # Frankyeffe
 
-Frankyeffe is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Frankyeffe is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Frankyeffe is a techno and tech house artist based in Italy, with 20 gigs on soundcheck across Berlin, Bologna, Cologne and Frankfurt and 10 more. Often billed alongside ASK:ME, Anna Tur and CASSÖ. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Frankyeffe is a techno and tech house artist based in Italy, with 20 gigs on sou
 
 ASK:ME, Anna Tur, CASSÖ
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyeffe/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyeffe/)*

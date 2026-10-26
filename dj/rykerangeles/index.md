@@ -1,6 +1,6 @@
 # Ryker Angeles
 
-Ryker Angeles is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los-angeles on Thu, 29 Oct 2026.
+Ryker Angeles is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los-angeles on Thu, 29 Oct 2026.
 
 Ryker Angeles is a house and techno artist, with 5 gigs on soundcheck across Los Angeles. Often billed alongside Tattoopudge, Dilate(US) and AMAYAH. Next up: TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los Angeles on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ Ryker Angeles is a house and techno artist, with 5 gigs on soundcheck across Los
 
 Tattoopudge, Dilate(US), AMAYAH
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rykerangeles/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rykerangeles/)*

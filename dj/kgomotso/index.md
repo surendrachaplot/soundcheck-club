@@ -1,6 +1,6 @@
 # Kgomotso
 
-Kgomotso is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Angel Music Bar, Melbourne on Tue, 3 Nov 2026.
+Kgomotso is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Angel Music Bar, Melbourne on Tue, 3 Nov 2026.
 
 Kgomotso is a house and afro house artist based in South Africa, with 37 gigs on soundcheck across Melbourne. Often billed alongside Chris NG, DJ JNETT and Zjoso. Next up: Angel Music Bar, Melbourne on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Kgomotso is a house and afro house artist based in South Africa, with 37 gigs on
 
 Chris NG, DJ JNETT, Zjoso
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kgomotso/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kgomotso/)*

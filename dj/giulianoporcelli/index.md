@@ -1,14 +1,13 @@
 # Giuliano Porcelli
 
-Giuliano Porcelli is a Tech House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - TBA , Sofia on Sun, 25 Oct 2026.
+Giuliano Porcelli is a Tech House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - TBA , Sofia on Fri, 30 Oct 2026.
 
-Giuliano Porcelli is a tech house and techno artist, with 70 gigs on soundcheck across Amsterdam, Florence, Geneva and Ibiza and 3 more. Often billed alongside Destro and Alex Sharp. Next up: TBA - TBA , Sofia on Sun 25 Oct.
+Giuliano Porcelli is a tech house and techno artist, with 70 gigs on soundcheck across Amsterdam, Florence, Geneva and Ibiza and 3 more. Often billed alongside Destro and Alex Sharp. Next up: TBA - TBA , Sofia on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | TBA - TBA  | Sofia |
 | Fri, 30 Oct 2026 | TBA - TBA  | Sofia |
 | Fri, 27 Nov 2026 | TBA - TBA  | Sofia |
 | Sun, 29 Nov 2026 | TBA - TBA  | Sofia |
@@ -17,6 +16,7 @@ Giuliano Porcelli is a tech house and techno artist, with 70 gigs on soundcheck 
 
 ## Recently played
 
+- TBA - TBA , Sofia · Sun, 25 Oct 2026
 - Contatto, Milan · Sat, 17 Oct 2026
 - TBA - TBA , Sofia · Sun, 27 Sept 2026
 - TBA - TBA , Sofia · Fri, 25 Sept 2026
@@ -24,10 +24,9 @@ Giuliano Porcelli is a tech house and techno artist, with 70 gigs on soundcheck 
 - TBA - TBA , Sofia · Fri, 28 Aug 2026
 - The Rock Bar Ibiza, Ibiza · Wed, 5 Aug 2026
 - TBA - TBA , Sofia · Fri, 31 Jul 2026
-- TBA - TBA , Sofia · Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Destro (2), Alex Sharp
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giulianoporcelli/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giulianoporcelli/)*

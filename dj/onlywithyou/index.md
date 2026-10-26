@@ -1,6 +1,6 @@
 # OnlyWithYou
 
-OnlyWithYou is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 28 Oct 2026.
+OnlyWithYou is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 28 Oct 2026.
 
 OnlyWithYou is a techno and trance artist based in Australia, with 64 gigs on soundcheck across Amsterdam, Beijing, Berlin and London and 6 more. Often billed alongside MIMI404, Garfie and AKEYLAH. Next up: Lokschuppen Berlin, Berlin on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ OnlyWithYou is a techno and trance artist based in Australia, with 64 gigs on so
 
 MIMI404, Garfie, AKEYLAH
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*

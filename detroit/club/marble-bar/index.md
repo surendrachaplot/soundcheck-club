@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "12 Hour Party" on Sat, 24 Oct 2026.
+Marble Bar is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "The Occasional Thursday Party with DJ Craze + Friends" on Thu, 29 Oct 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including AceMo, AIDEL, Amino and Audion and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including AIDEL, Amino, Audion and Auntie Chanel and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | 12 Hour Party | AceMo, Dretraxx, Kaito Ian, Ladylike, Patrice Scott, Scott Grooves, Swami Sound, Tammy Lakkis, Todd Osborn |
 | Thu, 29 Oct 2026 | The Occasional Thursday Party with DJ Craze + Friends | Craze, Sinistarr, Sinister Dosage |
 | Fri, 30 Oct 2026 | Devil's Nite: Audion (live), Scott Zacharias, NO NO BOYS ft Josh Dunn (live),  | Audion, Auntie Chanel, Gi Gi, Josh Dunn, Kenjiro, Scott Zacharias, Shigeto, mirepoix |
 | Sat, 31 Oct 2026 | Fiesta House with Rosa Pistola | Rosa Pistola |
@@ -21,4 +20,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

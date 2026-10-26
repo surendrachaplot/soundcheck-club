@@ -1,6 +1,6 @@
 # Dirty South
 
-Dirty South is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat, 28 Nov 2026.
+Dirty South is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat, 28 Nov 2026.
 
 Dirty South is a house and progressive house artist based in Australia, with 24 gigs on soundcheck across Adelaide, Brisbane, Byron Bay and Canberra and 9 more. Often billed alongside Taglo, Alan Braxe and DJ F16 Falcon. Next up: TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dirty South is a house and progressive house artist based in Australia, with 24 
 
 Taglo, Alan Braxe, DJ F16 Falcon
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtysouth/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtysouth/)*

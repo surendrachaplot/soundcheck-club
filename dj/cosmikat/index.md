@@ -1,6 +1,6 @@
 # CosmiKat
 
-CosmiKat is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Fri, 30 Oct 2026.
+CosmiKat is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Fri, 30 Oct 2026.
 
 CosmiKat is a techno and house artist based in Germany, with 26 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Nat SuPrise, ZweiE and Andrea Marino. Next up: Fabrique im Gängeviertel, Hamburg on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ CosmiKat is a techno and house artist based in Germany, with 26 gigs on soundche
 
 Nat SuPrise, ZweiE, Andrea Marino
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*

@@ -1,6 +1,6 @@
 # Shinjuku Duusraa
 
-Shinjuku Duusraa is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "〚REVENGE〛S4CS -saqess + S3R4PH Community Space-" on Tue, 3 Nov 2026.
+Shinjuku Duusraa is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "〚REVENGE〛S4CS -saqess + S3R4PH Community Space-" on Tue, 3 Nov 2026.
 
 Shinjuku Duusraa is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Acrocanthosaurus, ALPHA, 反核機動隊 and saqess. See dates, start times and who's playing. 3-35-1 Shinjuku, Shinjuku-ku, Tokyo, 160-0022 Japan.
 
@@ -14,4 +14,4 @@ Shinjuku Duusraa is a music venue in Tokyo listed on soundcheck. 1 upcoming gig,
 
 3-35-1 Shinjuku, Shinjuku-ku, Tokyo, 160-0022 Japan, Tokyo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shinjuku-duusraa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shinjuku-duusraa/)*

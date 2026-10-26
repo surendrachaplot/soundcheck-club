@@ -1,6 +1,6 @@
 # Mochakk
 
-Mochakk is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Big Night Live, Boston on Thu, 29 Oct 2026.
+Mochakk is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Big Night Live, Boston on Thu, 29 Oct 2026.
 
 Mochakk is a house and tech house artist based in Brazil, with 178 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 50 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Big Night Live, Boston on Thu 29 Oct.
 
@@ -30,4 +30,4 @@ Mochakk is a house and tech house artist based in Brazil, with 178 gigs on sound
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

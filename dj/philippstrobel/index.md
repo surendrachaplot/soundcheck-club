@@ -1,8 +1,8 @@
 # Philipp Strobel
 
-Philipp Strobel is a EBM and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Slaughterhouse am Kulturfabrik Moabit, Berlin on Sat, 14 Nov 2026.
+Philipp Strobel is a EBM and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Slaughterhouse am Kulturfabrik Moabit, Berlin on Sat, 14 Nov 2026.
 
-Philipp Strobel is an ebm and techno artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Krakow and 7 more. Often billed alongside Incendie, Caillou (DE) and Ancient Methods. Next up: Slaughterhouse am Kulturfabrik Moabit, Berlin on Sat 14 Nov.
+Philipp Strobel is an ebm and techno artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Krakow and 7 more. Often billed alongside Incendie, Caillou (DE) and Ancient Methods. Next up: Slaughterhouse am Kulturfabrik Moabit, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Philipp Strobel is an ebm and techno artist based in Germany, with 64 gigs on so
 | Fri, 20 Nov 2026 | West Germany | Berlin |
 | Thu, 26 Nov 2026 | Urban Spree | Berlin |
 | Wed, 2 Dec 2026 | Urban Spree | Berlin |
+| Sat, 9 Jan 2027 | Urban Spree | Berlin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Philipp Strobel is an ebm and techno artist based in Germany, with 64 gigs on so
 
 Incendie, Caillou (DE), Ancient Methods
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstrobel/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstrobel/)*

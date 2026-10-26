@@ -1,6 +1,6 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "bbyclose & her girlfriends presents: 'bbyween' halloween party" on Thu, 29 Oct 2026.
+UNLOCKED is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "bbyclose & her girlfriends presents: 'bbyween' halloween party" on Thu, 29 Oct 2026.
 
 UNLOCKED is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Andhim, Darius Syrossian, Don Diablo and HARTY and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
@@ -22,4 +22,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 9 upcoming gigs, with 
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

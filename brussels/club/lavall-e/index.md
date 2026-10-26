@@ -1,6 +1,6 @@
 # Lavallée
 
-Lavallée is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "1er Jeudi du Pink - Club Kid Party" on Thu, 29 Oct 2026.
+Lavallée is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "1er Jeudi du Pink - Club Kid Party" on Thu, 29 Oct 2026.
 
 Lavallée is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Basic Feelings, Prinzessin and Torc. See dates, start times and who's playing. 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean.
 
@@ -15,4 +15,4 @@ Lavallée is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, wi
 
 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean, Brussels
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*

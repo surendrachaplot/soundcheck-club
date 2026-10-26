@@ -1,6 +1,6 @@
 # Junkie Kid
 
-Junkie Kid is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Junkie Kid is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 Junkie Kid is a techno and hardcore artist based in United States of America, with 19 gigs on soundcheck across Brisbane, Chicago, Houston and Istanbul and 12 more. Often billed alongside DJ GUESTLIST, HIJCKD and Mark Blair. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Junkie Kid is a techno and hardcore artist based in United States of America, wi
 
 DJ GUESTLIST, HIJCKD, Mark Blair
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*

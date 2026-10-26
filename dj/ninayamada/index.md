@@ -1,8 +1,8 @@
 # Nina Yamada
 
-Nina Yamada is a House and Jazz artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Malasaña, Madrid on Fri, 30 Oct 2026.
+Nina Yamada is a House and Jazz artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Malasaña, Madrid on Fri, 30 Oct 2026.
 
-Nina Yamada is a house and jazz artist based in Japan, with 63 gigs on soundcheck across Bangkok, Berlin, Birmingham and Brighton and 9 more. Often billed alongside Tonydot, Ozwick and Anja Ngozi. Next up: Club Malasaña, Madrid on Fri 30 Oct.
+Nina Yamada is a house and jazz artist based in Japan, with 64 gigs on soundcheck across Bangkok, Berlin, Birmingham and Brighton and 9 more. Often billed alongside Tonydot, Ozwick and Anja Ngozi. Next up: Club Malasaña, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Nina Yamada is a house and jazz artist based in Japan, with 63 gigs on soundchec
 | Sun, 1 Nov 2026 | Club Cheek | London |
 | Fri, 6 Nov 2026 | Club Cheek | London |
 | Sat, 19 Dec 2026 | Fraser Park | Sydney |
+| Sat, 23 Jan 2027 | NT's Loft | London |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Nina Yamada is a house and jazz artist based in Japan, with 63 gigs on soundchec
 
 Tonydot, Ozwick, Anja Ngozi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninayamada/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninayamada/)*

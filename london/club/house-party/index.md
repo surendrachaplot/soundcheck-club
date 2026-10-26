@@ -1,6 +1,6 @@
 # House Party
 
-House Party is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Ibiza Anthems Brunch House Party in London" on Sat, 7 Nov 2026.
+House Party is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Ibiza Anthems Brunch House Party in London" on Sat, 7 Nov 2026.
 
 House Party is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Roxxx. See dates, start times and who's playing. 61 Poland St, London W1F 7NU.
 
@@ -17,4 +17,4 @@ House Party is a music venue in London listed on soundcheck. 4 upcoming gigs, wi
 
 61 Poland St, London W1F 7NU, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/house-party/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/house-party/)*

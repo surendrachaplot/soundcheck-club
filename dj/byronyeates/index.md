@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Indiego Glocksee, Hannover on Fri, 30 Oct 2026.
+Byron Yeates is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Indiego Glocksee, Hannover on Fri, 30 Oct 2026.
 
 Byron Yeates is a techno and house artist, with 211 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 55 more. Often billed alongside THC, DHC and Angel D'lite. Next up: Indiego Glocksee, Hannover on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Byron Yeates is a techno and house artist, with 211 gigs on soundcheck across Am
 
 THC, DHC, Angel D'lite
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

@@ -1,6 +1,6 @@
 # Bantha Tea Bar
 
-Bantha Tea Bar is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "mosaic" on Wed, 28 Oct 2026.
+Bantha Tea Bar is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "mosaic" on Wed, 28 Oct 2026.
 
 Bantha Tea Bar is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Bantha Tea Bar is a music venue in Pittsburgh listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Wed, 28 Oct 2026 | mosaic |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/bantha-tea-bar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/bantha-tea-bar/)*

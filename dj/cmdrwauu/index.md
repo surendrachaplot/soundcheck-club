@@ -1,6 +1,6 @@
 # CMDR WAUU
 
-CMDR WAUU is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Купе / Kupe, Sofia on Sun, 1 Nov 2026.
+CMDR WAUU is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Купе / Kupe, Sofia on Sun, 1 Nov 2026.
 
 CMDR WAUU is a techno and industrial artist based in Sweden, with 23 gigs on soundcheck across Sofia. Often billed alongside DJBAUMANN, DIE DIE TRAITOR! and Y.E.B.O.K. Next up: Купе / Kupe, Sofia on Sun 1 Nov.
 
@@ -28,4 +28,4 @@ CMDR WAUU is a techno and industrial artist based in Sweden, with 23 gigs on sou
 
 DJBAUMANN, DIE DIE TRAITOR!, Y.E.B.O.K
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdrwauu/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdrwauu/)*

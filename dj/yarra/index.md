@@ -1,6 +1,6 @@
 # Yarra
 
-Yarra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at ark (Melb), Melbourne on Sat, 2 Jan 2027.
+Yarra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at ark (Melb), Melbourne on Sat, 2 Jan 2027.
 
 Yarra is a house and techno artist based in United Kingdom, with 31 gigs on soundcheck across Melbourne. Often billed alongside Mike Callander, Club Angel and DAWS. Next up: ark (Melb), Melbourne on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Yarra is a house and techno artist based in United Kingdom, with 31 gigs on soun
 
 Mike Callander, Club Angel, DAWS
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarra/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarra/)*

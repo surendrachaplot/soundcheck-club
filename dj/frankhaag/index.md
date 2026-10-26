@@ -1,6 +1,6 @@
 # Frank Haag
 
-Frank Haag is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
+Frank Haag is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
 
 Frank Haag is a house and minimal artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside E.LINA, Christian AB and Alexia Glensy. Next up: TILLATEC, Amsterdam on Mon 26 Oct.
 
@@ -27,4 +27,4 @@ Frank Haag is a house and minimal artist based in Netherlands, with 34 gigs on s
 
 E.LINA, Christian AB, Alexia Glensy
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankhaag/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankhaag/)*

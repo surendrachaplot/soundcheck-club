@@ -1,6 +1,6 @@
 # Audiodrome
 
-Audiodrome is a music venue in Turin with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Serafina + AMMARA for OVER PARTY" on Sat, 31 Oct 2026.
+Audiodrome is a music venue in Turin with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Serafina + AMMARA for OVER PARTY" on Sat, 31 Oct 2026.
 
 Audiodrome is a music venue in Turin listed on soundcheck. 2 upcoming gigs, with line-ups including AMMARA, Enrico Sangiuliano and Serafina. See dates, start times and who's playing. Strada Mongina 9, 10024 Moncalieri (TO), Italy.
 
@@ -15,4 +15,4 @@ Audiodrome is a music venue in Turin listed on soundcheck. 2 upcoming gigs, with
 
 Strada Mongina 9, 10024 Moncalieri (TO), Italy, Turin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*

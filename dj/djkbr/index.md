@@ -1,6 +1,6 @@
 # DJ K (BR)
 
-DJ K (BR) is a Baile Funk and Kuduro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
+DJ K (BR) is a Baile Funk and Kuduro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
 
 DJ K (BR) is a baile funk and kuduro artist, with 9 gigs on soundcheck across Amsterdam, Brussels, Heidelberg and Lisbon and 3 more. Often billed alongside AMORAL, AZLAY and BASHKKA. Next up: Ministerium Club, Lisbon on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ K (BR) is a baile funk and kuduro artist, with 9 gigs on soundcheck across Am
 
 AMORAL, AZLAY, BASHKKA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkbr/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkbr/)*

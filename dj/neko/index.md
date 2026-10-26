@@ -1,6 +1,6 @@
 # Neko
 
-Neko is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Krantas, Lithuania on Sat, 31 Oct 2026.
+Neko is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Krantas, Lithuania on Sat, 31 Oct 2026.
 
 Neko is a hardcore and gabber artist based in Lithuania, with 6 gigs on soundcheck across Frankfurt, Lithuania, Madrid and Nantes and 2 more. Often billed alongside Goblin Grave, Unicorn on Ketamine and Abzocka. Next up: Krantas, Lithuania on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Neko is a hardcore and gabber artist based in Lithuania, with 6 gigs on soundche
 
 Goblin Grave, Unicorn on Ketamine, Abzocka
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neko/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neko/)*

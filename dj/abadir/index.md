@@ -1,6 +1,6 @@
 # ABADIR
 
-ABADIR is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+ABADIR is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 ABADIR is an experimental and club artist based in Egypt, with 72 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bologna and 27 more. Often billed alongside Sara Persico, Assyouti and Zoë Mc Pherson. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ABADIR is an experimental and club artist based in Egypt, with 72 gigs on soundc
 
 Sara Persico, Assyouti, Zoë Mc Pherson
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abadir/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abadir/)*

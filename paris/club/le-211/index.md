@@ -1,14 +1,13 @@
 # Le 211
 
-Le 211 is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Pygments Extended: Human Safari, Alhena, Groundstate," on Sat, 24 Oct 2026.
+Le 211 is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "4 ANS HOD W/. Art of Tones, Jade Edwards (UK), Nightchou, Diblob (LIVE) & More" on Sat, 7 Nov 2026.
 
-Le 211 is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Alhena_, Art of Tones, EVK and Gabbor and 2 more. See dates, start times and who's playing. 211 Av. Jean Jaurès, 75019.
+Le 211 is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Art of Tones, EVK, Hyper Sam and Jade Edwards and 2 more. See dates, start times and who's playing. 211 Av. Jean Jaurès, 75019.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Pygments Extended: Human Safari, Alhena, Groundstate, | Alhena_, Gabbor, Human Safari, In-Tan, Marabou (2), Terminal Trax |
 | Sat, 7 Nov 2026 | 4 ANS HOD W/. Art of Tones, Jade Edwards (UK), Nightchou, Diblob (LIVE) & More | Art of Tones, Jade Edwards, Nightchou |
 | Sun, 8 Nov 2026 | HEDONY 3rd ANNIVERSARY | EVK (1), Hyper Sam, Reem Ari (2), TEHOTU |
 | Fri, 13 Nov 2026 | Unbox #8: Shades of Techno Early Party | Toxic |
@@ -18,4 +17,4 @@ Le 211 is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with lin
 
 211 Av. Jean Jaurès, 75019, Paris
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-211/)*

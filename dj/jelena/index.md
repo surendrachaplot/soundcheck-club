@@ -1,6 +1,6 @@
 # Jelena
 
-Jelena is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+Jelena is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
 Jelena is a techno and house artist based in Switzerland, with 74 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 10 more. Often billed alongside Near End, Thomas Bianco and Cepheì. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jelena is a techno and house artist based in Switzerland, with 74 gigs on soundc
 
 Near End, Thomas Bianco, Cepheì
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jelena/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jelena/)*

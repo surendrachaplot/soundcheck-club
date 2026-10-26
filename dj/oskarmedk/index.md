@@ -1,6 +1,6 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
+oskar med k is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
 
 oskar med k is a house and deep house artist based in Norway, with 26 gigs on soundcheck across Barcelona, Berlin, Brisbane and Budapest and 20 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Nitsa Club, Barcelona on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ oskar med k is a house and deep house artist based in Norway, with 26 gigs on so
 
 Boys Noize, Dean Turnley, Skepta
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*

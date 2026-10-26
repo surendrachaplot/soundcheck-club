@@ -1,6 +1,6 @@
 # Physix
 
-Physix is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat, 5 Dec 2026.
+Physix is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat, 5 Dec 2026.
 
 Physix is a house and electro artist based in United Kingdom, with 11 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Sundaymann, Domenic Cappello and Lewis Lowe. Next up: Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Physix is a house and electro artist based in United Kingdom, with 11 gigs on so
 
 Sundaymann, Domenic Cappello, Lewis Lowe
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/physix/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/physix/)*

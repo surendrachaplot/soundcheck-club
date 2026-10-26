@@ -1,14 +1,13 @@
 # Raxeller
 
-Raxeller is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
+Raxeller is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
-Raxeller is a techno and industrial artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside 6EJOU, KARAH and CARV. Next up: Afas Live, Amsterdam on Sun 25 Oct.
+Raxeller is a techno and industrial artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside 6EJOU, KARAH and CARV. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Fri, 30 Oct 2026 | Supermarket | Zurich |
 | Sat, 14 Nov 2026 | The Ivy | Sydney |
@@ -21,6 +20,7 @@ Raxeller is a techno and industrial artist based in Netherlands, with 130 gigs o
 
 ## Recently played
 
+- Afas Live, Amsterdam · Sun, 25 Oct 2026
 - Club Vaag, Antwerp · Fri, 23 Oct 2026
 - Uebel & Gefährlich, Hamburg · Sat, 19 Sept 2026
 - Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
@@ -28,10 +28,9 @@ Raxeller is a techno and industrial artist based in Netherlands, with 130 gigs o
 - Strantwerpen, Antwerp · Sat, 5 Sept 2026
 - Arzenal, Budapest · Wed, 19 Aug 2026
 - Beton-T, Utrecht · Sat, 1 Aug 2026
-- Room 2 Glasgow, Glasgow · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 6EJOU, KARAH, CARV
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raxeller/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raxeller/)*

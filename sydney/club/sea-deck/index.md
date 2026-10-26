@@ -1,6 +1,6 @@
 # Sea Deck
 
-Sea Deck is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "★ S.A.S.H Sydney ★ On The Sea ★ Saturday 12th December ★" on Sat, 12 Dec 2026.
+Sea Deck is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "★ S.A.S.H Sydney ★ On The Sea ★ Saturday 12th December ★" on Sat, 12 Dec 2026.
 
 Sea Deck is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Sea Deck is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See da
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | ★ S.A.S.H Sydney ★ On The Sea ★ Saturday 12th December ★ |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/sea-deck/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/sea-deck/)*

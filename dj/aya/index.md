@@ -1,14 +1,13 @@
 # aya
 
-aya is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Sankt Bartlmä, Halle 6, Innsbruck, Austria on Thu, 22 Oct 2026.
+aya is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Koenji Cave, Tokyo on Sat, 31 Oct 2026.
 
-aya is an experimental and techno artist based in United Kingdom, with 144 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austria and 53 more. Often billed alongside 96 Back, Jennifer Walton and Heinali. Next up: Sankt Bartlmä, Halle 6, Innsbruck, Austria on Thu 22 Oct.
+aya is an experimental and techno artist based in United Kingdom, with 144 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austria and 53 more. Often billed alongside 96 Back, Jennifer Walton and Heinali. Next up: Koenji Cave, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Sankt Bartlmä, Halle 6, Innsbruck | Austria |
 | Sat, 31 Oct 2026 | Koenji Cave | Tokyo |
 | Fri, 20 Nov 2026 | Le Sucre | Lyon |
 | Fri, 22 Jan 2027 | TBA | Berlin |
@@ -28,4 +27,4 @@ aya is an experimental and techno artist based in United Kingdom, with 144 gigs 
 
 96 Back, Jennifer Walton, Heinali
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*

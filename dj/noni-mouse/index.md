@@ -1,6 +1,6 @@
 # Noni-Mouse
 
-Noni-Mouse is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Palais, London on Fri, 20 Nov 2026.
+Noni-Mouse is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Palais, London on Fri, 20 Nov 2026.
 
 Noni-Mouse is a bass and electronica artist based in India, with 6 gigs on soundcheck across London and Sheffield. Often billed alongside Darama, Izzi and Mahnoor. Next up: Palais, London on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Noni-Mouse is a bass and electronica artist based in India, with 6 gigs on sound
 
 Darama, Izzi, Mahnoor
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noni-mouse/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noni-mouse/)*

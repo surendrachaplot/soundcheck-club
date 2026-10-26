@@ -1,6 +1,6 @@
 # Ralph Bazaar
 
-Ralph Bazaar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hackney Bridge, London on Fri, 4 Dec 2026.
+Ralph Bazaar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hackney Bridge, London on Fri, 4 Dec 2026.
 
 Ralph Bazaar is a house and techno artist, with 5 gigs on soundcheck across London. Often billed alongside Midnight Runner, Addsound and DREY (UK). Next up: Hackney Bridge, London on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Ralph Bazaar is a house and techno artist, with 5 gigs on soundcheck across Lond
 
 Midnight Runner, Addsound, DREY (UK)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralphbazaar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralphbazaar/)*

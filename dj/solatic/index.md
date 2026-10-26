@@ -1,6 +1,6 @@
 # Solatic
 
-Solatic is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 30 Oct 2026.
+Solatic is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 30 Oct 2026.
 
 Solatic is a downtempo and electronica artist based in Germany, with 19 gigs on soundcheck across Berlin and Zurich. Often billed alongside Skydrips, Jonas Schilling and Dolph. Next up: Klunkerkranich, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Solatic is a downtempo and electronica artist based in Germany, with 19 gigs on 
 
 Skydrips, Jonas Schilling, Dolph
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solatic/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solatic/)*

@@ -1,6 +1,6 @@
 # Raving Ninjas
 
-Raving Ninjas is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at L'after Club, Geneva on Fri, 27 Nov 2026.
+Raving Ninjas is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at L'after Club, Geneva on Fri, 27 Nov 2026.
 
 Raving Ninjas is a techno and industrial artist based in Switzerland, with 6 gigs on soundcheck across Geneva and Lausanne. Often billed alongside VØX., WITHIN (NL) and ALIASLOH. Next up: L'after Club, Geneva on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Raving Ninjas is a techno and industrial artist based in Switzerland, with 6 gig
 
 VØX., WITHIN (NL), ALIASLOH
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravingninjas/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravingninjas/)*

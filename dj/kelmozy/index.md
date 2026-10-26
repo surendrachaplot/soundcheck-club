@@ -1,6 +1,6 @@
 # Kel Mozy
 
-Kel Mozy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Panama, Amsterdam on Sat, 19 Dec 2026.
+Kel Mozy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Panama, Amsterdam on Sat, 19 Dec 2026.
 
 Kel Mozy is a house and tech house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Ibiza, Rotterdam and Utrecht. Often billed alongside Cici Daze, DAF (UK) and Dale Howard. Next up: Panama, Amsterdam on Sat 19 Dec.
 
@@ -21,4 +21,4 @@ Kel Mozy is a house and tech house artist based in Netherlands, with 5 gigs on s
 
 Cici Daze, DAF (UK), Dale Howard
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmozy/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmozy/)*

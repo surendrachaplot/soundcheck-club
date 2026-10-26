@@ -1,6 +1,6 @@
 # SANA
 
-SANA is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Cause, London on Fri, 18 Dec 2026.
+SANA is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Cause, London on Fri, 18 Dec 2026.
 
 SANA is a bass and jungle artist based in Spain, with 30 gigs on soundcheck across Amsterdam, Brighton, London and Marseille and 3 more. Often billed alongside MINÄ, Trae Joly and Nectax. Next up: The Cause, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ SANA is a bass and jungle artist based in Spain, with 30 gigs on soundcheck acro
 
 MINÄ, Trae Joly, Nectax
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sana/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sana/)*

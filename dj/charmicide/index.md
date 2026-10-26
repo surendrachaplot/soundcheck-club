@@ -1,6 +1,6 @@
 # charmicide
 
-charmicide is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Mdlr, Singapore on Sat, 7 Nov 2026.
+charmicide is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Mdlr, Singapore on Sat, 7 Nov 2026.
 
 charmicide is a club and techno artist based in Singapore, with 2 gigs on soundcheck across Singapore. Often billed alongside howrøng, AETLL and Animistic Beliefs. Next up: Mdlr, Singapore on Sat 7 Nov.
 
@@ -15,4 +15,4 @@ charmicide is a club and techno artist based in Singapore, with 2 gigs on soundc
 
 howrøng, AETLL, Animistic Beliefs
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charmicide/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charmicide/)*

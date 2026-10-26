@@ -1,6 +1,6 @@
 # Botanik 27' feat. Ezequiel Arias & Double Touch at The River Hotel
 
-Botanik 27' feat. Ezequiel Arias & Double Touch at The River Hotel on Sun 24 Jan, Perth. 2 artists: Double Touch and Ezequiel Arias. See the line-up on soundcheck.
+Botanik 27' feat. Ezequiel Arias & Double Touch at The River Hotel on Sun 24 Jan, Perth. 2 artists: Double Touch and Ezequiel Arias. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

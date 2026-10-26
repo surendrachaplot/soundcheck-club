@@ -1,6 +1,6 @@
 # Kuona
 
-Kuona is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Frieda's Büxe, Zurich on Sat, 21 Nov 2026.
+Kuona is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Frieda's Büxe, Zurich on Sat, 21 Nov 2026.
 
 Kuona is a techno and house artist based in Switzerland, with 5 gigs on soundcheck across Zurich. Often billed alongside Fadi Mohem, Ben Sims and Cortez. Next up: Frieda's Büxe, Zurich on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Kuona is a techno and house artist based in Switzerland, with 5 gigs on soundche
 
 Fadi Mohem, Ben Sims, Cortez (2)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuona/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuona/)*

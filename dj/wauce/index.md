@@ -1,6 +1,6 @@
 # Wauce
 
-Wauce is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Honey's, New York City on Sun, 15 Nov 2026.
+Wauce is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Honey's, New York City on Sun, 15 Nov 2026.
 
 Wauce is a house and deep house artist, with 7 gigs on soundcheck across New York City. Often billed alongside Caire, [Kyle Davis] and CMD+JAZMINE. Next up: Honey's, New York City on Sun 15 Nov.
 
@@ -23,4 +23,4 @@ Wauce is a house and deep house artist, with 7 gigs on soundcheck across New Yor
 
 Caire, [Kyle Davis], CMD+JAZMINE
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wauce/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wauce/)*

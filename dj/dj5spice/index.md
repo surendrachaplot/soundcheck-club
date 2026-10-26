@@ -1,6 +1,6 @@
 # dj 5spice
 
-dj 5spice is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mood Ring, New York City on Fri, 30 Oct 2026.
+dj 5spice is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mood Ring, New York City on Fri, 30 Oct 2026.
 
 dj 5spice is a footwork and club artist based in United States of America, with 20 gigs on soundcheck across New York City. Often billed alongside DJ Fat Frog, satandoll and AG. Next up: Mood Ring, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ dj 5spice is a footwork and club artist based in United States of America, with 
 
 DJ Fat Frog, satandoll, AG (1)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj5spice/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj5spice/)*

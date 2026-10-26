@@ -1,6 +1,6 @@
 # mollygotmetrippin
 
-mollygotmetrippin is a Hardcore and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 29 Oct 2026.
+mollygotmetrippin is a Hardcore and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 29 Oct 2026.
 
 mollygotmetrippin is a hardcore and industrial artist, with 8 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Pouty's Rage, de.lus and DJ AstroNat. Next up: TRANSMISSION DC, Washington DC on Thu 29 Oct.
 
@@ -24,4 +24,4 @@ mollygotmetrippin is a hardcore and industrial artist, with 8 gigs on soundcheck
 
 Pouty's Rage, de.lus, DJ AstroNat
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollygotmetrippin/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollygotmetrippin/)*

@@ -1,13 +1,14 @@
 # Magdalena (DE)
 
-Magdalena (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Fri, 4 Dec 2026.
+Magdalena (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Gallery, London on Sat, 28 Nov 2026.
 
-Magdalena (DE) is a techno and house artist, with 55 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Nina Kraviz, 19:26 and ALX. Next up: Factory Town, Miami on Fri 4 Dec.
+Magdalena (DE) is a techno and house artist, with 56 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Nina Kraviz, 19:26 and ALX. Next up: Gallery, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Gallery | London |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ Magdalena (DE) is a techno and house artist, with 55 gigs on soundcheck across A
 
 Nina Kraviz, 19:26, ALX
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena-de/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena-de/)*

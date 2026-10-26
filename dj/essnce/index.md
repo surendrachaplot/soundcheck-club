@@ -1,6 +1,6 @@
 # ESSNCE
 
-ESSNCE is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Theata, London on Fri, 30 Oct 2026.
+ESSNCE is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Theata, London on Fri, 30 Oct 2026.
 
 ESSNCE is a tech house and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Austria, Ibiza and London and 1 more. Often billed alongside Maqossa, Benny Rodrigues and AOB. Next up: Theata, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ ESSNCE is a tech house and house artist based in Netherlands, with 17 gigs on so
 
 Maqossa, Benny Rodrigues, AOB
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essnce/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essnce/)*

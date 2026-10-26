@@ -1,6 +1,6 @@
 # Bodeek
 
-Bodeek is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Point de chhht x Dolores" on Tue, 27 Oct 2026.
+Bodeek is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Point de chhht x Dolores" on Tue, 27 Oct 2026.
 
 Bodeek is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including JANO, Laura Conant, LOV and Marouchka and 2 more. See dates, start times and who's playing. Rue de Birmingham, 30.
 
@@ -15,4 +15,4 @@ Bodeek is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with 
 
 Rue de Birmingham, 30, Brussels
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bodeek/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bodeek/)*

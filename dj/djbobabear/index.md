@@ -1,6 +1,6 @@
 # DJ BOBA BEAR
 
-DJ BOBA BEAR is a Pop and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Chunhee, Seoul on Fri, 30 Oct 2026.
+DJ BOBA BEAR is a Pop and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Chunhee, Seoul on Fri, 30 Oct 2026.
 
 DJ BOBA BEAR is a pop and ebm artist, with 6 gigs on soundcheck across Seoul. Often billed alongside Earthbender, KISEWA and yuyungsik. Next up: Chunhee, Seoul on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ DJ BOBA BEAR is a pop and ebm artist, with 6 gigs on soundcheck across Seoul. Of
 
 Earthbender, KISEWA, yuyungsik
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbobabear/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbobabear/)*

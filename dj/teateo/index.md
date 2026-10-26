@@ -1,6 +1,6 @@
 # Teateo
 
-Teateo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Melt Underground, Buenos Aires on Sat, 21 Nov 2026.
+Teateo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Melt Underground, Buenos Aires on Sat, 21 Nov 2026.
 
 Teateo is a techno and industrial artist based in Argentina, with 7 gigs on soundcheck across Buenos Aires. Often billed alongside Bondarük, GLIA and Invertida. Next up: Melt Underground, Buenos Aires on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Teateo is a techno and industrial artist based in Argentina, with 7 gigs on soun
 
 Bondarük, GLIA, Invertida
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teateo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teateo/)*

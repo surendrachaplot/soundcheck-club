@@ -1,14 +1,15 @@
 # Asagaya Drift
 
-Asagaya Drift is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "曙光" on Tue, 3 Nov 2026.
+Asagaya Drift is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "曙光" on Tue, 3 Nov 2026.
 
-Asagaya Drift is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Cho Room, nanatranquillo, PANICWORKS and saqess. See dates, start times and who's playing. 〒166-0004 Tokyo, Suginami City, Asagayaminami, 3 Chome−38−30 清水ビル 3F.
+Asagaya Drift is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Cho Room, nanatranquillo, PANICWORKS and saqess and 1 more. See dates, start times and who's playing. 〒166-0004 Tokyo, Suginami City, Asagayaminami, 3 Chome−38−30 清水ビル 3F.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 3 Nov 2026 | 曙光 |  |
+| Fri, 6 Nov 2026 | PASSION CENTER | theoretic |
 | Fri, 13 Nov 2026 | GoldenYard vol.2: Bombaclart Bass Takeover | Cho Room, PANICWORKS, nanatranquillo, saqess |
 | Sat, 14 Nov 2026 | EN TO DANCE |  |
 
@@ -16,4 +17,4 @@ Asagaya Drift is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, w
 
 〒166-0004 Tokyo, Suginami City, Asagayaminami, 3 Chome−38−30 清水ビル 3F, Tokyo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/asagaya-drift/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/asagaya-drift/)*

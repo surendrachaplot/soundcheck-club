@@ -1,14 +1,13 @@
 # McChuills Music Bar
 
-McChuills Music Bar is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Let's Go Back's Sunday Soundclash Rave - Big Miz // FREE ENTRY" on Sun, 25 Oct 2026.
+McChuills Music Bar is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Co-Accused with Billy Nasty & Domenic Cappello" on Sat, 31 Oct 2026.
 
-McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs, with line-ups including Accident Machine, Big Miz, Billy Nasty and Bonzai Bonner and 2 more. See dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
+McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs, with line-ups including Accident Machine, Billy Nasty, Bonzai Bonner and David Vunk and 2 more. See dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Let's Go Back's Sunday Soundclash Rave - Big Miz // FREE ENTRY | Big Miz |
 | Sat, 31 Oct 2026 | Co-Accused with Billy Nasty & Domenic Cappello | Billy Nasty, Domenic Cappello, Raymond |
 | Sun, 1 Nov 2026 | Heavenphetamine + Accident Machine - McChuills Glasgow | Accident Machine |
 | Sat, 7 Nov 2026 | Shoot Your Shot X Let's Go Back - INTO THE VAULT (NEW BEAT / EBM / ACID) | Bonzai Bonner |
@@ -22,4 +21,4 @@ McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 9 upcoming
 
 80 High St, Glasgow G1 1NL, Glasgow
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*

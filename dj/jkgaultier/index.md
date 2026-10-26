@@ -1,6 +1,6 @@
 # Jk Gaultier
 
-Jk Gaultier is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Secret Location, Vancouver on Sat, 5 Dec 2026.
+Jk Gaultier is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location, Vancouver on Sat, 5 Dec 2026.
 
 Jk Gaultier is a house and techno artist based in Canada, with 8 gigs on soundcheck across Vancouver. Often billed alongside Kon Radd, Max Ulis and Njoki Njoki. Next up: TBA - Secret Location, Vancouver on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Jk Gaultier is a house and techno artist based in Canada, with 8 gigs on soundch
 
 Kon Radd, Max Ulis, Njoki Njoki
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkgaultier/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkgaultier/)*

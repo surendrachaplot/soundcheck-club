@@ -1,6 +1,6 @@
 # HOESEPHINE
 
-HOESEPHINE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at BASIS, Utrecht on Sat, 21 Nov 2026.
+HOESEPHINE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at BASIS, Utrecht on Sat, 21 Nov 2026.
 
 HOESEPHINE is a trance and techno artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Berlin and Utrecht. Often billed alongside Vall Du Son, DJ Henk and Maruwa. Next up: BASIS, Utrecht on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ HOESEPHINE is a trance and techno artist based in Netherlands, with 16 gigs on s
 
 Vall Du Son, DJ Henk, Maruwa
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoesephine/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoesephine/)*

@@ -1,6 +1,6 @@
 # Rainy Miller
 
-Rainy Miller is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Rainy Miller is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 Rainy Miller is an experimental and electronica artist based in United Kingdom, with 54 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brussels and 15 more. Often billed alongside 2K88, Bianca Scout and aya. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rainy Miller is an experimental and electronica artist based in United Kingdom, 
 
 2K88, Bianca Scout, aya
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainymiller/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rainymiller/)*

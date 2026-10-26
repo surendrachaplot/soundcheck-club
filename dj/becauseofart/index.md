@@ -1,6 +1,6 @@
 # Because of Art
 
-Because of Art is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Timber Loft, London on Fri, 30 Oct 2026.
+Because of Art is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Timber Loft, London on Fri, 30 Oct 2026.
 
 Because of Art is a progressive house and deep house artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Leeds and 11 more. Often billed alongside Jody Wisternoff, Nicky Elisabeth and Braxton. Next up: The Timber Loft, London on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Because of Art is a progressive house and deep house artist based in United King
 
 Jody Wisternoff, Nicky Elisabeth, Braxton
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becauseofart/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becauseofart/)*

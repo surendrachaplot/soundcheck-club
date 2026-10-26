@@ -1,6 +1,6 @@
 # Kormos
 
-Kormos is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at SASS Music Club, Vienna on Thu, 29 Oct 2026.
+Kormos is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at SASS Music Club, Vienna on Thu, 29 Oct 2026.
 
 Kormos is a house and minimal artist based in Turkey, with 19 gigs on soundcheck across Budapest, London, Prague and Vienna. Often billed alongside Nick Hanzo, Sam Gittis and Nizar Sarakbi. Next up: SASS Music Club, Vienna on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Kormos is a house and minimal artist based in Turkey, with 19 gigs on soundcheck
 
 Nick Hanzo, Sam Gittis, Nizar Sarakbi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kormos/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kormos/)*

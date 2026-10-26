@@ -1,6 +1,6 @@
 # Alicea
 
-Alicea is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
+Alicea is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
 
 Alicea is a techno and trance artist based in Germany, with 116 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 6 more. Often billed alongside Louis EMP, DJ Yugo and VSSL. Next up: Rote Sonne, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alicea is a techno and trance artist based in Germany, with 116 gigs on soundche
 
 Louis EMP, DJ Yugo, VSSL
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicea/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicea/)*

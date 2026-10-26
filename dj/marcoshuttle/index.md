@@ -1,6 +1,6 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hoppetosse, Berlin on Sun, 1 Nov 2026.
+Marco Shuttle is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Hoppetosse, Berlin on Sun, 1 Nov 2026.
 
 Marco Shuttle is a techno and house artist based in Italy, with 173 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Hoppetosse, Berlin on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Marco Shuttle is a techno and house artist based in Italy, with 173 gigs on soun
 
 Jane Fitz, Erika, Paquita Gordon
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*

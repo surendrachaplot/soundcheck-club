@@ -1,6 +1,6 @@
 # shunug (1)
 
-shunug (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Triqis, London on Thu, 5 Nov 2026.
+shunug (1) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Triqis, London on Thu, 5 Nov 2026.
 
 shunug is a house and garage artist based in United States of America, with 6 gigs on soundcheck across London and Los Angeles. Often billed alongside KEL, Damar Davis and Dean Bryce. Next up: Triqis, London on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ shunug is a house and garage artist based in United States of America, with 6 gi
 
 KEL (3), Damar Davis, Dean Bryce
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shunug-1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shunug-1/)*

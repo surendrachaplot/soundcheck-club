@@ -1,6 +1,6 @@
 # ell.iot
 
-ell.iot is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Boavista Social Club, Portugal on Sat, 14 Nov 2026.
+ell.iot is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Boavista Social Club, Portugal on Sat, 14 Nov 2026.
 
 ell.iot is a house and electro artist based in United Kingdom, with 25 gigs on soundcheck across Cardiff, Dublin, Leeds and Liverpool and 6 more. Often billed alongside Dowd, DJ Peach Iced Tea and Quick William. Next up: Boavista Social Club, Portugal on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ ell.iot is a house and electro artist based in United Kingdom, with 25 gigs on s
 
 Dowd, DJ Peach Iced Tea, Quick William
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ell.iot/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ell.iot/)*

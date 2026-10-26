@@ -1,14 +1,15 @@
 # Melushka
 
-Melushka is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Graf Karl, Kassel on Sat, 31 Oct 2026.
+Melushka is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Graf Karl, Kassel on Sat, 31 Oct 2026.
 
-Melushka is a trance and techno artist based in Germany, with 64 gigs on soundcheck across Berlin, Hamburg, Hannover and Kassel and 2 more. Often billed alongside VIVUS, Arman John and 5euroGoldi. Next up: Graf Karl, Kassel on Sat 31 Oct.
+Melushka is a trance and techno artist based in Germany, with 65 gigs on soundcheck across Berlin, Hamburg, Hannover and Kassel and 2 more. Often billed alongside VIVUS, Arman John and 5euroGoldi. Next up: Graf Karl, Kassel on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Graf Karl | Kassel |
+| Sat, 28 Nov 2026 | WDM | Hannover |
 | Sat, 12 Dec 2026 | WDM | Hannover |
 | Wed, 23 Dec 2026 | Lokschuppen Berlin | Berlin |
 
@@ -27,4 +28,4 @@ Melushka is a trance and techno artist based in Germany, with 64 gigs on soundch
 
 VIVUS, Arman John, 5euroGoldi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melushka/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melushka/)*

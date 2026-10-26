@@ -1,6 +1,6 @@
 # Murf
 
-Murf is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Arch 535, London on Sat, 21 Nov 2026.
+Murf is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Arch 535, London on Sat, 21 Nov 2026.
 
 Murf is a techno and house artist based in United Kingdom, with 5 gigs on soundcheck across Dublin, London and Osaka. Often billed alongside Miss C MCDJ, Mr C and 3 Minds. Next up: Arch 535, London on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Murf is a techno and house artist based in United Kingdom, with 5 gigs on soundc
 
 Miss C MCDJ, Mr C, 3 Minds
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murf/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murf/)*

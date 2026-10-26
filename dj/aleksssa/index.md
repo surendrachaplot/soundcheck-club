@@ -1,6 +1,6 @@
 # aleksssa
 
-aleksssa is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 6 Nov 2026.
+aleksssa is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 6 Nov 2026.
 
 aleksssa is a techno and club artist based in Serbia, with 36 gigs on soundcheck across Beijing, Belgrade, Chongqing and Malta and 2 more. Often billed alongside Essio, Lollipop Janosz and .Paragon. Next up: Drugstore Beograd, Belgrade on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ aleksssa is a techno and club artist based in Serbia, with 36 gigs on soundcheck
 
 Essio, Lollipop Janosz, .Paragon
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksssa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksssa/)*

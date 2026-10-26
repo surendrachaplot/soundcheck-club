@@ -1,6 +1,6 @@
 # Dana Vicci
 
-Dana Vicci is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Warehouse, Tampa Bay on Sat, 19 Dec 2026.
+Dana Vicci is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Warehouse, Tampa Bay on Sat, 19 Dec 2026.
 
 Dana Vicci is a techno and ghetto tech artist based in Canada, with 7 gigs on soundcheck across Tampa Bay, Toronto and Vancouver. Often billed alongside Above & Beyond, Armin van Buuren and Black Tiger Sex Machine. Next up: TBA - Warehouse, Tampa Bay on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Dana Vicci is a techno and ghetto tech artist based in Canada, with 7 gigs on so
 
 Above & Beyond, Armin van Buuren, Black Tiger Sex Machine
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danavicci/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danavicci/)*

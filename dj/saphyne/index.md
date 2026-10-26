@@ -1,6 +1,6 @@
 # Saphyne
 
-Saphyne is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
+Saphyne is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
 
 Saphyne is a house and breakbeat artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Adriana Honey, Alex Rebel and Alfonso. Next up: Union Club, Vauxhall, London on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Saphyne is a house and breakbeat artist based in United Kingdom, with 7 gigs on 
 
 Adriana Honey, Alex Rebel, Alfonso
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saphyne/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saphyne/)*

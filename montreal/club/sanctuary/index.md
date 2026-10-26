@@ -1,6 +1,6 @@
 # Sanctuary
 
-Sanctuary is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Don Barbarino vs Shelton Cooper" on Fri, 30 Oct 2026.
+Sanctuary is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Don Barbarino vs Shelton Cooper" on Fri, 30 Oct 2026.
 
 Sanctuary is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including Clochette, Crescenzo, Jino K and Racil. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Sanctuary is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, wi
 | Fri, 30 Oct 2026 | Don Barbarino vs Shelton Cooper |  |
 | Sat, 31 Oct 2026 | Black Sunrise - Inner Circle  | Clochette, Crescenzo, Jino K, Racil |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sanctuary/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sanctuary/)*

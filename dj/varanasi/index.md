@@ -1,6 +1,6 @@
 # Varanasi
 
-Varanasi is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+Varanasi is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
 Varanasi is a techno and progressive house artist based in United Kingdom, with 39 gigs on soundcheck across Berlin, Brighton, London and Manchester. Often billed alongside Himboy, RayRay and SBBS. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Varanasi is a techno and progressive house artist based in United Kingdom, with 
 
 Himboy, RayRay, SBBS
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*

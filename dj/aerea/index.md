@@ -1,6 +1,6 @@
 # AEREA
 
-AEREA is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+AEREA is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
 AEREA is a techno and trance artist based in Spain, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 50 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
@@ -36,4 +36,4 @@ AEREA is a techno and trance artist based in Spain, with 82 gigs on soundcheck a
 
 future.666, DJ Hyperdrive, ÜBERKIKZ
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*

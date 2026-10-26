@@ -1,6 +1,6 @@
 # Hoxton Cabin
 
-Hoxton Cabin is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Underground Halloween Party (Vinyl night)" on Sat, 31 Oct 2026.
+Hoxton Cabin is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Underground Halloween Party (Vinyl night)" on Sat, 31 Oct 2026.
 
 Hoxton Cabin is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Acid Steve, AlberKeitor, Benebe and Big Nick D and 2 more. See dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
 
@@ -18,4 +18,4 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 5 upcoming gigs, w
 
 132 Kingsland Rd, London E2 8DP, United Kingdom, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*

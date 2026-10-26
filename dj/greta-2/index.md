@@ -1,6 +1,6 @@
 # GRETA (2)
 
-GRETA (2) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
+GRETA (2) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
 
 GRETA is a house and techno artist based in Italy, with 64 gigs on soundcheck across Barcelona, Berlin, Brussels and London and 4 more. Often billed alongside ki:ke, Ramî and Julian Feierabend. Next up: Zentralwäscherei, Zurich on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ GRETA is a house and techno artist based in Italy, with 64 gigs on soundcheck ac
 
 ki:ke, Ramî, Julian Feierabend
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-2/)*

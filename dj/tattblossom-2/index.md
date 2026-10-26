@@ -1,6 +1,6 @@
 # TATT BLOSSOM
 
-TATT BLOSSOM is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 31 Oct 2026.
+TATT BLOSSOM is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 31 Oct 2026.
 
 TATT BLOSSOM is a techno and industrial artist, with 16 gigs on soundcheck across Amsterdam and Sofia. Often billed alongside KR:KD K, Polith and ALICE VR. Next up: Купе / Kupe, Sofia on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ TATT BLOSSOM is a techno and industrial artist, with 16 gigs on soundcheck acros
 
 KR:KD K, Polith, ALICE VR
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tattblossom-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tattblossom-2/)*

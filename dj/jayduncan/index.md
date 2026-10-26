@@ -1,14 +1,13 @@
 # Jay Duncan
 
-Jay Duncan is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+Jay Duncan is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at M.O.T, London on Thu, 29 Oct 2026.
 
-Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 13 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
+Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 13 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: M.O.T, London on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | 桃園玉山街影視基地 | Taipei |
 | Thu, 29 Oct 2026 | M.O.T | London |
 | Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 13 Nov 2026 | The Greyhound | London |
@@ -31,4 +30,4 @@ Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on
 
 Lukas Wigflex, Bethan, FAFF
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*

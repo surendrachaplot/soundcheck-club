@@ -1,6 +1,6 @@
 # ZoéZo
 
-ZoéZo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Funke, Ghent on Fri, 13 Nov 2026.
+ZoéZo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Funke, Ghent on Fri, 13 Nov 2026.
 
 ZoéZo is a house and minimal artist based in Belgium, with 14 gigs on soundcheck across Antwerp, Brussels, Ghent and Hamburg. Often billed alongside Deejames, Lathouwers and WLC (BE). Next up: Funke, Ghent on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ZoéZo is a house and minimal artist based in Belgium, with 14 gigs on soundchec
 
 Deejames, Lathouwers, WLC (BE)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezo/)*

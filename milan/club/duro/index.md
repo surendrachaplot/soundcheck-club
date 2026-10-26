@@ -1,6 +1,6 @@
 # DURO
 
-DURO is a music venue in Milan with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "ECHO - Roster" on Fri, 30 Oct 2026.
+DURO is a music venue in Milan with 14 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "ECHO - Roster" on Fri, 30 Oct 2026.
 
 DURO is a music venue in Milan listed on soundcheck. 14 upcoming gigs, with line-ups including Biocym, Chloé, DRUMS AND CHANTS and Feral and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
 
@@ -23,4 +23,4 @@ DURO is a music venue in Milan listed on soundcheck. 14 upcoming gigs, with line
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

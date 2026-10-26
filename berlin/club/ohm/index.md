@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Official Kelela Afterparty - presented by Einhundert and Plural Artist Management" on Thu, 29 Oct 2026.
+OHM is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Official Kelela Afterparty - presented by Einhundert and Plural Artist Management" on Thu, 29 Oct 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including aeriform, AliA, Amaliah and Ario and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

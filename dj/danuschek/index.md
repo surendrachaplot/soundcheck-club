@@ -1,6 +1,6 @@
 # danuschek
 
-danuschek is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 19 Nov 2026.
+danuschek is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 19 Nov 2026.
 
 danuschek is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Munich. Often billed alongside Terzenbreaker, antyo and LOOMINAS. Next up: Bahnwärter Thiel, Munich on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ danuschek is a trance and techno artist based in Germany, with 10 gigs on soundc
 
 Terzenbreaker, antyo, LOOMINAS
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danuschek/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danuschek/)*

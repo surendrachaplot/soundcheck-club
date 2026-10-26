@@ -1,8 +1,8 @@
 # Serenne
 
-Serenne is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Distrikt, Leeds on Sat, 31 Oct 2026.
+Serenne is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Distrikt, Leeds on Sat, 31 Oct 2026.
 
-Serenne is a house and minimal artist based in Switzerland, with 50 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Distrikt, Leeds on Sat 31 Oct.
+Serenne is a house and minimal artist based in Switzerland, with 51 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Distrikt, Leeds on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Serenne is a house and minimal artist based in Switzerland, with 50 gigs on soun
 
 ## Recently played
 
+- Klaproos, Amsterdam · Sun, 25 Oct 2026
 - ingang, Amsterdam · Fri, 23 Oct 2026
 - Golden Pudel Club, Hamburg · Sat, 17 Oct 2026
 - Haus der Visionäre, Berlin · Sat, 26 Sept 2026
@@ -24,10 +25,9 @@ Serenne is a house and minimal artist based in Switzerland, with 50 gigs on soun
 - Club der Visionaere, Berlin · Fri, 31 Jul 2026
 - Doka, Amsterdam · Sat, 18 Jul 2026
 - Doka, Amsterdam · Sat, 18 Jul 2026
-- Supermarket, Zurich · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenne/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenne/)*

@@ -1,6 +1,6 @@
 # James Blake
 
-James Blake is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+James Blake is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 James Blake is an electro and electronica artist based in United Kingdom, with 33 gigs on soundcheck across Bali, Barcelona, Bristol and Chicago and 16 more. Often billed alongside Airhead, Overmono and DJ Holographic. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ James Blake is an electro and electronica artist based in United Kingdom, with 3
 
 Airhead, Overmono, DJ Holographic
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesblake/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesblake/)*

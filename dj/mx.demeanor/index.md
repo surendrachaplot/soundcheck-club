@@ -1,6 +1,6 @@
 # Mx. Demeanor
 
-Mx. Demeanor is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Sinclair, Boston on Sat, 31 Oct 2026.
+Mx. Demeanor is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Sinclair, Boston on Sat, 31 Oct 2026.
 
 Mx. Demeanor is a house and disco artist based in United States of America, with 7 gigs on soundcheck across Boston and New York City. Often billed alongside DJ Brian Halligan, DEMEANOR and Math3ca. Next up: The Sinclair, Boston on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Mx. Demeanor is a house and disco artist based in United States of America, with
 
 DJ Brian Halligan, DEMEANOR, Math3ca
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mx.demeanor/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mx.demeanor/)*

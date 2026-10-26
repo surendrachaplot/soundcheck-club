@@ -1,6 +1,6 @@
 # RED KING
 
-RED KING is a Grime and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Pleasance Courtyard, Edinburgh on Fri, 13 Nov 2026.
+RED KING is a Grime and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pleasance Courtyard, Edinburgh on Fri, 13 Nov 2026.
 
 RED KING is a grime and garage artist based in United Kingdom, with 10 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside JI_2001, Rapture 4D and Jurnalist. Next up: Pleasance Courtyard, Edinburgh on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ RED KING is a grime and garage artist based in United Kingdom, with 10 gigs on s
 
 JI_2001, Rapture 4D, Jurnalist
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redking/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redking/)*

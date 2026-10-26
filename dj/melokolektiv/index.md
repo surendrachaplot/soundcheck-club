@@ -1,6 +1,6 @@
 # Melokolektiv
 
-Melokolektiv is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Audio Club, Geneva on Fri, 13 Nov 2026.
+Melokolektiv is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Audio Club, Geneva on Fri, 13 Nov 2026.
 
 Melokolektiv is a house and deep house artist based in France, with 8 gigs on soundcheck across Amsterdam, Geneva, London and Marseille and 2 more. Often billed alongside AMÉMÉ, Amour Propre and Birds of Mind. Next up: Audio Club, Geneva on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Melokolektiv is a house and deep house artist based in France, with 8 gigs on so
 
 AMÉMÉ, Amour Propre, Birds of Mind
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melokolektiv/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melokolektiv/)*

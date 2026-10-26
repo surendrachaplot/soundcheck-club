@@ -1,6 +1,6 @@
 # Sveta Shtrom
 
-Sveta Shtrom is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Sat, 31 Oct 2026.
+Sveta Shtrom is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Sat, 31 Oct 2026.
 
 Sveta Shtrom is a house and tech house artist, with 11 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Lafrench Toast, Hotmode and JACKIN' I'M!. Next up: Mad Radio Bogotá, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sveta Shtrom is a house and tech house artist, with 11 gigs on soundcheck across
 
 Lafrench Toast, Hotmode, JACKIN' I'M!
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svetashtrom/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svetashtrom/)*

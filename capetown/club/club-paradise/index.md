@@ -1,6 +1,6 @@
 # Club Paradise
 
-Club Paradise is a music venue in Cape Town with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Paradigm" on Fri, 6 Nov 2026.
+Club Paradise is a music venue in Cape Town with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Paradigm" on Fri, 6 Nov 2026.
 
 Club Paradise is a music venue in Cape Town listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Club Paradise is a music venue in Cape Town listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Paradigm |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/capetown/club/club-paradise/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/capetown/club/club-paradise/)*

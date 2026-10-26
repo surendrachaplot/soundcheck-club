@@ -1,18 +1,18 @@
 # Hiele
 
-Hiele is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at San Francisco, Amsterdam on Sun, 25 Oct 2026.
+Hiele is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
-Hiele is an experimental and electro artist based in Belgium, with 8 gigs on soundcheck across Amsterdam, Antwerp, Brussels and London and 1 more. Often billed alongside Nosedrip, Voice Actor and Ben Bertrand. Next up: San Francisco, Amsterdam on Sun 25 Oct.
+Hiele is an experimental and electro artist based in Belgium, with 8 gigs on soundcheck across Amsterdam, Antwerp, Brussels and London and 1 more. Often billed alongside Nosedrip, Voice Actor and Ben Bertrand. Next up: Botanique, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | San Francisco | Amsterdam |
 | Sat, 28 Nov 2026 | Botanique | Brussels |
 
 ## Recently played
 
+- San Francisco, Amsterdam · Sun, 25 Oct 2026
 - La Perle, Brussels · Fri, 11 Sept 2026
 - Le Sample, Paris · Thu, 28 May 2026
 - Les Ateliers Claus, Brussels · Fri, 5 Dec 2025
@@ -24,4 +24,4 @@ Hiele is an experimental and electro artist based in Belgium, with 8 gigs on sou
 
 Nosedrip, Voice Actor, Ben Bertrand
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiele/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiele/)*

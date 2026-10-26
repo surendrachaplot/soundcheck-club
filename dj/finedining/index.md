@@ -1,6 +1,6 @@
 # finedining
 
-finedining is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+finedining is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
 finedining is a techno and trance artist based in Australia, with 7 gigs on soundcheck across Cologne, Sydney and Tokyo. Often billed alongside Lime Sky, $CRAIC and Alilia. Next up: TBA, Sydney on Wed 30 Dec.
 
@@ -23,4 +23,4 @@ finedining is a techno and trance artist based in Australia, with 7 gigs on soun
 
 Lime Sky, $CRAIC, Alilia
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finedining/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finedining/)*

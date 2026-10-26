@@ -1,6 +1,6 @@
-# Host with Dexter Colt (Lifted Trax, Singapore) [All Night Long] at 宀 Club
+# HOST with Dexter Colt (Lifted Trax, Singapore) [All Night Long] at 宀 Club
 
-Host with Dexter Colt (Lifted Trax, Singapore) [All Night Long] at 宀 Club on Sat 12 Dec, Hong Kong. 1 artist: Dexter Colt. House. See the line-up on soundcheck.
+HOST with Dexter Colt (Lifted Trax, Singapore) [All Night Long] at 宀 Club on Sat 12 Dec, Hong Kong. 1 artist: Dexter Colt. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

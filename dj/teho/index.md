@@ -1,6 +1,6 @@
 # Teho
 
-Teho is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Rockstore, Montpellier on Fri, 20 Nov 2026.
+Teho is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Rockstore, Montpellier on Fri, 20 Nov 2026.
 
 Teho is a techno and house artist based in France, with 37 gigs on soundcheck across Amsterdam, Basel, Berlin and Bordeaux and 16 more. Often billed alongside Joachim Pastor, Joris Delacroix and NTO. Next up: Rockstore, Montpellier on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Teho is a techno and house artist based in France, with 37 gigs on soundcheck ac
 
 Joachim Pastor, Joris Delacroix, NTO
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teho/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teho/)*

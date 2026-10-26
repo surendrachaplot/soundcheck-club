@@ -1,6 +1,6 @@
 # Private Hire at fabric
 
-Private Hire at fabric is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "The Halloween Rave at Fabric" on Thu, 29 Oct 2026.
+Private Hire at fabric is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "The Halloween Rave at Fabric" on Thu, 29 Oct 2026.
 
 Private Hire at fabric is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Private Hire at fabric is a music venue in London listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | The Halloween Rave at Fabric |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/private-hire-at-fabric/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/private-hire-at-fabric/)*

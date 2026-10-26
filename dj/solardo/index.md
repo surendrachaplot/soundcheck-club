@@ -1,6 +1,6 @@
 # Solardo
 
-Solardo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Future Nightlife, Toronto on Fri, 13 Nov 2026.
+Solardo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Future Nightlife, Toronto on Fri, 13 Nov 2026.
 
 Solardo is a house and tech house artist based in United Kingdom, with 163 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Bali and 50 more. Often billed alongside Claptone, Andrea Oliva and Vintage Culture. Next up: Future Nightlife, Toronto on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Solardo is a house and tech house artist based in United Kingdom, with 163 gigs 
 
 Claptone, Andrea Oliva, Vintage Culture
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solardo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solardo/)*

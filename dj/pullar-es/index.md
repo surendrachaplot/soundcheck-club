@@ -1,6 +1,6 @@
 # Pullär
 
-Pullär is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bridge 48, Barcelona on Sat, 31 Oct 2026.
+Pullär is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bridge 48, Barcelona on Sat, 31 Oct 2026.
 
 Pullär is a techno and electronica artist based in Spain, with 8 gigs on soundcheck across Barcelona. Often billed alongside KRYTE, Franco Brida and Freeka. Next up: Bridge 48, Barcelona on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Pullär is a techno and electronica artist based in Spain, with 8 gigs on soundc
 
 KRYTE, Franco Brida, Freeka
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pullar-es/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pullar-es/)*

@@ -1,6 +1,6 @@
 # CHAMOS
 
-CHAMOS is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Riviera Beach Club, Melbourne on Sun, 6 Dec 2026.
+CHAMOS is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Riviera Beach Club, Melbourne on Sun, 6 Dec 2026.
 
 CHAMOS is a club and house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Anish Kumar, Arthi and Bardia Ghobadi. Next up: Riviera Beach Club, Melbourne on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ CHAMOS is a club and house artist based in Netherlands, with 29 gigs on soundche
 
 Anish Kumar, Arthi, Bardia Ghobadi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chamos/)*

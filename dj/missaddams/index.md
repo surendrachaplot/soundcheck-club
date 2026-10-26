@@ -1,6 +1,6 @@
 # Miss Addams
 
-Miss Addams is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
+Miss Addams is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
 
 Miss Addams is an ebm and techno artist based in Finland, with 7 gigs on soundcheck across Berlin, Helsinki and New York City. Often billed alongside Desolate Discotheque, XTR HUMAN and ATZENPUNK. Next up: Festsaal Kreuzberg, Berlin on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Miss Addams is an ebm and techno artist based in Finland, with 7 gigs on soundch
 
 Desolate Discotheque, XTR HUMAN, ATZENPUNK
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missaddams/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missaddams/)*

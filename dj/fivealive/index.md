@@ -1,6 +1,6 @@
 # Five Alive
 
-Five Alive is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Five Alive is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 Five Alive is a jungle and drum & bass artist based in Canada, with 19 gigs on soundcheck across Amsterdam, Brighton, Cardiff and Leeds and 4 more. Often billed alongside DJ Hype, Nicky Blackmarket and Grooverider. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Five Alive is a jungle and drum & bass artist based in Canada, with 19 gigs on s
 
 DJ Hype, Nicky Blackmarket, Grooverider
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fivealive/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fivealive/)*

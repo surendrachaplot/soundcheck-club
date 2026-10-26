@@ -1,15 +1,13 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Ogazón is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
 
-Ogazón is a techno and house artist based in Luxembourg, with 309 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 78 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Bajes Amsterdam, Amsterdam on Sun 25 Oct.
+Ogazón is a techno and house artist based in Luxembourg, with 309 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 78 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Zoom Club, Frankfurt on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
-| Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Fri, 6 Nov 2026 | Zoom Club | Frankfurt |
 | Sat, 7 Nov 2026 | Q35 WAREHOUSE | Turin |
 | Fri, 13 Nov 2026 | Plano B | Porto |
@@ -20,20 +18,21 @@ Ogazón is a techno and house artist based in Luxembourg, with 309 gigs on sound
 | Sat, 5 Dec 2026 | Open Ground | Wuppertal |
 | Sat, 12 Dec 2026 | essaim | Paris |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
+| Fri, 28 May 2027 | Peckham Rye Park | London |
 
 ## Recently played
 
+- Bajes Amsterdam, Amsterdam · Sun, 25 Oct 2026
+- RADION, Amsterdam · Sun, 25 Oct 2026
 - BRET, Amsterdam · Fri, 23 Oct 2026
 - TBA, Amsterdam · Thu, 22 Oct 2026
 - Post Bar, Helsinki · Sat, 17 Oct 2026
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 16 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
-- Cockatoo Island, Sydney · Sun, 4 Oct 2026
-- Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

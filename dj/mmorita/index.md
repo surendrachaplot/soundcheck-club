@@ -1,6 +1,6 @@
 # MMORITA
 
-MMORITA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Chitei 地底, Tokyo on Sun, 1 Nov 2026.
+MMORITA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Chitei 地底, Tokyo on Sun, 1 Nov 2026.
 
 MMORITA is a techno and house artist based in Japan, with 44 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Phekam, SIROH and aqtagawa. Next up: Chitei 地底, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ MMORITA is a techno and house artist based in Japan, with 44 gigs on soundcheck 
 
 Phekam, SIROH, aqtagawa
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmorita/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmorita/)*

@@ -1,6 +1,6 @@
 # Inox Traxx
 
-Inox Traxx is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 30 Oct 2026.
+Inox Traxx is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 30 Oct 2026.
 
 Inox Traxx is a techno and house artist, with 94 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Ignez, Charlotte de Witte and Nastia Reigel. Next up: RSO.BERLIN, Berlin on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Inox Traxx is a techno and house artist, with 94 gigs on soundcheck across Amste
 
 Ignez, Charlotte de Witte, Nastia Reigel
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inoxtraxx/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inoxtraxx/)*

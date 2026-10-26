@@ -1,6 +1,6 @@
 # Paul K
 
-Paul K is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Supermarket, Zurich on Sat, 28 Nov 2026.
+Paul K is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Supermarket, Zurich on Sat, 28 Nov 2026.
 
 Paul K is a techno and deep house artist based in Germany, with 7 gigs on soundcheck across Berlin and Zurich. Often billed alongside Petre Inspirescu, Aline (CH) and Arapu. Next up: Supermarket, Zurich on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Paul K is a techno and deep house artist based in Germany, with 7 gigs on soundc
 
 Petre Inspirescu, Aline (CH), Arapu
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulk/)*

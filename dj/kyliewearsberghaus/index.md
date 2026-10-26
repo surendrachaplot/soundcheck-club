@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus
 
-Kylie Wears Berghaus is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Faith in Strangers, South-east on Fri, 30 Oct 2026.
+Kylie Wears Berghaus is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Faith in Strangers, South-east on Fri, 30 Oct 2026.
 
 Kylie Wears Berghaus is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across Athens, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Hannah Holland, KENZA and miszo. Next up: Faith in Strangers, South East on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, with 
 
 Hannah Holland, KENZA, miszo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*

@@ -1,6 +1,6 @@
 # Third Party
 
-Third Party is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at MÄX, Zurich on Fri, 6 Nov 2026.
+Third Party is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at MÄX, Zurich on Fri, 6 Nov 2026.
 
 Third Party is a progressive house and techno artist, with 18 gigs on soundcheck across Amsterdam, Bangkok, Detroit and Ibiza and 8 more. Often billed alongside Corey James, Alesso and Martin Garrix. Next up: MÄX, Zurich on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Third Party is a progressive house and techno artist, with 18 gigs on soundcheck
 
 Corey James, Alesso, Martin Garrix
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdparty/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdparty/)*

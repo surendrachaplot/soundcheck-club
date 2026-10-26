@@ -1,6 +1,6 @@
 # ERNST (NL)
 
-ERNST (NL) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Smolna, Warsaw on Sun, 25 Oct 2026.
+ERNST (NL) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Smolna, Warsaw on Sun, 25 Oct 2026.
 
 ERNST (NL) is an electronic artist, with 6 gigs on soundcheck across Vienna, Warsaw and Wroclaw. Often billed alongside Józef Keuner, SCHELLT and VRAXX. Next up: Smolna, Warsaw on Sun 25 Oct.
 
@@ -12,6 +12,7 @@ ERNST (NL) is an electronic artist, with 6 gigs on soundcheck across Vienna, War
 
 ## Recently played
 
+- Smolna, Warsaw · Sun, 25 Oct 2026
 - Ciało, Wroclaw · Fri, 15 May 2026
 - Smolna, Warsaw · Fri, 28 Nov 2025
 - Gürtel Wien, Vienna · Sat, 25 Oct 2025
@@ -22,4 +23,4 @@ ERNST (NL) is an electronic artist, with 6 gigs on soundcheck across Vienna, War
 
 Józef Keuner, SCHELLT, VRAXX
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ernst-nl/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ernst-nl/)*

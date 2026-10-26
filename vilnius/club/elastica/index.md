@@ -1,6 +1,6 @@
 # Elastica
 
-Elastica is a music venue in Vilnius with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Elastica: Colin Benders ❚ ESMĖ ❚ Phase Line ❚ SHN" on Fri, 30 Oct 2026.
+Elastica is a music venue in Vilnius with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Elastica: Colin Benders ❚ ESMĖ ❚ Phase Line ❚ SHN" on Fri, 30 Oct 2026.
 
 Elastica is a music venue in Vilnius listed on soundcheck. 4 upcoming gigs, with line-ups including 999999999, Acidless, Colin Benders and Dominetrix and 2 more. See dates, start times and who's playing. Geležinkelio 6, Vilnius, Lithuania.
 
@@ -17,4 +17,4 @@ Elastica is a music venue in Vilnius listed on soundcheck. 4 upcoming gigs, with
 
 Geležinkelio 6, Vilnius, Lithuania, Vilnius
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/elastica/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/elastica/)*

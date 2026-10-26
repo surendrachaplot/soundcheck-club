@@ -1,6 +1,6 @@
 # Cristian Sirica
 
-Cristian Sirica is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hoxton Cabin, London on Fri, 27 Nov 2026.
+Cristian Sirica is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hoxton Cabin, London on Fri, 27 Nov 2026.
 
 Cristian Sirica is a house and techno artist based in Italy, with 41 gigs on soundcheck across London. Often billed alongside David Agrella, Benebe and John's. Next up: Hoxton Cabin, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Cristian Sirica is a house and techno artist based in Italy, with 41 gigs on sou
 
 David Agrella, Benebe, John's
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansirica/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansirica/)*

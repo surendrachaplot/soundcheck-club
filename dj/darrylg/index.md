@@ -1,6 +1,6 @@
 # Darryl G
 
-Darryl G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at HALO DETROIT, Detroit on Sat, 7 Nov 2026.
+Darryl G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at HALO DETROIT, Detroit on Sat, 7 Nov 2026.
 
 Darryl G is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Detroit. Often billed alongside Stacey Hotwaxx Hale, Tylr and Dr Poppers. Next up: HALO DETROIT, Detroit on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Darryl G is a house and techno artist based in United States of America, with 64
 
 Stacey Hotwaxx Hale, Tylr, Dr Poppers
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrylg/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrylg/)*

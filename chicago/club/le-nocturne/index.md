@@ -1,14 +1,13 @@
 # Le Nocturne
 
-Le Nocturne is a music venue in Chicago with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Speakeasy House Radio: K' Alexi Shelby, VITIGRRL, MARRIO" on Sun, 25 Oct 2026.
+Le Nocturne is a music venue in Chicago with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "A Chosen Few DJs House Music Halloween w $1,000 Costume Contests" on Fri, 30 Oct 2026.
 
-Le Nocturne is a music venue in Chicago listed on soundcheck. 8 upcoming gigs, with line-ups including DJ Heather, DJ Holographic, Duke Shin and Gene Hunt and 2 more. See dates, start times and who's playing. 4810 N Brodway, Chicago IL - 60640.
+Le Nocturne is a music venue in Chicago listed on soundcheck. 7 upcoming gigs, with line-ups including DJ Heather, DJ Holographic, Duke Shin and Gene Hunt and 2 more. See dates, start times and who's playing. 4810 N Brodway, Chicago IL - 60640.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Speakeasy House Radio: K' Alexi Shelby, VITIGRRL, MARRIO | MARRIO, Mr K-Alexi, VITIGRRL |
 | Fri, 30 Oct 2026 | A Chosen Few DJs House Music Halloween w $1,000 Costume Contests | Duke Shin, Mike Dunn, Wayne Williams |
 | Fri, 30 Oct 2026 | Chosen Few DJs Halloween Party | Duke Shin, Mike Dunn, Wayne Williams |
 | Sat, 31 Oct 2026 | A Chosen Few DJs House Music Halloween Day Party w $1,000 Costume Contests | Duke Shin, Gene Hunt, Terry Hunter |
@@ -21,4 +20,4 @@ Le Nocturne is a music venue in Chicago listed on soundcheck. 8 upcoming gigs, w
 
 4810 N Brodway, Chicago IL - 60640, Chicago
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*

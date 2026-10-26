@@ -1,6 +1,6 @@
 # Lily Haz
 
-Lily Haz is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Tempelhofer Feld, Berlin on Sat, 31 Oct 2026.
+Lily Haz is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Tempelhofer Feld, Berlin on Sat, 31 Oct 2026.
 
 Lily Haz is an electro and bass artist, with 35 gigs on soundcheck across Berlin, Hamburg, Liverpool and London and 2 more. Often billed alongside WD40, Rafush and Katzele. Next up: TBA - Tempelhofer Feld, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lily Haz is an electro and bass artist, with 35 gigs on soundcheck across Berlin
 
 WD40, Rafush, Katzele
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyhaz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyhaz/)*

@@ -1,6 +1,6 @@
 # krioso
 
-krioso is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Yard, Manchester on Sat, 31 Oct 2026.
+krioso is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Yard, Manchester on Sat, 31 Oct 2026.
 
 krioso is a house and garage artist based in United Kingdom, with 33 gigs on soundcheck across Manchester. Often billed alongside Jumbled, Nick Charles and Javan. Next up: The Yard, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ krioso is a house and garage artist based in United Kingdom, with 33 gigs on sou
 
 Jumbled, Nick Charles, Javan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krioso/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krioso/)*

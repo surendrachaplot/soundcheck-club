@@ -1,8 +1,8 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Orka: Sopik, Night Owl, Dj Ratz, Keros, Skollaris" on Thu, 29 Oct 2026.
+Mia Mao is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Orka: Sopik, Night Owl, Dj Ratz, Keros, Skollaris" on Thu, 29 Oct 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including ADB (FR), ANDATA, Annie and Antonym and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including ADB (FR), ANDATA, Annie and Antonym and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Mia Mao is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with l
 | Fri, 6 Nov 2026 | MYD INVITES SALUTE, TSHA, AKALEX |  |
 | Sat, 7 Nov 2026 | Le Wanski & Friends: Sköne, N-Xd, Mosmoz | Le Wanski, Night Owl, Sköne |
 | Tue, 10 Nov 2026 | Pisica: Noise Mafia, DJ GUESTLIST, two girls one mom & More | Annie, DJ GUESTLIST, Elotrance, Justin Tinderdate, KARISH, Noise Mafia, two girls one mom |
+| Thu, 12 Nov 2026 | Jeudi Protocol: Ghostface, Uzi Nas, Esilise &More | Esilise, Sasa (FR), Ulysse |
 | Fri, 13 Nov 2026 | 23:59: Protokseed, LING LING B2B ENKO, ACIDPACH & MORE | Protokseed, Rōse (CH) |
 | Fri, 13 Nov 2026 | 23:59 - Protokseed, ACIDPACH, LING LING B2B ENKO, RABTEU, KODAMAN, RŌSE B2B EMMA OLLIVARY | Protokseed, Rōse (CH) |
-| Sat, 14 Nov 2026 | FLUID x GALOP GALOP: Cera Khin, DURDENHAUER, Kirk, 1luu, Shoshana | Cera Khin, DURDENHAUER, Kirk (US) |
 
 ## Address
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

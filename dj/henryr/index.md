@@ -1,6 +1,6 @@
 # Henry R
 
-Henry R is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 11 Nov 2026.
+Henry R is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 11 Nov 2026.
 
 Henry R is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Austin, Bogotá, Chicago and Leeds and 3 more. Often billed alongside Henry Rymer, Junior M (US) and Armând. Next up: Bossa Nova Civic Club, New York City on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Henry R is a house and techno artist based in United States of America, with 35 
 
 Henry Rymer, Junior M (US), Armând
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henryr/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henryr/)*

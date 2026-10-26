@@ -1,6 +1,6 @@
 # SIX Feet Under
 
-SIX Feet Under is a music venue in Cardiff with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Hoffi Presents ONEMAN" on Fri, 30 Oct 2026.
+SIX Feet Under is a music venue in Cardiff with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Hoffi Presents ONEMAN" on Fri, 30 Oct 2026.
 
 SIX Feet Under is a music venue in Cardiff listed on soundcheck. 5 upcoming gigs, with line-ups including alterum, Efan, LACEY and Oneman and 2 more. See dates, start times and who's playing. 94 St Marys Street, Cardiff, Wales, CF10 1DX.
 
@@ -18,4 +18,4 @@ SIX Feet Under is a music venue in Cardiff listed on soundcheck. 5 upcoming gigs
 
 94 St Marys Street, Cardiff, Wales, CF10 1DX, Cardiff
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/six-feet-under/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/six-feet-under/)*

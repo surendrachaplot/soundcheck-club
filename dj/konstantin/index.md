@@ -1,14 +1,13 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Konstantin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
 
-Konstantin is a house and techno artist based in Germany, with 203 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Klaproos, Amsterdam on Sun 25 Oct.
+Konstantin is a house and techno artist based in Germany, with 203 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Brooklyn Storehouse, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Fri, 27 Nov 2026 | VENT | Tokyo |
@@ -18,6 +17,7 @@ Konstantin is a house and techno artist based in Germany, with 203 gigs on sound
 
 ## Recently played
 
+- Klaproos, Amsterdam · Sun, 25 Oct 2026
 - ingang, Amsterdam · Fri, 23 Oct 2026
 - Sala Roxy, Guadalajara · Sat, 10 Oct 2026
 - Foro Frontera, Mexico City · Fri, 9 Oct 2026
@@ -25,10 +25,9 @@ Konstantin is a house and techno artist based in Germany, with 203 gigs on sound
 - Loco Park, Tbilisi · Fri, 2 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - Haus der Visionäre, Berlin · Sat, 26 Sept 2026
-- Phonox, London · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

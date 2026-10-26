@@ -1,6 +1,6 @@
 # Gui Machado
 
-Gui Machado is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Gui Machado is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Gui Machado is a house and techno artist based in Brazil, with 51 gigs on soundcheck across Miami, New York City and Rio de Janeiro. Often billed alongside Kiyoshi, Omer Mil and David Berrie. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gui Machado is a house and techno artist based in Brazil, with 51 gigs on soundc
 
 Kiyoshi, Omer Mil, David Berrie
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guimachado/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guimachado/)*

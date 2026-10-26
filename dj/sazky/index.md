@@ -1,6 +1,6 @@
 # Sazky
 
-Sazky is a Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
+Sazky is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
 
 Sazky is an electronica artist based in Spain, with 8 gigs on soundcheck across Madrid. Often billed alongside Mar Bravo, Raisa and Djen. Next up: Cadavra, Madrid on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Sazky is an electronica artist based in Spain, with 8 gigs on soundcheck across 
 
 Mar Bravo, Raisa, Djen
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sazky/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sazky/)*

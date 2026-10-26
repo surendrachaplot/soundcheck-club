@@ -1,14 +1,13 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 18 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Future Yard presents Squid" on Sun, 25 Oct 2026.
+Future Yard is a music venue in Liverpool with 17 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Future Yard presents Saigon Soul Revival" on Thu, 29 Oct 2026.
 
-Future Yard is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and Pyramid Eyes and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
+Future Yard is a music venue in Liverpool listed on soundcheck. 17 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and Pyramid Eyes and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Future Yard presents Squid | Squid |
 | Thu, 29 Oct 2026 | Future Yard presents Saigon Soul Revival |  |
 | Tue, 3 Nov 2026 | EMOM - Moolakii Club Listening Room |  |
 | Wed, 4 Nov 2026 | Future Yard presents Mae Stephens + Mimi Greene |  |
@@ -18,9 +17,10 @@ Future Yard is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs
 | Thu, 19 Nov 2026 | Silent Film Soundtracks – POP4 Climate Conference Special |  |
 | Sat, 21 Nov 2026 | Future Yard presents Knats |  |
 | Sun, 22 Nov 2026 | Future Yard presents Xzibit |  |
+| Fri, 27 Nov 2026 | Future Yard presents Omega Nebula |  |
 
 ## Address
 
 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB, Liverpool
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*

@@ -1,14 +1,14 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Turntables on the Chao Phraya" on Sun, 25 Oct 2026.
+Bangkok Island is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Dj Community 28 Oct" on Wed, 28 Oct 2026.
 
-Bangkok Island is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with line-ups including bee and Selecta (ES). See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
+Bangkok Island is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with line-ups including bee, No Pressure, Selecta (ES) and Selector X. See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Turntables on the Chao Phraya |  |
+| Wed, 28 Oct 2026 | Dj Community 28 Oct | No Pressure, Selector X |
 | Thu, 29 Oct 2026 | GOLDEN HOUR SOCIETY — ON THE DECK |  |
 | Sat, 31 Oct 2026 | GHOST BOAT |  |
 | Sat, 31 Oct 2026 | Black Pearl Party | bee (2) |
@@ -20,4 +20,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

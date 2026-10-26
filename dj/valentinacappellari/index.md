@@ -1,6 +1,6 @@
 # Valentina Cappellari
 
-Valentina Cappellari is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 31 Oct 2026.
+Valentina Cappellari is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 31 Oct 2026.
 
 Valentina Cappellari is a techno and house artist based in United States of America, with 14 gigs on soundcheck across Chicago and Detroit. Often billed alongside 88 MPH, Abisai and Austin Buck. Next up: Smoke & Mirrors, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Valentina Cappellari is a techno and house artist based in United States of Amer
 
 88 MPH, Abisai, Austin Buck
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinacappellari/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinacappellari/)*

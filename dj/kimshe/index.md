@@ -1,14 +1,13 @@
 # Kim She
 
-Kim She is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Kim She is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 28 Nov 2026.
 
-Kim She is a techno and trance artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 20 more. Often billed alongside Disguised, AYLIN IDAH and Acierate. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
+Kim She is a techno and trance artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 20 more. Often billed alongside Disguised, AYLIN IDAH and Acierate. Next up: Karmen Camina, Strasbourg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 28 Nov 2026 | Karmen Camina | Strasbourg |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
@@ -28,4 +27,4 @@ Kim She is a techno and trance artist based in Germany, with 105 gigs on soundch
 
 Disguised, AYLIN IDAH, Acierate
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimshe/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimshe/)*

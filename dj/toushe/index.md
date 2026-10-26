@@ -1,6 +1,6 @@
 # Toushe
 
-Toushe is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 4 Dec 2026.
+Toushe is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 4 Dec 2026.
 
 Toushe is a techno artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Bélavie, 4NOUK and Acidine. Next up: Ritter Butzke, Berlin on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Toushe is a techno artist, with 5 gigs on soundcheck across Berlin. Often billed
 
 Bélavie, 4NOUK, Acidine
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toushe/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toushe/)*

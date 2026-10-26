@@ -1,6 +1,6 @@
 # glimmer
 
-glimmer is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "rrauswurf" on Fri, 30 Oct 2026.
+glimmer is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "rrauswurf" on Fri, 30 Oct 2026.
 
 glimmer is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including AKIIM, Bomchello, Cielo.MP3 and co:co and 2 more. See dates, start times and who's playing. Stockmeyerstraße 43, 20457 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ glimmer is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with 
 
 Stockmeyerstraße 43, 20457 Hamburg, Germany, Hamburg
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*

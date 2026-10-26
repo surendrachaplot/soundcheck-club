@@ -1,6 +1,6 @@
 # Bampot Tea House
 
-Bampot Tea House is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "FREAKERS CORNER" on Fri, 6 Nov 2026.
+Bampot Tea House is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "FREAKERS CORNER" on Fri, 6 Nov 2026.
 
 Bampot Tea House is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Eejungmi, Lather Rinse Repeat, Mrii and Sandy Watts. See dates, start times and who's playing. 201 Harbord Harbord Street, Toronto, ON, M561H6, Canada.
 
@@ -15,4 +15,4 @@ Bampot Tea House is a music venue in Toronto listed on soundcheck. 2 upcoming gi
 
 201 Harbord Harbord Street, Toronto, ON, M561H6, Canada, Toronto
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bampot-tea-house/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bampot-tea-house/)*

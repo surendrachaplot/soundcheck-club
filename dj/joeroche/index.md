@@ -1,6 +1,6 @@
 # Joe Roche
 
-Joe Roche is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 6 Nov 2026.
+Joe Roche is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 6 Nov 2026.
 
 Joe Roche is a house and tech house artist based in United Kingdom, with 45 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Sharples, Rhod Parry and Balrog. Next up: Cupra City Garage Manchester, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Joe Roche is a house and tech house artist based in United Kingdom, with 45 gigs
 
 Sharples, Rhod Parry, Balrog
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeroche/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeroche/)*

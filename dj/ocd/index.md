@@ -1,6 +1,6 @@
 # OCD
 
-OCD is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
+OCD is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
 
 OCD is a techno and trance artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Beijing, Belfast and Berlin and 17 more. Often billed alongside Mar/us, Metaraph and Cristian Marras. Next up: KitKatClub, Berlin on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ OCD is a techno and trance artist based in Germany, with 64 gigs on soundcheck a
 
 Mar/us, Metaraph, Cristian Marras
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ocd/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ocd/)*

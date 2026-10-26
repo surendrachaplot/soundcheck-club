@@ -1,6 +1,6 @@
 # MIKITA (MX)
 
-MIKITA (MX) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
+MIKITA (MX) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
 
 MIKITA (MX) is a techno and house artist based in Mexico, with 33 gigs on soundcheck across Guadalajara, Leipzig and Mexico City. Often billed alongside Portugal, Ursula Prawn and sadgal. Next up: Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ MIKITA (MX) is a techno and house artist based in Mexico, with 33 gigs on soundc
 
 Portugal, Ursula Prawn, sadgal
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikitamx/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikitamx/)*

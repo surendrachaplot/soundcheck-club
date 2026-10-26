@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "704 3rd Birthday: Naarm Edition" on Thu, 29 Oct 2026.
+Miscellania is a music venue in Melbourne with 15 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "704 3rd Birthday: Naarm Edition" on Thu, 29 Oct 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 15 upcoming gigs, with line-ups including Amphi, ATARANGI, CCL and Charms and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -23,4 +23,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 15 upcoming gigs
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

@@ -1,6 +1,6 @@
 # Rustam Ospanoff
 
-Rustam Ospanoff is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Moondog Hifi, New York City on Fri, 30 Oct 2026.
+Rustam Ospanoff is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Moondog Hifi, New York City on Fri, 30 Oct 2026.
 
 Rustam Ospanoff is a disco and funk / soul artist, with 16 gigs on soundcheck across New York City and Washington DC. Often billed alongside Ben Wild, DJ Scribe and Diyanna Monet. Next up: Moondog Hifi, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rustam Ospanoff is a disco and funk / soul artist, with 16 gigs on soundcheck ac
 
 Ben Wild, DJ Scribe, Diyanna Monet
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rustamospanoff-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rustamospanoff-2/)*

@@ -1,6 +1,6 @@
 # Plastician
 
-Plastician is a Dubstep and Grime artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Drop inn, Birmingham on Fri, 30 Oct 2026.
+Plastician is a Dubstep and Grime artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Drop inn, Birmingham on Fri, 30 Oct 2026.
 
 Plastician is a dubstep and grime artist based in United Kingdom, with 81 gigs on soundcheck across Auckland, Birmingham, Bristol and Chicago and 20 more. Often billed alongside Skream, Just Jane and Oneman. Next up: The Drop inn, Birmingham on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Plastician is a dubstep and grime artist based in United Kingdom, with 81 gigs o
 
 Skream, Just Jane, Oneman
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*

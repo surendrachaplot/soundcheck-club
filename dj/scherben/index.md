@@ -1,6 +1,6 @@
 # SCHERBEN
 
-SCHERBEN is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
+SCHERBEN is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
 
 SCHERBEN is a techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Alex Friday, L-AUX and Alberto Tolo. Next up: Lokschuppen Berlin, Berlin on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ SCHERBEN is a techno artist based in Germany, with 6 gigs on soundcheck across B
 
 Alex Friday, L-AUX, Alberto Tolo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scherben/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scherben/)*

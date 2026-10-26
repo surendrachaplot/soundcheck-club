@@ -1,6 +1,6 @@
 # Tovsky
 
-Tovsky is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Cheek, London on Fri, 27 Nov 2026.
+Tovsky is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Cheek, London on Fri, 27 Nov 2026.
 
 Tovsky is an electro and bass artist, with 5 gigs on soundcheck across London. Often billed alongside Avran, Isochrone and Karim Bitar. Next up: Club Cheek, London on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Tovsky is an electro and bass artist, with 5 gigs on soundcheck across London. O
 
 Avran, Isochrone, Karim Bitar
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tovsky/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tovsky/)*

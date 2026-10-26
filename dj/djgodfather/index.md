@@ -1,6 +1,6 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 31 Oct 2026.
+DJ Godfather is a Techno and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 31 Oct 2026.
 
 DJ Godfather is a techno and ghetto tech artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 23 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: Lincoln Factory, Detroit on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ DJ Godfather is a techno and ghetto tech artist based in United States of Americ
 
 Sheefy McFly, Disc Jockey George, Stacey Hotwaxx Hale
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*

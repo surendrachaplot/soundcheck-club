@@ -1,6 +1,6 @@
 # THREECARDMONTY
 
-THREECARDMONTY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Comfort Zone, Toronto on Fri, 30 Oct 2026.
+THREECARDMONTY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Comfort Zone, Toronto on Fri, 30 Oct 2026.
 
 THREECARDMONTY is a techno and trance artist based in Canada, with 8 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, DURDENHAUER and Maul. Next up: The Comfort Zone, Toronto on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ THREECARDMONTY is a techno and trance artist based in Canada, with 8 gigs on sou
 
 KILL 9 1, DURDENHAUER, Maul (2)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/threecardmonty/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/threecardmonty/)*

@@ -1,6 +1,6 @@
 # 1-800-CALL-ASH
 
-1-800-CALL-ASH is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Olympus Theater, Detroit on Sat, 31 Oct 2026.
+1-800-CALL-ASH is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Olympus Theater, Detroit on Sat, 31 Oct 2026.
 
 1-800-CALL-ASH is a house and disco artist based in United States of America, with 25 gigs on soundcheck across Detroit. Often billed alongside Haute to Death, Charles Trees and LATEX GIRL. Next up: Olympus Theater, Detroit on Sat 31 Oct.
 
@@ -26,4 +26,4 @@
 
 Haute to Death, Charles Trees, LATEX GIRL
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800-call-ash/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800-call-ash/)*

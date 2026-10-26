@@ -1,6 +1,6 @@
 # Blasterjaxx
 
-Blasterjaxx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
+Blasterjaxx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
 
 Blasterjaxx is a techno and house artist, with 17 gigs on soundcheck across Amsterdam, Austin, Cologne and Kuala Lumpur and 9 more. Often billed alongside LNY TNZ, Gammer and Lush Tempora. Next up: Melrose Ballroom, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Blasterjaxx is a techno and house artist, with 17 gigs on soundcheck across Amst
 
 LNY TNZ, Gammer, Lush Tempora
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blasterjaxx/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blasterjaxx/)*

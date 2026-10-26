@@ -1,6 +1,6 @@
 # enzyme
 
-enzyme is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
+enzyme is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
 
 enzyme is a house and techno artist based in China, with 6 gigs on soundcheck across Hong Kong. Often billed alongside maxi.milian, suz eq and COLAS. Next up: 宀 Club, Hong Kong on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ enzyme is a house and techno artist based in China, with 6 gigs on soundcheck ac
 
 maxi.milian, suz eq, COLAS
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzyme/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzyme/)*

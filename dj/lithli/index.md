@@ -1,6 +1,6 @@
 # Lith Li
 
-Lith Li is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Entertainment Bar Nest, Tokyo on Sat, 21 Nov 2026.
+Lith Li is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Entertainment Bar Nest, Tokyo on Sat, 21 Nov 2026.
 
 Lith Li is a techno and ebm artist based in Spain, with 34 gigs on soundcheck across Barcelona, Lisbon, London and Montreal and 6 more. Often billed alongside Ricardo Castro, Steve Weeks and FENGX2. Next up: Entertainment Bar Nest, Tokyo on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Lith Li is a techno and ebm artist based in Spain, with 34 gigs on soundcheck ac
 
 Ricardo Castro, Steve Weeks, FENGX2
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lithli/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lithli/)*

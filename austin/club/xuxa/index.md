@@ -1,6 +1,6 @@
 # XuXa
 
-XuXa is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Groove Therapy presents Sibil" on Fri, 30 Oct 2026.
+XuXa is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Groove Therapy presents Sibil" on Fri, 30 Oct 2026.
 
 XuXa is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line-ups including Black Lotus, Brett Johnson, DJ HOT DONNA and Doc Martin and 2 more. See dates, start times and who's playing. 6910 Shirley Ave, Unit I, Austin, TX 78752, USA.
 
@@ -17,4 +17,4 @@ XuXa is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line
 
 6910 Shirley Ave, Unit I, Austin, TX 78752, USA, Austin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*

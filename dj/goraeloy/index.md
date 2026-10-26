@@ -1,6 +1,6 @@
 # Gora & Eloy
 
-Gora & Eloy is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
+Gora & Eloy is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
 
 Gora & Eloy are an electro and experimental duo, with 5 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Agnese Menguzzato, Ah! Kosmos and AndreaB. Next up: Volksbühne, Berlin on Mon 2 Nov.
 
@@ -21,4 +21,4 @@ Gora & Eloy are an electro and experimental duo, with 5 gigs on soundcheck acros
 
 Agnese Menguzzato, Ah! Kosmos, AndreaB
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goraeloy/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goraeloy/)*

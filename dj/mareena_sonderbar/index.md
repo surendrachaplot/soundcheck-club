@@ -1,6 +1,6 @@
 # Mareena
 
-Mareena is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Saloon, Tokyo on Thu, 29 Oct 2026.
+Mareena is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Saloon, Tokyo on Thu, 29 Oct 2026.
 
 Mareena is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Kerrie, JakoJako and Stojche. Next up: Saloon, Tokyo on Thu 29 Oct.
 
@@ -31,4 +31,4 @@ Mareena is a techno and house artist based in Germany, with 132 gigs on soundche
 
 Kerrie, JakoJako, Stojche
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

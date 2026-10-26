@@ -1,6 +1,6 @@
 # Amp
 
-Amp is a music venue in Münster with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "5(0) Jahre ENDSTATION SEHNSUCHT" on Fri, 30 Oct 2026.
+Amp is a music venue in Münster with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "5(0) Jahre ENDSTATION SEHNSUCHT" on Fri, 30 Oct 2026.
 
 Amp is a music venue in Münster listed on soundcheck. 8 upcoming gigs, with line-ups including Cali Caracho, ELOISA, Johannes Senn and kichererbsenstampf and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
 
@@ -21,4 +21,4 @@ Amp is a music venue in Münster listed on soundcheck. 8 upcoming gigs, with lin
 
 Am Hawerkamp 1, 48155 Münster, Münster
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*

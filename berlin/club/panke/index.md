@@ -1,8 +1,8 @@
 # Panke
 
-Panke is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "FUKSTEP" on Fri, 30 Oct 2026.
+Panke is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "FUKSTEP" on Fri, 30 Oct 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Wilcox, BBBBBBB, Cajoux and Catnapp and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Wilcox, Amuleto Manuela, BBBBBBB and Cajoux and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Panke is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with lin
 | Sat, 7 Nov 2026 | Batida Baile | Cajoux, Catu Diosis, Lua Preta, Lucha Luna, Maldita Vaina |
 | Fri, 13 Nov 2026 | Outside the BigMac, vol 6: November Edition | Malu |
 | Sat, 21 Nov 2026 | VINTENOVE BAILES invites State OFFF + Tekhole •.¸ | Leba, State OFFF, Tekhole, courtroom drama, sass* |
+| Sat, 28 Nov 2026 | Migrant Birds present: EL BÚHO - 'Hogar' New Album Release Party | Amuleto Manuela, El Buho |
 
 ## Address
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

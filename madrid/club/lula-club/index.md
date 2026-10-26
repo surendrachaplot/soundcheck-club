@@ -1,6 +1,6 @@
 # Lula Club
 
-Lula Club is a music venue in Madrid with 33 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "NO NAME" on Thu, 29 Oct 2026.
+Lula Club is a music venue in Madrid with 33 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "NO NAME" on Thu, 29 Oct 2026.
 
 Lula Club is a music venue in Madrid listed on soundcheck. 33 upcoming gigs, with line-ups including AARON SEVILLA, Adam Ten, AMOR MUSIC and CAMET and 2 more. See dates, start times and who's playing. Gran Via 54.
 
@@ -23,4 +23,4 @@ Lula Club is a music venue in Madrid listed on soundcheck. 33 upcoming gigs, wit
 
 Gran Via 54, Madrid
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*

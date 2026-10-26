@@ -1,6 +1,6 @@
 # OP Breaks
 
-OP Breaks is a Breakcore and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 6 Feet, Cardiff on Sat, 31 Oct 2026.
+OP Breaks is a Breakcore and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 6 Feet, Cardiff on Sat, 31 Oct 2026.
 
 OP Breaks is a breakcore and bass artist, with 6 gigs on soundcheck across Bristol, Cardiff, Liverpool and Manchester. Often billed alongside Greenhouse and Mattik UK. Next up: 6 Feet, Cardiff on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ OP Breaks is a breakcore and bass artist, with 6 gigs on soundcheck across Brist
 
 Greenhouse, Mattik UK
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opbreaks/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opbreaks/)*

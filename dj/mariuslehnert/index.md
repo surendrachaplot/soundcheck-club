@@ -1,6 +1,6 @@
 # Marius Lehnert
 
-Marius Lehnert is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Im Wizemann, Stuttgart on Sat, 14 Nov 2026.
+Marius Lehnert is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Im Wizemann, Stuttgart on Sat, 14 Nov 2026.
 
 Marius Lehnert is a house and techno artist based in Germany, with 91 gigs on soundcheck across Austria, Berlin, Copenhagen and Frankfurt and 6 more. Often billed alongside Alexander Maier, Dejago and Dominik Eulberg. Next up: Im Wizemann, Stuttgart on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Marius Lehnert is a house and techno artist based in Germany, with 91 gigs on so
 
 Alexander Maier, Dejago, Dominik Eulberg
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariuslehnert/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariuslehnert/)*

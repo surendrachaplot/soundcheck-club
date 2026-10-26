@@ -1,6 +1,6 @@
 # WBBR
 
-WBBR is a Drum & Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 27 Oct 2026.
+WBBR is a Drum & Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 27 Oct 2026.
 
 WBBR is a drum & bass and club artist based in United Kingdom, with 32 gigs on soundcheck across Edinburgh. Often billed alongside Buckfast Barbie, Lara Sinclair and DV60. Next up: People's Leisure Club, Edinburgh on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ WBBR is a drum & bass and club artist based in United Kingdom, with 32 gigs on s
 
 Buckfast Barbie, Lara Sinclair, DV60
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wbbr/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wbbr/)*

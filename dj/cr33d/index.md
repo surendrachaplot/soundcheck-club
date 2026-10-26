@@ -1,6 +1,6 @@
 # CR33D
 
-CR33D is a Afro Tech and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Caroudjan Bar Bistro, Uganda on Sat, 31 Oct 2026.
+CR33D is a Afro Tech and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Caroudjan Bar Bistro, Uganda on Sat, 31 Oct 2026.
 
 CR33D is an afro tech and bass artist based in Uganda, with 6 gigs on soundcheck across Berlin, Geneva and Uganda. Often billed alongside Assyouti, Catu Diosis and Hibotep. Next up: Caroudjan Bar Bistro, Uganda on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ CR33D is an afro tech and bass artist based in Uganda, with 6 gigs on soundcheck
 
 Assyouti, Catu Diosis, Hibotep
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cr33d/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cr33d/)*

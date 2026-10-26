@@ -1,6 +1,6 @@
 # Inbal
 
-Inbal is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Inbal is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Inbal is a house and disco artist based in United States of America, with 61 gigs on soundcheck across Austin, Berlin, Detroit and Guadalajara and 9 more. Often billed alongside Rimaye, Terence Tabeau and Will Renuart. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Inbal is a house and disco artist based in United States of America, with 61 gig
 
 Rimaye, Terence Tabeau, Will Renuart
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inbal/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inbal/)*

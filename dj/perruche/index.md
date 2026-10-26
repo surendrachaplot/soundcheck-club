@@ -1,6 +1,6 @@
 # Perruche
 
-Perruche is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at KALT, Strasbourg on Thu, 31 Dec 2026.
+Perruche is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KALT, Strasbourg on Thu, 31 Dec 2026.
 
 Perruche is a house and techno artist based in France, with 27 gigs on soundcheck across Strasbourg. Often billed alongside STU (FR), Halès and Justine Perry. Next up: KALT, Strasbourg on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Perruche is a house and techno artist based in France, with 27 gigs on soundchec
 
 STU (FR), Halès, Justine Perry
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perruche/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perruche/)*

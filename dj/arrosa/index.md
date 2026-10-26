@@ -1,8 +1,8 @@
 # Arrosa
 
-Arrosa is a Techno and EBM artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Old Church, London on Sat, 31 Oct 2026.
+Arrosa is a Techno and EBM artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Old Church, London on Sat, 31 Oct 2026.
 
-Arrosa is a techno and ebm artist based in Germany, with 54 gigs on soundcheck across Berlin, Brighton, Budapest and Dublin and 3 more. Often billed alongside Ricardo Castro, Leviminks and Odilon's Grip. Next up: The Old Church, London on Sat 31 Oct.
+Arrosa is a techno and ebm artist based in Germany, with 55 gigs on soundcheck across Berlin, Brighton, Budapest and Dublin and 3 more. Often billed alongside Ricardo Castro, Odilon's Grip and Leviminks. Next up: The Old Church, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Arrosa is a techno and ebm artist based in Germany, with 54 gigs on soundcheck a
 | Sat, 31 Oct 2026 | The Old Church | London |
 | Fri, 13 Nov 2026 | Low Profile Studios | London |
 | Sat, 19 Dec 2026 | The Old Church | London |
+| Sat, 23 Jan 2027 | The Steel Yard | London |
 | Sat, 13 Feb 2027 | The Old Church | London |
 
 ## Recently played
@@ -26,6 +27,6 @@ Arrosa is a techno and ebm artist based in Germany, with 54 gigs on soundcheck a
 
 ## Shares bills with
 
-Ricardo Castro, Leviminks, Odilon's Grip
+Ricardo Castro, Odilon's Grip, Leviminks
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arrosa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arrosa/)*

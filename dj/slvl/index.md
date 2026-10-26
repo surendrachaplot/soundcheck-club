@@ -1,14 +1,13 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
+SLVL is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
-SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 38 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: Afas Live, Amsterdam on Sun 25 Oct.
+SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 38 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 20 Nov 2026 | Epic Prague | Prague |
@@ -20,9 +19,11 @@ SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on sou
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Thu, 31 Dec 2026 | Garage Klub | Antwerp |
+| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
+- Afas Live, Amsterdam · Sun, 25 Oct 2026
 - Halle Tony Garnier, Lyon · Sat, 24 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on sou
 - The Art School, Glasgow · Fri, 25 Sept 2026
 - The Yard Vienna, Vienna · Sat, 12 Sept 2026
 - Interference, Toulouse · Fri, 11 Sept 2026
-- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 KLOFAMA, KRUELTY, KARAH
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

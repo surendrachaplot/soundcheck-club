@@ -1,6 +1,6 @@
 # Halima
 
-Halima is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The House, New York City on Fri, 13 Nov 2026.
+Halima is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The House, New York City on Fri, 13 Nov 2026.
 
 Halima is an amapiano and afro house artist based in United States of America, with 6 gigs on soundcheck across Bristol, London and New York City. Often billed alongside CH3RI, DAY/DEM and Daniro. Next up: The House, New York City on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Halima is an amapiano and afro house artist based in United States of America, w
 
 CH3RI, DAY/DEM, Daniro
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halima/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halima/)*

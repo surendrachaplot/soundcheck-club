@@ -1,6 +1,6 @@
 # Baz (1)
 
-Baz (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Grand Poobah, Hobart on Sat, 31 Oct 2026.
+Baz (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Grand Poobah, Hobart on Sat, 31 Oct 2026.
 
 Baz is a techno and trance artist, with 7 gigs on soundcheck across Hobart, Melbourne and Paris. Often billed alongside Enflure, Mel C and Pontcho. Next up: The Grand Poobah, Hobart on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Baz is a techno and trance artist, with 7 gigs on soundcheck across Hobart, Melb
 
 Enflure, Mel C, Pontcho
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baz-1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baz-1/)*

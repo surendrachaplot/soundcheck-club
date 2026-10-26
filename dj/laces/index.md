@@ -1,6 +1,6 @@
 # Laces
 
-Laces is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at New Guernica, Melbourne on Fri, 13 Nov 2026.
+Laces is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at New Guernica, Melbourne on Fri, 13 Nov 2026.
 
 Laces is a club and electronica artist based in Australia, with 11 gigs on soundcheck across Melbourne, Sydney and Tokyo. Often billed alongside FOURA, Nina Las Vegas and Scariestgirlintheworld. Next up: New Guernica, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Laces is a club and electronica artist based in Australia, with 11 gigs on sound
 
 FOURA, Nina Las Vegas, Scariestgirlintheworld
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laces/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laces/)*

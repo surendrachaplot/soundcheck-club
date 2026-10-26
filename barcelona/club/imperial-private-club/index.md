@@ -1,6 +1,6 @@
 # Imperial Private Club
 
-Imperial Private Club is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Social for Kinksters: Edition IV // 60% sold out" on Wed, 28 Oct 2026.
+Imperial Private Club is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Social for Kinksters: Edition IV // 60% sold out" on Wed, 28 Oct 2026.
 
 Imperial Private Club is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Devicious and Vaninajaz.. See dates, start times and who's playing. Carrer d'Aribau, 46, L'Eixample, 08011 Barcelona.
 
@@ -17,4 +17,4 @@ Imperial Private Club is a music venue in Barcelona listed on soundcheck. 4 upco
 
 Carrer d'Aribau, 46, L'Eixample, 08011 Barcelona, Barcelona
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/imperial-private-club/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/imperial-private-club/)*

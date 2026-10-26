@@ -1,6 +1,6 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "SETLIFE presents Crazy Cousinz (Jersey Party)" on Fri, 30 Oct 2026.
+Setlist @ Somerset House is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "SETLIFE presents Crazy Cousinz (Jersey Party)" on Fri, 30 Oct 2026.
 
 Setlist @ Somerset House is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Crazy Cousinz, Jacinta, Larizzle and Supa D. See dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
@@ -21,4 +21,4 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 8 upco
 
 SOMERSET HOUSE, STRAND LONDON, WC2R 1LA, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*

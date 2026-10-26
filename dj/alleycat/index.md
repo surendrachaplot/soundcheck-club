@@ -1,6 +1,6 @@
 # Alley Cat
 
-Alley Cat is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Four Quarters, London on Thu, 29 Oct 2026.
+Alley Cat is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Four Quarters, London on Thu, 29 Oct 2026.
 
 Alley Cat is a bass and drum & bass artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, London and Wroclaw. Often billed alongside Haste, Pressa and DJ Flight. Next up: Four Quarters, London on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Alley Cat is a bass and drum & bass artist based in United Kingdom, with 19 gigs
 
 Haste, Pressa, DJ Flight
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alleycat/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alleycat/)*

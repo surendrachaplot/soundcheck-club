@@ -1,6 +1,6 @@
 # 1 7 (1)
 
-1 7 (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Depo Klub, Zagreb on Fri, 30 Oct 2026.
+1 7 (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Depo Klub, Zagreb on Fri, 30 Oct 2026.
 
 1 7 is a techno artist based in Croatia, with 5 gigs on soundcheck across Zagreb. Often billed alongside Cevi, Mozer and Vazdaisti. Next up: Depo Klub, Zagreb on Fri 30 Oct.
 
@@ -21,4 +21,4 @@
 
 Cevi, Mozer, Vazdaisti
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/17-1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/17-1/)*

@@ -1,6 +1,6 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 31 Oct 2026.
+Jimi Jules is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 31 Oct 2026.
 
 Jimi Jules is a house and techno artist based in Switzerland, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Dixon, Âme and Trikk. Next up: Brooklyn Storehouse, New York City on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ Jimi Jules is a house and techno artist based in Switzerland, with 218 gigs on s
 
 Dixon, Âme, Trikk
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

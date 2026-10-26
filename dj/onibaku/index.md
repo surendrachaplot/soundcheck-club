@@ -1,6 +1,6 @@
 # Onibaku
 
-Onibaku is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Badaboum, Paris on Tue, 10 Nov 2026.
+Onibaku is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Badaboum, Paris on Tue, 10 Nov 2026.
 
 Onibaku is a house and acid artist, with 11 gigs on soundcheck across Paris. Often billed alongside Maison Blanche, DVDE and Wondja. Next up: Badaboum, Paris on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Onibaku is a house and acid artist, with 11 gigs on soundcheck across Paris. Oft
 
 Maison Blanche, DVDE, Wondja
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onibaku/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onibaku/)*

@@ -1,6 +1,6 @@
 # sibi-lo
 
-sibi-lo is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sauna Social Club, London on Sat, 31 Oct 2026.
+sibi-lo is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sauna Social Club, London on Sat, 31 Oct 2026.
 
 sibi-lo is an ambient and techno artist based in United Kingdom, with 12 gigs on soundcheck across Lisbon and London. Often billed alongside DELARA, LO-LOW and Nina Pixina. Next up: Sauna Social Club, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ sibi-lo is an ambient and techno artist based in United Kingdom, with 12 gigs on
 
 DELARA, LO-LOW, Nina Pixina
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sibi-lo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sibi-lo/)*

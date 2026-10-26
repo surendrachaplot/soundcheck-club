@@ -1,6 +1,6 @@
 # Kotiēr
 
-Kotiēr is a Progressive House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bar & Kantine Schiffbau, Zurich on Sat, 31 Oct 2026.
+Kotiēr is a Progressive House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Bar & Kantine Schiffbau, Zurich on Sat, 31 Oct 2026.
 
 Kotiēr is a progressive house and afro house artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Berlin, Boston and Detroit and 8 more. Often billed alongside Aaron Hibell, Kölsch and AANO. Next up: Bar & Kantine Schiffbau, Zurich on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kotiēr is a progressive house and afro house artist based in United States of A
 
 Aaron Hibell, Kölsch, AANO
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotier/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotier/)*

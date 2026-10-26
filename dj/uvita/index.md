@@ -1,6 +1,6 @@
 # UVITA
 
-UVITA is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Supermarket, Zurich on Sat, 21 Nov 2026.
+UVITA is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Supermarket, Zurich on Sat, 21 Nov 2026.
 
 UVITA is an afro house and techno artist based in Ireland, with 11 gigs on soundcheck across Beijing, Dubai, Frankfurt and Ibiza and 5 more. Often billed alongside OSFUR, Acierate and Bedouin. Next up: Supermarket, Zurich on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ UVITA is an afro house and techno artist based in Ireland, with 11 gigs on sound
 
 OSFUR, Acierate, Bedouin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uvita/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uvita/)*

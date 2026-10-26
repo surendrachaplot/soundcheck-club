@@ -1,6 +1,6 @@
 # Delta Heavy
 
-Delta Heavy is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Warehouse Venue, Toronto on Fri, 30 Oct 2026.
+Delta Heavy is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Warehouse Venue, Toronto on Fri, 30 Oct 2026.
 
 Delta Heavy is a drum & bass and bass artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside A Little Sound, Kanine and Dimension. Next up: TBA - Warehouse Venue, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Delta Heavy is a drum & bass and bass artist based in United Kingdom, with 84 gi
 
 A Little Sound, Kanine, Dimension
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deltaheavy/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deltaheavy/)*

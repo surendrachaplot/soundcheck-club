@@ -1,14 +1,13 @@
 # niwei1117
 
-niwei1117 is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+niwei1117 is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
 
-niwei1117 is a house and jazz artist based in Taiwan, with 13 gigs on soundcheck across Taipei. Often billed alongside Umbra, Melting 99 and miranda ku. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
+niwei1117 is a house and jazz artist based in Taiwan, with 13 gigs on soundcheck across Taipei. Often billed alongside Umbra, Melting 99 and miranda ku. Next up: Pawnshop, Taipei on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | 桃園玉山街影視基地 | Taipei |
 | Fri, 13 Nov 2026 | Pawnshop | Taipei |
 
 ## Recently played
@@ -26,4 +25,4 @@ niwei1117 is a house and jazz artist based in Taiwan, with 13 gigs on soundcheck
 
 Umbra (2), Melting 99, miranda ku
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niwei1117/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niwei1117/)*

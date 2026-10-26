@@ -1,6 +1,6 @@
 # SHAZZE
 
-SHAZZE is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
+SHAZZE is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
 
 SHAZZE is a progressive house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Belgrade, Berlin and London and 2 more. Often billed alongside Darin Epsilon, Nihil Young and Michael Ritter. Next up: TBA, Romania on Fri 18 Jun.
 
@@ -25,4 +25,4 @@ SHAZZE is a progressive house and tech house artist based in United Kingdom, wit
 
 Darin Epsilon, Nihil Young, Michael Ritter
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shazze/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shazze/)*

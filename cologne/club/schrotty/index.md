@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Schrotty Halloween mit Klanglos & Mark Dekoda" on Sat, 31 Oct 2026.
+Schrotty is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Schrotty Halloween mit Klanglos & Mark Dekoda" on Sat, 31 Oct 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Alfred Heinrichs, Amilli, ANNĒ and Bergen and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -23,4 +23,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, wit
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

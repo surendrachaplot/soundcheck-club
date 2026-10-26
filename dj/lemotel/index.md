@@ -1,6 +1,6 @@
 # Le Motel
 
-Le Motel is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+Le Motel is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
 Le Motel is a techno and bass artist based in Belgium, with 50 gigs on soundcheck across Antwerp, Barcelona, Berlin and Bordeaux and 17 more. Often billed alongside Magugu, ojoo and AliA. Next up: The Garden Tisno, London on Thu 22 Jul.
 
@@ -25,4 +25,4 @@ Le Motel is a techno and bass artist based in Belgium, with 50 gigs on soundchec
 
 Magugu, ojoo, AliA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemotel/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemotel/)*

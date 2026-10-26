@@ -1,6 +1,6 @@
 # HIRAME
 
-HIRAME is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Good Room, New York City on Sun, 15 Nov 2026.
+HIRAME is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Good Room, New York City on Sun, 15 Nov 2026.
 
 HIRAME is a house and afro house artist, with 12 gigs on soundcheck across New York City, Osaka, Paris and Tokyo and 2 more. Often billed alongside Benjy Bradshaw, DJ Duchess and DJ Kemit. Next up: Good Room, New York City on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ HIRAME is a house and afro house artist, with 12 gigs on soundcheck across New Y
 
 Benjy Bradshaw, DJ Duchess, DJ Kemit
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirame-jp/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirame-jp/)*

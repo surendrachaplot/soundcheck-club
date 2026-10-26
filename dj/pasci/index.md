@@ -1,6 +1,6 @@
 # pasci
 
-pasci is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Hive Club, Zurich on Sun, 1 Nov 2026.
+pasci is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hive Club, Zurich on Sun, 1 Nov 2026.
 
 pasci is a house and bass artist based in Switzerland, with 19 gigs on soundcheck across Basel, Lausanne, Marseille and Milan and 4 more. Often billed alongside Valentino, Andreas Ramos and Viiaan. Next up: Hive Club, Zurich on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ pasci is a house and bass artist based in Switzerland, with 19 gigs on soundchec
 
 Valentino, Andreas Ramos, Viiaan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasci/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasci/)*

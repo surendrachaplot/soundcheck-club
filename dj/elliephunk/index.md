@@ -1,6 +1,6 @@
 # elliephunk
 
-elliephunk is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
+elliephunk is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
 
 elliephunk is a house and techno artist based in Taiwan, with 90 gigs on soundcheck across Berlin, Frankfurt, New York City and Taipei. Often billed alongside Organza, B.A.O. and Camilla Rae. Next up: Renate, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ elliephunk is a house and techno artist based in Taiwan, with 90 gigs on soundch
 
 Organza, B.A.O., Camilla Rae
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliephunk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliephunk/)*

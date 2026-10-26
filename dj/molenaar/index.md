@@ -1,6 +1,6 @@
 # Molenaar
 
-Molenaar is a Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Giri, Berlin on Sat, 31 Oct 2026.
+Molenaar is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Giri, Berlin on Sat, 31 Oct 2026.
 
 Molenaar is an electronica artist, with 5 gigs on soundcheck across Berlin and Istanbul. Often billed alongside 4-i, DJ CHICHI and Ece Özel. Next up: Giri, Berlin on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Molenaar is an electronica artist, with 5 gigs on soundcheck across Berlin and I
 
 4-i, DJ CHICHI, Ece Özel
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molenaar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molenaar/)*

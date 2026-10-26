@@ -1,6 +1,6 @@
 # Garagen
 
-Garagen is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Spooky Bounce – Halloween Rave" on Sat, 31 Oct 2026.
+Garagen is a music venue in Cologne with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Spooky Bounce – Halloween Rave" on Sat, 31 Oct 2026.
 
 Garagen is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with line-ups including AREA ØNE, Aura, Bouncy Bitch and DAESU and 2 more. See dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
 
@@ -17,4 +17,4 @@ Garagen is a music venue in Cologne listed on soundcheck. 4 upcoming gigs, with 
 
 Oskar-Jäger-Straße 179, 50825 Köln, Cologne
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*

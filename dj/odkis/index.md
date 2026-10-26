@@ -1,6 +1,6 @@
 # odkis
 
-odkis is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Volnost, Seoul on Sat, 31 Oct 2026.
+odkis is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Volnost, Seoul on Sat, 31 Oct 2026.
 
 odkis is a techno and electro artist based in South Korea, with 32 gigs on soundcheck across Seoul. Often billed alongside Siot, DJ SIN and ASYNC. Next up: Volnost, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ odkis is a techno and electro artist based in South Korea, with 32 gigs on sound
 
 Siot, DJ SIN, ASYNC
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odkis/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odkis/)*

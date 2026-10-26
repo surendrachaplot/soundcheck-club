@@ -1,6 +1,6 @@
 # matildnz
 
-matildnz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
+matildnz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
 
 matildnz is a house and techno artist based in Germany, with 10 gigs on soundcheck across Cologne, Dortmund / Essen, Hamburg and Münster. Often billed alongside 909 Schneider, Greta Perola and Poetter. Next up: Zeche Zollverein, Dortmund / Essen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ matildnz is a house and techno artist based in Germany, with 10 gigs on soundche
 
 909 Schneider, Greta Perola, Poetter
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matildnz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matildnz/)*

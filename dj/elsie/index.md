@@ -1,6 +1,6 @@
 # Elsie
 
-Elsie is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Gang Gang Cafe and Bar, Canberra on Sat, 31 Oct 2026.
+Elsie is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Gang Gang Cafe and Bar, Canberra on Sat, 31 Oct 2026.
 
 Elsie is a house and electronica artist based in Australia, with 39 gigs on soundcheck across Canberra, Melbourne and Victoria. Often billed alongside Babycino, Zjoso and Adriana. Next up: Gang Gang Cafe and Bar, Canberra on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Elsie is a house and electronica artist based in Australia, with 39 gigs on soun
 
 Babycino, Zjoso, Adriana (1)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*

@@ -1,6 +1,6 @@
 # Excelsior
 
-Excelsior is a Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at M.O.T, London on Thu, 12 Nov 2026.
+Excelsior is a Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at M.O.T, London on Thu, 12 Nov 2026.
 
 Excelsior is a club artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Designed By, Slundarq and DJ FUNGHOUL. Next up: M.O.T, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Excelsior is a club artist based in United Kingdom, with 11 gigs on soundcheck a
 
 Designed By, Slundarq, DJ FUNGHOUL
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/excelsior/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/excelsior/)*

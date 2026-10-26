@@ -1,6 +1,6 @@
 # D. Tyrone
 
-D. Tyrone is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+D. Tyrone is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 D. Tyrone is a house and techno artist based in New Zealand, with 27 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Activator (AU), Hannah D and Naycab. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ D. Tyrone is a house and techno artist based in New Zealand, with 27 gigs on sou
 
 Activator (AU), Hannah D, Naycab
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tyrone/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tyrone/)*

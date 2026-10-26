@@ -1,6 +1,6 @@
 # Gospodarsko Razstavišce
 
-Gospodarsko Razstavišce is a music venue in Ljubljana with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "BSH Halloween Ljubljana" on Fri, 30 Oct 2026.
+Gospodarsko Razstavišce is a music venue in Ljubljana with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "BSH Halloween Ljubljana" on Fri, 30 Oct 2026.
 
 Gospodarsko Razstavišce is a music venue in Ljubljana listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gospodarsko Razstavišce is a music venue in Ljubljana listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | BSH Halloween Ljubljana |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/gospodarsko-razstavi-ce/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/gospodarsko-razstavi-ce/)*

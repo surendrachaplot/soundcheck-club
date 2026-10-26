@@ -1,6 +1,6 @@
 # Maggie Jane
 
-Maggie Jane is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Goldener Reiter, Munich on Fri, 30 Oct 2026.
+Maggie Jane is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Goldener Reiter, Munich on Fri, 30 Oct 2026.
 
 Maggie Jane is a house artist based in Germany, with 12 gigs on soundcheck across Munich. Often billed alongside Spinneck, Benni B and Inspektor Lenny. Next up: Goldener Reiter, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Maggie Jane is a house artist based in Germany, with 12 gigs on soundcheck acros
 
 Spinneck, Benni B, Inspektor Lenny
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maggiejane/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maggiejane/)*

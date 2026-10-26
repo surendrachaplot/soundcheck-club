@@ -1,6 +1,6 @@
 # Coda
 
-Coda is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Classmatic" on Fri, 30 Oct 2026.
+Coda is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Classmatic" on Fri, 30 Oct 2026.
 
 Coda is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Biscits, Cam Stockman, Classmatic and ANNA and 2 more. See dates, start times and who's playing. 794 Bathurst St.
 
@@ -23,4 +23,4 @@ Coda is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with li
 
 794 Bathurst St, Toronto
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*

@@ -1,6 +1,6 @@
 # Kacha
 
-Kacha is a Broken Beat and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kino Iluzjon Muzeum Sztuki Filmowej, Warsaw on Sat, 7 Nov 2026.
+Kacha is a Broken Beat and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kino Iluzjon Muzeum Sztuki Filmowej, Warsaw on Sat, 7 Nov 2026.
 
 Kacha is a broken beat and club artist based in Poland, with 11 gigs on soundcheck across Krakow, Poznan and Warsaw. Often billed alongside NEVAEH, yerbby and Bianca Scout. Next up: Kino Iluzjon Muzeum Sztuki Filmowej, Warsaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kacha is a broken beat and club artist based in Poland, with 11 gigs on soundche
 
 NEVAEH, yerbby, Bianca Scout
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kacha/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kacha/)*

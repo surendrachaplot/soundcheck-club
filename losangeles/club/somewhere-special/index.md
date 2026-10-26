@@ -1,6 +1,6 @@
 # Somewhere Special
 
-Somewhere Special is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "SUNSET SERVICE HALLOWEEN ROOFTOP PARTY" on Sat, 31 Oct 2026.
+Somewhere Special is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "SUNSET SERVICE HALLOWEEN ROOFTOP PARTY" on Sat, 31 Oct 2026.
 
 Somewhere Special is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including JTJ, Lavenge and Max Rush. See dates, start times and who's playing. 929 S Broadway, Los Angeles, CA 90015.
 
@@ -14,4 +14,4 @@ Somewhere Special is a music venue in Los Angeles listed on soundcheck. 1 upcomi
 
 929 S Broadway, Los Angeles, CA 90015, Los Angeles
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/somewhere-special/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/somewhere-special/)*

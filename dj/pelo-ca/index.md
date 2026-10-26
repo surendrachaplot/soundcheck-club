@@ -1,6 +1,6 @@
 # Pelo
 
-Pelo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at La Gare Dalhousie, Montreal on Sat, 31 Oct 2026.
+Pelo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at La Gare Dalhousie, Montreal on Sat, 31 Oct 2026.
 
 Pelo is a house and disco artist based in Canada, with 5 gigs on soundcheck across Montreal. Often billed alongside Damacadam, Andie and Bolarinho. Next up: La Gare Dalhousie, Montreal on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Pelo is a house and disco artist based in Canada, with 5 gigs on soundcheck acro
 
 Damacadam, Andie, Bolarinho
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pelo-ca/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pelo-ca/)*

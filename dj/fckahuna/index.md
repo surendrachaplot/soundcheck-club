@@ -1,6 +1,6 @@
 # FC Kahuna
 
-FC Kahuna is a Acid and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Love Shack LDN, London on Sat, 28 Nov 2026.
+FC Kahuna is a Acid and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Love Shack LDN, London on Sat, 28 Nov 2026.
 
 FC Kahuna is an acid and italo disco artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Psychemagik, 2 Bad Mice and 2ManyDJs. Next up: Love Shack LDN, London on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ FC Kahuna is an acid and italo disco artist based in United Kingdom, with 5 gigs
 
 Psychemagik, 2 Bad Mice, 2ManyDJs
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fckahuna/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fckahuna/)*

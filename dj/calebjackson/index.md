@@ -1,6 +1,6 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Caleb Jackson is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Caleb Jackson is a house and techno artist based in Australia, with 78 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 16 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Caleb Jackson is a house and techno artist based in Australia, with 78 gigs on s
 
 Jacqui Cunningham, Bella Backe, Elijah Something
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*

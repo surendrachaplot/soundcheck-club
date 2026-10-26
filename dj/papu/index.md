@@ -1,6 +1,6 @@
 # PAPU
 
-PAPU is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at City Hall, Barcelona on Wed, 28 Oct 2026.
+PAPU is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at City Hall, Barcelona on Wed, 28 Oct 2026.
 
 PAPU is a house and disco artist, with 24 gigs on soundcheck across Bali, Barcelona, Beijing and Berlin and 5 more. Often billed alongside Kaiser Waldon, Scotty Cal and ALIBERTI. Next up: City Hall, Barcelona on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ PAPU is a house and disco artist, with 24 gigs on soundcheck across Bali, Barcel
 
 Kaiser Waldon, Scotty Cal, ALIBERTI
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papu/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papu/)*

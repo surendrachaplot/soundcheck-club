@@ -1,6 +1,6 @@
 # Driusaki
 
-Driusaki is a Psytrance and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Summum, Ibiza on Fri, 6 Nov 2026.
+Driusaki is a Psytrance and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Summum, Ibiza on Fri, 6 Nov 2026.
 
 Driusaki is a psytrance and house artist based in Spain, with 6 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside Alviker, DAVID MENA and Doug Bass. Next up: Summum, Ibiza on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Driusaki is a psytrance and house artist based in Spain, with 6 gigs on soundche
 
 Alviker, DAVID MENA, Doug Bass
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/driusaki/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/driusaki/)*

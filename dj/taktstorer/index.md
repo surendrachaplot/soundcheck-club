@@ -1,6 +1,6 @@
 # TAKTSTÖRER
 
-TAKTSTÖRER is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 7 Nov 2026.
+TAKTSTÖRER is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 7 Nov 2026.
 
 TAKTSTÖRER is a techno and hardcore artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 1 more. Often billed alongside Tiefundton, Abzocka and Ave (DE). Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ TAKTSTÖRER is a techno and hardcore artist based in Germany, with 19 gigs on so
 
 Tiefundton, Abzocka, Ave (DE)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taktstorer/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taktstorer/)*

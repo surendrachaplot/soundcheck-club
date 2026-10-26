@@ -1,6 +1,6 @@
 # IRY (1)
 
-IRY (1) is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at R Lounge, Tokyo on Sat, 7 Nov 2026.
+IRY (1) is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at R Lounge, Tokyo on Sat, 7 Nov 2026.
 
 IRY is a trance and psytrance artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside WATARU, Yamato and DJ Yogurt. Next up: R Lounge, Tokyo on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ IRY is a trance and psytrance artist based in Japan, with 5 gigs on soundcheck a
 
 WATARU, Yamato, DJ Yogurt
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iry-1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iry-1/)*

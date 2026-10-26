@@ -1,6 +1,6 @@
 # Terabyte
 
-Terabyte is a Drum & Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Theatre, Sydney on Sun, 29 Nov 2026.
+Terabyte is a Drum & Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Theatre, Sydney on Sun, 29 Nov 2026.
 
 Terabyte is a drum & bass and tech house artist, with 9 gigs on soundcheck across Los Angeles, Miami and Sydney. Often billed alongside DateNite, Thierry D and Jopea. Next up: Factory Theatre, Sydney on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Terabyte is a drum & bass and tech house artist, with 9 gigs on soundcheck acros
 
 DateNite, Thierry D, Jopea
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terabyte/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terabyte/)*

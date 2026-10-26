@@ -1,6 +1,6 @@
 # Casino for Social Medicine
 
-Casino for Social Medicine is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Samhain Soli Pub Quiz" on Sun, 1 Nov 2026.
+Casino for Social Medicine is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Samhain Soli Pub Quiz" on Sun, 1 Nov 2026.
 
 Casino for Social Medicine is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Casino for Social Medicine is a music venue in Berlin listed on soundcheck. 1 up
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Samhain Soli Pub Quiz |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/casino-for-social-medicine/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/casino-for-social-medicine/)*

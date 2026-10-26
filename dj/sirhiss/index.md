@@ -1,6 +1,6 @@
 # Sir Hiss
 
-Sir Hiss is a Grime and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Suki10c, Birmingham on Fri, 6 Nov 2026.
+Sir Hiss is a Grime and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Suki10c, Birmingham on Fri, 6 Nov 2026.
 
 Sir Hiss is a grime and dubstep artist based in United Kingdom, with 45 gigs on soundcheck across Birmingham, Bordeaux, Boston and Bristol and 11 more. Often billed alongside Sam Binga, Amy Kisnorbo and Emz (MC). Next up: Suki10c, Birmingham on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Sir Hiss is a grime and dubstep artist based in United Kingdom, with 45 gigs on 
 
 Sam Binga, Amy Kisnorbo, Emz (MC)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirhiss/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirhiss/)*

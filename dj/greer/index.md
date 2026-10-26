@@ -1,6 +1,6 @@
 # Greer
 
-Greer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Miscellania, Melbourne on Sun, 1 Nov 2026.
+Greer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Miscellania, Melbourne on Sun, 1 Nov 2026.
 
 Greer is a techno and house artist based in Greece, with 21 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside 1tbsp, Jungist and Modulor. Next up: Miscellania, Melbourne on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Greer is a techno and house artist based in Greece, with 21 gigs on soundcheck a
 
 1tbsp, Jungist, Modulor
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greer/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greer/)*

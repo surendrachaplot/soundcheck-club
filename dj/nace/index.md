@@ -1,6 +1,6 @@
 # NACE
 
-NACE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
+NACE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 4 Dec 2026.
 
 NACE is a techno and electro artist based in United Kingdom, with 12 gigs on soundcheck across Liverpool. Often billed alongside Luna Thee Frenchie, djcd and Alien Izz. Next up: 24 Kitchen Street, Liverpool on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ NACE is a techno and electro artist based in United Kingdom, with 12 gigs on sou
 
 Luna Thee Frenchie, djcd, Alien Izz
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nace/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nace/)*

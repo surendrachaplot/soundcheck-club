@@ -1,14 +1,13 @@
 # Halfcab
 
-Halfcab is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Mon, 26 Oct 2026.
+Halfcab is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at D-EDGE, Sao Paulo on Fri, 30 Oct 2026.
 
-Halfcab is a house and tech house artist based in Brazil, with 28 gigs on soundcheck across Amsterdam, Liverpool, Malta and Rio De Janeiro and 2 more. Often billed alongside Eli Iwasa, L_cio and Mochakk. Next up: Crane Hotel Faralda, Amsterdam on Mon 26 Oct.
+Halfcab is a house and tech house artist based in Brazil, with 28 gigs on soundcheck across Amsterdam, Liverpool, Malta and Rio De Janeiro and 2 more. Often billed alongside Eli Iwasa, L_cio and Mochakk. Next up: D-EDGE, Sao Paulo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Fri, 30 Oct 2026 | D-EDGE | Sao Paulo |
 | Sat, 31 Oct 2026 | Hangar 34 | Liverpool |
 
@@ -27,4 +26,4 @@ Halfcab is a house and tech house artist based in Brazil, with 28 gigs on soundc
 
 Eli Iwasa, L_cio, Mochakk
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*

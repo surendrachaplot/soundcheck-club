@@ -1,6 +1,6 @@
 # Phantom
 
-Phantom is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Tank, Sheffield on Fri, 6 Nov 2026.
+Phantom is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Tank, Sheffield on Fri, 6 Nov 2026.
 
 Phantom is a drum & bass and jungle artist based in Serbia, with 41 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bordeaux and 19 more. Often billed alongside A.M.C., Carasel and BassLayerz. Next up: Tank, Sheffield on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Phantom is a drum & bass and jungle artist based in Serbia, with 41 gigs on soun
 
 A.M.C., Carasel, BassLayerz
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phantom/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phantom/)*

@@ -1,6 +1,6 @@
 # 1990
 
-1990 is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "High Demand: THE FEAR with Shampain" on Fri, 30 Oct 2026.
+1990 is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "High Demand: THE FEAR with Shampain" on Fri, 30 Oct 2026.
 
 1990 is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including 3MR., 90s Kidd, Efan and F Kay and 2 more. See dates, start times and who's playing. 427 Sauchiehall Street G2 3LG.
 
@@ -17,4 +17,4 @@
 
 427 Sauchiehall Street G2 3LG, Glasgow
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*

@@ -1,14 +1,15 @@
 # CT Kidobó
 
-CT Kidobó is a Electro and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Pók Büfé, Budapest on Fri, 6 Nov 2026.
+CT Kidobó is a Electro and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Pók Büfé, Budapest on Fri, 6 Nov 2026.
 
-CT Kidobó is an electro and disco artist based in Hungary, with 11 gigs on soundcheck across Budapest and Vienna. Often billed alongside Imre Kiss, Kvrk and LAU. Next up: Pók Büfé, Budapest on Fri 6 Nov.
+CT Kidobó is an electro and disco artist based in Hungary, with 12 gigs on soundcheck across Budapest and Vienna. Often billed alongside Kvrk, Imre Kiss and LAU. Next up: Pók Büfé, Budapest on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Pók Büfé | Budapest |
+| Sat, 19 Dec 2026 | Atno | Budapest |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ CT Kidobó is an electro and disco artist based in Hungary, with 11 gigs on soun
 
 ## Shares bills with
 
-Imre Kiss, Kvrk, LAU (6)
+Kvrk, Imre Kiss, LAU (6)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctkidobo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctkidobo/)*

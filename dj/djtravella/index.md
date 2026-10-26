@@ -1,6 +1,6 @@
 # DJ Travella
 
-DJ Travella is a Singeli and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
+DJ Travella is a Singeli and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
 
 DJ Travella is a singeli and club artist based in Tanzania, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 37 more. Often billed alongside DJ Diaki, Mia Koden and De Schuurman. Next up: Beato 30, Lisbon on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ DJ Travella is a singeli and club artist based in Tanzania, with 82 gigs on soun
 
 DJ Diaki, Mia Koden, De Schuurman
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*

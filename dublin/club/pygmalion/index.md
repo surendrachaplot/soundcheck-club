@@ -1,14 +1,13 @@
 # Pygmalion
 
-Pygmalion is a music venue in Dublin with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Pyg & District 8 present Deep Dish & Matador" on Sun, 25 Oct 2026.
+Pygmalion is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Ghost Story* with LF SYSTEM" on Fri, 30 Oct 2026.
 
-Pygmalion is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, with line-ups including Deep Dish, Evan McGee, Jansons and LF SYSTEM and 2 more. See dates, start times and who's playing. 59 William St S, Dublin, Ireland.
+Pygmalion is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, with line-ups including Evan McGee, Jansons, LF SYSTEM and Vlad Katana. See dates, start times and who's playing. 59 William St S, Dublin, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Pyg & District 8 present Deep Dish & Matador | Deep Dish, Matador |
 | Fri, 30 Oct 2026 | Ghost Story* with LF SYSTEM | Evan McGee, LF SYSTEM, Vlad Katana |
 | Sat, 31 Oct 2026 | Halloween at Pyg with Dave Lee [Joey Negro]  |  |
 | Sat, 21 Nov 2026 | Jansons at Pygmalion | Jansons |
@@ -17,4 +16,4 @@ Pygmalion is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, with
 
 59 William St S, Dublin, Ireland, Dublin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*

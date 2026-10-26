@@ -1,6 +1,6 @@
 # Portram
 
-Portram is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
+Portram is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
 
 Portram is a bass and breakbeat artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Dub Isotope, Migz and Alienationist. Next up: Void Hall, Berlin on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Portram is a bass and breakbeat artist based in Germany, with 8 gigs on soundche
 
 Dub Isotope, Migz, Alienationist
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/portram/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/portram/)*

@@ -1,6 +1,6 @@
 # Rocco Han
 
-Rocco Han is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Upper East, London on Fri, 27 Nov 2026.
+Rocco Han is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Upper East, London on Fri, 27 Nov 2026.
 
 Rocco Han is a deep house and house artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside FITS ME FUNNY, samasama and AOB. Next up: Upper East, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Rocco Han is a deep house and house artist based in United Kingdom, with 10 gigs
 
 FITS ME FUNNY, samasama, AOB
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roccohan/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roccohan/)*

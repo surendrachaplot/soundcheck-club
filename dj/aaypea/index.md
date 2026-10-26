@@ -1,6 +1,6 @@
 # aaypea
 
-aaypea is a House and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Quarry, Liverpool on Sat, 31 Oct 2026.
+aaypea is a House and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Quarry, Liverpool on Sat, 31 Oct 2026.
 
 aaypea is a house and italo disco artist based in United Kingdom, with 19 gigs on soundcheck across Liverpool. Often billed alongside polymaas, Benno and Blenky. Next up: Quarry, Liverpool on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ aaypea is a house and italo disco artist based in United Kingdom, with 19 gigs o
 
 polymaas, Benno, Blenky
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaypea/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaypea/)*

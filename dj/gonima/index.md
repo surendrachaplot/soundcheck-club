@@ -1,6 +1,6 @@
 # gonima
 
-gonima is a Ambient and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at White Wall Studio, Montreal on Sat, 28 Nov 2026.
+gonima is a Ambient and IDM artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at White Wall Studio, Montreal on Sat, 28 Nov 2026.
 
 gonima is an ambient and idm artist, with 6 gigs on soundcheck across Montreal. Often billed alongside Nixtrove, laced and Bénédicte. Next up: White Wall Studio, Montreal on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ gonima is an ambient and idm artist, with 6 gigs on soundcheck across Montreal. 
 
 Nixtrove, laced, Bénédicte
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonima/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonima/)*

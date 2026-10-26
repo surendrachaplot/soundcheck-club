@@ -1,6 +1,6 @@
 # CHEZA LUCINA
 
-CHEZA LUCINA is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Algha's Plantroom, London on Sat, 31 Oct 2026.
+CHEZA LUCINA is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Algha's Plantroom, London on Sat, 31 Oct 2026.
 
 CHEZA LUCINA is a jungle and techno artist based in United Kingdom, with 61 gigs on soundcheck across Brighton, London, Nottingham and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Algha's Plantroom, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ CHEZA LUCINA is a jungle and techno artist based in United Kingdom, with 61 gigs
 
 THEMPRESS, Princess Xixi, Ivicore
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*

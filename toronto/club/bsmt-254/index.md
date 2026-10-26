@@ -1,6 +1,6 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "More Noise Please! PRESENTS: BLOOD AND BLACK LACE" on Wed, 28 Oct 2026.
+Bsmt 254 is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "More Noise Please! PRESENTS: BLOOD AND BLACK LACE" on Wed, 28 Oct 2026.
 
 Bsmt 254 is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with line-ups including Assassin Bug, Babies R Stupid, Burnin' Vernon and CAETANO and 2 more. See dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
@@ -19,4 +19,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

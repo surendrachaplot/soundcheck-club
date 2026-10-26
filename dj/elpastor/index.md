@@ -1,6 +1,6 @@
 # El Pastor
 
-El Pastor is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 6 Nov 2026.
+El Pastor is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 6 Nov 2026.
 
 El Pastor is a trance and techno artist based in Germany, with 21 gigs on soundcheck across Berlin and Hannover. Often billed alongside DiskoJochen, DJ BRECHSTANGE and DJ TIPSTER. Next up: Lokschuppen Berlin, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ El Pastor is a trance and techno artist based in Germany, with 21 gigs on soundc
 
 DiskoJochen, DJ BRECHSTANGE, DJ TIPSTER
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elpastor/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elpastor/)*

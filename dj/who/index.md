@@ -1,6 +1,6 @@
 # WHO
 
-WHO is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+WHO is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 WHO is a club and tech house artist based in France, with 7 gigs on soundcheck across Amsterdam, Ibiza, London and Miami. Often billed alongside Claptone, ACID HARRY and Artche. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ WHO is a club and tech house artist based in France, with 7 gigs on soundcheck a
 
 Claptone, ACID HARRY, Artche
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/who/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/who/)*

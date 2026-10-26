@@ -1,6 +1,6 @@
 # Substencia
 
-Substencia is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Petit Bain, Paris on Sat, 31 Oct 2026.
+Substencia is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Petit Bain, Paris on Sat, 31 Oct 2026.
 
 Substencia is a techno and industrial artist based in France, with 28 gigs on soundcheck across Barcelona, Berlin, Brussels and Paris. Often billed alongside Damien Barthet, Ottoman Grüw and Aeter. Next up: Petit Bain, Paris on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Substencia is a techno and industrial artist based in France, with 28 gigs on so
 
 Damien Barthet (2), Ottoman Grüw, Aeter
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/substencia/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/substencia/)*

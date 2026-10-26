@@ -1,6 +1,6 @@
 # Actress
 
-Actress is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Caixaforum, Barcelona on Fri, 30 Oct 2026.
+Actress is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Caixaforum, Barcelona on Fri, 30 Oct 2026.
 
 Actress is an experimental and techno artist based in United Kingdom, with 91 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside Kode9, Suzanne Ciani and Blawan. Next up: Caixaforum, Barcelona on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Actress is an experimental and techno artist based in United Kingdom, with 91 gi
 
 Kode9, Suzanne Ciani, Blawan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/actress/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/actress/)*

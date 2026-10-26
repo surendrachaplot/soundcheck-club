@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "MHH HALLOWEEN PARTY" on Fri, 30 Oct 2026.
+Baalsaal is a music venue in Hamburg with 13 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "MHH HALLOWEEN PARTY" on Fri, 30 Oct 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, with line-ups including BLACK LYON, Molly Lollen, MORI PIPER and ROOB and 2 more. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, wit
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

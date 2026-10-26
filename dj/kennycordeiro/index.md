@@ -1,6 +1,6 @@
 # Kenny Cordeiro
 
-Kenny Cordeiro is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Terraza Catedral, Mexico City on Sat, 31 Oct 2026.
+Kenny Cordeiro is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Terraza Catedral, Mexico City on Sat, 31 Oct 2026.
 
 Kenny Cordeiro is a house and tech house artist based in United States of America, with 35 gigs on soundcheck across Amsterdam, Austin, Los Angeles and Mexico City and 1 more. Often billed alongside HIDRA, DIALS and IZIK. Next up: Terraza Catedral, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kenny Cordeiro is a house and tech house artist based in United States of Americ
 
 HIDRA, DIALS, IZIK
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennycordeiro/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennycordeiro/)*

@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Kinder der Nacht & DEXIT Mannheim - Halloween Rave" on Fri, 30 Oct 2026.
+Void Club is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Kinder der Nacht & DEXIT Mannheim - Halloween Rave" on Fri, 30 Oct 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including AAguilAA, access:dance, Alex Pastore and Anton Quasi and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

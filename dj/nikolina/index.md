@@ -1,6 +1,6 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - 131 McCormack St., Toronto on Fri, 30 Oct 2026.
+Nikolina is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - 131 McCormack St., Toronto on Fri, 30 Oct 2026.
 
 Nikolina is a techno and industrial artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside Restricted, Azyr and Onlynumbers. Next up: TBA - 131 McCormack St., Toronto on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Nikolina is a techno and industrial artist based in United Kingdom, with 128 gig
 
 Restricted, Azyr, Onlynumbers
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

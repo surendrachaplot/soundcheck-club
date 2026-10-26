@@ -1,6 +1,6 @@
 # exmantera
 
-exmantera is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Studio dB, Berlin on Fri, 30 Oct 2026.
+exmantera is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Studio dB, Berlin on Fri, 30 Oct 2026.
 
 exmantera is an experimental and club artist based in Finland, with 45 gigs on soundcheck across Berlin, Brussels, Denver and Glasgow and 8 more. Often billed alongside Warlord®, bod [包家巷] and Acid Souljah. Next up: Studio dB, Berlin on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ exmantera is an experimental and club artist based in Finland, with 45 gigs on s
 
 Warlord®, bod [包家巷], Acid Souljah
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exmantera/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exmantera/)*

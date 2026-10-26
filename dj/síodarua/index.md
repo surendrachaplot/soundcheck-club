@@ -1,6 +1,6 @@
 # Síoda Rua
 
-Síoda Rua is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Berlin Neukölln , Berlin on Fri, 6 Nov 2026.
+Síoda Rua is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Berlin Neukölln , Berlin on Fri, 6 Nov 2026.
 
 Síoda Rua is a techno and dub techno artist based in Ireland, with 5 gigs on soundcheck across Berlin. Often billed alongside Refracted, Temple Rat and AMSL. Next up: TBA - Berlin Neukölln , Berlin on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Síoda Rua is a techno and dub techno artist based in Ireland, with 5 gigs on so
 
 Refracted, Temple Rat, AMSL
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/síodarua/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/síodarua/)*

@@ -1,6 +1,6 @@
 # Vali NME Click
 
-Vali NME Click is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Berlin on Sat, 31 Oct 2026.
+Vali NME Click is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Berlin on Sat, 31 Oct 2026.
 
 Vali NME Click is a jungle and hardcore artist based in Germany, with 13 gigs on soundcheck across Berlin, Frankfurt and London. Often billed alongside DJ Chromz, KaraKara and Louise Plus One. Next up: TBA, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Vali NME Click is a jungle and hardcore artist based in Germany, with 13 gigs on
 
 DJ Chromz, KaraKara, Louise Plus One
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valinmeclick/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valinmeclick/)*

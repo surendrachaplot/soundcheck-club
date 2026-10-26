@@ -1,14 +1,13 @@
 # The Big Romance
 
-The Big Romance is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Organ Freeman (Live Jazz) + Tony Football Club" on Sun, 25 Oct 2026.
+The Big Romance is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Selectors Night" on Mon, 26 Oct 2026.
 
-The Big Romance is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including funksmack. See dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
+The Big Romance is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including funksmack. See dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Organ Freeman (Live Jazz) + Tony Football Club |  |
 | Mon, 26 Oct 2026 | Selectors Night |  |
 | Tue, 27 Oct 2026 | Selectors Night |  |
 | Wed, 28 Oct 2026 | Burial - Untrue (2007) Vinyl album listening party |  |
@@ -22,4 +21,4 @@ The Big Romance is a music venue in Dublin listed on soundcheck. 9 upcoming gigs
 
 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland, Dublin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*

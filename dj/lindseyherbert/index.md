@@ -1,14 +1,13 @@
 # Lindsey Herbert
 
-Lindsey Herbert is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Vancouver on Sat, 24 Oct 2026.
+Lindsey Herbert is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at crobar, Cleveland on Sat, 14 Nov 2026.
 
-Lindsey Herbert is a techno and house artist based in United States of America, with 123 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 34 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: TBA, Vancouver on Sat 24 Oct.
+Lindsey Herbert is a techno and house artist based in United States of America, with 123 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 34 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: crobar, Cleveland on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | Vancouver |
 | Sat, 14 Nov 2026 | crobar | Cleveland |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
@@ -29,4 +28,4 @@ Lindsey Herbert is a techno and house artist based in United States of America, 
 
 Richie Hawtin, PLEASURES (US), Decoder
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseyherbert/)*

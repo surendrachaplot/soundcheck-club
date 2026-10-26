@@ -1,6 +1,6 @@
 # Secret Location
 
-Secret Location is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Detour Discotheque presents… The Lost Disco" on Fri, 30 Oct 2026.
+Secret Location is a music venue in London with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Detour Discotheque presents… The Lost Disco" on Fri, 30 Oct 2026.
 
 Secret Location is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Kassian, Benny Bysouth, Bubs Baker and Eris Drew and 2 more. See dates, start times and who's playing. To Be Announced.
 
@@ -20,4 +20,4 @@ Secret Location is a music venue in London listed on soundcheck. 7 upcoming gigs
 
 To Be Announced, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

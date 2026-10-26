@@ -1,6 +1,6 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Glamoween III" on Thu, 29 Oct 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Glamoween III" on Thu, 29 Oct 2026.
 
 Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 9 upcoming gigs, with line-ups including Autograf, DËER, nocapz. and PYRAMIDO and 2 more. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
@@ -22,4 +22,4 @@ Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundc
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

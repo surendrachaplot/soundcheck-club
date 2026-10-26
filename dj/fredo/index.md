@@ -1,6 +1,6 @@
 # Fredo
 
-Fredo is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at H0L0, New York City on Thu, 5 Nov 2026.
+Fredo is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at H0L0, New York City on Thu, 5 Nov 2026.
 
 Fredo is a techno and bass artist based in United States of America, with 6 gigs on soundcheck across Dallas/Fort Worth, Denver, Los Angeles and New York City. Often billed alongside eianne esau, BIFA01 and CR4CKROCK. Next up: H0L0, New York City on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Fredo is a techno and bass artist based in United States of America, with 6 gigs
 
 eianne esau, BIFA01, CR4CKROCK
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredo/)*

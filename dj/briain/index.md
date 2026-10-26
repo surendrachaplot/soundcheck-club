@@ -1,6 +1,6 @@
 # Briain
 
-Briain is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 4 Nov 2026.
+Briain is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 4 Nov 2026.
 
 Briain is a techno artist based in Ireland, with 7 gigs on soundcheck across Berlin. Often billed alongside VCO, Byron The Aquarius and Cirkle. Next up: Tresor / Globus, Berlin on Wed 4 Nov.
 
@@ -23,4 +23,4 @@ Briain is a techno artist based in Ireland, with 7 gigs on soundcheck across Ber
 
 VCO, Byron The Aquarius, Cirkle
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/briain/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/briain/)*

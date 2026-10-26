@@ -1,6 +1,6 @@
 # Bjørn Svin
 
-Bjørn Svin is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Basement Vesterbro, Copenhagen on Sat, 12 Dec 2026.
+Bjørn Svin is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Basement Vesterbro, Copenhagen on Sat, 12 Dec 2026.
 
 Bjørn Svin is a techno and experimental artist, with 6 gigs on soundcheck across Copenhagen. Often billed alongside Cristian Vogel, SØS Gunver Ryberg and Anders Skibsted. Next up: Basement Vesterbro, Copenhagen on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Bjørn Svin is a techno and experimental artist, with 6 gigs on soundcheck acros
 
 Cristian Vogel, SØS Gunver Ryberg, Anders Skibsted
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjornsvin/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjornsvin/)*

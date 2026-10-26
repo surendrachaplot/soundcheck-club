@@ -1,6 +1,6 @@
 # Sanaz
 
-Sanaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Prospect Building, Bristol on Fri, 30 Oct 2026.
+Sanaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Prospect Building, Bristol on Fri, 30 Oct 2026.
 
 Sanaz is a house and techno artist based in Germany, with 38 gigs on soundcheck across Berlin, Bristol, Cologne and Copenhagen and 4 more. Often billed alongside Immy, Jessica Nightlife and Dornika. Next up: The Prospect Building, Bristol on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Sanaz is a house and techno artist based in Germany, with 38 gigs on soundcheck 
 
 Immy, Jessica Nightlife, Dornika
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*

@@ -1,6 +1,6 @@
 # Alchemical Sisters
 
-Alchemical Sisters is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
+Alchemical Sisters is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
 Alchemical Sisters is an electronic artist based in United States of America, with 2 gigs on soundcheck across Detroit. Often billed alongside Afra, BMG and Erika. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
@@ -15,4 +15,4 @@ Alchemical Sisters is an electronic artist based in United States of America, wi
 
 Afra, BMG, Erika
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alchemicalsisters/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alchemicalsisters/)*

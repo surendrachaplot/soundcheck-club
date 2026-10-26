@@ -1,6 +1,6 @@
 # Siggi Petrol
 
-Siggi Petrol is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at elipamanoke, Leipzig on Sat, 31 Oct 2026.
+Siggi Petrol is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at elipamanoke, Leipzig on Sat, 31 Oct 2026.
 
 Siggi Petrol is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Berlin and Leipzig. Often billed alongside SPLINTER, DJ STIMULA and Nienein. Next up: elipamanoke, Leipzig on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Siggi Petrol is a techno and trance artist based in Germany, with 34 gigs on sou
 
 SPLINTER (2), DJ STIMULA, Nienein
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siggipetrol/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siggipetrol/)*

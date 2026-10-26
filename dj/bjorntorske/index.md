@@ -1,6 +1,6 @@
 # Bjørn Torske
 
-Bjørn Torske is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Blå, Oslo on Fri, 30 Oct 2026.
+Bjørn Torske is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Blå, Oslo on Fri, 30 Oct 2026.
 
 Bjørn Torske is a house and techno artist based in Norway, with 41 gigs on soundcheck across Bergen, Copenhagen, London and Melbourne and 2 more. Often billed alongside Olefonken, Skatebård and DJ Sotofett. Next up: Blå, Oslo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bjørn Torske is a house and techno artist based in Norway, with 41 gigs on soun
 
 Olefonken, Skatebård, DJ Sotofett
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjorntorske/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bjorntorske/)*

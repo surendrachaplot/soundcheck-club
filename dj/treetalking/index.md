@@ -1,8 +1,8 @@
 # Treetalking
 
-Treetalking is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Virgil, Los Angeles on Fri, 6 Nov 2026.
+Treetalking is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Virgil, Los Angeles on Fri, 6 Nov 2026.
 
-Treetalking is an experimental and bass artist, with 10 gigs on soundcheck across Los Angeles. Often billed alongside BB Shaine, Daddy Kev and Dara Genesis. Next up: The Virgil, Los Angeles on Fri 6 Nov.
+Treetalking is an experimental and bass artist based in United States of America, with 10 gigs on soundcheck across Los Angeles. Often billed alongside BB Shaine, Daddy Kev and Dara Genesis. Next up: The Virgil, Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Treetalking is an experimental and bass artist, with 10 gigs on soundcheck acros
 
 BB Shaine, Daddy Kev, Dara Genesis
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/treetalking/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/treetalking/)*

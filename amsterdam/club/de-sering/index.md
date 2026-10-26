@@ -1,6 +1,6 @@
 # De Sering
 
-De Sering is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "De Sering's Community Halloween Bash" on Fri, 30 Oct 2026.
+De Sering is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "De Sering's Community Halloween Bash" on Fri, 30 Oct 2026.
 
 De Sering is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including AAlva, Guiz, Krai and Not Yet and 2 more. See dates, start times and who's playing. Rhoneweg 6, 1043 AH Amsterdam, Netherlands.
 
@@ -17,4 +17,4 @@ De Sering is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, w
 
 Rhoneweg 6, 1043 AH Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-sering/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-sering/)*

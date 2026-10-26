@@ -1,14 +1,13 @@
 # Tammo Hesselink
 
-Tammo Hesselink is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Tammo Hesselink is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
-Tammo Hesselink is a techno and house artist based in Netherlands, with 59 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 17 more. Often billed alongside Konduku, Jasmín and Mattikk. Next up: ingang, Amsterdam on Sat 24 Oct.
+Tammo Hesselink is a techno and house artist based in Netherlands, with 59 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 17 more. Often billed alongside Konduku, Jasmín and Mattikk. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | ingang | Amsterdam |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Sat, 21 Nov 2026 | CLUB RAUM | Amsterdam |
 
@@ -27,4 +26,4 @@ Tammo Hesselink is a techno and house artist based in Netherlands, with 59 gigs 
 
 Konduku, Jasmín, Mattikk
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tammohesselink/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tammohesselink/)*

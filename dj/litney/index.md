@@ -1,14 +1,13 @@
 # Litney
 
-Litney is a Club and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Toronto on Sat, 24 Oct 2026.
+Litney is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Meadows, New York City on Fri, 30 Oct 2026.
 
-Litney is a club and baile funk artist based in Canada, with 91 gigs on soundcheck across Berlin, Chicago, Houston and Los Angeles and 6 more. Often billed alongside Ard1n, HVN and myst milano.. Next up: TBA, Toronto on Sat 24 Oct.
+Litney is a club and baile funk artist based in Canada, with 91 gigs on soundcheck across Berlin, Chicago, Houston and Los Angeles and 6 more. Often billed alongside Ard1n, HVN and myst milano.. Next up: The Meadows, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | Toronto |
 | Fri, 30 Oct 2026 | The Meadows | New York City |
 | Sat, 31 Oct 2026 | Skylight Warehouse | Vancouver |
 
@@ -27,4 +26,4 @@ Litney is a club and baile funk artist based in Canada, with 91 gigs on soundche
 
 Ard1n, HVN (1), myst milano.
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/litney/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/litney/)*

@@ -1,6 +1,6 @@
 # Dig This
 
-Dig This is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 6 Nov 2026.
+Dig This is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Eastern Bloc Records, Manchester on Fri, 6 Nov 2026.
 
 Dig This is a house and electro artist based in United Kingdom, with 70 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 9 more. Often billed alongside Ben Pugh, Aerofunk and Tarde Loco. Next up: Eastern Bloc Records, Manchester on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Dig This is a house and electro artist based in United Kingdom, with 70 gigs on 
 
 Ben Pugh, Aerofunk, Tarde Loco
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digthis/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digthis/)*

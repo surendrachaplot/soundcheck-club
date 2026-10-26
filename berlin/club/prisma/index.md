@@ -1,24 +1,26 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Klubkneipe x Resonance" on Sun, 25 Oct 2026.
+Prisma is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Klubkneipe x Tuesday Ritual - Tattoo Flash Day" on Tue, 27 Oct 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including D.Sociation, DJ Kodah, NAIR (IN) and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Ankit, Benua, Carl Conrad and Charlotte Lion and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi, Kijara, Leah Marie |
 | Tue, 27 Oct 2026 | Klubkneipe x Tuesday Ritual - Tattoo Flash Day | DJ Kodah, Domovnika, Michael Marchi |
-| Thu, 29 Oct 2026 | Sssmile Instagram | Kazuki Takahashi, LeoSkiDj, The Shredder |
+| Thu, 29 Oct 2026 | Sssmile Afterhour | Kazuki Takahashi, LeoSkiDj, The Shredder |
 | Sun, 1 Nov 2026 | Klubkneipe x Sunset Grooves | NAIR (IN) |
+| Tue, 3 Nov 2026 | Klubkneipe x Tuesday Ritual - Shibari Workshop | Ankit, Emilion Dollar Baby, Mia Bergmann, Sahar |
+| Thu, 5 Nov 2026 | Sssmile Afterhour Flinta Special | Charlotte Lion, JUICYMOKA |
 | Sun, 8 Nov 2026 | Klubkneipe x House Cats |  |
+| Tue, 10 Nov 2026 | Klubkneipe x Tuesday Ritual Vulva Workshop | OutWithJane, RÄK, Vantavision |
+| Thu, 12 Nov 2026 | Sssmile Afterhour | Khmgnff, KÜRÜF, The Shredder |
 | Fri, 13 Nov 2026 | CRUSH: The Frosty Fairytale | D.Sociation, Julian Shore, Leon Eliah |
 | Sun, 15 Nov 2026 | Klubkneipe x House Cats |  |
-| Sun, 22 Nov 2026 | Klubkneipe x Dance Salon |  |
 
 ## Address
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

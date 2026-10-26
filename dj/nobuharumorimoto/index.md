@@ -1,6 +1,6 @@
 # Nobuharu Morimoto
 
-Nobuharu Morimoto is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at R Lounge, Tokyo on Mon, 2 Nov 2026.
+Nobuharu Morimoto is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at R Lounge, Tokyo on Mon, 2 Nov 2026.
 
 Nobuharu Morimoto is a techno and house artist based in Japan, with 66 gigs on soundcheck across Tokyo. Often billed alongside Negami, COSMOGANG and nylon. Next up: R Lounge, Tokyo on Mon 2 Nov.
 
@@ -27,4 +27,4 @@ Nobuharu Morimoto is a techno and house artist based in Japan, with 66 gigs on s
 
 Negami, COSMOGANG, nylon
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuharumorimoto/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuharumorimoto/)*

@@ -1,14 +1,13 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hemkade 48, Amsterdam on Sun, 25 Oct 2026.
+Yoshiko is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Warehouse, Nantes on Fri, 20 Nov 2026.
 
-Yoshiko is a techno and hardcore artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 25 more. Often billed alongside Dimitri K, KIRSTY and KLOFAMA. Next up: Hemkade 48, Amsterdam on Sun 25 Oct.
+Yoshiko is a techno and hardcore artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 25 more. Often billed alongside Dimitri K, KIRSTY and KLOFAMA. Next up: Warehouse, Nantes on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Hemkade 48 | Amsterdam |
 | Fri, 20 Nov 2026 | Warehouse | Nantes |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Fri, 27 Nov 2026 | Arzenal | Budapest |
@@ -21,6 +20,7 @@ Yoshiko is a techno and hardcore artist based in Italy, with 44 gigs on soundche
 
 ## Recently played
 
+- Hemkade 48, Amsterdam · Sun, 25 Oct 2026
 - Fabrik, Madrid · Sat, 24 Oct 2026
 - Docks, Hamburg · Fri, 23 Oct 2026
 - Airport Würzburg, Nürnberg · Fri, 16 Oct 2026
@@ -28,10 +28,9 @@ Yoshiko is a techno and hardcore artist based in Italy, with 44 gigs on soundche
 - Hangar 34, Liverpool · Sat, 12 Sept 2026
 - Bootshaus, Cologne · Fri, 11 Sept 2026
 - The Classic Grand, Glasgow · Sat, 29 Aug 2026
-- TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Dimitri K, KIRSTY, KLOFAMA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

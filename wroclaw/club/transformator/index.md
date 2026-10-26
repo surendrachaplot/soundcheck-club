@@ -1,6 +1,6 @@
 # Transformator
 
-Transformator is a music venue in Wroclaw with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Wixapol HALLOWEEN X ROTTERDAM TERROR CORPS" on Fri, 30 Oct 2026.
+Transformator is a music venue in Wroclaw with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Wixapol HALLOWEEN X ROTTERDAM TERROR CORPS" on Fri, 30 Oct 2026.
 
 Transformator is a music venue in Wroclaw listed on soundcheck. 6 upcoming gigs, with line-ups including CRIIM, Damian S, DarkMatter and Despoza and 2 more. See dates, start times and who's playing. Tęczowa 67, 53-602 Wrocław Poland.
 
@@ -19,4 +19,4 @@ Transformator is a music venue in Wroclaw listed on soundcheck. 6 upcoming gigs,
 
 Tęczowa 67, 53-602 Wrocław Poland, Wroclaw
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/transformator/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/transformator/)*

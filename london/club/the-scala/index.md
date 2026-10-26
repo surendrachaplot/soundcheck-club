@@ -1,6 +1,6 @@
 # The Scala
 
-The Scala is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Milkshake HALLOWEEN: THE OTHER SIDE" on Tue, 27 Oct 2026.
+The Scala is a music venue in London with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Milkshake HALLOWEEN: THE OTHER SIDE" on Tue, 27 Oct 2026.
 
 The Scala is a music venue in London listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 275 Pentonville Road; King´s Cross; London N1 9NL; United Kingdom.
 
@@ -19,4 +19,4 @@ The Scala is a music venue in London listed on soundcheck. 6 upcoming gigs. See 
 
 275 Pentonville Road; King´s Cross; London N1 9NL; United Kingdom, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-scala/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-scala/)*

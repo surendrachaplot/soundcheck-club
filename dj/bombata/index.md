@@ -1,6 +1,6 @@
 # Bombata
 
-Bombata is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
+Bombata is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
 
 Bombata is a house and tech house artist based in Germany, with 83 gigs on soundcheck across Berlin and Montreal. Often billed alongside Dennis Beutler, Peet Flower and Fab Massimo. Next up: DSTRKT Club Berlin, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bombata is a house and tech house artist based in Germany, with 83 gigs on sound
 
 Dennis Beutler, Peet Flower, Fab Massimo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bombata/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bombata/)*

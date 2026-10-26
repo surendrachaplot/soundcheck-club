@@ -1,6 +1,6 @@
 # TIRTA
 
-TIRTA is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Dalston Den, London on Fri, 20 Nov 2026.
+TIRTA is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Dalston Den, London on Fri, 20 Nov 2026.
 
 TIRTA is a techno and bass artist based in United Kingdom, with 25 gigs on soundcheck across Bristol and London. Often billed alongside Deejay Nye, Vince Lam and Stella Z. Next up: Dalston Den, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ TIRTA is a techno and bass artist based in United Kingdom, with 25 gigs on sound
 
 Deejay Nye, Vince Lam, Stella Z
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tirta/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tirta/)*

@@ -1,6 +1,6 @@
 # Limit Eight
 
-Limit Eight is a Grime artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Fuchs2, Prague on Sat, 14 Nov 2026.
+Limit Eight is a Grime artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Fuchs2, Prague on Sat, 14 Nov 2026.
 
 Limit Eight is a grime artist, with 5 gigs on soundcheck across Prague. Often billed alongside Meldaboi, SMB and Silverbo1. Next up: Fuchs2, Prague on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Limit Eight is a grime artist, with 5 gigs on soundcheck across Prague. Often bi
 
 Meldaboi, SMB (1), Silverbo1
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limiteight/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limiteight/)*

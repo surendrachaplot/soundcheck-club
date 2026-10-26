@@ -1,6 +1,6 @@
 # Binh
 
-Binh is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
+Binh is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
 
 Binh is a techno and house artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 48 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: TILLATEC, Amsterdam on Mon 26 Oct.
 
@@ -33,4 +33,4 @@ Binh is a techno and house artist based in Germany, with 215 gigs on soundcheck 
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

@@ -1,6 +1,6 @@
 # CicE
 
-CicE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bar Temp., Bangkok on Thu, 29 Oct 2026.
+CicE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bar Temp., Bangkok on Thu, 29 Oct 2026.
 
 CicE is a techno and house artist based in China, with 78 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 3 more. Often billed alongside Jeff Chong, Lina K and Come to mama. Next up: Bar Temp., Bangkok on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ CicE is a techno and house artist based in China, with 78 gigs on soundcheck acr
 
 Jeff Chong, Lina K, Come to mama
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cice/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cice/)*

@@ -1,6 +1,6 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "tide" on Sun, 25 Oct 2026.
+Aoyama Hachi is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "THICK.LAB 24周年" on Tue, 27 Oct 2026.
 
 Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including ANiIIIIiiiKii, bungo, CKRN303 and Daiki and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
@@ -8,7 +8,6 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | tide |  |
 | Tue, 27 Oct 2026 | THICK.LAB 24周年 |  |
 | Sat, 31 Oct 2026 | Sunshine Underground Vol.12 4th Anniversary | ANiIIIIiiiKii, FELINE (JP), Onométro, Shoma fr,dambosound, Terax, YO.AN, bungo, k:sea, takumar |
 | Sun, 1 Nov 2026 | Motion | KAIKAI, MZKN, N (33), RReona, SIGNAL (JP), TAJI, fotprt |
@@ -16,6 +15,7 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, w
 | Tue, 3 Nov 2026 | WAX WAGGLE 1st Anniversary | DJ RS, KAKERU, MagRena, SOGI, Sayuri (2), Sojourna, ifax!, monielu.h, savezearth |
 | Sun, 8 Nov 2026 | Jazz'N'Bass -Jazzy Liquid & Deep Drum'n'Bass | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Sun, 8 Nov 2026 | Hiru-Hachi -DOUBLE SIDER |  |
+| Fri, 13 Nov 2026 | JUST HAVE FUN |  |
 | Fri, 27 Nov 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Gara, Kenta Tominaga, vinylDJ Eiji Takehana |
 | Sun, 29 Nov 2026 | Motion | CKRN303, KUBOTA, Krankent, SIGNAL (JP), Sofozor, TAIYO (2), TECSTONE, Tomoya, Yohei Hibiki, milltea, puffclouds |
 
@@ -23,4 +23,4 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, w
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

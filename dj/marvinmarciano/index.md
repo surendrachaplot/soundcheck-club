@@ -1,6 +1,6 @@
 # Marvin Marciano
 
-Marvin Marciano is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at CHICO, Mexico City on Thu, 29 Oct 2026.
+Marvin Marciano is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at CHICO, Mexico City on Thu, 29 Oct 2026.
 
 Marvin Marciano is a reggaeton and latin bass artist based in Mexico, with 5 gigs on soundcheck across Mexico City. Often billed alongside Baila Morena, Black Daria and Milothicc. Next up: CHICO, Mexico City on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ Marvin Marciano is a reggaeton and latin bass artist based in Mexico, with 5 gig
 
 Baila Morena, Black Daria, Milothicc
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinmarciano/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinmarciano/)*

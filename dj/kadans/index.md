@@ -1,6 +1,6 @@
 # KADANS
 
-KADANS is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Amigo, Ghent on Sat, 28 Nov 2026.
+KADANS is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Amigo, Ghent on Sat, 28 Nov 2026.
 
 KADANS is a techno and electronica artist, with 8 gigs on soundcheck across Ghent. Often billed alongside Daesical, Cecilia Tosh and pntrkrft. Next up: Amigo, Ghent on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ KADANS is a techno and electronica artist, with 8 gigs on soundcheck across Ghen
 
 Daesical, Cecilia Tosh, pntrkrft
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kadans/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kadans/)*

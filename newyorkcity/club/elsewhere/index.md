@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Elsewhere Halloween - Major League Djz, Bantu, SAIDAH, D Stone, Ariel Lights b2b Sissy Elliott" on Sat, 31 Oct 2026.
+Elsewhere is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Elsewhere Halloween - Major League Djz, Bantu, SAIDAH, D Stone, Ariel Lights b2b Sissy Elliott" on Sat, 31 Oct 2026.
 
 Elsewhere is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and ali rq and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 19 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

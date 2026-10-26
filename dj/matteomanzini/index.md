@@ -1,6 +1,6 @@
 # Matteo Manzini
 
-Matteo Manzini is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
+Matteo Manzini is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
 
 Matteo Manzini is a techno and electro artist based in United Kingdom, with 38 gigs on soundcheck across Berlin, Bologna, Bucharest and London and 2 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: NDR2 Red Room, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Matteo Manzini is a techno and electro artist based in United Kingdom, with 38 g
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomanzini/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteomanzini/)*

@@ -1,6 +1,6 @@
 # Tal Fussman
 
-Tal Fussman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at D! Club, Lausanne on Fri, 6 Nov 2026.
+Tal Fussman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at D! Club, Lausanne on Fri, 6 Nov 2026.
 
 Tal Fussman is a house and techno artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 38 more. Often billed alongside Radio Slave, Hard To Tell and Anja Schneider. Next up: D! Club, Lausanne on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Tal Fussman is a house and techno artist based in Germany, with 112 gigs on soun
 
 Radio Slave, Hard To Tell, Anja Schneider
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*

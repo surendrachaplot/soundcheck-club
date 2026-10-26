@@ -1,8 +1,8 @@
 # Mothership
 
-Mothership is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Maja Blast feat. DJ ing" on Fri, 30 Oct 2026.
+Mothership is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Maja Blast feat. DJ ing" on Fri, 30 Oct 2026.
 
-Mothership is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including DJ ing, jaag (US), Justyn Myers and nofi and 1 more. See dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
+Mothership is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including Buck Wilson, DJ ing, Golem (US) and jaag (US) and 2 more. See dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
 
 ## What's on
 
@@ -10,10 +10,11 @@ Mothership is a music venue in San Francisco/Oakland listed on soundcheck. 3 upc
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Maja Blast feat. DJ ing | DJ ing, jaag (US), nofi |
 | Thu, 5 Nov 2026 | oksional: Tyler Ross |  |
+| Fri, 6 Nov 2026 | Bongo: Jim Hopkins | Buck Wilson, Golem (US) |
 | Thu, 3 Dec 2026 | oksional: Yaz | Justyn Myers, Yaz |
 
 ## Address
 
 3152 Mission Street San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*

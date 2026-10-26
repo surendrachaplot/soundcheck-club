@@ -1,6 +1,6 @@
 # Still.i
 
-Still.i is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Studio Notte, Milan on Sat, 31 Oct 2026.
+Still.i is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Studio Notte, Milan on Sat, 31 Oct 2026.
 
 Still.i is an electronic artist based in Italy, with 40 gigs on soundcheck across Milan. Often billed alongside Ivory, DJ Tennis and Guy Gerber. Next up: Studio Notte, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Still.i is an electronic artist based in Italy, with 40 gigs on soundcheck acros
 
 Ivory, DJ Tennis, Guy Gerber
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/still.i/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/still.i/)*

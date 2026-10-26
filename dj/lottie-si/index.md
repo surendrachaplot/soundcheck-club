@@ -1,6 +1,6 @@
 # Lottie (SI)
 
-Lottie (SI) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Jalousy, Brussels on Fri, 30 Oct 2026.
+Lottie (SI) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Jalousy, Brussels on Fri, 30 Oct 2026.
 
 Lottie (SI) is a house and techno artist based in Slovenia, with 34 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 5 more. Often billed alongside Lerro, Akaj and Monti1one. Next up: Jalousy, Brussels on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Lottie (SI) is a house and techno artist based in Slovenia, with 34 gigs on soun
 
 Lerro, Akaj, Monti1one
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lottie-si/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lottie-si/)*

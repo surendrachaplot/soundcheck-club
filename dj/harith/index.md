@@ -1,6 +1,6 @@
 # Harith
 
-Harith is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Soiree restaurant and lounge, Dubai on Sat, 31 Oct 2026.
+Harith is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Soiree restaurant and lounge, Dubai on Sat, 31 Oct 2026.
 
 Harith is a progressive house and electronica artist based in Sri Lanka, with 6 gigs on soundcheck across Dubai. Often billed alongside Halishan, Border Control and Goos. Next up: TBA - Soiree restaurant and lounge, Dubai on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Harith is a progressive house and electronica artist based in Sri Lanka, with 6 
 
 Halishan, Border Control, Goos (1)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harith/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harith/)*

@@ -1,6 +1,6 @@
 # Naavikaran
 
-Naavikaran is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Inner West Warehouse, Sydney on Sat, 31 Oct 2026.
+Naavikaran is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Inner West Warehouse, Sydney on Sat, 31 Oct 2026.
 
 Naavikaran is a techno and club artist based in Australia, with 5 gigs on soundcheck across Melbourne and Sydney. Often billed alongside AMY., Izata and MISHSQUISH. Next up: TBA - Inner West Warehouse, Sydney on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Naavikaran is a techno and club artist based in Australia, with 5 gigs on soundc
 
 AMY., Izata, MISHSQUISH
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naavikaran/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naavikaran/)*

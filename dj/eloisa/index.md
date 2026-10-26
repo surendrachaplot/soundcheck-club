@@ -1,8 +1,8 @@
 # ELOISA
 
-ELOISA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Amp, Münster on Fri, 30 Oct 2026.
+ELOISA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Amp, Münster on Fri, 30 Oct 2026.
 
-ELOISA is a techno and trance artist based in Germany, with 99 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dresden and 9 more. Often billed alongside Carotin, Paraçek and Melanchromie. Next up: Amp, Münster on Fri 30 Oct.
+ELOISA is a techno and trance artist based in Germany, with 100 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dresden and 10 more. Often billed alongside Carotin, Paraçek and Melanchromie. Next up: Amp, Münster on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ELOISA is a techno and trance artist based in Germany, with 99 gigs on soundchec
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Amp | Münster |
 | Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 28 Nov 2026 | WDM | Hannover |
 | Sat, 12 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ ELOISA is a techno and trance artist based in Germany, with 99 gigs on soundchec
 
 Carotin, Paraçek, Melanchromie
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*

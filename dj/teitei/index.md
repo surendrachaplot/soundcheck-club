@@ -1,14 +1,14 @@
 # TEI TEI
 
-TEI TEI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
+TEI TEI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
-TEI TEI is a techno and trance artist based in China, with 149 gigs on soundcheck across Beijing, Chengdu, Hong Kong and Kanto and 5 more. Often billed alongside DANDAN, the2$ and EVE. Next up: Kinone Pension, Kanto on Sat 31 Oct.
+TEI TEI is a techno and trance artist based in China, with 149 gigs on soundcheck across Beijing, Chengdu, Hong Kong and Kanto and 5 more. Often billed alongside DANDAN, the2$ and EVE. Next up: TBA - Kinone Pension, Kanto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Kinone Pension | Kanto |
+| Sat, 31 Oct 2026 | TBA - Kinone Pension | Kanto |
 | Sat, 31 Oct 2026 | Kinone Pension | Kanto |
 
 ## Recently played
@@ -26,4 +26,4 @@ TEI TEI is a techno and trance artist based in China, with 149 gigs on soundchec
 
 DANDAN, the2$, EVE (1)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teitei/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teitei/)*

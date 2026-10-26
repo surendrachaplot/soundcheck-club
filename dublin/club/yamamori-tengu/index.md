@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 17 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Soundsystem Sunday: Woozy with Darwin, Carré + Mana Dealer (Live)" on Sun, 25 Oct 2026.
+Yamamori Tengu is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "DUDJ PRESENTS: CRYME" on Thu, 29 Oct 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 17 upcoming gigs, with line-ups including A For Alpha, Batu, Carré and Cormac and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with line-ups including A For Alpha, Batu, Cormac and CRYME and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Soundsystem Sunday: Woozy with Darwin, Carré + Mana Dealer (Live) | Carré, Darwin |
 | Thu, 29 Oct 2026 | DUDJ PRESENTS: CRYME | CRYME, Donncha |
 | Fri, 30 Oct 2026 | Tengu presents: Prozak's Residency with Papa Nugs & A For Alpha | A For Alpha, Papa Nugs, Prozak (IRL) |
 | Sat, 31 Oct 2026 | Tengu presents: Eliza All Night Long | Eliza |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 17 upcoming gigs
 | Thu, 12 Nov 2026 | Tengu x Omni: L.P. Rhythm | L.P. Rhythm |
 | Fri, 13 Nov 2026 | illicit: DJ Plant Texture | DJ Plant Texture, Rustal |
 | Sat, 14 Nov 2026 | SOUNDMATE ' The Hub' | Oshana, Slim (IE) |
+| Fri, 20 Nov 2026 | The Shed Residents presents: RUIZ OSC1 & Lorcan Kelly | Lorcan Kelly, RUIZ OSC1 |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

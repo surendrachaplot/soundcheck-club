@@ -1,6 +1,6 @@
 # Xen Chron
 
-Xen Chron is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Phoenix Landing, Boston on Thu, 29 Oct 2026.
+Xen Chron is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Phoenix Landing, Boston on Thu, 29 Oct 2026.
 
 Xen Chron is a techno and bass artist based in United States of America, with 9 gigs on soundcheck across Boston, London, Madrid and Manchester and 1 more. Often billed alongside Lenore, AAKAARA and BOTHER. Next up: Phoenix Landing, Boston on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Xen Chron is a techno and bass artist based in United States of America, with 9 
 
 Lenore, AAKAARA, BOTHER
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xenchron/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xenchron/)*

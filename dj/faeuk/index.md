@@ -1,6 +1,6 @@
 # fae (UK)
 
-fae (UK) is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Glove That Fits, London on Sat, 14 Nov 2026.
+fae (UK) is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Glove That Fits, London on Sat, 14 Nov 2026.
 
 fae (UK) is a house and garage artist based in United Kingdom, with 81 gigs on soundcheck across Birmingham, Bristol, Leeds and London and 3 more. Often billed alongside ohmydais, Ell Murphy and Jhumka. Next up: The Glove That Fits, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ fae (UK) is a house and garage artist based in United Kingdom, with 81 gigs on s
 
 ohmydais, Ell Murphy, Jhumka
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faeuk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faeuk/)*

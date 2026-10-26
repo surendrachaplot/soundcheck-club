@@ -1,6 +1,6 @@
 # DJ Putilla
 
-DJ Putilla is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 31 Oct 2026.
+DJ Putilla is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 31 Oct 2026.
 
 DJ Putilla is a club and house artist based in Mexico, with 56 gigs on soundcheck across Berlin, Freiburg, Lisbon and Mexico City and 2 more. Often billed alongside Kodemul, Ojos de miel and Feasting. Next up: Crack Bellmer, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Putilla is a club and house artist based in Mexico, with 56 gigs on soundchec
 
 Kodemul, Ojos de miel, Feasting
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djputilla/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djputilla/)*

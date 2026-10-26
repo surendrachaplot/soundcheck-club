@@ -1,6 +1,6 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Slip Falcone, Vultur" on Wed, 28 Oct 2026.
+Switch Bar is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Slip Falcone, Vultur" on Wed, 28 Oct 2026.
 
 Switch Bar is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including btrast, Konnin, LeMichael and Massi and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
@@ -20,4 +20,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, 
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

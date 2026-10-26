@@ -1,6 +1,6 @@
 # Cece
 
-Cece is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Burdekin Hotel, Sydney on Sat, 7 Nov 2026.
+Cece is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Burdekin Hotel, Sydney on Sat, 7 Nov 2026.
 
 Cece is a drum & bass and techno artist based in Australia, with 8 gigs on soundcheck across Amsterdam, Canberra, Mannheim and San Francisco/Oakland and 1 more. Often billed alongside 249.92, 36framez and A For Alpha. Next up: Burdekin Hotel, Sydney on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Cece is a drum & bass and techno artist based in Australia, with 8 gigs on sound
 
 249.92, 36framez, A For Alpha
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cece-uk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cece-uk/)*

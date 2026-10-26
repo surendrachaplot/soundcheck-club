@@ -1,6 +1,6 @@
 # Melo (ES)
 
-Melo (ES) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
+Melo (ES) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
 
 Melo (ES) is a house and techno artist based in Spain, with 17 gigs on soundcheck across Amsterdam, Bristol, Brussels and Cologne and 8 more. Often billed alongside Arp Frique, Eris Drew and FAFF. Next up: TBA, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Melo (ES) is a house and techno artist based in Spain, with 17 gigs on soundchec
 
 Arp Frique, Eris Drew, FAFF
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melo-es/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melo-es/)*

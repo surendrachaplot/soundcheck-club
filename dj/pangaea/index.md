@@ -1,6 +1,6 @@
 # Pangaea
 
-Pangaea is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Kauz, Zurich on Fri, 6 Nov 2026.
+Pangaea is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kauz, Zurich on Fri, 6 Nov 2026.
 
 Pangaea is a techno and bass artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 60 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: Kauz, Zurich on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Pangaea is a techno and bass artist based in United Kingdom, with 142 gigs on so
 
 Ben UFO, Pearson Sound, Amaliah
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pangaea/)*

@@ -1,6 +1,6 @@
 # NEAF
 
-NEAF is a Hip-Hop and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at YOTO, Hamburg on Sat, 31 Oct 2026.
+NEAF is a Hip-Hop and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at YOTO, Hamburg on Sat, 31 Oct 2026.
 
 NEAF is a hip-hop and afrobeats artist, with 21 gigs on soundcheck across Hamburg. Often billed alongside WARNO, J.TU and Shari Who. Next up: YOTO, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NEAF is a hip-hop and afrobeats artist, with 21 gigs on soundcheck across Hambur
 
 WARNO, J.TU, Shari Who
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neaf/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neaf/)*

@@ -1,6 +1,6 @@
 # Richy Ahmed
 
-Richy Ahmed is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 28 Nov 2026.
+Richy Ahmed is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 28 Nov 2026.
 
 Richy Ahmed is a tech house and house artist based in United Kingdom, with 149 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 37 more. Often billed alongside Jamie Jones, ALISHA and wAFF. Next up: NX Newcastle, Newcastle on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Richy Ahmed is a tech house and house artist based in United Kingdom, with 149 g
 
 Jamie Jones, ALISHA, wAFF
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*

@@ -1,6 +1,6 @@
 # 5ogol
 
-5ogol is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 21 Nov 2026.
+5ogol is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 21 Nov 2026.
 
 5ogol is a techno and industrial artist based in Iran, with 49 gigs on soundcheck across Berlin, Birmingham, Budapest and Geneva and 4 more. Often billed alongside Barbad, VRODAK and Akác. Next up: Купе / Kupe, Sofia on Sat 21 Nov.
 
@@ -25,4 +25,4 @@
 
 Barbad, VRODAK, Akác
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5ogol/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5ogol/)*

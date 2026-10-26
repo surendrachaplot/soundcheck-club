@@ -1,6 +1,6 @@
 # Mood II Swing
 
-Mood II Swing is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TRANSMISSION DC, Washington DC on Sat, 7 Nov 2026.
+Mood II Swing is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TRANSMISSION DC, Washington DC on Sat, 7 Nov 2026.
 
 Mood II Swing is a house and disco artist based in United States of America, with 38 gigs on soundcheck across Berlin, Chicago, Detroit and Geneva and 13 more. Often billed alongside Jamesey, Matt L-S and Prunk. Next up: TRANSMISSION DC, Washington DC on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Mood II Swing is a house and disco artist based in United States of America, wit
 
 Jamesey, Matt L-S, Prunk
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodiiswing/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodiiswing/)*

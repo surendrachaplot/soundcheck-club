@@ -1,6 +1,6 @@
 # TAKENOKO
 
-TAKENOKO is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Saloon, Tokyo on Sat, 31 Oct 2026.
+TAKENOKO is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Saloon, Tokyo on Sat, 31 Oct 2026.
 
 TAKENOKO is a bass and techno artist based in Japan, with 64 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside SAMO (JP), YUVIE and kengotaki. Next up: Saloon, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ TAKENOKO is a bass and techno artist based in Japan, with 64 gigs on soundcheck 
 
 SAMO (JP), YUVIE, kengotaki
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takenoko/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takenoko/)*

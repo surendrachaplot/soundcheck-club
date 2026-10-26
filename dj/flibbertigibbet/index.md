@@ -1,6 +1,6 @@
 # FlibbertiGibbet
 
-FlibbertiGibbet is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Basing House, London on Sat, 19 Dec 2026.
+FlibbertiGibbet is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Basing House, London on Sat, 19 Dec 2026.
 
 FlibbertiGibbet is a techno and trance artist based in United Kingdom, with 10 gigs on soundcheck across London and Sheffield. Often billed alongside Psibindi, Nikki S and JourneyOM. Next up: Basing House, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ FlibbertiGibbet is a techno and trance artist based in United Kingdom, with 10 g
 
 Psibindi, Nikki S, JourneyOM
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flibbertigibbet/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flibbertigibbet/)*

@@ -1,6 +1,6 @@
 # LEGRAM VG
 
-LEGRAM VG is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Lyon on Sat, 31 Oct 2026.
+LEGRAM VG is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Lyon on Sat, 31 Oct 2026.
 
 LEGRAM VG is a house and electro artist based in United Kingdom, with 65 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 20 more. Often billed alongside Anaïs Liro, Oscar VG and Lumbago. Next up: TBA, Lyon on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ LEGRAM VG is a house and electro artist based in United Kingdom, with 65 gigs on
 
 Anaïs Liro, Oscar VG, Lumbago
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/legramvg/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/legramvg/)*

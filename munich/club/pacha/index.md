@@ -1,6 +1,6 @@
 # Pacha
 
-Pacha is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "FreitagNacht with Leblanc, Amrita" on Fri, 30 Oct 2026.
+Pacha is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "FreitagNacht with Leblanc, Amrita" on Fri, 30 Oct 2026.
 
 Pacha is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Ankhoï, Kevin de Vries, Leblanc and Maurizio Schmitz and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -17,4 +17,4 @@ Pacha is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with lin
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

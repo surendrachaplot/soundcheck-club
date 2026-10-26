@@ -1,6 +1,6 @@
 # aka PHILIP
 
-aka PHILIP is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - TERKO BAR (Copacabana), Medellin on Sat, 31 Oct 2026.
+aka PHILIP is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - TERKO BAR (Copacabana), Medellin on Sat, 31 Oct 2026.
 
 aka PHILIP is a techno and minimal techno artist based in Colombia, with 7 gigs on soundcheck across Medellin. Often billed alongside Dithek, Damm Rive and Andres Gil. Next up: TBA - TERKO BAR (Copacabana), Medellin on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ aka PHILIP is a techno and minimal techno artist based in Colombia, with 7 gigs 
 
 Dithek, Damm Rive, Andres Gil
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaphilip/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaphilip/)*

@@ -1,17 +1,18 @@
 # Portamento
 
-Portamento is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at radial, London on Sun, 25 Oct 2026.
+Portamento is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Radial, London on Sat, 31 Oct 2026.
 
-Portamento is a deep house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Barcelona, Cologne, London and New York City. Often billed alongside 1991 (UK), 909 RACING TEAM and A.N.I.. Next up: radial, London on Sun 25 Oct.
+Portamento is a deep house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Barcelona, Cologne, London and New York City. Often billed alongside Bibiminor, MANNIO and Mitch Presents. Next up: Radial, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | radial | London |
+| Sat, 31 Oct 2026 | Radial | London |
 
 ## Recently played
 
+- radial, London · Sun, 25 Oct 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - The Joiner on Worship, London · Sat, 12 Jul 2025
 - TBA - Malvern, London · Fri, 23 May 2025
@@ -19,10 +20,9 @@ Portamento is a deep house and techno artist based in United Kingdom, with 9 gig
 - Círculo, Barcelona · Sun, 20 Apr 2025
 - Dream Bags Jaguar Shoes, London · Thu, 28 Mar 2024
 - Sui Generis, London · Thu, 15 Feb 2024
-- DreamBags Jaguarshoes, London · Fri, 9 Feb 2024
 
 ## Shares bills with
 
-1991 (UK), 909 RACING TEAM, A.N.I.
+Bibiminor, MANNIO, Mitch Presents
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/portamento/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/portamento/)*

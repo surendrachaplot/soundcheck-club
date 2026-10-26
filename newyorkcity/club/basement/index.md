@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Dustin Zahn / Kameliia / Ade Kassim / Hercules & Love Affair / Eli Escobar / Andi" on Sat, 24 Oct 2026.
+BASEMENT is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "BOUND Blackout: Laure Croft / SKIN / Katie Rex / Kim Anh / Dj Warning / likeholywine / nonsuit" on Fri, 30 Oct 2026.
 
-BASEMENT is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Justine Perry, LYDO, Ade Kassim and Alex Kassian and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Justine Perry, LYDO, Alex Kassian and Altinbas and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Dustin Zahn / Kameliia / Ade Kassim / Hercules & Love Affair / Eli Escobar / Andi | Ade Kassim, Andi, Dustin Zahn, Eli Escobar, Hercules & Love Affair, Kameliia |
 | Fri, 30 Oct 2026 | BOUND Blackout: Laure Croft / SKIN / Katie Rex / Kim Anh / Dj Warning / likeholywine / nonsuit | Dj Warning, Katie Rex, Kim Anh, Laure Croft, SKIN, likeholywine, nonsuit |
 | Sat, 31 Oct 2026 | Herrensauna: MCMLXXXV / SALOME / LORD ASA / CEM / Dee Diggs / Sevyn Love | CEM, Dee Diggs, LORD ASA, MCMLXXXV, SALOME, Sevyn Love |
 | Fri, 6 Nov 2026 | Aurora Halal / Altinbas / Roza Terenzi / Alex Kassian / Matas | Alex Kassian, Altinbas, Aurora Halal, Matas, Roza Terenzi |
@@ -22,4 +21,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 9 upcoming gigs
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

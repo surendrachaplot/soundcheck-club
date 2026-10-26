@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Dearly Beloved, Dead Letter No.9's final Thursday - Orson, James Juke, Sanouyer, RONRON" on Thu, 29 Oct 2026.
+Dead Letter No. 9 is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Dearly Beloved, Dead Letter No.9's final Thursday - Orson, James Juke, Sanouyer, RONRON" on Thu, 29 Oct 2026.
 
 Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including Bella De León, boyyyish, Haruka (US) and James Juke and 2 more. See dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -16,4 +16,4 @@ Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 3 upco
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

@@ -1,6 +1,6 @@
 # VASSIŁINA
 
-VASSIŁINA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Klakaz, Athens on Sun, 29 Nov 2026.
+VASSIŁINA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Klakaz, Athens on Sun, 29 Nov 2026.
 
 VASSIŁINA is a club and techno artist based in Greece, with 8 gigs on soundcheck across Athens. Often billed alongside Catu Diosis, Curses and DJ Problems. Next up: Klakaz, Athens on Sun 29 Nov.
 
@@ -24,4 +24,4 @@ VASSIŁINA is a club and techno artist based in Greece, with 8 gigs on soundchec
 
 Catu Diosis, Curses, DJ Problems
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vassilina/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vassilina/)*

@@ -1,14 +1,13 @@
 # Toobris
 
-Toobris is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Toobris is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
-Toobris is a techno and house artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Freddy K, Alarico and Lobster (NL). Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
+Toobris is a techno and house artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Freddy K, Alarico and Lobster (NL). Next up: RADION, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
 | Fri, 30 Oct 2026 | FLUCC | Vienna |
@@ -17,6 +16,7 @@ Toobris is a techno and house artist based in Germany, with 66 gigs on soundchec
 
 ## Recently played
 
+- RADION, Amsterdam · Sun, 25 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 24 Oct 2026
 - NWHR, Montreal · Sun, 18 Oct 2026
 - TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia · Sat, 17 Oct 2026
@@ -24,10 +24,9 @@ Toobris is a techno and house artist based in Germany, with 66 gigs on soundchec
 - Graf Karl, Kassel · Sat, 3 Oct 2026
 - Ciało, Wroclaw · Fri, 2 Oct 2026
 - Lofi, Amsterdam · Sat, 19 Sept 2026
-- DETROIT CLUB, Barcelona · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Freddy K, Alarico, Lobster (NL)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

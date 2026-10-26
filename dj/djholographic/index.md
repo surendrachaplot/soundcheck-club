@@ -1,6 +1,6 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+DJ Holographic is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 DJ Holographic is a house and techno artist based in United States of America, with 244 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -9,7 +9,6 @@ DJ Holographic is a house and techno artist based in United States of America, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
-| Sun, 25 Oct 2026 | Madam | Amsterdam |
 | Sat, 7 Nov 2026 | Brookside at the Rose Bowl | Los Angeles |
 | Sat, 7 Nov 2026 | Brookside at the Rose Bowl | Los Angeles |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
@@ -21,6 +20,7 @@ DJ Holographic is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- Madam, Amsterdam · Sun, 25 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - Good Room, New York City · Fri, 16 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
@@ -28,10 +28,9 @@ DJ Holographic is a house and techno artist based in United States of America, w
 - TBA - Shipyards Waterfront, Vancouver · Sat, 3 Oct 2026
 - TBA, Detroit · Fri, 2 Oct 2026
 - TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle · Sat, 26 Sept 2026
-- Los Globos, Los Angeles · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

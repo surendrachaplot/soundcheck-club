@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 28 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "UNITE of The Boom" on Sun, 25 Oct 2026.
+Socore Factory is a music venue in Osaka with 27 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "HOOFIT" on Wed, 28 Oct 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 28 upcoming gigs, with line-ups including ALUCA, Can, DJ Compufunk and Fluid and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 27 upcoming gigs, with line-ups including ALUCA, Can, DJ Compufunk and Fluid and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | UNITE of The Boom |  |
 | Wed, 28 Oct 2026 | HOOFIT |  |
 | Thu, 29 Oct 2026 | Gnaw Asia Tour 2026 – Inside a Machine That's Glistening – |  |
 | Fri, 30 Oct 2026 | WHITEROOM | ALUCA, SPOT (JPN), Tosh (2) |
@@ -18,9 +17,10 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 28 upcoming gigs,
 | Thu, 5 Nov 2026 | aryy ONE-MAN SHOW |  |
 | Fri, 6 Nov 2026 | Vela 1st One-Man Tour 『Journal』 |  |
 | Sat, 7 Nov 2026 | NICKELMAN / Mangoes II Release Party | GEBO |
+| Sun, 8 Nov 2026 | imakinn records presents Texas Is The Reason Japan Tour 2026 |  |
 
 ## Address
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

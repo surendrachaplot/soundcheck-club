@@ -1,6 +1,6 @@
 # Sard
 
-Sard is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 6 Nov 2026.
+Sard is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 6 Nov 2026.
 
 Sard is a techno and acid artist based in United States of America, with 52 gigs on soundcheck across Baltimore, Chicago, Denver and Detroit and 9 more. Often billed alongside Amino, Dretraxx and Lonefront. Next up: Lincoln Factory, Detroit on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Sard is a techno and acid artist based in United States of America, with 52 gigs
 
 Amino, Dretraxx, Lonefront
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*

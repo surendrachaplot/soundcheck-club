@@ -1,6 +1,6 @@
 # Hypnotic Black Magic
 
-Hypnotic Black Magic is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sound space α, Kyushu on Sat, 7 Nov 2026.
+Hypnotic Black Magic is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sound space α, Kyushu on Sat, 7 Nov 2026.
 
 Hypnotic Black Magic is a techno and trance artist based in Germany, with 131 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 29 more. Often billed alongside Andrea Cossu, Luis FMR and Aksamit. Next up: Sound space α, Kyushu on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hypnotic Black Magic is a techno and trance artist based in Germany, with 131 gi
 
 Andrea Cossu, Luis FMR, Aksamit
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*

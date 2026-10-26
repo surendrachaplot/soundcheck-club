@@ -1,14 +1,15 @@
 # Castillonaire
 
-Castillonaire is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Trans-Pecos, New York City on Fri, 6 Nov 2026.
+Castillonaire is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Trans-Pecos, New York City on Fri, 6 Nov 2026.
 
-Castillonaire is a club and house artist based in United States of America, with 35 gigs on soundcheck across Detroit, Los Angeles, Manila and Melbourne and 5 more. Often billed alongside rogue.wav, WILHELMINA and Choo Choo. Next up: Trans-Pecos, New York City on Fri 6 Nov.
+Castillonaire is a club and electronica artist based in United States of America, with 36 gigs on soundcheck across Detroit, Los Angeles, Manila and Melbourne and 5 more. Often billed alongside rogue.wav, WILHELMINA and Choo Choo. Next up: Trans-Pecos, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Trans-Pecos | New York City |
+| Sat, 21 Nov 2026 | Trans-Pecos | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Castillonaire is a club and house artist based in United States of America, with
 
 rogue.wav, WILHELMINA, Choo Choo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castillonaire/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castillonaire/)*

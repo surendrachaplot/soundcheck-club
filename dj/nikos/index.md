@@ -1,8 +1,8 @@
 # Nikos
 
-Nikos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Mezz, Netherlands on Fri, 27 Nov 2026.
+Nikos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mezz, Netherlands on Fri, 27 Nov 2026.
 
-Nikos is a techno and house artist, with 13 gigs on soundcheck across Amsterdam, Berlin, Munich and Netherlands and 1 more. Often billed alongside Spekki Webu, Woody92 and kimmah. Next up: Mezz, Netherlands on Fri 27 Nov.
+Nikos is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Berlin, Munich and Netherlands and 1 more. Often billed alongside Spekki Webu, Woody92 and kimmah. Next up: Mezz, Netherlands on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nikos is a techno and house artist, with 13 gigs on soundcheck across Amsterdam,
 
 Spekki Webu, Woody92, kimmah
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikos/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikos/)*

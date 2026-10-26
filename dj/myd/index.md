@@ -1,6 +1,6 @@
 # Myd
 
-Myd is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 30 Oct 2026.
+Myd is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 30 Oct 2026.
 
 Myd is a house and electro artist based in France, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Pumpehuset, Copenhagen on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Myd is a house and electro artist based in France, with 117 gigs on soundcheck a
 
 Busy P, Breakbot, Cassius
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myd/)*

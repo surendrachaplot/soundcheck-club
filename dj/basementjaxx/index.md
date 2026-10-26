@@ -1,6 +1,6 @@
 # Basement Jaxx
 
-Basement Jaxx is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Basement Jaxx is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Basement Jaxx is a house and disco artist based in United Kingdom, with 42 gigs on soundcheck across Adelaide, Auckland, Barcelona and Bristol and 14 more. Often billed alongside Melvo Baptiste, Roger Sanchez and DJ Paulette. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Basement Jaxx is a house and disco artist based in United Kingdom, with 42 gigs 
 
 Melvo Baptiste, Roger Sanchez, DJ Paulette
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basementjaxx/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basementjaxx/)*

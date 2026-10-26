@@ -1,6 +1,6 @@
 # Fiene
 
-Fiene is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TivoliVredenburg, Utrecht on Tue, 29 Dec 2026.
+Fiene is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TivoliVredenburg, Utrecht on Tue, 29 Dec 2026.
 
 Fiene is a techno and trance artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Paris, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Rozie and AUTOFLOWER. Next up: TivoliVredenburg, Utrecht on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Fiene is a techno and trance artist based in Netherlands, with 44 gigs on soundc
 
 Benny Rodrigues, Rozie, AUTOFLOWER
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiene/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiene/)*

@@ -1,6 +1,6 @@
 # Rich Reason
 
-Rich Reason is a Garage and Disco artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Dahlia Stereo, Manchester on Wed, 28 Oct 2026.
+Rich Reason is a Garage and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Dahlia Stereo, Manchester on Wed, 28 Oct 2026.
 
 Rich Reason is a garage and disco artist based in United Kingdom, with 177 gigs on soundcheck across Amsterdam, Bristol, Istanbul and Leeds and 4 more. Often billed alongside LARISHKA (UK), T-Man (UK) and Chunky. Next up: Dahlia Stereo, Manchester on Wed 28 Oct.
 
@@ -29,4 +29,4 @@ Rich Reason is a garage and disco artist based in United Kingdom, with 177 gigs 
 
 LARISHKA (UK), T-Man (UK), Chunky
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richreason/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richreason/)*

@@ -1,6 +1,6 @@
 # Schmoop
 
-Schmoop is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Chocolate Factory, New York City on Fri, 30 Oct 2026.
+Schmoop is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Chocolate Factory, New York City on Fri, 30 Oct 2026.
 
 Schmoop is a bass and dubstep artist based in United States of America, with 5 gigs on soundcheck across Atlanta, New York City, Portland and San Francisco/Oakland. Often billed alongside Headnod and Izzy Wise. Next up: The Chocolate Factory, New York City on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Schmoop is a bass and dubstep artist based in United States of America, with 5 g
 
 Headnod, Izzy Wise
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schmoop/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schmoop/)*

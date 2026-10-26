@@ -1,6 +1,6 @@
 # Raef.
 
-Raef. is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 18 Dec 2026.
+Raef. is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 18 Dec 2026.
 
 Raef. is an electro and house artist based in United Kingdom, with 16 gigs on soundcheck across Birmingham, Leeds, London and Manchester. Often billed alongside Farrant, Revstreet and Larushkin. Next up: NUMBER 90 LONDON, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Raef. is an electro and house artist based in United Kingdom, with 16 gigs on so
 
 Farrant, Revstreet, Larushkin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raef./)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raef./)*

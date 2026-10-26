@@ -1,6 +1,6 @@
 # Valdagger
 
-Valdagger is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Kongresai, Vilnius on Fri, 30 Oct 2026.
+Valdagger is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kongresai, Vilnius on Fri, 30 Oct 2026.
 
 Valdagger is a techno and house artist, with 61 gigs on soundcheck across Berlin, Krakow, Paris and Riga and 3 more. Often billed alongside Mirror Slave, Phase Line and Mario Moretti. Next up: Kongresai, Vilnius on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Valdagger is a techno and house artist, with 61 gigs on soundcheck across Berlin
 
 Mirror Slave, Phase Line, Mario Moretti
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valdagger/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valdagger/)*

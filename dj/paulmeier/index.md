@@ -1,8 +1,8 @@
 # Paul Meier
 
-Paul Meier is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at ://about blank, Berlin on Sat, 7 Nov 2026.
+Paul Meier is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at ://about blank, Berlin on Sat, 7 Nov 2026.
 
-Paul Meier is a trance and techno artist based in Germany, with 36 gigs on soundcheck across Basel, Berlin, Bremen and Cologne and 6 more. Often billed alongside 3LEEZA, KLING&KLANG and DJ Tallboy. Next up: ://about blank, Berlin on Sat 7 Nov.
+Paul Meier is a trance and techno artist based in Germany, with 37 gigs on soundcheck across Basel, Berlin, Bremen and Cologne and 6 more. Often billed alongside 3LEEZA, KLING&KLANG and DJ Tallboy. Next up: ://about blank, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paul Meier is a trance and techno artist based in Germany, with 36 gigs on sound
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | ://about blank | Berlin |
 | Wed, 23 Dec 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 29 May 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Paul Meier is a trance and techno artist based in Germany, with 36 gigs on sound
 
 3LEEZA, KLING&KLANG, DJ Tallboy
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmeier/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmeier/)*

@@ -1,15 +1,13 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 18 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "DJ Seinfeld - Shaun J Wright - Valeria Fride" on Sat, 24 Oct 2026.
+smartbar is a music venue in Chicago with 16 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Nanoos & Company feat. Nanoos - DJ Spinn - DJ Zuni" on Fri, 30 Oct 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming gigs, with line-ups including Ariel Zetina, Brenda, Centrific and Chris Cruse and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming gigs, with line-ups including Ariel Zetina, Brenda, Centrific and Chris Cruse and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | DJ Seinfeld - Shaun J Wright - Valeria Fride | DJ Seinfeld, Shaun J. Wright, Valeria Fride |
-| Sun, 25 Oct 2026 | Queen! feat. Derrick Carter - Michael Serafini - Soundstream | Derrick Carter, Michael Serafini, Soundstream |
 | Fri, 30 Oct 2026 | Nanoos & Company feat. Nanoos - DJ Spinn - DJ Zuni | DJ Spinn, Nanoos |
 | Sat, 31 Oct 2026 | THE HOT B!T@# HALLOWEEN PARTY feat. Miss Toto - Madeline - Kitt Vesper - Virago | Kitt Vesper, Madeline (Chi), Miss Toto |
 | Sun, 1 Nov 2026 | All-Building Hallo-Queen | Chris Cruse, Czboogie, DJ Minx, Derrick Carter, Michael Serafini |
@@ -18,9 +16,11 @@ smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming gigs, wit
 | Sun, 8 Nov 2026 | Queen! feat. Derrick Carter - Julie Marghilano - Michael Serafini | Derrick Carter, Julie Marghilano, Michael Serafini |
 | Fri, 13 Nov 2026 | LADYBEAR feat. Juliana Huxtable - Ariel Zetina - Mister Hoochiemama | Ariel Zetina, Juliana Huxtable, Mister Hoochiemama |
 | Sat, 14 Nov 2026 | 4trk presents Centrific - Henry Chow - DJ Hyperactive | Centrific, DJ Hyperactive, Henry Chow |
+| Sun, 15 Nov 2026 | Queen! feat. Derrick Carter - Michael Serafini - T Mixwell | Derrick Carter, Michael Serafini |
+| Thu, 19 Nov 2026 | Bitchin Bajas (Live) - Radio de Gregorio - Potions | Potions |
 
 ## Address
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

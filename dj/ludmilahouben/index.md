@@ -1,6 +1,6 @@
 # Ludmila Houben
 
-Ludmila Houben is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at ciao ciao Bar, Berlin on Sat, 31 Oct 2026.
+Ludmila Houben is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at ciao ciao Bar, Berlin on Sat, 31 Oct 2026.
 
 Ludmila Houben is a techno and house artist based in Brazil, with 26 gigs on soundcheck across Berlin, Leipzig and London. Often billed alongside Berlin Bunny, Eyesdice and Ricardo Castro. Next up: ciao ciao Bar, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Ludmila Houben is a techno and house artist based in Brazil, with 26 gigs on sou
 
 Berlin Bunny, Eyesdice, Ricardo Castro
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmilahouben/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmilahouben/)*

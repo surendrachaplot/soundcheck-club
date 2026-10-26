@@ -1,6 +1,6 @@
 # Toscan Haas
 
-Toscan Haas is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
+Toscan Haas is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
 
 Toscan Haas is a techno and trance artist based in France, with 59 gigs on soundcheck across Amsterdam, Berlin, Geneva and Leipzig and 3 more. Often billed alongside Lea Occhi, Alys LF and Marie-Julie. Next up: BABY01, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Toscan Haas is a techno and trance artist based in France, with 59 gigs on sound
 
 Lea Occhi, Alys LF, Marie-Julie
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toscanhaas/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toscanhaas/)*

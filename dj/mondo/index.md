@@ -1,6 +1,6 @@
 # MONDO
 
-MONDO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Heebie Jeebies, Liverpool on Fri, 4 Dec 2026.
+MONDO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Heebie Jeebies, Liverpool on Fri, 4 Dec 2026.
 
 MONDO is a techno and house artist based in United States of America, with 6 gigs on soundcheck across Chicago, Liverpool, New York City and Pittsburgh and 2 more. Often billed alongside AMARI, Alex Kislov and Amit. Next up: Heebie Jeebies, Liverpool on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ MONDO is a techno and house artist based in United States of America, with 6 gig
 
 AMARI, Alex Kislov, Amit
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mondo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mondo/)*

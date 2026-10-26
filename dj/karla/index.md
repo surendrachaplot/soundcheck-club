@@ -1,6 +1,6 @@
 # KARLA
 
-KARLA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
+KARLA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
 
 KARLA is a techno and acid artist, with 7 gigs on soundcheck across Galway, Mexico City, Paris and Sydney and 1 more. Often billed alongside Xicada, AAK (MX) and Cinema Paradisco. Next up: TBA, Sydney on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ KARLA is a techno and acid artist, with 7 gigs on soundcheck across Galway, Mexi
 
 Xicada, AAK (MX), Cinema Paradisco
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karla/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karla/)*

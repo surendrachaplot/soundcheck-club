@@ -1,6 +1,6 @@
 # Angel Science
 
-Angel Science is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Private Location, Vancouver on Fri, 11 Dec 2026.
+Angel Science is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Private Location, Vancouver on Fri, 11 Dec 2026.
 
 Angel Science is a techno and house artist based in Canada, with 23 gigs on soundcheck across Calgary and Vancouver. Often billed alongside DJ Hannah, Rick Sharma and POPU. Next up: TBA - Private Location, Vancouver on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Angel Science is a techno and house artist based in Canada, with 23 gigs on soun
 
 DJ Hannah, Rick Sharma, POPU
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelscience/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelscience/)*

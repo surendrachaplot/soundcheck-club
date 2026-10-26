@@ -1,20 +1,20 @@
 # Kim April
 
-Kim April is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
+Kim April is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
-Kim April is a house and tech house artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Barcelona, Dubai and Hannover and 8 more. Often billed alongside Sidney Charles, ELVI (SE) and Job de Jong. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
+Kim April is a house and tech house artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Barcelona, Dubai and Hannover and 8 more. Often billed alongside Sidney Charles, ELVI (SE) and Job de Jong. Next up: One Marylebone, London on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Thu, 29 Oct 2026 | One Marylebone | London |
 | Sat, 7 Nov 2026 | XOYO | London |
 | Sat, 12 Dec 2026 | BASIS | Utrecht |
 
 ## Recently played
 
+- THE OTHER SIDE, Amsterdam · Sun, 25 Oct 2026
 - Pllek, Amsterdam · Sat, 24 Oct 2026
 - Ijland, Amsterdam · Fri, 23 Oct 2026
 - Yellow House, Amsterdam · Fri, 23 Oct 2026
@@ -22,10 +22,9 @@ Kim April is a house and tech house artist based in Netherlands, with 95 gigs on
 - Apophis Club, Milan · Sat, 10 Oct 2026
 - Luxor Live, Netherlands · Fri, 9 Oct 2026
 - 528 Ibiza, Ibiza · Sun, 4 Oct 2026
-- Egg London, London · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Sidney Charles, ELVI (SE), Job de Jong
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*

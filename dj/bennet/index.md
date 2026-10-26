@@ -1,6 +1,6 @@
 # Bennet
 
-Bennet is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Goldener Salon, Hamburg on Fri, 13 Nov 2026.
+Bennet is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Goldener Salon, Hamburg on Fri, 13 Nov 2026.
 
 Bennet is a techno and house artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Bennet (DE), MAKS and Byron Yeates. Next up: Goldener Salon, Hamburg on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Bennet is a techno and house artist based in Germany, with 23 gigs on soundcheck
 
 Bennet (DE), MAKS (5), Byron Yeates
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet/)*

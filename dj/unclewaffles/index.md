@@ -1,6 +1,6 @@
 # Uncle Waffles
 
-Uncle Waffles is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Boxpark Wembley, London on Sun, 27 Dec 2026.
+Uncle Waffles is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Boxpark Wembley, London on Sun, 27 Dec 2026.
 
 Uncle Waffles is an amapiano and afrobeat artist, with 28 gigs on soundcheck across Atlanta, Barcelona, Berlin and Cape Town and 11 more. Often billed alongside Dj Maphorisa, ID and Kaytranada. Next up: Boxpark Wembley, London on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Uncle Waffles is an amapiano and afrobeat artist, with 28 gigs on soundcheck acr
 
 Dj Maphorisa, ID, Kaytranada
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unclewaffles/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unclewaffles/)*

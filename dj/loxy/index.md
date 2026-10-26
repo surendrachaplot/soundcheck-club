@@ -1,6 +1,6 @@
 # Loxy
 
-Loxy is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Clock Factory, Bristol on Sat, 31 Oct 2026.
+Loxy is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Clock Factory, Bristol on Sat, 31 Oct 2026.
 
 Loxy is a drum & bass and jungle artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 18 more. Often billed alongside Doc Scott, Blackeye MC and DJ Ink. Next up: The Clock Factory, Bristol on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Loxy is a drum & bass and jungle artist based in United Kingdom, with 64 gigs on
 
 Doc Scott, Blackeye MC, DJ Ink
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*

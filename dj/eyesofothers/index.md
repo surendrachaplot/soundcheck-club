@@ -1,6 +1,6 @@
 # Eyes of Others
 
-Eyes of Others is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Sat, 12 Dec 2026.
+Eyes of Others is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Sat, 12 Dec 2026.
 
 Eyes of Others is a house and disco artist based in United Kingdom, with 5 gigs on soundcheck across Aberdeen and Edinburgh. Often billed alongside DJ Cheers, Alien Communications and Capricorn One. Next up: Leith FAB Cricket Club, Edinburgh on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Eyes of Others is a house and disco artist based in United Kingdom, with 5 gigs 
 
 DJ Cheers, Alien Communications, Capricorn One
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesofothers/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesofothers/)*

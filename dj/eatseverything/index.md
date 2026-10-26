@@ -1,6 +1,6 @@
 # Eats Everything
 
-Eats Everything is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
+Eats Everything is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
 
 Eats Everything is a house and tech house artist based in United Kingdom, with 189 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 37 more. Often billed alongside EATS, Sam Divine and Melé. Next up: fabric, London on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Eats Everything is a house and tech house artist based in United Kingdom, with 1
 
 EATS, Sam Divine, Melé
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*

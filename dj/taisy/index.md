@@ -1,6 +1,6 @@
 # Taisy
 
-Taisy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
+Taisy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
 
 Taisy is a house and tech house artist based in Germany, with 17 gigs on soundcheck across Hamburg and Münster. Often billed alongside VALI THUN, DJ Babyblade and Rittmus. Next up: Kosmos Karoline, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Taisy is a house and tech house artist based in Germany, with 17 gigs on soundch
 
 VALI THUN, DJ Babyblade, Rittmus
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taisy/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taisy/)*

@@ -1,6 +1,6 @@
 # Vannelli Bros
 
-Vannelli Bros is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at SAM Sampling Moods, Milan on Sat, 31 Oct 2026.
+Vannelli Bros is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at SAM Sampling Moods, Milan on Sat, 31 Oct 2026.
 
 Vannelli Bros is a house and electronica artist based in Italy, with 86 gigs on soundcheck across Milan. Often billed alongside Giamma Soren, Joe T Vannelli and Uabos. Next up: SAM Sampling Moods, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Vannelli Bros is a house and electronica artist based in Italy, with 86 gigs on 
 
 Giamma Soren, Joe T Vannelli, Uabos
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vannellibro/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vannellibro/)*

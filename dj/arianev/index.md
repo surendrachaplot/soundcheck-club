@@ -1,6 +1,6 @@
 # Ariane V
 
-Ariane V is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Twist Bar, Prague on Thu, 29 Oct 2026.
+Ariane V is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Twist Bar, Prague on Thu, 29 Oct 2026.
 
 Ariane V is a house and disco artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leeds and 6 more. Often billed alongside Ben Gomori, Gaucho (UK) and Liv Ayers. Next up: Twist Bar, Prague on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ Ariane V is a house and disco artist based in United Kingdom, with 107 gigs on s
 
 Ben Gomori, Gaucho (UK), Liv Ayers
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arianev/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arianev/)*

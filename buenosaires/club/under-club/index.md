@@ -1,14 +1,13 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Fabio Florido 7 HORAS" on Sat, 24 Oct 2026.
+Under Club is a music venue in Buenos Aires with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "COLLABS 3000 - JULIETA LAKE - KØLPØS" on Fri, 30 Oct 2026.
 
-Under Club is a music venue in Buenos Aires listed on soundcheck. 11 upcoming gigs, with line-ups including Ana Hagen, Ben Sims, Bondarük and Fabio Florido and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
+Under Club is a music venue in Buenos Aires listed on soundcheck. 10 upcoming gigs, with line-ups including Ana Hagen, Ben Sims, Bondarük and Fergus Sweetland and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Fabio Florido 7 HORAS | Fabio Florido |
 | Fri, 30 Oct 2026 | COLLABS 3000 - JULIETA LAKE - KØLPØS | JULIETA LAKE, KØLPØS |
 | Sat, 31 Oct 2026 | May Mc Laren 7 HORAS | May Mc Laren |
 | Sat, 7 Nov 2026 | HIHATDANCER INVITA | HIHATDANCER |
@@ -18,9 +17,10 @@ Under Club is a music venue in Buenos Aires listed on soundcheck. 11 upcoming gi
 | Sun, 22 Nov 2026 | CHIRI - Kenny Larkin - Robert Hood - + Under Club ( GASCÓN 1040 ) | Kenny Larkin, Robert Hood |
 | Mon, 7 Dec 2026 | Jorge Ciccioli - Len Faki | Jorge Ciccioli, Len Faki |
 | Sat, 12 Dec 2026 | Mariano DC - Steve Bicknell | Mariano DC, Steve Bicknell |
+| Sat, 19 Dec 2026 | Ben Sims - Bondarük & SMT | Ben Sims, Bondarük, SMT (2) |
 
 ## Address
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

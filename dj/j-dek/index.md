@@ -1,6 +1,6 @@
 # J-DEK
 
-J-DEK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
+J-DEK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
 
 J-DEK is a techno and house artist, with 43 gigs on soundcheck across Berlin, Hamburg, Hannover and Leipzig. Often billed alongside dxrvo, Brandyy and Lenn Reich. Next up: TBA - SECRET LOCATION, Hannover on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ J-DEK is a techno and house artist, with 43 gigs on soundcheck across Berlin, Ha
 
 dxrvo, Brandyy, Lenn Reich
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j-dek/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j-dek/)*

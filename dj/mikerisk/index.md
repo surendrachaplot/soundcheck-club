@@ -1,6 +1,6 @@
 # Mike Risk
 
-Mike Risk is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at ingang, Amsterdam on Sat, 14 Nov 2026.
+Mike Risk is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at ingang, Amsterdam on Sat, 14 Nov 2026.
 
 Mike Risk is a house and deep house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam and Singapore. Often billed alongside I.M.X, Denz Devarez and Eric de Man. Next up: ingang, Amsterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mike Risk is a house and deep house artist based in Netherlands, with 12 gigs on
 
 I.M.X, Denz Devarez, Eric de Man
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikerisk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikerisk/)*

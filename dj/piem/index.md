@@ -1,6 +1,6 @@
 # Piem
 
-Piem is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
+Piem is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
 
 Piem is a house and tech house artist based in Spain, with 161 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Nesi, GIVIO and Tamborero. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Piem is a house and tech house artist based in Spain, with 161 gigs on soundchec
 
 Nesi, GIVIO, Tamborero
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piem/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piem/)*

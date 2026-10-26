@@ -1,6 +1,6 @@
 # NairLess
 
-NairLess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at La Java, Paris on Sat, 31 Oct 2026.
+NairLess is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at La Java, Paris on Sat, 31 Oct 2026.
 
 NairLess is a house and techno artist, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 5 more. Often billed alongside Arvè, Stupid Child and cfds. Next up: La Java, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NairLess is a house and techno artist, with 38 gigs on soundcheck across Amsterd
 
 Arvè, Stupid Child, cfds
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nairless/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nairless/)*

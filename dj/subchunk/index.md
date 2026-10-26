@@ -1,6 +1,6 @@
 # Sub Chunk
 
-Sub Chunk is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Sub Chunk is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 Sub Chunk is a house and electronica artist based in Colombia, with 17 gigs on soundcheck across Bogotá and Vienna. Often billed alongside Diluet, Lafrench Toast and Time Pilots. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sub Chunk is a house and electronica artist based in Colombia, with 17 gigs on s
 
 Diluet, Lafrench Toast, Time Pilots
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subchunk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subchunk/)*

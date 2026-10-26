@@ -1,6 +1,6 @@
 # Rowhan
 
-Rowhan is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Rowhan is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
 Rowhan is a breakbeat and house artist based in Australia, with 24 gigs on soundcheck across Melbourne, Sydney and Tallinn. Often billed alongside Bouki, Ari Kiko and DJ Scorpion. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Rowhan is a breakbeat and house artist based in Australia, with 24 gigs on sound
 
 Bouki, Ari Kiko, DJ Scorpion
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rowhan/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rowhan/)*

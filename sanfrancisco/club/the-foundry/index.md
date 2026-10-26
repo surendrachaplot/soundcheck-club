@@ -1,15 +1,13 @@
 # The Foundry
 
-The Foundry is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Tinzo + Jojo: Dark Library Tour" on Sat, 24 Oct 2026.
+The Foundry is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Pretzels presents: Supernova (Open to Close)" on Thu, 29 Oct 2026.
 
-The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcoming gigs, with line-ups including AceMo, at-at, Jojo Lorenzo and Mesmé and 2 more. See dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
+The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including AceMo, at-at, Mesmé and Skiis and 2 more. See dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Tinzo + Jojo: Dark Library Tour | Jojo Lorenzo, Tinzo |
-| Sun, 25 Oct 2026 | Tinzo + Jojo: Dark Library Tour SF (Second Party Added) | Jojo Lorenzo, Tinzo |
 | Thu, 29 Oct 2026 | Pretzels presents: Supernova (Open to Close) | Supernova |
 | Sat, 31 Oct 2026 | HydeFM HALLOWEEN: THE EQUATION (AceMo + Swami Sound) | AceMo, Mesmé, Skiis, Swami Sound, at-at |
 | Sat, 14 Nov 2026 | Dil se Rave |  |
@@ -18,4 +16,4 @@ The Foundry is a music venue in San Francisco/Oakland listed on soundcheck. 5 up
 
 1425 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*

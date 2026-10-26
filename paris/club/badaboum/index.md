@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Concert — Hypershot: Europa, Sodomland, The Velvet Brothers" on Thu, 29 Oct 2026.
+Badaboum is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Concert — Hypershot: Europa, Sodomland, The Velvet Brothers" on Thu, 29 Oct 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with line-ups including bonpublic, Curses, DJ Physical and dj sweet6teen and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -23,4 +23,4 @@ Badaboum is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with 
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

@@ -1,14 +1,13 @@
 # Frits Wentink
 
-Frits Wentink is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+Frits Wentink is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
 
-Frits Wentink is a house and deep house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 6 more. Often billed alongside Serge, Wolf Music and Ben Diggins. Next up: ingang, Amsterdam on Sat 24 Oct.
+Frits Wentink is a house and deep house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 6 more. Often billed alongside Serge, Wolf Music and Ben Diggins. Next up: M.O.T, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | ingang | Amsterdam |
 | Fri, 20 Nov 2026 | M.O.T | London |
 | Fri, 27 Nov 2026 | La Récré | Montreal |
 | Sat, 28 Nov 2026 | Standard Time | Toronto |
@@ -29,4 +28,4 @@ Frits Wentink is a house and deep house artist based in Netherlands, with 19 gig
 
 Serge, Wolf Music, Ben Diggins
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fritswentink/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fritswentink/)*

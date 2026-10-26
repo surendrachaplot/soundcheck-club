@@ -1,6 +1,6 @@
 # DJ PI-GE
 
-DJ PI-GE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Toner, Tokyo on Sun, 25 Oct 2026.
+DJ PI-GE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Toner, Tokyo on Sun, 25 Oct 2026.
 
 DJ PI-GE is a house and techno artist based in Japan, with 12 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Satoshi Otsuki, Kyper and Kikiorix. Next up: Toner, Tokyo on Sun 25 Oct.
 
@@ -12,6 +12,7 @@ DJ PI-GE is a house and techno artist based in Japan, with 12 gigs on soundcheck
 
 ## Recently played
 
+- Toner, Tokyo · Sun, 25 Oct 2026
 - Modeci, Seoul · Sat, 29 Aug 2026
 - Modeci, Seoul · Sat, 29 Aug 2026
 - Liquidroom, Tokyo · Sat, 28 Mar 2026
@@ -19,10 +20,9 @@ DJ PI-GE is a house and techno artist based in Japan, with 12 gigs on soundcheck
 - WOMB, Tokyo · Sat, 23 Nov 2024
 - Nyapi, Seoul · Sat, 27 Jul 2024
 - Unit, Tokyo · Sat, 18 Nov 2023
-- Oath, Tokyo · Sat, 15 Jul 2023
 
 ## Shares bills with
 
 Satoshi Otsuki, Kyper, Kikiorix
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpi-ge/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpi-ge/)*

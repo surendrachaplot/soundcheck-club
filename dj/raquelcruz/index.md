@@ -1,6 +1,6 @@
 # Raquel Cruz
 
-Raquel Cruz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
+Raquel Cruz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
 
 Raquel Cruz is a techno and house artist based in Spain, with 14 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Prague. Often billed alongside HERMETICA, Alputo and Nina Farrina. Next up: TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Raquel Cruz is a techno and house artist based in Spain, with 14 gigs on soundch
 
 HERMETICA, Alputo, Nina Farrina
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raquelcruz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raquelcruz/)*

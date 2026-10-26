@@ -1,6 +1,6 @@
 # Paramat
 
-Paramat is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
+Paramat is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
 
 Paramat is a techno and bass artist based in Australia, with 32 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Paramat, D-Grade and au4r33y. Next up: TBA, Sydney on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Paramat is a techno and bass artist based in Australia, with 32 gigs on soundche
 
 Paramat (2), D-Grade, au4r33y
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paramat/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paramat/)*

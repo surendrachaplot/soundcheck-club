@@ -1,6 +1,6 @@
 # ADUBZ
 
-ADUBZ is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Evangeline, Toronto on Sat, 31 Oct 2026.
+ADUBZ is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Evangeline, Toronto on Sat, 31 Oct 2026.
 
 ADUBZ is a house and club artist based in Canada, with 9 gigs on soundcheck across San Francisco/Oakland and Toronto. Often billed alongside Mackswell. Next up: Evangeline, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ADUBZ is a house and club artist based in Canada, with 9 gigs on soundcheck acro
 
 Mackswell
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adubz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adubz/)*

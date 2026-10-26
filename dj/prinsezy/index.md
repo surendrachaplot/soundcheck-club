@@ -1,6 +1,6 @@
 # Prinsezy
 
-Prinsezy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Amigo, Ghent on Fri, 30 Oct 2026.
+Prinsezy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Amigo, Ghent on Fri, 30 Oct 2026.
 
 Prinsezy is a house and garage artist based in Belgium, with 15 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Arter, DC Noises and BAVR. Next up: Amigo, Ghent on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Prinsezy is a house and garage artist based in Belgium, with 15 gigs on soundche
 
 Arter, DC Noises, BAVR
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsezy/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prinsezy/)*

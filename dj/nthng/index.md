@@ -1,14 +1,13 @@
 # nthng
 
-nthng is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Loods6, Amsterdam on Thu, 22 Oct 2026.
+nthng is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
 
-nthng is a techno and trance artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 19 more. Often billed alongside DJ TOOL, Hame and .VRIL. Next up: Loods6, Amsterdam on Thu 22 Oct.
+nthng is a techno and trance artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 19 more. Often billed alongside DJ TOOL, Hame and .VRIL. Next up: Magasins Généraux, Paris on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Loods6 | Amsterdam |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 28 Nov 2026 | LAUT | Barcelona |
@@ -29,4 +28,4 @@ nthng is a techno and trance artist based in Netherlands, with 51 gigs on soundc
 
 DJ TOOL, Hame (1), .VRIL
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nthng/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nthng/)*

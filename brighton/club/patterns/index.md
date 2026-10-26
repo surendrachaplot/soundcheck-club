@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Dansu Discs: Lucas Alexander, RTK Tarantino, Lauren Steel" on Fri, 30 Oct 2026.
+Patterns is a music venue in Brighton with 14 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Dansu Discs: Lucas Alexander, RTK Tarantino, Lauren Steel" on Fri, 30 Oct 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 14 upcoming gigs, with line-ups including Asa Ray, Atoxyl, Dusky and Efan and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -23,4 +23,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 14 upcoming gigs, wi
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

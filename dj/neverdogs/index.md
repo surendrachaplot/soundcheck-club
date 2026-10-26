@@ -1,15 +1,13 @@
 # Neverdogs
 
-Neverdogs is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 23 Oct 2026.
+Neverdogs is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Puerto-rico on Thu, 7 Jan 2027.
 
-Neverdogs is a tech house and house artist based in Italy, with 59 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 23 more. Often billed alongside wAFF, Manda Moor and Frank Storm. Next up: D-Edge RIO, Rio de Janeiro on Fri 23 Oct.
+Neverdogs is a tech house and house artist based in Italy, with 59 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 23 more. Often billed alongside wAFF, Manda Moor and Frank Storm. Next up: TBA, Puerto Rico on Thu 7 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | D-Edge RIO | Rio de Janeiro |
-| Sat, 24 Oct 2026 | D-EDGE | Sao Paulo |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
@@ -27,4 +25,4 @@ Neverdogs is a tech house and house artist based in Italy, with 59 gigs on sound
 
 wAFF, Manda Moor, Frank Storm
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdogs/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdogs/)*

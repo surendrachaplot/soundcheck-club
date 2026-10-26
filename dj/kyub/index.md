@@ -1,6 +1,6 @@
 # KYUB
 
-KYUB is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Fusion Club, Münster on Sat, 7 Nov 2026.
+KYUB is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Fusion Club, Münster on Sat, 7 Nov 2026.
 
 KYUB is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Berlin and Münster. Often billed alongside DJ Dios, FRÆNCIS and JENKA. Next up: Fusion Club, Münster on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ KYUB is a techno and trance artist based in Germany, with 5 gigs on soundcheck a
 
 DJ Dios, FRÆNCIS, JENKA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyub/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyub/)*

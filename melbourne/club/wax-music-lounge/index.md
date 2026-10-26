@@ -1,14 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 48 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Melia Lisa • Be Where You Are EP Launch" on Sun, 25 Oct 2026.
+Wax Music Lounge is a music venue in Melbourne with 47 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "CIRCADIAN RHYTHMS" on Mon, 26 Oct 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 48 upcoming gigs, with line-ups including CHARLES-EDDY, leverson and Savage The Girl. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 47 upcoming gigs, with line-ups including CHARLES-EDDY, leverson and Savage The Girl. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Melia Lisa • Be Where You Are EP Launch |  |
 | Mon, 26 Oct 2026 | CIRCADIAN RHYTHMS |  |
 | Tue, 27 Oct 2026 | BRAZLOMBIA |  |
 | Wed, 28 Oct 2026 | MELLOWDÍAS THUMP |  |
@@ -18,9 +17,10 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 48 upcoming
 | Mon, 2 Nov 2026 | CIRCADIAN RHYTHMS |  |
 | Tue, 3 Nov 2026 | BRAZLOMBIA |  |
 | Wed, 4 Nov 2026 | MELLOWDÍAS THUMP |  |
+| Thu, 5 Nov 2026 | VISIONS OF RHYTHMS |  |
 
 ## Address
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

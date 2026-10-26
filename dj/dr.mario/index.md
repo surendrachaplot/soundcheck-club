@@ -1,8 +1,8 @@
 # Dr . Mario
 
-Dr . Mario is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
+Dr . Mario is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
 
-Dr . Mario is a techno and trance artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Thielking, nicole lukiys and ClubSubbe. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
+Dr . Mario is a techno and trance artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Thielking, ClubSubbe and nicole lukiys. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Dr . Mario is a techno and trance artist, with 5 gigs on soundcheck across Berli
 
 ## Shares bills with
 
-Thielking, nicole lukiys, ClubSubbe
+Thielking, ClubSubbe, nicole lukiys
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.mario/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.mario/)*

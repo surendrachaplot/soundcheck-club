@@ -1,8 +1,8 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "LITTLEBIG" on Sat, 31 Oct 2026.
+ZENNER is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "LITTLEBIG" on Sat, 31 Oct 2026.
 
-ZENNER is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Barbara Preisinger, Cecilia Tosh, David August and Dorian Paic and 2 more. See dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
+ZENNER is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Barbara Preisinger, Cecilia Tosh, Coby Sey and David August and 2 more. See dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
 ## What's on
 
@@ -10,11 +10,11 @@ ZENNER is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with li
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | LITTLEBIG | Cecilia Tosh, David August, JakoJako, KiNK, Plaid, Randomer, Sarah Sommers, Skee Mask |
 | Thu, 5 Nov 2026 | 180 min with Polygonia (live) | Polygonia, ophélie |
-| Fri, 6 Nov 2026 | Analogue Foundation presents Gaister & Maya Shenfeld |  |
+| Fri, 6 Nov 2026 | Analogue Foundation presents GAISTER & Maya Shenfeld | Coby Sey |
 | Fri, 1 Jan 2027 | ЯETURN | Barbara Preisinger, Dorian Paic, Federico Molinari, Ricardo Villalobos, Richard Akingbehin, SOLANA, Volkan Akin |
 
 ## Address
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

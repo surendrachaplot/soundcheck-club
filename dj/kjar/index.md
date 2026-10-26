@@ -1,6 +1,6 @@
 # Kjar
 
-Kjar is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Transformator, Wroclaw on Wed, 11 Nov 2026.
+Kjar is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Transformator, Wroclaw on Wed, 11 Nov 2026.
 
 Kjar is a techno and trance artist based in Poland, with 3 gigs on soundcheck across Berlin, Krakow and Wroclaw. Often billed alongside Flakka, Miss Pin and Carla Roca. Next up: Transformator, Wroclaw on Wed 11 Nov.
 
@@ -19,4 +19,4 @@ Kjar is a techno and trance artist based in Poland, with 3 gigs on soundcheck ac
 
 Flakka (2), Miss Pin, Carla Roca
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kjar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kjar/)*

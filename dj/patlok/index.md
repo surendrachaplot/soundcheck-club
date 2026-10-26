@@ -1,6 +1,6 @@
 # Pat Lok
 
-Pat Lok is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Jupiter Disco, New York City on Sat, 31 Oct 2026.
+Pat Lok is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Jupiter Disco, New York City on Sat, 31 Oct 2026.
 
 Pat Lok is a house and disco artist based in Canada, with 38 gigs on soundcheck across Denver, Guadalajara, Lisbon and Los Angeles and 8 more. Often billed alongside Keys N Krates, Sabrosito and Eliangel. Next up: Jupiter Disco, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Pat Lok is a house and disco artist based in Canada, with 38 gigs on soundcheck 
 
 Keys N Krates, Sabrosito, Eliangel
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patlok/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patlok/)*

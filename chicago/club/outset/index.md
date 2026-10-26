@@ -1,6 +1,6 @@
 # Outset
 
-Outset is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Parra For Cuva" on Fri, 6 Nov 2026.
+Outset is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Parra For Cuva" on Fri, 6 Nov 2026.
 
 Outset is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with line-ups including Alice Longyu Gao, Amtrac, Ariel Zetina and DJ_Dave and 2 more. See dates, start times and who's playing. 1675 N Elston Ave, Chicago, IL 60642.
 
@@ -22,4 +22,4 @@ Outset is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with l
 
 1675 N Elston Ave, Chicago, IL 60642, Chicago
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*

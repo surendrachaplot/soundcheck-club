@@ -1,6 +1,6 @@
 # Corvinus
 
-Corvinus is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Grün & Gold, Heidelberg on Fri, 30 Oct 2026.
+Corvinus is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Grün & Gold, Heidelberg on Fri, 30 Oct 2026.
 
 Corvinus is an acid and techno artist based in Ireland, with 5 gigs on soundcheck across Heidelberg and Vancouver. Often billed alongside Archaphael, Antigen and Ceasul. Next up: Grün & Gold, Heidelberg on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Corvinus is an acid and techno artist based in Ireland, with 5 gigs on soundchec
 
 Archaphael, Antigen, Ceasul
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corvinus/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corvinus/)*

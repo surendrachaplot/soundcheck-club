@@ -1,6 +1,6 @@
 # LEXI (2)
 
-LEXI (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Underpass Melbourne, Melbourne on Sun, 1 Nov 2026.
+LEXI (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Underpass Melbourne, Melbourne on Sun, 1 Nov 2026.
 
 LEXI is a techno and house artist based in Australia, with 17 gigs on soundcheck across Melbourne. Often billed alongside au4r33y, A.Well and Amber Ferraro. Next up: The Underpass Melbourne, Melbourne on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ LEXI is a techno and house artist based in Australia, with 17 gigs on soundcheck
 
 au4r33y, A.Well, Amber Ferraro
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-2/)*

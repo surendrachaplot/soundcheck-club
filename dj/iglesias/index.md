@@ -1,6 +1,6 @@
 # Iglesias
 
-Iglesias is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 75 Pelham, Toronto on Fri, 30 Oct 2026.
+Iglesias is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at 75 Pelham, Toronto on Fri, 30 Oct 2026.
 
 Iglesias is a house and disco artist based in United Kingdom, with 149 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside Sergio Iglesias, Paco Osuna and RSquared. Next up: 75 Pelham, Toronto on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Iglesias is a house and disco artist based in United Kingdom, with 149 gigs on s
 
 Sergio Iglesias, Paco Osuna, RSquared
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iglesias/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iglesias/)*

@@ -1,6 +1,6 @@
 # MNSTR
 
-MNSTR is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Culture Box, Copenhagen on Fri, 18 Dec 2026.
+MNSTR is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Culture Box, Copenhagen on Fri, 18 Dec 2026.
 
 MNSTR is a drum & bass and jungle artist based in Denmark, with 5 gigs on soundcheck across Copenhagen. Often billed alongside AMITTET, Lixin and Maxi Mo. Next up: Culture Box, Copenhagen on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ MNSTR is a drum & bass and jungle artist based in Denmark, with 5 gigs on soundc
 
 AMITTET, Lixin, Maxi Mo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mnstr/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mnstr/)*

@@ -1,6 +1,6 @@
 # TBA - IYKYK 
 
-TBA - IYKYK  is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "No Squares" on Sat, 14 Nov 2026.
+TBA - IYKYK  is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "No Squares" on Sat, 14 Nov 2026.
 
 TBA - IYKYK  is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Pastor, Connor Mikami, Force Placement and Nicolas Lutz. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - IYKYK  is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs
 | Fri, 27 Nov 2026 | If You Know You Know with Special Guest  |  |
 | Thu, 31 Dec 2026 | If You Know You Know presents New Year Countdown to 2027 | Alex Pastor, Connor Mikami, Nicolas Lutz |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-iykyk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-iykyk/)*

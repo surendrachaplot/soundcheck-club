@@ -1,6 +1,6 @@
 # KHIDI
 
-KHIDI is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "KHIDI 中 Halloween: Carmilla Sioux, Curses, Downwell, Natalie Beridze, Parrish Smith" on Sat, 31 Oct 2026.
+KHIDI is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "KHIDI 中 Halloween: Carmilla Sioux, Curses, Downwell, Natalie Beridze, Parrish Smith" on Sat, 31 Oct 2026.
 
 KHIDI is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with line-ups including Ash Scholem, Boyd Schidt, Carmilla Sioux and Curses and 2 more. See dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
 
@@ -15,4 +15,4 @@ KHIDI is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with li
 
 Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi, Tbilisi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*

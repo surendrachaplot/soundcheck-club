@@ -1,6 +1,6 @@
 # Moreno
 
-Moreno is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Panke, Berlin on Sat, 31 Oct 2026.
+Moreno is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Panke, Berlin on Sat, 31 Oct 2026.
 
 Moreno is a tech house and house artist, with 25 gigs on soundcheck across Bangkok, Berlin, Medellin and Mexico City and 2 more. Often billed alongside DH Moon, Bownce and Matheo Velez. Next up: Panke, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Moreno is a tech house and house artist, with 25 gigs on soundcheck across Bangk
 
 DH Moon, Bownce, Matheo Velez
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreno/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreno/)*

@@ -1,20 +1,20 @@
 # Edward
 
-Edward is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Edward is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Fuse, Brussels on Fri, 6 Nov 2026.
 
-Edward is a house and minimal artist based in Germany, with 141 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Klaproos, Amsterdam on Sun 25 Oct.
+Edward is a house and minimal artist based in Germany, with 141 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Fuse, Brussels on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 6 Nov 2026 | Fuse | Brussels |
 | Fri, 27 Nov 2026 | VENT | Tokyo |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
 
+- Klaproos, Amsterdam · Sun, 25 Oct 2026
 - ingang, Amsterdam · Fri, 23 Oct 2026
 - ZENNER, Berlin · Fri, 16 Oct 2026
 - TBA, Sofia · Sat, 3 Oct 2026
@@ -22,10 +22,9 @@ Edward is a house and minimal artist based in Germany, with 141 gigs on soundche
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - Distrikt, Leeds · Sat, 26 Sept 2026
 - Haus der Visionäre, Berlin · Sat, 26 Sept 2026
-- Nido Marseille, Marseille · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

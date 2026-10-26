@@ -1,6 +1,6 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri, 30 Oct 2026.
+Tomoki Tamura is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri, 30 Oct 2026.
 
 Tomoki Tamura is a house and techno artist based in Germany, with 115 gigs on soundcheck across Adelaide, Amsterdam, Baltimore and Bangkok and 42 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Tomoki Tamura is a house and techno artist based in Germany, with 115 gigs on so
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

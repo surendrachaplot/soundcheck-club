@@ -1,6 +1,6 @@
 # Dani Labb
 
-Dani Labb is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - SECRET LOCATION, Buenos Aires on Fri, 13 Nov 2026.
+Dani Labb is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - SECRET LOCATION, Buenos Aires on Fri, 13 Nov 2026.
 
 Dani Labb is a techno and house artist based in Argentina, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 4 more. Often billed alongside Montei, Manu Oubiña and Sociedad Anónima. Next up: TBA - SECRET LOCATION, Buenos Aires on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dani Labb is a techno and house artist based in Argentina, with 32 gigs on sound
 
 Montei, Manu Oubiña, Sociedad Anónima
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danilabb/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danilabb/)*

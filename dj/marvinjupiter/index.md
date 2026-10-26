@@ -1,6 +1,6 @@
 # Marvin Jupiter
 
-Marvin Jupiter is a Broken Beat and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Jumbi, London on Sat, 31 Oct 2026.
+Marvin Jupiter is a Broken Beat and Jazz artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Jumbi, London on Sat, 31 Oct 2026.
 
 Marvin Jupiter is a broken beat and jazz artist based in United Kingdom, with 18 gigs on soundcheck across Leeds and London. Often billed alongside CasuallyClued, Juno and REO (UK). Next up: Jumbi, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Marvin Jupiter is a broken beat and jazz artist based in United Kingdom, with 18
 
 CasuallyClued, Juno (4), REO (UK)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinjupiter/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinjupiter/)*

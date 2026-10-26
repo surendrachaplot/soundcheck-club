@@ -1,6 +1,6 @@
 # Jane Decks
 
-Jane Decks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Liberty Hall, Sydney on Sat, 9 Jan 2027.
+Jane Decks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Liberty Hall, Sydney on Sat, 9 Jan 2027.
 
 Jane Decks is a house and techno artist based in Australia, with 39 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Lily FM, Max Cherry and Bouki. Next up: Liberty Hall, Sydney on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Jane Decks is a house and techno artist based in Australia, with 39 gigs on soun
 
 Lily FM, Max Cherry, Bouki
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janedecks/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janedecks/)*

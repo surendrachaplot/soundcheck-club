@@ -1,6 +1,6 @@
 # Function
 
-Function is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at AUX Club, Athens on Tue, 27 Oct 2026.
+Function is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at AUX Club, Athens on Tue, 27 Oct 2026.
 
 Function is a techno and house artist based in United States of America, with 143 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: AUX Club, Athens on Tue 27 Oct.
 
@@ -31,4 +31,4 @@ Function is a techno and house artist based in United States of America, with 14
 
 Regis, Sandwell District, Sarah Wreath
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/function/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/function/)*

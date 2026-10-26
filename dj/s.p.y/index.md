@@ -1,6 +1,6 @@
 # S.P.Y
 
-S.P.Y is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Marble Bar, Detroit on Thu, 10 Dec 2026.
+S.P.Y is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Marble Bar, Detroit on Thu, 10 Dec 2026.
 
 S.P.Y is a drum & bass and jungle artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 36 more. Often billed alongside LowQui, K Motionz and Andy C. Next up: Marble Bar, Detroit on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ S.P.Y is a drum & bass and jungle artist based in United Kingdom, with 72 gigs o
 
 LowQui, K Motionz, Andy C
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y/)*

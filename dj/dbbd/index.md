@@ -1,6 +1,6 @@
 # DBBD
 
-DBBD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Oddity Club, Athens on Sat, 7 Nov 2026.
+DBBD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Oddity Club, Athens on Sat, 7 Nov 2026.
 
 DBBD is a techno and trance artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Miss Bashful, Miss Bashful x DBBD and MCR-T. Next up: Oddity Club, Athens on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ DBBD is a techno and trance artist based in Germany, with 109 gigs on soundcheck
 
 Miss Bashful, Miss Bashful x DBBD, MCR-T
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*

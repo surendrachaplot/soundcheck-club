@@ -1,6 +1,6 @@
 # NaiBan
 
-NaiBan is a Funk / Soul and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
+NaiBan is a Funk / Soul and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
 
 NaiBan is a funk / soul and techno artist, with 23 gigs on soundcheck across Hanoi. Often billed alongside Akatsuki, Viet Anh and CONG. Next up: Red River Cruise, Hanoi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NaiBan is a funk / soul and techno artist, with 23 gigs on soundcheck across Han
 
 Akatsuki, Viet Anh, CONG
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naiban/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naiban/)*

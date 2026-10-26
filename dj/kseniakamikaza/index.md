@@ -1,13 +1,14 @@
 # Ksenia Kamikaza
 
-Ksenia Kamikaza is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - location @ email on November 20, Riga on Fri, 20 Nov 2026.
+Ksenia Kamikaza is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at John Doe, Amsterdam on Thu, 29 Oct 2026.
 
-Ksenia Kamikaza is a techno and house artist based in Latvia, with 121 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 10 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: TBA - location @ email on November 20, Riga on Fri 20 Nov.
+Ksenia Kamikaza is a techno and house artist based in Latvia, with 122 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 10 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: John Doe, Amsterdam on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | John Doe | Amsterdam |
 | Fri, 20 Nov 2026 | TBA - location @ email on November 20 | Riga |
 | Fri, 4 Dec 2026 | Teritorija | Riga |
 | Fri, 18 Dec 2026 | Teritorija | Riga |
@@ -27,4 +28,4 @@ Ksenia Kamikaza is a techno and house artist based in Latvia, with 121 gigs on s
 
 Esoniq, Ikss, HP-82
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniakamikaza/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kseniakamikaza/)*

@@ -1,6 +1,6 @@
 # Oli XL
 
-Oli XL is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Locación Secreta, Guadalajara on Fri, 30 Oct 2026.
+Oli XL is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Locación Secreta, Guadalajara on Fri, 30 Oct 2026.
 
 Oli XL is a club and experimental artist, with 63 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bratislava and 29 more. Often billed alongside Mechatok, NET GALA and Crystallmess. Next up: TBA - Locación Secreta, Guadalajara on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Oli XL is a club and experimental artist, with 63 gigs on soundcheck across Amst
 
 Mechatok, NET GALA, Crystallmess
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olixl/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olixl/)*

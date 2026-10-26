@@ -1,6 +1,6 @@
 # noodle
 
-noodle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat, 5 Dec 2026.
+noodle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat, 5 Dec 2026.
 
 noodle is a house and techno artist based in United Kingdom, with 63 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Ibiza and 2 more. Often billed alongside Iris Pertegaz, Domenic Cappello and Telfort. Next up: Argyll Arcade, Glasgow, G2 8BA, Glasgow on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ noodle is a house and techno artist based in United Kingdom, with 63 gigs on sou
 
 Iris Pertegaz, Domenic Cappello, Telfort
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noodle-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noodle-2/)*

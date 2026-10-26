@@ -1,14 +1,13 @@
 # Reinier Zonneveld
 
-Reinier Zonneveld is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sun, 25 Oct 2026.
+Reinier Zonneveld is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
 
-Reinier Zonneveld is a techno and house artist based in Netherlands, with 145 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside 999999999, Adam Beyer and I Hate Models. Next up: Mediahaven - Minervahaven, Amsterdam on Sun 25 Oct.
+Reinier Zonneveld is a techno and house artist based in Netherlands, with 145 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside 999999999, Adam Beyer and I Hate Models. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 6 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Sat, 7 Nov 2026 | Nitsa Club | Barcelona |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
@@ -16,6 +15,7 @@ Reinier Zonneveld is a techno and house artist based in Netherlands, with 145 gi
 
 ## Recently played
 
+- Mediahaven - Minervahaven, Amsterdam · Sun, 25 Oct 2026
 - Inter Expo Centre, Sofia · Sat, 17 Oct 2026
 - Inter Expo Centre, Sofia · Fri, 16 Oct 2026
 - LAB theCLUB, Madrid · Fri, 16 Oct 2026
@@ -23,10 +23,9 @@ Reinier Zonneveld is a techno and house artist based in Netherlands, with 145 gi
 - Hafen 49, Mannheim · Sun, 23 Aug 2026
 - Munich Beach Resort, Munich · Sat, 8 Aug 2026
 - Ministry Of Sound, London · Sat, 25 Jul 2026
-- Studio Club Malaga, Malaga · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 999999999, Adam Beyer, I Hate Models
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinierzonneveld/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinierzonneveld/)*

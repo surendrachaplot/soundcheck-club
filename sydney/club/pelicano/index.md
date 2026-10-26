@@ -1,6 +1,6 @@
 # Pelicano
 
-Pelicano is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Fision Free Open Air Day Party" on Sat, 14 Nov 2026.
+Pelicano is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Fision Free Open Air Day Party" on Sat, 14 Nov 2026.
 
 Pelicano is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Pelicano is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See da
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Fision Free Open Air Day Party |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/pelicano/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/pelicano/)*

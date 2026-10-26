@@ -1,6 +1,6 @@
 # SLAY THE NIGHT - HORROR DISCO HALLOWEEN PARTY - FREE at Star of Bethnal Green
 
-SLAY THE NIGHT - HORROR DISCO HALLOWEEN PARTY - FREE at Star of Bethnal Green on Fri 30 Oct, London. 1 artist: Knayohmi. House and Disco. See the line-up on soundcheck.
+SLAY THE NIGHT - HORROR DISCO HALLOWEEN PARTY - FREE at Star of Bethnal Green on Fri 30 Oct, London. 2 artists: fTronic and Knayohmi. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SLAY THE NIGHT - HORROR DISCO HALLOWEEN PARTY - FREE at Star of Bethnal Green on
 
 ## Line-up
 
+- fTronic
 - Knayohmi
 
 *Source: [soundcheck](https://soundcheck.club/e/2555872-slay-the-night-horror-disco-halloween-party-free-at-star-of/)*

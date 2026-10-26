@@ -1,14 +1,13 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "AETHERFEST" on Sun, 25 Oct 2026.
+Freight Brixton is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Soul Of The South: She's Got Brass" on Thu, 5 Nov 2026.
 
-Freight Brixton is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including CHÉ WAX, Marvin Humes and SHEMYYY. See dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
+Freight Brixton is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including CHÉ WAX and Marvin Humes. See dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | AETHERFEST | SHEMYYY |
 | Thu, 5 Nov 2026 | Soul Of The South: She's Got Brass |  |
 | Sat, 7 Nov 2026 | Marvin Humes presents Noughties Baby | Marvin Humes |
 | Fri, 20 Nov 2026 | Lost Tape x Broken Soul, Mixed by Che Wax: Prince & Jamiroquai | CHÉ WAX |
@@ -18,4 +17,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 5 upcoming gigs
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

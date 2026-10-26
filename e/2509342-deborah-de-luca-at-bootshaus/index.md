@@ -1,6 +1,6 @@
 # Deborah De Luca at Bootshaus
 
-Deborah De Luca at Bootshaus on Sat 23 Jan, Cologne. 1 artist: Deborah De Luca. See the line-up on soundcheck.
+Deborah De Luca at Bootshaus on Sat 23 Jan, Cologne. 1 artist: Deborah De Luca. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

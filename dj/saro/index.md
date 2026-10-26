@@ -1,6 +1,6 @@
 # Saro
 
-Saro is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gaffe, London on Sat, 5 Dec 2026.
+Saro is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gaffe, London on Sat, 5 Dec 2026.
 
 Saro is a techno and electro artist based in United Kingdom, with 5 gigs on soundcheck across Berlin and London. Often billed alongside Richard Gregory, Aton and Binh. Next up: Gaffe, London on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Saro is a techno and electro artist based in United Kingdom, with 5 gigs on soun
 
 Richard Gregory, Aton, Binh
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saro/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saro/)*

@@ -1,6 +1,6 @@
 # kisa
 
-kisa is a Broken Beat and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Colour Factory, London on Fri, 18 Dec 2026.
+kisa is a Broken Beat and UK Funky artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Colour Factory, London on Fri, 18 Dec 2026.
 
 kisa is a broken beat and uk funky artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Leeds, London and Los Angeles and 3 more. Often billed alongside Shadeda, Babajide and GRACE... Next up: Colour Factory, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ kisa is a broken beat and uk funky artist based in United Kingdom, with 69 gigs 
 
 Shadeda, Babajide, GRACE..
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kisa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kisa/)*

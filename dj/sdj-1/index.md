@@ -1,6 +1,6 @@
 # SDJ (1)
 
-SDJ (1) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
+SDJ (1) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
 
 SDJ is a house and trance artist based in United Kingdom, with 18 gigs on soundcheck across Manchester. Often billed alongside FAGASH, FXCKBOUT and maevie. Next up: Honey Street Studio, Manchester on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SDJ is a house and trance artist based in United Kingdom, with 18 gigs on soundc
 
 FAGASH, FXCKBOUT, maevie
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sdj-1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sdj-1/)*

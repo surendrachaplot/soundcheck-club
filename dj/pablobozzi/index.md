@@ -1,6 +1,6 @@
 # Pablo Bozzi
 
-Pablo Bozzi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Foksal 19, Warsaw on Fri, 30 Oct 2026.
+Pablo Bozzi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Foksal 19, Warsaw on Fri, 30 Oct 2026.
 
 Pablo Bozzi is a techno and house artist based in Germany, with 247 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 74 more. Often billed alongside Phase Fatale, Jen Cardini and Soft Crash. Next up: Foksal 19, Warsaw on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Pablo Bozzi is a techno and house artist based in Germany, with 247 gigs on soun
 
 Phase Fatale, Jen Cardini, Soft Crash
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*

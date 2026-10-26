@@ -1,6 +1,6 @@
 # 16BL
 
-16BL is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at NOWHERE, Manchester on Sat, 21 Nov 2026.
+16BL is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NOWHERE, Manchester on Sat, 21 Nov 2026.
 
 16BL is a deep house and progressive house artist based in Netherlands, with 27 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brighton and 16 more. Often billed alongside Nox Vahn, Braxton and Durante. Next up: NOWHERE, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@
 
 Nox Vahn, Braxton, Durante
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/16bl/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/16bl/)*

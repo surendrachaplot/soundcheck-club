@@ -1,6 +1,6 @@
 # BONZ (3)
 
-BONZ (3) is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cici Park, Chongqing on Wed, 28 Oct 2026.
+BONZ (3) is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cici Park, Chongqing on Wed, 28 Oct 2026.
 
 BONZ is a garage and deep house artist, with 5 gigs on soundcheck across Chongqing, Cork and London. Often billed alongside Charlotte Walsh, EMROSE and Grá (IRE). Next up: Cici Park, Chongqing on Wed 28 Oct.
 
@@ -21,4 +21,4 @@ BONZ is a garage and deep house artist, with 5 gigs on soundcheck across Chongqi
 
 Charlotte Walsh, EMROSE, Grá (IRE)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonz-3/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonz-3/)*

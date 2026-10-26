@@ -1,8 +1,8 @@
 # Electric Ballroom
 
-Electric Ballroom is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Halloween Rave" on Sat, 31 Oct 2026.
+Electric Ballroom is a music venue in London with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Halloween Rave" on Sat, 31 Oct 2026.
 
-Electric Ballroom is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Sina Bathaie and TBA. See dates, start times and who's playing. 184 Camden High St; Camden Town; London NW1 8QP; United Kingdom.
+Electric Ballroom is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Sina Bathaie and TBA. See dates, start times and who's playing. 184 Camden High St; Camden Town; London NW1 8QP; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Electric Ballroom is a music venue in London listed on soundcheck. 11 upcoming g
 
 184 Camden High St; Camden Town; London NW1 8QP; United Kingdom, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-ballroom/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-ballroom/)*

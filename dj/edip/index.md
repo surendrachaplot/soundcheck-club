@@ -1,6 +1,6 @@
 # EdiP
 
-EdiP is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
+EdiP is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
 
 EdiP is a tech house and house artist based in Romania, with 18 gigs on soundcheck across Amsterdam, Athens, Bologna and Bucharest and 4 more. Often billed alongside Mahony, Adam Sellouk and Alex Rush. Next up: Romaero - Baneasa, Bucharest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ EdiP is a tech house and house artist based in Romania, with 18 gigs on soundche
 
 Mahony, Adam Sellouk, Alex Rush
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edip/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edip/)*

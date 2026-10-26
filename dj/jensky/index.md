@@ -1,6 +1,6 @@
 # jensky
 
-jensky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Smolna, Warsaw on Sat, 5 Dec 2026.
+jensky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Smolna, Warsaw on Sat, 5 Dec 2026.
 
 jensky is a techno and house artist based in Poland, with 17 gigs on soundcheck across Berlin, Krakow, Lisbon and Warsaw and 1 more. Often billed alongside BEXA, internal explorer and Truant. Next up: Smolna, Warsaw on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ jensky is a techno and house artist based in Poland, with 17 gigs on soundcheck 
 
 BEXA, internal explorer, Truant
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jensky/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jensky/)*

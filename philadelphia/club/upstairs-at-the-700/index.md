@@ -1,6 +1,6 @@
 # Upstairs at the 700
 
-Upstairs at the 700 is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "EAST COAST POWER DYNAMICS HELLRAISER HELLOWEEN WSG ACID VULTURE" on Thu, 29 Oct 2026.
+Upstairs at the 700 is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "EAST COAST POWER DYNAMICS HELLRAISER HELLOWEEN WSG ACID VULTURE" on Thu, 29 Oct 2026.
 
 Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including Armen, Art Cuebik, DJ Baby Berlin and El-D (USA) and 2 more. See dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
 
@@ -19,4 +19,4 @@ Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 6 upc
 
 700 N 2nd St, Philadelphia, PA 19123, United States, Philadelphia
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*

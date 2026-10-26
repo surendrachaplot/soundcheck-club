@@ -1,6 +1,6 @@
 # kegøn
 
-kegøn is a Hip-Hop and Pop artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 6 Nov 2026.
+kegøn is a Hip-Hop and Pop artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 6 Nov 2026.
 
 kegøn is a hip-hop and pop artist based in Japan, with 20 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Number Collector, WAGAHAI IS NEKO and Yurushite Nyan. Next up: Circus Tokyo, Tokyo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ kegøn is a hip-hop and pop artist based in Japan, with 20 gigs on soundcheck ac
 
 Number Collector, WAGAHAI IS NEKO, Yurushite Nyan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kegon/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kegon/)*

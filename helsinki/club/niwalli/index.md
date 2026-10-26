@@ -1,6 +1,6 @@
 # Ääniwalli
 
-Ääniwalli is a music venue in Helsinki with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "KORGY HALLOWEEN" on Sat, 31 Oct 2026.
+Ääniwalli is a music venue in Helsinki with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "KORGY HALLOWEEN" on Sat, 31 Oct 2026.
 
 Ääniwalli is a music venue in Helsinki listed on soundcheck. 5 upcoming gigs, with line-ups including CEB (FI), fka.m4a, Inox Traxx and JENY and 2 more. See dates, start times and who's playing. Pälkäneentie 13, 00510 Helsinki, Finland.
 
@@ -18,4 +18,4 @@
 
 Pälkäneentie 13, 00510 Helsinki, Finland, Helsinki
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/niwalli/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/niwalli/)*

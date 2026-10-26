@@ -1,6 +1,6 @@
 # Berwick (Live)
 
-Berwick (Live) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Lubber Fiend, Newcastle on Sat, 5 Dec 2026.
+Berwick (Live) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Lubber Fiend, Newcastle on Sat, 5 Dec 2026.
 
 Berwick (Live) is a techno and electro artist based in United Kingdom, with 11 gigs on soundcheck across Bristol, London, Newcastle and Sheffield. Often billed alongside Berwick, YouYou and youyou. Next up: The Lubber Fiend, Newcastle on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Berwick (Live) is a techno and electro artist based in United Kingdom, with 11 g
 
 Berwick, YouYou (2), youyou
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berwicklive/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berwicklive/)*

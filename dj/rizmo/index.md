@@ -1,14 +1,15 @@
 # Rizmo
 
-Rizmo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at PRST, Vienna on Sat, 31 Oct 2026.
+Rizmo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at PRST, Vienna on Sat, 31 Oct 2026.
 
-Rizmo is a house and tech house artist based in Austria, with 18 gigs on soundcheck across London and Vienna. Often billed alongside Eye F, Stipo and Apua. Next up: PRST, Vienna on Sat 31 Oct.
+Rizmo is a house and tech house artist based in Austria, with 19 gigs on soundcheck across London and Vienna. Often billed alongside Eye F, Stipo and Apua. Next up: PRST, Vienna on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | PRST | Vienna |
+| Sat, 31 Oct 2026 | TBA | Vienna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rizmo is a house and tech house artist based in Austria, with 18 gigs on soundch
 
 Eye F, Stipo, Apua
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rizmo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rizmo/)*

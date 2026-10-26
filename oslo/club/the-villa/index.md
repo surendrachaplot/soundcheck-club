@@ -1,6 +1,6 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Mechatok (DE)" on Fri, 30 Oct 2026.
+The Villa is a music venue in Oslo with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Mechatok (DE)" on Fri, 30 Oct 2026.
 
 The Villa is a music venue in Oslo listed on soundcheck. 6 upcoming gigs, with line-ups including Araknyl, Bushbby, DJ IBON and Fold and 2 more. See dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
@@ -19,4 +19,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 6 upcoming gigs, with l
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

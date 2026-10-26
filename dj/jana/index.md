@@ -1,6 +1,6 @@
 # Jana
 
-Jana is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cairo Jazz Club, Egypt on Thu, 5 Nov 2026.
+Jana is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cairo Jazz Club, Egypt on Thu, 5 Nov 2026.
 
 Jana is a bass and club artist based in Egypt, with 11 gigs on soundcheck across Amsterdam, Berlin, Egypt and Ljubljana. Often billed alongside Taradud, 93kb and A7ba L Jelly. Next up: Cairo Jazz Club, Egypt on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Jana is a bass and club artist based in Egypt, with 11 gigs on soundcheck across
 
 Taradud, 93kb, A7ba L Jelly
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jana/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jana/)*

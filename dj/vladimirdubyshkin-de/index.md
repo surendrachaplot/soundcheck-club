@@ -1,6 +1,6 @@
 # Vladimir Dubyshkin
 
-Vladimir Dubyshkin is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at WDM, Hannover on Sat, 7 Nov 2026.
+Vladimir Dubyshkin is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at WDM, Hannover on Sat, 7 Nov 2026.
 
 Vladimir Dubyshkin is a techno and trance artist based in Russia, with 131 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 62 more. Often billed alongside u.r.trax, Cera Khin and DJ Hyperdrive. Next up: WDM, Hannover on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Vladimir Dubyshkin is a techno and trance artist based in Russia, with 131 gigs 
 
 u.r.trax, Cera Khin, DJ Hyperdrive
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*

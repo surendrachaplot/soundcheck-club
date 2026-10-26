@@ -1,6 +1,6 @@
 # Under Bron
 
-Under Bron is a music venue in Stockholm with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Billie Jo All Night Long" on Fri, 30 Oct 2026.
+Under Bron is a music venue in Stockholm with 14 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Billie Jo All Night Long" on Fri, 30 Oct 2026.
 
 Under Bron is a music venue in Stockholm listed on soundcheck. 14 upcoming gigs, with line-ups including Andemon, Andree Bohlin, Annyrock and Bella Boo and 2 more. See dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
 
@@ -23,4 +23,4 @@ Under Bron is a music venue in Stockholm listed on soundcheck. 14 upcoming gigs,
 
 Hammarby slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*

@@ -1,6 +1,6 @@
 # Gabe Live
 
-Gabe Live is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at D-Edge RIO, Rio de Janeiro on Sat, 28 Nov 2026.
+Gabe Live is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at D-Edge RIO, Rio de Janeiro on Sat, 28 Nov 2026.
 
 Gabe Live is a tech house and house artist based in Brazil, with 10 gigs on soundcheck across Dublin, London, Rio de Janeiro and Sao Paulo. Often billed alongside Boris Brejcha, Exequiel and Gabbs. Next up: D-Edge RIO, Rio de Janeiro on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gabe Live is a tech house and house artist based in Brazil, with 10 gigs on soun
 
 Boris Brejcha, Exequiel, Gabbs
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabelive/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabelive/)*

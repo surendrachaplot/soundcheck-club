@@ -1,6 +1,6 @@
 # Rearte
 
-Rearte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kauz, Zurich on Fri, 6 Nov 2026.
+Rearte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kauz, Zurich on Fri, 6 Nov 2026.
 
 Rearte is a techno and house artist, with 10 gigs on soundcheck across Zurich. Often billed alongside Luke Redford, Nive and DJ Equipment. Next up: Kauz, Zurich on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rearte is a techno and house artist, with 10 gigs on soundcheck across Zurich. O
 
 Luke Redford, Nive, DJ Equipment
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rearte/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rearte/)*

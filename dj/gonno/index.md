@@ -1,6 +1,6 @@
 # Gonno
 
-Gonno is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 31 Oct 2026.
+Gonno is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 31 Oct 2026.
 
 Gonno is a house and techno artist based in Japan, with 149 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 29 more. Often billed alongside K.E.G, U-T and Satoshi Otsuki. Next up: Yebisu Ya Pro, Chugoku on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Gonno is a house and techno artist based in Japan, with 149 gigs on soundcheck a
 
 K.E.G, U-T, Satoshi Otsuki
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*

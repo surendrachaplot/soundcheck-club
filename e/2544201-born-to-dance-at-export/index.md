@@ -1,6 +1,6 @@
 # Born to Dance at export
 
-Born to Dance at export on Sat 23 Jan, Rotterdam. 2 artists: Da Gremlin and Gysèle. See the line-up on soundcheck.
+Born to Dance at export on Sat 23 Jan, Rotterdam. 2 artists: Da Gremlin and Gysèle. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

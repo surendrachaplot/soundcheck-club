@@ -1,6 +1,6 @@
 # Francesco Boffa
 
-Francesco Boffa is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 20 Nov 2026.
+Francesco Boffa is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 20 Nov 2026.
 
 Francesco Boffa is a deep house and minimal artist based in Italy, with 5 gigs on soundcheck across London. Often billed alongside Colaps, 4Pleasure and Alexis Cabrera. Next up: Starlane Pizza Bar, London on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Francesco Boffa is a deep house and minimal artist based in Italy, with 5 gigs o
 
 Colaps, 4Pleasure, Alexis Cabrera
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescoboffa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescoboffa/)*

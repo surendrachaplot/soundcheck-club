@@ -1,6 +1,6 @@
 # HAUSBRAND
 
-HAUSBRAND is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gallery22, Berlin on Fri, 13 Nov 2026.
+HAUSBRAND is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gallery22, Berlin on Fri, 13 Nov 2026.
 
 HAUSBRAND is a techno and house artist based in Germany, with 35 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Tiem, PHLOXO and Manrick Stapez. Next up: Gallery22, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ HAUSBRAND is a techno and house artist based in Germany, with 35 gigs on soundch
 
 Tiem, PHLOXO, Manrick Stapez
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hausbrand/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hausbrand/)*

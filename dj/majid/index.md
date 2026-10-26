@@ -1,6 +1,6 @@
 # Majid
 
-Majid is a House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Blast Galaxy, Amsterdam on Sun, 25 Oct 2026.
+Majid is a House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Blast Galaxy, Amsterdam on Sun, 25 Oct 2026.
 
 Majid is a house artist, with 9 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 2 more. Often billed alongside Always Late, Baloo (SA) and CHKLTE. Next up: Blast Galaxy, Amsterdam on Sun 25 Oct.
 
@@ -14,6 +14,7 @@ Majid is a house artist, with 9 gigs on soundcheck across Amsterdam, Athens, Bar
 
 ## Recently played
 
+- Blast Galaxy, Amsterdam · Sun, 25 Oct 2026
 - Café Café Bar Amsterdam, Amsterdam · Sat, 25 Oct 2025
 - TBA, Athens · Sat, 18 Oct 2025
 - Renate, Berlin · Sat, 27 Sept 2025
@@ -25,4 +26,4 @@ Majid is a house artist, with 9 gigs on soundcheck across Amsterdam, Athens, Bar
 
 Always Late, Baloo (SA), CHKLTE
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majid/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majid/)*

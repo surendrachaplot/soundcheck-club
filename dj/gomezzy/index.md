@@ -1,6 +1,6 @@
 # GOMEZZY
 
-GOMEZZY is a Trance and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Club Six, San Francisco/Oakland on Fri, 20 Nov 2026.
+GOMEZZY is a Trance and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Six, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 GOMEZZY is a trance and tech house artist based in United States of America, with 5 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Saint Triste, Axela and Miss Gia. Next up: Club Six, San Francisco/Oakland on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ GOMEZZY is a trance and tech house artist based in United States of America, wit
 
 Saint Triste, Axela, Miss Gia
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gomezzy/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gomezzy/)*

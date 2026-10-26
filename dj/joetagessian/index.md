@@ -1,6 +1,6 @@
 # Joe Tagessian
 
-Joe Tagessian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Desnuda Cocina, Boston on Fri, 30 Oct 2026.
+Joe Tagessian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Desnuda Cocina, Boston on Fri, 30 Oct 2026.
 
 Joe Tagessian is a house and techno artist based in United States of America, with 100 gigs on soundcheck across Atlanta, Boston, Chicago and Detroit and 6 more. Often billed alongside Bruno Limma, Ohm Hourani and Caruan. Next up: Desnuda Cocina, Boston on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Joe Tagessian is a house and techno artist based in United States of America, wi
 
 Bruno Limma, Ohm Hourani, Caruan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joetagessian/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joetagessian/)*

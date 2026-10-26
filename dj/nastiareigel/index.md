@@ -1,6 +1,6 @@
 # Nastia Reigel
 
-Nastia Reigel is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Bassement, Madrid on Fri, 30 Oct 2026.
+Nastia Reigel is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Bassement, Madrid on Fri, 30 Oct 2026.
 
 Nastia Reigel is a techno and electro artist, with 67 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 19 more. Often billed alongside Oscar Mulero, Rene Wise and Function. Next up: The Bassement, Madrid on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Nastia Reigel is a techno and electro artist, with 67 gigs on soundcheck across 
 
 Oscar Mulero, Rene Wise, Function
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*

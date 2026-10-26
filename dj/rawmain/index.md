@@ -1,6 +1,6 @@
 # Raw Main
 
-Raw Main is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 28 Nov 2026.
+Raw Main is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 28 Nov 2026.
 
 Raw Main is a deep house and house artist based in France, with 23 gigs on soundcheck across Amsterdam, Ibiza, London and Malaga and 6 more. Often billed alongside Lee Burridge, Rasi Z and Bad Boombox. Next up: Do Not Sit On The Furniture, Miami on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Raw Main is a deep house and house artist based in France, with 23 gigs on sound
 
 Lee Burridge, Rasi Z, Bad Boombox
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawmain/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawmain/)*

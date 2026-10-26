@@ -1,14 +1,13 @@
 # MXGPU
 
-MXGPU is a Deep House and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+MXGPU is a Deep House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Switch, Porto on Sat, 31 Oct 2026.
 
-MXGPU is a deep house and experimental artist based in Portugal, with 16 gigs on soundcheck across Amsterdam, Lisbon, Los Angeles and Porto and 1 more. Often billed alongside Moullinex, GPU Panic and Adriana Ruas. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
+MXGPU is a deep house and experimental artist based in Portugal, with 16 gigs on soundcheck across Amsterdam, Lisbon, Los Angeles and Porto and 1 more. Often billed alongside Moullinex, GPU Panic and Adriana Ruas. Next up: Switch, Porto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 31 Oct 2026 | Switch | Porto |
 | Sat, 7 Nov 2026 | ORIGIN | Los Angeles |
 
@@ -27,4 +26,4 @@ MXGPU is a deep house and experimental artist based in Portugal, with 16 gigs on
 
 Moullinex, GPU Panic, Adriana Ruas
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgpu/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgpu/)*

@@ -1,6 +1,6 @@
 # Manuel Matus
 
-Manuel Matus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 6 Nov 2026.
+Manuel Matus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 6 Nov 2026.
 
 Manuel Matus is a techno and house artist, with 5 gigs on soundcheck across Buenos Aires and New York City. Often billed alongside DJ Tree, Jos and Kito. Next up: Dune Park, Buenos Aires on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Manuel Matus is a techno and house artist, with 5 gigs on soundcheck across Buen
 
 DJ Tree, Jos, Kito
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelmatus/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelmatus/)*

@@ -1,6 +1,6 @@
 # Doghearts
 
-Doghearts is a Hip-Hop and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The White Hotel, Manchester on Thu, 29 Oct 2026.
+Doghearts is a Hip-Hop and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The White Hotel, Manchester on Thu, 29 Oct 2026.
 
 Doghearts is a hip-hop and hardcore artist, with 7 gigs on soundcheck across London and Manchester. Often billed alongside Loveblade, abejisama and Awedinary. Next up: The White Hotel, Manchester on Thu 29 Oct.
 
@@ -23,4 +23,4 @@ Doghearts is a hip-hop and hardcore artist, with 7 gigs on soundcheck across Lon
 
 Loveblade, abejisama, Awedinary
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doghearts/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doghearts/)*

@@ -1,6 +1,6 @@
 # JONATAS C
 
-JONATAS C is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Macarena Club, Barcelona on Sat, 28 Nov 2026.
+JONATAS C is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Macarena Club, Barcelona on Sat, 28 Nov 2026.
 
 JONATAS C is a tech house and house artist, with 5 gigs on soundcheck across Barcelona and Sao Paulo. Often billed alongside Melanie Ribbe, Paco Osuna and Gian Granito. Next up: Macarena Club, Barcelona on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ JONATAS C is a tech house and house artist, with 5 gigs on soundcheck across Bar
 
 Melanie Ribbe, Paco Osuna, Gian Granito
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonatasc/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonatasc/)*

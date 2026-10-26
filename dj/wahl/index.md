@@ -1,6 +1,6 @@
 # WAHL
 
-WAHL is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at QUIVR, Brisbane on Fri, 6 Nov 2026.
+WAHL is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at QUIVR, Brisbane on Fri, 6 Nov 2026.
 
 WAHL is a house and disco artist based in Australia, with 7 gigs on soundcheck across Brisbane, Melbourne and Queensland. Often billed alongside Limestone Cowboy, DJ SWELLA and DJ JNETT. Next up: QUIVR, Brisbane on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ WAHL is a house and disco artist based in Australia, with 7 gigs on soundcheck a
 
 Limestone Cowboy, DJ SWELLA, DJ JNETT
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wahl/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wahl/)*

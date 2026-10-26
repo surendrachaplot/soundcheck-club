@@ -1,6 +1,6 @@
 # TBA - Secret Location (Madrid)
 
-TBA - Secret Location (Madrid) is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "MyPleasure // ANNIVERSARY WEEK // Intro" on Fri, 4 Dec 2026.
+TBA - Secret Location (Madrid) is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "MyPleasure // ANNIVERSARY WEEK // Intro" on Fri, 4 Dec 2026.
 
 TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including BASHKKA, Call Super, Ketiov and Lino Fuso. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 
 | Mon, 7 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Ending |  |
 | Sat, 26 Jun 2027 | Endless Madrid | Lino Fuso |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*

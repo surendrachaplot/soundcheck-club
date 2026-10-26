@@ -1,6 +1,6 @@
 # JohnyM
 
-JohnyM is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Fuchs2, Prague on Sat, 14 Nov 2026.
+JohnyM is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Fuchs2, Prague on Sat, 14 Nov 2026.
 
 JohnyM is a grime and dubstep artist based in Czech Republic, with 12 gigs on soundcheck across Bratislava and Prague. Often billed alongside Tereza.Pro, Dj Alyaz and Sir Free. Next up: Fuchs2, Prague on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ JohnyM is a grime and dubstep artist based in Czech Republic, with 12 gigs on so
 
 Tereza.Pro, Dj Alyaz, Sir Free
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnym/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnym/)*

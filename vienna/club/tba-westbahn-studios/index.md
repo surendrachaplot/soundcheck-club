@@ -1,6 +1,6 @@
 # TBA - WESTBAHN STUDIOS
 
-TBA - WESTBAHN STUDIOS is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "HEAVY LISTENING with Koberman, MPU101 & Electric Indigo" on Sat, 14 Nov 2026.
+TBA - WESTBAHN STUDIOS is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "HEAVY LISTENING with Koberman, MPU101 & Electric Indigo" on Sat, 14 Nov 2026.
 
 TBA - WESTBAHN STUDIOS is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Electric Indigo and Kobermann. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - WESTBAHN STUDIOS is a music venue in Vienna listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | HEAVY LISTENING with Koberman, MPU101 & Electric Indigo | Electric Indigo, Kobermann |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/tba-westbahn-studios/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/tba-westbahn-studios/)*

@@ -1,6 +1,6 @@
 # PAZ WAZ HERE
 
-PAZ WAZ HERE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - CALLE BADAJOZ 115, 08018 BARCELONA, Barcelona on Fri, 30 Oct 2026.
+PAZ WAZ HERE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - CALLE BADAJOZ 115, 08018 BARCELONA, Barcelona on Fri, 30 Oct 2026.
 
 PAZ WAZ HERE is a house and techno artist based in Portugal, with 63 gigs on soundcheck across Barcelona and Lisbon. Often billed alongside Rele, Alexxx and XipNoize. Next up: TBA - CALLE BADAJOZ 115, 08018 BARCELONA, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ PAZ WAZ HERE is a house and techno artist based in Portugal, with 63 gigs on sou
 
 Rele, Alexxx, XipNoize
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pazwazhere/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pazwazhere/)*

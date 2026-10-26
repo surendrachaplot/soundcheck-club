@@ -1,6 +1,6 @@
 # 4am Kru
 
-4am Kru is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+4am Kru is a Jungle and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
 4am Kru is a jungle and drum & bass artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 24 more. Often billed alongside Bakey, Sexy Lady Massive and Oppidan. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
@@ -33,4 +33,4 @@
 
 Bakey, Sexy Lady Massive, Oppidan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4amkru/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4amkru/)*

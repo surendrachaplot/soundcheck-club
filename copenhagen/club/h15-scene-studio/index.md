@@ -1,6 +1,6 @@
 # H15 Scene & Studio
 
-H15 Scene & Studio is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Hyperbot.exe" on Sat, 31 Oct 2026.
+H15 Scene & Studio is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Hyperbot.exe" on Sat, 31 Oct 2026.
 
 H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including Daniel Kaarill, Fergus Murphy, Mokomizik and Pladedamen. See dates, start times and who's playing. Halmtorvet 15, 1715, Copenhagen.
 
@@ -17,4 +17,4 @@ H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 4 upcomi
 
 Halmtorvet 15, 1715, Copenhagen, Copenhagen
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/h15-scene-studio/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/h15-scene-studio/)*

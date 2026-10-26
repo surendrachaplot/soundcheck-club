@@ -1,14 +1,13 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Interplanetary Criminal is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
-Interplanetary Criminal is a garage and house artist based in United Kingdom, with 276 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 81 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: Bajes Amsterdam, Amsterdam on Sun 25 Oct.
+Interplanetary Criminal is a garage and house artist based in United Kingdom, with 276 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 81 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Fri, 30 Oct 2026 | Beach House San Diego | San Diego |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
@@ -22,6 +21,7 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 
 ## Recently played
 
+- Bajes Amsterdam, Amsterdam · Sun, 25 Oct 2026
 - The Music Yard, Charlotte · Sat, 24 Oct 2026
 - Blackstone Street Warehouse, Liverpool · Sat, 24 Oct 2026
 - ZeyZey, Miami · Sun, 18 Oct 2026
@@ -29,10 +29,9 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 - Depot Mayfield, Manchester · Sat, 10 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
-- Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Main Phase, MALUGI, KI/KI
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

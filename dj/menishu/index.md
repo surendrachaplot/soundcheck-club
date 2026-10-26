@@ -1,6 +1,6 @@
 # Menishu
 
-Menishu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Turbina, Budapest on Wed, 28 Oct 2026.
+Menishu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Turbina, Budapest on Wed, 28 Oct 2026.
 
 Menishu is a techno and house artist based in Hungary, with 22 gigs on soundcheck across Berlin, Budapest and Montreal. Often billed alongside Klayman, Skankstasy and Amperia. Next up: Turbina, Budapest on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Menishu is a techno and house artist based in Hungary, with 22 gigs on soundchec
 
 Klayman, Skankstasy, Amperia
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menishu/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menishu/)*

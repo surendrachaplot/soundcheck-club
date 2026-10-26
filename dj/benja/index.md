@@ -1,14 +1,13 @@
 # Benja
 
-Benja is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Mon, 26 Oct 2026.
+Benja is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Volt Club Milano, Milan on Thu, 29 Oct 2026.
 
-Benja is a house and tech house artist based in Switzerland, with 24 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 8 more. Often billed alongside Franc Fala, Cincity and Mahmut Orhan. Next up: Crane Hotel Faralda, Amsterdam on Mon 26 Oct.
+Benja is a house and tech house artist based in Switzerland, with 24 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 8 more. Often billed alongside Franc Fala, Cincity and Mahmut Orhan. Next up: Volt Club Milano, Milan on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Thu, 29 Oct 2026 | Volt Club Milano | Milan |
 | Tue, 17 Nov 2026 | Desa Kitsune | Bali |
 
@@ -27,4 +26,4 @@ Benja is a house and tech house artist based in Switzerland, with 24 gigs on sou
 
 Franc Fala, Cincity, Mahmut Orhan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*

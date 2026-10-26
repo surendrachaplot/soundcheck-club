@@ -1,6 +1,6 @@
 # KISKI
 
-KISKI is a Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cadavra, Madrid on Sat, 7 Nov 2026.
+KISKI is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cadavra, Madrid on Sat, 7 Nov 2026.
 
 KISKI is an electronica artist, with 7 gigs on soundcheck across Madrid. Often billed alongside Angelo Fe, Anna Wall and BOTHER. Next up: Cadavra, Madrid on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ KISKI is an electronica artist, with 7 gigs on soundcheck across Madrid. Often b
 
 Angelo Fe, Anna Wall, BOTHER
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiski/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiski/)*

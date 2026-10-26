@@ -1,14 +1,13 @@
 # leverson
 
-leverson is a R&B and Hip-Hop artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Next Door Records, London on Sun, 25 Oct 2026.
+leverson is a R&B and Hip-Hop artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sound Gallery, Melbourne on Fri, 6 Nov 2026.
 
-leverson is a r&b and hip-hop artist based in United Kingdom, with 192 gigs on soundcheck across Amsterdam, Auckland, Birmingham and London and 3 more. Often billed alongside Signorina, Omari King and Omari. Next up: Next Door Records, London on Sun 25 Oct.
+leverson is a r&b and hip-hop artist based in United Kingdom, with 192 gigs on soundcheck across Amsterdam, Auckland, Birmingham and London and 3 more. Often billed alongside Signorina, Omari King and Omari. Next up: Sound Gallery, Melbourne on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Next Door Records | London |
 | Fri, 6 Nov 2026 | Sound Gallery | Melbourne |
 | Sat, 7 Nov 2026 | Runner Up Rooftop Bar | Melbourne |
 | Sat, 7 Nov 2026 | High Note | Melbourne |
@@ -21,6 +20,7 @@ leverson is a r&b and hip-hop artist based in United Kingdom, with 192 gigs on s
 
 ## Recently played
 
+- Next Door Records, London · Sun, 25 Oct 2026
 - Junsei, London · Fri, 23 Oct 2026
 - Spiritland, London · Thu, 15 Oct 2026
 - Itsgood, London · Sat, 10 Oct 2026
@@ -28,10 +28,9 @@ leverson is a r&b and hip-hop artist based in United Kingdom, with 192 gigs on s
 - Junsei, London · Sat, 3 Oct 2026
 - New Forms, London · Fri, 2 Oct 2026
 - Peckham Arches, London · Thu, 1 Oct 2026
-- Junsei, London · Thu, 1 Oct 2026
 
 ## Shares bills with
 
 Signorina, Omari King, Omari
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

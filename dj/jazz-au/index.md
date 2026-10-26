@@ -1,6 +1,6 @@
 # Jazz (AU)
 
-Jazz (AU) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Moyston, Melbourne on Fri, 5 Mar 2027.
+Jazz (AU) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Moyston, Melbourne on Fri, 5 Mar 2027.
 
 Jazz (AU) is a house and techno artist based in Australia, with 30 gigs on soundcheck across Bangkok, Berlin, Budapest and Hobart and 8 more. Often billed alongside Accent', ARTISAH and Ali Bilal. Next up: Moyston, Melbourne on Fri 5 Mar.
 
@@ -25,4 +25,4 @@ Jazz (AU) is a house and techno artist based in Australia, with 30 gigs on sound
 
 Accent', ARTISAH, Ali Bilal
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz-au/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz-au/)*

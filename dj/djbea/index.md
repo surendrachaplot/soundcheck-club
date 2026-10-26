@@ -1,6 +1,6 @@
 # DJ BEA
 
-DJ BEA is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Madame Moustache, Brussels on Fri, 30 Oct 2026.
+DJ BEA is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Madame Moustache, Brussels on Fri, 30 Oct 2026.
 
 DJ BEA is a baile funk and afrobeat artist, with 7 gigs on soundcheck across Antwerp, Brussels and Rio de Janeiro. Often billed alongside Joliiah, Blck Mamba and Carlos Niño. Next up: Madame Moustache, Brussels on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ DJ BEA is a baile funk and afrobeat artist, with 7 gigs on soundcheck across Ant
 
 Joliiah, Blck Mamba, Carlos Niño
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbea/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbea/)*

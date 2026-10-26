@@ -1,6 +1,6 @@
 # T. Mixwell
 
-T. Mixwell is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Emporium Arcade Bar - Logan Square, Chicago on Sat, 31 Oct 2026.
+T. Mixwell is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Emporium Arcade Bar - Logan Square, Chicago on Sat, 31 Oct 2026.
 
 T. Mixwell is a house and deep house artist based in United States of America, with 36 gigs on soundcheck across Chicago. Often billed alongside DJ Heather, Derrick Carter and samantha rad. Next up: Emporium Arcade Bar - Logan Square, Chicago on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ T. Mixwell is a house and deep house artist based in United States of America, w
 
 DJ Heather, Derrick Carter, samantha rad
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.mixwell-us/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.mixwell-us/)*

@@ -1,6 +1,6 @@
 # La Riviera
 
-La Riviera is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Burn Energy Tour 26 Madrid with horsegiirL + Oppidan" on Sat, 7 Nov 2026.
+La Riviera is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Burn Energy Tour 26 Madrid with horsegiirL + Oppidan" on Sat, 7 Nov 2026.
 
 La Riviera is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Camo & Krooked, Daxta, Dexphase and Diego Armando and 2 more. See dates, start times and who's playing. Paseo de la Virgen del Puerto, Madrid, España.
 
@@ -18,4 +18,4 @@ La Riviera is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, wit
 
 Paseo de la Virgen del Puerto, Madrid, España, Madrid
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-riviera/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-riviera/)*

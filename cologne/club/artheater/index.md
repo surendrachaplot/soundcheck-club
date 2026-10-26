@@ -1,13 +1,14 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Artheater Invites I Halloween Special" on Sat, 31 Oct 2026.
+Artheater is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Zwischenmiete Club Edition" on Fri, 30 Oct 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, with line-ups including 909 RACING TEAM, alleira, Annemalie and anyka and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including 909 RACING TEAM, alleira, Annemalie and anyka and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Zwischenmiete Club Edition |  |
 | Sat, 31 Oct 2026 | Artheater Invites I Halloween Special | Annemalie, BOLZ, Bae Blade, Gutkind, Lars Huismann, Ursula Erdmann |
 | Fri, 13 Nov 2026 | Sound of Hell pres. LS41 ALL NIGHT LONG | LS41 (2) |
 | Sat, 14 Nov 2026 | Jump House by Dados | DJ Discostoff, Ken Brause, Lizzle, Tristan K, anyka |
@@ -21,4 +22,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

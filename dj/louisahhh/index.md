@@ -1,6 +1,6 @@
 # Louisahhh
 
-Louisahhh is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 31 Oct 2026.
+Louisahhh is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 31 Oct 2026.
 
 Louisahhh is a techno and industrial artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 12 more. Often billed alongside Maëlstrom, Lewis G. Burton and Wax Wings. Next up: Karmen Camina, Strasbourg on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Louisahhh is a techno and industrial artist based in United States of America, w
 
 Maëlstrom, Lewis G. Burton, Wax Wings
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louisahhh/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louisahhh/)*

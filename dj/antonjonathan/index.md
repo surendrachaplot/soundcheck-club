@@ -1,6 +1,6 @@
 # Anton Jonathan
 
-Anton Jonathan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
+Anton Jonathan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
 
 Anton Jonathan is a house and techno artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Frankfurt and 3 more. Often billed alongside EliaHaze, DJ Babyblade and DJ SOURCE. Next up: Mojo, Hamburg on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Anton Jonathan is a house and techno artist based in Germany, with 124 gigs on s
 
 EliaHaze, DJ Babyblade, DJ SOURCE
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonjonathan/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonjonathan/)*

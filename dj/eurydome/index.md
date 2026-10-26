@@ -1,6 +1,6 @@
 # Eurydome
 
-Eurydome is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Club 1, Santiago on Sat, 31 Oct 2026.
+Eurydome is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Club 1, Santiago on Sat, 31 Oct 2026.
 
 Eurydome is a techno and electronica artist based in Chile, with 2 gigs on soundcheck across Santiago. Often billed alongside Kalopsia (CL) and Pfirter. Next up: Club 1, Santiago on Sat 31 Oct.
 
@@ -15,4 +15,4 @@ Eurydome is a techno and electronica artist based in Chile, with 2 gigs on sound
 
 Kalopsia (CL), Pfirter
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eurydome/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eurydome/)*

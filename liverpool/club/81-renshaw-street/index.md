@@ -1,6 +1,6 @@
 # 81 Renshaw Street
 
-81 Renshaw Street is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Section 25 - Certainty of Machines LP Launch at 81 Renshaw" on Sat, 14 Nov 2026.
+81 Renshaw Street is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Section 25 - Certainty of Machines LP Launch at 81 Renshaw" on Sat, 14 Nov 2026.
 
 81 Renshaw Street is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, with line-ups including Anhedonia and Jezebel. See dates, start times and who's playing. 81 Renshaw Street, Liverpool, L1 2SJ.
 
@@ -16,4 +16,4 @@
 
 81 Renshaw Street, Liverpool, L1 2SJ, Liverpool
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/81-renshaw-street/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/81-renshaw-street/)*

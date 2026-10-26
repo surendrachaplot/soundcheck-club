@@ -1,6 +1,6 @@
 # export
 
-export is a music venue in Rotterdam with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "HALLOW'S EVE: haunted soirée" on Fri, 30 Oct 2026.
+export is a music venue in Rotterdam with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "HALLOW'S EVE: haunted soirée" on Fri, 30 Oct 2026.
 
 export is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Amaliah, CAIN, Candy Coup and CyberFairy777 and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
@@ -23,4 +23,4 @@ export is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, wit
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

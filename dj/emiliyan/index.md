@@ -1,6 +1,6 @@
 # Emiliyan
 
-Emiliyan is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Yalta Club, Sofia on Sat, 31 Oct 2026.
+Emiliyan is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Yalta Club, Sofia on Sat, 31 Oct 2026.
 
 Emiliyan is a tech house and minimal artist, with 22 gigs on soundcheck across Sofia. Often billed alongside SHENK(BG), YORY and ZDEPTH. Next up: Yalta Club, Sofia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Emiliyan is a tech house and minimal artist, with 22 gigs on soundcheck across S
 
 SHENK(BG), YORY, ZDEPTH
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliyan/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliyan/)*

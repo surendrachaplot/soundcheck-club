@@ -1,6 +1,6 @@
 # OFFIE MAG DJs
 
-OFFIE MAG DJs is a Funk / Soul and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at A L P H A B E T, Brighton on Sat, 31 Oct 2026.
+OFFIE MAG DJs is a Funk / Soul and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at A L P H A B E T, Brighton on Sat, 31 Oct 2026.
 
 OFFIE MAG DJs is a funk / soul and disco artist, with 22 gigs on soundcheck across Brighton, Bristol, London and Manchester. Often billed alongside System Olympia, CasuallyClued and Kieran Dotwav. Next up: A L P H A B E T, Brighton on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ OFFIE MAG DJs is a funk / soul and disco artist, with 22 gigs on soundcheck acro
 
 System Olympia, CasuallyClued, Kieran Dotwav
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/offiemagdjs/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/offiemagdjs/)*

@@ -1,6 +1,6 @@
 # Inkorrekt
 
-Inkorrekt is a Acid and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Chinastraat, Ghent on Sat, 7 Nov 2026.
+Inkorrekt is a Acid and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Chinastraat, Ghent on Sat, 7 Nov 2026.
 
 Inkorrekt is an acid and hardcore artist based in Belgium, with 10 gigs on soundcheck across Brussels, Dresden and Ghent. Often billed alongside Mantrum, Phooka and Brain Impact. Next up: Chinastraat, Ghent on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Inkorrekt is an acid and hardcore artist based in Belgium, with 10 gigs on sound
 
 Mantrum, Phooka, Brain Impact
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inkorrekt/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inkorrekt/)*

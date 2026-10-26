@@ -1,6 +1,6 @@
 # Dj Enzo from Raincy
 
-Dj Enzo from Raincy is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Folklor, Lausanne on Fri, 30 Oct 2026.
+Dj Enzo from Raincy is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Folklor, Lausanne on Fri, 30 Oct 2026.
 
 Dj Enzo from Raincy is an italo disco and electro artist based in France, with 5 gigs on soundcheck across Lausanne. Often billed alongside Adrian Marth, Cosmo Vitelli and Italo Brutalo. Next up: Folklor, Lausanne on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Dj Enzo from Raincy is an italo disco and electro artist based in France, with 5
 
 Adrian Marth, Cosmo Vitelli, Italo Brutalo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djenzofromraincy/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djenzofromraincy/)*

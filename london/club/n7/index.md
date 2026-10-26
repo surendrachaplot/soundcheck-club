@@ -1,6 +1,6 @@
 # N7
 
-N7 is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Fowl Play: The Peckening" on Sat, 28 Nov 2026.
+N7 is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Fowl Play: The Peckening" on Sat, 28 Nov 2026.
 
 N7 is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Unit 2, 303 Holloway Road, London N7 8HS.
 
@@ -14,4 +14,4 @@ N7 is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, s
 
 Unit 2, 303 Holloway Road, London N7 8HS, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/n7/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/n7/)*

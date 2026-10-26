@@ -1,6 +1,6 @@
 # David J Bull
 
-David J Bull is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Jacobs Basement, Cardiff on Sat, 31 Oct 2026.
+David J Bull is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Jacobs Basement, Cardiff on Sat, 31 Oct 2026.
 
 David J Bull is an italo disco and house artist, with 16 gigs on soundcheck across Bristol and Cardiff. Often billed alongside Esther (UK), Wax Galactique and Anatolian Weapons. Next up: Jacobs Basement, Cardiff on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ David J Bull is an italo disco and house artist, with 16 gigs on soundcheck acro
 
 Esther (UK), Wax Galactique, Anatolian Weapons
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjbull/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjbull/)*

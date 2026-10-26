@@ -1,6 +1,6 @@
 # sumi’
 
-sumi’ is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Teranoma Tidepool, Osaka on Sat, 7 Nov 2026.
+sumi’ is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Teranoma Tidepool, Osaka on Sat, 7 Nov 2026.
 
 sumi’ is a house and deep house artist based in Japan, with 18 gigs on soundcheck across Osaka. Often billed alongside Mercy., Motel Paraiso and NAGATA. Next up: Teranoma Tidepool, Osaka on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ sumi’ is a house and deep house artist based in Japan, with 18 gigs on soundch
 
 Mercy., Motel Paraiso, NAGATA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi/)*

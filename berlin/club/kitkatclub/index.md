@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Nachspiel" on Sun, 25 Oct 2026.
+KitKatClub is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Electric Monday@KitKat" on Mon, 26 Oct 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alessia Cattani and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alessia Cattani and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Nachspiel | Daora |
 | Mon, 26 Oct 2026 | Electric Monday@KitKat | ANouch, Frankie Flowerz, Mahlas, Ricardo Rodriguez |
 | Wed, 28 Oct 2026 | SYMBIOTIKKA Halloween PSY & Techno Special at KitKat Club | DJ Jordan, Grace Thompson, LeoSkiDj, Querox |
 | Thu, 29 Oct 2026 | Human Colours 'Naughty Halloween' w/ Pappenheimer - Ānna Meā - Somaphon (2 Floors) | Somaphon |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, wi
 | Mon, 2 Nov 2026 | Electric Monday@Kitkat | André Lodemann, Frankie Flowerz, Milk N Coffee, Ricardo Rodriguez |
 | Wed, 4 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Kalimanda, Sin:port |
 | Thu, 5 Nov 2026 | Unity (surprise special edition) | Balkhausen, alemiko, e.leptic |
+| Fri, 6 Nov 2026 | Four Play | Alex Nantaya, Alyne, Blame the Booker, Dada Disco, Dela Nesto, Gizmo, Lazykid, PyjamaMama, Stallo, justUS |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

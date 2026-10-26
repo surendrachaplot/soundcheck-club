@@ -1,6 +1,6 @@
 # Nikki Nair
 
-Nikki Nair is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
+Nikki Nair is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
 
 Nikki Nair is a techno and bass artist based in United States of America, with 182 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 58 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: TBA - Various Venues, Guimarães, PT, Portugal on Thu 29 Oct.
 
@@ -30,4 +30,4 @@ Nikki Nair is a techno and bass artist based in United States of America, with 1
 
 Hudson Mohawke, DJ ADHD, Chloé Robinson
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*

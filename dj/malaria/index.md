@@ -1,6 +1,6 @@
 # Marie Malarie
 
-Marie Malarie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
+Marie Malarie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
 
 Marie Malarie is a house and techno artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Byron Yeates, FAFF and Angel D'lite. Next up: Unit 58, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Marie Malarie is a house and techno artist based in United Kingdom, with 136 gig
 
 Byron Yeates, FAFF, Angel D'lite
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaria/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaria/)*

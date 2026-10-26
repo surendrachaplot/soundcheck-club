@@ -1,8 +1,8 @@
 # Tromac
 
-Tromac is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Honey's, New York City on Thu, 29 Oct 2026.
+Tromac is a Club and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Honey's, New York City on Thu, 29 Oct 2026.
 
-Tromac is a club and ghetto tech artist based in United States of America, with 165 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 13 more. Often billed alongside DJ-SUN, flotussin and DJ Dolla. Next up: Honey's, New York City on Thu 29 Oct.
+Tromac is a club and ghetto tech artist based in United States of America, with 166 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 13 more. Often billed alongside DJ-SUN, flotussin and DJ Dolla. Next up: Honey's, New York City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Tromac is a club and ghetto tech artist based in United States of America, with 
 | Thu, 29 Oct 2026 | Honey's | New York City |
 | Fri, 30 Oct 2026 | The Compound | Baltimore |
 | Fri, 20 Nov 2026 | Paragon | New York City |
+| Sat, 21 Nov 2026 | Trans-Pecos | New York City |
 | Sat, 19 Dec 2026 | Pisces | Atlanta |
 
 ## Recently played
@@ -28,4 +29,4 @@ Tromac is a club and ghetto tech artist based in United States of America, with 
 
 DJ-SUN, flotussin, DJ Dolla
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*

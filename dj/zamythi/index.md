@@ -1,14 +1,13 @@
 # Zamythi
 
-Zamythi is a Neo Perreo and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
+Zamythi is a Neo Perreo and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Matriarch LA, Los Angeles on Fri, 6 Nov 2026.
 
-Zamythi is a neo perreo and club artist based in United States of America, with 16 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Profesito, Cquestt and Diablito. Next up: TBA, Los Angeles on Sat 24 Oct.
+Zamythi is a neo perreo and club artist based in United States of America, with 16 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Profesito, Cquestt and Diablito. Next up: Matriarch LA, Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | Los Angeles |
 | Fri, 6 Nov 2026 | Matriarch LA | Los Angeles |
 
 ## Recently played
@@ -26,4 +25,4 @@ Zamythi is a neo perreo and club artist based in United States of America, with 
 
 Profesito, Cquestt, Diablito
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zamythi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zamythi/)*

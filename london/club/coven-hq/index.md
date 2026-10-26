@@ -1,6 +1,6 @@
 # Coven HQ
 
-Coven HQ is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Fenna Juicy Couture presents: THE SESSION" on Thu, 29 Oct 2026.
+Coven HQ is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Fenna Juicy Couture presents: THE SESSION" on Thu, 29 Oct 2026.
 
 Coven HQ is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 30 Old Compton Street, W1D 4UR, London, UK.
 
@@ -15,4 +15,4 @@ Coven HQ is a music venue in London listed on soundcheck. 2 upcoming gigs. See d
 
 30 Old Compton Street, W1D 4UR, London, UK, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/coven-hq/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/coven-hq/)*

@@ -1,6 +1,6 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Ampere, Munich on Fri, 30 Oct 2026.
+Mala is a Dubstep and Bass artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ampere, Munich on Fri, 30 Oct 2026.
 
 Mala is a dubstep and bass artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 45 more. Often billed alongside Mia Koden, SGT Pokes and Kode9. Next up: Ampere, Munich on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Mala is a dubstep and bass artist based in United Kingdom, with 124 gigs on soun
 
 Mia Koden, SGT Pokes, Kode9
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*

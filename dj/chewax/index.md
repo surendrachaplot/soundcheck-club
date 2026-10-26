@@ -1,6 +1,6 @@
 # CHÉ WAX
 
-CHÉ WAX is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Golden Lion, Manchester on Fri, 30 Oct 2026.
+CHÉ WAX is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Golden Lion, Manchester on Fri, 30 Oct 2026.
 
 CHÉ WAX is a house and disco artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Bangkok, Liverpool and London and 1 more. Often billed alongside DMC., Dan Soulsmith and Greg Wilson. Next up: The Golden Lion, Manchester on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ CHÉ WAX is a house and disco artist based in United Kingdom, with 28 gigs on so
 
 DMC., Dan Soulsmith, Greg Wilson
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chewax/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chewax/)*

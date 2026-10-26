@@ -1,14 +1,13 @@
 # LALENA
 
-LALENA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
+LALENA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Gewölbe, Cologne on Fri, 27 Nov 2026.
 
-LALENA is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Austria, Berlin and Cologne and 6 more. Often billed alongside David Hasert, Diode Eins and Alchemiah. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
+LALENA is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Austria, Berlin and Cologne and 6 more. Often billed alongside David Hasert, Diode Eins and Alchemiah. Next up: Gewölbe, Cologne on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 27 Nov 2026 | Gewölbe | Cologne |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 | Fri, 25 Dec 2026 | fi | Cologne |
@@ -28,4 +27,4 @@ LALENA is a techno and house artist based in Germany, with 69 gigs on soundcheck
 
 David Hasert, Diode Eins, Alchemiah
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lalena/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lalena/)*

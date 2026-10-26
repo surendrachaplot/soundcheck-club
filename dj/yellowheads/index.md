@@ -1,6 +1,6 @@
 # YellowHeads
 
-YellowHeads is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - La Estacion, Cordoba, Argentina on Sat, 31 Oct 2026.
+YellowHeads is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - La Estacion, Cordoba, Argentina on Sat, 31 Oct 2026.
 
 YellowHeads is a techno and tech house artist based in Spain, with 26 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Berlin and 14 more. Often billed alongside CESAR ALMENA, Spartaque and Alchemiah. Next up: TBA - La Estacion, Cordoba, Argentina on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ YellowHeads is a techno and tech house artist based in Spain, with 26 gigs on so
 
 CESAR ALMENA, Spartaque, Alchemiah
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowheads/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowheads/)*

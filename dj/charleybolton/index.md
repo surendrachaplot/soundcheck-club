@@ -1,6 +1,6 @@
 # Charley Bolton
 
-Charley Bolton is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 21 Nov 2026.
+Charley Bolton is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 21 Nov 2026.
 
 Charley Bolton is a trance and techno artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, Bristol, Cardiff and Leeds and 4 more. Often billed alongside AYDJ, INLIMEN and Arkane. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Charley Bolton is a trance and techno artist based in United Kingdom, with 25 gi
 
 AYDJ, INLIMEN, Arkane
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charleybolton/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charleybolton/)*

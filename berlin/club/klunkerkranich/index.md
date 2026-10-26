@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "KUMULUS II w. Iorie, Solatic, Skydrips" on Fri, 30 Oct 2026.
+Klunkerkranich is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "KUMULUS II w. Iorie, Solatic, Skydrips" on Fri, 30 Oct 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Iorie, Skydrips and Solatic. See dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -14,4 +14,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 1 upcoming gig, 
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

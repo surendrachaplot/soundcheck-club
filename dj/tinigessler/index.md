@@ -1,14 +1,13 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Tini Gessler is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Maimarkthalle, Mannheim on Sat, 7 Nov 2026.
 
-Tini Gessler is a tech house and house artist based in Germany, with 149 gigs on soundcheck across Bali, Barcelona, Berlin and Bogotá and 36 more. Often billed alongside Ilario Alicante, Adam Beyer and Chelina Manuhutu. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
+Tini Gessler is a tech house and house artist based in Germany, with 149 gigs on soundcheck across Bali, Barcelona, Berlin and Bogotá and 36 more. Often billed alongside Ilario Alicante, Adam Beyer and Chelina Manuhutu. Next up: Maimarkthalle, Mannheim on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Sat, 7 Nov 2026 | Maimarkthalle | Mannheim |
 | Thu, 31 Dec 2026 | Studio 338 | London |
 | Fri, 15 Jan 2027 | Igloofest | Montreal |
@@ -30,4 +29,4 @@ Tini Gessler is a tech house and house artist based in Germany, with 149 gigs on
 
 Ilario Alicante, Adam Beyer, Chelina Manuhutu
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*

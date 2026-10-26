@@ -1,6 +1,6 @@
 # Luude
 
-Luude is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at O2 Academy Bournemouth, South-east on Sat, 31 Oct 2026.
+Luude is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at O2 Academy Bournemouth, South-east on Sat, 31 Oct 2026.
 
 Luude is a drum & bass and house artist based in Australia, with 48 gigs on soundcheck across Adelaide, Auckland, Bratislava and Brighton and 25 more. Often billed alongside Mozey, Chase & Status and Notion. Next up: O2 Academy Bournemouth, South East on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Luude is a drum & bass and house artist based in Australia, with 48 gigs on soun
 
 Mozey, Chase & Status, Notion
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luude/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luude/)*

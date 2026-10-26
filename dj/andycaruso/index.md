@@ -1,6 +1,6 @@
 # Andy Caruso
 
-Andy Caruso is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bread and Butter, London on Sun, 29 Nov 2026.
+Andy Caruso is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bread and Butter, London on Sun, 29 Nov 2026.
 
 Andy Caruso is a disco and deep house artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, London, Mexico City and Milan. Often billed alongside Davide Del Vecchio, LOVE SOUND SYSTEM and BODYHEAT. Next up: Bread and Butter, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Andy Caruso is a disco and deep house artist based in United Kingdom, with 24 gi
 
 Davide Del Vecchio, LOVE SOUND SYSTEM, BODYHEAT
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andycaruso/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andycaruso/)*

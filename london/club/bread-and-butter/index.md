@@ -1,6 +1,6 @@
 # Bread and Butter
 
-Bread and Butter is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "An Evening with Donae'o (4HR UK Funky DJ Set)" on Fri, 30 Oct 2026.
+Bread and Butter is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "An Evening with Donae'o (4HR UK Funky DJ Set)" on Fri, 30 Oct 2026.
 
 Bread and Butter is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Andy Caruso, Any Koh, Bushman (UK) and Carl Rowlinson and 2 more. See dates, start times and who's playing. 72 rivington street London EC2A 3AY.
 
@@ -18,4 +18,4 @@ Bread and Butter is a music venue in London listed on soundcheck. 5 upcoming gig
 
 72 rivington street London EC2A 3AY, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*

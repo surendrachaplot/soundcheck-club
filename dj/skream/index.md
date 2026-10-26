@@ -1,6 +1,6 @@
 # Skream
 
-Skream is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Skream is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Skream is a house and techno artist based in United Kingdom, with 237 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 69 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Skream is a house and techno artist based in United Kingdom, with 237 gigs on so
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

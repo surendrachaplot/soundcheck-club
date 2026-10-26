@@ -1,6 +1,6 @@
 # BL21
 
-BL21 is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Foro Bizarro, Mexico City on Fri, 13 Nov 2026.
+BL21 is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Foro Bizarro, Mexico City on Fri, 13 Nov 2026.
 
 BL21 is an ebm and techno artist, with 5 gigs on soundcheck across Mexico City. Often billed alongside Noisy Riot, Aliien Giirl and Boiled Angel. Next up: Foro Bizarro, Mexico City on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ BL21 is an ebm and techno artist, with 5 gigs on soundcheck across Mexico City. 
 
 Noisy Riot, Aliien Giirl, Boiled Angel
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bl21/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bl21/)*

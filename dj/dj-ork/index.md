@@ -1,6 +1,6 @@
 # DJ-ÖRK
 
-DJ-ÖRK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+DJ-ÖRK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 DJ-ÖRK is a techno and house artist, with 40 gigs on soundcheck across Bangkok, Hanoi and Ho Chi Minh City. Often billed alongside BongBongQuayQuay, Park:ING and Anh Vy. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ DJ-ÖRK is a techno and house artist, with 40 gigs on soundcheck across Bangkok,
 
 BongBongQuayQuay, Park:ING, Anh Vy
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ork/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ork/)*

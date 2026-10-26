@@ -1,6 +1,6 @@
 # Mayans
 
-Mayans is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Barraco Deia, Mallorca on Sat, 31 Oct 2026.
+Mayans is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Barraco Deia, Mallorca on Sat, 31 Oct 2026.
 
 Mayans is a downtempo and electronica artist based in Spain, with 6 gigs on soundcheck across Barcelona, Berlin, Mallorca and Mexico City and 1 more. Often billed alongside Alexkid, Amelia Holt and Bizarre Billy. Next up: Barraco Deia, Mallorca on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Mayans is a downtempo and electronica artist based in Spain, with 6 gigs on soun
 
 Alexkid, Amelia Holt, Bizarre Billy
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayans/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayans/)*

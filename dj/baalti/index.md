@@ -1,14 +1,13 @@
 # Baalti
 
-Baalti is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Baalti is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
-Baalti is a house and club artist, with 62 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 21 more. Often billed alongside Seb Wildblood, Tom VR and Ahadadream. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
+Baalti is a house and club artist, with 62 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 21 more. Often billed alongside Seb Wildblood, Tom VR and Ahadadream. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -26,4 +25,4 @@ Baalti is a house and club artist, with 62 gigs on soundcheck across Amsterdam, 
 
 Seb Wildblood, Tom VR, Ahadadream
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*

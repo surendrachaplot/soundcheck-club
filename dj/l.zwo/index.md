@@ -1,6 +1,6 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+L.zwo is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
 L.zwo is a techno and trance artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside 2HOT2PLAY, Antonym and OCIN. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ L.zwo is a techno and trance artist based in Germany, with 111 gigs on soundchec
 
 2HOT2PLAY, Antonym, OCIN
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

@@ -1,6 +1,6 @@
 # MC GQ
 
-MC GQ is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
+MC GQ is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
 MC GQ is a drum & bass and jungle artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Birmingham and 15 more. Often billed alongside Dillinja, SP:MC and Fabio. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ MC GQ is a drum & bass and jungle artist based in United Kingdom, with 98 gigs o
 
 Dillinja, SP:MC, Fabio
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*

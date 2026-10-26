@@ -1,14 +1,13 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Chloé Caillet is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Brooklyn Storehouse, New-york-city on Sun, 1 Nov 2026.
 
-Chloé Caillet is a house and techno artist based in United States of America, with 264 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 64 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Bajes Amsterdam, Amsterdam on Sun 25 Oct.
+Chloé Caillet is a house and techno artist based in United States of America, with 264 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 64 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Brooklyn Storehouse, New York City on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sun, 1 Nov 2026 | Brooklyn Storehouse | New-york-city |
 | Fri, 6 Nov 2026 | Deseo BS AS | Buenos Aires |
 | Sat, 7 Nov 2026 | Armazem Solon | Sao-paulo |
@@ -19,6 +18,7 @@ Chloé Caillet is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- Bajes Amsterdam, Amsterdam · Sun, 25 Oct 2026
 - The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - Klaproos, Amsterdam · Thu, 22 Oct 2026
 - Fabrik, Madrid · Sat, 10 Oct 2026
@@ -26,10 +26,9 @@ Chloé Caillet is a house and techno artist based in United States of America, w
 - Fvtvr, Paris · Fri, 2 Oct 2026
 - Public Works, San Francisco/Oakland · Sat, 26 Sept 2026
 - Knockdown Center, New York City · Fri, 25 Sept 2026
-- Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Seth Troxler, DJ Tennis, Mochakk
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

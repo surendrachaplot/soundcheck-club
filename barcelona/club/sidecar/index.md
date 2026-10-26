@@ -1,14 +1,13 @@
 # Sidecar
 
-Sidecar is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Electrostad: FREE PARTY with ATMEN, PALO MAIN, PINI B2B Victor Hugo" on Sun, 25 Oct 2026.
+Sidecar is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Electrostad: FREE PARTY with INOFF B2B PINI B2B Victor Hugo [ALL NIGHT LONG]" on Sun, 1 Nov 2026.
 
-Sidecar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including ATMEN, INOFF, PALO MAIN and PINI and 1 more. See dates, start times and who's playing. Plaça Reial, 7; 08002 Barcelona; Spain.
+Sidecar is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including INOFF, PINI and Victor Hugo. See dates, start times and who's playing. Plaça Reial, 7; 08002 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Electrostad: FREE PARTY with ATMEN, PALO MAIN, PINI B2B Victor Hugo | ATMEN, PALO MAIN, PINI, Victor Hugo |
 | Sun, 1 Nov 2026 | Electrostad: FREE PARTY with INOFF B2B PINI B2B Victor Hugo [ALL NIGHT LONG] | INOFF, PINI, Victor Hugo |
 | Sun, 8 Nov 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |
 | Sun, 15 Nov 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |
@@ -18,9 +17,10 @@ Sidecar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, wi
 | Sun, 13 Dec 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |
 | Sun, 20 Dec 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |
 | Sun, 27 Dec 2026 | Electrostad: FREE PARTY with Victor Hugo & friends | Victor Hugo |
+| Sun, 3 Jan 2027 | Electrostad: FREE PARTY with INOFF, Victor Hugo & friends | INOFF, Victor Hugo |
 
 ## Address
 
 Plaça Reial, 7; 08002 Barcelona; Spain, Barcelona
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sidecar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sidecar/)*

@@ -1,6 +1,6 @@
 # Shugz
 
-Shugz is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at SWG3, Glasgow on Fri, 4 Dec 2026.
+Shugz is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at SWG3, Glasgow on Fri, 4 Dec 2026.
 
 Shugz is a trance and techno artist based in United Kingdom, with 4 gigs on soundcheck across Amsterdam and Glasgow. Often billed alongside AMMARA, Giuseppe Ottaviani and Mha iri. Next up: SWG3, Glasgow on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ Shugz is a trance and techno artist based in United Kingdom, with 4 gigs on soun
 
 AMMARA, Giuseppe Ottaviani, Mha iri
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shugz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shugz/)*

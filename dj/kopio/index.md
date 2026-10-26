@@ -1,6 +1,6 @@
 # KOPI O
 
-KOPI O is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at St Ninians Church Hall, Glasgow on Fri, 27 Nov 2026.
+KOPI O is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at St Ninians Church Hall, Glasgow on Fri, 27 Nov 2026.
 
 KOPI O is a techno and experimental artist based in United Kingdom, with 29 gigs on soundcheck across Berlin, Edinburgh, Glasgow and London and 5 more. Often billed alongside Blood of Aza, KAVARI and Mvcoko. Next up: St Ninians Church Hall, Glasgow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ KOPI O is a techno and experimental artist based in United Kingdom, with 29 gigs
 
 Blood of Aza, KAVARI, Mvcoko
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kopio/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kopio/)*

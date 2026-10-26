@@ -1,6 +1,6 @@
 # psyche (2)
 
-psyche (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Golgolgol, Seoul on Mon, 2 Nov 2026.
+psyche (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Golgolgol, Seoul on Mon, 2 Nov 2026.
 
 psyche is a house and deep house artist, with 25 gigs on soundcheck across Seoul. Often billed alongside Gyusco, Youngseok and Moeuv. Next up: Golgolgol, Seoul on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ psyche is a house and deep house artist, with 25 gigs on soundcheck across Seoul
 
 Gyusco, Youngseok, Moeuv
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psyche-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psyche-2/)*

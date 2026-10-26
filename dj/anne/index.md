@@ -1,14 +1,13 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+ANNĒ is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-ANNĒ is a techno and house artist based in Greece, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 73 more. Often billed alongside SHDW, Sera J and Sol Ortega. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
+ANNĒ is a techno and house artist based in Greece, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 73 more. Often billed alongside SHDW, Sera J and Sol Ortega. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | TBA - Address sent out to ticket holders at 6pm on 10/31 | Philadelphia |
 | Fri, 6 Nov 2026 | Bunker | Turin |
@@ -36,4 +35,4 @@ ANNĒ is a techno and house artist based in Greece, with 218 gigs on soundcheck 
 
 SHDW, Sera J, Sol Ortega
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

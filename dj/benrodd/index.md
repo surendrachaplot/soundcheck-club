@@ -1,6 +1,6 @@
 # Ben:Rodd
 
-Ben:Rodd is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Sat, 31 Oct 2026.
+Ben:Rodd is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Sat, 31 Oct 2026.
 
 Ben:Rodd is a tech house and minimal artist, with 9 gigs on soundcheck across Amsterdam, Düsseldorf and Paris. Often billed alongside V-STYLE, Matteo (IT) and CORZ. Next up: Sol y Luna Lounge & Club, Düsseldorf on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ben:Rodd is a tech house and minimal artist, with 9 gigs on soundcheck across Am
 
 V-STYLE, Matteo (IT), CORZ
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benrodd/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benrodd/)*

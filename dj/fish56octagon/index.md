@@ -1,6 +1,6 @@
 # Fish56Octagon
 
-Fish56Octagon is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Palais Nottingham, Nottingham on Fri, 30 Oct 2026.
+Fish56Octagon is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Palais Nottingham, Nottingham on Fri, 30 Oct 2026.
 
 Fish56Octagon is a house and techno artist based in United Kingdom, with 70 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Birmingham and 29 more. Often billed alongside Ben Hemsley, 4am Kru and Badger (UK). Next up: TBA - Palais Nottingham, Nottingham on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Fish56Octagon is a house and techno artist based in United Kingdom, with 70 gigs
 
 Ben Hemsley, 4am Kru, Badger (UK)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fish56octagon/)*

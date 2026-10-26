@@ -1,6 +1,6 @@
 # YASMIN (2)
 
-YASMIN (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+YASMIN (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 YASMIN is a techno and house artist, with 81 gigs on soundcheck across Bangkok, Brighton, Hanoi and Ho Chi Minh City and 3 more. Often billed alongside Chi Min, DJ Ouch! and Goss. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ YASMIN is a techno and house artist, with 81 gigs on soundcheck across Bangkok, 
 
 Chi Min, DJ Ouch!, Goss
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin-2-vn/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin-2-vn/)*

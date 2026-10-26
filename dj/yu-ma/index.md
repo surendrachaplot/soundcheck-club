@@ -1,6 +1,6 @@
 # YU-MA
 
-YU-MA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cafe & Bar Extrawelt, Tokyo on Thu, 19 Nov 2026.
+YU-MA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cafe & Bar Extrawelt, Tokyo on Thu, 19 Nov 2026.
 
 YU-MA is a techno and house artist based in Japan, with 45 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KUWAMAN, Takuto and Daisuke Pak. Next up: Cafe & Bar Extrawelt, Tokyo on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ YU-MA is a techno and house artist based in Japan, with 45 gigs on soundcheck ac
 
 KUWAMAN, Takuto, Daisuke Pak
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-ma/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-ma/)*

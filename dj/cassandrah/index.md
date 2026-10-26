@@ -1,6 +1,6 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - CHURCH & WAREHOUSE LOCATION, Toronto on Fri, 30 Oct 2026.
+cassandrah is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - CHURCH & WAREHOUSE LOCATION, Toronto on Fri, 30 Oct 2026.
 
 cassandrah is a techno and industrial artist based in Italy, with 42 gigs on soundcheck across Antwerp, Bangkok, Barcelona and Belgrade and 20 more. Often billed alongside Rian Wood, Axciid and GØBLIN. Next up: TBA - CHURCH & WAREHOUSE LOCATION, Toronto on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ cassandrah is a techno and industrial artist based in Italy, with 42 gigs on sou
 
 Rian Wood, Axciid, GØBLIN
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

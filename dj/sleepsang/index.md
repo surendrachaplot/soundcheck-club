@@ -1,6 +1,6 @@
 # sleepsang
 
-sleepsang is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Floor, Sheffield on Wed, 28 Oct 2026.
+sleepsang is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Floor, Sheffield on Wed, 28 Oct 2026.
 
 sleepsang is an experimental and techno artist based in United Kingdom, with 14 gigs on soundcheck across North and Sheffield. Often billed alongside Damu, Chris Jackson and Holon._. Next up: Factory Floor, Sheffield on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ sleepsang is an experimental and techno artist based in United Kingdom, with 14 
 
 Damu, Chris Jackson, Holon._
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepsang/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepsang/)*

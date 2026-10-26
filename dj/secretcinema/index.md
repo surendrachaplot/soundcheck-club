@@ -1,6 +1,6 @@
 # Secret Cinema
 
-Secret Cinema is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Gazebo, Stockholm on Sat, 31 Oct 2026.
+Secret Cinema is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Gazebo, Stockholm on Sat, 31 Oct 2026.
 
 Secret Cinema is a techno and house artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Geneva and 9 more. Often billed alongside ABOUT SOFIYA, Olympe and Benny Rodrigues. Next up: Gazebo, Stockholm on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Secret Cinema is a techno and house artist based in Netherlands, with 54 gigs on
 
 ABOUT SOFIYA, Olympe, Benny Rodrigues
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretcinema/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretcinema/)*

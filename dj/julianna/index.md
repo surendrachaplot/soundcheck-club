@@ -1,14 +1,13 @@
 # Julianna
 
-Julianna is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Mexico City on Sat, 24 Oct 2026.
+Julianna is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
-Julianna is a techno and electronica artist, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside Retrograde Youth, dj lomalinda and Indogma. Next up: TBA, Mexico City on Sat 24 Oct.
+Julianna is a techno and electronica artist, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside Retrograde Youth, dj lomalinda and Indogma. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | Mexico City |
 | Fri, 30 Oct 2026 | Kaputt Club / Proyecto Kinder | Bogotá |
 | Fri, 20 Nov 2026 | D-Edge RIO | Rio de Janeiro |
 
@@ -27,4 +26,4 @@ Julianna is a techno and electronica artist, with 76 gigs on soundcheck across A
 
 Retrograde Youth, dj lomalinda, Indogma
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianna/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianna/)*

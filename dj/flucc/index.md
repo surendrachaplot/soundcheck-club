@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+FLUCC is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
 FLUCC is a techno and hardcore artist based in Germany, with 65 gigs on soundcheck across Antwerp, Barcelona, Berlin and Bielefeld and 12 more. Often billed alongside LØUS, Olmatri and Der Schaffner. Next up: OST, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ FLUCC is a techno and hardcore artist based in Germany, with 65 gigs on soundche
 
 LØUS, Olmatri, Der Schaffner
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flucc/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flucc/)*

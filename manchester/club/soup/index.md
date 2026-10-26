@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Call Me Karizma (I'm no American Idol Tour)" on Mon, 26 Oct 2026.
+Soup is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Call Me Karizma (I'm no American Idol Tour)" on Mon, 26 Oct 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Bobby Scallop, Douvelle19, Elf Traps and Fenton Haslam and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -21,4 +21,4 @@ Soup is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with 
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

@@ -1,6 +1,6 @@
 # GIØ (1)
 
-GIØ (1) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
+GIØ (1) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
 
 GIØ is a techno and trance artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside HUMAN ERROR, KUKO and Adrian Mills. Next up: Indiego Glocksee, Hannover on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ GIØ is a techno and trance artist based in Italy, with 44 gigs on soundcheck ac
 
 HUMAN ERROR, KUKO, Adrian Mills
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gio-1-it/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gio-1-it/)*

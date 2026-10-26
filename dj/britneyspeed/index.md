@@ -1,6 +1,6 @@
 # Britney Speed
 
-Britney Speed is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Rex Club, Paris on Wed, 28 Oct 2026.
+Britney Speed is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Rex Club, Paris on Wed, 28 Oct 2026.
 
 Britney Speed is a techno and house artist based in Denmark, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Matriark, Dj Algorythm and DJ Nah Care. Next up: Rex Club, Paris on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ Britney Speed is a techno and house artist based in Denmark, with 93 gigs on sou
 
 Matriark, Dj Algorythm, DJ Nah Care
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed/)*

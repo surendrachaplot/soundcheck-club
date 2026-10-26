@@ -1,6 +1,6 @@
 # Supernova
 
-Supernova is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Foundry, San Francisco/Oakland on Thu, 29 Oct 2026.
+Supernova is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Foundry, San Francisco/Oakland on Thu, 29 Oct 2026.
 
 Supernova is a house and tech house artist based in Italy, with 52 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Dubai and 18 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: The Foundry, San Francisco/Oakland on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ Supernova is a house and tech house artist based in Italy, with 52 gigs on sound
 
 Falcons, JOAQU.N, Massi Rocket
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*

@@ -1,6 +1,6 @@
 # Blakaut
 
-Blakaut is a New Wave and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ilion Plus, Athens on Sat, 7 Nov 2026.
+Blakaut is a New Wave and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ilion Plus, Athens on Sat, 7 Nov 2026.
 
 Blakaut is a new wave and industrial artist, with 14 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Tyler Carry, Ai No Korida and Curses. Next up: Ilion Plus, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Blakaut is a new wave and industrial artist, with 14 gigs on soundcheck across A
 
 Tyler Carry, Ai No Korida, Curses
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blakaut/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blakaut/)*

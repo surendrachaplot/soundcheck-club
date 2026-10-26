@@ -1,6 +1,6 @@
 # Cioz
 
-Cioz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at QUIVR, Brisbane on Sun, 8 Nov 2026.
+Cioz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at QUIVR, Brisbane on Sun, 8 Nov 2026.
 
 Cioz is a house and techno artist based in Italy, with 61 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 28 more. Often billed alongside Oliver Koletzki, Kotoe and Madmotormiquel. Next up: QUIVR, Brisbane on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Cioz is a house and techno artist based in Italy, with 61 gigs on soundcheck acr
 
 Oliver Koletzki, Kotoe, Madmotormiquel
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cioz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cioz/)*

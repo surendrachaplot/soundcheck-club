@@ -1,6 +1,6 @@
 # ØSHUN
 
-ØSHUN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Under Bron, Stockholm on Fri, 20 Nov 2026.
+ØSHUN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Under Bron, Stockholm on Fri, 20 Nov 2026.
 
 ØSHUN is a techno and house artist based in France, with 6 gigs on soundcheck across Berlin and Stockholm. Often billed alongside Andemon, Harami and Alexi Delano. Next up: Under Bron, Stockholm on Fri 20 Nov.
 
@@ -22,4 +22,4 @@
 
 Andemon, Harami, Alexi Delano
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oshun/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oshun/)*

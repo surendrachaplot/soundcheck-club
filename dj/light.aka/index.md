@@ -1,6 +1,6 @@
 # Light.aka
 
-Light.aka is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
+Light.aka is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
 
 Light.aka is a drum & bass and house artist based in Japan, with 22 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DADO, KEiTA and omeme_gangimari. Next up: HVEN, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Light.aka is a drum & bass and house artist based in Japan, with 22 gigs on soun
 
 DADO, KEiTA, omeme_gangimari
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/light.aka/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/light.aka/)*

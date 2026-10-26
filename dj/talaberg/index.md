@@ -1,6 +1,6 @@
 # Tala Berg
 
-Tala Berg is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Tala Berg is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 Tala Berg is a techno and downtempo artist based in Germany, with 7 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich. Often billed alongside Wanda Wild, AGILY and ANASTASÍA. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Tala Berg is a techno and downtempo artist based in Germany, with 7 gigs on soun
 
 Wanda Wild, AGILY, ANASTASÍA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*

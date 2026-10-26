@@ -1,6 +1,6 @@
 # Komet99
 
-Komet99 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Trekanten, Oslo on Sun, 15 Nov 2026.
+Komet99 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Trekanten, Oslo on Sun, 15 Nov 2026.
 
 Komet99 is a trance and techno artist based in Norway, with 15 gigs on soundcheck across Oslo. Often billed alongside Naboklage, Guild Navigator and Skodde. Next up: Trekanten, Oslo on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Komet99 is a trance and techno artist based in Norway, with 15 gigs on soundchec
 
 Naboklage, Guild Navigator, Skodde
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/komet99/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/komet99/)*

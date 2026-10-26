@@ -1,17 +1,17 @@
 # Ijver
 
-Ijver is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Lost Miracle ADE" on Sun, 25 Oct 2026.
+Ijver is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Lost miracle" on Sun, 1 Nov 2026.
 
-Ijver is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Roy Rosenfeld and Sebastien Leger. See dates, start times and who's playing. Scheepsbouwkade 72, 1033 WM Amsterdam.
+Ijver is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Scheepsbouwkade 72, 1033 WM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Lost Miracle ADE | Roy Rosenfeld, Sebastien Leger |
+| Sun, 1 Nov 2026 | Lost miracle |  |
 
 ## Address
 
 Scheepsbouwkade 72, 1033 WM Amsterdam, Amsterdam
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijver/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijver/)*

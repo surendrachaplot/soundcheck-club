@@ -1,6 +1,6 @@
 # Jin Synth
 
-Jin Synth is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Astoria, Turin on Fri, 6 Nov 2026.
+Jin Synth is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Astoria, Turin on Fri, 6 Nov 2026.
 
 Jin Synth is a techno and experimental artist, with 63 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Luigi Tozzi, Efdemin and Quelza. Next up: Astoria, Turin on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Jin Synth is a techno and experimental artist, with 63 gigs on soundcheck across
 
 Luigi Tozzi, Efdemin, Quelza
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*

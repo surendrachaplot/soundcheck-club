@@ -1,6 +1,6 @@
 # Jenn Gunn (2)
 
-Jenn Gunn (2) is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at SWG3, Glasgow on Sat, 28 Nov 2026.
+Jenn Gunn (2) is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at SWG3, Glasgow on Sat, 28 Nov 2026.
 
 Jenn Gunn is a garage and house artist based in United Kingdom, with 56 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al. Next up: SWG3, Glasgow on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Jenn Gunn is a garage and house artist based in United Kingdom, with 56 gigs on 
 
 C Frame, Gourlay, Et Al (1)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngunn-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngunn-2/)*

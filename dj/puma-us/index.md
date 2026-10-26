@@ -1,6 +1,6 @@
 # Puma (US)
 
-Puma (US) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Puma (US) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Puma (US) is a house and deep house artist based in Venezuela, with 54 gigs on soundcheck across Miami and New York City. Often billed alongside Terence Tabeau, Inbal and Israel Sunshine. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Puma (US) is a house and deep house artist based in Venezuela, with 54 gigs on s
 
 Terence Tabeau, Inbal, Israel Sunshine
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puma-us/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puma-us/)*

@@ -1,6 +1,6 @@
 # Dante Scaglione
 
-Dante Scaglione is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Elsewhere, New York City on Fri, 13 Nov 2026.
+Dante Scaglione is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Elsewhere, New York City on Fri, 13 Nov 2026.
 
 Dante Scaglione is an italo disco and house artist, with 49 gigs on soundcheck across Berlin, Dublin, New York City and Osaka and 1 more. Often billed alongside Frantz, Danny Ramos and IBM Doily. Next up: Elsewhere, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dante Scaglione is an italo disco and house artist, with 49 gigs on soundcheck a
 
 Frantz, Danny Ramos, IBM Doily
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dantescaglione/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dantescaglione/)*

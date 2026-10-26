@@ -1,6 +1,6 @@
 # E3P
 
-E3P is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
+E3P is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
 E3P is an experimental and house artist based in Australia, with 22 gigs on soundcheck across Beijing, Brisbane, Canberra and Melbourne and 3 more. Often billed alongside ealing, Paramat and Paramat. Next up: TBA, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ E3P is an experimental and house artist based in Australia, with 22 gigs on soun
 
 ealing, Paramat, Paramat (2)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e3p/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e3p/)*

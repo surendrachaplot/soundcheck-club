@@ -1,6 +1,6 @@
 # ChaseWest
 
-ChaseWest is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+ChaseWest is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 ChaseWest is a house and tech house artist based in United States of America, with 58 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 17 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ ChaseWest is a house and tech house artist based in United States of America, wi
 
 Beltran, KinAhau, Max Dean
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*

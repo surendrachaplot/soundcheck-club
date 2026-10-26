@@ -1,6 +1,6 @@
 # Underworld
 
-Underworld is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Brookside at the Rose Bowl, Los Angeles on Sat, 7 Nov 2026.
+Underworld is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Brookside at the Rose Bowl, Los Angeles on Sat, 7 Nov 2026.
 
 Underworld is a techno and house artist based in United Kingdom, with 39 gigs on soundcheck across Austin, Barcelona, Belfast and Berlin and 19 more. Often billed alongside KI/KI, X CLUB. and DJ Holographic. Next up: Brookside at the Rose Bowl, Los Angeles on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Underworld is a techno and house artist based in United Kingdom, with 39 gigs on
 
 KI/KI, X CLUB., DJ Holographic
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*

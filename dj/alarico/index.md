@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
+Alarico is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
 Alarico is a techno and house artist based in Italy, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 89 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: RADION, Amsterdam on Sun 25 Oct.
 
@@ -23,6 +23,7 @@ Alarico is a techno and house artist based in Italy, with 318 gigs on soundcheck
 
 ## Recently played
 
+- RADION, Amsterdam · Sun, 25 Oct 2026
 - Bajes Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Flint Space, Amsterdam · Thu, 22 Oct 2026
 - Studio Club Malaga, Malaga · Fri, 16 Oct 2026
@@ -30,10 +31,9 @@ Alarico is a techno and house artist based in Italy, with 318 gigs on soundcheck
 - Sub Club, Glasgow · Fri, 9 Oct 2026
 - Anfiteatro de Pedra, Lisbon · Sat, 26 Sept 2026
 - Den Anden Side, Copenhagen · Fri, 25 Sept 2026
-- Amnesia Ibiza, Ibiza · Tue, 22 Sept 2026
 
 ## Shares bills with
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Experimontag: Kreisfrequenz ((ω)) Felix-Florian Tödtloff + Crystallization" on Mon, 26 Oct 2026.
+Madame Claude is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Experimontag: Kreisfrequenz ((ω)) Felix-Florian Tödtloff + Crystallization" on Mon, 26 Oct 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including MOONBEAN. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, 
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

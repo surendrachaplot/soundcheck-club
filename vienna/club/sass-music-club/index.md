@@ -1,14 +1,13 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Morgengymnastik with Anni Herzer & Joules" on Sun, 25 Oct 2026.
+SASS Music Club is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Zyklop Audio pres.: Eye Konnex EP Release Night" on Thu, 29 Oct 2026.
 
-SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including Anni Herzer, Apua, Bambi-S and Crazy Sonic and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
+SASS Music Club is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including Apua, Bambi-S, Crazy Sonic and Jorkes and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Morgengymnastik with Anni Herzer & Joules | Anni Herzer, Joules (AT) |
 | Thu, 29 Oct 2026 | Zyklop Audio pres.: Eye Konnex EP Release Night | Kormos, Peter Pixzel, Sam Gittis |
 | Fri, 30 Oct 2026 | 20 Years of Massimiliano Pagliara | Jorkes, Massimiliano Pagliara |
 | Sat, 31 Oct 2026 | Connecting People | Leon Diamant, Maximilian Foit, Mehmet Acuma |
@@ -20,4 +19,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming gigs
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

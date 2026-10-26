@@ -1,6 +1,6 @@
 # Krumelur
 
-Krumelur is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at [119], Berlin on Fri, 30 Oct 2026.
+Krumelur is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at [119], Berlin on Fri, 30 Oct 2026.
 
 Krumelur is a techno and psytrance artist based in Germany, with 17 gigs on soundcheck across Berlin, Budapest, Geneva and Lisbon. Often billed alongside Ash Roy, HypoGeo and Breger. Next up: [119], Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Krumelur is a techno and psytrance artist based in Germany, with 17 gigs on soun
 
 Ash Roy, HypoGeo, Breger
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krumelur/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krumelur/)*

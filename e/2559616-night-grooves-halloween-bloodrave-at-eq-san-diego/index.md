@@ -1,6 +1,6 @@
 # NIGHT GROOVES: HALLOWEEN BLOODRAVE at EQ San Diego
 
-NIGHT GROOVES: HALLOWEEN BLOODRAVE at EQ San Diego on Sat 31 Oct, San Diego. 3 artists: ARP8, Codak and Kasama. Tech House. See the line-up on soundcheck.
+NIGHT GROOVES: HALLOWEEN BLOODRAVE at EQ San Diego on Sat 31 Oct, San Diego. 3 artists: ARP8, Codak and Kasama. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

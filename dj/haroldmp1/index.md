@@ -1,6 +1,6 @@
 # Harold mp1
 
-Harold mp1 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
+Harold mp1 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
 
 Harold mp1 is an electro and house artist, with 22 gigs on soundcheck across Brussels and Ghent. Often billed alongside Ava Eva, Ina Kaysen and Leef. Next up: UMI, Brussels on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Harold mp1 is an electro and house artist, with 22 gigs on soundcheck across Bru
 
 Ava Eva, Ina Kaysen, Leef
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haroldmp1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haroldmp1/)*

@@ -1,14 +1,13 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 13 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Moving Heads: Trulz & Robin" on Sun, 25 Oct 2026.
+Jaeger is a music venue in Oslo with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Oslo Word: Susobrino + Technocute" on Wed, 28 Oct 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 13 upcoming gigs, with line-ups including Anthea, Dam Swindle, Fabio and FJAAK and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 12 upcoming gigs, with line-ups including Anthea, Dam Swindle, Fabio and FJAAK and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Moving Heads: Trulz & Robin |  |
 | Wed, 28 Oct 2026 | Oslo Word: Susobrino + Technocute | Susobrino, Technocute |
 | Thu, 29 Oct 2026 | Oslo World x Helt Texas: Anthea + Ole HK | Anthea |
 | Fri, 30 Oct 2026 | Oslo World x Frædag: Quantic + G-HA & Olanskii + Platina Rosa | G-HA, Olanskii, Quantic |
@@ -18,9 +17,10 @@ Jaeger is a music venue in Oslo listed on soundcheck. 13 upcoming gigs, with lin
 | Fri, 20 Nov 2026 | Frædag: Fabio & Grooverider (Acid Set) + G-HA & Olanskii + Øyvind Morken | Fabio, G-HA, Grooverider, Olanskii, Øyvind Morken |
 | Fri, 27 Nov 2026 | Ritter Butzke in Oslo | G-HA, Olanskii, Prismode, Solvane, Teenage Mutants |
 | Fri, 27 Nov 2026 | Frædag x Ritter Butzke: Teenage Mutants | G-HA, Olanskii, Prismode, Solvane, Teenage Mutants |
+| Fri, 4 Dec 2026 | Frædag x Hubbas Klubb: Leon Vynehall | G-HA, Hubbabubbaklubb, Leon Vynehall, Olanskii |
 
 ## Address
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

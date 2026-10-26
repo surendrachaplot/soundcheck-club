@@ -1,6 +1,6 @@
 # Mira
 
-Mira is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 30 Oct 2026.
+Mira is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 30 Oct 2026.
 
 Mira is a house and techno artist based in Germany, with 209 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Do Not Sit On The Furniture, Miami on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Mira is a house and techno artist based in Germany, with 209 gigs on soundcheck 
 
 Chris Schwarzwälder, Britta Arnold, Caleesi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*

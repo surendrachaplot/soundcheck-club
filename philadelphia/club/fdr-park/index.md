@@ -1,13 +1,13 @@
 # FDR Park
 
-FDR Park is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "+1 833 246 4622 || Delta Airlines Seat Selection – Seat Booking & Reservation Guide" on Sat, 24 Oct 2026.
+FDR Park is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "The Menendez Brothers & Friends: Winter Series" on Sat, 31 Oct 2026.
 
-FDR Park is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+FDR Park is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including The Menendez Brothers. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | +1 833 246 4622 // Delta Airlines Seat Selection – Seat Booking & Reservation Guide |  |
+| Sat, 31 Oct 2026 | The Menendez Brothers & Friends: Winter Series | The Menendez Brothers |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/fdr-park/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/fdr-park/)*

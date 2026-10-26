@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Techno Halloween Bronx: Hertz, Pierre J, Urskog, Gabbo, Tys'Tyle,Holtter, AYDA, PeterGun,Matte " on Sat, 31 Oct 2026.
+Eventhuset is a music venue in Stockholm with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Techno Halloween Bronx: Hertz, Pierre J, Urskog, Gabbo, Tys'Tyle,Holtter, AYDA, PeterGun,Matte " on Sat, 31 Oct 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, with line-ups including ARANEA, Billie Jo, BMI (GE) and CC Luna and 2 more. See dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -21,4 +21,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, 
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

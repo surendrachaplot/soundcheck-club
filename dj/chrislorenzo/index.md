@@ -1,6 +1,6 @@
 # Chris Lorenzo
 
-Chris Lorenzo is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
+Chris Lorenzo is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
 
 Chris Lorenzo is a house and tech house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Austin, Boston and Calgary and 20 more. Often billed alongside Kaskade, FISHER and Green Velvet. Next up: New Orleans, LA, Mardi Gras World, New Orleans on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Chris Lorenzo is a house and tech house artist based in United Kingdom, with 60 
 
 Kaskade, FISHER, Green Velvet
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*

@@ -1,6 +1,6 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at glimmer, Hamburg on Fri, 30 Oct 2026.
+Zombies In Miami is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at glimmer, Hamburg on Fri, 30 Oct 2026.
 
 Zombies In Miami is a house and techno artist based in Mexico, with 185 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 51 more. Often billed alongside PAU PAU, DJ Nobu and Mystery Affair. Next up: glimmer, Hamburg on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Zombies In Miami is a house and techno artist based in Mexico, with 185 gigs on 
 
 PAU PAU, DJ Nobu, Mystery Affair
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*

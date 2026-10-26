@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "HOLLER AT ME with Noel Holler & AVE" on Sat, 7 Nov 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "HOLLER AT ME with Noel Holler & AVE" on Sat, 7 Nov 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 11 upcoming gigs, with line-ups including Ave (DE), BOVSKI, Cherries040 and Coco and 2 more. See dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 11 upcomin
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

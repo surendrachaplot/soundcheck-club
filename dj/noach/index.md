@@ -1,18 +1,18 @@
 # Noach
 
-Noach is a House and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Noach is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lofi, Amsterdam on Sat, 31 Oct 2026.
 
-Noach is a house and ghetto tech artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leeds and 3 more. Often billed alongside Reiss, Job de Jong and Morgan. Next up: Shelter Amsterdam, Amsterdam on Sun 25 Oct.
+Noach is a house and ghetto tech artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leeds and 3 more. Often billed alongside Reiss, Job de Jong and Morgan. Next up: Lofi, Amsterdam on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam · Sun, 25 Oct 2026
 - BRET, Amsterdam · Sun, 20 Sept 2026
 - Paradiso, Amsterdam · Sat, 13 Jun 2026
 - Lofi, Amsterdam · Sun, 26 Apr 2026
@@ -20,10 +20,9 @@ Noach is a house and ghetto tech artist based in Netherlands, with 54 gigs on so
 - TILLATEC, Amsterdam · Sat, 28 Feb 2026
 - Het Sieraad, Amsterdam · Fri, 16 Jan 2026
 - WestWeelde, Amsterdam · Wed, 31 Dec 2025
-- The Cause, London · Sun, 30 Nov 2025
 
 ## Shares bills with
 
 Reiss, Job de Jong, Morgan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noach/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noach/)*

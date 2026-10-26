@@ -1,6 +1,6 @@
 # Madame Charlie
 
-Madame Charlie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at AMT, Berlin on Sat, 5 Dec 2026.
+Madame Charlie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at AMT, Berlin on Sat, 5 Dec 2026.
 
 Madame Charlie is a techno and house artist based in Germany, with 11 gigs on soundcheck across Belgrade, Berlin and Paris. Often billed alongside EZA (DE), BAHAA AL DEEN and DJ Spaßgetränk. Next up: AMT, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Madame Charlie is a techno and house artist based in Germany, with 11 gigs on so
 
 EZA (DE), BAHAA AL DEEN, DJ Spaßgetränk
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madamecharlie/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madamecharlie/)*

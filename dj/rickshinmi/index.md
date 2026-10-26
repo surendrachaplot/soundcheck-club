@@ -1,14 +1,14 @@
 # Rickshinmi
 
-Rickshinmi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
+Rickshinmi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
-Rickshinmi is a techno and house artist based in Japan, with 64 gigs on soundcheck across Kanto, Seoul and Tokyo. Often billed alongside EVE, EMILIO and Kojiro. Next up: Kinone Pension, Kanto on Sat 31 Oct.
+Rickshinmi is a techno and house artist based in Japan, with 64 gigs on soundcheck across Kanto, Seoul and Tokyo. Often billed alongside EVE, EMILIO and Kojiro. Next up: TBA - Kinone Pension, Kanto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Kinone Pension | Kanto |
+| Sat, 31 Oct 2026 | TBA - Kinone Pension | Kanto |
 | Sat, 31 Oct 2026 | Kinone Pension | Kanto |
 
 ## Recently played
@@ -26,4 +26,4 @@ Rickshinmi is a techno and house artist based in Japan, with 64 gigs on soundche
 
 EVE (1), EMILIO (3), Kojiro
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshinmi/)*

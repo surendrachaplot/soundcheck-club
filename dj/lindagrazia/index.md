@@ -1,6 +1,6 @@
 # Linda Grazia
 
-Linda Grazia is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Apr 2027.
+Linda Grazia is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Apr 2027.
 
 Linda Grazia is a techno and psytrance artist based in Switzerland, with 7 gigs on soundcheck across Berlin, Dresden and Zurich. Often billed alongside Basstronauten, Daniel Boon and LORD of Psychedelics. Next up: Stromwerk Dresden, Dresden on Sat 24 Apr.
 
@@ -23,4 +23,4 @@ Linda Grazia is a techno and psytrance artist based in Switzerland, with 7 gigs 
 
 Basstronauten, Daniel Boon, LORD of Psychedelics (2)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lindagrazia/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lindagrazia/)*

@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 20 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Daura (Stoked Lint, Montreal) [All Night Long Vinyl Set]" on Fri, 30 Oct 2026.
+宀 Club is a music venue in Hong Kong with 20 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Daura (Stoked Lint, Montreal) [All Night Long Vinyl Set]" on Fri, 30 Oct 2026.
 
 宀 Club is a music venue in Hong Kong listed on soundcheck. 20 upcoming gigs, with line-ups including ADRIANNA.C, Anyss, Bouffant Bouffant and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

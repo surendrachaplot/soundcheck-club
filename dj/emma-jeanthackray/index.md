@@ -1,6 +1,6 @@
 # Emma-Jean Thackray
 
-Emma-Jean Thackray is a Jazz and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Truman Brewery Multiple Venues, London on Fri, 23 Apr 2027.
+Emma-Jean Thackray is a Jazz and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Truman Brewery Multiple Venues, London on Fri, 23 Apr 2027.
 
 Emma-Jean Thackray is a jazz and house artist based in United Kingdom, with 20 gigs on soundcheck across Antwerp, Birmingham, Cologne and Leeds and 6 more. Often billed alongside Jamz Supernova, Arp Frique and Carl Craig. Next up: Truman Brewery Multiple Venues, London on Fri 23 Apr.
 
@@ -26,4 +26,4 @@ Emma-Jean Thackray is a jazz and house artist based in United Kingdom, with 20 g
 
 Jamz Supernova, Arp Frique, Carl Craig
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-jeanthackray/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-jeanthackray/)*

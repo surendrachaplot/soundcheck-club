@@ -1,6 +1,6 @@
 # Nunya Vol. 3 at Monarch
 
-Nunya Vol. 3 at Monarch on Fri 27 Nov, Berlin. 2 artists: Distal_ and La Fille. House. See the line-up on soundcheck.
+Nunya Vol. 3 at Monarch on Fri 27 Nov, Berlin. 3 artists: Bent, Distal_ and La Fille. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Nunya Vol. 3 at Monarch on Fri 27 Nov, Berlin. 2 artists: Distal_ and La Fille. 
 
 ## Line-up
 
+- Bent
 - Distal_
 - La Fille
 

@@ -1,6 +1,6 @@
 # Kakuzi
 
-Kakuzi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at K39, Frankfurt on Fri, 6 Nov 2026.
+Kakuzi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at K39, Frankfurt on Fri, 6 Nov 2026.
 
 Kakuzi is a techno and trance artist, with 12 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside NIKUSH, Otis Xo and 20_5_3_8_14_15. Next up: K39, Frankfurt on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kakuzi is a techno and trance artist, with 12 gigs on soundcheck across Berlin a
 
 NIKUSH, Otis Xo, 20_5_3_8_14_15
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kakuzi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kakuzi/)*

@@ -1,6 +1,6 @@
 # NAMIMI SENSEI
 
-NAMIMI SENSEI is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cu, London on Thu, 29 Oct 2026.
+NAMIMI SENSEI is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cu, London on Thu, 29 Oct 2026.
 
 NAMIMI SENSEI is a tech house and techno artist based in Japan, with 35 gigs on soundcheck across Bali, Berlin, Hamburg and London and 4 more. Often billed alongside ALEXANDER M, Red Pig Flower and Daya Pruna. Next up: Cu, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ NAMIMI SENSEI is a tech house and techno artist based in Japan, with 35 gigs on 
 
 ALEXANDER M, Red Pig Flower, Daya Pruna
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namimisensei/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namimisensei/)*

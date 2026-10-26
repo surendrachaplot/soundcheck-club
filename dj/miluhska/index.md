@@ -1,6 +1,6 @@
 # Miluhska
 
-Miluhska is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Miluhska is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Miluhska is a house and tech house artist based in United States of America, with 66 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 10 more. Often billed alongside Bedouin, Jamie Jones and Max Stern. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Miluhska is a house and tech house artist based in United States of America, wit
 
 Bedouin, Jamie Jones, Max Stern
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miluhska/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miluhska/)*

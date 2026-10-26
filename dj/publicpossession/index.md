@@ -1,6 +1,6 @@
 # Public Possession
 
-Public Possession is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Charlie, Munich on Sat, 28 Nov 2026.
+Public Possession is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Charlie, Munich on Sat, 28 Nov 2026.
 
 Public Possession is a house and electro artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Berlin, Munich and Paris. Often billed alongside DJ City, Sedef Adasï and Bell Towers. Next up: Charlie, Munich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Public Possession is a house and electro artist based in Germany, with 41 gigs o
 
 DJ City, Sedef Adasï, Bell Towers
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/publicpossession/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/publicpossession/)*

@@ -1,6 +1,6 @@
 # FROGR
 
-FROGR is a Trance and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Egg London, London on Sat, 16 Jan 2027.
+FROGR is a Trance and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Egg London, London on Sat, 16 Jan 2027.
 
 FROGR is a trance and minimal techno artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam and London. Often billed alongside C-systems, DJMrB and Sago. Next up: Egg London, London on Sat 16 Jan.
 
@@ -21,4 +21,4 @@ FROGR is a trance and minimal techno artist based in Netherlands, with 5 gigs on
 
 C-systems, DJMrB, Sago
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frogr/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frogr/)*

@@ -1,6 +1,6 @@
 # LEO SELECTS
 
-LEO SELECTS is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
+LEO SELECTS is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
 
 LEO SELECTS is a jungle and drum & bass artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Agility, Bryn Brax and OS:MAN. Next up: Two Tribes CAMPFIRE, London on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ LEO SELECTS is a jungle and drum & bass artist based in United Kingdom, with 5 g
 
 Agility, Bryn Brax, OS:MAN
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leoselects/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leoselects/)*

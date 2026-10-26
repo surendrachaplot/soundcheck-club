@@ -1,6 +1,6 @@
 # Fantastic Man
 
-Fantastic Man is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Outernet Live, London on Sat, 31 Oct 2026.
+Fantastic Man is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Outernet Live, London on Sat, 31 Oct 2026.
 
 Fantastic Man is a house and techno artist, with 147 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 50 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: Outernet Live, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Fantastic Man is a house and techno artist, with 147 gigs on soundcheck across A
 
 Tornado Wallace, Alex Kassian, Andy Hart
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*

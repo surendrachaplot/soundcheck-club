@@ -1,6 +1,6 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "REVERB: HALLOWEEN featuring DEA MAGNA" on Thu, 29 Oct 2026.
+EQ San Diego is a music venue in San Diego with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "REVERB: HALLOWEEN featuring DEA MAGNA" on Thu, 29 Oct 2026.
 
 EQ San Diego is a music venue in San Diego listed on soundcheck. 9 upcoming gigs, with line-ups including A.Knives, ARP8, Baby Jane and Christian Löffler and 2 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
@@ -22,4 +22,4 @@ EQ San Diego is a music venue in San Diego listed on soundcheck. 9 upcoming gigs
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

@@ -1,14 +1,13 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 20 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "ZHU (Night 2)" on Sun, 25 Oct 2026.
+The Concourse Project is a music venue in Austin with 19 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Chris Stassy (Extended Set)" on Thu, 29 Oct 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 20 upcoming gigs, with line-ups including 1tbsp, Above & Beyond, Adam Sellouk and Avision and 2 more. See dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 19 upcoming gigs, with line-ups including 1tbsp, Above & Beyond, Adam Sellouk and Avision and 2 more. See dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | ZHU (Night 2) | Parallelle, ZHU |
 | Thu, 29 Oct 2026 | Chris Stassy (Extended Set) | CHRIS STASSY |
 | Fri, 30 Oct 2026 | Dombresky (Extended Set) | Dombresky |
 | Sat, 31 Oct 2026 | Four Tet (Extended Set) | Four Tet |
@@ -18,9 +17,10 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 20 upcomi
 | Sat, 21 Nov 2026 | Eric Prydz | Cristoph, Eric Prydz |
 | Fri, 27 Nov 2026 | Hot Since 82 + Avision | Avision, Hot Since 82 |
 | Sat, 28 Nov 2026 | Green Velvet | Green Velvet |
+| Thu, 3 Dec 2026 | Franky Rizardo presents FLOW (Extended Set) - Austin | Franky Rizardo |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

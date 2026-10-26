@@ -1,6 +1,6 @@
 # OCTAGON MONDAY at SEL OCTAGON TOKYO
 
-OCTAGON MONDAY at SEL OCTAGON TOKYO on Mon 26 Oct, Tokyo. 5 artists: kazuma, Lemi, Miki and STK (BR) and 1 more. Electro and Club. See the line-up on soundcheck.
+OCTAGON MONDAY at SEL OCTAGON TOKYO on Mon 26 Oct, Tokyo. 4 artists: kazuma, Lemi, STK (BR) and WATARU. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ OCTAGON MONDAY at SEL OCTAGON TOKYO on Mon 26 Oct, Tokyo. 5 artists: kazuma, Lem
 
 - kazuma
 - Lemi
-- Miki
 - STK (BR)
 - WATARU
 

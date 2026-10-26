@@ -1,6 +1,6 @@
 # Bruno Pronsato
 
-Bruno Pronsato is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sonnenraum, Berlin on Sat, 14 Nov 2026.
+Bruno Pronsato is a Minimal Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sonnenraum, Berlin on Sat, 14 Nov 2026.
 
 Bruno Pronsato is a minimal techno and minimal artist based in United States of America, with 11 gigs on soundcheck across Berlin, The Hague and Valencia. Often billed alongside Sammy Dee, Thomas Melchior and Rhadoo. Next up: Sonnenraum, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bruno Pronsato is a minimal techno and minimal artist based in United States of 
 
 Sammy Dee, Thomas Melchior, Rhadoo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunopronsato/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunopronsato/)*

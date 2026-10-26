@@ -1,6 +1,6 @@
 # Łomża
 
-Łomża is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Warsaw on Sat, 12 Dec 2026.
+Łomża is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Warsaw on Sat, 12 Dec 2026.
 
 Łomża is a techno and electro artist based in Poland, with 5 gigs on soundcheck across Warsaw. Often billed alongside Dynamic Goose, Pancha and Dedenia. Next up: TBA, Warsaw on Sat 12 Dec.
 
@@ -21,4 +21,4 @@
 
 Dynamic Goose, Pancha, Dedenia
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lomza/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lomza/)*

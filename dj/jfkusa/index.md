@@ -1,6 +1,6 @@
 # JFK (USA)
 
-JFK (USA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 7 Nov 2026.
+JFK (USA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 7 Nov 2026.
 
 JFK (USA) is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Amsterdam, Detroit and Philadelphia. Often billed alongside De León, ANDi MANDi and DJ Kalin. Next up: Warehouse on Watts, Philadelphia on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ JFK (USA) is a techno and house artist based in United States of America, with 2
 
 De León, ANDi MANDi, DJ Kalin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jfkusa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jfkusa/)*

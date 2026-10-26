@@ -1,6 +1,6 @@
 # Nicoshi
 
-Nicoshi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Dec 2026.
+Nicoshi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Dec 2026.
 
 Nicoshi is a house and techno artist based in Argentina, with 26 gigs on soundcheck across Los Angeles, Mexico City, Monterrey and San Diego and 2 more. Often billed alongside Capes, COLOURS 87 and Jason Peters. Next up: TBA - Downtown Los Angeles, Los Angeles on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nicoshi is a house and techno artist based in Argentina, with 26 gigs on soundch
 
 Capes, COLOURS 87, Jason Peters
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoshi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoshi/)*

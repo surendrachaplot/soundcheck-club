@@ -1,6 +1,6 @@
 # Fabio Broox & Violahaiti
 
-Fabio Broox & Violahaiti is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Sat, 31 Oct 2026.
+Fabio Broox & Violahaiti is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Sat, 31 Oct 2026.
 
 Fabio Broox & Violahaiti are a tech house and minimal duo, with 6 gigs on soundcheck across Cologne, Düsseldorf and Ibiza. Often billed alongside Matteo (IT), Adrian Hargadon and Arado. Next up: Sol y Luna Lounge & Club, Düsseldorf on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Fabio Broox & Violahaiti are a tech house and minimal duo, with 6 gigs on soundc
 
 Matteo (IT), Adrian Hargadon, Arado
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiobrooxviolahaiti/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiobrooxviolahaiti/)*

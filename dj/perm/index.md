@@ -1,6 +1,6 @@
 # Perm
 
-Perm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 14 Nov 2026.
+Perm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 14 Nov 2026.
 
 Perm is a house and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, Hannover and Leipzig. Often billed alongside HAL, 50PHIE and Neele. Next up: Indiego Glocksee, Hannover on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Perm is a house and techno artist based in Germany, with 7 gigs on soundcheck ac
 
 HAL, 50PHIE, Neele
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perm/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perm/)*

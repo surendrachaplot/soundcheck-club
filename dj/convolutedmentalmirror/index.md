@@ -1,6 +1,6 @@
 # Convoluted Mental Mirror
 
-Convoluted Mental Mirror is a Dub and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+Convoluted Mental Mirror is a Dub and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
 
 Convoluted Mental Mirror is a dub and dubstep artist based in Spain, with 6 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and Madrid. Often billed alongside A Strange Wedding, Andrae Durden and Emilia Grima. Next up: Razzmatazz, Barcelona on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Convoluted Mental Mirror is a dub and dubstep artist based in Spain, with 6 gigs
 
 A Strange Wedding, Andrae Durden, Emilia Grima
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/convolutedmentalmirror/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/convolutedmentalmirror/)*

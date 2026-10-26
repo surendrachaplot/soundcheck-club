@@ -1,6 +1,6 @@
 # Alessio da Silva
 
-Alessio da Silva is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Frieda's Büxe, Zurich on Sun, 1 Nov 2026.
+Alessio da Silva is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Frieda's Büxe, Zurich on Sun, 1 Nov 2026.
 
 Alessio da Silva is a techno and tech house artist based in Switzerland, with 29 gigs on soundcheck across Barcelona and Zurich. Often billed alongside And Hazel, ALBERT2BOLLO and ARWIN AZIZ. Next up: Frieda's Büxe, Zurich on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Alessio da Silva is a techno and tech house artist based in Switzerland, with 29
 
 And Hazel, ALBERT2BOLLO, ARWIN AZIZ
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiodasilva/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiodasilva/)*

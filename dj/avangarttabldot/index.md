@@ -1,6 +1,6 @@
 # Avangart Tabldot
 
-Avangart Tabldot is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Three House Hotel, Portugal on Sat, 31 Oct 2026.
+Avangart Tabldot is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Three House Hotel, Portugal on Sat, 31 Oct 2026.
 
 Avangart Tabldot is a house and afro house artist based in Turkey, with 102 gigs on soundcheck across Amsterdam, Athens, Azerbaijan and Barcelona and 29 more. Often billed alongside Mahmut Orhan, Echonomist and Henri Bergmann. Next up: Three House Hotel, Portugal on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Avangart Tabldot is a house and afro house artist based in Turkey, with 102 gigs
 
 Mahmut Orhan, Echonomist, Henri Bergmann
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avangarttabldot/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avangarttabldot/)*

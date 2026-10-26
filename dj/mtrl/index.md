@@ -1,6 +1,6 @@
 # MTRL
 
-MTRL is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Upsidedown, Osaka on Sat, 31 Oct 2026.
+MTRL is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Upsidedown, Osaka on Sat, 31 Oct 2026.
 
 MTRL is a techno artist, with 5 gigs on soundcheck across Barcelona, Berlin, Osaka and Zurich. Often billed alongside Polygonia, Dycide and FTP Doctor. Next up: Upsidedown, Osaka on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ MTRL is a techno artist, with 5 gigs on soundcheck across Barcelona, Berlin, Osa
 
 Polygonia, Dycide, FTP Doctor
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mtrl/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mtrl/)*

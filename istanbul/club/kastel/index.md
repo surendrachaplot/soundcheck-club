@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Beatgate X Kastel HALLOWEEN" on Wed, 28 Oct 2026.
+Kastel is a music venue in Istanbul with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Beatgate X Kastel HALLOWEEN" on Wed, 28 Oct 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, with line-ups including Adana Twins and Oliver Huntemann. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -18,4 +18,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

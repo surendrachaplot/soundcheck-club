@@ -1,6 +1,6 @@
 # MËRO
 
-MËRO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 25 Nov 2026.
+MËRO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 25 Nov 2026.
 
 MËRO is a techno and trance artist based in Ireland, with 28 gigs on soundcheck across Belfast, Berlin, Dublin and Dundee and 9 more. Often billed alongside The Jakob Sister, Sabu! and HOTBOI2300. Next up: Lokschuppen Berlin, Berlin on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ MËRO is a techno and trance artist based in Ireland, with 28 gigs on soundcheck
 
 The Jakob Sister, Sabu!, HOTBOI2300
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mero/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mero/)*

@@ -1,14 +1,15 @@
 # Koichi Shimizu
 
-Koichi Shimizu is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Koichi Shimizu is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
-Koichi Shimizu is an experimental and techno artist based in Thailand, with 20 gigs on soundcheck across Bangkok, Hong Kong, Naples and Seoul and 1 more. Often billed alongside C-KAY, Numb (JP) and In Ray. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
+Koichi Shimizu is an experimental and techno artist based in Thailand, with 21 gigs on soundcheck across Bangkok, Hong Kong, Naples and Seoul and 1 more. Often billed alongside Numb (JP), C-KAY and In Ray. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |
+| Sat, 21 Nov 2026 | Kagurane | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Koichi Shimizu is an experimental and techno artist based in Thailand, with 20 g
 
 ## Shares bills with
 
-C-KAY, Numb (JP), In Ray
+Numb (JP), C-KAY, In Ray
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koichishimizu/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koichishimizu/)*

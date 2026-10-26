@@ -1,6 +1,6 @@
 # Bobby.
 
-Bobby. is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
+Bobby. is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
 
 Bobby. is a techno and house artist based in United Kingdom, with 149 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 33 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: TILLATEC, Amsterdam on Mon 26 Oct.
 
@@ -30,4 +30,4 @@ Bobby. is a techno and house artist based in United Kingdom, with 149 gigs on so
 
 Craig Richards, Mariiin, Harry McCanna
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*

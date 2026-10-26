@@ -1,6 +1,6 @@
 # Banana Hill
 
-Banana Hill is a Deep House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
+Banana Hill is a Deep House and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
 
 Banana Hill is a deep house and balearic artist based in United Kingdom, with 7 gigs on soundcheck across London and Manchester. Often billed alongside Cervo, Contours and Earthly Measures. Next up: Honey Street Studio, Manchester on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Banana Hill is a deep house and balearic artist based in United Kingdom, with 7 
 
 Cervo, Contours, Earthly Measures
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bananahill/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bananahill/)*

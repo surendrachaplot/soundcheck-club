@@ -1,6 +1,6 @@
 # Cosmic Cherry
 
-Cosmic Cherry is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
+Cosmic Cherry is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
 
 Cosmic Cherry is a house and techno artist based in Germany, with 46 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Paloma, Berlin on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Cosmic Cherry is a house and techno artist based in Germany, with 46 gigs on sou
 
 Eva Crystaltips, Luca Olivotto, Nephews
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccherry/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccherry/)*

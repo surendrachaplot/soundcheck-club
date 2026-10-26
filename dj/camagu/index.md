@@ -1,6 +1,6 @@
 # CA MA GU
 
-CA MA GU is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Cabo Beach Club, Cape Town on Wed, 30 Dec 2026.
+CA MA GU is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cabo Beach Club, Cape Town on Wed, 30 Dec 2026.
 
 CA MA GU is an afro house and amapiano artist based in South Africa, with 6 gigs on soundcheck across Cape Town. Often billed alongside Not A She, Zakes Bantwini and Ante Perry. Next up: Cabo Beach Club, Cape Town on Wed 30 Dec.
 
@@ -22,4 +22,4 @@ CA MA GU is an afro house and amapiano artist based in South Africa, with 6 gigs
 
 Not A She, Zakes Bantwini, Ante Perry
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camagu/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camagu/)*

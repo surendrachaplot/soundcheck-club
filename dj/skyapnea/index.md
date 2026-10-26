@@ -1,6 +1,6 @@
 # SKYAPNEA
 
-SKYAPNEA is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Vespers Club, London on Thu, 12 Nov 2026.
+SKYAPNEA is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Vespers Club, London on Thu, 12 Nov 2026.
 
 SKYAPNEA is a dub and experimental artist based in Italy, with 5 gigs on soundcheck across London and Rome. Often billed alongside Cinna Peyghamy, Cosimo Damiano and Lagos. Next up: Vespers Club, London on Thu 12 Nov.
 
@@ -21,4 +21,4 @@ SKYAPNEA is a dub and experimental artist based in Italy, with 5 gigs on soundch
 
 Cinna Peyghamy, Cosimo Damiano, Lagos
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skyapnea/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skyapnea/)*

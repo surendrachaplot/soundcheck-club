@@ -1,6 +1,6 @@
 # Guille Gironde (2)
 
-Guille Gironde (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at City Hall, Barcelona on Tue, 27 Oct 2026.
+Guille Gironde (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at City Hall, Barcelona on Tue, 27 Oct 2026.
 
 Guille Gironde is a techno and tech house artist based in Spain, with 7 gigs on soundcheck across Barcelona. Often billed alongside Eli Ercolani, Ukash and Andrés Cornavaca. Next up: City Hall, Barcelona on Tue 27 Oct.
 
@@ -23,4 +23,4 @@ Guille Gironde is a techno and tech house artist based in Spain, with 7 gigs on 
 
 Eli Ercolani, Ukash, Andrés Cornavaca
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillegironde-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillegironde-2/)*

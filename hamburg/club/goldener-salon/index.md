@@ -1,6 +1,6 @@
 # Goldener Salon
 
-Goldener Salon is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "SesssHH with Iceboy Violet & Humanangst" on Fri, 6 Nov 2026.
+Goldener Salon is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "SesssHH with Iceboy Violet & Humanangst" on Fri, 6 Nov 2026.
 
 Goldener Salon is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Bennet, Daisy Weweh, DJ KILLING and DSGNRPSSY and 2 more. See dates, start times and who's playing. Große Elbstraße 84, 22767 Hamburg.
 
@@ -15,4 +15,4 @@ Goldener Salon is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs
 
 Große Elbstraße 84, 22767 Hamburg, Hamburg
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/goldener-salon/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/goldener-salon/)*

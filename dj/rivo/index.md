@@ -1,6 +1,6 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Superior Ingredients, New York City on Fri, 30 Oct 2026.
+Rivo is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Superior Ingredients, New York City on Fri, 30 Oct 2026.
 
 Rivo is a house and afro house artist based in France, with 69 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Eric Prydz, Bender and Miss Monique. Next up: Superior Ingredients, New York City on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Rivo is a house and afro house artist based in France, with 69 gigs on soundchec
 
 Eric Prydz, Bender, Miss Monique
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

@@ -1,6 +1,6 @@
 # Yunis
 
-Yunis is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Fort Mokotów, Warsaw on Sat, 31 Oct 2026.
+Yunis is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Fort Mokotów, Warsaw on Sat, 31 Oct 2026.
 
 Yunis is a tech house and house artist based in Poland, with 27 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 3 more. Often billed alongside Helga, Kamilescu and Rytmik. Next up: Fort Mokotów, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yunis is a tech house and house artist based in Poland, with 27 gigs on soundche
 
 Helga, Kamilescu, Rytmik
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunis/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunis/)*

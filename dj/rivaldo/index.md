@@ -1,6 +1,6 @@
 # Rivaldo
 
-Rivaldo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Video Club, Bogotá on Sat, 31 Oct 2026.
+Rivaldo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Video Club, Bogotá on Sat, 31 Oct 2026.
 
 Rivaldo is a house and disco artist, with 23 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Madrid. Often billed alongside Emilio Mustafá, 100 faces and mabo. Next up: Video Club, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rivaldo is a house and disco artist, with 23 gigs on soundcheck across Amsterdam
 
 Emilio Mustafá, 100 faces, mabo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivaldo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivaldo/)*

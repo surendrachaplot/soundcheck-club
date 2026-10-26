@@ -1,14 +1,13 @@
 # Kerri Chandler
 
-Kerri Chandler is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Index, Dublin on Sun, 25 Oct 2026.
+Kerri Chandler is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Kerri Chandler is a house and techno artist based in United States of America, with 165 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Seth Troxler, CHRIS STASSY and DJ Deep. Next up: Index, Dublin on Sun 25 Oct.
+Kerri Chandler is a house and techno artist based in United States of America, with 165 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Seth Troxler, CHRIS STASSY and DJ Deep. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Index | Dublin |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | TBA - 131 McCormack St. | Toronto |
 | Fri, 27 Nov 2026 | Northcote Theatre | Melbourne |
@@ -18,6 +17,7 @@ Kerri Chandler is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- Index, Dublin · Sun, 25 Oct 2026
 - Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
 - La Terrrazza, Barcelona · Sat, 10 Oct 2026
 - Chinois Ibiza, Ibiza · Thu, 8 Oct 2026
@@ -25,10 +25,9 @@ Kerri Chandler is a house and techno artist based in United States of America, w
 - Rex Club, Paris · Sun, 13 Sept 2026
 - Cova Santa, Ibiza · Sat, 5 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 22 Aug 2026
-- Chinois Ibiza, Ibiza · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Seth Troxler, CHRIS STASSY, DJ Deep
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*

@@ -1,6 +1,6 @@
 # ZÖ (1)
 
-ZÖ (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Junky's Point Späti, Berlin on Sat, 31 Oct 2026.
+ZÖ (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Junky's Point Späti, Berlin on Sat, 31 Oct 2026.
 
 ZÖ is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Berlin, Cologne and Leipzig. Often billed alongside KERT (DE), Klangpusch and Lisatrix. Next up: Junky's Point Späti, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ZÖ is a techno and trance artist based in Germany, with 35 gigs on soundcheck a
 
 KERT (DE), Klangpusch, Lisatrix
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zo-1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zo-1/)*

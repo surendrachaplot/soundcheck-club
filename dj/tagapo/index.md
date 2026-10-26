@@ -1,6 +1,6 @@
 # TAGAPO
 
-TAGAPO is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Upper East, London on Sat, 28 Nov 2026.
+TAGAPO is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Upper East, London on Sat, 28 Nov 2026.
 
 TAGAPO is a minimal techno and techno artist, with 7 gigs on soundcheck across Athens and London. Often billed alongside Folek, MARIUS SEBASTIAN and Ali. Next up: Upper East, London on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ TAGAPO is a minimal techno and techno artist, with 7 gigs on soundcheck across A
 
 Folek, MARIUS SEBASTIAN, Ali (4)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tagapo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tagapo/)*

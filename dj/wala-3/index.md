@@ -1,6 +1,6 @@
 # Wala
 
-Wala is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
+Wala is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
 
 Wala is an experimental and techno artist based in Belgium, with 13 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Ignez, Inox Traxx and Altinbas. Next up: UMI, Brussels on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Wala is an experimental and techno artist based in Belgium, with 13 gigs on soun
 
 Ignez, Inox Traxx, Altinbas
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wala-3/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wala-3/)*

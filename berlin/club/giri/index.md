@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Occultists Showcase" on Wed, 28 Oct 2026.
+Giri is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Occultists Showcase" on Wed, 28 Oct 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Am Nil, ANNARA, Avilynn and BIUSH and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -23,4 +23,4 @@ Giri is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with lin
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

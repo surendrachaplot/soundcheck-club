@@ -1,6 +1,6 @@
 # Perrin (UK)
 
-Perrin (UK) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gut Level, Sheffield on Fri, 6 Nov 2026.
+Perrin (UK) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gut Level, Sheffield on Fri, 6 Nov 2026.
 
 Perrin (UK) is a house and progressive house artist, with 14 gigs on soundcheck across Barcelona, Berlin, Copenhagen and London and 1 more. Often billed alongside Bethan, Jeon Q and Marie Malarie. Next up: Gut Level, Sheffield on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Perrin (UK) is a house and progressive house artist, with 14 gigs on soundcheck 
 
 Bethan, Jeon Q, Marie Malarie
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perrin-uk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perrin-uk/)*

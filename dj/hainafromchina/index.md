@@ -1,14 +1,13 @@
 # hainafromchina
 
-hainafromchina is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA, Toronto on Sat, 24 Oct 2026.
+hainafromchina is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - The Great American Beer Hall 142 Mystic Ave Medford, MA 02155, Boston on Fri, 30 Oct 2026.
 
-hainafromchina is a techno and club artist, with 73 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 23 more. Often billed alongside S.M.S.H, Skögul and W.X.M. Next up: TBA, Toronto on Sat 24 Oct.
+hainafromchina is a techno and club artist, with 73 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 23 more. Often billed alongside S.M.S.H, Skögul and W.X.M. Next up: TBA - The Great American Beer Hall 142 Mystic Ave Medford, MA 02155, Boston on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | Toronto |
 | Fri, 30 Oct 2026 | TBA - The Great American Beer Hall 142 Mystic Ave Medford, MA 02155 | Boston |
 | Sat, 31 Oct 2026 | Skylight Warehouse | Vancouver |
 
@@ -27,4 +26,4 @@ hainafromchina is a techno and club artist, with 73 gigs on soundcheck across Ba
 
 S.M.S.H, Skögul, W.X.M
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hainafromchina/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hainafromchina/)*

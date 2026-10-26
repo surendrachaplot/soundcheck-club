@@ -1,6 +1,6 @@
 # Masalo
 
-Masalo is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Masalo is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Masalo is a house and disco artist based in Netherlands, with 142 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Kamma, Antal and DJ Tennis. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -31,4 +31,4 @@ Masalo is a house and disco artist based in Netherlands, with 142 gigs on soundc
 
 Kamma, Antal, DJ Tennis
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*

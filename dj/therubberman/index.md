@@ -1,6 +1,6 @@
 # The Rubber Man
 
-The Rubber Man is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Olympus Theater, Detroit on Sat, 31 Oct 2026.
+The Rubber Man is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Olympus Theater, Detroit on Sat, 31 Oct 2026.
 
 The Rubber Man is an ebm and industrial artist based in United States of America, with 19 gigs on soundcheck across Detroit. Often billed alongside LATEX GIRL, Nick Burgess and Garrison XR. Next up: Olympus Theater, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ The Rubber Man is an ebm and industrial artist based in United States of America
 
 LATEX GIRL, Nick Burgess, Garrison XR
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/therubberman/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/therubberman/)*

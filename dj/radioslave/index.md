@@ -1,6 +1,6 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Flash, Washington DC on Fri, 20 Nov 2026.
+Radio Slave is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Flash, Washington DC on Fri, 20 Nov 2026.
 
 Radio Slave is a house and techno artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 56 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Flash, Washington DC on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Radio Slave is a house and techno artist based in United Kingdom, with 138 gigs 
 
 Tal Fussman, Anja Schneider, Khadija (DE)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

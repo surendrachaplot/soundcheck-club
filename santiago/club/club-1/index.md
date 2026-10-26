@@ -1,6 +1,6 @@
 # Club 1
 
-Club 1 is a music venue in Santiago with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "29 de Octubre en CLUB 1: Jade Alexis - Ofiuco - Superqueer" on Thu, 29 Oct 2026.
+Club 1 is a music venue in Santiago with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "29 de Octubre en CLUB 1: Jade Alexis - Ofiuco - Superqueer" on Thu, 29 Oct 2026.
 
 Club 1 is a music venue in Santiago listed on soundcheck. 4 upcoming gigs, with line-ups including Eurydome. See dates, start times and who's playing. Bombero Nuñez 1. Recoleta..
 
@@ -17,4 +17,4 @@ Club 1 is a music venue in Santiago listed on soundcheck. 4 upcoming gigs, with 
 
 Bombero Nuñez 1. Recoleta., Santiago
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/club-1/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/club-1/)*

@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "MissVergnügen presents Dingo`s Dream - live" on Wed, 28 Oct 2026.
+Eschschloraque is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "MissVergnügen presents Dingo`s Dream - live" on Wed, 28 Oct 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including MissVergnügen and Sheila Chipperfield. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -21,4 +21,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 8 upcoming gigs,
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

@@ -1,6 +1,6 @@
 # Harim
 
-Harim is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Le Bain, New York City on Sat, 31 Oct 2026.
+Harim is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Le Bain, New York City on Sat, 31 Oct 2026.
 
 Harim is a house and disco artist based in United States of America, with 32 gigs on soundcheck across Mexico City, New York City and Seoul. Often billed alongside Mike Guimond, Seedy J and Alex McCracken. Next up: Le Bain, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Harim is a house and disco artist based in United States of America, with 32 gig
 
 Mike Guimond, Seedy J, Alex McCracken
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harim/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harim/)*

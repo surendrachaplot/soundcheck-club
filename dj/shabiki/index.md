@@ -1,6 +1,6 @@
 # Shabiki
 
-Shabiki is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at elipamanoke, Leipzig on Sat, 21 Nov 2026.
+Shabiki is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at elipamanoke, Leipzig on Sat, 21 Nov 2026.
 
 Shabiki is a techno and tech house artist based in Germany, with 56 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 5 more. Often billed alongside Rad.Lez, Lazykid and Gizmo. Next up: elipamanoke, Leipzig on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Shabiki is a techno and tech house artist based in Germany, with 56 gigs on soun
 
 Rad.Lez, Lazykid, Gizmo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shabiki/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shabiki/)*

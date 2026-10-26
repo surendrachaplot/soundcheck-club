@@ -1,17 +1,18 @@
 # Georg Elser Halle
 
-Georg Elser Halle is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Schrotthagen Neue Welt Tour @Georg Elser Halle" on Sat, 5 Dec 2026.
+Georg Elser Halle is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Schrotthagen Neue Welt Tour @Georg Elser Halle" on Sat, 5 Dec 2026.
 
-Georg Elser Halle is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including Schrotthagen. See dates, start times and who's playing. Feldstraße 66, 20359 Hamburg, Germany.
+Georg Elser Halle is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Nicolas Julian and Schrotthagen. See dates, start times and who's playing. Feldstraße 66, 20359 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Schrotthagen Neue Welt Tour @Georg Elser Halle | Schrotthagen |
+| Sat, 19 Dec 2026 | HIVE pres. Nicolas Julian - All Day Long | Nicolas Julian |
 
 ## Address
 
 Feldstraße 66, 20359 Hamburg, Germany, Hamburg
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/georg-elser-halle/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/georg-elser-halle/)*

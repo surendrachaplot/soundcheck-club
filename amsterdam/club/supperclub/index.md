@@ -1,14 +1,13 @@
 # Supperclub
 
-Supperclub is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "We Love Asian ADE Special" on Sun, 25 Oct 2026.
+Supperclub is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Source Halloween Special" on Thu, 29 Oct 2026.
 
-Supperclub is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Emma Champagne Queen, Heritage Listed, Kirilski and Pura Pachanga. See dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
+Supperclub is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Emma Champagne Queen, Heritage Listed, Kirilski and Pura Pachanga. See dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | We Love Asian ADE Special |  |
 | Thu, 29 Oct 2026 | Source Halloween Special |  |
 | Fri, 30 Oct 2026 | Favela Halloween Special |  |
 | Sat, 31 Oct 2026 | Supper's House Haunted Festival |  |
@@ -20,4 +19,4 @@ Supperclub is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, 
 
 Singel 460, 1017 AW Amsterdam, Amsterdam
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*

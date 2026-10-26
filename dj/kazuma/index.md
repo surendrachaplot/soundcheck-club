@@ -1,8 +1,8 @@
 # kazuma
 
-kazuma is a Club and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at SEL OCTAGON TOKYO, Tokyo on Mon, 26 Oct 2026.
+kazuma is a Club and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at SEL OCTAGON TOKYO, Tokyo on Mon, 26 Oct 2026.
 
-kazuma is a club and electro artist, with 13 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Lemi, Miki and WATARU. Next up: SEL OCTAGON TOKYO, Tokyo on Mon 26 Oct.
+kazuma is a club and electro artist, with 14 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Lemi, Miki and WATARU. Next up: SEL OCTAGON TOKYO, Tokyo on Mon 26 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ kazuma is a club and electro artist, with 13 gigs on soundcheck across Kyoto, Os
 | Mon, 26 Oct 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Tue, 27 Oct 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Thu, 29 Oct 2026 | SEL OCTAGON TOKYO | Tokyo |
+| Fri, 30 Oct 2026 | FUL Kyoto | Kyoto |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ kazuma is a club and electro artist, with 13 gigs on soundcheck across Kyoto, Os
 
 Lemi, Miki, WATARU
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazuma/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazuma/)*

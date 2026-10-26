@@ -1,14 +1,13 @@
 # KRUELTY
 
-KRUELTY is a Techno and Hardcore artist with 17 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hemkade 48, Amsterdam on Sun, 25 Oct 2026.
+KRUELTY is a Techno and Hardcore artist with 16 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sound Department, South on Sat, 31 Oct 2026.
 
-KRUELTY is a techno and hardcore artist based in Netherlands, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, SLVL and KARAH. Next up: Hemkade 48, Amsterdam on Sun 25 Oct.
+KRUELTY is a techno and hardcore artist based in Netherlands, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, SLVL and KARAH. Next up: Sound Department, South on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sat, 31 Oct 2026 | Sound Department | South |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
@@ -20,9 +19,11 @@ KRUELTY is a techno and hardcore artist based in Netherlands, with 94 gigs on so
 | Sat, 5 Dec 2026 | Afas Live | Amsterdam |
 | Fri, 11 Dec 2026 | E1 | London |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
+| Thu, 31 Dec 2026 | Garage Klub | Antwerp |
 
 ## Recently played
 
+- Hemkade 48, Amsterdam · Sun, 25 Oct 2026
 - Fabrik, Madrid · Sat, 24 Oct 2026
 - Nxt Museum, Amsterdam · Fri, 23 Oct 2026
 - Mediahaven - Minervahaven, Amsterdam · Wed, 21 Oct 2026
@@ -30,10 +31,9 @@ KRUELTY is a techno and hardcore artist based in Netherlands, with 94 gigs on so
 - The Telegraph Building, Belfast · Sat, 10 Oct 2026
 - Brooklyn Storehouse, New York City · Sun, 6 Sept 2026
 - H7 Warehouse, Amsterdam · Sat, 22 Aug 2026
-- Airport Würzburg, Nürnberg · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 KLOFAMA, SLVL, KARAH
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*

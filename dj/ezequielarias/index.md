@@ -1,6 +1,6 @@
 # Ezequiel Arias
 
-Ezequiel Arias is a Progressive House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - Chacra El Descanso, La Plata, Buenos Aires on Sun, 8 Nov 2026.
+Ezequiel Arias is a Progressive House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Chacra El Descanso, La Plata, Buenos Aires on Sun, 8 Nov 2026.
 
 Ezequiel Arias is a progressive house and deep house artist based in Argentina, with 70 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Budapest and 26 more. Often billed alongside Jody Wisternoff, Romain Garcia and Dosem. Next up: TBA - Chacra El Descanso, La Plata, Buenos Aires on Sun 8 Nov.
 
@@ -30,4 +30,4 @@ Ezequiel Arias is a progressive house and deep house artist based in Argentina, 
 
 Jody Wisternoff, Romain Garcia, Dosem
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*

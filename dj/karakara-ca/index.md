@@ -1,6 +1,6 @@
 # Kara Kara
 
-Kara Kara is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Three Dollar Bill, Toronto on Fri, 6 Nov 2026.
+Kara Kara is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Three Dollar Bill, Toronto on Fri, 6 Nov 2026.
 
 Kara Kara is a techno and garage artist based in Canada, with 15 gigs on soundcheck across Berlin and Toronto. Often billed alongside In Depth Subject, Sulk Hogan and Nihility. Next up: Three Dollar Bill, Toronto on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kara Kara is a techno and garage artist based in Canada, with 15 gigs on soundch
 
 In Depth Subject, Sulk Hogan (2), Nihility
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karakara-ca/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karakara-ca/)*

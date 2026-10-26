@@ -1,17 +1,20 @@
 # Flat HiFi Bar
 
-Flat HiFi Bar is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "The Flat: Hugo Fontaine" on Sat, 24 Oct 2026.
+Flat HiFi Bar is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "The Flat: Sons Des Filles" on Thu, 29 Oct 2026.
 
-Flat HiFi Bar is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. C. del Cardenal Cisneros, 10b, Chamberí, 28010, Madrid.
+Flat HiFi Bar is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including DHERMIDA. See dates, start times and who's playing. C. del Cardenal Cisneros, 10b, Chamberí, 28010, Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | The Flat: Hugo Fontaine |  |
+| Thu, 29 Oct 2026 | The Flat: Sons Des Filles |  |
+| Fri, 30 Oct 2026 | The Flat: DHERMIDA | DHERMIDA |
+| Sat, 31 Oct 2026 | The Flat: Halloween Night with Manu Rochina & Kara |  |
+| Sun, 1 Nov 2026 | The Flat: Secret Guests |  |
 
 ## Address
 
 C. del Cardenal Cisneros, 10b, Chamberí, 28010, Madrid, Madrid
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/flat-hifi-bar/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/flat-hifi-bar/)*

@@ -1,6 +1,6 @@
 # The Strays
 
-The Strays is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "RAT CITY DEVILS NIGHT" on Fri, 30 Oct 2026.
+The Strays is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "RAT CITY DEVILS NIGHT" on Fri, 30 Oct 2026.
 
 The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Charles Trees, Decliner, Garrison XR and Nick Dagher and 1 more. See dates, start times and who's playing. 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
@@ -15,4 +15,4 @@ The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, wi
 
 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*

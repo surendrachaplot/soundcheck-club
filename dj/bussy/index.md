@@ -1,6 +1,6 @@
 # Bussy
 
-Bussy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at RADION, Amsterdam on Fri, 30 Oct 2026.
+Bussy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at RADION, Amsterdam on Fri, 30 Oct 2026.
 
 Bussy is a techno and acid artist, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Prance, Asaya and Bongoat. Next up: RADION, Amsterdam on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Bussy is a techno and acid artist, with 3 gigs on soundcheck across Amsterdam. O
 
 Prance, Asaya, Bongoat
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bussy/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bussy/)*

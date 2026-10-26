@@ -1,6 +1,6 @@
 # PKH Warehouse
 
-PKH Warehouse is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Wurzel- & Praerie Festival Halloween w Andreas Henneberg, Sarah Wild, Joplyn, Mino, sinport uvm" on Sat, 31 Oct 2026.
+PKH Warehouse is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Wurzel- & Praerie Festival Halloween w Andreas Henneberg, Sarah Wild, Joplyn, Mino, sinport uvm" on Sat, 31 Oct 2026.
 
 PKH Warehouse is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including agls, Andreas Henneberg, Atype and Bizzarro Universe and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ PKH Warehouse is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, 
 | Sat, 5 Dec 2026 | Clubnacht with Tragedie, uvm | Teenage Mutants |
 | Sat, 12 Dec 2026 | Parkhause Rave - KlangSubsTanz |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*

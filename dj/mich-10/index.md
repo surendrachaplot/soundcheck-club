@@ -1,6 +1,6 @@
 # Mich (10)
 
-Mich (10) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Auberge, Switzerland on Sat, 21 Nov 2026.
+Mich (10) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Auberge, Switzerland on Sat, 21 Nov 2026.
 
 Mich is a house and electro artist based in Argentina, with 8 gigs on soundcheck across Buenos Aires and Switzerland. Often billed alongside Manu Oubiña, Guile and LUKAS. Next up: Auberge, Switzerland on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Mich is a house and electro artist based in Argentina, with 8 gigs on soundcheck
 
 Manu Oubiña, Guile, LUKAS (4)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mich-10/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mich-10/)*

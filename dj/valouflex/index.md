@@ -1,6 +1,6 @@
 # ValouFlex
 
-ValouFlex is a House and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at NYX: Late Night, San Francisco/Oakland on Fri, 30 Oct 2026.
+ValouFlex is a House and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NYX: Late Night, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 ValouFlex is a house and industrial artist, with 6 gigs on soundcheck across San Francisco/Oakland. Often billed alongside sosicksosad, DREVO and Dany Donowitz. Next up: NYX: Late Night, San Francisco/Oakland on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ ValouFlex is a house and industrial artist, with 6 gigs on soundcheck across San
 
 sosicksosad, DREVO, Dany Donowitz
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valouflex/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valouflex/)*

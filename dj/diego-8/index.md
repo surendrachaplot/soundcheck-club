@@ -1,6 +1,6 @@
 # Diego (8)
 
-Diego (8) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Goya Social Club, Madrid on Fri, 13 Nov 2026.
+Diego (8) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Goya Social Club, Madrid on Fri, 13 Nov 2026.
 
 Diego is a house and deep house artist based in Italy, with 5 gigs on soundcheck across Madrid and Rome. Often billed alongside Cianfo, Cinthie and DHERMIDA. Next up: Goya Social Club, Madrid on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Diego is a house and deep house artist based in Italy, with 5 gigs on soundcheck
 
 Cianfo, Cinthie, DHERMIDA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diego-8/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diego-8/)*

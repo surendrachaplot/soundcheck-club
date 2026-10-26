@@ -1,6 +1,6 @@
 # Juan Alejandro
 
-Juan Alejandro is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Circie, Dresden on Sat, 21 Nov 2026.
+Juan Alejandro is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Circie, Dresden on Sat, 21 Nov 2026.
 
 Juan Alejandro is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Bangkok, Dresden and Leipzig. Often billed alongside FARAWAY, HnyLune and MRGNSTRN. Next up: Circie, Dresden on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Juan Alejandro is a techno and trance artist based in Germany, with 17 gigs on s
 
 FARAWAY, HnyLune, MRGNSTRN
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanalejandro/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanalejandro/)*

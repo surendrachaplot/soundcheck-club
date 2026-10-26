@@ -1,6 +1,6 @@
 # Maj.Tom
 
-Maj.Tom is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Nido Marseille, Marseille on Fri, 20 Nov 2026.
+Maj.Tom is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Nido Marseille, Marseille on Fri, 20 Nov 2026.
 
 Maj.Tom is a techno and house artist based in France, with 6 gigs on soundcheck across Barcelona, Bordeaux and Marseille. Often billed alongside Salomée, Josépha and Aaron J. Next up: Nido Marseille, Marseille on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Maj.Tom is a techno and house artist based in France, with 6 gigs on soundcheck 
 
 Salomée, Josépha, Aaron J
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maj.tom/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maj.tom/)*

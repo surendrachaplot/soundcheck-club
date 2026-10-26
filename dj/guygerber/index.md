@@ -1,6 +1,6 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Parque Padre Hurtado, Santiago on Sat, 7 Nov 2026.
+Guy Gerber is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Parque Padre Hurtado, Santiago on Sat, 7 Nov 2026.
 
 Guy Gerber is a house and techno artist based in Israel, with 133 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Parque Padre Hurtado, Santiago on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Guy Gerber is a house and techno artist based in Israel, with 133 gigs on soundc
 
 Noncitizens, Saraga, Annicka
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*

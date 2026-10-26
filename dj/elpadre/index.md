@@ -1,6 +1,6 @@
 # EL PADRE
 
-EL PADRE is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - BANK CLUB, Warsaw on Fri, 13 Nov 2026.
+EL PADRE is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - BANK CLUB, Warsaw on Fri, 13 Nov 2026.
 
 EL PADRE is a techno and progressive house artist based in Poland, with 5 gigs on soundcheck across Amsterdam, Glasgow, London and Warsaw. Often billed alongside Nathassia, Major K and Jay Cluss. Next up: TBA - BANK CLUB, Warsaw on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ EL PADRE is a techno and progressive house artist based in Poland, with 5 gigs o
 
 Nathassia, Major K, Jay Cluss
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elpadre/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elpadre/)*

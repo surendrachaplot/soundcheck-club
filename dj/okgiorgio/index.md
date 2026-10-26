@@ -1,6 +1,6 @@
 # okgiorgio
 
-okgiorgio is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Outernet Live, London on Sat, 5 Dec 2026.
+okgiorgio is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Outernet Live, London on Sat, 5 Dec 2026.
 
 okgiorgio is an electronica and techno artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Copenhagen and 9 more. Often billed alongside PARISI, Aurora Halal and Avalon Emerson. Next up: Outernet Live, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ okgiorgio is an electronica and techno artist based in Italy, with 25 gigs on so
 
 PARISI, Aurora Halal, Avalon Emerson
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okgiorgio/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okgiorgio/)*

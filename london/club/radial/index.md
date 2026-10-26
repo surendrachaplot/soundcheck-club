@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Polar Disco Day to Night Party" on Sun, 25 Oct 2026.
+radial is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "grounded w. Yushh x LWS x Delay Grounds" on Fri, 30 Oct 2026.
 
 radial is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Seyer (UK), Adam Curtain, ADHDj (UK) and Alien Communications and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -8,9 +8,9 @@ radial is a music venue in London listed on soundcheck. 16 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Polar Disco Day to Night Party | Bibiminor, MANNIO, Mitch Presents, Nancy Wilde, Niall Kelly, Portamento |
 | Fri, 30 Oct 2026 | grounded w. Yushh x LWS x Delay Grounds | Delay Grounds, Djuar, LWS, Yushh, carmen (7) |
 | Sat, 31 Oct 2026 | Violet Moss x Percolate: Halloween with Strath | Strath |
+| Sat, 31 Oct 2026 | Polar Disco Day to Night Party | Bibiminor, MANNIO, Mitch Presents, Nancy Wilde, Niall Kelly, Portamento |
 | Sun, 1 Nov 2026 | ambre club presents: Janeret, Dana Kuehr, Cem Ozden & katje | Cem Ozden, Dana Kuehr, Janeret, katje |
 | Wed, 4 Nov 2026 | from the source: House of Multiple Occupants |  |
 | Fri, 6 Nov 2026 | Rancho Relaxo #5 with Eversines & Monika Taneska | Compass, Eversines, Joey Fontaine, L.J. Violet, Monika Taneska |
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 16 upcoming gigs, with l
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

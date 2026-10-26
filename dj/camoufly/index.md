@@ -1,6 +1,6 @@
 # camoufly
 
-camoufly is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+camoufly is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 camoufly is a garage and house artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 26 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ camoufly is a garage and house artist based in Italy, with 62 gigs on soundcheck
 
 Oppidan, ATRIP, Arthi
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*

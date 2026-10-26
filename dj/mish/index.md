@@ -1,6 +1,6 @@
 # Mish
 
-Mish is a Hardcore and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Mish is a Hardcore and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Mish is a hardcore and r&b artist based in Mexico, with 24 gigs on soundcheck across Amsterdam, Auckland, Bristol and Dortmund / Essen and 7 more. Often billed alongside Angerfist, Act of Rage and Anime. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mish is a hardcore and r&b artist based in Mexico, with 24 gigs on soundcheck ac
 
 Angerfist, Act of Rage, Anime
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*

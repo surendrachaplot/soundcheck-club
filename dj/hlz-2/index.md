@@ -1,6 +1,6 @@
 # HLZ (2)
 
-HLZ (2) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Volks, Brighton on Sat, 21 Nov 2026.
+HLZ (2) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Volks, Brighton on Sat, 21 Nov 2026.
 
 HLZ is a drum & bass and jungle artist based in United Kingdom, with 8 gigs on soundcheck across Bologna, Boston, Brighton and Chicago and 3 more. Often billed alongside DJ Trace, Dillinja and Andy Stroble. Next up: Volks, Brighton on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ HLZ is a drum & bass and jungle artist based in United Kingdom, with 8 gigs on s
 
 DJ Trace, Dillinja, Andy Stroble
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hlz-2/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hlz-2/)*

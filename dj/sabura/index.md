@@ -1,8 +1,8 @@
 # Sabura
 
-Sabura is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
+Sabura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
 
-Sabura is a techno and house artist based in Germany, with 110 gigs on soundcheck across Berlin, Cologne, Frankfurt and Freiburg and 11 more. Often billed alongside Maurice Mino, Konfusia and Sin:port. Next up: Hafenklang, Hamburg on Sat 31 Oct.
+Sabura is a techno and house artist based in Germany, with 111 gigs on soundcheck across Berlin, Cologne, Frankfurt and Freiburg and 12 more. Often billed alongside Maurice Mino, Konfusia and Sin:port. Next up: Hafenklang, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sabura is a techno and house artist based in Germany, with 110 gigs on soundchec
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Hafenklang | Hamburg |
 | Sat, 7 Nov 2026 | TBA - KARREE, Fahnenbergplatz 3, 79098 Freiburg | Freiburg |
+| Sun, 8 Nov 2026 | Orange Club | Schleswig-holstein |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sabura is a techno and house artist based in Germany, with 110 gigs on soundchec
 
 Maurice Mino, Konfusia, Sin:port
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabura/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabura/)*

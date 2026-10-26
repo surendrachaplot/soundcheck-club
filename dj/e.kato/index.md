@@ -1,6 +1,6 @@
 # e.Kato
 
-e.Kato is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Beate Uwe, Berlin on Fri, 6 Nov 2026.
+e.Kato is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Beate Uwe, Berlin on Fri, 6 Nov 2026.
 
 e.Kato is a house and tech house artist, with 6 gigs on soundcheck across Berlin and Medellin. Often billed alongside Carpenter Effect, Play Your Youth and Tutti Frutti Tanzgesellschaft. Next up: Beate Uwe, Berlin on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ e.Kato is a house and tech house artist, with 6 gigs on soundcheck across Berlin
 
 Carpenter Effect, Play Your Youth, Tutti Frutti Tanzgesellschaft
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.kato/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.kato/)*

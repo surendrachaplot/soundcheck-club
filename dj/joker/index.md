@@ -1,6 +1,6 @@
 # Joker
 
-Joker is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Dryad Works, Sheffield on Fri, 30 Oct 2026.
+Joker is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Dryad Works, Sheffield on Fri, 30 Oct 2026.
 
 Joker is a dubstep and bass artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Sir Spyro, Coki and SGT Pokes. Next up: Dryad Works, Sheffield on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Joker is a dubstep and bass artist based in United Kingdom, with 56 gigs on soun
 
 Sir Spyro, Coki, SGT Pokes
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joker/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joker/)*

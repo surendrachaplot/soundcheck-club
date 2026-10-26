@@ -1,6 +1,6 @@
 # j:me
 
-j:me is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
+j:me is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
 
 j:me is a house and tech house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Jude Lenihan, Benji King and Phill de Janeiro. Next up: The Cause, London on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ j:me is a house and tech house artist based in United Kingdom, with 38 gigs on s
 
 Jude Lenihan, Benji King, Phill de Janeiro
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*

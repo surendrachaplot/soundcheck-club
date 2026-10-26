@@ -1,6 +1,6 @@
 # Danny P
 
-Danny P is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Ministry Of Sound, London on Sat, 21 Nov 2026.
+Danny P is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ministry Of Sound, London on Sat, 21 Nov 2026.
 
 Danny P is a house and electronica artist based in United Kingdom, with 5 gigs on soundcheck across Dublin, Ibiza, Liverpool and London. Often billed alongside Caleb Laurenson, Candidate and Chris Gialanze. Next up: Ministry Of Sound, London on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Danny P is a house and electronica artist based in United Kingdom, with 5 gigs o
 
 Caleb Laurenson, Candidate, Chris Gialanze
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyp/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyp/)*

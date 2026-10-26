@@ -1,14 +1,13 @@
 # Port Beach Brewery
 
-Port Beach Brewery is a music venue in Perth with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "SUNDAY SESH ft VIVACE [UK]" on Sun, 25 Oct 2026.
+Port Beach Brewery is a music venue in Perth with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "MC PAT FLYNN (IRE)" on Fri, 30 Oct 2026.
 
-Port Beach Brewery is a music venue in Perth listed on soundcheck. 11 upcoming gigs, with line-ups including Chicane, Daes, David Penn and DAWS and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
+Port Beach Brewery is a music venue in Perth listed on soundcheck. 10 upcoming gigs, with line-ups including Chicane, Daes, David Penn and DAWS and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | SUNDAY SESH ft VIVACE [UK] | Vivace (UK) |
 | Fri, 30 Oct 2026 | MC PAT FLYNN (IRE) |  |
 | Sat, 31 Oct 2026 | Therapy Halloween | Oots, Prizefight, Raredub |
 | Fri, 6 Nov 2026 | PUNKY GOES TO AUSTRALIA | Daes, KESSIN |
@@ -18,9 +17,10 @@ Port Beach Brewery is a music venue in Perth listed on soundcheck. 11 upcoming g
 | Sat, 5 Dec 2026 | Defected Perth 2026 | David Penn, Murphy's Law, Nick Curly, Sam Divine |
 | Sun, 27 Dec 2026 | High Tide Low Ride | EPHACY, Marcellus Pittman, Mia Koden, Montana, Rok Riley, Soichi Terada, System Olympia |
 | Fri, 5 Mar 2027 | Kenny Dope - Masters At Work (NYC) | Kenny Dope |
+| Sat, 6 Mar 2027 | Chicane and Paul Oakenfold LIVE IN PERTH | Chicane, Paul Oakenfold |
 
 ## Address
 
 Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia, Perth
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*

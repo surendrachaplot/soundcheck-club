@@ -1,6 +1,6 @@
 # Takayuki Kamiya
 
-Takayuki Kamiya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 14 Nov 2026.
+Takayuki Kamiya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 14 Nov 2026.
 
 Takayuki Kamiya is a techno and house artist based in Japan, with 51 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Wat, Spinnage and Takami. Next up: Nakano Heavysick Zero, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Takayuki Kamiya is a techno and house artist based in Japan, with 51 gigs on sou
 
 Wat, Spinnage, Takami
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takayukikamiya/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takayukikamiya/)*

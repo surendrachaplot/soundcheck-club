@@ -1,6 +1,6 @@
 # Deyayu
 
-Deyayu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Sorgiva Village, Milan on Sun, 1 Nov 2026.
+Deyayu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sorgiva Village, Milan on Sun, 1 Nov 2026.
 
 Deyayu is a techno and house artist based in Italy, with 18 gigs on soundcheck across Berlin, London, Milan and Naples and 1 more. Often billed alongside Der, Joe Rosh and Jonny Rock. Next up: Sorgiva Village, Milan on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Deyayu is a techno and house artist based in Italy, with 18 gigs on soundcheck a
 
 Der, Joe Rosh, Jonny Rock
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deyayu/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deyayu/)*

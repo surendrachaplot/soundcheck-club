@@ -1,6 +1,6 @@
 # Natalie Beridze
 
-Natalie Beridze is a Experimental and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
+Natalie Beridze is a Experimental and Dancehall artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
 
 Natalie Beridze is an experimental and dancehall artist based in Georgia, with 15 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside TBA, Cobert and Anushka Chkheidze. Next up: KHIDI, Tbilisi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Natalie Beridze is an experimental and dancehall artist based in Georgia, with 1
 
 TBA, Cobert, Anushka Chkheidze
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natalieberidze/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natalieberidze/)*

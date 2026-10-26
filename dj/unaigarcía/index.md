@@ -1,6 +1,6 @@
 # Unai García
 
-Unai García is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
+Unai García is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
 
 Unai García is a progressive house and techno artist based in Spain, with 59 gigs on soundcheck across Barcelona, Copenhagen, Madrid and Vienna. Often billed alongside Vico Deep, Javi Garza and 2Qimic. Next up: TBA - SECRET LOCATION - LA FINCA, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Unai García is a progressive house and techno artist based in Spain, with 59 gi
 
 Vico Deep, Javi Garza, 2Qimic
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unaigarcía/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unaigarcía/)*

@@ -1,14 +1,14 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Vittoria Wharf Studio, London on Sun, 25 Oct 2026.
+Voigtmann is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Utopia, Los Angeles on Sat, 31 Oct 2026.
 
-Voigtmann is a house and tech house artist based in United Kingdom, with 203 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 42 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Vittoria Wharf Studio, London on Sun 25 Oct.
+Voigtmann is a house and tech house artist based in United Kingdom, with 204 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 42 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Utopia, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Vittoria Wharf Studio | London |
+| Sat, 31 Oct 2026 | Utopia | Los Angeles |
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Sat, 28 Nov 2026 | Distrikt | Leeds |
@@ -16,6 +16,7 @@ Voigtmann is a house and tech house artist based in United Kingdom, with 203 gig
 
 ## Recently played
 
+- Vittoria Wharf Studio, London · Sun, 25 Oct 2026
 - KIT Royal Tropical Institute, Amsterdam · Sat, 24 Oct 2026
 - KIT Royal Tropical Institute, Amsterdam · Sat, 24 Oct 2026
 - Hasta La Vista, Baby, Amsterdam · Thu, 22 Oct 2026
@@ -23,10 +24,9 @@ Voigtmann is a house and tech house artist based in United Kingdom, with 203 gig
 - Coil, Melbourne · Fri, 16 Oct 2026
 - The Timber Loft, London · Sun, 4 Oct 2026
 - TBA, Central · Fri, 2 Oct 2026
-- Mint XL, Leeds · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Laidlaw, Julian Anthony, Enzo Siragusa
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

@@ -1,6 +1,6 @@
 # 320 (1)
 
-320 (1) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at public records, New York City on Fri, 27 Nov 2026.
+320 (1) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at public records, New York City on Fri, 27 Nov 2026.
 
 320 is a techno and experimental artist based in United States of America, with 22 gigs on soundcheck across Berlin and New York City. Often billed alongside Baroque Hoe, Brutal Twink and Carrier. Next up: public records, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@
 
 Baroque Hoe, Brutal Twink, Carrier
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/320-usa/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/320-usa/)*

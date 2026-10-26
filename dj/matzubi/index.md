@@ -1,6 +1,6 @@
 # Matzubi
 
-Matzubi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Amp, Münster on Sat, 31 Oct 2026.
+Matzubi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Amp, Münster on Sat, 31 Oct 2026.
 
 Matzubi is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Münster. Often billed alongside ADRENALINA, Vinur and Luzinka. Next up: Amp, Münster on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Matzubi is a techno and trance artist based in Germany, with 10 gigs on soundche
 
 ADRENALINA, Vinur, Luzinka
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matzubi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matzubi/)*

@@ -1,6 +1,6 @@
 # Seqta
 
-Seqta is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 7 Nov 2026.
+Seqta is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 7 Nov 2026.
 
 Seqta is a techno and trance artist based in Germany, with 148 gigs on soundcheck across Athens, Berlin, Copenhagen and Dublin and 6 more. Often billed alongside DJ Sense, Generali Minerali and HORNS. Next up: Haus der Visionäre, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Seqta is a techno and trance artist based in Germany, with 148 gigs on soundchec
 
 DJ Sense, Generali Minerali, HORNS (1)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seqta/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seqta/)*

@@ -1,6 +1,6 @@
 # Softense
 
-Softense is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Atno, Budapest on Sat, 31 Oct 2026.
+Softense is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Atno, Budapest on Sat, 31 Oct 2026.
 
 Softense is a disco and electro artist based in Hungary, with 8 gigs on soundcheck across Budapest. Often billed alongside Max Sinclair, SVR101 and Aikatherina. Next up: Atno, Budapest on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Softense is a disco and electro artist based in Hungary, with 8 gigs on soundche
 
 Max Sinclair, SVR101, Aikatherina
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softense/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softense/)*

@@ -1,6 +1,6 @@
 # Conduct Disorder
 
-Conduct Disorder is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Inter-City, The Hague on Sat, 14 Nov 2026.
+Conduct Disorder is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Inter-City, The Hague on Sat, 14 Nov 2026.
 
 Conduct Disorder is a techno and ambient artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Jacquestrax, Ambu Bambu and Yb3L. Next up: Inter-City, The Hague on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Conduct Disorder is a techno and ambient artist based in Netherlands, with 22 gi
 
 Jacquestrax, Ambu Bambu, Yb3L
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conductdisorder/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conductdisorder/)*

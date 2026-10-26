@@ -1,6 +1,6 @@
 # Clifford Irving
 
-Clifford Irving is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Gigi's Hoxton, London on Fri, 30 Oct 2026.
+Clifford Irving is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gigi's Hoxton, London on Fri, 30 Oct 2026.
 
 Clifford Irving is a house and tech house artist, with 5 gigs on soundcheck across Ibiza and London. Often billed alongside Jo Cruz, KAYDNCE and AZZA. Next up: Gigi's Hoxton, London on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Clifford Irving is a house and tech house artist, with 5 gigs on soundcheck acro
 
 Jo Cruz, KAYDNCE, AZZA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cliffordirvingdj/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cliffordirvingdj/)*

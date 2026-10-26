@@ -1,6 +1,6 @@
-# starstruck: hâobèi, Aleister, v64 at Happyfun Hideaway
+# starstruck: hàobèi, Aleister, v64 at Happyfun Hideaway
 
-starstruck: hâobèi, Aleister, v64 at Happyfun Hideaway on Tue 27 Oct, New York City. 3 artists: Aleister, hàobèi and v64. Techno and Bass. See the line-up on soundcheck.
+starstruck: hàobèi, Aleister, v64 at Happyfun Hideaway on Tue 27 Oct, New York City. 3 artists: Aleister, hàobèi and v64. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

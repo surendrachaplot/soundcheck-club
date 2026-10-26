@@ -1,6 +1,6 @@
 # TWO DRAMA QUEENZ
 
-TWO DRAMA QUEENZ is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at NDK, Sofia on Sat, 31 Oct 2026.
+TWO DRAMA QUEENZ is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NDK, Sofia on Sat, 31 Oct 2026.
 
 TWO DRAMA QUEENZ is a breakbeat and electro artist, with 6 gigs on soundcheck across Amsterdam and Sofia. Often billed alongside Dylanh, Nicooly and Algorithm. Next up: NDK, Sofia on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ TWO DRAMA QUEENZ is a breakbeat and electro artist, with 6 gigs on soundcheck ac
 
 Dylanh, Nicooly, Algorithm
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twodramaqueenz/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twodramaqueenz/)*

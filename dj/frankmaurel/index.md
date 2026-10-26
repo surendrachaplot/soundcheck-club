@@ -1,6 +1,6 @@
 # Frank Maurel
 
-Frank Maurel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 1 Nov 2026.
+Frank Maurel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 1 Nov 2026.
 
 Frank Maurel is a techno and house artist based in Portugal, with 27 gigs on soundcheck across Lisbon and Porto. Often billed alongside DJ Nox, Gilvaia and Analodjica. Next up: Harbour Music Shelter, Lisbon on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Frank Maurel is a techno and house artist based in Portugal, with 27 gigs on sou
 
 DJ Nox, Gilvaia, Analodjica
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankmaurel/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankmaurel/)*

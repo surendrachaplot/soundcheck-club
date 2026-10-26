@@ -1,6 +1,6 @@
 # Cosmo Sofi
 
-Cosmo Sofi is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Fox and Firkin, London on Sat, 28 Nov 2026.
+Cosmo Sofi is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Fox and Firkin, London on Sat, 28 Nov 2026.
 
 Cosmo Sofi is a house and jazz artist, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leeds and 7 more. Often billed alongside Coco Maria, Macca. and Secretsundaze. Next up: The Fox and Firkin, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Cosmo Sofi is a house and jazz artist, with 60 gigs on soundcheck across Amsterd
 
 Coco Maria, Macca., Secretsundaze
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmosofi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmosofi/)*

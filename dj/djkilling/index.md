@@ -1,6 +1,6 @@
 # DJ KILLING
 
-DJ KILLING is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Goldener Salon, Hamburg on Fri, 13 Nov 2026.
+DJ KILLING is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Goldener Salon, Hamburg on Fri, 13 Nov 2026.
 
 DJ KILLING is a techno and house artist based in Germany, with 130 gigs on soundcheck across Amsterdam, Basel, Berlin and Hamburg and 8 more. Often billed alongside travaspango, LINDHOUSE and juan and only. Next up: Goldener Salon, Hamburg on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ DJ KILLING is a techno and house artist based in Germany, with 130 gigs on sound
 
 travaspango, LINDHOUSE, juan and only
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkilling/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkilling/)*

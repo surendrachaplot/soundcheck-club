@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Minimalista invites Club Oven - Halloween" on Sat, 31 Oct 2026.
+Carmo Rooftop is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Minimalista invites Club Oven - Halloween" on Sat, 31 Oct 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, with line-ups including Alive, Blanch, Eric Furtado and Juju Manju and 2 more. See dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -19,4 +19,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, 
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

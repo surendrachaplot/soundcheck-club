@@ -1,6 +1,6 @@
 # High Hibiscus
 
-High Hibiscus is a Breakbeat and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 30 Oct 2026.
+High Hibiscus is a Breakbeat and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 30 Oct 2026.
 
 High Hibiscus is a breakbeat and trance artist, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside L.A.tifa, Aalia Iraki and Bizzarro Universe. Next up: Golden Pudel Club, Hamburg on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ High Hibiscus is a breakbeat and trance artist, with 5 gigs on soundcheck across
 
 L.A.tifa, Aalia Iraki, Bizzarro Universe
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highhibiscus/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highhibiscus/)*

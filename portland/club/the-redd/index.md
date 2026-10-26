@@ -1,6 +1,6 @@
 # The Redd
 
-The Redd is a music venue in Portland with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "A How Sweet Halloween" on Thu, 29 Oct 2026.
+The Redd is a music venue in Portland with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "A How Sweet Halloween" on Thu, 29 Oct 2026.
 
 The Redd is a music venue in Portland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Redd is a music venue in Portland listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | A How Sweet Halloween |  |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-redd/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-redd/)*

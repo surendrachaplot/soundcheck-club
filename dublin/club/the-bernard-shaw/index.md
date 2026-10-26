@@ -1,18 +1,17 @@
 # The Bernard Shaw
 
-The Bernard Shaw is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Bodytonic presents Catz N Dogz" on Sun, 25 Oct 2026.
+The Bernard Shaw is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "THC DJs x Expansion: Autumn Day Party" on Sat, 7 Nov 2026.
 
-The Bernard Shaw is a music venue in Dublin listed on soundcheck. 2 upcoming gigs, with line-ups including Animwal, Catz 'N Dogz and eskay. See dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
+The Bernard Shaw is a music venue in Dublin listed on soundcheck. 1 upcoming gig, with line-ups including eskay. See dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Bodytonic presents Catz N Dogz | Animwal, Catz 'N Dogz |
 | Sat, 7 Nov 2026 | THC DJs x Expansion: Autumn Day Party | eskay |
 
 ## Address
 
 Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*

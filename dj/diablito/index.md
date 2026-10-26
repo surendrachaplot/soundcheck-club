@@ -1,6 +1,6 @@
 # Diablito
 
-Diablito is a Neo Perreo and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Matriarch LA, Los Angeles on Fri, 6 Nov 2026.
+Diablito is a Neo Perreo and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Matriarch LA, Los Angeles on Fri, 6 Nov 2026.
 
 Diablito is a neo perreo and club artist based in United States of America, with 34 gigs on soundcheck across Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside DINABN, BL4ZE and T3KNO. Next up: Matriarch LA, Los Angeles on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Diablito is a neo perreo and club artist based in United States of America, with
 
 DINABN, BL4ZE, T3KNO
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diablito/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diablito/)*

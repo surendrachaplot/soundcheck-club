@@ -1,6 +1,6 @@
 # SAN Milano
 
-SAN Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "SAN Milano presents Hiroko Hacci" on Tue, 27 Oct 2026.
+SAN Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "SAN Milano presents Hiroko Hacci" on Tue, 27 Oct 2026.
 
 SAN Milano is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Hiroko Hacci. See dates, start times and who's playing. Via Cesare da Sesto, 1, 20123 Milano MI, Italy.
 
@@ -17,4 +17,4 @@ SAN Milano is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with
 
 Via Cesare da Sesto, 1, 20123 Milano MI, Italy, Milan
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/san-milano/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/san-milano/)*

@@ -1,6 +1,6 @@
 # ZSÁGER BALÁZS
 
-ZSÁGER BALÁZS is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Atno, Budapest on Sat, 28 Nov 2026.
+ZSÁGER BALÁZS is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Atno, Budapest on Sat, 28 Nov 2026.
 
 ZSÁGER BALÁZS is an electronica and experimental artist based in Hungary, with 17 gigs on soundcheck across Berlin, Budapest and Malta. Often billed alongside Rozi Mákó, Vava and Disandat. Next up: Atno, Budapest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ZSÁGER BALÁZS is an electronica and experimental artist based in Hungary, with
 
 Rozi Mákó, Vava (1), Disandat
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zsagerbalazs/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zsagerbalazs/)*

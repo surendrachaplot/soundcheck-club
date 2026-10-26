@@ -1,6 +1,6 @@
 # Willem (AU)
 
-Willem (AU) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Solace, Melbourne on Sat, 7 Nov 2026.
+Willem (AU) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Solace, Melbourne on Sat, 7 Nov 2026.
 
 Willem (AU) is a techno and trance artist, with 25 gigs on soundcheck across Berlin, London, Melbourne and Sydney. Often billed alongside Ricky Nord, Elle (AU) and ARTISAH. Next up: Solace, Melbourne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Willem (AU) is a techno and trance artist, with 25 gigs on soundcheck across Ber
 
 Ricky Nord, Elle (AU), ARTISAH
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willemau/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willemau/)*

@@ -1,14 +1,13 @@
 # Rinaly
 
-Rinaly is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Chin Chin Club, Amsterdam on Sat, 24 Oct 2026.
+Rinaly is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Basing House, London on Sat, 31 Oct 2026.
 
-Rinaly is a trance and techno artist based in Japan, with 6 gigs on soundcheck across Amsterdam, London, Miami and Minneapolis/St Paul and 1 more. Often billed alongside Somna, AMPRS&ND and Adam Beyer. Next up: Chin Chin Club, Amsterdam on Sat 24 Oct.
+Rinaly is a trance and techno artist based in Japan, with 6 gigs on soundcheck across Amsterdam, London, Miami and Minneapolis/St Paul and 1 more. Often billed alongside Somna, AMPRS&ND and Adam Beyer. Next up: Basing House, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Chin Chin Club | Amsterdam |
 | Sat, 31 Oct 2026 | Basing House | London |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
@@ -23,4 +22,4 @@ Rinaly is a trance and techno artist based in Japan, with 6 gigs on soundcheck a
 
 Somna, AMPRS&ND, Adam Beyer
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinaly/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinaly/)*

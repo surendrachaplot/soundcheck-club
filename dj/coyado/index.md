@@ -1,6 +1,6 @@
 # Coyado
 
-Coyado is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Paragon, New York City on Sat, 7 Nov 2026.
+Coyado is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Paragon, New York City on Sat, 7 Nov 2026.
 
 Coyado is a techno and club artist based in United States of America, with 41 gigs on soundcheck across New York City, Philadelphia and Sydney. Often billed alongside Heartbreaker, Josh Steers and Sevyn Love. Next up: Paragon, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Coyado is a techno and club artist based in United States of America, with 41 gi
 
 Heartbreaker, Josh Steers, Sevyn Love
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coyado/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coyado/)*

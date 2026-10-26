@@ -1,6 +1,6 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Miss Bashful Live · MGNA Crrrta · Luca Eck · Rattlesnakke / Cinthie · Paula Tape · Sama Yax" on Fri, 30 Oct 2026.
+Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Miss Bashful Live · MGNA Crrrta · Luca Eck · Rattlesnakke / Cinthie · Paula Tape · Sama Yax" on Fri, 30 Oct 2026.
 
 Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including 2ManyDJs, Paula Tape, Bad Boombox and Bambounou and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

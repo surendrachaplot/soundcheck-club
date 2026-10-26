@@ -1,6 +1,6 @@
 # xcessive
 
-xcessive is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Treehaus, Uno Malta, Malta on Fri, 30 Oct 2026.
+xcessive is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Treehaus, Uno Malta, Malta on Fri, 30 Oct 2026.
 
 xcessive is a techno and trance artist based in Poland, with 47 gigs on soundcheck across Bucharest, Hamburg, Krakow and Malta and 3 more. Often billed alongside marcelitumelis, Józef Keuner and SCHELLT. Next up: Treehaus, Uno Malta, Malta on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ xcessive is a techno and trance artist based in Poland, with 47 gigs on soundche
 
 marcelitumelis, Józef Keuner, SCHELLT
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xcessive/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xcessive/)*

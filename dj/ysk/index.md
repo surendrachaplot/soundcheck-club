@@ -1,6 +1,6 @@
 # YSK.
 
-YSK. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Sound space α, Kyushu on Sat, 21 Nov 2026.
+YSK. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sound space α, Kyushu on Sat, 21 Nov 2026.
 
 YSK. is a techno and house artist based in Japan, with 32 gigs on soundcheck across Berlin, Hanoi, Hong Kong and Kyushu and 8 more. Often billed alongside OCCA, fleika and Dan-neo. Next up: Sound space α, Kyushu on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ YSK. is a techno and house artist based in Japan, with 32 gigs on soundcheck acr
 
 OCCA, fleika, Dan-neo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysk/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysk/)*

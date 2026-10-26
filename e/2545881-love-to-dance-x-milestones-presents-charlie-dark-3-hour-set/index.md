@@ -1,6 +1,6 @@
-# Love To Dance x Milestones presents: Charlie Dark [3 Hour Set] at The System
+# Love To Dance x Milestones presents: Charlie Dark [3-Hour Set] at The System
 
-Love To Dance x Milestones presents: Charlie Dark [3 Hour Set] at The System on Sat 14 Nov, Sheffield. 3 artists: Charlie Dark, Mucho Maas and Sirrey. Funk / Soul and Jazz. See the line-up on soundcheck.
+Love To Dance x Milestones presents: Charlie Dark [3-Hour Set] at The System on Sat 14 Nov, Sheffield. 3 artists: Charlie Dark, Mucho Maas and Sirrey. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

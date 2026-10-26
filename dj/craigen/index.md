@@ -1,6 +1,6 @@
 # Craigen
 
-Craigen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Ivory Hotel, Glasgow on Sun, 27 Dec 2026.
+Craigen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Ivory Hotel, Glasgow on Sun, 27 Dec 2026.
 
 Craigen is a techno and house artist, with 29 gigs on soundcheck across Glasgow and Manchester. Often billed alongside Decno, Frank Grime and DJ Smoker. Next up: The Ivory Hotel, Glasgow on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Craigen is a techno and house artist, with 29 gigs on soundcheck across Glasgow 
 
 Decno, Frank Grime, DJ Smoker
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigen/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigen/)*

@@ -1,6 +1,6 @@
 # Lycoriscoris
 
-Lycoriscoris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
+Lycoriscoris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
 
 Lycoriscoris is a house and techno artist, with 9 gigs on soundcheck across Berlin, Madrid, Paris and Seoul and 1 more. Often billed alongside ABRAN, Aparde and Chez Tropics. Next up: VENT, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Lycoriscoris is a house and techno artist, with 9 gigs on soundcheck across Berl
 
 ABRAN, Aparde, Chez Tropics
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lycoriscoris/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lycoriscoris/)*

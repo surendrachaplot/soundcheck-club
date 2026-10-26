@@ -1,8 +1,8 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬" on Fri, 30 Oct 2026.
+Underground SF is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬" on Fri, 30 Oct 2026.
 
-Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including 2dahlia, 480P (US), 9-System and ALICE STRIBLING and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including 2dahlia, 480P (US), 9-System and ALICE STRIBLING and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 | Fri, 13 Nov 2026 | CLUB MUSIC 11/13 at UndergroundSF | Andy411, Camillionaire, Mood Ring |
 | Sat, 21 Nov 2026 | hydraphex presents: Freeman 713, Emma Rak, Midnight Climax, 9-System, Stasis Field | 9-System, Emma Rak, Freeman 713, Midnight Climax |
 | Sat, 28 Nov 2026 | OnSet | Mossmoss, Peter Clarke |
+| Sat, 5 Dec 2026 | Hector Moralez and friends presents 'A Vibe Called Tribe' |  |
 | Fri, 18 Dec 2026 | PROX. DJ CZ, Shaper, Héloïse, Bjørne, Peter Clarke, 480P | 480P (US), Bjørn, DJ CZ, Héloïse, Jordan, Peter Clarke |
-| Sat, 19 Dec 2026 | Dark Dayz presents: Avenues Crew |  |
 
 ## Address
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

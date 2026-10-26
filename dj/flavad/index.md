@@ -1,6 +1,6 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Flava D is a Drum & Bass and Bass artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 Flava D is a drum & bass and bass artist based in United Kingdom, with 114 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 39 more. Often billed alongside Andy C, P Money and Whiney. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Flava D is a drum & bass and bass artist based in United Kingdom, with 114 gigs 
 
 Andy C, P Money, Whiney
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*

@@ -1,6 +1,6 @@
 # CJ Bolland
 
-CJ Bolland is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at OST, Berlin on Sat, 12 Dec 2026.
+CJ Bolland is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at OST, Berlin on Sat, 12 Dec 2026.
 
 CJ Bolland is a techno and house artist based in United Kingdom, with 50 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 17 more. Often billed alongside Nosedrip, Fais Le Beau and Bibi Seck. Next up: OST, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ CJ Bolland is a techno and house artist based in United Kingdom, with 50 gigs on
 
 Nosedrip, Fais Le Beau, Bibi Seck
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cjbolland/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cjbolland/)*

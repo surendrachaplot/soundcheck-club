@@ -1,6 +1,6 @@
 # E.LEE
 
-E.LEE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Barbary, Philadelphia on Fri, 30 Oct 2026.
+E.LEE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Barbary, Philadelphia on Fri, 30 Oct 2026.
 
 E.LEE is a techno and club artist, with 9 gigs on soundcheck across Philadelphia. Often billed alongside Kissel, Obreezy Beats and RESONATE.JPEG. Next up: The Barbary, Philadelphia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ E.LEE is a techno and club artist, with 9 gigs on soundcheck across Philadelphia
 
 Kissel, Obreezy Beats, RESONATE.JPEG
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.lee/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.lee/)*

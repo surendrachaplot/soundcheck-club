@@ -1,6 +1,6 @@
 # Dolce Verde
 
-Dolce Verde is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Cross, London on Sat, 31 Oct 2026.
+Dolce Verde is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Cross, London on Sat, 31 Oct 2026.
 
 Dolce Verde is an electronic artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Neidex, Darley and Ardishko. Next up: The Cross, London on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Dolce Verde is an electronic artist based in United Kingdom, with 8 gigs on soun
 
 Neidex, Darley, Ardishko
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolceverde/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolceverde/)*

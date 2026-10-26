@@ -1,14 +1,13 @@
 # Burger Disco Club
 
-Burger Disco Club is a music venue in Athens with 6 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "INTER-ZONE" on Sun, 25 Oct 2026.
+Burger Disco Club is a music venue in Athens with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "FUN LOVING FRIDAYS - HALLOWEEN PULP FICTION" on Fri, 30 Oct 2026.
 
-Burger Disco Club is a music venue in Athens listed on soundcheck. 6 upcoming gigs, with line-ups including Agent Greg, Baby Jones, ClubKid and Dino MFU and 2 more. See dates, start times and who's playing. 11 Nikis St,  Athens, 105 57 GREECE.
+Burger Disco Club is a music venue in Athens listed on soundcheck. 5 upcoming gigs, with line-ups including Agent Greg, Baby Jones, ClubKid and Dino MFU and 2 more. See dates, start times and who's playing. 11 Nikis St,  Athens, 105 57 GREECE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | INTER-ZONE | Nausicaä, Re/Act |
 | Fri, 30 Oct 2026 | FUN LOVING FRIDAYS - HALLOWEEN PULP FICTION | Agent Greg, Dino MFU |
 | Sun, 1 Nov 2026 | HOUSE ON THE BEACH | Baby Jones, Her.s, Lil' Louis |
 | Sun, 15 Nov 2026 | SPACE ODYSSEY | Roubi Roubi Roubi, Vladimir Ivkovic |
@@ -19,4 +18,4 @@ Burger Disco Club is a music venue in Athens listed on soundcheck. 6 upcoming gi
 
 11 Nikis St,  Athens, 105 57 GREECE, Athens
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/burger-disco-club/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/burger-disco-club/)*

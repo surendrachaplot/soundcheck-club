@@ -1,6 +1,6 @@
 # Magda
 
-Magda is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
+Magda is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
 
 Magda is a techno and house artist based in United States of America, with 182 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 60 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: TILLATEC, Amsterdam on Mon 26 Oct.
 
@@ -31,4 +31,4 @@ Magda is a techno and house artist based in United States of America, with 182 g
 
 Mike Servito, Morgan, Tomas Station
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

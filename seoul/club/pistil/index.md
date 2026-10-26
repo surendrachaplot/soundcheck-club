@@ -1,6 +1,6 @@
 # Pistil
 
-Pistil is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Pistil x GLOW Orange Shower" on Fri, 30 Oct 2026.
+Pistil is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Pistil x GLOW Orange Shower" on Fri, 30 Oct 2026.
 
 Pistil is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including COOK SWEET, Sino and Unkelchubbz. See dates, start times and who's playing. 130- 5 Itaewon-dong, Seoul, South Korea.
 
@@ -15,4 +15,4 @@ Pistil is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with lin
 
 130- 5 Itaewon-dong, Seoul, South Korea, Seoul
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*

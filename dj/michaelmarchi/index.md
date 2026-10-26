@@ -1,6 +1,6 @@
 # Michael Marchi
 
-Michael Marchi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Prisma, Berlin on Tue, 27 Oct 2026.
+Michael Marchi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Prisma, Berlin on Tue, 27 Oct 2026.
 
 Michael Marchi is a techno and house artist based in Italy, with 5 gigs on soundcheck across Berlin and Florence. Often billed alongside DJ Kodah, Domovnika and EVYA. Next up: Prisma, Berlin on Tue 27 Oct.
 
@@ -21,4 +21,4 @@ Michael Marchi is a techno and house artist based in Italy, with 5 gigs on sound
 
 DJ Kodah, Domovnika, EVYA
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmarchi/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmarchi/)*

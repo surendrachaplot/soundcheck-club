@@ -1,13 +1,14 @@
 # Julia Kova
 
-Julia Kova is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Brooklyn Monarch, New York City on Wed, 25 Nov 2026.
+Julia Kova is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Brooklyn Monarch, New York City on Wed, 25 Nov 2026.
 
-Julia Kova is a techno and hardcore artist based in United States of America, with 13 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Telesforo, Waaablo and @nimal. Next up: The Brooklyn Monarch, New York City on Wed 25 Nov.
+Julia Kova is a techno and industrial artist based in United States of America, with 14 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Telesforo, Dark Matter and FØSS. Next up: The Brooklyn Monarch, New York City on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 25 Nov 2026 | The Brooklyn Monarch | New York City |
 | Wed, 25 Nov 2026 | The Brooklyn Monarch | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Julia Kova is a techno and hardcore artist based in United States of America, wi
 
 ## Shares bills with
 
-Telesforo, Waaablo, @nimal
+Telesforo, Dark Matter, FØSS
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliakova/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliakova/)*

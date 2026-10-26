@@ -1,6 +1,6 @@
 # Studio1111
 
-Studio1111 is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Studio 1111 HALLOWEEN" on Sat, 31 Oct 2026.
+Studio1111 is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Studio 1111 HALLOWEEN" on Sat, 31 Oct 2026.
 
 Studio1111 is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Arpy Brown, Kapote, Lars Eidinger and ØTTA and 1 more. See dates, start times and who's playing. Potsdamer Str. 96, 10785 Berlin.
 
@@ -17,4 +17,4 @@ Studio1111 is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wit
 
 Potsdamer Str. 96, 10785 Berlin, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*

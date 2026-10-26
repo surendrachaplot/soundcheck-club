@@ -1,6 +1,6 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
+Kirollus is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
 
 Kirollus is a house and disco artist based in United Kingdom, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Elysia, Basel on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ Kirollus is a house and disco artist based in United Kingdom, with 163 gigs on s
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

@@ -1,14 +1,13 @@
 # AIN'T GEORGE
 
-AIN'T GEORGE is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at CIRCOLO BOTULINO, Milan on Sat, 24 Oct 2026.
+AIN'T GEORGE is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at DKR Milano, Milan on Fri, 30 Oct 2026.
 
-AIN'T GEORGE is a techno and idm artist based in Italy, with 81 gigs on soundcheck across Berlin, Milan, Naples and Paris. Often billed alongside Ivan Carbone, Cristian Comes and Damian_Church. Next up: CIRCOLO BOTULINO, Milan on Sat 24 Oct.
+AIN'T GEORGE is a techno and idm artist based in Italy, with 81 gigs on soundcheck across Berlin, Milan, Naples and Paris. Often billed alongside Ivan Carbone, Cristian Comes and Damian_Church. Next up: DKR Milano, Milan on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | CIRCOLO BOTULINO | Milan |
 | Fri, 30 Oct 2026 | DKR Milano | Milan |
 
 ## Recently played
@@ -26,4 +25,4 @@ AIN'T GEORGE is a techno and idm artist based in Italy, with 81 gigs on soundche
 
 Ivan Carbone, Cristian Comes, Damian_Church
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aintgeorge/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aintgeorge/)*

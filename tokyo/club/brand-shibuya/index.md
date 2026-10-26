@@ -1,15 +1,13 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "渋パラ☆1" on Sun, 25 Oct 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "SHIBUYA FREE BOOTH" on Mon, 26 Oct 2026.
 
-BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including ATT, BEPPU, Kentaro Takizawa and Remo-con. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
+BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including ATT, BEPPU, Kentaro Takizawa and Remo-con. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | 渋パラ☆1 |  |
-| Sun, 25 Oct 2026 | Groovy |  |
 | Mon, 26 Oct 2026 | SHIBUYA FREE BOOTH |  |
 | Tue, 27 Oct 2026 | MUSIC BAR -FREE ENTRANCE- |  |
 | Wed, 28 Oct 2026 | MUSIC BAR -FREE ENTRANCE- |  |
@@ -22,4 +20,4 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, w
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F, Tokyo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*

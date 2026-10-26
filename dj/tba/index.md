@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Kult, Belgrade on Wed, 28 Oct 2026.
+TBA is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kult, Belgrade on Wed, 28 Oct 2026.
 
-TBA is a techno and house artist based in Georgia, with 274 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 50 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Kult, Belgrade on Wed 28 Oct.
+TBA is a techno and house artist based in Georgia, with 274 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 49 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Kult, Belgrade on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ TBA is a techno and house artist based in Georgia, with 274 gigs on soundcheck a
 | Wed, 4 Nov 2026 | Kult | Belgrade |
 | Sat, 7 Nov 2026 | Electric Ballroom | London |
 | Wed, 11 Nov 2026 | Kult | Belgrade |
-| Fri, 13 Nov 2026 | Invisible Wind Factory | Liverpool |
 | Fri, 13 Nov 2026 | Temple SF | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | Electric Ballroom | London |
 | Wed, 18 Nov 2026 | Kult | Belgrade |
 | Sat, 21 Nov 2026 | Electric Ballroom | London |
 | Wed, 25 Nov 2026 | Kult | Belgrade |
+| Sat, 28 Nov 2026 | Electric Ballroom | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ TBA is a techno and house artist based in Georgia, with 274 gigs on soundcheck a
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

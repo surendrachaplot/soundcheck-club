@@ -1,6 +1,6 @@
 # Hazmat Live
 
-Hazmat Live is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at HALO DETROIT, Detroit on Wed, 25 Nov 2026.
+Hazmat Live is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at HALO DETROIT, Detroit on Wed, 25 Nov 2026.
 
 Hazmat Live is a techno and electro artist, with 21 gigs on soundcheck across Cleveland and Detroit. Often billed alongside Garrison XR, Sheefy McFly and Tammy Lakkis. Next up: HALO DETROIT, Detroit on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Hazmat Live is a techno and electro artist, with 21 gigs on soundcheck across Cl
 
 Garrison XR, Sheefy McFly, Tammy Lakkis
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hazmatlive/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hazmatlive/)*

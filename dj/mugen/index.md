@@ -1,6 +1,6 @@
 # Mugen
 
-Mugen is a Psytrance and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at MS Stubnitz, Hamburg on Fri, 13 Nov 2026.
+Mugen is a Psytrance and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at MS Stubnitz, Hamburg on Fri, 13 Nov 2026.
 
 Mugen is a psytrance and drum & bass artist, with 5 gigs on soundcheck across Hamburg, London and Osaka. Often billed alongside Fibe, Illusef and Nasra. Next up: MS Stubnitz, Hamburg on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Mugen is a psytrance and drum & bass artist, with 5 gigs on soundcheck across Ha
 
 Fibe, Illusef, Nasra
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mugen/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mugen/)*

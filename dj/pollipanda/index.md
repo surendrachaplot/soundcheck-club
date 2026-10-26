@@ -1,19 +1,19 @@
 # Polli Panda
 
-Polli Panda is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Mr Watson, Amsterdam on Sun, 25 Oct 2026.
+Polli Panda is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 7 Nov 2026.
 
-Polli Panda is a house and electro artist based in Czech Republic, with 39 gigs on soundcheck across Amsterdam, Canary Islands, Hannover and Prague and 2 more. Often billed alongside Abiba Sokoto, DAMN DANIEL and Figlio Böler. Next up: Mr Watson, Amsterdam on Sun 25 Oct.
+Polli Panda is a house and electro artist based in Czech Republic, with 39 gigs on soundcheck across Amsterdam, Canary Islands, Hannover and Prague and 2 more. Often billed alongside Abiba Sokoto, DAMN DANIEL and Figlio Böler. Next up: SISSI'S Amsterdam, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Mr Watson | Amsterdam |
 | Sat, 7 Nov 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | De Sering | Amsterdam |
 
 ## Recently played
 
+- Mr Watson, Amsterdam · Sun, 25 Oct 2026
 - Oberhaum, Amsterdam · Fri, 23 Oct 2026
 - TBA - Gran Canaria , Canary-islands · Sat, 10 Oct 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 3 Oct 2026
@@ -21,10 +21,9 @@ Polli Panda is a house and electro artist based in Czech Republic, with 39 gigs 
 - SISSI'S Amsterdam, Amsterdam · Sat, 3 Oct 2026
 - KABUL à GoGo, Utrecht · Sat, 12 Sept 2026
 - SISSI'S Amsterdam, Amsterdam · Fri, 4 Sept 2026
-- SISSI'S Amsterdam, Amsterdam · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Abiba Sokoto, DAMN DANIEL, Figlio Böler
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pollipanda/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pollipanda/)*

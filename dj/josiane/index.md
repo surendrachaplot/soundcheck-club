@@ -1,6 +1,6 @@
 # Josiane
 
-Josiane is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Josiane is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Josiane is a house and techno artist based in Germany, with 132 gigs on soundcheck across Baden W Rttemberg, Berlin, Cologne and Dortmund / Essen and 7 more. Often billed alongside Lena Brecht, LeVe and Mad Shivers. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Josiane is a house and techno artist based in Germany, with 132 gigs on soundche
 
 Lena Brecht, LeVe, Mad Shivers
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josiane/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josiane/)*

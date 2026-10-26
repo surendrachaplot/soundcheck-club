@@ -1,6 +1,6 @@
 # Space Invadrz Division presents I-F at TBA
 
-Space Invadrz Division presents I-F at TBA on Sat 23 Jan, Cologne. 4 artists: Daniel Englisch, Detune, I-F and Redmadvelvet. See the line-up on soundcheck.
+Space Invadrz Division presents I-F at TBA on Sat 23 Jan, Cologne. 4 artists: Daniel Englisch, Detune, I-F and Redmadvelvet. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Eastside Jon
 
-Eastside Jon is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Woodbridge Pub, Detroit on Mon, 26 Oct 2026.
+Eastside Jon is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Woodbridge Pub, Detroit on Mon, 26 Oct 2026.
 
 Eastside Jon is a funk / soul and disco artist based in United States of America, with 160 gigs on soundcheck across Detroit. Often billed alongside ERNO (US), John Collins (US) and dej.y. Next up: Woodbridge Pub, Detroit on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Eastside Jon is a funk / soul and disco artist based in United States of America
 
 ERNO (US), John Collins (US), dej.y
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eastsidejon/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eastsidejon/)*

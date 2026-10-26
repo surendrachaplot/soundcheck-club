@@ -1,6 +1,6 @@
 # D-Vibe
 
-D-Vibe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at IT Athens, Athens on Fri, 30 Oct 2026.
+D-Vibe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at IT Athens, Athens on Fri, 30 Oct 2026.
 
 D-Vibe is a techno and trance artist, with 18 gigs on soundcheck across Athens. Often billed alongside Nick Pappas, Anna V. and Olga. Next up: IT Athens, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ D-Vibe is a techno and trance artist, with 18 gigs on soundcheck across Athens. 
 
 Nick Pappas, Anna V., Olga (1)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-vibe/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-vibe/)*

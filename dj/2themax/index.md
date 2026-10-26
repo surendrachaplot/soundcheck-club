@@ -1,6 +1,6 @@
 # 2THEMAX
 
-2THEMAX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+2THEMAX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
 
 2THEMAX is a techno and trance artist based in Finland, with 31 gigs on soundcheck across Berlin, Helsinki, Leipzig and London. Often billed alongside CEB (FI), KEMIK and Sallidoing. Next up: OST, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@
 
 CEB (FI), KEMIK, Sallidoing
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2themax/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2themax/)*

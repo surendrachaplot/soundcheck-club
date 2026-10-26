@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Halloween x Club Inferno" on Sat, 31 Oct 2026.
+La Terrrazza is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Halloween x Club Inferno" on Sat, 31 Oct 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Arnau Obiols, beGun, Louie Vega and TWO EX. See dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -17,4 +17,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

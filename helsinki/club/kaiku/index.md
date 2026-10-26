@@ -1,6 +1,6 @@
 # Kaiku
 
-Kaiku is a music venue in Helsinki with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Pearl: Nørbak (PT)" on Fri, 30 Oct 2026.
+Kaiku is a music venue in Helsinki with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Pearl: Nørbak (PT)" on Fri, 30 Oct 2026.
 
 Kaiku is a music venue in Helsinki listed on soundcheck. 5 upcoming gigs, with line-ups including Andy Garvey, Basit Soomro, Daniel Kayrouz and DJ Fart in the Club and 2 more. See dates, start times and who's playing. Kaikukatu 4; 00530 Helsinki; Finland.
 
@@ -18,4 +18,4 @@ Kaiku is a music venue in Helsinki listed on soundcheck. 5 upcoming gigs, with l
 
 Kaikukatu 4; 00530 Helsinki; Finland, Helsinki
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*

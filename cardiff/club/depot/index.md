@@ -1,6 +1,6 @@
 # Depot
 
-Depot is a music venue in Cardiff with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Shangri-La presents: bullet tooth" on Fri, 30 Oct 2026.
+Depot is a music venue in Cardiff with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Shangri-La presents: bullet tooth" on Fri, 30 Oct 2026.
 
 Depot is a music venue in Cardiff listed on soundcheck. 5 upcoming gigs, with line-ups including bullet tooth, Cam Stockman, John Digweed and Ewan McVicar and 2 more. See dates, start times and who's playing. DEPOT Cardiff  Williams Way,  Curran Embankment,  Cardiff  CF10 5DY,  Wales.
 
@@ -18,4 +18,4 @@ Depot is a music venue in Cardiff listed on soundcheck. 5 upcoming gigs, with li
 
 DEPOT Cardiff  Williams Way,  Curran Embankment,  Cardiff  CF10 5DY,  Wales, Cardiff
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/depot/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/depot/)*

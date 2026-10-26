@@ -1,6 +1,6 @@
 # Spektiv
 
-Spektiv is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at The Croft, Bristol on Wed, 28 Oct 2026.
+Spektiv is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Croft, Bristol on Wed, 28 Oct 2026.
 
 Spektiv is a drum & bass and dubstep artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Brighton, Bristol and London and 1 more. Often billed alongside Rizzle, Geostatic and Halogenix. Next up: The Croft, Bristol on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Spektiv is a drum & bass and dubstep artist based in United Kingdom, with 18 gig
 
 Rizzle, Geostatic, Halogenix
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spektiv/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spektiv/)*

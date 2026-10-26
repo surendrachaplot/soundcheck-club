@@ -1,6 +1,6 @@
 # Dazee
 
-Dazee is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at The Clock Factory, Bristol on Fri, 20 Nov 2026.
+Dazee is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Clock Factory, Bristol on Fri, 20 Nov 2026.
 
 Dazee is a drum & bass and jungle artist based in Italy, with 17 gigs on soundcheck across Bristol, Ibiza and London. Often billed alongside Jakes, Carasel and Bryan Gee. Next up: The Clock Factory, Bristol on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Dazee is a drum & bass and jungle artist based in Italy, with 17 gigs on soundch
 
 Jakes, Carasel, Bryan Gee
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazee/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazee/)*

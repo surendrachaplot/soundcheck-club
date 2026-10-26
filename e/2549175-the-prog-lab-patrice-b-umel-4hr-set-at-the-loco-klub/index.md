@@ -1,6 +1,6 @@
 # The Prog Lab - Patrice Bäumel (4hr set) at The Loco Klub
 
-The Prog Lab - Patrice Bäumel (4hr set) at The Loco Klub on Sat 23 Jan, Bristol. 2 artists: Jawjee and Patrice Bäumel. See the line-up on soundcheck.
+The Prog Lab - Patrice Bäumel (4hr set) at The Loco Klub on Sat 23 Jan, Bristol. 2 artists: Jawjee and Patrice Bäumel. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

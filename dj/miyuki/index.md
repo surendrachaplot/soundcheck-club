@@ -1,6 +1,6 @@
 # MIYUKI
 
-MIYUKI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at 88block, Tokyo on Sat, 7 Nov 2026.
+MIYUKI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 88block, Tokyo on Sat, 7 Nov 2026.
 
 MIYUKI is a trance and techno artist based in Canada, with 8 gigs on soundcheck across Austin, Dallas/Fort Worth, Los Angeles and New York City and 3 more. Often billed alongside Angel (GR), Buzz and DJ B2B. Next up: 88block, Tokyo on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ MIYUKI is a trance and techno artist based in Canada, with 8 gigs on soundcheck 
 
 Angel (GR), Buzz, DJ B2B
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyuki/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyuki/)*

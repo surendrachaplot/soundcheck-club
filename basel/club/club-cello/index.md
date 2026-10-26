@@ -1,6 +1,6 @@
 # Club Cello
 
-Club Cello is a music venue in Basel with 4 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Essence Label Night" on Fri, 6 Nov 2026.
+Club Cello is a music venue in Basel with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Essence Label Night" on Fri, 6 Nov 2026.
 
 Club Cello is a music venue in Basel listed on soundcheck. 4 upcoming gigs, with line-ups including Duorhythm, Ed Luis, George Morel and Isidore and 1 more. See dates, start times and who's playing. marktplatz 34 - 4001 basel.
 
@@ -17,4 +17,4 @@ Club Cello is a music venue in Basel listed on soundcheck. 4 upcoming gigs, with
 
 marktplatz 34 - 4001 basel, Basel
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/club-cello/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/club-cello/)*

@@ -1,6 +1,6 @@
 # Diluet
 
-Diluet is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Diluet is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 Diluet is a techno and electronica artist based in Colombia, with 11 gigs on soundcheck across Bogotá. Often billed alongside COBRETTI, Dubnivm and Sub Chunk. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Diluet is a techno and electronica artist based in Colombia, with 11 gigs on sou
 
 COBRETTI, Dubnivm, Sub Chunk
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diluet/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diluet/)*

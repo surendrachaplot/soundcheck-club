@@ -1,6 +1,6 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+Armand Van Helden is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 Armand Van Helden is a house and disco artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 43 more. Often billed alongside MiNNA, Fatzo and Oden. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -34,4 +34,4 @@ Armand Van Helden is a house and disco artist based in United States of America,
 
 MiNNA, Fatzo, Oden
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "House of Lunacy Halloween Ball - The Danse Macabre" on Thu, 29 Oct 2026.
+Renate is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "House of Lunacy Halloween Ball - The Danse Macabre" on Thu, 29 Oct 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Abstraxion, Adlas, Adri Alibi and Alexandra and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Renate is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with l
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

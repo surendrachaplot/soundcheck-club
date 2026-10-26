@@ -1,6 +1,6 @@
 # JANO (4)
 
-JANO (4) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. Next at Bodeek, Brussels on Wed, 28 Oct 2026.
+JANO (4) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bodeek, Brussels on Wed, 28 Oct 2026.
 
 JANO is a trance and techno artist, with 8 gigs on soundcheck across Berlin, Brussels and Stuttgart. Often billed alongside crystal crimez, Nick Hurton and BUFFY. Next up: Bodeek, Brussels on Wed 28 Oct.
 
@@ -24,4 +24,4 @@ JANO is a trance and techno artist, with 8 gigs on soundcheck across Berlin, Bru
 
 crystal crimez (2), Nick Hurton, BUFFY (2)
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jano-4/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jano-4/)*

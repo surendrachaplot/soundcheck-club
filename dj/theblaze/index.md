@@ -1,6 +1,6 @@
 # The Blaze
 
-The Blaze is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. Next at Knockdown Center, New York City on Wed, 28 Oct 2026.
+The Blaze is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Knockdown Center, New York City on Wed, 28 Oct 2026.
 
 The Blaze is a house and techno artist based in France, with 58 gigs on soundcheck across Amsterdam, Barcelona, Bordeaux and Brussels and 27 more. Often billed alongside Jayda G, Miss Monique and Eliza Rose. Next up: Knockdown Center, New York City on Wed 28 Oct.
 
@@ -29,4 +29,4 @@ The Blaze is a house and techno artist based in France, with 58 gigs on soundche
 
 Jayda G, Miss Monique, Eliza Rose
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*
