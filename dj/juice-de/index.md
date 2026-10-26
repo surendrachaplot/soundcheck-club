@@ -1,14 +1,13 @@
 # JUICY (DE)
 
-JUICY (DE) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Der Weiße Hase, Berlin on Tue, 27 Oct 2026.
+JUICY (DE) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 28 Nov 2026.
 
-JUICY (DE) is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside SATYS FYRE, FEUCHT & FURIOUS and DETOXX. Next up: Der Weiße Hase, Berlin on Tue 27 Oct.
+JUICY (DE) is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside SATYS FYRE, FEUCHT & FURIOUS and DETOXX. Next up: Lokschuppen Berlin, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 27 Oct 2026 | Der Weiße Hase | Berlin |
 | Sat, 28 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 

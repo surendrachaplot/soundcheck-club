@@ -1,14 +1,13 @@
 # Grace Dahl
 
-Grace Dahl is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
+Grace Dahl is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Selva Club, East on Sat, 7 Nov 2026.
 
-Grace Dahl is a techno and house artist based in Netherlands, with 264 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Lobster (NL), Yanamaste and Alarico. Next up: RADION, Amsterdam on Sun 25 Oct.
+Grace Dahl is a techno and house artist based in Netherlands, with 264 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Lobster (NL), Yanamaste and Alarico. Next up: Selva Club, East on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Sat, 7 Nov 2026 | Selva Club | East |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
 | Fri, 20 Nov 2026 | Schrotty | Cologne |

@@ -8,7 +8,7 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 14 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Wrong Way Home: Launch Party [DnB, Jungle] | BLKC (2), Mojay |
+| Thu, 29 Oct 2026 | Wrong Way Home: Launch Party [DnB, Jungle] | BLKC (2), HIYDROW, Mojay |
 | Sat, 31 Oct 2026 | Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May | Alien Communications, CRL (1), DMX Krew, Kristina May |
 | Sun, 1 Nov 2026 | Sunday Best presents an afternoon with Bent (live) & Rob da Bank |  |
 | Sat, 7 Nov 2026 | KOBA presents: Dunmore Brothers, JNJS & JIMO Fi | Dunmore Brothers, JNJS |

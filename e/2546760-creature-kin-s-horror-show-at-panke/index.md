@@ -11,6 +11,6 @@ Creature Kin's Horror Show at Panke on Sat 31 Oct, Berlin. 2 artists: malicedeej
 ## Line-up
 
 - malicedeejay
-- Moreno
+- Moreno (4)
 
 *Source: [soundcheck](https://soundcheck.club/e/2546760-creature-kin-s-horror-show-at-panke/)*

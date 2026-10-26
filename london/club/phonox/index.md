@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 41 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Insomnia London: Yves Tomas, Roaming Data, Lucine, Brody James" on Thu, 29 Oct 2026.
+Phonox is a music venue in London with 41 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Insomnia Halloween Special (4AM)" on Thu, 29 Oct 2026.
 
 Phonox is a music venue in London listed on soundcheck. 41 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -8,7 +8,7 @@ Phonox is a music venue in London listed on soundcheck. 41 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Insomnia London: Yves Tomas, Roaming Data, Lucine, Brody James | Brody James, Lucine, Roaming Data, Yves Tomas |
+| Thu, 29 Oct 2026 | Insomnia Halloween Special (4AM) | Brody James, Lucine, Roaming Data, Yves Tomas |
 | Fri, 30 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, Melé, Djammin | Djammin, Melé, p-rallel |
 | Sat, 31 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, PROZAK, CASNOVA, AMY OS - TICKETS FOR FRIDAY 30TH REMAIN | Amy Os, Casnova, Prozak (IRL), p-rallel |
 | Sat, 31 Oct 2026 | FMS 6 Deck - London |  |

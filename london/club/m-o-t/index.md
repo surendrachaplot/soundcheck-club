@@ -13,7 +13,7 @@ M.O.T is a music venue in London listed on soundcheck. 37 upcoming gigs, with li
 | Fri, 30 Oct 2026 | 10Foot x DaMetalMessiah x Percy Mingle: Halloween Special | Doc Scott, FAUZIA, Jon E Cash, Mantra, Martin Larner, Morgan Elder |
 | Sat, 31 Oct 2026 | Nikki Nair, I.JORDAN, Addison Groove, Jenny Sparks - Halloween - Venue MOT | Addison Groove, I. JORDAN, Nikki Nair |
 | Thu, 5 Nov 2026 | Techno In LONDON - OPEN DECKS & SOCIAL |  |
-| Thu, 5 Nov 2026 | PLAX : Cuttenimid KATAINAKA picnics RAAANDY Silv-o Woody Boase | KATAINAKA, RAAANDY, Silv-o, Woody Boase |
+| Thu, 5 Nov 2026 | PLAX : Cuttenimid KATAINAKA picnics RAAANDY Silv-o Woody Boase | Cuttenimid, KATAINAKA, RAAANDY, Silv-o, Woody Boase |
 | Fri, 6 Nov 2026 | Suplex Round 3: The Bermondsey Body Slam w/ Minor Science & livwutang | Compliments, DJ Trebuchet, Daksh, Minor Science, livwutang |
 | Fri, 6 Nov 2026 | Slipline with Felix Dickinson & Noizar | Felix Dickinson, Noizar, Thoughtful Ken |
 | Sat, 7 Nov 2026 | Workforce (Extended Set), Ephyra (Liquid Set), Blackeye MC at Venue M.O.T  | Blackeye MC, Workforce |

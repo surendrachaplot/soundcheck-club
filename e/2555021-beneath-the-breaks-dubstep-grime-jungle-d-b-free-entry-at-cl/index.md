@@ -1,6 +1,6 @@
 # BENEATH THE BREAKS: Dubstep, Grime, Jungle, D&B - FREE ENTRY at Club Makossa
 
-BENEATH THE BREAKS: Dubstep, Grime, Jungle, D&B - FREE ENTRY at Club Makossa on Thu 5 Nov, London. 3 artists: karishma, NISHABYNIGHT and VERTEX. Dubstep and Jungle. See the line-up on soundcheck.
+BENEATH THE BREAKS: Dubstep, Grime, Jungle, D&B - FREE ENTRY at Club Makossa on Thu 5 Nov, London. 4 artists: ItsJermayne, karishma, NISHABYNIGHT and VERTEX. Dubstep and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BENEATH THE BREAKS: Dubstep, Grime, Jungle, D&B - FREE ENTRY at Club Makossa on 
 
 ## Line-up
 
+- ItsJermayne
 - karishma
 - NISHABYNIGHT
 - VERTEX (2)

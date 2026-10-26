@@ -1,6 +1,6 @@
 # 06.11 - SECRET RAVE VOL. 2 - MOIA - 4 STAGES - 40 DJs - 18 at TBA - Secret Location (passed 2h before event)
 
-06.11 - SECRET RAVE VOL. 2 - MOIA - 4 STAGES - 40 DJs - 18 at TBA - Secret Location (passed 2h before event) on Fri 6 Nov, Warsaw. 9 artists: Casper Weiss, Francesca (PL), Granatka and KEVS and 5 more. Techno and House. See the line-up on soundcheck.
+06.11 - SECRET RAVE VOL. 2 - MOIA - 4 STAGES - 40 DJs - 18 at TBA - Secret Location (passed 2h before event) on Fri 6 Nov, Warsaw. 11 artists: B93 (PL), Casper Weiss, Francesca (PL) and Granatka and 7 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,13 @@
 
 ## Line-up
 
+- B93 (PL)
 - Casper Weiss
 - Francesca (PL)
 - Granatka
 - KEVS
 - MOIA
+- Pielson
 - SYS.END
 - TECHNOVY
 - Vera Verano

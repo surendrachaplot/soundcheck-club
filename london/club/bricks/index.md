@@ -12,7 +12,7 @@ Bricks is a music venue in London listed on soundcheck. 12 upcoming gigs, with l
 | Sat, 31 Oct 2026 | HALLOWEEN BOOGIE: DISCO. FUNK. NO COSTUME NO ENTRY |  |
 | Fri, 6 Nov 2026 | Juice Rekords |  |
 | Fri, 6 Nov 2026 | SYCAMORE.club | Henson, Parff |
-| Fri, 13 Nov 2026 | Grooves For Good X Bricks | CHICCA, Caspa Mono, DJ Bowlcut, Defunked, Lysander, OJ Willis |
+| Fri, 13 Nov 2026 | Grooves For Good X Bricks | CHICCA, Caspa Mono, DJ Bowlcut, Defunked, Lysander, OJ Willis, Rivera (UK) |
 | Sat, 14 Nov 2026 | Type One Community: Third Birthday | Antepop, Kyle Parsley, Timor, ohmydais |
 | Fri, 20 Nov 2026 | Rhythmic Addiction | Braaks, Malin Genie, Max Sinàl |
 | Fri, 20 Nov 2026 | ADVANCED DANCE | ewing |

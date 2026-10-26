@@ -1,17 +1,18 @@
 # Music BAR Bounce
 
-Music BAR Bounce is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Music BAR Bounce" on Sun, 25 Oct 2026.
+Music BAR Bounce is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Music BAR Bounce" on Sat, 24 Oct 2026.
 
-Music BAR Bounce is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−19−12 東洋道玄坂ビル 2階.
+Music BAR Bounce is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−19−12 東洋道玄坂ビル 2階.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Music BAR Bounce |  |
 | Sun, 25 Oct 2026 | Music BAR Bounce |  |
 
 ## Address
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−19−12 東洋道玄坂ビル 2階, Tokyo
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/music-bar-bounce/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/music-bar-bounce/)*

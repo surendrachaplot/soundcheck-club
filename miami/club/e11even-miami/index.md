@@ -1,14 +1,13 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Chizzle at E11EVEN" on Sun, 25 Oct 2026.
+E11EVEN MIAMI is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Five Venoms at E11EVEN" on Mon, 26 Oct 2026.
 
-E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 7 upcoming gigs, with line-ups including Gordo. See dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
+E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 6 upcoming gigs, with line-ups including Gordo. See dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Chizzle at E11EVEN |  |
 | Mon, 26 Oct 2026 | Five Venoms at E11EVEN |  |
 | Wed, 28 Oct 2026 | E11EVEN Halloween Week ft Renn Mateos |  |
 | Thu, 29 Oct 2026 | E11EVEN Halloween Week ft Damaged Goods |  |

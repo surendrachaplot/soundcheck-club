@@ -8,7 +8,7 @@ TAC (Tottenham Arts Collective) is a music venue in London listed on soundcheck.
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | dnbtherapy: Mischief Night [Halloween / TAC Club Launch] | Abby Daze, Bailey (UK), Congo Natty, DJ Kane (1), DJ Stretch, DJRon, MC GQ, MC Gusto, Marly Marl, Navigator, Ray Keith, The Ragga Twins |
+| Fri, 30 Oct 2026 | dnbtherapy: Mischief Night [Halloween / TAC Club Launch] | Abby Daze, Bailey (UK), Congo Natty, DJ Kane (1), DJ Stretch, DJRon, HIYDROW, MC GQ, MC Gusto, Marly Marl, Navigator, Ray Keith, The Ragga Twins |
 | Sat, 31 Oct 2026 | Insomnia London Halloween Special: Pete Cannon, Mantra, Benton & Killa P, Fonzo + more | Benton (UK), Fonzo (UK), Killa P, Mani Festo, Mantra, Pete Cannon, Rebekah Abdeen, Smiff, Triple Point, Yasmine (UK), mixtress |
 | Fri, 4 Dec 2026 | Louder Rooms: Return Signal | Kalila, Lola (UK), Noisy Neighbour, Product Of Us, Russ Yallop, Seem Samuel |
 | Sun, 6 Dec 2026 | FANG |  |

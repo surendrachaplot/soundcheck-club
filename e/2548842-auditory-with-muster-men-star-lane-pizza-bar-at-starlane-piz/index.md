@@ -1,6 +1,6 @@
 # Auditory with Muster Men — Star Lane Pizza Bar at Starlane Pizza Bar
 
-Auditory with Muster Men — Star Lane Pizza Bar at Starlane Pizza Bar on Sat 28 Nov, London. 5 artists: Calla, Muster Men, Myles Apps and Rhys Dyer and 1 more. Tech House and Electro. See the line-up on soundcheck.
+Auditory with Muster Men — Star Lane Pizza Bar at Starlane Pizza Bar on Sat 28 Nov, London. 6 artists: Brenen, Calla, Muster Men and Myles Apps and 2 more. Tech House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Auditory with Muster Men — Star Lane Pizza Bar at Starlane Pizza Bar on Sat 28
 
 ## Line-up
 
+- Brenen
 - Calla
 - Muster Men
 - Myles Apps

@@ -1,6 +1,6 @@
 # Suplex Round 3: The Bermondsey Body Slam at M.O.T
 
-Suplex Round 3: The Bermondsey Body Slam at M.O.T on Fri 6 Nov, London. 5 artists: Compliments, Daksh, DJ Trebuchet and livwutang and 1 more. Bass and Club. See the line-up on soundcheck.
+Suplex Round 3: The Bermondsey Body Slam at M.O.T on Fri 6 Nov, London. 4 artists: Compliments, Daksh, DJ Trebuchet and Minor Science. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Suplex Round 3: The Bermondsey Body Slam at M.O.T on Fri 6 Nov, London. 5 artist
 - Compliments
 - Daksh
 - DJ Trebuchet
-- livwutang
 - Minor Science
 
 *Source: [soundcheck](https://soundcheck.club/e/2512735-suplex-round-3-the-bermondsey-body-slam-at-m-o-t/)*

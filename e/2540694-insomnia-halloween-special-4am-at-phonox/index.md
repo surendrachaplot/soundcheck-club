@@ -1,0 +1,18 @@
+# Insomnia Halloween Special (4AM) at Phonox
+
+Insomnia Halloween Special (4AM) at Phonox on Thu 29 Oct, London. 4 artists: Brody James, Lucine, Roaming Data and Yves Tomas. House and Bass. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 29 Oct 2026 |
+| Venue | Phonox |
+| City | London |
+
+## Line-up
+
+- Brody James
+- Lucine
+- Roaming Data
+- Yves Tomas
+
+*Source: [soundcheck](https://soundcheck.club/e/2540694-insomnia-halloween-special-4am-at-phonox/)*

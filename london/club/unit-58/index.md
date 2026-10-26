@@ -10,7 +10,7 @@ Unit 58 is a music venue in London listed on soundcheck. 3 upcoming gigs, with l
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Disco Exotic HALLOWEEN FIESTA - Warehouse Special (Disco, House + World Boogie) with Grace Sands | Al Gray, Grace Sands, Pempsey, Sue From HR, T Sounds, boogielou |
 | Fri, 6 Nov 2026 | POUFFE#2 | HOLY C, Marie Malarie, S_STEELE, luvandula, teleopath |
-| Fri, 13 Nov 2026 | Last Dance 3: Michelle Manetti, Adam Curtain | Adam Curtain, Michelle Manetti |
+| Fri, 13 Nov 2026 | Last Dance: Michelle Manetti, Adam Curtain | Adam Curtain, Michelle Manetti |
 
 ## Address
 

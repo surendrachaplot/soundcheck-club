@@ -1,10 +1,10 @@
 # Hootenanny: Erwan Keravec, Or Sobre Blau, Camberwell Group, Lily Beltane at Ormside Projects
 
-Hootenanny: Erwan Keravec, Or Sobre Blau, Camberwell Group, Lily Beltane at Ormside Projects on Thu 3 Dec, London. Experimental and Pop. See the line-up on soundcheck.
+Hootenanny: Erwan Keravec, Or Sobre Blau, Camberwell Group, Lily Beltane at Ormside Projects on Wed 2 Dec, London. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 3 Dec 2026 |
+| Date | Wed, 2 Dec 2026 |
 | Venue | Ormside Projects |
 | City | London |
 

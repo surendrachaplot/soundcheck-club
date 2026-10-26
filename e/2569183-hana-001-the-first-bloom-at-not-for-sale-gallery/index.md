@@ -1,6 +1,6 @@
-# 華 HANA 001 · The First Bloom at Not For Sale Gallery
+# HANA 001 · The First Bloom at Not For Sale Gallery
 
-華 HANA 001 · The First Bloom at Not For Sale Gallery on Sun 15 Nov, London. 5 artists: D LAI, EMI, Fresh Lov3 and SCYLLA and 1 more. Techno. See the line-up on soundcheck.
+HANA 001 · The First Bloom at Not For Sale Gallery on Sun 15 Nov, London. 5 artists: D LAI, EMI, Fresh Lov3 and SCYLLA and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

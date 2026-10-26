@@ -1,14 +1,13 @@
 # Numm
 
-Numm is a music venue in Tokyo with 25 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "深層音楽会" on Mon, 26 Oct 2026.
+Numm is a music venue in Tokyo with 24 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "GROLIA" on Tue, 27 Oct 2026.
 
-Numm is a music venue in Tokyo listed on soundcheck. 25 upcoming gigs, with line-ups including AiMii, Chee Shimizu, Da Yama and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
+Numm is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, with line-ups including Chee Shimizu, Dazzle Drums, Kaoru Inoue and MINAMI and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | 深層音楽会 | AiMii, Da Yama, tnseei |
 | Tue, 27 Oct 2026 | GROLIA |  |
 | Wed, 28 Oct 2026 | CounterPoint | PIRANHA |
 | Thu, 29 Oct 2026 | Free Bird Club session 001 |  |
@@ -18,6 +17,7 @@ Numm is a music venue in Tokyo listed on soundcheck. 25 upcoming gigs, with line
 | Sat, 31 Oct 2026 | YardBirds - VIP Party For The Unknown - Halloween Edition |  |
 | Sun, 1 Nov 2026 | SUNDAY DISCO SESSION 日曜日が待ち遠しい！ |  |
 | Mon, 2 Nov 2026 | Vinilul pre-holiday |  |
+| Tue, 3 Nov 2026 | CPCD |  |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # Moshi Rave at Brixton Jamm
 
-Moshi Rave at Brixton Jamm on Thu 29 Oct, London. 2 artists: alterum and Jaymie. Hardcore and Gabber. See the line-up on soundcheck.
+Moshi Rave at Brixton Jamm on Thu 29 Oct, London. 3 artists: alterum, Jaymie and PISSGOBLIN. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Moshi Rave at Brixton Jamm on Thu 29 Oct, London. 2 artists: alterum and Jaymie.
 
 - alterum
 - Jaymie
+- PISSGOBLIN
 
 *Source: [soundcheck](https://soundcheck.club/e/2543939-moshi-rave-at-brixton-jamm/)*

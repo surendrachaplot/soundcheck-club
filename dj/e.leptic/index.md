@@ -1,8 +1,8 @@
 # e.leptic
 
-e.leptic is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at KitKatClub, Berlin on Thu, 5 Nov 2026.
+e.leptic is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at KitKatClub, Berlin on Thu, 5 Nov 2026.
 
-e.leptic is a techno and trance artist based in Germany, with 46 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside EZA (DE), MIMI404 and E.T.. Next up: KitKatClub, Berlin on Thu 5 Nov.
+e.leptic is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside EZA (DE), MIMI404 and E.T.. Next up: KitKatClub, Berlin on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ e.leptic is a techno and trance artist based in Germany, with 46 gigs on soundch
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | KitKatClub | Berlin |
 | Fri, 6 Nov 2026 | Lokschuppen Berlin | Berlin |
+| Thu, 12 Nov 2026 | OST | Berlin |
 | Fri, 13 Nov 2026 | ÆDEN | Berlin |
 
 ## Recently played

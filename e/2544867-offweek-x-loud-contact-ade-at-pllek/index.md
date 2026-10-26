@@ -1,6 +1,6 @@
 # Offweek x Loud-Contact - ADE at Pllek
 
-Offweek x Loud-Contact - ADE at Pllek on Sun 25 Oct, Amsterdam. 11 artists: Charmeine, Fideles, Ivan Smagghe and Lumiere and 7 more. See the line-up on soundcheck.
+Offweek x Loud-Contact - ADE at Pllek on Sun 25 Oct, Amsterdam. 10 artists: Charmeine, Fideles, Ivan Smagghe and Lumiere and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,7 +16,6 @@ Offweek x Loud-Contact - ADE at Pllek on Sun 25 Oct, Amsterdam. 11 artists: Char
 - Lumiere
 - MALENA
 - Mathame
-- Mind Against
 - Miss Kittin
 - Nicolas Lutz
 - Onur Özer

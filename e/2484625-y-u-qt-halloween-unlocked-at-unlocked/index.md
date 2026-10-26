@@ -1,6 +1,6 @@
 # Y U QT - Halloween @ UNLOCKED at UNLOCKED
 
-Y U QT - Halloween @ UNLOCKED on Fri 30 Oct, London. 3 artists: Ned Bennett, Sam Girling and Y U QT. See the line-up on soundcheck.
+Y U QT - Halloween @ UNLOCKED on Fri 30 Oct, London. 5 artists: Jolani Jhones, Ned Bennett, ryota dj and Sam Girling and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Y U QT - Halloween @ UNLOCKED on Fri 30 Oct, London. 3 artists: Ned Bennett, Sam
 
 ## Line-up
 
+- Jolani Jhones
 - Ned Bennett
+- ryota dj
 - Sam Girling
 - Y U QT
 

@@ -1,6 +1,6 @@
 # TBA - Inner North
 
-TBA - Inner North is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "PLATES26 Launch - AWHM, anna(n), Narainee, Shugo Noss" on Sat, 24 Oct 2026.
+TBA - Inner North is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "PLATES26 Launch - AWHM, anna(n), Narainee, Shugo Noss" on Sat, 24 Oct 2026.
 
 TBA - Inner North is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including anna(n), AWHM, Narainee and Shugo Noss. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Inner North is a music venue in Melbourne listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | PLATES26 Launch - AWHM, anna(n), Narainee, Shugo Noss | AWHM, Narainee, Shugo Noss, anna(n) |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-inner-north/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-inner-north/)*

@@ -5284,7 +5284,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1792793726986">
+<meta name="sc-build" content="1793036717256">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5344,7 +5344,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">106 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">141 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">25 events</span></a></li><li><a href="/london/2026-10-26/">Mon 26 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-27/">Tue 27 Oct <span class="c">7 events</span></a></li><li><a href="/london/2026-10-28/">Wed 28 Oct <span class="c">14 events</span></a></li><li><a href="/london/2026-10-29/">Thu 29 Oct <span class="c">54 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-26/">Mon 26 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-27/">Tue 27 Oct <span class="c">7 events</span></a></li><li><a href="/london/2026-10-28/">Wed 28 Oct <span class="c">14 events</span></a></li><li><a href="/london/2026-10-29/">Thu 29 Oct <span class="c">55 events</span></a></li><li><a href="/london/2026-10-30/">Fri 30 Oct <span class="c">132 events</span></a></li><li><a href="/london/2026-10-31/">Sat 31 Oct <span class="c">216 events</span></a></li><li><a href="/london/2026-11-01/">Sun 1 Nov <span class="c">33 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -10691,11 +10691,12 @@ a.dst-full-t:hover{text-decoration:underline}
     // has one, else save the image and copy the profile link.
     async function dstShare(d, handle){
       trkShare('stub');
-      var link='https://soundcheck.club/u/'+handle;
+      // the link opens THIS stub (openProfile reads ?gig=), so a friend can play its clip
+      var link='https://soundcheck.club/u/'+handle+'/?gig='+encodeURIComponent(d.id), text=d.clip?'Hear the clip: '+link:link;
       try{
         var r=await fetch(dstCardSrc(d,'story')); if(!r.ok) throw 0;
         var blob=await r.blob(), name='soundcheck-gig-'+d.id+'.png', file=new File([blob],name,{type:'image/png'});
-        if(navigator.canShare && navigator.canShare({files:[file]})){ await navigator.share({ files:[file], title:dstTitle(d), text:link }); return; }
+        if(navigator.canShare && navigator.canShare({files:[file]})){ await navigator.share({ files:[file], title:dstTitle(d), text:text }); return; }
         var a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=name; document.body.appendChild(a); a.click(); a.remove();
         setTimeout(function(){ URL.revokeObjectURL(a.href); }, 4000);
         try{ await navigator.clipboard.writeText(link); showToast('Card saved + link copied'); }catch(_){ showToast('Card saved'); }
@@ -11661,8 +11662,11 @@ a.dst-full-t:hover{text-decoration:underline}
         panel.querySelectorAll('.pf-box[data-sub]').forEach(function(bx){ bx.classList.toggle('hide', bx.dataset.sub!==b.dataset.sub); });
       }); });
     }
+    // ?gig=<id> from a shared stub (dstShare). Read at load: the boot rewrites the query (?date=) before the profile opens.
+    var _sharedGig=(function(){ try{ return new URLSearchParams(location.search).get('gig'); }catch(_){ return null; } })();
     async function openProfile(handle){
       var _deepTab=(location.hash||'').replace(/^#/,'');   // capture BEFORE setRoute may clear the hash
+      var _gig=_sharedGig; _sharedGig=null;   // a shared stub link: open that stub on top, once
       setRoute('u/'+handle);
       openPanel(pageSkeleton());
       try{
@@ -11677,10 +11681,12 @@ a.dst-full-t:hover{text-decoration:underline}
           var ub=document.getElementById('pb-unblock'); if(ub) ub.addEventListener('click', function(){ ugcBlock(p.handle, false); });
           return;
         }
-        if(p.locked){ openPanel('<div class="pb-root"><div class="pb-cover"><div class="pb-brand"><b>soundcheck</b> · passport</div></div><div class="empty" style="margin-top:18px">This diary is private.</div></div>'); wireProfile(); armSticky(p.displayName||('u/'+p.handle), null, (panelBody&&panelBody.querySelector('.pb-cover'))||document.getElementById('page-body')); return; }
+        if(p.locked){ openPanel('<div class="pb-root"><div class="pb-cover"><div class="pb-brand"><b>soundcheck</b> · music diary</div></div><div class="empty" style="margin-top:18px">This diary is private.</div></div>'); wireProfile(); armSticky(p.displayName||('u/'+p.handle), null, (panelBody&&panelBody.querySelector('.pb-cover'))||document.getElementById('page-body')); return; }
         p._deepTab=_deepTab;   // thread the deep-link tab into the render
         openPanel(pbProfileHTML(p));
         wirePbProfile(p);
+        var gd=_gig&&(p.diary||[]).filter(function(x){ return String(x.id)===_gig; })[0];
+        if(gd) dstOpen(gd, p.handle, document.querySelector('.dst-stub[data-entry="'+gd.id+'"]'), p.isMe);
         // entity-page sticky bar: username + back + a play button that starts the seen artists' radio
         var profPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
         armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.pf-id'))||document.getElementById('page-body'));

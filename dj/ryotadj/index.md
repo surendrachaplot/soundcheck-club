@@ -1,14 +1,15 @@
 # ryota dj
 
-ryota dj is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Dots Bay House, Sri-lanka on Tue, 27 Oct 2026.
+ryota dj is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Dots Bay House, Sri-lanka on Tue, 27 Oct 2026.
 
-ryota dj is a bass and garage artist based in Japan, with 100 gigs on soundcheck across Bali, Bangkok, Barcelona and Brighton and 22 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: Dots Bay House, Sri Lanka on Tue 27 Oct.
+ryota dj is a bass and garage artist based in Japan, with 101 gigs on soundcheck across Bali, Bangkok, Barcelona and Brighton and 22 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: Dots Bay House, Sri Lanka on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | Dots Bay House | Sri-lanka |
+| Fri, 30 Oct 2026 | UNLOCKED | London |
 
 ## Recently played
 

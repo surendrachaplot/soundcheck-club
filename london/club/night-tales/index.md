@@ -12,7 +12,7 @@ Night Tales is a music venue in London listed on soundcheck. 38 upcoming gigs, w
 | Sat, 31 Oct 2026 | Paraiso Disco: House, Disco, Classics [Halloween Special] | Pilot, Sara Tabar |
 | Sat, 31 Oct 2026 | Night Tales: A Very Free Halloween Day Party |  |
 | Sat, 31 Oct 2026 | Big Fish Little Fish Halloween Family Rave - Hackney | Louise Plus One |
-| Sun, 1 Nov 2026 | Dreem Teem & Friends - 30th Anniversary Party | DJ Spoony, MC PSG, Mike ruff cut Lloyd, Mikee B, Timmi Magic |
+| Sun, 1 Nov 2026 | Dreem Teem & Friends - 30th Anniversary Party [Sold Out] | DJ Spoony, MC PSG, Mike ruff cut Lloyd, Mikee B, Timmi Magic |
 | Fri, 6 Nov 2026 | Rosey Gold at Night Tales | Rosey Gold |
 | Fri, 6 Nov 2026 | Night Tales: Afrohouse & Amapiano Party |  |
 | Sat, 7 Nov 2026 | Origins: Panjabi Hit Squad [All Night Long] | Panjabi Hit Squad |

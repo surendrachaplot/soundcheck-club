@@ -2,7 +2,7 @@
 
 howrøng is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Mdlr, Singapore on Sat, 7 Nov 2026.
 
-howrøng is a techno and house artist, with 37 gigs on soundcheck across Ho Chi Minh City, Kuala Lumpur, Melbourne and Singapore. Often billed alongside Metamoksha, nydthakid and Cloudy Ku. Next up: Mdlr, Singapore on Sat 7 Nov.
+howrøng is a techno and house artist based in Singapore, with 37 gigs on soundcheck across Ho Chi Minh City, Kuala Lumpur, Melbourne and Singapore. Often billed alongside Metamoksha, nydthakid and Cloudy Ku. Next up: Mdlr, Singapore on Sat 7 Nov.
 
 ## Upcoming shows
 

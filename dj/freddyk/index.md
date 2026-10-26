@@ -1,14 +1,13 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
+Freddy K is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Gare Porto, Porto on Fri, 30 Oct 2026.
 
-Freddy K is a techno and house artist based in Germany, with 315 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 79 more. Often billed alongside Chlär, Alarico and Blasha & Allatt. Next up: RADION, Amsterdam on Sun 25 Oct.
+Freddy K is a techno and house artist based in Germany, with 315 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 79 more. Often billed alongside Chlär, Alarico and Blasha & Allatt. Next up: Gare Porto, Porto on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Gare Porto | Porto |
 | Sat, 31 Oct 2026 | Complejo Embrujo | South |
 | Sat, 7 Nov 2026 | RSO.BERLIN | Berlin |

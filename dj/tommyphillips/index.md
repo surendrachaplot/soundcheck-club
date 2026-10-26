@@ -1,8 +1,8 @@
 # Tommy Phillips
 
-Tommy Phillips is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sub Club, Glasgow on Thu, 29 Oct 2026.
+Tommy Phillips is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sub Club, Glasgow on Thu, 29 Oct 2026.
 
-Tommy Phillips is a house and tech house artist based in United Kingdom, with 83 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 32 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Sub Club, Glasgow on Thu 29 Oct.
+Tommy Phillips is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 32 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Sub Club, Glasgow on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Tommy Phillips is a house and tech house artist based in United Kingdom, with 83
 | Thu, 29 Oct 2026 | Sub Club | Glasgow |
 | Fri, 30 Oct 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
+| Fri, 27 Nov 2026 | fabric | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Coda | Toronto |
 | Sat, 5 Dec 2026 | Descent | Boston |

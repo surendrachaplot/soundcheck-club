@@ -1,10 +1,10 @@
 # GOZO x WarpedDJ - Le French Touch 1990s at Gozo Listening Bar
 
-GOZO x WarpedDJ - Le French Touch 1990s at Gozo Listening Bar on Sat 24 Oct, Budapest. House and Electro. See the line-up on soundcheck.
+GOZO x WarpedDJ - Le French Touch 1990s at Gozo Listening Bar on Sat 19 Sept, Budapest. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 24 Oct 2026 |
+| Date | Sat, 19 Sept 2026 |
 | Venue | Gozo Listening Bar |
 | City | Budapest |
 

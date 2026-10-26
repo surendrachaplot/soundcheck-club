@@ -1,13 +1,14 @@
 # Delgalleria - Espa
 
-Delgalleria - Espa is a music venue in Helsinki with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "CLUSTER 002" on Sat, 28 Nov 2026.
+Delgalleria - Espa is a music venue in Helsinki with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "JBY pres. KOLONY: Klint" on Sat, 14 Nov 2026.
 
-Delgalleria - Espa is a music venue in Helsinki listed on soundcheck. 1 upcoming gig, with line-ups including Beth Alana. See dates, start times and who's playing. Pohjoisesplanadi 19, 00100 Helsinki.
+Delgalleria - Espa is a music venue in Helsinki listed on soundcheck. 2 upcoming gigs, with line-ups including Beth Alana, Klint, Kosh and Vicente and 2 more. See dates, start times and who's playing. Pohjoisesplanadi 19, 00100 Helsinki.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | JBY pres. KOLONY: Klint | Klint, Kosh, ViTo, Vicente, Zacharias Tiempo |
 | Sat, 28 Nov 2026 | CLUSTER 002 | Beth Alana |
 
 ## Address

@@ -1,6 +1,6 @@
 # Figure 8 presents: Into the Abyss [Halloween] at Gallery
 
-Figure 8 presents: Into the Abyss [Halloween] at Gallery on Wed 28 Oct, London. 1 artist: Batuka. House and Afro House. See the line-up on soundcheck.
+Figure 8 presents: Into the Abyss [Halloween] at Gallery on Wed 28 Oct, London. 2 artists: Batuka and Erinc. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Figure 8 presents: Into the Abyss [Halloween] at Gallery on Wed 28 Oct, London. 
 ## Line-up
 
 - Batuka
+- Erinc
 
 *Source: [soundcheck](https://soundcheck.club/e/2539976-figure-8-presents-into-the-abyss-halloween-at-gallery/)*

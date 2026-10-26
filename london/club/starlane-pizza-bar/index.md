@@ -17,7 +17,7 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 19 upcoming 
 | Sun, 8 Nov 2026 | Bubbledee: House Music Zone – Sunday Special – 12 Hours Non-Stop - 3PM–3AM | Andrea Giudice, Elliott Timoti, Larry Cadge, Mono Dust_ |
 | Fri, 13 Nov 2026 | Kooky Ken: Christian Bonanata, Greta + more  | GRETA (2), Oliver Kristian, Paddy Cotter, Roman (3) |
 | Sat, 14 Nov 2026 | Starlane presents: Olga Korol, Tommy Pickles & One Tough Cookie | Olga Korol, One Tough Cookie, Tommy Pickles |
-| Sun, 15 Nov 2026 | EXTENDED SUNDAY RITUALS 2 YEARS ANNIVERSARY | Aldo, Billa Bazz, FrezZ, Giovanni Savoca, Giusy S, LeVin, SARA |
+| Sun, 15 Nov 2026 | EXTENDED SUNDAY RITUALS 2 YEARS ANNIVERSARY | Aldo, Billa Bazz, Giovanni Savoca, Giusy S, LeVin, SARA |
 
 ## Address
 

@@ -1,0 +1,19 @@
+# Function 30 × 10 Years of LSD at E1
+
+Function 30 × 10 Years of LSD at E1 on Sat 7 Nov, London. 5 artists: Function, Livid (UK), LSD and Luke Slater and 1 more. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 7 Nov 2026 |
+| Venue | E1 |
+| City | London |
+
+## Line-up
+
+- Function
+- Livid (UK)
+- LSD
+- Luke Slater
+- Steve Bicknell
+
+*Source: [soundcheck](https://soundcheck.club/e/2423757-function-30-10-years-of-lsd-at-e1/)*

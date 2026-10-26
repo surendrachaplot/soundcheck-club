@@ -1,6 +1,6 @@
 # PLAX : Cuttenimid KATAINAKA picnics RAAANDY Silv-o Woody Boase at M.O.T
 
-PLAX : Cuttenimid KATAINAKA picnics RAAANDY Silv-o Woody Boase at M.O.T on Thu 5 Nov, London. 4 artists: KATAINAKA, RAAANDY, Silv-o and Woody Boase. See the line-up on soundcheck.
+PLAX : Cuttenimid KATAINAKA picnics RAAANDY Silv-o Woody Boase at M.O.T on Thu 5 Nov, London. 5 artists: Cuttenimid, KATAINAKA, RAAANDY and Silv-o and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PLAX : Cuttenimid KATAINAKA picnics RAAANDY Silv-o Woody Boase at M.O.T on Thu 5
 
 ## Line-up
 
+- Cuttenimid
 - KATAINAKA
 - RAAANDY
 - Silv-o

@@ -1,6 +1,6 @@
 # TECHNO HALLOWEEN NIGHT at Rolling Stock
 
-TECHNO HALLOWEEN NIGHT at Rolling Stock on Sat 31 Oct, London. 8 artists: ANÆT, Dimanté, Loora and Monnay and 4 more. Progressive House and Techno. See the line-up on soundcheck.
+TECHNO HALLOWEEN NIGHT at Rolling Stock on Sat 31 Oct, London. 9 artists: ANÆT, Dimanté, Loora and Monnay and 5 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ TECHNO HALLOWEEN NIGHT at Rolling Stock on Sat 31 Oct, London. 8 artists: ANÆT,
 - Dimanté
 - Loora
 - Monnay
+- O.Maverick
 - P.O.U
 - SLAVKO (UK)
 - SONI LOBO

@@ -1,17 +1,21 @@
 # Benelux BAR
 
-Benelux BAR is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "ADE: Sounds From the Underground" on Sun, 25 Oct 2026.
+Benelux BAR is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ADE: Berkan V8 presents Dance Division" on Fri, 23 Oct 2026.
 
-Benelux BAR is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including DJ Dazy, Hector Moralez, Jason Hodges and Jason Merle. See dates, start times and who's playing. Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands.
+Benelux BAR is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including ARMANA KHAN, Berkan V8, DJ Dazy and Hector Moralez and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | ADE: Berkan V8 presents Dance Division |  |
+| Fri, 23 Oct 2026 | Dance Division ADE: Identified Patient / Maara / Berkan V8 / Hervé / Jaimy | Berkan V8, Hervé, Identified Patient, Jaimy (2), Maara |
+| Fri, 23 Oct 2026 | Baile da Galecta ADE Masterclasses | ARMANA KHAN, Von Di |
+| Sat, 24 Oct 2026 | Baile da Galecta ADE Club Night |  |
 | Sun, 25 Oct 2026 | ADE: Sounds From the Underground | DJ Dazy, Hector Moralez, Jason Hodges, Jason Merle |
 
 ## Address
 
 Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/benelux-bar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/benelux-bar/)*

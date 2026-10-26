@@ -13,7 +13,7 @@ export is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, wit
 | Fri, 6 Nov 2026 | Fantastic Man, Jeff Solo | Fantastic Man, Jeff Solo |
 | Sat, 7 Nov 2026 | POING 4 YEAR ANNIVERSARY | CAIN, Candy Coup, CyberFairy777, DIORA, Faustin (NL), Glabra, Nelly (NL), RICO RICA, Saint Nia, Slimfit, TWIENA, XSULTVN, ZOBAYDA, fka phaedra |
 | Fri, 13 Nov 2026 | Amaliah, Hugo Out, Jazz Dalia | Amaliah, Hugo Out, Jazz Dalia |
-| Sat, 14 Nov 2026 | Minna-no-Kimochi, neska | Minna-no-Kimochi, neska |
+| Sat, 14 Nov 2026 | Minna-no-Kimochi, neska | Minna-no-Kimochi, Neska |
 | Fri, 20 Nov 2026 | BÄR ...IsBurning |  |
 | Fri, 27 Nov 2026 | ONE YEAR |  |
 | Sat, 5 Dec 2026 | LEGACY ROTTERDAM | Gizmo, Predator |

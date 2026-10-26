@@ -9,7 +9,7 @@ UNLOCKED is a music venue in London listed on soundcheck. 9 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | bbyclose & her girlfriends presents: 'bbyween' halloween party |  |
-| Fri, 30 Oct 2026 | Y U QT - Halloween @ UNLOCKED | Ned Bennett, Sam Girling, Y U QT |
+| Fri, 30 Oct 2026 | Y U QT - Halloween @ UNLOCKED | Jolani Jhones, Ned Bennett, Sam Girling, Y U QT, ryota dj |
 | Fri, 6 Nov 2026 | Moxy Muzik - Darius Syrossian, Jeremy Underground, Rio Tashan, Miruna Ghica B2B MRCL | Darius Syrossian, Jeremy Underground, Miruna Ghica, Rio Tashan |
 | Sat, 7 Nov 2026 | RAVE IN SPACE | HARTY, JAYDAA, Jnr Windross, Summer Ghemati |
 | Fri, 20 Nov 2026 | Parable: Andhim, TIMANTI, Nat Gohl | Andhim, Nat Gohl, TIMANTI |

@@ -8,7 +8,7 @@ Shunter is a music venue in Rotterdam listed on soundcheck. 2 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | C001 | Marie K (1), deep creep, neska |
+| Sat, 31 Oct 2026 | C001 | Marie K (1), Neska, deep creep |
 | Fri, 27 Nov 2026 | W004 | AERAE, Clarisa Kimskii, Cobahn, Helmond Lang, Human Space Machine, Hysteria temple Foundation, Innersha, Jan Loup, Jephta, PULSE (NL), Polar Inertia, Souzo, Space Drum Meditation, Spekki Webu, Surface Access, Voiski, Xenia Reaper, ophélie |
 
 ## Address

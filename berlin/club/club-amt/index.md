@@ -1,6 +1,6 @@
 # Club AMT
 
-Club AMT is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 24 Oct 2026. The next is "Rx presents: Lola Kay / Alina Viktoria / Laurel b2b Thyme" on Tue, 27 Oct 2026.
+Club AMT is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Rx presents: Lola Kay / Alina Viktoria / Laurel b2b Thyme" on Tue, 27 Oct 2026.
 
 Club AMT is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Alina Viktoria, Laurel, Lola Kay and Thyme. See dates, start times and who's playing. Dircksenstraße 114, 10178 Berlin.
 
@@ -16,4 +16,4 @@ Club AMT is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with 
 
 Dircksenstraße 114, 10178 Berlin, Berlin
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-amt/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-amt/)*

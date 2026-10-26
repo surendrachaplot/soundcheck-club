@@ -1,6 +1,6 @@
 # EXTENDED SUNDAY RITUALS 2 YEARS ANNIVERSARY at Starlane Pizza Bar
 
-EXTENDED SUNDAY RITUALS 2 YEARS ANNIVERSARY at Starlane Pizza Bar on Sun 15 Nov, London. 7 artists: Aldo, Billa Bazz, FrezZ and Giovanni Savoca and 3 more. House and Minimal Techno. See the line-up on soundcheck.
+EXTENDED SUNDAY RITUALS 2 YEARS ANNIVERSARY at Starlane Pizza Bar on Sun 15 Nov, London. 6 artists: Aldo, Billa Bazz, Giovanni Savoca and Giusy S and 2 more. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ EXTENDED SUNDAY RITUALS 2 YEARS ANNIVERSARY at Starlane Pizza Bar on Sun 15 Nov,
 
 - Aldo
 - Billa Bazz
-- FrezZ
 - Giovanni Savoca
 - Giusy S
 - LeVin

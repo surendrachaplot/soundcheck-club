@@ -1,6 +1,6 @@
 # Grace Darling Hotel
 
-Grace Darling Hotel is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Cease and Desist pres. Training Chamber, lili hall & tgm" on Sat, 24 Oct 2026.
+Grace Darling Hotel is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Cease and Desist pres. Training Chamber, lili hall & tgm" on Sat, 24 Oct 2026.
 
 Grace Darling Hotel is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 114 Smith St, Collingwood VIC 3066.
 
@@ -14,4 +14,4 @@ Grace Darling Hotel is a music venue in Melbourne listed on soundcheck. 1 upcomi
 
 114 Smith St, Collingwood VIC 3066, Melbourne
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/grace-darling-hotel/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/grace-darling-hotel/)*

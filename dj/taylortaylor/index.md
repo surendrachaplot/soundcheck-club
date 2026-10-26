@@ -1,8 +1,8 @@
-# Taylor Taylor (NL)
+# Taylor Taylor
 
-Taylor Taylor (NL) is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at De Sering, Amsterdam on Sat, 14 Nov 2026.
+Taylor Taylor is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at De Sering, Amsterdam on Sat, 14 Nov 2026.
 
-Taylor Taylor (NL) is an acid and house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam and Liverpool. Often billed alongside RoomToo, Sheps and mckelv. Next up: De Sering, Amsterdam on Sat 14 Nov.
+Taylor Taylor is an acid and house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam and Liverpool. Often billed alongside RoomToo, Sheps and mckelv. Next up: De Sering, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 

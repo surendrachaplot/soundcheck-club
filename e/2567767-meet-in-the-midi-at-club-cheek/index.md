@@ -1,6 +1,6 @@
 # Meet In The MIDI at Club Cheek
 
-Meet In The MIDI at Club Cheek on Fri 27 Nov, London. 4 artists: Karim Bitar, mi-el, T.NO and Tovsky. Bass and Club. See the line-up on soundcheck.
+Meet In The MIDI at Club Cheek on Fri 27 Nov, London. 5 artists: Karim Bitar, mi-el, siân manee and T.NO and 1 more. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Meet In The MIDI at Club Cheek on Fri 27 Nov, London. 4 artists: Karim Bitar, mi
 
 - Karim Bitar
 - mi-el
+- siân manee
 - T.NO
 - Tovsky
 

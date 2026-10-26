@@ -2,7 +2,7 @@
 
 ClubSubbe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
 
-ClubSubbe is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Thielking, JUWLZ and Ravejezuz. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
+ClubSubbe is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Ravejezuz, Thielking and JUWLZ. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ ClubSubbe is a techno and trance artist based in Germany, with 8 gigs on soundch
 
 ## Shares bills with
 
-Thielking, JUWLZ, Ravejezuz
+Ravejezuz, Thielking, JUWLZ
 
 *Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsubbe/)*

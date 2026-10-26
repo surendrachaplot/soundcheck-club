@@ -1,14 +1,15 @@
 # SURJAL
 
-SURJAL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Brixton Radio, London on Fri, 30 Oct 2026.
+SURJAL is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Brixton Radio, London on Fri, 30 Oct 2026.
 
-SURJAL is a techno and house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside daaz, Wiikii and Zohr. Next up: Brixton Radio, London on Fri 30 Oct.
+SURJAL is a techno and house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Wiikii, daaz and Zohr. Next up: Brixton Radio, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Brixton Radio | London |
+| Sat, 31 Oct 2026 | 22nd Coffee Shop & Bar | London |
 | Sat, 31 Oct 2026 | 22nd Coffee Shop & Bar | London |
 
 ## Recently played
@@ -21,6 +22,6 @@ SURJAL is a techno and house artist based in United Kingdom, with 7 gigs on soun
 
 ## Shares bills with
 
-daaz, Wiikii, Zohr
+Wiikii, daaz, Zohr
 
 *Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surjal/)*

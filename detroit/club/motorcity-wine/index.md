@@ -1,6 +1,6 @@
 # MotorCity Wine
 
-MotorCity Wine is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Sunday Revival with Eddie Logix & Peter Croce" on Sun, 25 Oct 2026.
+MotorCity Wine is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Sunday Revival with Eddie Logix & Peter Croce" on Sun, 25 Oct 2026.
 
 MotorCity Wine is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including Eddie Logix and Peter Croce. See dates, start times and who's playing. 1949 Michigan Ave. Detroit, MI 48216.
 
@@ -14,4 +14,4 @@ MotorCity Wine is a music venue in Detroit listed on soundcheck. 1 upcoming gig,
 
 1949 Michigan Ave. Detroit, MI 48216, Detroit
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/motorcity-wine/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/motorcity-wine/)*

@@ -15,7 +15,7 @@ FOLD is a music venue in London listed on soundcheck. 30 upcoming gigs, with lin
 | Sat, 7 Nov 2026 | Origins: A Day with Yanamaste | Yanamaste |
 | Sat, 7 Nov 2026 | Transmissions x Midgar: Paquita Gordon, Wata Igarashi, Konduku, Polygonia + more | Aaron J, Avsluta, Forest Drive West, Human Space Machine, Inner Zone, Konduku, Paquita Gordon, Polygonia, Severja, Wata Igarashi, basic chanel |
 | Sun, 8 Nov 2026 | UNFOLD CXXXIV |  |
-| Thu, 12 Nov 2026 | FUTUR.SHOCK X UNDER MY FEET. : INTERREGNUM | Ireen Amnes, Karolina Magnusson Murray, Nkisi, Rami Abi Rafi, SWARMM |
+| Thu, 12 Nov 2026 | FUTUR.SHOCK X UNDER MY FEET. : INTERREGNUM | Him Gone Ape, Ireen Amnes, Karolina Magnusson Murray, Nkisi, Rami Abi Rafi, SWARMM |
 | Fri, 13 Nov 2026 | Boudica x Gegen - 1 room + XXL Playroom | Boris, Jeneva, Mar/us, Metaraph, Samantha Togni |
 | Sat, 14 Nov 2026 | Chaos In The CBD present 'In Dust We Trust' Tour [SOLD OUT] | Chaos In The CBD, Sanctuary |
 

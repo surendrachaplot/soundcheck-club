@@ -15,7 +15,7 @@ The Cause is a music venue in London listed on soundcheck. 29 upcoming gigs, wit
 | Fri, 6 Nov 2026 | I Love Acid presents DJ Pierre + 808 State + Lauren Flax | 808 State, DJ Pierre, Jon Dasilva, Lauren Flax, Posthuman |
 | Fri, 6 Nov 2026 | JANUS VI: Rubber - Techno - Connection | Command Control, GAY RAGE, Rubberax |
 | Fri, 6 Nov 2026 | Audible Mania presents: Gabber Industries Berlin | Baptist (UK), Dj Cvntface, FLUCC, IceLipzz, LØUS, Olmatri, Paul Seul, Synapsefirer, Viscerale |
-| Fri, 13 Nov 2026 | sim0ne pres. club zer0 @ The Cause, London | DJ Sarah Bonito, Hiroko Yamamura, Princess Elf Bar, sim0ne |
+| Fri, 13 Nov 2026 | club zer0 @ The Cause: sim0ne, Hiroko Yamamura, DJ Sarah Bonito + more | DJ Sarah Bonito, Hiroko Yamamura, Princess Elf Bar, sim0ne |
 | Sat, 14 Nov 2026 | Body Movements Winter Festival |  |
 | Fri, 20 Nov 2026 | Bass Face // DNB // 360° BOILER ROOM *VERY SPECIAL GUESTS*! |  |
 

@@ -1,13 +1,14 @@
 # Lucien Douglas
 
-Lucien Douglas is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Open, Tokyo on Fri, 30 Oct 2026.
+Lucien Douglas is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Forestlimit, Tokyo on Wed, 28 Oct 2026.
 
-Lucien Douglas is a club and experimental artist, with 9 gigs on soundcheck across Bristol, London and Tokyo. Often billed alongside i-sha, Bruce and 1TA. Next up: Open, Tokyo on Fri 30 Oct.
+Lucien Douglas is a club and experimental artist, with 10 gigs on soundcheck across Bristol, London and Tokyo. Often billed alongside i-sha, Bruce and 1TA. Next up: Forestlimit, Tokyo on Wed 28 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 28 Oct 2026 | Forestlimit | Tokyo |
 | Fri, 30 Oct 2026 | Open | Tokyo |
 
 ## Recently played

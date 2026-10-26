@@ -1,6 +1,6 @@
 # Madame Ching
 
-Madame Ching is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Sat, 24 Oct 2026. The next is "Saturday AFTER DARK: Afro and Latin Party" on Sat, 24 Oct 2026.
+Madame Ching is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Saturday AFTER DARK: Afro and Latin Party" on Sat, 24 Oct 2026.
 
 Madame Ching is a music venue in Shanghai listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Madame Ching is a music venue in Shanghai listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Saturday AFTER DARK: Afro and Latin Party |  |
 
-*Updated Sat, 24 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/madame-ching/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/madame-ching/)*

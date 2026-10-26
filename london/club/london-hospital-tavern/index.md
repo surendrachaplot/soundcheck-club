@@ -2,13 +2,13 @@
 
 London Hospital Tavern is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "INTERSONIC HALLOWEEN - TECHNO, BREAKBEAT, BASS, VISUALS" on Sat, 31 Oct 2026.
 
-London Hospital Tavern is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Eziman and illus1on. See dates, start times and who's playing. 176 Whitechapel Rd, London E1 1BJ.
+London Hospital Tavern is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Eziman, illus1on and Max Lewandowski. See dates, start times and who's playing. 176 Whitechapel Rd, London E1 1BJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | INTERSONIC HALLOWEEN - TECHNO, BREAKBEAT, BASS, VISUALS | Eziman, illus1on |
+| Sat, 31 Oct 2026 | INTERSONIC HALLOWEEN - TECHNO, BREAKBEAT, BASS, VISUALS | Eziman, Max Lewandowski, illus1on |
 
 ## Address
 

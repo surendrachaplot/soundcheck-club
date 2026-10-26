@@ -1,6 +1,6 @@
 # TBA - Calgary, Canada
 
-TBA - Calgary, Canada is a music venue in Calgary with 1 upcoming gig listed on soundcheck as of Sun, 25 Oct 2026. The next is "Leben Collective Anniversary" on Sat, 24 Oct 2026.
+TBA - Calgary, Canada is a music venue in Calgary with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Leben Collective Anniversary" on Sat, 24 Oct 2026.
 
 TBA - Calgary, Canada is a music venue in Calgary listed on soundcheck. 1 upcoming gig, with line-ups including Milo Raad. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Calgary, Canada is a music venue in Calgary listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Leben Collective Anniversary | Milo Raad |
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/calgary/club/tba-calgary-canada/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/calgary/club/tba-calgary-canada/)*

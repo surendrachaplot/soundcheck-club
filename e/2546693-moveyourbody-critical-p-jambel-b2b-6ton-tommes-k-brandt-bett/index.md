@@ -1,6 +1,6 @@
 # #MOVEYOURBODY: critical P, Jambel b2b 6ton, Tommes K. Brandt, Better Call Paul b2b Dicso_Muzek at Bulbul Berlin
 
-#MOVEYOURBODY: critical P, Jambel b2b 6ton, Tommes K. Brandt, Better Call Paul b2b Dicso_Muzek at Bulbul Berlin on Fri 30 Oct, Berlin. 5 artists: Better Call Paul, critical P, Dicso_Muzek and Jambel and 1 more. House and Club. See the line-up on soundcheck.
+#MOVEYOURBODY: critical P, Jambel b2b 6ton, Tommes K. Brandt, Better Call Paul b2b Dicso_Muzek at Bulbul Berlin on Fri 30 Oct, Berlin. 6 artists: 6ton, Better Call Paul, critical P and Dicso_Muzek and 2 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- 6ton
 - Better Call Paul
 - critical P
 - Dicso_Muzek

@@ -1,13 +1,14 @@
 # Wiikii
 
-Wiikii is a Progressive House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at 22nd Coffee Shop & Bar, London on Sat, 31 Oct 2026.
+Wiikii is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at 22nd Coffee Shop & Bar, London on Sat, 31 Oct 2026.
 
-Wiikii is a progressive house and afro house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside SURJAL, Areeb Abbasi and Auseeb. Next up: 22nd Coffee Shop & Bar, London on Sat 31 Oct.
+Wiikii is a progressive house and techno artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside SURJAL, Areeb Abbasi and Auseeb. Next up: 22nd Coffee Shop & Bar, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | 22nd Coffee Shop & Bar | London |
 | Sat, 31 Oct 2026 | 22nd Coffee Shop & Bar | London |
 | Fri, 6 Nov 2026 | Jungla London | London |
 

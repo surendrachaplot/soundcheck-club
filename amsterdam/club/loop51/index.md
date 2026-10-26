@@ -1,6 +1,6 @@
 # Loop51
 
-Loop51 is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sun, 25 Oct 2026. The next is "Mercy Records with Joe Smooth (Label Launch)" on Sun, 25 Oct 2026.
+Loop51 is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Mercy Records with Joe Smooth (Label Launch)" on Sun, 25 Oct 2026.
 
 Loop51 is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Delivero and Joe Smooth. See dates, start times and who's playing. Dusartstraat 51.
 
@@ -15,4 +15,4 @@ Loop51 is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with
 
 Dusartstraat 51, Amsterdam
 
-*Updated Sun, 25 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loop51/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loop51/)*

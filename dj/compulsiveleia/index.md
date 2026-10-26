@@ -1,14 +1,15 @@
 # Compulsive Leia
 
-Compulsive Leia is a Hardcore and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Slay, Glasgow on Sat, 14 Nov 2026.
+Compulsive Leia is a Hardcore and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Slay, Glasgow on Sat, 14 Nov 2026.
 
-Compulsive Leia is a hardcore and hip-hop artist based in United Kingdom, with 26 gigs on soundcheck across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: Slay, Glasgow on Sat 14 Nov.
+Compulsive Leia is a hardcore and hip-hop artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: Slay, Glasgow on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Slay | Glasgow |
+| Fri, 11 Dec 2026 | Vauxhall Arches | London |
 
 ## Recently played
 

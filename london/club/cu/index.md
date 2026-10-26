@@ -13,7 +13,7 @@ Cu is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-u
 | Sat, 31 Oct 2026 | Cu's Second Birthday | D.N.S, L-Vis 1990, Oblig, Richard Fearless, Rommek, Tania Atyabi, the butcher bird |
 | Wed, 4 Nov 2026 | NLDC. | Mahnoor, Migz, Rips, Synkro, Yert |
 | Fri, 6 Nov 2026 | disco-nnect |  |
-| Fri, 13 Nov 2026 | Sonnee presents: SOLAA London | Sonnee |
+| Fri, 13 Nov 2026 | Sonnee presents: SOLAA London | Miggs, Ocean (UK), Sonnee |
 | Fri, 27 Nov 2026 | Port of Call: Cu | Mossambi, Sines of Change, squidj |
 
 ## Address

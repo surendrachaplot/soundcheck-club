@@ -10,7 +10,7 @@ Not For Sale Gallery is a music venue in London listed on soundcheck. 4 upcoming
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | EKOE 002 - HALLOWEEN WARM-UP EDITION | Leonardo Cruz DJ, Oscar Jones, Rowland, TEZZA, Thales Constantini, Vanio |
 | Fri, 6 Nov 2026 | What can be seen behind close doors | Fabient |
-| Sun, 15 Nov 2026 | 華 HANA 001 · The First Bloom | D LAI, EMI (11), Fresh Lov3, SCYLLA, Yukari |
+| Sun, 15 Nov 2026 | HANA 001 · The First Bloom | D LAI, EMI (11), Fresh Lov3, SCYLLA, Yukari |
 | Sat, 5 Dec 2026 | Night People's 10th Birthday | Adriana Honey, Ebru Al, Fresh Lov3, JOBE, Night Person, Wukah |
 
 ## Address

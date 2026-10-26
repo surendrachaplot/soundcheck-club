@@ -1,8 +1,8 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 48 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Chezidek" on Mon, 26 Oct 2026.
+The Jazz Cafe is a music venue in London with 47 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Chezidek" on Mon, 26 Oct 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 48 upcoming gigs, with line-ups including Bugge Wesseltoft, Catu Diosis, Daniele Mizar and DJ Luck & MC Neat and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 47 upcoming gigs, with line-ups including Auntie Flo, Bugge Wesseltoft, Catu Diosis and Daniele Mizar and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 48 upcoming gigs,
 | Sat, 31 Oct 2026 | Soul City: House Music Every Saturday Night (Halloween Special) |  |
 | Sat, 31 Oct 2026 | soulcity on halloween (tix sold out) |  |
 | Sat, 31 Oct 2026 | Mas Que Nada (Halloween Party) | Mas Que Nada Brothers |
-| Sat, 31 Oct 2026 | UK Garage vs UK Funky: Halloween Rave |  |
 | Wed, 4 Nov 2026 | Calibro 35 vs L.A | Daniele Mizar |
+| Fri, 6 Nov 2026 | A Night of Hip-Hop & RnB |  |
 
 ## Address
 

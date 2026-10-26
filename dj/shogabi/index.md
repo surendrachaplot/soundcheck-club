@@ -1,13 +1,14 @@
 # Sho Gabi
 
-Sho Gabi is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Planet Wax, London on Fri, 6 Nov 2026.
+Sho Gabi is a Drum & Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Planet Wax, London on Sun, 1 Nov 2026.
 
-Sho Gabi is a breakbeat and jungle artist based in United Kingdom, with 26 gigs on soundcheck across London and Paris. Often billed alongside Akabema, Dj Clark Gabble and Uncle G. Next up: Planet Wax, London on Fri 6 Nov.
+Sho Gabi is a drum & bass and breakbeat artist based in United Kingdom, with 27 gigs on soundcheck across London and Paris. Often billed alongside Uncle G, Akabema and Dj Clark Gabble. Next up: Planet Wax, London on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Planet Wax | London |
 | Fri, 6 Nov 2026 | Planet Wax | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Sho Gabi is a breakbeat and jungle artist based in United Kingdom, with 26 gigs 
 
 ## Shares bills with
 
-Akabema, Dj Clark Gabble, Uncle G
+Uncle G, Akabema, Dj Clark Gabble
 
 *Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shogabi/)*

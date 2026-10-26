@@ -10,8 +10,8 @@ Sensorium is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, wit
 | --- | --- | --- |
 | Wed, 28 Oct 2026 | TECHNO MITTWOCH | Ankit, Bee Lincoln, CEEE, Samo Rane, Vantavision, b.e.n.m, pink-panther |
 | Sat, 31 Oct 2026 | Halloween SENSO | Blck-Swan, UniKhatu, Viktor Kampf, pink-panther |
-| Sun, 1 Nov 2026 | TRIG | Camilla Tarantino, Loco (IT), Viktor Kampf, ØVERLOAD |
-| Wed, 4 Nov 2026 | TECHNO MITTWOCH | H7 (3), UniKhatu, ØVERLOAD |
+| Sun, 1 Nov 2026 | TRIG | Camilla Tarantino, Loco (IT), Overload, Viktor Kampf |
+| Wed, 4 Nov 2026 | TECHNO MITTWOCH | H7 (3), Overload, UniKhatu |
 | Fri, 6 Nov 2026 | ETHER | Daviti, UniKhatu, pink-panther |
 | Sat, 7 Nov 2026 | SENSO NACHT |  |
 | Wed, 11 Nov 2026 | TECHNO MITTWOCH | Bee Lincoln, Blck-Swan, Bouquet |

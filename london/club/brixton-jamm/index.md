@@ -8,7 +8,7 @@ Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Moshi Rave | Jaymie, alterum |
+| Thu, 29 Oct 2026 | Moshi Rave | Jaymie, PISSGOBLIN, alterum |
 | Fri, 30 Oct 2026 | Jungle Cakes Halloween 360 | Benny Page, CHICCA, Deekline, G-Class, General Levy, Jamakabi, Millz, Serial Killaz |
 | Sat, 31 Oct 2026 | Day Breaks Halloween Special Day Time Party | Evil Nine, Guau, Krafty Kuts, Plump DJs, Yo Speed |
 | Sat, 31 Oct 2026 | Touch Of Funk's Halloween Hustle + Tonno Disko B2B Young Pulse | Ethan Gray, Tonno Disko, Touch Of Funk, Young Pulse |

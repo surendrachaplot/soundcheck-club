@@ -1,13 +1,14 @@
 # Novelist
 
-Novelist is a Grime and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Truman Brewery Multiple Venues, London on Fri, 23 Apr 2027.
+Novelist is a Grime and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Mason and Fifth, Westbourne Park, London on Tue, 3 Nov 2026.
 
-Novelist is a grime and bass artist, with 31 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside CHAMBER45, Mia Koden and Moxie. Next up: Truman Brewery Multiple Venues, London on Fri 23 Apr.
+Novelist is a grime and bass artist, with 32 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside CHAMBER45, Mia Koden and Moxie. Next up: Mason and Fifth, Westbourne Park, London on Tue 3 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 3 Nov 2026 | Mason and Fifth, Westbourne Park | London |
 | Fri, 23 Apr 2027 | Truman Brewery Multiple Venues | London |
 
 ## Recently played

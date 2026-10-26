@@ -1,8 +1,8 @@
-# NAT (SK)
+# NAT(SK)
 
-NAT (SK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
+NAT(SK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
 
-NAT (SK) is a house and techno artist based in Slovakia, with 56 gigs on soundcheck across Berlin, Copenhagen, New York City and Prague and 2 more. Often billed alongside YOON, Pelzman and B From E. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 1 Nov.
+NAT(SK) is a house and techno artist based in Slovakia, with 56 gigs on soundcheck across Berlin, Copenhagen, New York City and Prague and 2 more. Often billed alongside YOON, Pelzman and B From E. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 1 Nov.
 
 ## Upcoming shows
 

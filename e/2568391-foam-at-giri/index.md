@@ -1,6 +1,6 @@
 # FOAM at Giri
 
-FOAM at Giri on Sat 31 Oct, Berlin. 3 artists: MFX, Molenaar and Obelix. See the line-up on soundcheck.
+FOAM at Giri on Sat 31 Oct, Berlin. 4 artists: KAT, MFX, Molenaar and Obelix. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FOAM at Giri on Sat 31 Oct, Berlin. 3 artists: MFX, Molenaar and Obelix. See the
 
 ## Line-up
 
+- KAT (15)
 - MFX (1)
 - Molenaar
 - Obelix

@@ -1,6 +1,6 @@
 # FUTUR.SHOCK X UNDER MY FEET. : INTERREGNUM at FOLD
 
-FUTUR.SHOCK X UNDER MY FEET. : INTERREGNUM at FOLD on Thu 12 Nov, London. 5 artists: Ireen Amnes, Karolina Magnusson Murray, Nkisi and Rami Abi Rafi and 1 more. Experimental and Electronica. See the line-up on soundcheck.
+FUTUR.SHOCK X UNDER MY FEET. : INTERREGNUM at FOLD on Thu 12 Nov, London. 6 artists: Him Gone Ape, Ireen Amnes, Karolina Magnusson Murray and Nkisi and 2 more. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FUTUR.SHOCK X UNDER MY FEET. : INTERREGNUM at FOLD on Thu 12 Nov, London. 5 arti
 
 ## Line-up
 
+- Him Gone Ape
 - Ireen Amnes
 - Karolina Magnusson Murray
 - Nkisi
