@@ -1,6 +1,6 @@
 # Mel Blue
 
-Mel Blue is a Electronica and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Slipway, Sydney on Sat, 12 Dec 2026.
+Mel Blue is a Electronica and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Slipway, Sydney on Sat, 12 Dec 2026.
 
 Mel Blue is an electronica and garage artist based in Australia, with 5 gigs on soundcheck across Melbourne and Sydney. Often billed alongside 1tbsp, Antenna and C.FRIM. Next up: Slipway, Sydney on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Mel Blue is an electronica and garage artist based in Australia, with 5 gigs on 
 
 1tbsp, Antenna (2), C.FRIM
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melblue/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melblue/)*

@@ -1,13 +1,14 @@
 # Moteka
 
-Moteka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - location @ email on November 20, Riga on Fri, 20 Nov 2026.
+Moteka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ground Luxembourg, Luxembourg on Sat, 31 Oct 2026.
 
-Moteka is a techno and house artist based in France, with 10 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 5 more. Often billed alongside Electric Rescue, Kmyle and Marco Ramos. Next up: TBA - location @ email on November 20, Riga on Fri 20 Nov.
+Moteka is a techno and house artist based in France, with 11 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 6 more. Often billed alongside Electric Rescue, Chich and Kmyle. Next up: Ground Luxembourg, Luxembourg on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Ground Luxembourg | Luxembourg |
 | Fri, 20 Nov 2026 | TBA - location @ email on November 20 | Riga |
 
 ## Recently played
@@ -23,6 +24,6 @@ Moteka is a techno and house artist based in France, with 10 gigs on soundcheck 
 
 ## Shares bills with
 
-Electric Rescue, Kmyle, Marco Ramos
+Electric Rescue, Chich, Kmyle
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moteka-fr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moteka-fr/)*

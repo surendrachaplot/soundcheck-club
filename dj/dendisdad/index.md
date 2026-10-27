@@ -1,6 +1,6 @@
 # Dendi's Dad
 
-Dendi's Dad is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Elsewhere, New York City on Sat, 7 Nov 2026.
+Dendi's Dad is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Elsewhere, New York City on Sat, 7 Nov 2026.
 
 Dendi's Dad is a house and tech house artist, with 5 gigs on soundcheck across New York City. Often billed alongside Sarindipity, Alkalina and Choo Choo. Next up: Elsewhere, New York City on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Dendi's Dad is a house and tech house artist, with 5 gigs on soundcheck across N
 
 Sarindipity, Alkalina, Choo Choo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dendisdad/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dendisdad/)*

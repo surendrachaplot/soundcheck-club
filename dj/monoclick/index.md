@@ -1,6 +1,6 @@
 # Monoclick
 
-Monoclick is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Chinatown, SF  The exact venue address will be emailed to ticket holders before the event., San Francisco/Oakland on Sat, 7 Nov 2026.
+Monoclick is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Chinatown, SF  The exact venue address will be emailed to ticket holders before the event., San Francisco/Oakland on Sat, 7 Nov 2026.
 
 Monoclick is a house and deep house artist based in Hungary, with 89 gigs on soundcheck across Budapest, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Electric Boutique, Krane and James Houdini. Next up: TBA - Chinatown, SF  The exact venue address will be emailed to ticket holders before the event., San Francisco/Oakland on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Monoclick is a house and deep house artist based in Hungary, with 89 gigs on sou
 
 Electric Boutique, Krane, James Houdini
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoclick/)*

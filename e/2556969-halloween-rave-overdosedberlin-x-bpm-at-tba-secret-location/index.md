@@ -1,6 +1,6 @@
 # Halloween Rave // OverdosedBerlin X BPM at TBA - Secret Location in South Berlin
 
-Halloween Rave // OverdosedBerlin X BPM at TBA - Secret Location in South Berlin on Sat 31 Oct, Berlin. 8 artists: ClubSubbe, DJ ORDNUNGSAMT, DJ Paradox and DJ Sterni and 4 more. Trance and Techno. See the line-up on soundcheck.
+Halloween Rave // OverdosedBerlin X BPM at TBA - Secret Location in South Berlin on Sat 31 Oct, Berlin. 10 artists: ClubSubbe, DJ ORDNUNGSAMT, DJ Paradox and DJ Sterni and 6 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,7 +16,9 @@ Halloween Rave // OverdosedBerlin X BPM at TBA - Secret Location in South Berlin
 - DJ Sterni
 - Dr . Mario
 - E.T.
+- fU.impact
 - GM1 (IT)
+- Ravejezuz
 - Thielking
 
 *Source: [soundcheck](https://soundcheck.club/e/2556969-halloween-rave-overdosedberlin-x-bpm-at-tba-secret-location/)*

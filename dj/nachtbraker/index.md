@@ -1,6 +1,6 @@
 # Nachtbraker
 
-Nachtbraker is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at GASHOUDER, Amsterdam on Sat, 28 Nov 2026.
+Nachtbraker is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at GASHOUDER, Amsterdam on Sat, 28 Nov 2026.
 
 Nachtbraker is a house artist, with 5 gigs on soundcheck across Amsterdam, New York City and The Hague. Often billed alongside CHRIS STASSY, Aurelius and Day Cart. Next up: GASHOUDER, Amsterdam on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Nachtbraker is a house artist, with 5 gigs on soundcheck across Amsterdam, New Y
 
 CHRIS STASSY, Aurelius, Day Cart
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtbraker/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtbraker/)*

@@ -1,6 +1,6 @@
 # Black Dave
 
-Black Dave is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Northcote Theatre, Melbourne on Sat, 21 Nov 2026.
+Black Dave is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Northcote Theatre, Melbourne on Sat, 21 Nov 2026.
 
 Black Dave is a techno and house artist based in Australia, with 70 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Charlotte Rooney, Luke Hovey and Mordi. Next up: Northcote Theatre, Melbourne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Black Dave is a techno and house artist based in Australia, with 70 gigs on soun
 
 Charlotte Rooney, Luke Hovey, Mordi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdave/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdave/)*

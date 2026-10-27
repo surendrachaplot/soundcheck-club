@@ -1,6 +1,6 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Marco Strous is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Marco Strous is a tech house and house artist based in Portugal, with 43 gigs on soundcheck across Austin, Boston, Chicago and Dallas/Fort Worth and 15 more. Often billed alongside Chris Lake, MPH and Jackie Hollander. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Marco Strous is a tech house and house artist based in Portugal, with 43 gigs on
 
 Chris Lake, MPH (1), Jackie Hollander
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*

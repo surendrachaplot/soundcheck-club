@@ -1,6 +1,6 @@
 # Ornella
 
-Ornella is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
+Ornella is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
 Ornella is a techno and trance artist based in Portugal, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Ornella is a techno and trance artist based in Portugal, with 130 gigs on soundc
 
 Madson Carpenter, Stëh, Kobosil
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ornella/)*

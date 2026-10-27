@@ -1,6 +1,6 @@
 # Alaburda
 
-Alaburda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at B2 Rīga, Riga on Sat, 31 Oct 2026.
+Alaburda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at B2 Rīga, Riga on Sat, 31 Oct 2026.
 
 Alaburda is a house and techno artist based in Lithuania, with 5 gigs on soundcheck across Riga and Vilnius. Often billed alongside DJ Alwayslate, Aistelele and Crystal Geometry. Next up: B2 Rīga, Riga on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Alaburda is a house and techno artist based in Lithuania, with 5 gigs on soundch
 
 DJ Alwayslate, Aistelele, Crystal Geometry
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alaburda/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alaburda/)*

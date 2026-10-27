@@ -1,6 +1,6 @@
 # The Blaze (Live) at Knockdown Center
 
-The Blaze (Live) at Knockdown Center on Wed 28 Oct, New York City. 1 artist: The Blaze. See the line-up on soundcheck.
+The Blaze (Live) at Knockdown Center on Wed 28 Oct, New York City. 2 artists: Alice Iguchi and The Blaze. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Blaze (Live) at Knockdown Center on Wed 28 Oct, New York City. 1 artist: The
 
 ## Line-up
 
+- Alice Iguchi
 - The Blaze
 
 *Source: [soundcheck](https://soundcheck.club/e/2546249-the-blaze-live-at-knockdown-center/)*

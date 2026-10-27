@@ -1,6 +1,6 @@
 # sosicksosad
 
-sosicksosad is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NYX: Late Night, San Francisco/Oakland on Fri, 30 Oct 2026.
+sosicksosad is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at NYX: Late Night, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 sosicksosad is a house and baile funk artist, with 6 gigs on soundcheck across San Francisco/Oakland. Often billed alongside ValouFlex, DREVO and Dany Donowitz. Next up: NYX: Late Night, San Francisco/Oakland on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ sosicksosad is a house and baile funk artist, with 6 gigs on soundcheck across S
 
 ValouFlex, DREVO, Dany Donowitz
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosicksosad/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosicksosad/)*

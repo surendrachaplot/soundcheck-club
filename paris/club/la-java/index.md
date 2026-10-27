@@ -1,6 +1,6 @@
 # La Java
 
-La Java is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "OOPSIE #7" on Fri, 30 Oct 2026.
+La Java is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "OOPSIE #7" on Fri, 30 Oct 2026.
 
 La Java is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Alhena_, Audem, CASSIOPÉE and Coleeeette and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
@@ -20,4 +20,4 @@ La Java is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with li
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

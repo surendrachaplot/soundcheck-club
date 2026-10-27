@@ -1,6 +1,6 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 33 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Techno Tuesday Amsterdam 27.October 2026 has been cancelled" on Tue, 27 Oct 2026.
+Melkweg is a music venue in Amsterdam with 33 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Techno Tuesday Amsterdam 27.October 2026 has been cancelled" on Tue, 27 Oct 2026.
 
 Melkweg is a music venue in Amsterdam listed on soundcheck. 33 upcoming gigs, with line-ups including A.R.T., Artful Dodger, Cassius and Chenzo and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 33 upcoming gigs, wi
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

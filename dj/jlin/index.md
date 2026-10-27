@@ -1,6 +1,6 @@
 # Jlin
 
-Jlin is a Experimental and Footwork artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Milton Court Concert Hall, London on Sat, 31 Oct 2026.
+Jlin is a Experimental and Footwork artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Milton Court Concert Hall, London on Sat, 31 Oct 2026.
 
 Jlin is an experimental and footwork artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Batu, HiTech and Mia Koden. Next up: Milton Court Concert Hall, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jlin is an experimental and footwork artist based in United States of America, w
 
 Batu, HiTech, Mia Koden
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jlin/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jlin/)*

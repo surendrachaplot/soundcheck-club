@@ -1,6 +1,6 @@
 # DORA
 
-DORA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at FOLD, London on Sun, 27 Dec 2026.
+DORA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at FOLD, London on Sun, 27 Dec 2026.
 
 DORA is a techno and house artist based in Romania, with 27 gigs on soundcheck across Amsterdam, Athens, Barcelona and Budapest and 7 more. Often billed alongside 96zen, CRIME and Noodleprince. Next up: FOLD, London on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ DORA is a techno and house artist based in Romania, with 27 gigs on soundcheck a
 
 96zen, CRIME, Noodleprince
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dora/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dora/)*

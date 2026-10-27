@@ -1,13 +1,14 @@
 # David Böning
 
-David Böning is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
+David Böning is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Silbergold, Frankfurt on Sat, 31 Oct 2026.
 
-David Böning is a house and deep house artist based in Germany, with 23 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Jeyrototo, DJoy and Delfonic. Next up: Renate, Berlin on Fri 27 Nov.
+David Böning is a house and deep house artist based in Germany, with 24 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Jeyrototo, Ido Toledano and DJoy. Next up: Silbergold, Frankfurt on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Silbergold | Frankfurt |
 | Fri, 27 Nov 2026 | Renate | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ David Böning is a house and deep house artist based in Germany, with 23 gigs on
 
 ## Shares bills with
 
-Jeyrototo, DJoy, Delfonic
+Jeyrototo, Ido Toledano, DJoy
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidboning/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidboning/)*

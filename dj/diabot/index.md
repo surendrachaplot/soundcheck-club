@@ -1,6 +1,6 @@
 # diabot
 
-diabot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Noce KRK, Krakow on Fri, 13 Nov 2026.
+diabot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Noce KRK, Krakow on Fri, 13 Nov 2026.
 
 diabot is a techno and house artist based in Poland, with 30 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Aetha, Hellix and Piotr Figiel. Next up: Noce KRK, Krakow on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ diabot is a techno and house artist based in Poland, with 30 gigs on soundcheck 
 
 Aetha, Hellix, Piotr Figiel
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diabot/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diabot/)*

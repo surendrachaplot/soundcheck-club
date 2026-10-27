@@ -1,6 +1,6 @@
 # Kazimier Garden
 
-Kazimier Garden is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "BaBOOshka - Kazimier Garden 12 Hour Halloween Party" on Sat, 31 Oct 2026.
+Kazimier Garden is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "BaBOOshka - Kazimier Garden 12 Hour Halloween Party" on Sat, 31 Oct 2026.
 
 Kazimier Garden is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including 4D, Aly P, Brown Excellence and Dowd and 2 more. See dates, start times and who's playing. 32B Seel Street, Liverpool, United Kingdom.
 
@@ -18,4 +18,4 @@ Kazimier Garden is a music venue in Liverpool listed on soundcheck. 5 upcoming g
 
 32B Seel Street, Liverpool, United Kingdom, Liverpool
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*

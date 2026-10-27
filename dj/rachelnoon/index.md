@@ -1,6 +1,6 @@
 # Rachel Noon
 
-Rachel Noon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at essaim, Paris on Fri, 30 Oct 2026.
+Rachel Noon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at essaim, Paris on Fri, 30 Oct 2026.
 
 Rachel Noon is a techno and house artist based in United States of America, with 153 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 26 more. Often billed alongside Rakans, BASHKKA and Mohajer. Next up: essaim, Paris on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Rachel Noon is a techno and house artist based in United States of America, with
 
 Rakans, BASHKKA, Mohajer
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelnoon/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelnoon/)*

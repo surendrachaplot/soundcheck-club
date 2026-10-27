@@ -1,6 +1,6 @@
 # Blå
 
-Blå is a music venue in Oslo with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Los Thuthanaka / BLÅ" on Fri, 30 Oct 2026.
+Blå is a music venue in Oslo with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Los Thuthanaka / BLÅ" on Fri, 30 Oct 2026.
 
 Blå is a music venue in Oslo listed on soundcheck. 5 upcoming gigs, with line-ups including Bjørn Torske, Dj Danifox, DJ Marfox and Fakethias and 2 more. See dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
@@ -18,4 +18,4 @@ Blå is a music venue in Oslo listed on soundcheck. 5 upcoming gigs, with line-u
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

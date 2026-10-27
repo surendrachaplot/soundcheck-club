@@ -1,6 +1,6 @@
 # sabw.ay
 
-sabw.ay is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Atno, Budapest on Sat, 7 Nov 2026.
+sabw.ay is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Atno, Budapest on Sat, 7 Nov 2026.
 
 sabw.ay is a techno and electronica artist based in Hungary, with 6 gigs on soundcheck across Budapest. Often billed alongside Adam Pits, Vava and ZSÁGER BALÁZS. Next up: Atno, Budapest on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ sabw.ay is a techno and electronica artist based in Hungary, with 6 gigs on soun
 
 Adam Pits, Vava (1), ZSÁGER BALÁZS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabw.ay/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabw.ay/)*

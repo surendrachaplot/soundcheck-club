@@ -1,6 +1,6 @@
 # provoda
 
-provoda is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
+provoda is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
 
 provoda is a techno and electro artist, with 6 gigs on soundcheck across Hanoi, Ho Chi Minh City, Shanghai and Shenzhen and 1 more. Often billed alongside Mishouju, Cogan and FOI (SK). Next up: Gatosano Da Nang, Vietnam on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ provoda is a techno and electro artist, with 6 gigs on soundcheck across Hanoi, 
 
 Mishouju, Cogan, FOI (SK)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/provoda/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/provoda/)*

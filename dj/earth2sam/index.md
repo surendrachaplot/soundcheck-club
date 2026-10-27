@@ -1,6 +1,6 @@
 # Earth2Sam
 
-Earth2Sam is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cellar, London on Fri, 6 Nov 2026.
+Earth2Sam is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cellar, London on Fri, 6 Nov 2026.
 
 Earth2Sam is an electro and house artist based in United Kingdom, with 10 gigs on soundcheck across London and Manchester. Often billed alongside Finn Nelson, Alexandra and Andrew James Gustav. Next up: Cellar, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Earth2Sam is an electro and house artist based in United Kingdom, with 10 gigs o
 
 Finn Nelson, Alexandra, Andrew James Gustav
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earth2sam/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earth2sam/)*

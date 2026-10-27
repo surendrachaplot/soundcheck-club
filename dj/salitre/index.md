@@ -1,6 +1,6 @@
 # Salitre
 
-Salitre is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Dr. Dou Social Club, Barcelona on Wed, 28 Oct 2026.
+Salitre is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Dr. Dou Social Club, Barcelona on Wed, 28 Oct 2026.
 
 Salitre is a house and deep house artist based in Venezuela, with 37 gigs on soundcheck across Barcelona and Mexico City. Often billed alongside Vegan Cannibal. Next up: Dr. Dou Social Club, Barcelona on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Salitre is a house and deep house artist based in Venezuela, with 37 gigs on sou
 
 Vegan Cannibal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salitre/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salitre/)*

@@ -1,6 +1,6 @@
 # Carla Lyn
 
-Carla Lyn is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Makeout Room, San Francisco/Oakland on Tue, 8 Dec 2026.
+Carla Lyn is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Makeout Room, San Francisco/Oakland on Tue, 8 Dec 2026.
 
 Carla Lyn is a house and acid artist based in United States of America, with 6 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Romii and Ab.rham. Next up: Makeout Room, San Francisco/Oakland on Tue 8 Dec.
 
@@ -22,4 +22,4 @@ Carla Lyn is a house and acid artist based in United States of America, with 6 g
 
 Romii, Ab.rham
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlalyn/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlalyn/)*

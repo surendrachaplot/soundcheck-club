@@ -1,6 +1,6 @@
 # Carré
 
-Carré is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Address revealed to ticket holders day of show, Denver on Sat, 7 Nov 2026.
+Carré is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Address revealed to ticket holders day of show, Denver on Sat, 7 Nov 2026.
 
 Carré is a bass and techno artist based in United States of America, with 83 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brighton and 24 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: TBA - Address revealed to ticket holders day of show, Denver on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Carré is a bass and techno artist based in United States of America, with 83 gi
 
 Samwise (US), Darwin, Seyer (UK)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

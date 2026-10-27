@@ -1,6 +1,6 @@
 # Commun IT by Echoes at IT Athens
 
-Commun IT by Echoes at IT Athens on Fri 6 Nov, Athens. 1 artist: RÆNT. See the line-up on soundcheck.
+Commun IT by Echoes at IT Athens on Fri 6 Nov, Athens. 3 artists: Motiva, RÆNT and RAVAR. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Commun IT by Echoes at IT Athens on Fri 6 Nov, Athens. 1 artist: RÆNT. See the 
 
 ## Line-up
 
+- Motiva
 - RÆNT
+- RAVAR
 
 *Source: [soundcheck](https://soundcheck.club/e/2569115-commun-it-by-echoes-at-it-athens/)*

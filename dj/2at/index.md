@@ -1,6 +1,6 @@
 # 2AT
 
-2AT is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Meadows, New York City on Fri, 30 Oct 2026.
+2AT is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Meadows, New York City on Fri, 30 Oct 2026.
 
 2AT is a guaracha and latin bass artist based in Colombia, with 71 gigs on soundcheck across Barcelona, Berlin, Bogotá and Boston and 27 more. Often billed alongside Aleroj, Nixss and Isablu. Next up: The Meadows, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@
 
 Aleroj, Nixss, Isablu
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2at/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2at/)*

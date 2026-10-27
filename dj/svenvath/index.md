@@ -1,6 +1,6 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Vertigo, Costa-rica on Fri, 30 Oct 2026.
+Sven Vath is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Vertigo, Costa-rica on Fri, 30 Oct 2026.
 
 Sven Vath is a techno and house artist based in Germany, with 253 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Nina Kraviz. Next up: Club Vertigo, Costa Rica on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ Sven Vath is a techno and house artist based in Germany, with 253 gigs on soundc
 
 Maurizio Schmitz, Richie Hawtin, Nina Kraviz
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

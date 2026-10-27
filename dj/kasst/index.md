@@ -1,14 +1,15 @@
 # KAS:ST
 
-KAS:ST is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 31 Oct 2026.
+KAS:ST is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Sat, 31 Oct 2026.
 
-KAS:ST is a techno and house artist based in France, with 115 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Mathame, Enrico Sangiuliano and Anfisa Letyago. Next up: Crobar - Buenos Aires, Buenos Aires on Sat 31 Oct.
+KAS:ST is a techno and house artist based in France, with 116 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Mathame, Enrico Sangiuliano and Anfisa Letyago. Next up: Crobar - Buenos Aires, Buenos Aires on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Crobar - Buenos Aires | Buenos Aires |
+| Sat, 12 Dec 2026 | Arzenal | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KAS:ST is a techno and house artist based in France, with 115 gigs on soundcheck
 
 Mathame, Enrico Sangiuliano, Anfisa Letyago
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*

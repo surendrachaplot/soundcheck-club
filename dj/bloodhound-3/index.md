@@ -1,6 +1,6 @@
 # BLOODHOUND (3)
 
-BLOODHOUND (3) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at CHICO, Mexico City on Fri, 30 Oct 2026.
+BLOODHOUND (3) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at CHICO, Mexico City on Fri, 30 Oct 2026.
 
 BLOODHOUND is a house and techno artist based in United States of America, with 5 gigs on soundcheck across Antwerp, Chicago, Los Angeles and Mexico City. Often billed alongside BB Lux, Charles Moon and DJ Sakee. Next up: CHICO, Mexico City on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ BLOODHOUND is a house and techno artist based in United States of America, with 
 
 BB Lux, Charles Moon, DJ Sakee
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodhound-3/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodhound-3/)*

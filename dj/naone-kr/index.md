@@ -1,6 +1,6 @@
 # Naone
 
-Naone is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
+Naone is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Naone is a techno and house artist based in South Korea, with 190 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 35 more. Often billed alongside mad miran, Iggy P and Sansibar. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Naone is a techno and house artist based in South Korea, with 190 gigs on soundc
 
 mad miran, Iggy P, Sansibar
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

@@ -1,6 +1,6 @@
 # Tom Tom Clubber
 
-Tom Tom Clubber is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Shamrock Bar & Basement, Buenos Aires on Sat, 7 Nov 2026.
+Tom Tom Clubber is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Shamrock Bar & Basement, Buenos Aires on Sat, 7 Nov 2026.
 
 Tom Tom Clubber is a house and techno artist, with 21 gigs on soundcheck across Buenos Aires and Santiago. Often billed alongside Djs Pareja, Betas and Camila Isabel. Next up: The Shamrock Bar & Basement, Buenos Aires on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tom Tom Clubber is a house and techno artist, with 21 gigs on soundcheck across 
 
 Djs Pareja, Betas, Camila Isabel
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtomclubber/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomtomclubber/)*

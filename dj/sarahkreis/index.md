@@ -1,6 +1,6 @@
 # Sarah Kreis
 
-Sarah Kreis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Omeara, London on Sat, 14 Nov 2026.
+Sarah Kreis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Omeara, London on Sat, 14 Nov 2026.
 
 Sarah Kreis is a house and techno artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 24 more. Often billed alongside Caleesi, Mira and Gina Sabatini. Next up: Omeara, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sarah Kreis is a house and techno artist based in Germany, with 87 gigs on sound
 
 Caleesi, Mira, Gina Sabatini
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahkreis/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahkreis/)*

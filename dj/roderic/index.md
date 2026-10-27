@@ -1,14 +1,15 @@
 # Roderic
 
-Roderic is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Yuc-tan on Fri, 4 Dec 2026.
+Roderic is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Yuc-tan on Fri, 4 Dec 2026.
 
-Roderic is a house and deep house artist based in Austria, with 13 gigs on soundcheck across Berlin, Ibiza, Lisbon and Mexico City and 3 more. Often billed alongside Armen Miran, GOLDEN PINEAPPLE and Metrika. Next up: TBA, Yuc Tan on Fri 4 Dec.
+Roderic is a house and deep house artist based in Austria, with 14 gigs on soundcheck across Berlin, Ibiza, Lisbon and Mexico City and 3 more. Often billed alongside Armen Miran, GOLDEN PINEAPPLE and Metrika. Next up: TBA, Yuc Tan on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | TBA | Yuc-tan |
+| Fri, 25 Dec 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Roderic is a house and deep house artist based in Austria, with 13 gigs on sound
 
 Armen Miran, GOLDEN PINEAPPLE, Metrika
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roderic/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roderic/)*

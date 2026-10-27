@@ -1,6 +1,6 @@
 # Kovac
 
-Kovac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 31 Oct 2026.
+Kovac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 31 Oct 2026.
 
 Kovac is a house and techno artist based in Australia, with 59 gigs on soundcheck across Ljubljana, Melbourne and Miami. Often billed alongside Lewis Cancut, 3rd Orbit and Hysteric. Next up: Revolver Upstairs, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kovac is a house and techno artist based in Australia, with 59 gigs on soundchec
 
 Lewis Cancut, 3rd Orbit, Hysteric
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kovac/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kovac/)*

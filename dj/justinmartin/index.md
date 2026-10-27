@@ -1,6 +1,6 @@
 # Justin Martin
 
-Justin Martin is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 31 Oct 2026.
+Justin Martin is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 31 Oct 2026.
 
 Justin Martin is a house and tech house artist based in United States of America, with 98 gigs on soundcheck across Atlanta, Austin, Boston and Charlotte and 20 more. Often billed alongside MNTRA, Ardalan and Mikey Lion. Next up: The Monkey Loft, Seattle on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Justin Martin is a house and tech house artist based in United States of America
 
 MNTRA, Ardalan, Mikey Lion
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*

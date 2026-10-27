@@ -1,6 +1,6 @@
 # YAZZ
 
-YAZZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
+YAZZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
 YAZZ is a techno and house artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, New York City, Paris and Philadelphia. Often billed alongside Chippy Nonstop, Cyb3r Bull and Dalton Taylor. Next up: Eden NYC, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ YAZZ is a techno and house artist based in United States of America, with 22 gig
 
 Chippy Nonstop, Cyb3r Bull, Dalton Taylor
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazz/)*

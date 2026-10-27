@@ -1,8 +1,8 @@
 # Illsee
 
-Illsee is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Doop, Shanghai on Fri, 30 Oct 2026.
+Illsee is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Doop, Shanghai on Fri, 30 Oct 2026.
 
-Illsee is a techno and ebm artist, with 89 gigs on soundcheck across Beijing, Shanghai and Shenzhen. Often billed alongside chuan, Simon Frank and DJ EBP. Next up: Doop, Shanghai on Fri 30 Oct.
+Illsee is a techno and ebm artist based in China, with 89 gigs on soundcheck across Beijing, Shanghai and Shenzhen. Often billed alongside chuan, Simon Frank and DJ EBP. Next up: Doop, Shanghai on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Illsee is a techno and ebm artist, with 89 gigs on soundcheck across Beijing, Sh
 
 chuan, Simon Frank, DJ EBP
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illsee/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illsee/)*

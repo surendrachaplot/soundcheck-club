@@ -1,6 +1,6 @@
 # ALKA
 
-ALKA is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at R Lounge, Tokyo on Mon, 2 Nov 2026.
+ALKA is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at R Lounge, Tokyo on Mon, 2 Nov 2026.
 
 ALKA is a techno and garage artist, with 4 gigs on soundcheck across Milan, Okinawa and Tokyo. Often billed alongside Krankent, Mark Neve and Maslita. Next up: R Lounge, Tokyo on Mon 2 Nov.
 
@@ -20,4 +20,4 @@ ALKA is a techno and garage artist, with 4 gigs on soundcheck across Milan, Okin
 
 Krankent, Mark Neve, Maslita
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alka/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alka/)*

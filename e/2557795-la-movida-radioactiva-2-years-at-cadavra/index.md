@@ -1,6 +1,6 @@
 # LA MOVIDA RADIOACTIVA / 2 YEARS at Cadavra
 
-LA MOVIDA RADIOACTIVA / 2 YEARS at Cadavra on Fri 13 Nov, Madrid. 1 artist: EMIR-B. Electronica. See the line-up on soundcheck.
+LA MOVIDA RADIOACTIVA / 2 YEARS at Cadavra on Fri 13 Nov, Madrid. 3 artists: EMIR-B, Xorpel and Z@p. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ LA MOVIDA RADIOACTIVA / 2 YEARS at Cadavra on Fri 13 Nov, Madrid. 1 artist: EMIR
 ## Line-up
 
 - EMIR-B
+- Xorpel
+- Z@p
 
 *Source: [soundcheck](https://soundcheck.club/e/2557795-la-movida-radioactiva-2-years-at-cadavra/)*

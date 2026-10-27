@@ -1,14 +1,13 @@
 # XOYO
 
-XOYO is a music venue in London with 29 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "[SOLD OUT] MOTION HALLOWEEN" on Mon, 26 Oct 2026.
+XOYO is a music venue in London with 28 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Cherry - House & Disco - XOYO [HALLOWEEN EDITION]" on Thu, 29 Oct 2026.
 
-XOYO is a music venue in London listed on soundcheck. 29 upcoming gigs, with line-ups including Adela, Andy C, BTAY and Crissy Criss and 2 more. See dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including Adela, Andy C, BTAY and Crissy Criss and 2 more. See dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | [SOLD OUT] MOTION HALLOWEEN |  |
 | Thu, 29 Oct 2026 | Cherry - House & Disco - XOYO [HALLOWEEN EDITION] | BTAY |
 | Sat, 31 Oct 2026 | XOYO Halloween: In The Field with Jamie Fielding [SOLD OUT] | Jamie Fielding |
 | Mon, 2 Nov 2026 | MOTION Every Monday |  |
@@ -18,9 +17,10 @@ XOYO is a music venue in London listed on soundcheck. 29 upcoming gigs, with lin
 | Sat, 7 Nov 2026 | Kaluki London | Jansons, Kim April, Pirate Copy, Reelow |
 | Mon, 9 Nov 2026 | MOTION Every Monday |  |
 | Thu, 12 Nov 2026 | Cherry - House & Disco - XOYO | BTAY |
+| Mon, 16 Nov 2026 | MOTION Every Monday |  |
 
 ## Address
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

@@ -1,6 +1,6 @@
 # shanty mane
 
-shanty mane is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location, New York City on Fri, 6 Nov 2026.
+shanty mane is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location, New York City on Fri, 6 Nov 2026.
 
 shanty mane is a house and techno artist based in United States of America, with 44 gigs on soundcheck across Amsterdam, Detroit, Los Angeles and Mexico City and 4 more. Often billed alongside EREZ.JPG, Willy Gorgon and Jeny Michelle. Next up: TBA - Secret Location, New York City on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ shanty mane is a house and techno artist based in United States of America, with
 
 EREZ.JPG, Willy Gorgon, Jeny Michelle
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*

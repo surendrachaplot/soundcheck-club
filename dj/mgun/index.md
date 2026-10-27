@@ -1,6 +1,6 @@
 # MGUN
 
-MGUN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Spkrbox, Detroit on Wed, 28 Oct 2026.
+MGUN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Spkrbox, Detroit on Wed, 28 Oct 2026.
 
 MGUN is a techno and house artist based in United States of America, with 90 gigs on soundcheck across Detroit, New York City, San Francisco/Oakland and Washington DC. Often billed alongside Ryan Spencer, Isaac Prieto and Max Watts. Next up: Spkrbox, Detroit on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ MGUN is a techno and house artist based in United States of America, with 90 gig
 
 Ryan Spencer, Isaac Prieto, Max Watts
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mgun/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mgun/)*

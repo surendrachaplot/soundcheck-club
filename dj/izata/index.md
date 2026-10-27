@@ -1,6 +1,6 @@
 # Izata
 
-Izata is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Flinders, Sydney on Fri, 30 Oct 2026.
+Izata is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Flinders, Sydney on Fri, 30 Oct 2026.
 
 Izata is a club and bass artist based in Australia, with 8 gigs on soundcheck across Sydney. Often billed alongside Attu, 0800KIN and BASS SLVT. Next up: The Flinders, Sydney on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Izata is a club and bass artist based in Australia, with 8 gigs on soundcheck ac
 
 Attu, 0800KIN, BASS SLVT
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izata/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izata/)*

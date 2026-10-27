@@ -1,6 +1,6 @@
 # Zlene
 
-Zlene is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
+Zlene is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
 
 Zlene is a house artist, with 6 gigs on soundcheck across Barcelona, Berlin and Stockholm. Often billed alongside Alex New, kalkyl and Arval. Next up: Golden Gate, Berlin on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Zlene is a house artist, with 6 gigs on soundcheck across Barcelona, Berlin and 
 
 Alex New, kalkyl, Arval
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zlene/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zlene/)*

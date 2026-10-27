@@ -1,6 +1,6 @@
 # Moova
 
-Moova is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Jago, London on Fri, 30 Oct 2026.
+Moova is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Jago, London on Fri, 30 Oct 2026.
 
 Moova is a house and electro artist based in United Kingdom, with 35 gigs on soundcheck across Brighton, Edinburgh, Glasgow and Leeds and 2 more. Often billed alongside Kusasa, Buckley (UK) and harpriya. Next up: The Jago, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Moova is a house and electro artist based in United Kingdom, with 35 gigs on sou
 
 Kusasa, Buckley (UK), harpriya
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moova/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moova/)*

@@ -1,6 +1,6 @@
 # Max TenRoM
 
-Max TenRoM is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Frankielanuit!, Toulouse on Fri, 30 Oct 2026.
+Max TenRoM is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Frankielanuit!, Toulouse on Fri, 30 Oct 2026.
 
 Max TenRoM is a techno and afro house artist, with 10 gigs on soundcheck across Barcelona, Paris and Toulouse. Often billed alongside Milio Ruando, FREDERIKA BEAUTYKILLER and Ghaston. Next up: Frankielanuit!, Toulouse on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Max TenRoM is a techno and afro house artist, with 10 gigs on soundcheck across 
 
 Milio Ruando, FREDERIKA BEAUTYKILLER, Ghaston
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxtenrom/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxtenrom/)*

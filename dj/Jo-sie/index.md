@@ -1,20 +1,20 @@
 # Jo-Sie
 
-Jo-Sie is a electronic artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Macarena Club, Barcelona on Mon, 26 Oct 2026.
+Jo-Sie is a electronic artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Macarena Club, Barcelona on Mon, 2 Nov 2026.
 
-Jo-Sie is an electronic artist based in France, with 72 gigs on soundcheck across Barcelona. Often billed alongside Idriss D, PILAR MOLINERO and Robert Drewek. Next up: Macarena Club, Barcelona on Mon 26 Oct.
+Jo-Sie is an electronic artist based in France, with 72 gigs on soundcheck across Barcelona. Often billed alongside Idriss D, PILAR MOLINERO and Robert Drewek. Next up: Macarena Club, Barcelona on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | Macarena Club | Barcelona |
 | Mon, 2 Nov 2026 | Macarena Club | Barcelona |
 | Mon, 16 Nov 2026 | Macarena Club | Barcelona |
 | Mon, 23 Nov 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
+- Macarena Club, Barcelona · Mon, 26 Oct 2026
 - Macarena Club, Barcelona · Mon, 19 Oct 2026
 - Macarena Club, Barcelona · Mon, 28 Sept 2026
 - Macarena Club, Barcelona · Mon, 14 Sept 2026
@@ -22,10 +22,9 @@ Jo-Sie is an electronic artist based in France, with 72 gigs on soundcheck acros
 - Macarena Club, Barcelona · Mon, 31 Aug 2026
 - Macarena Club, Barcelona · Mon, 24 Aug 2026
 - Macarena Club, Barcelona · Mon, 17 Aug 2026
-- Macarena Club, Barcelona · Mon, 27 Jul 2026
 
 ## Shares bills with
 
 Idriss D, PILAR MOLINERO, Robert Drewek
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Jo-sie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Jo-sie/)*

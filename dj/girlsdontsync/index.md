@@ -1,6 +1,6 @@
 # Girls Don't Sync
 
-Girls Don't Sync is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Gaswrx Birmingham, London on Sat, 31 Oct 2026.
+Girls Don't Sync is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Gaswrx Birmingham, London on Sat, 31 Oct 2026.
 
 Girls Don't Sync is a garage and house artist based in United Kingdom, with 121 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 27 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Eats Everything. Next up: Gaswrx Birmingham, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Girls Don't Sync is a garage and house artist based in United Kingdom, with 121 
 
 Interplanetary Criminal, Sophia Violet, Eats Everything
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*

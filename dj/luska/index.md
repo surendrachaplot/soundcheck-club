@@ -1,6 +1,6 @@
 # Luska
 
-Luska is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Cadavra, Madrid on Fri, 6 Nov 2026.
+Luska is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Cadavra, Madrid on Fri, 6 Nov 2026.
 
 Luska is a techno and electro artist based in Spain, with 67 gigs on soundcheck across Barcelona, Madrid, Malaga and Valencia. Often billed alongside Nurias, OXNA and Avo (ES). Next up: Cadavra, Madrid on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Luska is a techno and electro artist based in Spain, with 67 gigs on soundcheck 
 
 Nurias, OXNA, Avo (ES)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luska/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luska/)*

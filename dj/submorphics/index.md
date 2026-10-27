@@ -1,6 +1,6 @@
 # Submorphics
 
-Submorphics is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Melkweg, Amsterdam on Mon, 16 Nov 2026.
+Submorphics is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Melkweg, Amsterdam on Mon, 16 Nov 2026.
 
 Submorphics is a drum & bass and jungle artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Austin, Bristol and Chicago and 9 more. Often billed alongside Lenzman, MC Fox and khariszma. Next up: Melkweg, Amsterdam on Mon 16 Nov.
 
@@ -26,4 +26,4 @@ Submorphics is a drum & bass and jungle artist based in United States of America
 
 Lenzman, MC Fox, khariszma
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/submorphics/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/submorphics/)*

@@ -1,6 +1,6 @@
 # SRVNT
 
-SRVNT is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Killing Time, Valencia on Fri, 30 Oct 2026.
+SRVNT is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Killing Time, Valencia on Fri, 30 Oct 2026.
 
 SRVNT is a techno and industrial artist, with 5 gigs on soundcheck across Madrid and Valencia. Often billed alongside Subversive, BFeX and DARK MOON (ES). Next up: Killing Time, Valencia on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ SRVNT is a techno and industrial artist, with 5 gigs on soundcheck across Madrid
 
 Subversive (2), BFeX, DARK MOON (ES)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/srvnt/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/srvnt/)*

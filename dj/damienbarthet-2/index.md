@@ -1,6 +1,6 @@
 # Damien Barthet (2)
 
-Damien Barthet (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
+Damien Barthet (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
 
 Damien Barthet is a techno and trance artist, with 14 gigs on soundcheck across Berlin and Paris. Often billed alongside Heepmann, Marcey99 and NASTYA NVRSLP. Next up: OXI, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Damien Barthet is a techno and trance artist, with 14 gigs on soundcheck across 
 
 Heepmann, Marcey99, NASTYA NVRSLP
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damienbarthet-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damienbarthet-2/)*

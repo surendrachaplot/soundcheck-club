@@ -1,6 +1,6 @@
 # dev.n
 
-dev.n is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mood Ring, New York City on Fri, 11 Dec 2026.
+dev.n is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mood Ring, New York City on Fri, 11 Dec 2026.
 
 dev.n is a club and house artist based in United States of America, with 6 gigs on soundcheck across Chicago and New York City. Often billed alongside NoahG, BRATATTACK and Botanist. Next up: Mood Ring, New York City on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ dev.n is a club and house artist based in United States of America, with 6 gigs 
 
 NoahG, BRATATTACK, Botanist
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*

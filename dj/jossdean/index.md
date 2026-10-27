@@ -1,6 +1,6 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Spybar, Chicago on Fri, 30 Oct 2026.
+Joss Dean is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Spybar, Chicago on Fri, 30 Oct 2026.
 
 Joss Dean is a house and tech house artist based in United Kingdom, with 93 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Spybar, Chicago on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 93 gigs
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

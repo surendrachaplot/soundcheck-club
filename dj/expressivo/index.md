@@ -1,6 +1,6 @@
 # eXpressivo
 
-eXpressivo is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - DM @pulse_friction on Instagram for details, Berlin on Sat, 31 Oct 2026.
+eXpressivo is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - DM @pulse_friction on Instagram for details, Berlin on Sat, 31 Oct 2026.
 
 eXpressivo is a techno artist based in Netherlands, with 20 gigs on soundcheck across Berlin. Often billed alongside doctor doms, 044 Jaw and LANSA. Next up: TBA - DM @pulse_friction on Instagram for details, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ eXpressivo is a techno artist based in Netherlands, with 20 gigs on soundcheck a
 
 doctor doms, 044 Jaw, LANSA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/expressivo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/expressivo/)*

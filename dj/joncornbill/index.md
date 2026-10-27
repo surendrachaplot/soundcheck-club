@@ -1,6 +1,6 @@
 # Jon Cornbill
 
-Jon Cornbill is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Lubber Fiend, Newcastle on Fri, 27 Nov 2026.
+Jon Cornbill is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Lubber Fiend, Newcastle on Fri, 27 Nov 2026.
 
 Jon Cornbill is an acid and techno artist based in United Kingdom, with 22 gigs on soundcheck across London and Newcastle. Often billed alongside REES, Abby Harris and Carrier. Next up: The Lubber Fiend, Newcastle on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Jon Cornbill is an acid and techno artist based in United Kingdom, with 22 gigs 
 
 REES, Abby Harris, Carrier
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joncornbill/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joncornbill/)*

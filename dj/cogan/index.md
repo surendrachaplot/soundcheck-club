@@ -1,6 +1,6 @@
 # Cogan
 
-Cogan is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
+Cogan is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
 
 Cogan is a house and electro artist, with 28 gigs on soundcheck across Ho Chi Minh City, Lisbon, Paris and Tokyo and 1 more. Often billed alongside Yuko Kakizawa, Michel D. and Maison Blanche. Next up: Gatosano Da Nang, Vietnam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Cogan is a house and electro artist, with 28 gigs on soundcheck across Ho Chi Mi
 
 Yuko Kakizawa, Michel D., Maison Blanche
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cogan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cogan/)*

@@ -1,6 +1,6 @@
 # Source Halloween Special at Supperclub
 
-Source Halloween Special at Supperclub on Thu 29 Oct, Amsterdam. See the line-up on soundcheck.
+Source Halloween Special at Supperclub on Thu 29 Oct, Amsterdam. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

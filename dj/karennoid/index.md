@@ -1,6 +1,6 @@
 # karennoid
 
-karennoid is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location, Chicago on Fri, 30 Oct 2026.
+karennoid is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location, Chicago on Fri, 30 Oct 2026.
 
 karennoid is a techno and club artist based in United States of America, with 50 gigs on soundcheck across Chicago, Los Angeles and Mexico City. Often billed alongside J. Córdova, DJ Aguara'i and Flores Negras. Next up: TBA - Secret Location, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ karennoid is a techno and club artist based in United States of America, with 50
 
 J. Córdova, DJ Aguara'i, Flores Negras
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karennoid/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karennoid/)*

@@ -1,6 +1,6 @@
 # Jeff Sorkowitz
 
-Jeff Sorkowitz is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
+Jeff Sorkowitz is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
 Jeff Sorkowitz is a tech house and minimal artist based in United States of America, with 28 gigs on soundcheck across Boston, Chicago, London and Los Angeles and 6 more. Often billed alongside Artslaves, Mike Morrisey and Barnesey. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jeff Sorkowitz is a tech house and minimal artist based in United States of Amer
 
 Artslaves, Mike Morrisey, Barnesey
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffsorkowitz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffsorkowitz/)*

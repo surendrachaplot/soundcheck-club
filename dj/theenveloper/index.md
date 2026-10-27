@@ -1,6 +1,6 @@
 # The Enveloper
 
-The Enveloper is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+The Enveloper is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
 
 The Enveloper is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Cologne and 4 more. Often billed alongside Herbrido, PLOYZZ and Basstrologe. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
 
@@ -25,4 +25,4 @@ The Enveloper is a techno and trance artist based in Germany, with 18 gigs on so
 
 Herbrido, PLOYZZ, Basstrologe
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theenveloper/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theenveloper/)*

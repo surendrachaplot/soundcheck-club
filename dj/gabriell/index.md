@@ -1,6 +1,6 @@
 # Gabriell
 
-Gabriell is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club NYX, Amsterdam on Sat, 28 Nov 2026.
+Gabriell is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club NYX, Amsterdam on Sat, 28 Nov 2026.
 
 Gabriell is a house and r&b artist based in Italy, with 6 gigs on soundcheck across Amsterdam, Bogotá and Stuttgart. Often billed alongside Kutkyle, hababy maroc and Aio. Next up: Club NYX, Amsterdam on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Gabriell is a house and r&b artist based in Italy, with 6 gigs on soundcheck acr
 
 Kutkyle, hababy maroc, Aio
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriell/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriell/)*

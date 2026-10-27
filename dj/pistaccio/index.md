@@ -1,6 +1,6 @@
 # Pistaccio
 
-Pistaccio is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Pistaccio is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
 Pistaccio is a house and tech house artist based in Australia, with 22 gigs on soundcheck across Kyoto, Melbourne, Osaka and Sydney and 2 more. Often billed alongside MTTY, Ari Kiko and DJ Niamh. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Pistaccio is a house and tech house artist based in Australia, with 22 gigs on s
 
 MTTY, Ari Kiko, DJ Niamh
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pistaccio/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pistaccio/)*

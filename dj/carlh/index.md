@@ -1,6 +1,6 @@
 # Carl H
 
-Carl H is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Cobalt Studios, Newcastle on Fri, 4 Dec 2026.
+Carl H is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Cobalt Studios, Newcastle on Fri, 4 Dec 2026.
 
 Carl H is a techno and trance artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 46 more. Often billed alongside Jane Fitz, So-Fi and DJ TEETH. Next up: Cobalt Studios, Newcastle on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Carl H is a techno and trance artist based in United Kingdom, with 134 gigs on s
 
 Jane Fitz, So-Fi, DJ TEETH
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*

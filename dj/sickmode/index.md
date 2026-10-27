@@ -1,6 +1,6 @@
 # Sickmode
 
-Sickmode is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Epic Prague, Prague on Sat, 7 Nov 2026.
+Sickmode is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Epic Prague, Prague on Sat, 7 Nov 2026.
 
 Sickmode is a hardcore and techno artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Bangkok, Brussels and Cologne and 12 more. Often billed alongside Angerfist, Dimitri K and Da Tweekaz. Next up: Epic Prague, Prague on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Sickmode is a hardcore and techno artist based in Netherlands, with 18 gigs on s
 
 Angerfist, Dimitri K, Da Tweekaz
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sickmode/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sickmode/)*

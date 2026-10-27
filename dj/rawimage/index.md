@@ -1,6 +1,6 @@
 # Raw Image
 
-Raw Image is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lauschangriff, Berlin on Thu, 29 Oct 2026.
+Raw Image is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lauschangriff, Berlin on Thu, 29 Oct 2026.
 
 Raw Image is a techno and electronica artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside CSL, Catem and Deepthroat. Next up: Lauschangriff, Berlin on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ Raw Image is a techno and electronica artist based in Germany, with 5 gigs on so
 
 CSL, Catem, Deepthroat
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawimage/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawimage/)*

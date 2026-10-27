@@ -1,14 +1,15 @@
 # WNDRLST
 
-WNDRLST is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
+WNDRLST is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
 
-WNDRLST is a techno and industrial artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 35 more. Often billed alongside Doruksen, KØZLØV and LESSSS. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
+WNDRLST is a techno and industrial artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 36 more. Often billed alongside Doruksen, KØZLØV and LESSSS. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Desert Inn Resort and Camp | Dubai |
+| Sat, 28 Nov 2026 | K9 Station | Serbia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ WNDRLST is a techno and industrial artist based in Netherlands, with 71 gigs on 
 
 Doruksen, KØZLØV, LESSSS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wndrlst/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wndrlst/)*

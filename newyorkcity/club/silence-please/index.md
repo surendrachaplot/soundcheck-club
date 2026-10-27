@@ -1,6 +1,6 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "The Cure's Disintegration Listening Session with Andi" on Thu, 29 Oct 2026.
+Silence Please is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "The Cure's Disintegration Listening Session with Andi" on Thu, 29 Oct 2026.
 
 Silence Please is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Andi and Margot. See dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
@@ -17,4 +17,4 @@ Silence Please is a music venue in New York City listed on soundcheck. 4 upcomin
 
 132 Bowery Floor 2, New York, NY 10013, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*

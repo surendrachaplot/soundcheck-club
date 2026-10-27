@@ -1,6 +1,6 @@
 # Pablo Ruizgalan
 
-Pablo Ruizgalan is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location - Leer info, North on Fri, 30 Oct 2026.
+Pablo Ruizgalan is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location - Leer info, North on Fri, 30 Oct 2026.
 
 Pablo Ruizgalan is a club and electronica artist based in Spain, with 17 gigs on soundcheck across Barcelona, Madrid and North. Often billed alongside Babu, Betamax_ and Certain People. Next up: TBA - Secret Location - Leer info, North on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Pablo Ruizgalan is a club and electronica artist based in Spain, with 17 gigs on
 
 Babu, Betamax_, Certain People
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloruizgalan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloruizgalan/)*

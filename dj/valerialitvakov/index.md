@@ -1,6 +1,6 @@
 # Valeria Litvakov
 
-Valeria Litvakov is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 31 Oct 2026.
+Valeria Litvakov is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 31 Oct 2026.
 
 Valeria Litvakov is a club and experimental artist based in Germany, with 19 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 4 more. Often billed alongside 300SkullsAndCounting, Oli XL and 3LNA. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Valeria Litvakov is a club and experimental artist based in Germany, with 19 gig
 
 300SkullsAndCounting, Oli XL, 3LNA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valerialitvakov/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valerialitvakov/)*

@@ -1,6 +1,6 @@
 # Unna Foulanah
 
-Unna Foulanah is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 29 Oct 2026.
+Unna Foulanah is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 29 Oct 2026.
 
 Unna Foulanah is a house and minimal artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Pia Kauitl, Esteban De Haro and Flandez. Next up: Zu Mir Oder Zu Dir, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Unna Foulanah is a house and minimal artist based in Germany, with 12 gigs on so
 
 Pia Kauitl, Esteban De Haro, Flandez
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unnafoulanah/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unnafoulanah/)*

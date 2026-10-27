@@ -1,6 +1,6 @@
 # SHMIKESSS
 
-SHMIKESSS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - OPEN / SOURCE, Cape Town on Fri, 30 Oct 2026.
+SHMIKESSS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - OPEN / SOURCE, Cape Town on Fri, 30 Oct 2026.
 
 SHMIKESSS is a house and techno artist based in South Africa, with 8 gigs on soundcheck across Berlin, Cape Town and Munich. Often billed alongside Almedina, Brigade and Cody Meyer. Next up: TBA - OPEN / SOURCE, Cape Town on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ SHMIKESSS is a house and techno artist based in South Africa, with 8 gigs on sou
 
 Almedina (2), Brigade, Cody Meyer
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shmikesss/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shmikesss/)*

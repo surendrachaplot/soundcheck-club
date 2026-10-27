@@ -1,17 +1,18 @@
 # Glazart
 
-Glazart is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "After O'Clock X La Plage Open Air: Arnaud Le Texier, Don Turi, REMAIN" on Sat, 31 Oct 2026.
+Glazart is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "After O'Clock X La Plage Open Air: Arnaud Le Texier, Don Turi, REMAIN" on Sat, 31 Oct 2026.
 
-Glazart is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Arnaud Le Texier and Remain. See dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
+Glazart is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Alhena_, Arnaud Le Texier, Axelle Maga and Remain and 2 more. See dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | After O'Clock X La Plage Open Air: Arnaud Le Texier, Don Turi, REMAIN | Arnaud Le Texier, Remain |
+| Sun, 1 Nov 2026 | After O'Clock X La Plage Open Air: Closing | Alhena_, Axelle Maga, Romeo Louisa, Terminal Trax |
 
 ## Address
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

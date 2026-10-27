@@ -1,6 +1,6 @@
 # Paisley Jensen
 
-Paisley Jensen is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 14 Nov 2026.
+Paisley Jensen is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 14 Nov 2026.
 
 Paisley Jensen is a house and tech house artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Bristol and 7 more. Often billed alongside Sam Divine, Danny Howard and Eats Everything. Next up: Thuishaven, Amsterdam on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Paisley Jensen is a house and tech house artist based in United Kingdom, with 54
 
 Sam Divine, Danny Howard, Eats Everything
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paisleyjensen/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paisleyjensen/)*

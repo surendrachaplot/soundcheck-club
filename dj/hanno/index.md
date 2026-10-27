@@ -1,6 +1,6 @@
 # Hanno
 
-Hanno is a House and Ballroom artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Goldener Reiter, Munich on Fri, 30 Oct 2026.
+Hanno is a House and Ballroom artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Goldener Reiter, Munich on Fri, 30 Oct 2026.
 
 Hanno is a house and ballroom artist based in Germany, with 30 gigs on soundcheck across Munich and Vienna. Often billed alongside Benjamin Roeder, Bogus Trumper and Manuel Kim. Next up: Goldener Reiter, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Hanno is a house and ballroom artist based in Germany, with 30 gigs on soundchec
 
 Benjamin Roeder, Bogus Trumper, Manuel Kim
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanno/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanno/)*

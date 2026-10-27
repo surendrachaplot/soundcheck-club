@@ -1,6 +1,6 @@
 # Pedro Bertho
 
-Pedro Bertho is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Le Sucre, Lyon on Sun, 8 Nov 2026.
+Pedro Bertho is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Le Sucre, Lyon on Sun, 8 Nov 2026.
 
 Pedro Bertho is a house and club artist, with 29 gigs on soundcheck across Bogotá, Lisbon, Lyon and Nantes and 3 more. Often billed alongside Patxi, Dom Peter and Cornelius Doctor. Next up: Le Sucre, Lyon on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Pedro Bertho is a house and club artist, with 29 gigs on soundcheck across Bogot
 
 Patxi, Dom Peter, Cornelius Doctor
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrobertho/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrobertho/)*

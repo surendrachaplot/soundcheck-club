@@ -1,6 +1,6 @@
 # G-Style
 
-G-Style is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
+G-Style is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
 
 G-Style is a techno and tech house artist, with 5 gigs on soundcheck across New York City. Often billed alongside SPF 50, Albert_ and OTO (NY). Next up: TBA, New York City on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ G-Style is a techno and tech house artist, with 5 gigs on soundcheck across New 
 
 SPF 50, Albert_, OTO (NY)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gstyle/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gstyle/)*

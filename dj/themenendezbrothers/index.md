@@ -1,6 +1,6 @@
 # The Menendez Brothers
 
-The Menendez Brothers is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ministry Of Sound, London on Sat, 31 Oct 2026.
+The Menendez Brothers is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ministry Of Sound, London on Sat, 31 Oct 2026.
 
 The Menendez Brothers is a house and tech house artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dubai and 4 more. Often billed alongside Meeshy, Andrea Oliva and Raul Rodriguez. Next up: Ministry Of Sound, London on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ The Menendez Brothers is a house and tech house artist based in United Kingdom, 
 
 Meeshy, Andrea Oliva, Raul Rodriguez
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themenendezbrothers/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themenendezbrothers/)*

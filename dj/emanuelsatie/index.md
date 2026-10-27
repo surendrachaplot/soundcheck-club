@@ -1,6 +1,6 @@
 # Emanuel Satie
 
-Emanuel Satie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at 77, London on Fri, 30 Oct 2026.
+Emanuel Satie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 77, London on Fri, 30 Oct 2026.
 
 Emanuel Satie is a house and techno artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 41 more. Often billed alongside MAGA, Sean Doron and Sven Vath. Next up: 77, London on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Emanuel Satie is a house and techno artist based in Germany, with 110 gigs on so
 
 ## Recently played
 
+- Crane Hotel Faralda, Amsterdam · Mon, 26 Oct 2026
 - Het Sieraad, Amsterdam · Sat, 10 Oct 2026
 - TBA - Archi Club, Costanera, Buenos Aires · Sat, 3 Oct 2026
 - Pacha, Munich · Sat, 26 Sept 2026
@@ -20,10 +21,9 @@ Emanuel Satie is a house and techno artist based in Germany, with 110 gigs on so
 - Knockdown Center, New York City · Sun, 20 Sept 2026
 - Marienbergpark, Nürnberg · Sat, 29 Aug 2026
 - Cova Santa, Ibiza · Fri, 21 Aug 2026
-- Chinois Ibiza, Ibiza · Thu, 23 Jul 2026
 
 ## Shares bills with
 
 MAGA, Sean Doron, Sven Vath
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*

@@ -1,6 +1,6 @@
 # Grau Series: WAREHOUSE with Setaoc Mass (UK), Olivia Mendez (DE), fleika, White aurA + more at Stadion Strahov
 
-Grau Series: WAREHOUSE with Setaoc Mass (UK), Olivia Mendez (DE), fleika, White aurA + more at Stadion Strahov on Fri 13 Nov, Prague. 8 artists: Citty, Etienn Grey, fleika and Olivia Mendez and 4 more. Techno and Ambient. See the line-up on soundcheck.
+Grau Series: WAREHOUSE with Setaoc Mass (UK), Olivia Mendez (DE), fleika, White aurA + more at Stadion Strahov on Fri 13 Nov, Prague. 9 artists: Citty, Etienn Grey, fleika and Nocturnal Thing and 5 more. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Grau Series: WAREHOUSE with Setaoc Mass (UK), Olivia Mendez (DE), fleika, White 
 - Citty
 - Etienn Grey
 - fleika
+- Nocturnal Thing
 - Olivia Mendez
 - Setaoc Mass
 - Theo (8)

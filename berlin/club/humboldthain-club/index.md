@@ -1,8 +1,8 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Open Decks & Tischtennis" on Tue, 27 Oct 2026.
+Humboldthain Club is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Open Decks & Tischtennis" on Tue, 27 Oct 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including 3diz, 5euroGoldi, August Kind and aykanakdag and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 3diz, 5euroGoldi, August Kind and aykanakdag and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 15 upcoming g
 | Fri, 6 Nov 2026 | GATE - Mystic Dream | 5euroGoldi, August Kind, Neoma, Shake Daddy, leanripke, senaitstar |
 | Sat, 7 Nov 2026 | Lange Nacht der Wissenschaft X PhonoVision | Bamela Paywatch, HiHat, Ini Lamborghini, Lenny Fuck, Pavelo Promillo, so:fein |
 | Tue, 10 Nov 2026 | Open Decks & Tischtennis |  |
+| Sat, 14 Nov 2026 | Step in for Solidarity (Soliparty für die Stolpersteine von Elfriede und Hans Zoschke) | DJ-Ween, HØLLE (2), S.3000 |
 | Tue, 17 Nov 2026 | Open Decks & Tischtennis |  |
 | Fri, 20 Nov 2026 | 5 Years of Ausländerbehörde w/ Radioactive Man, The Burrell Connection, Purita D. and many more | 3diz, DJ Regret, FoxMind, JEDRANALINE, Purita D, Radioactive Man, The Burrell Connection, aykanakdag |
-| Sat, 21 Nov 2026 | BISOUS | DJ Festnetz, SACID, Siimon |
 
 ## Address
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

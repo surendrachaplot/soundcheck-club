@@ -1,6 +1,6 @@
 # Crissis
 
-Crissis is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 13 Nov 2026.
+Crissis is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 13 Nov 2026.
 
 Crissis is a techno and electronica artist, with 13 gigs on soundcheck across Madrid and Mexico City. Often billed alongside Oscar Blue, ADRI.G and Trasto. Next up: Lasociaciøn, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Crissis is a techno and electronica artist, with 13 gigs on soundcheck across Ma
 
 Oscar Blue, ADRI.G, Trasto
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crissis/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crissis/)*

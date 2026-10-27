@@ -1,6 +1,6 @@
 # RARRI
 
-RARRI is a Bass and Footwork artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Ostrich Farm, Cape-town on Fri, 4 Dec 2026.
+RARRI is a Bass and Footwork artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Ostrich Farm, Cape-town on Fri, 4 Dec 2026.
 
 RARRI is a bass and footwork artist based in Germany, with 18 gigs on soundcheck across Berlin, Cape Town, Johannesburg and Leipzig. Often billed alongside Bephål, Janthe and Ostbam. Next up: The Ostrich Farm, Cape Town on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ RARRI is a bass and footwork artist based in Germany, with 18 gigs on soundcheck
 
 Bephål, Janthe, Ostbam
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rarri/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rarri/)*

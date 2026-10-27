@@ -1,6 +1,6 @@
 # Bronski
 
-Bronski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 6 Nov 2026.
+Bronski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 6 Nov 2026.
 
 Bronski is a house and techno artist based in Croatia, with 5 gigs on soundcheck across Zagreb. Often billed alongside IGZ (HR), Madezh and -LaLa-. Next up: Peti Kupe, Zagreb on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Bronski is a house and techno artist based in Croatia, with 5 gigs on soundcheck
 
 IGZ (HR), Madezh, -LaLa-
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronski/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronski/)*

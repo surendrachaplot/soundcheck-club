@@ -1,6 +1,6 @@
 # Halloween: Alexandra • Citizens Union • Giorgi Devadze • Autöcut (live) • Trigger (live) at Left Bank
 
-Halloween: Alexandra • Citizens Union • Giorgi Devadze • Autöcut (live) • Trigger (live) at Left Bank on Sat 31 Oct, Tbilisi. 3 artists: Alexandra, Citizens Union and Giorgi Devadze. See the line-up on soundcheck.
+Halloween: Alexandra • Citizens Union • Giorgi Devadze • Autöcut (live) • Trigger (live) at Left Bank on Sat 31 Oct, Tbilisi. 2 artists: Citizens Union and Giorgi Devadze. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Halloween: Alexandra • Citizens Union • Giorgi Devadze • Autöcut (live) �
 
 ## Line-up
 
-- Alexandra
 - Citizens Union
 - Giorgi Devadze
 

@@ -1,8 +1,8 @@
 # Adiel
 
-Adiel is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+Adiel is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
-Adiel is a techno and house artist based in Italy, with 245 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Héctor Oaks, Nina Kraviz and Richie Hawtin. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
+Adiel is a techno and house artist based in Italy, with 246 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Héctor Oaks, Nina Kraviz and Richie Hawtin. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Adiel is a techno and house artist based in Italy, with 245 gigs on soundcheck a
 | Fri, 30 Oct 2026 | Chuchle Racecourse | Prague |
 | Sat, 31 Oct 2026 | The Cause | London |
 | Sun, 1 Nov 2026 | Sophie Festival | Malaga |
+| Sat, 7 Nov 2026 | Switch | Porto |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 13 Nov 2026 | Jolene Downtown Miami | Miami |
 | Fri, 20 Nov 2026 | Radius | Chicago |
@@ -19,7 +20,6 @@ Adiel is a techno and house artist based in Italy, with 245 gigs on soundcheck a
 | Sat, 12 Dec 2026 | KALT | Strasbourg |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
-| Fri, 29 Jan 2027 | Cosmos Club Sevilla | South |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Adiel is a techno and house artist based in Italy, with 245 gigs on soundcheck a
 
 Héctor Oaks, Nina Kraviz, Richie Hawtin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*

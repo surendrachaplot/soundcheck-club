@@ -1,6 +1,6 @@
 # Sonhan
 
-Sonhan is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+Sonhan is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
 
 Sonhan is a techno and ebm artist based in Belgium, with 52 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 2 more. Often billed alongside Souleiman, Marie-Julie and Phara. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sonhan is a techno and ebm artist based in Belgium, with 52 gigs on soundcheck a
 
 Souleiman, Marie-Julie, Phara
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonhan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonhan/)*

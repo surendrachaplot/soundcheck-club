@@ -1,6 +1,6 @@
 # Amino
 
-Amino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Marble Bar, Detroit on Fri, 20 Nov 2026.
+Amino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Marble Bar, Detroit on Fri, 20 Nov 2026.
 
 Amino is a techno and house artist based in United States of America, with 94 gigs on soundcheck across Cleveland, Detroit, Indiana and New York City and 1 more. Often billed alongside Duck Trash, Garrison XR and Loren. Next up: Marble Bar, Detroit on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Amino is a techno and house artist based in United States of America, with 94 gi
 
 Duck Trash, Garrison XR, Loren
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*

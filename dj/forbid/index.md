@@ -1,6 +1,6 @@
 # Forbid
 
-Forbid is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Yes, Manchester on Thu, 29 Oct 2026.
+Forbid is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Yes, Manchester on Thu, 29 Oct 2026.
 
 Forbid is a disco and house artist based in United Kingdom, with 6 gigs on soundcheck across Manchester. Often billed alongside LARISHKA (UK), Meme Gold and Bollibubbles. Next up: Yes, Manchester on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ Forbid is a disco and house artist based in United Kingdom, with 6 gigs on sound
 
 LARISHKA (UK), Meme Gold, Bollibubbles
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forbid/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forbid/)*

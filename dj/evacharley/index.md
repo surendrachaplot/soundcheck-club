@@ -1,6 +1,6 @@
 # Eva Charley
 
-Eva Charley is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+Eva Charley is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 Eva Charley is a techno and trance artist based in Australia, with 38 gigs on soundcheck across Berlin, Cologne, Hamburg and Münster and 2 more. Often billed alongside GMOZ, BabaBass3000 and Malfunkt. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Eva Charley is a techno and trance artist based in Australia, with 38 gigs on so
 
 GMOZ, BabaBass3000, Malfunkt
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evacharley/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evacharley/)*

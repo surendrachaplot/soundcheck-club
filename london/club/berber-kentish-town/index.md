@@ -1,6 +1,6 @@
 # Berberè Kentish Town
 
-Berberè Kentish Town is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Extra UnVirgin" on Thu, 29 Oct 2026.
+Berberè Kentish Town is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Extra UnVirgin" on Thu, 29 Oct 2026.
 
 Berberè Kentish Town is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Berberè Kentish Town is a music venue in London listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Extra UnVirgin |  |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/berber-kentish-town/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/berber-kentish-town/)*

@@ -1,6 +1,6 @@
 # ACONYTICH
 
-ACONYTICH is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location (CE), Naples on Sat, 31 Oct 2026.
+ACONYTICH is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location (CE), Naples on Sat, 31 Oct 2026.
 
 ACONYTICH is an electro and techno artist, with 5 gigs on soundcheck across Amsterdam and Naples. Often billed alongside DE12, Ancut and Andrea Bertoli. Next up: TBA - Secret Location (CE), Naples on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ ACONYTICH is an electro and techno artist, with 5 gigs on soundcheck across Amst
 
 DE12, Ancut, Andrea Bertoli
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aconytich/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aconytich/)*

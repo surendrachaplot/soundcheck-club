@@ -1,6 +1,6 @@
 # Beeches
 
-Beeches is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Waiting Room, London on Sat, 28 Nov 2026.
+Beeches is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Waiting Room, London on Sat, 28 Nov 2026.
 
 Beeches is a house and deep house artist, with 6 gigs on soundcheck across London. Often billed alongside JVXTA, Zapata and Genese. Next up: The Waiting Room, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Beeches is a house and deep house artist, with 6 gigs on soundcheck across Londo
 
 JVXTA, Zapata, Genese
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beeches/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beeches/)*

@@ -1,6 +1,6 @@
 # Maron
 
-Maron is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kassa Boat, Budapest on Fri, 20 Nov 2026.
+Maron is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kassa Boat, Budapest on Fri, 20 Nov 2026.
 
 Maron is a house and techno artist based in Hungary, with 100 gigs on soundcheck across Berlin and Budapest. Often billed alongside Jaffa Surfa, isu and Kiqo. Next up: Kassa Boat, Budapest on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Maron is a house and techno artist based in Hungary, with 100 gigs on soundcheck
 
 Jaffa Surfa, isu, Kiqo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maron/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maron/)*

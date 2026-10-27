@@ -1,6 +1,6 @@
 # Pressure (2)
 
-Pressure (2) is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Transformator, Wroclaw on Fri, 30 Oct 2026.
+Pressure (2) is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Transformator, Wroclaw on Fri, 30 Oct 2026.
 
 Pressure is a techno and latin bass artist based in Poland, with 12 gigs on soundcheck across Detroit, Liverpool, Stuttgart and Warsaw and 1 more. Often billed alongside SWDEJAY, Adobo (PL) and DJ Kobieta. Next up: Transformator, Wroclaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Pressure is a techno and latin bass artist based in Poland, with 12 gigs on soun
 
 SWDEJAY, Adobo (PL), DJ Kobieta
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pressure-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pressure-2/)*

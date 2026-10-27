@@ -1,6 +1,6 @@
 # MARC WERNER
 
-MARC WERNER is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 13 Nov 2026.
+MARC WERNER is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 13 Nov 2026.
 
 MARC WERNER is a techno and house artist based in Germany, with 47 gigs on soundcheck across Barcelona, Berlin, Bucharest and Copenhagen and 8 more. Often billed alongside AVAION, Alfred Heinrichs and Deborah De Luca. Next up: Ritter Butzke, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ MARC WERNER is a techno and house artist based in Germany, with 47 gigs on sound
 
 AVAION, Alfred Heinrichs, Deborah De Luca
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcwerner/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcwerner/)*

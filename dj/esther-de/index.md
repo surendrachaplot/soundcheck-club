@@ -1,6 +1,6 @@
 # Esther
 
-Esther is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
+Esther is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
 
 Esther is a techno and club artist based in Germany, with 18 gigs on soundcheck across Bangkok, Berlin, Cardiff and Cologne and 6 more. Often billed alongside Parisha, Damien Barthet and Heepmann. Next up: OXI, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Esther is a techno and club artist based in Germany, with 18 gigs on soundcheck 
 
 Parisha, Damien Barthet (2), Heepmann
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esther-de/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esther-de/)*

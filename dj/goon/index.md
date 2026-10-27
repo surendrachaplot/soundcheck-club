@@ -1,6 +1,6 @@
 # Goon
 
-Goon is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Link, Bologna on Mon, 7 Dec 2026.
+Goon is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Link, Bologna on Mon, 7 Dec 2026.
 
 Goon is a techno artist based in Italy, with 14 gigs on soundcheck across Bologna. Often billed alongside Conical Intersection, Contal and MALATTIA. Next up: Link, Bologna on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Goon is a techno artist based in Italy, with 14 gigs on soundcheck across Bologn
 
 Conical Intersection, Contal, MALATTIA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goon/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goon/)*

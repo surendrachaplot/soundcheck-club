@@ -1,6 +1,6 @@
 # HiroHiro
 
-HiroHiro is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Akihabara IV, Tokyo on Sat, 9 Jan 2027.
+HiroHiro is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Akihabara IV, Tokyo on Sat, 9 Jan 2027.
 
 HiroHiro is a hardcore and techno artist based in Japan, with 6 gigs on soundcheck across Tokyo. Often billed alongside ATMK, SEIGI. and DJ Shimamura. Next up: Akihabara IV, Tokyo on Sat 9 Jan.
 
@@ -22,4 +22,4 @@ HiroHiro is a hardcore and techno artist based in Japan, with 6 gigs on soundche
 
 ATMK, SEIGI., DJ Shimamura
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirohiro/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirohiro/)*

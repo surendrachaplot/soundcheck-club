@@ -1,6 +1,6 @@
 # Tube (2)
 
-Tube (2) is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Paragon, New York City on Sat, 7 Nov 2026.
+Tube (2) is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Paragon, New York City on Sat, 7 Nov 2026.
 
 Tube is a techno and reggaeton artist based in Colombia, with 15 gigs on soundcheck across Bogotá and New York City. Often billed alongside 8888, Brenda. and Coyado. Next up: Paragon, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tube is a techno and reggaeton artist based in Colombia, with 15 gigs on soundch
 
 8888, Brenda., Coyado
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tube-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tube-2/)*

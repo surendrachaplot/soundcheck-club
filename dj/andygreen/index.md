@@ -1,6 +1,6 @@
 # Andy Green
 
-Andy Green is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Andy Green is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 Andy Green is a dub techno and dub artist based in United Kingdom, with 7 gigs on soundcheck across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside Quadrant Soundscape, Adi (CO) and Alec Pritchard. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -23,4 +23,4 @@ Andy Green is a dub techno and dub artist based in United Kingdom, with 7 gigs o
 
 Quadrant Soundscape, Adi (CO), Alec Pritchard
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andygreen/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andygreen/)*

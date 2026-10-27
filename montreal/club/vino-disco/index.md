@@ -1,6 +1,6 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "SÉANCE" on Thu, 29 Oct 2026.
+Vino Disco is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "SÉANCE" on Thu, 29 Oct 2026.
 
 Vino Disco is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with line-ups including Fred [Note Vocale]. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
@@ -16,4 +16,4 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, w
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

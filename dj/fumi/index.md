@@ -1,6 +1,6 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
+FUMI is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
 
 FUMI is a techno and industrial artist based in France, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside EVE, Monk000 and Adrian Mills. Next up: TBA - Studio Orfei, Sofia on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ FUMI is a techno and industrial artist based in France, with 102 gigs on soundch
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

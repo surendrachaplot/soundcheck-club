@@ -1,6 +1,6 @@
 # Santonio Echols
 
-Santonio Echols is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
+Santonio Echols is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
 
 Santonio Echols is a techno and house artist based in United States of America, with 7 gigs on soundcheck across Amsterdam and Detroit. Often billed alongside Al Ester, DJ Godfather and Kevin Saunderson. Next up: Lincoln Factory, Detroit on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Santonio Echols is a techno and house artist based in United States of America, 
 
 Al Ester, DJ Godfather, Kevin Saunderson
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santonioechols-us/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santonioechols-us/)*

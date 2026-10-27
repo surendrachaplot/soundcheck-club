@@ -1,6 +1,6 @@
 # Electric Garden
 
-Electric Garden is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Halloween - Sarah de Warren" on Fri, 30 Oct 2026.
+Electric Garden is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Halloween - Sarah de Warren" on Fri, 30 Oct 2026.
 
 Electric Garden is a music venue in Dublin listed on soundcheck. 2 upcoming gigs, with line-ups including Bronwyn., Franco Cepulo, Leo Cardi and Shampain and 2 more. See dates, start times and who's playing. 13-14 Liberty Lane, Dublin 8, D08 NF86.
 
@@ -15,4 +15,4 @@ Electric Garden is a music venue in Dublin listed on soundcheck. 2 upcoming gigs
 
 13-14 Liberty Lane, Dublin 8, D08 NF86, Dublin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/electric-garden/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/electric-garden/)*

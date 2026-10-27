@@ -1,6 +1,6 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Central Chapelle, Paris on Wed, 28 Oct 2026.
+Ely Oaks is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Central Chapelle, Paris on Wed, 28 Oct 2026.
 
 Ely Oaks is a techno and house artist based in Austria, with 53 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 33 more. Often billed alongside Space 92, BOVSKI and DAX J. Next up: Central Chapelle, Paris on Wed 28 Oct.
 
@@ -31,4 +31,4 @@ Ely Oaks is a techno and house artist based in Austria, with 53 gigs on soundche
 
 Space 92, BOVSKI, DAX J
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

@@ -1,6 +1,6 @@
 # Moiseline
 
-Moiseline is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Sun, 1 Nov 2026.
+Moiseline is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Sun, 1 Nov 2026.
 
 Moiseline is a house and minimal artist based in Venezuela, with 66 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Luis Fandiño, DJ MELEJ and Japp Beats. Next up: Mad Radio Bogotá, Bogotá on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Moiseline is a house and minimal artist based in Venezuela, with 66 gigs on soun
 
 Luis Fandiño, DJ MELEJ, Japp Beats
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moiseline/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moiseline/)*

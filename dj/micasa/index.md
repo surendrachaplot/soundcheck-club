@@ -1,6 +1,6 @@
 # Mi Casa
 
-Mi Casa is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cabo Beach Club, Cape Town on Sun, 27 Dec 2026.
+Mi Casa is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cabo Beach Club, Cape Town on Sun, 27 Dec 2026.
 
 Mi Casa is a deep house and afro house artist based in South Africa, with 5 gigs on soundcheck across Cape Town and London. Often billed alongside Thakzin, Dwson and Kid Fonque. Next up: Cabo Beach Club, Cape Town on Sun 27 Dec.
 
@@ -21,4 +21,4 @@ Mi Casa is a deep house and afro house artist based in South Africa, with 5 gigs
 
 Thakzin, Dwson, Kid Fonque
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micasa/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micasa/)*

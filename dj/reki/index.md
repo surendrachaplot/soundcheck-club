@@ -1,6 +1,6 @@
 # REKI
 
-REKI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Room, Tokyo on Sun, 6 Dec 2026.
+REKI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Room, Tokyo on Sun, 6 Dec 2026.
 
 REKI is a techno and house artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside AMARI, cosmolady and DJ Wada. Next up: The Room, Tokyo on Sun 6 Dec.
 
@@ -21,4 +21,4 @@ REKI is a techno and house artist based in Japan, with 5 gigs on soundcheck acro
 
 AMARI, cosmolady, DJ Wada
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reki/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reki/)*

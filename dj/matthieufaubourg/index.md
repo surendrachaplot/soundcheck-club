@@ -1,6 +1,6 @@
 # Matthieu Faubourg
 
-Matthieu Faubourg is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Goya Social Club, Madrid on Fri, 30 Oct 2026.
+Matthieu Faubourg is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Goya Social Club, Madrid on Fri, 30 Oct 2026.
 
 Matthieu Faubourg is a house and electro artist based in France, with 17 gigs on soundcheck across Berlin, Cologne, Madrid and Paris and 3 more. Often billed alongside Palimpseste, Santa Fe and Black Loops. Next up: Goya Social Club, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Matthieu Faubourg is a house and electro artist based in France, with 17 gigs on
 
 Palimpseste, Santa Fe, Black Loops
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthieufaubourg/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthieufaubourg/)*

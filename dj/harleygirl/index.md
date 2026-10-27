@@ -1,6 +1,6 @@
 # HARLEY GIRL
 
-HARLEY GIRL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at City Recital Hall, Sydney on Fri, 30 Oct 2026.
+HARLEY GIRL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at City Recital Hall, Sydney on Fri, 30 Oct 2026.
 
 HARLEY GIRL is a house and techno artist, with 5 gigs on soundcheck across Brisbane and Sydney. Often billed alongside 1tbsp, 2touch and Ari Kiko. Next up: City Recital Hall, Sydney on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ HARLEY GIRL is a house and techno artist, with 5 gigs on soundcheck across Brisb
 
 1tbsp, 2touch, Ari Kiko
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harleygirl/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harleygirl/)*

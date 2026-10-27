@@ -1,6 +1,6 @@
 # Koji Nakamura
 
-Koji Nakamura is a Minimal and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Compufunk Records, Osaka on Sat, 21 Nov 2026.
+Koji Nakamura is a Minimal and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Compufunk Records, Osaka on Sat, 21 Nov 2026.
 
 Koji Nakamura is a minimal and post-punk artist based in Japan, with 8 gigs on soundcheck across Osaka and Tokyo. Often billed alongside AOI BLOOM, DJ KAZUMA and DJ SPOT. Next up: Compufunk Records, Osaka on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Koji Nakamura is a minimal and post-punk artist based in Japan, with 8 gigs on s
 
 AOI BLOOM, DJ KAZUMA, DJ SPOT
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kojinakamura/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kojinakamura/)*

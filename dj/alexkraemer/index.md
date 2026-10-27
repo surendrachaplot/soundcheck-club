@@ -1,6 +1,6 @@
 # Alex Kraemer
 
-Alex Kraemer is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at PWCC, North on Sun, 1 Nov 2026.
+Alex Kraemer is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at PWCC, North on Sun, 1 Nov 2026.
 
 Alex Kraemer is an electronic artist based in Germany, with 24 gigs on soundcheck across Berlin and North. Often billed alongside Stipé, RAHA and Andy Kolwes. Next up: PWCC, North on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Alex Kraemer is an electronic artist based in Germany, with 24 gigs on soundchec
 
 Stipé, RAHA, Andy Kolwes
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkraemer/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkraemer/)*

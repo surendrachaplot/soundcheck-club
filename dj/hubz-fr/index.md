@@ -1,6 +1,6 @@
 # Hubz
 
-Hubz is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 6 Nov 2026.
+Hubz is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 6 Nov 2026.
 
 Hubz is a house and club artist, with 7 gigs on soundcheck across Berlin. Often billed alongside Mati Espina, Otazzu and Vasile. Next up: Bulbul Berlin, Berlin on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Hubz is a house and club artist, with 7 gigs on soundcheck across Berlin. Often 
 
 Mati Espina, Otazzu, Vasile
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hubz-fr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hubz-fr/)*

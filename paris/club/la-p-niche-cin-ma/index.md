@@ -1,18 +1,17 @@
 # La Péniche Cinéma
 
-La Péniche Cinéma is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DOPOSTAMPA #12 – Sick Seek" on Fri, 23 Oct 2026.
+La Péniche Cinéma is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Your Calling: One Year (Extended) Birthday Party" on Fri, 13 Nov 2026.
 
-La Péniche Cinéma is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Sick Seek. See dates, start times and who's playing. Metro Porte de la Villette 59 bd Mc Donald 75019.
+La Péniche Cinéma is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Hitomi (DE), MIRZA, Track Advisor and Venus Exotica. See dates, start times and who's playing. Metro Porte de la Villette 59 bd Mc Donald 75019.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | DOPOSTAMPA #12 – Sick Seek | Sick Seek |
-| Sat, 24 Oct 2026 | District 10: Floorfillers 11 hour set |  |
+| Fri, 13 Nov 2026 | Your Calling: One Year (Extended) Birthday Party | Hitomi (DE), MIRZA, Track Advisor, Venus Exotica |
 
 ## Address
 
 Metro Porte de la Villette 59 bd Mc Donald 75019, Paris
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-p-niche-cin-ma/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-p-niche-cin-ma/)*

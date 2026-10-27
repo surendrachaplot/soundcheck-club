@@ -1,8 +1,8 @@
 # Krowdexx
 
-Krowdexx is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Krowdexx is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
-Krowdexx is a hardcore and techno artist based in Netherlands, with 18 gigs on soundcheck across Berlin, Bordeaux, Brussels and Cologne and 10 more. Often billed alongside Angerfist, LESSSS and Russian Village Boys. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
+Krowdexx is a hardcore and techno artist based in Netherlands, with 18 gigs on soundcheck across Berlin, Bordeaux, Brussels and Cologne and 10 more. Often billed alongside Angerfist, LESSSS and OMAKS. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Krowdexx is a hardcore and techno artist based in Netherlands, with 18 gigs on s
 
 ## Shares bills with
 
-Angerfist, LESSSS, Russian Village Boys
+Angerfist, LESSSS, OMAKS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krowdexx/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krowdexx/)*

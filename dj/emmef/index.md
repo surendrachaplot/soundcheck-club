@@ -1,6 +1,6 @@
 # Emmef
 
-Emmef is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at REC Napoli, Naples on Sat, 5 Dec 2026.
+Emmef is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at REC Napoli, Naples on Sat, 5 Dec 2026.
 
 Emmef is a techno and tech house artist based in Italy, with 15 gigs on soundcheck across Berlin, Milan and Naples. Often billed alongside ACIDROB, Rispoli Benito and AIN'T GEORGE. Next up: REC Napoli, Naples on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Emmef is a techno and tech house artist based in Italy, with 15 gigs on soundche
 
 ACIDROB, Rispoli Benito, AIN'T GEORGE
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmef/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmef/)*

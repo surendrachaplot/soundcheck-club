@@ -1,6 +1,6 @@
 # ETRA
 
-ETRA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at CHICO, Mexico City on Fri, 20 Nov 2026.
+ETRA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at CHICO, Mexico City on Fri, 20 Nov 2026.
 
 ETRA is a house and electronica artist based in Mexico, with 27 gigs on soundcheck across Guadalajara, Liverpool, Melbourne and Mexico City. Often billed alongside Lyo XS, fka phaedra and Orbe Nacimiento. Next up: CHICO, Mexico City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ETRA is a house and electronica artist based in Mexico, with 27 gigs on soundche
 
 Lyo XS, fka phaedra, Orbe Nacimiento
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etra/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etra/)*

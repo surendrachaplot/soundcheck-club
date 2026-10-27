@@ -1,6 +1,6 @@
 # NAMA - Nuovo Anfiteatro Martesana
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Balleremo 0414 pres. CCL b2b Piezo - Extended Set" on Fri, 30 Oct 2026.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Balleremo 0414 pres. CCL b2b Piezo - Extended Set" on Fri, 30 Oct 2026.
 
 NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Alessandro Adriani, Andrea Normanno, Arkane and biased and 2 more. See dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
 
@@ -17,4 +17,4 @@ NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck
 
 Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia, Milan
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*

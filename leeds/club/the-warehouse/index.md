@@ -1,6 +1,6 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Dvotion Freak Frequency Hallowe'en Special" on Tue, 27 Oct 2026.
+The Warehouse is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Dvotion Freak Frequency Hallowe'en Special" on Tue, 27 Oct 2026.
 
 The Warehouse is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including ATRIP, Charlotte Ord, Culture Shock and Dillinja and 2 more. See dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
@@ -21,4 +21,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, w
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

@@ -1,14 +1,13 @@
 # Anil Aras
 
-Anil Aras is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Anil Aras is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Nest, Nottingham on Sat, 31 Oct 2026.
 
-Anil Aras is a house and tech house artist based in Netherlands, with 86 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 16 more. Often billed alongside M-High, Dennis Quin and Prunk. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Anil Aras is a house and tech house artist based in Netherlands, with 86 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 16 more. Often billed alongside M-High, Dennis Quin and Prunk. Next up: The Nest, Nottingham on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Sat, 31 Oct 2026 | The Nest | Nottingham |
 | Sat, 31 Oct 2026 | Ouseburn Garden | Newcastle |
 | Sat, 21 Nov 2026 | Mint XL | Leeds |
@@ -29,4 +28,4 @@ Anil Aras is a house and tech house artist based in Netherlands, with 86 gigs on
 
 M-High, Dennis Quin, Prunk
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*

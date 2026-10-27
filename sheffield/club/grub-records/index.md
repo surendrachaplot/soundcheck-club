@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "SWITCH:UP PRESENTS: SPOOKY SZN" on Fri, 30 Oct 2026.
+Grub Records is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "SWITCH:UP PRESENTS: SPOOKY SZN" on Fri, 30 Oct 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Osifo and Charlotte Ord. See dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -16,4 +16,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

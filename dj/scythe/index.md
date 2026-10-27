@@ -1,6 +1,6 @@
 # Scythe
 
-Scythe is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Liquid Club, Malta on Fri, 30 Oct 2026.
+Scythe is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Liquid Club, Malta on Fri, 30 Oct 2026.
 
 Scythe is a techno and trance artist based in Malta, with 47 gigs on soundcheck across Berlin, Budapest, Liverpool and London and 2 more. Often billed alongside INVERTED (MT), NATURA2K and SUNTA. Next up: Liquid Club, Malta on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Scythe is a techno and trance artist based in Malta, with 47 gigs on soundcheck 
 
 INVERTED (MT), NATURA2K, SUNTA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*

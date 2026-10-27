@@ -1,8 +1,8 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ironworks, London on Sat, 31 Oct 2026.
+Sidney Charles is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ironworks, London on Sat, 31 Oct 2026.
 
-Sidney Charles is a house and tech house artist based in Germany, with 228 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 46 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: Ironworks, London on Sat 31 Oct.
+Sidney Charles is a house and tech house artist based in Germany, with 229 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 46 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: Ironworks, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Sidney Charles is a house and tech house artist based in Germany, with 228 gigs 
 | Fri, 13 Nov 2026 | Gewölbe | Cologne |
 | Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 12 Dec 2026 | Klokgebouw | Eindhoven |
+| Fri, 18 Dec 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Sidney Charles is a house and tech house artist based in Germany, with 228 gigs 
 
 Prunk, ALISHA, Gaskin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

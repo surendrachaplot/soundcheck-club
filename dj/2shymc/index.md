@@ -1,6 +1,6 @@
 # 2Shy MC
 
-2Shy MC is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Wollaton Park, Nottingham on Sat, 5 Jun 2027.
+2Shy MC is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Wollaton Park, Nottingham on Sat, 5 Jun 2027.
 
 2Shy MC is a drum & bass and jungle artist based in United Kingdom, with 26 gigs on soundcheck across Antwerp, Birmingham, Brighton and Bristol and 4 more. Often billed alongside IC3, Jumping Jack Frost and Kanine. Next up: Wollaton Park, Nottingham on Sat 5 Jun.
 
@@ -25,4 +25,4 @@
 
 IC3, Jumping Jack Frost, Kanine
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2shymc/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2shymc/)*

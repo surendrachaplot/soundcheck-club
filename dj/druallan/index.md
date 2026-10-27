@@ -1,6 +1,6 @@
 # Dru Allan
 
-Dru Allan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Detroit on Sat, 31 Oct 2026.
+Dru Allan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Detroit on Sat, 31 Oct 2026.
 
 Dru Allan is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Barcelona, Detroit and New York City. Often billed alongside Medha Achar, Rootsin and DIRT ROOM. Next up: TBA, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dru Allan is a house and techno artist based in United States of America, with 3
 
 Medha Achar, Rootsin, DIRT ROOM
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/druallan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/druallan/)*

@@ -1,6 +1,6 @@
 # Justin Strauss
 
-Justin Strauss is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Justin Strauss is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Justin Strauss is a house and electro artist based in United States of America, with 189 gigs on soundcheck across Belfast, Berlin, Bogotá and Boston and 16 more. Often billed alongside Andi, Max Pask and Amelia Holt. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Justin Strauss is a house and electro artist based in United States of America, 
 
 Andi, Max Pask, Amelia Holt
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*

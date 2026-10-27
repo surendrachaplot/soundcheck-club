@@ -1,6 +1,6 @@
 # too many Jesses
 
-too many Jesses is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bike Jesus, Prague on Fri, 13 Nov 2026.
+too many Jesses is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bike Jesus, Prague on Fri, 13 Nov 2026.
 
 too many Jesses is a techno and house artist based in Czech Republic, with 6 gigs on soundcheck across Prague. Often billed alongside ishka machina, ASCENDER and Adamatron. Next up: Bike Jesus, Prague on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ too many Jesses is a techno and house artist based in Czech Republic, with 6 gig
 
 ishka machina, ASCENDER, Adamatron
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toomanyjesses/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toomanyjesses/)*

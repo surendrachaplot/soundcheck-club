@@ -1,6 +1,6 @@
 # Hauptgast
 
-Hauptgast is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at export, Rotterdam on Sat, 31 Oct 2026.
+Hauptgast is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at export, Rotterdam on Sat, 31 Oct 2026.
 
 Hauptgast is a techno and electro artist, with 6 gigs on soundcheck across Dortmund / Essen, Düsseldorf, Rotterdam and Utrecht. Often billed alongside Afra, Alec Dienaar and Alex Ranzino. Next up: export, Rotterdam on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Hauptgast is a techno and electro artist, with 6 gigs on soundcheck across Dortm
 
 Afra, Alec Dienaar, Alex Ranzino
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hauptgast/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hauptgast/)*

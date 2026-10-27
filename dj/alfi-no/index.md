@@ -1,6 +1,6 @@
 # Alfi
 
-Alfi is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
+Alfi is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
 
 Alfi is a techno and ebm artist based in Norway, with 5 gigs on soundcheck across Bogotá. Often billed alongside RAVER90, Surfer Rosa and Aleja Vargas. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 1 Nov.
 
@@ -21,4 +21,4 @@ Alfi is a techno and ebm artist based in Norway, with 5 gigs on soundcheck acros
 
 RAVER90, Surfer Rosa, Aleja Vargas
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfi-no/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfi-no/)*

@@ -1,6 +1,6 @@
 # VILAIN
 
-VILAIN is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+VILAIN is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
 VILAIN is a techno and gabber artist based in France, with 14 gigs on soundcheck across Berlin, Brussels, Lille and Lyon and 6 more. Often billed alongside Lolalita, Dagobird and Der Schaffner. Next up: OST, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ VILAIN is a techno and gabber artist based in France, with 14 gigs on soundcheck
 
 Lolalita, Dagobird, Der Schaffner
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vilain/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vilain/)*

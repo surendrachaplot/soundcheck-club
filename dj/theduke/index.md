@@ -1,6 +1,6 @@
 # The Duke
 
-The Duke is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Timber Loft, London on Sun, 29 Nov 2026.
+The Duke is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Timber Loft, London on Sun, 29 Nov 2026.
 
 The Duke is a disco and electro artist based in United Kingdom, with 17 gigs on soundcheck across Ibiza, Liverpool and London. Often billed alongside Lucy Lennox, Luke Solomon and Melvo Baptiste. Next up: The Timber Loft, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ The Duke is a disco and electro artist based in United Kingdom, with 17 gigs on 
 
 Lucy Lennox, Luke Solomon, Melvo Baptiste
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theduke/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theduke/)*

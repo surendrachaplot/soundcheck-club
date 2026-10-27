@@ -1,6 +1,6 @@
 # SABATS 2026 at Laska V21
 
-SABATS 2026 at Laska V21 on Sat 31 Oct, Riga. 2 artists: Taiga (LV) and Waterflower. Techno and Ambient. See the line-up on soundcheck.
+SABATS 2026 at Laska V21 on Sat 31 Oct, Riga. 3 artists: Taiga (LV), UP DOLL BEATS and Waterflower. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SABATS 2026 at Laska V21 on Sat 31 Oct, Riga. 2 artists: Taiga (LV) and Waterflo
 ## Line-up
 
 - Taiga (LV)
+- UP DOLL BEATS
 - Waterflower
 
 *Source: [soundcheck](https://soundcheck.club/e/2565010-sabats-2026-at-laska-v21/)*

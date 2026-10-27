@@ -1,6 +1,6 @@
 # Darkstepper
 
-Darkstepper is a R&B and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Phonox, London on Thu, 12 Nov 2026.
+Darkstepper is a R&B and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Phonox, London on Thu, 12 Nov 2026.
 
 Darkstepper is a r&b and bass artist based in United Kingdom, with 35 gigs on soundcheck across London. Often billed alongside Shadobeni, Chinese Daughter and H3L3NA. Next up: Phonox, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Darkstepper is a r&b and bass artist based in United Kingdom, with 35 gigs on so
 
 Shadobeni, Chinese Daughter, H3L3NA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkstepper-uk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkstepper-uk/)*

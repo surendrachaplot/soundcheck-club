@@ -1,6 +1,6 @@
 # Atosigado
 
-Atosigado is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Gobernador José Gómez Cortina 3, Mexico City on Fri, 6 Nov 2026.
+Atosigado is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Gobernador José Gómez Cortina 3, Mexico City on Fri, 6 Nov 2026.
 
 Atosigado is a club and latin bass artist based in Mexico, with 10 gigs on soundcheck across Berlin, Guadalajara and Mexico City. Often billed alongside dj mico, ADAKEO and ALDOX. Next up: TBA - Gobernador José Gómez Cortina 3, Mexico City on Fri 6 Nov.
 
@@ -9,7 +9,7 @@ Atosigado is a club and latin bass artist based in Mexico, with 10 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA - Gobernador José Gómez Cortina 3 | Mexico City |
-| Sat, 5 Dec 2026 | Barba Azul | Mexico City |
+| Fri, 4 Dec 2026 | Barba Azul | Mexico City |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Atosigado is a club and latin bass artist based in Mexico, with 10 gigs on sound
 
 dj mico, ADAKEO, ALDOX
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atosigado/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atosigado/)*

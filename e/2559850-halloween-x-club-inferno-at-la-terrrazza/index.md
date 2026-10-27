@@ -1,6 +1,6 @@
 # Halloween x Club Inferno at La Terrrazza
 
-Halloween x Club Inferno at La Terrrazza on Sat 31 Oct, Barcelona. 3 artists: Arnau Obiols, beGun and TWO EX. House and Electronica. See the line-up on soundcheck.
+Halloween x Club Inferno at La Terrrazza on Sat 31 Oct, Barcelona. 4 artists: Arnau Obiols, beGun, La Feria Prim and TWO EX. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Halloween x Club Inferno at La Terrrazza on Sat 31 Oct, Barcelona. 3 artists: Ar
 
 - Arnau Obiols
 - beGun
+- La Feria Prim
 - TWO EX
 
 *Source: [soundcheck](https://soundcheck.club/e/2559850-halloween-x-club-inferno-at-la-terrrazza/)*

@@ -1,6 +1,6 @@
 # DJ Brownie
 
-DJ Brownie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 30 Oct 2026.
+DJ Brownie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 30 Oct 2026.
 
 DJ Brownie is a techno and house artist, with 5 gigs on soundcheck across New York City, Pittsburgh, Prague and Tampa Bay and 1 more. Often billed alongside Domek, Essential Freaks and NFKS. Next up: Music Club Pulse 22, Prague on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ DJ Brownie is a techno and house artist, with 5 gigs on soundcheck across New Yo
 
 Domek, Essential Freaks, NFKS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrownie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrownie/)*

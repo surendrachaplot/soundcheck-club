@@ -1,6 +1,6 @@
 # bangus
 
-bangus is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Dots Bay House, Sri-lanka on Tue, 27 Oct 2026.
+bangus is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Dots Bay House, Sri-lanka on Tue, 27 Oct 2026.
 
 bangus is a garage and bass artist, with 14 gigs on soundcheck across Hanoi, London and Sri Lanka. Often billed alongside Tiffany Quinn, G&T and Case. Next up: Dots Bay House, Sri Lanka on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ bangus is a garage and bass artist, with 14 gigs on soundcheck across Hanoi, Lon
 
 Tiffany Quinn, G&T (2), Case (2)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bangus/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bangus/)*

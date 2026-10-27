@@ -1,6 +1,6 @@
 # keks
 
-keks is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Digital, Newcastle on Fri, 20 Nov 2026.
+keks is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Digital, Newcastle on Fri, 20 Nov 2026.
 
 keks is a house and garage artist based in United Kingdom, with 16 gigs on soundcheck across London and Newcastle. Often billed alongside Molly Sinnott, PHJ.WAV and FroD. Next up: Digital, Newcastle on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ keks is a house and garage artist based in United Kingdom, with 16 gigs on sound
 
 Molly Sinnott, PHJ.WAV, FroD
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keks/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keks/)*

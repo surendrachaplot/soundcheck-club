@@ -1,14 +1,15 @@
 # Robert Leiner
 
-Robert Leiner is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Robert Leiner is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
-Robert Leiner is a techno and electro artist based in Sweden, with 18 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Gothenburg and 5 more. Often billed alongside Luke Eargoggle, Aba Shanti-I and Alexander Lind. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
+Robert Leiner is a techno and electro artist based in Sweden, with 19 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Gothenburg and 5 more. Often billed alongside Luke Eargoggle, Aba Shanti-I and Alexander Lind. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 14 Nov 2026 | Ivans Pilsnerbar | Gothenburg |
 | Sat, 21 Nov 2026 | Lasociaciøn | Madrid |
 
 ## Recently played
@@ -26,4 +27,4 @@ Robert Leiner is a techno and electro artist based in Sweden, with 18 gigs on so
 
 Luke Eargoggle, Aba Shanti-I, Alexander Lind
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertleiner/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertleiner/)*

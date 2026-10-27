@@ -1,14 +1,17 @@
 # NEW YORK
 
-NEW YORK is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at UFO im Velodrom, Berlin on Sat, 31 Oct 2026.
+NEW YORK is a Electro and Pop artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at UFO im Velodrom, Berlin on Sat, 31 Oct 2026.
 
-NEW YORK is an electro and pop artist based in United Kingdom, with 166 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 51 more. Often billed alongside APP, Alaska and Debit. Next up: UFO im Velodrom, Berlin on Sat 31 Oct.
+NEW YORK is an electro and pop artist based in United Kingdom, with 169 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside APP, Alaska and Debit. Next up: UFO im Velodrom, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | UFO im Velodrom | Berlin |
+| Sat, 31 Oct 2026 | Empire Control Room & Garage | Austin |
+| Sat, 31 Oct 2026 | WMC Safe House | Miami |
+| Sat, 31 Oct 2026 | Qmu2 Glasgow | Glasgow |
 
 ## Recently played
 
@@ -25,4 +28,4 @@ NEW YORK is an electro and pop artist based in United Kingdom, with 166 gigs on 
 
 APP, Alaska (2), Debit
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*

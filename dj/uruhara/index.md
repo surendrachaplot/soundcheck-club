@@ -1,6 +1,6 @@
 # uruhara
 
-uruhara is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
+uruhara is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
 uruhara is a techno and house artist based in Japan, with 9 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Mars89, EVE and TEI TEI. Next up: TBA - Kinone Pension, Kanto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ uruhara is a techno and house artist based in Japan, with 9 gigs on soundcheck a
 
 Mars89, EVE (1), TEI TEI
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uruhara/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uruhara/)*

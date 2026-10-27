@@ -1,6 +1,6 @@
 # Daniel Moritz
 
-Daniel Moritz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
+Daniel Moritz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
 
 Daniel Moritz is a house and techno artist based in Hungary, with 116 gigs on soundcheck across Budapest, Helsinki and Malta. Often billed alongside Sobek, Rovizz and Sonic Rain. Next up: Hungarian Railway Museum, Budapest on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Daniel Moritz is a house and techno artist based in Hungary, with 116 gigs on so
 
 Sobek, Rovizz, Sonic Rain
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmoritz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmoritz/)*

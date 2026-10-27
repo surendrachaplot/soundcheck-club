@@ -1,6 +1,6 @@
 # Playmode
 
-Playmode is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lion Super Club, Seoul on Thu, 29 Oct 2026.
+Playmode is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lion Super Club, Seoul on Thu, 29 Oct 2026.
 
 Playmode is an electro and bass artist, with 6 gigs on soundcheck across Seoul. Often billed alongside Rubato, Bagagee Viphex13 and Bliss. Next up: Lion Super Club, Seoul on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ Playmode is an electro and bass artist, with 6 gigs on soundcheck across Seoul. 
 
 Rubato, Bagagee Viphex13, Bliss (1)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/playmode/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/playmode/)*

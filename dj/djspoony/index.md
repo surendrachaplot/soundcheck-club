@@ -1,6 +1,6 @@
 # DJ Spoony
 
-DJ Spoony is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Night Tales, London on Sun, 1 Nov 2026.
+DJ Spoony is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Night Tales, London on Sun, 1 Nov 2026.
 
 DJ Spoony is a garage and house artist based in United Kingdom, with 64 gigs on soundcheck across Ibiza, London, Malta and Manchester. Often billed alongside Scott Garcia, Wookie and Boon (UK). Next up: Night Tales, London on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ DJ Spoony is a garage and house artist based in United Kingdom, with 64 gigs on 
 
 Scott Garcia, Wookie, Boon (UK)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspoony/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspoony/)*

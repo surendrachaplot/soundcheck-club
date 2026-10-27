@@ -1,6 +1,6 @@
 # LERM
 
-LERM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
+LERM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
 
 LERM is a techno and house artist based in Hungary, with 20 gigs on soundcheck across Auckland, Barcelona, Budapest and Mexico City and 2 more. Often billed alongside Secret Factory, Sobek and DJ Rush. Next up: Hungarian Railway Museum, Budapest on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ LERM is a techno and house artist based in Hungary, with 20 gigs on soundcheck a
 
 Secret Factory, Sobek, DJ Rush
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerm/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerm/)*

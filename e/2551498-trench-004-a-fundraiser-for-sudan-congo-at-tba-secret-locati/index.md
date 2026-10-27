@@ -1,6 +1,6 @@
 # Trench: 004 (A Fundraiser for Sudan + Congo) at TBA - Secret Location (Austin)
 
-Trench: 004 (A Fundraiser for Sudan + Congo) at TBA - Secret Location (Austin) on Sat 31 Oct, Chicago. 5 artists: 9MAGICFOREVER1, Casper McFadden, JULLS and spliffany evans and 1 more. Club and Dancehall. See the line-up on soundcheck.
+Trench: 004 (A Fundraiser for Sudan + Congo) at TBA - Secret Location (Austin) on Sat 31 Oct, Chicago. 6 artists: 9MAGICFOREVER1, Casper McFadden, JULLS and sidaka and 2 more. Club and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Trench: 004 (A Fundraiser for Sudan + Congo) at TBA - Secret Location (Austin) o
 - 9MAGICFOREVER1
 - Casper McFadden
 - JULLS
+- sidaka
 - spliffany evans
 - sydfalls
 

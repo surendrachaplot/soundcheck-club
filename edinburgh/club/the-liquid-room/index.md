@@ -1,6 +1,6 @@
 # The Liquid Room
 
-The Liquid Room is a music venue in Edinburgh with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "FLY Halloween - Edinburgh" on Sat, 31 Oct 2026.
+The Liquid Room is a music venue in Edinburgh with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "FLY Halloween - Edinburgh" on Sat, 31 Oct 2026.
 
 The Liquid Room is a music venue in Edinburgh listed on soundcheck. 9 upcoming gigs, with line-ups including ARWEN, Bellaire, Ben Kok and Bushbaby and 2 more. See dates, start times and who's playing. 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom.
 
@@ -22,4 +22,4 @@ The Liquid Room is a music venue in Edinburgh listed on soundcheck. 9 upcoming g
 
 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom, Edinburgh
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*

@@ -1,6 +1,6 @@
 # Marie Mackerschreck
 
-Marie Mackerschreck is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sauna Klub Wolfsburg, Lower-saxony on Sat, 21 Nov 2026.
+Marie Mackerschreck is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sauna Klub Wolfsburg, Lower-saxony on Sat, 21 Nov 2026.
 
 Marie Mackerschreck is a trance and techno artist based in Germany, with 8 gigs on soundcheck across Berlin, Hamburg, Hannover and Lower Saxony and 2 more. Often billed alongside LAURIX (DE), 50PHIE and ARWEN. Next up: Sauna Klub Wolfsburg, Lower Saxony on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Marie Mackerschreck is a trance and techno artist based in Germany, with 8 gigs 
 
 LAURIX (DE), 50PHIE, ARWEN
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemackerschreck/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemackerschreck/)*

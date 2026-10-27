@@ -1,6 +1,6 @@
 # Yurk
 
-Yurk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Jupiter Disco, New York City on Thu, 5 Nov 2026.
+Yurk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Jupiter Disco, New York City on Thu, 5 Nov 2026.
 
 Yurk is a house and techno artist based in Puerto Rico, with 56 gigs on soundcheck across Los Angeles, New York City and Taipei. Often billed alongside Timo Lee, Prince of Queens and Tommy Castro. Next up: Jupiter Disco, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Yurk is a house and techno artist based in Puerto Rico, with 56 gigs on soundche
 
 Timo Lee, Prince of Queens, Tommy Castro
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yurk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yurk/)*

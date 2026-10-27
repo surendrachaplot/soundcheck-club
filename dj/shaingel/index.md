@@ -1,6 +1,6 @@
 # Shaingel
 
-Shaingel is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at St Anne's Parish Hall, Toronto on Sat, 31 Oct 2026.
+Shaingel is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at St Anne's Parish Hall, Toronto on Sat, 31 Oct 2026.
 
 Shaingel is a techno and club artist based in Canada, with 19 gigs on soundcheck across Toronto. Often billed alongside TRINIDADDY, VUHNNY and Kara Kara. Next up: St Anne's Parish Hall, Toronto on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Shaingel is a techno and club artist based in Canada, with 19 gigs on soundcheck
 
 TRINIDADDY, VUHNNY, Kara Kara
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaingel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaingel/)*

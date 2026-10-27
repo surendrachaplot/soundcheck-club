@@ -1,6 +1,6 @@
 # Moving Still
 
-Moving Still is a Club and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 21 Nov 2026.
+Moving Still is a Club and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 21 Nov 2026.
 
 Moving Still is a club and disco artist based in Ireland, with 33 gigs on soundcheck across Amsterdam, Cork, Dublin and Geneva and 4 more. Often billed alongside Sahana, DJ Karmawi and Nora Moon. Next up: Yamamori Tengu, Dublin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Moving Still is a club and disco artist based in Ireland, with 33 gigs on soundc
 
 Sahana, DJ Karmawi, Nora Moon
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/movingstill/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/movingstill/)*

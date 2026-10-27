@@ -1,6 +1,6 @@
 # chlo333e
 
-chlo333e is a Trance and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Honey Street Studio, Manchester on Fri, 6 Nov 2026.
+chlo333e is a Trance and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Honey Street Studio, Manchester on Fri, 6 Nov 2026.
 
 chlo333e is a trance and pop artist based in United Kingdom, with 16 gigs on soundcheck across Leeds and Manchester. Often billed alongside Princess Elf Bar, Anop and Hollyamorous. Next up: Honey Street Studio, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ chlo333e is a trance and pop artist based in United Kingdom, with 16 gigs on sou
 
 Princess Elf Bar, Anop, Hollyamorous
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo333e/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo333e/)*

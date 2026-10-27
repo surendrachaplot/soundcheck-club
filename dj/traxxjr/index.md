@@ -1,6 +1,6 @@
 # Traxx Jr
 
-Traxx Jr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Leipzig on Sat, 31 Oct 2026.
+Traxx Jr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Leipzig on Sat, 31 Oct 2026.
 
 Traxx Jr is a house and techno artist based in Germany, with 38 gigs on soundcheck across Leipzig and Paris. Often billed alongside Dardara, MAY/O and mp.ulle. Next up: TBA, Leipzig on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Traxx Jr is a house and techno artist based in Germany, with 38 gigs on soundche
 
 Dardara, MAY/O, mp.ulle
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traxxjr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traxxjr/)*

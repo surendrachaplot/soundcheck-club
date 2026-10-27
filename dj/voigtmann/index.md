@@ -1,6 +1,6 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Utopia, Los Angeles on Sat, 31 Oct 2026.
+Voigtmann is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Utopia, Los Angeles on Sat, 31 Oct 2026.
 
 Voigtmann is a house and tech house artist based in United Kingdom, with 204 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 42 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Utopia, Los Angeles on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Voigtmann is a house and tech house artist based in United Kingdom, with 204 gig
 
 Laidlaw, Julian Anthony, Enzo Siragusa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

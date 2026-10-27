@@ -1,6 +1,6 @@
 # Marlon Clark
 
-Marlon Clark is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at B-SIDE, Warsaw on Fri, 13 Nov 2026.
+Marlon Clark is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at B-SIDE, Warsaw on Fri, 13 Nov 2026.
 
 Marlon Clark is a minimal techno and tech house artist, with 10 gigs on soundcheck across Brussels, Copenhagen, Glasgow and Leeds and 4 more. Often billed alongside Jake Hodgkinson, BP and Bohan. Next up: B-SIDE, Warsaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Marlon Clark is a minimal techno and tech house artist, with 10 gigs on soundche
 
 Jake Hodgkinson, BP (1), Bohan
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*

@@ -1,6 +1,6 @@
 # Bufiman
 
-Bufiman is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Schleuse Zwei, Düsseldorf on Thu, 29 Oct 2026.
+Bufiman is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Schleuse Zwei, Düsseldorf on Thu, 29 Oct 2026.
 
 Bufiman is a house and electronica artist, with 38 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Bristol and 15 more. Often billed alongside I:Cube, Ivan Smagghe and Qnete. Next up: Schleuse Zwei, Düsseldorf on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Bufiman is a house and electronica artist, with 38 gigs on soundcheck across Ams
 
 I:Cube, Ivan Smagghe, Qnete
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bufiman/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bufiman/)*

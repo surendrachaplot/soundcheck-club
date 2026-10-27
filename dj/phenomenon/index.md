@@ -1,6 +1,6 @@
 # Phenomenon
 
-Phenomenon is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Crate Brewery, London on Sat, 7 Nov 2026.
+Phenomenon is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Crate Brewery, London on Sat, 7 Nov 2026.
 
 Phenomenon is a techno and dub techno artist, with 12 gigs on soundcheck across London. Often billed alongside AXU, haukeheyen and 22Cheeky. Next up: Crate Brewery, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Phenomenon is a techno and dub techno artist, with 12 gigs on soundcheck across 
 
 AXU (2), haukeheyen, 22Cheeky
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phenomenon/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phenomenon/)*

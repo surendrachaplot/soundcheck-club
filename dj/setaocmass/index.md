@@ -1,6 +1,6 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at ELYSIUM SEVILLA, South on Fri, 6 Nov 2026.
+Setaoc Mass is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at ELYSIUM SEVILLA, South on Fri, 6 Nov 2026.
 
 Setaoc Mass is a techno and house artist based in United Kingdom, with 221 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 76 more. Often billed alongside Philippa Pacho, Blasha & Allatt and Altinbas. Next up: ELYSIUM SEVILLA, South on Fri 6 Nov.
 
@@ -34,4 +34,4 @@ Setaoc Mass is a techno and house artist based in United Kingdom, with 221 gigs 
 
 Philippa Pacho, Blasha & Allatt, Altinbas
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

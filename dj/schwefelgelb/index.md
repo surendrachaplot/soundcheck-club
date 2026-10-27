@@ -1,6 +1,6 @@
 # Schwefelgelb
 
-Schwefelgelb is a Techno and EBM artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Elastica, Vilnius on Fri, 6 Nov 2026.
+Schwefelgelb is a Techno and EBM artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Elastica, Vilnius on Fri, 6 Nov 2026.
 
 Schwefelgelb is a techno and ebm artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 33 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: Elastica, Vilnius on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Schwefelgelb is a techno and ebm artist based in Germany, with 76 gigs on soundc
 
 Ancient Methods, OTHR, Parrish Smith
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*

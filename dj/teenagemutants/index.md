@@ -1,6 +1,6 @@
 # Teenage Mutants
 
-Teenage Mutants is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Graf Karl, Kassel on Sat, 31 Oct 2026.
+Teenage Mutants is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Graf Karl, Kassel on Sat, 31 Oct 2026.
 
 Teenage Mutants is a techno and house artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Graf Karl, Kassel on Sat 31 Oct.
 
@@ -33,4 +33,4 @@ Teenage Mutants is a techno and house artist based in Germany, with 157 gigs on 
 
 Techmo, Eric Wishes, Intaktogene
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*

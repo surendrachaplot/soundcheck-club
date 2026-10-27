@@ -1,6 +1,6 @@
 # Secret Grove
 
-Secret Grove is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Vibru with Yemanjo, Solo, & Liam Malone" on Fri, 30 Oct 2026.
+Secret Grove is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Vibru with Yemanjo, Solo, & Liam Malone" on Fri, 30 Oct 2026.
 
 Secret Grove is a music venue in Portland listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1425A NW Flanders St, Portland, OR 97209, USA.
 
@@ -15,4 +15,4 @@ Secret Grove is a music venue in Portland listed on soundcheck. 2 upcoming gigs.
 
 1425A NW Flanders St, Portland, OR 97209, USA, Portland
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/secret-grove/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/secret-grove/)*

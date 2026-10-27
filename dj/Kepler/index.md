@@ -1,6 +1,6 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
+Kepler is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
 
 Kepler is a house and tech house artist based in United Kingdom, with 168 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 35 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: TBA - Secret Location, London on Thu 29 Oct.
 
@@ -32,4 +32,4 @@ Kepler is a house and tech house artist based in United Kingdom, with 168 gigs o
 
 Burnski, Job de Jong, L.P. Rhythm
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

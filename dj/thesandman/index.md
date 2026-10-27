@@ -1,6 +1,6 @@
 # The Sandman
 
-The Sandman is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 1990, Glasgow on Fri, 27 Nov 2026.
+The Sandman is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at 1990, Glasgow on Fri, 27 Nov 2026.
 
 The Sandman is a techno and minimal artist, with 7 gigs on soundcheck across Glasgow. Often billed alongside SPPT, Shedcat and 90s Kidd. Next up: 1990, Glasgow on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ The Sandman is a techno and minimal artist, with 7 gigs on soundcheck across Gla
 
 SPPT, Shedcat, 90s Kidd
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesandman/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thesandman/)*

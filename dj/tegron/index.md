@@ -1,6 +1,6 @@
 # TEGRON
 
-TEGRON is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 5 Nov 2026.
+TEGRON is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 5 Nov 2026.
 
 TEGRON is a techno and hardcore artist, with 24 gigs on soundcheck across Antwerp, Barcelona, Basel and Berlin and 11 more. Often billed alongside Madson Carpenter, Stëh and Fernanda Martins. Next up: Ministerium Club, Lisbon on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ TEGRON is a techno and hardcore artist, with 24 gigs on soundcheck across Antwer
 
 Madson Carpenter, Stëh, Fernanda Martins
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tegron/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tegron/)*

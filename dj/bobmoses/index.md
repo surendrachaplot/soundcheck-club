@@ -1,6 +1,6 @@
 # Bob Moses
 
-Bob Moses is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 30 Oct 2026.
+Bob Moses is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 30 Oct 2026.
 
 Bob Moses is a house and deep house artist based in Canada, with 59 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bogotá and 25 more. Often billed alongside Ben Böhmer, Boys Noize and Claptone. Next up: Het Sieraad, Amsterdam on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Bob Moses is a house and deep house artist based in Canada, with 59 gigs on soun
 
 Ben Böhmer, Boys Noize, Claptone
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*

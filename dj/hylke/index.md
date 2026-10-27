@@ -1,6 +1,6 @@
 # Hylke
 
-Hylke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at OHM, Berlin on Sat, 5 Dec 2026.
+Hylke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at OHM, Berlin on Sat, 5 Dec 2026.
 
 Hylke is a house and techno artist based in Netherlands, with 53 gigs on soundcheck across Amsterdam, Berlin, Ghent and Helsinki and 6 more. Often billed alongside Rey Colino, Iggy P and Kyra Khaldi. Next up: OHM, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Hylke is a house and techno artist based in Netherlands, with 53 gigs on soundch
 
 Rey Colino, Iggy P, Kyra Khaldi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hylke/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hylke/)*

@@ -1,6 +1,6 @@
 # Max Chapman
 
-Max Chapman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
+Max Chapman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
 
 Max Chapman is a house and tech house artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Buenos Aires and 16 more. Often billed alongside Darius Syrossian, Hector Couto and Secondcity. Next up: LDN East, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Max Chapman is a house and tech house artist based in United Kingdom, with 42 gi
 
 Darius Syrossian, Hector Couto, Secondcity
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxchapman/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxchapman/)*

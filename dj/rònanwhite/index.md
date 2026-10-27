@@ -1,6 +1,6 @@
 # Rònan White
 
-Rònan White is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sneaky Pete's, Edinburgh on Tue, 27 Oct 2026.
+Rònan White is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sneaky Pete's, Edinburgh on Tue, 27 Oct 2026.
 
 Rònan White is a house and garage artist based in United Kingdom, with 7 gigs on soundcheck across Edinburgh. Often billed alongside Dan Jakson, ROXAN (UK) and YVI. Next up: Sneaky Pete's, Edinburgh on Tue 27 Oct.
 
@@ -23,4 +23,4 @@ Rònan White is a house and garage artist based in United Kingdom, with 7 gigs o
 
 Dan Jakson, ROXAN (UK), YVI
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rònanwhite/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rònanwhite/)*

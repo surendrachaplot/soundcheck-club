@@ -1,6 +1,6 @@
 # David Strasser
 
-David Strasser is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
+David Strasser is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
 
 David Strasser is a techno and trance artist based in Germany, with 41 gigs on soundcheck across Berlin, Brisbane, Cologne and Dortmund / Essen and 7 more. Often billed alongside KEN (DE), Neon Graveyard and DJ PayPaul. Next up: KitKatClub, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ David Strasser is a techno and trance artist based in Germany, with 41 gigs on s
 
 KEN (DE), Neon Graveyard, DJ PayPaul
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidstrasser/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidstrasser/)*

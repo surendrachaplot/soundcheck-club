@@ -1,6 +1,6 @@
 # Phil Evans
 
-Phil Evans is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
+Phil Evans is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
 
 Phil Evans is a house and techno artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 9 more. Often billed alongside Markus Sommer, Tiago Walter and Dana Ruh. Next up: Tokonoma Club, Frankfurt on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Phil Evans is a house and techno artist based in Germany, with 31 gigs on soundc
 
 Markus Sommer, Tiago Walter, Dana Ruh
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philevans-de/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philevans-de/)*

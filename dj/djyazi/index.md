@@ -1,13 +1,14 @@
 # DJ Yazi
 
-DJ Yazi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 28 Nov 2026.
+DJ Yazi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
 
-DJ Yazi is a techno and house artist based in Japan, with 98 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 14 more. Often billed alongside Mari Sakurai, DJ Nobu and YUTA. Next up: MIDNIGHT EAST, Tokyo on Sat 28 Nov.
+DJ Yazi is a techno and house artist based in Japan, with 99 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 14 more. Often billed alongside Mari Sakurai, DJ Nobu and YUTA. Next up: WOMB, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 2 Nov 2026 | WOMB | Tokyo |
 | Sat, 28 Nov 2026 | MIDNIGHT EAST | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ Yazi is a techno and house artist based in Japan, with 98 gigs on soundcheck 
 
 Mari Sakurai, DJ Nobu, YUTA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyazi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyazi/)*

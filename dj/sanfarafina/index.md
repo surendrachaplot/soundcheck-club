@@ -1,13 +1,14 @@
 # San Farafina
 
-San Farafina is a Afro House and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at La Fabriek, Brussels on Sat, 7 Nov 2026.
+San Farafina is a Afro House and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 31 Oct 2026.
 
-San Farafina is an afro house and club artist based in Canada, with 83 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 14 more. Often billed alongside Pierre Kwenders, Moonshine and NegoO. Next up: La Fabriek, Brussels on Sat 7 Nov.
+San Farafina is an afro house and club artist based in Canada, with 84 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 14 more. Often billed alongside Pierre Kwenders, Moonshine and NegoO. Next up: SMS 514.613.5811 FOR LOCATION, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | SMS 514.613.5811 FOR LOCATION | Montreal |
 | Sat, 7 Nov 2026 | La Fabriek | Brussels |
 | Fri, 13 Nov 2026 | Parallel | Amsterdam |
 
@@ -26,4 +27,4 @@ San Farafina is an afro house and club artist based in Canada, with 83 gigs on s
 
 Pierre Kwenders, Moonshine, NegoO
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanfarafina/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanfarafina/)*

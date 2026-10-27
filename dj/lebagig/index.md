@@ -1,6 +1,6 @@
 # LeBagig
 
-LeBagig is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at export, Rotterdam on Fri, 30 Oct 2026.
+LeBagig is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at export, Rotterdam on Fri, 30 Oct 2026.
 
 LeBagig is a house and techno artist based in Malta, with 9 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Kaikaina, Kyle Cortis and ADAPT (DK). Next up: export, Rotterdam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ LeBagig is a house and techno artist based in Malta, with 9 gigs on soundcheck a
 
 Kaikaina, Kyle Cortis, ADAPT (DK)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebagig/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebagig/)*

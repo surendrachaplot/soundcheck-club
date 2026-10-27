@@ -1,6 +1,6 @@
 # Zeth
 
-Zeth is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 20 Nov 2026.
+Zeth is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 20 Nov 2026.
 
 Zeth is a minimal and deep house artist, with 5 gigs on soundcheck across Barcelona and London. Often billed alongside Colaps, Gefra and Johnny Fiore. Next up: Starlane Pizza Bar, London on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Zeth is a minimal and deep house artist, with 5 gigs on soundcheck across Barcel
 
 Colaps, Gefra, Johnny Fiore
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeth/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeth/)*

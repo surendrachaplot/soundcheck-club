@@ -1,6 +1,6 @@
 # Rødhåd
 
-Rødhåd is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
+Rødhåd is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
 
 Rødhåd is a techno and house artist based in Germany, with 257 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 81 more. Often billed alongside Ben Klock, Fadi Mohem and JakoJako. Next up: Soul SKG, Thessaloniki on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ Rødhåd is a techno and house artist based in Germany, with 257 gigs on soundch
 
 Ben Klock, Fadi Mohem, JakoJako
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*

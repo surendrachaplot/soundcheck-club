@@ -1,6 +1,6 @@
 # Lamine
 
-Lamine is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Circus Tokyo, Tokyo on Mon, 2 Nov 2026.
+Lamine is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Circus Tokyo, Tokyo on Mon, 2 Nov 2026.
 
 Lamine is a techno and bass artist, with 6 gigs on soundcheck across London and Tokyo. Often billed alongside Brian d'Souza, MoEPiKA and ACHIRI. Next up: Circus Tokyo, Tokyo on Mon 2 Nov.
 
@@ -22,4 +22,4 @@ Lamine is a techno and bass artist, with 6 gigs on soundcheck across London and 
 
 Brian d'Souza, MoEPiKA, ACHIRI
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamine/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamine/)*

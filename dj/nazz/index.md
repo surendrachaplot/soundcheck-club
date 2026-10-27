@@ -1,6 +1,6 @@
 # Nazz
 
-Nazz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at WDM, Hannover on Fri, 30 Oct 2026.
+Nazz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at WDM, Hannover on Fri, 30 Oct 2026.
 
 Nazz is a techno and house artist based in Germany, with 75 gigs on soundcheck across Basel, Berlin, Dresden and Düsseldorf and 7 more. Often billed alongside AHURA, Jannis Maxim and SYMON. Next up: WDM, Hannover on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nazz is a techno and house artist based in Germany, with 75 gigs on soundcheck a
 
 AHURA, Jannis Maxim, SYMON
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nazz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nazz/)*

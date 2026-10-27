@@ -1,6 +1,6 @@
 # Dagertru
 
-Dagertru is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at K2 Comedy Club, Vilnius on Fri, 30 Oct 2026.
+Dagertru is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at K2 Comedy Club, Vilnius on Fri, 30 Oct 2026.
 
 Dagertru is a techno and hardcore artist, with 16 gigs on soundcheck across Berlin, Vilnius and Wroclaw. Often billed alongside intr0, Domciakas and Summoner. Next up: K2 Comedy Club, Vilnius on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Dagertru is a techno and hardcore artist, with 16 gigs on soundcheck across Berl
 
 intr0, Domciakas, Summoner
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dagertru/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dagertru/)*

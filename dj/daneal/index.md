@@ -1,6 +1,6 @@
 # Daneal
 
-Daneal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Stage and Radio, Manchester on Sat, 21 Nov 2026.
+Daneal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Stage and Radio, Manchester on Sat, 21 Nov 2026.
 
 Daneal is a house and techno artist based in United Kingdom, with 5 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Mazzoni, 4D (UK) and Question. Next up: Stage and Radio, Manchester on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Daneal is a house and techno artist based in United Kingdom, with 5 gigs on soun
 
 Mazzoni, 4D (UK), Question
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daneal/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daneal/)*

@@ -1,6 +1,6 @@
 # Tamus
 
-Tamus is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at 09h30-05h30, Antwerp on Sat, 14 Nov 2026.
+Tamus is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 09h30-05h30, Antwerp on Sat, 14 Nov 2026.
 
 Tamus is an experimental and techno artist based in United Kingdom, with 24 gigs on soundcheck across Antwerp, London and Manchester. Often billed alongside Conor Thomas, KD22LR and Medlock. Next up: 09h30-05h30, Antwerp on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Tamus is an experimental and techno artist based in United Kingdom, with 24 gigs
 
 Conor Thomas, KD22LR, Medlock
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamus/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamus/)*

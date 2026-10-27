@@ -1,6 +1,6 @@
 # The Trinity Centre
 
-The Trinity Centre is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Alternate: Apocalypse 2026" on Fri, 30 Oct 2026.
+The Trinity Centre is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Alternate: Apocalypse 2026" on Fri, 30 Oct 2026.
 
 The Trinity Centre is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including Coki, Darcy, Flowdan and Kahn and 2 more. See dates, start times and who's playing. Trinity Road; Bristol BS2 0NW; United Kingdom.
 
@@ -16,4 +16,4 @@ The Trinity Centre is a music venue in Bristol listed on soundcheck. 3 upcoming 
 
 Trinity Road; Bristol BS2 0NW; United Kingdom, Bristol
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-trinity-centre/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-trinity-centre/)*

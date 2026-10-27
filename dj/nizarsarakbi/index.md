@@ -1,6 +1,6 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Legal, Munich on Fri, 30 Oct 2026.
+Nizar Sarakbi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Legal, Munich on Fri, 30 Oct 2026.
 
 Nizar Sarakbi is a house and techno artist based in Ukraine, with 81 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Katia Curie, KATIA and vince. Next up: Legal, Munich on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Nizar Sarakbi is a house and techno artist based in Ukraine, with 81 gigs on sou
 
 Katia Curie, KATIA, vince
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*

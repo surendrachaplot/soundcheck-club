@@ -1,6 +1,6 @@
 # Fatbastard
 
-Fatbastard is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Fatbastard is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Fatbastard is an electronica and techno artist based in Colombia, with 8 gigs on soundcheck across Bogotá. Often billed alongside Yabanko, Antonella Ravagli and Bruno Anthony. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Fatbastard is an electronica and techno artist based in Colombia, with 8 gigs on
 
 Yabanko, Antonella Ravagli, Bruno Anthony
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatbastard/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatbastard/)*

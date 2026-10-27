@@ -1,6 +1,6 @@
 # John Holt
 
-John Holt is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at El Cau Arinsal, Andorra on Sat, 7 Nov 2026.
+John Holt is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at El Cau Arinsal, Andorra on Sat, 7 Nov 2026.
 
 John Holt is a techno and industrial artist based in Andorra, with 8 gigs on soundcheck across Andorra, Barcelona and Madrid. Often billed alongside KARØL, Xuanlee and Lady Dammage. Next up: El Cau Arinsal, Andorra on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ John Holt is a techno and industrial artist based in Andorra, with 8 gigs on sou
 
 KARØL (2), Xuanlee, Lady Dammage
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnholt/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnholt/)*

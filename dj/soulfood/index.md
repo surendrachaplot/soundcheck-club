@@ -1,6 +1,6 @@
 # SOUL FOOD
 
-SOUL FOOD is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kongresai, Vilnius on Fri, 30 Oct 2026.
+SOUL FOOD is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kongresai, Vilnius on Fri, 30 Oct 2026.
 
 SOUL FOOD is a house and baile funk artist, with 5 gigs on soundcheck across Vilnius. Often billed alongside DJ Alwayslate, BIG BOI and CHRIST.PNG. Next up: Kongresai, Vilnius on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ SOUL FOOD is a house and baile funk artist, with 5 gigs on soundcheck across Vil
 
 DJ Alwayslate, BIG BOI, CHRIST.PNG
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfood/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfood/)*

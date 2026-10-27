@@ -1,6 +1,6 @@
 # VMLAVT CAESAR
 
-VMLAVT CAESAR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Szimpla Kert, Budapest on Wed, 28 Oct 2026.
+VMLAVT CAESAR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Szimpla Kert, Budapest on Wed, 28 Oct 2026.
 
 VMLAVT CAESAR is a techno and house artist, with 17 gigs on soundcheck across Berlin and Budapest. Often billed alongside ARGO (HU), PERSONA and sqto. Next up: Szimpla Kert, Budapest on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ VMLAVT CAESAR is a techno and house artist, with 17 gigs on soundcheck across Be
 
 ARGO (HU), PERSONA, sqto
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vmlavtcaesar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vmlavtcaesar/)*

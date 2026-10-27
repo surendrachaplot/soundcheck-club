@@ -1,6 +1,6 @@
 # Evian Christ
 
-Evian Christ is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
+Evian Christ is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
 
 Evian Christ is a trance and techno artist based in United Kingdom, with 95 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bangkok and 34 more. Often billed alongside seretide, Torus and Malibu. Next up: Reactor Shanghai, Shanghai on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Evian Christ is a trance and techno artist based in United Kingdom, with 95 gigs
 
 seretide, Torus, Malibu
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*

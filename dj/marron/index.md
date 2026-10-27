@@ -1,6 +1,6 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sub Club, Glasgow on Fri, 30 Oct 2026.
+MARRØN is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sub Club, Glasgow on Fri, 30 Oct 2026.
 
 MARRØN is a techno and house artist based in Netherlands, with 308 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 85 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: Sub Club, Glasgow on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ MARRØN is a techno and house artist based in Netherlands, with 308 gigs on soun
 
 Blasha & Allatt, Freddy K, Rene Wise
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

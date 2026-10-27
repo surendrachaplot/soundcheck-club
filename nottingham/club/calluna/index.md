@@ -1,6 +1,6 @@
 # Calluna
 
-Calluna is a music venue in Nottingham with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Halloween 2026 FT. Alex Culross" on Sat, 31 Oct 2026.
+Calluna is a music venue in Nottingham with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Halloween 2026 FT. Alex Culross" on Sat, 31 Oct 2026.
 
 Calluna is a music venue in Nottingham listed on soundcheck. 1 upcoming gig, with line-ups including Alex Culross. See dates, start times and who's playing. 11 Forman St, Nottingham NG1 4AA.
 
@@ -14,4 +14,4 @@ Calluna is a music venue in Nottingham listed on soundcheck. 1 upcoming gig, wit
 
 11 Forman St, Nottingham NG1 4AA, Nottingham
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/calluna/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/calluna/)*

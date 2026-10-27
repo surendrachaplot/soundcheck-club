@@ -1,6 +1,6 @@
 # KEIN KLUB at H0L0
 
-KEIN KLUB at H0L0 on Fri 11 Dec, New York City. 2 artists: Jon K and Kilopatrah Jones. See the line-up on soundcheck.
+KEIN KLUB at H0L0 on Fri 11 Dec, New York City. 4 artists: Danny Daze, Jon K, Kilopatrah Jones and Marie Davidson. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ KEIN KLUB at H0L0 on Fri 11 Dec, New York City. 2 artists: Jon K and Kilopatrah 
 
 ## Line-up
 
+- Danny Daze
 - Jon K
 - Kilopatrah Jones
+- Marie Davidson
 
 *Source: [soundcheck](https://soundcheck.club/e/2524543-kein-klub-at-h0l0/)*

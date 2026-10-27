@@ -1,6 +1,6 @@
 # Isabelle Gaultiér
 
-Isabelle Gaultiér is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Soku Neustadt, Rhineland-palatinate on Sat, 12 Dec 2026.
+Isabelle Gaultiér is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Soku Neustadt, Rhineland-palatinate on Sat, 12 Dec 2026.
 
 Isabelle Gaultiér is a techno and tech house artist based in France, with 9 gigs on soundcheck across Berlin, Düsseldorf, Freiburg and Hamburg and 1 more. Often billed alongside Marc Romboy, 2HOT2PLAY and 3LEEZA. Next up: Soku Neustadt, Rhineland Palatinate on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Isabelle Gaultiér is a techno and tech house artist based in France, with 9 gig
 
 Marc Romboy, 2HOT2PLAY, 3LEEZA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellegaultier/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellegaultier/)*

@@ -1,6 +1,6 @@
 # Luca Ruiz
 
-Luca Ruiz is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri, 30 Oct 2026.
+Luca Ruiz is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri, 30 Oct 2026.
 
 Luca Ruiz is a minimal and house artist based in France, with 9 gigs on soundcheck across Barcelona, Dublin, Geneva and Glasgow and 4 more. Often billed alongside D Jaguar, Thomas Schmitt and Bibi Seck. Next up: Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Luca Ruiz is a minimal and house artist based in France, with 9 gigs on soundche
 
 D Jaguar, Thomas Schmitt, Bibi Seck
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaruiz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaruiz/)*

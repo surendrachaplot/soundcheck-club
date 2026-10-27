@@ -1,6 +1,6 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Canvas Events Presents... The Room 2 Security Halloween Bash" on Fri, 30 Oct 2026.
+Room 2 Glasgow is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Canvas Events Presents... The Room 2 Security Halloween Bash" on Fri, 30 Oct 2026.
 
 Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs, with line-ups including 6EJOU, Jalo, Mauro Picotto and polyterror and 2 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 10 upcoming gig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

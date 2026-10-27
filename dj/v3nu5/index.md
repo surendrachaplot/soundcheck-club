@@ -1,6 +1,6 @@
 # V3NÜ5
 
-V3NÜ5 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kasematte 20, Hamburg on Fri, 30 Oct 2026.
+V3NÜ5 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Kasematte 20, Hamburg on Fri, 30 Oct 2026.
 
 V3NÜ5 is a techno and house artist based in Colombia, with 18 gigs on soundcheck across Berlin, Bogotá, Cologne and Hamburg and 3 more. Often billed alongside Dj handbag, JESUZ X and Cristian Marras. Next up: Kasematte 20, Hamburg on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ V3NÜ5 is a techno and house artist based in Colombia, with 18 gigs on soundchec
 
 Dj handbag, JESUZ X, Cristian Marras
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v3nu5/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v3nu5/)*

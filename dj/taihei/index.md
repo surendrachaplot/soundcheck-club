@@ -1,14 +1,15 @@
 # TAIHEI
 
-TAIHEI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Metro, Kyoto on Tue, 27 Oct 2026.
+TAIHEI is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Metro, Kyoto on Tue, 27 Oct 2026.
 
-TAIHEI is a house and techno artist based in Japan, with 49 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside bungo, DJ HI-C and Haruka Katagata. Next up: Club Metro, Kyoto on Tue 27 Oct.
+TAIHEI is a house and techno artist based in Japan, with 50 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside bungo, DJ HI-C and Haruka Katagata. Next up: Club Metro, Kyoto on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | Club Metro | Kyoto |
+| Sat, 31 Oct 2026 | Club Daphnia | Osaka |
 | Mon, 30 Nov 2026 | clubasia | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ TAIHEI is a house and techno artist based in Japan, with 49 gigs on soundcheck a
 
 bungo, DJ HI-C, Haruka Katagata
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taihei/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taihei/)*

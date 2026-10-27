@@ -1,6 +1,6 @@
 # DJ-CK
 
-DJ-CK is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Queen Adelaide, London on Sat, 31 Oct 2026.
+DJ-CK is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Queen Adelaide, London on Sat, 31 Oct 2026.
 
 DJ-CK is a house and techno artist based in Ireland, with 44 gigs on soundcheck across Antwerp, Cork, Dublin and London and 1 more. Often billed alongside Katiaki, Toraigh and GLUT Sound. Next up: The Queen Adelaide, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ DJ-CK is a house and techno artist based in Ireland, with 44 gigs on soundcheck 
 
 Katiaki, Toraigh, GLUT Sound
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ck/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ck/)*

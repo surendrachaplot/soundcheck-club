@@ -1,6 +1,6 @@
 # Sneaky Pete
 
-Sneaky Pete is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Artheater, Cologne on Fri, 15 Jan 2027.
+Sneaky Pete is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Artheater, Cologne on Fri, 15 Jan 2027.
 
 Sneaky Pete is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Cologne, Detroit and Orlando. Often billed alongside HUELLE, Lizzle and Prossowski. Next up: Artheater, Cologne on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Sneaky Pete is a techno and house artist based in United States of America, with
 
 HUELLE, Lizzle, Prossowski
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sneakypete/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sneakypete/)*

@@ -1,6 +1,6 @@
 # The Old Church
 
-The Old Church is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Necropolis Festival - Day Time Halloween Church Rave" on Sat, 31 Oct 2026.
+The Old Church is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Necropolis Festival - Day Time Halloween Church Rave" on Sat, 31 Oct 2026.
 
 The Old Church is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including ADRIAN LECA, Arrosa, bod [包家巷] and Brother of Set and 2 more. See dates, start times and who's playing. Stoke Newington Church St, N16 9ES, London, UK.
 
@@ -18,4 +18,4 @@ The Old Church is a music venue in London listed on soundcheck. 5 upcoming gigs,
 
 Stoke Newington Church St, N16 9ES, London, UK, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-church/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-church/)*

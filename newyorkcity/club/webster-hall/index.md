@@ -1,6 +1,6 @@
 # Webster Hall
 
-Webster Hall is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Richard Finger" on Sat, 21 Nov 2026.
+Webster Hall is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Richard Finger" on Sat, 21 Nov 2026.
 
 Webster Hall is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Amtrac. See dates, start times and who's playing. 125 East 11th Street; New York, NY 10003; United States.
 
@@ -15,4 +15,4 @@ Webster Hall is a music venue in New York City listed on soundcheck. 2 upcoming 
 
 125 East 11th Street; New York, NY 10003; United States, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/webster-hall/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/webster-hall/)*

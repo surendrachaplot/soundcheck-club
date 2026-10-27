@@ -1,6 +1,6 @@
 # Strut SF and F8 present The Halloween Party with Sean Majors and Jeff Straw at F8 1192 Folsom
 
-Strut SF and F8 present The Halloween Party with Sean Majors and Jeff Straw at F8 1192 Folsom on Wed 28 Oct, San Francisco/Oakland. 2 artists: Chrissy Please and Jeff Straw. House and Tech House. See the line-up on soundcheck.
+Strut SF and F8 present The Halloween Party with Sean Majors and Jeff Straw at F8 1192 Folsom on Wed 28 Oct, San Francisco/Oakland. 3 artists: Chrissy Please, Decibel and Jeff Straw. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Strut SF and F8 present The Halloween Party with Sean Majors and Jeff Straw at F
 ## Line-up
 
 - Chrissy Please
+- Decibel
 - Jeff Straw
 
 *Source: [soundcheck](https://soundcheck.club/e/2564166-strut-sf-and-f8-present-the-halloween-party-with-sean-majors/)*

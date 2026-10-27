@@ -1,6 +1,6 @@
 # Billus
 
-Billus is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
+Billus is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 19 Dec 2026.
 
 Billus is a deep house and house artist based in Australia, with 21 gigs on soundcheck across Berlin and Melbourne. Often billed alongside Bex, Jmcee and Neil E. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Billus is a deep house and house artist based in Australia, with 21 gigs on soun
 
 Bex, Jmcee, Neil E
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billus/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billus/)*

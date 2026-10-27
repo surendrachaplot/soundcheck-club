@@ -1,13 +1,14 @@
 # Hitomi (DE)
 
-Hitomi (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Renate, Berlin on Fri, 20 Nov 2026.
+Hitomi (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at La Péniche Cinéma, Paris on Fri, 13 Nov 2026.
 
-Hitomi (DE) is a house and techno artist based in Japan, with 12 gigs on soundcheck across Berlin and Paris. Often billed alongside João Comazzi, Alexander Arpeggio and Alicia Carrera. Next up: Renate, Berlin on Fri 20 Nov.
+Hitomi (DE) is a house and techno artist based in Japan, with 13 gigs on soundcheck across Berlin and Paris. Often billed alongside João Comazzi, Alexander Arpeggio and Alicia Carrera. Next up: La Péniche Cinéma, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | La Péniche Cinéma | Paris |
 | Fri, 20 Nov 2026 | Renate | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hitomi (DE) is a house and techno artist based in Japan, with 12 gigs on soundch
 
 João Comazzi, Alexander Arpeggio, Alicia Carrera
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi-2/)*

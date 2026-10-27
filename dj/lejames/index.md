@@ -1,6 +1,6 @@
 # Le James
 
-Le James is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
+Le James is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
 
 Le James is a techno and house artist based in Vietnam, with 14 gigs on soundcheck across Bangkok, Hanoi, Seoul and Tokyo and 1 more. Often billed alongside Jimin, Dusan Nikolic and Jirus (MELA). Next up: Gatosano Da Nang, Vietnam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Le James is a techno and house artist based in Vietnam, with 14 gigs on soundche
 
 Jimin, Dusan Nikolic, Jirus (MELA)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lejames/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lejames/)*

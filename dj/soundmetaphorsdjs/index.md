@@ -1,6 +1,6 @@
 # Sound Metaphors Djs
 
-Sound Metaphors Djs is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Sound Metaphors Djs is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Sound Metaphors Djs is a house and disco artist based in Germany, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Castro Moore, David Fogarty and Tornado Wallace. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Sound Metaphors Djs is a house and disco artist based in Germany, with 147 gigs 
 
 Castro Moore, David Fogarty, Tornado Wallace
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundmetaphorsdjs/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundmetaphorsdjs/)*

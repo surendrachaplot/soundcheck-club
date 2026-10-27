@@ -1,6 +1,6 @@
 # Happyfun Hideaway
 
-Happyfun Hideaway is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "starstruck: hàobèi, Aleister, v64" on Tue, 27 Oct 2026.
+Happyfun Hideaway is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "starstruck: hàobèi, Aleister, v64" on Tue, 27 Oct 2026.
 
 Happyfun Hideaway is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Aleister, hàobèi, Kaili and v64. See dates, start times and who's playing. 1211 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -15,4 +15,4 @@ Happyfun Hideaway is a music venue in New York City listed on soundcheck. 2 upco
 
 1211 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/happyfun-hideaway/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/happyfun-hideaway/)*

@@ -1,6 +1,6 @@
 # Mat Moebius
 
-Mat Moebius is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bain Mathieu, Montreal on Sat, 31 Oct 2026.
+Mat Moebius is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bain Mathieu, Montreal on Sat, 31 Oct 2026.
 
 Mat Moebius is an electronic artist, with 6 gigs on soundcheck across Montreal. Often billed alongside Nocide, Deep n Acid and Don Pablo. Next up: Bain Mathieu, Montreal on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Mat Moebius is an electronic artist, with 6 gigs on soundcheck across Montreal. 
 
 Nocide, Deep n Acid, Don Pablo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matmoebius/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matmoebius/)*

@@ -1,6 +1,6 @@
 # SideQuest on 44th
 
-SideQuest on 44th is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Ultraviolet" on Sat, 14 Nov 2026.
+SideQuest on 44th is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Ultraviolet" on Sat, 14 Nov 2026.
 
 SideQuest on 44th is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig, with line-ups including Formosa and Veronica Vasicka. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ SideQuest on 44th is a music venue in Pittsburgh listed on soundcheck. 1 upcomin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Ultraviolet | Formosa (1), Veronica Vasicka |
+| Sat, 14 Nov 2026 | Ultraviolet | Formosa, Veronica Vasicka |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/sidequest-on-44th/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/sidequest-on-44th/)*

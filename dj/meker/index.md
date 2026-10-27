@@ -1,6 +1,6 @@
 # MEKER
 
-MEKER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Skatehalle Berlin, Berlin on Fri, 6 Nov 2026.
+MEKER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Skatehalle Berlin, Berlin on Fri, 6 Nov 2026.
 
 MEKER is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Flohmarkt, MILANCHOLIE and DJ Parabolspiegel. Next up: Skatehalle Berlin, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ MEKER is a techno and trance artist based in Germany, with 10 gigs on soundcheck
 
 Flohmarkt, MILANCHOLIE, DJ Parabolspiegel
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meker/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meker/)*

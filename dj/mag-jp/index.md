@@ -1,6 +1,6 @@
 # mag (JP)
 
-mag (JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at VENT, Tokyo on Fri, 20 Nov 2026.
+mag (JP) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at VENT, Tokyo on Fri, 20 Nov 2026.
 
 mag (JP) is a house and techno artist, with 40 gigs on soundcheck across Medellin, Rome and Tokyo. Often billed alongside Rena19, Yoshiki Aoyama and BANANA-CHAN. Next up: VENT, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ mag (JP) is a house and techno artist, with 40 gigs on soundcheck across Medelli
 
 Rena19, Yoshiki Aoyama, BANANA-CHAN
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mag-jp/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mag-jp/)*

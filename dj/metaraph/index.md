@@ -1,8 +1,8 @@
 # Metaraph
 
-Metaraph is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 31 Oct 2026.
+Metaraph is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 31 Oct 2026.
 
-Metaraph is a techno and industrial artist based in United Kingdom, with 180 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 57 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: STK 47 WAREHOUSE, Krakow on Sat 31 Oct.
+Metaraph is a techno and industrial artist based in United Kingdom, with 181 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 57 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: STK 47 WAREHOUSE, Krakow on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Metaraph is a techno and industrial artist based in United Kingdom, with 180 gig
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | STK 47 WAREHOUSE | Krakow |
 | Fri, 13 Nov 2026 | FOLD | London |
+| Sat, 14 Nov 2026 | TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84 | Tbilisi |
 | Fri, 22 Jan 2027 | KitKatClub | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Metaraph is a techno and industrial artist based in United Kingdom, with 180 gig
 
 Mar/us, Ellen Allien, Samantha Togni
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*

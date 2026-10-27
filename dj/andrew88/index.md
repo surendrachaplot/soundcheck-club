@@ -1,6 +1,6 @@
 # Andrew88
 
-Andrew88 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 29th Apartment, Melbourne on Wed, 28 Oct 2026.
+Andrew88 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at 29th Apartment, Melbourne on Wed, 28 Oct 2026.
 
 Andrew88 is a house and deep house artist based in France, with 128 gigs on soundcheck across Manchester, Melbourne, Sydney and Toulouse. Often billed alongside A.Well, J-OK and LOOQS. Next up: 29th Apartment, Melbourne on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Andrew88 is a house and deep house artist based in France, with 128 gigs on soun
 
 A.Well, J-OK, LOOQS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrew88/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrew88/)*

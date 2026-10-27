@@ -1,6 +1,6 @@
 # Nettta
 
-Nettta is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 19 Dec 2026.
+Nettta is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 19 Dec 2026.
 
 Nettta is a trance and techno artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside EZA (DE), Blossmbae and Cobb Douglas. Next up: Indiego Glocksee, Hannover on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Nettta is a trance and techno artist based in Germany, with 33 gigs on soundchec
 
 EZA (DE), Blossmbae, Cobb Douglas
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nettta/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nettta/)*

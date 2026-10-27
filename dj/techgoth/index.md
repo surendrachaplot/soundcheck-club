@@ -1,6 +1,6 @@
 # TECHGOTH
 
-TECHGOTH is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Rua da Alfândega, 50, Rio de Janeiro on Sat, 7 Nov 2026.
+TECHGOTH is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Rua da Alfândega, 50, Rio de Janeiro on Sat, 7 Nov 2026.
 
 TECHGOTH is a techno and pop artist based in Brazil, with 6 gigs on soundcheck across Rio de Janeiro. Often billed alongside All Of Me and Lorio. Next up: Rua da Alfândega, 50, Rio de Janeiro on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ TECHGOTH is a techno and pop artist based in Brazil, with 6 gigs on soundcheck a
 
 All Of Me, Lorio
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techgoth/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techgoth/)*

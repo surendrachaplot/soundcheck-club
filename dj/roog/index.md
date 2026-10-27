@@ -1,14 +1,13 @@
 # ROOG
 
-ROOG is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+ROOG is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Poppodium Volt, Netherlands on Fri, 30 Oct 2026.
 
-ROOG is a house and tech house artist based in Netherlands, with 89 gigs on soundcheck across Amsterdam, Ibiza, Liverpool and Netherlands and 4 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+ROOG is a house and tech house artist based in Netherlands, with 89 gigs on soundcheck across Amsterdam, Ibiza, Liverpool and Netherlands and 4 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: Poppodium Volt, Netherlands on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 30 Oct 2026 | Poppodium Volt | Netherlands |
 | Sat, 31 Oct 2026 | Grand Hotel Amrâth Kurhaus | The Hague |
 | Sat, 7 Nov 2026 | Mezz | Netherlands |
@@ -36,4 +35,4 @@ ROOG is a house and tech house artist based in Netherlands, with 89 gigs on soun
 
 Erick E, Alexander Koning, Lucien Foort
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roog/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roog/)*

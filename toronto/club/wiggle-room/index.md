@@ -1,6 +1,6 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "GET FREAKY HALLOWEEN with FreQ Nasty, Big League Chu & Dave Saddler" on Fri, 30 Oct 2026.
+Wiggle Room is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "GET FREAKY HALLOWEEN with FreQ Nasty, Big League Chu & Dave Saddler" on Fri, 30 Oct 2026.
 
 Wiggle Room is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Addy, Anthony Cole, Barroness and Brash-B and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
@@ -23,4 +23,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, 
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

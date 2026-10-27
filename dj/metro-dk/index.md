@@ -1,6 +1,6 @@
 # Mëtro
 
-Mëtro is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at MODULE, Copenhagen on Fri, 30 Oct 2026.
+Mëtro is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at MODULE, Copenhagen on Fri, 30 Oct 2026.
 
 Mëtro is a techno and industrial artist based in Denmark, with 14 gigs on soundcheck across Copenhagen and Hamburg. Often billed alongside KAMIKAZEM, Kardinal Bertram and Midele. Next up: MODULE, Copenhagen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mëtro is a techno and industrial artist based in Denmark, with 14 gigs on sound
 
 KAMIKAZEM, Kardinal Bertram, Midele
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metro-dk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metro-dk/)*

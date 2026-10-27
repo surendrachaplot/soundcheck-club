@@ -1,6 +1,6 @@
 # Wheat, Wine & Whisky
 
-Wheat, Wine & Whisky is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "SIGNALSambient:Izzy Mardin-Weir, Xenosine[ Vijay Thillaimuthu ], Morse Code Poetry ft Leon Alex" on Wed, 28 Oct 2026.
+Wheat, Wine & Whisky is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "SIGNALSambient:Izzy Mardin-Weir, Xenosine[ Vijay Thillaimuthu ], Morse Code Poetry ft Leon Alex" on Wed, 28 Oct 2026.
 
 Wheat, Wine & Whisky is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 284 Smith St, Collingwood, VIC 3066, AUS.
 
@@ -14,4 +14,4 @@ Wheat, Wine & Whisky is a music venue in Melbourne listed on soundcheck. 1 upcom
 
 284 Smith St, Collingwood, VIC 3066, AUS, Melbourne
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wheat-wine-whisky/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wheat-wine-whisky/)*

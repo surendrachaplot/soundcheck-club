@@ -1,6 +1,6 @@
 # Mr. Redley
 
-Mr. Redley is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Triqis, London on Thu, 5 Nov 2026.
+Mr. Redley is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Triqis, London on Thu, 5 Nov 2026.
 
 Mr. Redley is a house and funk / soul artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bristol and 5 more. Often billed alongside JAXX TMS, LORA S and NIKS. Next up: Triqis, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Mr. Redley is a house and funk / soul artist based in United Kingdom, with 75 gi
 
 JAXX TMS, LORA S, NIKS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*

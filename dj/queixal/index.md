@@ -1,6 +1,6 @@
 # Queixal
 
-Queixal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
+Queixal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Queixal is a techno and house artist based in Spain, with 10 gigs on soundcheck across Barcelona. Often billed alongside Mod.1, Linkan Ray and Tetric. Next up: Village Underground Barcelona, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Queixal is a techno and house artist based in Spain, with 10 gigs on soundcheck 
 
 Mod.1, Linkan Ray, Tetric
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queixal/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queixal/)*

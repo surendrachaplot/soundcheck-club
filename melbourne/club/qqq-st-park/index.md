@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Lenzman Melbourne Fundraiser" on Fri, 6 Nov 2026.
+QQQ ST. Park is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Lenzman Melbourne Fundraiser" on Fri, 6 Nov 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Aaron Static, Azifm, EMCD and Hound and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -18,4 +18,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

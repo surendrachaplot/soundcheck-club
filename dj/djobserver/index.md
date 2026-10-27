@@ -1,6 +1,6 @@
 # DJ Observer
 
-DJ Observer is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at M1 Club, Vienna on Sat, 31 Oct 2026.
+DJ Observer is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at M1 Club, Vienna on Sat, 31 Oct 2026.
 
 DJ Observer is a techno and tech house artist, with 3 gigs on soundcheck across Vienna. Often billed alongside Anatol, Cosmic Gate and Dennes Deen. Next up: M1 Club, Vienna on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ DJ Observer is a techno and tech house artist, with 3 gigs on soundcheck across 
 
 Anatol, Cosmic Gate, Dennes Deen
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djobserver/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djobserver/)*

@@ -1,6 +1,6 @@
 # Goos (1)
 
-Goos (1) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 30 Oct 2026.
+Goos (1) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 30 Oct 2026.
 
 Goos is a house and minimal artist based in India, with 5 gigs on soundcheck across Dubai and Stuttgart. Often billed alongside CN Williams, Clint Maximus and Darko De Jan. Next up: Fridas Pier, Stuttgart on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Goos is a house and minimal artist based in India, with 5 gigs on soundcheck acr
 
 CN Williams, Clint Maximus, Darko De Jan
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goos-1/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goos-1/)*

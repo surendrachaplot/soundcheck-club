@@ -1,14 +1,15 @@
 # Rele
 
-Rele is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri, 30 Oct 2026.
+Rele is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri, 30 Oct 2026.
 
-Rele is a house and minimal artist based in Italy, with 63 gigs on soundcheck across Barcelona and Valencia. Often billed alongside Alexxx, PAZ WAZ HERE and lorenzo del po. Next up: TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri 30 Oct.
+Rele is a house and minimal artist based in Italy, with 64 gigs on soundcheck across Barcelona and Valencia. Often billed alongside Alexxx, PAZ WAZ HERE and lorenzo del po. Next up: TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423 | Barcelona |
+| Fri, 30 Oct 2026 | Seawolf Records Barcelona | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rele is a house and minimal artist based in Italy, with 63 gigs on soundcheck ac
 
 Alexxx, PAZ WAZ HERE, lorenzo del po
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rele/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rele/)*

@@ -1,6 +1,6 @@
 # Alex Oxley
 
-Alex Oxley is a Disco and Italo Disco artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at ZeyZey, Miami on Fri, 30 Oct 2026.
+Alex Oxley is a Disco and Italo Disco artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at ZeyZey, Miami on Fri, 30 Oct 2026.
 
 Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 25 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: ZeyZey, Miami on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gi
 
 Roxanne Roll, Fleetmac Wood, Horror Hi-Fi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*

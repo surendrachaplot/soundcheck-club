@@ -1,6 +1,6 @@
 # Cajoux
 
-Cajoux is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Panke, Berlin on Sat, 7 Nov 2026.
+Cajoux is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Panke, Berlin on Sat, 7 Nov 2026.
 
 Cajoux is a club and bass artist, with 6 gigs on soundcheck across Berlin, Cologne and Prague. Often billed alongside Catu Diosis, DJ Freegah and Kirill Shapovalov. Next up: Panke, Berlin on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Cajoux is a club and bass artist, with 6 gigs on soundcheck across Berlin, Colog
 
 Catu Diosis, DJ Freegah, Kirill Shapovalov
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cajoux/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cajoux/)*

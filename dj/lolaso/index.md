@@ -1,6 +1,6 @@
 # Lola So
 
-Lola So is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Cause, London on Fri, 27 Nov 2026.
+Lola So is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Cause, London on Fri, 27 Nov 2026.
 
 Lola So is a house and techno artist based in United Kingdom, with 34 gigs on soundcheck across Barcelona, Berlin, Edinburgh and London. Often billed alongside IZZY (UK), Armând and ISHA. Next up: The Cause, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lola So is a house and techno artist based in United Kingdom, with 34 gigs on so
 
 IZZY (UK), Armând, ISHA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaso/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaso/)*

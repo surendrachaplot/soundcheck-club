@@ -1,6 +1,6 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Jay de Lys is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Jay de Lys is a tech house and house artist based in Argentina, with 79 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Franky Rizardo, Joey Daniel and ChaseWest. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -28,4 +28,4 @@ Jay de Lys is a tech house and house artist based in Argentina, with 79 gigs on 
 
 Franky Rizardo, Joey Daniel, ChaseWest
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*

@@ -1,6 +1,6 @@
 # Micfreak
 
-Micfreak is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Flash, Washington DC on Sat, 7 Nov 2026.
+Micfreak is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Flash, Washington DC on Sat, 7 Nov 2026.
 
 Micfreak is a house and deep house artist based in United States of America, with 26 gigs on soundcheck across Baltimore, London, Los Angeles and New York City and 3 more. Often billed alongside Benjy Bradshaw, DJ Spen and MAXIMILIANO (US). Next up: Flash, Washington DC on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Micfreak is a house and deep house artist based in United States of America, wit
 
 Benjy Bradshaw, DJ Spen, MAXIMILIANO (US)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micfreak-us/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micfreak-us/)*

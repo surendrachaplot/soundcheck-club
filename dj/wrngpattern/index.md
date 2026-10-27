@@ -1,6 +1,6 @@
 # Wrng Pattern
 
-Wrng Pattern is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Wolf Milano, Milan on Sat, 31 Oct 2026.
+Wrng Pattern is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Wolf Milano, Milan on Sat, 31 Oct 2026.
 
 Wrng Pattern is a house and electro artist, with 23 gigs on soundcheck across Barcelona and Milan. Often billed alongside David Etienne, Ezart and Daniele Umore. Next up: Wolf Milano, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Wrng Pattern is a house and electro artist, with 23 gigs on soundcheck across Ba
 
 David Etienne, Ezart, Daniele Umore
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrngpattern/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrngpattern/)*

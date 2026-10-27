@@ -1,6 +1,6 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "DETOX UNIT, RESONANT LANGUAGE, Schmoop, SORTOF VAGUE + PETALS" on Fri, 30 Oct 2026.
+The Chocolate Factory is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "DETOX UNIT, RESONANT LANGUAGE, Schmoop, SORTOF VAGUE + PETALS" on Fri, 30 Oct 2026.
 
 The Chocolate Factory is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Bakermat, Hypho, Kim Ann Foxman and MOON BABE and 2 more. See dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
@@ -20,4 +20,4 @@ The Chocolate Factory is a music venue in New York City listed on soundcheck. 7 
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

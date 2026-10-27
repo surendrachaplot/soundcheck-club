@@ -1,6 +1,6 @@
 # La Mverte
 
-La Mverte is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at control, Bucharest on Sat, 31 Oct 2026.
+La Mverte is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at control, Bucharest on Sat, 31 Oct 2026.
 
 La Mverte is a techno and electro artist, with 6 gigs on soundcheck across Berlin, Bucharest and Paris. Often billed alongside Acid Washed, Acid Arab and Ario. Next up: control, Bucharest on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ La Mverte is a techno and electro artist, with 6 gigs on soundcheck across Berli
 
 Acid Washed, Acid Arab, Ario
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamverte/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamverte/)*

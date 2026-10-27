@@ -1,6 +1,6 @@
 # Alec Dienaar
 
-Alec Dienaar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Westerliefde, Amsterdam on Fri, 20 Nov 2026.
+Alec Dienaar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Westerliefde, Amsterdam on Fri, 20 Nov 2026.
 
 Alec Dienaar is a techno and house artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Dublin and 9 more. Often billed alongside Genex, STIPP and Lasse Top. Next up: Westerliefde, Amsterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Alec Dienaar is a techno and house artist based in Netherlands, with 48 gigs on 
 
 Genex, STIPP, Lasse Top
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*

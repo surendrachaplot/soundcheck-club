@@ -1,6 +1,6 @@
 # Designed By
 
-Designed By is a Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at M.O.T, London on Thu, 12 Nov 2026.
+Designed By is a Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at M.O.T, London on Thu, 12 Nov 2026.
 
 Designed By is a club artist, with 7 gigs on soundcheck across London. Often billed alongside Excelsior, Batekoo and CalvoMusic. Next up: M.O.T, London on Thu 12 Nov.
 
@@ -23,4 +23,4 @@ Designed By is a club artist, with 7 gigs on soundcheck across London. Often bil
 
 Excelsior, Batekoo, CalvoMusic
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/designedby/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/designedby/)*

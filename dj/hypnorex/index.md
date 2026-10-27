@@ -1,6 +1,6 @@
 # hypnorex
 
-hypnorex is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Eventhuset, Stockholm on Sat, 14 Nov 2026.
+hypnorex is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eventhuset, Stockholm on Sat, 14 Nov 2026.
 
 hypnorex is a techno and electro artist, with 15 gigs on soundcheck across Berlin, Hamburg, Stockholm and Zurich. Often billed alongside Anja Zaube, DJ Flush and Elliver. Next up: Eventhuset, Stockholm on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ hypnorex is a techno and electro artist, with 15 gigs on soundcheck across Berli
 
 Anja Zaube, DJ Flush, Elliver
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnorex/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnorex/)*

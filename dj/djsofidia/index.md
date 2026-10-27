@@ -1,6 +1,6 @@
 # DJ SOFÍDIA
 
-DJ SOFÍDIA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 30 Oct 2026.
+DJ SOFÍDIA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 30 Oct 2026.
 
 DJ SOFÍDIA is a house and deep house artist based in Spain, with 17 gigs on soundcheck across Barcelona. Often billed alongside DJ Marchello, pumbum and Bill Hates. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ SOFÍDIA is a house and deep house artist based in Spain, with 17 gigs on sou
 
 DJ Marchello, pumbum, Bill Hates
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsofidia/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsofidia/)*

@@ -1,6 +1,6 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Chinese Laundry Invites 1-800 GIRLS [UK] + CARTER WALSH [NAARM/MELB]" on Fri, 30 Oct 2026.
+Chinese Laundry is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Chinese Laundry Invites 1-800 GIRLS [UK] + CARTER WALSH [NAARM/MELB]" on Fri, 30 Oct 2026.
 
 Chinese Laundry is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including 1-800 GIRLS, Mike McCaskill and PARTIGIRL. See dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
@@ -15,4 +15,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 2 upcoming gigs
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

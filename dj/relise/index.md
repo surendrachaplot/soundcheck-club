@@ -1,6 +1,6 @@
 # r:elise
 
-r:elise is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
+r:elise is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
 
 r:elise is a house and trance artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside ASHTREY, Elkka and DJ AYA. Next up: Low Profile Studios, London on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ r:elise is a house and trance artist based in United Kingdom, with 8 gigs on sou
 
 ASHTREY, Elkka, DJ AYA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relise/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relise/)*

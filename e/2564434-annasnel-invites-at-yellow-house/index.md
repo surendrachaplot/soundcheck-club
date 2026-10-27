@@ -1,6 +1,6 @@
 # ANNASNEL invites at Yellow House
 
-ANNASNEL invites at Yellow House on Sat 7 Nov, Amsterdam. 3 artists: ANNASNEL, Rozie and Valeby. House and Tech House. See the line-up on soundcheck.
+ANNASNEL invites at Yellow House on Sat 7 Nov, Amsterdam. 4 artists: ANNASNEL, Remmert, Rozie and Valeby. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ANNASNEL invites at Yellow House on Sat 7 Nov, Amsterdam. 3 artists: ANNASNEL, R
 ## Line-up
 
 - ANNASNEL
+- Remmert
 - Rozie
 - Valeby
 

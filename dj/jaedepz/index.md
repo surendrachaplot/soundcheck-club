@@ -1,6 +1,6 @@
 # Jae Depz
 
-Jae Depz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 21 Nov 2026.
+Jae Depz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 21 Nov 2026.
 
 Jae Depz is a garage and house artist based in United Kingdom, with 10 gigs on soundcheck across Leeds, Manchester, Nottingham and Sheffield. Often billed alongside camukg, Bassboy and Burgaboy. Next up: Mint Warehouse, Leeds on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Jae Depz is a garage and house artist based in United Kingdom, with 10 gigs on s
 
 camukg, Bassboy, Burgaboy
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaedepz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaedepz/)*

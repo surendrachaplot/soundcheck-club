@@ -1,6 +1,6 @@
 # Kaili
 
-Kaili is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Happyfun Hideaway, New York City on Thu, 29 Oct 2026.
+Kaili is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Happyfun Hideaway, New York City on Thu, 29 Oct 2026.
 
 Kaili is a club and house artist based in United States of America, with 31 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Pressure Assist, DJ Erewhon and Yellowtech. Next up: Happyfun Hideaway, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Kaili is a club and house artist based in United States of America, with 31 gigs
 
 Pressure Assist, DJ Erewhon, Yellowtech
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaili/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaili/)*

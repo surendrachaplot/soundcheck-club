@@ -1,6 +1,6 @@
 # Lilian Stark
 
-Lilian Stark is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 5 Nov 2026.
+Lilian Stark is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 5 Nov 2026.
 
 Lilian Stark is a techno and trance artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Josephine Wedekind, Lilian and Spekki Webu. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Lilian Stark is a techno and trance artist based in Germany, with 6 gigs on soun
 
 Josephine Wedekind, Lilian, Spekki Webu
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilianstark/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilianstark/)*

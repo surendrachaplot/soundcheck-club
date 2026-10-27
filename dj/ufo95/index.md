@@ -1,6 +1,6 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Jasna 1, Warsaw on Fri, 30 Oct 2026.
+UFO95 is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Jasna 1, Warsaw on Fri, 30 Oct 2026.
 
 UFO95 is a techno and house artist based in France, with 193 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 69 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Jasna 1, Warsaw on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ UFO95 is a techno and house artist based in France, with 193 gigs on soundcheck 
 
 Hadone, Adriana Lopez, Anetha
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*

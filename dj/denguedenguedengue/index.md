@@ -1,6 +1,6 @@
 # Dengue Dengue Dengue
 
-Dengue Dengue Dengue is a Latin Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Bal Chavaux, Paris on Sat, 7 Nov 2026.
+Dengue Dengue Dengue is a Latin Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bal Chavaux, Paris on Sat, 7 Nov 2026.
 
 Dengue Dengue Dengue is a latin bass and bass artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 21 more. Often billed alongside Florentino, Basy Tropikalne and Phran. Next up: Bal Chavaux, Paris on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Dengue Dengue Dengue is a latin bass and bass artist based in Germany, with 61 g
 
 Florentino, Basy Tropikalne, Phran
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*

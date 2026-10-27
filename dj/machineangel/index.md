@@ -1,6 +1,6 @@
 # Machineangel
 
-Machineangel is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
+Machineangel is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
 Machineangel is a hardcore and gabber artist, with 5 gigs on soundcheck across Sydney and Tokyo. Often billed alongside CYNTHESZR, EVANGELINE and Elina. Next up: TBA, Sydney on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Machineangel is a hardcore and gabber artist, with 5 gigs on soundcheck across S
 
 CYNTHESZR, EVANGELINE, Elina
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/machineangel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/machineangel/)*

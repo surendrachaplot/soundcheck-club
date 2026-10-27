@@ -1,6 +1,6 @@
 # Listiq
 
-Listiq is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bricks, London on Fri, 4 Dec 2026.
+Listiq is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bricks, London on Fri, 4 Dec 2026.
 
 Listiq is a house and broken beat artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Crumpler, Sam Sharp and Yozza. Next up: Bricks, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Listiq is a house and broken beat artist based in United Kingdom, with 10 gigs o
 
 Crumpler, Sam Sharp, Yozza
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/listiq/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/listiq/)*

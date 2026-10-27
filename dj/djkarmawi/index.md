@@ -1,6 +1,6 @@
 # DJ Karmawi
 
-DJ Karmawi is a Disco and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 21 Nov 2026.
+DJ Karmawi is a Disco and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 21 Nov 2026.
 
 DJ Karmawi is a disco and ghetto tech artist based in Ireland, with 17 gigs on soundcheck across Dublin, Galway and London. Often billed alongside Moving Still, JWY and Sahana. Next up: Yamamori Tengu, Dublin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Karmawi is a disco and ghetto tech artist based in Ireland, with 17 gigs on s
 
 Moving Still, JWY (1), Sahana
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkarmawi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkarmawi/)*

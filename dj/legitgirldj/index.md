@@ -1,6 +1,6 @@
 # Legit Girl DJ
 
-Legit Girl DJ is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 14 Nov 2026.
+Legit Girl DJ is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 14 Nov 2026.
 
 Legit Girl DJ is a club and techno artist based in France, with 42 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dublin and 8 more. Often billed alongside guerre maladie famine, DJ GHEPARD and Promesses. Next up: La Machine Du Moulin Rouge, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Legit Girl DJ is a club and techno artist based in France, with 42 gigs on sound
 
 guerre maladie famine, DJ GHEPARD, Promesses
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/legitgirldj/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/legitgirldj/)*

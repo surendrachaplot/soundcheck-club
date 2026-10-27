@@ -1,6 +1,6 @@
 # PHILIP MORGAN
 
-PHILIP MORGAN is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 14 Nov 2026.
+PHILIP MORGAN is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 14 Nov 2026.
 
 PHILIP MORGAN is a club and experimental artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside Alissa Brianna, BEARCAT and Battygyal. Next up: Bossa Nova Civic Club, New York City on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ PHILIP MORGAN is a club and experimental artist based in United States of Americ
 
 Alissa Brianna, BEARCAT, Battygyal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipmorgan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipmorgan/)*

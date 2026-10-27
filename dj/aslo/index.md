@@ -1,14 +1,15 @@
 # ASLO
 
-ASLO is a Techno and Psytrance artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+ASLO is a Techno and Psytrance artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
-ASLO is a techno and psytrance artist based in United Kingdom, with 31 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brisbane and 8 more. Often billed alongside Adam Bartas, Nik Kastel and Samuel Moriero. Next up: DRUMSHEDS, London on Sat 31 Oct.
+ASLO is a techno and psytrance artist based in United Kingdom, with 32 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brisbane and 9 more. Often billed alongside Adam Bartas, Nik Kastel and Samuel Moriero. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
+| Fri, 1 Jan 2027 | Hidden | Manchester |
 | Fri, 15 Jan 2027 | Arena Joondalup | Perth |
 | Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
@@ -30,4 +31,4 @@ ASLO is a techno and psytrance artist based in United Kingdom, with 31 gigs on s
 
 Adam Bartas, Nik Kastel, Samuel Moriero (2)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aslo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aslo/)*

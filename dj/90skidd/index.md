@@ -1,6 +1,6 @@
 # 90s Kidd
 
-90s Kidd is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 1990, Glasgow on Fri, 27 Nov 2026.
+90s Kidd is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at 1990, Glasgow on Fri, 27 Nov 2026.
 
 90s Kidd is a techno and minimal artist, with 4 gigs on soundcheck across Glasgow. Often billed alongside A-TØN, Et Al and Jøhannes (UK). Next up: 1990, Glasgow on Fri 27 Nov.
 
@@ -20,4 +20,4 @@
 
 A-TØN, Et Al (1), Jøhannes (UK)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/90skidd/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/90skidd/)*

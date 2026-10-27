@@ -1,6 +1,6 @@
 # Laurine
 
-Laurine is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Hoppetosse, Berlin on Sat, 7 Nov 2026.
+Laurine is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Hoppetosse, Berlin on Sat, 7 Nov 2026.
 
 Laurine is a house and techno artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: Hoppetosse, Berlin on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Laurine is a house and techno artist based in Germany, with 123 gigs on soundche
 
 Cecilio, S.Moreira, Jorge Escribano
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurine/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurine/)*

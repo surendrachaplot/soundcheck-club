@@ -1,6 +1,6 @@
 # Arkane
 
-Arkane is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 21 Nov 2026.
+Arkane is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 21 Nov 2026.
 
 Arkane is a techno and electro artist based in United Kingdom, with 30 gigs on soundcheck across Cardiff, Glasgow, Leeds and Liverpool and 6 more. Often billed alongside INLIMEN, Mold Boutique and Danny Roach. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Arkane is a techno and electro artist based in United Kingdom, with 30 gigs on s
 
 INLIMEN, Mold Boutique, Danny Roach
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arkane/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arkane/)*

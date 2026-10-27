@@ -1,6 +1,6 @@
 # Stiefel One
 
-Stiefel One is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
+Stiefel One is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
 
 Stiefel One is a techno and tech house artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Hochholzner, Moms on Acid and Midas 104. Next up: ://about blank, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Stiefel One is a techno and tech house artist based in Germany, with 13 gigs on 
 
 Hochholzner, Moms on Acid, Midas 104
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stiefelone/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stiefelone/)*

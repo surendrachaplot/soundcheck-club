@@ -1,6 +1,6 @@
 # Leftfield
 
-Leftfield is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 31 Oct 2026.
+Leftfield is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 31 Oct 2026.
 
 Leftfield is an electronica and house artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Auckland, Belfast and Birmingham and 19 more. Often billed alongside Posthuman, Batu and Ben Sims. Next up: The Bongo Club, Edinburgh on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Leftfield is an electronica and house artist based in United Kingdom, with 49 gi
 
 Posthuman, Batu, Ben Sims
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leftfield/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leftfield/)*

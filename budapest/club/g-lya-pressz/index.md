@@ -1,6 +1,6 @@
 # Gólya Presszó
 
-Gólya Presszó is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Halloween party " on Fri, 30 Oct 2026.
+Gólya Presszó is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Halloween party " on Fri, 30 Oct 2026.
 
 Gólya Presszó is a music venue in Budapest listed on soundcheck. 2 upcoming gigs, with line-ups including Aikatherina, Benc, Galactic Jackson and Mentalien. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Gólya Presszó is a music venue in Budapest listed on soundcheck. 2 upcoming gi
 | Fri, 30 Oct 2026 | Halloween party  |  |
 | Fri, 13 Nov 2026 | ◉ RIGHT TIME - MANIC MINDS ◉ | Aikatherina, Benc, Galactic Jackson, Mentalien |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/g-lya-pressz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/g-lya-pressz/)*

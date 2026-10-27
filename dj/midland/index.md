@@ -1,14 +1,15 @@
 # Midland
 
-Midland is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Midland is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
-Midland is a house and techno artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 46 more. Often billed alongside NIKS, Peach and Moxie. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
+Midland is a house and techno artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 47 more. Often billed alongside NIKS, Peach and Moxie. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
+| Fri, 6 Nov 2026 | Haven | Byron Bay |
 | Sat, 21 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 27 Nov 2026 | The White Hotel | Manchester |
 | Sat, 28 Nov 2026 | Quarters | Brighton |
@@ -31,4 +32,4 @@ Midland is a house and techno artist based in United Kingdom, with 120 gigs on s
 
 NIKS, Peach, Moxie
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*

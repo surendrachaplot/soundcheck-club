@@ -1,6 +1,6 @@
 # HiTOMi
 
-HiTOMi is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at WOMB, Tokyo on Wed, 28 Oct 2026.
+HiTOMi is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at WOMB, Tokyo on Wed, 28 Oct 2026.
 
 HiTOMi is a house and bass artist based in Japan, with 39 gigs on soundcheck across Berlin, Seoul and Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and CRAZYHYUGA. Next up: WOMB, Tokyo on Wed 28 Oct.
 
@@ -28,4 +28,4 @@ HiTOMi is a house and bass artist based in Japan, with 39 gigs on soundcheck acr
 
 Yamariki, PUNK N MATRIX, CRAZYHYUGA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi/)*

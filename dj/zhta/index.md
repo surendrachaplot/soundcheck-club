@@ -1,6 +1,6 @@
 # ZHTA
 
-ZHTA is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lieberscholli, Munich on Sat, 14 Nov 2026.
+ZHTA is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lieberscholli, Munich on Sat, 14 Nov 2026.
 
 ZHTA is a downtempo and progressive house artist, with 21 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Padouc, Anna Almani and Corios. Next up: Lieberscholli, Munich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ZHTA is a downtempo and progressive house artist, with 21 gigs on soundcheck acr
 
 Padouc, Anna Almani, Corios
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zhta/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zhta/)*

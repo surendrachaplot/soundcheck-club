@@ -1,6 +1,6 @@
 # Ausilio Jó
 
-Ausilio Jó is a Minimal Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Underground Agimi, Tirana on Fri, 30 Oct 2026.
+Ausilio Jó is a Minimal Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Underground Agimi, Tirana on Fri, 30 Oct 2026.
 
 Ausilio Jó is a minimal techno and deep house artist based in Germany, with 5 gigs on soundcheck across Berlin, Frankfurt, Tirana and Vienna. Often billed alongside Bait and Switch, Bo Irion and Buzé. Next up: Underground Agimi, Tirana on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Ausilio Jó is a minimal techno and deep house artist based in Germany, with 5 g
 
 Bait and Switch, Bo Irion, Buzé
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ausiliojo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ausiliojo/)*

@@ -1,6 +1,6 @@
 # Subandrio
 
-Subandrio is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Colombo, Sri-lanka on Sat, 31 Oct 2026.
+Subandrio is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Colombo, Sri-lanka on Sat, 31 Oct 2026.
 
 Subandrio is a progressive house and electronica artist based in United Arab Emirates, with 6 gigs on soundcheck across Amsterdam, Sri Lanka and Sydney. Often billed alongside Abity, Gai Barone and Kasper Koman. Next up: TBA - Colombo, Sri Lanka on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Subandrio is a progressive house and electronica artist based in United Arab Emi
 
 Abity, Gai Barone, Kasper Koman
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subandrio/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subandrio/)*

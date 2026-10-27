@@ -1,6 +1,6 @@
 # DAMIANA
 
-DAMIANA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at AMT, Berlin on Sat, 31 Oct 2026.
+DAMIANA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at AMT, Berlin on Sat, 31 Oct 2026.
 
 DAMIANA is a house and techno artist based in Germany, with 11 gigs on soundcheck across Antwerp, Berlin, Lisbon and London and 1 more. Often billed alongside BODYSHIFT, Michelle Manetti and Alma Negrot. Next up: AMT, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DAMIANA is a house and techno artist based in Germany, with 11 gigs on soundchec
 
 BODYSHIFT, Michelle Manetti, Alma Negrot
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damiana/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damiana/)*

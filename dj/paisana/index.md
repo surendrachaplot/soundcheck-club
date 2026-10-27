@@ -1,6 +1,6 @@
 # PAISANA
 
-PAISANA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
+PAISANA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
 
 PAISANA is a techno and trance artist, with 20 gigs on soundcheck across Lisbon and Porto. Often billed alongside GTH (FR), GADDAM and KØDE X. Next up: Kømplex Lisbon, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PAISANA is a techno and trance artist, with 20 gigs on soundcheck across Lisbon 
 
 GTH (FR), GADDAM, KØDE X
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paisana/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paisana/)*

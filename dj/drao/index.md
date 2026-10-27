@@ -1,6 +1,6 @@
 # Drao
 
-Drao is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Blindspot*, Bucharest on Fri, 20 Nov 2026.
+Drao is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Blindspot*, Bucharest on Fri, 20 Nov 2026.
 
 Drao is a bass and experimental artist based in Romania, with 6 gigs on soundcheck across Bucharest. Often billed alongside ANIN, Gheordu and Low Freq. Next up: Blindspot*, Bucharest on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Drao is a bass and experimental artist based in Romania, with 6 gigs on soundche
 
 ANIN, Gheordu, Low Freq
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drao/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drao/)*

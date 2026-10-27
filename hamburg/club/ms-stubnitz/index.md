@@ -1,6 +1,6 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 21 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "The Kilimanjaro Darkjazz Ensemble, The Mount Fuji Doomjazz Corporation" on Wed, 28 Oct 2026.
+MS Stubnitz is a music venue in Hamburg with 21 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "The Kilimanjaro Darkjazz Ensemble, The Mount Fuji Doomjazz Corporation" on Wed, 28 Oct 2026.
 
 MS Stubnitz is a music venue in Hamburg listed on soundcheck. 21 upcoming gigs, with line-ups including AFAR, Alex Zhang Hungtai, Arsenal Mikebe and CHIEF QUEEF and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 21 upcoming gigs, 
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

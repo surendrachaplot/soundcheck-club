@@ -1,6 +1,6 @@
 # Drew Day
 
-Drew Day is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 31 Oct 2026.
+Drew Day is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 31 Oct 2026.
 
 Drew Day is a house and minimal artist, with 8 gigs on soundcheck across Austin and Los Angeles. Often billed alongside 2Tall, Boogietraxx and Edd. Next up: TBA - DTLA, Los Angeles on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Drew Day is a house and minimal artist, with 8 gigs on soundcheck across Austin 
 
 2Tall, Boogietraxx, Edd (1)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drewday/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drewday/)*

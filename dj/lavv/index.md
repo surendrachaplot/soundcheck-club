@@ -1,6 +1,6 @@
 # lavv
 
-lavv is a New Wave and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TORTE BAR, Berlin on Thu, 29 Oct 2026.
+lavv is a New Wave and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TORTE BAR, Berlin on Thu, 29 Oct 2026.
 
 lavv is a new wave and italo disco artist based in Hungary, with 5 gigs on soundcheck across Berlin, Budapest and Copenhagen. Often billed alongside Alegrando, CALIFANO and Csodaszoba. Next up: TORTE BAR, Berlin on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ lavv is a new wave and italo disco artist based in Hungary, with 5 gigs on sound
 
 Alegrando, CALIFANO, Csodaszoba
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavv/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavv/)*

@@ -1,6 +1,6 @@
 # Krahm
 
-Krahm is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Studio76 Club, Madrid on Sat, 28 Nov 2026.
+Krahm is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Studio76 Club, Madrid on Sat, 28 Nov 2026.
 
 Krahm is a techno and minimal techno artist, with 6 gigs on soundcheck across Madrid. Often billed alongside DARK MOON (ES), Santek and ADRI.G. Next up: Studio76 Club, Madrid on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Krahm is a techno and minimal techno artist, with 6 gigs on soundcheck across Ma
 
 DARK MOON (ES), Santek, ADRI.G
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krahm/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krahm/)*

@@ -1,6 +1,6 @@
 # Mollygum
 
-Mollygum is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Système, Montreal on Thu, 29 Oct 2026.
+Mollygum is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Système, Montreal on Thu, 29 Oct 2026.
 
 Mollygum is an electro and techno artist based in Canada, with 18 gigs on soundcheck across Beijing, Bergen, Montreal and Shanghai. Often billed alongside Breaka, 10000 (CN) and Felix Patry. Next up: Système, Montreal on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Mollygum is an electro and techno artist based in Canada, with 18 gigs on soundc
 
 Breaka, 10000 (CN), Felix Patry
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollygum/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollygum/)*

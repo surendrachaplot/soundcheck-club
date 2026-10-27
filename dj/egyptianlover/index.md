@@ -1,8 +1,8 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 30 Oct 2026.
+Egyptian Lover is a Electro and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 30 Oct 2026.
 
-Egyptian Lover is an electro and house artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside DJ Godfather, FREAKENSTEIN and Binh. Next up: Peti Kupe, Zagreb on Fri 30 Oct.
+Egyptian Lover is an electro and house artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside DJ Godfather, FREAKENSTEIN and Binh. Next up: Peti Kupe, Zagreb on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Egyptian Lover is an electro and house artist based in United States of America,
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Peti Kupe | Zagreb |
 | Sat, 31 Oct 2026 | Ironworks | London |
+| Sat, 31 Oct 2026 | Sawmills | Bristol |
 | Fri, 6 Nov 2026 | Razzmatazz | Barcelona |
 | Sat, 7 Nov 2026 | Spook Club | Valencia |
 | Sun, 8 Nov 2026 | Lula Club | Madrid |
@@ -19,7 +20,6 @@ Egyptian Lover is an electro and house artist based in United States of America,
 | Thu, 18 Feb 2027 | The Art School | Glasgow |
 | Sat, 20 Feb 2027 | The Wardrobe | Leeds |
 | Sat, 6 Mar 2027 | The Cause | London |
-| Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Egyptian Lover is an electro and house artist based in United States of America,
 
 DJ Godfather, FREAKENSTEIN, Binh
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*

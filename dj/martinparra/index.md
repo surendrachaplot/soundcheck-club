@@ -1,6 +1,6 @@
 # Martin Parra
 
-Martin Parra is a Latin Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - DIABLO SECRET CLUB , Mexico City on Sat, 31 Oct 2026.
+Martin Parra is a Latin Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - DIABLO SECRET CLUB , Mexico City on Sat, 31 Oct 2026.
 
 Martin Parra is a latin bass and house artist based in Mexico, with 17 gigs on soundcheck across Mexico City. Often billed alongside Diego Walle, Disco 86 and Ricxrdi. Next up: TBA - DIABLO SECRET CLUB , Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Martin Parra is a latin bass and house artist based in Mexico, with 17 gigs on s
 
 Diego Walle, Disco 86, Ricxrdi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinparra/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinparra/)*

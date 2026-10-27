@@ -1,6 +1,6 @@
 # Scacco
 
-Scacco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 20 Nov 2026.
+Scacco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 20 Nov 2026.
 
 Scacco is a techno and house artist based in Italy, with 19 gigs on soundcheck across Barcelona, Buenos Aires, Hanoi and Ibiza and 7 more. Often billed alongside tINI, Boyoon and Gabbs. Next up: Studio Club Malaga, Malaga on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Scacco is a techno and house artist based in Italy, with 19 gigs on soundcheck a
 
 tINI, Boyoon, Gabbs
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scacco-it/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scacco-it/)*

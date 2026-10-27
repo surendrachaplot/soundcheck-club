@@ -1,8 +1,8 @@
 # TiTi
 
-TiTi is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Art School, Glasgow on Fri, 30 Oct 2026.
+TiTi is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Art School, Glasgow on Fri, 30 Oct 2026.
 
-TiTi is a techno and industrial artist based in China, with 25 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 11 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: The Art School, Glasgow on Fri 30 Oct.
+TiTi is a techno and hardcore artist based in China, with 26 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 12 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: The Art School, Glasgow on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ TiTi is a techno and industrial artist based in China, with 25 gigs on soundchec
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Sat, 19 Dec 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Fri, 1 Jan 2027 | Hidden | Manchester |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ TiTi is a techno and industrial artist based in China, with 25 gigs on soundchec
 
 BLNK, LIEKS, BØĘRY
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*

@@ -1,6 +1,6 @@
 # NELLIE
 
-NELLIE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at John Doe, Amsterdam on Wed, 28 Oct 2026.
+NELLIE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at John Doe, Amsterdam on Wed, 28 Oct 2026.
 
 NELLIE is a techno and industrial artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Dallas/Fort Worth, Rotterdam and Stockholm. Often billed alongside Djaygo T, Paroxyzm and ARINI. Next up: John Doe, Amsterdam on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ NELLIE is a techno and industrial artist based in Netherlands, with 12 gigs on s
 
 Djaygo T, Paroxyzm, ARINI
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nellie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nellie/)*

@@ -1,6 +1,6 @@
 # SCRJ
 
-SCRJ is a Experimental and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Greyhound, London on Sun, 1 Nov 2026.
+SCRJ is a Experimental and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Greyhound, London on Sun, 1 Nov 2026.
 
 SCRJ is an experimental and garage artist, with 6 gigs on soundcheck across London. Often billed alongside DJ Sertraline, Bearcub! and CICELY. Next up: The Greyhound, London on Sun 1 Nov.
 
@@ -22,4 +22,4 @@ SCRJ is an experimental and garage artist, with 6 gigs on soundcheck across Lond
 
 DJ Sertraline, Bearcub!, CICELY
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scrj/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scrj/)*

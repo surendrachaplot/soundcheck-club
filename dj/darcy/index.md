@@ -1,6 +1,6 @@
 # Darcy
 
-Darcy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
+Darcy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
 
 Darcy is a techno and house artist based in China, with 47 gigs on soundcheck across Beijing, Bristol, London and Shanghai. Often billed alongside Paradice Sinema, Night Swimmer and manju. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Darcy is a techno and house artist based in China, with 47 gigs on soundcheck ac
 
 Paradice Sinema, Night Swimmer, manju
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darcy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darcy/)*

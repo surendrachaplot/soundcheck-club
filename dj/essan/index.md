@@ -1,6 +1,6 @@
 # Essan
 
-Essan is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Laboratorio Octogon, Madrid on Fri, 6 Nov 2026.
+Essan is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Laboratorio Octogon, Madrid on Fri, 6 Nov 2026.
 
 Essan is a techno and industrial artist, with 10 gigs on soundcheck across Barcelona, Madrid and North. Often billed alongside Nuke, ALT8 and Abraxas. Next up: Laboratorio Octogon, Madrid on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Essan is a techno and industrial artist, with 10 gigs on soundcheck across Barce
 
 Nuke, ALT8, Abraxas
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essan/)*

@@ -1,6 +1,6 @@
 # Manning Bar
 
-Manning Bar is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Glass House: Powered by Screamfest" on Sat, 31 Oct 2026.
+Manning Bar is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Glass House: Powered by Screamfest" on Sat, 31 Oct 2026.
 
 Manning Bar is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including ANNĒ, DOREY, KE-YEN and Honey Dijon and 2 more. See dates, start times and who's playing. Manning Rd; University of Sydney, NSW 2006; Australia.
 
@@ -16,4 +16,4 @@ Manning Bar is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, wi
 
 Manning Rd; University of Sydney, NSW 2006; Australia, Sydney
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/manning-bar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/manning-bar/)*

@@ -1,8 +1,8 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "La Paloma presents: Soichi Terada + Jennifer Loveless + Pau Roca" on Fri, 30 Oct 2026.
+La Paloma is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "La Paloma presents: Soichi Terada + Jennifer Loveless + Pau Roca" on Fri, 30 Oct 2026.
 
-La Paloma is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Colleen 'Cosmo' Murphy, Deckard, Jennifer Loveless and Kirollus and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
+La Paloma is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Colleen 'Cosmo' Murphy, Deckard, Egyptian Greyhound and Jennifer Loveless and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
 ## What's on
 
@@ -10,7 +10,7 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | La Paloma presents: Soichi Terada + Jennifer Loveless + Pau Roca | Jennifer Loveless, Pau Roca, Soichi Terada |
 | Sat, 31 Oct 2026 | Halloween Special: Kirollus 'All Night Long' | Kirollus |
-| Fri, 6 Nov 2026 | La Paloma meets AMEBA |  |
+| Fri, 6 Nov 2026 | La Paloma meets AMEBA: Marcello Giordani b2b Egyptian Greyhound + Momasé + Spacer | Egyptian Greyhound, Marcello Giordani, Momasé, Spacer |
 | Sat, 7 Nov 2026 | Poly-Rythmo Club: Colleen 'Cosmo' Murphy + Deckard + Sonido Tupinamba | Colleen 'Cosmo' Murphy, Deckard, Sonido Tupinamba |
 | Fri, 13 Nov 2026 | POLENTA |  |
 
@@ -18,4 +18,4 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, w
 
 Calle Tigre 27, 08001 Barcelona, Barcelona
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*

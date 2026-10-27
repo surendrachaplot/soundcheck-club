@@ -1,6 +1,6 @@
 # Eli & Fur
 
-Eli & Fur is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
+Eli & Fur is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
 
 Eli & Fur are a house and progressive house duo based in United Kingdom, with 131 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 42 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Eli & Fur are a house and progressive house duo based in United Kingdom, with 13
 
 Jody Wisternoff, CRi, Marsh
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*

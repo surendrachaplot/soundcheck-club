@@ -1,6 +1,6 @@
 # CEEE
 
-CEEE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sensorium, Berlin on Wed, 28 Oct 2026.
+CEEE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sensorium, Berlin on Wed, 28 Oct 2026.
 
 CEEE is a house and techno artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside Kijara, Anne-Sophie Selig and Danny Subsonic. Next up: Sensorium, Berlin on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ CEEE is a house and techno artist based in Germany, with 19 gigs on soundcheck a
 
 Kijara, Anne-Sophie Selig, Danny Subsonic
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceee/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceee/)*

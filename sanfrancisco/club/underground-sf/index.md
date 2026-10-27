@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬" on Fri, 30 Oct 2026.
+Underground SF is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬" on Fri, 30 Oct 2026.
 
 Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including 2dahlia, 480P (US), 9-System and ALICE STRIBLING and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -23,4 +23,4 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

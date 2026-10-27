@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Boris Coelman, De Sluwe Vos, Merel Helderman" on Fri, 30 Oct 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Boris Coelman, De Sluwe Vos, Merel Helderman" on Fri, 30 Oct 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including A'DAM, A For Alpha, Alec Dienaar and Andrea Oliva and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 10 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

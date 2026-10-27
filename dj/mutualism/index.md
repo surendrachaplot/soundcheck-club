@@ -1,6 +1,6 @@
 # Mutualism
 
-Mutualism is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location , Denver on Fri, 30 Oct 2026.
+Mutualism is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location , Denver on Fri, 30 Oct 2026.
 
 Mutualism is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Atlanta, Austin, Baltimore and Barcelona and 16 more. Often billed alongside SPRKLBB, Mutualism (DE) and Baronhawk Poitier. Next up: TBA - Secret Location , Denver on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mutualism is a house and techno artist based in United States of America, with 6
 
 SPRKLBB, Mutualism (DE), Baronhawk Poitier
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*

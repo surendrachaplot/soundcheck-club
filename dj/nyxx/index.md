@@ -1,6 +1,6 @@
 # Nyxx
 
-Nyxx is a Industrial and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Forestlimit, Tokyo on Sat, 31 Oct 2026.
+Nyxx is a Industrial and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Forestlimit, Tokyo on Sat, 31 Oct 2026.
 
 Nyxx is an industrial and trance artist based in Spain, with 5 gigs on soundcheck across Barcelona and Tokyo. Often billed alongside DREYA, Ana Sclifos and BLONDEX. Next up: Forestlimit, Tokyo on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Nyxx is an industrial and trance artist based in Spain, with 5 gigs on soundchec
 
 DREYA, Ana Sclifos, BLONDEX
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxx/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxx/)*

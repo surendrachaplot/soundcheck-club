@@ -1,8 +1,8 @@
 # Tasha
 
-Tasha is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Mia Mao, Paris on Sat, 31 Oct 2026.
+Tasha is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mia Mao, Paris on Sat, 31 Oct 2026.
 
-Tasha is a techno and house artist based in United Kingdom, with 207 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Blasha & Allatt, Steffi and DVS1. Next up: Mia Mao, Paris on Sat 31 Oct.
+Tasha is a techno and house artist based in United Kingdom, with 208 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Blasha & Allatt, Steffi and DVS1. Next up: Mia Mao, Paris on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Tasha is a techno and house artist based in United Kingdom, with 207 gigs on sou
 | Sat, 14 Nov 2026 | Open Ground | Wuppertal |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 4 Dec 2026 | Hidden | Manchester |
+| Sat, 12 Dec 2026 | Gewölbe | Cologne |
 | Sat, 6 Mar 2027 | The Cause | London |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
@@ -31,4 +32,4 @@ Tasha is a techno and house artist based in United Kingdom, with 207 gigs on sou
 
 Blasha & Allatt, Steffi, DVS1
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*

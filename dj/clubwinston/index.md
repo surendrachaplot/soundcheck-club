@@ -1,6 +1,6 @@
 # Club Winston
 
-Club Winston is a House and New Wave artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Somerville, London on Sat, 31 Oct 2026.
+Club Winston is a House and New Wave artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Somerville, London on Sat, 31 Oct 2026.
 
 Club Winston is a house and new wave artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, London, Manchester and Osaka and 1 more. Often billed alongside MLE (UK), Maximum Haze and Angelita. Next up: The Somerville, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Club Winston is a house and new wave artist based in United Kingdom, with 11 gig
 
 MLE (UK), Maximum Haze, Angelita
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubwinston/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubwinston/)*

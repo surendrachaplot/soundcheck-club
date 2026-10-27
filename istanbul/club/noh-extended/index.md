@@ -1,13 +1,14 @@
 # NOH Extended
 
-NOH Extended is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Eddie Dark" on Fri, 23 Oct 2026.
+NOH Extended is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Noh Extended: Halloween with Franz & Shape" on Sat, 31 Oct 2026.
 
-NOH Extended is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Anymodal. See dates, start times and who's playing.
+NOH Extended is a music venue in Istanbul listed on soundcheck. 2 upcoming gigs, with line-ups including Arnaud Rebotini, Diana Benda, Ece Özel and Franz & Shape and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Eddie Dark | Anymodal |
+| Sat, 31 Oct 2026 | Noh Extended: Halloween with Franz & Shape | Diana Benda, Franz & Shape, XMRXLLXH |
+| Fri, 27 Nov 2026 | Noh Extended: Arnaud Rebotini | Arnaud Rebotini, Ece Özel, Marina Bibik |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/noh-extended/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/noh-extended/)*

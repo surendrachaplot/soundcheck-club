@@ -1,6 +1,6 @@
 # Ciało
 
-Ciało is a music venue in Wroclaw with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Ciało: Skin On Skin" on Fri, 30 Oct 2026.
+Ciało is a music venue in Wroclaw with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Ciało: Skin On Skin" on Fri, 30 Oct 2026.
 
 Ciało is a music venue in Wroclaw listed on soundcheck. 6 upcoming gigs, with line-ups including Alignment, dadan karambolo, Dave Clarke and Dizzy (PL) and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
 
@@ -19,4 +19,4 @@ Ciało is a music venue in Wroclaw listed on soundcheck. 6 upcoming gigs, with l
 
 Joannitów 13, 50-086 Wrocław, Wroclaw
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*

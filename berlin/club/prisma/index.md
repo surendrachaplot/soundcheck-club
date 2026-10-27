@@ -1,6 +1,6 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Klubkneipe x Tuesday Ritual - Tattoo Flash Day" on Tue, 27 Oct 2026.
+Prisma is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Klubkneipe x Tuesday Ritual - Tattoo Flash Day" on Tue, 27 Oct 2026.
 
 Prisma is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Ankit, Benua, Carl Conrad and Charlotte Lion and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
@@ -23,4 +23,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with l
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

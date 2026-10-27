@@ -1,6 +1,6 @@
 # Sonar Soul
 
-Sonar Soul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
+Sonar Soul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
 
 Sonar Soul is a house and techno artist, with 5 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Edvvin, Kuriozum and Claude Degas. Next up: Luzztro, Warsaw on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Sonar Soul is a house and techno artist, with 5 gigs on soundcheck across Krakow
 
 Edvvin, Kuriozum, Claude Degas
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonarsoul/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonarsoul/)*

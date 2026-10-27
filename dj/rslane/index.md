@@ -1,6 +1,6 @@
 # Rslane
 
-Rslane is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Rslane is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Rslane is a minimal and house artist, with 5 gigs on soundcheck across Barcelona, Geneva and Tunisia. Often billed alongside Adema, Alex (ES) and Alexander Skancke. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -21,4 +21,4 @@ Rslane is a minimal and house artist, with 5 gigs on soundcheck across Barcelona
 
 Adema, Alex (ES), Alexander Skancke
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rslane/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rslane/)*

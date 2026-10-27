@@ -1,6 +1,6 @@
 # Trigger T
 
-Trigger T is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
+Trigger T is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
 
 Trigger T is a club and house artist based in Germany, with 11 gigs on soundcheck across Berlin and Cologne. Often billed alongside Haus of Ralph, Kontronatura and Meg10. Next up: KREUZWERK, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Trigger T is a club and house artist based in Germany, with 11 gigs on soundchec
 
 Haus of Ralph, Kontronatura, Meg10
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triggert/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triggert/)*

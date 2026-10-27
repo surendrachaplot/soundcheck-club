@@ -1,6 +1,6 @@
 # Credit 00
 
-Credit 00 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bike Jesus, Prague on Fri, 20 Nov 2026.
+Credit 00 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bike Jesus, Prague on Fri, 20 Nov 2026.
 
 Credit 00 is an electro and techno artist, with 33 gigs on soundcheck across Barcelona, Belgrade, Berlin and Dortmund / Essen and 8 more. Often billed alongside ElectroDon, Milan Hermess and Carl Suspect. Next up: Bike Jesus, Prague on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Credit 00 is an electro and techno artist, with 33 gigs on soundcheck across Bar
 
 ElectroDon, Milan Hermess, Carl Suspect
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/credit00/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/credit00/)*

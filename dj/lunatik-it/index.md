@@ -1,6 +1,6 @@
 # Lunatik
 
-Lunatik is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Electronic Music Division , Rome on Wed, 28 Oct 2026.
+Lunatik is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Electronic Music Division , Rome on Wed, 28 Oct 2026.
 
 Lunatik is a techno and electronica artist based in Italy, with 21 gigs on soundcheck across Berlin, Naples, Osaka and Rome and 1 more. Often billed alongside Giorgio Gigli, Key Clef and D-Leria. Next up: TBA - Electronic Music Division , Rome on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Lunatik is a techno and electronica artist based in Italy, with 21 gigs on sound
 
 Giorgio Gigli, Key Clef, D-Leria
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatik-it/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatik-it/)*

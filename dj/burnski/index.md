@@ -1,6 +1,6 @@
 # Burnski
 
-Burnski is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
+Burnski is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
 
 Burnski is a house and garage artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 15 more. Often billed alongside Kepler, Sidney Charles and Dennis Quin. Next up: TBA - Secret Location, London on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Burnski is a house and garage artist based in United Kingdom, with 69 gigs on so
 
 Kepler, Sidney Charles, Dennis Quin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

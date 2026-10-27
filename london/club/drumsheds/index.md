@@ -1,6 +1,6 @@
 # DRUMSHEDS
 
-DRUMSHEDS is a music venue in London with 14 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "elrow Horroween Festival with MK, LB aka LABAT, Sarah Story" on Sat, 31 Oct 2026.
+DRUMSHEDS is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "elrow Horroween Festival with MK, LB aka LABAT, Sarah Story" on Sat, 31 Oct 2026.
 
 DRUMSHEDS is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Kepler, AAT (NL), ADMNTi and Adrian Mills and 2 more. See dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
 
@@ -23,4 +23,4 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 14 upcoming gigs, wit
 
 6 Glover Drive, Edmonton, London, N18 3HF, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*

@@ -1,6 +1,6 @@
 # TBA - Brooklyn
 
-TBA - Brooklyn is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "MERGE HALLOWEEN" on Fri, 30 Oct 2026.
+TBA - Brooklyn is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "MERGE HALLOWEEN" on Fri, 30 Oct 2026.
 
 TBA - Brooklyn is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Annie Lew, Dee Diggs, Fadi Mohem and Honey Bun and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - Brooklyn is a music venue in New York City listed on soundcheck. 4 upcomin
 | Sun, 1 Nov 2026 | bumpy! | Dee Diggs, Fadi Mohem, Narciss, S'aint Panic, Will Automagic |
 | Sun, 1 Nov 2026 | CHXRCH - Halloween Afters | KRIS T0PH3R |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*

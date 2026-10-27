@@ -1,8 +1,8 @@
 # DJ Himitsu
 
-DJ Himitsu is a Ambient and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Cellar, London on Sat, 31 Oct 2026.
+DJ Himitsu is a Ambient and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Cellar, London on Sat, 31 Oct 2026.
 
-DJ Himitsu is an ambient and house artist, with 14 gigs on soundcheck across Berlin, London and Tokyo. Often billed alongside Pete Spara, Alfaz and thomyorko. Next up: Cellar, London on Sat 31 Oct.
+DJ Himitsu is an ambient and house artist based in Japan, with 14 gigs on soundcheck across Berlin, London and Tokyo. Often billed alongside Pete Spara, Alfaz and thomyorko. Next up: Cellar, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ DJ Himitsu is an ambient and house artist, with 14 gigs on soundcheck across Ber
 
 Pete Spara, Alfaz, thomyorko
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhimitsu/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhimitsu/)*

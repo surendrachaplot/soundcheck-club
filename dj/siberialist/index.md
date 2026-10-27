@@ -1,6 +1,6 @@
 # Siberialist
 
-Siberialist is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
+Siberialist is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
 
 Siberialist is a bass and techno artist, with 8 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside DiV4, Donija and MIFI77. Next up: OCZKI, Warsaw on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Siberialist is a bass and techno artist, with 8 gigs on soundcheck across Krakow
 
 DiV4, Donija, MIFI77
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siberialist/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siberialist/)*

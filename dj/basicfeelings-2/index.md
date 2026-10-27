@@ -1,6 +1,6 @@
 # Basic Feelings (2)
 
-Basic Feelings (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lavallée, Brussels on Thu, 19 Nov 2026.
+Basic Feelings (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lavallée, Brussels on Thu, 19 Nov 2026.
 
 Basic Feelings is a techno artist based in Belgium, with 14 gigs on soundcheck across Brussels. Often billed alongside A. Brehme, Hank (Be) and Kappen. Next up: Lavallée, Brussels on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Basic Feelings is a techno artist based in Belgium, with 14 gigs on soundcheck a
 
 A. Brehme, Hank (Be), Kappen
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicfeelings-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicfeelings-2/)*

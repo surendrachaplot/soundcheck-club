@@ -1,6 +1,6 @@
 # WYS¿ presents MARA BRAVO at Kowalski
 
-WYS¿ presents MARA BRAVO at Kowalski on Fri 13 Nov, Stuttgart. 5 artists: Adam Port, Âme, CamelPhat and MARA BRAVO and 1 more. Afro House and Afro Tech. See the line-up on soundcheck.
+WYS¿ presents MARA BRAVO at Kowalski on Fri 13 Nov, Stuttgart. 2 artists: MARA BRAVO and Téodoro. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,6 @@ WYS¿ presents MARA BRAVO at Kowalski on Fri 13 Nov, Stuttgart. 5 artists: Adam 
 
 ## Line-up
 
-- Adam Port
-- Âme
-- CamelPhat
 - MARA BRAVO
 - Téodoro
 

@@ -1,6 +1,6 @@
 # RAYBAY
 
-RAYBAY is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
+RAYBAY is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
 
 RAYBAY is a drum & bass and jungle artist based in United Kingdom, with 21 gigs on soundcheck across Bristol and Leeds. Often billed alongside Demetria, Burt Cope and Amelia Leigh. Next up: Beaver Works, Leeds on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ RAYBAY is a drum & bass and jungle artist based in United Kingdom, with 21 gigs 
 
 Demetria, Burt Cope, Amelia Leigh
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raybay/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raybay/)*

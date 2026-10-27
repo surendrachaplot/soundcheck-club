@@ -1,6 +1,6 @@
 # ISSA
 
-ISSA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Z Maruyama, Tokyo on Thu, 29 Oct 2026.
+ISSA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Z Maruyama, Tokyo on Thu, 29 Oct 2026.
 
 ISSA is a house and techno artist based in United States of America, with 38 gigs on soundcheck across Medellin, Okinawa, San Francisco/Oakland and Shanghai and 2 more. Often billed alongside r1ku, YUVIE and kengotaki. Next up: Z Maruyama, Tokyo on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ ISSA is a house and techno artist based in United States of America, with 38 gig
 
 r1ku, YUVIE, kengotaki
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/issa/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/issa/)*

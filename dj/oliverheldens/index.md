@@ -1,6 +1,6 @@
 # Oliver Heldens
 
-Oliver Heldens is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Oasis, Costanera, Buenos Aires on Fri, 30 Oct 2026.
+Oliver Heldens is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Oasis, Costanera, Buenos Aires on Fri, 30 Oct 2026.
 
 Oliver Heldens is a house and techno artist based in Netherlands, with 57 gigs on soundcheck across Amsterdam, Austin, Boston and Buenos Aires and 22 more. Often billed alongside HI-LO, Kaskade and Tiesto. Next up: TBA - Oasis, Costanera, Buenos Aires on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Oliver Heldens is a house and techno artist based in Netherlands, with 57 gigs o
 
 HI-LO, Kaskade, Tiesto
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*

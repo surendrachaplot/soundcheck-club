@@ -1,6 +1,6 @@
 # Commodo
 
-Commodo is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
+Commodo is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
 
 Commodo is a dubstep and bass artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 24 more. Often billed alongside Kahn, Amy Kisnorbo and Neffa-T. Next up: 26 Leake Street, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Commodo is a dubstep and bass artist based in United Kingdom, with 58 gigs on so
 
 Kahn, Amy Kisnorbo, Neffa-T
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/commodo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/commodo/)*

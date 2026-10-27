@@ -1,6 +1,6 @@
 # John Caffery
 
-John Caffery is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at St Anne's Parish Hall, Toronto on Sat, 31 Oct 2026.
+John Caffery is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at St Anne's Parish Hall, Toronto on Sat, 31 Oct 2026.
 
 John Caffery is a house and disco artist, with 10 gigs on soundcheck across Toronto. Often billed alongside Phillippe, Ace Dillinger and BEARCAT. Next up: St Anne's Parish Hall, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ John Caffery is a house and disco artist, with 10 gigs on soundcheck across Toro
 
 Phillippe, Ace Dillinger, BEARCAT
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johncaffery/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johncaffery/)*

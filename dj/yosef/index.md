@@ -1,6 +1,6 @@
 # Yosef
 
-Yosef is a Electronica and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at La Riviera, Madrid on Sat, 7 Nov 2026.
+Yosef is a Electronica and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at La Riviera, Madrid on Sat, 7 Nov 2026.
 
 Yosef is an electronica and baile funk artist based in Spain, with 52 gigs on soundcheck across Amsterdam, Bali, Barcelona and Ghent and 4 more. Often billed alongside Diego Armando, Maxvll and Sany Delitos. Next up: La Riviera, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Yosef is an electronica and baile funk artist based in Spain, with 52 gigs on so
 
 Diego Armando, Maxvll, Sany Delitos
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef/)*

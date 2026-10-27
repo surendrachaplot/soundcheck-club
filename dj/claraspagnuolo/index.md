@@ -1,6 +1,6 @@
 # Clara Spagnuolo
 
-Clara Spagnuolo is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Avant Garten, Buenos Aires on Tue, 17 Nov 2026.
+Clara Spagnuolo is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Avant Garten, Buenos Aires on Tue, 17 Nov 2026.
 
 Clara Spagnuolo is a techno and afro house artist based in Italy, with 6 gigs on soundcheck across Buenos Aires and Milan. Often billed alongside AIN'T GEORGE, BEPPE BRANDO and DJ Karen. Next up: Avant Garten, Buenos Aires on Tue 17 Nov.
 
@@ -22,4 +22,4 @@ Clara Spagnuolo is a techno and afro house artist based in Italy, with 6 gigs on
 
 AIN'T GEORGE, BEPPE BRANDO, DJ Karen
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claraspagnuolo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claraspagnuolo/)*

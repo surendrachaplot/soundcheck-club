@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Club Tineke Halloween - SISSI'S Amsterdam" on Fri, 30 Oct 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Club Tineke Halloween - SISSI'S Amsterdam" on Fri, 30 Oct 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Benny Rodrigues, Cameron Audio, Cas Tang and mika.collage and 2 more. See dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -21,4 +21,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 8 upcoming
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

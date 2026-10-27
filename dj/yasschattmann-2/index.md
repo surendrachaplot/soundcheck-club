@@ -1,6 +1,6 @@
 # YASS CHÄTTMANN
 
-YASS CHÄTTMANN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at OXI, Berlin on Tue, 24 Nov 2026.
+YASS CHÄTTMANN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at OXI, Berlin on Tue, 24 Nov 2026.
 
 YASS CHÄTTMANN is a techno and trance artist, with 10 gigs on soundcheck across Amsterdam, Berlin, Hannover and Leipzig and 1 more. Often billed alongside Kim Valmount, Pomah and RONNEX. Next up: OXI, Berlin on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ YASS CHÄTTMANN is a techno and trance artist, with 10 gigs on soundcheck across
 
 Kim Valmount, Pomah, RONNEX
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasschattmann-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasschattmann-2/)*

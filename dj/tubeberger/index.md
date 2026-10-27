@@ -1,6 +1,6 @@
 # Tube & Berger
 
-Tube & Berger is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Tube & Berger is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Tube & Berger are a house and tech house duo based in Germany, with 43 gigs on soundcheck across Amsterdam, Austria, Berlin and Cologne and 13 more. Often billed alongside Juliet Sikora, Felix Kröcher and Nick Schwenderling. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Tube & Berger are a house and tech house duo based in Germany, with 43 gigs on s
 
 Juliet Sikora, Felix Kröcher, Nick Schwenderling
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tubeberger/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tubeberger/)*

@@ -1,6 +1,6 @@
 # LVL1
 
-LVL1 is a Trance and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - LFO, Madrid on Fri, 13 Nov 2026.
+LVL1 is a Trance and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - LFO, Madrid on Fri, 13 Nov 2026.
 
 LVL1 is a trance and electronica artist based in Spain, with 21 gigs on soundcheck across Barcelona, Berlin, Madrid and New York City and 1 more. Often billed alongside DJ Final Boss, Presunta and FUKCNORMAL. Next up: TBA - LFO, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ LVL1 is a trance and electronica artist based in Spain, with 21 gigs on soundche
 
 DJ Final Boss, Presunta (2), FUKCNORMAL
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lvl1/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lvl1/)*

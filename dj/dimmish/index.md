@@ -1,6 +1,6 @@
 # Dimmish
 
-Dimmish is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
+Dimmish is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
 
 Dimmish is a tech house and house artist based in Italy, with 87 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bucharest and 24 more. Often billed alongside Stefano Noferini, ACA (YU) and ALISHA. Next up: Romaero - Baneasa, Bucharest on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Dimmish is a tech house and house artist based in Italy, with 87 gigs on soundch
 
 Stefano Noferini, ACA (YU), ALISHA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimmish/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimmish/)*

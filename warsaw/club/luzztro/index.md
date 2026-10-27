@@ -1,6 +1,6 @@
 # Luzztro
 
-Luzztro is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "EXPEDYCJA HALLOWEEN 2026 / Techno Expedition" on Sat, 31 Oct 2026.
+Luzztro is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "EXPEDYCJA HALLOWEEN 2026 / Techno Expedition" on Sat, 31 Oct 2026.
 
 Luzztro is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including Claude Degas, Daro, DJ POLKOMTEL and Drumaddition and 2 more. See dates, start times and who's playing. aleje Jerozolimskie 6, 00-374 Warszawa.
 
@@ -16,4 +16,4 @@ Luzztro is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with l
 
 aleje Jerozolimskie 6, 00-374 Warszawa, Warsaw
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/luzztro/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/luzztro/)*

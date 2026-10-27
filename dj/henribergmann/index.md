@@ -1,6 +1,6 @@
 # Henri Bergmann
 
-Henri Bergmann is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Onyx (E1), London on Fri, 30 Oct 2026.
+Henri Bergmann is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Onyx (E1), London on Fri, 30 Oct 2026.
 
 Henri Bergmann is a techno and house artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 41 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: Onyx (E1), London on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Henri Bergmann is a techno and house artist based in United Kingdom, with 111 gi
 
 Agents Of Time, Argy, Brina Knauss
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*

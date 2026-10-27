@@ -1,6 +1,6 @@
 # David Ghetto
 
-David Ghetto is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Círculo, Barcelona on Thu, 29 Oct 2026.
+David Ghetto is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Círculo, Barcelona on Thu, 29 Oct 2026.
 
 David Ghetto is a trance and techno artist, with 12 gigs on soundcheck across Barcelona, Berlin and Leipzig. Often billed alongside Richie Rollin, Scrappy Coco and Gigi Spears. Next up: Círculo, Barcelona on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ David Ghetto is a trance and techno artist, with 12 gigs on soundcheck across Ba
 
 Richie Rollin, Scrappy Coco, Gigi Spears
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidghetto/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidghetto/)*

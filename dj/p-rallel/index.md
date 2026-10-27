@@ -1,6 +1,6 @@
 # p-rallel
 
-p-rallel is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Phonox, London on Fri, 30 Oct 2026.
+p-rallel is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Phonox, London on Fri, 30 Oct 2026.
 
 p-rallel is a garage and house artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 23 more. Often billed alongside Casnova, Dr Dubplate and Special Request. Next up: Phonox, London on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ p-rallel is a garage and house artist based in United Kingdom, with 88 gigs on s
 
 Casnova, Dr Dubplate, Special Request
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p-rallel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p-rallel/)*

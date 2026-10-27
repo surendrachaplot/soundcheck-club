@@ -1,6 +1,6 @@
 # Lola Palmer
 
-Lola Palmer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at fabric, London on Sun, 1 Nov 2026.
+Lola Palmer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at fabric, London on Sun, 1 Nov 2026.
 
 Lola Palmer is a house and tech house artist based in Ukraine, with 71 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 26 more. Often billed alongside Traumer, Priku and Andrey Pushkarev. Next up: fabric, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Lola Palmer is a house and tech house artist based in Ukraine, with 71 gigs on s
 
 Traumer, Priku, Andrey Pushkarev
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolapalmer/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolapalmer/)*

@@ -1,6 +1,6 @@
 # Clarisa Kimskii
 
-Clarisa Kimskii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 30 Oct 2026.
+Clarisa Kimskii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 30 Oct 2026.
 
 Clarisa Kimskii is a techno and house artist based in United States of America, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: Société des arts technologiques, Montreal on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Clarisa Kimskii is a techno and house artist based in United States of America, 
 
 Ne/Re/A, Mike Servito, Wata Igarashi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*

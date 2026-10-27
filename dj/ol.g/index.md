@@ -1,6 +1,6 @@
 # Ol.G
 
-Ol.G is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The System, Sheffield on Fri, 13 Nov 2026.
+Ol.G is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The System, Sheffield on Fri, 13 Nov 2026.
 
 Ol.G is a techno and electro artist based in United Kingdom, with 5 gigs on soundcheck across North and Sheffield. Often billed alongside Joi L.F, Esmé and Porter Brook. Next up: The System, Sheffield on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Ol.G is a techno and electro artist based in United Kingdom, with 5 gigs on soun
 
 Joi L.F, Esmé, Porter Brook
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ol.g/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ol.g/)*

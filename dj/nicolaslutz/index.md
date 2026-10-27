@@ -1,6 +1,6 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Loft, Manchester on Fri, 30 Oct 2026.
+Nicolas Lutz is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Loft, Manchester on Fri, 30 Oct 2026.
 
 Nicolas Lutz is a techno and house artist based in Uruguay, with 185 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: The Loft, Manchester on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 185 gigs on sou
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

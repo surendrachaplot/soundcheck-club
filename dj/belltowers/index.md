@@ -1,6 +1,6 @@
 # Bell Towers
 
-Bell Towers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 30 Oct 2026.
+Bell Towers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 30 Oct 2026.
 
 Bell Towers is a house and techno artist based in Australia, with 41 gigs on soundcheck across Amsterdam, Bali, Berlin and Bucharest and 13 more. Often billed alongside David Fogarty, Sound Metaphors Djs and Public Possession. Next up: Klymax Discotheque, Bali on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Bell Towers is a house and techno artist based in Australia, with 41 gigs on sou
 
 David Fogarty, Sound Metaphors Djs, Public Possession
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belltowers/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belltowers/)*

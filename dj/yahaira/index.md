@@ -1,6 +1,6 @@
 # Yahaira
 
-Yahaira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Specka, Madrid on Sat, 14 Nov 2026.
+Yahaira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Specka, Madrid on Sat, 14 Nov 2026.
 
 Yahaira is a house and techno artist based in Spain, with 86 gigs on soundcheck across Barcelona, Berlin, Bogotá and Madrid and 4 more. Often billed alongside DIGUES, Certain People and David Ponziano. Next up: Specka, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yahaira is a house and techno artist based in Spain, with 86 gigs on soundcheck 
 
 DIGUES, Certain People, David Ponziano
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yahaira/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yahaira/)*

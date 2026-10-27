@@ -1,6 +1,6 @@
 # TECHNOVY
 
-TECHNOVY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
+TECHNOVY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
 
 TECHNOVY is a techno and house artist based in Poland, with 7 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Casper Weiss, Granatka and SYS.END. Next up: TBA - Secret Location (passed 2h before event), Warsaw on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ TECHNOVY is a techno and house artist based in Poland, with 7 gigs on soundcheck
 
 Casper Weiss, Granatka, SYS.END
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technovy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technovy/)*

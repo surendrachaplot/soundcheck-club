@@ -1,6 +1,6 @@
 # Syndrolin
 
-Syndrolin is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Spartacus Potsdam, Berlin on Fri, 6 Nov 2026.
+Syndrolin is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Spartacus Potsdam, Berlin on Fri, 6 Nov 2026.
 
 Syndrolin is a techno and experimental artist, with 7 gigs on soundcheck across Berlin. Often billed alongside Young-G, Denise Rabe and Rill. Next up: Spartacus Potsdam, Berlin on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Syndrolin is a techno and experimental artist, with 7 gigs on soundcheck across 
 
 Young-G, Denise Rabe, Rill
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syndrolin/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syndrolin/)*

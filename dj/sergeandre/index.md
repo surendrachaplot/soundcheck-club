@@ -1,6 +1,6 @@
 # Serge André
 
-Serge André is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Baalsaal, Hamburg on Sat, 7 Nov 2026.
+Serge André is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Baalsaal, Hamburg on Sat, 7 Nov 2026.
 
 Serge André is a techno and dub techno artist, with 6 gigs on soundcheck across Bogotá, Buenos Aires, Hamburg and Madrid and 1 more. Often billed alongside BLACK LYON, DJ TOOL and Deraout. Next up: Baalsaal, Hamburg on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Serge André is a techno and dub techno artist, with 6 gigs on soundcheck across
 
 BLACK LYON, DJ TOOL, Deraout
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergeandre/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergeandre/)*

@@ -1,6 +1,6 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Aurora Halal is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 Aurora Halal is a techno and house artist based in United States of America, with 246 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 62 more. Often billed alongside DJ Nobu, Ben UFO and Priori. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 
 DJ Nobu, Ben UFO, Priori
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

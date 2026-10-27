@@ -1,6 +1,6 @@
 # CTM Festival 2027: Modeselektor present »MDSLKTR and Guests« at Haus der Visionäre
 
-CTM Festival 2027: Modeselektor present »MDSLKTR and Guests« at Haus der Visionäre on Sun 24 Jan, Berlin. 3 artists: Gudrun Gut, Kabeaushé and Modeselektor. See the line-up on soundcheck.
+CTM Festival 2027: Modeselektor present »MDSLKTR and Guests« at Haus der Visionäre on Sun 24 Jan, Berlin. 3 artists: Gudrun Gut, Kabeaushé and Modeselektor. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

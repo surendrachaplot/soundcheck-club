@@ -1,6 +1,6 @@
 # Arch 14
 
-Arch 14 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Frogwork and Friends: Halloween Special" on Fri, 30 Oct 2026.
+Arch 14 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Frogwork and Friends: Halloween Special" on Fri, 30 Oct 2026.
 
 Arch 14 is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including ___Maya, A Hard Day's Dance, Bengoa and Fannoire Ge and 2 more. See dates, start times and who's playing. 14 Bohemia Place, Hackney, London, E8 1DU.
 
@@ -17,4 +17,4 @@ Arch 14 is a music venue in London listed on soundcheck. 4 upcoming gigs, with l
 
 14 Bohemia Place, Hackney, London, E8 1DU, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-14/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-14/)*

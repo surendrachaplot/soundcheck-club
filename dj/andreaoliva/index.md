@@ -1,6 +1,6 @@
 # Andrea Oliva
 
-Andrea Oliva is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at KOKO, London on Fri, 13 Nov 2026.
+Andrea Oliva is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at KOKO, London on Fri, 13 Nov 2026.
 
 Andrea Oliva is a tech house and house artist based in Switzerland, with 219 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 34 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: KOKO, London on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Andrea Oliva is a tech house and house artist based in Switzerland, with 219 gig
 
 Raul Rodriguez, Nic Fanciulli, ARODES
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*

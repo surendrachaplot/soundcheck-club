@@ -1,6 +1,6 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 84 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Manic Monday feat Sebastian Rebig & George P" on Mon, 26 Oct 2026.
+Minimal Bar is a music venue in Berlin with 84 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Go.Play with Fineberg" on Tue, 27 Oct 2026.
 
 Minimal Bar is a music venue in Berlin listed on soundcheck. 84 upcoming gigs, with line-ups including Beshy, Danilo Schneider, DAZA and Eric Heydenfeld and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
@@ -8,7 +8,6 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 84 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | Manic Monday feat Sebastian Rebig & George P | George P., Sebastian Rebig |
 | Tue, 27 Oct 2026 | Go.Play with Fineberg |  |
 | Wed, 28 Oct 2026 | Mittendrin with Ian Fog |  |
 | Thu, 29 Oct 2026 | electronic.thursday mit Pablo Cornejo (Chile) | Pablo Cornejo |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 84 upcoming gigs, w
 | Mon, 2 Nov 2026 | manic.monday mit Saudade | Saudade (1) |
 | Tue, 3 Nov 2026 | go.play mit Gazztel |  |
 | Wed, 4 Nov 2026 | mittendrin mit zerka | zerka |
+| Thu, 5 Nov 2026 | electronic.thursday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

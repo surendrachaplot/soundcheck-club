@@ -1,6 +1,6 @@
 # Vivian Li
 
-Vivian Li is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at White Wall Studio, Montreal on Sat, 28 Nov 2026.
+Vivian Li is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at White Wall Studio, Montreal on Sat, 28 Nov 2026.
 
 Vivian Li is an ambient and downtempo artist based in Canada, with 5 gigs on soundcheck across Montreal. Often billed alongside ArtSaves, Matthew Herbert and 16:9 ratio. Next up: White Wall Studio, Montreal on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Vivian Li is an ambient and downtempo artist based in Canada, with 5 gigs on sou
 
 ArtSaves, Matthew Herbert, 16:9 ratio
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianli/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianli/)*

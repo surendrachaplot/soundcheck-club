@@ -1,6 +1,6 @@
 # Bejenec
 
-Bejenec is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret location in Bairro Alto, Lisbon on Fri, 6 Nov 2026.
+Bejenec is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret location in Bairro Alto, Lisbon on Fri, 6 Nov 2026.
 
 Bejenec is a techno and electro artist, with 33 gigs on soundcheck across Barcelona, Berlin, Krakow and Lisbon and 6 more. Often billed alongside Koloah, MarsattacX and Pledov. Next up: TBA - Secret location in Bairro Alto, Lisbon on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bejenec is a techno and electro artist, with 33 gigs on soundcheck across Barcel
 
 Koloah, MarsattacX, Pledov
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bejenec/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bejenec/)*

@@ -1,6 +1,6 @@
 # Final
 
-Final is a music venue in Taipei with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "酷趴踢𝗤𝗼𝗼𝗣𝗮：尾巴小姐 𝗟𝗮𝗱𝘆 𝗪𝗶𝘁𝗵 𝗔 𝗧𝗮𝗶𝗹" on Fri, 30 Oct 2026.
+Final is a music venue in Taipei with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "酷趴踢𝗤𝗼𝗼𝗣𝗮：尾巴小姐 𝗟𝗮𝗱𝘆 𝗪𝗶𝘁𝗵 𝗔 𝗧𝗮𝗶𝗹" on Fri, 30 Oct 2026.
 
 Final is a music venue in Taipei listed on soundcheck. 9 upcoming gigs, with line-ups including Animistic Beliefs, Async Figure, Batu and Chippy Nonstop and 2 more. See dates, start times and who's playing. 10666, Taiwan, Taipei City, Da’an District, Section 1, Fuxing South Road, 249號號地下一樓.
 
@@ -22,4 +22,4 @@ Final is a music venue in Taipei listed on soundcheck. 9 upcoming gigs, with lin
 
 10666, Taiwan, Taipei City, Da’an District, Section 1, Fuxing South Road, 249號號地下一樓, Taipei
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/final/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/final/)*

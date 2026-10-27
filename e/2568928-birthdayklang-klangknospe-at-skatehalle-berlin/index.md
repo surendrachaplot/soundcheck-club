@@ -1,6 +1,6 @@
 # BirthdayKlang - KlangKnospe at Skatehalle Berlin
 
-BirthdayKlang - KlangKnospe at Skatehalle Berlin on Fri 6 Nov, Berlin. 1 artist: Flohmarkt. Techno. See the line-up on soundcheck.
+BirthdayKlang - KlangKnospe at Skatehalle Berlin on Fri 6 Nov, Berlin. 8 artists: Bobaz Lobster, e.leptic, Flohmarkt and jeanska and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,13 @@ BirthdayKlang - KlangKnospe at Skatehalle Berlin on Fri 6 Nov, Berlin. 1 artist:
 
 ## Line-up
 
+- Bobaz Lobster
+- e.leptic
 - Flohmarkt
+- jeanska
+- MEKER
+- MILANCHOLIE
+- STURM
+- TIZIANO
 
 *Source: [soundcheck](https://soundcheck.club/e/2568928-birthdayklang-klangknospe-at-skatehalle-berlin/)*

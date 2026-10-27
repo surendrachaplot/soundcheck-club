@@ -1,6 +1,6 @@
 # WAGS
 
-WAGS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Taco Kat, Orlando on Sat, 31 Oct 2026.
+WAGS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Taco Kat, Orlando on Sat, 31 Oct 2026.
 
 WAGS is a tech house and house artist, with 6 gigs on soundcheck across Chicago, Miami, New York City and Orlando. Often billed alongside GAWP, Blaze Orange and Gettoblaster. Next up: Taco Kat, Orlando on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ WAGS is a tech house and house artist, with 6 gigs on soundcheck across Chicago,
 
 GAWP, Blaze Orange, Gettoblaster
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wags/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wags/)*

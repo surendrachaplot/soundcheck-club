@@ -1,6 +1,6 @@
 # TBA - Villa Goya
 
-TBA - Villa Goya is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Lost Boys - CASA GOYA - TORINO 30.10" on Fri, 30 Oct 2026.
+TBA - Villa Goya is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Lost Boys - CASA GOYA - TORINO 30.10" on Fri, 30 Oct 2026.
 
 TBA - Villa Goya is a music venue in Turin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Villa Goya is a music venue in Turin listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Lost Boys - CASA GOYA - TORINO 30.10 |  |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/tba-villa-goya/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/tba-villa-goya/)*

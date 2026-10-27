@@ -1,6 +1,6 @@
 # JADA MORAES
 
-JADA MORAES is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 30 Oct 2026.
+JADA MORAES is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 30 Oct 2026.
 
 JADA MORAES is a house and techno artist based in Germany, with 192 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 15 more. Often billed alongside DJ Soulscape, SKiiDA and ANDOW. Next up: Tokonoma Club, Frankfurt on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ JADA MORAES is a house and techno artist based in Germany, with 192 gigs on soun
 
 DJ Soulscape, SKiiDA, ANDOW
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadamoraes/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadamoraes/)*

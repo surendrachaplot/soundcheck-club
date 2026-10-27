@@ -1,6 +1,6 @@
 # PROXYMA
 
-PROXYMA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mia Mao, Paris on Thu, 19 Nov 2026.
+PROXYMA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mia Mao, Paris on Thu, 19 Nov 2026.
 
 PROXYMA is a techno and trance artist based in France, with 19 gigs on soundcheck across Cologne, Geneva, Madrid and Melbourne and 3 more. Often billed alongside Industry 43, LEY MAR and MEYEM. Next up: Mia Mao, Paris on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ PROXYMA is a techno and trance artist based in France, with 19 gigs on soundchec
 
 Industry 43, LEY MAR (2), MEYEM
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proxyma/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proxyma/)*

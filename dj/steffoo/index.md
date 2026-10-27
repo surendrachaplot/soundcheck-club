@@ -1,6 +1,6 @@
 # STEFFOO
 
-STEFFOO is a Afro House and Gqom artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Monarch, Berlin on Fri, 6 Nov 2026.
+STEFFOO is a Afro House and Gqom artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Monarch, Berlin on Fri, 6 Nov 2026.
 
 STEFFOO is an afro house and gqom artist, with 14 gigs on soundcheck across Berlin. Often billed alongside hero, Helina and Stimulus. Next up: Monarch, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ STEFFOO is an afro house and gqom artist, with 14 gigs on soundcheck across Berl
 
 hero, Helina, Stimulus
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steffoo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steffoo/)*

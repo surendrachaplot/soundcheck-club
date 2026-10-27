@@ -1,8 +1,8 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 30 Oct 2026.
+Lauren Flax is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 30 Oct 2026.
 
-Lauren Flax is a techno and house artist based in United States of America, with 185 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Birmingham and 23 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: The Dolphin, Philadelphia on Fri 30 Oct.
+Lauren Flax is a techno and house artist based in United States of America, with 186 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Birmingham and 23 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: The Dolphin, Philadelphia on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lauren Flax is a techno and house artist based in United States of America, with
 | Fri, 30 Oct 2026 | The Dolphin | Philadelphia |
 | Fri, 6 Nov 2026 | The Cause | London |
 | Sat, 7 Nov 2026 | Tresor / Globus | Berlin |
+| Sat, 21 Nov 2026 | TBA - 1 INGRAHAM ST | New York City |
 | Sat, 28 Nov 2026 | Signal | New York City |
 
 ## Recently played
@@ -28,4 +29,4 @@ Lauren Flax is a techno and house artist based in United States of America, with
 
 Mike Servito, Shaun J. Wright, Justin Cudmore
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*

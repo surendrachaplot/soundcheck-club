@@ -1,6 +1,6 @@
 # DJ AYA
 
-DJ AYA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Coco Boule, Berlin on Thu, 29 Oct 2026.
+DJ AYA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Coco Boule, Berlin on Thu, 29 Oct 2026.
 
 DJ AYA is a techno and house artist based in Switzerland, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside DJ Fuckoff, DJ Gigola and Aaron Blau. Next up: Coco Boule, Berlin on Thu 29 Oct.
 
@@ -29,4 +29,4 @@ DJ AYA is a techno and house artist based in Switzerland, with 197 gigs on sound
 
 DJ Fuckoff, DJ Gigola, Aaron Blau
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*

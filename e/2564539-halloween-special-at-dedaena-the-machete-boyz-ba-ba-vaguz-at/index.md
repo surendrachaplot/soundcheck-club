@@ -1,6 +1,6 @@
 # HALLOWEEN SPECIAL AT DEDAENA: The Machete Boyz, Ba Ba, Vaguz at Dedaena Bar
 
-HALLOWEEN SPECIAL AT DEDAENA: The Machete Boyz, Ba Ba, Vaguz at Dedaena Bar on Fri 30 Oct, Tbilisi. 1 artist: The Machete Boyz. Drum & Bass and Dubstep. See the line-up on soundcheck.
+HALLOWEEN SPECIAL AT DEDAENA: The Machete Boyz, Ba Ba, Vaguz at Dedaena Bar on Fri 30 Oct, Tbilisi. 2 artists: Ba Ba and The Machete Boyz. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HALLOWEEN SPECIAL AT DEDAENA: The Machete Boyz, Ba Ba, Vaguz at Dedaena Bar on F
 
 ## Line-up
 
+- Ba Ba
 - The Machete Boyz
 
 *Source: [soundcheck](https://soundcheck.club/e/2564539-halloween-special-at-dedaena-the-machete-boyz-ba-ba-vaguz-at/)*

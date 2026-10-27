@@ -1,6 +1,6 @@
 # 5euroGoldi
 
-5euroGoldi is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Graf Karl, Kassel on Sat, 31 Oct 2026.
+5euroGoldi is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Graf Karl, Kassel on Sat, 31 Oct 2026.
 
 5euroGoldi is a trance and techno artist based in Germany, with 76 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 4 more. Often billed alongside VIVUS, Melushka and Arman John. Next up: Graf Karl, Kassel on Sat 31 Oct.
 
@@ -29,4 +29,4 @@
 
 VIVUS, Melushka, Arman John
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5eurogoldi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5eurogoldi/)*

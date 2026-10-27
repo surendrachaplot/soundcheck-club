@@ -17,7 +17,7 @@ Polyamor x SILIKON at Lokschuppen Berlin on Fri 20 Nov, Berlin. 10 artists: Alba
 - ELOISA
 - Elotrance
 - SATYS FYRE
-- The Muffin Man
+- TheMuffinMan
 - Vivienna
 - ZAHNATZIN
 

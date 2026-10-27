@@ -1,6 +1,6 @@
 # E.T.
 
-E.T. is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
+E.T. is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
 
 E.T. is a guaracha and latin bass artist based in France, with 51 gigs on soundcheck across Berlin, Madrid, Mexico City and Paris. Often billed alongside PAK-E, MIMI404 and e.leptic. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ E.T. is a guaracha and latin bass artist based in France, with 51 gigs on soundc
 
 PAK-E, MIMI404, e.leptic
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.t/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.t/)*

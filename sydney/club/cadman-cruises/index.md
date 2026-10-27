@@ -1,6 +1,6 @@
 # Cadman Cruises
 
-Cadman Cruises is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Boat Party - HALLOWEEN HORROR - Open Air Rooftop" on Sat, 31 Oct 2026.
+Cadman Cruises is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Boat Party - HALLOWEEN HORROR - Open Air Rooftop" on Sat, 31 Oct 2026.
 
 Cadman Cruises is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Aaiste, Asanga and Romain Garcia. See dates, start times and who's playing. Eastern Pontoon, Circular Quay.
 
@@ -15,4 +15,4 @@ Cadman Cruises is a music venue in Sydney listed on soundcheck. 2 upcoming gigs,
 
 Eastern Pontoon, Circular Quay, Sydney
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/cadman-cruises/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/cadman-cruises/)*

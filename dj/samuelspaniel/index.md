@@ -1,6 +1,6 @@
 # Samuelspaniel
 
-Samuelspaniel is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Outernet Live, London on Sat, 7 Nov 2026.
+Samuelspaniel is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Outernet Live, London on Sat, 7 Nov 2026.
 
 Samuelspaniel is a club and experimental artist, with 11 gigs on soundcheck across Amsterdam, Brussels, Hamburg and London and 2 more. Often billed alongside Ella Blou, Two Shell and Oli XL. Next up: Outernet Live, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Samuelspaniel is a club and experimental artist, with 11 gigs on soundcheck acro
 
 Ella Blou, Two Shell, Oli XL
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelspaniel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelspaniel/)*

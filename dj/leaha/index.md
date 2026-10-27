@@ -1,14 +1,15 @@
 # Leaha
 
-Leaha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Stage and Radio, Manchester on Wed, 18 Nov 2026.
+Leaha is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Stage and Radio, Manchester on Wed, 18 Nov 2026.
 
-Leaha is a techno and trance artist based in United Kingdom, with 54 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 7 more. Often billed alongside Faster Horses, Alex Farell and Princess Elf Bar. Next up: Stage and Radio, Manchester on Wed 18 Nov.
+Leaha is a techno and trance artist based in United Kingdom, with 55 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 7 more. Often billed alongside Faster Horses, Alex Farell and Princess Elf Bar. Next up: Stage and Radio, Manchester on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | Stage and Radio | Manchester |
+| Fri, 1 Jan 2027 | Hidden | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Leaha is a techno and trance artist based in United Kingdom, with 54 gigs on sou
 
 Faster Horses, Alex Farell, Princess Elf Bar
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leaha/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leaha/)*

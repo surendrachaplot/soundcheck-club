@@ -1,6 +1,6 @@
 # $et
 
-$et is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Vagabond, Washington DC on Thu, 29 Oct 2026.
+$et is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Vagabond, Washington DC on Thu, 29 Oct 2026.
 
 $et is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside camb, xXabiXx and Fish House Funk. Next up: Vagabond, Washington DC on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ $et is a house and techno artist based in United States of America, with 28 gigs
 
 camb, xXabiXx, Fish House Funk
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setdj/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setdj/)*

@@ -1,6 +1,6 @@
 # LynnMayya
 
-LynnMayya is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Giri, Berlin on Fri, 30 Oct 2026.
+LynnMayya is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Giri, Berlin on Fri, 30 Oct 2026.
 
 LynnMayya is a techno and tech house artist based in Germany, with 5 gigs on soundcheck across Berlin and Munich. Often billed alongside UniKhatu, Arman Shadow and BIUSH. Next up: Giri, Berlin on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ LynnMayya is a techno and tech house artist based in Germany, with 5 gigs on sou
 
 UniKhatu, Arman Shadow, BIUSH
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lynnmayya/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lynnmayya/)*

@@ -1,6 +1,6 @@
 # WEIKUM
 
-WEIKUM is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pretzel, Poland on Sat, 31 Oct 2026.
+WEIKUM is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pretzel, Poland on Sat, 31 Oct 2026.
 
 WEIKUM is a tech house and house artist based in Poland, with 65 gigs on soundcheck across Krakow, Poland, Warsaw and Wroclaw. Often billed alongside Jerry M, GiGi (PL) and Sincz. Next up: Pretzel, Poland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ WEIKUM is a tech house and house artist based in Poland, with 65 gigs on soundch
 
 Jerry M, GiGi (PL), Sincz
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weikum/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weikum/)*

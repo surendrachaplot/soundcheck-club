@@ -1,6 +1,6 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 30 Oct 2026.
+MCR-T is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 30 Oct 2026.
 
 MCR-T is a techno and house artist based in Germany, with 305 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 75 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Tokonoma Club, Frankfurt on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ MCR-T is a techno and house artist based in Germany, with 305 gigs on soundcheck
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

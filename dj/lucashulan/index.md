@@ -1,6 +1,6 @@
 # Lucas Hulan
 
-Lucas Hulan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Fuchs2, Prague on Sat, 7 Nov 2026.
+Lucas Hulan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Fuchs2, Prague on Sat, 7 Nov 2026.
 
 Lucas Hulan is a techno and house artist based in Czech Republic, with 99 gigs on soundcheck across Berlin, Malmo and Prague. Often billed alongside Schneider Lounge, Stessie Tfgn and Dona. Next up: Fuchs2, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Lucas Hulan is a techno and house artist based in Czech Republic, with 99 gigs o
 
 Schneider Lounge, Stessie Tfgn, Dona
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucashulan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucashulan/)*

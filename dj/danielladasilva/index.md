@@ -1,6 +1,6 @@
 # Daniella da Silva
 
-Daniella da Silva is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
+Daniella da Silva is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
 
 Daniella da Silva is a techno and industrial artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Parsa Jafari, Bárbara Lago and CESAR ALMENA. Next up: Klub K4, Ljubljana on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Daniella da Silva is a techno and industrial artist based in Germany, with 61 gi
 
 Parsa Jafari, Bárbara Lago, CESAR ALMENA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielladasilva/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielladasilva/)*

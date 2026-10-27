@@ -1,8 +1,8 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Space Miami, Miami on Fri, 30 Oct 2026.
+CamelPhat is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Space Miami, Miami on Fri, 30 Oct 2026.
 
-CamelPhat is a techno and house artist based in United Kingdom, with 234 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 54 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Club Space Miami, Miami on Fri 30 Oct.
+CamelPhat is a techno and house artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 53 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Club Space Miami, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,6 @@ CamelPhat is a techno and house artist based in United Kingdom, with 234 gigs on
 | Fri, 6 Nov 2026 | Royale | Boston |
 | Sat, 7 Nov 2026 | New City Gas | Montreal |
 | Thu, 12 Nov 2026 | Lion Super Club | Seoul |
-| Fri, 13 Nov 2026 | Kowalski | Stuttgart |
 | Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 | Sat, 12 Dec 2026 | Savaya Bali | Bali |
 
@@ -32,4 +31,4 @@ CamelPhat is a techno and house artist based in United Kingdom, with 234 gigs on
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

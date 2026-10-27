@@ -1,6 +1,6 @@
 # Junior Pappa
 
-Junior Pappa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ministry Of Sound, London on Sat, 28 Nov 2026.
+Junior Pappa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ministry Of Sound, London on Sat, 28 Nov 2026.
 
 Junior Pappa is a house and techno artist based in Greece, with 28 gigs on soundcheck across Amsterdam, Athens, Istanbul and London and 1 more. Often billed alongside Fused, Acopo and Agent Greg. Next up: Ministry Of Sound, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Junior Pappa is a house and techno artist based in Greece, with 28 gigs on sound
 
 Fused, Acopo, Agent Greg
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorpappa/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorpappa/)*

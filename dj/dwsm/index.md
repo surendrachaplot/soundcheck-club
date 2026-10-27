@@ -1,6 +1,6 @@
 # DWSM
 
-DWSM is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 31 Oct 2026.
+DWSM is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 DWSM is a house and deep house artist based in United States of America, with 5 gigs on soundcheck across San Francisco/Oakland. Often billed alongside ALMAS, Alex Oxley and Amatric. Next up: Public Works, San Francisco/Oakland on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ DWSM is a house and deep house artist based in United States of America, with 5 
 
 ALMAS, Alex Oxley, Amatric
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dwsm/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dwsm/)*

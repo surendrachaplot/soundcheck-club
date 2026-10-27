@@ -1,8 +1,8 @@
 # YUUKI YOSHIYAMA
 
-YUUKI YOSHIYAMA is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at W Osaka, Osaka on Fri, 30 Oct 2026.
+YUUKI YOSHIYAMA is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at W Osaka, Osaka on Fri, 30 Oct 2026.
 
-YUUKI YOSHIYAMA is a tech house and house artist based in Japan, with 46 gigs on soundcheck across Amsterdam, Bali, Cologne and Osaka and 1 more. Often billed alongside DMITRI ABSINTHE, MAX PELA and Nao Nomura. Next up: W Osaka, Osaka on Fri 30 Oct.
+YUUKI YOSHIYAMA is a tech house and house artist based in Japan, with 47 gigs on soundcheck across Amsterdam, Bali, Cologne and Osaka and 1 more. Often billed alongside DMITRI ABSINTHE, MAX PELA and Nao Nomura. Next up: W Osaka, Osaka on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ YUUKI YOSHIYAMA is a tech house and house artist based in Japan, with 46 gigs on
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | W Osaka | Osaka |
 | Sat, 31 Oct 2026 | W Osaka | Osaka |
+| Sat, 28 Nov 2026 | W Osaka | Osaka |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ YUUKI YOSHIYAMA is a tech house and house artist based in Japan, with 46 gigs on
 
 DMITRI ABSINTHE, MAX PELA, Nao Nomura
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuukiyoshiyama/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuukiyoshiyama/)*

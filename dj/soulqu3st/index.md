@@ -1,6 +1,6 @@
 # SOULQU3ST
 
-SOULQU3ST is a Afro Tech and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at renae, Manchester on Sat, 14 Nov 2026.
+SOULQU3ST is a Afro Tech and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at renae, Manchester on Sat, 14 Nov 2026.
 
 SOULQU3ST is an afro tech and club artist, with 8 gigs on soundcheck across Birmingham, London and Manchester. Often billed alongside Alex Naz, Gamma and Kusasa. Next up: renae, Manchester on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ SOULQU3ST is an afro tech and club artist, with 8 gigs on soundcheck across Birm
 
 Alex Naz, Gamma, Kusasa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulqu3st/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulqu3st/)*

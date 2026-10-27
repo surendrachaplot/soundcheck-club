@@ -1,6 +1,6 @@
 # Gus Gus
 
-Gus Gus is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Gus Gus is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 Gus Gus is a techno and electronica artist based in Iceland, with 13 gigs on soundcheck across Barcelona, Berlin, Bratislava and Canary Islands and 8 more. Often billed alongside Ephemeris, 8KAYS and Agatha Pher. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -25,4 +25,4 @@ Gus Gus is a techno and electronica artist based in Iceland, with 13 gigs on sou
 
 Ephemeris, 8KAYS, Agatha Pher
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusgus/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusgus/)*

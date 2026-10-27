@@ -1,6 +1,6 @@
 # DJ HI-C
 
-DJ HI-C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at SMUT Athens, Athens on Sat, 31 Oct 2026.
+DJ HI-C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at SMUT Athens, Athens on Sat, 31 Oct 2026.
 
 DJ HI-C is a techno and house artist based in Japan, with 81 gigs on soundcheck across Amsterdam, Athens, Beijing and Hong Kong and 10 more. Often billed alongside TENO, Toru Ikemoto and YouForgot. Next up: SMUT Athens, Athens on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ HI-C is a techno and house artist based in Japan, with 81 gigs on soundcheck 
 
 TENO, Toru Ikemoto, YouForgot
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*

@@ -1,6 +1,6 @@
 # MITREV
 
-MITREV is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 31 Oct 2026.
+MITREV is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 31 Oct 2026.
 
 MITREV is a techno and industrial artist based in Bulgaria, with 5 gigs on soundcheck across Sofia. Often billed alongside ARLECIN, TATT BLOSSOM and ANGL. Next up: Купе / Kupe, Sofia on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ MITREV is a techno and industrial artist based in Bulgaria, with 5 gigs on sound
 
 ARLECIN, TATT BLOSSOM, ANGL (2)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitrev/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitrev/)*

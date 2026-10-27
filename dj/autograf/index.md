@@ -1,6 +1,6 @@
 # Autograf
 
-Autograf is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Sat, 31 Oct 2026.
+Autograf is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Autograf is a house and afro house artist based in United States of America, with 34 gigs on soundcheck across Austin, Bali, Barcelona and Boston and 13 more. Often billed alongside Alan Dixon, Blindstares and Coyote Cat. Next up: Madarae San Francisco, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Autograf is a house and afro house artist based in United States of America, wit
 
 Alan Dixon, Blindstares, Coyote Cat
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autograf/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autograf/)*

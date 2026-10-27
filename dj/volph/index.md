@@ -1,6 +1,6 @@
 # Volph
 
-Volph is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Liquid Club, Malta on Sat, 14 Nov 2026.
+Volph is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Liquid Club, Malta on Sat, 14 Nov 2026.
 
 Volph is a techno and acid artist, with 6 gigs on soundcheck across Malta. Often billed alongside Acidulant, Sean Rickett and 2Aurora. Next up: Liquid Club, Malta on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Volph is a techno and acid artist, with 6 gigs on soundcheck across Malta. Often
 
 Acidulant, Sean Rickett, 2Aurora
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volph/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volph/)*

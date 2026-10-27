@@ -1,6 +1,6 @@
 # Sojuba
 
-Sojuba is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Wicked" on Sat, 31 Oct 2026.
+Sojuba is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Wicked" on Sat, 31 Oct 2026.
 
 Sojuba is a music venue in Boston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Sojuba is a music venue in Boston listed on soundcheck. 1 upcoming gig. See date
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Wicked |  |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/sojuba/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/sojuba/)*

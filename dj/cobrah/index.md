@@ -1,6 +1,6 @@
 # COBRAH
 
-COBRAH is a Club and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Radius, Chicago on Fri, 30 Oct 2026.
+COBRAH is a Club and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Radius, Chicago on Fri, 30 Oct 2026.
 
 COBRAH is a club and techno artist based in Sweden, with 46 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Bristol and 19 more. Often billed alongside Job Jobse, TAAHLIAH and Adam Kraft. Next up: Radius, Chicago on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ COBRAH is a club and techno artist based in Sweden, with 46 gigs on soundcheck a
 
 Job Jobse, TAAHLIAH, Adam Kraft
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrah/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrah/)*

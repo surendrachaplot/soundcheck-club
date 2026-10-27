@@ -1,6 +1,6 @@
 # Lord Of The Isles
 
-Lord Of The Isles is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 12 Dec 2026.
+Lord Of The Isles is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 12 Dec 2026.
 
 Lord Of The Isles is a house and techno artist, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Edinburgh and 2 more. Often billed alongside Eclair Fifi, LWS and Linkwood. Next up: People's Leisure Club, Edinburgh on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Lord Of The Isles is a house and techno artist, with 15 gigs on soundcheck acros
 
 Eclair Fifi, LWS, Linkwood
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordoftheisles/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordoftheisles/)*

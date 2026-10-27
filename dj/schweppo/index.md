@@ -1,6 +1,6 @@
 # Schweppo
 
-Schweppo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
+Schweppo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
 
 Schweppo is a techno and house artist based in Germany, with 5 gigs on soundcheck across Cape Town, Hamburg and Munich. Often billed alongside Jean Mauj, Anton Jonathan and DJ Babyblade. Next up: Mojo, Hamburg on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Schweppo is a techno and house artist based in Germany, with 5 gigs on soundchec
 
 Jean Mauj, Anton Jonathan, DJ Babyblade
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schweppo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schweppo/)*

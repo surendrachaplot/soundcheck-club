@@ -1,6 +1,6 @@
 # zulfree
 
-zulfree is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Teritorija, Riga on Fri, 11 Dec 2026.
+zulfree is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Teritorija, Riga on Fri, 11 Dec 2026.
 
 zulfree is a deep house and techno artist based in Latvia, with 6 gigs on soundcheck across Riga. Often billed alongside Riposte, Kelvin and Kupris. Next up: Teritorija, Riga on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ zulfree is a deep house and techno artist based in Latvia, with 6 gigs on soundc
 
 Riposte, Kelvin, Kupris
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zulfree/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zulfree/)*

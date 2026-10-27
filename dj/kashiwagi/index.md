@@ -1,6 +1,6 @@
 # KASHIWAGI
 
-KASHIWAGI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at DeTour, Tokyo on Wed, 28 Oct 2026.
+KASHIWAGI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at DeTour, Tokyo on Wed, 28 Oct 2026.
 
 KASHIWAGI is a techno and house artist based in Japan, with 58 gigs on soundcheck across Tokyo. Often billed alongside Krankent, ksd6700 and DJ ISE. Next up: DeTour, Tokyo on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ KASHIWAGI is a techno and house artist based in Japan, with 58 gigs on soundchec
 
 Krankent, ksd6700, DJ ISE
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kashiwagi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kashiwagi/)*

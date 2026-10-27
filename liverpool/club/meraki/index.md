@@ -1,6 +1,6 @@
 # Meraki
 
-Meraki is a music venue in Liverpool with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Sianard Events: Ali U" on Fri, 30 Oct 2026.
+Meraki is a music venue in Liverpool with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Sianard Events: Ali U" on Fri, 30 Oct 2026.
 
 Meraki is a music venue in Liverpool listed on soundcheck. 8 upcoming gigs, with line-ups including cuci cuci coo, djcd, FKA Hardcore and FOULMOUTH and 2 more. See dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
 
@@ -21,4 +21,4 @@ Meraki is a music venue in Liverpool listed on soundcheck. 8 upcoming gigs, with
 
 3 Dickson St, Liverpool, L3 7EB, United Kingdom, Liverpool
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*

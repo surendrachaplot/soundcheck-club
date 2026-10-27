@@ -1,6 +1,6 @@
 # Marouchka
 
-Marouchka is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Bodeek, Brussels on Wed, 28 Oct 2026.
+Marouchka is a Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bodeek, Brussels on Wed, 28 Oct 2026.
 
 Marouchka is a techno artist based in Belgium, with 17 gigs on soundcheck across Brussels and Paris. Often billed alongside DJ Bisou, Jessen and Keyser. Next up: Bodeek, Brussels on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ Marouchka is a techno artist based in Belgium, with 17 gigs on soundcheck across
 
 DJ Bisou, Jessen, Keyser
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marouchka/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marouchka/)*

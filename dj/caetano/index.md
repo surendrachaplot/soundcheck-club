@@ -1,6 +1,6 @@
 # CAETANO
 
-CAETANO is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bsmt 254, Toronto on Sun, 27 Dec 2026.
+CAETANO is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bsmt 254, Toronto on Sun, 27 Dec 2026.
 
 CAETANO is a techno and tech house artist based in Canada, with 29 gigs on soundcheck across Toronto. Often billed alongside Ehsan, Szikra and 2HZY. Next up: Bsmt 254, Toronto on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ CAETANO is a techno and tech house artist based in Canada, with 29 gigs on sound
 
 Ehsan, Szikra, 2HZY
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caetano/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caetano/)*

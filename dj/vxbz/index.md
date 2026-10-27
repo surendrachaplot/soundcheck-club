@@ -1,6 +1,6 @@
 # VXBZ
 
-VXBZ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Nest, Basel on Sat, 21 Nov 2026.
+VXBZ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nest, Basel on Sat, 21 Nov 2026.
 
 VXBZ is a trance and techno artist, with 6 gigs on soundcheck across Basel. Often billed alongside IULIATSKI, DJ Glentan and Galopp. Next up: Nest, Basel on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ VXBZ is a trance and techno artist, with 6 gigs on soundcheck across Basel. Ofte
 
 IULIATSKI, DJ Glentan, Galopp
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vxbz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vxbz/)*

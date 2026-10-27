@@ -1,6 +1,6 @@
 # Mario Blur
 
-Mario Blur is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 31 Oct 2026.
+Mario Blur is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 31 Oct 2026.
 
 Mario Blur is a techno and electronica artist based in Spain, with 12 gigs on soundcheck across Madrid. Often billed alongside Unkle Fon, Ricardo Morales and Bas Mooy. Next up: Lasociaciøn, Madrid on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Mario Blur is a techno and electronica artist based in Spain, with 12 gigs on so
 
 Unkle Fon, Ricardo Morales, Bas Mooy
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marioblur/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marioblur/)*

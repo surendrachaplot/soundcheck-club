@@ -1,6 +1,6 @@
 # Rules
 
-Rules is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Roadrunner, Boston on Thu, 25 Mar 2027.
+Rules is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Roadrunner, Boston on Thu, 25 Mar 2027.
 
 Rules is an electronic artist based in France, with 3 gigs on soundcheck across Boston, Krakow and Washington Dc. Often billed alongside Arlo, Elderbrook and 18+. Next up: Roadrunner, Boston on Thu 25 Mar.
 
@@ -19,4 +19,4 @@ Rules is an electronic artist based in France, with 3 gigs on soundcheck across 
 
 Arlo, Elderbrook, 18+
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rules/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rules/)*

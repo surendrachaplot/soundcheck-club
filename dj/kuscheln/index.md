@@ -1,6 +1,6 @@
 # Kuscheln
 
-Kuscheln is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
+Kuscheln is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Toronto on Sat, 21 Nov 2026.
 
 Kuscheln is a techno and house artist, with 29 gigs on soundcheck across Amsterdam, New York City and Toronto. Often billed alongside Marnigurl, Jaw Jones and OMG.BLOG. Next up: TBA, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Kuscheln is a techno and house artist, with 29 gigs on soundcheck across Amsterd
 
 Marnigurl, Jaw Jones, OMG.BLOG
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuscheln/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuscheln/)*

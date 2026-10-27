@@ -1,6 +1,6 @@
 # Lauren Steel
 
-Lauren Steel is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Patterns, Brighton on Fri, 30 Oct 2026.
+Lauren Steel is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Patterns, Brighton on Fri, 30 Oct 2026.
 
 Lauren Steel is a house and deep house artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam, Brighton and London. Often billed alongside Danny Snowden, Ethan Jenner and GUEST (UK). Next up: Patterns, Brighton on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Lauren Steel is a house and deep house artist based in United Kingdom, with 7 gi
 
 Danny Snowden, Ethan Jenner, GUEST (UK)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurensteel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurensteel/)*

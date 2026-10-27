@@ -1,6 +1,6 @@
 # James Marceau
 
-James Marceau is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cartilage, Paris on Sat, 14 Nov 2026.
+James Marceau is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cartilage, Paris on Sat, 14 Nov 2026.
 
 James Marceau is a house and techno artist based in France, with 9 gigs on soundcheck across Paris. Often billed alongside Ben Manson, DMN DJ and High Low. Next up: Cartilage, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ James Marceau is a house and techno artist based in France, with 9 gigs on sound
 
 Ben Manson, DMN DJ, High Low
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmarceau/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmarceau/)*

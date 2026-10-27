@@ -1,6 +1,6 @@
 # Ivy (2)
 
-Ivy (2) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
+Ivy (2) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
 
 Ivy is a progressive house and techno artist, with 5 gigs on soundcheck across Melbourne and Sydney. Often billed alongside JAZZ, Miscmeg and Paper-Cuts. Next up: TBA, Sydney on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Ivy is a progressive house and techno artist, with 5 gigs on soundcheck across M
 
 JAZZ (2), Miscmeg, Paper-Cuts
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy-2/)*

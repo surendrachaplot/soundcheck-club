@@ -1,6 +1,6 @@
 # Marc Silva
 
-Marc Silva is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Moog Club, Barcelona on Sun, 8 Nov 2026.
+Marc Silva is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Moog Club, Barcelona on Sun, 8 Nov 2026.
 
 Marc Silva is a techno artist based in Spain, with 11 gigs on soundcheck across Barcelona. Often billed alongside Djomby, Avraxas and BACO. Next up: Moog Club, Barcelona on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Marc Silva is a techno artist based in Spain, with 11 gigs on soundcheck across 
 
 Djomby, Avraxas, BACO
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcsilva/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcsilva/)*

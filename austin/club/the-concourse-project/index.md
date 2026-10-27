@@ -1,6 +1,6 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 19 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Chris Stassy (Extended Set)" on Thu, 29 Oct 2026.
+The Concourse Project is a music venue in Austin with 19 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Chris Stassy (Extended Set)" on Thu, 29 Oct 2026.
 
 The Concourse Project is a music venue in Austin listed on soundcheck. 19 upcoming gigs, with line-ups including 1tbsp, Above & Beyond, Adam Sellouk and Avision and 2 more. See dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
@@ -23,4 +23,4 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 19 upcomi
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

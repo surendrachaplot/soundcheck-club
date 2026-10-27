@@ -1,6 +1,6 @@
 # Cleo Grooves
 
-Cleo Grooves is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Yellow House, Amsterdam on Sat, 28 Nov 2026.
+Cleo Grooves is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Yellow House, Amsterdam on Sat, 28 Nov 2026.
 
 Cleo Grooves is a house and disco artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Berlin, Eindhoven and Paris and 2 more. Often billed alongside AUTOFLOWER, Aphøtic and B. Clarke. Next up: Yellow House, Amsterdam on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Cleo Grooves is a house and disco artist based in Netherlands, with 11 gigs on s
 
 AUTOFLOWER, Aphøtic, B. Clarke
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleogrooves/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleogrooves/)*

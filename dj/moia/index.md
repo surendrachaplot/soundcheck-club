@@ -1,6 +1,6 @@
 # MOIA
 
-MOIA is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
+MOIA is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
 
 MOIA is a techno and industrial artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Acierate, CARAVEL and Cloudy. Next up: TBA - Secret Location (passed 2h before event), Warsaw on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ MOIA is a techno and industrial artist based in Germany, with 69 gigs on soundch
 
 Acierate, CARAVEL, Cloudy
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moia/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moia/)*

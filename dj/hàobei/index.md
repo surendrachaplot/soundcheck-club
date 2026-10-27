@@ -1,6 +1,6 @@
 # hàobèi
 
-hàobèi is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Happyfun Hideaway, New York City on Tue, 27 Oct 2026.
+hàobèi is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Happyfun Hideaway, New York City on Tue, 27 Oct 2026.
 
 hàobèi is a bass and techno artist based in United States of America, with 3 gigs on soundcheck across New York City. Often billed alongside Aleister, Gagbert and v64. Next up: Happyfun Hideaway, New York City on Tue 27 Oct.
 
@@ -19,4 +19,4 @@ hàobèi is a bass and techno artist based in United States of America, with 3 g
 
 Aleister, Gagbert, v64 (1)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hàobei/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hàobei/)*

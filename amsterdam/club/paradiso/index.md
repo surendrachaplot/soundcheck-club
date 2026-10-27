@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "I.S.U.I.L.P TOUR 26" on Thu, 29 Oct 2026.
+Paradiso is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "I.S.U.I.L.P TOUR 26" on Thu, 29 Oct 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Oxley, Dynamax, Fleetmac Wood and Gysèle and 2 more. See dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -20,4 +20,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, wi
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

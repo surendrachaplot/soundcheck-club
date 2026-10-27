@@ -1,6 +1,6 @@
 # Sian
 
-Sian is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Flamenco Bangkok, Bangkok on Sat, 31 Oct 2026.
+Sian is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Flamenco Bangkok, Bangkok on Sat, 31 Oct 2026.
 
 Sian is a techno and progressive house artist based in United States of America, with 12 gigs on soundcheck across Bangkok, Chicago, Denver and Detroit and 3 more. Often billed alongside Eulalia, VILENA and xtelma. Next up: Flamenco Bangkok, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sian is a techno and progressive house artist based in United States of America,
 
 Eulalia, VILENA, xtelma
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sian/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sian/)*

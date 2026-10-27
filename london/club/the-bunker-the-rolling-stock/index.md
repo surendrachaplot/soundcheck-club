@@ -1,6 +1,6 @@
 # The Bunker @ The Rolling Stock
 
-The Bunker @ The Rolling Stock is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Subground x Halloween Party" on Sat, 31 Oct 2026.
+The Bunker @ The Rolling Stock is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Subground x Halloween Party" on Sat, 31 Oct 2026.
 
 The Bunker @ The Rolling Stock is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ The Bunker @ The Rolling Stock is a music venue in London listed on soundcheck. 
 | Sat, 31 Oct 2026 | Subground x Halloween Party |  |
 | Fri, 13 Nov 2026 | Funktion Signal Error |  |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bunker-the-rolling-stock/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bunker-the-rolling-stock/)*

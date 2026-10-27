@@ -1,6 +1,6 @@
 # XTRUDE w/ Antigone, Peryl (Live), Lars Huismann, Newa, STEYA, Bambi, oma totem at RSO.BERLIN
 
-XTRUDE w/ Antigone, Peryl (Live), Lars Huismann, Newa, STEYA, Bambi, oma totem at RSO.BERLIN on Sat 28 Nov, Berlin. 11 artists: Ana Rs, Antigone, Bambi (FR) and Lars Huismann and 7 more. Techno. See the line-up on soundcheck.
+XTRUDE w/ Antigone, Peryl (Live), Lars Huismann, Newa, STEYA, Bambi, oma totem at RSO.BERLIN on Sat 28 Nov, Berlin. 12 artists: Ana Rs, Antigone, Audrey Danza and Bambi (FR) and 8 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ XTRUDE w/ Antigone, Peryl (Live), Lars Huismann, Newa, STEYA, Bambi, oma totem a
 
 - Ana Rs
 - Antigone
+- Audrey Danza
 - Bambi (FR)
 - Lars Huismann
 - LPV

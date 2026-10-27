@@ -1,6 +1,6 @@
 # Loradeniz
 
-Loradeniz is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at ANTIA, Netherlands on Fri, 30 Oct 2026.
+Loradeniz is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at ANTIA, Netherlands on Fri, 30 Oct 2026.
 
 Loradeniz is a techno and electronica artist, with 47 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Istanbul and 4 more. Often billed alongside Interstellar Funk, Fafi Abdel Nour and Faustin (NL). Next up: ANTIA, Netherlands on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Loradeniz is a techno and electronica artist, with 47 gigs on soundcheck across 
 
 Interstellar Funk, Fafi Abdel Nour, Faustin (NL)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loradeniz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loradeniz/)*

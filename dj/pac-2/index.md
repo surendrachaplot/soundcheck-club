@@ -1,6 +1,6 @@
 # PAC (2)
 
-PAC (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Jupiter Disco, New York City on Sat, 31 Oct 2026.
+PAC (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Jupiter Disco, New York City on Sat, 31 Oct 2026.
 
 PAC is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Copenhagen and New York City. Often billed alongside S A M I, sixsix and DJ Machine. Next up: Jupiter Disco, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PAC is a techno and house artist based in United States of America, with 20 gigs
 
 S A M I, sixsix, DJ Machine (2)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pac-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pac-2/)*

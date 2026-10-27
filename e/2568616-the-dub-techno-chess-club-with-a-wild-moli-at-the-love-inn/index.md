@@ -1,6 +1,6 @@
 # The Dub Techno Chess Club with A.Wild + Moli at The Love Inn
 
-The Dub Techno Chess Club with A.Wild + Moli at The Love Inn on Thu 29 Oct, Bristol. 5 artists: A.Wild, AdomasLP, MEMP3 and Moli and 1 more. Techno and Dub Techno. See the line-up on soundcheck.
+The Dub Techno Chess Club with A.Wild + Moli at The Love Inn on Thu 29 Oct, Bristol. 5 artists: A.Wild, AdomasLP, Mandolin and Moli and 1 more. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ The Dub Techno Chess Club with A.Wild + Moli at The Love Inn on Thu 29 Oct, Bris
 
 - A.Wild
 - AdomasLP
-- MEMP3
+- Mandolin
 - Moli
 - Tommy Cross
 

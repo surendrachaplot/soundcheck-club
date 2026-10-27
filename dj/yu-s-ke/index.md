@@ -1,6 +1,6 @@
 # YU-S-KE
 
-YU-S-KE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at DeTour, Tokyo on Sun, 1 Nov 2026.
+YU-S-KE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at DeTour, Tokyo on Sun, 1 Nov 2026.
 
 YU-S-KE is a techno and house artist based in Japan, with 64 gigs on soundcheck across Tokyo. Often billed alongside BEPPU, Q'hey and Kulage. Next up: DeTour, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ YU-S-KE is a techno and house artist based in Japan, with 64 gigs on soundcheck 
 
 BEPPU, Q'hey, Kulage
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*

@@ -1,6 +1,6 @@
 # FOGGA
 
-FOGGA is a Industrial and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
+FOGGA is a Industrial and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
 
 FOGGA is an industrial and hard drum artist based in Colombia, with 5 gigs on soundcheck across Berlin, Bogotá, Medellin and Saint Petersburg. Often billed alongside Optimuss, ALEX PANKOV and ALOD. Next up: K-30, Saint Petersburg on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ FOGGA is an industrial and hard drum artist based in Colombia, with 5 gigs on so
 
 Optimuss, ALEX PANKOV, ALOD
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fogga/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fogga/)*

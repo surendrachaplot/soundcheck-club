@@ -1,6 +1,6 @@
 # evah
 
-evah is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Paloma, Berlin on Sat, 5 Dec 2026.
+evah is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Paloma, Berlin on Sat, 5 Dec 2026.
 
 evah is an electro and house artist based in Germany, with 14 gigs on soundcheck across Bergen and Berlin. Often billed alongside Aber DJ, Alex.Do and Anja Schneider. Next up: Paloma, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ evah is an electro and house artist based in Germany, with 14 gigs on soundcheck
 
 Aber DJ, Alex.Do, Anja Schneider
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evah-de/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evah-de/)*

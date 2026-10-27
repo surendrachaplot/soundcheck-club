@@ -1,13 +1,14 @@
 # toutestmagnifique
 
-toutestmagnifique is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at underiolo, Warsaw on Sat, 31 Oct 2026.
+toutestmagnifique is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at B-SIDE, Warsaw on Fri, 30 Oct 2026.
 
-toutestmagnifique is a techno and trance artist based in Poland, with 32 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and DOMEL. Next up: underiolo, Warsaw on Sat 31 Oct.
+toutestmagnifique is a techno and house artist based in Poland, with 33 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and DOMEL. Next up: B-SIDE, Warsaw on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | B-SIDE | Warsaw |
 | Sat, 31 Oct 2026 | underiolo | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ toutestmagnifique is a techno and trance artist based in Poland, with 32 gigs on
 
 Abrew, dj.zamocno, DOMEL
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toutestmagnifique/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toutestmagnifique/)*

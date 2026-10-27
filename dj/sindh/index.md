@@ -1,6 +1,6 @@
 # Sindh
 
-Sindh is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Super7, Lyon on Sat, 31 Oct 2026.
+Sindh is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Super7, Lyon on Sat, 31 Oct 2026.
 
 Sindh is a techno and trance artist based in France, with 17 gigs on soundcheck across Brussels, Central, Hong Kong and Lyon and 7 more. Often billed alongside Emilia Grima, TSUNIMAN and A Strange Wedding. Next up: Super7, Lyon on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Sindh is a techno and trance artist based in France, with 17 gigs on soundcheck 
 
 Emilia Grima, TSUNIMAN, A Strange Wedding
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sindh/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sindh/)*

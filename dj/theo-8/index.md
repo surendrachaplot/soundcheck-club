@@ -1,6 +1,6 @@
 # Theo (8)
 
-Theo (8) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
+Theo (8) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
 
 Theo is a house and techno artist based in France, with 6 gigs on soundcheck across Prague. Often billed alongside Silhouette, Unjack* and ANĪC. Next up: Stadion Strahov, Prague on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Theo is a house and techno artist based in France, with 6 gigs on soundcheck acr
 
 Silhouette, Unjack*, ANĪC
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theo-8/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theo-8/)*

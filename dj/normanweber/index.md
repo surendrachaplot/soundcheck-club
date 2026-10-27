@@ -1,13 +1,14 @@
 # Norman Weber
 
-Norman Weber is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at OXI, Berlin on Fri, 27 Nov 2026.
+Norman Weber is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Muna, Jena on Sat, 7 Nov 2026.
 
-Norman Weber is a house and techno artist, with 61 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Frankie Flowerz, Sisyphos and Britta Arnold. Next up: OXI, Berlin on Fri 27 Nov.
+Norman Weber is a house and techno artist, with 62 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Frankie Flowerz, Sisyphos and Britta Arnold. Next up: Muna, Jena on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Muna | Jena |
 | Fri, 27 Nov 2026 | OXI | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Norman Weber is a house and techno artist, with 61 gigs on soundcheck across Ams
 
 Frankie Flowerz, Sisyphos, Britta Arnold
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/normanweber/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/normanweber/)*

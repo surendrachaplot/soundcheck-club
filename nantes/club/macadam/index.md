@@ -1,15 +1,15 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 19 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Macadam x CONTINUUM invite Loophole • Garçon ~ Carrier ~ REDLUVED B2B Sinesthesia" on Fri, 30 Oct 2026.
+Macadam is a music venue in Nantes with 20 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Macadam x CONTINUUM invite Loophole • Garçon ~ Carrier ~ REDLUVED B2B Sinesthesia" on Fri, 30 Oct 2026.
 
-Macadam is a music venue in Nantes listed on soundcheck. 19 upcoming gigs, with line-ups including Bambi (FR), Bella Sarris, Binary Digit and Carrier and 2 more. See dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
+Macadam is a music venue in Nantes listed on soundcheck. 20 upcoming gigs, with line-ups including Akira Yamagata, Bambi (FR), Bella Sarris and Binary Digit and 2 more. See dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Macadam x CONTINUUM invite Loophole • Garçon ~ Carrier ~ REDLUVED B2B Sinesthesia | Carrier, Garçon, Redluved, Sinesthesia |
-| Sat, 31 Oct 2026 | Macadam x DREAMLAND • Peach ~ IAMBPM ~ Maï-Linh | IAMBP, Maï-Linh, Peach |
+| Sat, 31 Oct 2026 | Macadam x DREAMLAND • Peach ~ IAMBP ~ Maï-Linh | IAMBP, Maï-Linh, Peach |
 | Sat, 7 Nov 2026 | Macadam • Mohammad Reza Mortazavi (live) ~ Luisa ~ OLGA B. ~ Bambi - curated by Bambi | Bambi (FR), Luisa, Mohammad Reza Mortazavi, OLGA B. |
 | Sun, 8 Nov 2026 | Gloria • u.r.trax ~ Bella Sarris ~ Moksha ~ GTI ~ Heidy Fly | Bella Sarris, GTI, Heidy Fly, u.r.trax |
 | Tue, 10 Nov 2026 | DIVA • Night Session • DART ~ HEDDA ~ Maï-Linh ~ Matilda ~ mita (live) | DART, HEDDA, Maï-Linh, matilda (2) |
@@ -23,4 +23,4 @@ Macadam is a music venue in Nantes listed on soundcheck. 19 upcoming gigs, with 
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

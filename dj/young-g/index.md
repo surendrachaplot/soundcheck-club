@@ -1,6 +1,6 @@
 # Young-G
 
-Young-G is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Spartacus Potsdam, Berlin on Fri, 6 Nov 2026.
+Young-G is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Spartacus Potsdam, Berlin on Fri, 6 Nov 2026.
 
 Young-G is a techno and electro artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Syndrolin, Denise Rabe and Fleck. Next up: Spartacus Potsdam, Berlin on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Young-G is a techno and electro artist based in Germany, with 5 gigs on soundche
 
 Syndrolin, Denise Rabe, Fleck
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/young-g/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/young-g/)*

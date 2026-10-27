@@ -1,6 +1,6 @@
 # New Year's RE:BACK at MÄX
 
-New Year's RE:BACK at MÄX on Thu 31 Dec, Zurich. 7 artists: 1luu, BINA, Cortez and DJ Henk and 3 more. Techno. See the line-up on soundcheck.
+New Year's RE:BACK at MÄX on Thu 31 Dec, Zurich. 8 artists: 1luu, BINA, Cortez and DJ Henk and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,5 +17,6 @@ New Year's RE:BACK at MÄX on Thu 31 Dec, Zurich. 7 artists: 1luu, BINA, Cortez 
 - KAïA (2)
 - Megix
 - Nhū
+- PENCIL
 
 *Source: [soundcheck](https://soundcheck.club/e/2560212-new-year-s-re-back-at-m-x/)*

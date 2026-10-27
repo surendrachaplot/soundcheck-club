@@ -1,6 +1,6 @@
 # Alci
 
-Alci is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Alci is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
 Alci is a house and minimal artist based in Switzerland, with 123 gigs on soundcheck across Amsterdam, Atlanta, Bahrain and Barcelona and 31 more. Often billed alongside Flavio (CH), Mateo Dufour and Toman. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Alci is a house and minimal artist based in Switzerland, with 123 gigs on soundc
 
 Flavio (CH), Mateo Dufour, Toman
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*

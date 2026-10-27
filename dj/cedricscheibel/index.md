@@ -1,6 +1,6 @@
 # Cedric Scheibel
 
-Cedric Scheibel is a Pop and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Beate Uwe, Berlin on Sun, 22 Nov 2026.
+Cedric Scheibel is a Pop and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Beate Uwe, Berlin on Sun, 22 Nov 2026.
 
 Cedric Scheibel is a pop and jazz artist based in Germany, with 13 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Anselmus, Iva Bodul and Jonas Schilling. Next up: Beate Uwe, Berlin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Cedric Scheibel is a pop and jazz artist based in Germany, with 13 gigs on sound
 
 Anselmus, Iva Bodul, Jonas Schilling
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cedricscheibel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cedricscheibel/)*

@@ -1,6 +1,6 @@
 # Silver October
 
-Silver October is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Ask A Raver, Chicago on Fri, 30 Oct 2026.
+Silver October is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Ask A Raver, Chicago on Fri, 30 Oct 2026.
 
 Silver October is a techno and hardcore artist based in United States of America, with 7 gigs on soundcheck across Chicago, Detroit and Philadelphia. Often billed alongside AIDEL, Elock and Garrison XR. Next up: TBA - Ask A Raver, Chicago on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Silver October is a techno and hardcore artist based in United States of America
 
 AIDEL, Elock, Garrison XR
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silveroctober/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silveroctober/)*

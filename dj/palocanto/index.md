@@ -1,6 +1,6 @@
 # Palo Canto
 
-Palo Canto is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kassa Boat, Budapest on Fri, 27 Nov 2026.
+Palo Canto is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kassa Boat, Budapest on Fri, 27 Nov 2026.
 
 Palo Canto is a downtempo and deep house artist based in Hungary, with 8 gigs on soundcheck across Budapest and Poznan. Next up: Kassa Boat, Budapest on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Palo Canto is a downtempo and deep house artist based in Hungary, with 8 gigs on
 - Pontoon Budapest, Budapest · Fri, 27 Jun 2025
 - Turbina, Budapest · Thu, 17 Apr 2025
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palocanto/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palocanto/)*

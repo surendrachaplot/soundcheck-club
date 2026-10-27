@@ -1,6 +1,6 @@
 # *ALMOST SOLD OUT* HALLOWEEN 2026 at Frankie’s
 
-*ALMOST SOLD OUT* HALLOWEEN 2026 at Frankie’s on Sat 31 Oct, Vancouver. 21 artists: ALOKIN, Bloody Mary, Briser Gonzalez and Bÿständer and 17 more. Techno and House. See the line-up on soundcheck.
+*ALMOST SOLD OUT* HALLOWEEN 2026 at Frankie’s on Sat 31 Oct, Vancouver. 22 artists: ALOKIN, Bloody Mary, Briser Gonzalez and Bÿständer and 18 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -31,5 +31,6 @@
 - Rorganic
 - Sam AK
 - Tienn
+- Wonderboi
 
 *Source: [soundcheck](https://soundcheck.club/e/2540232-almost-sold-out-halloween-2026-at-frankie-s/)*

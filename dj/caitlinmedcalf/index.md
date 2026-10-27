@@ -1,6 +1,6 @@
 # Caitlin Medcalf
 
-Caitlin Medcalf is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
+Caitlin Medcalf is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
 Caitlin Medcalf is a techno and house artist based in Australia, with 21 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Mincy, Slamb and DAYZZI. Next up: TBA, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Caitlin Medcalf is a techno and house artist based in Australia, with 21 gigs on
 
 Mincy, Slamb, DAYZZI
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caitlinmedcalf/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caitlinmedcalf/)*

@@ -1,6 +1,6 @@
 # SUB LEVEL 002 at Wax Music Lounge
 
-SUB LEVEL 002 at Wax Music Lounge on Sat 31 Oct, Melbourne. 1 artist: CHARLES-EDDY. House. See the line-up on soundcheck.
+SUB LEVEL 002 at Wax Music Lounge on Sat 31 Oct, Melbourne. 2 artists: CHARLES-EDDY and Joey Coco. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SUB LEVEL 002 at Wax Music Lounge on Sat 31 Oct, Melbourne. 1 artist: CHARLES-ED
 ## Line-up
 
 - CHARLES-EDDY
+- Joey Coco
 
 *Source: [soundcheck](https://soundcheck.club/e/2530256-sub-level-002-at-wax-music-lounge/)*

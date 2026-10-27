@@ -1,6 +1,6 @@
 # kubo_ken_1_low
 
-kubo_ken_1_low is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Koara, Tokyo on Tue, 10 Nov 2026.
+kubo_ken_1_low is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Koara, Tokyo on Tue, 10 Nov 2026.
 
 kubo_ken_1_low is a techno and house artist based in Japan, with 44 gigs on soundcheck across Tokyo. Often billed alongside FLEDtokyo, Kajitsu and Incarnated Sound. Next up: Koara, Tokyo on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ kubo_ken_1_low is a techno and house artist based in Japan, with 44 gigs on soun
 
 FLEDtokyo, Kajitsu, Incarnated Sound
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kubo_ken_1_low/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kubo_ken_1_low/)*

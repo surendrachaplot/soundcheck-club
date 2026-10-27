@@ -1,14 +1,18 @@
 # Alex Silva
 
-Alex Silva is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Noxe Barcelona, Barcelona on Wed, 28 Oct 2026.
+Alex Silva is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Noxe Barcelona, Barcelona on Wed, 28 Oct 2026.
 
-Alex Silva is a house and tech house artist based in Spain, with 75 gigs on soundcheck across Barcelona and Sydney. Often billed alongside Nesi, GIVIO and Vikki. Next up: Noxe Barcelona, Barcelona on Wed 28 Oct.
+Alex Silva is a house and tech house artist based in Spain, with 79 gigs on soundcheck across Barcelona and Sydney. Often billed alongside Nesi, GIVIO and Vikki. Next up: Noxe Barcelona, Barcelona on Wed 28 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 28 Oct 2026 | Noxe Barcelona | Barcelona |
+| Thu, 5 Nov 2026 | Noxe Barcelona | Barcelona |
+| Thu, 12 Nov 2026 | Noxe Barcelona | Barcelona |
+| Thu, 19 Nov 2026 | Noxe Barcelona | Barcelona |
+| Thu, 26 Nov 2026 | Noxe Barcelona | Barcelona |
 
 ## Recently played
 
@@ -25,4 +29,4 @@ Alex Silva is a house and tech house artist based in Spain, with 75 gigs on soun
 
 Nesi, GIVIO, Vikki
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsilva/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsilva/)*

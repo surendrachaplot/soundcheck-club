@@ -1,6 +1,6 @@
 # HunnyBunny
 
-HunnyBunny is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
+HunnyBunny is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
 
 HunnyBunny is a house and disco artist based in United States of America, with 36 gigs on soundcheck across New York City. Often billed alongside Blvck Truffle, Tim Lucent and Bendito. Next up: Good Room, New York City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ HunnyBunny is a house and disco artist based in United States of America, with 3
 
 Blvck Truffle, Tim Lucent, Bendito
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hunnybunny/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hunnybunny/)*

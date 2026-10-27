@@ -1,6 +1,6 @@
 # RICHE
 
-RICHE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pier 80 Warehouse, San-francisco-oakland on Sun, 3 Jan 2027.
+RICHE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pier 80 Warehouse, San-francisco-oakland on Sun, 3 Jan 2027.
 
 RICHE is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside ELIF, Jimi Jules and Mona Pirzad. Next up: Pier 80 Warehouse, San Francisco Oakland on Sun 3 Jan.
 
@@ -25,4 +25,4 @@ RICHE is a house and techno artist based in United States of America, with 28 gi
 
 ELIF, Jimi Jules, Mona Pirzad
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riche/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riche/)*

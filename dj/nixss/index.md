@@ -1,6 +1,6 @@
 # Nixss
 
-Nixss is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lourdes Music Hall, Bogot on Fri, 30 Oct 2026.
+Nixss is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lourdes Music Hall, Bogot on Fri, 30 Oct 2026.
 
 Nixss is a guaracha and latin bass artist based in Colombia, with 19 gigs on soundcheck across Berlin, Bogot, Bogotá and Budapest and 5 more. Often billed alongside 2AT, Aleroj and Isablu. Next up: Lourdes Music Hall, Bogot on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nixss is a guaracha and latin bass artist based in Colombia, with 19 gigs on sou
 
 2AT, Aleroj, Isablu
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixss/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixss/)*

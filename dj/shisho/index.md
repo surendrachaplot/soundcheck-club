@@ -1,6 +1,6 @@
 # Shisho
 
-Shisho is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 29 Oct 2026.
+Shisho is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 29 Oct 2026.
 
 Shisho is a house and minimal artist based in Mexico, with 49 gigs on soundcheck across Mexico City. Often billed alongside Gallō, Bluecommand and Itza Chacón. Next up: nueve cero nueve, Mexico City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Shisho is a house and minimal artist based in Mexico, with 49 gigs on soundcheck
 
 Gallō, Bluecommand, Itza Chacón
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shisho/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shisho/)*

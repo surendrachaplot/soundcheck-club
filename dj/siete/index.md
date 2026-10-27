@@ -1,6 +1,6 @@
 # SIETE
 
-SIETE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 29 Oct 2026.
+SIETE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 29 Oct 2026.
 
 SIETE is a techno and house artist based in United States of America, with 28 gigs on soundcheck across Barcelona, Bogotá, Los Angeles and Mexico City and 5 more. Often billed alongside Siete Catorce, CUERPOS and Coyado. Next up: Bossa Nova Civic Club, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ SIETE is a techno and house artist based in United States of America, with 28 gi
 
 Siete Catorce, CUERPOS, Coyado
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siete/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siete/)*

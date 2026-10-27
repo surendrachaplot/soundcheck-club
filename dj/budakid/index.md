@@ -1,6 +1,6 @@
 # Budakid
 
-Budakid is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Flash, Washington DC on Fri, 20 Nov 2026.
+Budakid is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Flash, Washington DC on Fri, 20 Nov 2026.
 
 Budakid is a house and progressive house artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 19 more. Often billed alongside Matthias Meyer, Guy J and Guy Mantzur. Next up: Flash, Washington DC on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Budakid is a house and progressive house artist based in Netherlands, with 44 gi
 
 Matthias Meyer, Guy J, Guy Mantzur
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budakid/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budakid/)*

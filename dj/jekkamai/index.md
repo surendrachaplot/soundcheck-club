@@ -1,6 +1,6 @@
 # JEKKAMAÏ
 
-JEKKAMAÏ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TRAUM, Antwerp on Sat, 31 Oct 2026.
+JEKKAMAÏ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TRAUM, Antwerp on Sat, 31 Oct 2026.
 
 JEKKAMAÏ is a techno and trance artist based in Belgium, with 38 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Hysope, ATARAXY and Oxtazz. Next up: TRAUM, Antwerp on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ JEKKAMAÏ is a techno and trance artist based in Belgium, with 38 gigs on soundc
 
 Hysope, ATARAXY, Oxtazz
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jekkamai/)*

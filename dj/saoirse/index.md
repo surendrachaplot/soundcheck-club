@@ -1,14 +1,15 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Cardiff Students' Union - Y Plas, Cardiff on Sat, 31 Oct 2026.
+Saoirse is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Cardiff Students' Union - Y Plas, Cardiff on Sat, 31 Oct 2026.
 
-Saoirse is a house and techno artist based in Ireland, with 195 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 45 more. Often billed alongside Mella Dee, Shanti Celeste and Peach. Next up: Cardiff Students' Union - Y Plas, Cardiff on Sat 31 Oct.
+Saoirse is a house and techno artist based in Ireland, with 196 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 45 more. Often billed alongside Mella Dee, Shanti Celeste and Peach. Next up: Cardiff Students' Union - Y Plas, Cardiff on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Cardiff Students' Union - Y Plas | Cardiff |
+| Sat, 31 Oct 2026 | Sawmills | Bristol |
 | Fri, 20 Nov 2026 | Gate Milano | Milan |
 | Sat, 21 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
@@ -30,4 +31,4 @@ Saoirse is a house and techno artist based in Ireland, with 195 gigs on soundche
 
 Mella Dee, Shanti Celeste, Peach
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

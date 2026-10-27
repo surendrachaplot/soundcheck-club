@@ -1,14 +1,14 @@
 # Ruido Con H
 
-Ruido Con H is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Barba Azul, Mexico City on Sat, 5 Dec 2026.
+Ruido Con H is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Barba Azul, Mexico City on Fri, 4 Dec 2026.
 
-Ruido Con H is a guaracha and latin bass artist, with 8 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside EL NICK DGO, DJ Guapis and Imaabs. Next up: Barba Azul, Mexico City on Sat 5 Dec.
+Ruido Con H is a guaracha and latin bass artist, with 8 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside EL NICK DGO, DJ Guapis and Imaabs. Next up: Barba Azul, Mexico City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | Barba Azul | Mexico City |
+| Fri, 4 Dec 2026 | Barba Azul | Mexico City |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ Ruido Con H is a guaracha and latin bass artist, with 8 gigs on soundcheck acros
 
 EL NICK DGO, DJ Guapis, Imaabs
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruidoconh/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruidoconh/)*

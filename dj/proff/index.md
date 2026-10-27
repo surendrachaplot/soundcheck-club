@@ -1,6 +1,6 @@
 # PROFF
 
-PROFF is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lower Deck, London on Sat, 5 Dec 2026.
+PROFF is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lower Deck, London on Sat, 5 Dec 2026.
 
 PROFF is a progressive house and deep house artist based in United Kingdom, with 30 gigs on soundcheck across Adelaide, Auckland, Berlin and Byron Bay and 8 more. Often billed alongside Altayef, Nox Vahn and Amy Wiles. Next up: Lower Deck, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ PROFF is a progressive house and deep house artist based in United Kingdom, with
 
 Altayef, Nox Vahn, Amy Wiles
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proff/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proff/)*

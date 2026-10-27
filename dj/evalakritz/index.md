@@ -1,6 +1,6 @@
 # Eva Lakritz
 
-Eva Lakritz is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at fi, Cologne on Fri, 27 Nov 2026.
+Eva Lakritz is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at fi, Cologne on Fri, 27 Nov 2026.
 
 Eva Lakritz is a techno and afro house artist, with 9 gigs on soundcheck across Berlin and Cologne. Often billed alongside Alalkih, Eszter and AGNY. Next up: fi, Cologne on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Eva Lakritz is a techno and afro house artist, with 9 gigs on soundcheck across 
 
 Alalkih, Eszter, AGNY
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evalakritz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evalakritz/)*

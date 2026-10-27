@@ -1,6 +1,6 @@
 # Lola Haro
 
-Lola Haro is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 30 Oct 2026.
+Lola Haro is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 30 Oct 2026.
 
 Lola Haro is a house and techno artist based in Belgium, with 174 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 53 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: Karmen Camina, Strasbourg on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Lola Haro is a house and techno artist based in Belgium, with 174 gigs on soundc
 
 Ben Kamal, r.omy, DJ Rino
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*

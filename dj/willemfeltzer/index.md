@@ -1,6 +1,6 @@
 # Willem Feltzer
 
-Willem Feltzer is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Paradigm, Netherlands on Sat, 27 Feb 2027.
+Willem Feltzer is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Paradigm, Netherlands on Sat, 27 Feb 2027.
 
 Willem Feltzer is a house and club artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Brussels, Copenhagen and Netherlands and 1 more. Often billed alongside Oceanic, Doppelgang and EYCEE. Next up: Paradigm, Netherlands on Sat 27 Feb.
 
@@ -25,4 +25,4 @@ Willem Feltzer is a house and club artist based in Netherlands, with 32 gigs on 
 
 Oceanic, Doppelgang, EYCEE
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willemfeltzer/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willemfeltzer/)*

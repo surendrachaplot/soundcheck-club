@@ -1,6 +1,6 @@
 # Cosmic Anomaly
 
-Cosmic Anomaly is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Killing Time, Valencia on Fri, 30 Oct 2026.
+Cosmic Anomaly is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Killing Time, Valencia on Fri, 30 Oct 2026.
 
 Cosmic Anomaly is a techno and electronica artist, with 5 gigs on soundcheck across Valencia. Often billed alongside Dj badtrip, Ariezzz and Biondo. Next up: Killing Time, Valencia on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Cosmic Anomaly is a techno and electronica artist, with 5 gigs on soundcheck acr
 
 Dj badtrip, Ariezzz, Biondo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicanomaly/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicanomaly/)*

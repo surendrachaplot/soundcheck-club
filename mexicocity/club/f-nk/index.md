@@ -1,6 +1,6 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Lamore Night x Fünk" on Thu, 29 Oct 2026.
+Fünk is a music venue in Mexico City with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Lamore Night x Fünk" on Thu, 29 Oct 2026.
 
 Fünk is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, with line-ups including Âme, Boyá, chldrns and Dj Luigi and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
@@ -20,4 +20,4 @@ Fünk is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, wit
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

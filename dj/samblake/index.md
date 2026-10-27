@@ -1,6 +1,6 @@
 # sam blake
 
-sam blake is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NWHR, Montreal on Fri, 13 Nov 2026.
+sam blake is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at NWHR, Montreal on Fri, 13 Nov 2026.
 
 sam blake is a techno and club artist based in Canada, with 16 gigs on soundcheck across Montreal and Toronto. Often billed alongside BONNE-V, Kuscheln and Lash. Next up: NWHR, Montreal on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ sam blake is a techno and club artist based in Canada, with 16 gigs on soundchec
 
 BONNE-V, Kuscheln, Lash
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samblake/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samblake/)*

@@ -1,6 +1,6 @@
 # Redein
 
-Redein is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Istina Mašina, Serbia on Sat, 31 Oct 2026.
+Redein is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Istina Mašina, Serbia on Sat, 31 Oct 2026.
 
 Redein is a techno and house artist, with 5 gigs on soundcheck across Amsterdam, Istanbul, Serbia and Zurich. Often billed alongside KCGZ, OLGUN and Tamer Hamza. Next up: Istina Mašina, Serbia on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Redein is a techno and house artist, with 5 gigs on soundcheck across Amsterdam,
 
 KCGZ, OLGUN, Tamer Hamza
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redein/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redein/)*

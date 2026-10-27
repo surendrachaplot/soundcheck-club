@@ -1,6 +1,6 @@
 # Till Antonio
 
-Till Antonio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Travers Malmö, Malmo on Sat, 7 Nov 2026.
+Till Antonio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Travers Malmö, Malmo on Sat, 7 Nov 2026.
 
 Till Antonio is a techno and house artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 19 more. Often billed alongside Michael Ritter, Intaktogene and Felix E. Next up: TBA - Travers Malmö, Malmo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Till Antonio is a techno and house artist based in Germany, with 90 gigs on soun
 
 Michael Ritter, Intaktogene, Felix E
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tillantonio/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tillantonio/)*

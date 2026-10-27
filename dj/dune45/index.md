@@ -1,6 +1,6 @@
 # Dune45
 
-Dune45 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Crossroads Cafe, New York City on Sat, 7 Nov 2026.
+Dune45 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Crossroads Cafe, New York City on Sat, 7 Nov 2026.
 
 Dune45 is a house and techno artist, with 14 gigs on soundcheck across New York City and Singapore. Often billed alongside Halis, Organics and Andre Marc. Next up: Crossroads Cafe, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Dune45 is a house and techno artist, with 14 gigs on soundcheck across New York 
 
 Halis, Organics, Andre Marc
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dune45/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dune45/)*

@@ -1,6 +1,6 @@
 # REA (AL)
 
-REA (AL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Supermarket, Zurich on Fri, 30 Oct 2026.
+REA (AL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Supermarket, Zurich on Fri, 30 Oct 2026.
 
 REA (AL) is a techno and house artist based in Albania, with 15 gigs on soundcheck across Amsterdam, Barcelona, Bristol and London and 3 more. Often billed alongside BUSSI, Black Box and ESC. Next up: Supermarket, Zurich on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ REA (AL) is a techno and house artist based in Albania, with 15 gigs on soundche
 
 BUSSI, Black Box, ESC (5)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rea-al/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rea-al/)*

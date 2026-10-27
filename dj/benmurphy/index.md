@@ -1,6 +1,6 @@
 # Ben Murphy
 
-Ben Murphy is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Beykoz Kundura Fabric, Istanbul on Sat, 31 Oct 2026.
+Ben Murphy is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Beykoz Kundura Fabric, Istanbul on Sat, 31 Oct 2026.
 
 Ben Murphy is a tech house and minimal artist based in United Kingdom, with 17 gigs on soundcheck across Istanbul, Lausanne, Leeds and London and 2 more. Often billed alongside Marcellus, Mas Fuego and Andrew Kay. Next up: Beykoz Kundura Fabric, Istanbul on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Ben Murphy is a tech house and minimal artist based in United Kingdom, with 17 g
 
 Marcellus, Mas Fuego, Andrew Kay
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benmurphy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benmurphy/)*

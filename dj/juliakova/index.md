@@ -1,6 +1,6 @@
 # Julia Kova
 
-Julia Kova is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Brooklyn Monarch, New York City on Wed, 25 Nov 2026.
+Julia Kova is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Brooklyn Monarch, New York City on Wed, 25 Nov 2026.
 
 Julia Kova is a techno and industrial artist based in United States of America, with 14 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Telesforo, Dark Matter and FØSS. Next up: The Brooklyn Monarch, New York City on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Julia Kova is a techno and industrial artist based in United States of America, 
 
 Telesforo, Dark Matter, FØSS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliakova/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliakova/)*

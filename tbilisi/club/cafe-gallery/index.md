@@ -1,6 +1,6 @@
 # Cafe-Gallery
 
-Cafe-Gallery is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Cafe Gallery Halloween Night" on Fri, 30 Oct 2026.
+Cafe-Gallery is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Cafe Gallery Halloween Night" on Fri, 30 Oct 2026.
 
 Cafe-Gallery is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with line-ups including Bacho and Hudson. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Cafe-Gallery is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, 
 | Fri, 30 Oct 2026 | Cafe Gallery Halloween Night | Bacho, Hudson |
 | Sat, 31 Oct 2026 | Halloween Day Party with Osquello & more |  |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/cafe-gallery/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/cafe-gallery/)*

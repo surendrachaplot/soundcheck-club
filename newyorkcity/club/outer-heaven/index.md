@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Outer Heaven presents: Matteo Dio b2b Parea" on Wed, 28 Oct 2026.
+Outer Heaven is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Outer Heaven presents: Matteo Dio b2b Parea" on Wed, 28 Oct 2026.
 
 Outer Heaven is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including Amelia Holt, Armii1n, Bobby. and CAMILLA and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
@@ -23,4 +23,4 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 18 upcoming
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

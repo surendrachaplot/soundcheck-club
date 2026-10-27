@@ -1,8 +1,8 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Hidden Halloween Thurs w/ DJ Q & Flowdan, Hugo Chegwin + more" on Thu, 29 Oct 2026.
+Hidden is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Hidden Halloween Thurs w/ DJ Q & Flowdan, Hugo Chegwin + more" on Thu, 29 Oct 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Adele Tondu, Agnelli & Nelson, Allius and Amelia Leigh and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including 2FEL, Adele Tondu, Agnelli & Nelson and Allius and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, wi
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

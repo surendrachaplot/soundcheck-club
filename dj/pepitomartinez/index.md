@@ -1,6 +1,6 @@
 # Pepito Martinez
 
-Pepito Martinez is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - DM @pulse_friction on Instagram for details, Berlin on Sat, 31 Oct 2026.
+Pepito Martinez is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - DM @pulse_friction on Instagram for details, Berlin on Sat, 31 Oct 2026.
 
 Pepito Martinez is a techno artist based in France, with 5 gigs on soundcheck across Berlin. Often billed alongside doctor doms, Luminick and Rudy Zigliara. Next up: TBA - DM @pulse_friction on Instagram for details, Berlin on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Pepito Martinez is a techno artist based in France, with 5 gigs on soundcheck ac
 
 doctor doms, Luminick, Rudy Zigliara
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepitomartinez/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepitomartinez/)*

@@ -1,6 +1,6 @@
 # MNBOO
 
-MNBOO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
+MNBOO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
 
 MNBOO is a techno and trance artist based in France, with 14 gigs on soundcheck across Berlin and Paris. Often billed alongside Djé Djé from the block, Gabbor and JOIA. Next up: Chateau Ephémère, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ MNBOO is a techno and trance artist based in France, with 14 gigs on soundcheck 
 
 Djé Djé from the block, Gabbor, JOIA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mnboo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mnboo/)*

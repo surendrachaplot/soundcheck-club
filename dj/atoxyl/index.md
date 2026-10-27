@@ -1,6 +1,6 @@
 # Atoxyl
 
-Atoxyl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Patterns, Brighton on Sat, 12 Dec 2026.
+Atoxyl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Patterns, Brighton on Sat, 12 Dec 2026.
 
 Atoxyl is a techno and trance artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Brighton, London and Melbourne. Often billed alongside Spinks, Yiota and DSD uk. Next up: Patterns, Brighton on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Atoxyl is a techno and trance artist based in United Kingdom, with 27 gigs on so
 
 Spinks, Yiota, DSD uk
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atoxyl/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atoxyl/)*

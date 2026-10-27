@@ -1,6 +1,6 @@
 # Nancy Nutter
 
-Nancy Nutter is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
+Nancy Nutter is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
 
 Nancy Nutter is a house and progressive house artist based in Germany, with 20 gigs on soundcheck across Berlin. Often billed alongside BLEACH.LIVE, ADAM MUNNINGS and DJ Petite. Next up: KREUZWERK, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Nancy Nutter is a house and progressive house artist based in Germany, with 20 g
 
 BLEACH.LIVE, ADAM MUNNINGS, DJ Petite
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynutter/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynutter/)*

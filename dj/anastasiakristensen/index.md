@@ -1,6 +1,6 @@
 # Anastasia Kristensen
 
-Anastasia Kristensen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 7 Nov 2026.
+Anastasia Kristensen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 7 Nov 2026.
 
 Anastasia Kristensen is a techno and house artist based in Denmark, with 114 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 40 more. Often billed alongside Elise Massoni, Patrick Mason and Sham (DK). Next up: Den Anden Side, Copenhagen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Anastasia Kristensen is a techno and house artist based in Denmark, with 114 gig
 
 Elise Massoni, Patrick Mason, Sham (DK)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiakristensen/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiakristensen/)*

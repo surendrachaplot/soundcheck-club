@@ -1,6 +1,6 @@
 # Organïk XXL 2026 - INDOOR at Parc Des Expositions
 
-Organïk XXL 2026 - INDOOR at Parc Des Expositions on Sat 19 Dec, Paris. 6 artists: 6EJOU, AISHA, ANXHELA and DJ Mad Dog and 2 more. Techno and Hardcore. See the line-up on soundcheck.
+Organïk XXL 2026 - INDOOR at Parc Des Expositions on Sat 19 Dec, Paris. 9 artists: 6EJOU, AISHA, ANXHELA and DJ Mad Dog and 5 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,10 @@ Organïk XXL 2026 - INDOOR at Parc Des Expositions on Sat 19 Dec, Paris. 6 artis
 - AISHA
 - ANXHELA
 - DJ Mad Dog
+- ECZODIA
 - Krowdexx
 - LESSSS
+- OMAKS
+- Todiefor
 
 *Source: [soundcheck](https://soundcheck.club/e/2521013-organ-k-xxl-2026-indoor-at-parc-des-expositions/)*

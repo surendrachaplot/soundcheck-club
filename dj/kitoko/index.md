@@ -1,6 +1,6 @@
 # Kitoko
 
-Kitoko is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
+Kitoko is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
 
 Kitoko is an electronic artist based in Belgium, with 12 gigs on soundcheck across Brussels. Often billed alongside Baka G, DARKEN and DJoker. Next up: Illegaal, Brussels on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kitoko is an electronic artist based in Belgium, with 12 gigs on soundcheck acro
 
 Baka G, DARKEN, DJoker
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitoko/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitoko/)*

@@ -1,6 +1,6 @@
 # Joseph Fakih
 
-Joseph Fakih is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Temple Bar, Detroit on Sat, 7 Nov 2026.
+Joseph Fakih is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Temple Bar, Detroit on Sat, 7 Nov 2026.
 
 Joseph Fakih is a techno and house artist, with 10 gigs on soundcheck across Detroit. Often billed alongside YerikODJ, Duck Trash and NK-Ultra. Next up: Temple Bar, Detroit on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Joseph Fakih is a techno and house artist, with 10 gigs on soundcheck across Det
 
 YerikODJ, Duck Trash, NK-Ultra
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephfakih/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephfakih/)*

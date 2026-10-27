@@ -1,6 +1,6 @@
 # Rebecca Lasmar
 
-Rebecca Lasmar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at nueve cero nueve, Mexico City on Sat, 31 Oct 2026.
+Rebecca Lasmar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at nueve cero nueve, Mexico City on Sat, 31 Oct 2026.
 
 Rebecca Lasmar is a house and tech house artist, with 19 gigs on soundcheck across Mexico City. Often billed alongside Harfush, Jaaw and Redorta. Next up: nueve cero nueve, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rebecca Lasmar is a house and tech house artist, with 19 gigs on soundcheck acro
 
 Harfush, Jaaw, Redorta
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccalasmar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccalasmar/)*

@@ -1,6 +1,6 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
+Paranoid London is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
 
 Paranoid London is a techno and acid artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baltimore and 46 more. Often billed alongside Palms Trax, Soul Clap and Elena Colombi. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 131 gi
 
 Palms Trax, Soul Clap, Elena Colombi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

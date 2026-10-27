@@ -1,6 +1,6 @@
 # Hertz
 
-Hertz is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Eventhuset, Stockholm on Sat, 31 Oct 2026.
+Hertz is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eventhuset, Stockholm on Sat, 31 Oct 2026.
 
 Hertz is a techno and minimal artist, with 6 gigs on soundcheck across Bogotá, Brighton, Bucharest and Madrid and 2 more. Often billed alongside ACOR, Aida Arko and Airod. Next up: Eventhuset, Stockholm on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Hertz is a techno and minimal artist, with 6 gigs on soundcheck across Bogotá, 
 
 ACOR, Aida Arko, Airod
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hertz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hertz/)*

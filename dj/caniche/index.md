@@ -1,6 +1,6 @@
 # Caniche
 
-Caniche is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Blindspot*, Bucharest on Fri, 30 Oct 2026.
+Caniche is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Blindspot*, Bucharest on Fri, 30 Oct 2026.
 
 Caniche is a techno and trance artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 26 more. Often billed alongside Specific Objects, Mischa Beton and TONI BA. Next up: Blindspot*, Bucharest on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Caniche is a techno and trance artist based in Germany, with 125 gigs on soundch
 
 Specific Objects, Mischa Beton, TONI BA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caniche/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caniche/)*

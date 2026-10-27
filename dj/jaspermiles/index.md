@@ -1,14 +1,15 @@
 # Jasper Miles
 
-Jasper Miles is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 13 Nov 2026.
+Jasper Miles is a Deep House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 13 Nov 2026.
 
-Jasper Miles is a deep house and disco artist based in Australia, with 4 gigs on soundcheck across Melbourne. Often billed alongside BONNITA, Chucheewa and Emil LP. Next up: Angel Music Bar, Melbourne on Fri 13 Nov.
+Jasper Miles is a deep house and disco artist based in Australia, with 5 gigs on soundcheck across Melbourne. Often billed alongside Sammy Sanchez, BONNITA and Chucheewa. Next up: Angel Music Bar, Melbourne on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Angel Music Bar | Melbourne |
+| Sat, 5 Dec 2026 | Collingwood Basement | Melbourne |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Jasper Miles is a deep house and disco artist based in Australia, with 4 gigs on
 
 ## Shares bills with
 
-BONNITA, Chucheewa, Emil LP
+Sammy Sanchez, BONNITA, Chucheewa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspermiles/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspermiles/)*

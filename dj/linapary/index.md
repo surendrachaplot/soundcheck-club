@@ -1,6 +1,6 @@
 # Linapary
 
-Linapary is a Reggaeton and Guaracha artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Revolver Upstairs, Melbourne on Thu, 29 Oct 2026.
+Linapary is a Reggaeton and Guaracha artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Revolver Upstairs, Melbourne on Thu, 29 Oct 2026.
 
 Linapary is a reggaeton and guaracha artist based in Colombia, with 139 gigs on soundcheck across Atlanta, Barcelona, Belgrade and Berlin and 27 more. Often billed alongside BZZHOUND, Don Amor and DJ2D2. Next up: Revolver Upstairs, Melbourne on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ Linapary is a reggaeton and guaracha artist based in Colombia, with 139 gigs on 
 
 BZZHOUND, Don Amor, DJ2D2
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linapary/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linapary/)*

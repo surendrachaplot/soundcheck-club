@@ -1,6 +1,6 @@
 # PIX.L
 
-PIX.L is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 6 Nov 2026.
+PIX.L is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 6 Nov 2026.
 
 PIX.L is a drum & bass and bass artist based in Portugal, with 17 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Basic, Kush (PT) and Original Pressure. Next up: Ministerium Club, Lisbon on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ PIX.L is a drum & bass and bass artist based in Portugal, with 17 gigs on soundc
 
 Basic (2), Kush (PT), Original Pressure
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pix.l/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pix.l/)*

@@ -1,6 +1,6 @@
 # FVBN
 
-FVBN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
+FVBN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
 
 FVBN is a techno and house artist based in Poland, with 16 gigs on soundcheck across Warsaw. Often billed alongside HANICZ, KEVS and KÆS. Next up: Luzztro, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ FVBN is a techno and house artist based in Poland, with 16 gigs on soundcheck ac
 
 HANICZ, KEVS, KÆS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fvbn/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fvbn/)*

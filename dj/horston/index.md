@@ -1,6 +1,6 @@
 # Horston
 
-Horston is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
+Horston is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
 
 Horston is a techno and trance artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside AKnight, ANNX and Belin. Next up: Low Profile Studios, London on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Horston is a techno and trance artist based in United Kingdom, with 5 gigs on so
 
 AKnight, ANNX, Belin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horston/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horston/)*

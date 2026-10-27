@@ -1,6 +1,6 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Colombo, Sri-lanka on Sat, 31 Oct 2026.
+Sasha is a Progressive House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Colombo, Sri-lanka on Sat, 31 Oct 2026.
 
 Sasha is a progressive house and techno artist based in United Kingdom, with 184 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside John Digweed, Franky Wah and Patrice Bäumel. Next up: TBA - Colombo, Sri Lanka on Sat 31 Oct.
 
@@ -34,4 +34,4 @@ Sasha is a progressive house and techno artist based in United Kingdom, with 184
 
 John Digweed, Franky Wah, Patrice Bäumel
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

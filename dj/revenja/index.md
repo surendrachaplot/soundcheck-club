@@ -1,6 +1,6 @@
 # Revenja
 
-Revenja is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+Revenja is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
 Revenja is a hardcore and techno artist based in Spain, with 22 gigs on soundcheck across Barcelona and Madrid. Often billed alongside SuttleK, Vieze Asbak and BLNK. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Revenja is a hardcore and techno artist based in Spain, with 22 gigs on soundche
 
 SuttleK, Vieze Asbak, BLNK
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revenja/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revenja/)*

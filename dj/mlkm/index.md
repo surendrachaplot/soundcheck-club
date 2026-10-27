@@ -1,6 +1,6 @@
 # MLK:M
 
-MLK:M is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 21 Nov 2026.
+MLK:M is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 21 Nov 2026.
 
 MLK:M is an acid and techno artist based in Azerbaijan, with 14 gigs on soundcheck across Berlin, Krakow and Prague. Often billed alongside Technadze, Kavkaz Widow and 2NDRA. Next up: Ankali & Planeta Za, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MLK:M is an acid and techno artist based in Azerbaijan, with 14 gigs on soundche
 
 Technadze, Kavkaz Widow, 2NDRA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mlkm/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mlkm/)*

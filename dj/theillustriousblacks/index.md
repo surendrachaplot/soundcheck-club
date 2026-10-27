@@ -1,6 +1,6 @@
 # The Illustrious Blacks
 
-The Illustrious Blacks is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Flea Theater, New York City on Tue, 27 Oct 2026.
+The Illustrious Blacks is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Flea Theater, New York City on Tue, 27 Oct 2026.
 
 The Illustrious Blacks is a house and disco artist based in United States of America, with 92 gigs on soundcheck across Adelaide, Berlin, Boston and Detroit and 18 more. Often billed alongside Boris, Gabrielle Kwarteng and Hercules & Love Affair. Next up: The Flea Theater, New York City on Tue 27 Oct.
 
@@ -27,4 +27,4 @@ The Illustrious Blacks is a house and disco artist based in United States of Ame
 
 Boris, Gabrielle Kwarteng, Hercules & Love Affair
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*

@@ -1,6 +1,6 @@
 # Xia (2)
 
-Xia (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Igloofest, Montreal on Sat, 16 Jan 2027.
+Xia (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Igloofest, Montreal on Sat, 16 Jan 2027.
 
 Xia is a techno and trance artist based in Canada, with 42 gigs on soundcheck across Berlin, Cologne, Lyon and Mexico City and 5 more. Often billed alongside Corinita, CrisseMarqueur and No Police. Next up: Igloofest, Montreal on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Xia is a techno and trance artist based in Canada, with 42 gigs on soundcheck ac
 
 Corinita, CrisseMarqueur, No Police
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xia-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xia-2/)*

@@ -1,6 +1,6 @@
 # Joseph Steel
 
-Joseph Steel is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club NYX, Amsterdam on Fri, 30 Oct 2026.
+Joseph Steel is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club NYX, Amsterdam on Fri, 30 Oct 2026.
 
 Joseph Steel is a pop and house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Aiscream, Emma Champagne Queen and Babs op de beat. Next up: Club NYX, Amsterdam on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Joseph Steel is a pop and house artist based in Netherlands, with 5 gigs on soun
 
 Aiscream, Emma Champagne Queen, Babs op de beat
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephsteel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephsteel/)*

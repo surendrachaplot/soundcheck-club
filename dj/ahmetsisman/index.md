@@ -1,6 +1,6 @@
 # Ahmet Sisman
 
-Ahmet Sisman is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at FOLD, London on Fri, 6 Nov 2026.
+Ahmet Sisman is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at FOLD, London on Fri, 6 Nov 2026.
 
 Ahmet Sisman is a techno and house artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 12 more. Often billed alongside VNNN., Alarico and Dasha Rush. Next up: FOLD, London on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Ahmet Sisman is a techno and house artist based in Germany, with 37 gigs on soun
 
 VNNN., Alarico, Dasha Rush
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahmetsisman/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahmetsisman/)*

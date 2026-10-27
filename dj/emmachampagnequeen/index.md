@@ -1,6 +1,6 @@
 # Emma Champagne Queen
 
-Emma Champagne Queen is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Club NYX, Amsterdam on Fri, 30 Oct 2026.
+Emma Champagne Queen is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Club NYX, Amsterdam on Fri, 30 Oct 2026.
 
 Emma Champagne Queen is a house and disco artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside Kirilski, Heritage Listed and Pura Pachanga. Next up: Club NYX, Amsterdam on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Emma Champagne Queen is a house and disco artist based in Netherlands, with 42 g
 
 Kirilski, Heritage Listed, Pura Pachanga
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmachampagnequeen/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmachampagnequeen/)*

@@ -1,6 +1,6 @@
 # Parrish Smith
 
-Parrish Smith is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
+Parrish Smith is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
 
 Parrish Smith is a techno and ebm artist based in Netherlands, with 100 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 28 more. Often billed alongside Camy Huot, Mila V and Phase Fatale. Next up: KHIDI, Tbilisi on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Parrish Smith is a techno and ebm artist based in Netherlands, with 100 gigs on 
 
 Camy Huot, Mila V, Phase Fatale
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parrishsmith/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parrishsmith/)*

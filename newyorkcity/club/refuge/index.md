@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "PURGATORY: Thursday Night with salute B2B Stacey Pullen" on Thu, 29 Oct 2026.
+Refuge is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "PURGATORY: Thursday Night with salute B2B Stacey Pullen" on Thu, 29 Oct 2026.
 
 Refuge is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including DANILO BRACA, Anthony Middleton, BASHKKA and Bella Mutino and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in New York City listed on soundcheck. 21 upcoming gigs,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

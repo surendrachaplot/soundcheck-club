@@ -1,6 +1,6 @@
 # Reverie at the Park
 
-Reverie at the Park is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "(((SIGNAL))) at the Reverie: House of Lords, TESFAY, Aydan XR b2b CAIT, Lizard Time" on Fri, 20 Nov 2026.
+Reverie at the Park is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "(((SIGNAL))) at the Reverie: House of Lords, TESFAY, Aydan XR b2b CAIT, Lizard Time" on Fri, 20 Nov 2026.
 
 Reverie at the Park is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Aydan XR, CAIT., House of Lords and Lizard Time and 1 more. See dates, start times and who's playing. 569 College St, Toronto, ON M6G 1B2.
 
@@ -15,4 +15,4 @@ Reverie at the Park is a music venue in Toronto listed on soundcheck. 2 upcoming
 
 569 College St, Toronto, ON M6G 1B2, Toronto
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/reverie-at-the-park/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/reverie-at-the-park/)*

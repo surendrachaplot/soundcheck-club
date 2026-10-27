@@ -1,6 +1,6 @@
 # NULL 01 at Atno
 
-NULL 01 at Atno on Sat 19 Dec, Budapest. 10 artists: Arash Ete, Carl H, CT Kidobó and Kamyar Keramati and 6 more. Trance and Psytrance. See the line-up on soundcheck.
+NULL 01 at Atno on Sat 19 Dec, Budapest. 10 artists: Arash Ete, Carl H, CT Kidobó and Kamyar Keramati and 6 more. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

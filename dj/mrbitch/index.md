@@ -1,6 +1,6 @@
 # Mr. Bitch
 
-Mr. Bitch is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 31 Oct 2026.
+Mr. Bitch is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 31 Oct 2026.
 
 Mr. Bitch is a techno and reggaeton artist based in United States of America, with 28 gigs on soundcheck across Miami and New York City. Often billed alongside Pressure Point (US), SATURNSARii and Lady Narcisse. Next up: The Ground at Club Space, Miami on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mr. Bitch is a techno and reggaeton artist based in United States of America, wi
 
 Pressure Point (US), SATURNSARii, Lady Narcisse
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrbitch/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrbitch/)*

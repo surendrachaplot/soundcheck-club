@@ -1,6 +1,6 @@
 # Jousey
 
-Jousey is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Jousey is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Jousey is a bass and garage artist, with 5 gigs on soundcheck across Auckland and Christchurch. Often billed alongside ANABE, AROHA and Aunty El. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -21,4 +21,4 @@ Jousey is a bass and garage artist, with 5 gigs on soundcheck across Auckland an
 
 ANABE, AROHA, Aunty El
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jousey/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jousey/)*

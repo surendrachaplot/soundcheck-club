@@ -1,6 +1,6 @@
 # Romphea
 
-Romphea is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Patision65, Athens on Fri, 30 Oct 2026.
+Romphea is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Patision65, Athens on Fri, 30 Oct 2026.
 
 Romphea is an electro and techno artist, with 16 gigs on soundcheck across Athens. Often billed alongside Morken, Salvi k and Extase Urbaine. Next up: Patision65, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Romphea is an electro and techno artist, with 16 gigs on soundcheck across Athen
 
 Morken, Salvi k, Extase Urbaine
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romphea/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romphea/)*

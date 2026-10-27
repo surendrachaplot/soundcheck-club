@@ -1,6 +1,6 @@
 # KunstTechnologe
 
-KunstTechnologe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
+KunstTechnologe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
 
 KunstTechnologe is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Berlin and Leipzig. Often billed alongside FRÄNK, Laviena and NACHTIGALL. Next up: ÆDEN, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ KunstTechnologe is a techno and trance artist based in Germany, with 21 gigs on 
 
 FRÄNK, Laviena, NACHTIGALL
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kunsttechnologe/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kunsttechnologe/)*

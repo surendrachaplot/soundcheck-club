@@ -1,6 +1,6 @@
 # Natly Mey
 
-Natly Mey is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 30 Oct 2026.
+Natly Mey is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 30 Oct 2026.
 
 Natly Mey is a techno and tech house artist, with 8 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, BugzB and JonnyVicious. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Natly Mey is a techno and tech house artist, with 8 gigs on soundcheck across Ku
 
 Alam, BugzB, JonnyVicious
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natlymey/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natlymey/)*

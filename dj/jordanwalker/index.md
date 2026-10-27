@@ -1,6 +1,6 @@
 # Jordan Walker
 
-Jordan Walker is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Eiger Studios, Leeds on Fri, 6 Nov 2026.
+Jordan Walker is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eiger Studios, Leeds on Fri, 6 Nov 2026.
 
 Jordan Walker is a tech house and house artist, with 12 gigs on soundcheck across Leeds. Often billed alongside BP, Eli Shaw and Luke Foulkes. Next up: Eiger Studios, Leeds on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jordan Walker is a tech house and house artist, with 12 gigs on soundcheck acros
 
 BP (1), Eli Shaw, Luke Foulkes
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanwalker/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanwalker/)*

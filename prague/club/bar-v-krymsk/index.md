@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Jeffology" on Tue, 27 Oct 2026.
+Bar v Krymský is a music venue in Prague with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Jeffology" on Tue, 27 Oct 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 4 upcoming gigs, with line-ups including Cubik and Kat Kat Tat. See dates, start times and who's playing. Krymská 21, Praha.
 
@@ -17,4 +17,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 4 upcoming gigs,
 
 Krymská 21, Praha, Prague
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

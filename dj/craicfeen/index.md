@@ -1,6 +1,6 @@
 # Craic Feen
 
-Craic Feen is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Substance Skatepark, New York City on Sat, 7 Nov 2026.
+Craic Feen is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Substance Skatepark, New York City on Sat, 7 Nov 2026.
 
 Craic Feen is a bass and club artist based in Ireland, with 8 gigs on soundcheck across New York City. Often billed alongside Don-Ri, onlytom and Babypufff. Next up: Substance Skatepark, New York City on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Craic Feen is a bass and club artist based in Ireland, with 8 gigs on soundcheck
 
 Don-Ri, onlytom, Babypufff
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craicfeen/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craicfeen/)*

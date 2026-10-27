@@ -1,6 +1,6 @@
 # JVN
 
-JVN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Graf Karl, Kassel on Sat, 31 Oct 2026.
+JVN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Graf Karl, Kassel on Sat, 31 Oct 2026.
 
 JVN is a techno and trance artist, with 7 gigs on soundcheck across Berlin, Frankfurt, Hannover and Kassel. Often billed alongside Melushka, Tobi Lack and 5euroGoldi. Next up: Graf Karl, Kassel on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ JVN is a techno and trance artist, with 7 gigs on soundcheck across Berlin, Fran
 
 Melushka, Tobi Lack, 5euroGoldi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jvn/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jvn/)*

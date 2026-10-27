@@ -1,6 +1,6 @@
 # maevie
 
-maevie is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The DBA, Manchester on Wed, 28 Oct 2026.
+maevie is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The DBA, Manchester on Wed, 28 Oct 2026.
 
 maevie is a trance and techno artist based in United Kingdom, with 16 gigs on soundcheck across Leeds and Manchester. Often billed alongside Lucky Bunny, Princess Elf Bar and Willow J. Next up: The DBA, Manchester on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ maevie is a trance and techno artist based in United Kingdom, with 16 gigs on so
 
 Lucky Bunny, Princess Elf Bar, Willow J
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maevie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maevie/)*

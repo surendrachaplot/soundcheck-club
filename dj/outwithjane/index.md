@@ -1,6 +1,6 @@
 # OutWithJane
 
-OutWithJane is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Prisma, Berlin on Tue, 10 Nov 2026.
+OutWithJane is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Prisma, Berlin on Tue, 10 Nov 2026.
 
 OutWithJane is a house and techno artist based in Germany, with 14 gigs on soundcheck across Berlin and Leipzig. Often billed alongside T.Schaui, Kalitos and Kalpea. Next up: Prisma, Berlin on Tue 10 Nov.
 
@@ -27,4 +27,4 @@ OutWithJane is a house and techno artist based in Germany, with 14 gigs on sound
 
 T.Schaui, Kalitos, Kalpea
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outwithjane/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outwithjane/)*

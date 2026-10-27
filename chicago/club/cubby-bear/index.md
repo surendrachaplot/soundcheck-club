@@ -1,6 +1,6 @@
 # Cubby Bear
 
-Cubby Bear is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "EMERGENCY PREGAME: HALLOWEEN" on Wed, 28 Oct 2026.
+Cubby Bear is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "EMERGENCY PREGAME: HALLOWEEN" on Wed, 28 Oct 2026.
 
 Cubby Bear is a music venue in Chicago listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cubby Bear is a music venue in Chicago listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Wed, 28 Oct 2026 | EMERGENCY PREGAME: HALLOWEEN |  |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/cubby-bear/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/cubby-bear/)*

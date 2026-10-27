@@ -1,6 +1,6 @@
 # EMILIJA & Two Dots at KALT
 
-EMILIJA & Two Dots at KALT on Sat 14 Nov, Strasbourg. 2 artists: EMILIJA and Two Dots (FR). See the line-up on soundcheck.
+EMILIJA & Two Dots at KALT on Sat 14 Nov, Strasbourg. 4 artists: DATIS, Doudeh, EMILIJA and Two Dots (FR). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ EMILIJA & Two Dots at KALT on Sat 14 Nov, Strasbourg. 2 artists: EMILIJA and Two
 
 ## Line-up
 
+- DATIS
+- Doudeh
 - EMILIJA
 - Two Dots (FR)
 

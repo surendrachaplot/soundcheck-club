@@ -1,6 +1,6 @@
 # Beth Alana
 
-Beth Alana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Delgalleria - Espa, Helsinki on Sat, 28 Nov 2026.
+Beth Alana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Delgalleria - Espa, Helsinki on Sat, 28 Nov 2026.
 
 Beth Alana is a techno and house artist, with 32 gigs on soundcheck across Berlin, Helsinki, Manchester and Newcastle and 4 more. Often billed alongside Reginald, Šikšna and DJ Betska. Next up: Delgalleria - Espa, Helsinki on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Beth Alana is a techno and house artist, with 32 gigs on soundcheck across Berli
 
 Reginald, Šikšna, DJ Betska
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bethalana/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bethalana/)*

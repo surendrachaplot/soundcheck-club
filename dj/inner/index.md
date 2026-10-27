@@ -1,6 +1,6 @@
 # Inner
 
-Inner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pas Berlin, Berlin on Sun, 1 Nov 2026.
+Inner is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pas Berlin, Berlin on Sun, 1 Nov 2026.
 
 Inner is a techno and house artist based in Romania, with 33 gigs on soundcheck across Berlin, Bucharest, Buenos Aires and Milan and 1 more. Often billed alongside Clovis, Elli.on and Fanfarrosa. Next up: Pas Berlin, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Inner is a techno and house artist based in Romania, with 33 gigs on soundcheck 
 
 Clovis, Elli.on, Fanfarrosa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inner/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inner/)*

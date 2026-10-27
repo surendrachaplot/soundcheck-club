@@ -1,6 +1,6 @@
 # Valentino Khan at Silo Dallas
 
-Valentino Khan at Silo Dallas on Sat 19 Dec, Dallas Fort Worth. 1 artist: Marten Hørger. See the line-up on soundcheck.
+Valentino Khan at Silo Dallas on Sat 19 Dec, Dallas Fort Worth. 2 artists: Marten Hørger and Ocho. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Valentino Khan at Silo Dallas on Sat 19 Dec, Dallas Fort Worth. 1 artist: Marten
 ## Line-up
 
 - Marten Hørger
+- Ocho
 
 *Source: [soundcheck](https://soundcheck.club/e/2476342-valentino-khan-at-silo-dallas/)*

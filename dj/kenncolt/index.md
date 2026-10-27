@@ -1,8 +1,8 @@
 # Kenn Colt
 
-Kenn Colt is a Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Brussels Central Station, Brussels on Fri, 20 Nov 2026.
+Kenn Colt is a Afro House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Brussels Central Station, Brussels on Fri, 20 Nov 2026.
 
-Kenn Colt is an afro house artist based in Belgium, with 32 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Brussels and 7 more. Often billed alongside Linda Lenor. Next up: TBA - Brussels Central Station, Brussels on Fri 20 Nov.
+Kenn Colt is an afro house artist based in Belgium, with 33 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Brussels and 7 more. Often billed alongside Linda Lenor. Next up: TBA - Brussels Central Station, Brussels on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kenn Colt is an afro house artist based in Belgium, with 32 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - Brussels Central Station | Brussels |
 | Fri, 20 Nov 2026 | TBA - Brussels North Station | Brussels |
+| Thu, 31 Dec 2026 | Octave Rooftop Lounge & Bar | Bangkok |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kenn Colt is an afro house artist based in Belgium, with 32 gigs on soundcheck a
 
 Linda Lenor
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenncolt/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenncolt/)*

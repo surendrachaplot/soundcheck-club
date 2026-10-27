@@ -1,6 +1,6 @@
 # Studio 1111
 
-Studio 1111 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "BODY OF WORK #6: AT YOUR FINGERTIPS" on Wed, 4 Nov 2026.
+Studio 1111 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "BODY OF WORK #6: AT YOUR FINGERTIPS" on Wed, 4 Nov 2026.
 
 Studio 1111 is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Discotopian. See dates, start times and who's playing. Potsdamer Str. 96 10785 Berlin.
 
@@ -14,4 +14,4 @@ Studio 1111 is a music venue in Berlin listed on soundcheck. 1 upcoming gig, wit
 
 Potsdamer Str. 96 10785 Berlin, Berlin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-1111/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-1111/)*

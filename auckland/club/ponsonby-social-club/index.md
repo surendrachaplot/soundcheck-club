@@ -1,6 +1,6 @@
 # Ponsonby Social Club
 
-Ponsonby Social Club is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "leverson x Ponsonby Social Club" on Thu, 19 Nov 2026.
+Ponsonby Social Club is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "leverson x Ponsonby Social Club" on Thu, 19 Nov 2026.
 
 Ponsonby Social Club is a music venue in Auckland listed on soundcheck. 2 upcoming gigs, with line-ups including leverson. See dates, start times and who's playing. 152 Ponsonby Road, Ponsonby, Auckland 1011.
 
@@ -15,4 +15,4 @@ Ponsonby Social Club is a music venue in Auckland listed on soundcheck. 2 upcomi
 
 152 Ponsonby Road, Ponsonby, Auckland 1011, Auckland
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/ponsonby-social-club/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/ponsonby-social-club/)*

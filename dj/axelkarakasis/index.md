@@ -1,6 +1,6 @@
 # Axel Karakasis
 
-Axel Karakasis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kassa Boat, Budapest on Sat, 12 Dec 2026.
+Axel Karakasis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kassa Boat, Budapest on Sat, 12 Dec 2026.
 
 Axel Karakasis is a techno and acid artist, with 6 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 2 more. Often billed alongside A.C., Alexander Kowalski and BUSSI. Next up: Kassa Boat, Budapest on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Axel Karakasis is a techno and acid artist, with 6 gigs on soundcheck across Ams
 
 A.C., Alexander Kowalski, BUSSI
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelkarakasis/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelkarakasis/)*

@@ -1,6 +1,6 @@
 # AQUELARRE: Oli XL, ICQ Baby, Miss Jay, Bamao Yende ++ at TBA - Col. Centro, CDMX
 
-AQUELARRE: Oli XL, ICQ Baby, Miss Jay, Bamao Yende ++ at TBA - Col. Centro, CDMX on Sat 31 Oct, Mexico City. 8 artists: Bamao Yendé, Eisebelle, ICQ Baby and KEBRA and 4 more. Pop and Club. See the line-up on soundcheck.
+AQUELARRE: Oli XL, ICQ Baby, Miss Jay, Bamao Yende ++ at TBA - Col. Centro, CDMX on Sat 31 Oct, Mexico City. 9 artists: Agazero, Bamao Yendé, Eisebelle and ICQ Baby and 5 more. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ AQUELARRE: Oli XL, ICQ Baby, Miss Jay, Bamao Yende ++ at TBA - Col. Centro, CDMX
 
 ## Line-up
 
+- Agazero
 - Bamao Yendé
 - Eisebelle
 - ICQ Baby

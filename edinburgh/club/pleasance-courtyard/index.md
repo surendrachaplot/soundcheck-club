@@ -1,6 +1,6 @@
 # Pleasance Courtyard
 
-Pleasance Courtyard is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "PTBO x Culture Clan present RED KING" on Fri, 13 Nov 2026.
+Pleasance Courtyard is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "PTBO x Culture Clan present RED KING" on Fri, 13 Nov 2026.
 
 Pleasance Courtyard is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including Kouk and RED KING. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Pleasance Courtyard is a music venue in Edinburgh listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | PTBO x Culture Clan present RED KING | Kouk (2), RED KING |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/pleasance-courtyard/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/pleasance-courtyard/)*

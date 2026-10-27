@@ -1,6 +1,6 @@
 # Aidan Rudd
 
-Aidan Rudd is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Solace, Melbourne on Fri, 30 Oct 2026.
+Aidan Rudd is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Solace, Melbourne on Fri, 30 Oct 2026.
 
 Aidan Rudd is a techno and dub techno artist based in Australia, with 13 gigs on soundcheck across Auckland, Brisbane, Melbourne and Sydney. Often billed alongside Alison Belle, Kait Xri and b_man (AU). Next up: Solace, Melbourne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Aidan Rudd is a techno and dub techno artist based in Australia, with 13 gigs on
 
 Alison Belle, Kait Xri, b_man (AU)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aidanrudd/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aidanrudd/)*

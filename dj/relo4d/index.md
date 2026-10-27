@@ -1,6 +1,6 @@
 # RELO4D
 
-RELO4D is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Jardin Hospice, Brussels on Sat, 31 Oct 2026.
+RELO4D is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Jardin Hospice, Brussels on Sat, 31 Oct 2026.
 
 RELO4D is a techno and house artist based in Belgium, with 26 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Copenhagen and 2 more. Often billed alongside Dizo, Pedro Mercado and DkA. Next up: Jardin Hospice, Brussels on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ RELO4D is a techno and house artist based in Belgium, with 26 gigs on soundcheck
 
 Dizo, Pedro Mercado, DkA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relo4d/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relo4d/)*

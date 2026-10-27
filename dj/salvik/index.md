@@ -1,6 +1,6 @@
 # Salvi k
 
-Salvi k is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ilion Plus, Athens on Sat, 7 Nov 2026.
+Salvi k is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ilion Plus, Athens on Sat, 7 Nov 2026.
 
 Salvi k is an electro and techno artist based in Greece, with 59 gigs on soundcheck across Athens and Berlin. Often billed alongside Maaantz, Ther3min and Dora Mask. Next up: Ilion Plus, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Salvi k is an electro and techno artist based in Greece, with 59 gigs on soundch
 
 Maaantz, Ther3min, Dora Mask
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salvik/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salvik/)*

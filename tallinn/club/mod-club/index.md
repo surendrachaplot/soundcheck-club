@@ -1,6 +1,6 @@
 # MOD Club
 
-MOD Club is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "CHERRY ON TOP" on Fri, 6 Nov 2026.
+MOD Club is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "CHERRY ON TOP" on Fri, 6 Nov 2026.
 
 MOD Club is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with line-ups including Evanora Unlimited, Micaela Saraceno, QSLAP and umru. See dates, start times and who's playing. Paavli tn 9.
 
@@ -16,4 +16,4 @@ MOD Club is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with
 
 Paavli tn 9, Tallinn
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/mod-club/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/mod-club/)*

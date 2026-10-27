@@ -1,6 +1,6 @@
 # Sweetly
 
-Sweetly is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
+Sweetly is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
 
 Sweetly is a jungle and drum & bass artist based in United Kingdom, with 27 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside Amelia Leigh, Simmo. and D.Tee. Next up: Albert Hall, Manchester on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sweetly is a jungle and drum & bass artist based in United Kingdom, with 27 gigs
 
 Amelia Leigh, Simmo., D.Tee
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetly/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetly/)*

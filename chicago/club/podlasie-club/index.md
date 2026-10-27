@@ -1,6 +1,6 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "STRAPPED: BUTCH BOX" on Thu, 29 Oct 2026.
+Podlasie Club is a music venue in Chicago with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "STRAPPED: BUTCH BOX" on Thu, 29 Oct 2026.
 
 Podlasie Club is a music venue in Chicago listed on soundcheck. 7 upcoming gigs, with line-ups including Buzzi, CCTV, CTRLZORA and DJ Phil and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
@@ -20,4 +20,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 7 upcoming gigs,
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

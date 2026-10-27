@@ -1,6 +1,6 @@
 # Symbiotica
 
-Symbiotica is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 13 Nov 2026.
+Symbiotica is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 13 Nov 2026.
 
 Symbiotica is a techno and trance artist based in Lithuania, with 5 gigs on soundcheck across Rotterdam, Sydney and Vilnius. Often billed alongside Mincore, AnG (NL) and Audrius Ramuva. Next up: Gallery 1986, Vilnius on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Symbiotica is a techno and trance artist based in Lithuania, with 5 gigs on soun
 
 Mincore, AnG (NL), Audrius Ramuva
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/symbiotica/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/symbiotica/)*

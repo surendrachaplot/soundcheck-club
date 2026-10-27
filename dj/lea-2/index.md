@@ -1,6 +1,6 @@
 # lea (2)
 
-lea (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Malasaña, Madrid on Thu, 29 Oct 2026.
+lea (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Malasaña, Madrid on Thu, 29 Oct 2026.
 
 lea is a house and techno artist, with 15 gigs on soundcheck across London, Lyon, Madrid and Munich and 2 more. Often billed alongside JP Bechamel, CINCOCEROSEIS and DJ HOT. Next up: Club Malasaña, Madrid on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ lea is a house and techno artist, with 15 gigs on soundcheck across London, Lyon
 
 JP Bechamel, CINCOCEROSEIS, DJ HOT
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lea-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lea-2/)*

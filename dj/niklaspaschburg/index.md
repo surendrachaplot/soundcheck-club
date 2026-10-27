@@ -1,6 +1,6 @@
 # Niklas Paschburg
 
-Niklas Paschburg is a Classical and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at GASHOUDER, Amsterdam on Tue, 17 Nov 2026.
+Niklas Paschburg is a Classical and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at GASHOUDER, Amsterdam on Tue, 17 Nov 2026.
 
 Niklas Paschburg is a classical and ambient artist based in Germany, with 5 gigs on soundcheck across Amsterdam, Berlin, Dresden and Dublin and 1 more. Often billed alongside 4meter, Abdul Raeva and Aerea Negrot. Next up: GASHOUDER, Amsterdam on Tue 17 Nov.
 
@@ -21,4 +21,4 @@ Niklas Paschburg is a classical and ambient artist based in Germany, with 5 gigs
 
 4meter, Abdul Raeva, Aerea Negrot
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niklaspaschburg/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niklaspaschburg/)*

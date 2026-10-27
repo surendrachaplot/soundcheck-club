@@ -1,6 +1,6 @@
 # INLIMEN
 
-INLIMEN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The System, Sheffield on Fri, 27 Nov 2026.
+INLIMEN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The System, Sheffield on Fri, 27 Nov 2026.
 
 INLIMEN is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Birmingham, Glasgow and Leeds and 8 more. Often billed alongside Arkane, Danny Roach and Mold Boutique. Next up: The System, Sheffield on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ INLIMEN is a techno and house artist based in United Kingdom, with 52 gigs on so
 
 Arkane, Danny Roach, Mold Boutique
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inlimen/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inlimen/)*

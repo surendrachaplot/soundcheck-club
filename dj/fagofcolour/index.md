@@ -1,6 +1,6 @@
 # fagofcolour
 
-fagofcolour is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Skylight Warehouse, Vancouver on Sat, 31 Oct 2026.
+fagofcolour is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Skylight Warehouse, Vancouver on Sat, 31 Oct 2026.
 
 fagofcolour is a pop and house artist based in Canada, with 8 gigs on soundcheck across Ho Chi Minh City, Manila and Vancouver. Often billed alongside Adam Kraft, ethnicdad and hainafromchina. Next up: Skylight Warehouse, Vancouver on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ fagofcolour is a pop and house artist based in Canada, with 8 gigs on soundcheck
 
 Adam Kraft, ethnicdad, hainafromchina
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fagofcolour/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fagofcolour/)*

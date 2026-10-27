@@ -1,6 +1,6 @@
 # The London Disco Society
 
-The London Disco Society is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Two More Years, London on Sat, 28 Nov 2026.
+The London Disco Society is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Two More Years, London on Sat, 28 Nov 2026.
 
 The London Disco Society is a disco and funk / soul artist, with 6 gigs on soundcheck across London. Often billed alongside Bill Brewster, Daydream Disco and Haseeb Iqbal. Next up: Two More Years, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ The London Disco Society is a disco and funk / soul artist, with 6 gigs on sound
 
 Bill Brewster, Daydream Disco, Haseeb Iqbal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelondondiscosociety/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelondondiscosociety/)*

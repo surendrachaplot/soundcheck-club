@@ -1,6 +1,6 @@
 # deliora
 
-deliora is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at ://about blank, Berlin on Sat, 7 Nov 2026.
+deliora is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at ://about blank, Berlin on Sat, 7 Nov 2026.
 
 deliora is a techno and italo disco artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside THNTS, Saturator and Ami anemia. Next up: ://about blank, Berlin on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ deliora is a techno and italo disco artist based in Germany, with 5 gigs on soun
 
 THNTS, Saturator, Ami anemia
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deliora/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deliora/)*

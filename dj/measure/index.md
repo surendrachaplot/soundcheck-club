@@ -1,6 +1,6 @@
 # Measure
 
-Measure is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at White Wall Studio, Montreal on Sat, 14 Nov 2026.
+Measure is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at White Wall Studio, Montreal on Sat, 14 Nov 2026.
 
 Measure is an experimental and ambient artist based in Canada, with 8 gigs on soundcheck across Montreal and Toronto. Often billed alongside JakoJako, NGL Flounce and 16:9 ratio. Next up: White Wall Studio, Montreal on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Measure is an experimental and ambient artist based in Canada, with 8 gigs on so
 
 JakoJako, NGL Flounce, 16:9 ratio
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/measure/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/measure/)*

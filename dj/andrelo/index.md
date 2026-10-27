@@ -1,6 +1,6 @@
 # Andrelo
 
-Andrelo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Andrelo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Andrelo is a house and disco artist, with 15 gigs on soundcheck across Bogotá, Los Angeles and Montreal. Often billed alongside Cinthie, Planet Rolly and Club Tularosa. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Andrelo is a house and disco artist, with 15 gigs on soundcheck across Bogotá, 
 
 Cinthie, Planet Rolly, Club Tularosa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrelo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrelo/)*

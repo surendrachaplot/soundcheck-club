@@ -1,6 +1,6 @@
 # T78
 
-T78 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Die Rakete, Nürnberg on Fri, 6 Nov 2026.
+T78 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Die Rakete, Nürnberg on Fri, 6 Nov 2026.
 
 T78 is a techno and trance artist based in Italy, with 102 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 42 more. Often billed alongside BIIA, Alignment and Aphøtic. Next up: Die Rakete, Nürnberg on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ T78 is a techno and trance artist based in Italy, with 102 gigs on soundcheck ac
 
 BIIA, Alignment, Aphøtic
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*

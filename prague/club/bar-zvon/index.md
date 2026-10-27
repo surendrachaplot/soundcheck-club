@@ -1,6 +1,6 @@
 # Bar Zvon
 
-Bar Zvon is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "PTL Halloween Carnival" on Sat, 31 Oct 2026.
+Bar Zvon is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "PTL Halloween Carnival" on Sat, 31 Oct 2026.
 
 Bar Zvon is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Chad Andrew, KAWA, nastycrunch and Sam Gittis. See dates, start times and who's playing. Týnská 605/1, Praha 1.
 
@@ -14,4 +14,4 @@ Bar Zvon is a music venue in Prague listed on soundcheck. 1 upcoming gig, with l
 
 Týnská 605/1, Praha 1, Prague
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-zvon/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-zvon/)*

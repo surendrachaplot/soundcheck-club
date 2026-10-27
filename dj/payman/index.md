@@ -1,6 +1,6 @@
 # PAYMAN
 
-PAYMAN is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Inner City Location, Brisbane on Sat, 14 Nov 2026.
+PAYMAN is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Inner City Location, Brisbane on Sat, 14 Nov 2026.
 
 PAYMAN is a techno and minimal techno artist, with 11 gigs on soundcheck across Brisbane, London and Melbourne. Often billed alongside Braindead, DJ Heny.G and Paul Robinson. Next up: TBA - Inner City Location, Brisbane on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ PAYMAN is a techno and minimal techno artist, with 11 gigs on soundcheck across 
 
 Braindead, DJ Heny.G, Paul Robinson
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/payman/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/payman/)*

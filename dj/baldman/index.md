@@ -1,6 +1,6 @@
 # Baldman
 
-Baldman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
+Baldman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Baldman is a techno and house artist based in Spain, with 60 gigs on soundcheck across Barcelona, Berlin, Madrid and Osaka and 3 more. Often billed alongside Lucient, Pépe and Axis Mundi. Next up: Village Underground Barcelona, Barcelona on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Baldman is a techno and house artist based in Spain, with 60 gigs on soundcheck 
 
 Lucient, Pépe, Axis Mundi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baldman/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baldman/)*

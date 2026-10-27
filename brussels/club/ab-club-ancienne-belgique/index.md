@@ -1,6 +1,6 @@
 # AB Club (Ancienne Belgique)
 
-AB Club (Ancienne Belgique) is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "MOGWAI 30" on Fri, 13 Nov 2026.
+AB Club (Ancienne Belgique) is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "MOGWAI 30" on Fri, 13 Nov 2026.
 
 AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Mogwai and Ms Mavy. See dates, start times and who's playing. Anspachlaan 110, 1000 Brussel.
 
@@ -16,4 +16,4 @@ AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 3
 
 Anspachlaan 110, 1000 Brussel, Brussels
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*

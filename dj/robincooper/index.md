@@ -1,6 +1,6 @@
 # Robin Cooper
 
-Robin Cooper is a Progressive House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Alcove Nottingham, Nottingham on Sat, 31 Oct 2026.
+Robin Cooper is a Progressive House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Alcove Nottingham, Nottingham on Sat, 31 Oct 2026.
 
 Robin Cooper is a progressive house and breakbeat artist, with 6 gigs on soundcheck across Nottingham. Often billed alongside Ian Bircher, Coxon and pwnda. Next up: Alcove Nottingham, Nottingham on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Robin Cooper is a progressive house and breakbeat artist, with 6 gigs on soundch
 
 Ian Bircher, Coxon, pwnda
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robincooper/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robincooper/)*

@@ -1,6 +1,6 @@
 # Toobris
 
-Toobris is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at AUX Club, Athens on Tue, 27 Oct 2026.
+Toobris is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at AUX Club, Athens on Tue, 27 Oct 2026.
 
 Toobris is a techno and house artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Freddy K, Alarico and Lobster (NL). Next up: AUX Club, Athens on Tue 27 Oct.
 
@@ -28,4 +28,4 @@ Toobris is a techno and house artist based in Germany, with 66 gigs on soundchec
 
 Freddy K, Alarico, Lobster (NL)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

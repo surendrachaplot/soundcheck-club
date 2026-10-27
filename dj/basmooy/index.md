@@ -1,6 +1,6 @@
 # Bas Mooy
 
-Bas Mooy is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 31 Oct 2026.
+Bas Mooy is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 31 Oct 2026.
 
 Bas Mooy is a techno and acid artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside UVB, Charlton and Thanos Hana. Next up: Lasociaciøn, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bas Mooy is a techno and acid artist based in Netherlands, with 71 gigs on sound
 
 UVB, Charlton, Thanos Hana
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basmooy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basmooy/)*

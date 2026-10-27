@@ -1,6 +1,6 @@
 # Nymity
 
-Nymity is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ormside Projects, London on Thu, 5 Nov 2026.
+Nymity is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ormside Projects, London on Thu, 5 Nov 2026.
 
 Nymity is a dub techno and dub artist based in United Kingdom, with 13 gigs on soundcheck across London, Manchester, Milan and Paris. Often billed alongside Grady Steele, Seventimes and k means. Next up: Ormside Projects, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Nymity is a dub techno and dub artist based in United Kingdom, with 13 gigs on s
 
 Grady Steele, Seventimes, k means
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nymity/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nymity/)*

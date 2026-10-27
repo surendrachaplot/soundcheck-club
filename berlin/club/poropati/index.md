@@ -1,6 +1,6 @@
 # Poropati
 
-Poropati is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Tuesday Club" on Tue, 27 Oct 2026.
+Poropati is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Tuesday Club" on Tue, 27 Oct 2026.
 
 Poropati is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Lancer and Robot Girl. See dates, start times and who's playing. Weserstr. 79, 12059 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Poropati is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with 
 
 Weserstr. 79, 12059 Berlin, Germany, Berlin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/poropati/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/poropati/)*

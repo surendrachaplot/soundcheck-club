@@ -1,6 +1,6 @@
 # Nero
 
-Nero is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mission Ballroom, Denver on Sat, 12 Dec 2026.
+Nero is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mission Ballroom, Denver on Sat, 12 Dec 2026.
 
 Nero is a dubstep and drum & bass artist based in United Kingdom, with 23 gigs on soundcheck across Athens, Austin, Brighton and Bristol and 13 more. Often billed alongside Imanu, Mau P and Sub Focus. Next up: Mission Ballroom, Denver on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Nero is a dubstep and drum & bass artist based in United Kingdom, with 23 gigs o
 
 Imanu, Mau P, Sub Focus
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nero/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nero/)*

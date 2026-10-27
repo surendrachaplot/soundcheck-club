@@ -1,6 +1,6 @@
 # Celeste
 
-Celeste is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "RAVENBOGEN - Halloqueer" on Sat, 31 Oct 2026.
+Celeste is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "RAVENBOGEN - Halloqueer" on Sat, 31 Oct 2026.
 
 Celeste is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with line-ups including Alexandra Marr, Ambient Animal, Boogaloo Steve and Flying Horstman and 2 more. See dates, start times and who's playing. Hamburgerstrasse 18, 1050 Vienna; Austria.
 
@@ -16,4 +16,4 @@ Celeste is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with l
 
 Hamburgerstrasse 18, 1050 Vienna; Austria, Vienna
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*

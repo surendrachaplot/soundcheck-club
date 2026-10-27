@@ -1,6 +1,6 @@
 # ple:xy
 
-ple:xy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
+ple:xy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
 
 ple:xy is a house and techno artist based in Germany, with 38 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Le.Fu, Antoine Baiser and Marco Baskind. Next up: Südpol, Hamburg on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ple:xy is a house and techno artist based in Germany, with 38 gigs on soundcheck
 
 Le.Fu, Antoine Baiser, Marco Baskind
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plexy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plexy/)*

@@ -1,6 +1,6 @@
 # 15 NOV - Thuishaven with Cynthia Spiering / Sam Hofman / 2HOT2PLAY at Thuishaven
 
-15 NOV - Thuishaven with Cynthia Spiering / Sam Hofman / 2HOT2PLAY on Sun 15 Nov, Amsterdam. 7 artists: 2HOT2PLAY, Clouds, Cynthia Spiering and Eva Vrijdag and 3 more. See the line-up on soundcheck.
+15 NOV - Thuishaven with Cynthia Spiering / Sam Hofman / 2HOT2PLAY on Sun 15 Nov, Amsterdam. 8 artists: 2HOT2PLAY, Clouds, Cynthia Spiering and Eva Vrijdag and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@
 - Cynthia Spiering
 - Eva Vrijdag
 - Hurts
+- MOONYEAN
 - Sam Hofman
 - THISO
 

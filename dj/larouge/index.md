@@ -1,6 +1,6 @@
 # Larouge
 
-Larouge is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sala El Sol, Madrid on Wed, 28 Oct 2026.
+Larouge is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sala El Sol, Madrid on Wed, 28 Oct 2026.
 
 Larouge is a techno and acid artist based in Colombia, with 26 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Nigabba, Pulpix and BELCEBÚ. Next up: Sala El Sol, Madrid on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Larouge is a techno and acid artist based in Colombia, with 26 gigs on soundchec
 
 Nigabba, Pulpix, BELCEBÚ
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larouge/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larouge/)*

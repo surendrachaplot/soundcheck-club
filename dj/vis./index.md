@@ -1,6 +1,6 @@
 # Vis.
 
-Vis. is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Wolf Milano, Milan on Sat, 31 Oct 2026.
+Vis. is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Wolf Milano, Milan on Sat, 31 Oct 2026.
 
 Vis. is an electro and techno artist based in Italy, with 7 gigs on soundcheck across Milan. Often billed alongside Buza, Virgo and Audio Alchemy. Next up: Wolf Milano, Milan on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Vis. is an electro and techno artist based in Italy, with 7 gigs on soundcheck a
 
 Buza, Virgo (3), Audio Alchemy
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vis./)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vis./)*

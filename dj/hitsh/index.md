@@ -1,6 +1,6 @@
 # Hitsh
 
-Hitsh is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Hitsh is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Hitsh is a minimal and house artist, with 12 gigs on soundcheck across Berlin, Paris, Tunisia and Vienna. Often billed alongside chedy, Malek _ and Min8. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Hitsh is a minimal and house artist, with 12 gigs on soundcheck across Berlin, P
 
 chedy, Malek _, Min8
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitsh/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitsh/)*

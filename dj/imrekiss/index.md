@@ -1,6 +1,6 @@
 # Imre Kiss
 
-Imre Kiss is a Disco and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pók Büfé, Budapest on Fri, 6 Nov 2026.
+Imre Kiss is a Disco and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pók Büfé, Budapest on Fri, 6 Nov 2026.
 
 Imre Kiss is a disco and experimental artist based in Slovakia, with 10 gigs on soundcheck across Budapest and Prague. Often billed alongside Max Sinclair, DJ Crimson and S Olbricht. Next up: Pók Büfé, Budapest on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Imre Kiss is a disco and experimental artist based in Slovakia, with 10 gigs on 
 
 Max Sinclair, DJ Crimson, S Olbricht
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imrekiss/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imrekiss/)*

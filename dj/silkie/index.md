@@ -1,14 +1,14 @@
 # Silkie
 
-Silkie is a Dubstep and Dub artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Protokultura, Wroclaw on Sat, 21 Nov 2026.
+Silkie is a Dubstep and Dub artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Protokultura, Wroclaw on Sat, 21 Nov 2026.
 
-Silkie is a dubstep and dub artist based in United Kingdom, with 30 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 5 more. Often billed alongside SGT Pokes, Tessa and Felixculpah. Next up: TBA - Protokultura, Wroclaw on Sat 21 Nov.
+Silkie is a dubstep and dub artist based in United Kingdom, with 30 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 5 more. Often billed alongside SGT Pokes, Tessa and Felixculpah. Next up: Protokultura, Wroclaw on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - Protokultura | Wroclaw |
+| Sat, 21 Nov 2026 | Protokultura | Wroclaw |
 | Fri, 4 Dec 2026 | fabric | London |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
@@ -27,4 +27,4 @@ Silkie is a dubstep and dub artist based in United Kingdom, with 30 gigs on soun
 
 SGT Pokes, Tessa, Felixculpah
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silkie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silkie/)*

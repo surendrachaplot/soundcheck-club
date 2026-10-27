@@ -1,6 +1,6 @@
 # Cambric
 
-Cambric is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at City Hall, Barcelona on Thu, 25 Feb 2027.
+Cambric is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at City Hall, Barcelona on Thu, 25 Feb 2027.
 
 Cambric is a techno and tech house artist based in Spain, with 26 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and Naples and 1 more. Often billed alongside Lino Fuso, Alex Sharp and Carlos Pérez. Next up: City Hall, Barcelona on Thu 25 Feb.
 
@@ -25,4 +25,4 @@ Cambric is a techno and tech house artist based in Spain, with 26 gigs on soundc
 
 Lino Fuso, Alex Sharp, Carlos Pérez
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cambric/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cambric/)*

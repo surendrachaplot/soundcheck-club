@@ -1,6 +1,6 @@
 # WaterBear Venue
 
-WaterBear Venue is a music venue in Brighton with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "StandUP presents: Halloween Party" on Sat, 31 Oct 2026.
+WaterBear Venue is a music venue in Brighton with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "StandUP presents: Halloween Party" on Sat, 31 Oct 2026.
 
 WaterBear Venue is a music venue in Brighton listed on soundcheck. 3 upcoming gigs, with line-ups including Benji Hedonator, Michael Upson, Oren (IT) and Wildblood and Queenie. See dates, start times and who's playing. Kings Road Arches, 169-170, Brighton, BN1 1NB.
 
@@ -16,4 +16,4 @@ WaterBear Venue is a music venue in Brighton listed on soundcheck. 3 upcoming gi
 
 Kings Road Arches, 169-170, Brighton, BN1 1NB, Brighton
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/waterbear-venue/)*

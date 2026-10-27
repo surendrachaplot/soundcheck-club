@@ -1,6 +1,6 @@
 # Freaks
 
-Freaks is a Drum & Bass and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Petit Bain, Paris on Sat, 31 Oct 2026.
+Freaks is a Drum & Bass and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Petit Bain, Paris on Sat, 31 Oct 2026.
 
 Freaks is a drum & bass and ebm artist based in United Kingdom, with 5 gigs on soundcheck across Amsterdam, Bratislava, Cologne and Paris and 1 more. Often billed alongside A Little Sound, Blooom and Delta Heavy. Next up: Petit Bain, Paris on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Freaks is a drum & bass and ebm artist based in United Kingdom, with 5 gigs on s
 
 A Little Sound, Blooom, Delta Heavy
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freaks/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freaks/)*

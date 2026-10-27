@@ -1,6 +1,6 @@
 # Jauzas The Shining
 
-Jauzas The Shining is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Danceteria, Marseille on Fri, 13 Nov 2026.
+Jauzas The Shining is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Danceteria, Marseille on Fri, 13 Nov 2026.
 
 Jauzas The Shining is an electro and ebm artist based in France, with 9 gigs on soundcheck across Barcelona, Berlin, Madrid and Marseille and 2 more. Often billed alongside Brus Equation, Chaosy and Drvg Cvltvre. Next up: Danceteria, Marseille on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jauzas The Shining is an electro and ebm artist based in France, with 9 gigs on 
 
 Brus Equation, Chaosy, Drvg Cvltvre
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jauzastheshining/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jauzastheshining/)*

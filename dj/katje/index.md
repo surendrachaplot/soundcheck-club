@@ -1,6 +1,6 @@
 # katje
 
-katje is a Minimal Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at radial, London on Sun, 1 Nov 2026.
+katje is a Minimal Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at radial, London on Sun, 1 Nov 2026.
 
 katje is a minimal techno and progressive house artist based in United Kingdom, with 5 gigs on soundcheck across Brussels and London. Often billed alongside Laura De Greef, Sopar and Alythia Kwan. Next up: radial, London on Sun 1 Nov.
 
@@ -21,4 +21,4 @@ katje is a minimal techno and progressive house artist based in United Kingdom, 
 
 Laura De Greef, Sopar, Alythia Kwan
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katje/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katje/)*

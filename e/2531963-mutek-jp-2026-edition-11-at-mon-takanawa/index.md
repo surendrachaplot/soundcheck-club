@@ -1,6 +1,6 @@
 # MUTEK.JP 2026 Edition 11 at MoN Takanawa
 
-MUTEK.JP 2026 Edition 11 at MoN Takanawa on Fri 20 Nov, Tokyo. 11 artists: Ali Demirel, Canblaster, Daito Manabe and Grand River and 7 more. Experimental and IDM. See the line-up on soundcheck.
+MUTEK.JP 2026 Edition 11 at MoN Takanawa on Fri 20 Nov, Tokyo. 13 artists: Ali Demirel, Canblaster, Daito Manabe and E.O.U and 9 more. Experimental and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,13 +13,15 @@ MUTEK.JP 2026 Edition 11 at MoN Takanawa on Fri 20 Nov, Tokyo. 11 artists: Ali D
 - Ali Demirel
 - Canblaster
 - Daito Manabe
+- E.O.U
 - Grand River
 - Hania Rani
+- JACKSON kaki
 - Max Cooper
 - Plastikman
+- Richie Hawtin
 - Robert Lippok
 - Ryoichi Kurokawa
-- Sonority
 - tamanaramen
 
 *Source: [soundcheck](https://soundcheck.club/e/2531963-mutek-jp-2026-edition-11-at-mon-takanawa/)*

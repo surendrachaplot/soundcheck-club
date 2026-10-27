@@ -1,6 +1,6 @@
 # TBA - Liquid Roots, Lenoir, NC
 
-TBA - Liquid Roots, Lenoir, NC is a music venue in Charlotte with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Tonewulf at Liquid Roots Brewing" on Sat, 21 Nov 2026.
+TBA - Liquid Roots, Lenoir, NC is a music venue in Charlotte with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Tonewulf at Liquid Roots Brewing" on Sat, 21 Nov 2026.
 
 TBA - Liquid Roots, Lenoir, NC is a music venue in Charlotte listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Liquid Roots, Lenoir, NC is a music venue in Charlotte listed on soundchec
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Tonewulf at Liquid Roots Brewing |  |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/charlotte/club/tba-liquid-roots-lenoir-nc/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/charlotte/club/tba-liquid-roots-lenoir-nc/)*

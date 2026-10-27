@@ -1,6 +1,6 @@
 # Sylvana
 
-Sylvana is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Sylvana is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Sylvana is a techno and electronica artist based in Colombia, with 26 gigs on soundcheck across Bogotá and New York City. Often billed alongside Bedriñana, Lafrench Toast and Yabanko. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sylvana is a techno and electronica artist based in Colombia, with 26 gigs on so
 
 Bedriñana, Lafrench Toast, Yabanko
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvana/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvana/)*

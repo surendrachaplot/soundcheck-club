@@ -10,7 +10,7 @@ Ultraviolet at SideQuest on 44th on Sat 14 Nov, Pittsburgh. 2 artists: Formosa a
 
 ## Line-up
 
-- Formosa (1)
+- Formosa
 - Veronica Vasicka
 
 *Source: [soundcheck](https://soundcheck.club/e/2494303-ultraviolet-at-sidequest-on-44th/)*

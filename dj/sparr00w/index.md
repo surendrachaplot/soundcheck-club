@@ -1,6 +1,6 @@
 # Sparr00w
 
-Sparr00w is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
+Sparr00w is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
 
 Sparr00w is a techno and house artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Hamburg and London. Often billed alongside Count Baldor, Anthracene and Dorian Electra. Next up: Hoppetosse, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sparr00w is a techno and house artist based in United Kingdom, with 12 gigs on s
 
 Count Baldor, Anthracene, Dorian Electra
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparr00w/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparr00w/)*

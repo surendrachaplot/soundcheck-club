@@ -1,13 +1,14 @@
 # Allius
 
-Allius is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Flok, Manchester on Sat, 31 Oct 2026.
+Allius is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Shrimp, Manchester on Thu, 29 Oct 2026.
 
-Allius is a techno and house artist based in United Kingdom, with 45 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Cersy, ngoma and Channell. Next up: Flok, Manchester on Sat 31 Oct.
+Allius is a house and techno artist based in United Kingdom, with 46 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Cersy, ngoma and Channell. Next up: Bar Shrimp, Manchester on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Bar Shrimp | Manchester |
 | Sat, 31 Oct 2026 | Flok | Manchester |
 | Sat, 7 Nov 2026 | 1520 | Manchester |
 | Fri, 20 Nov 2026 | Hidden | Manchester |
@@ -27,4 +28,4 @@ Allius is a techno and house artist based in United Kingdom, with 45 gigs on sou
 
 Cersy, ngoma, Channell
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*

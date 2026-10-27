@@ -1,8 +1,8 @@
 # Granatka
 
-Granatka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
+Granatka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
 
-Granatka is a techno and house artist based in Poland, with 3 gigs on soundcheck across Warsaw. Often billed alongside Casper Weiss, SYS.END and TECHNOVY. Next up: Smolna, Warsaw on Sat 31 Oct.
+Granatka is a techno and house artist based in Poland, with 3 gigs on soundcheck across Warsaw. Often billed alongside Casper Weiss, Pielson and SYS.END. Next up: Smolna, Warsaw on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Granatka is a techno and house artist based in Poland, with 3 gigs on soundcheck
 
 ## Shares bills with
 
-Casper Weiss, SYS.END, TECHNOVY
+Casper Weiss, Pielson, SYS.END
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/granatka/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/granatka/)*

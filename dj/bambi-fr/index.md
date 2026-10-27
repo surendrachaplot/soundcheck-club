@@ -1,8 +1,8 @@
 # Bambi (FR)
 
-Bambi (FR) is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Mile-Ex, Montreal on Sun, 1 Nov 2026.
+Bambi (FR) is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Mile-Ex, Montreal on Sun, 1 Nov 2026.
 
-Bambi (FR) is a techno and trance artist based in France, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: TBA - Mile-Ex, Montreal on Sun 1 Nov.
+Bambi (FR) is a techno and trance artist based in France, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: TBA - Mile-Ex, Montreal on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bambi (FR) is a techno and trance artist based in France, with 89 gigs on soundc
 | Sun, 1 Nov 2026 | TBA - Mile-Ex | Montreal |
 | Sat, 7 Nov 2026 | Macadam | Nantes |
 | Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
+| Sun, 6 Dec 2026 | Macadam | Nantes |
 | Fri, 18 Dec 2026 | Cadavra | Madrid |
 | Thu, 31 Dec 2026 | The Loco Klub | Bristol |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
@@ -30,4 +31,4 @@ Bambi (FR) is a techno and trance artist based in France, with 89 gigs on soundc
 
 Lastvuska, GTI, Jolly (FR)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*

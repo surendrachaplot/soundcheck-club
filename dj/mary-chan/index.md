@@ -1,6 +1,6 @@
 # Mary-chan
 
-Mary-chan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Dogenzaka Church, Tokyo on Sun, 1 Nov 2026.
+Mary-chan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Dogenzaka Church, Tokyo on Sun, 1 Nov 2026.
 
 Mary-chan is a house and techno artist based in Japan, with 53 gigs on soundcheck across Seoul and Tokyo. Often billed alongside AY, O.Goo and TAKUTO. Next up: Dogenzaka Church, Tokyo on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Mary-chan is a house and techno artist based in Japan, with 53 gigs on soundchec
 
 AY (10), O.Goo, TAKUTO (2)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-chan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-chan/)*

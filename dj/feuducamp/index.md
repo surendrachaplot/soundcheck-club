@@ -1,6 +1,6 @@
 # Feu du Camp
 
-Feu du Camp is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Process PDX, Portland on Fri, 13 Nov 2026.
+Feu du Camp is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Process PDX, Portland on Fri, 13 Nov 2026.
 
 Feu du Camp is a techno and house artist based in United States of America, with 14 gigs on soundcheck across Portland and Seattle. Often billed alongside Petite Syrah, Aaron Davis and Andy Warren. Next up: Process PDX, Portland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Feu du Camp is a techno and house artist based in United States of America, with
 
 Petite Syrah, Aaron Davis, Andy Warren
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feuducamp/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feuducamp/)*

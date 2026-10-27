@@ -1,6 +1,6 @@
 # Justfin
 
-Justfin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Mews Saloon, Chongqing on Sat, 31 Oct 2026.
+Justfin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mews Saloon, Chongqing on Sat, 31 Oct 2026.
 
 Justfin is a techno and house artist based in United Kingdom, with 23 gigs on soundcheck across Bangkok, Berlin, Chongqing and Hanoi and 3 more. Often billed alongside EeechooO, Sacre and Stelios Vassiloudis. Next up: Mews Saloon, Chongqing on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Justfin is a techno and house artist based in United Kingdom, with 23 gigs on so
 
 EeechooO, Sacre, Stelios Vassiloudis
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*

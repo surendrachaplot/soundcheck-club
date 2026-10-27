@@ -1,6 +1,6 @@
 # Maudite Machine
 
-Maudite Machine is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Cabaret Lion D'or, Montreal on Fri, 30 Oct 2026.
+Maudite Machine is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Cabaret Lion D'or, Montreal on Fri, 30 Oct 2026.
 
 Maudite Machine is an electro and tech house artist based in Canada, with 14 gigs on soundcheck across Montreal. Often billed alongside DJ Davidé, DJ Mushin and Omni. Next up: Cabaret Lion D'or, Montreal on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Maudite Machine is an electro and tech house artist based in Canada, with 14 gig
 
 DJ Davidé, DJ Mushin, Omni
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauditemachine/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauditemachine/)*

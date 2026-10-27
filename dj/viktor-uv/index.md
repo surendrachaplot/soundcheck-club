@@ -1,6 +1,6 @@
 # Viktor (UV)
 
-Viktor (UV) is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lift, Zagreb on Fri, 6 Nov 2026.
+Viktor (UV) is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lift, Zagreb on Fri, 6 Nov 2026.
 
 Viktor (UV) is an afro house and progressive house artist based in Croatia, with 17 gigs on soundcheck across Zagreb. Often billed alongside Einfakinn, Alan Dixon and BSSIDE. Next up: Lift, Zagreb on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Viktor (UV) is an afro house and progressive house artist based in Croatia, with
 
 Einfakinn, Alan Dixon, BSSIDE
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viktor-uv/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viktor-uv/)*

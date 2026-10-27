@@ -1,6 +1,6 @@
 # DJ Straight Again
 
-DJ Straight Again is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
+DJ Straight Again is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
 DJ Straight Again is a house and techno artist based in Belgium, with 6 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Vera Moro, 131bpm and Asian Sal. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ DJ Straight Again is a house and techno artist based in Belgium, with 6 gigs on 
 
 Vera Moro, 131bpm, Asian Sal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstraightagain/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstraightagain/)*

@@ -1,6 +1,6 @@
 # Sam Karlson
 
-Sam Karlson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Folies Pigalle, Paris on Sat, 14 Nov 2026.
+Sam Karlson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Folies Pigalle, Paris on Sat, 14 Nov 2026.
 
 Sam Karlson is a house and disco artist based in France, with 35 gigs on soundcheck across Amsterdam, Bucharest, Ibiza and London and 3 more. Often billed alongside Bustin' Loose, Tatiana and Magnolia_. Next up: Folies Pigalle, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sam Karlson is a house and disco artist based in France, with 35 gigs on soundch
 
 Bustin' Loose, Tatiana, Magnolia_
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samkarlson/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samkarlson/)*

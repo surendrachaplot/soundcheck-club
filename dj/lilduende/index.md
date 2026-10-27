@@ -1,6 +1,6 @@
 # Lil Duende
 
-Lil Duende is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Chicago on Sat, 31 Oct 2026.
+Lil Duende is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Chicago on Sat, 31 Oct 2026.
 
 Lil Duende is an experimental and techno artist, with 5 gigs on soundcheck across Chicago, Houston and New York City. Often billed alongside Flores Negras, AMAYAH and Abyss X. Next up: TBA, Chicago on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Lil Duende is an experimental and techno artist, with 5 gigs on soundcheck acros
 
 Flores Negras, AMAYAH, Abyss X
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilduende/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilduende/)*

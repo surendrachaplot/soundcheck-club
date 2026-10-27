@@ -1,6 +1,6 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at FOLD, London on Sat, 14 Nov 2026.
+Yazzus is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at FOLD, London on Sat, 14 Nov 2026.
 
 Yazzus is a techno and house artist based in United Kingdom, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: FOLD, London on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Yazzus is a techno and house artist based in United Kingdom, with 191 gigs on so
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

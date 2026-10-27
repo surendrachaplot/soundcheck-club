@@ -1,6 +1,6 @@
 # Eva Nyx
 
-Eva Nyx is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at La Cova, Hamburg on Sat, 31 Oct 2026.
+Eva Nyx is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at La Cova, Hamburg on Sat, 31 Oct 2026.
 
 Eva Nyx is a techno and tech house artist based in Germany, with 37 gigs on soundcheck across Berlin and Hamburg. Often billed alongside AH-N!CE, Bailey Brown and Beat Konsum. Next up: La Cova, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Eva Nyx is a techno and tech house artist based in Germany, with 37 gigs on soun
 
 AH-N!CE, Bailey Brown, Beat Konsum
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evanyx/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evanyx/)*

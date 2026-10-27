@@ -1,6 +1,6 @@
 # Reflex Blue
 
-Reflex Blue is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
+Reflex Blue is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
 
 Reflex Blue is a house and tech house artist based in Australia, with 115 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 39 more. Often billed alongside Fumiya Tanaka, Gene On Earth and Voigtmann. Next up: Seaseaclub Barcelona, Barcelona on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Reflex Blue is a house and tech house artist based in Australia, with 115 gigs o
 
 Fumiya Tanaka, Gene On Earth, Voigtmann
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*

@@ -1,6 +1,6 @@
 # That Rob Macy
 
-That Rob Macy is a Funk / Soul and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Dutch Courage, Baltimore on Sat, 31 Oct 2026.
+That Rob Macy is a Funk / Soul and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Dutch Courage, Baltimore on Sat, 31 Oct 2026.
 
 That Rob Macy is a funk / soul and r&b artist based in United States of America, with 5 gigs on soundcheck across Baltimore. Often billed alongside Baby Alcatraz and DJ ES. Next up: Dutch Courage, Baltimore on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ That Rob Macy is a funk / soul and r&b artist based in United States of America,
 
 Baby Alcatraz, DJ ES
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thatrobmacy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thatrobmacy/)*

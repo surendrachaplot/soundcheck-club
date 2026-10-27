@@ -1,6 +1,6 @@
 # Kuvau
 
-Kuvau is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
+Kuvau is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
 
 Kuvau is a house and tech house artist based in Poland, with 47 gigs on soundcheck across Warsaw. Often billed alongside Konca, Angelo Mike and EXCE. Next up: Luzztro, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Kuvau is a house and tech house artist based in Poland, with 47 gigs on soundche
 
 Konca, Angelo Mike, EXCE
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuvau/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuvau/)*

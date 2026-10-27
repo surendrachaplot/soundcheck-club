@@ -1,6 +1,6 @@
 # Manuel Carbone
 
-Manuel Carbone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lauschangriff, Berlin on Thu, 5 Nov 2026.
+Manuel Carbone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lauschangriff, Berlin on Thu, 5 Nov 2026.
 
 Manuel Carbone is an experimental and ambient artist based in Italy, with 6 gigs on soundcheck across Berlin. Often billed alongside Airaboi, Harp-a and Lutz Gallmeister. Next up: Lauschangriff, Berlin on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Manuel Carbone is an experimental and ambient artist based in Italy, with 6 gigs
 
 Airaboi, Harp-a, Lutz Gallmeister
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelcarbone/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelcarbone/)*

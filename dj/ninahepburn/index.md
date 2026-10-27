@@ -1,6 +1,6 @@
 # Nina Hepburn
 
-Nina Hepburn is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
+Nina Hepburn is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
 
 Nina Hepburn is a techno and house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Bizzarro Universe, KENZ and SKKIN VELVET. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Nina Hepburn is a techno and house artist based in Germany, with 78 gigs on soun
 
 Bizzarro Universe, KENZ, SKKIN VELVET
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninahepburn/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninahepburn/)*

@@ -1,6 +1,6 @@
 # i-sha
 
-i-sha is a Experimental and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Forestlimit, Tokyo on Wed, 28 Oct 2026.
+i-sha is a Experimental and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Forestlimit, Tokyo on Wed, 28 Oct 2026.
 
 i-sha is an experimental and techno artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside k means, Batu and Anina. Next up: Forestlimit, Tokyo on Wed 28 Oct.
 
@@ -32,4 +32,4 @@ i-sha is an experimental and techno artist based in United Kingdom, with 85 gigs
 
 k means, Batu, Anina
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*

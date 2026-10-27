@@ -1,6 +1,6 @@
 # J-Lost
 
-J-Lost is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NDK, Sofia on Sat, 31 Oct 2026.
+J-Lost is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at NDK, Sofia on Sat, 31 Oct 2026.
 
 J-Lost is a techno and electronica artist, with 46 gigs on soundcheck across Belgrade, Berlin and Sofia. Often billed alongside Stefan Alexandrov, BEZDAREN and Mira Ghazal. Next up: NDK, Sofia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ J-Lost is a techno and electronica artist, with 46 gigs on soundcheck across Bel
 
 Stefan Alexandrov, BEZDAREN, Mira Ghazal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j-lost/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j-lost/)*

@@ -1,6 +1,6 @@
 # Inception Boat
 
-Inception Boat is a music venue in Sydney with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Yeah Buoy - Halloween Boat Party" on Sat, 31 Oct 2026.
+Inception Boat is a music venue in Sydney with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Yeah Buoy - Halloween Boat Party" on Sat, 31 Oct 2026.
 
 Inception Boat is a music venue in Sydney listed on soundcheck. 5 upcoming gigs, with line-ups including Miguel Campbell and wAFF. See dates, start times and who's playing. King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia.
 
@@ -18,4 +18,4 @@ Inception Boat is a music venue in Sydney listed on soundcheck. 5 upcoming gigs,
 
 King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia, Sydney
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*

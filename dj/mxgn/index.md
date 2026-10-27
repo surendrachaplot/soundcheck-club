@@ -1,6 +1,6 @@
 # MXGN
 
-MXGN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+MXGN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 MXGN is a techno and trance artist based in United Kingdom, with 21 gigs on soundcheck across Berlin, Edinburgh, Hannover and Ibiza and 7 more. Often billed alongside Alex Farell, Faster Horses and Anetha. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ MXGN is a techno and trance artist based in United Kingdom, with 21 gigs on soun
 
 Alex Farell, Faster Horses, Anetha
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgn/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgn/)*

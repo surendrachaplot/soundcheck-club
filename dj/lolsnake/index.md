@@ -1,6 +1,6 @@
 # LOLSNAKE
 
-LOLSNAKE is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Elysia, Basel on Sat, 31 Oct 2026.
+LOLSNAKE is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Elysia, Basel on Sat, 31 Oct 2026.
 
 LOLSNAKE is a techno and house artist based in United States of America, with 250 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: Elysia, Basel on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ LOLSNAKE is a techno and house artist based in United States of America, with 25
 
 VINVAR, Juliana Huxtable, Rakans
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*

@@ -1,6 +1,6 @@
 # Trans-Pecos
 
-Trans-Pecos is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "GHOULS GONE WILD: 8-BALL-O-WEEN" on Fri, 30 Oct 2026.
+Trans-Pecos is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "GHOULS GONE WILD: 8-BALL-O-WEEN" on Fri, 30 Oct 2026.
 
 Trans-Pecos is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including ALI IRL, Castillonaire, HIEN and Hunch and 2 more. See dates, start times and who's playing. 9-15 Wyckoff Ave, Queens, NY 11385.
 
@@ -16,4 +16,4 @@ Trans-Pecos is a music venue in New York City listed on soundcheck. 3 upcoming g
 
 9-15 Wyckoff Ave, Queens, NY 11385, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/trans-pecos/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/trans-pecos/)*

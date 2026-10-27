@@ -1,6 +1,6 @@
 # JD (4)
 
-JD (4) is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Solace, Melbourne on Sat, 31 Oct 2026.
+JD (4) is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Solace, Melbourne on Sat, 31 Oct 2026.
 
 JD is a techno and tech house artist based in Australia, with 17 gigs on soundcheck across Melbourne. Often billed alongside Charlotte Rooney, Ricky Nord and Afrodisiac. Next up: Solace, Melbourne on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ JD is a techno and tech house artist based in Australia, with 17 gigs on soundch
 
 Charlotte Rooney, Ricky Nord, Afrodisiac
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-4/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-4/)*

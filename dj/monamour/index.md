@@ -1,6 +1,6 @@
 # Mon Amour
 
-Mon Amour is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Tennis Bar Neukölln, Berlin on Fri, 30 Oct 2026.
+Mon Amour is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tennis Bar Neukölln, Berlin on Fri, 30 Oct 2026.
 
 Mon Amour is a bass and hardcore artist, with 5 gigs on soundcheck across Berlin, Leipzig and Seoul. Often billed alongside KALI., dayoung and Ananda (BR). Next up: Tennis Bar Neukölln, Berlin on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Mon Amour is a bass and hardcore artist, with 5 gigs on soundcheck across Berlin
 
 KALI., dayoung, Ananda (BR)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monamour/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monamour/)*

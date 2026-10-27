@@ -1,6 +1,6 @@
 # Between us x EMDB at Celeste
 
-Between us x EMDB at Celeste on Sun 24 Jan, Vienna. 3 artists: Alexandra Marr, Boogaloo Steve and Flying Horstman. See the line-up on soundcheck.
+Between us x EMDB at Celeste on Sun 24 Jan, Vienna. 3 artists: Alexandra Marr, Boogaloo Steve and Flying Horstman. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

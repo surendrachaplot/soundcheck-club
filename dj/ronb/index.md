@@ -1,14 +1,15 @@
 # RON B
 
-RON B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at [119], Berlin on Fri, 6 Nov 2026.
+RON B is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at [119], Berlin on Fri, 6 Nov 2026.
 
-RON B is a house and techno artist, with 11 gigs on soundcheck across Berlin and Madrid. Often billed alongside Aamun Koi, ARSA and Acid Foxy. Next up: [119], Berlin on Fri 6 Nov.
+RON B is a techno and house artist, with 12 gigs on soundcheck across Berlin and Madrid. Often billed alongside Aamun Koi, ARSA and Acid Foxy. Next up: [119], Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | [119] | Berlin |
+| Sat, 28 Nov 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ RON B is a house and techno artist, with 11 gigs on soundcheck across Berlin and
 
 Aamun Koi, ARSA, Acid Foxy
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronb/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronb/)*

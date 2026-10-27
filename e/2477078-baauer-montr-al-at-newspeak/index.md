@@ -1,6 +1,6 @@
 # Baauer - Montréal at Newspeak
 
-Baauer - Montréal at Newspeak on Fri 30 Oct, Montreal. 1 artist: Baauer. Breakbeat and House. See the line-up on soundcheck.
+Baauer - Montréal at Newspeak on Fri 30 Oct, Montreal. 2 artists: Baauer and Lunice. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Baauer - Montréal at Newspeak on Fri 30 Oct, Montreal. 1 artist: Baauer. Breakb
 ## Line-up
 
 - Baauer
+- Lunice
 
 *Source: [soundcheck](https://soundcheck.club/e/2477078-baauer-montr-al-at-newspeak/)*

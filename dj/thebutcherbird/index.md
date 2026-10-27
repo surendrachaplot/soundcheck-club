@@ -1,6 +1,6 @@
 # the butcher bird
 
-the butcher bird is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cu, London on Sat, 31 Oct 2026.
+the butcher bird is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cu, London on Sat, 31 Oct 2026.
 
 the butcher bird is a techno and bass artist based in United Kingdom, with 22 gigs on soundcheck across London and Sheffield. Often billed alongside MF Ceól, D.N.S and Sway Of The Verses. Next up: Cu, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ the butcher bird is a techno and bass artist based in United Kingdom, with 22 gi
 
 MF Ceól, D.N.S, Sway Of The Verses
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebutcherbird/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebutcherbird/)*

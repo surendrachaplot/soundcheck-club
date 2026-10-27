@@ -1,6 +1,6 @@
 # Cooper
 
-Cooper is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at clubasia, Tokyo on Fri, 30 Oct 2026.
+Cooper is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at clubasia, Tokyo on Fri, 30 Oct 2026.
 
 Cooper is a techno and bass artist based in Germany, with 9 gigs on soundcheck across Berlin, Leipzig, London and Medellin and 1 more. Often billed alongside DJ OVER N OUT, RST98 and Leeza. Next up: clubasia, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Cooper is a techno and bass artist based in Germany, with 9 gigs on soundcheck a
 
 DJ OVER N OUT, RST98, Leeza (2)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cooper/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cooper/)*

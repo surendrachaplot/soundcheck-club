@@ -1,6 +1,6 @@
 # Mark Mywords
 
-Mark Mywords is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Gazebo, Stockholm on Thu, 31 Dec 2026.
+Mark Mywords is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gazebo, Stockholm on Thu, 31 Dec 2026.
 
 Mark Mywords is a techno and deep house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam and Stockholm. Often billed alongside Ed Noodle, Dexon and Francesco Pico. Next up: Gazebo, Stockholm on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Mark Mywords is a techno and deep house artist based in Netherlands, with 17 gig
 
 Ed Noodle, Dexon, Francesco Pico
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markmywords/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markmywords/)*

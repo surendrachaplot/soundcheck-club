@@ -1,6 +1,6 @@
 # Tess (MU)
 
-Tess (MU) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Nobel, Netherlands on Sat, 7 Nov 2026.
+Tess (MU) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nobel, Netherlands on Sat, 7 Nov 2026.
 
 Tess (MU) is an electronica and techno artist based in Mauritius, with 11 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Chicago and 4 more. Often billed alongside BAVR, Bibi Seck and John Noseda. Next up: Nobel, Netherlands on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tess (MU) is an electronica and techno artist based in Mauritius, with 11 gigs o
 
 BAVR, Bibi Seck, John Noseda
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tess-mu/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tess-mu/)*

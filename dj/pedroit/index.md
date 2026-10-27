@@ -1,6 +1,6 @@
 # Pedro (IT)
 
-Pedro (IT) is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Jungla London, London on Fri, 30 Oct 2026.
+Pedro (IT) is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Jungla London, London on Fri, 30 Oct 2026.
 
 Pedro (IT) is a tech house and minimal techno artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam and London. Often billed alongside Reeno, Tarawar and MAIA. Next up: Jungla London, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Pedro (IT) is a tech house and minimal techno artist based in United Kingdom, wi
 
 Reeno, Tarawar, MAIA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedroit/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedroit/)*

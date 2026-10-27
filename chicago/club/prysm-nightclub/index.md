@@ -1,6 +1,6 @@
 # Prysm Nightclub
 
-Prysm Nightclub is a music venue in Chicago with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Serum: Dixon" on Fri, 30 Oct 2026.
+Prysm Nightclub is a music venue in Chicago with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Serum: Dixon" on Fri, 30 Oct 2026.
 
 Prysm Nightclub is a music venue in Chicago listed on soundcheck. 5 upcoming gigs, with line-ups including Cole Knight, Dixon, Enrico Sangiuliano and The Botanist and 1 more. See dates, start times and who's playing. 1543 N Kingsbury St.
 
@@ -18,4 +18,4 @@ Prysm Nightclub is a music venue in Chicago listed on soundcheck. 5 upcoming gig
 
 1543 N Kingsbury St, Chicago
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*

@@ -1,6 +1,6 @@
 # Glob
 
-Glob is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "[CANCELLED] Fraxiom (Food House) / Iris" on Tue, 1 Dec 2026.
+Glob is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "[CANCELLED] Fraxiom (Food House) / Iris" on Tue, 1 Dec 2026.
 
 Glob is a music venue in Denver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 3551 Brighton Blvd, Denver, CO 80216, United States.
 
@@ -14,4 +14,4 @@ Glob is a music venue in Denver listed on soundcheck. 1 upcoming gig. See dates,
 
 3551 Brighton Blvd, Denver, CO 80216, United States, Denver
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/glob/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/glob/)*

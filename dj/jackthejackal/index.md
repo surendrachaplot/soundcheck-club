@@ -1,6 +1,6 @@
 # Jack the Jackal
 
-Jack the Jackal is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - The Golden Giraffe - Sukhumvit 11, Bangkok on Sat, 31 Oct 2026.
+Jack the Jackal is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - The Golden Giraffe - Sukhumvit 11, Bangkok on Sat, 31 Oct 2026.
 
 Jack the Jackal is a psytrance and trance artist based in Thailand, with 17 gigs on soundcheck across Bangkok, Ghent, Ho Chi Minh City and Kuala Lumpur. Often billed alongside Puffer P, C!AO and KAOS. Next up: TBA - The Golden Giraffe - Sukhumvit 11, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jack the Jackal is a psytrance and trance artist based in Thailand, with 17 gigs
 
 Puffer P, C!AO, KAOS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackthejackal/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackthejackal/)*

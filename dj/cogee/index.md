@@ -1,6 +1,6 @@
 # COGEE
 
-COGEE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bonobo, Tokyo on Tue, 3 Nov 2026.
+COGEE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bonobo, Tokyo on Tue, 3 Nov 2026.
 
 COGEE is a house and techno artist based in Japan, with 27 gigs on soundcheck across London, Osaka and Tokyo. Often billed alongside Sunga, ifax! and 7e. Next up: Bonobo, Tokyo on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ COGEE is a house and techno artist based in Japan, with 27 gigs on soundcheck ac
 
 Sunga, ifax!, 7e
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cogee/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cogee/)*

@@ -1,6 +1,6 @@
 # DJ Chus
 
-DJ Chus is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - WEST LOOP WAREHOUSE, Chicago on Fri, 30 Oct 2026.
+DJ Chus is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - WEST LOOP WAREHOUSE, Chicago on Fri, 30 Oct 2026.
 
 DJ Chus is a house and tech house artist based in Spain, with 84 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 24 more. Often billed alongside La Santa (ES), Patrick M and Joeski. Next up: TBA - WEST LOOP WAREHOUSE, Chicago on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ DJ Chus is a house and tech house artist based in Spain, with 84 gigs on soundch
 
 La Santa (ES), Patrick M, Joeski
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchus/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchus/)*

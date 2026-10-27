@@ -1,8 +1,8 @@
 # ATT
 
-ATT is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 22 Nov 2026.
+ATT is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 22 Nov 2026.
 
-ATT is a techno and house artist based in Japan, with 51 gigs on soundcheck across Barcelona, Ibiza and Tokyo. Often billed alongside Takami, Remo-con and BEPPU. Next up: BRAND SHIBUYA, Tokyo on Sun 22 Nov.
+ATT is a techno and house artist based in Japan, with 52 gigs on soundcheck across Barcelona, Ibiza and Tokyo. Often billed alongside Takami, Remo-con and BEPPU. Next up: BRAND SHIBUYA, Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ATT is a techno and house artist based in Japan, with 51 gigs on soundcheck acro
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | BRAND SHIBUYA | Tokyo |
 | Sat, 28 Nov 2026 | R Lounge | Tokyo |
+| Sun, 6 Dec 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ ATT is a techno and house artist based in Japan, with 51 gigs on soundcheck acro
 
 Takami, Remo-con, BEPPU
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/att/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/att/)*

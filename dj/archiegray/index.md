@@ -1,6 +1,6 @@
 # Archie Gray
 
-Archie Gray is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Plot 22, Sheffield on Fri, 4 Dec 2026.
+Archie Gray is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Plot 22, Sheffield on Fri, 4 Dec 2026.
 
 Archie Gray is a techno and house artist, with 9 gigs on soundcheck across Sheffield. Often billed alongside Tys. Next up: Plot 22, Sheffield on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Archie Gray is a techno and house artist, with 9 gigs on soundcheck across Sheff
 
 Tys (1)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiegray/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiegray/)*

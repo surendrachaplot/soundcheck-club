@@ -1,6 +1,6 @@
 # DJ Winggold
 
-DJ Winggold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ormside Projects, London on Fri, 4 Dec 2026.
+DJ Winggold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ormside Projects, London on Fri, 4 Dec 2026.
 
 DJ Winggold is a techno and house artist based in United Kingdom, with 32 gigs on soundcheck across Bristol, Lisbon, Liverpool and London. Often billed alongside NIKS, THEMPRESS and 1000raks. Next up: Ormside Projects, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DJ Winggold is a techno and house artist based in United Kingdom, with 32 gigs o
 
 NIKS, THEMPRESS, 1000raks
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwinggold/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwinggold/)*

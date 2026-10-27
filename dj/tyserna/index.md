@@ -1,6 +1,6 @@
 # Ty Serna
 
-Ty Serna is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at feedbk, New York City on Thu, 29 Oct 2026.
+Ty Serna is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at feedbk, New York City on Thu, 29 Oct 2026.
 
 Ty Serna is a house and deep house artist based in United States of America, with 8 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside Taiga, ALKMST and Aaron Paar. Next up: feedbk, New York City on Thu 29 Oct.
 
@@ -24,4 +24,4 @@ Ty Serna is a house and deep house artist based in United States of America, wit
 
 Taiga, ALKMST, Aaron Paar
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyserna/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyserna/)*

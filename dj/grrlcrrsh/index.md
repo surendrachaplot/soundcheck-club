@@ -1,13 +1,14 @@
 # GRRLCRRSH
 
-GRRLCRRSH is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lithuanian House, Toronto on Sat, 31 Oct 2026.
+GRRLCRRSH is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lithuanian House, Toronto on Fri, 30 Oct 2026.
 
-GRRLCRRSH is a techno and bass artist based in Canada, with 49 gigs on soundcheck across New York City and Toronto. Often billed alongside Sappho.XD, Zellers and Hycastle. Next up: Lithuanian House, Toronto on Sat 31 Oct.
+GRRLCRRSH is a techno and bass artist based in Canada, with 50 gigs on soundcheck across New York City and Toronto. Often billed alongside Sappho.XD, Zellers and Hycastle. Next up: Lithuanian House, Toronto on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Lithuanian House | Toronto |
 | Sat, 31 Oct 2026 | Lithuanian House | Toronto |
 | Sat, 21 Nov 2026 | The Jama | Toronto |
 
@@ -26,4 +27,4 @@ GRRLCRRSH is a techno and bass artist based in Canada, with 49 gigs on soundchec
 
 Sappho.XD, Zellers, Hycastle
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grrlcrrsh/)*

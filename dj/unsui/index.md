@@ -1,6 +1,6 @@
 # unsui
 
-unsui is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Rastro Live Studio, Madrid on Sat, 7 Nov 2026.
+unsui is a Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Rastro Live Studio, Madrid on Sat, 7 Nov 2026.
 
 unsui is an electronica artist, with 5 gigs on soundcheck across Madrid. Often billed alongside Steven Weston, Chez Tropics and Lycoriscoris. Next up: Rastro Live Studio, Madrid on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ unsui is an electronica artist, with 5 gigs on soundcheck across Madrid. Often b
 
 Steven Weston, Chez Tropics, Lycoriscoris
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unsui/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unsui/)*

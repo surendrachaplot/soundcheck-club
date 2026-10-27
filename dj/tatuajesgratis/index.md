@@ -1,6 +1,6 @@
 # Tatuajes gratis
 
-Tatuajes gratis is a Baile Funk and Classical artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Symphonie, Mexico City on Sat, 31 Oct 2026.
+Tatuajes gratis is a Baile Funk and Classical artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Symphonie, Mexico City on Sat, 31 Oct 2026.
 
 Tatuajes gratis is a baile funk and classical artist, with 8 gigs on soundcheck across Mexico City. Often billed alongside KEBRA, Alacrán del Amor and Awa (uwu). Next up: Symphonie, Mexico City on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Tatuajes gratis is a baile funk and classical artist, with 8 gigs on soundcheck 
 
 KEBRA, Alacrán del Amor, Awa (uwu)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatuajesgratis/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatuajesgratis/)*

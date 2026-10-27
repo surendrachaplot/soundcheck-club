@@ -1,6 +1,6 @@
 # ceza
 
-ceza is a Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at R Lounge, Tokyo on Sat, 31 Oct 2026.
+ceza is a Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at R Lounge, Tokyo on Sat, 31 Oct 2026.
 
 ceza is a bass and baile funk artist based in Brazil, with 22 gigs on soundcheck across Tokyo. Often billed alongside DJ PS2 DESBLOQUEADO, Aliceyuki and cera. Next up: R Lounge, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ceza is a bass and baile funk artist based in Brazil, with 22 gigs on soundcheck
 
 DJ PS2 DESBLOQUEADO, Aliceyuki, cera
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceza/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceza/)*

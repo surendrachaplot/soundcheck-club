@@ -1,6 +1,6 @@
 # S.P.Y.
 
-S.P.Y. is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at One22, Canberra on Fri, 13 Nov 2026.
+S.P.Y. is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at One22, Canberra on Fri, 13 Nov 2026.
 
 S.P.Y. is a drum & bass and jungle artist based in Brazil, with 19 gigs on soundcheck across Adelaide, Bratislava, Bristol and Canberra and 10 more. Often billed alongside LowQui, Alcemist and Anaïs. Next up: One22, Canberra on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ S.P.Y. is a drum & bass and jungle artist based in Brazil, with 19 gigs on sound
 
 LowQui, Alcemist, Anaïs
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y./)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y./)*

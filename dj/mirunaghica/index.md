@@ -1,6 +1,6 @@
 # Miruna Ghica
 
-Miruna Ghica is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Distrikt, Leeds on Fri, 30 Oct 2026.
+Miruna Ghica is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Distrikt, Leeds on Fri, 30 Oct 2026.
 
 Miruna Ghica is a house and tech house artist, with 13 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 3 more. Often billed alongside Darius Syrossian, Kellie Allen and Dale Hart. Next up: Distrikt, Leeds on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Miruna Ghica is a house and tech house artist, with 13 gigs on soundcheck across
 
 Darius Syrossian, Kellie Allen, Dale Hart
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirunaghica/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirunaghica/)*

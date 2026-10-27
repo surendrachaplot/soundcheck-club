@@ -1,6 +1,6 @@
 # Serenic
 
-Serenic is a Drum & Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Paula, Dresden on Sat, 5 Dec 2026.
+Serenic is a Drum & Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Paula, Dresden on Sat, 5 Dec 2026.
 
 Serenic is a drum & bass and trance artist based in Germany, with 9 gigs on soundcheck across Dresden. Often billed alongside M/THREE/D, SKTR and TINNITUS. Next up: Club Paula, Dresden on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Serenic is a drum & bass and trance artist based in Germany, with 9 gigs on soun
 
 M/THREE/D, SKTR, TINNITUS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenic/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenic/)*

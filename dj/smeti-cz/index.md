@@ -1,6 +1,6 @@
 # Smeti
 
-Smeti is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bike Jesus, Prague on Fri, 6 Nov 2026.
+Smeti is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bike Jesus, Prague on Fri, 6 Nov 2026.
 
 Smeti is a techno and drum & bass artist, with 6 gigs on soundcheck across Prague. Often billed alongside DJ Dialect, Nior and Axis Alpha. Next up: Bike Jesus, Prague on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Smeti is a techno and drum & bass artist, with 6 gigs on soundcheck across Pragu
 
 DJ Dialect, Nior, Axis Alpha
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smeti-cz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smeti-cz/)*

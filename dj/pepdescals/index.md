@@ -1,6 +1,6 @@
 # Pep Descals
 
-Pep Descals is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Switch Bar, Barcelona on Sat, 31 Oct 2026.
+Pep Descals is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Switch Bar, Barcelona on Sat, 31 Oct 2026.
 
 Pep Descals is a techno and ambient artist based in Spain, with 16 gigs on soundcheck across Barcelona and Rotterdam. Often billed alongside btrast, Fontana (ES) and Quim Clausell. Next up: Switch Bar, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Pep Descals is a techno and ambient artist based in Spain, with 16 gigs on sound
 
 btrast, Fontana (ES), Quim Clausell
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepdescals/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepdescals/)*

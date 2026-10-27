@@ -1,6 +1,6 @@
 # Black Hole
 
-Black Hole is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "INFECT - HARD TECHNO HALLOWEEN PARTY" on Sat, 31 Oct 2026.
+Black Hole is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "INFECT - HARD TECHNO HALLOWEEN PARTY" on Sat, 31 Oct 2026.
 
 Black Hole is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Viale Umbria 118, 20135 Milano, Italy.
 
@@ -14,4 +14,4 @@ Black Hole is a music venue in Milan listed on soundcheck. 1 upcoming gig. See d
 
 Viale Umbria 118, 20135 Milano, Italy, Milan
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/black-hole/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/black-hole/)*

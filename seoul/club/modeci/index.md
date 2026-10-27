@@ -1,6 +1,6 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "SYCO+FORM: AFTERIMAGE" on Fri, 30 Oct 2026.
+Modeci is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "SYCO+FORM: AFTERIMAGE" on Fri, 30 Oct 2026.
 
 Modeci is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including Inger, Keemyo, Minjoon and Siot and 2 more. See dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
@@ -14,4 +14,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

@@ -1,6 +1,6 @@
 # Girlcop
 
-Girlcop is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Open Air , Orlando on Thu, 12 Nov 2026.
+Girlcop is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Open Air , Orlando on Thu, 12 Nov 2026.
 
 Girlcop is an electro and acid artist, with 38 gigs on soundcheck across Austin, Denver, Mexico City and Miami and 3 more. Often billed alongside SATURNSARii, Ctrl+Opt and Alexx in Chainss. Next up: TBA - Open Air , Orlando on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Girlcop is an electro and acid artist, with 38 gigs on soundcheck across Austin,
 
 SATURNSARii, Ctrl+Opt, Alexx in Chainss
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlcop/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlcop/)*

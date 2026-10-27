@@ -1,6 +1,6 @@
 # Folly Ghost
 
-Folly Ghost is a Baile Funk and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Tennis Bar Neukölln, Berlin on Fri, 30 Oct 2026.
+Folly Ghost is a Baile Funk and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tennis Bar Neukölln, Berlin on Fri, 30 Oct 2026.
 
 Folly Ghost is a baile funk and reggaeton artist, with 19 gigs on soundcheck across Amsterdam, Berlin and Vienna. Often billed alongside KALI., anxxxious_t and dj latinchat. Next up: Tennis Bar Neukölln, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Folly Ghost is a baile funk and reggaeton artist, with 19 gigs on soundcheck acr
 
 KALI., anxxxious_t, dj latinchat
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/follyghost/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/follyghost/)*

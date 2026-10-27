@@ -1,14 +1,15 @@
 # Akos V
 
-Akos V is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Atno, Budapest on Fri, 30 Oct 2026.
+Akos V is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Atno, Budapest on Fri, 30 Oct 2026.
 
-Akos V is a house and breakbeat artist, with 18 gigs on soundcheck across Budapest. Often billed alongside Adis Is OK, Hanussen and Vatsanah. Next up: Atno, Budapest on Fri 30 Oct.
+Akos V is a house and breakbeat artist, with 19 gigs on soundcheck across Berlin and Budapest. Often billed alongside Adis Is OK, Hanussen and Vatsanah. Next up: Atno, Budapest on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Atno | Budapest |
+| Fri, 6 Nov 2026 | Golden Gate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Akos V is a house and breakbeat artist, with 18 gigs on soundcheck across Budape
 
 Adis Is OK, Hanussen, Vatsanah
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akosv-hu/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akosv-hu/)*

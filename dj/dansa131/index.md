@@ -1,6 +1,6 @@
 # Dansa
 
-Dansa is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 13 Nov 2026.
+Dansa is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 13 Nov 2026.
 
 Dansa is a bass and techno artist based in United Kingdom, with 56 gigs on soundcheck across Bristol, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside J Wax, Provost (UK) and miira. Next up: Sneaky Pete's, Edinburgh on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dansa is a bass and techno artist based in United Kingdom, with 56 gigs on sound
 
 J Wax, Provost (UK), miira
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dansa131/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dansa131/)*

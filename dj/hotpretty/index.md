@@ -1,6 +1,6 @@
 # HOTPRETTY
 
-HOTPRETTY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bambi's, Toronto on Fri, 13 Nov 2026.
+HOTPRETTY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bambi's, Toronto on Fri, 13 Nov 2026.
 
 HOTPRETTY is a techno and house artist based in United States of America, with 54 gigs on soundcheck across Chicago, London, Miami and New York City and 1 more. Often billed alongside Kirk (US), BLACKCLUB and Hiroko Yamamura. Next up: Bambi's, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ HOTPRETTY is a techno and house artist based in United States of America, with 5
 
 Kirk (US), BLACKCLUB, Hiroko Yamamura
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotpretty/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotpretty/)*

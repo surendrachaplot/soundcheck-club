@@ -1,6 +1,6 @@
 # VISIO
 
-VISIO is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Raleigh Chapel, London on Thu, 19 Nov 2026.
+VISIO is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Raleigh Chapel, London on Thu, 19 Nov 2026.
 
 VISIO is an experimental and bass artist, with 14 gigs on soundcheck across Austin, Hanoi, Kyoto and London and 4 more. Often billed alongside Kenichi Iwasa, Orchestroll and AliA. Next up: Raleigh Chapel, London on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ VISIO is an experimental and bass artist, with 14 gigs on soundcheck across Aust
 
 Kenichi Iwasa, Orchestroll, AliA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/visio/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/visio/)*

@@ -1,6 +1,6 @@
 # Ella Anzoise
 
-Ella Anzoise is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at La Cigale, Buenos Aires on Tue, 27 Oct 2026.
+Ella Anzoise is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at La Cigale, Buenos Aires on Tue, 27 Oct 2026.
 
 Ella Anzoise is a techno and house artist based in Argentina, with 27 gigs on soundcheck across Buenos Aires. Often billed alongside Berger Muzik, Julian Viegas and Fuocco. Next up: La Cigale, Buenos Aires on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Ella Anzoise is a techno and house artist based in Argentina, with 27 gigs on so
 
 Berger Muzik, Julian Viegas, Fuocco
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaanzoise/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaanzoise/)*

@@ -1,6 +1,6 @@
 # deep creep
 
-deep creep is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Shunter, Rotterdam on Sat, 31 Oct 2026.
+deep creep is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Shunter, Rotterdam on Sat, 31 Oct 2026.
 
 deep creep is a techno and house artist based in United States of America, with 111 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brisbane and 20 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: Shunter, Rotterdam on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ deep creep is a techno and house artist based in United States of America, with 
 
 DJ Fart in the Club, Amelia Holt, Aurora Halal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*

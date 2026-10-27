@@ -1,6 +1,6 @@
 # Red Axes
 
-Red Axes is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at LED Unit, Riga on Fri, 30 Oct 2026.
+Red Axes is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at LED Unit, Riga on Fri, 30 Oct 2026.
 
 Red Axes is a house and techno artist based in Israel, with 89 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside DJ Tennis, Adiel and Bakke. Next up: LED Unit, Riga on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Red Axes is a house and techno artist based in Israel, with 89 gigs on soundchec
 
 DJ Tennis, Adiel, Bakke
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

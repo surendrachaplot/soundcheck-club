@@ -1,6 +1,6 @@
 # Dim Kelly
 
-Dim Kelly is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+Dim Kelly is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
 
 Dim Kelly is a deep house and house artist based in Belgium, with 30 gigs on soundcheck across Boston, Brussels, Geneva and Ibiza and 9 more. Often billed alongside Lee Burridge, Stereoclip and Jim Rider. Next up: Le Sainte-Catherine Hall, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dim Kelly is a deep house and house artist based in Belgium, with 30 gigs on sou
 
 Lee Burridge, Stereoclip, Jim Rider
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimkelly/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimkelly/)*

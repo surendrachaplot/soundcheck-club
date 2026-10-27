@@ -1,6 +1,6 @@
 # Jeremy Healy
 
-Jeremy Healy is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+Jeremy Healy is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 Jeremy Healy is a house and trance artist based in United Kingdom, with 17 gigs on soundcheck across Birmingham, Glasgow, Ibiza and Leeds and 5 more. Often billed alongside John Kelly, Judge Jules and Julie Mcknight. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jeremy Healy is a house and trance artist based in United Kingdom, with 17 gigs 
 
 John Kelly, Judge Jules, Julie Mcknight
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyhealy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyhealy/)*

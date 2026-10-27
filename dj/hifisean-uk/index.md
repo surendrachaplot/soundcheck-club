@@ -1,6 +1,6 @@
 # Hifi Sean
 
-Hifi Sean is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at SWG3, Glasgow on Sat, 5 Dec 2026.
+Hifi Sean is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at SWG3, Glasgow on Sat, 5 Dec 2026.
 
 Hifi Sean is a disco and house artist based in United Kingdom, with 44 gigs on soundcheck across Glasgow, Ibiza, Leeds and London and 1 more. Often billed alongside DJ Pippi, DJ Spen and Natasha Diggs. Next up: SWG3, Glasgow on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Hifi Sean is a disco and house artist based in United Kingdom, with 44 gigs on s
 
 DJ Pippi, DJ Spen, Natasha Diggs
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hifisean-uk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hifisean-uk/)*

@@ -1,6 +1,6 @@
 # Cquestt
 
-Cquestt is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Don Quixote, Los Angeles on Fri, 6 Nov 2026.
+Cquestt is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Don Quixote, Los Angeles on Fri, 6 Nov 2026.
 
 Cquestt is a reggaeton and club artist based in United States of America, with 126 gigs on soundcheck across Atlanta, Chicago, Detroit and London and 8 more. Often billed alongside DINABN, CHRYSALIS and Alxander Ivey. Next up: Don Quixote, Los Angeles on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Cquestt is a reggaeton and club artist based in United States of America, with 1
 
 DINABN, CHRYSALIS, Alxander Ivey
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cquestt/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cquestt/)*

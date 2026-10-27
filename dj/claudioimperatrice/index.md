@@ -1,14 +1,15 @@
 # Claudio Imperatrice
 
-Claudio Imperatrice is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Atno, Budapest on Fri, 13 Nov 2026.
+Claudio Imperatrice is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Atno, Budapest on Fri, 13 Nov 2026.
 
-Claudio Imperatrice is a house and minimal artist, with 27 gigs on soundcheck across Barcelona, Budapest, Madrid and Prague. Often billed alongside Electric Boutique, Dubtist and Lost in Details. Next up: Atno, Budapest on Fri 13 Nov.
+Claudio Imperatrice is a house and minimal artist, with 28 gigs on soundcheck across Barcelona, Budapest, Madrid and Prague. Often billed alongside Electric Boutique, Dubtist and Lost in Details. Next up: Atno, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Atno | Budapest |
+| Fri, 27 Nov 2026 | Atno | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Claudio Imperatrice is a house and minimal artist, with 27 gigs on soundcheck ac
 
 Electric Boutique, Dubtist, Lost in Details
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioimperatrice/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioimperatrice/)*

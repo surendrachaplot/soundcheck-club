@@ -1,6 +1,6 @@
 # Silv-o
 
-Silv-o is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at M.O.T, London on Thu, 5 Nov 2026.
+Silv-o is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at M.O.T, London on Thu, 5 Nov 2026.
 
 Silv-o is an experimental and club artist, with 19 gigs on soundcheck across Bologna, London and Tokyo. Often billed alongside Taigen Kawabe, AKIRAM EN and Angelicaa. Next up: M.O.T, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Silv-o is an experimental and club artist, with 19 gigs on soundcheck across Bol
 
 Taigen Kawabe, AKIRAM EN, Angelicaa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silv-o/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silv-o/)*

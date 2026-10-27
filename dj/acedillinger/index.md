@@ -1,6 +1,6 @@
 # Ace Dillinger
 
-Ace Dillinger is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at St Anne's Parish Hall, Toronto on Sat, 31 Oct 2026.
+Ace Dillinger is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at St Anne's Parish Hall, Toronto on Sat, 31 Oct 2026.
 
 Ace Dillinger is a club and house artist, with 16 gigs on soundcheck across Toronto. Often billed alongside Chissmiss Cherry, INCOGNITA and INTROSPKT. Next up: St Anne's Parish Hall, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ace Dillinger is a club and house artist, with 16 gigs on soundcheck across Toro
 
 Chissmiss Cherry, INCOGNITA, INTROSPKT
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acedillinger/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acedillinger/)*

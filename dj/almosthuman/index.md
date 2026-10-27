@@ -1,6 +1,6 @@
 # ALMOST HUMAN
 
-ALMOST HUMAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
+ALMOST HUMAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
 
 ALMOST HUMAN is a techno and house artist based in United States of America, with 6 gigs on soundcheck across Barcelona, Malta, Romania and Valencia. Often billed alongside Billy Hills, DJ Perroz and Desyfer. Next up: TBA, Romania on Fri 18 Jun.
 
@@ -22,4 +22,4 @@ ALMOST HUMAN is a techno and house artist based in United States of America, wit
 
 Billy Hills, DJ Perroz, Desyfer
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/almosthuman/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/almosthuman/)*

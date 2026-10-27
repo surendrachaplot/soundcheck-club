@@ -1,6 +1,6 @@
 # Marylou
 
-Marylou is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kantine am Berghain, Berlin on Wed, 28 Oct 2026.
+Marylou is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Kantine am Berghain, Berlin on Wed, 28 Oct 2026.
 
 Marylou is an experimental and club artist based in France, with 115 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Darwin, ophélie and Marco Shuttle. Next up: Kantine am Berghain, Berlin on Wed 28 Oct.
 
@@ -28,4 +28,4 @@ Marylou is an experimental and club artist based in France, with 115 gigs on sou
 
 Darwin, ophélie, Marco Shuttle
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*

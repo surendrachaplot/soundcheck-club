@@ -1,6 +1,6 @@
 # Monk (2)
 
-Monk (2) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Monk (2) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Monk is a house and techno artist based in Switzerland, with 41 gigs on soundcheck across Boston, Geneva, Miami and New York City and 1 more. Often billed alongside Armii1n, Choukroun and Zayd. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Monk is a house and techno artist based in Switzerland, with 41 gigs on soundche
 
 Armii1n, Choukroun, Zayd
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monk-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monk-2/)*

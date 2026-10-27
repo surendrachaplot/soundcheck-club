@@ -1,6 +1,6 @@
 # ECHO - Roster at DURO
 
-ECHO - Roster at DURO on Fri 30 Oct, Milan. 3 artists: Jen Cardini, Lele Sacchi and Vithz. House. See the line-up on soundcheck.
+ECHO - Roster at DURO on Fri 30 Oct, Milan. 2 artists: Jen Cardini and Lele Sacchi. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ ECHO - Roster at DURO on Fri 30 Oct, Milan. 3 artists: Jen Cardini, Lele Sacchi 
 
 - Jen Cardini
 - Lele Sacchi
-- Vithz
 
 *Source: [soundcheck](https://soundcheck.club/e/2548668-echo-roster-at-duro/)*

@@ -1,6 +1,6 @@
 # JAZZY (2)
 
-JAZZY (2) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+JAZZY (2) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 JAZZY is a techno and house artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 38 more. Often billed alongside Holy Priest, Sonny Fodera and Azyr. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ JAZZY is a techno and house artist based in Germany, with 99 gigs on soundcheck 
 
 Holy Priest, Sonny Fodera, Azyr
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzy-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzy-2/)*

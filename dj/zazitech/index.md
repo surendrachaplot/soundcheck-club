@@ -1,6 +1,6 @@
 # zazitech
 
-zazitech is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
+zazitech is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
 
 zazitech is a techno and tech house artist based in Slovakia, with 93 gigs on soundcheck across Berlin, Bratislava, Dresden and Krakow and 3 more. Often billed alongside DDK, jardabpm and RADYK. Next up: Ankali & Planeta Za, Prague on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ zazitech is a techno and tech house artist based in Slovakia, with 93 gigs on so
 
 DDK (1), jardabpm, RADYK
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zazitech/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zazitech/)*

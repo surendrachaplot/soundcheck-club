@@ -1,6 +1,6 @@
 # Hollis P. Monroe
 
-Hollis P. Monroe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Studio dB, Berlin on Fri, 13 Nov 2026.
+Hollis P. Monroe is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Studio dB, Berlin on Fri, 13 Nov 2026.
 
 Hollis P. Monroe is a house and deep house artist based in United States of America, with 10 gigs on soundcheck across Berlin and Rotterdam. Often billed alongside Marian Tone, Frankie Flowerz and Ken Okuda. Next up: Studio dB, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Hollis P. Monroe is a house and deep house artist based in United States of Amer
 
 Marian Tone, Frankie Flowerz, Ken Okuda
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hollisp.monroe/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hollisp.monroe/)*

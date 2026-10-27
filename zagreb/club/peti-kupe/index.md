@@ -1,6 +1,6 @@
 # Peti Kupe
 
-Peti Kupe is a music venue in Zagreb with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Love Songs with Egyptian Lover, Felver, Antonio Zuza" on Fri, 30 Oct 2026.
+Peti Kupe is a music venue in Zagreb with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Love Songs with Egyptian Lover, Felver, Antonio Zuza" on Fri, 30 Oct 2026.
 
 Peti Kupe is a music venue in Zagreb listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Farell, Antonio Zuza, Bronski and Egyptian Lover and 2 more. See dates, start times and who's playing. Trnjanska cesta 5, 10000, Zagreb, Croatia.
 
@@ -17,4 +17,4 @@ Peti Kupe is a music venue in Zagreb listed on soundcheck. 4 upcoming gigs, with
 
 Trnjanska cesta 5, 10000, Zagreb, Croatia, Zagreb
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*

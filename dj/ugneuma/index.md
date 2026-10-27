@@ -1,6 +1,6 @@
 # Ugnė Uma
 
-Ugnė Uma is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
+Ugnė Uma is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
 
 Ugnė Uma is an experimental and electronica artist based in Lithuania, with 9 gigs on soundcheck across Berlin, Bristol, London and Manchester and 3 more. Often billed alongside Buttechno, feeo and James Holden. Next up: TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu 18 Feb.
 
@@ -25,4 +25,4 @@ Ugnė Uma is an experimental and electronica artist based in Lithuania, with 9 g
 
 Buttechno, feeo, James Holden
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ugneuma/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ugneuma/)*

@@ -1,6 +1,6 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
+Aiden (DE) is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
 Aiden (DE) is a techno and industrial artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 46 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Aiden (DE) is a techno and industrial artist based in United States of America, 
 
 Kobosil, Somewhen, In Verruf
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*

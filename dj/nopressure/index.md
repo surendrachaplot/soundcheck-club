@@ -1,6 +1,6 @@
 # No Pressure
 
-No Pressure is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bangkok Island, Bangkok on Wed, 28 Oct 2026.
+No Pressure is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bangkok Island, Bangkok on Wed, 28 Oct 2026.
 
 No Pressure is a house and deep house artist based in United States of America, with 45 gigs on soundcheck across Bangkok and Los Angeles. Often billed alongside Andy Oro, Akumen and agraybé. Next up: Bangkok Island, Bangkok on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ No Pressure is a house and deep house artist based in United States of America, 
 
 Andy Oro, Akumen, agraybé
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nopressure/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nopressure/)*

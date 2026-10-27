@@ -1,6 +1,6 @@
 # Unveiled
 
-Unveiled is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Brooklyn Halloween Unveiled Terror Party 10/31" on Sat, 31 Oct 2026.
+Unveiled is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Brooklyn Halloween Unveiled Terror Party 10/31" on Sat, 31 Oct 2026.
 
 Unveiled is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including ASMOT, Luna Mar and Pablo Fierro. See dates, start times and who's playing. 94 n 13th st, brooklyn, NY 11249.
 
@@ -16,4 +16,4 @@ Unveiled is a music venue in New York City listed on soundcheck. 3 upcoming gigs
 
 94 n 13th st, brooklyn, NY 11249, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/unveiled/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/unveiled/)*

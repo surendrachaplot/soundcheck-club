@@ -1,6 +1,6 @@
 # Shatter Hands
 
-Shatter Hands is a Hip-Hop and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Meat City Music Club, Copenhagen on Sat, 7 Nov 2026.
+Shatter Hands is a Hip-Hop and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Meat City Music Club, Copenhagen on Sat, 7 Nov 2026.
 
 Shatter Hands is a hip-hop and electronica artist based in Denmark, with 7 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Jesper Lemke, Anna Wall and FloFilz. Next up: Meat City Music Club, Copenhagen on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Shatter Hands is a hip-hop and electronica artist based in Denmark, with 7 gigs 
 
 Jesper Lemke, Anna Wall, FloFilz
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shatterhands/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shatterhands/)*

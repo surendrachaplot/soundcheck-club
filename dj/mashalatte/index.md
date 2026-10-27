@@ -1,6 +1,6 @@
 # masha latte
 
-masha latte is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mood Ring, New York City on Wed, 28 Oct 2026.
+masha latte is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mood Ring, New York City on Wed, 28 Oct 2026.
 
 masha latte is a techno and baile funk artist based in Ukraine, with 21 gigs on soundcheck across New York City. Often billed alongside R-DNA, SEDENTARY and 1ol1v1a. Next up: Mood Ring, New York City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ masha latte is a techno and baile funk artist based in Ukraine, with 21 gigs on 
 
 R-DNA, SEDENTARY, 1ol1v1a
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mashalatte/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mashalatte/)*

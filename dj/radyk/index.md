@@ -1,6 +1,6 @@
 # RADYK
 
-RADYK is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
+RADYK is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
 
 RADYK is a techno and tech house artist based in Ukraine, with 32 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside zazitech, DDK and jardabpm. Next up: Ankali & Planeta Za, Prague on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ RADYK is a techno and tech house artist based in Ukraine, with 32 gigs on soundc
 
 zazitech, DDK (1), jardabpm
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radyk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radyk/)*

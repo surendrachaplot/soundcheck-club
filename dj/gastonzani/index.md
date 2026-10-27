@@ -1,6 +1,6 @@
 # Gaston Zani
 
-Gaston Zani is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at M7 Club, Barcelona on Sun, 1 Nov 2026.
+Gaston Zani is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at M7 Club, Barcelona on Sun, 1 Nov 2026.
 
 Gaston Zani is a techno and industrial artist based in Spain, with 36 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Parsa Jafari, GNRØ and CESAR ALMENA. Next up: M7 Club, Barcelona on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Gaston Zani is a techno and industrial artist based in Spain, with 36 gigs on so
 
 Parsa Jafari, GNRØ, CESAR ALMENA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonzani/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gastonzani/)*

@@ -1,6 +1,6 @@
 # Killamanjaro
 
-Killamanjaro is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Niamos, Manchester on Fri, 13 Nov 2026.
+Killamanjaro is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Niamos, Manchester on Fri, 13 Nov 2026.
 
 Killamanjaro is a jungle and drum & bass artist based in United Kingdom, with 37 gigs on soundcheck across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside DAIZ, Breakfake and Chimpo. Next up: Niamos, Manchester on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Killamanjaro is a jungle and drum & bass artist based in United Kingdom, with 37
 
 DAIZ, Breakfake, Chimpo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killamanjaro/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killamanjaro/)*

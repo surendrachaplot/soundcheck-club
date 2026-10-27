@@ -1,6 +1,6 @@
 # Kenni Javon
 
-Kenni Javon is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Standard, New York City on Thu, 29 Oct 2026.
+Kenni Javon is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Standard, New York City on Thu, 29 Oct 2026.
 
 Kenni Javon is a club and hip-hop artist based in United States of America, with 44 gigs on soundcheck across Atlanta, Chicago, Los Angeles and New York City and 2 more. Often billed alongside Brown Liquah, PINKYY and Byrell The Great. Next up: The Standard, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Kenni Javon is a club and hip-hop artist based in United States of America, with
 
 Brown Liquah, PINKYY, Byrell The Great
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennijavon/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennijavon/)*

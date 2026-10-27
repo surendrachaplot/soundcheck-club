@@ -1,8 +1,8 @@
 # Megan Rosengarten
 
-Megan Rosengarten is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Woods, New York City on Sat, 31 Oct 2026.
+Megan Rosengarten is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Woods, New York City on Sat, 31 Oct 2026.
 
-Megan Rosengarten is a techno and electro artist based in United States of America, with 26 gigs on soundcheck across Berlin and New York City. Often billed alongside Wren's Lullaby, Friedberg and DREAMINSLOW. Next up: The Woods, New York City on Sat 31 Oct.
+Megan Rosengarten is a techno and experimental artist based in United States of America, with 27 gigs on soundcheck across Berlin and New York City. Often billed alongside Wren's Lullaby, Friedberg and DREAMINSLOW. Next up: The Woods, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Megan Rosengarten is a techno and electro artist based in United States of Ameri
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Woods | New York City |
 | Tue, 17 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Sat, 21 Nov 2026 | TBA - 1 INGRAHAM ST | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Megan Rosengarten is a techno and electro artist based in United States of Ameri
 
 Wren's Lullaby, Friedberg, DREAMINSLOW
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*

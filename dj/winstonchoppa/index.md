@@ -1,6 +1,6 @@
 # Winston Choppa
 
-Winston Choppa is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 6 Nov 2026.
+Winston Choppa is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 6 Nov 2026.
 
 Winston Choppa is a trance and techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside elvito, DJ Henk and KERT (DE). Next up: Lokschuppen Berlin, Berlin on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Winston Choppa is a trance and techno artist based in Germany, with 5 gigs on so
 
 elvito, DJ Henk, KERT (DE)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winstonchoppa/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winstonchoppa/)*

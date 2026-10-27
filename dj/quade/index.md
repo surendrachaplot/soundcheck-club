@@ -1,6 +1,6 @@
 # quade
 
-quade is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
+quade is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
 
 quade is a techno and trance artist based in United States of America, with 27 gigs on soundcheck across Berlin, Bristol, Chicago and Dublin and 5 more. Often billed alongside dirtymoney, Eulalia and ATT1C. Next up: TBA, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ quade is a techno and trance artist based in United States of America, with 27 g
 
 dirtymoney, Eulalia, ATT1C
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quade/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quade/)*

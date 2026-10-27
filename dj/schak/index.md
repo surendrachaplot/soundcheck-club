@@ -1,6 +1,6 @@
 # Schak
 
-Schak is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 18 Dec 2026.
+Schak is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 18 Dec 2026.
 
 Schak is a house and techno artist based in United Kingdom, with 46 gigs on soundcheck across Aberdeen, Belfast, Brighton and Bristol and 14 more. Often billed alongside Hannah Laing, Ben Hemsley and Claptone. Next up: NX Newcastle, Newcastle on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Schak is a house and techno artist based in United Kingdom, with 46 gigs on soun
 
 Hannah Laing, Ben Hemsley, Claptone
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schak/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schak/)*

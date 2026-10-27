@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: Juan Atkins at YuYu Cine Club
 
-Yu Yu Cine Club: Juan Atkins at YuYu Cine Club on Sat 31 Oct, Mexico City. 2 artists: Juan Atkins and Maseriche. See the line-up on soundcheck.
+Yu Yu Cine Club: Juan Atkins at YuYu Cine Club on Sat 31 Oct, Mexico City. 3 artists: Jo Sep, Juan Atkins and Maseriche. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Yu Yu Cine Club: Juan Atkins at YuYu Cine Club on Sat 31 Oct, Mexico City. 2 art
 
 ## Line-up
 
+- Jo Sep
 - Juan Atkins
 - Maseriche
 

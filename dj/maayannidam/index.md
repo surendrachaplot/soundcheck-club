@@ -1,6 +1,6 @@
 # Maayan Nidam
 
-Maayan Nidam is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Fünk, Mexico City on Sat, 7 Nov 2026.
+Maayan Nidam is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Fünk, Mexico City on Sat, 7 Nov 2026.
 
 Maayan Nidam is a house and minimal artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Fünk, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Maayan Nidam is a house and minimal artist based in Germany, with 105 gigs on so
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maayannidam/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maayannidam/)*

@@ -1,6 +1,6 @@
 # Paul Fleetwood
 
-Paul Fleetwood is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Collapse, Pittsburgh on Sat, 31 Oct 2026.
+Paul Fleetwood is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Collapse, Pittsburgh on Sat, 31 Oct 2026.
 
 Paul Fleetwood is a techno and electro artist, with 22 gigs on soundcheck across Denver, Detroit, New York City and Pittsburgh and 1 more. Often billed alongside Ron Like Hell, Ryan Smith and Ron Mist. Next up: Collapse, Pittsburgh on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Paul Fleetwood is a techno and electro artist, with 22 gigs on soundcheck across
 
 Ron Like Hell, Ryan Smith, Ron Mist
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulfleetwood/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulfleetwood/)*

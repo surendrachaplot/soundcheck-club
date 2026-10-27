@@ -1,6 +1,6 @@
 # Mental D
 
-Mental D is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at LAUT, Barcelona on Fri, 27 Nov 2026.
+Mental D is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at LAUT, Barcelona on Fri, 27 Nov 2026.
 
 Mental D is a techno and electro artist, with 8 gigs on soundcheck across Barcelona. Often billed alongside AINES, Afra and DjSport. Next up: LAUT, Barcelona on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Mental D is a techno and electro artist, with 8 gigs on soundcheck across Barcel
 
 AINES, Afra, DjSport
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mentald/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mentald/)*

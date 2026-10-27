@@ -1,6 +1,6 @@
 # Lazaro Casanova
 
-Lazaro Casanova is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at 1-800-Lucky, Miami on Sun, 1 Nov 2026.
+Lazaro Casanova is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 1-800-Lucky, Miami on Sun, 1 Nov 2026.
 
 Lazaro Casanova is a house and afro house artist based in United States of America, with 49 gigs on soundcheck across Miami. Often billed alongside Oscar G, Nicole Fiallo and Mike Nervous. Next up: 1-800-Lucky, Miami on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Lazaro Casanova is a house and afro house artist based in United States of Ameri
 
 Oscar G, Nicole Fiallo, Mike Nervous
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazarocasanova/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazarocasanova/)*

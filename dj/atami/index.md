@@ -1,6 +1,6 @@
 # ATAMI
 
-ATAMI is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Forestlimit, Tokyo on Sat, 7 Nov 2026.
+ATAMI is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Forestlimit, Tokyo on Sat, 7 Nov 2026.
 
 ATAMI is a bass and techno artist based in Japan, with 104 gigs on soundcheck across Tokyo. Often billed alongside MOOTOE, VECSILLE and SAKO. Next up: Forestlimit, Tokyo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ ATAMI is a bass and techno artist based in Japan, with 104 gigs on soundcheck ac
 
 MOOTOE, VECSILLE, SAKO
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atami/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atami/)*

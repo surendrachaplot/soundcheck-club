@@ -1,6 +1,6 @@
 # Paulitical
 
-Paulitical is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Ivory Hotel, Glasgow on Sun, 27 Dec 2026.
+Paulitical is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Ivory Hotel, Glasgow on Sun, 27 Dec 2026.
 
 Paulitical is a techno and house artist, with 10 gigs on soundcheck across Bangkok, Copenhagen, Glasgow and Ho Chi Minh City and 3 more. Often billed alongside Arrosa, B.A.R.K and Becky Stroke. Next up: The Ivory Hotel, Glasgow on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Paulitical is a techno and house artist, with 10 gigs on soundcheck across Bangk
 
 Arrosa, B.A.R.K, Becky Stroke
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulitical/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulitical/)*

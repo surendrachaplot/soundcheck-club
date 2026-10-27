@@ -1,6 +1,6 @@
 # Noncitizens
 
-Noncitizens is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Casa Van Titter, Argentina on Sat, 21 Nov 2026.
+Noncitizens is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Casa Van Titter, Argentina on Sat, 21 Nov 2026.
 
 Noncitizens is a house and progressive house artist based in Argentina, with 39 gigs on soundcheck across Argentina, Barcelona, Buenos Aires and Dallas/Fort Worth and 5 more. Often billed alongside Guy Gerber, Colyn and Facundo Mohrr. Next up: Casa Van Titter, Argentina on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Noncitizens is a house and progressive house artist based in Argentina, with 39 
 
 Guy Gerber, Colyn, Facundo Mohrr
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noncitizens/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noncitizens/)*

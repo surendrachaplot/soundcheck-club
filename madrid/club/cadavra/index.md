@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 22 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Ruman at ANFANG" on Thu, 29 Oct 2026.
+Cadavra is a music venue in Madrid with 22 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Ruman at ANFANG" on Thu, 29 Oct 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with line-ups including Abdulla A., Anna Wall, Avo (ES) and Bambi (FR) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -15,7 +15,7 @@ Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with 
 | Fri, 6 Nov 2026 | CDVR with Camion Bazar (hybrid live set) | Camion Bazar, ESSTI, Iria, Luska, Sonder (1) |
 | Sat, 7 Nov 2026 | CDVR with Anna Wall | Anna Wall, Conio, KISKI, Marina Antih, Nurias |
 | Thu, 12 Nov 2026 | Mareena, Charlton & Unkle Fon at ANFANG | Charlton, Mareena, Unkle Fon |
-| Fri, 13 Nov 2026 | LA MOVIDA RADIOACTIVA / 2 YEARS | EMIR-B |
+| Fri, 13 Nov 2026 | LA MOVIDA RADIOACTIVA / 2 YEARS | EMIR-B, Xorpel, Z@p |
 | Sat, 14 Nov 2026 | 9FINITY x CERTAIN CLUB with Matisa, Secretsundaze, Certain People | Certain People, Emi Koto, Matisa, OLI BEDIA, Secretsundaze, zizi k |
 | Thu, 19 Nov 2026 | D-Leria & SERNA at ANFANG | D-Leria, SERNA |
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with 
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

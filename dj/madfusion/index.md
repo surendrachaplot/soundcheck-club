@@ -1,6 +1,6 @@
 # Mad Fusion
 
-Mad Fusion is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 28 Nov 2026.
+Mad Fusion is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 28 Nov 2026.
 
 Mad Fusion is a techno and trance artist based in Switzerland, with 7 gigs on soundcheck across Osaka and Zurich. Often billed alongside Cortez, Daisuke Kakimoto and GCOD. Next up: Zinkbad Eventhalle, Zurich on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Mad Fusion is a techno and trance artist based in Switzerland, with 7 gigs on so
 
 Cortez (2), Daisuke Kakimoto, GCOD
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madfusion/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madfusion/)*

@@ -1,6 +1,6 @@
 # Alex, from Deep
 
-Alex, from Deep is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NDR2 Red Room, London on Sat, 31 Oct 2026.
+Alex, from Deep is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at NDR2 Red Room, London on Sat, 31 Oct 2026.
 
 Alex, from Deep are a garage and dubstep duo, with 4 gigs on soundcheck across London. Often billed alongside Ovrtic, Aria and Benny Ill. Next up: NDR2 Red Room, London on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Alex, from Deep are a garage and dubstep duo, with 4 gigs on soundcheck across L
 
 Ovrtic, Aria (3), Benny Ill
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alex,fromdeep/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alex,fromdeep/)*

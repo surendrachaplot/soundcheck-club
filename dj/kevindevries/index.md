@@ -1,6 +1,6 @@
 # Kevin de Vries
 
-Kevin de Vries is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Pacha, Munich on Fri, 6 Nov 2026.
+Kevin de Vries is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Pacha, Munich on Fri, 6 Nov 2026.
 
 Kevin de Vries is a techno and house artist based in Germany, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Tale Of Us, Chris Avantgarde and Adam Beyer. Next up: Pacha, Munich on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Kevin de Vries is a techno and house artist based in Germany, with 187 gigs on s
 
 Tale Of Us, Chris Avantgarde, Adam Beyer
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*

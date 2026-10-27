@@ -1,6 +1,6 @@
 # KNTC fam jam with Artphorm, Dimitry, Jad Kadi & Lara Bee at Système
 
-KNTC fam jam with Artphorm, Dimitry, Jad Kadi & Lara Bee at Système on Sun 1 Nov, Montreal. 3 artists: Artphorm, Dimitry and Lara Bee. See the line-up on soundcheck.
+KNTC fam jam with Artphorm, Dimitry, Jad Kadi & Lara Bee at Système on Sun 1 Nov, Montreal. 3 artists: Artphorm, Dimitry and Lara Bee. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

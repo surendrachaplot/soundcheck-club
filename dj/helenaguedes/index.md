@@ -1,6 +1,6 @@
 # Helena Guedes
 
-Helena Guedes is a Club and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pérola Negra Club, Porto on Sat, 21 Nov 2026.
+Helena Guedes is a Club and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pérola Negra Club, Porto on Sat, 21 Nov 2026.
 
 Helena Guedes is a club and funk / soul artist based in Portugal, with 24 gigs on soundcheck across Lisbon, Porto and Rome. Often billed alongside Craig Smith, DJ Spen and Ella Knight. Next up: Pérola Negra Club, Porto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Helena Guedes is a club and funk / soul artist based in Portugal, with 24 gigs o
 
 Craig Smith, DJ Spen, Ella Knight
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenaguedes/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenaguedes/)*

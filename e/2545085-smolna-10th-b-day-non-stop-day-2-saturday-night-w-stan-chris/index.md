@@ -1,6 +1,6 @@
 # Smolna 10TH B-DAY NON STOP DAY 2: SATURDAY NIGHT w/ Stan Christ, David Lohlein, Raphael Dincsoy at Smolna
 
-Smolna 10TH B-DAY NON STOP DAY 2: SATURDAY NIGHT w/ Stan Christ, David Lohlein, Raphael Dincsoy on Sat 31 Oct, Warsaw. 9 artists: David Löhlein, Granatka, kaj garage and No:mad and 5 more. Techno and House. See the line-up on soundcheck.
+Smolna 10TH B-DAY NON STOP DAY 2: SATURDAY NIGHT w/ Stan Christ, David Lohlein, Raphael Dincsoy on Sat 31 Oct, Warsaw. 10 artists: David Löhlein, Granatka, kaj garage and No:mad and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Smolna 10TH B-DAY NON STOP DAY 2: SATURDAY NIGHT w/ Stan Christ, David Lohlein, 
 - kaj garage
 - No:mad
 - Olivia Nebula
+- Pielson
 - Raphael Dincsoy
 - Stan Christ
 - Theviacya

@@ -1,6 +1,6 @@
 # Proxxy
 
-Proxxy is a Tech House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Flash, Washington DC on Sat, 5 Dec 2026.
+Proxxy is a Tech House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Flash, Washington DC on Sat, 5 Dec 2026.
 
 Proxxy is a tech house and drum & bass artist based in United States of America, with 12 gigs on soundcheck across Tampa Bay and Washington DC. Often billed alongside Essential Freaks, Gio Leon and Brook B. Next up: Flash, Washington DC on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Proxxy is a tech house and drum & bass artist based in United States of America,
 
 Essential Freaks, Gio Leon, Brook B
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proxxy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proxxy/)*

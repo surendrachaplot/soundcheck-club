@@ -1,6 +1,6 @@
 # swisherman
 
-swisherman is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 31 Oct 2026.
+swisherman is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 31 Oct 2026.
 
 swisherman is a techno and bass artist based in Australia, with 12 gigs on soundcheck across Canberra and Sydney. Often billed alongside Fashionably Late, Ebony Willis and Karmel Jäger. Next up: The Lord Gladstone, Sydney on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ swisherman is a techno and bass artist based in Australia, with 12 gigs on sound
 
 Fashionably Late, Ebony Willis, Karmel Jäger
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swisherman/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swisherman/)*

@@ -1,13 +1,14 @@
 # Sulk Hogan (2)
 
-Sulk Hogan (2) is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - ADD-1570 DUNDAS, Toronto on Fri, 27 Nov 2026.
+Sulk Hogan (2) is a Garage and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lithuanian House, Toronto on Fri, 30 Oct 2026.
 
-Sulk Hogan is a garage and techno artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside In Depth Subject, Kara Kara and MSDELICIOUS. Next up: TBA - ADD-1570 DUNDAS, Toronto on Fri 27 Nov.
+Sulk Hogan is a garage and techno artist based in Canada, with 23 gigs on soundcheck across Toronto. Often billed alongside In Depth Subject, Kara Kara and MSDELICIOUS. Next up: Lithuanian House, Toronto on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Lithuanian House | Toronto |
 | Fri, 27 Nov 2026 | TBA - ADD-1570 DUNDAS | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sulk Hogan is a garage and techno artist based in Canada, with 22 gigs on soundc
 
 In Depth Subject, Kara Kara, MSDELICIOUS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkhogan-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkhogan-2/)*

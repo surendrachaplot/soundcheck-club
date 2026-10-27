@@ -1,6 +1,6 @@
 # Comik Sans
 
-Comik Sans is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Under Bron, Stockholm on Fri, 18 Dec 2026.
+Comik Sans is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Under Bron, Stockholm on Fri, 18 Dec 2026.
 
 Comik Sans is a house and electronica artist based in Sweden, with 7 gigs on soundcheck across Seoul and Stockholm. Often billed alongside Natural Goofy, Betamax_ and Borja S. Next up: Under Bron, Stockholm on Fri 18 Dec.
 
@@ -23,4 +23,4 @@ Comik Sans is a house and electronica artist based in Sweden, with 7 gigs on sou
 
 Natural Goofy, Betamax_, Borja S
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comiksans/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comiksans/)*

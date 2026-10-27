@@ -1,6 +1,6 @@
 # Somoine
 
-Somoine is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Macadam, Nantes on Fri, 4 Dec 2026.
+Somoine is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Macadam, Nantes on Fri, 4 Dec 2026.
 
 Somoine is a trance and progressive house artist based in France, with 17 gigs on soundcheck across Nantes and Paris. Often billed alongside Audrey Danza, Benwal and Binary Digit. Next up: Macadam, Nantes on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Somoine is a trance and progressive house artist based in France, with 17 gigs o
 
 Audrey Danza, Benwal, Binary Digit
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somoine/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somoine/)*

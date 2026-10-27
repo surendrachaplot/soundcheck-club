@@ -1,6 +1,6 @@
 # Tracksuits
 
-Tracksuits is a electronic artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Brixton Storeys, London on Fri, 30 Oct 2026.
+Tracksuits is a electronic artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Brixton Storeys, London on Fri, 30 Oct 2026.
 
 Tracksuits is an electronic artist based in United States of America, with 10 gigs on soundcheck across London. Often billed alongside ID, Sweets and Central Cee. Next up: Brixton Storeys, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Tracksuits is an electronic artist based in United States of America, with 10 gi
 
 ID, Sweets, Central Cee
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tracksuits/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tracksuits/)*

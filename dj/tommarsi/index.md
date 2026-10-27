@@ -1,6 +1,6 @@
 # Tom Marsi
 
-Tom Marsi is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
+Tom Marsi is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Tom Marsi is a club and techno artist based in United States of America, with 109 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Mexico City and 8 more. Often billed alongside Discnogirl, DJ CARO and RITCHRD. Next up: El Rio, San Francisco/Oakland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Tom Marsi is a club and techno artist based in United States of America, with 10
 
 Discnogirl, DJ CARO, RITCHRD
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommarsi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommarsi/)*

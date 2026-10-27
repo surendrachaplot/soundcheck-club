@@ -1,6 +1,6 @@
 # Marbs
 
-Marbs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Music Yard, Charlotte on Sat, 31 Oct 2026.
+Marbs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Music Yard, Charlotte on Sat, 31 Oct 2026.
 
 Marbs is a house and techno artist based in United States of America, with 62 gigs on soundcheck across Austin, Charlotte, Chicago and Denver and 12 more. Often billed alongside Mikey Lion, Lee Reynolds and Porky. Next up: The Music Yard, Charlotte on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Marbs is a house and techno artist based in United States of America, with 62 gi
 
 Mikey Lion, Lee Reynolds, Porky
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marbs/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marbs/)*

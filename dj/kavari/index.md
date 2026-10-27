@@ -1,6 +1,6 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
+KAVARI is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
 
 KAVARI is an experimental and techno artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Auckland, Austin and Austria and 38 more. Often billed alongside Blood of Aza, gyrofield and Blawan. Next up: TBA - Various Venues, Guimarães, PT, Portugal on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ KAVARI is an experimental and techno artist based in United Kingdom, with 112 gi
 
 Blood of Aza, gyrofield, Blawan
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

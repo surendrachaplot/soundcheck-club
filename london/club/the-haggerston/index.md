@@ -1,6 +1,6 @@
 # The Haggerston
 
-The Haggerston is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Shell The Ting" on Fri, 30 Oct 2026.
+The Haggerston is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Shell The Ting" on Fri, 30 Oct 2026.
 
 The Haggerston is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Camporeale (FR), LISAKEEKS, RAAANDY and WAAW and 1 more. See dates, start times and who's playing. 438 Kingsland Rd, London, E8 4AA.
 
@@ -17,4 +17,4 @@ The Haggerston is a music venue in London listed on soundcheck. 4 upcoming gigs,
 
 438 Kingsland Rd, London, E8 4AA, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*

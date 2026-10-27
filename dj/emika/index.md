@@ -1,14 +1,13 @@
 # Emika
 
-Emika is a Electronica and Classical artist with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Cinema Room, All is Joy, London on Mon, 26 Oct 2026.
+Emika is a Electronica and Classical artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Achtberlin, Berlin on Tue, 27 Oct 2026.
 
-Emika is an electronica and classical artist based in Germany, with 16 gigs on soundcheck across Baden W Rttemberg, Berlin, Bochum and Hamburg and 9 more. Often billed alongside Chloe Lula, Eomac and Schlindwein. Next up: Cinema Room, All is Joy, London on Mon 26 Oct.
+Emika is an electronica and classical artist based in Germany, with 16 gigs on soundcheck across Baden W Rttemberg, Berlin, Bochum and Hamburg and 9 more. Often billed alongside Chloe Lula, Eomac and Schlindwein. Next up: Achtberlin, Berlin on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | Cinema Room, All is Joy | London |
 | Tue, 27 Oct 2026 | Achtberlin | Berlin |
 | Wed, 28 Oct 2026 | msm-Studio | Munich |
 | Fri, 6 Nov 2026 | Central Kino, Rottweil | Baden-w-rttemberg |
@@ -23,6 +22,7 @@ Emika is an electronica and classical artist based in Germany, with 16 gigs on s
 
 ## Recently played
 
+- Cinema Room, All is Joy, London · Mon, 26 Oct 2026
 - Gretchen, Berlin · Thu, 3 Apr 2025
 - ZiMMT, Leipzig · Wed, 2 Apr 2025
 - Kazimier Stockroom, Liverpool · Thu, 24 Oct 2024
@@ -32,4 +32,4 @@ Emika is an electronica and classical artist based in Germany, with 16 gigs on s
 
 Chloe Lula (3), Eomac, Schlindwein
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emika/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emika/)*

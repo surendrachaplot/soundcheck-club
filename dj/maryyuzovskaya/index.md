@@ -1,6 +1,6 @@
 # Mary Yuzovskaya
 
-Mary Yuzovskaya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
+Mary Yuzovskaya is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
 
 Mary Yuzovskaya is a techno and house artist, with 103 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 32 more. Often billed alongside Amotik, Delano Legito and Altinbas. Next up: Tresor / Globus, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mary Yuzovskaya is a techno and house artist, with 103 gigs on soundcheck across
 
 Amotik, Delano Legito, Altinbas
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyuzovskaya/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyuzovskaya/)*

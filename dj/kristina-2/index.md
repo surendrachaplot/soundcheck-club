@@ -1,13 +1,14 @@
 # Kristina (2)
 
-Kristina (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA -  Vidigueira, Lisbon on Sat, 14 Nov 2026.
+Kristina (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Rūmu, Lisbon on Fri, 6 Nov 2026.
 
-Kristina is a techno and house artist based in Ukraine, with 20 gigs on soundcheck across Lisbon and Porto. Often billed alongside Jorge Caiado, Pedro Goya and Bernardo Vaz. Next up: TBA -  Vidigueira, Lisbon on Sat 14 Nov.
+Kristina is a techno and house artist based in Ukraine, with 21 gigs on soundcheck across Lisbon and Porto. Often billed alongside Jorge Caiado, Bernardo Vaz and Pedro Goya. Next up: Rūmu, Lisbon on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Rūmu | Lisbon |
 | Sat, 14 Nov 2026 | TBA -  Vidigueira | Lisbon |
 
 ## Recently played
@@ -23,6 +24,6 @@ Kristina is a techno and house artist based in Ukraine, with 20 gigs on soundche
 
 ## Shares bills with
 
-Jorge Caiado, Pedro Goya, Bernardo Vaz
+Jorge Caiado, Bernardo Vaz, Pedro Goya
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristina-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristina-2/)*

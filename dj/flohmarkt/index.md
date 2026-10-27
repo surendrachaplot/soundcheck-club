@@ -1,8 +1,8 @@
 # Flohmarkt
 
-Flohmarkt is a Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Skatehalle Berlin, Berlin on Fri, 6 Nov 2026.
+Flohmarkt is a Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Skatehalle Berlin, Berlin on Fri, 6 Nov 2026.
 
-Flohmarkt is a techno artist based in Germany, with 15 gigs on soundcheck across Berlin, Hamburg, Leipzig and Vienna. Often billed alongside MEKER, DJ Parabolspiegel and EZA (DE). Next up: Skatehalle Berlin, Berlin on Fri 6 Nov.
+Flohmarkt is a techno artist based in Germany, with 15 gigs on soundcheck across Berlin, Hamburg, Leipzig and Vienna. Often billed alongside MEKER, MILANCHOLIE and e.leptic. Next up: Skatehalle Berlin, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Flohmarkt is a techno artist based in Germany, with 15 gigs on soundcheck across
 
 ## Shares bills with
 
-MEKER, DJ Parabolspiegel, EZA (DE)
+MEKER, MILANCHOLIE, e.leptic
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flohmarkt/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flohmarkt/)*

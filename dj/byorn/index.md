@@ -1,6 +1,6 @@
 # BYØRN
 
-BYØRN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
+BYØRN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
 
 BYØRN is a techno and trance artist based in Belgium, with 109 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 47 more. Often billed alongside NOVAH, SIKOTI and 6EJOU. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ BYØRN is a techno and trance artist based in Belgium, with 109 gigs on soundche
 
 NOVAH, SIKOTI, 6EJOU
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*

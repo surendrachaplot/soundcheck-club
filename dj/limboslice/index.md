@@ -1,6 +1,6 @@
 # Limbo Slice
 
-Limbo Slice is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Greyhound, London on Sun, 1 Nov 2026.
+Limbo Slice is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Greyhound, London on Sun, 1 Nov 2026.
 
 Limbo Slice is a dubstep and techno artist, with 5 gigs on soundcheck across London and Seoul. Often billed alongside 2SPADE, Coex and DJ heavenly wisdom. Next up: The Greyhound, London on Sun 1 Nov.
 
@@ -21,4 +21,4 @@ Limbo Slice is a dubstep and techno artist, with 5 gigs on soundcheck across Lon
 
 2SPADE, Coex, DJ heavenly wisdom
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limboslice/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limboslice/)*

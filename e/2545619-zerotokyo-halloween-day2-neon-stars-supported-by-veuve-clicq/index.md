@@ -1,6 +1,6 @@
 # ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween' at ZEROTOKYO
 
-ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween' on Sat 31 Oct, Tokyo. 8 artists: DJ HOKUTO, HEAVEN'S GATE CREW, KATIMI AI and miute and 4 more. Pop. See the line-up on soundcheck.
+ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween' on Sat 31 Oct, Tokyo. 9 artists: DJ HOKUTO, HEAVEN'S GATE CREW, KATIMI AI and miute and 5 more. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween' on S
 - HEAVEN'S GATE CREW
 - KATIMI AI
 - miute
+- RashBone
 - RION
 - SAKO
 - ShioriyBradshaw

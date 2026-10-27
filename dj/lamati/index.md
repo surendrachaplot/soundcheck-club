@@ -1,6 +1,6 @@
 # Lamati
 
-Lamati is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Nuevo Leon 89, Mexico City on Fri, 30 Oct 2026.
+Lamati is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nuevo Leon 89, Mexico City on Fri, 30 Oct 2026.
 
 Lamati is a house and techno artist based in Nicaragua, with 19 gigs on soundcheck across Mexico City. Often billed alongside Diz Shocka, Joss Crown and DU'DU (MX). Next up: Nuevo Leon 89, Mexico City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lamati is a house and techno artist based in Nicaragua, with 19 gigs on soundche
 
 Diz Shocka, Joss Crown, DU'DU (MX)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamati/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamati/)*

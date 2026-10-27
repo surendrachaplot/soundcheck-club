@@ -1,14 +1,13 @@
 # Pimpernel
 
-Pimpernel is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Pimpernel All Night Long" on Mon, 26 Oct 2026.
+Pimpernel is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Pimpernel All Night Long" on Tue, 27 Oct 2026.
 
-Pimpernel is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Phil Kamp, Sonson, Thomas Herb and Thomas Stieler. See dates, start times and who's playing. Müllerstr. 56; 80469 Munich; Germany.
+Pimpernel is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including Phil Kamp, Sonson and Thomas Herb. See dates, start times and who's playing. Müllerstr. 56; 80469 Munich; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | Pimpernel All Night Long | Thomas Stieler |
 | Tue, 27 Oct 2026 | Pimpernel All Night Long | Thomas Herb |
 | Wed, 28 Oct 2026 | Pimpernel All Night Long | Phil Kamp |
 | Thu, 29 Oct 2026 | Pimpernel All Night Long | Sonson |
@@ -19,4 +18,4 @@ Pimpernel is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with
 
 Müllerstr. 56; 80469 Munich; Germany, Munich
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pimpernel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pimpernel/)*

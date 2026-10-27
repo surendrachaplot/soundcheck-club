@@ -1,6 +1,6 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
+Jennifer Loveless is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
 
 Jennifer Loveless is a house and techno artist based in Australia, with 262 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 62 more. Often billed alongside Fafi Abdel Nour, BASHKKA and ISAbella. Next up: TBA - Secret Location, London on Thu 29 Oct.
 
@@ -32,4 +32,4 @@ Jennifer Loveless is a house and techno artist based in Australia, with 262 gigs
 
 Fafi Abdel Nour, BASHKKA, ISAbella
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

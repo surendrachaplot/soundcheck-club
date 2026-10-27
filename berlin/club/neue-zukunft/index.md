@@ -1,14 +1,15 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "subsidized time 7+8 Team Work + 13YC" on Fri, 30 Oct 2026.
+Neue Zukunft is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "subsidized time 7+8 Team Work + 13YC" on Fri, 30 Oct 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Die Wilde Jagd. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Die Wilde Jagd. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | subsidized time 7+8 Team Work + 13YC |  |
+| Fri, 30 Oct 2026 | Crocodiles, Shybits |  |
 | Fri, 27 Nov 2026 | BLUES BUMPS: THE DARTS (US) + support // Berlin Neue Zukunft |  |
 | Mon, 30 Nov 2026 | Lost In Kyiv (FR / Pelagic Records), Aufhebung (BE) |  |
 | Wed, 9 Dec 2026 | MILK ME presents: Lemongrab - Another Kind Of Freedom Release Show |  |
@@ -19,4 +20,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, w
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

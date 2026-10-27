@@ -1,6 +1,6 @@
 # Hungu
 
-Hungu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - SW SIDE, Chicago on Fri, 30 Oct 2026.
+Hungu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - SW SIDE, Chicago on Fri, 30 Oct 2026.
 
 Hungu is a house and techno artist, with 16 gigs on soundcheck across Chicago and New York City. Often billed alongside DJ THADZ, Dj Daddy Wannie and Jeremiah Meece. Next up: TBA - SW SIDE, Chicago on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Hungu is a house and techno artist, with 16 gigs on soundcheck across Chicago an
 
 DJ THADZ, Dj Daddy Wannie, Jeremiah Meece
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hungu/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hungu/)*

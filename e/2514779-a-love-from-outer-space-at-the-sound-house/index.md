@@ -1,6 +1,6 @@
 # A Love From Outer Space at The Sound House
 
-A Love From Outer Space at The Sound House on Fri 13 Nov, Dublin. 1 artist: Sean Johnston. Disco and Balearic. See the line-up on soundcheck.
+A Love From Outer Space at The Sound House on Fri 13 Nov, Dublin. 1 artist: Sean Johnston. Balearic and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

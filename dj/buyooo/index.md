@@ -1,6 +1,6 @@
 # Buyooo
 
-Buyooo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Matrix Club Berlin (Techno Stage), Berlin on Sat, 31 Oct 2026.
+Buyooo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Matrix Club Berlin (Techno Stage), Berlin on Sat, 31 Oct 2026.
 
 Buyooo is a techno and trance artist based in Spain, with 6 gigs on soundcheck across Berlin. Often billed alongside Zutri, FREEGO and Helena Lua. Next up: Matrix Club Berlin (Techno Stage), Berlin on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Buyooo is a techno and trance artist based in Spain, with 6 gigs on soundcheck a
 
 Zutri, FREEGO, Helena Lua
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buyooo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buyooo/)*

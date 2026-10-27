@@ -1,6 +1,6 @@
 # Tippa
 
-Tippa is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
+Tippa is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
 
 Tippa is an afro house and house artist based in United Kingdom, with 58 gigs on soundcheck across London. Often billed alongside Supa D, Mark Radford and Shenin Amara. Next up: Eutopia Warehouse, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tippa is an afro house and house artist based in United Kingdom, with 58 gigs on
 
 Supa D, Mark Radford, Shenin Amara
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tippa/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tippa/)*

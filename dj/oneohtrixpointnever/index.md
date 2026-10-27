@@ -1,6 +1,6 @@
 # Oneohtrix Point Never
 
-Oneohtrix Point Never is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bridge 48, Barcelona on Wed, 25 Nov 2026.
+Oneohtrix Point Never is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bridge 48, Barcelona on Wed, 25 Nov 2026.
 
 Oneohtrix Point Never is an experimental and ambient artist, with 47 gigs on soundcheck across Adelaide, Barcelona, Berlin and Boston and 26 more. Often billed alongside Kode9, Freeka Tet and Nick León. Next up: Bridge 48, Barcelona on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Oneohtrix Point Never is an experimental and ambient artist, with 47 gigs on sou
 
 Kode9, Freeka Tet, Nick León
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oneohtrixpointnever/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oneohtrixpointnever/)*

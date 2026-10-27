@@ -1,6 +1,6 @@
 # Electrik
 
-Electrik is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Monster Mash with Rev. Austin (Halloween Special)" on Sat, 31 Oct 2026.
+Electrik is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Monster Mash with Rev. Austin (Halloween Special)" on Sat, 31 Oct 2026.
 
 Electrik is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 559 Wilbraham Road; Chorlton; Manchester; M21 0AE; United Kingdom.
 
@@ -14,4 +14,4 @@ Electrik is a music venue in Manchester listed on soundcheck. 1 upcoming gig. Se
 
 559 Wilbraham Road; Chorlton; Manchester; M21 0AE; United Kingdom, Manchester
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/electrik/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/electrik/)*

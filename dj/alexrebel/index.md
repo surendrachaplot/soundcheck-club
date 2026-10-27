@@ -1,6 +1,6 @@
 # Alex Rebel
 
-Alex Rebel is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
+Alex Rebel is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
 
 Alex Rebel is a house and tech house artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Dani B, Adela and Charlie Supreme. Next up: Union Club, Vauxhall, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alex Rebel is a house and tech house artist based in United Kingdom, with 16 gig
 
 Dani B, Adela, Charlie Supreme
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrebel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrebel/)*

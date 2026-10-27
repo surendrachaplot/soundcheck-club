@@ -1,6 +1,6 @@
 # Boris Dlugosch
 
-Boris Dlugosch is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kosmos Karoline, Hamburg on Fri, 30 Oct 2026.
+Boris Dlugosch is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kosmos Karoline, Hamburg on Fri, 30 Oct 2026.
 
 Boris Dlugosch is a house and italo disco artist based in Germany, with 16 gigs on soundcheck across Hamburg, Mexico City, Munich and Tokyo and 1 more. Often billed alongside Dietroiter, Anton Jonathan and Aiste Regina. Next up: Kosmos Karoline, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Boris Dlugosch is a house and italo disco artist based in Germany, with 16 gigs 
 
 Dietroiter, Anton Jonathan, Aiste Regina
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boris_dlugosch/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boris_dlugosch/)*

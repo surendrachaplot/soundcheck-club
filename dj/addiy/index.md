@@ -1,6 +1,6 @@
 # Addiy
 
-Addiy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at WOMB, Tokyo on Sat, 21 Nov 2026.
+Addiy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at WOMB, Tokyo on Sat, 21 Nov 2026.
 
 Addiy is a house and tech house artist based in Japan, with 24 gigs on soundcheck across London and Tokyo. Often billed alongside Yamariki, BNN WKND and Chika Luna. Next up: WOMB, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Addiy is a house and tech house artist based in Japan, with 24 gigs on soundchec
 
 Yamariki, BNN WKND, Chika Luna
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/addiy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/addiy/)*

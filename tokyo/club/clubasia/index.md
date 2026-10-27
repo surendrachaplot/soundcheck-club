@@ -1,14 +1,13 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "GOTICA CLUB X INFUSE_INTO" on Mon, 26 Oct 2026.
+clubasia is a music venue in Tokyo with 18 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "PARTY HARD TUESDAY" on Tue, 27 Oct 2026.
 
-clubasia is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including 6.do, 80KIDZ, AKARI and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+clubasia is a music venue in Tokyo listed on soundcheck. 18 upcoming gigs, with line-ups including 6.do, 80KIDZ, AKARI and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | GOTICA CLUB X INFUSE_INTO | ASIN, Hue Ray, SHO (10), SOGI, YOXIKI, bloodymarii |
 | Tue, 27 Oct 2026 | PARTY HARD TUESDAY |  |
 | Wed, 28 Oct 2026 | EXODUS vol. 256 | FUJI TRILL, Jellyf!sh |
 | Thu, 29 Oct 2026 | vandalo | CALPISS, Moodman, Rami, SOGI, Shoma fr,dambosound |
@@ -18,9 +17,10 @@ clubasia is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with 
 | Sat, 7 Nov 2026 | VEXRA TOKYO: MUST DIE | Rëgret, kors k |
 | Thu, 12 Nov 2026 | Clubasia Thursday |  |
 | Fri, 13 Nov 2026 | DIGGIN' OKINAWA | Jave, Keigo, Muro |
+| Sat, 14 Nov 2026 | BOTH WINGS 25周年 -RAGGA RISE AGAIN in TOKYO- |  |
 
 ## Address
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

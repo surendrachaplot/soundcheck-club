@@ -1,6 +1,6 @@
 # Hector Hope
 
-Hector Hope is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
+Hector Hope is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
 
 Hector Hope is a funk / soul and hip-hop artist based in Spain, with 57 gigs on soundcheck across Barcelona and Paris. Often billed alongside DJ AMAZING and Suko. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hector Hope is a funk / soul and hip-hop artist based in Spain, with 57 gigs on 
 
 DJ AMAZING, Suko
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorhope/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorhope/)*

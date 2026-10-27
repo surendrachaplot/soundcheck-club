@@ -1,6 +1,6 @@
 # PIRA
 
-PIRA is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Westside Motor Lounge, Atlanta on Sat, 31 Oct 2026.
+PIRA is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Westside Motor Lounge, Atlanta on Sat, 31 Oct 2026.
 
 PIRA is a tech house and house artist, with 5 gigs on soundcheck across Atlanta. Often billed alongside LIMOD, Chad Andrew and DJ Kemit. Next up: Westside Motor Lounge, Atlanta on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ PIRA is a tech house and house artist, with 5 gigs on soundcheck across Atlanta.
 
 LIMOD, Chad Andrew, DJ Kemit
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pira/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pira/)*

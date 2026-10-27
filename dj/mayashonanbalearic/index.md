@@ -1,6 +1,6 @@
 # Maya (Shonan Balearic)
 
-Maya (Shonan Balearic) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Traffic, Tokyo on Mon, 2 Nov 2026.
+Maya (Shonan Balearic) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Traffic, Tokyo on Mon, 2 Nov 2026.
 
 Maya (Shonan Balearic) is a techno and house artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside AHREUM, GOLDEN ROA and Kamekawa. Next up: Traffic, Tokyo on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Maya (Shonan Balearic) is a techno and house artist based in Japan, with 12 gigs
 
 AHREUM, GOLDEN ROA, Kamekawa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayashonanbalearic/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayashonanbalearic/)*

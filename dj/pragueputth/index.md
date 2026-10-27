@@ -1,6 +1,6 @@
 # Pragueputth
 
-Pragueputth is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bar Temp., Bangkok on Thu, 5 Nov 2026.
+Pragueputth is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Temp., Bangkok on Thu, 5 Nov 2026.
 
 Pragueputth is a house and disco artist based in Thailand, with 15 gigs on soundcheck across Bangkok and Seoul. Often billed alongside RTRP, Syadha and AN!KA. Next up: Bar Temp., Bangkok on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Pragueputth is a house and disco artist based in Thailand, with 15 gigs on sound
 
 RTRP, Syadha, AN!KA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pragueputth/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pragueputth/)*

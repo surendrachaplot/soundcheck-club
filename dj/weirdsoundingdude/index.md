@@ -1,6 +1,6 @@
 # Weird Sounding Dude
 
-Weird Sounding Dude is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Soiree restaurant and lounge, Dubai on Sat, 31 Oct 2026.
+Weird Sounding Dude is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Soiree restaurant and lounge, Dubai on Sat, 31 Oct 2026.
 
 Weird Sounding Dude is a progressive house and techno artist based in India, with 7 gigs on soundcheck across Amsterdam, Dubai and Glasgow. Often billed alongside Miss Dominguez, Tash and Aubrey Fry. Next up: TBA - Soiree restaurant and lounge, Dubai on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Weird Sounding Dude is a progressive house and techno artist based in India, wit
 
 Miss Dominguez, Tash, Aubrey Fry
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weirdsoundingdude/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weirdsoundingdude/)*

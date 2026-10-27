@@ -1,8 +1,8 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 23 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Noizer pres. LYZA + Sylvia" on Thu, 29 Oct 2026.
+Les Enfants Brillants is a music venue in Barcelona with 24 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Noizer pres. LYZA + Sylvia" on Thu, 29 Oct 2026.
 
-Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 23 upcoming gigs, with line-ups including Alex Pott, Anah, Angel D'lite and Anzar and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
+Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 24 upcoming gigs, with line-ups including Alex Pott, Anah, Angel D'lite and Anzar and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 23 upc
 | Sat, 7 Nov 2026 | Spark On The Dust pres. Nathalie Seres | Alex Pott, Ion Pananides, Nathalie Seres |
 | Fri, 13 Nov 2026 | Enrenou pres. Polygonia + Tunik | Polygonia, Tunik |
 | Sat, 14 Nov 2026 | Cymatix Anniversary pres. Radioactive Man live, Melina Serser, Anah b2b Lumiere | Anah, Lumiere, Melina Serser, Radioactive Man |
+| Sat, 14 Nov 2026 | INPUT pres. Tony Verdi 60/40 TOUR |  |
 | Fri, 20 Nov 2026 | Les Enfants x Roots pres. Dan Ghenacia All Night Long | Dan Ghenacia |
 | Sat, 21 Nov 2026 | Outcast x Les Enfants pres. Paquita Gordon + Munir Nadir | Munir Nadir, Paquita Gordon |
-| Fri, 27 Nov 2026 | Siku Series 6th Anniversary with Desyn, Fabrega & Marco Spalletta | Desyn, Fabrega, Marco Spalletta |
 
 ## Address
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

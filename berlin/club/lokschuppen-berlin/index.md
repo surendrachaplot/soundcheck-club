@@ -1,6 +1,6 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 55 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "SIGNALS - 5€ Tickets - with Bobaz Lobster, Shake Daddy & OnlyWithYou" on Wed, 28 Oct 2026.
+Lokschuppen Berlin is a music venue in Berlin with 55 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "SIGNALS - 5€ Tickets - with Bobaz Lobster, Shake Daddy & OnlyWithYou" on Wed, 28 Oct 2026.
 
 Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 55 upcoming gigs, with line-ups including 3LEEZA, 4NOUK, 5euroGoldi and 9LALEY and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 55 upcoming 
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

@@ -1,6 +1,6 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "FLY - Tommy Phillips - Glasgow" on Thu, 29 Oct 2026.
+Sub Club is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "FLY - Tommy Phillips - Glasgow" on Thu, 29 Oct 2026.
 
 Sub Club is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, with line-ups including Alex Culross, Archie Hamilton, AXION and Blasha & Allatt and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, wit
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

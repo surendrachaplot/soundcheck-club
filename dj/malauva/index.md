@@ -1,6 +1,6 @@
 # malauva
 
-malauva is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Specka, Madrid on Fri, 13 Nov 2026.
+malauva is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Specka, Madrid on Fri, 13 Nov 2026.
 
 malauva is an electronica and techno artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside Andrés Cremisini, CESTEK and CORTI (ES). Next up: Specka, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ malauva is an electronica and techno artist based in Spain, with 9 gigs on sound
 
 Andrés Cremisini, CESTEK, CORTI (ES)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malauva/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malauva/)*

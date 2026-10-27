@@ -1,6 +1,6 @@
 # moth (US)
 
-moth (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Signal, New York City on Thu, 5 Nov 2026.
+moth (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Signal, New York City on Thu, 5 Nov 2026.
 
 moth (US) is a techno and club artist based in United States of America, with 79 gigs on soundcheck across Chicago, Mexico City, New York City and Philadelphia and 1 more. Often billed alongside erika (SF), sfcowboy and Vertigo. Next up: Signal, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ moth (US) is a techno and club artist based in United States of America, with 79
 
 erika (SF), sfcowboy, Vertigo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moth-us/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moth-us/)*

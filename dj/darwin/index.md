@@ -1,6 +1,6 @@
 # Darwin
 
-Darwin is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
+Darwin is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Darwin is a techno and bass artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 55 more. Often billed alongside Esposito, Carré and CCL. Next up: Village Underground Barcelona, Barcelona on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Darwin is a techno and bass artist based in Germany, with 183 gigs on soundcheck
 
 Esposito, Carré, CCL
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*

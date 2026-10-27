@@ -1,6 +1,6 @@
 # ECHO
 
-ECHO is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at La Fin Taipei, Taipei on Sat, 31 Oct 2026.
+ECHO is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at La Fin Taipei, Taipei on Sat, 31 Oct 2026.
 
 ECHO is a trance and techno artist, with 10 gigs on soundcheck across Brussels, Chicago, Sheffield and Taipei and 1 more. Often billed alongside Depeche Mode, Front 242 and Kraftwerk. Next up: La Fin Taipei, Taipei on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ECHO is a trance and techno artist, with 10 gigs on soundcheck across Brussels, 
 
 Depeche Mode, Front 242, Kraftwerk
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echo/)*

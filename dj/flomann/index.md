@@ -1,6 +1,6 @@
 # Flomann
 
-Flomann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mena Berlin, Berlin on Fri, 13 Nov 2026.
+Flomann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mena Berlin, Berlin on Fri, 13 Nov 2026.
 
 Flomann is a techno and house artist, with 5 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Michael Clash Gottschalk, Bang and Cherry and Ben Hille. Next up: Mena Berlin, Berlin on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Flomann is a techno and house artist, with 5 gigs on soundcheck across Berlin an
 
 Michael Clash Gottschalk, Bang and Cherry, Ben Hille
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flomann/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flomann/)*

@@ -1,6 +1,6 @@
 # Chris Hanke
 
-Chris Hanke is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
+Chris Hanke is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
 
 Chris Hanke is a techno and tech house artist, with 11 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Maik Gyver, Slurm McKenzie and Adri Tüde. Next up: Südpol, Hamburg on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Chris Hanke is a techno and tech house artist, with 11 gigs on soundcheck across
 
 Maik Gyver, Slurm McKenzie, Adri Tüde
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishanke/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrishanke/)*

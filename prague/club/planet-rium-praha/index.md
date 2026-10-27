@@ -1,6 +1,6 @@
 # Planetárium Praha
 
-Planetárium Praha is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Emika - Fountain Immersive Live / Prag" on Thu, 4 Mar 2027.
+Planetárium Praha is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Emika - Fountain Immersive Live / Prag" on Thu, 4 Mar 2027.
 
 Planetárium Praha is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Emika. See dates, start times and who's playing. Královská obora 233, 170 21 Praha 7, Czechia.
 
@@ -14,4 +14,4 @@ Planetárium Praha is a music venue in Prague listed on soundcheck. 1 upcoming g
 
 Královská obora 233, 170 21 Praha 7, Czechia, Prague
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/planet-rium-praha/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/planet-rium-praha/)*

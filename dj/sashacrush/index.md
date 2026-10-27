@@ -1,6 +1,6 @@
 # Sasha Crush
 
-Sasha Crush is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Good Room, New York City on Thu, 10 Dec 2026.
+Sasha Crush is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Good Room, New York City on Thu, 10 Dec 2026.
 
 Sasha Crush is a house and disco artist based in United States of America, with 23 gigs on soundcheck across Berlin and New York City. Often billed alongside ራሄል (Rachel), JKriv and Laila Amira. Next up: Good Room, New York City on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Sasha Crush is a house and disco artist based in United States of America, with 
 
 ራሄል (Rachel), JKriv, Laila Amira
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashacrush/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashacrush/)*

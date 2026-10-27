@@ -1,6 +1,6 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Gewölbe, Cologne on Sat, 31 Oct 2026.
+Blasha & Allatt is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Gewölbe, Cologne on Sat, 31 Oct 2026.
 
 Blasha & Allatt are a techno and house duo based in United Kingdom, with 308 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 64 more. Often billed alongside aalice, Freddy K and Steffi. Next up: Gewölbe, Cologne on Sat 31 Oct.
 
@@ -33,4 +33,4 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 308 gig
 
 aalice, Freddy K, Steffi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

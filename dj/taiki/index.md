@@ -1,6 +1,6 @@
 # TAIKI
 
-TAIKI is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 31 Oct 2026.
+TAIKI is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 31 Oct 2026.
 
 TAIKI is a house and hip-hop artist based in Japan, with 88 gigs on soundcheck across Kyoto, New York City, Osaka and Tokyo. Often billed alongside Ren Yokoi, Omar Santis and Jamon Iberico. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ TAIKI is a house and hip-hop artist based in Japan, with 88 gigs on soundcheck a
 
 Ren Yokoi, Omar Santis, Jamon Iberico
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taiki/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taiki/)*

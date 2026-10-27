@@ -1,6 +1,6 @@
 # Roma Khropko
 
-Roma Khropko is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Killing Time, Valencia on Fri, 27 Nov 2026.
+Roma Khropko is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Killing Time, Valencia on Fri, 27 Nov 2026.
 
 Roma Khropko is a minimal and tech house artist based in Ukraine, with 17 gigs on soundcheck across Berlin, Krakow, Tbilisi and Valencia and 1 more. Often billed alongside Maksym Tkach, Mike Trofimov and Hopper Field. Next up: Killing Time, Valencia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Roma Khropko is a minimal and tech house artist based in Ukraine, with 17 gigs o
 
 Maksym Tkach, Mike Trofimov, Hopper Field
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romakhropko/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romakhropko/)*

@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 16 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Nanoos & Company feat. Nanoos - DJ Spinn - DJ Zuni" on Fri, 30 Oct 2026.
+smartbar is a music venue in Chicago with 16 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Nanoos & Company feat. Nanoos - DJ Spinn - DJ Zuni" on Fri, 30 Oct 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming gigs, with line-ups including Ariel Zetina, Brenda, Centrific and Chris Cruse and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 16 upcoming gigs, wit
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

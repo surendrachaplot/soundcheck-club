@@ -1,6 +1,6 @@
 # Casper Weiss
 
-Casper Weiss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
+Casper Weiss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
 
 Casper Weiss is a house and techno artist based in Poland, with 7 gigs on soundcheck across Warsaw. Often billed alongside Vera Verano, Granatka and SYS.END. Next up: TBA - Secret Location (passed 2h before event), Warsaw on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Casper Weiss is a house and techno artist based in Poland, with 7 gigs on soundc
 
 Vera Verano, Granatka, SYS.END
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casperweiss/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casperweiss/)*

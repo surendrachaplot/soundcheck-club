@@ -1,6 +1,6 @@
 # Dr . Mario
 
-Dr . Mario is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
+Dr . Mario is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
 
 Dr . Mario is a techno and trance artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Thielking, ClubSubbe and fU.impact. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Dr . Mario is a techno and trance artist, with 5 gigs on soundcheck across Berli
 
 Thielking, ClubSubbe, fU.impact
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.mario/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.mario/)*

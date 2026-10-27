@@ -1,6 +1,6 @@
 # ONNI
 
-ONNI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
+ONNI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
 
 ONNI is a house and techno artist based in Turkey, with 43 gigs on soundcheck across Berlin, Copenhagen, Istanbul and Munich and 1 more. Often billed alongside SEIUN, BUSSI and MUKKIMIAU. Next up: Kater, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ONNI is a house and techno artist based in Turkey, with 43 gigs on soundcheck ac
 
 SEIUN, BUSSI, MUKKIMIAU
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onni/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onni/)*

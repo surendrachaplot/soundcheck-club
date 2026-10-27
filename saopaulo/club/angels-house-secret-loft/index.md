@@ -1,6 +1,6 @@
 # Angels House (Secret Loft)
 
-Angels House (Secret Loft) is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "SSSTYLE SHOWCASE -SAO PAULO EDITION" on Sat, 7 Nov 2026.
+Angels House (Secret Loft) is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "SSSTYLE SHOWCASE -SAO PAULO EDITION" on Sat, 7 Nov 2026.
 
 Angels House (Secret Loft) is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Angels House (Secret Loft) is a music venue in Sao Paulo listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | SSSTYLE SHOWCASE -SAO PAULO EDITION |  |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/angels-house-secret-loft/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/angels-house-secret-loft/)*

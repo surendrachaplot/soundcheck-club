@@ -1,6 +1,6 @@
 # Rovin
 
-Rovin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 14 Nov 2026.
+Rovin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 14 Nov 2026.
 
 Rovin is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin, Sheffield and Zurich. Often billed alongside pink-panther, UniKhatu and Ôneyra. Next up: Crack Bellmer, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Rovin is a techno and house artist based in Germany, with 24 gigs on soundcheck 
 
 pink-panther, UniKhatu, Ôneyra
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rovin-de/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rovin-de/)*

@@ -1,6 +1,6 @@
 # Haaji Ka Halva
 
-Haaji Ka Halva is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Warehouse 34, Newcastle on Sat, 31 Oct 2026.
+Haaji Ka Halva is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Warehouse 34, Newcastle on Sat, 31 Oct 2026.
 
 Haaji Ka Halva is a jungle and techno artist, with 21 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 3 more. Often billed alongside Lotus Phaze, Amelia Leigh and Chande. Next up: Warehouse 34, Newcastle on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Haaji Ka Halva is a jungle and techno artist, with 21 gigs on soundcheck across 
 
 Lotus Phaze, Amelia Leigh, Chande
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haajikahalva/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haajikahalva/)*

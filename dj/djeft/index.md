@@ -1,6 +1,6 @@
 # DJ Eft
 
-DJ Eft is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Process PDX, Portland on Sat, 14 Nov 2026.
+DJ Eft is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Process PDX, Portland on Sat, 14 Nov 2026.
 
 DJ Eft is a techno and bass artist based in United States of America, with 23 gigs on soundcheck across Kyoto, New York City, Portland and Tokyo and 1 more. Often billed alongside Gardenparty, Succubass and Carly Barton. Next up: Process PDX, Portland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Eft is a techno and bass artist based in United States of America, with 23 gi
 
 Gardenparty, Succubass, Carly Barton
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeft/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeft/)*

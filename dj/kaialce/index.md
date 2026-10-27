@@ -1,6 +1,6 @@
 # Kai Alce
 
-Kai Alce is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Westside Motor Lounge, Atlanta on Sat, 31 Oct 2026.
+Kai Alce is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Westside Motor Lounge, Atlanta on Sat, 31 Oct 2026.
 
 Kai Alce is a house and deep house artist based in United States of America, with 126 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 24 more. Often billed alongside DJ Kemit, Ash Lauryn and Salah Ananse. Next up: Westside Motor Lounge, Atlanta on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kai Alce is a house and deep house artist based in United States of America, wit
 
 DJ Kemit, Ash Lauryn, Salah Ananse
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*

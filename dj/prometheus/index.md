@@ -1,6 +1,6 @@
 # Prometheus
 
-Prometheus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Prometheus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
 Prometheus is a house and techno artist, with 6 gigs on soundcheck across Berlin, Morelos and South East. Often billed alongside Wiebe Roose, Act One and Alex Stein. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Prometheus is a house and techno artist, with 6 gigs on soundcheck across Berlin
 
 Wiebe Roose, Act One, Alex Stein
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prometheus/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prometheus/)*

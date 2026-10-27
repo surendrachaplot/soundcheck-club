@@ -1,6 +1,6 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Badaboum, Paris on Fri, 30 Oct 2026.
+Silva Bumpa is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Badaboum, Paris on Fri, 30 Oct 2026.
 
 Silva Bumpa is a garage and house artist based in United Kingdom, with 229 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 58 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: Badaboum, Paris on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 229 gigs 
 
 Soul Mass Transit System, Prozak (IRL), Main Phase
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

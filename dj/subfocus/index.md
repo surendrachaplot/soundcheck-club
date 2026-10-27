@@ -1,13 +1,14 @@
 # Sub Focus
 
-Sub Focus is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Tradgarn, Stockholm on Fri, 20 Nov 2026.
+Sub Focus is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Arzenal, Budapest on Thu, 19 Nov 2026.
 
-Sub Focus is a drum & bass and bass artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 39 more. Often billed alongside Culture Shock, Dimension and Hedex. Next up: Tradgarn, Stockholm on Fri 20 Nov.
+Sub Focus is a drum & bass and bass artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 39 more. Often billed alongside Culture Shock, Dimension and Hedex. Next up: Arzenal, Budapest on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Arzenal | Budapest |
 | Fri, 20 Nov 2026 | Tradgarn | Stockholm |
 | Fri, 20 Nov 2026 | Tradgarn | Gothenburg |
 | Sat, 21 Nov 2026 | Poolen | Copenhagen |
@@ -27,4 +28,4 @@ Sub Focus is a drum & bass and bass artist based in United Kingdom, with 82 gigs
 
 Culture Shock, Dimension, Hedex
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subfocus/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subfocus/)*

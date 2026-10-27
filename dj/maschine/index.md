@@ -1,6 +1,6 @@
 # Maschine
 
-Maschine is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 31 Oct 2026.
+Maschine is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 31 Oct 2026.
 
 Maschine is a techno and tech house artist based in Germany, with 52 gigs on soundcheck across Berlin. Often billed alongside Drauf & Dran DJ Team, Bisk and DAV3. Next up: Der Weiße Hase, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Maschine is a techno and tech house artist based in Germany, with 52 gigs on sou
 
 Drauf & Dran DJ Team, Bisk, DAV3
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maschine/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maschine/)*

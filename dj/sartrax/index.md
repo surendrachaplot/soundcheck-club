@@ -1,6 +1,6 @@
 # Sartrax
 
-Sartrax is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Downtown, Toronto on Fri, 6 Nov 2026.
+Sartrax is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Downtown, Toronto on Fri, 6 Nov 2026.
 
 Sartrax is a techno and acid artist, with 9 gigs on soundcheck across Toronto. Often billed alongside Alley Kay, AshNey and Jonnix. Next up: TBA - Downtown, Toronto on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sartrax is a techno and acid artist, with 9 gigs on soundcheck across Toronto. O
 
 Alley Kay, AshNey, Jonnix
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sartrax/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sartrax/)*

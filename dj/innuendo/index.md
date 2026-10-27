@@ -1,6 +1,6 @@
 # Innuendo
 
-Innuendo is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Masada, Milan on Sat, 31 Oct 2026.
+Innuendo is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Masada, Milan on Sat, 31 Oct 2026.
 
 Innuendo is a techno and electro artist based in Belgium, with 15 gigs on soundcheck across Basel, Berlin, Brussels and London and 5 more. Often billed alongside DJ Rino, Exkursion and Sanctus Libido. Next up: Masada, Milan on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Innuendo is a techno and electro artist based in Belgium, with 15 gigs on soundc
 
 DJ Rino, Exkursion, Sanctus Libido
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innuendo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innuendo/)*

@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 1 Nov 2026.
+Kiernan Laveaux is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 1 Nov 2026.
 
 Kiernan Laveaux is a techno and house artist based in United States of America, with 172 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 30 more. Often billed alongside ADAB, Malzof and CCL. Next up: Bossa Nova Civic Club, New York City on Sun 1 Nov.
 
@@ -29,4 +29,4 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 
 ADAB, Malzof, CCL
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

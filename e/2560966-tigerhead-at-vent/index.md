@@ -1,6 +1,6 @@
 # Tigerhead at VENT
 
-Tigerhead at VENT on Mon 2 Nov, Tokyo. 1 artist: Tigerhead. Techno. See the line-up on soundcheck.
+Tigerhead at VENT on Mon 2 Nov, Tokyo. 6 artists: JOMA, Kurumi, manato and MAYUDEPTH and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,11 @@ Tigerhead at VENT on Mon 2 Nov, Tokyo. 1 artist: Tigerhead. Techno. See the line
 
 ## Line-up
 
+- JOMA (2)
+- Kurumi
+- manato
+- MAYUDEPTH
+- Ryunosuke Urabe
 - Tigerhead
 
 *Source: [soundcheck](https://soundcheck.club/e/2560966-tigerhead-at-vent/)*

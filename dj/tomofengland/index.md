@@ -1,6 +1,6 @@
 # Tom of England
 
-Tom of England is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
+Tom of England is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
 
 Tom of England is a house and disco artist based in United Kingdom, with 36 gigs on soundcheck across Athens, Bali, Berlin and Bristol and 10 more. Often billed alongside Paul Nickerson, UMA DJ and Capablanca. Next up: Good Room, New York City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Tom of England is a house and disco artist based in United Kingdom, with 36 gigs
 
 Paul Nickerson, UMA DJ, Capablanca
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomofengland/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomofengland/)*

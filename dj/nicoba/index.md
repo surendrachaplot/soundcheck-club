@@ -1,6 +1,6 @@
 # Nicoba
 
-Nicoba is a Latin Bass and Guaracha artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+Nicoba is a Latin Bass and Guaracha artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
 
 Nicoba is a latin bass and guaracha artist based in Chile, with 11 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Ukab, Arif and BADER. Next up: SISSI'S Amsterdam, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nicoba is a latin bass and guaracha artist based in Chile, with 11 gigs on sound
 
 Ukab, Arif, BADER
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoba/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoba/)*

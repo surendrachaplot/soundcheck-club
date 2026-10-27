@@ -1,14 +1,15 @@
 # Danse Atmos
 
-Danse Atmos is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at King Tut's Wah Wah Hut, Glasgow on Thu, 29 Oct 2026.
+Danse Atmos is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at King Tut's Wah Wah Hut, Glasgow on Thu, 29 Oct 2026.
 
-Danse Atmos is a house and disco artist based in United Kingdom, with 40 gigs on soundcheck across Edinburgh, Glasgow and Ibiza. Often billed alongside Stevie Cox, Hayley Zalassi and Big Miz. Next up: King Tut's Wah Wah Hut, Glasgow on Thu 29 Oct.
+Danse Atmos is a house and disco artist based in United Kingdom, with 41 gigs on soundcheck across Edinburgh, Glasgow and Ibiza. Often billed alongside Stevie Cox, Hayley Zalassi and Big Miz. Next up: King Tut's Wah Wah Hut, Glasgow on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | King Tut's Wah Wah Hut | Glasgow |
+| Sat, 31 Oct 2026 | Cabaret Voltaire | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Danse Atmos is a house and disco artist based in United Kingdom, with 40 gigs on
 
 Stevie Cox, Hayley Zalassi, Big Miz
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danseatmos/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danseatmos/)*

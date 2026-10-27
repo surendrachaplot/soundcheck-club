@@ -1,6 +1,6 @@
 # Steam Radio 6th Birthday: Joey B, Sxnshine (Live) & Work Party at Liquidate
 
-Steam Radio 6th Birthday: Joey B, Sxnshine (Live) & Work Party at Liquidate on Fri 6 Nov, Manchester. 1 artist: Old Child. Disco and Dub. See the line-up on soundcheck.
+Steam Radio 6th Birthday: Joey B, Sxnshine (Live) & Work Party at Liquidate on Fri 6 Nov, Manchester. 2 artists: Mandolin and Old Child. Disco and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Steam Radio 6th Birthday: Joey B, Sxnshine (Live) & Work Party at Liquidate on F
 
 ## Line-up
 
+- Mandolin
 - Old Child
 
 *Source: [soundcheck](https://soundcheck.club/e/2563945-steam-radio-6th-birthday-joey-b-sxnshine-live-work-party-at/)*

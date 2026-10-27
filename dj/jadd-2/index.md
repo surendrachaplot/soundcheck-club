@@ -1,6 +1,6 @@
 # Jadd (2)
 
-Jadd (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Système, Montreal on Thu, 5 Nov 2026.
+Jadd (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Système, Montreal on Thu, 5 Nov 2026.
 
 Jadd is a house and electro artist based in Canada, with 16 gigs on soundcheck across Montreal. Often billed alongside Lex Ferenda, Maxime Miaja and Shtarek. Next up: Système, Montreal on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Jadd is a house and electro artist based in Canada, with 16 gigs on soundcheck a
 
 Lex Ferenda, Maxime Miaja, Shtarek
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadd-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadd-2/)*

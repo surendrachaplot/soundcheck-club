@@ -1,6 +1,6 @@
 # GINO GENTILI
 
-GINO GENTILI is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at berlinClub, Madrid on Fri, 30 Oct 2026.
+GINO GENTILI is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at berlinClub, Madrid on Fri, 30 Oct 2026.
 
 GINO GENTILI is a progressive house and house artist based in Argentina, with 24 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside Demattei, Martin Fredes and Candela Mor. Next up: berlinClub, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ GINO GENTILI is a progressive house and house artist based in Argentina, with 24
 
 Demattei, Martin Fredes, Candela Mor
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginogentili/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginogentili/)*

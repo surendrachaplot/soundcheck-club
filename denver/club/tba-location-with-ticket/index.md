@@ -1,6 +1,6 @@
 # TBA - Location With Ticket
 
-TBA - Location With Ticket is a music venue in Denver with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "QR presents: Strange Language" on Fri, 6 Nov 2026.
+TBA - Location With Ticket is a music venue in Denver with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "QR presents: Strange Language" on Fri, 6 Nov 2026.
 
 TBA - Location With Ticket is a music venue in Denver listed on soundcheck. 3 upcoming gigs, with line-ups including Andrew Bon Bosher, DSQISE and Mark Broom. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - Location With Ticket is a music venue in Denver listed on soundcheck. 3 up
 | Sat, 7 Nov 2026 | Abyss feat. Mark Broom | Andrew Bon Bosher, Mark Broom |
 | Sat, 14 Nov 2026 | Architects - The Allegory | DSQISE |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-location-with-ticket/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-location-with-ticket/)*

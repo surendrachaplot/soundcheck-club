@@ -1,6 +1,6 @@
 # TEAG
 
-TEAG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Milneys, Melbourne on Sat, 14 Nov 2026.
+TEAG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Milneys, Melbourne on Sat, 14 Nov 2026.
 
 TEAG is a techno and house artist based in Australia, with 11 gigs on soundcheck across Melbourne. Often billed alongside JOVE, Le Clobber and Pvrtal. Next up: Milneys, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ TEAG is a techno and house artist based in Australia, with 11 gigs on soundcheck
 
 JOVE, Le Clobber, Pvrtal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teag/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teag/)*

@@ -1,6 +1,6 @@
 # Julian Benz
 
-Julian Benz is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at City Hall, Barcelona on Tue, 27 Oct 2026.
+Julian Benz is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at City Hall, Barcelona on Tue, 27 Oct 2026.
 
 Julian Benz is a tech house and house artist based in Argentina, with 17 gigs on soundcheck across Barcelona and Milan. Often billed alongside Devicious, Babo and Nahuel Di Pasquale. Next up: City Hall, Barcelona on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Julian Benz is a tech house and house artist based in Argentina, with 17 gigs on
 
 Devicious, Babo, Nahuel Di Pasquale
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianbenz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianbenz/)*

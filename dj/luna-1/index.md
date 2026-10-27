@@ -1,6 +1,6 @@
 # Luna (1)
 
-Luna (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
+Luna (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
 
 Luna is a house and techno artist, with 42 gigs on soundcheck across Amsterdam, Austin, Bangkok and Budapest and 17 more. Often billed alongside Pavo, Alexander Koning and Buzz Fuzz. Next up: Thuishaven, Amsterdam on Sat 9 Jan.
 
@@ -26,4 +26,4 @@ Luna is a house and techno artist, with 42 gigs on soundcheck across Amsterdam, 
 
 Pavo, Alexander Koning, Buzz Fuzz
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*

@@ -1,6 +1,6 @@
 # Rudi Valdersnes
 
-Rudi Valdersnes is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Rudi Valdersnes is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
 
 Rudi Valdersnes is a techno and experimental artist, with 17 gigs on soundcheck across Bergen and Oslo. Often billed alongside Julie Silset, Reckless Kettle and Hildisvini. Next up: Østre, Bergen on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Rudi Valdersnes is a techno and experimental artist, with 17 gigs on soundcheck 
 
 Julie Silset, Reckless Kettle, Hildisvini
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudivaldersnes/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudivaldersnes/)*

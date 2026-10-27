@@ -1,6 +1,6 @@
 # Bent
 
-Bent is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 7 Nov 2026.
+Bent is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 7 Nov 2026.
 
 Bent is a house and techno artist, with 11 gigs on soundcheck across Berlin, Ghent, Hamburg and Porto. Often billed alongside Feasting, Gio Goltara and Qualia Trax. Next up: Fabrique im Gängeviertel, Hamburg on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Bent is a house and techno artist, with 11 gigs on soundcheck across Berlin, Ghe
 
 Feasting, Gio Goltara, Qualia Trax
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bent/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bent/)*

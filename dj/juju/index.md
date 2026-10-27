@@ -1,6 +1,6 @@
 # Juju
 
-Juju is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Descent, Boston on Fri, 13 Nov 2026.
+Juju is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Descent, Boston on Fri, 13 Nov 2026.
 
 Juju is a house and disco artist based in Ireland, with 21 gigs on soundcheck across Amsterdam, Beijing, Boston and Chicago and 8 more. Often billed alongside Electric Field, Tamara Lanza and Jaygee. Next up: Descent, Boston on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Juju is a house and disco artist based in Ireland, with 21 gigs on soundcheck ac
 
 Electric Field, Tamara Lanza, Jaygee
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juju/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juju/)*

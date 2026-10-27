@@ -1,6 +1,6 @@
 # That's Hypnotic at Pisco Bar
 
-That's Hypnotic at Pisco Bar on Fri 13 Nov, Kuala Lumpur. 2 artists: Heuremin (MY) and Meliha. Techno and Acid. See the line-up on soundcheck.
+That's Hypnotic at Pisco Bar on Fri 13 Nov, Kuala Lumpur. 3 artists: JO (MY), Meliha and Odd (MY). Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,8 @@ That's Hypnotic at Pisco Bar on Fri 13 Nov, Kuala Lumpur. 2 artists: Heuremin (M
 
 ## Line-up
 
-- Heuremin (MY)
+- JO (MY)
 - Meliha
+- Odd (MY)
 
 *Source: [soundcheck](https://soundcheck.club/e/2567351-that-s-hypnotic-at-pisco-bar/)*

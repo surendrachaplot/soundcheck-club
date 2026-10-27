@@ -1,6 +1,6 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Solid Gold" on Tue, 27 Oct 2026.
+Spkrbox is a music venue in Detroit with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Solid Gold" on Tue, 27 Oct 2026.
 
 Spkrbox is a music venue in Detroit listed on soundcheck. 11 upcoming gigs, with line-ups including Acidpimp, Al Ester, Augustus Williams and Brent Shay and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
@@ -23,4 +23,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 11 upcoming gigs, with
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

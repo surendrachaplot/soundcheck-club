@@ -1,6 +1,6 @@
 # Uncle Steve
 
-Uncle Steve is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Uncle Steve is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 Uncle Steve is a house and minimal artist based in Ireland, with 5 gigs on soundcheck across Dublin. Often billed alongside Gabb (PRY), Royce Larøca and Tunney. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Uncle Steve is a house and minimal artist based in Ireland, with 5 gigs on sound
 
 Gabb (PRY), Royce Larøca, Tunney
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unclesteve/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unclesteve/)*

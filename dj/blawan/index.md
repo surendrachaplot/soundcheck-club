@@ -1,6 +1,6 @@
 # Blawan
 
-Blawan is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Blawan is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 Blawan is a techno and house artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Helena Hauff, JakoJako and Overmono. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Blawan is a techno and house artist based in United Kingdom, with 174 gigs on so
 
 Helena Hauff, JakoJako, Overmono
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*

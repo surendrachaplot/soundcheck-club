@@ -1,6 +1,6 @@
 # The Machine Soul
 
-The Machine Soul is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Eventhuset, Stockholm on Sat, 14 Nov 2026.
+The Machine Soul is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eventhuset, Stockholm on Sat, 14 Nov 2026.
 
 The Machine Soul is a techno and house artist, with 5 gigs on soundcheck across Stockholm. Often billed alongside Marten Attling, MERILIN and hypnorex. Next up: Eventhuset, Stockholm on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ The Machine Soul is a techno and house artist, with 5 gigs on soundcheck across 
 
 Marten Attling, MERILIN, hypnorex
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themachinesoul/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themachinesoul/)*

@@ -1,6 +1,6 @@
 # Priori
 
-Priori is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Priori is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Priori is a techno and house artist based in Canada, with 163 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 57 more. Often billed alongside Aurora Halal, Kia (AU) and DjRUM. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Priori is a techno and house artist based in Canada, with 163 gigs on soundcheck
 
 Aurora Halal, Kia (AU), DjRUM
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/priori/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/priori/)*

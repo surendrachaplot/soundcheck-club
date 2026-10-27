@@ -1,6 +1,6 @@
 # TONAK
 
-TONAK is a Deep House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Espace Reuilly - 21 rue Julien Antoine Hénard 75012 Paris, Paris on Sun, 8 Nov 2026.
+TONAK is a Deep House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Espace Reuilly - 21 rue Julien Antoine Hénard 75012 Paris, Paris on Sun, 8 Nov 2026.
 
 TONAK is a deep house and disco artist based in France, with 21 gigs on soundcheck across Bogotá, Marseille, Montreal and Paris. Often billed alongside Figurative Records, Wolff and Leo Luscher. Next up: TBA - Espace Reuilly - 21 rue Julien Antoine Hénard 75012 Paris, Paris on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ TONAK is a deep house and disco artist based in France, with 21 gigs on soundche
 
 Figurative Records, Wolff, Leo Luscher
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonak/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonak/)*

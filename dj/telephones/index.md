@@ -1,6 +1,6 @@
 # Telephones
 
-Telephones is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Bar Temp., Bangkok on Fri, 30 Oct 2026.
+Telephones is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Temp., Bangkok on Fri, 30 Oct 2026.
 
 Telephones is a house and techno artist based in Norway, with 98 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 32 more. Often billed alongside DJ Fett Burger, Tornado Wallace and DJ Aficionado. Next up: Bar Temp., Bangkok on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Telephones is a house and techno artist based in Norway, with 98 gigs on soundch
 
 DJ Fett Burger, Tornado Wallace, DJ Aficionado
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*

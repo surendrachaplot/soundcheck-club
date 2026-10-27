@@ -1,6 +1,6 @@
 # Okkyung Lee
 
-Okkyung Lee is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kantine am Berghain, Berlin on Wed, 28 Oct 2026.
+Okkyung Lee is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kantine am Berghain, Berlin on Wed, 28 Oct 2026.
 
 Okkyung Lee is an experimental and ambient artist based in South Korea, with 14 gigs on soundcheck across Bergen, Berlin, Bristol and Brussels and 6 more. Often billed alongside Gavsborg, MBODJ and Amnesia Scanner. Next up: Kantine am Berghain, Berlin on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Okkyung Lee is an experimental and ambient artist based in South Korea, with 14 
 
 Gavsborg, MBODJ, Amnesia Scanner
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okkyunglee/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okkyunglee/)*

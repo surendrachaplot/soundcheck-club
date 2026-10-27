@@ -1,6 +1,6 @@
 # Diana May
 
-Diana May is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at ORWO Haus, Berlin on Sat, 21 Nov 2026.
+Diana May is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at ORWO Haus, Berlin on Sat, 21 Nov 2026.
 
 Diana May is a techno and psytrance artist based in Russia, with 71 gigs on soundcheck across Berlin and Lisbon. Often billed alongside Daniel Boon, Frankie Flowerz and Basstronauten. Next up: ORWO Haus, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Diana May is a techno and psytrance artist based in Russia, with 71 gigs on soun
 
 Daniel Boon, Frankie Flowerz, Basstronauten
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianamay/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianamay/)*

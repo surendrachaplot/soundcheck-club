@@ -1,6 +1,6 @@
 # SKALA
 
-SKALA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
+SKALA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at ://about blank, Berlin on Sat, 23 Jan 2027.
 
 SKALA is a techno and house artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: ://about blank, Berlin on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ SKALA is a techno and house artist based in Germany, with 99 gigs on soundcheck 
 
 Theologos, ELIF, Mila Stern
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*

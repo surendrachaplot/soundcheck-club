@@ -1,6 +1,6 @@
 # Ruslan Mays
 
-Ruslan Mays is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 30 Nov 2026.
+Ruslan Mays is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 30 Nov 2026.
 
 Ruslan Mays is a techno and house artist based in Ukraine, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leipzig and 5 more. Often billed alongside Vani Vachi, Tweeman and Jin-Su. Next up: Tresor / Globus, Berlin on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ Ruslan Mays is a techno and house artist based in Ukraine, with 47 gigs on sound
 
 Vani Vachi, Tweeman, Jin-Su
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruslanmays/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruslanmays/)*

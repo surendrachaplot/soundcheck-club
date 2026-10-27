@@ -1,6 +1,6 @@
 # Aleister
 
-Aleister is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Happyfun Hideaway, New York City on Tue, 27 Oct 2026.
+Aleister is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Happyfun Hideaway, New York City on Tue, 27 Oct 2026.
 
 Aleister is a techno and footwork artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside rmzi, WADDLE and ANICHE. Next up: Happyfun Hideaway, New York City on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Aleister is a techno and footwork artist based in United States of America, with
 
 rmzi, WADDLE, ANICHE
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleister/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleister/)*

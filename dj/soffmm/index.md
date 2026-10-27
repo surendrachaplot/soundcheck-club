@@ -1,6 +1,6 @@
 # Soffmm
 
-Soffmm is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Hoxton Poblenou, Barcelona on Sat, 31 Oct 2026.
+Soffmm is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Hoxton Poblenou, Barcelona on Sat, 31 Oct 2026.
 
 Soffmm is a club and electronica artist, with 6 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Fucknormal, Hanna Plum and Bulma. Next up: The Hoxton Poblenou, Barcelona on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Soffmm is a club and electronica artist, with 6 gigs on soundcheck across Barcel
 
 Fucknormal, Hanna Plum, Bulma
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soffmm/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soffmm/)*

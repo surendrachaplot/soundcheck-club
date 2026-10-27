@@ -1,6 +1,6 @@
 # YASMEENAH (2)
 
-YASMEENAH (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at public records, New York City on Fri, 30 Oct 2026.
+YASMEENAH (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at public records, New York City on Fri, 30 Oct 2026.
 
 YASMEENAH is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Atlanta, Berlin, Chicago and Detroit and 3 more. Often billed alongside Blackmoonchild, DJ Etta (US) and echo. Next up: public records, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ YASMEENAH is a techno and house artist based in United States of America, with 3
 
 Blackmoonchild, DJ Etta (US), echo (3)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmeenahxo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmeenahxo/)*

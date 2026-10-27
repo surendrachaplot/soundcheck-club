@@ -1,6 +1,6 @@
 # Sampi
 
-Sampi is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 5 Nov 2026.
+Sampi is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 5 Nov 2026.
 
 Sampi is a techno and dub artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Sean H, Spekki Webu and Ady Toledano. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 5 Nov.
 
@@ -21,4 +21,4 @@ Sampi is a techno and dub artist based in Netherlands, with 5 gigs on soundcheck
 
 Sean H, Spekki Webu, Ady Toledano
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampi/)*

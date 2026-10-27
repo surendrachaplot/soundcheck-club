@@ -1,6 +1,6 @@
 # KHROME
 
-KHROME is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+KHROME is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 KHROME is a techno and tech house artist, with 5 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside ARLO (UK), Alesso and Archie Hamilton. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -21,4 +21,4 @@ KHROME is a techno and tech house artist, with 5 gigs on soundcheck across Los A
 
 ARLO (UK), Alesso, Archie Hamilton
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khrome/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khrome/)*

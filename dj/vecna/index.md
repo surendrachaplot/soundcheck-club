@@ -1,6 +1,6 @@
 # Vecna
 
-Vecna is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Decadance, Ghent on Fri, 11 Dec 2026.
+Vecna is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Decadance, Ghent on Fri, 11 Dec 2026.
 
 Vecna is a techno and hardcore artist, with 35 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris. Often billed alongside Low E, Lena De Roose and Helena Lauwaert. Next up: Decadance, Ghent on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Vecna is a techno and hardcore artist, with 35 gigs on soundcheck across Antwerp
 
 Low E (2), Lena De Roose, Helena Lauwaert
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vecna/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vecna/)*

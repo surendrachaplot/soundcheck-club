@@ -1,6 +1,6 @@
 # Nico Noir
 
-Nico Noir is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at MAD Radio NYC, New York City on Sat, 31 Oct 2026.
+Nico Noir is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at MAD Radio NYC, New York City on Sat, 31 Oct 2026.
 
 Nico Noir is a house and minimal artist based in Argentina, with 23 gigs on soundcheck across Berlin and New York City. Often billed alongside Yochanan, Ani Be and Alex Raouf. Next up: MAD Radio NYC, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nico Noir is a house and minimal artist based in Argentina, with 23 gigs on soun
 
 Yochanan, Ani Be, Alex Raouf
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niconoir/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niconoir/)*

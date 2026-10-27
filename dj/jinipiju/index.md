@@ -1,6 +1,6 @@
 # Jini Piju
 
-Jini Piju is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bredouille, Berlin on Fri, 30 Oct 2026.
+Jini Piju is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bredouille, Berlin on Fri, 30 Oct 2026.
 
 Jini Piju is a house and bass artist, with 19 gigs on soundcheck across Berlin and Leipzig. Often billed alongside - C2C -, CRAIZ and Handwerk. Next up: Bredouille, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jini Piju is a house and bass artist, with 19 gigs on soundcheck across Berlin a
 
 - C2C -, CRAIZ, Handwerk
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinipiju/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinipiju/)*

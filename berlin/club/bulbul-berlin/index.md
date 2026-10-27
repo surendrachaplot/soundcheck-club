@@ -1,15 +1,15 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire" on Thu, 29 Oct 2026.
+Bulbul Berlin is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire" on Thu, 29 Oct 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Ashbeat, ATTA (GER), Better Call Paul and Bruder Jakob and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including 6ton, Ashbeat, ATTA (GER) and Better Call Paul and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire | Immy, Mx. Blaire, Panooc |
-| Fri, 30 Oct 2026 | #MOVEYOURBODY: critical P, Jambel b2b 6ton, Tommes K. Brandt, Better Call Paul b2b Dicso_Muzek | Better Call Paul, Dicso_Muzek, Jambel, Tommes K. Brandt, critical P |
+| Fri, 30 Oct 2026 | #MOVEYOURBODY: critical P, Jambel b2b 6ton, Tommes K. Brandt, Better Call Paul b2b Dicso_Muzek | 6ton, Better Call Paul, Dicso_Muzek, Jambel, Tommes K. Brandt, critical P |
 | Sat, 31 Oct 2026 | HOUSE OF BULBUL: Bruder Jakob, Rik Laren b2b Drip Curl, Shveba & MMAO | Bruder Jakob, MMAO, Rik Laren, Shveba |
 | Thu, 5 Nov 2026 | FRESH FACES (FREE ENTRY): Alejo Romano, Alex Stauffer, Hilu & More | Hilu (2) |
 | Fri, 6 Nov 2026 | KTV & Friends: ALINUSH, Vasile, Gaß b2b Hubz | Hubz, Vasile |
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming gigs,
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

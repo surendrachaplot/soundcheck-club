@@ -1,6 +1,6 @@
 # Origin8a & Propa
 
-Origin8a & Propa is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+Origin8a & Propa is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
 Origin8a & Propa are a jungle and drum & bass duo based in United Kingdom, with 8 gigs on soundcheck across Brighton, Bristol, Gothenburg and Newcastle. Often billed alongside Hypershe, Cheff The Boy and DJ Hybrid. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Origin8a & Propa are a jungle and drum & bass duo based in United Kingdom, with 
 
 Hypershe, Cheff The Boy, DJ Hybrid
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*

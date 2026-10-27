@@ -1,6 +1,6 @@
 # Cafe & Bar Extrawelt
 
-Cafe & Bar Extrawelt is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "dj木曜怪" on Thu, 19 Nov 2026.
+Cafe & Bar Extrawelt is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "dj木曜怪" on Thu, 19 Nov 2026.
 
 Cafe & Bar Extrawelt is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Kaw, MOTOKA and YU-MA. See dates, start times and who's playing. 4-4-15 Motoichicho, Nihonbashi, Chuo-ku, Tokyo, 103-0021 Japan.
 
@@ -15,4 +15,4 @@ Cafe & Bar Extrawelt is a music venue in Tokyo listed on soundcheck. 2 upcoming 
 
 4-4-15 Motoichicho, Nihonbashi, Chuo-ku, Tokyo, 103-0021 Japan, Tokyo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafe-bar-extrawelt/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafe-bar-extrawelt/)*

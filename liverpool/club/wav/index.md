@@ -1,6 +1,6 @@
 # WaV
 
-WaV is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "David Rust presents Redline" on Fri, 30 Oct 2026.
+WaV is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "David Rust presents Redline" on Fri, 30 Oct 2026.
 
 WaV is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Aidyscape, David Rust, Daxson and Hidde van Wee and 2 more. See dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
@@ -23,4 +23,4 @@ WaV is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with l
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

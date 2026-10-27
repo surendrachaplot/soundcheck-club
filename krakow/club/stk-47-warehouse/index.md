@@ -1,14 +1,15 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Sekret Halloween: MÉTARAPH" on Sat, 31 Oct 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Sekret Halloween: MÉTARAPH" on Sat, 31 Oct 2026.
 
-STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 6 upcoming gigs, with line-ups including A.C., AregV, Forest (PL) and Józef Keuner and 2 more. See dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
+STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, with line-ups including A.C., AregV, Forest (PL) and Grymek and 2 more. See dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Sekret Halloween: MÉTARAPH | A.C., AregV, Metaraph, Sournois |
+| Fri, 6 Nov 2026 | HYPNØ with SBTM, Viniar, Akaya | Grymek |
 | Sat, 7 Nov 2026 | mésalliance: MOIA | MOIA, Saint Peter |
 | Fri, 13 Nov 2026 | SCHISSMA: WRK, KRVZL & MORE | Józef Keuner, VRAXX, WRK (PL), marcelitumelis |
 | Fri, 27 Nov 2026 | 2 Years of Citadel w/Brutal Forms | Forest (PL), Lyor Kalt, Skumring_, Zeitreise |
@@ -19,4 +20,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 6 upcoming gig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

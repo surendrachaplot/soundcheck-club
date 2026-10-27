@@ -1,6 +1,6 @@
 # Tommy Cross
 
-Tommy Cross is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Love Inn, Bristol on Thu, 29 Oct 2026.
+Tommy Cross is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Love Inn, Bristol on Thu, 29 Oct 2026.
 
 Tommy Cross is a dub techno and techno artist based in United Kingdom, with 43 gigs on soundcheck across Bristol, London, Manchester and Nottingham. Often billed alongside AdomasLP, MEMP3 and Ruf Dug. Next up: The Love Inn, Bristol on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Tommy Cross is a dub techno and techno artist based in United Kingdom, with 43 g
 
 AdomasLP, MEMP3, Ruf Dug
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycross/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycross/)*

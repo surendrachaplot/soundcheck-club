@@ -1,6 +1,6 @@
 # TOMO (2)
 
-TOMO (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Brancaleone, Rome on Sat, 7 Nov 2026.
+TOMO (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Brancaleone, Rome on Sat, 7 Nov 2026.
 
 TOMO is a techno and trance artist based in Italy, with 37 gigs on soundcheck across Amsterdam, Berlin, Bologna and Brussels and 11 more. Often billed alongside Abo Abo, Plastique01 and Marco Maldarella. Next up: Brancaleone, Rome on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ TOMO is a techno and trance artist based in Italy, with 37 gigs on soundcheck ac
 
 Abo Abo, Plastique01, Marco Maldarella
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomo-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomo-2/)*

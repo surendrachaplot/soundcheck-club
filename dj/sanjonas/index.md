@@ -1,6 +1,6 @@
 # Sanjonas
 
-Sanjonas is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Block42, Nuanu Creative City, Bali on Fri, 30 Oct 2026.
+Sanjonas is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Block42, Nuanu Creative City, Bali on Fri, 30 Oct 2026.
 
 Sanjonas is a techno and experimental artist, with 5 gigs on soundcheck across Bali, Bangkok and Ho Chi Minh City. Often billed alongside personalbrand, Anelle and Chalo. Next up: Block42, Nuanu Creative City, Bali on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Sanjonas is a techno and experimental artist, with 5 gigs on soundcheck across B
 
 personalbrand, Anelle, Chalo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanjonas/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanjonas/)*

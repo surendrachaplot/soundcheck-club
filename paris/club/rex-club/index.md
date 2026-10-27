@@ -1,6 +1,6 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "HOTLINE AGENCY presents BETÏSES & Britney Speed extended set" on Wed, 28 Oct 2026.
+Rex Club is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "HOTLINE AGENCY presents BETÏSES & Britney Speed extended set" on Wed, 28 Oct 2026.
 
 Rex Club is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including Antal, Anthea, Avenir and Axel Blanc and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with 
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

@@ -1,6 +1,6 @@
 # Imsobaby
 
-Imsobaby is a Baile Funk and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Fri, 13 Nov 2026.
+Imsobaby is a Baile Funk and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Fri, 13 Nov 2026.
 
 Imsobaby is a baile funk and afrobeats artist based in Switzerland, with 27 gigs on soundcheck across Amsterdam, Brussels, Copenhagen and Geneva and 3 more. Often billed alongside Esengo, Hirma and PATRÃO. Next up: Christianshavns Beboerhus, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Imsobaby is a baile funk and afrobeats artist based in Switzerland, with 27 gigs
 
 Esengo, Hirma, PATRÃO
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imsobaby/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imsobaby/)*

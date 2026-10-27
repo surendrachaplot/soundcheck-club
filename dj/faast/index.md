@@ -1,6 +1,6 @@
 # FAAST
 
-FAAST is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Macadam, Nantes on Fri, 15 Jan 2027.
+FAAST is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Macadam, Nantes on Fri, 15 Jan 2027.
 
 FAAST is a techno and trance artist based in France, with 19 gigs on soundcheck across Lyon, Nantes and Paris. Often billed alongside Lowbass, Panteros666 and Soeurs Malsaines. Next up: Macadam, Nantes on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ FAAST is a techno and trance artist based in France, with 19 gigs on soundcheck 
 
 Lowbass, Panteros666, Soeurs Malsaines
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faast/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faast/)*

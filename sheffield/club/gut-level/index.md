@@ -1,19 +1,21 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Calabash! presents Our Modern Griots" on Fri, 30 Oct 2026.
+Gut Level is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Gut Level x Float: Nape Neck, Bláthanna, Merys Brittlestar & Graceful Degredation" on Thu, 29 Oct 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Bethan and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Ben Vince and Bethan and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Gut Level x Float: Nape Neck, Bláthanna, Merys Brittlestar & Graceful Degredation |  |
 | Fri, 30 Oct 2026 | Calabash! presents Our Modern Griots |  |
 | Sat, 31 Oct 2026 | Make Hardcore Happy Again Sheffield Halloween Special |  |
 | Fri, 6 Nov 2026 | Happy Endings | Bethan, FAFF, Jeon Q, Perrin (UK), Ugly Drugless |
 | Sat, 7 Nov 2026 | CYB3R 5TH ANNIVERSARY W/ GFOTY | GFOTY |
 | Fri, 13 Nov 2026 | Sleazy Peelers (02) w/ Rosie Ama, Kay Fabe, Betty & Paniolo | Kay Fabe, Paniolo, Rosie Ama |
 | Sat, 14 Nov 2026 | LEATHERDYKE - 4 YEARS OF PISS, SWEAT, AND TEARS | MYNA, TB-316 |
+| Thu, 19 Nov 2026 | Gut Level presents: Ben Vince, Leo Hermitt & Phoneutrian | Ben Vince |
 | Sat, 12 Dec 2026 | Orange Room w/ Aquamarine [Wet Dreamz] | Aquamarine, Backseat Driver, Bubbles (UK), Paniolo |
 | Fri, 26 Feb 2027 | TAKIN'LIBERTIES TL00?? with Peverelist | Chris Jackson, Peverelist |
 
@@ -21,4 +23,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, w
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

@@ -1,6 +1,6 @@
 # Misha Jaru
 
-Misha Jaru is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+Misha Jaru is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
 Misha Jaru is a techno and house artist based in Ukraine, with 71 gigs on soundcheck across Berlin and Prague. Often billed alongside S.Tian, Dash (CZ) and Feenicks. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Misha Jaru is a techno and house artist based in Ukraine, with 71 gigs on soundc
 
 S.Tian, Dash (CZ), Feenicks
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*

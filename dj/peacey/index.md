@@ -1,6 +1,6 @@
 # Peacey
 
-Peacey is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hotel Montepiedra, Alicante on Thu, 27 May 2027.
+Peacey is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hotel Montepiedra, Alicante on Thu, 27 May 2027.
 
 Peacey is a disco and house artist, with 6 gigs on soundcheck across Alicante, Amsterdam and Edinburgh. Often billed alongside David Elders, André Lodemann and Atjazz. Next up: Hotel Montepiedra, Alicante on Thu 27 May.
 
@@ -22,4 +22,4 @@ Peacey is a disco and house artist, with 6 gigs on soundcheck across Alicante, A
 
 David Elders, André Lodemann, Atjazz
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacey/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacey/)*

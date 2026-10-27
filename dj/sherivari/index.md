@@ -1,6 +1,6 @@
 # Sheri Vari
 
-Sheri Vari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
+Sheri Vari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
 
 Sheri Vari is a house and disco artist based in Portugal, with 60 gigs on soundcheck across Lisbon and Porto. Often billed alongside Godi Osegueda, HNRQ and Helder Russo. Next up: Beato 30, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sheri Vari is a house and disco artist based in Portugal, with 60 gigs on soundc
 
 Godi Osegueda, HNRQ (2), Helder Russo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sherivari/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sherivari/)*

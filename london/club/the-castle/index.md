@@ -1,6 +1,6 @@
 # The Castle
 
-The Castle is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Format Music dnb London Halloween Special Free - Entry" on Fri, 30 Oct 2026.
+The Castle is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Format Music dnb London Halloween Special Free - Entry" on Fri, 30 Oct 2026.
 
 The Castle is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Diana Bravo, KIM HUNTER, Lau.tastic and Spacelike. See dates, start times and who's playing. 44 Commercial Road; Whitechapel; London E1 1LN; United Kingdom.
 
@@ -17,4 +17,4 @@ The Castle is a music venue in London listed on soundcheck. 4 upcoming gigs, wit
 
 44 Commercial Road; Whitechapel; London E1 1LN; United Kingdom, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-castle/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-castle/)*

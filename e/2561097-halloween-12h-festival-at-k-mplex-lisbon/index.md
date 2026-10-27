@@ -1,6 +1,6 @@
 # Halloween 12h Festival at Kømplex Lisbon
 
-Halloween 12h Festival at Kømplex Lisbon on Sat 31 Oct, Lisbon. 13 artists: 2HOT2PLAY, Aiden (DE), DIMENSION 9 and GADDAM and 9 more. Trance and Techno. See the line-up on soundcheck.
+Halloween 12h Festival at Kømplex Lisbon on Sat 31 Oct, Lisbon. 14 artists: 2HOT2PLAY, Aiden (DE), DIMENSION 9 and GADDAM and 10 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ Halloween 12h Festival at Kømplex Lisbon on Sat 31 Oct, Lisbon. 13 artists: 2HO
 - GTH (FR)
 - KØDE X
 - MAFAYA
+- MIYARI
 - NOQIA
 - ophell
 - PAISANA

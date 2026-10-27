@@ -1,8 +1,8 @@
 # E1
 
-E1 is a music venue in London with 35 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Zombie Mansion Immersive Halloween party with Sam Supplier and Mark Radford " on Thu, 29 Oct 2026.
+E1 is a music venue in London with 36 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Zombie Mansion Immersive Halloween party with Sam Supplier and Mark Radford " on Thu, 29 Oct 2026.
 
-E1 is a music venue in London listed on soundcheck. 35 upcoming gigs, with line-ups including Paolo Ferrara, ABEL (UK), ACOR and Ade Smilez and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 36 upcoming gigs, with line-ups including Paolo Ferrara, ABEL (UK), ACOR and Ade Smilez and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 35 upcoming gigs, with line-
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

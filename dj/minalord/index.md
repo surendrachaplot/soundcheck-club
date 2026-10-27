@@ -1,6 +1,6 @@
 # Mina Lord
 
-Mina Lord is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 27 Nov 2026.
+Mina Lord is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 27 Nov 2026.
 
 Mina Lord is a techno and industrial artist based in Germany, with 19 gigs on soundcheck across Berlin, Glasgow and Leipzig. Often billed alongside Vū, Fluid and 3SBAT. Next up: TBA - Secret Location, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mina Lord is a techno and industrial artist based in Germany, with 19 gigs on so
 
 Vū, Fluid, 3SBAT
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minalord/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minalord/)*

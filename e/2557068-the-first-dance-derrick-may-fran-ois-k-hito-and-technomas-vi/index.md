@@ -1,6 +1,6 @@
 # THE FIRST DANCE: Derrick May, FRANÇOIS K, Hito and TECHNOMAS Vinyl Night at Hype Discoteca
 
-THE FIRST DANCE: Derrick May, FRANÇOIS K, Hito and TECHNOMAS Vinyl Night at Hype Discoteca on Sat 31 Oct, Naples. 7 artists: CezarX, Derrick May, DJ Balu and Francois K and 3 more. Techno and Electronica. See the line-up on soundcheck.
+THE FIRST DANCE: Derrick May, FRANÇOIS K, Hito and TECHNOMAS Vinyl Night at Hype Discoteca on Sat 31 Oct, Naples. 8 artists: Arianna Ferrara, CezarX, Derrick May and DJ Balu and 4 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ THE FIRST DANCE: Derrick May, FRANÇOIS K, Hito and TECHNOMAS Vinyl Night at Hyp
 
 ## Line-up
 
+- Arianna Ferrara
 - CezarX
 - Derrick May
 - DJ Balu

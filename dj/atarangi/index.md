@@ -1,6 +1,6 @@
 # ATARANGI
 
-ATARANGI is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Miscellania, Melbourne on Fri, 13 Nov 2026.
+ATARANGI is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Miscellania, Melbourne on Fri, 13 Nov 2026.
 
 ATARANGI is a techno and club artist based in New Zealand, with 48 gigs on soundcheck across Auckland, Brisbane, Melbourne and Perth and 1 more. Often billed alongside Aaliyah Salem, Claire O'Brien and MIRASIA. Next up: Miscellania, Melbourne on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ ATARANGI is a techno and club artist based in New Zealand, with 48 gigs on sound
 
 Aaliyah Salem, Claire O'Brien, MIRASIA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atarangi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atarangi/)*

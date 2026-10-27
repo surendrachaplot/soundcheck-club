@@ -1,6 +1,6 @@
 # Giorgio Gigli
 
-Giorgio Gigli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Forte Antenne, Rome on Sat, 31 Oct 2026.
+Giorgio Gigli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Forte Antenne, Rome on Sat, 31 Oct 2026.
 
 Giorgio Gigli is a techno and house artist based in Italy, with 41 gigs on soundcheck across Berlin, Naples and Rome. Often billed alongside Zerø, GNMR and Alessandro Adriani. Next up: Forte Antenne, Rome on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Giorgio Gigli is a techno and house artist based in Italy, with 41 gigs on sound
 
 Zerø, GNMR, Alessandro Adriani
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiogigli/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiogigli/)*

@@ -1,6 +1,6 @@
 # Alberto Tolo
 
-Alberto Tolo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 7 Nov 2026.
+Alberto Tolo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 7 Nov 2026.
 
 Alberto Tolo is a techno and house artist based in Italy, with 38 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Cologne and 15 more. Often billed alongside Ricksen, L-AUX and Mefteh. Next up: Deposito Pontecorvo, Florence on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Alberto Tolo is a techno and house artist based in Italy, with 38 gigs on soundc
 
 Ricksen, L-AUX, Mefteh
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albertotolo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albertotolo/)*

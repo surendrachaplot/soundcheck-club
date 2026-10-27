@@ -1,6 +1,6 @@
 # Empire Stage
 
-Empire Stage is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "FEAR OF A BLACK PLANET: Petal, Botanist, Sugo2000, Seangreentea, Tallboy" on Fri, 30 Oct 2026.
+Empire Stage is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "FEAR OF A BLACK PLANET: Petal, Botanist, Sugo2000, Seangreentea, Tallboy" on Fri, 30 Oct 2026.
 
 Empire Stage is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Botanist, Niyah West, Petal and Sean Green and 2 more. See dates, start times and who's playing. 229 Empire Blvd, Brooklyn, NY 11225, USA.
 
@@ -15,4 +15,4 @@ Empire Stage is a music venue in New York City listed on soundcheck. 2 upcoming 
 
 229 Empire Blvd, Brooklyn, NY 11225, USA, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/empire-stage/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/empire-stage/)*

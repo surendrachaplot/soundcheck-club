@@ -1,6 +1,6 @@
 # 12 x 12
 
-12 x 12 is a music venue in Bangkok with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Bonobos - a dark night to discover" on Sat, 24 Oct 2026.
+12 x 12 is a music venue in Bangkok with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Bonobos - a dark night to discover" on Sat, 24 Oct 2026.
 
 12 x 12 is a music venue in Bangkok listed on soundcheck. 4 upcoming gigs, with line-ups including IYY (TH), Kunanon and PJPJPJ. See dates, start times and who's playing. 810, 22 Thara Rom 2 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand.
 
@@ -17,4 +17,4 @@
 
 810, 22 Thara Rom 2 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand, Bangkok
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/12-x-12/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/12-x-12/)*

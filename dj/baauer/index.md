@@ -1,6 +1,6 @@
 # Baauer
 
-Baauer is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Newspeak, Montreal on Fri, 30 Oct 2026.
+Baauer is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Newspeak, Montreal on Fri, 30 Oct 2026.
 
 Baauer is a house and bass artist based in United States of America, with 26 gigs on soundcheck across Boston, Chicago, Dallas Fort Worth and Denver and 11 more. Often billed alongside ATRIP, Bianca Oblivion and Conducta. Next up: Newspeak, Montreal on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Baauer is a house and bass artist based in United States of America, with 26 gig
 
 ATRIP, Bianca Oblivion, Conducta
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*

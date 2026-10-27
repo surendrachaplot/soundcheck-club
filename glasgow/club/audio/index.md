@@ -1,6 +1,6 @@
 # Audio
 
-Audio is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "VELA // 04" on Sat, 7 Nov 2026.
+Audio is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "VELA // 04" on Sat, 7 Nov 2026.
 
 Audio is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 14 Midland Street, G1 4PP.
 
@@ -16,4 +16,4 @@ Audio is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs. See dat
 
 14 Midland Street, G1 4PP, Glasgow
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*

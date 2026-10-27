@@ -1,6 +1,6 @@
 # KAAI
 
-KAAI is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sub Club, Glasgow on Fri, 13 Nov 2026.
+KAAI is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sub Club, Glasgow on Fri, 13 Nov 2026.
 
 KAAI is a techno and dub techno artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Cologne and 12 more. Often billed alongside Slam, Kairogen and Charlie Sparks. Next up: Sub Club, Glasgow on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ KAAI is a techno and dub techno artist based in United Kingdom, with 43 gigs on 
 
 Slam, Kairogen, Charlie Sparks
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaai/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaai/)*

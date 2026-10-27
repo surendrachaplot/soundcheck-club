@@ -1,6 +1,6 @@
 # Iris Leidenschaft
 
-Iris Leidenschaft is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Iris Leidenschaft is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 Iris Leidenschaft is a techno and house artist based in Colombia, with 42 gigs on soundcheck across Berlin, Bogot, Bogotá and Brussels and 5 more. Often billed alongside Laurel, Surfer Rosa and QV. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Iris Leidenschaft is a techno and house artist based in Colombia, with 42 gigs o
 
 Laurel, Surfer Rosa, QV (1)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irisleidenschaft/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irisleidenschaft/)*

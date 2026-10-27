@@ -1,6 +1,6 @@
 # Faustin (NL)
 
-Faustin (NL) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
+Faustin (NL) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
 
 Faustin (NL) is a techno and electro artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Brussels, New York City and Rotterdam and 1 more. Often billed alongside TWIENA, Mary Lake and Fafi Abdel Nour. Next up: export, Rotterdam on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Faustin (NL) is a techno and electro artist based in Netherlands, with 69 gigs o
 
 TWIENA, Mary Lake, Fafi Abdel Nour
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faustin-nl/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faustin-nl/)*

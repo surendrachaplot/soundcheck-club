@@ -1,6 +1,6 @@
 # Markozonio
 
-Markozonio is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Glove That Fits, London on Sat, 14 Nov 2026.
+Markozonio is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Glove That Fits, London on Sat, 14 Nov 2026.
 
 Markozonio is a house and tech house artist based in North Macedonia, with 7 gigs on soundcheck across Auckland and London. Often billed alongside Jefferson King, AJ Manning and Arcadia. Next up: The Glove That Fits, London on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Markozonio is a house and tech house artist based in North Macedonia, with 7 gig
 
 Jefferson King, AJ Manning, Arcadia
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markozonio/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markozonio/)*

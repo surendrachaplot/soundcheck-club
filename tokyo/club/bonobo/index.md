@@ -1,6 +1,6 @@
 # Bonobo
 
-Bonobo is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "渦" on Wed, 28 Oct 2026.
+Bonobo is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "渦" on Wed, 28 Oct 2026.
 
 Bonobo is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including COGEE, DJ Moss, suimin and thomyorko. See dates, start times and who's playing. 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
@@ -16,4 +16,4 @@ Bonobo is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with lin
 
 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*

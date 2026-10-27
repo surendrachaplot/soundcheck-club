@@ -1,6 +1,6 @@
 # The Air Conditioned Lounge
 
-The Air Conditioned Lounge is a music venue in San Diego with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "House Music Fridays Halloween: Mark E Quark + Costume Contest" on Fri, 30 Oct 2026.
+The Air Conditioned Lounge is a music venue in San Diego with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "House Music Fridays Halloween: Mark E Quark + Costume Contest" on Fri, 30 Oct 2026.
 
 The Air Conditioned Lounge is a music venue in San Diego listed on soundcheck. 3 upcoming gigs, with line-ups including Bruno Browning, DJ Colette, Mark E Quark and Matthew Brian. See dates, start times and who's playing. 4673 30th St, San Diego, CA 92116.
 
@@ -16,4 +16,4 @@ The Air Conditioned Lounge is a music venue in San Diego listed on soundcheck. 3
 
 4673 30th St, San Diego, CA 92116, San Diego
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*

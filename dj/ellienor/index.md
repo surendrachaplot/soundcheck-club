@@ -1,6 +1,6 @@
 # ELLIE NOR
 
-ELLIE NOR is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 5 Dec 2026.
+ELLIE NOR is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 5 Dec 2026.
 
 ELLIE NOR is a techno artist, with 6 gigs on soundcheck across Barcelona and Oslo. Often billed alongside Avraxas, HEDDA and Karolinski. Next up: Village Underground Barcelona, Barcelona on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ ELLIE NOR is a techno artist, with 6 gigs on soundcheck across Barcelona and Osl
 
 Avraxas, HEDDA, Karolinski
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellienor/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellienor/)*

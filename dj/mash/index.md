@@ -1,6 +1,6 @@
 # Mash
 
-Mash is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Fri, 20 Nov 2026.
+Mash is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Sydney on Fri, 20 Nov 2026.
 
 Mash is a house and hip-hop artist based in Germany, with 41 gigs on soundcheck across Barcelona, Berlin, Glasgow and Osaka and 2 more. Often billed alongside Bouki, Sim Select and Cousin. Next up: TBA, Sydney on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mash is a house and hip-hop artist based in Germany, with 41 gigs on soundcheck 
 
 Bouki, Sim Select, Cousin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mash/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mash/)*

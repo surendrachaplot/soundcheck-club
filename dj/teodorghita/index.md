@@ -1,6 +1,6 @@
 # Teodor Ghita
 
-Teodor Ghita is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 31 Oct 2026.
+Teodor Ghita is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 31 Oct 2026.
 
 Teodor Ghita is a techno and electro artist based in Romania, with 19 gigs on soundcheck across Amsterdam, Bucharest and Paris. Often billed alongside Mianda, Paul Popa and Gabbs. Next up: Club Guesthouse, Bucharest on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Teodor Ghita is a techno and electro artist based in Romania, with 19 gigs on so
 
 Mianda, Paul Popa, Gabbs
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teodorghita/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teodorghita/)*

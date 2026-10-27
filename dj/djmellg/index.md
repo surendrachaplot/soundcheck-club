@@ -1,6 +1,6 @@
 # DJ MELL G
 
-DJ MELL G is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Zeiss Planetarium Bochum, Bochum on Wed, 28 Oct 2026.
+DJ MELL G is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Zeiss Planetarium Bochum, Bochum on Wed, 28 Oct 2026.
 
 DJ MELL G is a techno and electro artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 54 more. Often billed alongside Newinfluenzer, DJ Stingray 313 and DJ Spit. Next up: Zeiss Planetarium Bochum, Bochum on Wed 28 Oct.
 
@@ -30,4 +30,4 @@ DJ MELL G is a techno and electro artist based in Germany, with 215 gigs on soun
 
 Newinfluenzer, DJ Stingray 313, DJ Spit
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*

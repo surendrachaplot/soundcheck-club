@@ -1,6 +1,6 @@
 # Marc Homer
 
-Marc Homer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 6 Nov 2026.
+Marc Homer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 6 Nov 2026.
 
 Marc Homer is a techno and house artist based in Germany, with 39 gigs on soundcheck across Atlanta, Berlin, Detroit and Los Angeles and 3 more. Often billed alongside Khloe, The Camel and Wax Assassin. Next up: TBA - Los Angeles, Los Angeles on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Marc Homer is a techno and house artist based in Germany, with 39 gigs on soundc
 
 Khloe, The Camel, Wax Assassin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marchomer/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marchomer/)*

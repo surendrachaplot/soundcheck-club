@@ -1,6 +1,6 @@
 # FAE (3)
 
-FAE (3) is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at DRUMSHEDS, London on Sat, 5 Dec 2026.
+FAE (3) is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at DRUMSHEDS, London on Sat, 5 Dec 2026.
 
 FAE is a techno and minimal techno artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 4 more. Often billed alongside ELIF, Predex and Yashar (UK). Next up: DRUMSHEDS, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ FAE is a techno and minimal techno artist based in Italy, with 11 gigs on soundc
 
 ELIF, Predex, Yashar (UK)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fae-3/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fae-3/)*

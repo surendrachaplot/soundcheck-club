@@ -1,6 +1,6 @@
 # LIZAZA
 
-LIZAZA is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Vespers Club, London on Sat, 31 Oct 2026.
+LIZAZA is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Vespers Club, London on Sat, 31 Oct 2026.
 
 LIZAZA is a techno and ebm artist based in Russia, with 40 gigs on soundcheck across London. Often billed alongside Arrosa, Leviminks and DELARA. Next up: Vespers Club, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ LIZAZA is a techno and ebm artist based in Russia, with 40 gigs on soundcheck ac
 
 Arrosa, Leviminks, DELARA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaza/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaza/)*

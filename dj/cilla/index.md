@@ -1,6 +1,6 @@
 # Cilla
 
-Cilla is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Specka, Madrid on Fri, 20 Nov 2026.
+Cilla is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Specka, Madrid on Fri, 20 Nov 2026.
 
 Cilla is a techno and house artist, with 8 gigs on soundcheck across Amsterdam, Los Angeles, Madrid and Miami and 1 more. Often billed alongside Anthony Parasole, Avalon Emerson and BLANC MAMBA. Next up: Specka, Madrid on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Cilla is a techno and house artist, with 8 gigs on soundcheck across Amsterdam, 
 
 Anthony Parasole, Avalon Emerson, BLANC MAMBA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cilla/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cilla/)*

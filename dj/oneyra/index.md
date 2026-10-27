@@ -1,6 +1,6 @@
 # Ôneyra
 
-Ôneyra is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Marmorbar, Berlin on Thu, 12 Nov 2026.
+Ôneyra is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Marmorbar, Berlin on Thu, 12 Nov 2026.
 
 Ôneyra is a techno and trance artist based in Ireland, with 35 gigs on soundcheck across Berlin, Brussels, Cologne and London and 1 more. Often billed alongside Rovin, MZR and Montague. Next up: Marmorbar, Berlin on Thu 12 Nov.
 
@@ -26,4 +26,4 @@
 
 Rovin, MZR, Montague
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oneyra/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oneyra/)*

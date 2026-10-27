@@ -1,6 +1,6 @@
 # Gilb'R
 
-Gilb'R is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Point Ephémère, Paris on Fri, 13 Nov 2026.
+Gilb'R is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Point Ephémère, Paris on Fri, 13 Nov 2026.
 
 Gilb'R is an electro and techno artist based in France, with 25 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bristol and 3 more. Often billed alongside Zaltan, I:Cube and Alex From Tokyo. Next up: Point Ephémère, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Gilb'R is an electro and techno artist based in France, with 25 gigs on soundche
 
 Zaltan, I:Cube, Alex From Tokyo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbr/)*

@@ -1,6 +1,6 @@
 # DCHM
 
-DCHM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
+DCHM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
 
 DCHM is a techno and house artist based in Germany, with 55 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 5 more. Often billed alongside Sedaction, MALUGI and Jascha Yousefi. Next up: Renate, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DCHM is a techno and house artist based in Germany, with 55 gigs on soundcheck a
 
 Sedaction, MALUGI, Jascha Yousefi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dchm/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dchm/)*

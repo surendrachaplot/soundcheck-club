@@ -1,6 +1,6 @@
 # AIEAIEAIE
 
-AIEAIEAIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Motel Campo, Geneva on Sat, 31 Oct 2026.
+AIEAIEAIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Motel Campo, Geneva on Sat, 31 Oct 2026.
 
 AIEAIEAIE is a techno and house artist based in Switzerland, with 5 gigs on soundcheck across Geneva and Lausanne. Often billed alongside Rebelo, picchu and Djamzer. Next up: Motel Campo, Geneva on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ AIEAIEAIE is a techno and house artist based in Switzerland, with 5 gigs on soun
 
 Rebelo, picchu, Djamzer
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aieaieaie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aieaieaie/)*

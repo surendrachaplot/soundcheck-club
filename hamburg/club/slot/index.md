@@ -1,6 +1,6 @@
 # Slot
 
-Slot is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "GRIM" on Sat, 31 Oct 2026.
+Slot is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "GRIM" on Sat, 31 Oct 2026.
 
 Slot is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including Cielo.MP3, cmp, Custom CSS and Jessica Nightlife and 2 more. See dates, start times and who's playing. Zeiseweg 9 / Bodenstedtstraße , 22765 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Slot is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with lin
 
 Zeiseweg 9 / Bodenstedtstraße , 22765 Hamburg, Germany, Hamburg
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/slot/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/slot/)*

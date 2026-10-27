@@ -1,6 +1,6 @@
 # K A I
 
-K A I is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
+K A I is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
 K A I is a bass and house artist based in United Kingdom, with 75 gigs on soundcheck across Bali, Barcelona, Bucharest and Kanto and 6 more. Often billed alongside caro.aki, Civic Grief and Louis Shannon. Next up: Kinone Pension, Kanto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ K A I is a bass and house artist based in United Kingdom, with 75 gigs on soundc
 
 caro.aki, Civic Grief, Louis Shannon
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-es/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-es/)*

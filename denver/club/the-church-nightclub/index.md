@@ -1,6 +1,6 @@
 # The Church Nightclub
 
-The Church Nightclub is a music venue in Denver with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Mall Grab" on Sat, 31 Oct 2026.
+The Church Nightclub is a music venue in Denver with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Mall Grab" on Sat, 31 Oct 2026.
 
 The Church Nightclub is a music venue in Denver listed on soundcheck. 5 upcoming gigs, with line-ups including Audien, Fatzo, Oden and Omar+ and 1 more. See dates, start times and who's playing. 1160 Lincoln St, Denver, CO 80203.
 
@@ -18,4 +18,4 @@ The Church Nightclub is a music venue in Denver listed on soundcheck. 5 upcoming
 
 1160 Lincoln St, Denver, CO 80203, Denver
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-church-nightclub/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-church-nightclub/)*

@@ -1,8 +1,8 @@
 # DEA MAGNA
 
-DEA MAGNA is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at EQ San Diego, San Diego on Thu, 29 Oct 2026.
+DEA MAGNA is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at EQ San Diego, San Diego on Thu, 29 Oct 2026.
 
-DEA MAGNA is a techno and hardcore artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Barcelona, Dallas/Fort Worth and Los Angeles and 5 more. Often billed alongside Fatima Hajji, A.Knives and ARCHON. Next up: EQ San Diego, San Diego on Thu 29 Oct.
+DEA MAGNA is a techno and hardcore artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Barcelona, Dallas/Fort Worth and Los Angeles and 5 more. Often billed alongside Fatima Hajji, A.Knives and ARCHON. Next up: EQ San Diego, San Diego on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DEA MAGNA is a techno and hardcore artist based in United States of America, wit
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | EQ San Diego | San Diego |
 | Sat, 31 Oct 2026 | At&t Performing Arts Center | Dallas/Fort Worth |
+| Sat, 14 Nov 2026 | TBA - Bushwick, Brooklyn | New York City |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
 
 ## Recently played
@@ -27,4 +28,4 @@ DEA MAGNA is a techno and hardcore artist based in United States of America, wit
 
 Fatima Hajji, A.Knives, ARCHON
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deamagna/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deamagna/)*

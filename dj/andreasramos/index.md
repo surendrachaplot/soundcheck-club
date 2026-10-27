@@ -1,6 +1,6 @@
 # Andreas Ramos
 
-Andreas Ramos is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Hive Club, Zurich on Sun, 1 Nov 2026.
+Andreas Ramos is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hive Club, Zurich on Sun, 1 Nov 2026.
 
 Andreas Ramos is a techno and tech house artist based in Switzerland, with 22 gigs on soundcheck across Basel, Berlin and Zurich. Often billed alongside Aline (CH), Antja and Akyra. Next up: Hive Club, Zurich on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Andreas Ramos is a techno and tech house artist based in Switzerland, with 22 gi
 
 Aline (CH), Antja, Akyra
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasramos/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasramos/)*

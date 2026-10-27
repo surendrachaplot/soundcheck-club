@@ -1,6 +1,6 @@
 # Gallo
 
-Gallo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Restaurante Covadonga, Mexico City on Sat, 31 Oct 2026.
+Gallo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Restaurante Covadonga, Mexico City on Sat, 31 Oct 2026.
 
 Gallo is a house and techno artist based in Italy, with 18 gigs on soundcheck across Berlin, Bristol, Glasgow and Mexico City and 4 more. Often billed alongside Kalabrese, Alex Dallas and KAYYAK. Next up: Restaurante Covadonga, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gallo is a house and techno artist based in Italy, with 18 gigs on soundcheck ac
 
 Kalabrese, Alex Dallas, KAYYAK
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gallo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gallo/)*

@@ -1,6 +1,6 @@
 # Esquita
 
-Esquita is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Noce KRK, Krakow on Sat, 21 Nov 2026.
+Esquita is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Noce KRK, Krakow on Sat, 21 Nov 2026.
 
 Esquita is a techno and psytrance artist based in Poland, with 28 gigs on soundcheck across Krakow. Often billed alongside Glani, Hellix and Kondrat. Next up: Noce KRK, Krakow on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Esquita is a techno and psytrance artist based in Poland, with 28 gigs on soundc
 
 Glani, Hellix, Kondrat
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esquita/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esquita/)*

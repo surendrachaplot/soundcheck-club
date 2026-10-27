@@ -1,6 +1,6 @@
 # HRTNGS
 
-HRTNGS is a Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at City Hall, Barcelona on Wed, 28 Oct 2026.
+HRTNGS is a Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at City Hall, Barcelona on Wed, 28 Oct 2026.
 
 HRTNGS is a tech house artist, with 5 gigs on soundcheck across Barcelona. Often billed alongside Babo, Bruno Castillo and Gabriella Ponce. Next up: City Hall, Barcelona on Wed 28 Oct.
 
@@ -21,4 +21,4 @@ HRTNGS is a tech house artist, with 5 gigs on soundcheck across Barcelona. Often
 
 Babo, Bruno Castillo, Gabriella Ponce
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hrtngs/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hrtngs/)*

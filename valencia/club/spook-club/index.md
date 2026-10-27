@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Halloween: Cassie Raptor + DYEN + A.N.I. & Total with ines isla & Special-k with Laia + Sugar Free" on Sat, 31 Oct 2026.
+Spook Club is a music venue in Valencia with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Halloween: Cassie Raptor + DYEN + A.N.I. & Total with ines isla & Special-k with Laia + Sugar Free" on Sat, 31 Oct 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 12 upcoming gigs, with line-ups including Angelinanyulí, Alarico, Andres Campo and A.N.I. and 2 more. See dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 12 upcoming gigs, 
 
 Pinedo Valencia, Valencia
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

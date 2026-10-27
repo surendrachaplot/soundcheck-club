@@ -1,6 +1,6 @@
 # Dragos Rusu
 
-Dragos Rusu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at control, Bucharest on Fri, 30 Oct 2026.
+Dragos Rusu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at control, Bucharest on Fri, 30 Oct 2026.
 
 Dragos Rusu is a techno and house artist, with 5 gigs on soundcheck across Bucharest. Often billed alongside Romansoff, Bogman and Claudia. Next up: control, Bucharest on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Dragos Rusu is a techno and house artist, with 5 gigs on soundcheck across Bucha
 
 Romansoff, Bogman, Claudia
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragosrusu/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragosrusu/)*

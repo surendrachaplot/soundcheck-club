@@ -1,6 +1,6 @@
 # Jessica Nightlife
 
-Jessica Nightlife is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at ÆDEN, Berlin on Sat, 31 Oct 2026.
+Jessica Nightlife is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at ÆDEN, Berlin on Sat, 31 Oct 2026.
 
 Jessica Nightlife is a house and techno artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside puppy, Aaron Blau and DJ AYA. Next up: ÆDEN, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jessica Nightlife is a house and techno artist based in Germany, with 62 gigs on
 
 puppy, Aaron Blau, DJ AYA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicanightlife/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicanightlife/)*

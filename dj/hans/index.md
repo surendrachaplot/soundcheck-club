@@ -1,6 +1,6 @@
 # Hans
 
-Hans is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+Hans is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
 Hans is a psytrance and trance artist based in Ireland, with 5 gigs on soundcheck across Berlin, Melbourne, Sydney and Tallinn. Often billed alongside $CRAIC, &more and Abdullah Miniawy. Next up: TBA, Sydney on Wed 30 Dec.
 
@@ -21,4 +21,4 @@ Hans is a psytrance and trance artist based in Ireland, with 5 gigs on soundchec
 
 $CRAIC, &more, Abdullah Miniawy
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hans/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hans/)*

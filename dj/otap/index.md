@@ -1,6 +1,6 @@
 # otap
 
-otap is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+otap is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
 
 otap is a latin bass and club artist based in Colombia, with 19 gigs on soundcheck across Amsterdam, Brussels, Lausanne and Paris. Often billed alongside dieglitter, mika.collage and Susobrino. Next up: SISSI'S Amsterdam, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ otap is a latin bass and club artist based in Colombia, with 19 gigs on soundche
 
 dieglitter, mika.collage, Susobrino
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otap/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otap/)*

@@ -1,6 +1,6 @@
 # Kontravoid
 
-Kontravoid is a EBM and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Thalia Hall, Chicago on Fri, 30 Oct 2026.
+Kontravoid is a EBM and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Thalia Hall, Chicago on Fri, 30 Oct 2026.
 
 Kontravoid is an ebm and industrial artist based in Canada, with 45 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 24 more. Often billed alongside Kris Baha, Andi and Semantix. Next up: Thalia Hall, Chicago on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Kontravoid is an ebm and industrial artist based in Canada, with 45 gigs on soun
 
 Kris Baha, Andi, Semantix
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kontravoid/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kontravoid/)*

@@ -1,6 +1,6 @@
 # KOAST
 
-KOAST is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
+KOAST is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
 
 KOAST is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across Bristol and London. Often billed alongside Elianne, Drastic Shuffle and Grace Sands. Next up: Dalston Superstore, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ KOAST is a house and techno artist based in United Kingdom, with 12 gigs on soun
 
 Elianne, Drastic Shuffle, Grace Sands
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koast/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koast/)*

@@ -1,6 +1,6 @@
 # Ziggo Dome
 
-Ziggo Dome is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "VERKNIPT Ziggo Dome - Amsterdam - 5 March 2027" on Fri, 5 Mar 2027.
+Ziggo Dome is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "VERKNIPT Ziggo Dome - Amsterdam - 5 March 2027" on Fri, 5 Mar 2027.
 
 Ziggo Dome is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Ben Techy, BØĘRY, Jeno and Kobosil and 2 more. See dates, start times and who's playing. Ziggo Dome, Arena boulevard 61-75, 1101 DL Amsterdam.
 
@@ -14,4 +14,4 @@ Ziggo Dome is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, w
 
 Ziggo Dome, Arena boulevard 61-75, 1101 DL Amsterdam, Amsterdam
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ziggo-dome/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ziggo-dome/)*

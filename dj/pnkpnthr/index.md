@@ -1,6 +1,6 @@
 # pnk pnthr
 
-pnk pnthr is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 20 Nov 2026.
+pnk pnthr is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 20 Nov 2026.
 
 pnk pnthr is a trance and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, Budapest and Munich. Often billed alongside vSto, TOON WORLD and LUCKY4U. Next up: Acud Macht NEU, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ pnk pnthr is a trance and techno artist based in Germany, with 22 gigs on soundc
 
 vSto, TOON WORLD, LUCKY4U
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pnkpnthr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pnkpnthr/)*

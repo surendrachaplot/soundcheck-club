@@ -1,6 +1,6 @@
 # Matho
 
-Matho is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at La Source Beer Co, Brussels on Fri, 13 Nov 2026.
+Matho is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at La Source Beer Co, Brussels on Fri, 13 Nov 2026.
 
 Matho is a garage and breakbeat artist based in Belgium, with 33 gigs on soundcheck across Antwerp, Brussels, Ghent and Lisbon. Often billed alongside Nidrev, Nayrah and Ensarr. Next up: La Source Beer Co, Brussels on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Matho is a garage and breakbeat artist based in Belgium, with 33 gigs on soundch
 
 Nidrev, Nayrah, Ensarr
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matho/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matho/)*

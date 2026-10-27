@@ -1,6 +1,6 @@
 # Hadex (2)
 
-Hadex (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 20 Nov 2026.
+Hadex (2) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 20 Nov 2026.
 
 Hadex is a tech house and house artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Yins, Elliot (UK) and Gianni Firmaio. Next up: EL SÓTANO, Madrid on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Hadex is a tech house and house artist based in Spain, with 7 gigs on soundcheck
 
 Yins, Elliot (UK), Gianni Firmaio
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadex-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadex-2/)*

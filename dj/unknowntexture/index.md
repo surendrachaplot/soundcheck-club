@@ -1,6 +1,6 @@
 # Unknown Texture
 
-Unknown Texture is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Klub K4, Ljubljana on Fri, 13 Nov 2026.
+Unknown Texture is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Klub K4, Ljubljana on Fri, 13 Nov 2026.
 
 Unknown Texture is a techno and electro artist, with 5 gigs on soundcheck across Belgrade and Ljubljana. Often billed alongside Impedance, Meelo.42 and .Paragon. Next up: Klub K4, Ljubljana on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Unknown Texture is a techno and electro artist, with 5 gigs on soundcheck across
 
 Impedance, Meelo.42, .Paragon
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unknowntexture/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unknowntexture/)*

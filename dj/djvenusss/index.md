@@ -1,6 +1,6 @@
 # DJ VENUSSS
 
-DJ VENUSSS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Club Zimmermanns, Cologne on Sat, 31 Oct 2026.
+DJ VENUSSS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Zimmermanns, Cologne on Sat, 31 Oct 2026.
 
 DJ VENUSSS is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Cologne, Dortmund / Essen, Düsseldorf and Vienna. Often billed alongside Gutkind, Flotze and Juan Del Chambo. Next up: Club Zimmermanns, Cologne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ VENUSSS is a techno and trance artist based in Germany, with 30 gigs on sound
 
 Gutkind, Flotze, Juan Del Chambo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvenusss/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvenusss/)*

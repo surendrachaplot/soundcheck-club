@@ -1,14 +1,15 @@
 # Sweeney
 
-Sweeney is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Penthouse, Glasgow on Sat, 31 Oct 2026.
+Sweeney is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Penthouse, Glasgow on Sat, 31 Oct 2026.
 
-Sweeney is a house and garage artist based in United Kingdom, with 50 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Sally Swan, Jardine and Tais-Toi. Next up: The Penthouse, Glasgow on Sat 31 Oct.
+Sweeney is a house and garage artist based in United Kingdom, with 51 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Sally Swan, Jardine and Tais-Toi. Next up: The Penthouse, Glasgow on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Penthouse | Glasgow |
+| Fri, 6 Nov 2026 | People's Leisure Club | Edinburgh |
 | Thu, 3 Dec 2026 | King Tut's Wah Wah Hut | Glasgow |
 | Sat, 26 Dec 2026 | People's Leisure Club | Edinburgh |
 
@@ -27,4 +28,4 @@ Sweeney is a house and garage artist based in United Kingdom, with 50 gigs on so
 
 Sally Swan, Jardine, Tais-Toi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweeney/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweeney/)*

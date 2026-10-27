@@ -1,6 +1,6 @@
 # YESSIR
 
-YESSIR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 30 Oct 2026.
+YESSIR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 30 Oct 2026.
 
 YESSIR is a house and tech house artist, with 5 gigs on soundcheck across Berlin and Munich. Often billed alongside Bäggy, Wi5dom and 6RAJ. Next up: Süss War Gestern, Berlin on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ YESSIR is a house and tech house artist, with 5 gigs on soundcheck across Berlin
 
 Bäggy, Wi5dom, 6RAJ
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yessir/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yessir/)*

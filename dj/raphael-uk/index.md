@@ -1,6 +1,6 @@
 # Raphael Carrau
 
-Raphael Carrau is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 28 Nov 2026.
+Raphael Carrau is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 28 Nov 2026.
 
 Raphael Carrau is a house and techno artist based in United Kingdom, with 150 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 44 more. Often billed alongside Unai Trotti, Vass and Colin Chiddle. Next up: Cobalt Studios, Newcastle on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Raphael Carrau is a house and techno artist based in United Kingdom, with 150 gi
 
 Unai Trotti, Vass, Colin Chiddle
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*

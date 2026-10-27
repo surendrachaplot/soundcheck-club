@@ -1,14 +1,13 @@
 # Peppe Amore
 
-Peppe Amore is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Q Club, Milan on Fri, 30 Oct 2026.
+Peppe Amore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at DKR Milano, Milan on Fri, 30 Oct 2026.
 
-Peppe Amore is a techno and house artist based in Italy, with 16 gigs on soundcheck across Berlin, Milan, Naples and New York City and 2 more. Often billed alongside Jade Removille, Enrico Vivaldi and Flux By Uchiha. Next up: Q Club, Milan on Fri 30 Oct.
+Peppe Amore is a techno and house artist based in Italy, with 15 gigs on soundcheck across Berlin, Milan, Naples and New York City and 2 more. Often billed alongside Jade Removille, Enrico Vivaldi and Flux By Uchiha. Next up: DKR Milano, Milan on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Q Club | Milan |
 | Fri, 30 Oct 2026 | DKR Milano | Milan |
 
 ## Recently played
@@ -26,4 +25,4 @@ Peppe Amore is a techno and house artist based in Italy, with 16 gigs on soundch
 
 Jade Removille, Enrico Vivaldi, Flux By Uchiha
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peppeamore/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peppeamore/)*

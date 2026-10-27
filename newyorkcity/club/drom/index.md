@@ -1,6 +1,6 @@
 # Drom
 
-Drom is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "DAFT DISKO [A FRENCH HOUSE & DISCO PARTY] HALLOWEEN" on Sat, 31 Oct 2026.
+Drom is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "DAFT DISKO [A FRENCH HOUSE & DISCO PARTY] HALLOWEEN" on Sat, 31 Oct 2026.
 
 Drom is a music venue in New York City listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 85 Avenue A, New York, NY 10009.
 
@@ -18,4 +18,4 @@ Drom is a music venue in New York City listed on soundcheck. 5 upcoming gigs. Se
 
 85 Avenue A, New York, NY 10009, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/drom/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/drom/)*

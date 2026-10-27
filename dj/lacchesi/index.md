@@ -1,6 +1,6 @@
 # Lacchesi
 
-Lacchesi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Groove Gardens, Malta on Sun, 1 Nov 2026.
+Lacchesi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Groove Gardens, Malta on Sun, 1 Nov 2026.
 
 Lacchesi is a techno and house artist based in France, with 195 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 59 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Anetha. Next up: Groove Gardens, Malta on Sun 1 Nov.
 
@@ -27,4 +27,4 @@ Lacchesi is a techno and house artist based in France, with 195 gigs on soundche
 
 Lorenzo Lacchesi, Mac Declos, Anetha
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*

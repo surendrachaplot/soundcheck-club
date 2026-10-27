@@ -1,6 +1,6 @@
 # heSAWyou
 
-heSAWyou is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Pracht, Frankfurt on Sat, 31 Oct 2026.
+heSAWyou is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Pracht, Frankfurt on Sat, 31 Oct 2026.
 
 heSAWyou is a house and minimal artist based in Mexico, with 82 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 3 more. Often billed alongside Alain Hellion, Timid Boy and Anthony Attalla. Next up: Pracht, Frankfurt on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ heSAWyou is a house and minimal artist based in Mexico, with 82 gigs on soundche
 
 Alain Hellion, Timid Boy, Anthony Attalla
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hesawyou/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hesawyou/)*

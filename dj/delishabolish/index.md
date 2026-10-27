@@ -1,6 +1,6 @@
 # deLish / aboLish
 
-deLish / aboLish is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lithuanian House, Toronto on Sat, 31 Oct 2026.
+deLish / aboLish is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lithuanian House, Toronto on Sat, 31 Oct 2026.
 
 deLish / aboLish is a techno and tech house artist, with 3 gigs on soundcheck across Toronto. Often billed alongside GRRLCRRSH, Athena and Barroness. Next up: Lithuanian House, Toronto on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ deLish / aboLish is a techno and tech house artist, with 3 gigs on soundcheck ac
 
 GRRLCRRSH, Athena (2), Barroness
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delishabolish/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delishabolish/)*

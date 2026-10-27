@@ -1,6 +1,6 @@
 # Jacob Trip
 
-Jacob Trip is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Grace, London on Sat, 7 Nov 2026.
+Jacob Trip is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Grace, London on Sat, 7 Nov 2026.
 
 Jacob Trip is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Jiminy Watts, Seb Trillo and batgirl. Next up: The Grace, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jacob Trip is a house and techno artist based in United Kingdom, with 9 gigs on 
 
 Jiminy Watts, Seb Trillo, batgirl
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobtrip/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobtrip/)*

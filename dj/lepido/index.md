@@ -1,6 +1,6 @@
 # LEPIDO
 
-LEPIDO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
+LEPIDO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
 
 LEPIDO is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside GHOST DE, Rob Robsen and Klipp&Klar. Next up: Void Club, Berlin on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ LEPIDO is a techno and trance artist based in Germany, with 5 gigs on soundcheck
 
 GHOST DE, Rob Robsen, Klipp&Klar
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lepido/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lepido/)*

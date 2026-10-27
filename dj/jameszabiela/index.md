@@ -1,6 +1,6 @@
 # James Zabiela
 
-James Zabiela is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Hardpop, Ciudad-ju-rez on Fri, 30 Oct 2026.
+James Zabiela is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Hardpop, Ciudad-ju-rez on Fri, 30 Oct 2026.
 
 James Zabiela is a house and techno artist based in United Kingdom, with 67 gigs on soundcheck across Adelaide, Auckland, Barcelona and Beijing and 30 more. Often billed alongside Sasha, Danny Howells and Anthony Pappa. Next up: Hardpop, Ciudad Ju Rez on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ James Zabiela is a house and techno artist based in United Kingdom, with 67 gigs
 
 Sasha, Danny Howells, Anthony Pappa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*

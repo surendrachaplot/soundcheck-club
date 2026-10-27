@@ -1,6 +1,6 @@
 # ZDBT
 
-ZDBT is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at CHICO, Mexico City on Fri, 30 Oct 2026.
+ZDBT is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at CHICO, Mexico City on Fri, 30 Oct 2026.
 
 ZDBT is a techno and house artist based in Canada, with 59 gigs on soundcheck across Berlin, Calgary, Detroit and Helsinki and 6 more. Often billed alongside Syd Woz, Dairy Free and NAP (MX). Next up: CHICO, Mexico City on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ ZDBT is a techno and house artist based in Canada, with 59 gigs on soundcheck ac
 
 Syd Woz, Dairy Free, NAP (MX)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zdbt/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zdbt/)*

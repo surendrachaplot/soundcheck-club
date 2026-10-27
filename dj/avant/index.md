@@ -1,6 +1,6 @@
 # AVANT
 
-AVANT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bootshaus, Cologne on Fri, 30 Oct 2026.
+AVANT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bootshaus, Cologne on Fri, 30 Oct 2026.
 
 AVANT is a techno and house artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 2 more. Often billed alongside Solique, VINTASH and Alchemiah. Next up: Bootshaus, Cologne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ AVANT is a techno and house artist based in Germany, with 32 gigs on soundcheck 
 
 Solique, VINTASH, Alchemiah
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avant/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avant/)*

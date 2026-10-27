@@ -1,6 +1,6 @@
 # Davide Squillace
 
-Davide Squillace is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at fabric, London on Sun, 20 Dec 2026.
+Davide Squillace is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at fabric, London on Sun, 20 Dec 2026.
 
 Davide Squillace is a tech house and house artist based in Italy, with 63 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Denver and 14 more. Often billed alongside Marco Carola, Joey Daniel and Matthias Tanzmann. Next up: fabric, London on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Davide Squillace is a tech house and house artist based in Italy, with 63 gigs o
 
 Marco Carola, Joey Daniel, Matthias Tanzmann
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidesquillace/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidesquillace/)*

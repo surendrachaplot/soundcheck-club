@@ -1,6 +1,6 @@
 # AISHA at KALT
 
-AISHA at KALT on Sat 28 Nov, Strasbourg. 1 artist: AISHA. See the line-up on soundcheck.
+AISHA at KALT on Sat 28 Nov, Strasbourg. 3 artists: AISHA, Dima Roas and Mute.. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ AISHA at KALT on Sat 28 Nov, Strasbourg. 1 artist: AISHA. See the line-up on sou
 ## Line-up
 
 - AISHA
+- Dima Roas
+- Mute.
 
 *Source: [soundcheck](https://soundcheck.club/e/2541115-aisha-at-kalt/)*

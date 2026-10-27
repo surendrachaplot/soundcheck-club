@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Rx presents: Lola Kay / Alina Viktoria / Laurel b2b Thyme" on Tue, 27 Oct 2026.
+AMT is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Rx presents: Lola Kay / Alina Viktoria / Laurel b2b Thyme" on Tue, 27 Oct 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Achilles, Alina Viktoria, Arlanoa and BAHAA AL DEEN and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ AMT is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line
 | Fri, 20 Nov 2026 | SUBSTATION | GRETA (GR), Giulia Gutterer, Kidcat, Lucas Abadi, Sparkly Pony |
 | Sat, 21 Nov 2026 | Loone x FEIERAMT | Arlanoa, BENZA, Elvin, Iman Janes, Jessie Granqvist, Maris Shilton, RÆZA, Sicion |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

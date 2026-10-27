@@ -1,6 +1,6 @@
 # Miki (3)
 
-Miki (3) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 20 Nov 2026.
+Miki (3) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 20 Nov 2026.
 
 Miki is a house and tech house artist based in Australia, with 39 gigs on soundcheck across Melbourne, New York City and Sydney. Often billed alongside Hannah D, Activator (AU) and Moopie. Next up: Sub Club Melbourne, Melbourne on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Miki is a house and tech house artist based in Australia, with 39 gigs on soundc
 
 Hannah D, Activator (AU), Moopie
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miki-3/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miki-3/)*

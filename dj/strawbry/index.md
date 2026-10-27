@@ -1,6 +1,6 @@
 # STRAWBRY
 
-STRAWBRY is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Refuge, New York City on Thu, 5 Nov 2026.
+STRAWBRY is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Refuge, New York City on Thu, 5 Nov 2026.
 
 STRAWBRY is a house and club artist based in United States of America, with 25 gigs on soundcheck across Dallas/Fort Worth, Los Angeles, Manchester and Miami and 3 more. Often billed alongside ATRIP, Oppidan and BIATA. Next up: Refuge, New York City on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ STRAWBRY is a house and club artist based in United States of America, with 25 g
 
 ATRIP, Oppidan, BIATA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strawbry/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strawbry/)*

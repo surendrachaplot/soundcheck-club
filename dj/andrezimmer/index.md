@@ -1,6 +1,6 @@
 # Andre Zimmer
 
-Andre Zimmer is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Hidden, Manchester on Sat, 31 Oct 2026.
+Andre Zimmer is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Hidden, Manchester on Sat, 31 Oct 2026.
 
 Andre Zimmer is a house and techno artist based in Canada, with 66 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside AKWA, Jacob de Hooge and Venus in Foil. Next up: Hidden, Manchester on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Andre Zimmer is a house and techno artist based in Canada, with 66 gigs on sound
 
 AKWA, Jacob de Hooge, Venus in Foil
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*

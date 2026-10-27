@@ -1,6 +1,6 @@
 # SUPERSONIC at Fitzroy
 
-SUPERSONIC at Fitzroy on Sat 5 Dec, Berlin. 5 artists: Carmelina, Eline (BE), POLSCHI and Vasile and 1 more. House and Tech House. See the line-up on soundcheck.
+SUPERSONIC at Fitzroy on Sat 5 Dec, Berlin. 6 artists: BFAM, Carmelina, Eline (BE) and POLSCHI and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SUPERSONIC at Fitzroy on Sat 5 Dec, Berlin. 5 artists: Carmelina, Eline (BE), PO
 
 ## Line-up
 
+- BFAM
 - Carmelina
 - Eline (BE)
 - POLSCHI (2)

@@ -1,6 +1,6 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Deep Listening" on Tue, 27 Oct 2026.
+Moondog Hifi is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Deep Listening" on Tue, 27 Oct 2026.
 
 Moondog Hifi is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including Chuwee, dero, KANZE and Latas and 2 more. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
@@ -9,7 +9,7 @@ Moondog Hifi is a music venue in New York City listed on soundcheck. 12 upcoming
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | Deep Listening |  |
-| Wed, 28 Oct 2026 | Wednesday JAmZZ: Evan Wood Trio + Max Pearl Quartet |  |
+| Wed, 28 Oct 2026 | Wednesday JAmZZ: Evan Wood Trio + Matthew Pearl Quartet |  |
 | Thu, 29 Oct 2026 | dero + Latas | Latas, dero |
 | Fri, 30 Oct 2026 | Rustam Ospanoff | Rustam Ospanoff |
 | Sat, 31 Oct 2026 | Moondog HiFi presents: DISCO AFTERLIFE | Sky Society |
@@ -23,4 +23,4 @@ Moondog Hifi is a music venue in New York City listed on soundcheck. 12 upcoming
 
 119 Ingraham Street, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*

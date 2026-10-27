@@ -1,6 +1,6 @@
 # Arkan
 
-Arkan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Studionotte, Milan on Sat, 7 Nov 2026.
+Arkan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Studionotte, Milan on Sat, 7 Nov 2026.
 
 Arkan is a techno and house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Maris Shilton, Mathys Lenne and slin. Next up: Studionotte, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Arkan is a techno and house artist based in Germany, with 43 gigs on soundcheck 
 
 Maris Shilton, Mathys Lenne, slin
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arkan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arkan/)*

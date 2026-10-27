@@ -1,6 +1,6 @@
 # 24 KS X Echo Collective: Captain Wallop (3 hr set) at 24 Kitchen Street
 
-24 KS X Echo Collective: Captain Wallop (3 hr set) at 24 Kitchen Street on Sat 21 Nov, Liverpool. 1 artist: Captain Wallop. House and Garage. See the line-up on soundcheck.
+24 KS X Echo Collective: Captain Wallop (3 hr set) at 24 Kitchen Street on Sat 21 Nov, Liverpool. 2 artists: Captain Wallop and Wray. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@
 ## Line-up
 
 - Captain Wallop
+- Wray
 
 *Source: [soundcheck](https://soundcheck.club/e/2562630-24-ks-x-echo-collective-captain-wallop-3-hr-set-at-24-kitche/)*

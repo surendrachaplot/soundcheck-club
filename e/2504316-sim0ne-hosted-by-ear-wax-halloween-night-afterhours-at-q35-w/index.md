@@ -1,6 +1,6 @@
 # sim0ne hosted by EAR\WAX halloween night + afterhours at Q35 WAREHOUSE
 
-sim0ne hosted by EAR\WAX halloween night + afterhours at Q35 WAREHOUSE on Sat 31 Oct, Turin. 1 artist: sim0ne. House. See the line-up on soundcheck.
+sim0ne hosted by EAR\WAX halloween night + afterhours at Q35 WAREHOUSE on Sat 31 Oct, Turin. 2 artists: sim0ne and The Taste. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ sim0ne hosted by EAR\WAX halloween night + afterhours at Q35 WAREHOUSE on Sat 31
 ## Line-up
 
 - sim0ne
+- The Taste
 
 *Source: [soundcheck](https://soundcheck.club/e/2504316-sim0ne-hosted-by-ear-wax-halloween-night-afterhours-at-q35-w/)*

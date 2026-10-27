@@ -1,6 +1,6 @@
 # Arsonist
 
-Arsonist is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
+Arsonist is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
 Arsonist is a bass and techno artist based in Australia, with 28 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Parcae, Lankee and Autogenesis. Next up: TBA, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Arsonist is a bass and techno artist based in Australia, with 28 gigs on soundch
 
 Parcae, Lankee, Autogenesis
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arsonist/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arsonist/)*

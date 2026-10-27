@@ -1,8 +1,8 @@
 # Marcia Carr
 
-Marcia Carr is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Court Coleman Manor, West-wales on Sat, 31 Oct 2026.
+Marcia Carr is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Court Coleman Manor, West-wales on Sat, 31 Oct 2026.
 
-Marcia Carr is a house and disco artist based in United Kingdom, with 79 gigs on soundcheck across Brighton, Bristol, Helsinki and Leeds and 5 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: Court Coleman Manor, West Wales on Sat 31 Oct.
+Marcia Carr is a house and disco artist based in United Kingdom, with 80 gigs on soundcheck across Brighton, Bristol, Bucharest and Helsinki and 6 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: Court Coleman Manor, West Wales on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marcia Carr is a house and disco artist based in United Kingdom, with 79 gigs on
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Court Coleman Manor | West-wales |
 | Sun, 1 Nov 2026 | Patterns | Brighton |
+| Thu, 5 Nov 2026 | control | Bucharest |
 | Sat, 21 Nov 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
@@ -27,4 +28,4 @@ Marcia Carr is a house and disco artist based in United Kingdom, with 79 gigs on
 
 Stuart Patterson, Terry Farley, Ella Knight
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*

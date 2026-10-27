@@ -1,6 +1,6 @@
 # Jono (2)
 
-Jono (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Mountaineering Club, Seattle on Sat, 31 Oct 2026.
+Jono (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Mountaineering Club, Seattle on Sat, 31 Oct 2026.
 
 Jono is a house and electro artist based in United States of America, with 12 gigs on soundcheck across Seattle. Often billed alongside Misha Mir, Colt and Doza. Next up: The Mountaineering Club, Seattle on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jono is a house and electro artist based in United States of America, with 12 gi
 
 Misha Mir, Colt, Doza
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jono-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jono-2/)*

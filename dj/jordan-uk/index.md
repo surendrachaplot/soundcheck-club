@@ -1,6 +1,6 @@
 # Jordan Nocturne
 
-Jordan Nocturne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Shorts Sports & Recreation Club, Belfast on Sat, 31 Oct 2026.
+Jordan Nocturne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Shorts Sports & Recreation Club, Belfast on Sat, 31 Oct 2026.
 
 Jordan Nocturne is a house and techno artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 20 more. Often billed alongside Timmy Stewart, Marion Hawkes and Danse Intermission. Next up: Shorts Sports & Recreation Club, Belfast on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jordan Nocturne is a house and techno artist based in United Kingdom, with 80 gi
 
 Timmy Stewart, Marion Hawkes, Danse Intermission
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan-uk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan-uk/)*

@@ -1,6 +1,6 @@
 # Conduit
 
-Conduit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Xanadu, New York City on Sun, 8 Nov 2026.
+Conduit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Xanadu, New York City on Sun, 8 Nov 2026.
 
 Conduit is a house and techno artist based in United States of America, with 10 gigs on soundcheck across Ho Chi Minh City, Liverpool and New York City. Often billed alongside Kettle, Iggy Nuclear and Rila. Next up: Xanadu, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Conduit is a house and techno artist based in United States of America, with 10 
 
 Kettle, Iggy Nuclear, Rila
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Conduit_US/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Conduit_US/)*

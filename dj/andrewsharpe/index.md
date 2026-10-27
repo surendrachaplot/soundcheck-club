@@ -1,6 +1,6 @@
 # Andrew Sharpe
 
-Andrew Sharpe is a Trance and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Egg London, London on Sat, 16 Jan 2027.
+Andrew Sharpe is a Trance and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Egg London, London on Sat, 16 Jan 2027.
 
 Andrew Sharpe is a trance and tech house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside C-systems, DJMrB and Sago. Next up: Egg London, London on Sat 16 Jan.
 
@@ -22,4 +22,4 @@ Andrew Sharpe is a trance and tech house artist based in United Kingdom, with 6 
 
 C-systems, DJMrB, Sago
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewsharpe/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewsharpe/)*

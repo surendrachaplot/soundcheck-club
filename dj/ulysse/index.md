@@ -1,6 +1,6 @@
 # Ulysse
 
-Ulysse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mia Mao, Paris on Thu, 12 Nov 2026.
+Ulysse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mia Mao, Paris on Thu, 12 Nov 2026.
 
 Ulysse is a techno and house artist, with 8 gigs on soundcheck across London, Paris and Zurich. Often billed alongside Alessandro Miranda, Amy Cutter and DMC.. Next up: Mia Mao, Paris on Thu 12 Nov.
 
@@ -24,4 +24,4 @@ Ulysse is a techno and house artist, with 8 gigs on soundcheck across London, Pa
 
 Alessandro Miranda, Amy Cutter, DMC.
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulysse/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulysse/)*

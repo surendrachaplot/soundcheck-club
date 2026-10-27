@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location, New York City on Thu, 29 Oct 2026.
+X CLUB. is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location, New York City on Thu, 29 Oct 2026.
 
 X CLUB. is a techno and house artist based in Australia, with 246 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Atlanta and 79 more. Often billed alongside VTSS, DJ Heartstring and KETTAMA. Next up: TBA - Secret Location, New York City on Thu 29 Oct.
 
@@ -35,4 +35,4 @@ X CLUB. is a techno and house artist based in Australia, with 246 gigs on soundc
 
 VTSS, DJ Heartstring, KETTAMA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

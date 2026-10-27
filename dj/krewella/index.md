@@ -1,6 +1,6 @@
 # Krewella
 
-Krewella is a Electro and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Pier 17, New York City on Sat, 31 Oct 2026.
+Krewella is a Electro and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Pier 17, New York City on Sat, 31 Oct 2026.
 
 Krewella is an electro and bass artist based in United States of America, with 11 gigs on soundcheck across Boston, Cleveland, Cologne and Jacksonville and 5 more. Often billed alongside Alex Martin, Amy Wiles and Arty. Next up: Pier 17, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Krewella is an electro and bass artist based in United States of America, with 1
 
 Alex Martin, Amy Wiles, Arty
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krewella/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krewella/)*

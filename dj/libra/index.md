@@ -1,6 +1,6 @@
 # Libra
 
-Libra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
+Libra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
 
 Libra is a techno and house artist based in Ukraine, with 7 gigs on soundcheck across Berlin. Often billed alongside CosmiKat, Krokant and AHAB. Next up: Jonny Knüppel, Berlin on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Libra is a techno and house artist based in Ukraine, with 7 gigs on soundcheck a
 
 CosmiKat, Krokant, AHAB
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/libra/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/libra/)*

@@ -1,6 +1,6 @@
 # EIJI SHIRAKAWA
 
-EIJI SHIRAKAWA is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Adrift, Tokyo on Sat, 28 Nov 2026.
+EIJI SHIRAKAWA is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Adrift, Tokyo on Sat, 28 Nov 2026.
 
 EIJI SHIRAKAWA is a drum & bass and jungle artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside vinylDJ Eiji Takehana, Kenta Tominaga and Hironobu Jyounai. Next up: Adrift, Tokyo on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ EIJI SHIRAKAWA is a drum & bass and jungle artist based in Japan, with 7 gigs on
 
 vinylDJ Eiji Takehana, Kenta Tominaga, Hironobu Jyounai
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eiji/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eiji/)*

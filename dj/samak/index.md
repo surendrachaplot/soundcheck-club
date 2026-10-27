@@ -1,8 +1,8 @@
 # Sam AK
 
-Sam AK is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
+Sam AK is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
 
-Sam AK is a techno and hardcore artist based in Canada, with 7 gigs on soundcheck across Vancouver. Often billed alongside NIMAHA, Bÿständer and Wonderboi. Next up: Frankie’s, Vancouver on Sat 31 Oct.
+Sam AK is a techno and hardcore artist based in Canada, with 7 gigs on soundcheck across Vancouver. Often billed alongside NIMAHA, Wonderboi and Bÿständer. Next up: Frankie’s, Vancouver on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Sam AK is a techno and hardcore artist based in Canada, with 7 gigs on soundchec
 
 ## Shares bills with
 
-NIMAHA, Bÿständer, Wonderboi
+NIMAHA, Wonderboi, Bÿständer
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samak/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samak/)*

@@ -1,8 +1,8 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "ARACNE 2nd Anniversary - Michel Lauriola, Viels, SPECTRAL & JOHNO" on Fri, 30 Oct 2026.
+Lasociaciøn is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "ARACNE 2nd Anniversary - Michel Lauriola, Viels, SPECTRAL & JOHNO" on Fri, 30 Oct 2026.
 
-Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including ADRI.G, Alex (ES), Ania Bruster and Avo (ES) and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
+Lasociaciøn is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including ADRI.G, Alex (ES), Ania Bruster and Avo (ES) and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, w
 | Fri, 27 Nov 2026 | DARKMASS Lasociaciøn TICKETS PROMO |  |
 | Sun, 29 Nov 2026 | EXTENDED TIME of OVERDRIVE | Jesus Riaño, Ricardo Morales, Yvan Corrochano |
 | Mon, 7 Dec 2026 | Dunkeln Madrid | Oscar Blue, PW DISTORTION, Yiye |
+| Sat, 12 Dec 2026 | Only Vinyl Night: Selected Records Showcase — XVIII Years | G4G0, Gabriel D'or & Bordoy, Pyramidal Decode, SERNA, Trasto, Xpansul |
 
 ## Address
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

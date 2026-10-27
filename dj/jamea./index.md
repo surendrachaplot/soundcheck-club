@@ -1,8 +1,8 @@
 # jamea.
 
-jamea. is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Miss Eva's Speakeasy, Detroit on Fri, 30 Oct 2026.
+jamea. is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Miss Eva's Speakeasy, Detroit on Fri, 30 Oct 2026.
 
-jamea. is a techno and club artist based in United States of America, with 53 gigs on soundcheck across Chicago, Detroit, Nashville and New York City. Often billed alongside we1sman, Wax Assassin and Ember LaFiamma. Next up: Miss Eva's Speakeasy, Detroit on Fri 30 Oct.
+jamea. is a techno and club artist based in United States of America, with 54 gigs on soundcheck across Chicago, Detroit, Nashville and New York City. Often billed alongside we1sman, Wax Assassin and Ember LaFiamma. Next up: Miss Eva's Speakeasy, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ jamea. is a techno and club artist based in United States of America, with 53 gi
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Miss Eva's Speakeasy | Detroit |
 | Sat, 31 Oct 2026 | TV Lounge | Detroit |
+| Sat, 31 Oct 2026 | SOS | Detroit |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ jamea. is a techno and club artist based in United States of America, with 53 gi
 
 we1sman, Wax Assassin, Ember LaFiamma
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*

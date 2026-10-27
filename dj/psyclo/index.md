@@ -1,6 +1,6 @@
 # Psyclo
 
-Psyclo is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Vespers Club, London on Thu, 12 Nov 2026.
+Psyclo is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Vespers Club, London on Thu, 12 Nov 2026.
 
 Psyclo is an experimental and dub artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Joel Arcane, Cinna Peyghamy and Mia Moto. Next up: Vespers Club, London on Thu 12 Nov.
 
@@ -21,4 +21,4 @@ Psyclo is an experimental and dub artist based in United Kingdom, with 5 gigs on
 
 Joel Arcane, Cinna Peyghamy, Mia Moto
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psyclo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psyclo/)*

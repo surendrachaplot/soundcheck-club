@@ -1,6 +1,6 @@
 # Alex Di Stefano
 
-Alex Di Stefano is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 21 Nov 2026.
+Alex Di Stefano is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 21 Nov 2026.
 
 Alex Di Stefano is a trance and techno artist based in Italy, with 5 gigs on soundcheck across Amsterdam, Barcelona, Prague and Tokyo. Often billed alongside Casepeat, DJ 34 and DJ NECO. Next up: Levenslang Amsterdam, Amsterdam on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Alex Di Stefano is a trance and techno artist based in Italy, with 5 gigs on sou
 
 Casepeat, DJ 34, DJ NECO
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdistefano/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdistefano/)*

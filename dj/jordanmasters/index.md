@@ -1,6 +1,6 @@
 # Jordan Masters
 
-Jordan Masters is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, London on Sat, 12 Dec 2026.
+Jordan Masters is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, London on Sat, 12 Dec 2026.
 
 Jordan Masters is a house and tech house artist based in United Kingdom, with 25 gigs on soundcheck across Birmingham, Bristol, Leeds and Liverpool and 1 more. Often billed alongside Wax Material, ADMNTi and Jack Ling. Next up: TBA, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Jordan Masters is a house and tech house artist based in United Kingdom, with 25
 
 Wax Material, ADMNTi, Jack Ling
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanmasters/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanmasters/)*

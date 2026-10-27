@@ -1,6 +1,6 @@
 # Ed Nine
 
-Ed Nine is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Schubas, Chicago on Fri, 6 Nov 2026.
+Ed Nine is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Schubas, Chicago on Fri, 6 Nov 2026.
 
 Ed Nine is a house and deep house artist, with 6 gigs on soundcheck across Chicago. Often billed alongside Aathee, Adorio and Andrew Emil. Next up: Schubas, Chicago on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Ed Nine is a house and deep house artist, with 6 gigs on soundcheck across Chica
 
 Aathee, Adorio, Andrew Emil
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ednine/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ednine/)*

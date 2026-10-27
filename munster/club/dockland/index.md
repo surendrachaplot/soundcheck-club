@@ -1,6 +1,6 @@
 # Dockland
 
-Dockland is a music venue in Münster with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Wintergarden Halloween with Ben Klock, Beste Hira, Gerd Janson a.m" on Sat, 31 Oct 2026.
+Dockland is a music venue in Münster with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Wintergarden Halloween with Ben Klock, Beste Hira, Gerd Janson a.m" on Sat, 31 Oct 2026.
 
 Dockland is a music venue in Münster listed on soundcheck. 3 upcoming gigs, with line-ups including ACCUL, Alba Franch, Bad Boy Bill and Ben Klock and 2 more. See dates, start times and who's playing. Am Hawerkamp 29a.
 
@@ -16,4 +16,4 @@ Dockland is a music venue in Münster listed on soundcheck. 3 upcoming gigs, wit
 
 Am Hawerkamp 29a, Münster
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/dockland/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/dockland/)*

@@ -1,6 +1,6 @@
 # Will Lewis
 
-Will Lewis is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Egg London, London on Sat, 26 Dec 2026.
+Will Lewis is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Egg London, London on Sat, 26 Dec 2026.
 
 Will Lewis is a techno and industrial artist based in United Kingdom, with 41 gigs on soundcheck across London and Milan. Often billed alongside Kyle E, DREIAN and Raden (UK). Next up: Egg London, London on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Will Lewis is a techno and industrial artist based in United Kingdom, with 41 gi
 
 Kyle E, DREIAN, Raden (UK)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willlewis/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willlewis/)*

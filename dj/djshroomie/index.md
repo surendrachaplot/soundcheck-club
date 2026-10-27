@@ -1,6 +1,6 @@
 # DJ Shroomie
 
-DJ Shroomie is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bar Franca, Los Angeles on Fri, 30 Oct 2026.
+DJ Shroomie is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Franca, Los Angeles on Fri, 30 Oct 2026.
 
 DJ Shroomie is a house and deep house artist based in United States of America, with 57 gigs on soundcheck across Los Angeles, San Diego and Sydney. Often billed alongside Beggar, Naomi Green and Ian Llorens. Next up: Bar Franca, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Shroomie is a house and deep house artist based in United States of America, 
 
 Beggar, Naomi Green, Ian Llorens
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshroomie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshroomie/)*

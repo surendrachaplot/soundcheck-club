@@ -1,6 +1,6 @@
 # ZONE 33 PRESENTS: BERLIN RAVE [MELBOURNE] at 24 Moons
 
-ZONE 33 PRESENTS: BERLIN RAVE [MELBOURNE] at 24 Moons on Fri 13 Nov, Melbourne. 2 artists: ONARSÉ and WISER. Techno and Hardcore. See the line-up on soundcheck.
+ZONE 33 PRESENTS: BERLIN RAVE [MELBOURNE] at 24 Moons on Fri 13 Nov, Melbourne. 3 artists: ONARSÉ, SPOILT and WISER. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ZONE 33 PRESENTS: BERLIN RAVE [MELBOURNE] at 24 Moons on Fri 13 Nov, Melbourne. 
 ## Line-up
 
 - ONARSÉ
+- SPOILT
 - WISER
 
 *Source: [soundcheck](https://soundcheck.club/e/2552352-zone-33-presents-berlin-rave-melbourne-at-24-moons/)*

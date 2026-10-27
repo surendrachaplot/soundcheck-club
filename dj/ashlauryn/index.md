@@ -1,6 +1,6 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Ash Lauryn is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 Ash Lauryn is a house and techno artist based in United States of America, with 151 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 39 more. Often billed alongside The AM/AMX, JADALAREIGN and Kai Alce. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Ash Lauryn is a house and techno artist based in United States of America, with 
 
 The AM/AMX, JADALAREIGN, Kai Alce
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

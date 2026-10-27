@@ -1,6 +1,6 @@
 # Sonia Sol
 
-Sonia Sol is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - The Great American Beer Hall 142 Mystic Ave Medford, MA 02155, Boston on Fri, 30 Oct 2026.
+Sonia Sol is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - The Great American Beer Hall 142 Mystic Ave Medford, MA 02155, Boston on Fri, 30 Oct 2026.
 
 Sonia Sol is a club and hip-hop artist based in United States of America, with 35 gigs on soundcheck across Berlin, Boston, Copenhagen and London and 9 more. Often billed alongside AceMo, Black Daria and Cquestt. Next up: TBA - The Great American Beer Hall 142 Mystic Ave Medford, MA 02155, Boston on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sonia Sol is a club and hip-hop artist based in United States of America, with 3
 
 AceMo, Black Daria, Cquestt
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniasol/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soniasol/)*

@@ -1,6 +1,6 @@
 # Vi (PL)
 
-Vi (PL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Ciało, Wroclaw on Fri, 6 Nov 2026.
+Vi (PL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ciało, Wroclaw on Fri, 6 Nov 2026.
 
 Vi (PL) is a techno and house artist based in Poland, with 75 gigs on soundcheck across Barcelona, Berlin, Krakow and London and 5 more. Often billed alongside Glassz, kEczuP and Aksamit. Next up: Ciało, Wroclaw on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Vi (PL) is a techno and house artist based in Poland, with 75 gigs on soundcheck
 
 Glassz, kEczuP, Aksamit
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vi-pl/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vi-pl/)*

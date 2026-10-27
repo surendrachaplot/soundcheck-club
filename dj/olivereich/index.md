@@ -1,13 +1,14 @@
 # Oliver Eich
 
-Oliver Eich is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at WDM, Hannover on Fri, 18 Dec 2026.
+Oliver Eich is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Frau Holle, Hamburg on Sat, 31 Oct 2026.
 
-Oliver Eich is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Hamburg, Hannover and Prague. Often billed alongside DAIVER, Matt Blue and SKADI. Next up: WDM, Hannover on Fri 18 Dec.
+Oliver Eich is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, Hamburg, Hannover and Prague. Often billed alongside DAIVER, Matt Blue and SKADI. Next up: Club Frau Holle, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Club Frau Holle | Hamburg |
 | Fri, 18 Dec 2026 | WDM | Hannover |
 
 ## Recently played
@@ -25,4 +26,4 @@ Oliver Eich is a techno and house artist based in Germany, with 28 gigs on sound
 
 DAIVER, Matt Blue, SKADI
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivereich/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivereich/)*

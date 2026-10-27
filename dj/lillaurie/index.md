@@ -1,6 +1,6 @@
 # Lil Laurie
 
-Lil Laurie is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
+Lil Laurie is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Lil Laurie is a trance and techno artist based in United States of America, with 5 gigs on soundcheck across San Francisco/Oakland. Often billed alongside ELA MENTAL, CASPII and Axela. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Lil Laurie is a trance and techno artist based in United States of America, with
 
 ELA MENTAL, CASPII, Axela
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillaurie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillaurie/)*

@@ -1,6 +1,6 @@
 # Sapphyre
 
-Sapphyre is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Paris Bar, Detroit on Sat, 14 Nov 2026.
+Sapphyre is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Paris Bar, Detroit on Sat, 14 Nov 2026.
 
 Sapphyre is a techno and electro artist, with 46 gigs on soundcheck across Adelaide, Baltimore, Detroit and New York City. Often billed alongside Auntie Chanel, Cherriel and Duck Trash. Next up: Paris Bar, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sapphyre is a techno and electro artist, with 46 gigs on soundcheck across Adela
 
 Auntie Chanel, Cherriel, Duck Trash
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sapphyre/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sapphyre/)*

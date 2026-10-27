@@ -1,14 +1,15 @@
 # Francesco Castelli
 
-Francesco Castelli is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Morabito Art Villa, Bali on Sat, 31 Oct 2026.
+Francesco Castelli is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Morabito Art Villa, Bali on Sat, 31 Oct 2026.
 
-Francesco Castelli is a house and tech house artist, with 15 gigs on soundcheck across Bali. Often billed alongside Kaiser Waldon, Nacho Corominas and Sara Siu. Next up: Morabito Art Villa, Bali on Sat 31 Oct.
+Francesco Castelli is a house and tech house artist, with 16 gigs on soundcheck across Bali. Often billed alongside Kaiser Waldon, Sara Siu and Nacho Corominas. Next up: Morabito Art Villa, Bali on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Morabito Art Villa | Bali |
+| Fri, 13 Nov 2026 | Desa Kitsune | Bali |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Francesco Castelli is a house and tech house artist, with 15 gigs on soundcheck 
 
 ## Shares bills with
 
-Kaiser Waldon, Nacho Corominas, Sara Siu
+Kaiser Waldon, Sara Siu, Nacho Corominas
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castelli/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castelli/)*

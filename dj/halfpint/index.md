@@ -1,6 +1,6 @@
 # HALFPINT
 
-HALFPINT is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Amber's, Manchester on Sat, 7 Nov 2026.
+HALFPINT is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Amber's, Manchester on Sat, 7 Nov 2026.
 
 HALFPINT is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Central and 6 more. Often billed alongside Jamback, Sossa and Prospa. Next up: Amber's, Manchester on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ HALFPINT is a house and techno artist based in United Kingdom, with 50 gigs on s
 
 Jamback, Sossa, Prospa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*

@@ -1,6 +1,6 @@
 # Wolf
 
-Wolf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 27 Nov 2026.
+Wolf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 27 Nov 2026.
 
 Wolf is a house and techno artist based in Mexico, with 17 gigs on soundcheck across Barcelona, Mexico City, Miami and Naples and 6 more. Often billed alongside Conan, AARON and Alle Farben. Next up: Bukanyr Boat, Prague on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Wolf is a house and techno artist based in Mexico, with 17 gigs on soundcheck ac
 
 Conan, AARON, Alle Farben
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolf/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolf/)*

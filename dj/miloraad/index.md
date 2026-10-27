@@ -1,6 +1,6 @@
 # Milo Raad
 
-Milo Raad is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Soul SKG, Thessaloniki on Tue, 27 Oct 2026.
+Milo Raad is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Soul SKG, Thessaloniki on Tue, 27 Oct 2026.
 
 Milo Raad is a techno and industrial artist based in Serbia, with 65 gigs on soundcheck across Amsterdam, Athens, Beijing and Belgrade and 24 more. Often billed alongside Filip Xavi, MMS and Dexon. Next up: Soul SKG, Thessaloniki on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Milo Raad is a techno and industrial artist based in Serbia, with 65 gigs on sou
 
 Filip Xavi, MMS, Dexon
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miloraad/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miloraad/)*

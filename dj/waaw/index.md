@@ -1,6 +1,6 @@
 # WAAW
 
-WAAW is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Haggerston, London on Sat, 31 Oct 2026.
+WAAW is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Haggerston, London on Sat, 31 Oct 2026.
 
 WAAW is a house and baile funk artist based in United Kingdom, with 49 gigs on soundcheck across London. Often billed alongside RAAANDY, Ab.Diablo and VIRI$$. Next up: The Haggerston, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ WAAW is a house and baile funk artist based in United Kingdom, with 49 gigs on s
 
 RAAANDY, Ab.Diablo, VIRI$$
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waaw/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waaw/)*

@@ -1,6 +1,6 @@
 # Elliot Milan
 
-Elliot Milan is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
+Elliot Milan is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
 
 Elliot Milan is a techno and reggaeton artist, with 16 gigs on soundcheck across Mexico City. Often billed alongside IRONBOARD, kopo and Valac. Next up: CHICO, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Elliot Milan is a techno and reggaeton artist, with 16 gigs on soundcheck across
 
 IRONBOARD, kopo, Valac
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotmilan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotmilan/)*

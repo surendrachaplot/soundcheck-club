@@ -1,6 +1,6 @@
 # Dada Disco
 
-Dada Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
+Dada Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
 
 Dada Disco is a house and disco artist based in Germany, with 30 gigs on soundcheck across Barcelona, Berlin, Istanbul and Lisbon and 3 more. Often billed alongside Frozilla, Johannes Albert and Ady Toledano. Next up: KitKatClub, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Dada Disco is a house and disco artist based in Germany, with 30 gigs on soundch
 
 Frozilla, Johannes Albert, Ady Toledano
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadadisco/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadadisco/)*

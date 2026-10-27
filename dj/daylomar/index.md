@@ -1,6 +1,6 @@
 # Daylomar
 
-Daylomar is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Daylomar is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
 Daylomar is a house and tech house artist, with 10 gigs on soundcheck across Barcelona, Dubai, Lisbon and Milan and 1 more. Often billed alongside Omar Fayyad, Hameed and Hugo Martinez. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Daylomar is a house and tech house artist, with 10 gigs on soundcheck across Bar
 
 Omar Fayyad, Hameed, Hugo Martinez
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daylomar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daylomar/)*

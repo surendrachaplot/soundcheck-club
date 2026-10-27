@@ -1,6 +1,6 @@
 # Vaccaro
 
-Vaccaro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The B Side Berlin, Berlin on Wed, 28 Oct 2026.
+Vaccaro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The B Side Berlin, Berlin on Wed, 28 Oct 2026.
 
 Vaccaro is a techno and house artist based in Brazil, with 36 gigs on soundcheck across Berlin. Often billed alongside MXC, Tinco and No Auer. Next up: The B Side Berlin, Berlin on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Vaccaro is a techno and house artist based in Brazil, with 36 gigs on soundcheck
 
 MXC, Tinco, No Auer
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaccaro/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaccaro/)*

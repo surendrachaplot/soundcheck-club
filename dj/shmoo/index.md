@@ -1,6 +1,6 @@
 # Shmoo
 
-Shmoo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Bridgeport Records, Chicago on Sun, 8 Nov 2026.
+Shmoo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bridgeport Records, Chicago on Sun, 8 Nov 2026.
 
 Shmoo is a house and deep house artist based in United States of America, with 14 gigs on soundcheck across Chicago. Often billed alongside Wyser, Ilana Ariella and DJ Lady D. Next up: Bridgeport Records, Chicago on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Shmoo is a house and deep house artist based in United States of America, with 1
 
 Wyser, Ilana Ariella, DJ Lady D
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shmoo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shmoo/)*

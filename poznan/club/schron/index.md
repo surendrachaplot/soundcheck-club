@@ -1,8 +1,8 @@
 # SCHRON
 
-SCHRON is a music venue in Poznan with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "GAYA x TANSY: REYNEKE" on Fri, 30 Oct 2026.
+SCHRON is a music venue in Poznan with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "GAYA x TANSY: REYNEKE" on Fri, 30 Oct 2026.
 
-SCHRON is a music venue in Poznan listed on soundcheck. 2 upcoming gigs, with line-ups including Fat Frumos, Grischa Lichtenberger, Lili Hauser and object blue and 2 more. See dates, start times and who's playing.
+SCHRON is a music venue in Poznan listed on soundcheck. 3 upcoming gigs, with line-ups including BOBAIO, ERNST (UA), Fat Frumos and Grischa Lichtenberger and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -10,5 +10,6 @@ SCHRON is a music venue in Poznan listed on soundcheck. 2 upcoming gigs, with li
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | GAYA x TANSY: REYNEKE | Lili Hauser, Pysh, Vintage Lane |
 | Fri, 6 Nov 2026 | HIATUS FESTIVAL 2026 | Fat Frumos, Grischa Lichtenberger, Trois-Quarts Taxi System, Ziúr, Zohar, object blue |
+| Fri, 20 Nov 2026 | Schissma: Poznań (Schron) Stara, Dj Fa**ot & More | BOBAIO, ERNST (UA), Józef Keuner, SCHELLT, Stara (PL), xcessive, ya.khub |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/schron/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/schron/)*

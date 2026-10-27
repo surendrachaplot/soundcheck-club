@@ -1,6 +1,6 @@
 # Viennaus
 
-Viennaus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Foksal 19, Warsaw on Fri, 30 Oct 2026.
+Viennaus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Foksal 19, Warsaw on Fri, 30 Oct 2026.
 
 Viennaus is a techno and house artist based in Poland, with 28 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Dedenia, Edvvin and Mohji. Next up: Foksal 19, Warsaw on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Viennaus is a techno and house artist based in Poland, with 28 gigs on soundchec
 
 Dedenia, Edvvin, Mohji
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viennaus/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viennaus/)*

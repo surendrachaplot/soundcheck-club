@@ -1,6 +1,6 @@
 # WOLTERS
 
-WOLTERS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - City Location Ngunnawal, Sydney on Sat, 14 Nov 2026.
+WOLTERS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - City Location Ngunnawal, Sydney on Sat, 14 Nov 2026.
 
 WOLTERS is a techno and house artist based in Australia, with 61 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 16 more. Often billed alongside Bella Claxton, Kyle Starkey and Osmosis Jones. Next up: TBA - City Location Ngunnawal, Sydney on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ WOLTERS is a techno and house artist based in Australia, with 61 gigs on soundch
 
 Bella Claxton, Kyle Starkey, Osmosis Jones
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*

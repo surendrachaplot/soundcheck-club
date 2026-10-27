@@ -1,6 +1,6 @@
 # Crystal Distortion
 
-Crystal Distortion is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 7 Nov 2026.
+Crystal Distortion is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 7 Nov 2026.
 
 Crystal Distortion is an acid and techno artist based in France, with 9 gigs on soundcheck across Berlin, Milan, Nantes and Rome and 2 more. Often billed alongside 69DB, R-Zac and fivequestionmarks. Next up: Tempio del Futuro Perduto, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Crystal Distortion is an acid and techno artist based in France, with 9 gigs on 
 
 69DB, R-Zac, fivequestionmarks
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystaldistortion/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystaldistortion/)*

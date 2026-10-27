@@ -1,6 +1,6 @@
 # Federico Torres
 
-Federico Torres is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Rama Soundgarden, Medellin on Fri, 30 Oct 2026.
+Federico Torres is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Rama Soundgarden, Medellin on Fri, 30 Oct 2026.
 
 Federico Torres is a house and minimal artist based in Colombia, with 20 gigs on soundcheck across Berlin and Medellin. Often billed alongside Dantral, Cami España and Salvador Hören. Next up: Rama Soundgarden, Medellin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Federico Torres is a house and minimal artist based in Colombia, with 20 gigs on
 
 Dantral, Cami España, Salvador Hören
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/federicotorres/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/federicotorres/)*

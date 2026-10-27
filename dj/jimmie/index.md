@@ -1,14 +1,15 @@
 # Jimmie
 
-Jimmie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Sameheads, Berlin on Sat, 7 Nov 2026.
+Jimmie is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sameheads, Berlin on Sat, 7 Nov 2026.
 
-Jimmie is a house and techno artist based in Italy, with 31 gigs on soundcheck across Berlin and Prague. Often billed alongside Kidcat, zikade and ilbroccolovolante. Next up: Sameheads, Berlin on Sat 7 Nov.
+Jimmie is a house and techno artist based in Italy, with 32 gigs on soundcheck across Berlin, Lausanne and Prague. Often billed alongside Kidcat, zikade and ilbroccolovolante. Next up: Sameheads, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Sameheads | Berlin |
+| Sat, 28 Nov 2026 | Folklor | Lausanne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jimmie is a house and techno artist based in Italy, with 31 gigs on soundcheck a
 
 Kidcat, zikade, ilbroccolovolante
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmie/)*

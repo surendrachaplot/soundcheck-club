@@ -1,6 +1,6 @@
 # Silja Ellis
 
-Silja Ellis is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bistro Marie, Stockholm on Fri, 6 Nov 2026.
+Silja Ellis is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bistro Marie, Stockholm on Fri, 6 Nov 2026.
 
 Silja Ellis is a house and deep house artist based in Sweden, with 6 gigs on soundcheck across Paris and Stockholm. Often billed alongside Bogeyman, Aurèle and Kapote. Next up: Bistro Marie, Stockholm on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Silja Ellis is a house and deep house artist based in Sweden, with 6 gigs on sou
 
 Bogeyman, Aurèle, Kapote
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siljaellis/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siljaellis/)*

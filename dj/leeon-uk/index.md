@@ -1,6 +1,6 @@
 # Leeon (UK)
 
-Leeon (UK) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
+Leeon (UK) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
 
 Leeon (UK) is an electronica and techno artist, with 6 gigs on soundcheck across Bogotá, Lisbon, Munich and New York City and 1 more. Often billed alongside Alfi, Analog Soul and Auspex. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 1 Nov.
 
@@ -22,4 +22,4 @@ Leeon (UK) is an electronica and techno artist, with 6 gigs on soundcheck across
 
 Alfi, Analog Soul, Auspex
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeon-uk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeon-uk/)*

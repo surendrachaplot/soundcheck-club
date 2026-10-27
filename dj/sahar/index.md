@@ -1,6 +1,6 @@
 # Sahar
 
-Sahar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Prisma, Berlin on Tue, 3 Nov 2026.
+Sahar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Prisma, Berlin on Tue, 3 Nov 2026.
 
 Sahar is a techno and house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Berlin, Chicago and Cologne and 7 more. Often billed alongside Pattn, Alican and Argia. Next up: Prisma, Berlin on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Sahar is a techno and house artist based in United Kingdom, with 23 gigs on soun
 
 Pattn, Alican, Argia
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sahar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sahar/)*

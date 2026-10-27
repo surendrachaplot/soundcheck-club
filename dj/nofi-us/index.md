@@ -1,14 +1,15 @@
 # nofi
 
-nofi is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mothership, San Francisco/Oakland on Fri, 30 Oct 2026.
+nofi is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mothership, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-nofi is a bass and electro artist based in United States of America, with 16 gigs on soundcheck across San Francisco/Oakland. Often billed alongside jaag (US), BROKE LEG and PRISKILLA. Next up: Mothership, San Francisco/Oakland on Fri 30 Oct.
+nofi is a bass and electro artist based in United States of America, with 17 gigs on soundcheck across San Francisco/Oakland and Toronto. Often billed alongside jaag (US), BROKE LEG and PRISKILLA. Next up: Mothership, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Mothership | San Francisco/Oakland |
+| Fri, 30 Oct 2026 | Lithuanian House | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ nofi is a bass and electro artist based in United States of America, with 16 gig
 
 jaag (US), BROKE LEG, PRISKILLA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nofi-us/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nofi-us/)*

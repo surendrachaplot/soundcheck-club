@@ -1,6 +1,6 @@
 # CEKTA
 
-CEKTA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Zabal Techno, Buenos Aires on Fri, 13 Nov 2026.
+CEKTA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Zabal Techno, Buenos Aires on Fri, 13 Nov 2026.
 
 CEKTA is a techno and industrial artist, with 16 gigs on soundcheck across Antwerp, Barcelona, Budapest and Buenos Aires and 7 more. Often billed alongside Draag, Lethal M and Menace Annihilation. Next up: Zabal Techno, Buenos Aires on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ CEKTA is a techno and industrial artist, with 16 gigs on soundcheck across Antwe
 
 Draag, Lethal M, Menace Annihilation
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cekta/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cekta/)*

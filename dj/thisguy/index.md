@@ -1,6 +1,6 @@
 # This Guy
 
-This Guy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 30 Oct 2026.
+This Guy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 30 Oct 2026.
 
 This Guy is a techno and house artist based in United Kingdom, with 27 gigs on soundcheck across Manchester. Often billed alongside Deventi, Ally Shone and Jess Rose. Next up: Piccadilly Central, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ This Guy is a techno and house artist based in United Kingdom, with 27 gigs on s
 
 Deventi, Ally Shone, Jess Rose
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thisguy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thisguy/)*

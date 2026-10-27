@@ -1,6 +1,6 @@
 # The Forum Theatre
 
-The Forum Theatre is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "No Way Back presents Moodymann (US)" on Sun, 29 Nov 2026.
+The Forum Theatre is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "No Way Back presents Moodymann (US)" on Sun, 29 Nov 2026.
 
 The Forum Theatre is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Jordan Rakei, Moodymann, oskar med k and TSHA. See dates, start times and who's playing. 154 Flinders St; Melbourne, VIC 3000; Australia.
 
@@ -16,4 +16,4 @@ The Forum Theatre is a music venue in Melbourne listed on soundcheck. 3 upcoming
 
 154 Flinders St; Melbourne, VIC 3000; Australia, Melbourne
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-forum-theatre/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-forum-theatre/)*

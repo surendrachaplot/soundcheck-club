@@ -1,6 +1,6 @@
 # Tuna
 
-Tuna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Forestlimit, Tokyo on Sat, 7 Nov 2026.
+Tuna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Forestlimit, Tokyo on Sat, 7 Nov 2026.
 
 Tuna is a house and techno artist, with 6 gigs on soundcheck across Frankfurt, Milan, Seoul and Tokyo. Often billed alongside 7ieben.Leben, ATAMI and Cesar. Next up: Forestlimit, Tokyo on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Tuna is a house and techno artist, with 6 gigs on soundcheck across Frankfurt, M
 
 7ieben.Leben, ATAMI, Cesar
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tuna/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tuna/)*

@@ -1,6 +1,6 @@
 # L1NH
 
-L1NH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mansions, New York City on Thu, 12 Nov 2026.
+L1NH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mansions, New York City on Thu, 12 Nov 2026.
 
 L1NH is a techno and house artist based in United States of America, with 25 gigs on soundcheck across New York City. Often billed alongside ALI IRL, IRL (US) and Aboudi Issa. Next up: Mansions, New York City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ L1NH is a techno and house artist based in United States of America, with 25 gig
 
 ALI IRL, IRL (US), Aboudi Issa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l1nh/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l1nh/)*

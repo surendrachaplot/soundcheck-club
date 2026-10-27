@@ -1,6 +1,6 @@
 # SUPERSTRINGS
 
-SUPERSTRINGS is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TivoliVredenburg, Utrecht on Tue, 29 Dec 2026.
+SUPERSTRINGS is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TivoliVredenburg, Utrecht on Tue, 29 Dec 2026.
 
 SUPERSTRINGS is a trance and techno artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, London, Los Angeles and Madrid and 5 more. Often billed alongside Eva Vrijdag, Moody Mehran and Rozie. Next up: TivoliVredenburg, Utrecht on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ SUPERSTRINGS is a trance and techno artist based in Netherlands, with 37 gigs on
 
 Eva Vrijdag, Moody Mehran, Rozie
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superstrings/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superstrings/)*

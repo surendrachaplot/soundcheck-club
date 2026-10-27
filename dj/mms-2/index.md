@@ -1,6 +1,6 @@
 # MMS (2)
 
-MMS (2) is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Nico's Bar, Glasgow on Fri, 13 Nov 2026.
+MMS (2) is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nico's Bar, Glasgow on Fri, 13 Nov 2026.
 
 MMS is a house and jungle artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside ANGELDOOF, Justyyna and djsmuz. Next up: Nico's Bar, Glasgow on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ MMS is a house and jungle artist based in United Kingdom, with 10 gigs on soundc
 
 ANGELDOOF, Justyyna, djsmuz
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mms-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mms-2/)*

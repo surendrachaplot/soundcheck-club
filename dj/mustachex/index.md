@@ -1,6 +1,6 @@
 # Mustache X
 
-Mustache X is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at DJ Bar Bridge, Tokyo on Sat, 14 Nov 2026.
+Mustache X is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at DJ Bar Bridge, Tokyo on Sat, 14 Nov 2026.
 
 Mustache X is a techno and house artist based in Japan, with 68 gigs on soundcheck across Bangkok, Mexico City, Osaka and Seoul and 1 more. Often billed alongside Gem Wallow, Yo Nishijima and Moscoman. Next up: DJ Bar Bridge, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mustache X is a techno and house artist based in Japan, with 68 gigs on soundche
 
 Gem Wallow, Yo Nishijima, Moscoman
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mustachex/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mustachex/)*

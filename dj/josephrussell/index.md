@@ -1,6 +1,6 @@
 # Joseph Russell
 
-Joseph Russell is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Tempo, Naples on Sat, 7 Nov 2026.
+Joseph Russell is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Tempo, Naples on Sat, 7 Nov 2026.
 
 Joseph Russell is a disco and funk / soul artist based in United Kingdom, with 47 gigs on soundcheck across Edinburgh, London and Naples. Often billed alongside Andrea Montalto, Cosmo Sofi and GeraH. Next up: Tempo, Naples on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Joseph Russell is a disco and funk / soul artist based in United Kingdom, with 4
 
 Andrea Montalto, Cosmo Sofi, GeraH
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephrussell/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephrussell/)*

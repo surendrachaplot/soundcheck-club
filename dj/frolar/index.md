@@ -1,6 +1,6 @@
 # Frølår
 
-Frølår is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 20 Nov 2026.
+Frølår is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 20 Nov 2026.
 
 Frølår is a trance and psytrance artist based in Denmark, with 9 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside FILTH.y, DJ Sea View and Signe Alarcón. Next up: Acud Macht NEU, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Frølår is a trance and psytrance artist based in Denmark, with 9 gigs on sound
 
 FILTH.y, DJ Sea View, Signe Alarcón
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frolar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frolar/)*

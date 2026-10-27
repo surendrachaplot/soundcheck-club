@@ -1,6 +1,6 @@
 # A-Tweed
 
-A-Tweed is a Acid and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cici Park, Chongqing on Fri, 6 Nov 2026.
+A-Tweed is a Acid and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cici Park, Chongqing on Fri, 6 Nov 2026.
 
 A-Tweed is an acid and downtempo artist based in Italy, with 46 gigs on soundcheck across Barcelona, Beijing, Berlin and Brussels and 16 more. Often billed alongside Collider, Cosmic Egg and DJ Very Good Plus. Next up: Cici Park, Chongqing on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ A-Tweed is an acid and downtempo artist based in Italy, with 46 gigs on soundche
 
 Collider, Cosmic Egg, DJ Very Good Plus
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a-tweed/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a-tweed/)*

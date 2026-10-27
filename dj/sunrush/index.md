@@ -1,6 +1,6 @@
 # Sunrush
 
-Sunrush is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at BASE Milano, Milan on Sat, 31 Oct 2026.
+Sunrush is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at BASE Milano, Milan on Sat, 31 Oct 2026.
 
 Sunrush is a house and techno artist, with 17 gigs on soundcheck across Milan. Often billed alongside Lvca, Lovin Duo and Side Quest. Next up: BASE Milano, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sunrush is a house and techno artist, with 17 gigs on soundcheck across Milan. O
 
 Lvca, Lovin Duo, Side Quest
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunrush/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunrush/)*

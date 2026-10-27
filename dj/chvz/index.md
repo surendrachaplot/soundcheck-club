@@ -1,6 +1,6 @@
 # CHVZ
 
-CHVZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 13 Nov 2026.
+CHVZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 13 Nov 2026.
 
 CHVZ is a techno and trance artist based in Malta, with 12 gigs on soundcheck across Berlin, Leeds, Liverpool and Malta and 1 more. Often billed alongside EDJM, CIVILIAN and Shemm. Next up: 24 Kitchen Street, Liverpool on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ CHVZ is a techno and trance artist based in Malta, with 12 gigs on soundcheck ac
 
 EDJM, CIVILIAN, Shemm
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chvz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chvz/)*

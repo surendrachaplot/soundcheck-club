@@ -1,6 +1,6 @@
 # Shackleton
 
-Shackleton is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at EartH, London on Sat, 5 Dec 2026.
+Shackleton is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at EartH, London on Sat, 5 Dec 2026.
 
 Shackleton is an experimental and techno artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 25 more. Often billed alongside upsammy, ojoo and Al Wootton. Next up: EartH, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Shackleton is an experimental and techno artist based in United Kingdom, with 69
 
 upsammy, ojoo, Al Wootton
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shackleton/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shackleton/)*

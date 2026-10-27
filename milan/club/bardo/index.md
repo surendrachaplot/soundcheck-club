@@ -1,6 +1,6 @@
 # BARDO
 
-BARDO is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "BARDO - Nicky" on Tue, 27 Oct 2026.
+BARDO is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "BARDO - Nicky" on Tue, 27 Oct 2026.
 
 BARDO is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including 000vda, AMANDA LEAN, Asiya and Brillante and 2 more. See dates, start times and who's playing. Via Plinio 42, Milan, Italy 20129.
 
@@ -18,4 +18,4 @@ BARDO is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line
 
 Via Plinio 42, Milan, Italy 20129, Milan
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bardo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bardo/)*

@@ -1,6 +1,6 @@
 # BANSHII
 
-BANSHII is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at renae, Manchester on Sat, 21 Nov 2026.
+BANSHII is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at renae, Manchester on Sat, 21 Nov 2026.
 
 BANSHII is a house and garage artist based in United Kingdom, with 6 gigs on soundcheck across Manchester. Often billed alongside Sharayda, Javan and Meeson. Next up: renae, Manchester on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ BANSHII is a house and garage artist based in United Kingdom, with 6 gigs on sou
 
 Sharayda, Javan, Meeson
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/banshii/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/banshii/)*

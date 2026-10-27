@@ -1,6 +1,6 @@
 # Spitfire
 
-Spitfire is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at BIRD, Rotterdam on Fri, 30 Oct 2026.
+Spitfire is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at BIRD, Rotterdam on Fri, 30 Oct 2026.
 
 Spitfire is a hip-hop and r&b artist, with 5 gigs on soundcheck across Amsterdam, Frankfurt and Rotterdam. Often billed alongside Adjuzt, Deejay Abstract and Act of Rage. Next up: BIRD, Rotterdam on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Spitfire is a hip-hop and r&b artist, with 5 gigs on soundcheck across Amsterdam
 
 Adjuzt, Deejay Abstract, Act of Rage
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spitfire/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spitfire/)*

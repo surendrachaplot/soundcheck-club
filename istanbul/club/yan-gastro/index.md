@@ -1,6 +1,6 @@
 # Yan Gastro
 
-Yan Gastro is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "HALLOWEEN" on Fri, 30 Oct 2026.
+Yan Gastro is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "HALLOWEEN" on Fri, 30 Oct 2026.
 
 Yan Gastro is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs, with line-ups including Kerem, Minube and RUK. See dates, start times and who's playing. Cihangir, Sıraselviler Cad./aslanyatağı Sok. No:5, 34433 Beyoğlu/Istanbul.
 
@@ -16,4 +16,4 @@ Yan Gastro is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs, w
 
 Cihangir, Sıraselviler Cad./aslanyatağı Sok. No:5, 34433 Beyoğlu/Istanbul, Istanbul
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/yan-gastro/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/yan-gastro/)*

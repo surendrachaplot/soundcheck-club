@@ -1,6 +1,6 @@
 # La Gravière
 
-La Gravière is a music venue in Geneva with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "[NoctamBar] Kay Rubenz" on Thu, 29 Oct 2026.
+La Gravière is a music venue in Geneva with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "[NoctamBar] Kay Rubenz" on Thu, 29 Oct 2026.
 
 La Gravière is a music venue in Geneva listed on soundcheck. 4 upcoming gigs, with line-ups including ALIASLOH, Herone, Mysthy and Negdedunn. See dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
 
@@ -17,4 +17,4 @@ La Gravière is a music venue in Geneva listed on soundcheck. 4 upcoming gigs, w
 
 Chemin de la Gravière 9, 1227 Genève, Switzerland, Geneva
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*

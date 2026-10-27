@@ -1,6 +1,6 @@
 # M Salaciak
 
-M Salaciak is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Système, Montreal on Fri, 20 Nov 2026.
+M Salaciak is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Système, Montreal on Fri, 20 Nov 2026.
 
 M Salaciak is a techno and ebm artist based in Canada, with 25 gigs on soundcheck across Montreal. Often billed alongside Alan Harman, Mickey Dagger and CUERPOS. Next up: Système, Montreal on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ M Salaciak is a techno and ebm artist based in Canada, with 25 gigs on soundchec
 
 Alan Harman, Mickey Dagger, CUERPOS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msalaciak/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msalaciak/)*

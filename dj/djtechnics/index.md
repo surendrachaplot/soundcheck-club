@@ -1,6 +1,6 @@
 # DJ Technics
 
-DJ Technics is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Our Time Kitchen, Baltimore on Sat, 31 Oct 2026.
+DJ Technics is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Our Time Kitchen, Baltimore on Sat, 31 Oct 2026.
 
 DJ Technics is a club and techno artist based in United States of America, with 27 gigs on soundcheck across Baltimore, Detroit, New York City and Philadelphia and 2 more. Often billed alongside Dee Clark, Tromac and Jacq Jill. Next up: Our Time Kitchen, Baltimore on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ DJ Technics is a club and techno artist based in United States of America, with 
 
 Dee Clark, Tromac, Jacq Jill
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtechnics/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtechnics/)*

@@ -1,6 +1,6 @@
 # CRY.NN
 
-CRY.NN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Music Club Pulse 22, Prague on Sat, 21 Nov 2026.
+CRY.NN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Music Club Pulse 22, Prague on Sat, 21 Nov 2026.
 
 CRY.NN is a techno and industrial artist based in Czech Republic, with 27 gigs on soundcheck across Leeds, Prague, Wroclaw and Zagreb. Often billed alongside Tapage Noir, Flakka and Arturo Legorreta. Next up: Music Club Pulse 22, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ CRY.NN is a techno and industrial artist based in Czech Republic, with 27 gigs o
 
 Tapage Noir, Flakka, Arturo Legorreta
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cry-nn/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cry-nn/)*

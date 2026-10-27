@@ -1,6 +1,6 @@
 # Domgreek
 
-Domgreek is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Millenium Club, Bologna on Sat, 7 Nov 2026.
+Domgreek is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Millenium Club, Bologna on Sat, 7 Nov 2026.
 
 Domgreek is a house and electronica artist, with 10 gigs on soundcheck across Bologna, Milan and Naples. Often billed alongside Alfonso Mauro, Bawrut and Bradley Zero. Next up: Millenium Club, Bologna on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Domgreek is a house and electronica artist, with 10 gigs on soundcheck across Bo
 
 Alfonso Mauro, Bawrut, Bradley Zero
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domgreek/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domgreek/)*

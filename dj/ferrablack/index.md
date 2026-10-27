@@ -1,6 +1,6 @@
 # Ferra Black
 
-Ferra Black is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Floyd, Miami on Fri, 13 Nov 2026.
+Ferra Black is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Floyd, Miami on Fri, 13 Nov 2026.
 
 Ferra Black is a tech house and house artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Boston and 12 more. Often billed alongside Franky Rizardo, Jay de Lys and Mai iachetti. Next up: Floyd, Miami on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Ferra Black is a tech house and house artist based in United States of America, 
 
 Franky Rizardo, Jay de Lys, Mai iachetti
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrablack/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrablack/)*

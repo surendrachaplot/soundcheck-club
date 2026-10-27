@@ -1,6 +1,6 @@
 # human plushie
 
-human plushie is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 31 Oct 2026.
+human plushie is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 31 Oct 2026.
 
 human plushie is a techno and club artist based in United States of America, with 28 gigs on soundcheck across Boston, Nashville, Pennsylvania and Philadelphia and 2 more. Often billed alongside rippenzack, Sambee and 6LOV3. Next up: Val’s Lesbian Bar, Philadelphia on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ human plushie is a techno and club artist based in United States of America, wit
 
 rippenzack, Sambee, 6LOV3
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanplushie/)*

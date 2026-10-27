@@ -1,6 +1,6 @@
 # FØSS
 
-FØSS is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at M7 Club, Barcelona on Fri, 30 Oct 2026.
+FØSS is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at M7 Club, Barcelona on Fri, 30 Oct 2026.
 
 FØSS is a techno and hardcore artist based in Canada, with 45 gigs on soundcheck across Antwerp, Barcelona, Bergen and Berlin and 13 more. Often billed alongside Dark Matter, Fenrick and B2. Next up: M7 Club, Barcelona on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ FØSS is a techno and hardcore artist based in Canada, with 45 gigs on soundchec
 
 Dark Matter, Fenrick, B2 (1)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foss-ca/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foss-ca/)*

@@ -1,6 +1,6 @@
 # Rafatel
 
-Rafatel is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Loo Loo, Mexico City on Sat, 5 Dec 2026.
+Rafatel is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Loo Loo, Mexico City on Sat, 5 Dec 2026.
 
 Rafatel is a house and deep house artist based in Mexico, with 108 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Guadalajara and 6 more. Often billed alongside papa jazz, Valeriana and Dehesa. Next up: Loo Loo, Mexico City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Rafatel is a house and deep house artist based in Mexico, with 108 gigs on sound
 
 papa jazz, Valeriana, Dehesa
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafatel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafatel/)*

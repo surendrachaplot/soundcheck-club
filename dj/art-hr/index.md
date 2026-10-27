@@ -1,6 +1,6 @@
 # A.R.T.
 
-A.R.T. is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Melkweg, Amsterdam on Tue, 29 Dec 2026.
+A.R.T. is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Melkweg, Amsterdam on Tue, 29 Dec 2026.
 
 A.R.T. is a techno and minimal techno artist based in Croatia, with 16 gigs on soundcheck across Amsterdam, Berlin and Zagreb. Often billed alongside Dexon, Vazdaisti and Lalita Kali. Next up: Melkweg, Amsterdam on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ A.R.T. is a techno and minimal techno artist based in Croatia, with 16 gigs on s
 
 Dexon, Vazdaisti, Lalita Kali
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/art-hr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/art-hr/)*

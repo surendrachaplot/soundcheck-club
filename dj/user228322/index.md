@@ -1,6 +1,6 @@
 # user228322
 
-user228322 is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at B-SIDE, Warsaw on Fri, 13 Nov 2026.
+user228322 is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at B-SIDE, Warsaw on Fri, 13 Nov 2026.
 
 user228322 is an electro and minimal artist based in Ukraine, with 58 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Boreichuk, Badalian and Kondrat. Next up: B-SIDE, Warsaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ user228322 is an electro and minimal artist based in Ukraine, with 58 gigs on so
 
 Boreichuk, Badalian, Kondrat
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*

@@ -1,6 +1,6 @@
 # BLUSH.MP3
 
-BLUSH.MP3 is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Whammy Bar, Auckland on Fri, 20 Nov 2026.
+BLUSH.MP3 is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Whammy Bar, Auckland on Fri, 20 Nov 2026.
 
 BLUSH.MP3 is a club and techno artist, with 7 gigs on soundcheck across Auckland. Often billed alongside Aunty El, Chippy Nonstop and Kaiviti. Next up: Whammy Bar, Auckland on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ BLUSH.MP3 is a club and techno artist, with 7 gigs on soundcheck across Auckland
 
 Aunty El, Chippy Nonstop, Kaiviti
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blush.mp3/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blush.mp3/)*

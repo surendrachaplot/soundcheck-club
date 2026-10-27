@@ -1,6 +1,6 @@
 # Inter-City
 
-Inter-City is a music venue in The Hague with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "INTER-SECTION" on Sat, 14 Nov 2026.
+Inter-City is a music venue in The Hague with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "INTER-SECTION" on Sat, 14 Nov 2026.
 
 Inter-City is a music venue in The Hague listed on soundcheck. 3 upcoming gigs, with line-ups including angelboy, Anna Babèlva, Antal and Boudi and 2 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Inter-City is a music venue in The Hague listed on soundcheck. 3 upcoming gigs, 
 | Sat, 28 Nov 2026 | The Crave Indoor | Elias Mazian, Estella Boersma, Grace Dahl, HyperLili, Jeans (NL), Lobster (NL), Lucky Done Gone, OLIVIA LENSEN, TAFKAMP, Urban Space Electronics |
 | Sat, 19 Dec 2026 |  Colorado On Trail / Inter-City (SOLD OUT) | Boudi, Di After, Fabio Santos, Freddi, Gabriel Muñoz, Koperblond, Luis Ripa, Morgan Seatree, Olive Anguz, Unregular, angelboy |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/inter-city/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/inter-city/)*

@@ -1,13 +1,14 @@
 # severine
 
-severine is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Island, Bristol on Sat, 21 Nov 2026.
+severine is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Island, Bristol on Sat, 14 Nov 2026.
 
-severine is a bass and techno artist based in United Kingdom, with 25 gigs on soundcheck across Austin, Beijing, Bristol and Chengdu and 4 more. Often billed alongside Yours Truly, Amy Kisnorbo and Bianca Oblivion. Next up: The Island, Bristol on Sat 21 Nov.
+severine is a bass and techno artist based in United Kingdom, with 26 gigs on soundcheck across Austin, Beijing, Bristol and Chengdu and 4 more. Often billed alongside Yours Truly, Amy Kisnorbo and Bianca Oblivion. Next up: The Island, Bristol on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | The Island | Bristol |
 | Sat, 21 Nov 2026 | The Island | Bristol |
 
 ## Recently played
@@ -25,4 +26,4 @@ severine is a bass and techno artist based in United Kingdom, with 25 gigs on so
 
 Yours Truly (2), Amy Kisnorbo, Bianca Oblivion
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/severine-uk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/severine-uk/)*

@@ -1,6 +1,6 @@
 # HNTR
 
-HNTR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+HNTR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
 HNTR is a techno and house artist based in Canada, with 45 gigs on soundcheck across Amsterdam, Austin, Boston and Calgary and 21 more. Often billed alongside DÉTOLLY, Eli Brown and Adam Beyer. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ HNTR is a techno and house artist based in Canada, with 45 gigs on soundcheck ac
 
 DÉTOLLY, Eli Brown, Adam Beyer
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hntr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hntr/)*

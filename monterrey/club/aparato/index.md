@@ -1,13 +1,13 @@
 # Aparato
 
-Aparato is a music venue in Monterrey with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "1999 Techno Party Vol.4" on Fri, 13 Nov 2026.
+Aparato is a music venue in Monterrey with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "1999 Techno Party Vol.4" on Fri, 13 Nov 2026.
 
-Aparato is a music venue in Monterrey listed on soundcheck. 1 upcoming gig, with line-ups including Matter Of Seconds. See dates, start times and who's playing.
+Aparato is a music venue in Monterrey listed on soundcheck. 1 upcoming gig, with line-ups including Matter Of Seconds and Mesalina. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | 1999 Techno Party Vol.4 | Matter Of Seconds |
+| Fri, 13 Nov 2026 | 1999 Techno Party Vol.4 | Matter Of Seconds, Mesalina |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/monterrey/club/aparato/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/monterrey/club/aparato/)*

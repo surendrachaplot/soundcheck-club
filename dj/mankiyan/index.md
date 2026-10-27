@@ -1,14 +1,15 @@
 # Mankiyan
 
-Mankiyan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Buda BXL, Brussels on Sat, 7 Nov 2026.
+Mankiyan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Buda BXL, Brussels on Sat, 7 Nov 2026.
 
-Mankiyan is a techno and house artist based in Belgium, with 56 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 7 more. Often billed alongside AliA, Kafim and Casper. Next up: Buda BXL, Brussels on Sat 7 Nov.
+Mankiyan is a techno and house artist based in Belgium, with 57 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 7 more. Often billed alongside AliA, Kafim and Casper. Next up: Buda BXL, Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Buda BXL | Brussels |
+| Fri, 18 Dec 2026 | TRAUM | Antwerp |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mankiyan is a techno and house artist based in Belgium, with 56 gigs on soundche
 
 AliA, Kafim, Casper
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mankiyan/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mankiyan/)*

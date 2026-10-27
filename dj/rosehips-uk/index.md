@@ -1,6 +1,6 @@
 # Rosehips
 
-Rosehips is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Ivory Hotel, Glasgow on Fri, 6 Nov 2026.
+Rosehips is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Ivory Hotel, Glasgow on Fri, 6 Nov 2026.
 
 Rosehips is a house and club artist based in United Kingdom, with 20 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside St Sunday, Percy Main and Lewis Lowe. Next up: The Ivory Hotel, Glasgow on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rosehips is a house and club artist based in United Kingdom, with 20 gigs on sou
 
 St Sunday, Percy Main, Lewis Lowe
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosehips-uk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosehips-uk/)*

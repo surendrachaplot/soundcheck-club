@@ -1,6 +1,6 @@
 # Will Renuart
 
-Will Renuart is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Will Renuart is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Will Renuart is a house and techno artist based in United States of America, with 25 gigs on soundcheck across Austin, Berlin, Detroit and Miami and 3 more. Often billed alongside Terence Tabeau, Danny Daze and Inbal. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Will Renuart is a house and techno artist based in United States of America, wit
 
 Terence Tabeau, Danny Daze, Inbal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*

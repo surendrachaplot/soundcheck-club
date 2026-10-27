@@ -1,6 +1,6 @@
 # Lysander
 
-Lysander is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bricks, London on Fri, 13 Nov 2026.
+Lysander is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bricks, London on Fri, 13 Nov 2026.
 
 Lysander is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across Bristol, Dortmund / Essen, Leeds and London. Often billed alongside OJ Willis, .Cheka and Aloka. Next up: Bricks, London on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Lysander is a house and techno artist based in United Kingdom, with 7 gigs on so
 
 OJ Willis, .Cheka, Aloka
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lysander-uk/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lysander-uk/)*

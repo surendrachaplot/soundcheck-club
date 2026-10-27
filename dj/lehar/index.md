@@ -1,6 +1,6 @@
 # Lehar
 
-Lehar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 31 Oct 2026.
+Lehar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 31 Oct 2026.
 
 Lehar is a house and techno artist based in Italy, with 75 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Musumeci, Denis Horvat and After Affair. Next up: Do Not Sit On The Furniture, Miami on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lehar is a house and techno artist based in Italy, with 75 gigs on soundcheck ac
 
 Musumeci, Denis Horvat, After Affair
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lehar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lehar/)*

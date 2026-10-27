@@ -1,8 +1,8 @@
 # Numm
 
-Numm is a music venue in Tokyo with 24 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "GROLIA" on Tue, 27 Oct 2026.
+Numm is a music venue in Tokyo with 25 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "GROLIA" on Tue, 27 Oct 2026.
 
-Numm is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, with line-ups including Chee Shimizu, Dazzle Drums, Kaoru Inoue and MINAMI and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
+Numm is a music venue in Tokyo listed on soundcheck. 25 upcoming gigs, with line-ups including Chee Shimizu, Dazzle Drums, Kaoru Inoue and MINAMI and 2 more. See dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Numm is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, with line
 
 B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan, Tokyo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*

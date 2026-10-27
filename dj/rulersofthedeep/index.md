@@ -1,6 +1,6 @@
 # Rulers Of The Deep
 
-Rulers Of The Deep is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Fonoteek, Tallinn on Fri, 6 Nov 2026.
+Rulers Of The Deep is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Fonoteek, Tallinn on Fri, 6 Nov 2026.
 
 Rulers Of The Deep is a techno and house artist, with 5 gigs on soundcheck across Tallinn. Often billed alongside Bulp, Daniel Raichert and Fok Yee. Next up: Fonoteek, Tallinn on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Rulers Of The Deep is a techno and house artist, with 5 gigs on soundcheck acros
 
 Bulp, Daniel Raichert, Fok Yee
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rulersofthedeep/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rulersofthedeep/)*

@@ -1,6 +1,6 @@
 # Yas Meen Selectress
 
-Yas Meen Selectress is a Experimental and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Cairo Jazz Club, Egypt on Thu, 5 Nov 2026.
+Yas Meen Selectress is a Experimental and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cairo Jazz Club, Egypt on Thu, 5 Nov 2026.
 
 Yas Meen Selectress is an experimental and disco artist, with 20 gigs on soundcheck across Berlin, Copenhagen, Dubai and Egypt and 7 more. Often billed alongside DJ Haram, DJ JM and Marylou. Next up: Cairo Jazz Club, Egypt on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Yas Meen Selectress is an experimental and disco artist, with 20 gigs on soundch
 
 DJ Haram, DJ JM, Marylou
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmeenselectress/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmeenselectress/)*

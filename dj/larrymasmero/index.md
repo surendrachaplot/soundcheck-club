@@ -1,6 +1,6 @@
 # Larry Masmero
 
-Larry Masmero is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Bar Bonobo, New York City on Thu, 29 Oct 2026.
+Larry Masmero is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Bonobo, New York City on Thu, 29 Oct 2026.
 
 Larry Masmero is a house and disco artist based in Italy, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bologna and 8 more. Often billed alongside Lele Sacchi, Xavich and Eternal Love. Next up: Bar Bonobo, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Larry Masmero is a house and disco artist based in Italy, with 107 gigs on sound
 
 Lele Sacchi, Xavich, Eternal Love
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larrymasmero/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larrymasmero/)*

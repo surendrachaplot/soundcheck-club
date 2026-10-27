@@ -1,8 +1,8 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "The Loft: Isaac Carter" on Thu, 29 Oct 2026.
+The Loft is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "The Loft: Isaac Carter" on Thu, 29 Oct 2026.
 
-The Loft is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including 2 Bad Mice, Adi, Alexander Skancke and Alexia Glensy and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
+The Loft is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including 2 Bad Mice, Adi, Alexander Skancke and Alexia Glensy and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Loft is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, 
 | Sat, 14 Nov 2026 | The Loft: Yung Singh, RIRIA & SOPHIA | RIRIA, Yung Singh |
 | Thu, 19 Nov 2026 | The Loft: Jamie Fielding (All Night Long) | Jamie Fielding |
 | Fri, 20 Nov 2026 | pressure control x The Loft: DJ Masda, Alexia Glensy & Josh Bayat | Alexia Glensy, DJ Masda, Josh Bayat |
-| Thu, 26 Nov 2026 | The Loft: RTK Tarantino (All Night Long) | RTK Tarantino |
+| Sat, 21 Nov 2026 | Anjunadeep (Afterparty) | Dom Donnelly, Ezequiel Arias, Kloyd |
 
 ## Address
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

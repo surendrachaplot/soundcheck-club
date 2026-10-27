@@ -1,6 +1,6 @@
 # Hannecart
 
-Hannecart is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at KABUL à GoGo, Utrecht on Sat, 14 Nov 2026.
+Hannecart is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KABUL à GoGo, Utrecht on Sat, 14 Nov 2026.
 
 Hannecart is a house and tech house artist based in Dominican Republic, with 101 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 6 more. Often billed alongside Reiss, Alexia Glensy and Cap. Next up: KABUL à GoGo, Utrecht on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Hannecart is a house and tech house artist based in Dominican Republic, with 101
 
 Reiss, Alexia Glensy, Cap
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*

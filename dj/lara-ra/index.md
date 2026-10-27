@@ -1,6 +1,6 @@
 # LARA-RA
 
-LARA-RA is a Disco and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Frederik's Bar, Liverpool on Sat, 31 Oct 2026.
+LARA-RA is a Disco and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Frederik's Bar, Liverpool on Sat, 31 Oct 2026.
 
 LARA-RA is a disco and funk / soul artist based in United Kingdom, with 7 gigs on soundcheck across Liverpool. Often billed alongside Beechy, Izaac Moses and Josh Butler. Next up: Frederik's Bar, Liverpool on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ LARA-RA is a disco and funk / soul artist based in United Kingdom, with 7 gigs o
 
 Beechy, Izaac Moses, Josh Butler
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-ra/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-ra/)*

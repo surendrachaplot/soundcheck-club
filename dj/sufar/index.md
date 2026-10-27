@@ -1,6 +1,6 @@
 # Sufar
 
-Sufar is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
+Sufar is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
 
 Sufar is a techno and bass artist, with 8 gigs on soundcheck across Sydney. Often billed alongside Kaisei, Alec Sander and Alfred Czital. Next up: TBA, Sydney on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Sufar is a techno and bass artist, with 8 gigs on soundcheck across Sydney. Ofte
 
 Kaisei, Alec Sander, Alfred Czital
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sufar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sufar/)*

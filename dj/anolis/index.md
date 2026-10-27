@@ -1,6 +1,6 @@
 # anolis
 
-anolis is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
+anolis is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
 
 anolis is a bass and electronica artist based in Japan, with 19 gigs on soundcheck across Tokyo. Often billed alongside NordOst, Yurushite Nyan and illequal. Next up: Forestlimit, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ anolis is a bass and electronica artist based in Japan, with 19 gigs on soundche
 
 NordOst, Yurushite Nyan, illequal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anolis/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anolis/)*

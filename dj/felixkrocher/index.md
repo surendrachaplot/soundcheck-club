@@ -1,8 +1,8 @@
 # Felix Kröcher
 
-Felix Kröcher is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Die Rakete, Nürnberg on Fri, 30 Oct 2026.
+Felix Kröcher is a Techno and Electro artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Die Rakete, Nürnberg on Fri, 30 Oct 2026.
 
-Felix Kröcher is a techno and electro artist based in Germany, with 77 gigs on soundcheck across Austria, Bangkok, Barcelona and Basel and 18 more. Often billed alongside Karla Blum, LOVRA and Anna Tur. Next up: Die Rakete, Nürnberg on Fri 30 Oct.
+Felix Kröcher is a techno and electro artist based in Germany, with 78 gigs on soundcheck across Austria, Bangkok, Barcelona and Basel and 18 more. Often billed alongside Karla Blum, LOVRA and Anna Tur. Next up: Die Rakete, Nürnberg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Felix Kröcher is a techno and electro artist based in Germany, with 77 gigs on 
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 | Sat, 19 Dec 2026 | WDM | Hannover |
 | Sat, 26 Dec 2026 | halle02 | Heidelberg |
+| Sat, 2 Jan 2027 | OST | Berlin |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Felix Kröcher is a techno and electro artist based in Germany, with 77 gigs on 
 
 Karla Blum, LOVRA, Anna Tur
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*

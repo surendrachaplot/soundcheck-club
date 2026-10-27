@@ -1,6 +1,6 @@
 # Plaid
 
-Plaid is a IDM and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at ZENNER, Berlin on Sat, 31 Oct 2026.
+Plaid is a IDM and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at ZENNER, Berlin on Sat, 31 Oct 2026.
 
 Plaid is an idm and electro artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Grand River, Honey Dijon and James Holden. Next up: ZENNER, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Plaid is an idm and electro artist based in United Kingdom, with 38 gigs on soun
 
 Grand River, Honey Dijon, James Holden
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plaid/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plaid/)*

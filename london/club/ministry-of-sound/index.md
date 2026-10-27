@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 23 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Ministry Of Sound, The Halloween Rave 2026" on Thu, 29 Oct 2026.
+Ministry Of Sound is a music venue in London with 23 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Ministry Of Sound, The Halloween Rave 2026" on Thu, 29 Oct 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including AARON SEVILLA, Amber Rose, Amy Cutter and Angela Rose and 2 more. See dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 23 upcoming g
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

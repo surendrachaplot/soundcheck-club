@@ -1,6 +1,6 @@
 # Baba The Knife
 
-Baba The Knife is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+Baba The Knife is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
 Baba The Knife is a techno and house artist based in Germany, with 19 gigs on soundcheck across Athens, Berlin, Hamburg and Munich and 1 more. Often billed alongside Annett Gapstream, bīsu and Ciao 3lla. Next up: Kater, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Baba The Knife is a techno and house artist based in Germany, with 19 gigs on so
 
 Annett Gapstream, bīsu, Ciao 3lla
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babatheknife/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babatheknife/)*

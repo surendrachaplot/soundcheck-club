@@ -1,6 +1,6 @@
 # moth.sanctuary
 
-moth.sanctuary is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Warehouse, Denver on Fri, 30 Oct 2026.
+moth.sanctuary is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Warehouse, Denver on Fri, 30 Oct 2026.
 
 moth.sanctuary is an experimental and hardcore artist based in United States of America, with 12 gigs on soundcheck across Denver and Pittsburgh. Often billed alongside FITNESSS, Mithril and Cardopusher. Next up: TBA - Warehouse, Denver on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ moth.sanctuary is an experimental and hardcore artist based in United States of 
 
 FITNESSS (2), Mithril, Cardopusher
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moth.sanctuary/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moth.sanctuary/)*

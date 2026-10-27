@@ -1,6 +1,6 @@
 # Darush
 
-Darush is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at All My Friends, London on Fri, 30 Oct 2026.
+Darush is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at All My Friends, London on Fri, 30 Oct 2026.
 
 Darush is a house and techno artist based in Iran, with 40 gigs on soundcheck across Barcelona, Glasgow, Lisbon and London. Often billed alongside Jos, KT and De La Reef. Next up: All My Friends, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Darush is a house and techno artist based in Iran, with 40 gigs on soundcheck ac
 
 Jos, KT, De La Reef
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darush/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darush/)*

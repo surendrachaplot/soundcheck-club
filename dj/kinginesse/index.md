@@ -1,6 +1,6 @@
 # King Inesse
 
-King Inesse is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Giant Penny Whistle, Chicago on Sat, 31 Oct 2026.
+King Inesse is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Giant Penny Whistle, Chicago on Sat, 31 Oct 2026.
 
 King Inesse is a club and house artist, with 8 gigs on soundcheck across Chicago and New York City. Often billed alongside CeaseDays, M-Dok and Armand Van Helden. Next up: The Giant Penny Whistle, Chicago on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ King Inesse is a club and house artist, with 8 gigs on soundcheck across Chicago
 
 CeaseDays, M-Dok, Armand Van Helden
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinginesse/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinginesse/)*

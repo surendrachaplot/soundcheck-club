@@ -1,6 +1,6 @@
 # The Compound
 
-The Compound is a music venue in Baltimore with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "REFLEXIONS invites Spiral Generator, Tromac, Starship Truth, and SEMA (live)" on Fri, 30 Oct 2026.
+The Compound is a music venue in Baltimore with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "REFLEXIONS invites Spiral Generator, Tromac, Starship Truth, and SEMA (live)" on Fri, 30 Oct 2026.
 
 The Compound is a music venue in Baltimore listed on soundcheck. 3 upcoming gigs, with line-ups including 30000AD, Alucarda, Coffintexts and DJ Technics and 2 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ The Compound is a music venue in Baltimore listed on soundcheck. 3 upcoming gigs
 | Sat, 7 Nov 2026 | REFLEXIONS invites Coffintexts | Alucarda, Coffintexts, ILUSM |
 | Sat, 28 Nov 2026 | Sweet Chunk, Areola, and Club Kings presents: Rod Lee | DJ Technics, Mighty Mark, Rod Lee |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/the-compound/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/the-compound/)*

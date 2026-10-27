@@ -1,6 +1,6 @@
 # afreckle
 
-afreckle is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 6 Nov 2026.
+afreckle is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 6 Nov 2026.
 
 afreckle is an electronic artist based in Australia, with 6 gigs on soundcheck across Melbourne. Often billed alongside Lori, RAH and BABY MONET. Next up: Angel Music Bar, Melbourne on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ afreckle is an electronic artist based in Australia, with 6 gigs on soundcheck a
 
 Lori (1), RAH (1), BABY MONET
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afreckle/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afreckle/)*

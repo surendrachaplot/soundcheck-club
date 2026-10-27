@@ -1,6 +1,6 @@
 # Subbuteo
 
-Subbuteo is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Eastern Bloc Records, Manchester on Thu, 5 Nov 2026.
+Subbuteo is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eastern Bloc Records, Manchester on Thu, 5 Nov 2026.
 
 Subbuteo is a garage and bass artist, with 6 gigs on soundcheck across London and Manchester. Often billed alongside A.N.T, AUDIO DUNE and Campbell. Next up: Eastern Bloc Records, Manchester on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Subbuteo is a garage and bass artist, with 6 gigs on soundcheck across London an
 
 A.N.T, AUDIO DUNE, Campbell
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subbuteo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subbuteo/)*

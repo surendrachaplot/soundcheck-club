@@ -1,10 +1,10 @@
 # 4LI4DXS MIHCAILHUITL at Barba Azul
 
-4LI4DXS MIHCAILHUITL at Barba Azul on Sat 5 Dec, Mexico City. 4 artists: AddlyMuff, Atosigado, Choi and Ruido Con H. Club and Guaracha. See the line-up on soundcheck.
+4LI4DXS MIHCAILHUITL at Barba Azul on Fri 4 Dec, Mexico City. 4 artists: AddlyMuff, Atosigado, Choi and Ruido Con H. Club and Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 5 Dec 2026 |
+| Date | Fri, 4 Dec 2026 |
 | Venue | Barba Azul |
 | City | Mexico City |
 

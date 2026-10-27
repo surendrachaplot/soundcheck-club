@@ -1,6 +1,6 @@
 # die Rote Dora
 
-die Rote Dora is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+die Rote Dora is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 die Rote Dora is a techno and house artist, with 19 gigs on soundcheck across Berlin, Frankfurt and Hamburg. Often billed alongside - C2C -, Ronny Pepper and Bekka. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ die Rote Dora is a techno and house artist, with 19 gigs on soundcheck across Be
 
 - C2C -, Ronny Pepper, Bekka
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dierotedora/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dierotedora/)*

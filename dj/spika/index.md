@@ -1,6 +1,6 @@
 # SPIKA
 
-SPIKA is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Scotch of St James, London on Thu, 29 Oct 2026.
+SPIKA is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Scotch of St James, London on Thu, 29 Oct 2026.
 
 SPIKA is a house and progressive house artist, with 17 gigs on soundcheck across London, Mexico City and Monterrey. Often billed alongside Kalexis, AGELESS and Adriatique. Next up: Scotch of St James, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ SPIKA is a house and progressive house artist, with 17 gigs on soundcheck across
 
 Kalexis, AGELESS, Adriatique
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spika/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spika/)*

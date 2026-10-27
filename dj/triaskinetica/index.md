@@ -1,6 +1,6 @@
 # Trias Kinetica
 
-Trias Kinetica is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at BASIS, Utrecht on Sat, 21 Nov 2026.
+Trias Kinetica is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at BASIS, Utrecht on Sat, 21 Nov 2026.
 
 Trias Kinetica is a techno and house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside AIS, Aiden Francis and Amelia Leigh. Next up: BASIS, Utrecht on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Trias Kinetica is a techno and house artist based in Netherlands, with 5 gigs on
 
 AIS (2), Aiden Francis, Amelia Leigh
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triaskinetica/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triaskinetica/)*

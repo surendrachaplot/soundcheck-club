@@ -1,6 +1,6 @@
 # PUBLIC HOLIDAY TRAIN PARTY: INTERCHANGE 2 (Curio Collective) at Trainscendence
 
-PUBLIC HOLIDAY TRAIN PARTY: INTERCHANGE 2 (Curio Collective) at Trainscendence on Tue 3 Nov, Melbourne. 4 artists: BIG SLIME, fbw.archive, KALI (AU) and MOWGLI (AU). Bass. See the line-up on soundcheck.
+PUBLIC HOLIDAY TRAIN PARTY: INTERCHANGE 2 (Curio Collective) at Trainscendence on Tue 3 Nov, Melbourne. 5 artists: ¡DEEPA!, BIG SLIME, fbw.archive and KALI (AU) and 1 more. Garage and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PUBLIC HOLIDAY TRAIN PARTY: INTERCHANGE 2 (Curio Collective) at Trainscendence o
 
 ## Line-up
 
+- ¡DEEPA!
 - BIG SLIME
 - fbw.archive
 - KALI (AU)

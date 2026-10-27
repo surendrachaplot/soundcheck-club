@@ -1,6 +1,6 @@
 # Mad Radio Bogotá
 
-Mad Radio Bogotá is a music venue in Bogotá with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "TEMPLE OF RHYTHM: HAWYN / Niebla / COLIT" on Wed, 28 Oct 2026.
+Mad Radio Bogotá is a music venue in Bogotá with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "TEMPLE OF RHYTHM: HAWYN / Niebla / COLIT" on Wed, 28 Oct 2026.
 
 Mad Radio Bogotá is a music venue in Bogotá listed on soundcheck. 5 upcoming gigs, with line-ups including Gerard Radio, Lafrench Toast, La Warrior and Liz Amarille and 2 more. See dates, start times and who's playing. Carrera 14a # 82-42.
 
@@ -18,4 +18,4 @@ Mad Radio Bogotá is a music venue in Bogotá listed on soundcheck. 5 upcoming g
 
 Carrera 14a # 82-42, Bogotá
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/bogota/club/mad-radio-bogot/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/bogota/club/mad-radio-bogot/)*

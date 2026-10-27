@@ -1,6 +1,6 @@
 # Otis Xo
 
-Otis Xo is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
+Otis Xo is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
 
 Otis Xo is an electronic artist based in Germany, with 6 gigs on soundcheck across Frankfurt. Often billed alongside DJ 069, Kakuzi and Laurine Philippe. Next up: Tanzhaus West, Frankfurt on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Otis Xo is an electronic artist based in Germany, with 6 gigs on soundcheck acro
 
 DJ 069, Kakuzi, Laurine Philippe
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otisxo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otisxo/)*

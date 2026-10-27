@@ -1,6 +1,6 @@
 # Plankton
 
-Plankton is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+Plankton is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
 Plankton is a techno and psytrance artist, with 7 gigs on soundcheck across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside $CRAIC, 7e and AllA. Next up: TBA, Sydney on Wed 30 Dec.
 
@@ -23,4 +23,4 @@ Plankton is a techno and psytrance artist, with 7 gigs on soundcheck across Bris
 
 $CRAIC, 7e, AllA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plankton/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plankton/)*

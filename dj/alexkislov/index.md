@@ -1,6 +1,6 @@
 # Alex Kislov
 
-Alex Kislov is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Chicago - West Town, Chicago on Sat, 31 Oct 2026.
+Alex Kislov is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Chicago - West Town, Chicago on Sat, 31 Oct 2026.
 
 Alex Kislov is a house and tech house artist based in United States of America, with 46 gigs on soundcheck across Chicago and Tampa Bay. Often billed alongside ARVI MALA, Phives and AMARI. Next up: TBA - Chicago - West Town, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alex Kislov is a house and tech house artist based in United States of America, 
 
 ARVI MALA, Phives, AMARI
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkislov/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkislov/)*

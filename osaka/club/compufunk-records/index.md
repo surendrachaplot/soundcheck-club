@@ -1,14 +1,14 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "E空氣" on Fri, 30 Oct 2026.
+Compufunk Records is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "E空氣" on Fri, 30 Oct 2026.
 
-Compufunk Records is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including Ashikaga, DJ KAZUMA, IKUZO and Kohei and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
+Compufunk Records is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including Ashikaga, DJ KAZUMA, Hickson and IKUZO and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | E空氣 |  |
+| Fri, 30 Oct 2026 | E空氣 | Hickson |
 | Sat, 7 Nov 2026 | DON'T BULLSHIT ME |  |
 | Sat, 21 Nov 2026 | MINT | DJ KAZUMA, Koji Nakamura |
 | Fri, 27 Nov 2026 | Rudolf C (Japan Tour) | Ashikaga, IKUZO, Kohei, Rudolf C |
@@ -17,4 +17,4 @@ Compufunk Records is a music venue in Osaka listed on soundcheck. 4 upcoming gig
 
 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan, Osaka
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*

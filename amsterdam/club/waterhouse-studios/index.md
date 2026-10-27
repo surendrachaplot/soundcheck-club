@@ -1,6 +1,6 @@
 # Waterhouse Studios
 
-Waterhouse Studios is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Afterhours Halloween Edition" on Sat, 31 Oct 2026.
+Waterhouse Studios is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Afterhours Halloween Edition" on Sat, 31 Oct 2026.
 
 Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including feyyded, Kvadrant, ME.N.U. and OHM and 2 more. See dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
 
@@ -16,4 +16,4 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 3 upcomin
 
 Danzigerkade 1, 1013 AP Amsterdam, Amsterdam
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*

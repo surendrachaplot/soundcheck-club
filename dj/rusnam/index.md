@@ -1,6 +1,6 @@
 # RUSNAM
 
-RUSNAM is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at 20nine30, Berlin on Sat, 31 Oct 2026.
+RUSNAM is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at 20nine30, Berlin on Sat, 31 Oct 2026.
 
 RUSNAM is an experimental and electro artist, with 7 gigs on soundcheck across Berlin and Nantes. Often billed alongside Paulawar, Taradud and ADIRA. Next up: 20nine30, Berlin on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ RUSNAM is an experimental and electro artist, with 7 gigs on soundcheck across B
 
 Paulawar, Taradud, ADIRA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rusnam/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rusnam/)*

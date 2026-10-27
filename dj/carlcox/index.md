@@ -1,6 +1,6 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Lurin live, Peru on Fri, 30 Oct 2026.
+Carl Cox is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Lurin live, Peru on Fri, 30 Oct 2026.
 
 Carl Cox is a techno and house artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 54 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: TBA - Lurin live, Peru on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ Carl Cox is a techno and house artist based in United Kingdom, with 156 gigs on 
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

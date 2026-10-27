@@ -1,8 +1,8 @@
 # Dj Maphorisa
 
-Dj Maphorisa is a Amapiano and Afro House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at DRUMSHEDS, London on Sun, 29 Nov 2026.
+Dj Maphorisa is a Amapiano and Afro House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at DRUMSHEDS, London on Sun, 29 Nov 2026.
 
-Dj Maphorisa is an amapiano and afro house artist, with 18 gigs on soundcheck across Amsterdam, Barcelona, Cape Town and Ibiza and 8 more. Often billed alongside Kabza De Small, Uncle Waffles and BOJ. Next up: DRUMSHEDS, London on Sun 29 Nov.
+Dj Maphorisa is an amapiano and afro house artist based in South Africa, with 18 gigs on soundcheck across Amsterdam, Barcelona, Cape Town and Ibiza and 8 more. Often billed alongside Kabza De Small, Uncle Waffles and BOJ. Next up: DRUMSHEDS, London on Sun 29 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Dj Maphorisa is an amapiano and afro house artist, with 18 gigs on soundcheck ac
 
 Kabza De Small, Uncle Waffles, BOJ (1)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaphorisa/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaphorisa/)*

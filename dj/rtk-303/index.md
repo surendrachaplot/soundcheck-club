@@ -1,6 +1,6 @@
 # RTK-303
 
-RTK-303 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mint XL, Leeds on Wed, 28 Oct 2026.
+RTK-303 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mint XL, Leeds on Wed, 28 Oct 2026.
 
 RTK-303 is a techno and house artist, with 7 gigs on soundcheck across Krakow and Leeds. Often billed alongside Piotr Figiel, Gabi Bury and Badalian. Next up: Mint XL, Leeds on Wed 28 Oct.
 
@@ -23,4 +23,4 @@ RTK-303 is a techno and house artist, with 7 gigs on soundcheck across Krakow an
 
 Piotr Figiel, Gabi Bury, Badalian
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rtk-303/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rtk-303/)*

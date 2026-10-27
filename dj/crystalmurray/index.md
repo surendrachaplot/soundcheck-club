@@ -1,6 +1,6 @@
 # Crystal Murray
 
-Crystal Murray is a Hip-Hop and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at SJQ, London on Tue, 8 Dec 2026.
+Crystal Murray is a Hip-Hop and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at SJQ, London on Tue, 8 Dec 2026.
 
 Crystal Murray is a hip-hop and pop artist based in France, with 13 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Hamburg and 3 more. Often billed alongside Ryoji Ikeda, Ahadadream and Amor Satyr. Next up: SJQ, London on Tue 8 Dec.
 
@@ -25,4 +25,4 @@ Crystal Murray is a hip-hop and pop artist based in France, with 13 gigs on soun
 
 Ryoji Ikeda, Ahadadream, Amor Satyr
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalmurray/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalmurray/)*

@@ -1,6 +1,6 @@
 # David Guetta
 
-David Guetta is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+David Guetta is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 David Guetta is a house and progressive house artist based in France, with 156 gigs on soundcheck across Dubai, Frankfurt, Geneva and Ibiza and 6 more. Often billed alongside Paul Reynolds, Meduza and James Hype (UK). Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ David Guetta is a house and progressive house artist based in France, with 156 g
 
 Paul Reynolds, Meduza, James Hype (UK)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidguetta/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidguetta/)*

@@ -1,6 +1,6 @@
 # Mira Vána
 
-Mira Vána is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at objekt klein a, Dresden on Fri, 20 Nov 2026.
+Mira Vána is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at objekt klein a, Dresden on Fri, 20 Nov 2026.
 
 Mira Vána is a downtempo and techno artist, with 27 gigs on soundcheck across Basel, Berlin, Copenhagen and Dresden and 3 more. Often billed alongside Glenn Shaw, bīsu and Horst Haller. Next up: objekt klein a, Dresden on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mira Vána is a downtempo and techno artist, with 27 gigs on soundcheck across B
 
 Glenn Shaw, bīsu, Horst Haller
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miravana/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miravana/)*

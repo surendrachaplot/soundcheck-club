@@ -1,13 +1,14 @@
 # Fabe
 
-Fabe is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Liquid Room, Edinburgh on Sat, 14 Nov 2026.
+Fabe is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
 
-Fabe is a house and tech house artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 31 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: The Liquid Room, Edinburgh on Sat 14 Nov.
+Fabe is a house and tech house artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 32 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: OneSixOne, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | OneSixOne | Melbourne |
 | Sat, 14 Nov 2026 | The Liquid Room | Edinburgh |
 | Sat, 28 Nov 2026 | Tanzhaus West | Frankfurt |
 
@@ -26,4 +27,4 @@ Fabe is a house and tech house artist based in Germany, with 110 gigs on soundch
 
 Lauren Lo Sung, Rich NXT, Sidney Charles
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*

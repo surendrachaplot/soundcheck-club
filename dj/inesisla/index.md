@@ -1,6 +1,6 @@
 # ines isla
 
-ines isla is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
+ines isla is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
 
 ines isla is a techno and house artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Berlin, Madrid and Malaga and 1 more. Often billed alongside Alba Franch, Mamba Nera and Reitze. Next up: Spook Club, Valencia on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ ines isla is a techno and house artist based in Spain, with 45 gigs on soundchec
 
 Alba Franch, Mamba Nera, Reitze
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inesisla/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inesisla/)*

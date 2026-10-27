@@ -1,19 +1,19 @@
 # Thoom
 
-Thoom is a Hardcore and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Roadrunner, Boston on Mon, 26 Oct 2026.
+Thoom is a Hardcore and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Union Transfer, Philadelphia on Tue, 27 Oct 2026.
 
-Thoom is a hardcore and experimental artist based in Lebanon, with 13 gigs on soundcheck across Boston, London, Los Angeles and New York City and 2 more. Often billed alongside Bassvictim, dj listen to ur heart and sydfalls. Next up: Roadrunner, Boston on Mon 26 Oct.
+Thoom is a hardcore and experimental artist based in Lebanon, with 13 gigs on soundcheck across Boston, London, Los Angeles and New York City and 2 more. Often billed alongside Bassvictim, dj listen to ur heart and sydfalls. Next up: Union Transfer, Philadelphia on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 26 Oct 2026 | Roadrunner | Boston |
 | Tue, 27 Oct 2026 | Union Transfer | Philadelphia |
 | Tue, 27 Oct 2026 | Union Transfer | Philadelphia |
 
 ## Recently played
 
+- Roadrunner, Boston · Mon, 26 Oct 2026
 - Ucla Sigma Pi Fraternity, Los Angeles · Fri, 6 Mar 2026
 - Silverlake Lounge, Los Angeles · Fri, 26 Sept 2025
 - La Machine Du Moulin Rouge, Paris · Sat, 13 Sept 2025
@@ -21,10 +21,9 @@ Thoom is a hardcore and experimental artist based in Lebanon, with 13 gigs on so
 - TBA - Secret Location BK, New York City · Sat, 7 Jun 2025
 - TBA - Secret Location BK, New York City · Fri, 30 May 2025
 - Nublu, New York City · Sat, 15 Feb 2025
-- Brooklyn Steel, New York City · Sat, 9 Mar 2024
 
 ## Shares bills with
 
 Bassvictim, dj listen to ur heart, sydfalls
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thoom/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thoom/)*

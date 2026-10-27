@@ -1,6 +1,6 @@
 # VURIOUZ
 
-VURIOUZ is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Pretzel, Poland on Sat, 31 Oct 2026.
+VURIOUZ is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pretzel, Poland on Sat, 31 Oct 2026.
 
 VURIOUZ is a techno and hardcore artist, with 6 gigs on soundcheck across Poland, Warsaw and Wroclaw. Often billed alongside AMALGAMAT, Angelo Mike and Epicx. Next up: Pretzel, Poland on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ VURIOUZ is a techno and hardcore artist, with 6 gigs on soundcheck across Poland
 
 AMALGAMAT, Angelo Mike, Epicx
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vuriouz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vuriouz/)*

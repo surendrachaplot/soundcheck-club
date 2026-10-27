@@ -1,6 +1,6 @@
 # Squarewave
 
-Squarewave is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Dryad Works, Sheffield on Fri, 30 Oct 2026.
+Squarewave is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Dryad Works, Sheffield on Fri, 30 Oct 2026.
 
 Squarewave is a dubstep and bass artist, with 5 gigs on soundcheck across Bristol, London, Prague and Sheffield. Often billed alongside Charla Green, JAZ IMSKY and Joker. Next up: Dryad Works, Sheffield on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Squarewave is a dubstep and bass artist, with 5 gigs on soundcheck across Bristo
 
 Charla Green, JAZ IMSKY, Joker
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/squarewave/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/squarewave/)*

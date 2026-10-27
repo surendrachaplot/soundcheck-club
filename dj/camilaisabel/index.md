@@ -1,6 +1,6 @@
 # Camila Isabel
 
-Camila Isabel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Blow, Buenos Aires on Sun, 8 Nov 2026.
+Camila Isabel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Blow, Buenos Aires on Sun, 8 Nov 2026.
 
 Camila Isabel is a house and techno artist based in Argentina, with 64 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Guadalajara and 3 more. Often billed alongside Bermani, Betas and Djs Pareja. Next up: Blow, Buenos Aires on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Camila Isabel is a house and techno artist based in Argentina, with 64 gigs on s
 
 Bermani, Betas, Djs Pareja
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilaisabel/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilaisabel/)*

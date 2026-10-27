@@ -1,6 +1,6 @@
 # Esengo
 
-Esengo is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Nest, Basel on Sat, 7 Nov 2026.
+Esengo is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nest, Basel on Sat, 7 Nov 2026.
 
 Esengo is a baile funk and afrobeat artist, with 32 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 6 more. Often billed alongside Hirma, Habiboo and Imsobaby. Next up: Nest, Basel on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Esengo is a baile funk and afrobeat artist, with 32 gigs on soundcheck across Am
 
 Hirma, Habiboo, Imsobaby
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esengo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esengo/)*

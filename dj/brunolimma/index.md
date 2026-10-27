@@ -1,14 +1,15 @@
 # Bruno Limma
 
-Bruno Limma is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
+Bruno Limma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
 
-Bruno Limma is a house and techno artist based in Brazil, with 55 gigs on soundcheck across Berlin, Boston, Detroit and Los Angeles and 5 more. Often billed alongside Joe Tagessian, David Berrie and Daniel Bell. Next up: H0L0, New York City on Sat 31 Oct.
+Bruno Limma is a house and techno artist based in Brazil, with 56 gigs on soundcheck across Berlin, Boston, Detroit and Dublin and 6 more. Often billed alongside Joe Tagessian, David Berrie and Daniel Bell. Next up: H0L0, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | H0L0 | New York City |
+| Sat, 14 Nov 2026 | Pawn Shop | Dublin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bruno Limma is a house and techno artist based in Brazil, with 55 gigs on soundc
 
 Joe Tagessian, David Berrie, Daniel Bell
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunolimma/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunolimma/)*

@@ -1,6 +1,6 @@
 # EDDY
 
-EDDY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at K39, Frankfurt on Fri, 30 Oct 2026.
+EDDY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at K39, Frankfurt on Fri, 30 Oct 2026.
 
 EDDY is a techno and trance artist, with 5 gigs on soundcheck across Frankfurt, Mexico City and Seoul. Often billed alongside PAU, Polytoxic and A.T.E.K. Next up: K39, Frankfurt on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ EDDY is a techno and trance artist, with 5 gigs on soundcheck across Frankfurt, 
 
 PAU (6), Polytoxic, A.T.E.K
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddy/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddy/)*

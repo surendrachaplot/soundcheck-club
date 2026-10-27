@@ -1,6 +1,6 @@
 # Fat Frumos
 
-Fat Frumos is a Breakcore and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
+Fat Frumos is a Breakcore and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
 
 Fat Frumos is a breakcore and club artist, with 6 gigs on soundcheck across Berlin, Krakow, Poznan and Prague. Often billed alongside Bryozone, Dj Hot Bitch and Dona. Next up: SCHRON, Poznan on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Fat Frumos is a breakcore and club artist, with 6 gigs on soundcheck across Berl
 
 Bryozone, Dj Hot Bitch, Dona
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatfrumos/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatfrumos/)*

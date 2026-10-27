@@ -1,6 +1,6 @@
 # RIJ.
 
-RIJ. is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Moon Club, Bristol on Sat, 14 Nov 2026.
+RIJ. is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Moon Club, Bristol on Sat, 14 Nov 2026.
 
 RIJ. is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across Amsterdam, Bristol, London and Manchester. Often billed alongside MEERA (UK), Adam Romo and Charlie Delta. Next up: Moon Club, Bristol on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ RIJ. is a house and disco artist based in United Kingdom, with 6 gigs on soundch
 
 MEERA (UK), Adam Romo, Charlie Delta
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rij./)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rij./)*

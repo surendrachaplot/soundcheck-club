@@ -1,6 +1,6 @@
 # Anime
 
-Anime is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Anime is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
 Anime is a hardcore and techno artist based in Italy, with 28 gigs on soundcheck across Berlin, Dortmund / Essen, Edmonton and Frankfurt and 14 more. Often billed alongside Angerfist, Mad Dog and Mish. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Anime is a hardcore and techno artist based in Italy, with 28 gigs on soundcheck
 
 Angerfist, Mad Dog, Mish
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anime/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anime/)*

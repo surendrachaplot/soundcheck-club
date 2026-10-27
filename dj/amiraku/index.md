@@ -1,6 +1,6 @@
 # Amiraku
 
-Amiraku is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Culture Box, Copenhagen on Fri, 4 Dec 2026.
+Amiraku is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Culture Box, Copenhagen on Fri, 4 Dec 2026.
 
 Amiraku is a techno and dub techno artist, with 39 gigs on soundcheck across Athens and Copenhagen. Often billed alongside DJ JM, Keeptress and Xyro. Next up: Culture Box, Copenhagen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Amiraku is a techno and dub techno artist, with 39 gigs on soundcheck across Ath
 
 DJ JM, Keeptress, Xyro
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amiraku/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amiraku/)*

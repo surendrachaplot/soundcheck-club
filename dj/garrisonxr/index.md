@@ -1,14 +1,15 @@
 # Garrison XR
 
-Garrison XR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Strays, Detroit on Fri, 30 Oct 2026.
+Garrison XR is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Strays, Detroit on Fri, 30 Oct 2026.
 
-Garrison XR is a techno and house artist based in United States of America, with 210 gigs on soundcheck across Cleveland, Detroit, New York City and San Diego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: The Strays, Detroit on Fri 30 Oct.
+Garrison XR is a techno and house artist based in United States of America, with 211 gigs on soundcheck across Cleveland, Detroit, New York City and San Diego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: The Strays, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | The Strays | Detroit |
+| Fri, 30 Oct 2026 | The Eagle of Detroit | Detroit |
 | Sat, 31 Oct 2026 | Olympus Theater | Detroit |
 | Sat, 14 Nov 2026 | Marble Bar | Detroit |
 
@@ -27,4 +28,4 @@ Garrison XR is a techno and house artist based in United States of America, with
 
 Ashton Swinton, LATEX GIRL, Amino
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrisonxr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrisonxr/)*

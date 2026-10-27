@@ -1,6 +1,6 @@
 # High Bar New York
 
-High Bar New York is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Perreo on the Roof Halloween Latin & Reggaeton Rooftop Dance Party NYC" on Fri, 30 Oct 2026.
+High Bar New York is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Perreo on the Roof Halloween Latin & Reggaeton Rooftop Dance Party NYC" on Fri, 30 Oct 2026.
 
 High Bar New York is a music venue in New York City listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 346 West 40th Street, NY, 10018, USA.
 
@@ -17,4 +17,4 @@ High Bar New York is a music venue in New York City listed on soundcheck. 4 upco
 
 346 West 40th Street, NY, 10018, USA, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/high-bar-new-york/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/high-bar-new-york/)*

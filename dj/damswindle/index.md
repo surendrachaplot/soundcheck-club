@@ -1,6 +1,6 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 30 Oct 2026.
+Dam Swindle is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 30 Oct 2026.
 
 Dam Swindle is a house and disco artist based in Netherlands, with 199 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 49 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: Oxford Art Factory, Sydney on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Dam Swindle is a house and disco artist based in Netherlands, with 199 gigs on s
 
 D Stone, BELLA (NL), Cinthie
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*

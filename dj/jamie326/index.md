@@ -1,6 +1,6 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 6 Nov 2026.
+Jamie 3:26 is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 6 Nov 2026.
 
 Jamie 3:26 is a house and disco artist based in United States of America, with 118 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Young Pulse, Dimitri From Paris and Melvo Baptiste. Next up: Cabaret Sauvage, Paris on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Jamie 3:26 is a house and disco artist based in United States of America, with 1
 
 Young Pulse, Dimitri From Paris, Melvo Baptiste
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

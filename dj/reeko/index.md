@@ -1,6 +1,6 @@
 # Reeko
 
-Reeko is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+Reeko is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
 
 Reeko is a techno and dub techno artist based in Spain, with 48 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Lewis Fautzi, Svreca and Architectural. Next up: Razzmatazz, Barcelona on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Reeko is a techno and dub techno artist based in Spain, with 48 gigs on soundche
 
 Lewis Fautzi, Svreca, Architectural
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reeko/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reeko/)*

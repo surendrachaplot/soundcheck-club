@@ -1,6 +1,6 @@
 # Barroness
 
-Barroness is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Wiggle Room, Toronto on Sat, 31 Oct 2026.
+Barroness is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Wiggle Room, Toronto on Sat, 31 Oct 2026.
 
 Barroness is a tech house and house artist based in Canada, with 149 gigs on soundcheck across Toronto. Often billed alongside Tyler Hill, TAKiN and Manzone & Strong. Next up: Wiggle Room, Toronto on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Barroness is a tech house and house artist based in Canada, with 149 gigs on sou
 
 Tyler Hill, TAKiN, Manzone & Strong
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barroness/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barroness/)*

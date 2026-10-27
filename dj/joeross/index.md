@@ -1,6 +1,6 @@
 # Joe Ross
 
-Joe Ross is a Tech House and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Eiger Studios, Leeds on Fri, 20 Nov 2026.
+Joe Ross is a Tech House and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eiger Studios, Leeds on Fri, 20 Nov 2026.
 
 Joe Ross is a tech house and pop artist based in United Kingdom, with 10 gigs on soundcheck across Austin, Glasgow, Houston and Leeds. Often billed alongside Edward Frame, Jaesyun and Matt Denton. Next up: Eiger Studios, Leeds on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Joe Ross is a tech house and pop artist based in United Kingdom, with 10 gigs on
 
 Edward Frame, Jaesyun, Matt Denton
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeross/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeross/)*

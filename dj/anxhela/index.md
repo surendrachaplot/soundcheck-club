@@ -1,8 +1,8 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
+ANXHELA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
 
-ANXHELA is a techno and trance artist based in Albania, with 144 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Alignment, Cassie Raptor and Shlømo. Next up: Lokschuppen Berlin, Berlin on Sat 12 Dec.
+ANXHELA is a techno and trance artist based in Albania, with 144 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Alignment, Cassie Raptor and OMAKS. Next up: Lokschuppen Berlin, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ ANXHELA is a techno and trance artist based in Albania, with 144 gigs on soundch
 
 ## Shares bills with
 
-Alignment, Cassie Raptor, Shlømo
+Alignment, Cassie Raptor, OMAKS
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*

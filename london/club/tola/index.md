@@ -1,6 +1,6 @@
 # Tola
 
-Tola is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Hang the DJ Vol.10" on Thu, 29 Oct 2026.
+Tola is a music venue in London with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Hang the DJ Vol.10" on Thu, 29 Oct 2026.
 
 Tola is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Agility, Blaqq & Why'd, Brandon Tourle and Bryn Brax and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
@@ -21,4 +21,4 @@ Tola is a music venue in London listed on soundcheck. 8 upcoming gigs, with line
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

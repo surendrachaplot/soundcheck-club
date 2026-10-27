@@ -35,7 +35,7 @@ Positive Education 2026 at Cité du Design Saint Etienne on Fri 6 Nov, Central. 
 - Manuka Honey
 - Microplastics
 - Mike Servito
-- Neska
+- neska
 - Octo Octa
 - Philip Kylberg
 - Prieste5s

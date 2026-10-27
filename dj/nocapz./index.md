@@ -1,6 +1,6 @@
 # nocapz.
 
-nocapz. is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Sat, 14 Nov 2026.
+nocapz. is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 nocapz. is a house and tech house artist based in Brazil, with 14 gigs on soundcheck across Chicago, Malta, Miami and Naples and 5 more. Often billed alongside Mochakk, Dennis Ferrer and HoneyLuv. Next up: Madarae San Francisco, San Francisco/Oakland on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ nocapz. is a house and tech house artist based in Brazil, with 14 gigs on soundc
 
 Mochakk, Dennis Ferrer, HoneyLuv
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nocapz./)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nocapz./)*

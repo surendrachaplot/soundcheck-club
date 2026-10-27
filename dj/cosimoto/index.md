@@ -1,6 +1,6 @@
 # Cosimoto
 
-Cosimoto is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ampere, Munich on Fri, 30 Oct 2026.
+Cosimoto is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ampere, Munich on Fri, 30 Oct 2026.
 
 Cosimoto is a bass and dubstep artist based in Germany, with 19 gigs on soundcheck across Berlin and Munich. Often billed alongside Polaster, Kamikatze and Tyra. Next up: Ampere, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Cosimoto is a bass and dubstep artist based in Germany, with 19 gigs on soundche
 
 Polaster, Kamikatze, Tyra
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosimoto/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosimoto/)*

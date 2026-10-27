@@ -1,6 +1,6 @@
 # objekt klein a
 
-objekt klein a is a music venue in Dresden with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Lokales Maximum Halloween Edition" on Sat, 31 Oct 2026.
+objekt klein a is a music venue in Dresden with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Lokales Maximum Halloween Edition" on Sat, 31 Oct 2026.
 
 objekt klein a is a music venue in Dresden listed on soundcheck. 4 upcoming gigs, with line-ups including Carotin, friggi, gretaepisch and Marcel Cousteau and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ objekt klein a is a music venue in Dresden listed on soundcheck. 4 upcoming gigs
 | Fri, 20 Nov 2026 | Die kleine Freiheit – Schöner Tag ✕ Easy Tiger | Mehr is Mehr, Mira Vána, Orange Drift, Susi&Paula |
 | Fri, 18 Dec 2026 | Sachsentrance |  |
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/objekt-klein-a/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/objekt-klein-a/)*

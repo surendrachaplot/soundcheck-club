@@ -1,6 +1,6 @@
 # Xl Garcia
 
-Xl Garcia is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Era uma vez no Porto, Porto on Mon, 30 Nov 2026.
+Xl Garcia is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Era uma vez no Porto, Porto on Mon, 30 Nov 2026.
 
 Xl Garcia is a techno and tech house artist, with 40 gigs on soundcheck across Lisbon, Paris and Porto. Often billed alongside Truke, Dub Tiger and Dexx. Next up: Era uma vez no Porto, Porto on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ Xl Garcia is a techno and tech house artist, with 40 gigs on soundcheck across L
 
 Truke, Dub Tiger, Dexx
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xlgarcia/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xlgarcia/)*

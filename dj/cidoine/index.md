@@ -1,6 +1,6 @@
 # Cidoine
 
-Cidoine is a Funk / Soul and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Cafe Marigold 1677 Avenue Laurier Est, Montréal, QC H2J 1J3, Montreal on Thu, 29 Oct 2026.
+Cidoine is a Funk / Soul and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Cafe Marigold 1677 Avenue Laurier Est, Montréal, QC H2J 1J3, Montreal on Thu, 29 Oct 2026.
 
 Cidoine is a funk / soul and house artist based in Haiti, with 25 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Grid, MLLE CEE and Silktits. Next up: TBA - Cafe Marigold 1677 Avenue Laurier Est, Montréal, QC H2J 1J3, Montreal on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Cidoine is a funk / soul and house artist based in Haiti, with 25 gigs on soundc
 
 Grid, MLLE CEE, Silktits
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cidoine/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cidoine/)*

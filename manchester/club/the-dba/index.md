@@ -1,8 +1,8 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "PRAXIS" on Wed, 28 Oct 2026.
+The DBA is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "PRAXIS" on Wed, 28 Oct 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including 3MR., 4STR0, Atiké and Baba Sketch and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including 3MR., 4STR0, Atiké and Baba Sketch and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
@@ -15,12 +15,12 @@ The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, w
 | Fri, 6 Nov 2026 | Sound Within // DBA // TBA |  |
 | Fri, 6 Nov 2026 | La twalet | 3MR., Chafik, Girlfriend, Judas Du, Seksu |
 | Sat, 7 Nov 2026 | YUK! presents - Lena Willikens, Neev & Keegan Mc | Keegan McQuade, Lena Willikens, Neev. |
+| Sat, 7 Nov 2026 | Tenz Takeover The DBA: Guy Fawkes Special |  |
 | Fri, 13 Nov 2026 | Vol 8: Cyberpunk |  |
 | Fri, 13 Nov 2026 | This Guy presents: SHOWDOWN | Hanz, Nestor, SHADEV, d. clemente |
-| Sat, 14 Nov 2026 | Headspin: Remove Me & Softi | Remove Me, Softi |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

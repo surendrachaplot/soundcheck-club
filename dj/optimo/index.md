@@ -1,6 +1,6 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at CANVAS, Dundee on Fri, 30 Oct 2026.
+Optimo (Espacio) is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at CANVAS, Dundee on Fri, 30 Oct 2026.
 
 Optimo (Espacio) is a house and techno artist based in United Kingdom, with 201 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 48 more. Often billed alongside Daniel Avery, HAAi and Erol Alkan. Next up: CANVAS, Dundee on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ Optimo (Espacio) is a house and techno artist based in United Kingdom, with 201 
 
 Daniel Avery, HAAi, Erol Alkan
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

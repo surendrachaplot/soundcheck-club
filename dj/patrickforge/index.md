@@ -1,6 +1,6 @@
 # Patrick Forge
 
-Patrick Forge is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Emerald Theatre, London on Sun, 13 Dec 2026.
+Patrick Forge is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Emerald Theatre, London on Sun, 13 Dec 2026.
 
 Patrick Forge is a jazz and funk / soul artist, with 24 gigs on soundcheck across Brighton, Dublin, Edinburgh and London and 1 more. Often billed alongside Gilles Peterson, Bugz in the Attic and Cosmo Sofi. Next up: The Emerald Theatre, London on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Patrick Forge is a jazz and funk / soul artist, with 24 gigs on soundcheck acros
 
 Gilles Peterson, Bugz in the Attic, Cosmo Sofi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickforge/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickforge/)*

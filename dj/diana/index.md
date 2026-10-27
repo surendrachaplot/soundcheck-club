@@ -1,6 +1,6 @@
 # DIANA
 
-DIANA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Electronic Music Division , Rome on Wed, 4 Nov 2026.
+DIANA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Electronic Music Division , Rome on Wed, 4 Nov 2026.
 
 DIANA is a house and electronica artist based in Italy, with 36 gigs on soundcheck across Barcelona, Berlin, Boston and Dresden and 3 more. Often billed alongside Lorenzo Dada, Leo Benassi and MANZI!. Next up: TBA - Electronic Music Division , Rome on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ DIANA is a house and electronica artist based in Italy, with 36 gigs on soundche
 
 Lorenzo Dada, Leo Benassi, MANZI!
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diana/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diana/)*

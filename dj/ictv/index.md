@@ -1,6 +1,6 @@
 # ICTV
 
-ICTV is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at OXI, Berlin on Sat, 7 Nov 2026.
+ICTV is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at OXI, Berlin on Sat, 7 Nov 2026.
 
 ICTV is a house and disco artist based in Germany, with 15 gigs on soundcheck across Berlin, Lausanne and London. Often billed alongside Nephews, Eva Crystaltips and Luca Olivotto. Next up: OXI, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ICTV is a house and disco artist based in Germany, with 15 gigs on soundcheck ac
 
 Nephews, Eva Crystaltips, Luca Olivotto
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ictv/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ictv/)*

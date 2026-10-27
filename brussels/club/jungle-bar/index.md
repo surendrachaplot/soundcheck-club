@@ -1,6 +1,6 @@
 # Jungle Bar
 
-Jungle Bar is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Halloween in the Jungle (+ after party)" on Sat, 31 Oct 2026.
+Jungle Bar is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Halloween in the Jungle (+ after party)" on Sat, 31 Oct 2026.
 
 Jungle Bar is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Backlight, DND (BE), LRDB and RELO4D. See dates, start times and who's playing. Brussel, 1000, Steenstraat 52.
 
@@ -15,4 +15,4 @@ Jungle Bar is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, w
 
 Brussel, 1000, Steenstraat 52, Brussels
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jungle-bar/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jungle-bar/)*

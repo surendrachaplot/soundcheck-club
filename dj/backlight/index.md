@@ -1,14 +1,15 @@
 # Backlight
 
-Backlight is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Jungle Bar, Brussels on Sat, 31 Oct 2026.
+Backlight is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Jungle Bar, Brussels on Sat, 31 Oct 2026.
 
-Backlight is a techno artist based in Belgium, with 12 gigs on soundcheck across Berlin and Brussels. Often billed alongside LRDB, TeaOtim and Ce$ar. Next up: Jungle Bar, Brussels on Sat 31 Oct.
+Backlight is a techno and gabber artist based in Belgium, with 13 gigs on soundcheck across Berlin and Brussels. Often billed alongside LRDB, TeaOtim and Ce$ar. Next up: Jungle Bar, Brussels on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Jungle Bar | Brussels |
+| Fri, 20 Nov 2026 | La Fabriek | Brussels |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Backlight is a techno artist based in Belgium, with 12 gigs on soundcheck across
 
 LRDB, TeaOtim, Ce$ar
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/backlight/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/backlight/)*

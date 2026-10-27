@@ -1,6 +1,6 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Zenker Brothers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Zenker Brothers is a techno and house artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside Stenny, Skee Mask and re:ni. Next up: The Cause, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Zenker Brothers is a techno and house artist based in Germany, with 160 gigs on 
 
 Stenny, Skee Mask, re:ni
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*

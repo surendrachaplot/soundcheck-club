@@ -1,6 +1,6 @@
 # XipNoize
 
-XipNoize is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - CALLE BADAJOZ 115, 08018 BARCELONA, Barcelona on Fri, 30 Oct 2026.
+XipNoize is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - CALLE BADAJOZ 115, 08018 BARCELONA, Barcelona on Fri, 30 Oct 2026.
 
 XipNoize is a house and techno artist based in Spain, with 43 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Gabo Oliveira, PAZ WAZ HERE and NOBODYISALICE. Next up: TBA - CALLE BADAJOZ 115, 08018 BARCELONA, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ XipNoize is a house and techno artist based in Spain, with 43 gigs on soundcheck
 
 Gabo Oliveira, PAZ WAZ HERE, NOBODYISALICE
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*

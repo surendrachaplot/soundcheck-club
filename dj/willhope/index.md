@@ -1,6 +1,6 @@
 # Will Hope
 
-Will Hope is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at The Golden Sheaf, New-south-wales on Sat, 14 Nov 2026.
+Will Hope is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Golden Sheaf, New-south-wales on Sat, 14 Nov 2026.
 
 Will Hope is a house and deep house artist, with 6 gigs on soundcheck across New South Wales and Sydney. Often billed alongside Ashlea Milinkovic, Joel Cantone and Benwal. Next up: The Golden Sheaf, New South Wales on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Will Hope is a house and deep house artist, with 6 gigs on soundcheck across New
 
 Ashlea Milinkovic, Joel Cantone, Benwal
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willhope/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willhope/)*

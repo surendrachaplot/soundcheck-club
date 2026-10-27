@@ -1,6 +1,6 @@
 # Yess
 
-Yess is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 31 Oct 2026.
+Yess is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 31 Oct 2026.
 
 Yess is a bass and techno artist based in Japan, with 8 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside SAKO, DJ HOKUTO and FUJI TRILL. Next up: ZEROTOKYO, Tokyo on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Yess is a bass and techno artist based in Japan, with 8 gigs on soundcheck acros
 
 SAKO, DJ HOKUTO, FUJI TRILL
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yess/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yess/)*

@@ -1,6 +1,6 @@
 # Ninna V.
 
-Ninna V. is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 29 Oct 2026.
+Ninna V. is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 29 Oct 2026.
 
 Ninna V. is a minimal and techno artist based in Portugal, with 5 gigs on soundcheck across Los Angeles and Mexico City. Often billed alongside Itza Chacón, Tomas Reid and Brad Moontribe. Next up: nueve cero nueve, Mexico City on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ Ninna V. is a minimal and techno artist based in Portugal, with 5 gigs on soundc
 
 Itza Chacón, Tomas Reid, Brad Moontribe
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninnav./)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninnav./)*

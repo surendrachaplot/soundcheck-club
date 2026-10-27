@@ -1,6 +1,6 @@
 # Mastro Sally
 
-Mastro Sally is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri, 30 Oct 2026.
+Mastro Sally is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri, 30 Oct 2026.
 
 Mastro Sally is a tech house and house artist based in Italy, with 15 gigs on soundcheck across Barcelona. Often billed alongside Mario Chicoli, Babo and Vinz (ITA). Next up: TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mastro Sally is a tech house and house artist based in Italy, with 15 gigs on so
 
 Mario Chicoli, Babo, Vinz (ITA)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mastrosally/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mastrosally/)*

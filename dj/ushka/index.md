@@ -1,6 +1,6 @@
 # Ushka
 
-Ushka is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Nowadays, New York City on Thu, 29 Oct 2026.
+Ushka is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Nowadays, New York City on Thu, 29 Oct 2026.
 
 Ushka is a club and bass artist based in United States of America, with 41 gigs on soundcheck across Houston, Los Angeles, Montreal and New York City and 1 more. Often billed alongside Riobamba, Fursa and Saphe. Next up: Nowadays, New York City on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Ushka is a club and bass artist based in United States of America, with 41 gigs 
 
 Riobamba, Fursa, Saphe
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ushka/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ushka/)*

@@ -1,6 +1,6 @@
 # LDN East
 
-LDN East is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Forward Motion Invites Halloween" on Sat, 31 Oct 2026.
+LDN East is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Forward Motion Invites Halloween" on Sat, 31 Oct 2026.
 
 LDN East is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Billy Cocks, Boon (UK), DJ Bobby Digital and DJ Eastwood and 2 more. See dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
@@ -17,4 +17,4 @@ LDN East is a music venue in London listed on soundcheck. 4 upcoming gigs, with 
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

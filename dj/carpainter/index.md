@@ -1,14 +1,15 @@
 # Carpainter
 
-Carpainter is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at clubasia, Tokyo on Sat, 21 Nov 2026.
+Carpainter is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at clubasia, Tokyo on Sat, 21 Nov 2026.
 
-Carpainter is a techno and bass artist based in Japan, with 54 gigs on soundcheck across Baltimore, Kanto, Kyoto and Los Angeles and 3 more. Often billed alongside Seimei, Andrew (TREKKIE TRAX) and Genick. Next up: clubasia, Tokyo on Sat 21 Nov.
+Carpainter is a techno and bass artist based in Japan, with 55 gigs on soundcheck across Baltimore, Kanto, Kyoto and Los Angeles and 3 more. Often billed alongside Seimei, Andrew (TREKKIE TRAX) and Genick. Next up: clubasia, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | clubasia | Tokyo |
+| Fri, 27 Nov 2026 | ZEROTOKYO | Tokyo |
 | Sat, 28 Nov 2026 | Kuni House | Kanto |
 
 ## Recently played
@@ -26,4 +27,4 @@ Carpainter is a techno and bass artist based in Japan, with 54 gigs on soundchec
 
 Seimei, Andrew (TREKKIE TRAX), Genick
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carpainter/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carpainter/)*

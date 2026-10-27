@@ -1,6 +1,6 @@
 # Mitsuko
 
-Mitsuko is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 3 Nov 2026.
+Mitsuko is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 3 Nov 2026.
 
 Mitsuko is a house and deep house artist based in Germany, with 28 gigs on soundcheck across Berlin and Tokyo. Often billed alongside LIZZN, Miss Kitchen and ADAM REC.. Next up: Süss War Gestern, Berlin on Tue 3 Nov.
 
@@ -26,4 +26,4 @@ Mitsuko is a house and deep house artist based in Germany, with 28 gigs on sound
 
 LIZZN, Miss Kitchen, ADAM REC.
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuko/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuko/)*

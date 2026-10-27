@@ -1,6 +1,6 @@
 # Miss Bashful
 
-Miss Bashful is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 30 Oct 2026.
+Miss Bashful is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 30 Oct 2026.
 
 Miss Bashful is a techno and trance artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 44 more. Often billed alongside DBBD, Miss Bashful x DBBD and MCR-T. Next up: Nitsa Club, Barcelona on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Miss Bashful is a techno and trance artist based in Germany, with 114 gigs on so
 
 DBBD, Miss Bashful x DBBD, MCR-T
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*

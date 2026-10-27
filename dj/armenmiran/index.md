@@ -1,6 +1,6 @@
 # Armen Miran
 
-Armen Miran is a Deep House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Balboa Park, San Diego on Sat, 31 Oct 2026.
+Armen Miran is a Deep House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Balboa Park, San Diego on Sat, 31 Oct 2026.
 
 Armen Miran is a deep house and progressive house artist based in United States of America, with 87 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Nick Warren, Borella and Caleesi. Next up: Balboa Park, San Diego on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Armen Miran is a deep house and progressive house artist based in United States 
 
 Nick Warren, Borella, Caleesi
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*

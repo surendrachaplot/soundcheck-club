@@ -1,6 +1,6 @@
 # Derek Plaslaiko
 
-Derek Plaslaiko is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Process PDX, Portland on Sat, 7 Nov 2026.
+Derek Plaslaiko is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Process PDX, Portland on Sat, 7 Nov 2026.
 
 Derek Plaslaiko is a techno and acid artist based in United States of America, with 44 gigs on soundcheck across Berlin, Chicago, Denver and Detroit and 5 more. Often billed alongside Erika, Mike Servito and BMG. Next up: Process PDX, Portland on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Derek Plaslaiko is a techno and acid artist based in United States of America, w
 
 Erika, Mike Servito, BMG
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derekplaslaiko/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derekplaslaiko/)*

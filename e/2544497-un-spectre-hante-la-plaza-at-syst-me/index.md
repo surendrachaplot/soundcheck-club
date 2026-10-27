@@ -1,6 +1,6 @@
 # Un spectre hante la plaza at Système
 
-Un spectre hante la plaza at Système on Sat 31 Oct, Montreal. 5 artists: Ana Luisa, chago_91, Excalibur and Orion and 1 more. See the line-up on soundcheck.
+Un spectre hante la plaza at Système on Sat 31 Oct, Montreal. 5 artists: Ana Luisa, chago_91, Excalibur and Kiju and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Un spectre hante la plaza at Système on Sat 31 Oct, Montreal. 5 artists: Ana Lu
 - Ana Luisa
 - chago_91
 - Excalibur
+- Kiju
 - Orion
-- Raef (US)
 
 *Source: [soundcheck](https://soundcheck.club/e/2544497-un-spectre-hante-la-plaza-at-syst-me/)*

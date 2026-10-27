@@ -1,8 +1,8 @@
 # SAAB (2)
 
-SAAB (2) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Bar Viu, Barcelona on Sun, 1 Nov 2026.
+SAAB (2) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Viu, Barcelona on Sun, 1 Nov 2026.
 
-SAAB is a bass and techno artist based in Spain, with 6 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Sheps, Taylor Taylor and AKIYE. Next up: Bar Viu, Barcelona on Sun 1 Nov.
+SAAB is a bass and techno artist based in Spain, with 6 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Sheps, Taylor Taylor (NL) and AKIYE. Next up: Bar Viu, Barcelona on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ SAAB is a bass and techno artist based in Spain, with 6 gigs on soundcheck acros
 
 ## Shares bills with
 
-Sheps, Taylor Taylor, AKIYE
+Sheps, Taylor Taylor (NL), AKIYE
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saab-2/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saab-2/)*

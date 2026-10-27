@@ -1,6 +1,6 @@
 # Maxwell Owin
 
-Maxwell Owin is a Jazz and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
+Maxwell Owin is a Jazz and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
 
 Maxwell Owin is a jazz and house artist based in United Kingdom, with 42 gigs on soundcheck across Berlin, London, Manchester and Paris. Often billed alongside Joe Armon-Jones, Cam Joon and dOnüt. Next up: TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Maxwell Owin is a jazz and house artist based in United Kingdom, with 42 gigs on
 
 Joe Armon-Jones, Cam Joon, dOnüt
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellowin/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellowin/)*

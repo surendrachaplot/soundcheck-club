@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "F*CK ME It's Halloween 2026" on Thu, 29 Oct 2026.
+Studio 338 is a music venue in London with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "F*CK ME It's Halloween 2026" on Thu, 29 Oct 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including ASHOJU, Beezo, Bontan and Casey Spillman and 2 more. See dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -19,4 +19,4 @@ Studio 338 is a music venue in London listed on soundcheck. 6 upcoming gigs, wit
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

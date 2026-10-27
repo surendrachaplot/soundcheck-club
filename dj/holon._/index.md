@@ -1,6 +1,6 @@
 # Holon._
 
-Holon._ is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Factory Floor, Sheffield on Sat, 28 Nov 2026.
+Holon._ is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Factory Floor, Sheffield on Sat, 28 Nov 2026.
 
 Holon._ is a house and club artist, with 10 gigs on soundcheck across Sheffield. Often billed alongside Joi La Frique, Sam J and mdj (0815). Next up: Factory Floor, Sheffield on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Holon._ is a house and club artist, with 10 gigs on soundcheck across Sheffield.
 
 Joi La Frique, Sam J, mdj (0815)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holon._/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holon._/)*

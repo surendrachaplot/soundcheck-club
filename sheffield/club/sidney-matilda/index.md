@@ -1,6 +1,6 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 6 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "BLEND 4: IT'S SLIME TIME" on Fri, 30 Oct 2026.
+Sidney & Matilda is a music venue in Sheffield with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "BLEND 4: IT'S SLIME TIME" on Fri, 30 Oct 2026.
 
 Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 6 upcoming gigs, with line-ups including Aries, Danny Byrd, DJ Hazard and DJ Rap and 2 more. See dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
@@ -19,4 +19,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 6 upcoming 
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

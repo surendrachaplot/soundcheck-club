@@ -1,13 +1,14 @@
 # Stella Maise
 
-Stella Maise is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Studio V Dance, Toronto on Sat, 21 Nov 2026.
+Stella Maise is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lithuanian House, Toronto on Fri, 30 Oct 2026.
 
-Stella Maise is a bass and techno artist based in Canada, with 21 gigs on soundcheck across Toronto. Often billed alongside Disthene, 666.pastel and Rareasfck. Next up: Studio V Dance, Toronto on Sat 21 Nov.
+Stella Maise is a bass and techno artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside Disthene, 666.pastel and Rareasfck. Next up: Lithuanian House, Toronto on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Lithuanian House | Toronto |
 | Sat, 21 Nov 2026 | Studio V Dance | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Stella Maise is a bass and techno artist based in Canada, with 21 gigs on soundc
 
 Disthene, 666.pastel, Rareasfck
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellamaise/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellamaise/)*

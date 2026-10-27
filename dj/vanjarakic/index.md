@@ -1,6 +1,6 @@
 # Vanja Rakic
 
-Vanja Rakic is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Ormside Projects, London on Sat, 7 Nov 2026.
+Vanja Rakic is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ormside Projects, London on Sat, 7 Nov 2026.
 
 Vanja Rakic is a techno and experimental artist, with 12 gigs on soundcheck across Amsterdam, Berlin, London and Vienna. Often billed alongside Olgica, Elina Tapio and upsammy. Next up: Ormside Projects, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Vanja Rakic is a techno and experimental artist, with 12 gigs on soundcheck acro
 
 Olgica, Elina Tapio, upsammy
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanjarakic/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanjarakic/)*

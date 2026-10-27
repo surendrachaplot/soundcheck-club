@@ -1,6 +1,6 @@
 # MONORITAM
 
-MONORITAM is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Melkweg, Amsterdam on Tue, 1 Dec 2026.
+MONORITAM is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Melkweg, Amsterdam on Tue, 1 Dec 2026.
 
 MONORITAM is a techno artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Dexon, CHAFA and Jayzo. Next up: Melkweg, Amsterdam on Tue 1 Dec.
 
@@ -21,4 +21,4 @@ MONORITAM is a techno artist based in Netherlands, with 5 gigs on soundcheck acr
 
 Dexon, CHAFA, Jayzo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoritam/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoritam/)*

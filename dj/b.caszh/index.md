@@ -1,0 +1,28 @@
+# b. caszh
+
+b. caszh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Miscellania, Melbourne on Sun, 29 Nov 2026.
+
+b. caszh is a house and techno artist, with 12 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Jo Christy, Jesse DM and Simonetti. Next up: Miscellania, Melbourne on Sun 29 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 29 Nov 2026 | Miscellania | Melbourne |
+
+## Recently played
+
+- TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne · Fri, 11 Sept 2026
+- Angel Music Bar, Melbourne · Sat, 1 Aug 2026
+- Revolver Upstairs, Melbourne · Sun, 28 Dec 2025
+- Abercrombie Hotel, Sydney · Fri, 5 Sept 2025
+- Miscellania, Melbourne · Sat, 15 Mar 2025
+- Avalon The Bar, Melbourne · Sat, 14 Dec 2024
+- Bad Decisions, Melbourne · Fri, 25 Oct 2024
+- Glamorama, Melbourne · Fri, 16 Aug 2024
+
+## Shares bills with
+
+Jo Christy, Jesse DM, Simonetti
+
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b.caszh/)*

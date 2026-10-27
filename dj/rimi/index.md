@@ -1,6 +1,6 @@
 # rimi
 
-rimi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Forestlimit, Tokyo on Wed, 28 Oct 2026.
+rimi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Forestlimit, Tokyo on Wed, 28 Oct 2026.
 
 rimi is a techno and house artist based in Japan, with 55 gigs on soundcheck across Bratislava, Kyoto, Osaka and Seoul and 1 more. Often billed alongside Vís, eijin and ntank. Next up: Forestlimit, Tokyo on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ rimi is a techno and house artist based in Japan, with 55 gigs on soundcheck acr
 
 Vís (1), eijin, ntank
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rimi/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rimi/)*

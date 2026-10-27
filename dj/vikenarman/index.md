@@ -1,8 +1,8 @@
 # Viken Arman
 
-Viken Arman is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 29 Oct 2026.
+Viken Arman is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 29 Oct 2026.
 
-Viken Arman is a house and deep house artist based in France, with 101 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 32 more. Often billed alongside Cesar Merveille, Acid Pauli and Mira. Next up: Do Not Sit On The Furniture, Miami on Thu 29 Oct.
+Viken Arman is a house and deep house artist based in France, with 102 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 32 more. Often billed alongside Cesar Merveille, Acid Pauli and Mira. Next up: Do Not Sit On The Furniture, Miami on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Viken Arman is a house and deep house artist based in France, with 101 gigs on s
 | Thu, 29 Oct 2026 | Do Not Sit On The Furniture | Miami |
 | Fri, 30 Oct 2026 | M.N.Roy | Mexico City |
 | Sat, 7 Nov 2026 | ORIGIN | Los Angeles |
+| Fri, 13 Nov 2026 | House of Yes | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Viken Arman is a house and deep house artist based in France, with 101 gigs on s
 
 Cesar Merveille, Acid Pauli, Mira
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikenarman/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikenarman/)*

@@ -1,6 +1,6 @@
 # Industry City
 
-Industry City is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "The Vampire Ball: Night 1" on Fri, 30 Oct 2026.
+Industry City is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "The Vampire Ball: Night 1" on Fri, 30 Oct 2026.
 
 Industry City is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Alice Longyu Gao, Amber Valentine, Andhim and Annie Lew and 2 more. See dates, start times and who's playing. 220 36th Street, Brooklyn, NY 11232, USA.
 
@@ -15,4 +15,4 @@ Industry City is a music venue in New York City listed on soundcheck. 2 upcoming
 
 220 36th Street, Brooklyn, NY 11232, USA, New York City
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*

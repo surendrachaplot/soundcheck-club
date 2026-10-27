@@ -1,6 +1,6 @@
 # Valerio Boccitto
 
-Valerio Boccitto is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Sun, 1 Nov 2026.
+Valerio Boccitto is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Sun, 1 Nov 2026.
 
 Valerio Boccitto is a progressive house and techno artist, with 25 gigs on soundcheck across Bogotá. Often billed alongside Two Plus, TANTRIK and Alex Bessofen. Next up: Mad Radio Bogotá, Bogotá on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Valerio Boccitto is a progressive house and techno artist, with 25 gigs on sound
 
 Two Plus, TANTRIK, Alex Bessofen
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valerioboccitto/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valerioboccitto/)*

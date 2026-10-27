@@ -1,6 +1,6 @@
 # Ludi
 
-Ludi is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Ludi is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 Ludi is a house and afro house artist, with 10 gigs on soundcheck across Geneva, London, Madrid and Paris. Often billed alongside CAPTNNN', Alexia Glensy and Anabel Arroyo. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Ludi is a house and afro house artist, with 10 gigs on soundcheck across Geneva,
 
 CAPTNNN', Alexia Glensy, Anabel Arroyo
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludwigspatz/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludwigspatz/)*

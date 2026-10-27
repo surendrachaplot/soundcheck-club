@@ -1,6 +1,6 @@
 # Haute to Death
 
-Haute to Death is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Paris Bar, Detroit on Sat, 31 Oct 2026.
+Haute to Death is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Paris Bar, Detroit on Sat, 31 Oct 2026.
 
 Haute to Death is a house and disco artist, with 69 gigs on soundcheck across Boston, Detroit and Pittsburgh. Often billed alongside 1-800-CALL-ASH, Charles Trees and Ladylike. Next up: Paris Bar, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Haute to Death is a house and disco artist, with 69 gigs on soundcheck across Bo
 
 1-800-CALL-ASH, Charles Trees, Ladylike
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hautetodeath/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hautetodeath/)*

@@ -1,6 +1,6 @@
 # Kölsch
 
-Kölsch is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at HCC Kuppelsaal, Hannover on Fri, 30 Oct 2026.
+Kölsch is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at HCC Kuppelsaal, Hannover on Fri, 30 Oct 2026.
 
 Kölsch is a techno and house artist based in Denmark, with 169 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Kevin de Vries, Adam Beyer and CamelPhat. Next up: HCC Kuppelsaal, Hannover on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Kölsch is a techno and house artist based in Denmark, with 169 gigs on soundche
 
 Kevin de Vries, Adam Beyer, CamelPhat
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

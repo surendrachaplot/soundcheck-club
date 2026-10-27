@@ -1,6 +1,6 @@
 # Sachsentrance HALLOWEEN at Altenburg 1964
 
-Sachsentrance HALLOWEEN at Altenburg 1964 on Sat 31 Oct, Prague. 4 artists: HKKPTR, RaverPik, Sabu! and The Jakob Sister. Trance and Techno. See the line-up on soundcheck.
+Sachsentrance HALLOWEEN at Altenburg 1964 on Sat 31 Oct, Prague. 5 artists: HKKPTR, RaverPik, Sabu! and The Jakob Sister and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Sachsentrance HALLOWEEN at Altenburg 1964 on Sat 31 Oct, Prague. 4 artists: HKKP
 - RaverPik
 - Sabu!
 - The Jakob Sister
+- Trancy Chatman
 
 *Source: [soundcheck](https://soundcheck.club/e/2512562-sachsentrance-halloween-at-altenburg-1964/)*

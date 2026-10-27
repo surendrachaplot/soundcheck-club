@@ -1,14 +1,13 @@
 # CHEWCHEW
 
-CHEWCHEW is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+CHEWCHEW is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Rio-de-janeiro on Fri, 20 Nov 2026.
 
-CHEWCHEW is a house and disco artist based in Belarus, with 70 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cape Town and 18 more. Often billed alongside Ajuma, Mikey Gee and DJ Aficionado. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+CHEWCHEW is a house and disco artist based in Belarus, with 70 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cape Town and 18 more. Often billed alongside Ajuma, Mikey Gee and DJ Aficionado. Next up: TBA, Rio De Janeiro on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 20 Nov 2026 | TBA | Rio-de-janeiro |
 
 ## Recently played
@@ -26,4 +25,4 @@ CHEWCHEW is a house and disco artist based in Belarus, with 70 gigs on soundchec
 
 Ajuma, Mikey Gee, DJ Aficionado
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chewchew/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chewchew/)*

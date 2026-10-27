@@ -1,6 +1,6 @@
 # Cviata
 
-Cviata is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Купе / Kupe, Sofia on Sun, 1 Nov 2026.
+Cviata is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Купе / Kupe, Sofia on Sun, 1 Nov 2026.
 
 Cviata is a techno and gabber artist based in Bulgaria, with 9 gigs on soundcheck across Amsterdam and Sofia. Often billed alongside ARLECIN, A2XBY and ABAT. Next up: Купе / Kupe, Sofia on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Cviata is a techno and gabber artist based in Bulgaria, with 9 gigs on soundchec
 
 ARLECIN, A2XBY, ABAT
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cviata/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cviata/)*

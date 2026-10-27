@@ -1,6 +1,6 @@
 # MADAMA
 
-MADAMA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - Secret Location., London on Fri, 30 Oct 2026.
+MADAMA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location., London on Fri, 30 Oct 2026.
 
 MADAMA is a house and minimal artist based in United Kingdom, with 13 gigs on soundcheck across London and Milan. Often billed alongside EDEF, Marco Savo and Tato. Next up: TBA - Secret Location., London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MADAMA is a house and minimal artist based in United Kingdom, with 13 gigs on so
 
 EDEF, Marco Savo, Tato (2)
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madama/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madama/)*

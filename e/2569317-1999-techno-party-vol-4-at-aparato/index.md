@@ -1,6 +1,6 @@
 # 1999 Techno Party Vol.4 at Aparato
 
-1999 Techno Party Vol.4 at Aparato on Fri 13 Nov, Monterrey. 1 artist: Matter Of Seconds. Techno. See the line-up on soundcheck.
+1999 Techno Party Vol.4 at Aparato on Fri 13 Nov, Monterrey. 2 artists: Matter Of Seconds and Mesalina. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@
 ## Line-up
 
 - Matter Of Seconds
+- Mesalina
 
 *Source: [soundcheck](https://soundcheck.club/e/2569317-1999-techno-party-vol-4-at-aparato/)*

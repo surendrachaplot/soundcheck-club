@@ -1,6 +1,6 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at UNLOCKED, London on Fri, 30 Oct 2026.
+Ned Bennett is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at UNLOCKED, London on Fri, 30 Oct 2026.
 
 Ned Bennett is a techno and house artist based in Australia, with 78 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 16 more. Often billed alongside KSMBA, Bella Claxton and Prizefight. Next up: UNLOCKED, London on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Ned Bennett is a techno and house artist based in Australia, with 78 gigs on sou
 
 KSMBA, Bella Claxton, Prizefight
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*

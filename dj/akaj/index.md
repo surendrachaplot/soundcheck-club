@@ -1,6 +1,6 @@
 # Akaj
 
-Akaj is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Masada, Milan on Sun, 8 Nov 2026.
+Akaj is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Masada, Milan on Sun, 8 Nov 2026.
 
 Akaj is a house and techno artist based in Slovenia, with 61 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Lottie (SI), Audri and Evano. Next up: Masada, Milan on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Akaj is a house and techno artist based in Slovenia, with 61 gigs on soundcheck 
 
 Lottie (SI), Audri, Evano
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaj/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaj/)*

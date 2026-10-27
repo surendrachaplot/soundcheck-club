@@ -1,6 +1,6 @@
 # EXTAZIA
 
-EXTAZIA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at NDK, Sofia on Sat, 31 Oct 2026.
+EXTAZIA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at NDK, Sofia on Sat, 31 Oct 2026.
 
 EXTAZIA is a techno and electro artist based in Bulgaria, with 5 gigs on soundcheck across Sofia. Often billed alongside DKFSK, DVS1 and Erta Ale. Next up: NDK, Sofia on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ EXTAZIA is a techno and electro artist based in Bulgaria, with 5 gigs on soundch
 
 DKFSK, DVS1, Erta Ale
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/extazia/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/extazia/)*

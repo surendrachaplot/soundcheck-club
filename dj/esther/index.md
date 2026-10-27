@@ -1,6 +1,6 @@
 # Esther Duijn
 
-Esther Duijn is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Melkweg, Amsterdam on Tue, 15 Dec 2026.
+Esther Duijn is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Melkweg, Amsterdam on Tue, 15 Dec 2026.
 
 Esther Duijn is a techno and industrial artist, with 6 gigs on soundcheck across Amsterdam, Berlin and Rotterdam. Often billed alongside Nina Berg, ANT:YA and Ady Toledano. Next up: Melkweg, Amsterdam on Tue 15 Dec.
 
@@ -22,4 +22,4 @@ Esther Duijn is a techno and industrial artist, with 6 gigs on soundcheck across
 
 Nina Berg, ANT:YA, Ady Toledano
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esther/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esther/)*

@@ -1,8 +1,8 @@
 # DJ ZBB
 
-DJ ZBB is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at Kater, Berlin on Fri, 6 Nov 2026.
+DJ ZBB is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Kater, Berlin on Fri, 6 Nov 2026.
 
-DJ ZBB is a house and techno artist based in Australia, with 18 gigs on soundcheck across Bangkok, Barcelona, Berlin and Prague and 2 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and David Delgado. Next up: Kater, Berlin on Fri 6 Nov.
+DJ ZBB is a house and techno artist based in Australia, with 19 gigs on soundcheck across Bangkok, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Pierre Vice, Britta Arnold and Chris Schwarzwälder. Next up: Kater, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ ZBB is a house and techno artist based in Australia, with 18 gigs on soundche
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Kater | Berlin |
 | Sat, 21 Nov 2026 | ://about blank | Berlin |
+| Fri, 27 Nov 2026 | Atno | Budapest |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ DJ ZBB is a house and techno artist based in Australia, with 18 gigs on soundche
 
 ## Shares bills with
 
-Britta Arnold, Chris Schwarzwälder, David Delgado
+Pierre Vice, Britta Arnold, Chris Schwarzwälder
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*

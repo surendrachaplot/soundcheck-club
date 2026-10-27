@@ -1,6 +1,6 @@
 # TAYLR
 
-TAYLR is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at Alaska Waterloo, London on Fri, 13 Nov 2026.
+TAYLR is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Alaska Waterloo, London on Fri, 13 Nov 2026.
 
 TAYLR is a house and afro house artist, with 5 gigs on soundcheck across London. Often billed alongside BOA, ElectroPleasure and Samirah. Next up: Alaska Waterloo, London on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ TAYLR is a house and afro house artist, with 5 gigs on soundcheck across London.
 
 BOA (1), ElectroPleasure, Samirah
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylr/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylr/)*

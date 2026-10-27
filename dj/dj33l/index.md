@@ -1,6 +1,6 @@
 # dj33L
 
-dj33L is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at telos.haus, New York City on Thu, 29 Oct 2026.
+dj33L is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at telos.haus, New York City on Thu, 29 Oct 2026.
 
 dj33L is a techno and trance artist based in United States of America, with 5 gigs on soundcheck across New York City and Pittsburgh. Often billed alongside stress tess, R-DNA and Cow Tools. Next up: telos.haus, New York City on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ dj33L is a techno and trance artist based in United States of America, with 5 gi
 
 stress tess, R-DNA, Cow Tools
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj33l/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj33l/)*

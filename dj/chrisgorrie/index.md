@@ -1,6 +1,6 @@
 # Chris Gorrie
 
-Chris Gorrie is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. Next at TBA - LFO, Madrid on Sat, 31 Oct 2026.
+Chris Gorrie is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - LFO, Madrid on Sat, 31 Oct 2026.
 
 Chris Gorrie is a house and electro artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 7 more. Often billed alongside Jua'Rez, Solar Punk and Manu Oubiña. Next up: TBA - LFO, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Chris Gorrie is a house and electro artist based in Spain, with 45 gigs on sound
 
 Jua'Rez, Solar Punk, Manu Oubiña
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisgorrie/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisgorrie/)*

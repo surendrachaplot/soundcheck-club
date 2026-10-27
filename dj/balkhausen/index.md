@@ -1,6 +1,6 @@
 # Balkhausen
 
-Balkhausen is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. Next at KitKatClub, Berlin on Thu, 5 Nov 2026.
+Balkhausen is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at KitKatClub, Berlin on Thu, 5 Nov 2026.
 
 Balkhausen is a techno and trance artist based in Germany, with 73 gigs on soundcheck across Berlin and Dresden. Often billed alongside alemiko, Limoncello and ZOEVITA. Next up: KitKatClub, Berlin on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Balkhausen is a techno and trance artist based in Germany, with 73 gigs on sound
 
 alemiko, Limoncello, ZOEVITA
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balkhausen/)*
+*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balkhausen/)*
