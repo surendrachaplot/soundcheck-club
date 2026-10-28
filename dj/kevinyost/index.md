@@ -1,6 +1,6 @@
 # Kevin Yost
 
-Kevin Yost is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Arch 14, London on Sat, 7 Nov 2026.
+Kevin Yost is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Arch 14, London on Sat, 7 Nov 2026.
 
 Kevin Yost is a deep house and house artist based in United States of America, with 6 gigs on soundcheck across Athens, Berlin, London and Thessaloniki. Often billed alongside Bengoa, Alienata and Altinbas. Next up: Arch 14, London on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Kevin Yost is a deep house and house artist based in United States of America, w
 
 Bengoa, Alienata, Altinbas
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinyost/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinyost/)*

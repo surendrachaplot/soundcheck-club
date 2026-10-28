@@ -1,6 +1,6 @@
 # Max Shen
 
-Max Shen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at POTENT, Shanghai on Sat, 31 Oct 2026.
+Max Shen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at POTENT, Shanghai on Sat, 31 Oct 2026.
 
 Max Shen is a techno and house artist based in China, with 94 gigs on soundcheck across Athens, Beijing, Berlin and Chengdu and 4 more. Often billed alongside DJ EBP, GaoQiao and Peyötl. Next up: POTENT, Shanghai on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Max Shen is a techno and house artist based in China, with 94 gigs on soundcheck
 
 DJ EBP, GaoQiao, Peyötl
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxshen/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxshen/)*

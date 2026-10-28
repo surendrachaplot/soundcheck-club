@@ -1,6 +1,6 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Staygold presents: Skins & Prints" on Fri, 30 Oct 2026.
+Beate Uwe is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Staygold presents: Skins & Prints" on Fri, 30 Oct 2026.
 
 Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Adrian Schneider, AKA AKA, ALXJ and ANXA and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
@@ -15,7 +15,7 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 | Fri, 6 Nov 2026 | tutti frutti besucht Beate Uwe | Carpenter Effect, Spice Boys, Zylenth, e.Kato, karete bu |
 | Sat, 7 Nov 2026 | BEATE WIRD ZWÖLF | Kon Faber, Ligal Tamir, Nora Wolkenstein, Pauli Pocket |
 | Sun, 8 Nov 2026 | metanoia local rhythm | Coss, David Benjamin, Zettka |
-| Sun, 8 Nov 2026 | Beate Barfuß /// Metanoia Showcase | Coss, David Benjamin, SUKISU, Zettka |
+| Sun, 8 Nov 2026 | Beate Barfuß /// Metanoia Showcase | Coss, David Benjamin, Numen, SUKISU, Zettka |
 | Fri, 13 Nov 2026 | Magic Circus | MonoAbe |
 | Sat, 14 Nov 2026 | Beate Invites /// WUT Kollektiv | ANXA, KYT, Sonalie Solar |
 
@@ -23,4 +23,4 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

@@ -1,6 +1,6 @@
 # Bruder Jakob
 
-Bruder Jakob is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 31 Oct 2026.
+Bruder Jakob is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 31 Oct 2026.
 
 Bruder Jakob is a house and club artist based in Germany, with 56 gigs on soundcheck across Berlin, Dresden and Hamburg. Often billed alongside Prosekko Papi, Bekka and Nikklaas. Next up: Bulbul Berlin, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Bruder Jakob is a house and club artist based in Germany, with 56 gigs on soundc
 
 Prosekko Papi, Bekka, Nikklaas
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bruderjakob/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bruderjakob/)*

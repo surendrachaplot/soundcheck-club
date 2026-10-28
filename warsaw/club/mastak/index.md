@@ -1,8 +1,8 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Puha / Pridi" on Fri, 30 Oct 2026.
+Mastak is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Puha / Pridi" on Fri, 30 Oct 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Kosta, Inhaberin, MARCUCCIO and Maria Pozhar and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Kosta, Inhaberin, Kovvalsky and Leona Jacewska and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Mastak is a music venue in Warsaw listed on soundcheck. 8 upcoming gigs, with li
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Puha / Pridi | Pridi, Puha |
 | Sat, 31 Oct 2026 | HALLOWEEN: gathering of local scumbags | Alex Kosta, MARCUCCIO, Maria Pozhar, Nana_k, Slava Bernat, Slowmode |
+| Fri, 6 Nov 2026 | Pantano Libero 06 | Kovvalsky, Leona Jacewska |
 | Sat, 7 Nov 2026 | NOKTURN | Inhaberin (2), Pean, Salat, Vi (PL), sporra |
 | Tue, 10 Nov 2026 | klub Zaproszenie 14: yaka, innerinnerlife, pongifani |  |
 | Fri, 13 Nov 2026 | Mastak 2ND BIRTHDAY: DAY 1 - LAMPA NIGHT |  |
@@ -21,4 +22,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 8 upcoming gigs, with li
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

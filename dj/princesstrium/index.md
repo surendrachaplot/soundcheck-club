@@ -1,6 +1,6 @@
 # Princess Trium
 
-Princess Trium is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Unit 58, London on Fri, 27 Nov 2026.
+Princess Trium is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Unit 58, London on Fri, 27 Nov 2026.
 
 Princess Trium is a club and electronica artist based in Italy, with 24 gigs on soundcheck across Barcelona, Leeds, London and Manchester and 1 more. Often billed alongside DJ Frizzy D, Ivicore and CHEZA LUCINA. Next up: Unit 58, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Princess Trium is a club and electronica artist based in Italy, with 24 gigs on 
 
 DJ Frizzy D, Ivicore, CHEZA LUCINA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princesstrium/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princesstrium/)*

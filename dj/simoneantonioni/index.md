@@ -1,6 +1,6 @@
 # Simone Antonioni
 
-Simone Antonioni is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
+Simone Antonioni is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
 
 Simone Antonioni is an experimental and electro artist, with 7 gigs on soundcheck across Berlin and Paris. Often billed alongside Uxile, Agnese Menguzzato and Ah! Kosmos. Next up: Volksbühne, Berlin on Mon 2 Nov.
 
@@ -23,4 +23,4 @@ Simone Antonioni is an experimental and electro artist, with 7 gigs on soundchec
 
 Uxile, Agnese Menguzzato, Ah! Kosmos
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simoneantonioni/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simoneantonioni/)*

@@ -1,8 +1,8 @@
 # Euphonique
 
-Euphonique is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Nowhere Tavern, West-wales on Fri, 6 Nov 2026.
+Euphonique is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Nowhere Tavern, West-wales on Fri, 6 Nov 2026.
 
-Euphonique is a drum & bass and jungle artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Bristol, Detroit and Glasgow and 10 more. Often billed alongside DJ SS, Aries and Chimpo. Next up: The Nowhere Tavern, West Wales on Fri 6 Nov.
+Euphonique is a drum & bass and jungle artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Detroit and 11 more. Often billed alongside DJ SS, Aries and Chimpo. Next up: The Nowhere Tavern, West Wales on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Euphonique is a drum & bass and jungle artist based in United Kingdom, with 31 g
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | The Nowhere Tavern | West-wales |
 | Fri, 20 Nov 2026 | The Clock Factory | Bristol |
+| Fri, 11 Dec 2026 | Estraperlo | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Euphonique is a drum & bass and jungle artist based in United Kingdom, with 31 g
 
 DJ SS, Aries, Chimpo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euphonique/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euphonique/)*

@@ -1,6 +1,6 @@
 # Kijara
 
-Kijara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Rosie's Bar, Berlin on Sat, 31 Oct 2026.
+Kijara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Rosie's Bar, Berlin on Sat, 31 Oct 2026.
 
 Kijara is a house and techno artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside CEEE, DERICE and Danny Subsonic. Next up: Rosie's Bar, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kijara is a house and techno artist based in Germany, with 12 gigs on soundcheck
 
 CEEE, DERICE, Danny Subsonic
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kijara/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kijara/)*

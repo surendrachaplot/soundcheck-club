@@ -1,6 +1,6 @@
 # Kalozin
 
-Kalozin is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at ciao ciao Bar, Berlin on Wed, 28 Oct 2026.
+Kalozin is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at ciao ciao Bar, Berlin on Wed, 28 Oct 2026.
 
 Kalozin is an ambient and electronica artist, with 6 gigs on soundcheck across Berlin, Brussels and Sao Paulo. Often billed alongside Dj Goodboy, Etkin Cekin and Rafush. Next up: ciao ciao Bar, Berlin on Wed 28 Oct.
 
@@ -22,4 +22,4 @@ Kalozin is an ambient and electronica artist, with 6 gigs on soundcheck across B
 
 Dj Goodboy, Etkin Cekin, Rafush
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalozin/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalozin/)*

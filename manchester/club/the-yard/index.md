@@ -1,6 +1,6 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "OBSCURUM ( Halloween X Thadingyut )" on Sat, 31 Oct 2026.
+The Yard is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "OBSCURUM ( Halloween X Thadingyut )" on Sat, 31 Oct 2026.
 
 The Yard is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including 13Ø4, Adam Freeland, Alex Q and Chris Massey and 2 more. See dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
@@ -17,4 +17,4 @@ The Yard is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, w
 
 11 Bent Street, Manchester M8 8NF, Manchester
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*

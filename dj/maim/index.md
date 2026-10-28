@@ -1,6 +1,6 @@
 # MaiM
 
-MaiM is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
+MaiM is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
 MaiM is a techno and club artist based in Spain, with 7 gigs on soundcheck across London and Sydney. Often billed alongside Sixe Fool, ALI RANA and Alythia Kwan. Next up: TBA, Sydney on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ MaiM is a techno and club artist based in Spain, with 7 gigs on soundcheck acros
 
 Sixe Fool, ALI RANA, Alythia Kwan
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maim/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maim/)*

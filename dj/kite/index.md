@@ -1,14 +1,15 @@
 # Kite
 
-Kite is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Süss War Gestern, Berlin on Sat, 31 Oct 2026.
+Kite is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Süss War Gestern, Berlin on Sat, 31 Oct 2026.
 
-Kite is a house and tech house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside AWSM, Chris Lustig and Flow State (Endstation Sehnsucht). Next up: Süss War Gestern, Berlin on Sat 31 Oct.
+Kite is a house and tech house artist based in Germany, with 5 gigs on soundcheck across Berlin and Kassel. Often billed alongside AWSM, Chris Lustig and Disscut. Next up: Süss War Gestern, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Süss War Gestern | Berlin |
+| Fri, 6 Nov 2026 | Graf Karl | Kassel |
 | Sat, 28 Nov 2026 | Cassiopeia | Berlin |
 
 ## Recently played
@@ -18,6 +19,6 @@ Kite is a house and tech house artist based in Germany, with 4 gigs on soundchec
 
 ## Shares bills with
 
-AWSM, Chris Lustig, Flow State (Endstation Sehnsucht)
+AWSM, Chris Lustig, Disscut
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kite/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kite/)*

@@ -1,6 +1,6 @@
 # Brash-B
 
-Brash-B is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Wiggle Room, Toronto on Fri, 13 Nov 2026.
+Brash-B is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Wiggle Room, Toronto on Fri, 13 Nov 2026.
 
 Brash-B is a house and deep house artist based in Canada, with 6 gigs on soundcheck across Toronto. Often billed alongside Dan Medland, Jason Palma and LX (CA). Next up: Wiggle Room, Toronto on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Brash-B is a house and deep house artist based in Canada, with 6 gigs on soundch
 
 Dan Medland, Jason Palma, LX (CA)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brash-b/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brash-b/)*

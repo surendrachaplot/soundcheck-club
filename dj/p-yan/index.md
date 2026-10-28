@@ -1,8 +1,8 @@
 # P-YAN
 
-P-YAN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Oath, Tokyo on Fri, 30 Oct 2026.
+P-YAN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Oath, Tokyo on Fri, 30 Oct 2026.
 
-P-YAN is a house and techno artist based in Japan, with 119 gigs on soundcheck across Hanoi, Okinawa, Osaka and Seoul and 1 more. Often billed alongside RYOKEI, Celter and Satoshi Otsuki. Next up: Oath, Tokyo on Fri 30 Oct.
+P-YAN is a house and techno artist based in Japan, with 120 gigs on soundcheck across Hanoi, Okinawa, Osaka and Seoul and 1 more. Often billed alongside RYOKEI, Celter and Satoshi Otsuki. Next up: Oath, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ P-YAN is a house and techno artist based in Japan, with 119 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Oath | Tokyo |
 | Sat, 28 Nov 2026 | Mipama ES SU Casa 宮古島 | Okinawa |
+| Fri, 18 Dec 2026 | Daikanyama ORD. | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ P-YAN is a house and techno artist based in Japan, with 119 gigs on soundcheck a
 
 RYOKEI, Celter, Satoshi Otsuki
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p-yan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p-yan/)*

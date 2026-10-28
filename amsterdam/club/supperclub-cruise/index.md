@@ -1,6 +1,6 @@
 # Supperclub Cruise
 
-Supperclub Cruise is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "STOUT x ZOET · Boat Party" on Sat, 5 Dec 2026.
+Supperclub Cruise is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "STOUT x ZOET · Boat Party" on Sat, 5 Dec 2026.
 
 Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including 86Hz, Alex Sharp, Michael Boldwell and SEZIN A DAY. See dates, start times and who's playing. De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands.
 
@@ -14,4 +14,4 @@ Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 1 upcoming
 
 De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands, Amsterdam
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub-cruise/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub-cruise/)*

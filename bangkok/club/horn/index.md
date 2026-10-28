@@ -1,6 +1,6 @@
 # Horn
 
-Horn is a music venue in Bangkok with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Thursday presents: SUBURB SOUND TOOB TUEK" on Thu, 29 Oct 2026.
+Horn is a music venue in Bangkok with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Thursday presents: SUBURB SOUND TOOB TUEK" on Thu, 29 Oct 2026.
 
 Horn is a music venue in Bangkok listed on soundcheck. 5 upcoming gigs, with line-ups including Animistic Beliefs, Cardi L, CEM and Ciriya and 2 more. See dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
 
@@ -18,4 +18,4 @@ Horn is a music venue in Bangkok listed on soundcheck. 5 upcoming gigs, with lin
 
 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand, Bangkok
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*

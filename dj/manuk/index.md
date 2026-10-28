@@ -1,6 +1,6 @@
 # Manuk
 
-Manuk is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Manuk is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 Manuk is an electronica and techno artist, with 13 gigs on soundcheck across Barcelona, Bogotá and Hamburg. Often billed alongside Antonella Ravagli, Bedriñana and Bluekim. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Manuk is an electronica and techno artist, with 13 gigs on soundcheck across Bar
 
 Antonella Ravagli, Bedriñana, Bluekim
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuk/)*

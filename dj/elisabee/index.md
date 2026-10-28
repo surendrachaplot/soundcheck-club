@@ -1,6 +1,6 @@
 # Elisa Bee
 
-Elisa Bee is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
+Elisa Bee is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
 
 Elisa Bee is a techno and house artist based in Italy, with 80 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Industrial Romantico, Marthial and Acidalia. Next up: glimmer, Hamburg on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Elisa Bee is a techno and house artist based in Italy, with 80 gigs on soundchec
 
 Industrial Romantico, Marthial, Acidalia
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabee/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabee/)*

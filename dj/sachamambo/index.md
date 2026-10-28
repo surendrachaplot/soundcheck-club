@@ -1,14 +1,15 @@
 # Sacha Mambo
 
-Sacha Mambo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Karmakoma, Belgrade on Fri, 30 Oct 2026.
+Sacha Mambo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Karmakoma, Belgrade on Fri, 30 Oct 2026.
 
-Sacha Mambo is a techno and house artist based in France, with 47 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bordeaux and 6 more. Often billed alongside Matej Rusmir, Stevie Whisper and illillillillill. Next up: Karmakoma, Belgrade on Fri 30 Oct.
+Sacha Mambo is a techno and house artist based in France, with 48 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bordeaux and 6 more. Often billed alongside Matej Rusmir, Stevie Whisper and illillillillill. Next up: Karmakoma, Belgrade on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Karmakoma | Belgrade |
+| Sat, 19 Dec 2026 | Tell Me | Sofia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sacha Mambo is a techno and house artist based in France, with 47 gigs on soundc
 
 Matej Rusmir, Stevie Whisper, illillillillill
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sachamambo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sachamambo/)*

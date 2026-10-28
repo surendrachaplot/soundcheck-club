@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "BLUR x SVS' birthday with Decoder, CCL, Boudewijn Ericx" on Sat, 31 Oct 2026.
+UMI is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "BLUR x SVS' birthday with Decoder, CCL, Boudewijn Ericx" on Sat, 31 Oct 2026.
 
 UMI is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including Adi (CO), adobeprincess, Amelia Holt and Andy Martin and 2 more. See dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
@@ -20,4 +20,4 @@ UMI is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with lin
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

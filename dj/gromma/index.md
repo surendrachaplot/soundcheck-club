@@ -1,6 +1,6 @@
 # Gromma
 
-Gromma is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri, 30 Oct 2026.
+Gromma is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri, 30 Oct 2026.
 
 Gromma is a house and techno artist based in Brazil, with 30 gigs on soundcheck across Berlin, Brazil, Buenos Aires and Dublin and 7 more. Often billed alongside Cruz (PT), Royce Larøca and Adnan Sharif. Next up: Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Gromma is a house and techno artist based in Brazil, with 30 gigs on soundcheck 
 
 Cruz (PT), Royce Larøca, Adnan Sharif
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gromma/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gromma/)*

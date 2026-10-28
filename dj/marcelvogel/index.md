@@ -1,6 +1,6 @@
 # Marcel Vogel
 
-Marcel Vogel is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at White Bay Power Station, Sydney on Sat, 6 Mar 2027.
+Marcel Vogel is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at White Bay Power Station, Sydney on Sat, 6 Mar 2027.
 
 Marcel Vogel is a disco and house artist based in Netherlands, with 56 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 13 more. Often billed alongside Apparel Wax, Crazy P and Delfonic. Next up: White Bay Power Station, Sydney on Sat 6 Mar.
 
@@ -25,4 +25,4 @@ Marcel Vogel is a disco and house artist based in Netherlands, with 56 gigs on s
 
 Apparel Wax, Crazy P, Delfonic
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*

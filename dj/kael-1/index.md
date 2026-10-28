@@ -1,14 +1,14 @@
 # KAEL (1)
 
-KAEL (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Martigny Expo., Lausanne on Fri, 22 Jan 2027.
+KAEL (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Martigny Expo., Lausanne on Sat, 23 Jan 2027.
 
-KAEL is a techno and electro artist, with 25 gigs on soundcheck across Amsterdam, Basel, Geneva and Lausanne and 1 more. Often billed alongside Deborah De Luca, Gioski and Enrico Sangiuliano. Next up: Martigny Expo., Lausanne on Fri 22 Jan.
+KAEL is a techno and electro artist, with 25 gigs on soundcheck across Amsterdam, Basel, Geneva and Lausanne and 1 more. Often billed alongside Deborah De Luca, Gioski and Enrico Sangiuliano. Next up: Martigny Expo., Lausanne on Sat 23 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 22 Jan 2027 | Martigny Expo. | Lausanne |
+| Sat, 23 Jan 2027 | Martigny Expo. | Lausanne |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ KAEL is a techno and electro artist, with 25 gigs on soundcheck across Amsterdam
 
 Deborah De Luca, Gioski, Enrico Sangiuliano
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kael-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kael-1/)*

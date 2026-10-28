@@ -1,8 +1,8 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "xtatic dance rave" on Wed, 28 Oct 2026.
+Kauz is a music venue in Zurich with 14 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "xtatic dance rave" on Wed, 28 Oct 2026.
 
-Kauz is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with line-ups including Agonis, Âme, Ander and Anthik and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
+Kauz is a music venue in Zurich listed on soundcheck. 14 upcoming gigs, with line-ups including Agonis, Âme, Ander and Anthik and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Kauz is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with lin
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

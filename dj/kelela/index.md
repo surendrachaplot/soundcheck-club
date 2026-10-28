@@ -1,6 +1,6 @@
 # Kelela
 
-Kelela is a R&B and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Kelela is a R&B and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Kelela is a r&b and electronica artist based in United States of America, with 20 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 14 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Kelela is a r&b and electronica artist based in United States of America, with 2
 
 Arca, Bassvictim, Beltran
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*

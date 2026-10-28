@@ -1,6 +1,6 @@
 # DotTV
 
-DotTV is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
+DotTV is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
 
 DotTV is a techno and psytrance artist based in United Kingdom, with 28 gigs on soundcheck across London, Nottingham and Tokyo. Often billed alongside Kieran Dotwav, TEBI TV and Skybxrn. Next up: WOMB, Tokyo on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ DotTV is a techno and psytrance artist based in United Kingdom, with 28 gigs on 
 
 Kieran Dotwav, TEBI TV, Skybxrn
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dottv/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dottv/)*

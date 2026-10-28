@@ -1,13 +1,14 @@
 # Aubry
 
-Aubry is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 28 Nov 2026.
+Aubry is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Trabendo, Paris on Fri, 30 Oct 2026.
 
-Aubry is a house and techno artist, with 49 gigs on soundcheck across Berlin, Lyon, Marseille and Paris. Often billed alongside Nicol, A-440 and Fenouil2000. Next up: Cabaret Sauvage, Paris on Sat 28 Nov.
+Aubry is a house and techno artist, with 50 gigs on soundcheck across Berlin, Lyon, Marseille and Paris. Often billed alongside Nicol, A-440 and Fenouil2000. Next up: Le Trabendo, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Le Trabendo | Paris |
 | Sat, 28 Nov 2026 | Cabaret Sauvage | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Aubry is a house and techno artist, with 49 gigs on soundcheck across Berlin, Ly
 
 Nicol, A-440, Fenouil2000
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aubry/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aubry/)*

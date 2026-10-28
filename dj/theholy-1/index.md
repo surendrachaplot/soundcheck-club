@@ -1,6 +1,6 @@
 # THE HOLY (1)
 
-THE HOLY (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Igloofest, Montreal on Fri, 15 Jan 2027.
+THE HOLY (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Igloofest, Montreal on Fri, 15 Jan 2027.
 
 THE HOLY is a house and techno artist based in Canada, with 26 gigs on soundcheck across Berlin and Montreal. Often billed alongside Anna Rose, Felix Patry and Mazuu. Next up: Igloofest, Montreal on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ THE HOLY is a house and techno artist based in Canada, with 26 gigs on soundchec
 
 Anna Rose, Felix Patry, Mazuu
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theholy-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theholy-1/)*

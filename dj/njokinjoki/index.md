@@ -1,14 +1,15 @@
 # Njoki Njoki
 
-Njoki Njoki is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Vancouver on Sat, 14 Nov 2026.
+Njoki Njoki is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Vancouver on Sat, 14 Nov 2026.
 
-Njoki Njoki is a techno and bass artist based in Canada, with 34 gigs on soundcheck across Montreal and Vancouver. Often billed alongside Brendocha, DR BPM and Frankie Teardrop. Next up: TBA, Vancouver on Sat 14 Nov.
+Njoki Njoki is a techno and bass artist based in Canada, with 35 gigs on soundcheck across Montreal and Vancouver. Often billed alongside Brendocha, DR BPM and Frankie Teardrop. Next up: TBA, Vancouver on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA | Vancouver |
+| Thu, 10 Dec 2026 | Biltmore Cabaret | Vancouver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Njoki Njoki is a techno and bass artist based in Canada, with 34 gigs on soundch
 
 Brendocha, DR BPM, Frankie Teardrop
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/njokinjoki/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/njokinjoki/)*

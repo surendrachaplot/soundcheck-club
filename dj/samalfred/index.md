@@ -1,6 +1,6 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Liquid Room, Edinburgh on Sat, 31 Oct 2026.
+Sam Alfred is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Liquid Room, Edinburgh on Sat, 31 Oct 2026.
 
 Sam Alfred is a house and techno artist based in Egypt, with 159 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: The Liquid Room, Edinburgh on Sat 31 Oct.
 
@@ -36,4 +36,4 @@ Sam Alfred is a house and techno artist based in Egypt, with 159 gigs on soundch
 
 Club Angel, SAIDAH, X CLUB.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

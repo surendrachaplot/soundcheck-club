@@ -1,6 +1,6 @@
-# HALLOWEEN Le Bain + BOOM at Le Bain
+# HALLOWEEN Le Bain + Boom at Le Bain
 
-HALLOWEEN Le Bain + BOOM on Sat 31 Oct, New York City. 7 artists: ali rq, Fundido, Harim and INJI and 3 more. See the line-up on soundcheck.
+HALLOWEEN Le Bain + Boom on Sat 31 Oct, New York City. 7 artists: ali rq, Fundido, Harim and INJI and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

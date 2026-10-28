@@ -1,8 +1,8 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Toffler presents GWELD (LIVE), REDBATUN (HYBRID LIVE)" on Fri, 30 Oct 2026.
+Toffler is a music venue in Rotterdam with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Toffler presents GWELD (LIVE), REDBATUN (HYBRID LIVE)" on Fri, 30 Oct 2026.
 
-Toffler is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, with line-ups including AIS, Ben Horton, Bumpr and DAF and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
+Toffler is a music venue in Rotterdam listed on soundcheck. 11 upcoming gigs, with line-ups including AIS, Ben Horton, Bumpr and DAF and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 10 upcoming gigs, wi
 | Fri, 20 Nov 2026 | TOFFLER presents Max Styler | Mat Eclair, Max Styler |
 | Sat, 21 Nov 2026 | TOFFLER presents DAF and friends | DAF, LEXI (BE) |
 | Fri, 4 Dec 2026 | TOFFLER presents Justin Tinderdate B2B Elotrance (3HR set) | Elotrance, Justin Tinderdate, NIKKI (3), S3PPA |
+| Sat, 5 Dec 2026 | Toffler presents GIGSTA B2B Fabio Santos (3HR set) | Fabio Santos, Itz3bby, Ive Lovers |
 | Sat, 12 Dec 2026 | Toffler presents Menesix [All Night Long] | MENESIX |
-| Sat, 19 Dec 2026 | Toffler presents Chris Luno | Ben Horton, Bumpr |
 
 ## Address
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

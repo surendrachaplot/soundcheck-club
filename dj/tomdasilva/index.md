@@ -1,6 +1,6 @@
 # Tom Da Silva
 
-Tom Da Silva is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
+Tom Da Silva is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
 
 Tom Da Silva is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Ibiza, Liverpool and London. Often billed alongside James Lavelle, Phill de Janeiro and Jude Lenihan. Next up: NUMBER 90 LONDON, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Tom Da Silva is a house and tech house artist based in United Kingdom, with 18 g
 
 James Lavelle (2), Phill de Janeiro, Jude Lenihan
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomdasilva/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomdasilva/)*

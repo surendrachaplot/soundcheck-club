@@ -12,6 +12,6 @@ DJ THADZ, TONIC, & Honey Dip at Bossa Nova Civic Club on Sun 6 Dec, New York Cit
 
 - DJ THADZ
 - Honey Dip
-- TONIC (3)
+- TONIC
 
 *Source: [soundcheck](https://soundcheck.club/e/2568076-dj-thadz-tonic-honey-dip-at-bossa-nova-civic-club/)*

@@ -1,6 +1,6 @@
 # Emmytee
 
-Emmytee is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
+Emmytee is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
 
 Emmytee is a techno and bass artist based in Vietnam, with 39 gigs on soundcheck across Hanoi. Often billed alongside LINHTONIK, HDMI? and Komga. Next up: Red River Cruise, Hanoi on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Emmytee is a techno and bass artist based in Vietnam, with 39 gigs on soundcheck
 
 LINHTONIK, HDMI?, Komga
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmytee/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmytee/)*

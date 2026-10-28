@@ -1,6 +1,6 @@
 # Shaleen
 
-Shaleen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
+Shaleen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
 
 Shaleen is a techno and house artist based in Germany, with 155 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 26 more. Often billed alongside Ellen Allien, JANEIN and Stigmatique. Next up: Tresor.West, Dortmund / Essen on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Shaleen is a techno and house artist based in Germany, with 155 gigs on soundche
 
 Ellen Allien, JANEIN, Stigmatique
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaleen/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaleen/)*

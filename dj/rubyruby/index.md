@@ -1,6 +1,6 @@
 # Ruby Ruby
 
-Ruby Ruby is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eiger Studios, Leeds on Sat, 5 Dec 2026.
+Ruby Ruby is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eiger Studios, Leeds on Sat, 5 Dec 2026.
 
 Ruby Ruby is a house and electro artist, with 30 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Oscar (MITHA), Jive Talk and DMX Krew. Next up: Eiger Studios, Leeds on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ruby Ruby is a house and electro artist, with 30 gigs on soundcheck across Leeds
 
 Oscar (MITHA), Jive Talk, DMX Krew
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyruby/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyruby/)*

@@ -1,6 +1,6 @@
 # Portamento (2)
 
-Portamento (2) is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Volo, Rome on Fri, 30 Oct 2026.
+Portamento (2) is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Volo, Rome on Fri, 30 Oct 2026.
 
 Portamento is an experimental and bass artist, with 17 gigs on soundcheck across Bologna, Naples and Rome. Often billed alongside Mira Vivian, Akiï and Bluemarina. Next up: Bar Volo, Rome on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Portamento is an experimental and bass artist, with 17 gigs on soundcheck across
 
 Mira Vivian, Akiï, Bluemarina
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/portamento-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/portamento-2/)*

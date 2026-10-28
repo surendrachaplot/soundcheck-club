@@ -1,6 +1,6 @@
 # WE ARE NOT ALONE at RSO.BERLIN
 
-WE ARE NOT ALONE at RSO.BERLIN on Sat 26 Dec, Berlin. 9 artists: CRAVO, Dr. Rubinstein, Magda and OLHA and 5 more. Techno. See the line-up on soundcheck.
+WE ARE NOT ALONE at RSO.BERLIN on Sat 26 Dec, Berlin. 10 artists: CRAVO, Dr. Rubinstein, Ellen Allien and Magda and 6 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ WE ARE NOT ALONE at RSO.BERLIN on Sat 26 Dec, Berlin. 9 artists: CRAVO, Dr. Rubi
 
 - CRAVO
 - Dr. Rubinstein
+- Ellen Allien
 - Magda
 - OLHA
 - Quest

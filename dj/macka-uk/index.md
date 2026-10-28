@@ -1,6 +1,6 @@
 # Macka
 
-Macka is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 28 Oct 2026.
+Macka is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 28 Oct 2026.
 
 Macka is a house and disco artist based in United Kingdom, with 55 gigs on soundcheck across Budapest, Edinburgh, Glasgow and London and 1 more. Often billed alongside Lowree, Josh Buchanan and Jude Natural. Next up: Sneaky Pete's, Edinburgh on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ Macka is a house and disco artist based in United Kingdom, with 55 gigs on sound
 
 Lowree, Josh Buchanan, Jude Natural
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macka-uk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macka-uk/)*

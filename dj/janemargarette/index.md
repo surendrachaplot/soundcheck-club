@@ -1,6 +1,6 @@
 # Jane Margarette
 
-Jane Margarette is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Blipsy Bar, Los Angeles on Fri, 30 Oct 2026.
+Jane Margarette is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Blipsy Bar, Los Angeles on Fri, 30 Oct 2026.
 
 Jane Margarette is a techno and experimental artist based in United States of America, with 20 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Luke Mele, Amelia Holt and Danny Goliger. Next up: Blipsy Bar, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jane Margarette is a techno and experimental artist based in United States of Am
 
 Luke Mele, Amelia Holt, Danny Goliger
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janemargarette/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janemargarette/)*

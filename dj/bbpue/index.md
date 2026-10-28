@@ -1,6 +1,6 @@
 # bbpue
 
-bbpue is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
+bbpue is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
 
 bbpue is an electronica and club artist based in United States of America, with 7 gigs on soundcheck across Berlin, New York City and Prague. Often billed alongside 300SkullsAndCounting, 3l3d3p and ALCATRAZ. Next up: Hoppetosse, Berlin on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ bbpue is an electronica and club artist based in United States of America, with 
 
 300SkullsAndCounting, 3l3d3p, ALCATRAZ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbpue/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbpue/)*

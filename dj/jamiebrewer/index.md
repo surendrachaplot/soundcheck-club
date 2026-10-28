@@ -1,6 +1,6 @@
 # Jamie Brewer
 
-Jamie Brewer is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
+Jamie Brewer is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
 
 Jamie Brewer is a bass and drum & bass artist based in United Kingdom, with 6 gigs on soundcheck across Manchester and Newcastle. Often billed alongside Mindstate, dogger and Ben Prophet. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Jamie Brewer is a bass and drum & bass artist based in United Kingdom, with 6 gi
 
 Mindstate, dogger, Ben Prophet
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebrewer/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebrewer/)*

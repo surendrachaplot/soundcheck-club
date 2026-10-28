@@ -1,6 +1,6 @@
 # Urban
 
-Urban is a Afro House and Pop artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - The All Out, Amsterdam, Amsterdam on Sat, 31 Oct 2026.
+Urban is a Afro House and Pop artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - The All Out, Amsterdam, Amsterdam on Sat, 31 Oct 2026.
 
 Urban is an afro house and pop artist based in Poland, with 6 gigs on soundcheck across Amsterdam, Lausanne and Nürnberg. Often billed alongside Aries, Avocado and Baerbel. Next up: TBA - The All Out, Amsterdam, Amsterdam on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Urban is an afro house and pop artist based in Poland, with 6 gigs on soundcheck
 
 Aries, Avocado, Baerbel
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urban/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urban/)*

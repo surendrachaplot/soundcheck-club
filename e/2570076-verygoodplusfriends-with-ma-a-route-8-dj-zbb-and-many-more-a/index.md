@@ -1,6 +1,6 @@
 # VeryGoodPlusFriends with Maša, Route 8, DJ ZBB and many more at Atno
 
-VeryGoodPlusFriends with Maša, Route 8, DJ ZBB and many more at Atno on Fri 27 Nov, Budapest. 8 artists: Claudio Imperatrice, DJ ZBB, Johanna Elias and maša (SI) and 4 more. See the line-up on soundcheck.
+VeryGoodPlusFriends with Maša, Route 8, DJ ZBB and many more at Atno on Fri 27 Nov, Budapest. 8 artists: Claudio Imperatrice, DJ ZBB, Johanna Elias and maša (SI) and 4 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

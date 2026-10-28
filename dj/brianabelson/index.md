@@ -1,6 +1,6 @@
 # Brian Abelson
 
-Brian Abelson is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nightmoves, New York City on Sat, 7 Nov 2026.
+Brian Abelson is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Nightmoves, New York City on Sat, 7 Nov 2026.
 
 Brian Abelson is a house and ambient artist, with 10 gigs on soundcheck across New York City. Often billed alongside A Tripp, John Barera and Sobolik. Next up: Nightmoves, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Brian Abelson is a house and ambient artist, with 10 gigs on soundcheck across N
 
 A Tripp, John Barera, Sobolik
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brianabelson/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brianabelson/)*

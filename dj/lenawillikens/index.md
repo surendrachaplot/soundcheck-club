@@ -1,6 +1,6 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Lena Willikens is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Lena Willikens is a techno and house artist based in Germany, with 226 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Lena Willikens is a techno and house artist based in Germany, with 226 gigs on s
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

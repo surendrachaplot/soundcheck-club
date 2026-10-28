@@ -1,6 +1,6 @@
 # blissy e
 
-blissy e is a House and Broken Beat artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at NT's Loft, London on Sat, 31 Oct 2026.
+blissy e is a House and Broken Beat artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at NT's Loft, London on Sat, 31 Oct 2026.
 
 blissy e is a house and broken beat artist based in United Kingdom, with 48 gigs on soundcheck across London. Often billed alongside DREY (UK), GENIETUNES and Mr. Redley. Next up: NT's Loft, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ blissy e is a house and broken beat artist based in United Kingdom, with 48 gigs
 
 DREY (UK), GENIETUNES, Mr. Redley
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blissye/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blissye/)*

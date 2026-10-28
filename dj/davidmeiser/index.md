@@ -1,6 +1,6 @@
 # David Meiser
 
-David Meiser is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
+David Meiser is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
 David Meiser is a techno and acid artist based in Spain, with 25 gigs on soundcheck across Barcelona, Bogotá, Buenos Aires and Chicago and 6 more. Often billed alongside CESAR ALMENA, Chlär and Dj Pepo. Next up: Fabrik, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ David Meiser is a techno and acid artist based in Spain, with 25 gigs on soundch
 
 CESAR ALMENA, Chlär, Dj Pepo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmeiser/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmeiser/)*

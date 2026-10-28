@@ -1,6 +1,6 @@
 # Seto
 
-Seto is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Aahhh Rooftop, Munich on Sat, 7 Nov 2026.
+Seto is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Aahhh Rooftop, Munich on Sat, 7 Nov 2026.
 
 Seto is a trance and house artist based in Germany, with 7 gigs on soundcheck across Amsterdam and Munich. Often billed alongside Noah Kulaga, KINNIKS and Mando. Next up: Aahhh Rooftop, Munich on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Seto is a trance and house artist based in Germany, with 7 gigs on soundcheck ac
 
 Noah Kulaga, KINNIKS, Mando
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seto/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seto/)*

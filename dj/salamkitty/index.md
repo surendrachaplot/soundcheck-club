@@ -1,14 +1,15 @@
 # Salam Kitty
 
-Salam Kitty is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Bongo Club, Edinburgh on Wed, 28 Oct 2026.
+Salam Kitty is a Club and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Bongo Club, Edinburgh on Wed, 28 Oct 2026.
 
-Salam Kitty is a club and house artist based in United Kingdom, with 53 gigs on soundcheck across Edinburgh, Glasgow, London and Seoul. Often billed alongside Bellarosa, DIJA and HUNTRESS. Next up: The Bongo Club, Edinburgh on Wed 28 Oct.
+Salam Kitty is a club and afro tech artist based in United Kingdom, with 54 gigs on soundcheck across Edinburgh, Glasgow, London and Seoul. Often billed alongside Bellarosa, DIJA and HUNTRESS. Next up: The Bongo Club, Edinburgh on Wed 28 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 28 Oct 2026 | The Bongo Club | Edinburgh |
+| Tue, 10 Nov 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Salam Kitty is a club and house artist based in United Kingdom, with 53 gigs on 
 
 Bellarosa, DIJA, HUNTRESS
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salamkitty/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salamkitty/)*

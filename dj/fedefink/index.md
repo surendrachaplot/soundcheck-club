@@ -1,6 +1,6 @@
 # FedeFink
 
-FedeFink is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
+FedeFink is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
 
 FedeFink is a progressive house and house artist, with 14 gigs on soundcheck across Madrid. Often billed alongside BlackChilli, Anzhio and EKEL. Next up: TBA - SECRET LOCATION - LA FINCA, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ FedeFink is a progressive house and house artist, with 14 gigs on soundcheck acr
 
 BlackChilli, Anzhio, EKEL
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefink/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefink/)*

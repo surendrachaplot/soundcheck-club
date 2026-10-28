@@ -1,6 +1,6 @@
 # Inner City
 
-Inner City is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at House of Yes, New York City on Fri, 11 Dec 2026.
+Inner City is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at House of Yes, New York City on Fri, 11 Dec 2026.
 
 Inner City is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Chicago, Detroit, Glasgow and Helsinki and 14 more. Often billed alongside Roger Sanchez, Kevin Saunderson and DJ Paulette. Next up: House of Yes, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Inner City is a house and techno artist based in United States of America, with 
 
 Roger Sanchez, Kevin Saunderson, DJ Paulette
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innercity/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innercity/)*

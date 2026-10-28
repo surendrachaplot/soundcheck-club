@@ -1,8 +1,8 @@
 # halle02
 
-halle02 is a music venue in Heidelberg with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Alle Farben Club Tour 2026" on Fri, 30 Oct 2026.
+halle02 is a music venue in Heidelberg with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Alle Farben Club Tour 2026" on Fri, 30 Oct 2026.
 
-halle02 is a music venue in Heidelberg listed on soundcheck. 7 upcoming gigs, with line-ups including Alle Farben, DeGuzman, DJ Achim Feuervogel and Felix Kröcher and 2 more. See dates, start times and who's playing. Zollhofgarten 2, 69115 Heidelberg.
+halle02 is a music venue in Heidelberg listed on soundcheck. 8 upcoming gigs, with line-ups including Alle Farben, DeGuzman, DJ Achim Feuervogel and Dominik Eulberg and 2 more. See dates, start times and who's playing. Zollhofgarten 2, 69115 Heidelberg.
 
 ## What's on
 
@@ -10,6 +10,7 @@ halle02 is a music venue in Heidelberg listed on soundcheck. 7 upcoming gigs, wi
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Alle Farben Club Tour 2026 | Alle Farben |
 | Thu, 5 Nov 2026 | In Control: Nox Kollektiv |  |
+| Fri, 13 Nov 2026 | Electrolegacy mit Dominik Eulberg | Dominik Eulberg, Feydh Rotan, Labohr |
 | Thu, 19 Nov 2026 | In Control: Heidelberg Allstars |  |
 | Sat, 21 Nov 2026 | ELECTRIC HORIZON INDOOR | DJ Achim Feuervogel, DeGuzman, In Verruf, Paraçek, S!LA |
 | Sat, 28 Nov 2026 | Liquicity Heidelberg 2026 | Fox Stevenson, Grafix, Lexurus, Technimatic |
@@ -20,4 +21,4 @@ halle02 is a music venue in Heidelberg listed on soundcheck. 7 upcoming gigs, wi
 
 Zollhofgarten 2, 69115 Heidelberg, Heidelberg
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/heidelberg/club/halle02/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/heidelberg/club/halle02/)*

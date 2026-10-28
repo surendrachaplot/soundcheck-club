@@ -1,6 +1,6 @@
 # The Sonder Bar
 
-The Sonder Bar is a music venue in Portland with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "The Function" on Fri, 30 Oct 2026.
+The Sonder Bar is a music venue in Portland with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "The Function" on Fri, 30 Oct 2026.
 
 The Sonder Bar is a music venue in Portland listed on soundcheck. 4 upcoming gigs, with line-ups including Debbie, Electrokid and Murat. See dates, start times and who's playing. 1925 NE 42nd Ave, Portland, OR 97213.
 
@@ -17,4 +17,4 @@ The Sonder Bar is a music venue in Portland listed on soundcheck. 4 upcoming gig
 
 1925 NE 42nd Ave, Portland, OR 97213, Portland
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-sonder-bar/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-sonder-bar/)*

@@ -1,14 +1,15 @@
 # Metrika
 
-Metrika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Metrika is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-Metrika is a house and techno artist based in Mexico, with 59 gigs on soundcheck across Barcelona, Guadalajara, Los Angeles and Madrid and 5 more. Often billed alongside Balcazar, Rebolledo and Cabizbajo. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+Metrika is a house and techno artist based in Mexico, with 60 gigs on soundcheck across Barcelona, Guadalajara, Los Angeles and Madrid and 6 more. Often billed alongside Balcazar, Rebolledo and Cabizbajo. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
+| Sat, 5 Dec 2026 | Autódromo de Interlagos | Sao Paulo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Metrika is a house and techno artist based in Mexico, with 59 gigs on soundcheck
 
 Balcazar, Rebolledo, Cabizbajo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metrika/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metrika/)*

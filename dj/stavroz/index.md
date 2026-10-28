@@ -1,6 +1,6 @@
 # Stavroz
 
-Stavroz is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
+Stavroz is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
 
 Stavroz is a house and electronica artist based in Belgium, with 66 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 23 more. Often billed alongside Mira, Lola Bozzano and Myd. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Stavroz is a house and electronica artist based in Belgium, with 66 gigs on soun
 
 Mira, Lola Bozzano, Myd
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stavroz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stavroz/)*

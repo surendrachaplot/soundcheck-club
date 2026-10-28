@@ -1,6 +1,6 @@
 # Etzo
 
-Etzo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+Etzo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
 Etzo is a house and techno artist based in Germany, with 30 gigs on soundcheck across Berlin, Budapest, Hamburg and Munich. Often billed alongside Lily Lillemor, Pauli Pocket and Foolik. Next up: Kater, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Etzo is a house and techno artist based in Germany, with 30 gigs on soundcheck a
 
 Lily Lillemor, Pauli Pocket, Foolik
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etzo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etzo/)*

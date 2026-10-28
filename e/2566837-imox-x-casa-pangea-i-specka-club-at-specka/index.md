@@ -1,6 +1,6 @@
 # Imox x Casa Pangea I Specka Club at Specka
 
-Imox x Casa Pangea I Specka Club on Fri 20 Nov, Madrid. 4 artists: Cilla, Imox, Luci B and Os Irmãos. Techno and Electronica. See the line-up on soundcheck.
+Imox x Casa Pangea I Specka Club on Fri 20 Nov, Madrid. 4 artists: Cilla (AU), Imox, Luci B and Os Irmãos. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Imox x Casa Pangea I Specka Club on Fri 20 Nov, Madrid. 4 artists: Cilla, Imox, 
 
 ## Line-up
 
-- Cilla
+- Cilla (AU)
 - Imox
 - Luci B
 - Os Irmãos

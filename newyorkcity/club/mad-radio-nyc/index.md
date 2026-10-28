@@ -1,6 +1,6 @@
 # MAD Radio NYC
 
-MAD Radio NYC is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Juan Fawcett" on Wed, 28 Oct 2026.
+MAD Radio NYC is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Juan Fawcett" on Wed, 28 Oct 2026.
 
 MAD Radio NYC is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Amelia Holt, Chilly & Gams, Gamma Vibes and J.N.R. and 2 more. See dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
 
@@ -19,4 +19,4 @@ MAD Radio NYC is a music venue in New York City listed on soundcheck. 6 upcoming
 
 395 WYTHE AVE, BROOKLYN, NEW YORK, New York City
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*

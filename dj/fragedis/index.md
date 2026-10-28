@@ -1,6 +1,6 @@
 # FRAGEDIS
 
-FRAGEDIS is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Astron Club, Athens on Sat, 7 Nov 2026.
+FRAGEDIS is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Astron Club, Athens on Sat, 7 Nov 2026.
 
 FRAGEDIS is a techno and electro artist, with 19 gigs on soundcheck across Athens and Barcelona. Often billed alongside .Fro., Anthony Linell and Bekha Mujiri. Next up: Astron Club, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ FRAGEDIS is a techno and electro artist, with 19 gigs on soundcheck across Athen
 
 .Fro., Anthony Linell, Bekha Mujiri
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fragedis/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fragedis/)*

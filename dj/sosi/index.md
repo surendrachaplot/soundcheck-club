@@ -1,6 +1,6 @@
 # sosi
 
-sosi is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Silly (Bosi), London on Sat, 7 Nov 2026.
+sosi is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Silly (Bosi), London on Sat, 7 Nov 2026.
 
 sosi is a drum & bass and jungle artist, with 16 gigs on soundcheck across Edinburgh, London and New York City. Often billed alongside DJ Nope, BLCKLST and DJ eh. Next up: Club Silly (Bosi), London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ sosi is a drum & bass and jungle artist, with 16 gigs on soundcheck across Edinb
 
 DJ Nope, BLCKLST, DJ eh
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosi/)*

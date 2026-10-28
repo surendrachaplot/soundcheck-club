@@ -1,6 +1,6 @@
 # EMAILLE
 
-EMAILLE is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Paula, Dresden on Fri, 20 Nov 2026.
+EMAILLE is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Paula, Dresden on Fri, 20 Nov 2026.
 
 EMAILLE is a techno and ambient artist based in Germany, with 6 gigs on soundcheck across Berlin, Dresden and Hannover. Often billed alongside Eliseo Adri, 4NOUK and Amo (IT). Next up: Club Paula, Dresden on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ EMAILLE is a techno and ambient artist based in Germany, with 6 gigs on soundche
 
 Eliseo Adri, 4NOUK, Amo (IT)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emaille/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emaille/)*

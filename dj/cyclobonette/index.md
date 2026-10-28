@@ -1,6 +1,6 @@
 # CYCLO BONETTE
 
-CYCLO BONETTE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Jupiter Disco, New York City on Wed, 11 Nov 2026.
+CYCLO BONETTE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Jupiter Disco, New York City on Wed, 11 Nov 2026.
 
 CYCLO BONETTE is a house and techno artist based in Lebanon, with 28 gigs on soundcheck across Boston and New York City. Often billed alongside Maxwellbean, Astral_Dejection and Headphones Girl. Next up: Jupiter Disco, New York City on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ CYCLO BONETTE is a house and techno artist based in Lebanon, with 28 gigs on sou
 
 Maxwellbean, Astral_Dejection, Headphones Girl
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyclobonette/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyclobonette/)*

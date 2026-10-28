@@ -1,6 +1,6 @@
 # Shannyn Hill
 
-Shannyn Hill is a R&B and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Lobby at Ace Hotel Toronto, Toronto on Fri, 30 Oct 2026.
+Shannyn Hill is a R&B and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Lobby at Ace Hotel Toronto, Toronto on Fri, 30 Oct 2026.
 
 Shannyn Hill is a r&b and hip-hop artist based in Canada, with 7 gigs on soundcheck across Toronto. Often billed alongside Black Catt, Craig Dominic and SHERA. Next up: The Lobby at Ace Hotel Toronto, Toronto on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Shannyn Hill is a r&b and hip-hop artist based in Canada, with 7 gigs on soundch
 
 Black Catt, Craig Dominic, SHERA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannynhill/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannynhill/)*

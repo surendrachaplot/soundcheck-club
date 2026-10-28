@@ -1,6 +1,6 @@
 # proche
 
-proche is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Vancouver on Sat, 31 Oct 2026.
+proche is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Vancouver on Sat, 31 Oct 2026.
 
 proche is a techno and minimal artist, with 7 gigs on soundcheck across Vancouver. Often billed alongside INNEZZ, 2flowers and Atrament. Next up: TBA, Vancouver on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ proche is a techno and minimal artist, with 7 gigs on soundcheck across Vancouve
 
 INNEZZ, 2flowers, Atrament
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proche/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proche/)*

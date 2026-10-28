@@ -1,14 +1,15 @@
 # Matt Sassari
 
-Matt Sassari is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at SILO, New York City on Sat, 7 Nov 2026.
+Matt Sassari is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at SILO, New York City on Sat, 7 Nov 2026.
 
-Matt Sassari is a tech house and techno artist based in France, with 80 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 39 more. Often billed alongside Kygo, Will Clarke and David Guetta. Next up: SILO, New York City on Sat 7 Nov.
+Matt Sassari is a tech house and techno artist based in France, with 81 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 39 more. Often billed alongside Kygo, Will Clarke and David Guetta. Next up: SILO, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | SILO | New York City |
+| Fri, 11 Dec 2026 | Radius | Chicago |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Matt Sassari is a tech house and techno artist based in France, with 80 gigs on 
 
 Kygo, Will Clarke, David Guetta
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*

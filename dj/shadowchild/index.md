@@ -1,6 +1,6 @@
 # Shadow Child
 
-Shadow Child is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Shadow Child is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 Shadow Child is a deep house and house artist based in United Kingdom, with 22 gigs on soundcheck across Birmingham, Dublin, Leeds and London and 1 more. Often billed alongside Miguel Campbell, Amine Edge and Huxley. Next up: fabric, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Shadow Child is a deep house and house artist based in United Kingdom, with 22 g
 
 Miguel Campbell, Amine Edge, Huxley
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowchild/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowchild/)*

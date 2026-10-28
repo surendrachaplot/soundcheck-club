@@ -1,6 +1,6 @@
 # The Legendary Sasha – Last Night On Earth Showcase by Red Sessions at Bikini Club
 
-The Legendary Sasha – Last Night On Earth Showcase by Red Sessions at Bikini Club on Sat 7 Nov, Barcelona. 2 artists: SACK (AR) and Sasha. Progressive House. See the line-up on soundcheck.
+The Legendary Sasha – Last Night On Earth Showcase by Red Sessions at Bikini Club on Sat 7 Nov, Barcelona. 3 artists: LARROSA (AR), SACK (AR) and Sasha. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Legendary Sasha – Last Night On Earth Showcase by Red Sessions at Bikini C
 
 ## Line-up
 
+- LARROSA (AR)
 - SACK (AR)
 - Sasha
 

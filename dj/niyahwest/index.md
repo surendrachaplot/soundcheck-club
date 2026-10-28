@@ -1,6 +1,6 @@
 # Niyah West
 
-Niyah West is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 3 Nov 2026.
+Niyah West is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 3 Nov 2026.
 
 Niyah West is a house and techno artist based in United States of America, with 113 gigs on soundcheck across Berlin, Copenhagen, Detroit and Los Angeles and 4 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: Bossa Nova Civic Club, New York City on Tue 3 Nov.
 
@@ -28,4 +28,4 @@ Niyah West is a house and techno artist based in United States of America, with 
 
 DJ Shannon, theoretic, Kilopatrah Jones
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*

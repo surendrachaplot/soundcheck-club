@@ -1,6 +1,6 @@
 # Tom Silver
 
-Tom Silver is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at M1 Club, Vienna on Sat, 31 Oct 2026.
+Tom Silver is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at M1 Club, Vienna on Sat, 31 Oct 2026.
 
 Tom Silver is a techno and tech house artist, with 10 gigs on soundcheck across Barcelona, Ibiza, London and Vienna. Often billed alongside Luca P, No Else and Charlie Harvey. Next up: M1 Club, Vienna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tom Silver is a techno and tech house artist, with 10 gigs on soundcheck across 
 
 Luca P, No Else, Charlie Harvey
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomsilver/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomsilver/)*

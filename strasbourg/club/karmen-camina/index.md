@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 13 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić]" on Thu, 29 Oct 2026.
+Karmen Camina is a music venue in Strasbourg with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić]" on Thu, 29 Oct 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 13 upcoming gigs, with line-ups including Amadeo Savio, Arbo, Bitter Babe and Bjr Alex and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -16,11 +16,11 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 13 upcoming g
 | Sat, 7 Nov 2026 | KC [Ollie Lishman • RUIZ OSC1 • TristeTrans • VOIDE] | Ollie Lishman, RUIZ OSC1 |
 | Sat, 14 Nov 2026 | KC x FLASHBALL [Nicolas Lutz • Sedef Adasï • Mel • Sanon] | Nicolas Lutz, Sedef Adasï |
 | Fri, 20 Nov 2026 | Keep Hush X SPECTR with DRIIA (uk), Noli (uk) | DRIIA, GTK (1) |
-| Sat, 21 Nov 2026 | KC [Randomer • TBA] | Randomer |
+| Sat, 21 Nov 2026 | KC [Randomer • Cryptofauna • Die Klar • Justine Maze • Staary] | Cryptofauna, Die Klar, Justine Maze, Randomer |
 | Sat, 28 Nov 2026 | HEISSS x 31Hertz [Disguised • Juri Heidemann • Kim She • Aligatou • Arbo • Neurone • Ochenne] | Arbo, Disguised, Juri Heidemann, Kim She |
 
 ## Address
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

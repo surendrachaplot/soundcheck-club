@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 30 Dec, Berlin. 2 artists: KunstTechnologe and PETDuo. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 30 Dec, Berlin. 3 artists: ALICA RØUGH, KunstTechnologe and PETDuo. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TECHNO MITTWOCH at Sensorium on Wed 30 Dec, Berlin. 2 artists: KunstTechnologe a
 
 ## Line-up
 
+- ALICA RØUGH
 - KunstTechnologe
 - PETDuo
 

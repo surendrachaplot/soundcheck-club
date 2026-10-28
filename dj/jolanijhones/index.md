@@ -1,6 +1,6 @@
 # Jolani Jhones
 
-Jolani Jhones is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at UNLOCKED, London on Fri, 30 Oct 2026.
+Jolani Jhones is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at UNLOCKED, London on Fri, 30 Oct 2026.
 
 Jolani Jhones is a house and club artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Gabriel Muñoz, Diego Armando and Faster Horses. Next up: UNLOCKED, London on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Jolani Jhones is a house and club artist based in Netherlands, with 21 gigs on s
 
 Gabriel Muñoz, Diego Armando, Faster Horses
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolanijhones/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolanijhones/)*

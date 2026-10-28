@@ -1,6 +1,6 @@
 # s-ray
 
-s-ray is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at WDM, Hannover on Fri, 20 Nov 2026.
+s-ray is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at WDM, Hannover on Fri, 20 Nov 2026.
 
 s-ray is a techno and trance artist based in Germany, with 41 gigs on soundcheck across Berlin, Cologne, Dresden and Hannover and 2 more. Often billed alongside :MUMM, Multifun and CHOREOPHILA. Next up: WDM, Hannover on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ s-ray is a techno and trance artist based in Germany, with 41 gigs on soundcheck
 
 :MUMM, Multifun, CHOREOPHILA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s-ray/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s-ray/)*

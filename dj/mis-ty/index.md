@@ -1,6 +1,6 @@
 # Mis-Ty
 
-Mis-Ty is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Upstairs at the 700, Philadelphia on Fri, 6 Nov 2026.
+Mis-Ty is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Upstairs at the 700, Philadelphia on Fri, 6 Nov 2026.
 
 Mis-Ty is a drum & bass and jungle artist, with 7 gigs on soundcheck across Philadelphia. Often billed alongside Armen, Art Cuebik and Joey Breakdown. Next up: Upstairs at the 700, Philadelphia on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Mis-Ty is a drum & bass and jungle artist, with 7 gigs on soundcheck across Phil
 
 Armen, Art Cuebik, Joey Breakdown
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mis-ty/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mis-ty/)*

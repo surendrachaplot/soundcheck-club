@@ -1,6 +1,6 @@
 # Joone
 
-Joone is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Joone is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Joone is a techno and house artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Bratislava, Budapest and Copenhagen and 3 more. Often billed alongside Secret Factory, DJ Rush and Denes Toth. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Joone is a techno and house artist based in United Kingdom, with 17 gigs on soun
 
 Secret Factory, DJ Rush, Denes Toth
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joone/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joone/)*

@@ -1,6 +1,6 @@
 # Drinkss
 
-Drinkss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ruby Room, Tokyo on Sat, 31 Oct 2026.
+Drinkss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ruby Room, Tokyo on Sat, 31 Oct 2026.
 
 Drinkss is a techno and house artist based in Japan, with 27 gigs on soundcheck across Tokyo. Often billed alongside uuu7, Anapol and Takumi's Afterparty. Next up: Ruby Room, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Drinkss is a techno and house artist based in Japan, with 27 gigs on soundcheck 
 
 uuu7, Anapol, Takumi's Afterparty
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drinkss/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drinkss/)*

@@ -1,6 +1,6 @@
 # Dsprfcto
 
-Dsprfcto is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 7 Nov 2026.
+Dsprfcto is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 7 Nov 2026.
 
 Dsprfcto is an electronic artist, with 6 gigs on soundcheck across Barcelona. Often billed alongside Vitorio Testa, Adrian Marth and Arnic. Next up: Razzmatazz, Barcelona on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Dsprfcto is an electronic artist, with 6 gigs on soundcheck across Barcelona. Of
 
 Vitorio Testa, Adrian Marth, Arnic
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dsprfcto/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dsprfcto/)*

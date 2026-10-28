@@ -1,6 +1,6 @@
 # Coss
 
-Coss is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
+Coss is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
 
 Coss is a techno and house artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 6 more. Often billed alongside Zettka, David Benjamin and Peter Schumann. Next up: Beate Uwe, Berlin on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Coss is a techno and house artist based in Germany, with 56 gigs on soundcheck a
 
 Zettka, David Benjamin, Peter Schumann
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coss/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coss/)*

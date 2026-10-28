@@ -1,6 +1,6 @@
 # Simon Kidzoo
 
-Simon Kidzoo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Martiniplaza, Amsterdam on Sat, 21 Nov 2026.
+Simon Kidzoo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Martiniplaza, Amsterdam on Sat, 21 Nov 2026.
 
 Simon Kidzoo is a house and tech house artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Dublin, Ibiza and Madrid and 6 more. Often billed alongside AAT (NL), Easttown and Ammé. Next up: Martiniplaza, Amsterdam on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Simon Kidzoo is a house and tech house artist based in Netherlands, with 34 gigs
 
 AAT (NL), Easttown, Ammé
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkidzoo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkidzoo/)*

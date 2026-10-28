@@ -1,6 +1,6 @@
 # Matter Of Seconds
 
-Matter Of Seconds is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Aparato, Monterrey on Fri, 13 Nov 2026.
+Matter Of Seconds is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Aparato, Monterrey on Fri, 13 Nov 2026.
 
 Matter Of Seconds is a techno and industrial artist, with 6 gigs on soundcheck across Mexico City and Monterrey. Often billed alongside Andrés Sustaita, Avant-Garde Institute and Ojay Synthson. Next up: Aparato, Monterrey on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Matter Of Seconds is a techno and industrial artist, with 6 gigs on soundcheck a
 
 Andrés Sustaita, Avant-Garde Institute, Ojay Synthson
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matterofseconds/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matterofseconds/)*

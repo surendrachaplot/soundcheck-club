@@ -1,6 +1,6 @@
 # Chris Nitti
 
-Chris Nitti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 31 Oct 2026.
+Chris Nitti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 31 Oct 2026.
 
 Chris Nitti is a house and techno artist based in United States of America, with 45 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Rich Thomas, DR MILLER and KayLaSoul. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Chris Nitti is a house and techno artist based in United States of America, with
 
 Rich Thomas, DR MILLER, KayLaSoul
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisnitti/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisnitti/)*

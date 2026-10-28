@@ -1,6 +1,6 @@
 # CHAR
 
-CHAR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
+CHAR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 CHAR is a techno and house artist, with 8 gigs on soundcheck across Berlin, Chicago, Detroit and London and 3 more. Often billed alongside Beezo, European 305 and Gemini. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ CHAR is a techno and house artist, with 8 gigs on soundcheck across Berlin, Chic
 
 Beezo, European 305, Gemini
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/char-fr/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/char-fr/)*

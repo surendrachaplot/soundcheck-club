@@ -1,13 +1,14 @@
 # Emmaculate
 
-Emmaculate is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
+Emmaculate is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bluesquare, Milan on Fri, 13 Nov 2026.
 
-Emmaculate is a house and deep house artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Atlanta, Chicago and Detroit and 6 more. Often billed alongside Terry Hunter, Adorio and Quicktastic. Next up: 93 Feet East, London on Sat 14 Nov.
+Emmaculate is a house and deep house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Atlanta, Chicago and Detroit and 7 more. Often billed alongside Terry Hunter, Adorio and Quicktastic. Next up: Bluesquare, Milan on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Bluesquare | Milan |
 | Sat, 14 Nov 2026 | 93 Feet East | London |
 | Sat, 21 Nov 2026 | The California Clipper | Chicago |
 
@@ -26,4 +27,4 @@ Emmaculate is a house and deep house artist based in United States of America, w
 
 Terry Hunter, Adorio, Quicktastic
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaculate/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaculate/)*

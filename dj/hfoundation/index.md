@@ -1,6 +1,6 @@
 # H-Foundation
 
-H-Foundation is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Soup, Manchester on Fri, 30 Oct 2026.
+H-Foundation is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Soup, Manchester on Fri, 30 Oct 2026.
 
 H-Foundation is a tech house and house artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Chicago, Denver and London and 5 more. Often billed alongside Doc Martin, Frank Haag and Halo Varga. Next up: Soup, Manchester on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ H-Foundation is a tech house and house artist based in United States of America,
 
 Doc Martin, Frank Haag, Halo Varga
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*

@@ -1,6 +1,6 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Disco Inferno: Funk De Nacht" on Sat, 31 Oct 2026.
+Toekomstmuziek is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Disco Inferno: Funk De Nacht" on Sat, 31 Oct 2026.
 
 Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including a51d_with_f, Audiofools, Christoph Cham and Dari¥a and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
@@ -20,4 +20,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 7 upcoming gi
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

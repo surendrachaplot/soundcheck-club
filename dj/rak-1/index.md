@@ -1,6 +1,6 @@
 # RÄK
 
-RÄK is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Prisma, Berlin on Tue, 10 Nov 2026.
+RÄK is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Prisma, Berlin on Tue, 10 Nov 2026.
 
 RÄK is a house and minimal artist based in Germany, with 16 gigs on soundcheck across Berlin, Bogotá and Medellin. Often billed alongside Pornbugs, Rodrigue Denzer and Vantavision. Next up: Prisma, Berlin on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ RÄK is a house and minimal artist based in Germany, with 16 gigs on soundcheck 
 
 Pornbugs, Rodrigue Denzer, Vantavision
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rak-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rak-1/)*

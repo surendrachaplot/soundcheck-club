@@ -1,6 +1,6 @@
 # Gerard Radio
 
-Gerard Radio is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Fri, 30 Oct 2026.
+Gerard Radio is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Fri, 30 Oct 2026.
 
 Gerard Radio is an electronic artist, with 6 gigs on soundcheck across Bogotá. Often billed alongside Alex Bessofen, Antonella Ravagli and La Warrior. Next up: Mad Radio Bogotá, Bogotá on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Gerard Radio is an electronic artist, with 6 gigs on soundcheck across Bogotá. 
 
 Alex Bessofen, Antonella Ravagli, La Warrior
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerardradio/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerardradio/)*

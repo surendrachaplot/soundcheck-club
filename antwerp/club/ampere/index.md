@@ -1,6 +1,6 @@
 # Ampere
 
-Ampere is a music venue in Antwerp with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "9 Jaar Geheimzinnig" on Sat, 31 Oct 2026.
+Ampere is a music venue in Antwerp with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "9 Jaar Geheimzinnig" on Sat, 31 Oct 2026.
 
 Ampere is a music venue in Antwerp listed on soundcheck. 5 upcoming gigs, with line-ups including Dave Clarke, David Vunk, DJ Marky and Fafi Abdel Nour and 2 more. See dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
 
@@ -18,4 +18,4 @@ Ampere is a music venue in Antwerp listed on soundcheck. 5 upcoming gigs, with l
 
 Simonsstraat 21, 2018 Antwerp, BE, Antwerp
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*

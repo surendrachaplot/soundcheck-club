@@ -1,6 +1,6 @@
 # Decibel
 
-Decibel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 28 Oct 2026.
+Decibel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 28 Oct 2026.
 
 Decibel is a house and techno artist based in United States of America, with 24 gigs on soundcheck across Berlin, Detroit, Los Angeles and New York City and 1 more. Often billed alongside Chrissy Please, Decibel Flekx and Destro187. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ Decibel is a house and techno artist based in United States of America, with 24 
 
 Chrissy Please, Decibel Flekx, Destro187
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decibel/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decibel/)*

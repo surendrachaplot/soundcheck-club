@@ -1,13 +1,14 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Dazegxd" on Thu, 5 Nov 2026.
+The Airliner is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "LEZCROIX presents OBSESSED" on Fri, 30 Oct 2026.
 
-The Airliner is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Dazegxd, Juliet Mendoza, VINSON and Yazmina. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
+The Airliner is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Cowboy Blvck, Dazegxd, Eva Myra May and Juliet Mendoza and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | LEZCROIX presents OBSESSED | Cowboy Blvck, Eva Myra May, Your Muther |
 | Thu, 5 Nov 2026 | Dazegxd | Dazegxd |
 | Thu, 5 Nov 2026 | Minty Boi Presents: Dazegxd with Lil Pri | Dazegxd |
 | Sat, 14 Nov 2026 | WHAT'S THE 411 |  |
@@ -18,4 +19,4 @@ The Airliner is a music venue in Los Angeles listed on soundcheck. 5 upcoming gi
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

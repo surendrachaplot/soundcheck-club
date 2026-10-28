@@ -1,6 +1,6 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 16 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Club Culture presents: Electro, Breaks & Bass " on Thu, 29 Oct 2026.
+Eastern Bloc Records is a music venue in Manchester with 16 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Club Culture presents: Electro, Breaks & Bass " on Thu, 29 Oct 2026.
 
 Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 16 upcoming gigs, with line-ups including Amy Amor, Balrog, Benedict and BinaryFunction and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
@@ -23,4 +23,4 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 16 upc
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

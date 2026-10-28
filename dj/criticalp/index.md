@@ -1,6 +1,6 @@
 # critical P
 
-critical P is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 30 Oct 2026.
+critical P is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 30 Oct 2026.
 
 critical P is a house and techno artist based in Germany, with 46 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Jean-Jez, Kang and Kedi Bounce. Next up: Bulbul Berlin, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ critical P is a house and techno artist based in Germany, with 46 gigs on soundc
 
 Jean-Jez, Kang, Kedi Bounce
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/criticalp/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/criticalp/)*

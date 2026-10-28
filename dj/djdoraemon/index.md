@@ -1,6 +1,6 @@
 # DJ Doraemon
 
-DJ Doraemon is a Kuduro and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
+DJ Doraemon is a Kuduro and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
 
 DJ Doraemon is a kuduro and baile funk artist, with 9 gigs on soundcheck across Lisbon. Often billed alongside DJ Marfox, nëss (PT) and Bubas. Next up: Ministerium Club, Lisbon on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Doraemon is a kuduro and baile funk artist, with 9 gigs on soundcheck across 
 
 DJ Marfox, nëss (PT), Bubas
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdoraemon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdoraemon/)*

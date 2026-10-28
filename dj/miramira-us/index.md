@@ -1,6 +1,6 @@
 # MIRA MIRA
 
-MIRA MIRA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Compound, Baltimore on Fri, 30 Oct 2026.
+MIRA MIRA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Compound, Baltimore on Fri, 30 Oct 2026.
 
 MIRA MIRA is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Baltimore, Cleveland, Detroit and London and 6 more. Often billed alongside Malzof, Kiernan Laveaux and Rage.inald. Next up: The Compound, Baltimore on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ MIRA MIRA is a house and techno artist based in United States of America, with 6
 
 Malzof, Kiernan Laveaux, Rage.inald
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*

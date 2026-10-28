@@ -1,6 +1,6 @@
 # LENI
 
-LENI is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Südpol, Hamburg on Sat, 7 Nov 2026.
+LENI is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Südpol, Hamburg on Sat, 7 Nov 2026.
 
 LENI is a house and breakbeat artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside INA, LAN the Wireless and Caleesi. Next up: Südpol, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ LENI is a house and breakbeat artist based in Netherlands, with 26 gigs on sound
 
 INA (3), LAN the Wireless, Caleesi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leni/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leni/)*

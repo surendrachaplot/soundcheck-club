@@ -1,6 +1,6 @@
 # JEEN SEIGO
 
-JEEN SEIGO is a Tech House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
+JEEN SEIGO is a Tech House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
 
 JEEN SEIGO is a tech house and drum & bass artist based in Japan, with 28 gigs on soundcheck across Amsterdam, Singapore and Tokyo. Often billed alongside DJ AKi, You Liang and JERRRY. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ JEEN SEIGO is a tech house and drum & bass artist based in Japan, with 28 gigs o
 
 DJ AKi, You Liang, JERRRY
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeenseigo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeenseigo/)*

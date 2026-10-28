@@ -1,10 +1,10 @@
 # Skin Contact – Virtual Crush at TBA
 
-Skin Contact – Virtual Crush at TBA on Sat 31 Oct, Stockholm. Techno and Experimental. See the line-up on soundcheck.
+Skin Contact – Virtual Crush at TBA on Sat 7 Nov, Stockholm. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 31 Oct 2026 |
+| Date | Sat, 7 Nov 2026 |
 | Venue | TBA |
 | City | Stockholm |
 

@@ -1,6 +1,6 @@
 # Baba Boubou
 
-Baba Boubou is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Red Rattler, Sydney on Fri, 30 Oct 2026.
+Baba Boubou is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Red Rattler, Sydney on Fri, 30 Oct 2026.
 
 Baba Boubou is a club and bass artist based in Australia, with 9 gigs on soundcheck across Sydney. Often billed alongside Cristal No.5, Attu and Cedar. Next up: The Red Rattler, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Baba Boubou is a club and bass artist based in Australia, with 9 gigs on soundch
 
 Cristal No.5, Attu, Cedar (2)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bababoubou/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bababoubou/)*

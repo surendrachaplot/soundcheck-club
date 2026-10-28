@@ -1,6 +1,6 @@
 # Trypdø
 
-Trypdø is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Grand Social, Dublin on Fri, 6 Nov 2026.
+Trypdø is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Grand Social, Dublin on Fri, 6 Nov 2026.
 
 Trypdø is a techno and hardcore artist based in Ireland, with 28 gigs on soundcheck across Beijing, Belfast, Berlin and Dublin and 5 more. Often billed alongside GØNA, The Jakob Sister and X&trick. Next up: The Grand Social, Dublin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Trypdø is a techno and hardcore artist based in Ireland, with 28 gigs on soundc
 
 GØNA, The Jakob Sister, X&trick
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trypdo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trypdo/)*

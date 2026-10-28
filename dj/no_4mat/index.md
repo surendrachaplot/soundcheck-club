@@ -1,6 +1,6 @@
 # No_4mat
 
-No_4mat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
+No_4mat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
 
 No_4mat is a house and techno artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Calgary and 13 more. Often billed alongside Baltra, DJ Cinéma Quartier Latin and TDJ. Next up: Paragon, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ No_4mat is a house and techno artist based in United States of America, with 36 
 
 Baltra, DJ Cinéma Quartier Latin, TDJ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/no_4mat/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/no_4mat/)*

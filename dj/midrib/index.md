@@ -1,6 +1,6 @@
 # MIDRIB
 
-MIDRIB is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Cheek, London on Fri, 20 Nov 2026.
+MIDRIB is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Cheek, London on Fri, 20 Nov 2026.
 
 MIDRIB is a jungle and bass artist based in United Kingdom, with 58 gigs on soundcheck across Leeds, London and Poznan. Often billed alongside Nio-B, CITIZEN and Freja. Next up: Club Cheek, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ MIDRIB is a jungle and bass artist based in United Kingdom, with 58 gigs on soun
 
 Nio-B, CITIZEN, Freja
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midrib/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midrib/)*

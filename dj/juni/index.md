@@ -1,6 +1,6 @@
 # Juni
 
-Juni is a House and Classical artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Juni is a House and Classical artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Juni is a house and classical artist based in South Korea, with 50 gigs on soundcheck across Auckland, Cologne, Mexico City and Osaka and 2 more. Often billed alongside Black Daria, Solaris and Dj Dizam. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Juni is a house and classical artist based in South Korea, with 50 gigs on sound
 
 Black Daria, Solaris, Dj Dizam
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juni/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juni/)*

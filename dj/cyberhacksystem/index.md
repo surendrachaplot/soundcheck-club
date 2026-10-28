@@ -1,6 +1,6 @@
 # CYBERHACKSYSTEM
 
-CYBERHACKSYSTEM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Enter Shibuya, Tokyo on Mon, 2 Nov 2026.
+CYBERHACKSYSTEM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Enter Shibuya, Tokyo on Mon, 2 Nov 2026.
 
 CYBERHACKSYSTEM is a techno and house artist based in Japan, with 77 gigs on soundcheck across Osaka, Seoul, Shanghai and Tokyo. Often billed alongside HIMAWARI, ecec and MoEPiKA. Next up: Enter Shibuya, Tokyo on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ CYBERHACKSYSTEM is a techno and house artist based in Japan, with 77 gigs on sou
 
 HIMAWARI, ecec, MoEPiKA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberhacksystem/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberhacksystem/)*

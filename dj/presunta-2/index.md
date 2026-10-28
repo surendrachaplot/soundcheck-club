@@ -1,6 +1,6 @@
 # Presunta (2)
 
-Presunta (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 31 Oct 2026.
+Presunta (2) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 31 Oct 2026.
 
 Presunta is a house and techno artist based in Spain, with 11 gigs on soundcheck across Barcelona and Madrid. Often billed alongside LVL1, Cerescente and Sora Éke. Next up: Hangar48 Club, Madrid on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Presunta is a house and techno artist based in Spain, with 11 gigs on soundcheck
 
 LVL1, Cerescente, Sora Éke
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/presunta-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/presunta-2/)*

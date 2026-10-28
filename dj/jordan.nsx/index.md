@@ -1,6 +1,6 @@
 # Jordan.nsx
 
-Jordan.nsx is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at K2 Comedy Club, Vilnius on Fri, 30 Oct 2026.
+Jordan.nsx is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at K2 Comedy Club, Vilnius on Fri, 30 Oct 2026.
 
 Jordan.nsx is a techno and industrial artist based in Germany, with 72 gigs on soundcheck across Berlin and Vilnius. Often billed alongside DaSoMaZo, Kopflos and DJ BenGalo. Next up: K2 Comedy Club, Vilnius on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jordan.nsx is a techno and industrial artist based in Germany, with 72 gigs on s
 
 DaSoMaZo, Kopflos, DJ BenGalo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan.nsx/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan.nsx/)*

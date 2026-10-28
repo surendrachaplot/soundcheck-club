@@ -1,6 +1,6 @@
 # SAMIA
 
-SAMIA is a Reggaeton and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Relink:Data, Mexico City on Wed, 28 Oct 2026.
+SAMIA is a Reggaeton and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Relink:Data, Mexico City on Wed, 28 Oct 2026.
 
 SAMIA is a reggaeton and baile funk artist based in Canada, with 83 gigs on soundcheck across Berlin, Chicago, Detroit and Lisbon and 4 more. Often billed alongside Black Daria, IYE YIN DAE and Samia. Next up: Relink:Data, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ SAMIA is a reggaeton and baile funk artist based in Canada, with 83 gigs on soun
 
 Black Daria, IYE YIN DAE, Samia
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samia/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samia/)*

@@ -1,6 +1,6 @@
 # Madimiel
 
-Madimiel is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mason Bar, Cyprus on Fri, 30 Oct 2026.
+Madimiel is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mason Bar, Cyprus on Fri, 30 Oct 2026.
 
 Madimiel is an electronic artist based in Cyprus, with 2 gigs on soundcheck across Cyprus. Often billed alongside Argia and Luna City Express. Next up: Mason Bar, Cyprus on Fri 30 Oct.
 
@@ -15,4 +15,4 @@ Madimiel is an electronic artist based in Cyprus, with 2 gigs on soundcheck acro
 
 Argia, Luna City Express
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madimiel/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madimiel/)*

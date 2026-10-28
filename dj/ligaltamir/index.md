@@ -1,6 +1,6 @@
 # Ligal Tamir
 
-Ligal Tamir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Beate Uwe, Berlin on Sat, 7 Nov 2026.
+Ligal Tamir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Beate Uwe, Berlin on Sat, 7 Nov 2026.
 
 Ligal Tamir is a house and techno artist, with 68 gigs on soundcheck across Berlin, Hamburg, Munich and Nürnberg. Often billed alongside LIZZN, AREA 101 and Inch of Shadow. Next up: Beate Uwe, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ligal Tamir is a house and techno artist, with 68 gigs on soundcheck across Berl
 
 LIZZN, AREA 101, Inch of Shadow
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ligaltamir/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ligaltamir/)*

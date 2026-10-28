@@ -1,6 +1,6 @@
 # Nelly (NL)
 
-Nelly (NL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Circolo Amelia, Milan on Sat, 31 Oct 2026.
+Nelly (NL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Circolo Amelia, Milan on Sat, 31 Oct 2026.
 
 Nelly (NL) is a techno and house artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Spekki Webu, Oceanic and Woody92. Next up: Circolo Amelia, Milan on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Nelly (NL) is a techno and house artist based in Netherlands, with 91 gigs on so
 
 Spekki Webu, Oceanic, Woody92
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly-nl/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly-nl/)*

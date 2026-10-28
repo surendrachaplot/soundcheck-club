@@ -1,6 +1,6 @@
 # Telfort
 
-Telfort is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at People's Leisure Club, Edinburgh on Sun, 27 Dec 2026.
+Telfort is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at People's Leisure Club, Edinburgh on Sun, 27 Dec 2026.
 
 Telfort is a house and deep house artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and London and 2 more. Often billed alongside noodle, Move D and damside. Next up: People's Leisure Club, Edinburgh on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Telfort is a house and deep house artist based in United Kingdom, with 32 gigs o
 
 noodle, Move D, damside
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telfort/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telfort/)*

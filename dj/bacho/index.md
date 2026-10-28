@@ -1,6 +1,6 @@
 # Bacho
 
-Bacho is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cafe-Gallery, Tbilisi on Fri, 30 Oct 2026.
+Bacho is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cafe-Gallery, Tbilisi on Fri, 30 Oct 2026.
 
 Bacho is a techno and afro house artist based in Georgia, with 10 gigs on soundcheck across Tbilisi. Often billed alongside Tomma, Hudson and Parna. Next up: Cafe-Gallery, Tbilisi on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bacho is a techno and afro house artist based in Georgia, with 10 gigs on soundc
 
 Tomma, Hudson, Parna
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bacho/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bacho/)*

@@ -1,6 +1,6 @@
 # RAR
 
-RAR is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
+RAR is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
 
 RAR is a techno and acid artist based in Serbia, with 28 gigs on soundcheck across Belgrade. Often billed alongside ACOR, laccotti and Asarri. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ RAR is a techno and acid artist based in Serbia, with 28 gigs on soundcheck acro
 
 ACOR, laccotti, Asarri
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rar/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rar/)*

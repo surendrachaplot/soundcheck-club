@@ -1,6 +1,6 @@
 # Chocolanouar
 
-Chocolanouar is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Interference, Toulouse on Fri, 20 Nov 2026.
+Chocolanouar is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Interference, Toulouse on Fri, 20 Nov 2026.
 
 Chocolanouar is a techno and electro artist, with 10 gigs on soundcheck across Barcelona, Lyon and Toulouse. Often billed alongside Seven Kyoto, Ale Hope and Angelo Cortines. Next up: Interference, Toulouse on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Chocolanouar is a techno and electro artist, with 10 gigs on soundcheck across B
 
 Seven Kyoto, Ale Hope, Angelo Cortines
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chocolanouar/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chocolanouar/)*

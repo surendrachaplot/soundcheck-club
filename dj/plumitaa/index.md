@@ -1,6 +1,6 @@
 # Plumitaa
 
-Plumitaa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gewölbe, Cologne on Fri, 11 Dec 2026.
+Plumitaa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Gewölbe, Cologne on Fri, 11 Dec 2026.
 
 Plumitaa is a techno and house artist based in Germany, with 10 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside Altinbas, Ash Scholem and Bloody Mary. Next up: Gewölbe, Cologne on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Plumitaa is a techno and house artist based in Germany, with 10 gigs on soundche
 
 Altinbas, Ash Scholem, Bloody Mary
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plumitaa/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plumitaa/)*

@@ -1,6 +1,6 @@
 # P-Lucas
 
-P-Lucas is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Carpet Shop, London on Fri, 30 Oct 2026.
+P-Lucas is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Carpet Shop, London on Fri, 30 Oct 2026.
 
 P-Lucas is a house and deep house artist based in United Kingdom, with 26 gigs on soundcheck across London. Often billed alongside Kojay, Kanem and LEV (UK). Next up: The Carpet Shop, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ P-Lucas is a house and deep house artist based in United Kingdom, with 26 gigs o
 
 Kojay, Kanem, LEV (UK)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p-lucas/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p-lucas/)*

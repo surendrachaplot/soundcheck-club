@@ -1,13 +1,14 @@
 # Nyco Jones
 
-Nyco Jones is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Negroni Bistro & Sushi Bar, Miami on Thu, 19 Nov 2026.
+Nyco Jones is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 1-800-Lucky, Miami on Sun, 15 Nov 2026.
 
-Nyco Jones is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Miami and New York City. Often billed alongside Tatiana, ANDREATENS and ANTDADOPE. Next up: Negroni Bistro & Sushi Bar, Miami on Thu 19 Nov.
+Nyco Jones is a house and techno artist based in United States of America, with 13 gigs on soundcheck across Miami and New York City. Often billed alongside Lazaro Casanova, Tatiana and ANDREATENS. Next up: 1-800-Lucky, Miami on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | 1-800-Lucky | Miami |
 | Thu, 19 Nov 2026 | Negroni Bistro & Sushi Bar | Miami |
 
 ## Recently played
@@ -23,6 +24,6 @@ Nyco Jones is a house and techno artist based in United States of America, with 
 
 ## Shares bills with
 
-Tatiana (3), ANDREATENS, ANTDADOPE
+Lazaro Casanova, Tatiana (3), ANDREATENS
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nycojones/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nycojones/)*

@@ -1,0 +1,11 @@
+# Lex Records present Fly Anakin + Chuck Strangers + Quelle Chris at The Institute of Contemporary Arts London
+
+Lex Records present Fly Anakin + Chuck Strangers + Quelle Chris at The Institute of Contemporary Arts London on Fri 20 Nov, London. Hip-Hop. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 20 Nov 2026 |
+| Venue | The Institute of Contemporary Arts London |
+| City | London |
+
+*Source: [soundcheck](https://soundcheck.club/e/2496888-lex-records-present-fly-anakin-chuck-strangers-quelle-chris/)*

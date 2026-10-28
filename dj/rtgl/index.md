@@ -1,14 +1,14 @@
 # RTGL
 
-RTGL is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location , Milan on Sun, 1 Nov 2026.
+RTGL is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Location (Duomo Area), Milan on Sun, 1 Nov 2026.
 
-RTGL is an electronica and tech house artist, with 25 gigs on soundcheck across Milan. Often billed alongside Aznamir, Buza and KAT3X. Next up: TBA - Secret Location , Milan on Sun 1 Nov.
+RTGL is an electronica and tech house artist, with 25 gigs on soundcheck across Milan. Often billed alongside Aznamir, Buza and KAT3X. Next up: TBA - Secret Location (Duomo Area), Milan on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | TBA - Secret Location  | Milan |
+| Sun, 1 Nov 2026 | TBA - Secret Location (Duomo Area) | Milan |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ RTGL is an electronica and tech house artist, with 25 gigs on soundcheck across 
 
 Aznamir, Buza, KAT3X
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rtgl/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rtgl/)*

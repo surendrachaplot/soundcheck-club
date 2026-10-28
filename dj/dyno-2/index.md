@@ -1,6 +1,6 @@
 # DYNO (2)
 
-DYNO (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Toff in Town, Melbourne on Sun, 7 Feb 2027.
+DYNO (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Toff in Town, Melbourne on Sun, 7 Feb 2027.
 
 DYNO is a house and tech house artist based in Australia, with 12 gigs on soundcheck across Melbourne. Often billed alongside Joey Coco, Bavhu and CA LOU. Next up: The Toff in Town, Melbourne on Sun 7 Feb.
 
@@ -25,4 +25,4 @@ DYNO is a house and tech house artist based in Australia, with 12 gigs on soundc
 
 Joey Coco, Bavhu, CA LOU
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyno-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyno-2/)*

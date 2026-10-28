@@ -1,13 +1,14 @@
 # Imaabs
 
-Imaabs is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 14 Nov 2026.
+Imaabs is a Experimental and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Grüner Salon Der Volksbühne, Berlin on Sat, 31 Oct 2026.
 
-Imaabs is an experimental and club artist based in Chile, with 22 gigs on soundcheck across Barcelona, Bogotá, Los Angeles and Mexico City. Often billed alongside Microhm, Tomás Urquieta and Lao (MX). Next up: El Pumarejo Barcelona, Barcelona on Sat 14 Nov.
+Imaabs is an experimental and latin bass artist based in Chile, with 23 gigs on soundcheck across Barcelona, Berlin, Bogotá and Los Angeles and 1 more. Often billed alongside Microhm, Tomás Urquieta and Lao (MX). Next up: Grüner Salon Der Volksbühne, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Grüner Salon Der Volksbühne | Berlin |
 | Sat, 14 Nov 2026 | El Pumarejo Barcelona | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Imaabs is an experimental and club artist based in Chile, with 22 gigs on soundc
 
 Microhm, Tomás Urquieta, Lao (MX)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imaabs/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imaabs/)*

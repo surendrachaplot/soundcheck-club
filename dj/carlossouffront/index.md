@@ -1,6 +1,6 @@
 # Carlos Souffront
 
-Carlos Souffront is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 30 Oct 2026.
+Carlos Souffront is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 30 Oct 2026.
 
 Carlos Souffront is a techno and acid artist based in United States of America, with 115 gigs on soundcheck across Austin, Belgrade, Berlin and Boston and 19 more. Often billed alongside Mike Servito, Patrick Russell and Derek Plaslaiko. Next up: Société des arts technologiques, Montreal on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Carlos Souffront is a techno and acid artist based in United States of America, 
 
 Mike Servito, Patrick Russell, Derek Plaslaiko
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlossouffront/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlossouffront/)*

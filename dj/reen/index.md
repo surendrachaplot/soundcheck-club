@@ -1,6 +1,6 @@
 # REEN
 
-REEN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Frau Manfred, Monchengladbach on Fri, 6 Nov 2026.
+REEN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Frau Manfred, Monchengladbach on Fri, 6 Nov 2026.
 
 REEN is a house and techno artist based in Canada, with 12 gigs on soundcheck across Monchengladbach and Vancouver. Often billed alongside Bob Manzanilla, Cromby and DJ HERA. Next up: Frau Manfred, Monchengladbach on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ REEN is a house and techno artist based in Canada, with 12 gigs on soundcheck ac
 
 Bob Manzanilla, Cromby, DJ HERA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reen/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reen/)*

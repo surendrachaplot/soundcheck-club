@@ -1,6 +1,6 @@
 # KLD (1)
 
-KLD (1) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Persefonis 37, Athina 118 54, Athens on Fri, 30 Oct 2026.
+KLD (1) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Persefonis 37, Athina 118 54, Athens on Fri, 30 Oct 2026.
 
 KLD is a techno and industrial artist based in Greece, with 17 gigs on soundcheck across Athens and Sofia. Often billed alongside ROSHI, Pelany and Imperium. Next up: TBA - Persefonis 37, Athina 118 54, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KLD is a techno and industrial artist based in Greece, with 17 gigs on soundchec
 
 ROSHI, Pelany, Imperium
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kld-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kld-1/)*

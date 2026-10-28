@@ -1,6 +1,6 @@
 # Server
 
-Server is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tamarack, San Francisco/Oakland on Sat, 7 Nov 2026.
+Server is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tamarack, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 Server is a techno and house artist based in United States of America, with 12 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Marco Neves, NOT NO and Scottish Deerhound Enjoyer. Next up: Tamarack, San Francisco/Oakland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Server is a techno and house artist based in United States of America, with 12 g
 
 Marco Neves, NOT NO, Scottish Deerhound Enjoyer
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/server/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/server/)*

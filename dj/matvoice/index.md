@@ -1,6 +1,6 @@
 # MATVOICE
 
-MATVOICE is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Piękny Pies, Krakow on Sat, 31 Oct 2026.
+MATVOICE is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Piękny Pies, Krakow on Sat, 31 Oct 2026.
 
 MATVOICE is a house and trance artist based in Poland, with 9 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw and 1 more. Often billed alongside Djaa (PL), Matt Rudnicki and nuarrrrr. Next up: Piękny Pies, Krakow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MATVOICE is a house and trance artist based in Poland, with 9 gigs on soundcheck
 
 Djaa (PL), Matt Rudnicki, nuarrrrr
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matvoice/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matvoice/)*

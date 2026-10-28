@@ -1,6 +1,6 @@
 # A L P H A B E T
 
-A L P H A B E T is a music venue in Brighton with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Ye Ye Fever" on Fri, 30 Oct 2026.
+A L P H A B E T is a music venue in Brighton with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Ye Ye Fever" on Fri, 30 Oct 2026.
 
 A L P H A B E T is a music venue in Brighton listed on soundcheck. 4 upcoming gigs, with line-ups including Florence., OFFIE MAG DJs and Vergano. See dates, start times and who's playing. 11 Dyke Road.  Brighton.  BN1 3FE.  UK..
 
@@ -17,4 +17,4 @@ A L P H A B E T is a music venue in Brighton listed on soundcheck. 4 upcoming gi
 
 11 Dyke Road.  Brighton.  BN1 3FE.  UK., Brighton
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*

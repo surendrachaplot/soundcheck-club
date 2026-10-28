@@ -1,6 +1,6 @@
 # Dale Mussington
 
-Dale Mussington is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Vittoria Wharf Studio, London on Fri, 20 Nov 2026.
+Dale Mussington is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Vittoria Wharf Studio, London on Fri, 20 Nov 2026.
 
 Dale Mussington is a house and tech house artist, with 59 gigs on soundcheck across Amsterdam, Leeds, London and Malaga and 1 more. Often billed alongside Sam Bangura, Harry McCanna and NorthSouth. Next up: Vittoria Wharf Studio, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Dale Mussington is a house and tech house artist, with 59 gigs on soundcheck acr
 
 Sam Bangura, Harry McCanna, NorthSouth
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalemussington/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalemussington/)*

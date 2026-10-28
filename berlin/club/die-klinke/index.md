@@ -1,6 +1,6 @@
 # Die Klinke
 
-Die Klinke is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Sick Halloween" on Sat, 31 Oct 2026.
+Die Klinke is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Sick Halloween" on Sat, 31 Oct 2026.
 
 Die Klinke is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Die Klinke is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Sick Halloween |  |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/die-klinke/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/die-klinke/)*

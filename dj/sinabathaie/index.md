@@ -1,6 +1,6 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Soda, Montreal on Tue, 3 Nov 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Soda, Montreal on Tue, 3 Nov 2026.
 
 Sina Bathaie is a downtempo and deep house artist based in Canada, with 115 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 54 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Club Soda, Montreal on Tue 3 Nov.
 
@@ -34,4 +34,4 @@ Sina Bathaie is a downtempo and deep house artist based in Canada, with 115 gigs
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

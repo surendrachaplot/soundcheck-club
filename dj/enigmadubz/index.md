@@ -1,6 +1,6 @@
 # ENiGMA Dubz
 
-ENiGMA Dubz is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Black Box, Denver on Fri, 13 Nov 2026.
+ENiGMA Dubz is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Black Box, Denver on Fri, 13 Nov 2026.
 
 ENiGMA Dubz is a dubstep and drum & bass artist based in United Kingdom, with 24 gigs on soundcheck across Auckland, Birmingham, Bristol and Christchurch and 14 more. Often billed alongside Caspa, Rohaan and DASEPLATE. Next up: The Black Box, Denver on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ ENiGMA Dubz is a dubstep and drum & bass artist based in United Kingdom, with 24
 
 Caspa, Rohaan, DASEPLATE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enigmadubz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enigmadubz/)*

@@ -1,6 +1,6 @@
 # Scariestgirlintheworld
 
-Scariestgirlintheworld is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Sydney on Fri, 27 Nov 2026.
+Scariestgirlintheworld is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Sydney on Fri, 27 Nov 2026.
 
 Scariestgirlintheworld is an idm and experimental artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Arsonist, Jll0Mll0 and Jungist. Next up: TBA, Sydney on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Scariestgirlintheworld is an idm and experimental artist based in Australia, wit
 
 Arsonist, Jll0Mll0, Jungist
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scariestgirlintheworld/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scariestgirlintheworld/)*

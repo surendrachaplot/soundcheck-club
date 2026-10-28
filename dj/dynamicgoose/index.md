@@ -1,6 +1,6 @@
 # Dynamic Goose
 
-Dynamic Goose is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Warsaw on Sat, 12 Dec 2026.
+Dynamic Goose is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Warsaw on Sat, 12 Dec 2026.
 
 Dynamic Goose is a techno and electro artist based in Poland, with 6 gigs on soundcheck across Warsaw. Often billed alongside Łomża, Pancha and ALLG. Next up: TBA, Warsaw on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Dynamic Goose is a techno and electro artist based in Poland, with 6 gigs on sou
 
 Łomża, Pancha, ALLG
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamicgoose/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamicgoose/)*

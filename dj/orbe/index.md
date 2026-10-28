@@ -1,6 +1,6 @@
 # ORBE
 
-ORBE is a Techno and Minimal Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 30 Oct 2026.
+ORBE is a Techno and Minimal Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 30 Oct 2026.
 
 ORBE is a techno and minimal techno artist based in Spain, with 93 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside Psyk, Fadi Mohem and MARRØN. Next up: EXIT Glasgow, Glasgow on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ ORBE is a techno and minimal techno artist based in Spain, with 93 gigs on sound
 
 Psyk, Fadi Mohem, MARRØN
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*

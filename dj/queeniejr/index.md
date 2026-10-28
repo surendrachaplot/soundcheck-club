@@ -1,13 +1,14 @@
 # Queenie Jr
 
-Queenie Jr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Salon Daomé, Montreal on Sat, 31 Oct 2026.
+Queenie Jr is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Parking.Radio, Quebec City on Thu, 29 Oct 2026.
 
-Queenie Jr is a house and techno artist based in Canada, with 47 gigs on soundcheck across Berlin, Montreal and Quebec City. Often billed alongside Nathan Burns, Flleur and Vayia. Next up: Salon Daomé, Montreal on Sat 31 Oct.
+Queenie Jr is a house and techno artist based in Canada, with 48 gigs on soundcheck across Berlin, Montreal and Quebec City. Often billed alongside Nathan Burns, Vayia and Flleur. Next up: Parking.Radio, Quebec City on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Parking.Radio | Quebec City |
 | Sat, 31 Oct 2026 | Salon Daomé | Montreal |
 | Sat, 7 Nov 2026 | Bar Datcha | Montreal |
 
@@ -24,6 +25,6 @@ Queenie Jr is a house and techno artist based in Canada, with 47 gigs on soundch
 
 ## Shares bills with
 
-Nathan Burns, Flleur, Vayia
+Nathan Burns, Vayia, Flleur
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queeniejr/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queeniejr/)*

@@ -1,6 +1,6 @@
 # Raxeller
 
-Raxeller is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
+Raxeller is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
 Raxeller is a techno and industrial artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside 6EJOU, KARAH and CARV. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Raxeller is a techno and industrial artist based in Netherlands, with 130 gigs o
 
 6EJOU, KARAH, CARV
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raxeller/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raxeller/)*

@@ -1,14 +1,15 @@
 # Nanoos
 
-Nanoos is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at smartbar, Chicago on Fri, 30 Oct 2026.
+Nanoos is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at smartbar, Chicago on Fri, 30 Oct 2026.
 
-Nanoos is a club and ghetto tech artist based in United States of America, with 90 gigs on soundcheck across Atlanta, Berlin, Chicago and Cleveland and 19 more. Often billed alongside Dj Nico, Fullbodydurag and Nadim Maghzal. Next up: smartbar, Chicago on Fri 30 Oct.
+Nanoos is a club and ghetto tech artist based in United States of America, with 91 gigs on soundcheck across Atlanta, Berlin, Chicago and Cleveland and 19 more. Often billed alongside Cquestt, Dj Nico and Fullbodydurag. Next up: smartbar, Chicago on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | smartbar | Chicago |
+| Fri, 13 Nov 2026 | Don Quixote | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Nanoos is a club and ghetto tech artist based in United States of America, with 
 
 ## Shares bills with
 
-Dj Nico, Fullbodydurag, Nadim Maghzal
+Cquestt, Dj Nico, Fullbodydurag
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*

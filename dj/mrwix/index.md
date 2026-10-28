@@ -1,6 +1,6 @@
 # Mr. Wix
 
-Mr. Wix is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at murmur, Amsterdam on Fri, 30 Oct 2026.
+Mr. Wix is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at murmur, Amsterdam on Fri, 30 Oct 2026.
 
 Mr. Wix is an electronic artist, with 11 gigs on soundcheck across Amsterdam. Often billed alongside KC The Funkaholic, Cinnaman and Max B. Next up: murmur, Amsterdam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mr. Wix is an electronic artist, with 11 gigs on soundcheck across Amsterdam. Of
 
 KC The Funkaholic, Cinnaman, Max B
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrwix/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrwix/)*

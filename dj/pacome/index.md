@@ -1,6 +1,6 @@
 # Pacome
 
-Pacome is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bikini Club, Barcelona on Sat, 21 Nov 2026.
+Pacome is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bikini Club, Barcelona on Sat, 21 Nov 2026.
 
 Pacome is a house and minimal artist based in Spain, with 47 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Liana, Fer (ES) and bOIX. Next up: Bikini Club, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Pacome is a house and minimal artist based in Spain, with 47 gigs on soundcheck 
 
 Liana, Fer (ES), bOIX
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacome/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacome/)*

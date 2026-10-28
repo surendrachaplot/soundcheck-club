@@ -1,6 +1,6 @@
 # BeNi
 
-BeNi is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
+BeNi is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
 
 BeNi is a techno and experimental artist based in Germany, with 7 gigs on soundcheck across Munich, Osaka, Paris and Tokyo. Often billed alongside Lowkey, FLUONITE and MIHEMI. Next up: WOMB, Tokyo on Mon 2 Nov.
 
@@ -23,4 +23,4 @@ BeNi is a techno and experimental artist based in Germany, with 7 gigs on soundc
 
 Lowkey, FLUONITE, MIHEMI
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beni/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beni/)*

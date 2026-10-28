@@ -1,6 +1,6 @@
 # Shanti
 
-Shanti is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The California Clipper, Chicago on Thu, 29 Oct 2026.
+Shanti is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The California Clipper, Chicago on Thu, 29 Oct 2026.
 
 Shanti is a techno and acid artist based in United States of America, with 76 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 6 more. Often billed alongside Scum.ee, Josh Tong and JS Alvarez. Next up: The California Clipper, Chicago on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ Shanti is a techno and acid artist based in United States of America, with 76 gi
 
 Scum.ee, Josh Tong, JS Alvarez
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanti/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanti/)*

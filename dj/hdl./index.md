@@ -1,6 +1,6 @@
 # HDL.
 
-HDL. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - ON Website, Los Angeles on Fri, 13 Nov 2026.
+HDL. is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - ON Website, Los Angeles on Fri, 13 Nov 2026.
 
 HDL. is a house and minimal artist, with 14 gigs on soundcheck across Los Angeles and Orange County. Often billed alongside Phonolis, Anderson M and Kana Hishiya. Next up: TBA - ON Website, Los Angeles on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ HDL. is a house and minimal artist, with 14 gigs on soundcheck across Los Angele
 
 Phonolis, Anderson M, Kana Hishiya
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hdl./)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hdl./)*

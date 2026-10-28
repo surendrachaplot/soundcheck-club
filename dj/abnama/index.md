@@ -1,8 +1,8 @@
 # ābnamā
 
-ābnamā is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
+ābnamā is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
 
-ābnamā is a techno and house artist based in Germany, with 79 gigs on soundcheck across Athens, Berlin, Copenhagen and Leipzig and 10 more. Often billed alongside Camilla Rae, 131bpm and Stella Zekri. Next up: Nowadays, New York City on Fri 30 Oct.
+ābnamā is a techno and house artist based in Germany, with 80 gigs on soundcheck across Athens, Berlin, Copenhagen and Leipzig and 10 more. Often billed alongside Camilla Rae, 131bpm and Majdolen. Next up: Nowadays, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
 | Fri, 6 Nov 2026 | KREUZWERK | Berlin |
+| Sat, 21 Nov 2026 | ROSA | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@
 
 ## Shares bills with
 
-Camilla Rae, 131bpm, Stella Zekri
+Camilla Rae, 131bpm, Majdolen
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*

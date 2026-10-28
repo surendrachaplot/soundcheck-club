@@ -1,6 +1,6 @@
 # Strut SF and F8 present Lee Reynolds at F8 1192 Folsom
 
-Strut SF and F8 present Lee Reynolds at F8 1192 Folsom on Wed 4 Nov, San Francisco/Oakland. 1 artist: Lee Reynolds. House and Tech House. See the line-up on soundcheck.
+Strut SF and F8 present Lee Reynolds at F8 1192 Folsom on Wed 4 Nov, San Francisco/Oakland. 3 artists: Desert Hearts, Jehnee and Lee Reynolds. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Strut SF and F8 present Lee Reynolds at F8 1192 Folsom on Wed 4 Nov, San Francis
 
 ## Line-up
 
+- Desert Hearts
+- Jehnee
 - Lee Reynolds
 
 *Source: [soundcheck](https://soundcheck.club/e/2559586-strut-sf-and-f8-present-lee-reynolds-at-f8-1192-folsom/)*

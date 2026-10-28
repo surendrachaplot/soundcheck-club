@@ -1,6 +1,6 @@
 # Luxxury
 
-Luxxury is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 14 Nov 2026.
+Luxxury is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 14 Nov 2026.
 
 Luxxury is a disco and house artist, with 6 gigs on soundcheck across Los Angeles and Seattle. Often billed alongside Hot N' Spicy Disco, Matt Dandois and Théque Support. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Luxxury is a disco and house artist, with 6 gigs on soundcheck across Los Angele
 
 Hot N' Spicy Disco, Matt Dandois, Théque Support
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luxxury-us/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luxxury-us/)*

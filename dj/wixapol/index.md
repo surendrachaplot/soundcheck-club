@@ -1,6 +1,6 @@
 # Wixapol
 
-Wixapol is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Transformator, Wroclaw on Fri, 30 Oct 2026.
+Wixapol is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Transformator, Wroclaw on Fri, 30 Oct 2026.
 
 Wixapol is a techno and hardcore artist based in Poland, with 27 gigs on soundcheck across Beijing, Geneva, Krakow and London and 5 more. Often billed alongside Mikouaj Rejw / Wixapol S.A., TORRENTZ and PLATTER. Next up: Transformator, Wroclaw on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Wixapol is a techno and hardcore artist based in Poland, with 27 gigs on soundch
 
 Mikouaj Rejw / Wixapol S.A., TORRENTZ, PLATTER
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wixapol/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wixapol/)*

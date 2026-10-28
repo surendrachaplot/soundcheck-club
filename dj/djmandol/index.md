@@ -1,6 +1,6 @@
 # DJ Mandol
 
-DJ Mandol is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Culture Cafe, Bangkok on Thu, 10 Dec 2026.
+DJ Mandol is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Culture Cafe, Bangkok on Thu, 10 Dec 2026.
 
 DJ Mandol is a house and techno artist, with 11 gigs on soundcheck across Bangkok, Barcelona, Lisbon and Rome. Often billed alongside ALISHIA PEAS, Adry Vergé and Alessio Panasiti. Next up: Culture Cafe, Bangkok on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ DJ Mandol is a house and techno artist, with 11 gigs on soundcheck across Bangko
 
 ALISHIA PEAS, Adry Vergé, Alessio Panasiti
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandol/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandol/)*

@@ -1,6 +1,6 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "AC Slater (Halloween Weekend)" on Fri, 30 Oct 2026.
+Academy LA is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "AC Slater (Halloween Weekend)" on Fri, 30 Oct 2026.
 
 Academy LA is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including AC Slater, Desert Hearts, Justin Martin and Morten and 1 more. See dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
@@ -19,4 +19,4 @@ Academy LA is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs
 
 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA, Los Angeles
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*

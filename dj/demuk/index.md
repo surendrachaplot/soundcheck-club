@@ -1,6 +1,6 @@
 # Demuk
 
-Demuk is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Flac, Seoul on Sat, 31 Oct 2026.
+Demuk is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Flac, Seoul on Sat, 31 Oct 2026.
 
 Demuk is a tech house and house artist based in South Korea, with 51 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Davico, Departs and Sudowoo. Next up: Flac, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Demuk is a tech house and house artist based in South Korea, with 51 gigs on sou
 
 Davico, Departs, Sudowoo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demuk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demuk/)*

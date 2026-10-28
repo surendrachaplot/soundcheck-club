@@ -1,6 +1,6 @@
 # Giampiero Ciceri
 
-Giampiero Ciceri is a Trance and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Scirocco by mare culturale urbano, Milan on Sun, 22 Nov 2026.
+Giampiero Ciceri is a Trance and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Scirocco by mare culturale urbano, Milan on Sun, 22 Nov 2026.
 
 Giampiero Ciceri is a trance and electronica artist, with 10 gigs on soundcheck across Milan. Often billed alongside DannyDelirio and OPUL. Next up: Scirocco by mare culturale urbano, Milan on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Giampiero Ciceri is a trance and electronica artist, with 10 gigs on soundcheck 
 
 DannyDelirio, OPUL (2)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giampierociceri/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giampierociceri/)*

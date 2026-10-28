@@ -1,6 +1,6 @@
 # NYRA (DE)
 
-NYRA (DE) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Liquid Club, Malta on Fri, 30 Oct 2026.
+NYRA (DE) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Liquid Club, Malta on Fri, 30 Oct 2026.
 
 NYRA (DE) is a techno and trance artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside davyboi, Cara Elizabeth and Justin Tinderdate. Next up: Liquid Club, Malta on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ NYRA (DE) is a techno and trance artist based in Germany, with 57 gigs on soundc
 
 davyboi, Cara Elizabeth, Justin Tinderdate
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*

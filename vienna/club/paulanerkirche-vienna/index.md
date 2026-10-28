@@ -1,6 +1,6 @@
 # Paulanerkirche, Vienna
 
-Paulanerkirche, Vienna is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Hayao Miyazaki's Dreams by Mystery Ensemble" on Fri, 20 Nov 2026.
+Paulanerkirche, Vienna is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Hayao Miyazaki's Dreams by Mystery Ensemble" on Fri, 20 Nov 2026.
 
 Paulanerkirche, Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Paulanerkirche, Vienna is a music venue in Vienna listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Hayao Miyazaki's Dreams by Mystery Ensemble |  |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/paulanerkirche-vienna/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/paulanerkirche-vienna/)*

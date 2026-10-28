@@ -1,6 +1,6 @@
 # STEMLINES
 
-STEMLINES is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nightclub 101, New York City on Wed, 4 Nov 2026.
+STEMLINES is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Nightclub 101, New York City on Wed, 4 Nov 2026.
 
 STEMLINES is an experimental and club artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside 1morning, Bookworms and DJ Linda. Next up: Nightclub 101, New York City on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ STEMLINES is an experimental and club artist based in United States of America, 
 
 1morning, Bookworms, DJ Linda
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stemlines/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stemlines/)*

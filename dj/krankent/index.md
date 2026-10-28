@@ -1,6 +1,6 @@
 # Krankent
 
-Krankent is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
+Krankent is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
 
 Krankent is a techno and house artist based in Japan, with 109 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside SIGNAL (JP), KASHIWAGI and t.t.. Next up: Aoyama Hachi, Tokyo on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Krankent is a techno and house artist based in Japan, with 109 gigs on soundchec
 
 SIGNAL (JP), KASHIWAGI, t.t.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krankent/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krankent/)*

@@ -1,6 +1,6 @@
 # 2FEL
 
-2FEL is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+2FEL is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 2FEL is a techno and industrial artist based in Germany, with 10 gigs on soundcheck across Budapest, Manchester, Münster and Prague and 3 more. Often billed alongside VRODAK, FUMI and KIRSTY. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -26,4 +26,4 @@
 
 VRODAK, FUMI, KIRSTY
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2fel/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2fel/)*

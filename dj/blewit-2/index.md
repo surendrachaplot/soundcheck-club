@@ -1,6 +1,6 @@
 # Blewit (2)
 
-Blewit (2) is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
+Blewit (2) is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
 
 Blewit is an acid and techno artist based in Ireland, with 8 gigs on soundcheck across Dublin and Taipei. Often billed alongside Reveller, Cinquedea and Ellen Trenn. Next up: Pawnshop, Taipei on Sun 1 Nov.
 
@@ -24,4 +24,4 @@ Blewit is an acid and techno artist based in Ireland, with 8 gigs on soundcheck 
 
 Reveller, Cinquedea, Ellen Trenn
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blewit-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blewit-2/)*

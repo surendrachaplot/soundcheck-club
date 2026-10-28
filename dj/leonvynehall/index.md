@@ -1,6 +1,6 @@
 # Leon Vynehall
 
-Leon Vynehall is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 528 Ibiza, Ibiza on Sat, 31 Oct 2026.
+Leon Vynehall is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 528 Ibiza, Ibiza on Sat, 31 Oct 2026.
 
 Leon Vynehall is a house and techno artist based in United Kingdom, with 147 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Moxie, Young Marco and Yu Su. Next up: 528 Ibiza, Ibiza on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Leon Vynehall is a house and techno artist based in United Kingdom, with 147 gig
 
 Moxie, Young Marco, Yu Su
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*

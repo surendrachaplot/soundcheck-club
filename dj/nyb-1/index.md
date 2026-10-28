@@ -1,14 +1,15 @@
 # NYB (1)
 
-NYB (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Faust, Seoul on Sat, 31 Oct 2026.
+NYB (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Faust, Seoul on Sat, 31 Oct 2026.
 
-NYB is a techno and house artist, with 70 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 6 more. Often billed alongside Night Swimmer, Darcy and Skögul. Next up: Faust, Seoul on Sat 31 Oct.
+NYB is a techno and house artist, with 71 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 6 more. Often billed alongside Night Swimmer, Darcy and Skögul. Next up: Faust, Seoul on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Faust | Seoul |
+| Fri, 13 Nov 2026 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NYB is a techno and house artist, with 70 gigs on soundcheck across Bangkok, Bei
 
 Night Swimmer, Darcy, Skögul
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyb-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyb-1/)*

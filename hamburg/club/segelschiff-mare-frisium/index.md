@@ -1,6 +1,6 @@
 # Segelschiff Mare Frisium
 
-Segelschiff Mare Frisium is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Wellenklang Showcase - Halloween Edition" on Sat, 31 Oct 2026.
+Segelschiff Mare Frisium is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Wellenklang Showcase - Halloween Edition" on Sat, 31 Oct 2026.
 
 Segelschiff Mare Frisium is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including JASHTECH, NELØ, Nikiija and Randali. See dates, start times and who's playing. Am Sandtorkai 77, 20457 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ Segelschiff Mare Frisium is a music venue in Hamburg listed on soundcheck. 1 upc
 
 Am Sandtorkai 77, 20457 Hamburg, Germany, Hamburg
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/segelschiff-mare-frisium/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/segelschiff-mare-frisium/)*

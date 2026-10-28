@@ -1,6 +1,6 @@
 # David Scott
 
-David Scott is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Artworks East, London on Sat, 5 Dec 2026.
+David Scott is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Artworks East, London on Sat, 5 Dec 2026.
 
 David Scott is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Glasgow and London. Often billed alongside Bonzai Bonner, LEZZER QUEST and Ben Watson. Next up: Artworks East, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ David Scott is a house and techno artist based in United Kingdom, with 9 gigs on
 
 Bonzai Bonner, LEZZER QUEST, Ben Watson
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidscott/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidscott/)*

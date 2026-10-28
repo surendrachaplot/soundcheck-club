@@ -1,6 +1,6 @@
 # wanük
 
-wanük is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Puerto Bahia Club de Mar, Barcelona on Sat, 31 Oct 2026.
+wanük is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Puerto Bahia Club de Mar, Barcelona on Sat, 31 Oct 2026.
 
 wanük is a progressive house and techno artist, with 14 gigs on soundcheck across Barcelona. Often billed alongside Jeremy Young, Cucumelo and Franco Brida. Next up: Puerto Bahia Club de Mar, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ wanük is a progressive house and techno artist, with 14 gigs on soundcheck acro
 
 Jeremy Young, Cucumelo, Franco Brida
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wanuk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wanuk/)*

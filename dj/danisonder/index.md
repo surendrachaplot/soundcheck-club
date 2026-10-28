@@ -1,6 +1,6 @@
 # Dani Sonder
 
-Dani Sonder is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 5 Dec 2026.
+Dani Sonder is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 5 Dec 2026.
 
 Dani Sonder is a house and electronica artist, with 9 gigs on soundcheck across Edinburgh. Often billed alongside George T, Jedda and Accident Machine. Next up: People's Leisure Club, Edinburgh on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Dani Sonder is a house and electronica artist, with 9 gigs on soundcheck across 
 
 George T, Jedda, Accident Machine
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danisonder/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danisonder/)*

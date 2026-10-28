@@ -1,6 +1,6 @@
 # PCL (1)
 
-PCL (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 30 Oct 2026.
+PCL (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 30 Oct 2026.
 
 PCL is a house and techno artist based in Germany, with 6 gigs on soundcheck across Berlin, Malaga and Mexico City. Often billed alongside Audio Vacanze, Flotonium and Bconscious. Next up: Doggy Klœb, Malaga on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ PCL is a house and techno artist based in Germany, with 6 gigs on soundcheck acr
 
 Audio Vacanze, Flotonium, Bconscious
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pcl-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pcl-1/)*

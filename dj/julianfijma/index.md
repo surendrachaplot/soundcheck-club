@@ -1,6 +1,6 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Descent, Boston on Sat, 31 Oct 2026.
+Julian Fijma is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Descent, Boston on Sat, 31 Oct 2026.
 
 Julian Fijma is a house and tech house artist based in Netherlands, with 118 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Descent, Boston on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ Julian Fijma is a house and tech house artist based in Netherlands, with 118 gig
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

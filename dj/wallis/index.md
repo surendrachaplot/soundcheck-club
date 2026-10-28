@@ -1,6 +1,6 @@
 # Wallis
 
-Wallis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mia Mao, Paris on Fri, 30 Oct 2026.
+Wallis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mia Mao, Paris on Fri, 30 Oct 2026.
 
 Wallis is a techno and house artist based in France, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Samantha Togni, Blawan and Héctor Oaks. Next up: Mia Mao, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Wallis is a techno and house artist based in France, with 112 gigs on soundcheck
 
 Samantha Togni, Blawan, Héctor Oaks
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallis/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallis/)*

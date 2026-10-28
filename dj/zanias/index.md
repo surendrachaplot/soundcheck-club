@@ -1,6 +1,6 @@
 # Zanias
 
-Zanias is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Thalia Hall, Chicago on Fri, 30 Oct 2026.
+Zanias is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Thalia Hall, Chicago on Fri, 30 Oct 2026.
 
 Zanias is a techno and ebm artist based in Australia, with 47 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 20 more. Often billed alongside Neu-Romancer, Kris Baha and Berlin Bunny. Next up: Thalia Hall, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Zanias is a techno and ebm artist based in Australia, with 47 gigs on soundcheck
 
 Neu-Romancer, Kris Baha, Berlin Bunny
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zanias/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zanias/)*

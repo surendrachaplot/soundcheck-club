@@ -1,6 +1,6 @@
 # Guillotine
 
-Guillotine is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Paragon, New York City on Thu, 31 Dec 2026.
+Guillotine is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paragon, New York City on Thu, 31 Dec 2026.
 
 Guillotine is a techno and house artist, with 13 gigs on soundcheck across Chicago, London and New York City. Often billed alongside BASSBEAR!!, Lethal Trip and WTCHCRFT. Next up: Paragon, New York City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Guillotine is a techno and house artist, with 13 gigs on soundcheck across Chica
 
 BASSBEAR!!, Lethal Trip, WTCHCRFT
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillotine/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillotine/)*

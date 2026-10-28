@@ -1,8 +1,8 @@
 # Bar Franca
 
-Bar Franca is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Shroomie, Jake B, Beggar" on Fri, 30 Oct 2026.
+Bar Franca is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Shroomie, Jake B, Beggar" on Fri, 30 Oct 2026.
 
-Bar Franca is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Beggar, Dekmantel Soundsystem, Demi Riquisimo and DJ Shroomie and 2 more. See dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
+Bar Franca is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Beggar, Dekmantel Soundsystem, Demi Riquisimo and DJ Shroomie and 2 more. See dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Bar Franca is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Shroomie, Jake B, Beggar | Beggar, DJ Shroomie, Jake Brennan |
 | Sat, 31 Oct 2026 | Halloween Night at Bar Franca |  |
+| Sat, 14 Nov 2026 | Spacious - Textural EP Release Party | Spacious, heelbite316 |
 | Sun, 15 Nov 2026 | Dekmantel Soundsystem at Bar Franca | Dekmantel Soundsystem, Masha Mar |
 | Sun, 29 Nov 2026 | Demi Riquisimo takes over Bar Franca | Demi Riquisimo |
 
@@ -17,4 +18,4 @@ Bar Franca is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs
 
 438 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*

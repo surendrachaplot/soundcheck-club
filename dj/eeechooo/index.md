@@ -1,13 +1,14 @@
 # EeechooO
 
-EeechooO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mews Saloon, Chongqing on Sat, 31 Oct 2026.
+EeechooO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Tong LAU Shophouse (江上唐楼), Chongqing on Fri, 30 Oct 2026.
 
-EeechooO is a techno and house artist based in China, with 3 gigs on soundcheck across Chongqing. Often billed alongside Justfin, Stelios Vassiloudis and Yang Bing. Next up: Mews Saloon, Chongqing on Sat 31 Oct.
+EeechooO is a techno and house artist based in China, with 4 gigs on soundcheck across Chongqing. Often billed alongside Justfin, Rui Tang and Stelios Vassiloudis. Next up: Tong LAU Shophouse (江上唐楼), Chongqing on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Tong LAU Shophouse (江上唐楼) | Chongqing |
 | Sat, 31 Oct 2026 | Mews Saloon | Chongqing |
 | Fri, 6 Nov 2026 | Comeout Rider Station | Chongqing |
 
@@ -17,6 +18,6 @@ EeechooO is a techno and house artist based in China, with 3 gigs on soundcheck 
 
 ## Shares bills with
 
-Justfin, Stelios Vassiloudis, Yang Bing
+Justfin, Rui Tang, Stelios Vassiloudis
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eeechooo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eeechooo/)*

@@ -1,6 +1,6 @@
 # Vivace (UK)
 
-Vivace (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at DRUMSHEDS, London on Sat, 19 Dec 2026.
+Vivace (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at DRUMSHEDS, London on Sat, 19 Dec 2026.
 
 Vivace (UK) is a house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Aberdeen, Belfast, Brisbane and Edinburgh and 4 more. Often billed alongside Faster Horses, STÜM and Clouds. Next up: DRUMSHEDS, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Vivace (UK) is a house and techno artist based in United Kingdom, with 10 gigs o
 
 Faster Horses, STÜM, Clouds
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace-uk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace-uk/)*

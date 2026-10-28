@@ -1,6 +1,6 @@
 # Ford Scott
 
-Ford Scott is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location, New York City on Fri, 6 Nov 2026.
+Ford Scott is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Location, New York City on Fri, 6 Nov 2026.
 
 Ford Scott is a house and garage artist based in United States of America, with 9 gigs on soundcheck across Amsterdam, Barcelona and New York City. Often billed alongside Erin Page, Armii1n and Jeny Michelle. Next up: TBA - Secret Location, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ford Scott is a house and garage artist based in United States of America, with 
 
 Erin Page, Armii1n, Jeny Michelle
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fordscott/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fordscott/)*

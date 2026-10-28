@@ -1,6 +1,6 @@
 # Remco Beekwilder
 
-Remco Beekwilder is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mogambo, Valencia on Fri, 30 Oct 2026.
+Remco Beekwilder is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mogambo, Valencia on Fri, 30 Oct 2026.
 
 Remco Beekwilder is a techno and house artist based in Netherlands, with 77 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belfast and 29 more. Often billed alongside Stephanie Sykes, Isaiah (NL) and Laure Croft. Next up: Mogambo, Valencia on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Remco Beekwilder is a techno and house artist based in Netherlands, with 77 gigs
 
 Stephanie Sykes, Isaiah (NL), Laure Croft
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remcobeekwilder/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remcobeekwilder/)*

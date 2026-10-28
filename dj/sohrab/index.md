@@ -1,6 +1,6 @@
 # Sohrab
 
-Sohrab is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bunker, Turin on Sat, 14 Nov 2026.
+Sohrab is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bunker, Turin on Sat, 14 Nov 2026.
 
 Sohrab is an electronica and techno artist based in Iran, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Milan and 3 more. Often billed alongside Aton, Brasi and GNMR. Next up: Bunker, Turin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sohrab is an electronica and techno artist based in Iran, with 14 gigs on soundc
 
 Aton, Brasi, GNMR
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sohrab/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sohrab/)*

@@ -1,14 +1,15 @@
 # Nehan
 
-Nehan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Numm, Tokyo on Fri, 30 Oct 2026.
+Nehan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Numm, Tokyo on Fri, 30 Oct 2026.
 
-Nehan is a house and techno artist based in Japan, with 37 gigs on soundcheck across Tokyo. Often billed alongside P-YAN, Arao and DJ Shibata. Next up: Numm, Tokyo on Fri 30 Oct.
+Nehan is a house and techno artist based in Japan, with 38 gigs on soundcheck across Tokyo. Often billed alongside P-YAN, Arao and DJ Shibata. Next up: Numm, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Numm | Tokyo |
+| Fri, 18 Dec 2026 | Daikanyama ORD. | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nehan is a house and techno artist based in Japan, with 37 gigs on soundcheck ac
 
 P-YAN, Arao, DJ Shibata
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nehan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nehan/)*

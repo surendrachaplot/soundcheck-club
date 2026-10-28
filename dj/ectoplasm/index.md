@@ -1,6 +1,6 @@
 # Ectoplasm
 
-Ectoplasm is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 31 Oct 2026.
+Ectoplasm is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 31 Oct 2026.
 
 Ectoplasm is a techno and club artist based in Italy, with 16 gigs on soundcheck across Florence, Tokyo and Turin. Often billed alongside Distorted Planet, Alessio Landini and Bassik. Next up: Deposito Pontecorvo, Florence on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ectoplasm is a techno and club artist based in Italy, with 16 gigs on soundcheck
 
 Distorted Planet, Alessio Landini, Bassik
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ectoplasm/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ectoplasm/)*

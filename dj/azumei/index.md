@@ -1,13 +1,14 @@
 # Azumei
 
-Azumei is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
+Azumei is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Loco Klub, Bristol on Fri, 30 Oct 2026.
 
-Azumei is a garage and bass artist based in United Kingdom, with 21 gigs on soundcheck across Bristol, London and Southampton. Often billed alongside DASHY, AVA and Lolli. Next up: The Prospect Building, Bristol on Sat 28 Nov.
+Azumei is a garage and bass artist based in United Kingdom, with 22 gigs on soundcheck across Bristol, London and Southampton. Often billed alongside DASHY, AVA and Lolli. Next up: The Loco Klub, Bristol on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | The Loco Klub | Bristol |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 
 ## Recently played
@@ -25,4 +26,4 @@ Azumei is a garage and bass artist based in United Kingdom, with 21 gigs on soun
 
 DASHY, AVA (3), Lolli
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azumei/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azumei/)*

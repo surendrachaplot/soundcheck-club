@@ -1,6 +1,6 @@
 # Coco Boule
 
-Coco Boule is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "(lip) service edt. 15" on Thu, 29 Oct 2026.
+Coco Boule is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "(lip) service edt. 15" on Thu, 29 Oct 2026.
 
 Coco Boule is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including angelboy, Camilla Rae, DJ AYA and DJ Fuckoff and 2 more. See dates, start times and who's playing. Prinzenstraße 85/D-F, 10969 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Coco Boule is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wit
 
 Prinzenstraße 85/D-F, 10969 Berlin, Germany, Berlin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*

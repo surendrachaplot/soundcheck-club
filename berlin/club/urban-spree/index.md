@@ -1,6 +1,6 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "LIP CRITIC" on Wed, 28 Oct 2026.
+Urban Spree is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "LIP CRITIC" on Wed, 28 Oct 2026.
 
 Urban Spree is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Darin Epsilon, Gareden, Philipp Strobel and SCHNEIDER and 2 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, w
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

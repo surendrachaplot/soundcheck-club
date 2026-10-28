@@ -1,6 +1,6 @@
 # Mannuma
 
-Mannuma is a Tech House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at West Harlem, Kyoto on Thu, 5 Nov 2026.
+Mannuma is a Tech House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at West Harlem, Kyoto on Thu, 5 Nov 2026.
 
 Mannuma is a tech house and dub techno artist based in Japan, with 28 gigs on soundcheck across Kyoto and Osaka. Often billed alongside DJ Master Kohta, BIG MATSUMURA and Matthias Abe. Next up: West Harlem, Kyoto on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Mannuma is a tech house and dub techno artist based in Japan, with 28 gigs on so
 
 DJ Master Kohta, BIG MATSUMURA, Matthias Abe
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mannuma/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mannuma/)*

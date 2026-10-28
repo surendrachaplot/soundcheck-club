@@ -1,6 +1,6 @@
 # Mesmé
 
-Mesmé is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Downtown LA, Los Angeles on Fri, 30 Oct 2026.
+Mesmé is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Downtown LA, Los Angeles on Fri, 30 Oct 2026.
 
 Mesmé is a techno and house artist based in Singapore, with 53 gigs on soundcheck across Beijing, Chicago, Detroit and Hanoi and 6 more. Often billed alongside Maheras, X CLUB. and Etari. Next up: TBA - Downtown LA, Los Angeles on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Mesmé is a techno and house artist based in Singapore, with 53 gigs on soundche
 
 Maheras, X CLUB., Etari
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mesme/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mesme/)*

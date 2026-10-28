@@ -1,14 +1,15 @@
 # SLANY
 
-SLANY is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at objekt klein a, Dresden on Sat, 31 Oct 2026.
+SLANY is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at objekt klein a, Dresden on Sat, 31 Oct 2026.
 
-SLANY is a techno and house artist based in Germany, with 45 gigs on soundcheck across Berlin, Cologne, Dresden and Leipzig and 3 more. Often billed alongside noxsonos, KIMYA and NACHTIGALL. Next up: objekt klein a, Dresden on Sat 31 Oct.
+SLANY is a techno and house artist based in Germany, with 46 gigs on soundcheck across Beijing, Berlin, Cologne and Dresden and 4 more. Often billed alongside noxsonos, KIMYA and NACHTIGALL. Next up: objekt klein a, Dresden on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | objekt klein a | Dresden |
+| Fri, 6 Nov 2026 | Groundless Factory | Beijing |
 | Sat, 14 Nov 2026 | Distillery | Leipzig |
 | Fri, 27 Nov 2026 | TBA | Berlin |
 
@@ -27,4 +28,4 @@ SLANY is a techno and house artist based in Germany, with 45 gigs on soundcheck 
 
 noxsonos, KIMYA, NACHTIGALL
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slany/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slany/)*

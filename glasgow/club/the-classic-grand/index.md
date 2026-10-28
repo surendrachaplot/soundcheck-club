@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Disfunction: Halloween Horrors" on Sat, 31 Oct 2026.
+The Classic Grand is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Disfunction: Halloween Horrors" on Sat, 31 Oct 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), DYEN and Joe Deacon and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 12 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

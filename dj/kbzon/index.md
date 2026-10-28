@@ -1,6 +1,6 @@
 # KBZON
 
-KBZON is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Gobernador José Gómez Cortina 3, Mexico City on Fri, 6 Nov 2026.
+KBZON is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Gobernador José Gómez Cortina 3, Mexico City on Fri, 6 Nov 2026.
 
 KBZON is a garage and house artist, with 11 gigs on soundcheck across Mexico City. Often billed alongside Emisopa, ALDOX and Alexa Rosas. Next up: TBA - Gobernador José Gómez Cortina 3, Mexico City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ KBZON is a garage and house artist, with 11 gigs on soundcheck across Mexico Cit
 
 Emisopa, ALDOX, Alexa Rosas
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kbzon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kbzon/)*

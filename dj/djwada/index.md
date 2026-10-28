@@ -1,6 +1,6 @@
 # DJ Wada
 
-DJ Wada is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Room, Tokyo on Sun, 6 Dec 2026.
+DJ Wada is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Room, Tokyo on Sun, 6 Dec 2026.
 
 DJ Wada is a techno and house artist based in Japan, with 99 gigs on soundcheck across Tokyo. Often billed alongside DAIY, NABE and Yos.. Next up: The Room, Tokyo on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ DJ Wada is a techno and house artist based in Japan, with 99 gigs on soundcheck 
 
 DAIY, NABE, Yos.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwada/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwada/)*

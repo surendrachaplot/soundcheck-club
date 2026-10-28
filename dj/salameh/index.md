@@ -1,6 +1,6 @@
 # salameh
 
-salameh is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
+salameh is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
 
 salameh is a house and deep house artist based in United States of America, with 34 gigs on soundcheck across Amsterdam, Austin, Berlin and Florence and 6 more. Often billed alongside GEE LEE, RAJE and JACK MARLOW. Next up: Paloma, Berlin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ salameh is a house and deep house artist based in United States of America, with
 
 GEE LEE, RAJE, JACK MARLOW
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salameh/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salameh/)*

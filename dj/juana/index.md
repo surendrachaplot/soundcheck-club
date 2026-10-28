@@ -1,6 +1,6 @@
 # Juana
 
-Juana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Paragon, New York City on Sat, 31 Oct 2026.
+Juana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Paragon, New York City on Sat, 31 Oct 2026.
 
 Juana is a techno and house artist based in United States of America, with 136 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 15 more. Often billed alongside Ne/Re/A, Concrete Husband and Volvox. Next up: Paragon, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Juana is a techno and house artist based in United States of America, with 136 g
 
 Ne/Re/A, Concrete Husband, Volvox
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juana/)*

@@ -1,6 +1,6 @@
 # The Little Neon Door, Shoreditch
 
-The Little Neon Door, Shoreditch is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "No Place Like Home" on Sun, 1 Nov 2026.
+The Little Neon Door, Shoreditch is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "No Place Like Home" on Sun, 1 Nov 2026.
 
 The Little Neon Door, Shoreditch is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. The Little Neon Door, 91-92 Great Eastern St, London EC2A 3HZ.
 
@@ -14,4 +14,4 @@ The Little Neon Door, Shoreditch is a music venue in London listed on soundcheck
 
 The Little Neon Door, 91-92 Great Eastern St, London EC2A 3HZ, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-little-neon-door-shoreditch/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-little-neon-door-shoreditch/)*

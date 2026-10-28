@@ -1,6 +1,6 @@
 # DJ Spit (ES)
 
-DJ Spit (ES) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 31 Oct 2026.
+DJ Spit (ES) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 31 Oct 2026.
 
 DJ Spit (ES) is a techno and house artist, with 8 gigs on soundcheck across Amsterdam, Berlin, London and Melbourne and 3 more. Often billed alongside Spray, Narciss and 6EJOU. Next up: Humboldthain Club, Berlin on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ DJ Spit (ES) is a techno and house artist, with 8 gigs on soundcheck across Amst
 
 Spray, Narciss, 6EJOU
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspit-es/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspit-es/)*

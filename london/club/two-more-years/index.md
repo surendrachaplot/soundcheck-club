@@ -1,6 +1,6 @@
 # Two More Years
 
-Two More Years is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Hot Cross Fun presents: Halloween Disco" on Sat, 31 Oct 2026.
+Two More Years is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Hot Cross Fun presents: Halloween Disco" on Sat, 31 Oct 2026.
 
 Two More Years is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Arnie Wrong, Daydream Disco, Gerrardo and Hot Cross Fun and 2 more. See dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
 
@@ -16,4 +16,4 @@ Two More Years is a music venue in London listed on soundcheck. 3 upcoming gigs,
 
 7 Roach Road, Hackney Wick, E3 2PA, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*

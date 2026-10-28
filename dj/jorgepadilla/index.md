@@ -1,6 +1,6 @@
 # Jorge Padilla
 
-Jorge Padilla is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Malasaña, Madrid on Sat, 31 Oct 2026.
+Jorge Padilla is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Malasaña, Madrid on Sat, 31 Oct 2026.
 
 Jorge Padilla is an electronica and house artist based in Spain, with 16 gigs on soundcheck across Madrid. Often billed alongside 1Night Only, Abdulla A. and Avo (ES). Next up: Club Malasaña, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jorge Padilla is an electronica and house artist based in Spain, with 16 gigs on
 
 1Night Only, Abdulla A., Avo (ES)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgepadilla/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgepadilla/)*

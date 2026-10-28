@@ -1,6 +1,6 @@
 # Nkisi
 
-Nkisi is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Nkisi is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 Nkisi is an experimental and techno artist based in Democratic Republic of the Congo, with 100 gigs on soundcheck across Amsterdam, Bergen, Berlin and Birmingham and 24 more. Often billed alongside Rainy Miller, Jon K and 2K88. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Nkisi is an experimental and techno artist based in Democratic Republic of the C
 
 Rainy Miller, Jon K, 2K88
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*

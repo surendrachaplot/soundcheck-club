@@ -1,6 +1,6 @@
 # XMRXLLXH
 
-XMRXLLXH is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at NOH Extended, Istanbul on Sat, 31 Oct 2026.
+XMRXLLXH is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at NOH Extended, Istanbul on Sat, 31 Oct 2026.
 
 XMRXLLXH is a techno and industrial artist, with 23 gigs on soundcheck across Istanbul. Often billed alongside B-DRIVE, undrtow and SEV!L!R. Next up: NOH Extended, Istanbul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ XMRXLLXH is a techno and industrial artist, with 23 gigs on soundcheck across Is
 
 B-DRIVE, undrtow, SEV!L!R
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xmrxllxh/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xmrxllxh/)*

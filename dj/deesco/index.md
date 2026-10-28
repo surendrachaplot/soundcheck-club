@@ -1,14 +1,15 @@
 # deesco
 
-deesco is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Baby Battista @ Nico's, Los Angeles on Fri, 30 Oct 2026.
+deesco is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Baby Battista @ Nico's, Los Angeles on Fri, 30 Oct 2026.
 
-deesco is a club and house artist based in United States of America, with 21 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Banoffee, Alxander Ivey and Alima Lee. Next up: Baby Battista @ Nico's, Los Angeles on Fri 30 Oct.
+deesco is a club and house artist based in United States of America, with 22 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Banoffee, Alxander Ivey and Azure. Next up: Baby Battista @ Nico's, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Baby Battista @ Nico's | Los Angeles |
+| Fri, 30 Oct 2026 | TBA | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ deesco is a club and house artist based in United States of America, with 21 gig
 
 ## Shares bills with
 
-Banoffee, Alxander Ivey, Alima Lee
+Banoffee, Alxander Ivey, Azure
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deesco/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deesco/)*

@@ -1,6 +1,6 @@
 # Parallx
 
-Parallx is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Arzenal, Budapest on Sat, 7 Nov 2026.
+Parallx is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Arzenal, Budapest on Sat, 7 Nov 2026.
 
 Parallx is a techno and industrial artist based in Germany, with 145 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Acierate, RIKHTER and Tham. Next up: Arzenal, Budapest on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Parallx is a techno and industrial artist based in Germany, with 145 gigs on sou
 
 Acierate, RIKHTER, Tham
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parallx/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parallx/)*

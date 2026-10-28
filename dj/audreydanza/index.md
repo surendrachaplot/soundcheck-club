@@ -1,6 +1,6 @@
 # Audrey Danza
 
-Audrey Danza is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Audrey Danza is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Audrey Danza is a techno and trance artist based in Switzerland, with 204 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside Kasper Marott, Anetha and Pablo Bozzi. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Audrey Danza is a techno and trance artist based in Switzerland, with 204 gigs o
 
 Kasper Marott, Anetha, Pablo Bozzi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*

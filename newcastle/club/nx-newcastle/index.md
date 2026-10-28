@@ -1,6 +1,6 @@
 # NX Newcastle
 
-NX Newcastle is a music venue in Newcastle with 15 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Project Halloween" on Thu, 29 Oct 2026.
+NX Newcastle is a music venue in Newcastle with 15 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Project Halloween" on Thu, 29 Oct 2026.
 
 NX Newcastle is a music venue in Newcastle listed on soundcheck. 15 upcoming gigs, with line-ups including Azyr, bullet tooth, D.O.D. and Dr Banana and 2 more. See dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
 
@@ -23,4 +23,4 @@ NX Newcastle is a music venue in Newcastle listed on soundcheck. 15 upcoming gig
 
 Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom, Newcastle
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*

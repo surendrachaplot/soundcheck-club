@@ -1,6 +1,6 @@
 # Franziska Lindholz
 
-Franziska Lindholz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 28 Oct 2026.
+Franziska Lindholz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 28 Oct 2026.
 
 Franziska Lindholz is a techno and house artist based in Germany, with 8 gigs on soundcheck across Berlin and Rotterdam. Often billed alongside Ben Kaczor, ALKARLINE and Amanda Mussi. Next up: Tresor / Globus, Berlin on Wed 28 Oct.
 
@@ -24,4 +24,4 @@ Franziska Lindholz is a techno and house artist based in Germany, with 8 gigs on
 
 Ben Kaczor, ALKARLINE, Amanda Mussi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskalindholz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskalindholz/)*

@@ -1,6 +1,6 @@
 # Becking
 
-Becking is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Secret Warehouse, Manchester on Sat, 31 Oct 2026.
+Becking is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Secret Warehouse, Manchester on Sat, 31 Oct 2026.
 
 Becking is a house and bass artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Leeds and Manchester. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: Secret Warehouse, Manchester on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Becking is a house and bass artist based in Netherlands, with 18 gigs on soundch
 
 Kirilski, Pura Pachanga, Snooz
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*

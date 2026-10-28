@@ -1,6 +1,6 @@
 # Mila Necchella
 
-Mila Necchella is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Unité.22, Marseille on Fri, 30 Oct 2026.
+Mila Necchella is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Unité.22, Marseille on Fri, 30 Oct 2026.
 
 Mila Necchella is a techno and bass artist based in France, with 7 gigs on soundcheck across Marseille and Paris. Often billed alongside RAVL, 42L and Mia Koden. Next up: Unité.22, Marseille on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Mila Necchella is a techno and bass artist based in France, with 7 gigs on sound
 
 RAVL, 42L (1), Mia Koden
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milanecchella/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milanecchella/)*

@@ -1,6 +1,6 @@
 # Nila
 
-Nila is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
+Nila is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
 
 Nila is a house and techno artist based in New Zealand, with 16 gigs on soundcheck across Auckland, Barcelona, Madrid and Paris. Often billed alongside Diego Armando, PethbUri and Yosef (ES). Next up: Razzmatazz, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Nila is a house and techno artist based in New Zealand, with 16 gigs on soundche
 
 Diego Armando, PethbUri, Yosef (ES)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nila/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nila/)*

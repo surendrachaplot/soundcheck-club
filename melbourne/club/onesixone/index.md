@@ -1,8 +1,8 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Fireball + onesixone Thursday's Pres. The Annual Halloween Rave" on Thu, 29 Oct 2026.
+OneSixOne is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Fireball + onesixone Thursday's Pres. The Annual Halloween Rave" on Thu, 29 Oct 2026.
 
-OneSixOne is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Amity and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
+OneSixOne is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Amity and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
 ## What's on
 
@@ -15,9 +15,10 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, w
 | Fri, 6 Nov 2026 | CA LOU - onesixone | Adam Trace, Amber Ferraro, CA LOU, Jay Ramon |
 | Sat, 7 Nov 2026 | COMES IN WAVES pres. Day Party |  |
 | Fri, 13 Nov 2026 | CIOZ (LIVE) | Amity, Fosters, The Journey |
+| Fri, 20 Nov 2026 | Yarra - onesixone | Adam Trace, Amber Ferraro, Jay Ramon, Yarra (2) |
 
 ## Address
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

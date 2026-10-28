@@ -1,13 +1,14 @@
 # dj_2button
 
-dj_2button is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Private Location, Vancouver on Fri, 11 Dec 2026.
+dj_2button is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Biltmore Cabaret, Vancouver on Sun, 6 Dec 2026.
 
-dj_2button is a techno and house artist based in Canada, with 32 gigs on soundcheck across Barcelona, Bristol, Glasgow and Newcastle and 1 more. Often billed alongside Dairy Free, Dane and INNEZZ. Next up: TBA - Private Location, Vancouver on Fri 11 Dec.
+dj_2button is a techno and house artist based in Canada, with 33 gigs on soundcheck across Barcelona, Bristol, Glasgow and Newcastle and 1 more. Often billed alongside Dairy Free, Dane and INNEZZ. Next up: Biltmore Cabaret, Vancouver on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | Biltmore Cabaret | Vancouver |
 | Fri, 11 Dec 2026 | TBA - Private Location | Vancouver |
 
 ## Recently played
@@ -25,4 +26,4 @@ dj_2button is a techno and house artist based in Canada, with 32 gigs on soundch
 
 Dairy Free, Dane, INNEZZ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj2button/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj2button/)*

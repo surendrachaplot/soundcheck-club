@@ -1,6 +1,6 @@
 # Eastway Baths
 
-Eastway Baths is a music venue in London with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "GIANT STEPS" on Sat, 31 Oct 2026.
+Eastway Baths is a music venue in London with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "GIANT STEPS" on Sat, 31 Oct 2026.
 
 Eastway Baths is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alexander Nut, Charlie Dark, Manfredas and Maxwell Owin and 2 more. See dates, start times and who's playing. 80 Eastway, E9 5JH.
 
@@ -22,4 +22,4 @@ Eastway Baths is a music venue in London listed on soundcheck. 9 upcoming gigs, 
 
 80 Eastway, E9 5JH, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/eastway-baths/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/eastway-baths/)*

@@ -1,6 +1,6 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Hugo Martinez is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Hugo Martinez is a house and techno artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 15 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Hugo Martinez is a house and techno artist based in Spain, with 85 gigs on sound
 
 Pol K, Nuzzo, Carlos Vila
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*

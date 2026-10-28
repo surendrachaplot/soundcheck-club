@@ -1,14 +1,15 @@
 # Krashnoize
 
-Krashnoize is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - FREQUENZA 79, Naples on Sat, 31 Oct 2026.
+Krashnoize is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - FREQUENZA 79, Naples on Sat, 31 Oct 2026.
 
-Krashnoize is a techno and dub techno artist based in Italy, with 13 gigs on soundcheck across Naples. Often billed alongside Markantonio, Benth. and Marco Liguori. Next up: TBA - FREQUENZA 79, Naples on Sat 31 Oct.
+Krashnoize is a techno and dub techno artist based in Italy, with 14 gigs on soundcheck across Naples. Often billed alongside Markantonio, Benth. and Lino Fuso. Next up: TBA - FREQUENZA 79, Naples on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - FREQUENZA 79 | Naples |
+| Sat, 28 Nov 2026 | Common Ground | Naples |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Krashnoize is a techno and dub techno artist based in Italy, with 13 gigs on sou
 
 ## Shares bills with
 
-Markantonio, Benth., Marco Liguori
+Markantonio, Benth., Lino Fuso
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krashnoize/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krashnoize/)*

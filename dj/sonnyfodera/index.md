@@ -1,13 +1,14 @@
 # Sonny Fodera
 
-Sonny Fodera is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bohemia Beach Club, Dubai on Thu, 31 Dec 2026.
+Sonny Fodera is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Radius, Chicago on Fri, 11 Dec 2026.
 
-Sonny Fodera is a house and tech house artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Bohemia Beach Club, Dubai on Thu 31 Dec.
+Sonny Fodera is a house and tech house artist based in United Kingdom, with 186 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Radius, Chicago on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Radius | Chicago |
 | Thu, 31 Dec 2026 | Bohemia Beach Club | Dubai |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sonny Fodera is a house and tech house artist based in United Kingdom, with 185 
 
 Danny Howard, Gorgon City, Greta Levska
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*

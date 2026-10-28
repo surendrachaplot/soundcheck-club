@@ -1,14 +1,14 @@
 # Rick Baguette
 
-Rick Baguette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Pelgrimstraat 15, 2000 Antwerp , Antwerp on Fri, 13 Nov 2026.
+Rick Baguette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Pelgrimstraat 15, 2000 Antwerpen. , Antwerp on Fri, 13 Nov 2026.
 
-Rick Baguette is a house and techno artist based in Belgium, with 49 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Rozevelt, r.omy and DTM Funk. Next up: TBA - Pelgrimstraat 15, 2000 Antwerp , Antwerp on Fri 13 Nov.
+Rick Baguette is a house and techno artist based in Belgium, with 49 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Rozevelt, r.omy and DTM Funk. Next up: TBA - Pelgrimstraat 15, 2000 Antwerpen. , Antwerp on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - Pelgrimstraat 15, 2000 Antwerp  | Antwerp |
+| Fri, 13 Nov 2026 | TBA - Pelgrimstraat 15, 2000 Antwerpen.  | Antwerp |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Rick Baguette is a house and techno artist based in Belgium, with 49 gigs on sou
 
 Rozevelt, r.omy, DTM Funk
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickbaguette/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickbaguette/)*

@@ -1,6 +1,6 @@
 # JUWLZ
 
-JUWLZ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Void Club, Berlin on Fri, 6 Nov 2026.
+JUWLZ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Void Club, Berlin on Fri, 6 Nov 2026.
 
 JUWLZ is a techno and trance artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 1 more. Often billed alongside Lisatrix, cell1 and Brizze. Next up: Void Club, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ JUWLZ is a techno and trance artist based in Germany, with 33 gigs on soundcheck
 
 Lisatrix, cell1, Brizze
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*

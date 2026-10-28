@@ -1,6 +1,6 @@
 # COCOA HALLOWEEN AFTER-PARTY at Studio Club Malaga
 
-COCOA HALLOWEEN AFTER-PARTY at Studio Club Malaga on Sun 1 Nov, Malaga. 1 artist: ART NO LOGIA. Tech House. See the line-up on soundcheck.
+COCOA HALLOWEEN AFTER-PARTY at Studio Club Malaga on Sun 1 Nov, Malaga. 4 artists: ART NO LOGIA, Joe Vanditti, Rayzir and Rendher. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ COCOA HALLOWEEN AFTER-PARTY at Studio Club Malaga on Sun 1 Nov, Malaga. 1 artist
 ## Line-up
 
 - ART NO LOGIA
+- Joe Vanditti
+- Rayzir
+- Rendher
 
 *Source: [soundcheck](https://soundcheck.club/e/2567037-cocoa-halloween-after-party-at-studio-club-malaga/)*

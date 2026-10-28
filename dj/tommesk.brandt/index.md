@@ -1,6 +1,6 @@
 # Tommes K. Brandt
 
-Tommes K. Brandt is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 30 Oct 2026.
+Tommes K. Brandt is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 30 Oct 2026.
 
 Tommes K. Brandt is a house and club artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside 7ommes, Better Call Paul and Darwin Stapel. Next up: Bulbul Berlin, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tommes K. Brandt is a house and club artist based in Germany, with 9 gigs on sou
 
 7ommes, Better Call Paul, Darwin Stapel
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommesk.brandt/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommesk.brandt/)*

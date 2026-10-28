@@ -1,6 +1,6 @@
 # 10Foot x DaMetalMessiah x Percy Mingle: Halloween Special at M.O.T
 
-10Foot x DaMetalMessiah x Percy Mingle: Halloween Special at M.O.T on Fri 30 Oct, London. 6 artists: Doc Scott, FAUZIA, Jon E Cash and Mantra and 2 more. See the line-up on soundcheck.
+10Foot x DaMetalMessiah x Percy Mingle: Halloween Special at M.O.T on Fri 30 Oct, London. 7 artists: Doc Scott, Eliza Rose, FAUZIA and Jon E Cash and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Doc Scott
+- Eliza Rose
 - FAUZIA
 - Jon E Cash
 - Mantra

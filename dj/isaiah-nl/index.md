@@ -1,8 +1,8 @@
 # Isaiah (NL)
 
-Isaiah (NL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at KALT, Strasbourg on Sat, 31 Oct 2026.
+Isaiah (NL) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at KALT, Strasbourg on Sat, 31 Oct 2026.
 
-Isaiah (NL) is a techno and house artist based in Netherlands, with 107 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Brussels and 27 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: KALT, Strasbourg on Sat 31 Oct.
+Isaiah (NL) is a techno and house artist based in Netherlands, with 108 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Brussels and 27 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: KALT, Strasbourg on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Isaiah (NL) is a techno and house artist based in Netherlands, with 107 gigs on 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | KALT | Strasbourg |
 | Sat, 7 Nov 2026 | RADION | Amsterdam |
+| Fri, 18 Dec 2026 | Lehmann Club | Stuttgart |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Isaiah (NL) is a techno and house artist based in Netherlands, with 107 gigs on 
 
 Beau Didier, Flits, Lasse
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*

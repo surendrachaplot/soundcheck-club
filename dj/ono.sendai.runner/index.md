@@ -1,6 +1,6 @@
 # ono.sendai.runner
 
-ono.sendai.runner is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
+ono.sendai.runner is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
 
 ono.sendai.runner is a techno and idm artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Sam PV, Toby (UK) and Jade Seatle. Next up: NUMBER 90 LONDON, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ono.sendai.runner is a techno and idm artist based in United Kingdom, with 12 gi
 
 Sam PV, Toby (UK), Jade Seatle
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ono.sendai.runner/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ono.sendai.runner/)*

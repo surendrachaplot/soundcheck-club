@@ -1,6 +1,6 @@
 # Conio
 
-Conio is a Electronica and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cadavra, Madrid on Sat, 7 Nov 2026.
+Conio is a Electronica and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cadavra, Madrid on Sat, 7 Nov 2026.
 
 Conio is an electronica and acid artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside Marina Antih, Fer Xplosion and Luska. Next up: Cadavra, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Conio is an electronica and acid artist based in Spain, with 14 gigs on soundche
 
 Marina Antih, Fer Xplosion, Luska
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conio-es/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conio-es/)*

@@ -1,6 +1,6 @@
 # Erinc
 
-Erinc is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Gallery, London on Wed, 28 Oct 2026.
+Erinc is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Gallery, London on Wed, 28 Oct 2026.
 
 Erinc is an afro house and afro tech artist based in United Kingdom, with 3 gigs on soundcheck across London and Paris. Often billed alongside Batuka. Next up: Gallery, London on Wed 28 Oct.
 
@@ -16,4 +16,4 @@ Erinc is an afro house and afro tech artist based in United Kingdom, with 3 gigs
 
 Batuka
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erinc/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erinc/)*

@@ -1,14 +1,15 @@
 # stebu
 
-stebu is a Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA -  LFO, Madrid on Sat, 21 Nov 2026.
+stebu is a Bass and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA -  LFO, Madrid on Sat, 21 Nov 2026.
 
-stebu is an electronica artist, with 6 gigs on soundcheck across Brussels, Dublin and Madrid. Often billed alongside Murchadh, ACKERMAN and AliA. Next up: TBA -  LFO, Madrid on Sat 21 Nov.
+stebu is a bass and electronica artist, with 7 gigs on soundcheck across Brussels, Dublin and Madrid. Often billed alongside EMA, Murchadh and ACKERMAN. Next up: TBA -  LFO, Madrid on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA -  LFO | Madrid |
+| Sat, 28 Nov 2026 | Yamamori Tengu | Dublin |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ stebu is an electronica artist, with 6 gigs on soundcheck across Brussels, Dubli
 
 ## Shares bills with
 
-Murchadh, ACKERMAN, AliA
+EMA (1), Murchadh, ACKERMAN
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stebu-be/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stebu-be/)*

@@ -1,6 +1,6 @@
 # Slave To The Rave Halloween at OST
 
-Slave To The Rave Halloween at OST on Sat 31 Oct, Berlin. 7 artists: Baron Von Trax, BAUGRUPPE90, DJ Hell and slin and 3 more. Trance and Techno. See the line-up on soundcheck.
+Slave To The Rave Halloween at OST on Sat 31 Oct, Berlin. 6 artists: Baron Von Trax, BAUGRUPPE90, DJ Hell and slin and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ Slave To The Rave Halloween at OST on Sat 31 Oct, Berlin. 7 artists: Baron Von T
 - BAUGRUPPE90
 - DJ Hell
 - slin
-- Tigerhead
 - Upper90
 - Yuada
 

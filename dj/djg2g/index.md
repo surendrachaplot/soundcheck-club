@@ -1,6 +1,6 @@
 # dj g2g
 
-dj g2g is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+dj g2g is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 dj g2g is a techno and club artist based in Uruguay, with 136 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bali and 54 more. Often billed alongside Azyr, Alex Farell and Faster Horses. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ dj g2g is a techno and club artist based in Uruguay, with 136 gigs on soundcheck
 
 Azyr, Alex Farell, Faster Horses
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*

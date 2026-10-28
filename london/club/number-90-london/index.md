@@ -1,6 +1,6 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Rolling Ritmo & Night Tube Halloween: DJ Hell, Reptant (Live), Magda, Mariiin, Vera, Residents" on Fri, 30 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Rolling Ritmo & Night Tube Halloween: DJ Hell, Reptant (Live), Magda, Mariiin, Vera, Residents" on Fri, 30 Oct 2026.
 
 NUMBER 90 LONDON is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Mariiin, Ruby SD, Alisdair and Bill Brewster and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
@@ -17,10 +17,10 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 14 upcoming gi
 | Fri, 13 Nov 2026 | Klub Verboten x LONDON | Mona Sage, Oliver Deutschmann, Yova Yager |
 | Fri, 20 Nov 2026 | Ezequiel Arias | Ezequiel Arias |
 | Sat, 21 Nov 2026 | M.A.D Records 6th BIRTHDAY | Ellie Anderson, Make A Dance, Tino |
-| Sun, 22 Nov 2026 | Cartulis 17th Anniversary After Party |  |
+| Sun, 22 Nov 2026 | Cartulis 17th Anniversary After Party | Cecilio, Laurine |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

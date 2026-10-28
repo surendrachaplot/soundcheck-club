@@ -1,8 +1,8 @@
 # Cristina Lazic
 
-Cristina Lazic is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Dubai on Sat, 7 Nov 2026.
+Cristina Lazic is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Dubai on Sat, 7 Nov 2026.
 
-Cristina Lazic is a house and tech house artist based in Italy, with 93 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 26 more. Often billed alongside East End Dubs, Joseph Capriati and Hot Since 82. Next up: TBA, Dubai on Sat 7 Nov.
+Cristina Lazic is a house and tech house artist based in Italy, with 94 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 27 more. Often billed alongside East End Dubs, Joseph Capriati and Hot Since 82. Next up: TBA, Dubai on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cristina Lazic is a house and tech house artist based in Italy, with 93 gigs on 
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA | Dubai |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 27 Nov 2026 | Basic Club | Naples |
 | Sat, 5 Dec 2026 | Carousel Bar & Ballroom | Sydney |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 | Mon, 28 Dec 2026 | fabric | London |
@@ -30,4 +31,4 @@ Cristina Lazic is a house and tech house artist based in Italy, with 93 gigs on 
 
 East End Dubs, Joseph Capriati, Hot Since 82
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*

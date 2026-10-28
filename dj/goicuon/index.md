@@ -1,6 +1,6 @@
 # Gỏi Cuốn
 
-Gỏi Cuốn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Volar, Ho Chi Minh City on Fri, 30 Oct 2026.
+Gỏi Cuốn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Volar, Ho Chi Minh City on Fri, 30 Oct 2026.
 
 Gỏi Cuốn is a house and techno artist based in Vietnam, with 54 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Park:ING, Hibiya Line and Baobei.. Next up: TBA - Volar, Ho Chi Minh City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Gỏi Cuốn is a house and techno artist based in Vietnam, with 54 gigs on soun
 
 Park:ING, Hibiya Line, Baobei.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goicuon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goicuon/)*

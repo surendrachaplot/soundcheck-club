@@ -1,6 +1,6 @@
 # Gomez
 
-Gomez is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at La Compagnie 1837, Paris on Sat, 31 Oct 2026.
+Gomez is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at La Compagnie 1837, Paris on Sat, 31 Oct 2026.
 
 Gomez is a hip-hop and house artist based in Greece, with 12 gigs on soundcheck across Buenos Aires, Paris, San Diego and Tokyo and 1 more. Often billed alongside Blabla, DJ B2B and Hirosson. Next up: La Compagnie 1837, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gomez is a hip-hop and house artist based in Greece, with 12 gigs on soundcheck 
 
 Blabla, DJ B2B, Hirosson
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gomez/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gomez/)*

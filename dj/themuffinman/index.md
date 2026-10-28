@@ -1,8 +1,8 @@
-# TheMuffinMan
+# The Muffin Man
 
-TheMuffinMan is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 30 Oct 2026.
+The Muffin Man is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 30 Oct 2026.
 
-TheMuffinMan is a techno and trance artist based in Italy, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 33 more. Often billed alongside JOKESONYOU, Funk Tribu and Justin Tinderdate. Next up: Entrepôts Dominion, Les, Montreal on Fri 30 Oct.
+The Muffin Man is a techno and trance artist based in Italy, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 33 more. Often billed alongside JOKESONYOU, Funk Tribu and Justin Tinderdate. Next up: Entrepôts Dominion, Les, Montreal on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ TheMuffinMan is a techno and trance artist based in Italy, with 95 gigs on sound
 
 JOKESONYOU, Funk Tribu, Justin Tinderdate
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themuffinman/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themuffinman/)*

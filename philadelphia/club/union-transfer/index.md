@@ -1,15 +1,13 @@
 # Union Transfer
 
-Union Transfer is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Bassvictim - White Flag Tour '26" on Tue, 27 Oct 2026.
+Union Transfer is a music venue in Philadelphia with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Brutalismus 3000 - Harmony US Tour 2026" on Wed, 4 Nov 2026.
 
-Union Transfer is a music venue in Philadelphia listed on soundcheck. 5 upcoming gigs, with line-ups including Bassvictim, Bonobo, Brutalismus 3000 and Dorian Electra and 2 more. See dates, start times and who's playing. 1026 Spring Garden Street, Philadelphia, PA 19123, USA.
+Union Transfer is a music venue in Philadelphia listed on soundcheck. 3 upcoming gigs, with line-ups including Bonobo, Brutalismus 3000, Dorian Electra and Eera and 2 more. See dates, start times and who's playing. 1026 Spring Garden Street, Philadelphia, PA 19123, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 27 Oct 2026 | Bassvictim - White Flag Tour '26 | Bassvictim, Thoom |
-| Tue, 27 Oct 2026 | Bassvictim: White Flag Tour '26 /  Thoom | Bassvictim, Thoom |
 | Wed, 4 Nov 2026 | Brutalismus 3000 - Harmony US Tour 2026 | Brutalismus 3000, Dorian Electra, Eera |
 | Sun, 8 Nov 2026 | George Clanton | George Clanton, Ryan Hemsworth |
 | Fri, 4 Dec 2026 | Bonobo | Bonobo |
@@ -18,4 +16,4 @@ Union Transfer is a music venue in Philadelphia listed on soundcheck. 5 upcoming
 
 1026 Spring Garden Street, Philadelphia, PA 19123, USA, Philadelphia
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/union-transfer/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/union-transfer/)*

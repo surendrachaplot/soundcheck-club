@@ -1,6 +1,6 @@
 # Finn Nelson
 
-Finn Nelson is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cellar, London on Fri, 6 Nov 2026.
+Finn Nelson is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cellar, London on Fri, 6 Nov 2026.
 
 Finn Nelson is a house and electro artist based in United Kingdom, with 12 gigs on soundcheck across London and Manchester. Often billed alongside Earth2Sam, Cut the Rug and Nick & Nath. Next up: Cellar, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Finn Nelson is a house and electro artist based in United Kingdom, with 12 gigs 
 
 Earth2Sam, Cut the Rug, Nick & Nath
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finnnelson/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finnnelson/)*

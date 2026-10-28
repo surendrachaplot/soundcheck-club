@@ -1,6 +1,6 @@
 # AAguilAA
 
-AAguilAA is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+AAguilAA is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
 AAguilAA is a house and pop artist based in Belgium, with 40 gigs on soundcheck across Berlin, Brussels and Lisbon. Often billed alongside The Stress, Daniel Wang and Afonso Peixoto. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ AAguilAA is a house and pop artist based in Belgium, with 40 gigs on soundcheck 
 
 The Stress, Daniel Wang, Afonso Peixoto
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguilaa/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaguilaa/)*

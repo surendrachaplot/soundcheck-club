@@ -1,6 +1,6 @@
 # Soichi Terada
 
-Soichi Terada is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at La Paloma, Barcelona on Fri, 30 Oct 2026.
+Soichi Terada is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at La Paloma, Barcelona on Fri, 30 Oct 2026.
 
 Soichi Terada is a house and techno artist based in Japan, with 127 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 40 more. Often billed alongside Antal, SAMO (JP) and Moxie. Next up: La Paloma, Barcelona on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Soichi Terada is a house and techno artist based in Japan, with 127 gigs on soun
 
 Antal, SAMO (JP), Moxie
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiterada/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiterada/)*

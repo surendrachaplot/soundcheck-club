@@ -1,6 +1,6 @@
 # Haygs
 
-Haygs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 14 Nov 2026.
+Haygs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 14 Nov 2026.
 
 Haygs is a house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Liverpool. Often billed alongside Kirwan, _Hess and 4D (UK). Next up: Kazimier Garden, Liverpool on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Haygs is a house and techno artist based in United Kingdom, with 10 gigs on soun
 
 Kirwan, _Hess, 4D (UK)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haygs/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haygs/)*

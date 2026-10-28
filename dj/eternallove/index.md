@@ -1,6 +1,6 @@
 # Eternal Love
 
-Eternal Love is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Apophis Club, Milan on Fri, 13 Nov 2026.
+Eternal Love is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Apophis Club, Milan on Fri, 13 Nov 2026.
 
 Eternal Love is a house and disco artist based in Italy, with 138 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Dirty Channels, Larry Masmero and Pitaya Soundsystem. Next up: Apophis Club, Milan on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Eternal Love is a house and disco artist based in Italy, with 138 gigs on soundc
 
 Dirty Channels, Larry Masmero, Pitaya Soundsystem
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eternallove/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eternallove/)*

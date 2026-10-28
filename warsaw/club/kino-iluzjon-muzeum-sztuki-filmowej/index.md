@@ -1,13 +1,14 @@
 # Kino Iluzjon Muzeum Sztuki Filmowej
 
-Kino Iluzjon Muzeum Sztuki Filmowej is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Kulturystyka filmowa (DJ sety: Kacha, julek ploski)" on Sat, 7 Nov 2026.
+Kino Iluzjon Muzeum Sztuki Filmowej is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Kulturystyka filmowa (DJ-set: Bambi Uzi, julek ploski)" on Sat, 7 Nov 2026.
 
-Kino Iluzjon Muzeum Sztuki Filmowej is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including julek ploski and Kacha. See dates, start times and who's playing.
+Kino Iluzjon Muzeum Sztuki Filmowej is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including Bambi Uzi and julek ploski. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Kulturystyka filmowa (DJ sety: Kacha, julek ploski) | Kacha, julek ploski |
+| Sat, 7 Nov 2026 | Kulturystyka filmowa (DJ-set: Bambi Uzi, julek ploski) | Bambi Uzi, julek ploski |
+| Sun, 8 Nov 2026 | Klawo grają do filmu „Czarny pirat' - 21. Święto Niemego Kina |  |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kino-iluzjon-muzeum-sztuki-filmowej/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kino-iluzjon-muzeum-sztuki-filmowej/)*

@@ -1,6 +1,6 @@
 # David Triana
 
-David Triana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ephigenia, Sao Paulo on Fri, 30 Oct 2026.
+David Triana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ephigenia, Sao Paulo on Fri, 30 Oct 2026.
 
 David Triana is a house and techno artist based in Colombia, with 86 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 20 more. Often billed alongside Rakim Under, Kenia and O.BEE. Next up: Ephigenia, Sao Paulo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ David Triana is a house and techno artist based in Colombia, with 86 gigs on sou
 
 Rakim Under, Kenia, O.BEE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtriana/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtriana/)*

@@ -1,6 +1,6 @@
 # DHÆÜR
 
-DHÆÜR is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
+DHÆÜR is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
 
 DHÆÜR is a techno artist based in Italy, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dortmund / Essen and 3 more. Often billed alongside DVS1, Chami and Dustin Zahn. Next up: Razzmatazz, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DHÆÜR is a techno artist based in Italy, with 14 gigs on soundcheck across Ams
 
 DVS1, Chami, Dustin Zahn
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhaeur/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhaeur/)*

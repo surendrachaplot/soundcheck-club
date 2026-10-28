@@ -1,6 +1,6 @@
 # Courtesy
 
-Courtesy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Courtesy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
 
 Courtesy is a techno and house artist based in Denmark, with 171 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 52 more. Often billed alongside Byron Yeates, MCR-T and DJ Gigola. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Courtesy is a techno and house artist based in Denmark, with 171 gigs on soundch
 
 Byron Yeates, MCR-T, DJ Gigola
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*

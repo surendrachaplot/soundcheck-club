@@ -1,6 +1,6 @@
 # Cyberpsychosis
 
-Cyberpsychosis is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Vibra, Tbilisi on Sat, 31 Oct 2026.
+Cyberpsychosis is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Vibra, Tbilisi on Sat, 31 Oct 2026.
 
 Cyberpsychosis is a techno and industrial artist based in Georgia, with 8 gigs on soundcheck across Berlin, Bratislava and Tbilisi. Often billed alongside H.LØAD, vngdr and Baas. Next up: Vibra, Tbilisi on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Cyberpsychosis is a techno and industrial artist based in Georgia, with 8 gigs o
 
 H.LØAD, vngdr, Baas
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberpsychosis/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberpsychosis/)*

@@ -1,6 +1,6 @@
 # Tomoki
 
-Tomoki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cu, London on Thu, 29 Oct 2026.
+Tomoki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cu, London on Thu, 29 Oct 2026.
 
 Tomoki is a house and techno artist based in Japan, with 19 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside Torei, Celter and EUREKA. Next up: Cu, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Tomoki is a house and techno artist based in Japan, with 19 gigs on soundcheck a
 
 Torei, Celter, EUREKA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoki/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoki/)*

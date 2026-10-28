@@ -1,6 +1,6 @@
 # EMA (1)
 
-EMA (1) is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Nowadays, New York City on Sat, 7 Nov 2026.
+EMA (1) is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Nowadays, New York City on Sat, 7 Nov 2026.
 
 EMA is a bass and techno artist based in Ireland, with 116 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 29 more. Often billed alongside Darwin, Beatrice M. and SGT Pokes. Next up: Nowadays, New York City on Sat 7 Nov.
 
@@ -9,8 +9,8 @@ EMA is a bass and techno artist based in Ireland, with 116 gigs on soundcheck ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Nowadays | New York City |
+| Sat, 28 Nov 2026 | Yamamori Tengu | Dublin |
 | Fri, 11 Dec 2026 | Palais | London |
-| Thu, 31 Dec 2026 | Wigwam | Dublin |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ EMA is a bass and techno artist based in Ireland, with 116 gigs on soundcheck ac
 
 Darwin, Beatrice M., SGT Pokes
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ema-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ema-1/)*

@@ -1,6 +1,6 @@
 # Devil Girl
 
-Devil Girl is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 19 Dec 2026.
+Devil Girl is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 19 Dec 2026.
 
 Devil Girl is a techno and electro artist based in United States of America, with 6 gigs on soundcheck across Minneapolis/St Paul and Minneapolis St Paul. Often billed alongside DJ Nola, Freddy Fresh and Woody McBride. Next up: TBA, Minneapolis St Paul on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Devil Girl is a techno and electro artist based in United States of America, wit
 
 DJ Nola, Freddy Fresh, Woody McBride
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devilgirl/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devilgirl/)*

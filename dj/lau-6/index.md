@@ -1,6 +1,6 @@
 # LAU (6)
 
-LAU (6) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Atno, Budapest on Fri, 6 Nov 2026.
+LAU (6) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Atno, Budapest on Fri, 6 Nov 2026.
 
 LAU is a techno and house artist, with 65 gigs on soundcheck across Bratislava, Budapest and Ibiza. Often billed alongside Vatsanah, Switch Nollie and dtnb. Next up: Atno, Budapest on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ LAU is a techno and house artist, with 65 gigs on soundcheck across Bratislava, 
 
 Vatsanah, Switch Nollie, dtnb
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lau-6/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lau-6/)*

@@ -1,6 +1,6 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
+Samm (BE) is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
 
 Samm (BE) is a house and afro house artist based in Belgium, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside AJNA, ARODES and Alex Wann. Next up: Hungarian Railway Museum, Budapest on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Samm (BE) is a house and afro house artist based in Belgium, with 63 gigs on sou
 
 AJNA, ARODES, Alex Wann
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*

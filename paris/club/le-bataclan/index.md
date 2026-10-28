@@ -1,6 +1,6 @@
 # Le Bataclan
 
-Le Bataclan is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Digitalism" on Fri, 6 Nov 2026.
+Le Bataclan is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Digitalism" on Fri, 6 Nov 2026.
 
 Le Bataclan is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Digitalism. See dates, start times and who's playing. 50 boulevard Voltaire; 75011; Paris; France.
 
@@ -14,4 +14,4 @@ Le Bataclan is a music venue in Paris listed on soundcheck. 1 upcoming gig, with
 
 50 boulevard Voltaire; 75011; Paris; France, Paris
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-bataclan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-bataclan/)*

@@ -1,13 +1,14 @@
 # Listenblondie
 
-Listenblondie is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
+Listenblondie is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 30 Oct 2026.
 
-Listenblondie is a trance and techno artist based in Germany, with 21 gigs on soundcheck across Berlin and Munich. Often billed alongside Vaneska, ANASTASÍA and Jan Minnerup. Next up: Rote Sonne, Munich on Fri 30 Oct.
+Listenblondie is a trance and techno artist based in Germany, with 22 gigs on soundcheck across Berlin and Munich. Often billed alongside Vaneska, ANASTASÍA and Jan Minnerup. Next up: Lokschuppen Berlin, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 30 Oct 2026 | Rote Sonne | Munich |
 | Sat, 21 Nov 2026 | Blue Velvet | Berlin |
 
@@ -26,4 +27,4 @@ Listenblondie is a trance and techno artist based in Germany, with 21 gigs on so
 
 Vaneska, ANASTASÍA, Jan Minnerup
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/listenblondie/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/listenblondie/)*

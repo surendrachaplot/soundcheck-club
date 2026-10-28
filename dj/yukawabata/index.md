@@ -1,13 +1,14 @@
 # Yu Kawabata
 
-Yu Kawabata is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at City Hall, Barcelona on Wed, 4 Nov 2026.
+Yu Kawabata is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at GAP Club, Chengdu on Fri, 30 Oct 2026.
 
-Yu Kawabata is a techno and industrial artist based in Japan, with 26 gigs on soundcheck across Athens, Barcelona, Beijing and Berlin and 13 more. Often billed alongside MAX DURANTE, Benbien and FENGX2. Next up: City Hall, Barcelona on Wed 4 Nov.
+Yu Kawabata is a techno and industrial artist based in Japan, with 27 gigs on soundcheck across Athens, Barcelona, Beijing and Berlin and 14 more. Often billed alongside MAX DURANTE, Benbien and FENGX2. Next up: GAP Club, Chengdu on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | GAP Club | Chengdu |
 | Wed, 4 Nov 2026 | City Hall | Barcelona |
 | Sat, 14 Nov 2026 | IT Athens | Athens |
 
@@ -26,4 +27,4 @@ Yu Kawabata is a techno and industrial artist based in Japan, with 26 gigs on so
 
 MAX DURANTE, Benbien, FENGX2
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukawabata/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukawabata/)*

@@ -1,8 +1,8 @@
-# DJ Lis
+# dj Lis
 
-DJ Lis is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
+dj Lis is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
 
-DJ Lis is a jungle and drum & bass artist, with 8 gigs on soundcheck across Amsterdam, Rio de Janeiro and The Hague. Often billed alongside Bonne Reijn, Déandrah and Gimmeamfbreakbeat. Next up: OT301, Amsterdam on Thu 10 Dec.
+dj Lis is a jungle and drum & bass artist, with 8 gigs on soundcheck across Amsterdam, Rio de Janeiro and The Hague. Often billed alongside Bonne Reijn, Déandrah and Gimmeamfbreakbeat. Next up: OT301, Amsterdam on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ DJ Lis is a jungle and drum & bass artist, with 8 gigs on soundcheck across Amst
 
 Bonne Reijn, Déandrah, Gimmeamfbreakbeat
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlis/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlis/)*

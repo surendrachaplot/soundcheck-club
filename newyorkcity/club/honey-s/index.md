@@ -1,6 +1,6 @@
 # Honey's
 
-Honey's is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "5IVEDOLLAHOLLAWEEN" on Thu, 29 Oct 2026.
+Honey's is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "5IVEDOLLAHOLLAWEEN" on Thu, 29 Oct 2026.
 
 Honey's is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Caire, Dj female, EEVEE and LIL2HOOD and 2 more. See dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
@@ -17,4 +17,4 @@ Honey's is a music venue in New York City listed on soundcheck. 4 upcoming gigs,
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

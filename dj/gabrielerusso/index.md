@@ -1,8 +1,8 @@
 # Gabriele Russo
 
-Gabriele Russo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at REC Napoli, Naples on Sat, 31 Oct 2026.
+Gabriele Russo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at REC Napoli, Naples on Sat, 31 Oct 2026.
 
-Gabriele Russo is a house and tech house artist based in Italy, with 33 gigs on soundcheck across London, Naples and Tokyo. Often billed alongside Carlo Martino, VNP and Enrico Maria. Next up: REC Napoli, Naples on Sat 31 Oct.
+Gabriele Russo is a house and tech house artist based in Italy, with 34 gigs on soundcheck across London, Naples and Tokyo. Often billed alongside Carlo Martino, VNP and Enrico Maria. Next up: REC Napoli, Naples on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gabriele Russo is a house and tech house artist based in Italy, with 33 gigs on 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | REC Napoli | Naples |
 | Sat, 19 Dec 2026 | REC Napoli | Naples |
+| Fri, 1 Jan 2027 | REC Napoli | Naples |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Gabriele Russo is a house and tech house artist based in Italy, with 33 gigs on 
 
 Carlo Martino, VNP, Enrico Maria
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielerusso/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielerusso/)*

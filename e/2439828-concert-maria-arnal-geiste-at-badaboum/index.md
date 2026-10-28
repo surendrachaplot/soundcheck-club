@@ -1,0 +1,11 @@
+# Concert — Maria Arnal, GEISTE at Badaboum
+
+Concert — Maria Arnal, GEISTE at Badaboum on Thu 19 Nov, Paris. Electro and Pop. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 19 Nov 2026 |
+| Venue | Badaboum |
+| City | Paris |
+
+*Source: [soundcheck](https://soundcheck.club/e/2439828-concert-maria-arnal-geiste-at-badaboum/)*

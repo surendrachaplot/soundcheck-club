@@ -1,6 +1,6 @@
 # AG (1)
 
-AG (1) is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mood Ring, New York City on Fri, 30 Oct 2026.
+AG (1) is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mood Ring, New York City on Fri, 30 Oct 2026.
 
 AG is a club and footwork artist based in United States of America, with 43 gigs on soundcheck across Barcelona, Chicago, Miami and New York City and 1 more. Often billed alongside DJ Fat Frog, Tromac and satandoll. Next up: Mood Ring, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ AG is a club and footwork artist based in United States of America, with 43 gigs
 
 DJ Fat Frog, Tromac, satandoll
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*

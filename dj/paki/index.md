@@ -1,6 +1,6 @@
 # Paki
 
-Paki is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Subcero Club, Madrid on Sat, 31 Oct 2026.
+Paki is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Subcero Club, Madrid on Sat, 31 Oct 2026.
 
 Paki is a house and techno artist based in Italy, with 13 gigs on soundcheck across Hong Kong, Madrid, Osaka and Turin. Often billed alongside Saint Bernard, DJ Anthony2 and Foie Gras. Next up: Subcero Club, Madrid on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Paki is a house and techno artist based in Italy, with 13 gigs on soundcheck acr
 
 Saint Bernard, DJ Anthony2, Foie Gras
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paki/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paki/)*

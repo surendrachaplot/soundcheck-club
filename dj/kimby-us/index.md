@@ -1,6 +1,6 @@
 # Kimby (US)
 
-Kimby (US) is a Club and Balearic artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Nightclub 101, New York City on Sat, 31 Oct 2026.
+Kimby (US) is a Club and Balearic artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Nightclub 101, New York City on Sat, 31 Oct 2026.
 
 Kimby (US) is a club and balearic artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Eleou, Asphodèle and James Park.. Next up: Nightclub 101, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kimby (US) is a club and balearic artist based in United States of America, with
 
 Eleou, Asphodèle, James Park.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimby-us/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimby-us/)*

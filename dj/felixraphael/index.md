@@ -1,6 +1,6 @@
 # Felix Raphael
 
-Felix Raphael is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 4 Dec 2026.
+Felix Raphael is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 4 Dec 2026.
 
 Felix Raphael is a techno and tech house artist based in Germany, with 11 gigs on soundcheck across Berlin, Cologne, Istanbul and Lausanne and 2 more. Often billed alongside Hidden Empire, Tinlicker and justUS. Next up: Ritter Butzke, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Felix Raphael is a techno and tech house artist based in Germany, with 11 gigs o
 
 Hidden Empire, Tinlicker, justUS
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixraphael/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixraphael/)*

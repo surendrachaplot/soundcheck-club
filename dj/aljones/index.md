@@ -1,14 +1,15 @@
 # Al Jones
 
-Al Jones is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mitsuki, Tokyo on Sat, 7 Nov 2026.
+Al Jones is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mitsuki, Tokyo on Sat, 7 Nov 2026.
 
-Al Jones is a house and techno artist based in Italy, with 89 gigs on soundcheck across Bangkok, Beijing, Hanoi and Ho Chi Minh City and 8 more. Often billed alongside Fujiko, Frankie $ and kids eating bbq. Next up: Mitsuki, Tokyo on Sat 7 Nov.
+Al Jones is a house and techno artist based in Italy, with 90 gigs on soundcheck across Bangkok, Beijing, Hanoi and Ho Chi Minh City and 8 more. Often billed alongside Fujiko, Frankie $ and kids eating bbq. Next up: Mitsuki, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Mitsuki | Tokyo |
+| Fri, 13 Nov 2026 | Circus Osaka | Osaka |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Al Jones is a house and techno artist based in Italy, with 89 gigs on soundcheck
 
 Fujiko, Frankie $, kids eating bbq
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aljones/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aljones/)*

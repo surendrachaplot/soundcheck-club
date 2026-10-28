@@ -1,6 +1,6 @@
 # Mike McCaskill
 
-Mike McCaskill is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Chinese Laundry, Sydney on Fri, 30 Oct 2026.
+Mike McCaskill is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Chinese Laundry, Sydney on Fri, 30 Oct 2026.
 
 Mike McCaskill is a house and garage artist based in Australia, with 18 gigs on soundcheck across Sydney. Often billed alongside Harry Hayes, LUPO.THEBOY and Champs. Next up: Chinese Laundry, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mike McCaskill is a house and garage artist based in Australia, with 18 gigs on 
 
 Harry Hayes, LUPO.THEBOY, Champs
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemccaskill/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemccaskill/)*

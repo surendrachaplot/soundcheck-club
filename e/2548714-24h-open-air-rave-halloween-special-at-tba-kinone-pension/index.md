@@ -1,6 +1,6 @@
 # 電気菩薩 24h Open Air Rave — Halloween Special at TBA - Kinone Pension
 
-電気菩薩 24h Open Air Rave — Halloween Special at TBA - Kinone Pension on Sat 31 Oct, Kanto. 11 artists: DJ MARIA., Dustvoxx, EVE and Hinode and 7 more. Trance and Techno. See the line-up on soundcheck.
+電気菩薩 24h Open Air Rave — Halloween Special at TBA - Kinone Pension on Sat 31 Oct, Kanto. 14 artists: DJ MARIA., Dustvoxx, EVE and HALU(Tribal Connection) and 10 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,12 +13,15 @@
 - DJ MARIA.
 - Dustvoxx
 - EVE (1)
+- HALU(Tribal Connection)
 - Hinode
 - Mars89
 - MAYUDEPTH
 - Neutran
 - Rickshinmi
+- SENAIDA
 - TEI TEI
+- the2$
 - uruhara
 - YELLOWUHURU
 

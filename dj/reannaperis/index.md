@@ -1,6 +1,6 @@
 # Reanna Peris
 
-Reanna Peris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Junky's Point Späti, Berlin on Sat, 31 Oct 2026.
+Reanna Peris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Junky's Point Späti, Berlin on Sat, 31 Oct 2026.
 
 Reanna Peris is a techno and house artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Parisha, The Blackmailer and Berfu. Next up: Junky's Point Späti, Berlin on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Reanna Peris is a techno and house artist based in Germany, with 8 gigs on sound
 
 Parisha, The Blackmailer, Berfu
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reannaperis/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reannaperis/)*

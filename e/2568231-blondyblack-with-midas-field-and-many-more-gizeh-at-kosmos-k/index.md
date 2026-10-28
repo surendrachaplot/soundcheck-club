@@ -1,6 +1,6 @@
 # BLONDYBLACK with Midas Field and many more // GIZEH at Kosmos Karoline
 
-BLONDYBLACK with Midas Field and many more // GIZEH at Kosmos Karoline on Sat 28 Nov, Hamburg. 9 artists: DJ Handtuch, Henry X, leanripke and Lito and 5 more. House and Balearic. See the line-up on soundcheck.
+BLONDYBLACK with Midas Field and many more // GIZEH at Kosmos Karoline on Sat 28 Nov, Hamburg. 7 artists: DJ Handtuch, leanripke, Midas Field and MT-V and 3 more. House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,7 @@ BLONDYBLACK with Midas Field and many more // GIZEH at Kosmos Karoline on Sat 28
 ## Line-up
 
 - DJ Handtuch
-- Henry X
 - leanripke
-- Lito (1)
 - Midas Field
 - MT-V
 - Rittmus

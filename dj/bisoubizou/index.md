@@ -1,6 +1,6 @@
 # BisouBizou
 
-BisouBizou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+BisouBizou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
 
 BisouBizou is a house and techno artist based in Canada, with 30 gigs on soundcheck across Montreal. Often billed alongside Andie, DJ Hidi and Alina (MTL). Next up: Le Sainte-Catherine Hall, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ BisouBizou is a house and techno artist based in Canada, with 30 gigs on soundch
 
 Andie, DJ Hidi, Alina (MTL)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoubizou/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoubizou/)*

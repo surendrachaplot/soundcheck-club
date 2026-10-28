@@ -1,6 +1,6 @@
 # Daniel Curpen
 
-Daniel Curpen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at XOYO, London on Sat, 21 Nov 2026.
+Daniel Curpen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at XOYO, London on Sat, 21 Nov 2026.
 
 Daniel Curpen is a house and deep house artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, Copenhagen, London and Malta. Often billed alongside Braxton, Jody Wisternoff and My Friend. Next up: XOYO, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Daniel Curpen is a house and deep house artist based in United Kingdom, with 9 g
 
 Braxton, Jody Wisternoff, My Friend
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielcurpen/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielcurpen/)*

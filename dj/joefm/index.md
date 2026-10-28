@@ -1,6 +1,6 @@
 # Joe FM
 
-Joe FM is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eiger Studios, Leeds on Fri, 4 Dec 2026.
+Joe FM is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eiger Studios, Leeds on Fri, 4 Dec 2026.
 
 Joe FM is a disco and deep house artist based in United Kingdom, with 6 gigs on soundcheck across Leeds. Often billed alongside Joe Shaw, Anastasia McGarel and Bruce. Next up: Eiger Studios, Leeds on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Joe FM is a disco and deep house artist based in United Kingdom, with 6 gigs on 
 
 Joe Shaw, Anastasia McGarel, Bruce
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joefm/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joefm/)*

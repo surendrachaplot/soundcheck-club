@@ -1,6 +1,6 @@
 # Victor (DE)
 
-Victor (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
+Victor (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
 
 Victor (DE) is a techno and house artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 19 more. Often billed alongside Fadi Mohem, Yamour and Ogazón. Next up: Tokonoma Club, Frankfurt on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Victor (DE) is a techno and house artist based in Germany, with 99 gigs on sound
 
 Fadi Mohem, Yamour, Ogazón
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*

@@ -1,6 +1,6 @@
 # Huset I Magstræde
 
-Huset I Magstræde is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Leonor Arnaut + Saltmother + Atusa (DJ)" on Sat, 7 Nov 2026.
+Huset I Magstræde is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Leonor Arnaut + Saltmother + Atusa (DJ)" on Sat, 7 Nov 2026.
 
 Huset I Magstræde is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Atusa and Saltmother. See dates, start times and who's playing. Rådhusstræde 13 - København C.
 
@@ -14,4 +14,4 @@ Huset I Magstræde is a music venue in Copenhagen listed on soundcheck. 1 upcomi
 
 Rådhusstræde 13 - København C, Copenhagen
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/huset-i-magstr-de/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/huset-i-magstr-de/)*

@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 29 Oct 2026.
+Rossi is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 29 Oct 2026.
 
 Rossi is a house and tech house artist based in United Kingdom, with 253 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 54 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: 1015 Folsom, San Francisco/Oakland on Thu 29 Oct.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist based in United Kingdom, with 253 gigs on
 
 Josh Baker, Enzo Siragusa, Jamback
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

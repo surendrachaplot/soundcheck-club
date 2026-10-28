@@ -1,6 +1,6 @@
 # SUKA
 
-SUKA is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at John Doe, Amsterdam on Tue, 3 Nov 2026.
+SUKA is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at John Doe, Amsterdam on Tue, 3 Nov 2026.
 
 SUKA is a techno and industrial artist based in Ukraine, with 23 gigs on soundcheck across Amsterdam, Bucharest and London. Often billed alongside STVN, Zeyvers and JÆLBIRD. Next up: John Doe, Amsterdam on Tue 3 Nov.
 
@@ -27,4 +27,4 @@ SUKA is a techno and industrial artist based in Ukraine, with 23 gigs on soundch
 
 STVN (2), Zeyvers, JÆLBIRD
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suka/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suka/)*

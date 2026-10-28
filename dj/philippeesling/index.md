@@ -1,6 +1,6 @@
 # Philippe Esling
 
-Philippe Esling is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
+Philippe Esling is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
 
 Philippe Esling is a techno and experimental artist based in France, with 8 gigs on soundcheck across Tokyo. Often billed alongside Kojiro, SuperUser and PEAKING. Next up: WOMB, Tokyo on Mon 2 Nov.
 
@@ -24,4 +24,4 @@ Philippe Esling is a techno and experimental artist based in France, with 8 gigs
 
 Kojiro, SuperUser, PEAKING
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippeesling/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippeesling/)*

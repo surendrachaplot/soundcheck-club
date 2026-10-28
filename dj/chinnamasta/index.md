@@ -1,6 +1,6 @@
 # Chinnamasta
 
-Chinnamasta is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Chinnamasta is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Chinnamasta is a house and club artist based in Netherlands, with 74 gigs on soundcheck across Amsterdam, Berlin, Brussels and Geneva and 8 more. Often billed alongside Rozaly, YoungWoman and Prince Pasensi. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Chinnamasta is a house and club artist based in Netherlands, with 74 gigs on sou
 
 Rozaly, YoungWoman, Prince Pasensi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinnamasta/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinnamasta/)*

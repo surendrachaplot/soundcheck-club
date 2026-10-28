@@ -1,6 +1,6 @@
 # Mollie Rush
 
-Mollie Rush is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sawmills, Bristol on Sat, 31 Oct 2026.
+Mollie Rush is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sawmills, Bristol on Sat, 31 Oct 2026.
 
 Mollie Rush is a hardcore and drum & bass artist based in United Kingdom, with 33 gigs on soundcheck across Bristol, Edinburgh, Leeds and London and 3 more. Often billed alongside alterum, CBABY and K-Rush. Next up: Sawmills, Bristol on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mollie Rush is a hardcore and drum & bass artist based in United Kingdom, with 3
 
 alterum, CBABY, K-Rush
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollierush/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollierush/)*

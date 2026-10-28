@@ -1,6 +1,6 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Velocity Made Good" on Wed, 28 Oct 2026.
+Cinetol is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Velocity Made Good" on Wed, 28 Oct 2026.
 
 Cinetol is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Lynnic and Velocity Made Good. See dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
@@ -23,4 +23,4 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, wi
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

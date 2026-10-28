@@ -1,6 +1,6 @@
 # Crash Course In Science
 
-Crash Course In Science is a Industrial and New Wave artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Thalia Hall, Chicago on Fri, 30 Oct 2026.
+Crash Course In Science is a Industrial and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Thalia Hall, Chicago on Fri, 30 Oct 2026.
 
 Crash Course In Science is an industrial and new wave artist based in United States of America, with 6 gigs on soundcheck across Chicago, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside Antal, Avalon Emerson and Ben UFO. Next up: Thalia Hall, Chicago on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Crash Course In Science is an industrial and new wave artist based in United Sta
 
 Antal, Avalon Emerson, Ben UFO
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crashcourseinscience/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crashcourseinscience/)*

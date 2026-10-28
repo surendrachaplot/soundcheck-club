@@ -1,6 +1,6 @@
 # Blachord
 
-Blachord is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+Blachord is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
 Blachord is a techno and house artist based in Greece, with 52 gigs on soundcheck across Berlin. Often billed alongside Papa Hase, DJ Marviosi and beta_phase. Next up: Sensorium, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Blachord is a techno and house artist based in Greece, with 52 gigs on soundchec
 
 Papa Hase, DJ Marviosi, beta_phase
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blachord/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blachord/)*

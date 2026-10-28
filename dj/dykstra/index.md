@@ -1,6 +1,6 @@
 # Dykstra
 
-Dykstra is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bahnwärter Thiel, Munich on Sat, 21 Nov 2026.
+Dykstra is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bahnwärter Thiel, Munich on Sat, 21 Nov 2026.
 
 Dykstra is a techno and minimal techno artist, with 14 gigs on soundcheck across Munich. Often billed alongside SASHTY, Marcel Dusk and Shishmish. Next up: Bahnwärter Thiel, Munich on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Dykstra is a techno and minimal techno artist, with 14 gigs on soundcheck across
 
 SASHTY, Marcel Dusk, Shishmish
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dykstra/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dykstra/)*

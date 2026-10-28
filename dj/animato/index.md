@@ -1,6 +1,6 @@
 # Animato
 
-Animato is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Animato is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Animato is a techno and house artist based in Israel, with 10 gigs on soundcheck across Berlin, Bogotá, Cologne and London and 4 more. Often billed alongside Astrix, Captain Hook and Liquid Soul. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Animato is a techno and house artist based in Israel, with 10 gigs on soundcheck
 
 Astrix, Captain Hook, Liquid Soul
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/animato/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/animato/)*

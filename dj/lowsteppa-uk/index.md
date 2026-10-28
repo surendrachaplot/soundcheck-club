@@ -1,6 +1,6 @@
 # Low Steppa
 
-Low Steppa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
+Low Steppa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
 Low Steppa is a house and tech house artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Bali, Brisbane and Bristol and 27 more. Often billed alongside Sam Divine, Arielle Free and Ferreck Dawn. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Low Steppa is a house and tech house artist based in United Kingdom, with 86 gig
 
 Sam Divine, Arielle Free, Ferreck Dawn
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*

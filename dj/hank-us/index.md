@@ -1,6 +1,6 @@
 # Hank (US)
 
-Hank (US) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Bridge, Los Angeles on Fri, 20 Nov 2026.
+Hank (US) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Bridge, Los Angeles on Fri, 20 Nov 2026.
 
 Hank (US) is a house and tech house artist based in United States of America, with 39 gigs on soundcheck across Austin, Brussels, Chicago and Düsseldorf and 11 more. Often billed alongside BLOND:ISH, Cole Terrazas and Ewan McVicar. Next up: The Bridge, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Hank (US) is a house and tech house artist based in United States of America, wi
 
 BLOND:ISH, Cole Terrazas, Ewan McVicar
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hank-us/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hank-us/)*

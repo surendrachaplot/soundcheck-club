@@ -1,6 +1,6 @@
 # Loops and Us
 
-Loops and Us is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Salon Daomé, Montreal on Sat, 21 Nov 2026.
+Loops and Us is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Salon Daomé, Montreal on Sat, 21 Nov 2026.
 
 Loops and Us are a house and deep house duo based in Canada, with 7 gigs on soundcheck across Montreal. Often billed alongside Bolarinho, Demuir and KOLA. Next up: Salon Daomé, Montreal on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Loops and Us are a house and deep house duo based in Canada, with 7 gigs on soun
 
 Bolarinho, Demuir, KOLA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loopsandus/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loopsandus/)*

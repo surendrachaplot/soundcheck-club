@@ -1,6 +1,6 @@
 # Bass
 
-Bass is a Drum & Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Bogot on Fri, 30 Oct 2026.
+Bass is a Drum & Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Bogot on Fri, 30 Oct 2026.
 
 Bass is a drum & bass and techno artist based in Egypt, with 129 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 47 more. Often billed alongside Jungle (UK), Tekk and A². Next up: TBA, Bogot on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Bass is a drum & bass and techno artist based in Egypt, with 129 gigs on soundch
 
 Jungle (UK), Tekk, A²
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

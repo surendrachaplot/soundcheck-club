@@ -1,6 +1,6 @@
 # LWANGA
 
-LWANGA is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
+LWANGA is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
 
 LWANGA is a house and broken beat artist, with 9 gigs on soundcheck across London and Nottingham. Often billed alongside Steffi Bricks, Faro and Blue Soup DJ. Next up: Colour Factory, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ LWANGA is a house and broken beat artist, with 9 gigs on soundcheck across Londo
 
 Steffi Bricks, Faro, Blue Soup DJ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lwanga/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lwanga/)*

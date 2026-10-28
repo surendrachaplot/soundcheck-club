@@ -1,8 +1,8 @@
 # Jeshi
 
-Jeshi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Yes, Manchester on Sat, 7 Nov 2026.
+Jeshi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Yes, Manchester on Sat, 7 Nov 2026.
 
-Jeshi is a house and techno artist, with 21 gigs on soundcheck across Adelaide, Amsterdam, Bristol and Hamburg and 6 more. Often billed alongside Jasper Tygner, Anish Kumar and Eliza Rose. Next up: Yes, Manchester on Sat 7 Nov.
+Jeshi is a house and techno artist based in United Kingdom, with 21 gigs on soundcheck across Adelaide, Amsterdam, Bristol and Hamburg and 6 more. Often billed alongside Jasper Tygner, Anish Kumar and Eliza Rose. Next up: Yes, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jeshi is a house and techno artist, with 21 gigs on soundcheck across Adelaide, 
 
 Jasper Tygner, Anish Kumar, Eliza Rose
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeshi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeshi/)*

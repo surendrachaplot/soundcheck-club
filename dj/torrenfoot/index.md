@@ -1,13 +1,14 @@
 # Torren Foot
 
-Torren Foot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Academy LA, Los Angeles on Sat, 7 Nov 2026.
+Torren Foot is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Gold Coast, Chicago on Sat, 31 Oct 2026.
 
-Torren Foot is a house and tech house artist based in Australia, with 55 gigs on soundcheck across Austin, Boston, Brisbane and Chicago and 14 more. Often billed alongside Airwolf Paradise, Sonny Fodera and Dom Dolla. Next up: Academy LA, Los Angeles on Sat 7 Nov.
+Torren Foot is a house and tech house artist based in Australia, with 56 gigs on soundcheck across Austin, Boston, Brisbane and Chicago and 14 more. Often billed alongside Airwolf Paradise, Sonny Fodera and Dom Dolla. Next up: TBA - Gold Coast, Chicago on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | TBA - Gold Coast | Chicago |
 | Sat, 7 Nov 2026 | Academy LA | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Torren Foot is a house and tech house artist based in Australia, with 55 gigs on
 
 Airwolf Paradise, Sonny Fodera, Dom Dolla
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*

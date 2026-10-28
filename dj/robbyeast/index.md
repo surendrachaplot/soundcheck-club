@@ -1,6 +1,6 @@
 # Robby East
 
-Robby East is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
+Robby East is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
 Robby East is a progressive house and house artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Chicago, Denver and London and 5 more. Often billed alongside MYRNE, Lane 8 and Rinzen. Next up: Petco Park, San Diego on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Robby East is a progressive house and house artist based in Netherlands, with 18
 
 MYRNE, Lane 8, Rinzen
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbyeast/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbyeast/)*

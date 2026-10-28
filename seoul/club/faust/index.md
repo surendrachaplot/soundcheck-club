@@ -1,6 +1,6 @@
 # Faust
 
-Faust is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "THE DEAD DACNE - DUMBS 2nd Anniversary" on Fri, 30 Oct 2026.
+Faust is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "THE DEAD DACNE - DUMBS 2nd Anniversary" on Fri, 30 Oct 2026.
 
 Faust is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including Harivo, Lokier, Marcus L and Mars Parck and 2 more. See dates, start times and who's playing. 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea.
 
@@ -17,4 +17,4 @@ Faust is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line
 
 3F, 127-15, Itaewon, Yongsan, Seoul 04406, South Korea, Seoul
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/faust/)*

@@ -1,6 +1,6 @@
 # Chopper (UK)
 
-Chopper (UK) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+Chopper (UK) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 Chopper (UK) is a house and tech house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Ibiza and 8 more. Often billed alongside Ryan Resso, Stef Davidse and EVIE UK. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Chopper (UK) is a house and tech house artist based in United Kingdom, with 60 g
 
 Ryan Resso, Stef Davidse, EVIE UK
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*

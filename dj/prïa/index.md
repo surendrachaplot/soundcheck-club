@@ -1,13 +1,14 @@
 # Prïa
 
-Prïa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Igloofest, Montreal on Fri, 15 Jan 2027.
+Prïa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Stereo, Montreal on Sat, 14 Nov 2026.
 
-Prïa is a techno and house artist based in France, with 13 gigs on soundcheck across Montreal. Often billed alongside Zac Martel, Lost Heroes and Vayia. Next up: Igloofest, Montreal on Fri 15 Jan.
+Prïa is a techno and house artist based in France, with 14 gigs on soundcheck across Montreal. Often billed alongside Zac Martel, Vayia and Lost Heroes. Next up: Stereo, Montreal on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Stereo | Montreal |
 | Fri, 15 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
@@ -23,6 +24,6 @@ Prïa is a techno and house artist based in France, with 13 gigs on soundcheck a
 
 ## Shares bills with
 
-Zac Martel, Lost Heroes, Vayia
+Zac Martel, Vayia, Lost Heroes
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prïa/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prïa/)*

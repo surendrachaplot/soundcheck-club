@@ -1,6 +1,6 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Keep It Cryptic Keep It Mad with Make A Dance, Che Wax, Cashgrab, & Operation Mindfunk" on Fri, 30 Oct 2026.
+The Golden Lion is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Keep It Cryptic Keep It Mad with Make A Dance, Che Wax, Cashgrab, & Operation Mindfunk" on Fri, 30 Oct 2026.
 
 The Golden Lion is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Alex Dallas, Balrog, CHÉ WAX and Cio (Spezialmaterial) and 2 more. See dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
@@ -23,4 +23,4 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 11 upcoming
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

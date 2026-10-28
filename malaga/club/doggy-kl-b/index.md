@@ -1,6 +1,6 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Moruki + Dudster" on Fri, 30 Oct 2026.
+Doggy Klœb is a music venue in Malaga with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Moruki + Dudster" on Fri, 30 Oct 2026.
 
 Doggy Klœb is a music venue in Malaga listed on soundcheck. 11 upcoming gigs, with line-ups including Andrés Sancho, Arval, Checa and Dudster and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
@@ -16,11 +16,11 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 11 upcoming gigs, w
 | Fri, 13 Nov 2026 | Undergroove: Arval invites Nekes | Arval, Nekes |
 | Sat, 14 Nov 2026 | Dark Room: Checa invites Histeriko | Checa |
 | Fri, 20 Nov 2026 | Moruki invites Sakro | Moruki, Sakro |
-| Sat, 21 Nov 2026 | Cultura Club: Rickie + Rvbbio | Rickie, rubbio |
+| Sat, 21 Nov 2026 | Cultura Club: Rickie + Rvbbio | Rickie (Overground), rubbio |
 | Fri, 27 Nov 2026 | Doggy Project presents: Jimin | Jimin, Unreal Vibes |
 
 ## Address
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

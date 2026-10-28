@@ -1,6 +1,6 @@
 # Nora Asteroid
 
-Nora Asteroid is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
+Nora Asteroid is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
 
 Nora Asteroid is a trance and techno artist based in Switzerland, with 16 gigs on soundcheck across Berlin, Copenhagen and Zurich. Often billed alongside Dragovic, Astral Bandit and HyperLili. Next up: Zentralwäscherei, Zurich on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Nora Asteroid is a trance and techno artist based in Switzerland, with 16 gigs o
 
 Dragovic, Astral Bandit, HyperLili
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraasteroid/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraasteroid/)*

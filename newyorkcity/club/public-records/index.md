@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 27 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Club Management LIVE: The Life and Sounds Of Stacey 'Hotwaxx' Hale: Listening + Discussion" on Wed, 28 Oct 2026.
+public records is a music venue in New York City with 27 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Club Management LIVE: The Life and Sounds Of Stacey 'Hotwaxx' Hale: Listening + Discussion" on Wed, 28 Oct 2026.
 
 public records is a music venue in New York City listed on soundcheck. 27 upcoming gigs, with line-ups including 320, 4AM NYC, MORENXXX and Abby Echiverri and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in New York City listed on soundcheck. 27 upcomi
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

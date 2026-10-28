@@ -1,6 +1,6 @@
 # Jacopo (2)
 
-Jacopo (2) is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA -  SECRET LOCATION, Rome on Sat, 14 Nov 2026.
+Jacopo (2) is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA -  SECRET LOCATION, Rome on Sat, 14 Nov 2026.
 
 Jacopo is an electronica and electro artist based in Italy, with 10 gigs on soundcheck across Berlin, Malaga, Milan and Naples and 1 more. Often billed alongside Aton, Unreal Vibes and Denise Luzzi. Next up: TBA -  SECRET LOCATION, Rome on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jacopo is an electronica and electro artist based in Italy, with 10 gigs on soun
 
 Aton, Unreal Vibes, Denise Luzzi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacopo-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacopo-2/)*

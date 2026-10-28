@@ -1,6 +1,6 @@
 # Davy
 
-Davy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
+Davy is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
 
 Davy is a techno and electro artist, with 28 gigs on soundcheck across Berlin, Brussels, Frankfurt and Ghent and 5 more. Often billed alongside T.A.M.22, Mogus and Stanly. Next up: Distillery, Leipzig on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Davy is a techno and electro artist, with 28 gigs on soundcheck across Berlin, B
 
 T.A.M.22, Mogus, Stanly
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davy/)*

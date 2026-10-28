@@ -1,14 +1,14 @@
 # MARIA MANUELA
 
-MARIA MANUELA is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Boston on Fri, 30 Oct 2026.
+MARIA MANUELA is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - 288 Green St, Cambridge, MA, Boston on Fri, 30 Oct 2026.
 
-MARIA MANUELA is a techno and latin bass artist based in Colombia, with 39 gigs on soundcheck across Berlin, Bogotá, Boston and London and 8 more. Often billed alongside Brenda., Ultrabruma and Aguirre. Next up: TBA, Boston on Fri 30 Oct.
+MARIA MANUELA is a techno and latin bass artist based in Colombia, with 39 gigs on soundcheck across Berlin, Bogotá, Boston and London and 8 more. Often billed alongside Brenda., Ultrabruma and Aguirre. Next up: TBA - 288 Green St, Cambridge, MA, Boston on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA | Boston |
+| Fri, 30 Oct 2026 | TBA - 288 Green St, Cambridge, MA | Boston |
 | Fri, 13 Nov 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
@@ -26,4 +26,4 @@ MARIA MANUELA is a techno and latin bass artist based in Colombia, with 39 gigs 
 
 Brenda., Ultrabruma, Aguirre
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariamanuela/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariamanuela/)*

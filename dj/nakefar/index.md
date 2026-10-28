@@ -1,6 +1,6 @@
 # nakefar
 
-nakefar is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cakeshop, Seoul on Fri, 30 Oct 2026.
+nakefar is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cakeshop, Seoul on Fri, 30 Oct 2026.
 
 nakefar is a hardcore and breakcore artist based in Japan, with 24 gigs on soundcheck across New York City, Osaka, Seoul and Tokyo. Often billed alongside BASiRiNO, MUNÉO and unkokitty. Next up: Cakeshop, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ nakefar is a hardcore and breakcore artist based in Japan, with 24 gigs on sound
 
 BASiRiNO, MUNÉO, unkokitty
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakefar/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakefar/)*

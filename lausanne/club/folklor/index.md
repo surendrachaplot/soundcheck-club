@@ -1,6 +1,6 @@
 # Folklor
 
-Folklor is a music venue in Lausanne with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Collectif Murmure" on Thu, 29 Oct 2026.
+Folklor is a music venue in Lausanne with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Collectif Murmure" on Thu, 29 Oct 2026.
 
 Folklor is a music venue in Lausanne listed on soundcheck. 5 upcoming gigs, with line-ups including Adrian Marth, Cinthie, Dj Enzo from Raincy and Jimmie and 2 more. See dates, start times and who's playing. Place de la Riponne 10, 1005 Lausanne.
 
@@ -18,4 +18,4 @@ Folklor is a music venue in Lausanne listed on soundcheck. 5 upcoming gigs, with
 
 Place de la Riponne 10, 1005 Lausanne, Lausanne
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/folklor/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/folklor/)*

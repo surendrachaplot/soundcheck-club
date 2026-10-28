@@ -1,6 +1,6 @@
 # Lu.Re
 
-Lu.Re is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Moon Club, Bristol on Fri, 30 Oct 2026.
+Lu.Re is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Moon Club, Bristol on Fri, 30 Oct 2026.
 
 Lu.Re is a garage and house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Brighton, Brisbane and Bristol and 11 more. Often billed alongside Oneman, Jaguar and Jossy Mitsu. Next up: Moon Club, Bristol on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Lu.Re is a garage and house artist based in United Kingdom, with 61 gigs on soun
 
 Oneman, Jaguar, Jossy Mitsu
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.re/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.re/)*

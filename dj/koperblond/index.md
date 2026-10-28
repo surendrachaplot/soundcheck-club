@@ -1,6 +1,6 @@
 # Koperblond
 
-Koperblond is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Inter-City, The Hague on Sat, 19 Dec 2026.
+Koperblond is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Inter-City, The Hague on Sat, 19 Dec 2026.
 
 Koperblond is a house and techno artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside DJ Chuckie, Di After and Freddi. Next up: Inter-City, The Hague on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Koperblond is a house and techno artist based in Netherlands, with 46 gigs on so
 
 DJ Chuckie, Di After, Freddi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*

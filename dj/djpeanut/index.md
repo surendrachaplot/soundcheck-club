@@ -1,6 +1,6 @@
 # dj peanut
 
-dj peanut is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Old Hairdressers, Glasgow on Mon, 30 Nov 2026.
+dj peanut is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Old Hairdressers, Glasgow on Mon, 30 Nov 2026.
 
 dj peanut is an experimental and techno artist based in United Kingdom, with 30 gigs on soundcheck across Bristol, Glasgow, London and Newcastle. Often billed alongside Peanut, Pigeon Steve and Sloan. Next up: The Old Hairdressers, Glasgow on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ dj peanut is an experimental and techno artist based in United Kingdom, with 30 
 
 Peanut, Pigeon Steve, Sloan (2)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeanut/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeanut/)*

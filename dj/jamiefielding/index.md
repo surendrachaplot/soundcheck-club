@@ -1,6 +1,6 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Warehouse, Leeds on Fri, 30 Oct 2026.
+Jamie Fielding is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Warehouse, Leeds on Fri, 30 Oct 2026.
 
 Jamie Fielding is a house and tech house artist based in United Kingdom, with 72 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 14 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: The Warehouse, Leeds on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Jamie Fielding is a house and tech house artist based in United Kingdom, with 72
 
 Marsolo, Niteplan, Job de Jong
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*

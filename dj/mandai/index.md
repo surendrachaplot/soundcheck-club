@@ -1,8 +1,8 @@
 # Mandai
 
-Mandai is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Venue DT Vancouver, Vancouver on Fri, 30 Oct 2026.
+Mandai is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Venue DT Vancouver, Vancouver on Fri, 30 Oct 2026.
 
-Mandai is a bass and dubstep artist, with 3 gigs on soundcheck across Vancouver. Often billed alongside Daega Sound, Max Ulis and Michael Red. Next up: TBA - Secret Venue DT Vancouver, Vancouver on Fri 30 Oct.
+Mandai is a bass and dubstep artist based in Canada, with 3 gigs on soundcheck across Vancouver. Often billed alongside Daega Sound, Max Ulis and Michael Red. Next up: TBA - Secret Venue DT Vancouver, Vancouver on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Mandai is a bass and dubstep artist, with 3 gigs on soundcheck across Vancouver.
 
 Daega Sound, Max Ulis, Michael Red
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandai/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandai/)*

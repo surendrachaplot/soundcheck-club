@@ -1,6 +1,6 @@
 # Evaa_
 
-Evaa_ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Circolo Amelia, Milan on Sat, 31 Oct 2026.
+Evaa_ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Circolo Amelia, Milan on Sat, 31 Oct 2026.
 
 Evaa_ is a house and techno artist based in Italy, with 8 gigs on soundcheck across Berlin, Bologna, Milan and Rome. Often billed alongside Achieh, Alexia Glensy and Crash The Box. Next up: Circolo Amelia, Milan on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Evaa_ is a house and techno artist based in Italy, with 8 gigs on soundcheck acr
 
 Achieh, Alexia Glensy, Crash The Box
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*

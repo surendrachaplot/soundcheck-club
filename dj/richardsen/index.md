@@ -1,6 +1,6 @@
 # Richard Sen
 
-Richard Sen is a House and Acid artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Richard Sen is a House and Acid artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Richard Sen is a house and acid artist based in United Kingdom, with 42 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Bergen and 14 more. Often billed alongside Chez de Milo, Crazy P and DJ Subaru. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Richard Sen is a house and acid artist based in United Kingdom, with 42 gigs on 
 
 Chez de Milo, Crazy P, DJ Subaru
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardsen/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardsen/)*

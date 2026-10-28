@@ -1,6 +1,6 @@
 # Audien
 
-Audien is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Church Nightclub, Denver on Sat, 21 Nov 2026.
+Audien is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Church Nightclub, Denver on Sat, 21 Nov 2026.
 
 Audien is a progressive house and house artist based in Germany, with 37 gigs on soundcheck across Austin, Boston, Calgary and Chicago and 17 more. Often billed alongside Kaskade, DJ Snake and Eli Brown. Next up: The Church Nightclub, Denver on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Audien is a progressive house and house artist based in Germany, with 37 gigs on
 
 Kaskade, DJ Snake, Eli Brown
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audien/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audien/)*

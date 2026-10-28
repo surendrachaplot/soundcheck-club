@@ -1,6 +1,6 @@
 # Sean Laird
 
-Sean Laird is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 20 Nov 2026.
+Sean Laird is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 20 Nov 2026.
 
 Sean Laird is a techno and house artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam and Edinburgh. Often billed alongside Darrell Pulse, LAIRD and DJ Smoker. Next up: The Bongo Club, Edinburgh on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Sean Laird is a techno and house artist based in United Kingdom, with 42 gigs on
 
 Darrell Pulse, LAIRD, DJ Smoker
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanlaird/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanlaird/)*

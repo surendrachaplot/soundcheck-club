@@ -1,6 +1,6 @@
 # Andere
 
-Andere is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
+Andere is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
 
 Andere is a techno and house artist, with 6 gigs on soundcheck across Berlin and Hannover. Often billed alongside Andy Green, DJ SÆSH and Frau Beji. Next up: TBA - SECRET LOCATION, Hannover on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Andere is a techno and house artist, with 6 gigs on soundcheck across Berlin and
 
 Andy Green, DJ SÆSH, Frau Beji
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andere/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andere/)*

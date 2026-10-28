@@ -1,6 +1,6 @@
 # Petra Yelda
 
-Petra Yelda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Under Bron, Stockholm on Sat, 28 Nov 2026.
+Petra Yelda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Under Bron, Stockholm on Sat, 28 Nov 2026.
 
 Petra Yelda is a techno and house artist, with 25 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Gothenburg and 3 more. Often billed alongside Alexander Lind, Franz Jäger and Kameliia. Next up: Under Bron, Stockholm on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Petra Yelda is a techno and house artist, with 25 gigs on soundcheck across Amst
 
 Alexander Lind, Franz Jäger, Kameliia
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petrayelda/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petrayelda/)*

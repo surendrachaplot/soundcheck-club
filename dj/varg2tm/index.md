@@ -1,6 +1,6 @@
 # Varg²™
 
-Varg²™ is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 1720, Los Angeles on Wed, 28 Oct 2026.
+Varg²™ is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 1720, Los Angeles on Wed, 28 Oct 2026.
 
 Varg²™ is a techno and experimental artist based in Sweden, with 43 gigs on soundcheck across Basel, Berlin, Brussels and Chicago and 18 more. Often billed alongside jamesjamesjames, Mechatok and Anthony Linell. Next up: 1720, Los Angeles on Wed 28 Oct.
 
@@ -27,4 +27,4 @@ Varg²™ is a techno and experimental artist based in Sweden, with 43 gigs on s
 
 jamesjamesjames, Mechatok, Anthony Linell
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varg2tm/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varg2tm/)*

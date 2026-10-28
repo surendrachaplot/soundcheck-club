@@ -1,6 +1,6 @@
 # Teki Latex
 
-Teki Latex is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mia Mao, Paris on Sat, 31 Oct 2026.
+Teki Latex is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mia Mao, Paris on Sat, 31 Oct 2026.
 
 Teki Latex is a techno and house artist based in France, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 28 more. Often billed alongside Neffa-T, Dj Babatr and Etienne 4U. Next up: Mia Mao, Paris on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Teki Latex is a techno and house artist based in France, with 85 gigs on soundch
 
 Neffa-T, Dj Babatr, Etienne 4U
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekilatex/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekilatex/)*

@@ -1,14 +1,15 @@
 # Convextion
 
-Convextion is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
+Convextion is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
 
-Convextion is a techno and electro artist based in United States of America, with 19 gigs on soundcheck across Barcelona, Berlin, Dallas/Fort Worth and Detroit and 9 more. Often billed alongside E.R.P., Cygnus and Kudeki. Next up: Nowadays, New York City on Fri 30 Oct.
+Convextion is a techno and electro artist based in United States of America, with 20 gigs on soundcheck across Barcelona, Berlin, Dallas/Fort Worth and Detroit and 10 more. Often billed alongside E.R.P., Cygnus and Kudeki. Next up: Nowadays, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
+| Fri, 4 Dec 2026 | Biltmore Cabaret | Vancouver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Convextion is a techno and electro artist based in United States of America, wit
 
 E.R.P., Cygnus, Kudeki
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/convextion/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/convextion/)*

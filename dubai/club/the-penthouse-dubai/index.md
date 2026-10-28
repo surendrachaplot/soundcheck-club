@@ -1,6 +1,6 @@
 # The Penthouse Dubai
 
-The Penthouse Dubai is a music venue in Dubai with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Ilario Alicante - SKYLINE SATURDAYS AT THE PENTHOUSE" on Sat, 21 Nov 2026.
+The Penthouse Dubai is a music venue in Dubai with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Ilario Alicante - SKYLINE SATURDAYS AT THE PENTHOUSE" on Sat, 21 Nov 2026.
 
 The Penthouse Dubai is a music venue in Dubai listed on soundcheck. 2 upcoming gigs, with line-ups including Ilario Alicante and Rafael (IS). See dates, start times and who's playing. 16th Floor  FIVE Palm Jumeirah  No 1 Palm Jumeirah Dubai.
 
@@ -15,4 +15,4 @@ The Penthouse Dubai is a music venue in Dubai listed on soundcheck. 2 upcoming g
 
 16th Floor  FIVE Palm Jumeirah  No 1 Palm Jumeirah Dubai, Dubai
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/the-penthouse-dubai/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/the-penthouse-dubai/)*

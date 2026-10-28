@@ -1,6 +1,6 @@
 # Rage Rave 1 Year Anniversary at Nether Club
 
-Rage Rave 1 Year Anniversary at Nether Club on Sat 28 Nov, Bucharest. 3 artists: Neotroxian, Project Morpheus and SUKA. Techno and Industrial. See the line-up on soundcheck.
+Rage Rave 1 Year Anniversary at Nether Club on Sat 28 Nov, Bucharest. 4 artists: Iosiph Kruz, Neotroxian, Project Morpheus and SUKA. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rage Rave 1 Year Anniversary at Nether Club on Sat 28 Nov, Bucharest. 3 artists:
 
 ## Line-up
 
+- Iosiph Kruz
 - Neotroxian
 - Project Morpheus
 - SUKA

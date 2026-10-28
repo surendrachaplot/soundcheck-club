@@ -1,6 +1,6 @@
 # The Barbican Centre
 
-The Barbican Centre is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Soweto Kinch: Trilogy" on Thu, 19 Nov 2026.
+The Barbican Centre is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Soweto Kinch: Trilogy" on Thu, 19 Nov 2026.
 
 The Barbican Centre is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Silk Street; London EC2Y 8DS; United Kingdom.
 
@@ -14,4 +14,4 @@ The Barbican Centre is a music venue in London listed on soundcheck. 1 upcoming 
 
 Silk Street; London EC2Y 8DS; United Kingdom, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-barbican-centre/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-barbican-centre/)*

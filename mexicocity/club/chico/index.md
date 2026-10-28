@@ -1,6 +1,6 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "PARASOMNIA" on Thu, 29 Oct 2026.
+CHICO is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "PARASOMNIA" on Thu, 29 Oct 2026.
 
 CHICO is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including BB Lux, BLOODHOUND, Charles Moon and Concepción Huerta and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -9,7 +9,7 @@ CHICO is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | PARASOMNIA | Black Daria, DJ EJ, Marvin Marciano |
-| Fri, 30 Oct 2026 | Steven Julien (808 PRINCE) | BB Lux, BLOODHOUND (3), Charles Moon, NAP (MX), Steven Julien, ZDBT |
+| Fri, 30 Oct 2026 | Sonido Isla & TYFS presents: | BB Lux, BLOODHOUND (3), Charles Moon, NAP (MX), ZDBT |
 | Fri, 30 Oct 2026 | Otono x Utensilio Takeover con Ansiedad1000 |  |
 | Sat, 31 Oct 2026 | Ritual del Kaoz: Halloween | Milothicc, Murderith |
 | Thu, 12 Nov 2026 | Paisaje Futuro: Son Los Dioses Tribales | Rosa Pistola, Tony Gallardo |
@@ -21,4 +21,4 @@ CHICO is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, wit
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

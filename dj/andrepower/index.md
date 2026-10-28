@@ -1,14 +1,15 @@
 # Andre Power
 
-Andre Power is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
+Andre Power is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
 
-Andre Power is a house and hip-hop artist based in United States of America, with 48 gigs on soundcheck across Berlin, Birmingham, Chicago and Cologne and 15 more. Often billed alongside Bambii, DOUG and FS Green. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
+Andre Power is a house and hip-hop artist based in United States of America, with 49 gigs on soundcheck across Berlin, Birmingham, Chicago and Cologne and 16 more. Often billed alongside Bambii, DOUG and FS Green. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Woldenberg Riverfront Park | New-orleans |
+| Sat, 28 Nov 2026 | Bastet | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Andre Power is a house and hip-hop artist based in United States of America, wit
 
 Bambii, DOUG, FS Green
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepower/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepower/)*

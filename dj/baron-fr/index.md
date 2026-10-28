@@ -1,6 +1,6 @@
 # Baron
 
-Baron is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Desa Kitsune, Bali on Tue, 10 Nov 2026.
+Baron is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Desa Kitsune, Bali on Tue, 10 Nov 2026.
 
 Baron is a house and tech house artist based in France, with 6 gigs on soundcheck across Amsterdam, Bali, Berlin and Mykonos and 1 more. Often billed alongside Dorian Craft, Aftersunday and Bedouin. Next up: Desa Kitsune, Bali on Tue 10 Nov.
 
@@ -22,4 +22,4 @@ Baron is a house and tech house artist based in France, with 6 gigs on soundchec
 
 Dorian Craft, Aftersunday, Bedouin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*

@@ -1,6 +1,6 @@
 # City Splash with Masicka, Spice, Rampage Sound and many more at DRUMSHEDS
 
-City Splash with Masicka, Spice, Rampage Sound and many more at DRUMSHEDS on Sat 21 Nov, London. 6 artists: DJ Ace, DJ Nate, Pioneer and Rampage Sound and 2 more. Dancehall and Reggaeton. See the line-up on soundcheck.
+City Splash with Masicka, Spice, Rampage Sound and many more at DRUMSHEDS on Sat 21 Nov, London. 7 artists: DJ Ace, DJ Nate, Pioneer and Rampage Sound and 3 more. Dancehall and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ City Splash with Masicka, Spice, Rampage Sound and many more at DRUMSHEDS on Sat
 - Rampage Sound
 - Spice
 - Supa D
+- TERMINAL 4
 
 *Source: [soundcheck](https://soundcheck.club/e/2528889-city-splash-with-masicka-spice-rampage-sound-and-many-more-a/)*

@@ -1,6 +1,6 @@
 # Batikan Tanrikulu
 
-Batikan Tanrikulu is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kastel, Istanbul on Wed, 28 Oct 2026.
+Batikan Tanrikulu is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kastel, Istanbul on Wed, 28 Oct 2026.
 
 Batikan Tanrikulu is a house and progressive house artist based in Turkey, with 14 gigs on soundcheck across Istanbul. Often billed alongside Yigit Karakas, Batıkan Abız and Atakan Uysal. Next up: Kastel, Istanbul on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Batikan Tanrikulu is a house and progressive house artist based in Turkey, with 
 
 Yigit Karakas, Batıkan Abız, Atakan Uysal
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batikantanrikulu/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batikantanrikulu/)*

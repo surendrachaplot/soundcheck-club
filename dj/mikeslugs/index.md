@@ -1,6 +1,6 @@
 # Mike Slugs
 
-Mike Slugs is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Schubas, Chicago on Fri, 6 Nov 2026.
+Mike Slugs is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Schubas, Chicago on Fri, 6 Nov 2026.
 
 Mike Slugs is a house and deep house artist, with 8 gigs on soundcheck across Chicago. Often billed alongside Quicktastic, AFTR and Adorio. Next up: Schubas, Chicago on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Mike Slugs is a house and deep house artist, with 8 gigs on soundcheck across Ch
 
 Quicktastic, AFTR, Adorio
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeslugs/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeslugs/)*

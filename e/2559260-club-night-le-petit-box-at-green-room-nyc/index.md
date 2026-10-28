@@ -1,6 +1,6 @@
 # CLUB NIGHT // Le Petit Box at Green Room NYC
 
-CLUB NIGHT // Le Petit Box at Green Room NYC on Fri 6 Nov, New York City. 5 artists: Baroque Hoe, Liv K, Manimogo and okDUNC and 1 more. Progressive House and House. See the line-up on soundcheck.
+CLUB NIGHT // Le Petit Box at Green Room NYC on Fri 6 Nov, New York City. 6 artists: Baroque Hoe, Codeshift, Liv K and Manimogo and 2 more. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ CLUB NIGHT // Le Petit Box at Green Room NYC on Fri 6 Nov, New York City. 5 arti
 ## Line-up
 
 - Baroque Hoe
+- Codeshift
 - Liv K
 - Manimogo
 - okDUNC

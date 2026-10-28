@@ -1,6 +1,6 @@
 # Jamie Unknown
 
-Jamie Unknown is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lakota, Bristol on Fri, 6 Nov 2026.
+Jamie Unknown is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Lakota, Bristol on Fri, 6 Nov 2026.
 
 Jamie Unknown is a house and garage artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Brighton, Bristol and Glasgow and 3 more. Often billed alongside Mas Que Nada Brothers, Fredd Mann and St. David. Next up: Lakota, Bristol on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jamie Unknown is a house and garage artist based in United Kingdom, with 33 gigs
 
 Mas Que Nada Brothers, Fredd Mann, St. David
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieunknown/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieunknown/)*

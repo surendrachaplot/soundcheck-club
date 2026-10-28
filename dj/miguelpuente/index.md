@@ -1,6 +1,6 @@
 # Miguel Puente
 
-Miguel Puente is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Iocerouno, Monterrey on Sat, 7 Nov 2026.
+Miguel Puente is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Iocerouno, Monterrey on Sat, 7 Nov 2026.
 
 Miguel Puente is a house and garage artist, with 12 gigs on soundcheck across Guadalajara, Mexico City, Monterrey and Prague. Often billed alongside Sakro, Louie Fresco and Art Department. Next up: Iocerouno, Monterrey on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Miguel Puente is a house and garage artist, with 12 gigs on soundcheck across Gu
 
 Sakro, Louie Fresco, Art Department
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelpuente/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelpuente/)*

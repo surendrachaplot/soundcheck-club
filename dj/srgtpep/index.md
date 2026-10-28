@@ -1,6 +1,6 @@
 # srgtpep
 
-srgtpep is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Relink:Data, Mexico City on Wed, 28 Oct 2026.
+srgtpep is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Relink:Data, Mexico City on Wed, 28 Oct 2026.
 
 srgtpep is a house and techno artist, with 16 gigs on soundcheck across Detroit, Mexico City, New York City and Portland. Often billed alongside C Powers, cay horiuchi and 999ADJ. Next up: Relink:Data, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ srgtpep is a house and techno artist, with 16 gigs on soundcheck across Detroit,
 
 C Powers, cay horiuchi, 999ADJ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/srgtpep/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/srgtpep/)*

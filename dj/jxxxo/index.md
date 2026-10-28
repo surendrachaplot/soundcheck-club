@@ -1,6 +1,6 @@
 # JXXXO
 
-JXXXO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Under Club, Buenos Aires on Fri, 20 Nov 2026.
+JXXXO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Under Club, Buenos Aires on Fri, 20 Nov 2026.
 
 JXXXO is a techno and house artist based in Argentina, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside HERS, Lucas Sosa (AR) and West Code. Next up: Under Club, Buenos Aires on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ JXXXO is a techno and house artist based in Argentina, with 45 gigs on soundchec
 
 HERS, Lucas Sosa (AR), West Code
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jxxxo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jxxxo/)*

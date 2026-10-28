@@ -1,6 +1,6 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Random Access: RNDM-AXS _ 1029 - 'Halloween Special" on Thu, 29 Oct 2026.
+Monarch is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Random Access: RNDM-AXS _ 1029 - 'Halloween Special" on Thu, 29 Oct 2026.
 
 Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including 10cust, 1OO1O, AMERICANRECYCLING and Axel Boman and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcom
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

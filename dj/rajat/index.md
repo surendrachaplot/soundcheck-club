@@ -1,6 +1,6 @@
 # RAJAT
 
-RAJAT is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Rooftop105, Geneva on Sat, 14 Nov 2026.
+RAJAT is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Rooftop105, Geneva on Sat, 14 Nov 2026.
 
 RAJAT is a techno artist, with 6 gigs on soundcheck across Berlin and Geneva. Often billed alongside 4BLISS#, ALL1SØN and ANDREAJACKSON. Next up: Rooftop105, Geneva on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ RAJAT is a techno artist, with 6 gigs on soundcheck across Berlin and Geneva. Of
 
 4BLISS#, ALL1SØN, ANDREAJACKSON
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rajat/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rajat/)*

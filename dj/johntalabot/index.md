@@ -1,8 +1,8 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+John Talabot is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
-John Talabot is a house and techno artist based in Spain, with 198 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 63 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
+John Talabot is a house and techno artist based in Spain, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 63 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ John Talabot is a house and techno artist based in Spain, with 198 gigs on sound
 | Sat, 14 Nov 2026 | Arca | Milan |
 | Fri, 20 Nov 2026 | Studio Club Malaga | Malaga |
 | Sat, 21 Nov 2026 | Q35 WAREHOUSE | Turin |
+| Sat, 5 Dec 2026 | Autódromo de Interlagos | Sao Paulo |
 | Sat, 16 Jan 2027 | Basic Club | Naples |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
@@ -33,4 +34,4 @@ John Talabot is a house and techno artist based in Spain, with 198 gigs on sound
 
 mad miran, Nicolas Lutz, Palms Trax
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

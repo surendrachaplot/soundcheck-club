@@ -1,6 +1,6 @@
 # The Paradise Now
 
-The Paradise Now is a music venue in Düsseldorf with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "DISCOTECA HALLOWEEN - MCFLY, Josef Schumacher, TOBI XANDER" on Fri, 30 Oct 2026.
+The Paradise Now is a music venue in Düsseldorf with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "DISCOTECA HALLOWEEN - MCFLY, Josef Schumacher, TOBI XANDER" on Fri, 30 Oct 2026.
 
 The Paradise Now is a music venue in Düsseldorf listed on soundcheck. 6 upcoming gigs, with line-ups including Dante T., Denoir, JANE RYSE and Josef Schumacher and 1 more. See dates, start times and who's playing. Hammer Str. 27, 40219 Düsseldorf, Germany.
 
@@ -19,4 +19,4 @@ The Paradise Now is a music venue in Düsseldorf listed on soundcheck. 6 upcomin
 
 Hammer Str. 27, 40219 Düsseldorf, Germany, Düsseldorf
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/the-paradise-now/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/the-paradise-now/)*

@@ -1,6 +1,6 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Kaiku, Helsinki on Fri, 30 Oct 2026.
+Nørbak is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Kaiku, Helsinki on Fri, 30 Oct 2026.
 
 Nørbak is a techno and house artist based in Portugal, with 164 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Kaiku, Helsinki on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Nørbak is a techno and house artist based in Portugal, with 164 gigs on soundch
 
 Temudo, Quelza, CRAVO
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

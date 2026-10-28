@@ -1,8 +1,8 @@
 # Andre Marc
 
-Andre Marc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - SARAB - Bali Lane, Singapore on Fri, 30 Oct 2026.
+Andre Marc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SARAB - Bali Lane, Singapore on Fri, 30 Oct 2026.
 
-Andre Marc is a techno and house artist, with 32 gigs on soundcheck across Singapore. Often billed alongside Halis, Pengsoo and Cosmo Carbon. Next up: TBA - SARAB - Bali Lane, Singapore on Fri 30 Oct.
+Andre Marc is a techno and house artist based in Singapore, with 32 gigs on soundcheck across Singapore. Often billed alongside Halis, Pengsoo and Cosmo Carbon. Next up: TBA - SARAB - Bali Lane, Singapore on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Andre Marc is a techno and house artist, with 32 gigs on soundcheck across Singa
 
 Halis, Pengsoo, Cosmo Carbon
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andremarc/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andremarc/)*

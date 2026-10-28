@@ -1,6 +1,6 @@
 # Sasa (FR)
 
-Sasa (FR) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
+Sasa (FR) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 Sasa (FR) is a techno and trance artist based in France, with 4 gigs on soundcheck across Berlin and Paris. Often billed alongside Andara Nox, Anna Hoeber and April the pink. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Sasa (FR) is a techno and trance artist based in France, with 4 gigs on soundche
 
 Andara Nox, Anna Hoeber, April the pink
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sasa-fr/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sasa-fr/)*

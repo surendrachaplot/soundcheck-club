@@ -1,6 +1,6 @@
 # Merlin Cum
 
-Merlin Cum is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
+Merlin Cum is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
 
 Merlin Cum is a techno and industrial artist based in Latvia, with 20 gigs on soundcheck across Berlin and Riga. Often billed alongside Freiya March, BLEACH.LIVE and Marss The Person. Next up: Void Club, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Merlin Cum is a techno and industrial artist based in Latvia, with 20 gigs on so
 
 Freiya March, BLEACH.LIVE, Marss The Person
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merlincum/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merlincum/)*

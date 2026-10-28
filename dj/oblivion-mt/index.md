@@ -1,6 +1,6 @@
 # Øblivion
 
-Øblivion is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Malta on Sat, 7 Nov 2026.
+Øblivion is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Malta on Sat, 7 Nov 2026.
 
 Øblivion is a techno and acid artist based in Malta, with 11 gigs on soundcheck across Budapest and Malta. Often billed alongside NEVYALC, ØZZY and Kaneo. Next up: TBA, Malta on Sat 7 Nov.
 
@@ -25,4 +25,4 @@
 
 NEVYALC, ØZZY, Kaneo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oblivion-mt/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oblivion-mt/)*

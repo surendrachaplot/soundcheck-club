@@ -1,18 +1,24 @@
 # Grub Stretford
 
-Grub Stretford is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "GRUB Stretford: Werkha (DJ Set)" on Fri, 6 Nov 2026.
+Grub Stretford is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "GRUB Stretford: Andy Peek (DJ Set)" on Sun, 1 Nov 2026.
 
-Grub Stretford is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including SNO (UK) and Werkha. See dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
+Grub Stretford is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Moodymanc, SNO (UK), Werkha and Yarni. See dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | GRUB Stretford: Werkha (DJ Set) | Werkha |
-| Fri, 13 Nov 2026 | GRUB Stretford: SNO (DJ Set) | SNO (UK) |
+| Sun, 1 Nov 2026 | GRUB Stretford: Andy Peek (DJ Set) |  |
+| Fri, 6 Nov 2026 | GRUB Stretford: Werkha (DJ Set) FREE ENTRY | Werkha |
+| Sat, 7 Nov 2026 | GRUB Stretford: Jo Doughty (DJ Set) |  |
+| Sun, 8 Nov 2026 | GRUB Stretford: DJ Danny Ward / Moodymanc: All Day Long | Moodymanc |
+| Fri, 13 Nov 2026 | GRUB Stretford: SNO (DJ Set) FREE ENTRY | SNO (UK) |
+| Sat, 14 Nov 2026 | GRUB Stretford: Stanley Chow (DJ Set) |  |
+| Fri, 20 Nov 2026 | Radio Alhara Takeover - Creating Patterns |  |
+| Fri, 27 Nov 2026 | GRUB Stretford: Yarni (DJ Set) | Yarni |
 
 ## Address
 
 Multi-Storey Car park, King St, Stretford, Manchester M32 9AH, Manchester
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/grub-stretford/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/grub-stretford/)*

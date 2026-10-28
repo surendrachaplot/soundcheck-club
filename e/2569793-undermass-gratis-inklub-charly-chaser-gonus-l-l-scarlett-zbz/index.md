@@ -1,6 +1,6 @@
-# UNDERMASS GRATIS INKLUB ||| CHARLY CHASER • GONUS, LØLØ, SCARLETT & ZBZ at Inklub Madrid
+# UNDERMASS GRATIS INKLUB ||| CHARLY CHASER • GONUS • LØLØ • SCARLETT • ZBZ at Inklub Madrid
 
-UNDERMASS GRATIS INKLUB ||| CHARLY CHASER • GONUS, LØLØ, SCARLETT & ZBZ at Inklub Madrid on Sat 14 Nov, Madrid. Techno. See the line-up on soundcheck.
+UNDERMASS GRATIS INKLUB ||| CHARLY CHASER • GONUS • LØLØ • SCARLETT • ZBZ at Inklub Madrid on Sat 14 Nov, Madrid. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

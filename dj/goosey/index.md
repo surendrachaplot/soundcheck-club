@@ -1,6 +1,6 @@
 # Goosey
 
-Goosey is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at IDRA, Manchester on Sat, 31 Oct 2026.
+Goosey is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at IDRA, Manchester on Sat, 31 Oct 2026.
 
 Goosey is a house and tech house artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 14 more. Often billed alongside Enzo is Burning, Gaskin and Manda Moor. Next up: IDRA, Manchester on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Goosey is a house and tech house artist based in United Kingdom, with 78 gigs on
 
 Enzo is Burning, Gaskin, Manda Moor
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*

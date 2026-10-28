@@ -1,6 +1,6 @@
 # The Hideaway at Egg London
 
-The Hideaway at Egg London on Fri 20 Nov, London. 3 artists: Beezo, DJ Majesty and Supa D. House and Afro House. See the line-up on soundcheck.
+The Hideaway at Egg London on Fri 20 Nov, London. 4 artists: Beezo, DJ Majesty, Supa D and TERMINAL 4. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ The Hideaway at Egg London on Fri 20 Nov, London. 3 artists: Beezo, DJ Majesty a
 - Beezo
 - DJ Majesty
 - Supa D
+- TERMINAL 4
 
 *Source: [soundcheck](https://soundcheck.club/e/2534013-the-hideaway-at-egg-london/)*

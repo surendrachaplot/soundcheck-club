@@ -1,6 +1,6 @@
 # Leyva
 
-Leyva is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at 1-800-Lucky, Miami on Sun, 8 Nov 2026.
+Leyva is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at 1-800-Lucky, Miami on Sun, 8 Nov 2026.
 
 Leyva is a tech house and techno artist, with 6 gigs on soundcheck across Mexico City and Miami. Often billed alongside AbueKev, DiDi and Em Boss. Next up: 1-800-Lucky, Miami on Sun 8 Nov.
 
@@ -22,4 +22,4 @@ Leyva is a tech house and techno artist, with 6 gigs on soundcheck across Mexico
 
 AbueKev, DiDi (2), Em Boss
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leyva/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leyva/)*

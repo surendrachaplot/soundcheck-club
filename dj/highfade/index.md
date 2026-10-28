@@ -1,6 +1,6 @@
 # High Fade
 
-High Fade is a Funk / Soul and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Location Announced on the day. Join the Fade Fam chat for details. , Bristol on Thu, 5 Nov 2026.
+High Fade is a Funk / Soul and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Location Announced on the day. Join the Fade Fam chat for details. , Bristol on Thu, 5 Nov 2026.
 
 High Fade is a funk / soul and disco artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Brighton, Bristol and Dublin and 8 more. Often billed alongside DJ Football, Dj Schnake and Eloi. Next up: TBA - Location Announced on the day. Join the Fade Fam chat for details. , Bristol on Thu 5 Nov.
 
@@ -29,4 +29,4 @@ High Fade is a funk / soul and disco artist based in United Kingdom, with 25 gig
 
 DJ Football, Dj Schnake, Eloi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highfade/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highfade/)*

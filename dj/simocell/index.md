@@ -1,6 +1,6 @@
 # Simo Cell
 
-Simo Cell is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Simo Cell is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Simo Cell is a bass and techno artist based in France, with 136 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 60 more. Often billed alongside CCL, DjRUM and mad miran. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Simo Cell is a bass and techno artist based in France, with 136 gigs on soundche
 
 CCL, DjRUM, mad miran
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

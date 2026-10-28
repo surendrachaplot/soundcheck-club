@@ -1,6 +1,6 @@
 # Eva Loveless
 
-Eva Loveless is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 29 Oct 2026.
+Eva Loveless is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 29 Oct 2026.
 
 Eva Loveless is a bass and techno artist based in United States of America, with 78 gigs on soundcheck across Baltimore, Chicago, Montreal and New York City. Often billed alongside DJ DEADNAME, Sobolik and Eros (US). Next up: Bossa Nova Civic Club, New York City on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Eva Loveless is a bass and techno artist based in United States of America, with
 
 DJ DEADNAME, Sobolik, Eros (US)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evaloveless/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evaloveless/)*

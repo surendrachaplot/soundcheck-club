@@ -1,6 +1,6 @@
 # Bun Xapa
 
-Bun Xapa is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
+Bun Xapa is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
 
 Bun Xapa is an afro house and afro tech artist based in South Africa, with 41 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 16 more. Often billed alongside Rancido, DJ BREYTH and Van Zand. Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bun Xapa is an afro house and afro tech artist based in South Africa, with 41 gi
 
 Rancido, DJ BREYTH, Van Zand
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bunxapa/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bunxapa/)*

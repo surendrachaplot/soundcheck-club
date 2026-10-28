@@ -1,13 +1,14 @@
 # Chedda Bred
 
-Chedda Bred is a Jazz and UK Funky artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Chedda Bred is a Jazz and Grime artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Orange Room, London on Thu, 5 Nov 2026.
 
-Chedda Bred is a jazz and uk funky artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Chedda B, Neue Grafik and limi. Next up: fabric, London on Fri 27 Nov.
+Chedda Bred is a jazz and grime artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside Chedda B, Neue Grafik and limi. Next up: The Orange Room, London on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | The Orange Room | London |
 | Fri, 27 Nov 2026 | fabric | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Chedda Bred is a jazz and uk funky artist based in United Kingdom, with 23 gigs 
 
 Chedda B, Neue Grafik, limi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*

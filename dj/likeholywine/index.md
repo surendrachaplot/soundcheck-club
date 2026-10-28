@@ -1,8 +1,8 @@
 # likeholywine
 
-likeholywine is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at BASEMENT, New York City on Fri, 30 Oct 2026.
+likeholywine is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at BASEMENT, New York City on Fri, 30 Oct 2026.
 
-likeholywine is a techno and club artist based in United States of America, with 74 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside nonsuit, Beverly Chills and Adam Kraft. Next up: BASEMENT, New York City on Fri 30 Oct.
+likeholywine is a techno and club artist based in United States of America, with 75 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside nonsuit, Beverly Chills and Adam Kraft. Next up: BASEMENT, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ likeholywine is a techno and club artist based in United States of America, with
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | BASEMENT | New York City |
 | Sat, 14 Nov 2026 | Monument SF | San Francisco/Oakland |
+| Sat, 28 Nov 2026 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ likeholywine is a techno and club artist based in United States of America, with
 
 nonsuit, Beverly Chills, Adam Kraft
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/likeholywine/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/likeholywine/)*

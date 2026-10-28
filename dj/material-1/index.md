@@ -1,6 +1,6 @@
 # Material (1)
 
-Material (1) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Elastic Arts, Chicago on Sun, 15 Nov 2026.
+Material (1) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Elastic Arts, Chicago on Sun, 15 Nov 2026.
 
 Material is a house and disco artist based in United States of America, with 34 gigs on soundcheck across Chicago, London and Paris. Often billed alongside Darryn Jones, Noshaluv and Ricardo Roessel. Next up: Elastic Arts, Chicago on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Material is a house and disco artist based in United States of America, with 34 
 
 Darryn Jones, Noshaluv, Ricardo Roessel
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/material-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/material-1/)*

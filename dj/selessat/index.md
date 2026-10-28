@@ -1,6 +1,6 @@
 # SELESSA T.
 
-SELESSA T. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+SELESSA T. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
 SELESSA T. is a house and techno artist based in France, with 77 gigs on soundcheck across Berlin, Dresden, Hamburg and Hannover and 1 more. Often billed alongside Otal, Elie Bukassa and Viénce. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SELESSA T. is a house and techno artist based in France, with 77 gigs on soundch
 
 Otal, Elie Bukassa, Viénce
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selessat/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selessat/)*

@@ -1,6 +1,6 @@
 # Sarica
 
-Sarica is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 29 Oct 2026.
+Sarica is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 29 Oct 2026.
 
 Sarica is a techno and house artist based in Croatia, with 83 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Hong Kong and 15 more. Often billed alongside Sub.Vision, RIØ (DE) and Rosan. Next up: Bahnwärter Thiel, Munich on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Sarica is a techno and house artist based in Croatia, with 83 gigs on soundcheck
 
 Sub.Vision, RIØ (DE), Rosan
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarica/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarica/)*

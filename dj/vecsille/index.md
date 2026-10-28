@@ -1,6 +1,6 @@
 # VECSILLE
 
-VECSILLE is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Azumaya, Tokyo on Wed, 28 Oct 2026.
+VECSILLE is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Azumaya, Tokyo on Wed, 28 Oct 2026.
 
 VECSILLE is a garage and bass artist, with 76 gigs on soundcheck across Hong Kong and Tokyo. Often billed alongside MOOTOE, ATAMI and Ogasawara. Next up: Azumaya, Tokyo on Wed 28 Oct.
 
@@ -29,4 +29,4 @@ VECSILLE is a garage and bass artist, with 76 gigs on soundcheck across Hong Kon
 
 MOOTOE, ATAMI, Ogasawara
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vecsille/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vecsille/)*

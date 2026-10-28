@@ -1,6 +1,6 @@
 # Club Silly (Bosi)
 
-Club Silly (Bosi) is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Earthlings Live" on Sat, 7 Nov 2026.
+Club Silly (Bosi) is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Earthlings Live" on Sat, 7 Nov 2026.
 
 Club Silly (Bosi) is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Alfie, NO-ANGEL, Raven and sosi and 1 more. See dates, start times and who's playing. Bureau Of Silly ideas, Arch 555, Valentia Place, London, SW9 8PJ.
 
@@ -18,4 +18,4 @@ Club Silly (Bosi) is a music venue in London listed on soundcheck. 5 upcoming gi
 
 Bureau Of Silly ideas, Arch 555, Valentia Place, London, SW9 8PJ, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-silly-bosi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-silly-bosi/)*

@@ -1,6 +1,6 @@
 # fono
 
-fono is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "In the Realm w. Kepa, Heuremin & Mawiewowie" on Fri, 30 Oct 2026.
+fono is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "In the Realm w. Kepa, Heuremin & Mawiewowie" on Fri, 30 Oct 2026.
 
 fono is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs, with line-ups including Deep Tempo, Heuremin (MY), Jony Maddkidz and Runaaki and 2 more. See dates, start times and who's playing. 80C, Zhongshan Building, Jalan Rotan, Kampung Attap, 50460, Kuala Lumpur.
 
@@ -15,4 +15,4 @@ fono is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs, wit
 
 80C, Zhongshan Building, Jalan Rotan, Kampung Attap, 50460, Kuala Lumpur, Kuala Lumpur
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/fono/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/fono/)*

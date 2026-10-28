@@ -1,6 +1,6 @@
 # Nathan Alzon
 
-Nathan Alzon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
+Nathan Alzon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
 
 Nathan Alzon is a house and tech house artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Frankfurt, Milan and Porto and 4 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Litmus. Next up: Shelter Amsterdam, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Nathan Alzon is a house and tech house artist based in Netherlands, with 40 gigs
 
 Benjamin Berg, Benny Rodrigues, Litmus
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanalzon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanalzon/)*

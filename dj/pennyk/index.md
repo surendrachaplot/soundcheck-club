@@ -1,6 +1,6 @@
 # Penny K
 
-Penny K is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
+Penny K is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
 
 Penny K is a hardcore and techno artist based in Cyprus, with 7 gigs on soundcheck across Athens, Berlin, Cyprus and Oslo and 1 more. Often billed alongside Dreus, 5KILLZ and AEREA. Next up: Castle Club, Cyprus on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Penny K is a hardcore and techno artist based in Cyprus, with 7 gigs on soundche
 
 Dreus, 5KILLZ, AEREA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pennyk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pennyk/)*

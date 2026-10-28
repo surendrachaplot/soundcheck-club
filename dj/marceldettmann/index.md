@@ -1,8 +1,8 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Marcel Dettmann is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Marcel Dettmann is a techno and house artist based in Germany, with 293 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 83 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Factory Town, Miami on Fri 30 Oct.
+Marcel Dettmann is a techno and house artist based in Germany, with 294 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 83 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Marcel Dettmann is a techno and house artist based in Germany, with 293 gigs on 
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 21 Nov 2026 | Preston Warehouse | Melbourne |
+| Fri, 11 Dec 2026 | FVTVR | Paris |
 | Fri, 18 Dec 2026 | Hive Club | Zurich |
 
 ## Recently played
@@ -34,4 +35,4 @@ Marcel Dettmann is a techno and house artist based in Germany, with 293 gigs on 
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

@@ -1,6 +1,6 @@
 # Lost Horizon
 
-Lost Horizon is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Brockout x Posh End - Sunil Sharpe, Jerome Hill, Fear-E, Shadesy, Ms Ogyny, Rhythm Session" on Fri, 30 Oct 2026.
+Lost Horizon is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Brockout x Posh End - Sunil Sharpe, Jerome Hill, Fear-E, Shadesy, Ms Ogyny, Rhythm Session" on Fri, 30 Oct 2026.
 
 Lost Horizon is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including Fear-E, I. JORDAN, J.Rains and Jerome Hill and 2 more. See dates, start times and who's playing. 1-3 Elton Street BS2 9EH Bristol, UK.
 
@@ -17,4 +17,4 @@ Lost Horizon is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, 
 
 1-3 Elton Street BS2 9EH Bristol, UK, Bristol
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*

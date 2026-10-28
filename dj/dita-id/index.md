@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+DITA (ID) is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
 DITA (ID) is a house and disco artist based in Indonesia, with 123 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 18 more. Often billed alongside Archie Dennis, Brent Burns and DJ BORING. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ DITA (ID) is a house and disco artist based in Indonesia, with 123 gigs on sound
 
 Archie Dennis, Brent Burns, DJ BORING
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

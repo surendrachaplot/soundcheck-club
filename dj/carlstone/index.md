@@ -1,8 +1,8 @@
 # Carl Stone
 
-Carl Stone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Carl Stone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
-Carl Stone is an experimental and ambient artist based in United States of America, with 24 gigs on soundcheck across Barcelona, Beijing, Berlin and Denver and 11 more. Often billed alongside Crystallmess, Laraaji and Robert Turman. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+Carl Stone is an experimental and ambient artist based in United States of America, with 24 gigs on soundcheck across Barcelona, Beijing, Berlin and Denver and 11 more. Often billed alongside Crystallmess, Laraaji and Lorenzo Senni. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Carl Stone is an experimental and ambient artist based in United States of Ameri
 
 ## Shares bills with
 
-Crystallmess, Laraaji, Robert Turman
+Crystallmess, Laraaji, Lorenzo Senni
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlstone/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlstone/)*

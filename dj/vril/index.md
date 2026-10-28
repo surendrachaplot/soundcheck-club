@@ -1,6 +1,6 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Gray Area, San Francisco/Oakland on Fri, 6 Nov 2026.
+.VRIL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Gray Area, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 .VRIL is a techno and house artist based in Germany, with 151 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 47 more. Often billed alongside DJ Dustin, Konstantin and Edward. Next up: Gray Area, San Francisco/Oakland on Fri 6 Nov.
 
@@ -28,4 +28,4 @@
 
 DJ Dustin, Konstantin, Edward
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*

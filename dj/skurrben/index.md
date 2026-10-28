@@ -1,6 +1,6 @@
 # Skurrben
 
-Skurrben is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Westhafen, Leipzig on Sat, 31 Oct 2026.
+Skurrben is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Westhafen, Leipzig on Sat, 31 Oct 2026.
 
 Skurrben is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Dresden and Leipzig. Often billed alongside DUSTNER, Mascha Roth and Laviena. Next up: Westhafen, Leipzig on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Skurrben is a techno and trance artist based in Germany, with 17 gigs on soundch
 
 DUSTNER, Mascha Roth, Laviena
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skurrben/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skurrben/)*

@@ -1,6 +1,6 @@
 # TWO LANES
 
-TWO LANES is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Martin-Luther-Kirche, Dresden on Sun, 8 Nov 2026.
+TWO LANES is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Martin-Luther-Kirche, Dresden on Sun, 8 Nov 2026.
 
 TWO LANES is an electronica and techno artist, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside Monolink, Christian Löffler and J.WOCKENFUSS. Next up: Martin-Luther-Kirche, Dresden on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ TWO LANES is an electronica and techno artist, with 29 gigs on soundcheck across
 
 Monolink, Christian Löffler, J.WOCKENFUSS
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twolanes/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twolanes/)*

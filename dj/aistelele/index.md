@@ -1,14 +1,14 @@
 # Aistelele
 
-Aistelele is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 6 Nov 2026.
+Aistelele is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at gallery 1986, Vilnius on Fri, 6 Nov 2026.
 
-Aistelele is a house and techno artist based in Lithuania, with 12 gigs on soundcheck across Riga and Vilnius. Often billed alongside AUREJA, JPSC and Lynke. Next up: Gallery 1986, Vilnius on Fri 6 Nov.
+Aistelele is a house and techno artist based in Lithuania, with 12 gigs on soundcheck across Riga and Vilnius. Often billed alongside AUREJA, JPSC and Lynke. Next up: gallery 1986, Vilnius on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Gallery 1986 | Vilnius |
+| Fri, 6 Nov 2026 | gallery 1986 | Vilnius |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Aistelele is a house and techno artist based in Lithuania, with 12 gigs on sound
 
 AUREJA, JPSC, Lynke
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aistelele/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aistelele/)*

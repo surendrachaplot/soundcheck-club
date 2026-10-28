@@ -1,6 +1,6 @@
 # Massief presents: Tamen at OT301
 
-Massief presents: Tamen at OT301 on Thu 10 Dec, Amsterdam. 5 artists: Déandrah, DJ Lis, Gimmeamfbreakbeat and Son Of Sesh and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Massief presents: Tamen at OT301 on Thu 10 Dec, Amsterdam. 5 artists: Déandrah, dj Lis, Gimmeamfbreakbeat and Son Of Sesh and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Massief presents: Tamen at OT301 on Thu 10 Dec, Amsterdam. 5 artists: Déandrah,
 ## Line-up
 
 - Déandrah
-- DJ Lis
+- dj Lis
 - Gimmeamfbreakbeat
 - Son Of Sesh
 - Tamen

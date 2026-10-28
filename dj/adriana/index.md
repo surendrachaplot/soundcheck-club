@@ -1,6 +1,6 @@
 # Adriana (1)
 
-Adriana (1) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Adriana (1) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
 Adriana is a house and disco artist based in Australia, with 54 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 9 more. Often billed alongside Milo Eastwood, Zjoso and Elsie. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Adriana is a house and disco artist based in Australia, with 54 gigs on soundche
 
 Milo Eastwood, Zjoso, Elsie
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriana/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriana/)*

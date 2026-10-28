@@ -1,6 +1,6 @@
 # crobar
 
-crobar is a music venue in Cleveland with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Phase:Zero presents: Beyond the Veil" on Fri, 30 Oct 2026.
+crobar is a music venue in Cleveland with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Phase:Zero presents: Beyond the Veil" on Fri, 30 Oct 2026.
 
 crobar is a music venue in Cleveland listed on soundcheck. 4 upcoming gigs, with line-ups including angelgirl EVA, Detroit Bureau of Sound, Innergroove and Jenny Arcade and 2 more. See dates, start times and who's playing. 3244 Saint Clair Ave Cleveland, Oh 44114.
 
@@ -17,4 +17,4 @@ crobar is a music venue in Cleveland listed on soundcheck. 4 upcoming gigs, with
 
 3244 Saint Clair Ave Cleveland, Oh 44114, Cleveland
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/cleveland/club/crobar/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/cleveland/club/crobar/)*

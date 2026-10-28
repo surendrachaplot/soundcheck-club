@@ -1,6 +1,6 @@
 # Monika Ross
 
-Monika Ross is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
+Monika Ross is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
 
 Monika Ross is a house and tech house artist based in Australia, with 38 gigs on soundcheck across Berlin, Dortmund / Essen, Guadalajara and Hamburg and 5 more. Often billed alongside Nils Twachtmann, Alternate State and Dave Dinger. Next up: OneSixOne, Melbourne on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Monika Ross is a house and tech house artist based in Australia, with 38 gigs on
 
 Nils Twachtmann, Alternate State, Dave Dinger
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monikaross/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monikaross/)*

@@ -1,6 +1,6 @@
 # Marco Aurelio
 
-Marco Aurelio is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sat, 14 Nov 2026.
+Marco Aurelio is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sat, 14 Nov 2026.
 
 Marco Aurelio is a techno and electronica artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Civaro, Miguel Silva and TO LE. Next up: Noorderlicht Café, Amsterdam on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Marco Aurelio is a techno and electronica artist based in Netherlands, with 7 gi
 
 Civaro, Miguel Silva, TO LE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoaurelio/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoaurelio/)*

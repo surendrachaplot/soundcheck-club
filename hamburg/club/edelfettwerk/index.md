@@ -1,6 +1,6 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "VER pres. WINSON" on Fri, 30 Oct 2026.
+Edelfettwerk is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "VER pres. WINSON" on Fri, 30 Oct 2026.
 
 Edelfettwerk is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including co:co, Noise Not War, Paraçek and Revelation and 2 more. See dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
@@ -20,4 +20,4 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, 
 
 Schnackenburgsallee 202, 22525 Hamburg, Hamburg
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*

@@ -1,6 +1,6 @@
 # yisekai presents Drew McDowall, Hiro Kone, al-uzza (NYC) at Acadana
 
-yisekai presents Drew McDowall, Hiro Kone, al-uzza (NYC) at Acadana on Fri 20 Nov, Hong Kong. 2 artists: VSLORIA and WOON. Industrial and Noise. See the line-up on soundcheck.
+yisekai presents Drew McDowall, Hiro Kone, al-uzza (NYC) at Acadana on Fri 20 Nov, Hong Kong. 5 artists: Drew McDowall, Hiro Kone, MarcoYu and VSLORIA and 1 more. Industrial and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ yisekai presents Drew McDowall, Hiro Kone, al-uzza (NYC) at Acadana on Fri 20 No
 
 ## Line-up
 
+- Drew McDowall
+- Hiro Kone
+- MarcoYu
 - VSLORIA
 - WOON
 

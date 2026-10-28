@@ -1,6 +1,6 @@
 # TIKOA
 
-TIKOA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at OST, Berlin on Thu, 5 Nov 2026.
+TIKOA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at OST, Berlin on Thu, 5 Nov 2026.
 
 TIKOA is a techno and house artist based in Germany, with 52 gigs on soundcheck across Belgrade, Berlin, Brussels and Dresden and 4 more. Often billed alongside Stallo, AYLIN IDAH and CALLE. Next up: OST, Berlin on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ TIKOA is a techno and house artist based in Germany, with 52 gigs on soundcheck 
 
 Stallo, AYLIN IDAH, CALLE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tikoa/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tikoa/)*

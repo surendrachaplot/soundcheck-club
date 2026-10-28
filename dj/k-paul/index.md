@@ -1,6 +1,6 @@
 # K-Paul
 
-K-Paul is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 5 Dec 2026.
+K-Paul is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 5 Dec 2026.
 
 K-Paul is a techno and tech house artist based in Germany, with 19 gigs on soundcheck across Berlin, Dresden, Düsseldorf and Mannheim and 1 more. Often billed alongside Westbam, Cherry and Hardy Hard. Next up: Stromwerk Dresden, Dresden on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ K-Paul is a techno and tech house artist based in Germany, with 19 gigs on sound
 
 Westbam, Cherry, Hardy Hard
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-paul/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-paul/)*

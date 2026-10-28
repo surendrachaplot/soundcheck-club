@@ -1,6 +1,6 @@
 # Cian Ó Cíobháin
 
-Cian Ó Cíobháin is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hen's Teeth, Dublin on Sat, 31 Oct 2026.
+Cian Ó Cíobháin is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hen's Teeth, Dublin on Sat, 31 Oct 2026.
 
 Cian Ó Cíobháin is a disco and house artist based in Ireland, with 12 gigs on soundcheck across Cork, Dublin and Galway. Often billed alongside Ant of Generic People, Billy Mc Galey and NODEN. Next up: Hen's Teeth, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cian Ó Cíobháin is a disco and house artist based in Ireland, with 12 gigs on
 
 Ant of Generic People, Billy Mc Galey, NODEN
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cianociobhain/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cianociobhain/)*

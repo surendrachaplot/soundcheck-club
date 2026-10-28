@@ -1,6 +1,6 @@
 # OYYSTER
 
-OYYSTER is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Meadows, New York City on Fri, 30 Oct 2026.
+OYYSTER is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Meadows, New York City on Fri, 30 Oct 2026.
 
 OYYSTER is a techno and club artist based in United States of America, with 13 gigs on soundcheck across Bogotá, Houston, Mexico City and New York City. Often billed alongside Roman Sensation, Iris Estefanía and 2AT. Next up: The Meadows, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ OYYSTER is a techno and club artist based in United States of America, with 13 g
 
 Roman Sensation, Iris Estefanía, 2AT
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oyyster/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oyyster/)*

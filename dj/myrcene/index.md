@@ -1,6 +1,6 @@
 # Myrcene
 
-Myrcene is a IDM and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
+Myrcene is a IDM and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
 
 Myrcene is an idm and house artist based in Spain, with 14 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Living Code, Joey Stella and Memory Palace. Next up: Razzmatazz, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Myrcene is an idm and house artist based in Spain, with 14 gigs on soundcheck ac
 
 Living Code, Joey Stella, Memory Palace
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myrcene/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myrcene/)*

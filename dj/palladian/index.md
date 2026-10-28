@@ -1,6 +1,6 @@
 # PALLADIAN
 
-PALLADIAN is a Electronica and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Palac Akropolis, Prague on Sat, 5 Dec 2026.
+PALLADIAN is a Electronica and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Palac Akropolis, Prague on Sat, 5 Dec 2026.
 
 PALLADIAN is an electronica and jungle artist based in Spain, with 11 gigs on soundcheck across Barcelona, London, Madrid and Prague. Often billed alongside Libéré, Alythia Kwan and Arielle Free. Next up: Palac Akropolis, Prague on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ PALLADIAN is an electronica and jungle artist based in Spain, with 11 gigs on so
 
 Libéré, Alythia Kwan, Arielle Free
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palladian/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palladian/)*

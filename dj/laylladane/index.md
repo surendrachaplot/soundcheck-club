@@ -1,14 +1,18 @@
 # Laylla Dane
 
-Laylla Dane is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
+Laylla Dane is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Backstage Sofia, Sofia on Sat, 7 Nov 2026.
 
-Laylla Dane is a techno and house artist, with 55 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 7 more. Often billed alongside Bosha, Frykk and Deyan Dimitrov. Next up: Renate, Berlin on Sat 28 Nov.
+Laylla Dane is a techno and house artist, with 59 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 7 more. Often billed alongside Bosha, Frykk and Deyan Dimitrov. Next up: Backstage Sofia, Sofia on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Backstage Sofia | Sofia |
+| Sun, 22 Nov 2026 | Ж Jazz Room | Sofia |
 | Sat, 28 Nov 2026 | Renate | Berlin |
+| Sat, 19 Dec 2026 | Tell Me | Sofia |
+| Sun, 20 Dec 2026 | Ж Jazz Room | Sofia |
 
 ## Recently played
 
@@ -25,4 +29,4 @@ Laylla Dane is a techno and house artist, with 55 gigs on soundcheck across Amst
 
 Bosha, Frykk, Deyan Dimitrov
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laylladane/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laylladane/)*

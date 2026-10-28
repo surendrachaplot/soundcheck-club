@@ -1,6 +1,6 @@
 # AIKON
 
-AIKON is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Iocerouno, Monterrey on Sat, 31 Oct 2026.
+AIKON is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Iocerouno, Monterrey on Sat, 31 Oct 2026.
 
 AIKON is a house and techno artist, with 12 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Dubai and 6 more. Often billed alongside Antonsson, Claptone and Cris-H. Next up: Iocerouno, Monterrey on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ AIKON is a house and techno artist, with 12 gigs on soundcheck across Amsterdam,
 
 Antonsson, Claptone, Cris-H
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aikon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aikon/)*

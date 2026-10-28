@@ -1,6 +1,6 @@
 # moodyjooly
 
-moodyjooly is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bsmt 254, Toronto on Fri, 13 Nov 2026.
+moodyjooly is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bsmt 254, Toronto on Fri, 13 Nov 2026.
 
 moodyjooly is a club and house artist based in Canada, with 35 gigs on soundcheck across Philadelphia and Toronto. Often billed alongside Coco de Mol, KERUB and ENSIDER. Next up: Bsmt 254, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ moodyjooly is a club and house artist based in Canada, with 35 gigs on soundchec
 
 Coco de Mol, KERUB, ENSIDER (2)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyjooly/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyjooly/)*

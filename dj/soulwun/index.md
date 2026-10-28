@@ -1,6 +1,6 @@
 # Soul Wun
 
-Soul Wun is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Kiama Skate Park, New-south-wales on Sat, 31 Oct 2026.
+Soul Wun is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Kiama Skate Park, New-south-wales on Sat, 31 Oct 2026.
 
 Soul Wun is a house and garage artist based in Australia, with 24 gigs on soundcheck across Byron Bay, Ibiza, London and Melbourne and 4 more. Often billed alongside Human Movement, Jennifer Loveless and Mikalah Watego. Next up: Kiama Skate Park, New South Wales on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Soul Wun is a house and garage artist based in Australia, with 24 gigs on soundc
 
 Human Movement, Jennifer Loveless, Mikalah Watego
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwun/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwun/)*

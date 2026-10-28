@@ -1,6 +1,6 @@
 # BLEACH.LIVE
 
-BLEACH.LIVE is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
+BLEACH.LIVE is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
 
 BLEACH.LIVE is a disco and house artist based in Germany, with 52 gigs on soundcheck across Berlin. Often billed alongside Nancy Nutter, Mari Corolla and ADAM MUNNINGS. Next up: Void Club, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ BLEACH.LIVE is a disco and house artist based in Germany, with 52 gigs on soundc
 
 Nancy Nutter, Mari Corolla, ADAM MUNNINGS
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach.live/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach.live/)*

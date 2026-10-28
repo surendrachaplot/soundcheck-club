@@ -1,6 +1,6 @@
 # Ell Murphy
 
-Ell Murphy is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Fox and Firkin, London on Thu, 31 Dec 2026.
+Ell Murphy is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Fox and Firkin, London on Thu, 31 Dec 2026.
 
 Ell Murphy is a garage and house artist based in United Kingdom, with 44 gigs on soundcheck across Athens, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside mixtress, fae (UK) and ohmydais. Next up: The Fox and Firkin, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ell Murphy is a garage and house artist based in United Kingdom, with 44 gigs on
 
 mixtress, fae (UK), ohmydais
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellmurphy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellmurphy/)*

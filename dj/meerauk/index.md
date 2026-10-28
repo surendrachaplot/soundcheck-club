@@ -1,6 +1,6 @@
 # MEERA (UK)
 
-MEERA (UK) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Secret Warehouse, Manchester on Sat, 31 Oct 2026.
+MEERA (UK) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Secret Warehouse, Manchester on Sat, 31 Oct 2026.
 
 MEERA (UK) is a house and garage artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside Picep, Simon Alfred and Bradley Skeng. Next up: Secret Warehouse, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MEERA (UK) is a house and garage artist based in United Kingdom, with 29 gigs on
 
 Picep, Simon Alfred, Bradley Skeng
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meerauk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meerauk/)*

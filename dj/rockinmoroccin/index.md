@@ -1,6 +1,6 @@
 # Rockin Moroccin
 
-Rockin Moroccin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KOKO, London on Fri, 30 Oct 2026.
+Rockin Moroccin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at KOKO, London on Fri, 30 Oct 2026.
 
 Rockin Moroccin is a house and techno artist based in Morocco, with 39 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside C.M.A., Guy Gerber and ARODES. Next up: KOKO, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rockin Moroccin is a house and techno artist based in Morocco, with 39 gigs on s
 
 C.M.A., Guy Gerber, ARODES
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rockinmoroccin/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rockinmoroccin/)*

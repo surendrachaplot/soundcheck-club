@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 15 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "mi-el presents Pulling Threads w/ Kelman Duran, ojoo, Lord Tusk" on Fri, 30 Oct 2026.
+Ormside Projects is a music venue in London with 18 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "mi-el presents Pulling Threads w/ Kelman Duran, ojoo, Lord Tusk" on Fri, 30 Oct 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Alba Akvama, Appleblim, Beatrice M. and Buckley (UK) and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Alba Akvama, Appleblim, Beatrice M. and Buckley (UK) and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gi
 | Sun, 8 Nov 2026 | FIREWORKS VI | Mica Levi |
 | Fri, 13 Nov 2026 | Manuka Honey Invites: Pochola / Oluwa / Kaanijo | Kaanijo, Manuka Honey, Pochola |
 | Sat, 14 Nov 2026 | Buckley Curates: Appleblim and Beatrice M | Appleblim, Beatrice M., Buckley (UK) |
-| Thu, 19 Nov 2026 | Automatic Album Launch | Rat Section |
+| Sun, 15 Nov 2026 | Diversion with Beatcrime Soundsystem | Cloud Management, Elijah Minnelli, Zoe Pea, sinny |
 
 ## Address
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

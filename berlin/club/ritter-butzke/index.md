@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "The Dark Disko" on Fri, 30 Oct 2026.
+Ritter Butzke is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "The Dark Disko" on Fri, 30 Oct 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including Aaron Hibell, Aio, Alan Fitzpatrick and Alex Stein and 2 more. See dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -17,10 +17,10 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming gigs,
 | Fri, 20 Nov 2026 | Mollono.Bass | LEENI, Mollono.Bass, vom Feisten |
 | Sat, 21 Nov 2026 | Klangkarussell pres. Bias Beach | Klangkarussell |
 | Sat, 21 Nov 2026 | Alan Fitzpatrick | Alan Fitzpatrick, NÚRIA (DE), Techmo |
-| Fri, 27 Nov 2026 | Soupherb vs psYsq | Anaïs-Lin, Ash Roy, Cosmik Konnection, Folic State, Krumelur, Surreal (DE), TheMuffinMan |
+| Fri, 27 Nov 2026 | Soupherb vs psYsq | Anaïs-Lin, Ash Roy, Cosmik Konnection, Folic State, Krumelur, Surreal (DE), The Muffin Man |
 
 ## Address
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

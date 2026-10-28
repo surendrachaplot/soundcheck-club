@@ -1,6 +1,6 @@
 # nastycrunch
 
-nastycrunch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Zvon, Prague on Sat, 31 Oct 2026.
+nastycrunch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Zvon, Prague on Sat, 31 Oct 2026.
 
 nastycrunch is a house and tech house artist based in Czech Republic, with 6 gigs on soundcheck across Prague. Often billed alongside Sam Gittis, Blen and Chad Andrew. Next up: Bar Zvon, Prague on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ nastycrunch is a house and tech house artist based in Czech Republic, with 6 gig
 
 Sam Gittis, Blen (3), Chad Andrew
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastycrunch/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastycrunch/)*

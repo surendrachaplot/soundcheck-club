@@ -1,6 +1,6 @@
 # UNACHAN
 
-UNACHAN is a House and Vaporwave artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at World Kyoto, Kyoto on Sat, 7 Nov 2026.
+UNACHAN is a House and Vaporwave artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at World Kyoto, Kyoto on Sat, 7 Nov 2026.
 
 UNACHAN is a house and vaporwave artist based in Japan, with 5 gigs on soundcheck across Kansai, Kyoto and Osaka. Often billed alongside KEIMIN, 9e_u and Lhinen. Next up: World Kyoto, Kyoto on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ UNACHAN is a house and vaporwave artist based in Japan, with 5 gigs on soundchec
 
 KEIMIN, 9e_u, Lhinen
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unachan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unachan/)*

@@ -1,6 +1,6 @@
 # HypoGeo
 
-HypoGeo is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Fri-Son, Switzerland on Sat, 19 Dec 2026.
+HypoGeo is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Fri-Son, Switzerland on Sat, 19 Dec 2026.
 
 HypoGeo is a psytrance and techno artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 4 more. Often billed alongside Ash Roy, Josephine Wedekind and Krumelur. Next up: Fri-Son, Switzerland on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ HypoGeo is a psytrance and techno artist based in Germany, with 15 gigs on sound
 
 Ash Roy, Josephine Wedekind, Krumelur
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypogeo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypogeo/)*

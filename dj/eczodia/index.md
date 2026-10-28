@@ -1,6 +1,6 @@
 # ECZODIA
 
-ECZODIA is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+ECZODIA is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
 ECZODIA is a techno and hardcore artist based in France, with 96 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 41 more. Often billed alongside LESSSS, OMAKS and Jacidorex. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ ECZODIA is a techno and hardcore artist based in France, with 96 gigs on soundch
 
 LESSSS, OMAKS, Jacidorex
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*

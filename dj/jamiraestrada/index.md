@@ -1,8 +1,8 @@
 # Jamira Estrada
 
-Jamira Estrada is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Cici Park, Chongqing on Fri, 30 Oct 2026.
+Jamira Estrada is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Cici Park, Chongqing on Fri, 30 Oct 2026.
 
-Jamira Estrada is a techno and bass artist based in Switzerland, with 78 gigs on soundcheck across Amsterdam, Bangkok, Basel and Beijing and 18 more. Often billed alongside NVST, fka phaedra and Manuel Fischer. Next up: Cici Park, Chongqing on Fri 30 Oct.
+Jamira Estrada is a techno and club artist based in Switzerland, with 79 gigs on soundcheck across Amsterdam, Bangkok, Basel and Beijing and 18 more. Often billed alongside NVST, fka phaedra and Manuel Fischer. Next up: Cici Park, Chongqing on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jamira Estrada is a techno and bass artist based in Switzerland, with 78 gigs on
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Cici Park | Chongqing |
 | Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |
+| Sat, 31 Oct 2026 | Heim Shanghai | Shanghai |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jamira Estrada is a techno and bass artist based in Switzerland, with 78 gigs on
 
 NVST, fka phaedra, Manuel Fischer
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiraestrada/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiraestrada/)*

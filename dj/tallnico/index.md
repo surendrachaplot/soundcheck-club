@@ -1,8 +1,8 @@
 # Tall Nico
 
-Tall Nico is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Grow, London on Thu, 31 Dec 2026.
+Tall Nico is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Grow, London on Thu, 31 Dec 2026.
 
-Tall Nico is a house and disco artist based in United Kingdom, with 21 gigs on soundcheck across Istanbul and London. Often billed alongside Alfie Panaiotis, Liminal People and ARLYSS. Next up: Grow, London on Thu 31 Dec.
+Tall Nico is a house and disco artist based in United Kingdom, with 21 gigs on soundcheck across Istanbul and London. Often billed alongside Alfie Panaiotis, Liminal People and Paloma (DJ). Next up: Grow, London on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Tall Nico is a house and disco artist based in United Kingdom, with 21 gigs on s
 
 ## Shares bills with
 
-Alfie Panaiotis, Liminal People, ARLYSS
+Alfie Panaiotis, Liminal People, Paloma (DJ)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tallnico/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tallnico/)*

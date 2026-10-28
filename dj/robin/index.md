@@ -1,6 +1,6 @@
 # Robin
 
-Robin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Signal, New York City on Sat, 7 Nov 2026.
+Robin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Signal, New York City on Sat, 7 Nov 2026.
 
 Robin is a house and techno artist, with 7 gigs on soundcheck across Athens, Brighton, Ibiza and Montreal and 3 more. Often billed alongside Alex Mills, Andrei Ciubuc and BEYA. Next up: Signal, New York City on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Robin is a house and techno artist, with 7 gigs on soundcheck across Athens, Bri
 
 Alex Mills, Andrei Ciubuc, BEYA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robin/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robin/)*

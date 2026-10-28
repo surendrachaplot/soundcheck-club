@@ -1,6 +1,6 @@
 # Unsho
 
-Unsho is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Badaboum, Paris on Fri, 30 Oct 2026.
+Unsho is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Badaboum, Paris on Fri, 30 Oct 2026.
 
 Unsho is a garage and bass artist based in France, with 30 gigs on soundcheck across Barcelona, Berlin, Bordeaux and London and 6 more. Often billed alongside Halfpipe Records, Me & George and Swoush. Next up: Badaboum, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Unsho is a garage and bass artist based in France, with 30 gigs on soundcheck ac
 
 Halfpipe Records, Me & George, Swoush
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unsho/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unsho/)*

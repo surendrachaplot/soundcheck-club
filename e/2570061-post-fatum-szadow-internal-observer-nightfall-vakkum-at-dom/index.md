@@ -1,6 +1,6 @@
 # POST FATUM: szadow - Internal Observer - Nightfall - Vakkum at Dom Technika
 
-POST FATUM: szadow - Internal Observer - Nightfall - Vakkum at Dom Technika on Fri 13 Nov, Poznan. 4 artists: Internal Observer, Nightfall, szadow and Vakkum. Techno and Ambient. See the line-up on soundcheck.
+POST FATUM: szadow - Internal Observer - Nightfall - Vakkum at Dom Technika on Fri 13 Nov, Poznan. 4 artists: Internal Observer, Nightfall, szadow and Vakkum. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RIMIX
 
-RIMIX is a Club and UK Funky artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tola, London on Sat, 7 Nov 2026.
+RIMIX is a Club and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tola, London on Sat, 7 Nov 2026.
 
 RIMIX is a club and uk funky artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside ABIMBOLA, Bindās and AfroLicious Mumma. Next up: Tola, London on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ RIMIX is a club and uk funky artist based in United Kingdom, with 8 gigs on soun
 
 ABIMBOLA, Bindās, AfroLicious Mumma
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rimix/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rimix/)*

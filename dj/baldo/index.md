@@ -1,8 +1,8 @@
 # Baldo
 
-Baldo is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Hertz, Seoul on Fri, 30 Oct 2026.
+Baldo is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hertz, Seoul on Fri, 30 Oct 2026.
 
-Baldo is a house and acid artist based in Spain, with 91 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 24 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Hertz, Seoul on Fri 30 Oct.
+Baldo is a house and acid artist based in Spain, with 92 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 25 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Hertz, Seoul on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Baldo is a house and acid artist based in Spain, with 91 gigs on soundcheck acro
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Hertz | Seoul |
 | Sat, 31 Oct 2026 | Clutch, Warehouse Bangkok | Bangkok |
+| Fri, 13 Nov 2026 | Circus Osaka | Osaka |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Baldo is a house and acid artist based in Spain, with 91 gigs on soundcheck acro
 
 Benjamin Fröhlich, Carlo, DJ Gamba
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*

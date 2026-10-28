@@ -1,6 +1,6 @@
 # MEAKIN
 
-MEAKIN is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at HQI, London on Fri, 30 Oct 2026.
+MEAKIN is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at HQI, London on Fri, 30 Oct 2026.
 
 MEAKIN is a techno and trance artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam and London. Often billed alongside MARIUS SEBASTIAN, MAXYM and I-DA. Next up: HQI, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ MEAKIN is a techno and trance artist based in United Kingdom, with 25 gigs on so
 
 MARIUS SEBASTIAN, MAXYM, I-DA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meakin/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meakin/)*

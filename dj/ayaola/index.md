@@ -1,6 +1,6 @@
 # AYAŌLA
 
-AYAŌLA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pogue Mahone, Toronto on Fri, 30 Oct 2026.
+AYAŌLA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pogue Mahone, Toronto on Fri, 30 Oct 2026.
 
 AYAŌLA is a house and techno artist, with 7 gigs on soundcheck across Toronto. Often billed alongside Addy, Bardia Ghobadi and Namito. Next up: Pogue Mahone, Toronto on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ AYAŌLA is a house and techno artist, with 7 gigs on soundcheck across Toronto. 
 
 Addy, Bardia Ghobadi, Namito
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayaola/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayaola/)*

@@ -1,6 +1,6 @@
 # Dhez
 
-Dhez is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Union Club, Vauxhall, London on Thu, 29 Oct 2026.
+Dhez is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Union Club, Vauxhall, London on Thu, 29 Oct 2026.
 
 Dhez is a techno and tech house artist based in United Kingdom, with 77 gigs on soundcheck across London. Often billed alongside Thomas Galbardi, Duwat? and Simone Sim. Next up: Union Club, Vauxhall, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Dhez is a techno and tech house artist based in United Kingdom, with 77 gigs on 
 
 Thomas Galbardi, Duwat?, Simone Sim
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhez/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhez/)*

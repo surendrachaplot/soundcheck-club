@@ -1,6 +1,6 @@
 # Katya Kóv
 
-Katya Kóv is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at B2 Rīga, Riga on Fri, 6 Nov 2026.
+Katya Kóv is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at B2 Rīga, Riga on Fri, 6 Nov 2026.
 
 Katya Kóv is a house and techno artist, with 18 gigs on soundcheck across Berlin, Bucharest, Riga and Sydney and 1 more. Often billed alongside Ksenia Kamikaza, RifRaf and Vio PRG. Next up: B2 Rīga, Riga on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Katya Kóv is a house and techno artist, with 18 gigs on soundcheck across Berli
 
 Ksenia Kamikaza, RifRaf, Vio PRG
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyakov/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyakov/)*

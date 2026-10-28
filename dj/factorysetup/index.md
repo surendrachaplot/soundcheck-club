@@ -1,14 +1,15 @@
 # Factory Setup
 
-Factory Setup is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Av. de las Americas 204, Guadalajara on Sat, 31 Oct 2026.
+Factory Setup is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Av. de las Americas 204, Guadalajara on Sat, 31 Oct 2026.
 
-Factory Setup is a house and techno artist based in Mexico, with 31 gigs on soundcheck across Amsterdam, Barcelona, Guadalajara and Madrid and 1 more. Often billed alongside Francia Oropeza, Rhomel and Alo. Next up: TBA - Av. de las Americas 204, Guadalajara on Sat 31 Oct.
+Factory Setup is a house and techno artist based in Mexico, with 32 gigs on soundcheck across Amsterdam, Barcelona, Guadalajara and Madrid and 2 more. Often billed alongside Francia Oropeza, Rhomel and Alo. Next up: TBA - Av. de las Americas 204, Guadalajara on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - Av. de las Americas 204 | Guadalajara |
+| Sun, 1 Nov 2026 | TBA | Nayarit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Factory Setup is a house and techno artist based in Mexico, with 31 gigs on soun
 
 Francia Oropeza, Rhomel, Alo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/factorysetup/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/factorysetup/)*

@@ -1,13 +1,14 @@
 # Black Coffee
 
-Black Coffee is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Carson Creek Ranch, Austin on Fri, 30 Oct 2026.
+Black Coffee is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ductwork Houston, Houston on Thu, 29 Oct 2026.
 
-Black Coffee is an afro house and house artist based in South Africa, with 307 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 60 more. Often billed alongside Damian Lazarus, Paul Reynolds and Skepta. Next up: Carson Creek Ranch, Austin on Fri 30 Oct.
+Black Coffee is an afro house and house artist based in South Africa, with 308 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 61 more. Often billed alongside Damian Lazarus, Paul Reynolds and Skepta. Next up: Ductwork Houston, Houston on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Ductwork Houston | Houston |
 | Fri, 30 Oct 2026 | Carson Creek Ranch | Austin |
 | Fri, 18 Dec 2026 | Cabo Beach Club | Cape-town |
 
@@ -26,4 +27,4 @@ Black Coffee is an afro house and house artist based in South Africa, with 307 g
 
 Damian Lazarus, Paul Reynolds, Skepta
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*

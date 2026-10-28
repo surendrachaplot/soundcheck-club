@@ -1,6 +1,6 @@
 # Dutch Courage
 
-Dutch Courage is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Haunted Halloween Glam Disco" on Sat, 31 Oct 2026.
+Dutch Courage is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Haunted Halloween Glam Disco" on Sat, 31 Oct 2026.
 
 Dutch Courage is a music venue in Baltimore listed on soundcheck. 1 upcoming gig, with line-ups including DJ ES and That Rob Macy. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Dutch Courage is a music venue in Baltimore listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Haunted Halloween Glam Disco | DJ ES, That Rob Macy |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/dutch-courage/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/dutch-courage/)*

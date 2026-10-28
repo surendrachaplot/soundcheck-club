@@ -1,6 +1,6 @@
 # Kantel
 
-Kantel is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 31 Oct 2026.
+Kantel is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 31 Oct 2026.
 
 Kantel is a house and dub techno artist based in Turkey, with 8 gigs on soundcheck across Istanbul. Often billed alongside Marc Gonen, Emir Sagiroglu and Ferhat Albayrak. Next up: Frankhan Selectist, Istanbul on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Kantel is a house and dub techno artist based in Turkey, with 8 gigs on soundche
 
 Marc Gonen, Emir Sagiroglu, Ferhat Albayrak
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kantel/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kantel/)*

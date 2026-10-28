@@ -1,6 +1,6 @@
 # Yanling
 
-Yanling is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Zurich on Sat, 14 Nov 2026.
+Yanling is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Zurich on Sat, 14 Nov 2026.
 
 Yanling is an ambient and experimental artist, with 19 gigs on soundcheck across Berlin, Munich and Zurich. Often billed alongside Byetone, Cryptofauna and Bunsen. Next up: TBA, Zurich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yanling is an ambient and experimental artist, with 19 gigs on soundcheck across
 
 Byetone, Cryptofauna, Bunsen
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanling/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanling/)*

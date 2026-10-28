@@ -1,6 +1,6 @@
 # Karmel Jäger
 
-Karmel Jäger is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 7 Nov 2026.
+Karmel Jäger is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 7 Nov 2026.
 
 Karmel Jäger is a techno and garage artist based in Australia, with 35 gigs on soundcheck across Berlin, London and Sydney. Often billed alongside Floga, S Smurf and Andrew Wowk. Next up: The Lord Gladstone, Sydney on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Karmel Jäger is a techno and garage artist based in Australia, with 35 gigs on 
 
 Floga, S Smurf, Andrew Wowk
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karmeljager/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karmeljager/)*

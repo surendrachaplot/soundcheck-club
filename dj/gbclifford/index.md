@@ -1,6 +1,6 @@
 # GBClifford
 
-GBClifford is a Industrial and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Uhelný Mlýn, Prague on Sat, 14 Nov 2026.
+GBClifford is a Industrial and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Uhelný Mlýn, Prague on Sat, 14 Nov 2026.
 
 GBClifford is an industrial and experimental artist, with 8 gigs on soundcheck across Berlin, Bratislava, Prague and Rome. Often billed alongside Edúv Syn, Exui and 96 Back. Next up: Uhelný Mlýn, Prague on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ GBClifford is an industrial and experimental artist, with 8 gigs on soundcheck a
 
 Edúv Syn, Exui, 96 Back
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gbclifford/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gbclifford/)*

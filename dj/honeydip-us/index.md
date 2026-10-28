@@ -1,6 +1,6 @@
 # Honey Dip
 
-Honey Dip is a Techno and Dembow artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 6 Dec 2026.
+Honey Dip is a Techno and Dembow artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 6 Dec 2026.
 
 Honey Dip is a techno and dembow artist based in United States of America, with 26 gigs on soundcheck across New York City and Zurich. Often billed alongside DADA COZMIC, Donis and Shyboi. Next up: Bossa Nova Civic Club, New York City on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Honey Dip is a techno and dembow artist based in United States of America, with 
 
 DADA COZMIC, Donis, Shyboi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydip-us/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydip-us/)*

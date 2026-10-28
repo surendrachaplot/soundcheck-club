@@ -1,13 +1,14 @@
 # LETRIX
 
-LETRIX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Teritorija, Riga on Fri, 4 Dec 2026.
+LETRIX is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at B2 Rīga, Riga on Sat, 14 Nov 2026.
 
-LETRIX is a techno and house artist based in Latvia, with 9 gigs on soundcheck across Riga. Often billed alongside ANASI, Kelvin and Notwelcome. Next up: Teritorija, Riga on Fri 4 Dec.
+LETRIX is a techno and house artist based in Latvia, with 10 gigs on soundcheck across Riga. Often billed alongside ANASI, Kapusta and Kelvin. Next up: B2 Rīga, Riga on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | B2 Rīga | Riga |
 | Fri, 4 Dec 2026 | Teritorija | Riga |
 | Fri, 11 Dec 2026 | Teritorija | Riga |
 
@@ -23,6 +24,6 @@ LETRIX is a techno and house artist based in Latvia, with 9 gigs on soundcheck a
 
 ## Shares bills with
 
-ANASI, Kelvin, Notwelcome
+ANASI, Kapusta, Kelvin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/letrix/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/letrix/)*

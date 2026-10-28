@@ -1,6 +1,6 @@
 # Lightbox
 
-Lightbox is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Hip Hop Halloween" on Thu, 29 Oct 2026.
+Lightbox is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Hip Hop Halloween" on Thu, 29 Oct 2026.
 
 Lightbox is a music venue in London listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom.
 
@@ -17,4 +17,4 @@ Lightbox is a music venue in London listed on soundcheck. 4 upcoming gigs. See d
 
 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/lightbox/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/lightbox/)*

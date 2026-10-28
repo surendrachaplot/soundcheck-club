@@ -1,6 +1,6 @@
 # Sonho
 
-Sonho is a Minimal Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
+Sonho is a Minimal Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
 
 Sonho is a minimal techno and techno artist, with 38 gigs on soundcheck across Berlin, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Is Kill, eosap and BAYNE. Next up: Union Club, Vauxhall, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Sonho is a minimal techno and techno artist, with 38 gigs on soundcheck across B
 
 Is Kill, eosap, BAYNE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonho/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonho/)*

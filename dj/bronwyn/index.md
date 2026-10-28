@@ -1,6 +1,6 @@
 # Bronwyn
 
-Bronwyn is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Cosies, Bristol on Sat, 7 Nov 2026.
+Bronwyn is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Cosies, Bristol on Sat, 7 Nov 2026.
 
 Bronwyn is a bass and techno artist based in Canada, with 15 gigs on soundcheck across Bristol, Calgary, Dublin and London and 1 more. Often billed alongside Vasho, cy.matic and IHA (CA). Next up: Cosies, Bristol on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Bronwyn is a bass and techno artist based in Canada, with 15 gigs on soundcheck 
 
 Vasho, cy.matic, IHA (CA)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn/)*

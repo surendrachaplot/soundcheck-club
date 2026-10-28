@@ -1,6 +1,6 @@
 # Rikuto Shibazaki
 
-Rikuto Shibazaki is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Enter Shibuya, Tokyo on Wed, 4 Nov 2026.
+Rikuto Shibazaki is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Enter Shibuya, Tokyo on Wed, 4 Nov 2026.
 
 Rikuto Shibazaki is a techno and bass artist based in Japan, with 60 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Rikuto, shimosoma and Kotaro Shimizu. Next up: Enter Shibuya, Tokyo on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Rikuto Shibazaki is a techno and bass artist based in Japan, with 60 gigs on sou
 
 Rikuto, shimosoma, Kotaro Shimizu
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikutoshibazaki/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikutoshibazaki/)*

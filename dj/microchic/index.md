@@ -1,8 +1,8 @@
 # Microchic
 
-Microchic is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 30 Oct 2026.
+Microchic is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 30 Oct 2026.
 
-Microchic is a techno and bass artist, with 22 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside silver pearl, atomal and BBK. Next up: Ankali & Planeta Za, Prague on Fri 30 Oct.
+Microchic is a techno and bass artist based in Slovakia, with 22 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside silver pearl, atomal and BBK. Next up: Ankali & Planeta Za, Prague on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Microchic is a techno and bass artist, with 22 gigs on soundcheck across Berlin,
 
 silver pearl, atomal, BBK
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microchic/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microchic/)*

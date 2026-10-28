@@ -1,6 +1,6 @@
 # Planetary Assault Systems
 
-Planetary Assault Systems is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mia Mao, Paris on Fri, 30 Oct 2026.
+Planetary Assault Systems is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mia Mao, Paris on Fri, 30 Oct 2026.
 
 Planetary Assault Systems is a techno and electronica artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Fadi Mohem, DJ Red and DVS1. Next up: Mia Mao, Paris on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Planetary Assault Systems is a techno and electronica artist based in United Kin
 
 Fadi Mohem, DJ Red, DVS1
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetaryassaultsystems/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetaryassaultsystems/)*

@@ -1,6 +1,6 @@
 # Maximilian Foit
 
-Maximilian Foit is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at SASS Music Club, Vienna on Sat, 31 Oct 2026.
+Maximilian Foit is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at SASS Music Club, Vienna on Sat, 31 Oct 2026.
 
 Maximilian Foit is a house and tech house artist based in Austria, with 18 gigs on soundcheck across Ljubljana, Nürnberg, Vienna and Zagreb. Often billed alongside dj.eesy, Stipo and Apua. Next up: SASS Music Club, Vienna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Maximilian Foit is a house and tech house artist based in Austria, with 18 gigs 
 
 dj.eesy, Stipo, Apua
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilianfoit-at/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilianfoit-at/)*

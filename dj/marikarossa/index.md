@@ -1,6 +1,6 @@
 # Marika Rossa
 
-Marika Rossa is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat, 31 Oct 2026.
+Marika Rossa is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat, 31 Oct 2026.
 
 Marika Rossa is a techno and industrial artist based in Ukraine, with 34 gigs on soundcheck across Athens, Barcelona, Bavaria and Berlin and 18 more. Often billed alongside Alchemiah, Patrik Berg and Anina Owly. Next up: TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Marika Rossa is a techno and industrial artist based in Ukraine, with 34 gigs on
 
 Alchemiah, Patrik Berg, Anina Owly
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marikarossa/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marikarossa/)*

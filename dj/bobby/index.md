@@ -1,8 +1,8 @@
 # Bobby.
 
-Bobby. is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Outer Heaven, New York City on Thu, 29 Oct 2026.
+Bobby. is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Outer Heaven, New York City on Thu, 29 Oct 2026.
 
-Bobby. is a techno and house artist based in United Kingdom, with 149 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 33 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Outer Heaven, New York City on Thu 29 Oct.
+Bobby. is a techno and house artist based in United Kingdom, with 150 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 34 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Outer Heaven, New York City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Bobby. is a techno and house artist based in United Kingdom, with 149 gigs on so
 | Sat, 14 Nov 2026 | Eiger Studios | Leeds |
 | Fri, 20 Nov 2026 | Kapsule | Liverpool |
 | Sat, 5 Dec 2026 | fabric | London |
+| Fri, 1 Jan 2027 | REC Napoli | Naples |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Bobby. is a techno and house artist based in United Kingdom, with 149 gigs on so
 
 Craig Richards, Mariiin, Harry McCanna
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*

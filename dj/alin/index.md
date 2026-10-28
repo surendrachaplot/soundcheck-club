@@ -1,6 +1,6 @@
 # Alin
 
-Alin is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Dunia, Istanbul on Fri, 30 Oct 2026.
+Alin is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Dunia, Istanbul on Fri, 30 Oct 2026.
 
 Alin is a minimal and techno artist based in Denmark, with 12 gigs on soundcheck across Chengdu, Copenhagen and Istanbul. Often billed alongside Ricq, Lentza and Thodén. Next up: Dunia, Istanbul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alin is a minimal and techno artist based in Denmark, with 12 gigs on soundcheck
 
 Ricq, Lentza, Thodén
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alin/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alin/)*

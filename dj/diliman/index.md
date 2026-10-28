@@ -1,6 +1,6 @@
 # Diliman
 
-Diliman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KALT, Strasbourg on Sat, 7 Nov 2026.
+Diliman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at KALT, Strasbourg on Sat, 7 Nov 2026.
 
 Diliman is a techno and house artist, with 30 gigs on soundcheck across Strasbourg. Often billed alongside Chill (FR), Halès and Legba. Next up: KALT, Strasbourg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Diliman is a techno and house artist, with 30 gigs on soundcheck across Strasbou
 
 Chill (FR), Halès, Legba
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diliman/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diliman/)*

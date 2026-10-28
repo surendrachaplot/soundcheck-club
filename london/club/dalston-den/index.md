@@ -1,8 +1,8 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 13 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Spooky Open Decks" on Wed, 28 Oct 2026.
+Dalston Den is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Spooky Open Decks" on Wed, 28 Oct 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Adela, AKWA, Amy Kisnorbo and CalvoMusic and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Adela, AKWA, Amy Kisnorbo and CalvoMusic and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Dalston Den is a music venue in London listed on soundcheck. 13 upcoming gigs, w
 | Fri, 20 Nov 2026 | Talking Stage: FLINTA Club Night | TIRTA |
 | Sat, 21 Nov 2026 | RL0002: Sean Harte Rigney, DJ Shardz, Lou King, Michael Chéri |  |
 | Fri, 27 Nov 2026 | Breakaway: Autumn Residency Closing Party - Jungle / Drum & Bass |  |
-| Fri, 4 Dec 2026 | EYG x D2S: Amy Kisnorbo, CalvoMusic & Tah | Amy Kisnorbo, CalvoMusic, Carma, Tah (1) |
+| Sat, 28 Nov 2026 | FunkYouUp - Danger In The Den |  |
 
 ## Address
 
 91-93 Kingsland High Street, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

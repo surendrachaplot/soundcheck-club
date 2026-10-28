@@ -1,14 +1,15 @@
 # SOLIT
 
-SOLIT is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 31 Oct 2026.
+SOLIT is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 31 Oct 2026.
 
-SOLIT is a house and deep house artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Berlin and Nottingham. Often billed alongside Kyra Khaldi, Merel Helderman and Boris Coelman. Next up: Shelter Amsterdam, Amsterdam on Sat 31 Oct.
+SOLIT is a house and deep house artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Nottingham. Often billed alongside Kyra Khaldi, Merel Helderman and Boris Coelman. Next up: Shelter Amsterdam, Amsterdam on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Shelter Amsterdam | Amsterdam |
+| Sat, 21 Nov 2026 | WARRECORDS | Antwerp |
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ SOLIT is a house and deep house artist based in Netherlands, with 34 gigs on sou
 
 Kyra Khaldi, Merel Helderman, Boris Coelman
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solit/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solit/)*

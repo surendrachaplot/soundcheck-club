@@ -1,6 +1,6 @@
 # Marian
 
-Marian is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
+Marian is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
 
 Marian is a tech house and house artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Boston, Ibiza and Miami and 1 more. Often billed alongside ART NO LOGIA, Abdon and Aca [RO]. Next up: Factory Town, Miami on Thu 3 Dec.
 
@@ -23,4 +23,4 @@ Marian is a tech house and house artist based in Germany, with 7 gigs on soundch
 
 ART NO LOGIA, Abdon, Aca [RO]
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marian/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marian/)*

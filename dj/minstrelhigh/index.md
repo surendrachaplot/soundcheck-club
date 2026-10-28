@@ -1,6 +1,6 @@
 # Minstrel High
 
-Minstrel High is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at IED Milan, Milan on Fri, 27 Nov 2026.
+Minstrel High is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at IED Milan, Milan on Fri, 27 Nov 2026.
 
 Minstrel High is a house and tech house artist based in Netherlands, with 13 gigs on soundcheck across Barcelona, Ibiza, Istanbul and Milan and 1 more. Often billed alongside Yezz. Next up: IED Milan, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Minstrel High is a house and tech house artist based in Netherlands, with 13 gig
 
 Yezz
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minstrelhigh/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minstrelhigh/)*

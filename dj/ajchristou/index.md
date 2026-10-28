@@ -1,6 +1,6 @@
 # AJ Christou
 
-AJ Christou is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 6 Nov 2026.
+AJ Christou is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 6 Nov 2026.
 
 AJ Christou is a tech house and house artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 28 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Bar Oriente, Mexico City on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ AJ Christou is a tech house and house artist based in United Kingdom, with 117 g
 
 Mason Collective, Fleur Shore, Jesse Calosso
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*

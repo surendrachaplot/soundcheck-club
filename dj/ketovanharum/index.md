@@ -1,6 +1,6 @@
 # Keto van Harum
 
-Keto van Harum is a Afro Tech and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
+Keto van Harum is a Afro Tech and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
 
 Keto van Harum is an afro tech and house artist based in Romania, with 6 gigs on soundcheck across Bucharest, Ibiza and Romania. Often billed alongside Em i6, ALMOST HUMAN and Ashley Brickell. Next up: TBA, Romania on Fri 18 Jun.
 
@@ -22,4 +22,4 @@ Keto van Harum is an afro tech and house artist based in Romania, with 6 gigs on
 
 Em i6, ALMOST HUMAN, Ashley Brickell
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketovanharum/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketovanharum/)*

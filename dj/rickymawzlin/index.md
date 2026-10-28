@@ -1,6 +1,6 @@
 # Ricky Mawzlin
 
-Ricky Mawzlin is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Collapse, Pittsburgh on Fri, 6 Nov 2026.
+Ricky Mawzlin is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Collapse, Pittsburgh on Fri, 6 Nov 2026.
 
 Ricky Mawzlin is a house and italo disco artist based in United States of America, with 67 gigs on soundcheck across Berlin, Ho Chi Minh City, London and Mexico City and 5 more. Often billed alongside Formosa, Jellyfish and smoko.world. Next up: Collapse, Pittsburgh on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ricky Mawzlin is a house and italo disco artist based in United States of Americ
 
 Formosa (1), Jellyfish, smoko.world
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymawzlin/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymawzlin/)*

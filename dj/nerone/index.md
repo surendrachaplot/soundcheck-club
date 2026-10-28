@@ -1,6 +1,6 @@
 # Nerone
 
-Nerone is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 18 Dec 2026.
+Nerone is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 18 Dec 2026.
 
 Nerone is a hip-hop and techno artist, with 6 gigs on soundcheck across London, Milan and Sofia. Often billed alongside Egor Sintsoff, Vorick and ALT8. Next up: Inter Expo Centre, Sofia on Fri 18 Dec.
 
@@ -22,4 +22,4 @@ Nerone is a hip-hop and techno artist, with 6 gigs on soundcheck across London, 
 
 Egor Sintsoff, Vorick, ALT8
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nerone/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nerone/)*

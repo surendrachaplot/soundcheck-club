@@ -1,6 +1,6 @@
 # MAF
 
-MAF is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Macarena Club, Barcelona on Wed, 11 Nov 2026.
+MAF is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Macarena Club, Barcelona on Wed, 11 Nov 2026.
 
 MAF is a house and tech house artist based in Venezuela, with 36 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Brizas, Brieela and Paul Wolsch. Next up: Macarena Club, Barcelona on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ MAF is a house and tech house artist based in Venezuela, with 36 gigs on soundch
 
 Brizas, Brieela, Paul Wolsch
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maf/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maf/)*

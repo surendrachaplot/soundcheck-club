@@ -1,6 +1,6 @@
 # Gabrielle Rites /
 
-Gabrielle Rites / is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat, 14 Nov 2026.
+Gabrielle Rites / is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat, 14 Nov 2026.
 
 Gabrielle Rites / is a techno and industrial artist based in Georgia, with 36 gigs on soundcheck across Barcelona, Berlin, Budapest and Copenhagen and 8 more. Often billed alongside Tham, Acierate and Lorenzo Raganzini. Next up: TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Gabrielle Rites / is a techno and industrial artist based in Georgia, with 36 gi
 
 Tham, Acierate, Lorenzo Raganzini
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellerites/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellerites/)*

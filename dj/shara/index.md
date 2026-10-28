@@ -1,6 +1,6 @@
 # SHARA
 
-SHARA is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 31 Oct 2026.
+SHARA is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 31 Oct 2026.
 
 SHARA is an experimental and house artist, with 16 gigs on soundcheck across Chengdu, Milan and New York City. Often billed alongside Maple Juice, AIN'T GEORGE and Afrikan Sciences. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SHARA is an experimental and house artist, with 16 gigs on soundcheck across Che
 
 Maple Juice, AIN'T GEORGE, Afrikan Sciences
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shara/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shara/)*

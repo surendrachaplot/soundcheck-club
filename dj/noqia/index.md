@@ -1,6 +1,6 @@
 # NOQIA
 
-NOQIA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
+NOQIA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
 
 NOQIA is a techno and trance artist based in Portugal, with 14 gigs on soundcheck across Lisbon and Vienna. Often billed alongside GADDAM, GTH (FR) and DIMENSION 9. Next up: Kømplex Lisbon, Lisbon on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ NOQIA is a techno and trance artist based in Portugal, with 14 gigs on soundchec
 
 GADDAM, GTH (FR), DIMENSION 9
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noqia/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noqia/)*

@@ -1,11 +1,15 @@
 # Elektronisch Draussen – Unterdeck Session at Fridas Pier
 
-Elektronisch Draussen – Unterdeck Session at Fridas Pier on Sat 7 Nov, Stuttgart. Progressive House and Tech House. See the line-up on soundcheck.
+Elektronisch Draussen – Unterdeck Session at Fridas Pier on Sat 7 Nov, Stuttgart. 1 artist: Samy Bell. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 7 Nov 2026 |
 | Venue | Fridas Pier |
 | City | Stuttgart |
+
+## Line-up
+
+- Samy Bell
 
 *Source: [soundcheck](https://soundcheck.club/e/2535001-elektronisch-draussen-unterdeck-session-at-fridas-pier/)*

@@ -1,6 +1,6 @@
 # SHEE
 
-SHEE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Cause, London on Fri, 30 Oct 2026.
+SHEE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Cause, London on Fri, 30 Oct 2026.
 
 SHEE is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 18 more. Often billed alongside Prospa, salute and DJ Heartstring. Next up: The Cause, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ SHEE is a house and techno artist based in United Kingdom, with 56 gigs on sound
 
 Prospa, salute, DJ Heartstring
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*

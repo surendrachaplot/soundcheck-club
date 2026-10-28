@@ -1,6 +1,6 @@
 # Sournois
 
-Sournois is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 31 Oct 2026.
+Sournois is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 31 Oct 2026.
 
 Sournois is a techno and house artist based in Poland, with 27 gigs on soundcheck across Berlin, Hamburg, Krakow and Poznan and 3 more. Often billed alongside Dizzy (PL), AregV and Drumaddition. Next up: STK 47 WAREHOUSE, Krakow on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Sournois is a techno and house artist based in Poland, with 27 gigs on soundchec
 
 Dizzy (PL), AregV, Drumaddition
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sournois/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sournois/)*

@@ -1,6 +1,6 @@
 # JOMA (2)
 
-JOMA (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at VENT, Tokyo on Fri, 30 Oct 2026.
+JOMA (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at VENT, Tokyo on Fri, 30 Oct 2026.
 
 JOMA is a techno and house artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside manato, Claudio PRC and DANA NADA. Next up: VENT, Tokyo on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ JOMA is a techno and house artist based in Japan, with 4 gigs on soundcheck acro
 
 manato, Claudio PRC, DANA NADA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joma-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joma-2/)*

@@ -1,6 +1,6 @@
 # Rein (NL)
 
-Rein (NL) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 7 Nov 2026.
+Rein (NL) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 7 Nov 2026.
 
 Rein (NL) is a techno artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and The Hague and 1 more. Often billed alongside BALAI, DJ Perroz and RobertS (NL). Next up: Now&Wow, Rotterdam on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Rein (NL) is a techno artist based in Netherlands, with 6 gigs on soundcheck acr
 
 BALAI, DJ Perroz, RobertS (NL)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinnl/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinnl/)*

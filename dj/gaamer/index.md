@@ -1,13 +1,14 @@
 # Gaamer
 
-Gaamer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Minimal Bar, Berlin on Sat, 19 Dec 2026.
+Gaamer is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - AMOR by SALVAJE, Dubai on Fri, 30 Oct 2026.
 
-Gaamer is a house and techno artist based in Germany, with 39 gigs on soundcheck across Berlin, Hamburg, Prague and Tbilisi and 1 more. Often billed alongside Terje Bakke, Alfret and Anri. Next up: Minimal Bar, Berlin on Sat 19 Dec.
+Gaamer is a house and minimal artist based in Germany, with 40 gigs on soundcheck across Berlin, Dubai, Hamburg and Prague and 2 more. Often billed alongside Terje Bakke, Alfret and Anri. Next up: TBA - AMOR by SALVAJE, Dubai on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | TBA - AMOR by SALVAJE | Dubai |
 | Sat, 19 Dec 2026 | Minimal Bar | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gaamer is a house and techno artist based in Germany, with 39 gigs on soundcheck
 
 Terje Bakke, Alfret, Anri
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaamer/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaamer/)*

@@ -1,6 +1,6 @@
 # Aiste Regina
 
-Aiste Regina is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at LED Unit, Riga on Fri, 30 Oct 2026.
+Aiste Regina is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at LED Unit, Riga on Fri, 30 Oct 2026.
 
 Aiste Regina is a house and techno artist, with 56 gigs on soundcheck across Berlin, Guadalajara, London and Lyon and 5 more. Often billed alongside Donatas Chipak, Clicklounge and Roe Deers. Next up: LED Unit, Riga on Fri 30 Oct.
 
@@ -9,7 +9,7 @@ Aiste Regina is a house and techno artist, with 56 gigs on soundcheck across Ber
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | LED Unit | Riga |
-| Thu, 31 Dec 2026 | Gallery 1986 | Vilnius |
+| Thu, 31 Dec 2026 | gallery 1986 | Vilnius |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Aiste Regina is a house and techno artist, with 56 gigs on soundcheck across Ber
 
 Donatas Chipak, Clicklounge, Roe Deers
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aisteregina/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aisteregina/)*

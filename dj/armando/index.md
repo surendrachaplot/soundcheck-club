@@ -1,6 +1,6 @@
 # ARMANDO
 
-ARMANDO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at BASE Milano, Milan on Sat, 31 Oct 2026.
+ARMANDO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at BASE Milano, Milan on Sat, 31 Oct 2026.
 
 ARMANDO is a techno and house artist based in Portugal, with 36 gigs on soundcheck across Berlin, London, Milan and Stuttgart. Often billed alongside IKIIR, Hertz Collision and Lady Goccia. Next up: BASE Milano, Milan on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ ARMANDO is a techno and house artist based in Portugal, with 36 gigs on soundche
 
 IKIIR, Hertz Collision, Lady Goccia
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*

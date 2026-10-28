@@ -1,6 +1,6 @@
 # Klub Under
 
-Klub Under is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "SARIN LIVE" on Fri, 20 Nov 2026.
+Klub Under is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "SARIN LIVE" on Fri, 20 Nov 2026.
 
 Klub Under is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including SARIN. See dates, start times and who's playing. Ruzveltova 1, Belgrade, Serbia.
 
@@ -14,4 +14,4 @@ Klub Under is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, wi
 
 Ruzveltova 1, Belgrade, Serbia, Belgrade
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/klub-under/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/klub-under/)*

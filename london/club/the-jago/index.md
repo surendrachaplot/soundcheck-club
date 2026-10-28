@@ -1,6 +1,6 @@
 # The Jago
 
-The Jago is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Selectors Support Fundraiser For Club Soda: Night of The Living Dead " on Fri, 30 Oct 2026.
+The Jago is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Selectors Support Fundraiser For Club Soda: Night of The Living Dead " on Fri, 30 Oct 2026.
 
 The Jago is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Joseph Russell and Moova. See dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
@@ -17,4 +17,4 @@ The Jago is a music venue in London listed on soundcheck. 4 upcoming gigs, with 
 
 440 Kingsland Road, E8 4AA London, United Kingdom, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jago/)*

@@ -1,6 +1,6 @@
 # GRACE..
 
-GRACE.. is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hackney Bridge, London on Fri, 4 Dec 2026.
+GRACE.. is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hackney Bridge, London on Fri, 4 Dec 2026.
 
 GRACE.. is a house and club artist, with 17 gigs on soundcheck across Leeds, London and Osaka. Often billed alongside Cable!, Jamie Joy and dOnüt. Next up: Hackney Bridge, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ GRACE.. is a house and club artist, with 17 gigs on soundcheck across Leeds, Lon
 
 Cable!, Jamie Joy, dOnüt
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grace../)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grace../)*

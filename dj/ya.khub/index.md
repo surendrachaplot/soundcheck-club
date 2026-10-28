@@ -1,6 +1,6 @@
 # ya.khub
 
-ya.khub is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at SCHRON, Poznan on Fri, 20 Nov 2026.
+ya.khub is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at SCHRON, Poznan on Fri, 20 Nov 2026.
 
 ya.khub is a techno and bass artist based in Poland, with 36 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Alegria, Bambi Uzi and Kubok. Next up: SCHRON, Poznan on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ya.khub is a techno and bass artist based in Poland, with 36 gigs on soundcheck 
 
 Alegria, Bambi Uzi, Kubok
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ya.khub/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ya.khub/)*

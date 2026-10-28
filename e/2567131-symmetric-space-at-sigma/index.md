@@ -1,6 +1,6 @@
 # Symmetric Space at Sigma
 
-Symmetric Space at Sigma on Sat 7 Nov, Ibiza. 3 artists: Fiama Molina, Gune 909 and SEMREH. Techno and Minimal Techno. See the line-up on soundcheck.
+Symmetric Space at Sigma on Sat 7 Nov, Ibiza. 5 artists: AntZ, Gune 909, Julo and Miramontes and 1 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ Symmetric Space at Sigma on Sat 7 Nov, Ibiza. 3 artists: Fiama Molina, Gune 909 
 
 ## Line-up
 
-- Fiama Molina
+- AntZ (2)
 - Gune 909
+- Julo
+- Miramontes
 - SEMREH
 
 *Source: [soundcheck](https://soundcheck.club/e/2567131-symmetric-space-at-sigma/)*

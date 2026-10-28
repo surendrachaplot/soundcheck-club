@@ -1,6 +1,6 @@
 # Kenzø
 
-Kenzø is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Slow Club, Barcelona on Sat, 14 Nov 2026.
+Kenzø is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Slow Club, Barcelona on Sat, 14 Nov 2026.
 
 Kenzø is a tech house and house artist, with 53 gigs on soundcheck across Barcelona, Madrid, Naples and Rome. Often billed alongside D.T.H., Icey and Alex Bohemien. Next up: Slow Club, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kenzø is a tech house and house artist, with 53 gigs on soundcheck across Barce
 
 D.T.H., Icey, Alex Bohemien
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzo-es/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzo-es/)*

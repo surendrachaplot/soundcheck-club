@@ -1,6 +1,6 @@
 # Veri Peri
 
-Veri Peri is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
+Veri Peri is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
 
 Veri Peri is a techno and club artist based in United States of America, with 32 gigs on soundcheck across Chicago. Often billed alongside Flores Negras, JULLS and Jon McCray. Next up: TBA, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Veri Peri is a techno and club artist based in United States of America, with 32
 
 Flores Negras, JULLS, Jon McCray
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veriperi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veriperi/)*

@@ -1,6 +1,6 @@
 # Hemei
 
-Hemei is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Paris on Fri, 30 Oct 2026.
+Hemei is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Paris on Fri, 30 Oct 2026.
 
 Hemei is a techno and trance artist based in France, with 25 gigs on soundcheck across Nantes and Paris. Often billed alongside K0uci, Otezuka and Kinokosan. Next up: TBA, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Hemei is a techno and trance artist based in France, with 25 gigs on soundcheck 
 
 K0uci, Otezuka, Kinokosan
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemei/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemei/)*

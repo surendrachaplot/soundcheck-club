@@ -1,8 +1,8 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Techno City - Devil's Night Edition" on Fri, 30 Oct 2026.
+Lincoln Factory is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Techno City - Devil's Night Edition" on Fri, 30 Oct 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including Blake Baxter, Carl Craig, Dasha Rush and Detroit In Effect and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including Ataxia, Blackmoonchild, Blake Baxter and Carl Craig and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
@@ -12,6 +12,8 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 7 upcoming gig
 | Sat, 31 Oct 2026 | Nightmare on Holden Street 2 | DJ Godfather, Detroit In Effect, Disc Jockey George, Dru Ruiz, Rebecca Goldberg, Sheefy McFly, Silverdome Boyz, something blue |
 | Fri, 6 Nov 2026 | Mark Broom, Sard (live), Zoe Talley | Mark Broom, Sard, Zoe Talley |
 | Sat, 7 Nov 2026 | Skream - Open to Close Tour | Skream |
+| Fri, 13 Nov 2026 | GHETTOTECHTOPIA | Blackmoonchild, Isaac Prieto, Sheefy McFly |
+| Fri, 13 Nov 2026 | Mathew Jonson, Shaun Reeves, Nicolas Matar, Ataxia + Mister Joshooa | Ataxia, Mathew Jonson, Mister Joshooa, Nicolas Matar, Shaun Reeves |
 | Sat, 14 Nov 2026 | Dasha Rush - Luke Hess - Lincoln Factory | Dasha Rush, Luke Hess |
 | Sat, 28 Nov 2026 | Detroit Love - Carl Craig b2b Seth Troxler | Carl Craig, Seth Troxler, Silverdome Boyz |
 | Sat, 5 Dec 2026 | Mija - USA Fall Tour | Mija |
@@ -20,4 +22,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 7 upcoming gig
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

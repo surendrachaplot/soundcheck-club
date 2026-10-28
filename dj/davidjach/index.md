@@ -1,6 +1,6 @@
 # David Jach
 
-David Jach is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Circie, Dresden on Sat, 31 Oct 2026.
+David Jach is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Circie, Dresden on Sat, 31 Oct 2026.
 
 David Jach is a house and techno artist, with 31 gigs on soundcheck across Barcelona, Berlin, Dresden and Frankfurt and 4 more. Often billed alongside Alessia Ceruti, Steven Cock and Tschini. Next up: Circie, Dresden on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ David Jach is a house and techno artist, with 31 gigs on soundcheck across Barce
 
 Alessia Ceruti, Steven Cock, Tschini
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjach/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjach/)*

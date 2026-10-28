@@ -1,6 +1,6 @@
 # Cassius
 
-Cassius is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 30 Oct 2026.
+Cassius is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 30 Oct 2026.
 
 Cassius is a house and techno artist based in France, with 54 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Myd, Busy P and LB aka LABAT. Next up: Pumpehuset, Copenhagen on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Cassius is a house and techno artist based in France, with 54 gigs on soundcheck
 
 Myd, Busy P, LB aka LABAT
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*

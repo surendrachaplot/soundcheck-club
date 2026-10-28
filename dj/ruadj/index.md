@@ -1,6 +1,6 @@
 # RUA DJ
 
-RUA DJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sneaky Pete's, Edinburgh on Mon, 30 Nov 2026.
+RUA DJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sneaky Pete's, Edinburgh on Mon, 30 Nov 2026.
 
 RUA DJ is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Edinburgh, Glasgow, London and Manchester. Often billed alongside Mixfits, FITS ME FUNNY and Jodie Mooney. Next up: Sneaky Pete's, Edinburgh on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ RUA DJ is a techno and house artist based in United Kingdom, with 16 gigs on sou
 
 Mixfits (2), FITS ME FUNNY, Jodie Mooney
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruadj/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruadj/)*

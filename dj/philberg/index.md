@@ -1,14 +1,13 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at AUX Club, Athens on Tue, 27 Oct 2026.
+Phil Berg is a Techno and Club artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
 
-Phil Berg is a techno and club artist based in Germany, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: AUX Club, Athens on Tue 27 Oct.
+Phil Berg is a techno and club artist based in Germany, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 27 Oct 2026 | AUX Club | Athens |
 | Fri, 30 Oct 2026 | TBA - Tirana | Tirana |
 | Sat, 31 Oct 2026 | Klub Progresja | Warsaw |
 | Sat, 7 Nov 2026 | Concept Haus | Manchester |
@@ -19,6 +18,7 @@ Phil Berg is a techno and club artist based in Germany, with 165 gigs on soundch
 
 ## Recently played
 
+- AUX Club, Athens · Tue, 27 Oct 2026
 - Bajes Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Blast Galaxy, Amsterdam · Fri, 23 Oct 2026
 - TILLATEC, Amsterdam · Thu, 22 Oct 2026
@@ -26,10 +26,9 @@ Phil Berg is a techno and club artist based in Germany, with 165 gigs on soundch
 - RSO.BERLIN, Berlin · Sat, 17 Oct 2026
 - Village Underground Lisboa, Lisbon · Sat, 10 Oct 2026
 - Mooi Space, Toronto · Sat, 3 Oct 2026
-- Stereo, Montreal · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Lobster (NL), future.666, Grace Dahl
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*

@@ -1,6 +1,6 @@
 # Acid Astrid
 
-Acid Astrid is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Macarena Club, Barcelona on Mon, 16 Nov 2026.
+Acid Astrid is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Macarena Club, Barcelona on Mon, 16 Nov 2026.
 
 Acid Astrid is an electro and house artist based in France, with 7 gigs on soundcheck across Barcelona, London, Paris and Toulouse. Often billed alongside DJ Beluga92, Vigilance Zero and 42nd Avenue. Next up: Macarena Club, Barcelona on Mon 16 Nov.
 
@@ -23,4 +23,4 @@ Acid Astrid is an electro and house artist based in France, with 7 gigs on sound
 
 DJ Beluga92, Vigilance Zero, 42nd Avenue
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidastrid/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidastrid/)*

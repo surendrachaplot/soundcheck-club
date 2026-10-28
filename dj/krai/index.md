@@ -1,6 +1,6 @@
 # Krai
 
-Krai is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at De Sering, Amsterdam on Sat, 21 Nov 2026.
+Krai is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at De Sering, Amsterdam on Sat, 21 Nov 2026.
 
 Krai is an experimental and ambient artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Berlin and Copenhagen. Often billed alongside Celeb, EVER and Sueuga. Next up: De Sering, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Krai is an experimental and ambient artist based in Netherlands, with 13 gigs on
 
 Celeb, EVER, Sueuga
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krai/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krai/)*

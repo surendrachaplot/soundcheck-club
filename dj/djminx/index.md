@@ -1,6 +1,6 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Spirit, Pittsburgh on Sat, 31 Oct 2026.
+DJ Minx is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Spirit, Pittsburgh on Sat, 31 Oct 2026.
 
 DJ Minx is a house and techno artist based in United States of America, with 203 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 37 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Spirit, Pittsburgh on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ DJ Minx is a house and techno artist based in United States of America, with 203
 
 DJ Holographic, Carl Craig, Soul Clap
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*

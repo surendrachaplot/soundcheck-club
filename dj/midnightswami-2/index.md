@@ -1,13 +1,14 @@
 # midnightswami
 
-midnightswami is a Club and Ballroom artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
+midnightswami is a Club and Ballroom artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ormside Projects, London on Thu, 26 Nov 2026.
 
-midnightswami is a club and ballroom artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside effua, DIGITALSAINT and MASKITÁ. Next up: M.O.T, London on Fri 27 Nov.
+midnightswami is a club and ballroom artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside effua, DIGITALSAINT and MASKITÁ. Next up: Ormside Projects, London on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | Ormside Projects | London |
 | Fri, 27 Nov 2026 | M.O.T | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ midnightswami is a club and ballroom artist based in United Kingdom, with 9 gigs
 
 effua, DIGITALSAINT, MASKITÁ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightswami-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightswami-2/)*

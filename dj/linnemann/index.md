@@ -1,6 +1,6 @@
 # Linnemann
 
-Linnemann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 30 Oct 2026.
+Linnemann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 30 Oct 2026.
 
 Linnemann is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across Glasgow, Manchester, North and Sheffield. Often billed alongside 96 Back, Esmé and Lvcky. Next up: Sidney & Matilda, Sheffield on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Linnemann is a techno and house artist based in United Kingdom, with 20 gigs on 
 
 96 Back, Esmé, Lvcky
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linnemann/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linnemann/)*

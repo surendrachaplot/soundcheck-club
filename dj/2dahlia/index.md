@@ -1,6 +1,6 @@
 # 2dahlia
 
-2dahlia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Underground SF, San Francisco/Oakland on Thu, 5 Nov 2026.
+2dahlia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Underground SF, San Francisco/Oakland on Thu, 5 Nov 2026.
 
 2dahlia is a techno and house artist based in United States of America, with 25 gigs on soundcheck across San Francisco/Oakland. Often billed alongside jcore, Myca and Del. Next up: Underground SF, San Francisco/Oakland on Thu 5 Nov.
 
@@ -25,4 +25,4 @@
 
 jcore, Myca, Del (4)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2dahlia/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2dahlia/)*

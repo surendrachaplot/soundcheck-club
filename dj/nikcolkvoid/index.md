@@ -1,6 +1,6 @@
 # Nik Colk Void
 
-Nik Colk Void is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
+Nik Colk Void is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
 
 Nik Colk Void is an experimental and electronica artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Klara Lewis, Finlay Shakespeare and Pedro Maia. Next up: All is Joy Studios, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nik Colk Void is an experimental and electronica artist based in United Kingdom,
 
 Klara Lewis, Finlay Shakespeare, Pedro Maia
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikcolkvoid/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikcolkvoid/)*

@@ -1,6 +1,6 @@
 # Corleone
 
-Corleone is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Electroamore im Corleone" on Fri, 6 Nov 2026.
+Corleone is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Electroamore im Corleone" on Fri, 6 Nov 2026.
 
 Corleone is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and RONNY. See dates, start times and who's playing. Sendlinger-Tor-Platz 7, 80336 München.
 
@@ -14,4 +14,4 @@ Corleone is a music venue in Munich listed on soundcheck. 1 upcoming gig, with l
 
 Sendlinger-Tor-Platz 7, 80336 München, Munich
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/corleone/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/corleone/)*

@@ -1,6 +1,6 @@
 # DarkTrax
 
-DarkTrax is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pawn Shop, Dublin on Fri, 13 Nov 2026.
+DarkTrax is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pawn Shop, Dublin on Fri, 13 Nov 2026.
 
 DarkTrax is a techno and minimal techno artist, with 8 gigs on soundcheck across Dublin. Often billed alongside Autumns, Salt Body and Applied Rithim. Next up: Pawn Shop, Dublin on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ DarkTrax is a techno and minimal techno artist, with 8 gigs on soundcheck across
 
 Autumns, Salt Body, Applied Rithim
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darktrax/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darktrax/)*

@@ -1,6 +1,6 @@
 # Oots
 
-Oots is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 31 Oct 2026.
+Oots is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 31 Oct 2026.
 
 Oots is a techno and house artist based in Australia, with 21 gigs on soundcheck across Canberra, Hobart, Melbourne and Perth and 1 more. Often billed alongside 6 SENSE, ABSOLUTE. and Bella Claxton. Next up: Port Beach Brewery, Perth on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Oots is a techno and house artist based in Australia, with 21 gigs on soundcheck
 
 6 SENSE, ABSOLUTE., Bella Claxton
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oots/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oots/)*

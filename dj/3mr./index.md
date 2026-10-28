@@ -1,8 +1,8 @@
 # 3MR.
 
-3MR. is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 1990, Glasgow on Sat, 31 Oct 2026.
+3MR. is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 1990, Glasgow on Sat, 31 Oct 2026.
 
-3MR. is a techno and electronica artist based in Syria, with 23 gigs on soundcheck across Edinburgh, Glasgow, London and Manchester. Often billed alongside Spinefluid, Salam Kitty and ISO YSO. Next up: 1990, Glasgow on Sat 31 Oct.
+3MR. is a techno and electronica artist based in Syria, with 24 gigs on soundcheck across Edinburgh, Glasgow, London and Manchester. Often billed alongside Spinefluid, Salam Kitty and ISO YSO. Next up: 1990, Glasgow on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | 1990 | Glasgow |
 | Fri, 6 Nov 2026 | The DBA | Manchester |
+| Sun, 29 Nov 2026 | Algha's Plantroom | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@
 
 Spinefluid, Salam Kitty, ISO YSO
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3mr./)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3mr./)*

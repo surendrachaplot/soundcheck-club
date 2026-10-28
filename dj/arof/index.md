@@ -1,6 +1,6 @@
 # Arof
 
-Arof is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bridge 48, Barcelona on Thu, 29 Oct 2026.
+Arof is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bridge 48, Barcelona on Thu, 29 Oct 2026.
 
 Arof is a techno artist, with 6 gigs on soundcheck across Barcelona and Santiago. Often billed alongside Leo Cotrozo, Alexa Strange and Audiolux. Next up: Bridge 48, Barcelona on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ Arof is a techno artist, with 6 gigs on soundcheck across Barcelona and Santiago
 
 Leo Cotrozo, Alexa Strange, Audiolux
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arof/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arof/)*

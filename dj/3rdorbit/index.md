@@ -1,6 +1,6 @@
 # 3rd Orbit
 
-3rd Orbit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 31 Oct 2026.
+3rd Orbit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 31 Oct 2026.
 
 3rd Orbit is a house and techno artist based in Australia, with 42 gigs on soundcheck across Melbourne. Often billed alongside Lewis Cancut, Kovac and Colette. Next up: Revolver Upstairs, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@
 
 Lewis Cancut, Kovac, Colette
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3rdorbit/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3rdorbit/)*

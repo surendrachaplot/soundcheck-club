@@ -1,6 +1,6 @@
 # Caim
 
-Caim is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Love City Gardens, Philadelphia on Sat, 7 Nov 2026.
+Caim is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Love City Gardens, Philadelphia on Sat, 7 Nov 2026.
 
 Caim is a techno and house artist based in Netherlands, with 89 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 30 more. Often billed alongside Marie K, Eversines and Pieter Jansen. Next up: Love City Gardens, Philadelphia on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Caim is a techno and house artist based in Netherlands, with 89 gigs on soundche
 
 Marie K (1), Eversines, Pieter Jansen
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*

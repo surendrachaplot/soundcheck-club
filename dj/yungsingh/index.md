@@ -1,6 +1,6 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 30 Oct 2026.
+Yung Singh is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 30 Oct 2026.
 
 Yung Singh is a garage and house artist based in United Kingdom, with 192 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 67 more. Often billed alongside Bakey, Overmono and salute. Next up: Sneaky Pete's, Edinburgh on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ Yung Singh is a garage and house artist based in United Kingdom, with 192 gigs o
 
 Bakey, Overmono, salute
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

@@ -1,6 +1,6 @@
 # Paul Svenson (2)
 
-Paul Svenson (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Paul Svenson (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
 Paul Svenson is a house and tech house artist, with 134 gigs on soundcheck across Dubai, Geneva and Lausanne. Often billed alongside John Bowtie, Bachir Salloum and Erik Hagleton. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Paul Svenson is a house and tech house artist, with 134 gigs on soundcheck acros
 
 John Bowtie, Bachir Salloum, Erik Hagleton
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsvenson-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsvenson-2/)*

@@ -1,6 +1,6 @@
 # Bodyline - NYD Launch Party at The Carpet Shop
 
-Bodyline - NYD Launch Party at The Carpet Shop on Fri 1 Jan, London. 2 artists: The Darrs and Tpongle. Techno and House. See the line-up on soundcheck.
+Bodyline - NYD Launch Party at The Carpet Shop on Fri 1 Jan, London. 4 artists: 909 Hotline, KRN, The Darrs and Tpongle. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Bodyline - NYD Launch Party at The Carpet Shop on Fri 1 Jan, London. 2 artists: 
 
 ## Line-up
 
+- 909 Hotline
+- KRN
 - The Darrs
 - Tpongle
 

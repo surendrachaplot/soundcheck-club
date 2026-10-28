@@ -1,6 +1,6 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "SLANG with Shy One, IG Culture & NothingDoing" on Fri, 30 Oct 2026.
+Fitzroy is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SLANG with Shy One, IG Culture & NothingDoing" on Fri, 30 Oct 2026.
 
 Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including 131bpm, ALP (DE), Atavi and BFAM and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
@@ -22,4 +22,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with l
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

@@ -1,6 +1,6 @@
 # Jimmy Valentine's 20th Annual Halloween Party at Jimmy Valentine's Lonely Hearts Club
 
-Jimmy Valentine's 20th Annual Halloween Party at Jimmy Valentine's Lonely Hearts Club on Sat 31 Oct, Washington DC. 2 artists: Chris Nitti and DR MILLER. Drum & Bass and House. See the line-up on soundcheck.
+Jimmy Valentine's 20th Annual Halloween Party at Jimmy Valentine's Lonely Hearts Club on Sat 31 Oct, Washington DC. 3 artists: Chris Nitti, DR MILLER and Freefall. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Jimmy Valentine's 20th Annual Halloween Party at Jimmy Valentine's Lonely Hearts
 
 - Chris Nitti
 - DR MILLER
+- Freefall
 
 *Source: [soundcheck](https://soundcheck.club/e/2556359-jimmy-valentine-s-20th-annual-halloween-party-at-jimmy-valen/)*

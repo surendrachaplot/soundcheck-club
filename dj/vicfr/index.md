@@ -1,6 +1,6 @@
 # Vic (FR)
 
-Vic (FR) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Fitzroy, Berlin on Sat, 5 Dec 2026.
+Vic (FR) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Fitzroy, Berlin on Sat, 5 Dec 2026.
 
 Vic (FR) is a house and club artist based in France, with 14 gigs on soundcheck across Amsterdam, Berlin and Toronto. Often billed alongside DJ Halloumi, Vasile and Luigi 3000. Next up: Fitzroy, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Vic (FR) is a house and club artist based in France, with 14 gigs on soundcheck 
 
 DJ Halloumi, Vasile, Luigi 3000
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vicfr/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vicfr/)*

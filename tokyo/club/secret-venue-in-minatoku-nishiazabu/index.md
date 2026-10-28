@@ -1,8 +1,8 @@
 # Secret Venue in Minatoku-Nishiazabu
 
-Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "00parts" on Sat, 7 Nov 2026.
+Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "00parts" on Sat, 7 Nov 2026.
 
-Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Atsushi Maeda, Golpe Mortal, imus and Iori and 2 more. See dates, start times and who's playing.
+Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Atsushi Maeda, Golpe Mortal, imus and Iori and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -11,5 +11,6 @@ Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundche
 | Sat, 7 Nov 2026 | 00parts | Atsushi Maeda, Golpe Mortal, imus, jo (53) |
 | Fri, 13 Nov 2026 | DtRm presents SKIIMA | Iori, Koshin, Mitra, NYAO |
 | Sat, 14 Nov 2026 | Kosmopolis | KCT (1), Lisa Mizuno, Neutran, OCCA, Olevv |
+| Sat, 5 Dec 2026 | MEDUSA Hard Techno Rave: 1st Anniversary |  |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/secret-venue-in-minatoku-nishiazabu/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/secret-venue-in-minatoku-nishiazabu/)*

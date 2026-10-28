@@ -1,6 +1,6 @@
 # Luca Lozano
 
-Luca Lozano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Signal, New York City on Sat, 12 Dec 2026.
+Luca Lozano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Signal, New York City on Sat, 12 Dec 2026.
 
 Luca Lozano is a house and techno artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 45 more. Often billed alongside Mr. Ho, Mogwaa and Omega III. Next up: Signal, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Luca Lozano is a house and techno artist based in Germany, with 111 gigs on soun
 
 Mr. Ho, Mogwaa, Omega III
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalozano/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalozano/)*

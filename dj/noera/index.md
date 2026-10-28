@@ -1,6 +1,6 @@
 # NOERA
 
-NOERA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
+NOERA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
 
 NOERA is a house and techno artist, with 7 gigs on soundcheck across Melbourne, Milan and Rome. Often billed alongside ASURA., Aristo G and Dasha SPRW. Next up: Revolver Upstairs, Melbourne on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ NOERA is a house and techno artist, with 7 gigs on soundcheck across Melbourne, 
 
 ASURA., Aristo G, Dasha SPRW
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noera/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noera/)*

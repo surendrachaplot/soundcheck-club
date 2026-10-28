@@ -1,6 +1,6 @@
 # Deadmau5
 
-Deadmau5 is a Progressive House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
+Deadmau5 is a Progressive House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Armature Works Riverfront, Florida on Fri, 11 Dec 2026.
 
 Deadmau5 is a progressive house and electro artist based in Canada, with 51 gigs on soundcheck across Austin, Bali, Bogotá and Boston and 18 more. Often billed alongside Artbat, Above & Beyond and Boris Brejcha. Next up: Armature Works Riverfront, Florida on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Deadmau5 is a progressive house and electro artist based in Canada, with 51 gigs
 
 Artbat, Above & Beyond, Boris Brejcha
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmau5/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmau5/)*

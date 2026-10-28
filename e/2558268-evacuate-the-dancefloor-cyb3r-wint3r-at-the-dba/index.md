@@ -1,6 +1,6 @@
 # Evacuate the Dancefloor: Cyb3r wint3r at The DBA
 
-Evacuate the Dancefloor: Cyb3r wint3r at The DBA on Wed 25 Nov, Manchester. 5 artists: Baba Sketch, DJ Crash Course, Lucky Bunny and Princess Elf Bar and 1 more. Electro. See the line-up on soundcheck.
+Evacuate the Dancefloor: Cyb3r wint3r at The DBA on Wed 25 Nov, Manchester. 6 artists: 99NYNEX, Baba Sketch, DJ Crash Course and Lucky Bunny and 2 more. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Evacuate the Dancefloor: Cyb3r wint3r at The DBA on Wed 25 Nov, Manchester. 5 ar
 
 ## Line-up
 
+- 99NYNEX
 - Baba Sketch
 - DJ Crash Course
 - Lucky Bunny

@@ -1,6 +1,6 @@
 # Nora Moon
 
-Nora Moon is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gretchen, Berlin on Fri, 27 Nov 2026.
+Nora Moon is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Gretchen, Berlin on Fri, 27 Nov 2026.
 
 Nora Moon is a disco and techno artist based in Germany, with 15 gigs on soundcheck across Berlin and Dublin. Often billed alongside Moving Still, DJ Karmawi and Royce Larøca. Next up: Gretchen, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Nora Moon is a disco and techno artist based in Germany, with 15 gigs on soundch
 
 Moving Still, DJ Karmawi, Royce Larøca
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noramoon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noramoon/)*

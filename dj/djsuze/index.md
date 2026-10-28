@@ -1,6 +1,6 @@
 # DJ Suze
 
-DJ Suze is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 26 Nov 2026.
+DJ Suze is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 26 Nov 2026.
 
 DJ Suze is a techno and house artist, with 11 gigs on soundcheck across Paris and Tokyo. Often billed alongside Ploum, Spicy Sofi and Chtak.. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ DJ Suze is a techno and house artist, with 11 gigs on soundcheck across Paris an
 
 Ploum, Spicy Sofi, Chtak.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsuze/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsuze/)*

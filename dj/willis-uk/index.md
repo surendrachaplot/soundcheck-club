@@ -1,6 +1,6 @@
 # OJ Willis
 
-OJ Willis is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Beaver Works, Leeds on Fri, 6 Nov 2026.
+OJ Willis is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Beaver Works, Leeds on Fri, 6 Nov 2026.
 
 OJ Willis is an acid and house artist based in United Kingdom, with 7 gigs on soundcheck across Leeds and London. Often billed alongside Lysander, Oscar (MITHA) and Torin Grady. Next up: Beaver Works, Leeds on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ OJ Willis is an acid and house artist based in United Kingdom, with 7 gigs on so
 
 Lysander, Oscar (MITHA), Torin Grady
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willis-uk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willis-uk/)*

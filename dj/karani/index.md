@@ -1,6 +1,6 @@
 # Karani
 
-Karani is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 30 Oct 2026.
+Karani is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 30 Oct 2026.
 
 Karani is a house and techno artist based in Sweden, with 26 gigs on soundcheck across Berlin, Leipzig, London and Melbourne and 3 more. Often billed alongside Caesarr, Byron Yeates and DJ Nah Care. Next up: Angel Music Bar, Melbourne on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Karani is a house and techno artist based in Sweden, with 26 gigs on soundcheck 
 
 Caesarr, Byron Yeates, DJ Nah Care
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karani/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karani/)*

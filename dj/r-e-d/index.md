@@ -1,6 +1,6 @@
 # R.E.D
 
-R.E.D is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+R.E.D is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 R.E.D is a techno and house artist based in United Kingdom, with 49 gigs on soundcheck across Bristol, Cardiff, Glasgow and London and 1 more. Often billed alongside Eksish, Kincaid and Klahrk. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ R.E.D is a techno and house artist based in United Kingdom, with 49 gigs on soun
 
 Eksish, Kincaid, Klahrk
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-e-d/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-e-d/)*

@@ -1,6 +1,6 @@
 # The Poetry Club
 
-The Poetry Club is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Apocalypse Theorists w/ T3xtur3, Minerva Wakes & Jackal Trades" on Fri, 30 Oct 2026.
+The Poetry Club is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Apocalypse Theorists w/ T3xtur3, Minerva Wakes & Jackal Trades" on Fri, 30 Oct 2026.
 
 The Poetry Club is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including Super8 & Tab. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -18,4 +18,4 @@ The Poetry Club is a music venue in Glasgow listed on soundcheck. 5 upcoming gig
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-poetry-club/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-poetry-club/)*

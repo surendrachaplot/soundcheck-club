@@ -1,6 +1,6 @@
 # Korpuss
 
-Korpuss is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Korpuss x Takka with Fiedel (Berghain, Ostgut Ton, Fiedelone/DE)" on Fri, 30 Oct 2026.
+Korpuss is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Korpuss x Takka with Fiedel (Berghain, Ostgut Ton, Fiedelone/DE)" on Fri, 30 Oct 2026.
 
 Korpuss is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-ups including Et Cetera, Fiedel, HP-82 and Ikss and 2 more. See dates, start times and who's playing. Viskaļu iela 36.
 
@@ -15,4 +15,4 @@ Korpuss is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with lin
 
 Viskaļu iela 36, Riga
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*

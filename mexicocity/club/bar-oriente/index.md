@@ -1,6 +1,6 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Prana Musik" on Wed, 28 Oct 2026.
+Bar Oriente is a music venue in Mexico City with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Prana Musik" on Wed, 28 Oct 2026.
 
 Bar Oriente is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, with line-ups including AEREA, AJ Christou, Alatriste and Anastazja and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -22,4 +22,4 @@ Bar Oriente is a music venue in Mexico City listed on soundcheck. 9 upcoming gig
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

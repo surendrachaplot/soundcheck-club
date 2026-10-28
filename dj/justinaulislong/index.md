@@ -1,6 +1,6 @@
 # Justin Aulis Long
 
-Justin Aulis Long is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Good Room, New York City on Fri, 30 Oct 2026.
+Justin Aulis Long is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Good Room, New York City on Fri, 30 Oct 2026.
 
 Justin Aulis Long is a techno and acid artist based in United States of America, with 63 gigs on soundcheck across Austin, Baltimore, Chicago and Detroit and 2 more. Often billed alongside DVS1, Brenda and DJ Hyperactive. Next up: Good Room, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Justin Aulis Long is a techno and acid artist based in United States of America,
 
 DVS1, Brenda, DJ Hyperactive
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinaulislong/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinaulislong/)*

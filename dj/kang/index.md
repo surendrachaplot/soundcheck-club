@@ -1,6 +1,6 @@
 # Kang
 
-Kang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 14 Nov 2026.
+Kang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 14 Nov 2026.
 
 Kang is a house and techno artist based in Sweden, with 44 gigs on soundcheck across Amsterdam, Berlin, Seoul and Shanghai. Often billed alongside Jean-Jez, critical P and Kedi Bounce. Next up: Bulbul Berlin, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kang is a house and techno artist based in Sweden, with 44 gigs on soundcheck ac
 
 Jean-Jez, critical P, Kedi Bounce
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kang/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kang/)*

@@ -1,6 +1,6 @@
 # HIATUS FESTIVAL 2026 at SCHRON
 
-HIATUS FESTIVAL 2026 at SCHRON on Fri 6 Nov, Poznan. 6 artists: Fat Frumos, Grischa Lichtenberger, object blue and Trois-Quarts Taxi System and 2 more. Experimental and Club. See the line-up on soundcheck.
+HIATUS FESTIVAL 2026 at SCHRON on Fri 6 Nov, Poznan. 12 artists: Fat Frumos, Grischa Lichtenberger, monka and Monster and 8 more. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,13 @@ HIATUS FESTIVAL 2026 at SCHRON on Fri 6 Nov, Poznan. 6 artists: Fat Frumos, Gris
 
 - Fat Frumos
 - Grischa Lichtenberger
+- monka
+- Monster
+- Moritz von Oswald
+- Mvcoko
 - object blue
+- Oriental Melon
+- roztok
 - Trois-Quarts Taxi System
 - Ziúr
 - Zohar

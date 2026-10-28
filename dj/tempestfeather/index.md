@@ -1,6 +1,6 @@
 # Tempestfeather
 
-Tempestfeather is a House and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at YSY, Berlin on Fri, 30 Oct 2026.
+Tempestfeather is a House and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at YSY, Berlin on Fri, 30 Oct 2026.
 
 Tempestfeather is a house and breakbeat artist, with 40 gigs on soundcheck across Berlin. Often billed alongside schulze, FISK and Frank and Geoff. Next up: YSY, Berlin on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Tempestfeather is a house and breakbeat artist, with 40 gigs on soundcheck acros
 
 schulze, FISK, Frank and Geoff
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tempestfeather/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tempestfeather/)*

@@ -1,0 +1,17 @@
+# [POSTPONED] YUK! presents - Lena Willikens, Neev & Keegan Mc at The DBA
+
+[POSTPONED] YUK! presents - Lena Willikens, Neev & Keegan Mc at The DBA on Sat 7 Nov, Manchester. 3 artists: Keegan McQuade, Lena Willikens and Neev.. Techno and Electro. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 7 Nov 2026 |
+| Venue | The DBA |
+| City | Manchester |
+
+## Line-up
+
+- Keegan McQuade
+- Lena Willikens
+- Neev.
+
+*Source: [soundcheck](https://soundcheck.club/e/2493708-postponed-yuk-presents-lena-willikens-neev-keegan-mc-at-the/)*

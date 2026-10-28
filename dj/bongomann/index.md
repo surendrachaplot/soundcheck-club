@@ -1,14 +1,15 @@
 # Bongomann
 
-Bongomann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Earworm, Singapore on Fri, 30 Oct 2026.
+Bongomann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Earworm, Singapore on Fri, 30 Oct 2026.
 
-Bongomann is a house and techno artist based in Singapore, with 55 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 4 more. Often billed alongside Toppings, MUTO and Dexter Colt. Next up: Earworm, Singapore on Fri 30 Oct.
+Bongomann is a house and techno artist based in Singapore, with 56 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 4 more. Often billed alongside Toppings, MUTO and Dexter Colt. Next up: Earworm, Singapore on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Earworm | Singapore |
+| Sat, 14 Nov 2026 | Earworm | Singapore |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bongomann is a house and techno artist based in Singapore, with 55 gigs on sound
 
 Toppings, MUTO (2), Dexter Colt
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bongomann/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bongomann/)*

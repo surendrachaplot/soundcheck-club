@@ -1,14 +1,15 @@
 # FIRZA
 
-FIRZA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 6 Nov 2026.
+FIRZA is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 6 Nov 2026.
 
-FIRZA is a house and tech house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Ibiza and 9 more. Often billed alongside Ryan Resso, FINKY and Stef Davidse. Next up: Z Maruyama, Tokyo on Fri 6 Nov.
+FIRZA is a house and tech house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Ibiza and 10 more. Often billed alongside Ryan Resso, FINKY and Stef Davidse. Next up: Z Maruyama, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Z Maruyama | Tokyo |
+| Sat, 7 Nov 2026 | Flac | Seoul |
 | Fri, 13 Nov 2026 | Egg London | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ FIRZA is a house and tech house artist based in United Kingdom, with 30 gigs on 
 
 Ryan Resso, FINKY, Stef Davidse
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*

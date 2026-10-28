@@ -1,6 +1,6 @@
 # Pressure Point
 
-Pressure Point is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Floyd, Miami on Sat, 7 Nov 2026.
+Pressure Point is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Floyd, Miami on Sat, 7 Nov 2026.
 
 Pressure Point is a techno and house artist based in Italy, with 17 gigs on soundcheck across Berlin, Los Angeles, Miami and Milan. Often billed alongside Mai iachetti, 1-800-Lolita and Berrakka. Next up: Floyd, Miami on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Pressure Point is a techno and house artist based in Italy, with 17 gigs on soun
 
 Mai iachetti, 1-800-Lolita, Berrakka
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pressurepoint/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pressurepoint/)*

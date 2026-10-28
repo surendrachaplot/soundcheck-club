@@ -1,6 +1,6 @@
 # Disrupta
 
-Disrupta is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at O2 Academy Bournemouth, South-east on Sat, 31 Oct 2026.
+Disrupta is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at O2 Academy Bournemouth, South-east on Sat, 31 Oct 2026.
 
 Disrupta is a drum & bass and jungle artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 26 more. Often billed alongside Kanine, Camo & Krooked and BassLayerz. Next up: O2 Academy Bournemouth, South East on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Disrupta is a drum & bass and jungle artist based in United Kingdom, with 83 gig
 
 Kanine, Camo & Krooked, BassLayerz
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*

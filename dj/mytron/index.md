@@ -1,6 +1,6 @@
 # Mytron
 
-Mytron is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Love Shack LDN, London on Sat, 28 Nov 2026.
+Mytron is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Love Shack LDN, London on Sat, 28 Nov 2026.
 
 Mytron is an acid and disco artist based in United Kingdom, with 9 gigs on soundcheck across London, Manchester, Montreal and Poznan and 1 more. Often billed alongside Romare, ATARMAL and Alex Kassian. Next up: Love Shack LDN, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mytron is an acid and disco artist based in United Kingdom, with 9 gigs on sound
 
 Romare, ATARMAL, Alex Kassian
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mytron/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mytron/)*

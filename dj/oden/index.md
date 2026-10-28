@@ -1,6 +1,6 @@
 # Oden
 
-Oden is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+Oden is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 Oden is a house and tech house artist based in France, with 150 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 44 more. Often billed alongside Fatzo, Sam Divine and Danny Howard. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Oden is a house and tech house artist based in France, with 150 gigs on soundche
 
 Fatzo, Sam Divine, Danny Howard
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*

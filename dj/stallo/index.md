@@ -1,6 +1,6 @@
 # Stallo
 
-Stallo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
+Stallo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
 
 Stallo is a techno and tech house artist based in Switzerland, with 29 gigs on soundcheck across Berlin, Brussels, Budapest and Rome. Often billed alongside Viktor Kampf, TIKOA and Cristian Marras. Next up: KitKatClub, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Stallo is a techno and tech house artist based in Switzerland, with 29 gigs on s
 
 Viktor Kampf, TIKOA, Cristian Marras
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stallo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stallo/)*

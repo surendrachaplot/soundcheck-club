@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "VIRGO" on Tue, 27 Oct 2026.
+Enter Shibuya is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "CIVIL" on Wed, 28 Oct 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including arow, Ayana Pattra, comm and CYBERHACKSYSTEM and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including Ayana Pattra, comm, CYBERHACKSYSTEM and DJ Kensei and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 27 Oct 2026 | VIRGO | KUNPEI, SHIZKA, arow, michika |
 | Wed, 28 Oct 2026 | CIVIL | MoEPiKA, Romy Mats |
 | Thu, 29 Oct 2026 | BITN | Shogo Ito, UG (1) |
 | Fri, 30 Oct 2026 | Gluto | DJ Kensei, Dogwoods, Eichi Abe, Herbalistek, OKBOY, comm |
@@ -17,10 +16,11 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, 
 | Wed, 4 Nov 2026 | INSTINCT | Ayana Pattra, Rikuto Shibazaki, Shun Kurashima, shimosoma |
 | Thu, 5 Nov 2026 | TWINS | Youngisland |
 | Fri, 6 Nov 2026 | LIVING ROOM | DJ POIPOI, DJ Quietstorm, HIMAWARI, MILS, West Ape, tamanaramen |
+| Sat, 7 Nov 2026 | ONOMATOPE 4th anniversary | Mamazu |
 | Mon, 9 Nov 2026 | DOGRUN | oshi (2) |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

@@ -1,6 +1,6 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Free Jungle Rave: Halloween Special" on Thu, 29 Oct 2026.
+Hootananny Brixton is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Free Jungle Rave: Halloween Special" on Thu, 29 Oct 2026.
 
 Hootananny Brixton is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Boxer, DJ Brockie, DJ Rap and Flux Pavilion and 2 more. See dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
@@ -20,4 +20,4 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 7 upcoming g
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

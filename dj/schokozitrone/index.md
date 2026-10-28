@@ -1,6 +1,6 @@
 # SchokoZitrone
 
-SchokoZitrone is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Barrio Cafe, Brussels on Fri, 13 Nov 2026.
+SchokoZitrone is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Barrio Cafe, Brussels on Fri, 13 Nov 2026.
 
 SchokoZitrone is a trance and techno artist based in Germany, with 30 gigs on soundcheck across Berlin, Brussels, Budapest and Lisbon and 1 more. Often billed alongside Phil Biehler, loumo and BENDOM. Next up: Barrio Cafe, Brussels on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SchokoZitrone is a trance and techno artist based in Germany, with 30 gigs on so
 
 Phil Biehler, loumo, BENDOM
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schokozitrone/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schokozitrone/)*

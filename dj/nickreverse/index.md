@@ -1,6 +1,6 @@
 # Nick Reverse
 
-Nick Reverse is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Manning Bar, Sydney on Sat, 28 Nov 2026.
+Nick Reverse is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Manning Bar, Sydney on Sat, 28 Nov 2026.
 
 Nick Reverse is a techno and tech house artist based in Italy, with 91 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 8 more. Often billed alongside André Müller, Ben Nott and Joris Turenhout. Next up: Manning Bar, Sydney on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nick Reverse is a techno and tech house artist based in Italy, with 91 gigs on s
 
 André Müller, Ben Nott, Joris Turenhout
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickreverse/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickreverse/)*

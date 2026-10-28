@@ -1,6 +1,6 @@
 # D'Julz
 
-D'Julz is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Rex Club, Paris on Sat, 28 Nov 2026.
+D'Julz is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Rex Club, Paris on Sat, 28 Nov 2026.
 
 D'Julz is a house and minimal artist based in France, with 102 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 33 more. Often billed alongside Alexander Skancke, DJ Senc and Shonky. Next up: Rex Club, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ D'Julz is a house and minimal artist based in France, with 102 gigs on soundchec
 
 Alexander Skancke, DJ Senc, Shonky
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*

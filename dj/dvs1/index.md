@@ -1,6 +1,6 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Drugstore, Serbia on Fri, 30 Oct 2026.
+DVS1 is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Drugstore, Serbia on Fri, 30 Oct 2026.
 
 DVS1 is a techno and house artist based in United States of America, with 363 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 90 more. Often billed alongside Ogazón, Helena Hauff and Dasha Rush. Next up: Club Drugstore, Serbia on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ DVS1 is a techno and house artist based in United States of America, with 363 gi
 
 Ogazón, Helena Hauff, Dasha Rush
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

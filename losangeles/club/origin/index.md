@@ -1,6 +1,6 @@
 # Origin
 
-Origin is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Fideles & Rampue (LIVE)" on Fri, 30 Oct 2026.
+Origin is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Fideles & Rampue (LIVE)" on Fri, 30 Oct 2026.
 
 Origin is a music venue in Los Angeles listed on soundcheck. 9 upcoming gigs, with line-ups including Alice Longyu Gao, Araminta, Bones and Christian Löffler and 2 more. See dates, start times and who's playing. 613 Imperial St., Los Angeles, CA 90021.
 
@@ -22,4 +22,4 @@ Origin is a music venue in Los Angeles listed on soundcheck. 9 upcoming gigs, wi
 
 613 Imperial St., Los Angeles, CA 90021, Los Angeles
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/origin/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/origin/)*

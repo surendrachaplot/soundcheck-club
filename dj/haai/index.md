@@ -1,8 +1,8 @@
 # HAAi
 
-HAAi is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at EartH, London on Sat, 31 Oct 2026.
+HAAi is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at EartH, London on Sat, 31 Oct 2026.
 
-HAAi is a house and techno artist based in Australia, with 238 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside salute, DJ BORING and DJ Tennis. Next up: EartH, London on Sat 31 Oct.
+HAAi is a house and techno artist based in Australia, with 239 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside salute, DJ BORING and DJ Tennis. Next up: EartH, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ HAAi is a house and techno artist based in Australia, with 238 gigs on soundchec
 | Fri, 20 Nov 2026 | Concorde 2 | Brighton |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
+| Sat, 28 Nov 2026 | The Great Northern | San Francisco/Oakland |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
 | Fri, 4 Dec 2026 | Pisces | Atlanta |
 | Sat, 5 Dec 2026 | Good Room | New York City |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
 | Fri, 18 Dec 2026 | The Prospect Building | Bristol |
-| Fri, 15 Jan 2027 | Carfax | Johannesburg |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ HAAi is a house and techno artist based in Australia, with 238 gigs on soundchec
 
 salute, DJ BORING, DJ Tennis
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

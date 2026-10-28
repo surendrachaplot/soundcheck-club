@@ -1,6 +1,6 @@
 # Quetamine
 
-Quetamine is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Then House 29 locust street. Brooklyn, New York City on Thu, 29 Oct 2026.
+Quetamine is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Then House 29 locust street. Brooklyn, New York City on Thu, 29 Oct 2026.
 
 Quetamine is a techno and club artist based in United States of America, with 52 gigs on soundcheck across Chicago, Miami, New York City and Orlando and 2 more. Often billed alongside SATURNSARii, Ultrathem and Vyper. Next up: TBA - Then House 29 locust street. Brooklyn, New York City on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Quetamine is a techno and club artist based in United States of America, with 52
 
 SATURNSARii, Ultrathem, Vyper
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quetamine/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quetamine/)*

@@ -1,6 +1,6 @@
 # chronically offline - Stubnitz presents: Exit Elbbrücken with H.LLS, Coppa Komanche at MS Stubnitz
 
-chronically offline - Stubnitz presents: Exit Elbbrücken with H.LLS, Coppa Komanche at MS Stubnitz on Fri 13 Nov, Hamburg. 6 artists: Mugen, Nasra, nili8 and pruefunke and 2 more. Drum & Bass and Grime. See the line-up on soundcheck.
+chronically offline - Stubnitz presents: Exit Elbbrücken with H.LLS, Coppa Komanche at MS Stubnitz on Fri 13 Nov, Hamburg. 7 artists: Bandulera, Mugen, Nasra and nili8 and 3 more. Drum & Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ chronically offline - Stubnitz presents: Exit Elbbrücken with H.LLS, Coppa Koma
 
 ## Line-up
 
+- Bandulera
 - Mugen
 - Nasra
 - nili8

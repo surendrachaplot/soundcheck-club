@@ -1,6 +1,6 @@
 # DJ Shore Road
 
-DJ Shore Road is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 30 Oct 2026.
+DJ Shore Road is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 30 Oct 2026.
 
 DJ Shore Road is a house and techno artist based in Estonia, with 6 gigs on soundcheck across Tallinn. Often billed alongside Nikolajev, White Gloss and CEB (FI). Next up: Paavli Kultuurivabrik, Tallinn on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ DJ Shore Road is a house and techno artist based in Estonia, with 6 gigs on soun
 
 Nikolajev, White Gloss, CEB (FI)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshoreroad/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshoreroad/)*

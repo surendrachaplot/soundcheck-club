@@ -1,6 +1,6 @@
 # Drunk At Vogue
 
-Drunk At Vogue is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Noxe Barcelona, Barcelona on Wed, 28 Oct 2026.
+Drunk At Vogue is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Noxe Barcelona, Barcelona on Wed, 28 Oct 2026.
 
 Drunk At Vogue is a house and deep house artist based in Ireland, with 37 gigs on soundcheck across Barcelona. Often billed alongside Vikki, Piem and Alex Silva. Next up: Noxe Barcelona, Barcelona on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ Drunk At Vogue is a house and deep house artist based in Ireland, with 37 gigs o
 
 Vikki, Piem, Alex Silva
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drunkatvogue/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drunkatvogue/)*

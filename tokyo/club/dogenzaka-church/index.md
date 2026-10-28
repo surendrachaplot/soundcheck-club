@@ -1,14 +1,13 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "CANDELA OF MUSIC" on Tue, 27 Oct 2026.
+Dogenzaka Church is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "inori" on Thu, 29 Oct 2026.
 
-Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including DADO, Hironobu Jyounai, KAIKAI and Mary-chan and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
+Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including DADO, Hironobu Jyounai, KAIKAI and Mary-chan and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 27 Oct 2026 | CANDELA OF MUSIC | YOSHI KANOU |
 | Thu, 29 Oct 2026 | inori | DADO, KAIKAI |
 | Sat, 31 Oct 2026 | NIGHT PRAYER HALLOWEEN 2026 |  |
 | Sun, 1 Nov 2026 | ReIncarnation | Mary-chan |
@@ -20,4 +19,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

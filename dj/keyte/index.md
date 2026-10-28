@@ -1,6 +1,6 @@
 # Keyte
 
-Keyte is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Safari Lounge, Edinburgh on Fri, 30 Oct 2026.
+Keyte is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Safari Lounge, Edinburgh on Fri, 30 Oct 2026.
 
 Keyte is a techno and house artist based in United Kingdom, with 39 gigs on soundcheck across Edinburgh. Often billed alongside WolfJazz, Bash Man and Stephen Brown. Next up: The Safari Lounge, Edinburgh on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Keyte is a techno and house artist based in United Kingdom, with 39 gigs on soun
 
 WolfJazz, Bash Man, Stephen Brown
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyte/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyte/)*

@@ -1,6 +1,6 @@
 # Albane
 
-Albane is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
+Albane is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
 
 Albane is a techno and tech house artist based in France, with 7 gigs on soundcheck across Marseille and Paris. Often billed alongside Aurian, BKEdit and MNBOO. Next up: Chateau Ephémère, Paris on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ Albane is a techno and tech house artist based in France, with 7 gigs on soundch
 
 Aurian, BKEdit, MNBOO
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albane/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albane/)*

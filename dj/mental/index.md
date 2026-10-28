@@ -1,6 +1,6 @@
 # Mental
 
-Mental is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Terminus, Paris on Sat, 21 Nov 2026.
+Mental is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Terminus, Paris on Sat, 21 Nov 2026.
 
 Mental is a hardcore and acid artist, with 13 gigs on soundcheck across Berlin, Budapest, Marseille and Paris and 5 more. Often billed alongside Tekno, Arcene K and Banyek. Next up: Terminus, Paris on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mental is a hardcore and acid artist, with 13 gigs on soundcheck across Berlin, 
 
 Tekno (1), Arcene K, Banyek
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mental/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mental/)*

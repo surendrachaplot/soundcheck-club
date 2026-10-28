@@ -1,6 +1,6 @@
 # Club 8
 
-Club 8 is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Trans City Motor Club" on Fri, 27 Nov 2026.
+Club 8 is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Trans City Motor Club" on Fri, 27 Nov 2026.
 
 Club 8 is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 8 Stoke Newington Rd, London N16 7XN.
 
@@ -14,4 +14,4 @@ Club 8 is a music venue in London listed on soundcheck. 1 upcoming gig. See date
 
 8 Stoke Newington Rd, London N16 7XN, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-8/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-8/)*

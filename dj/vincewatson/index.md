@@ -1,6 +1,6 @@
 # Vince Watson
 
-Vince Watson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Melkweg, Amsterdam on Mon, 2 Nov 2026.
+Vince Watson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Melkweg, Amsterdam on Mon, 2 Nov 2026.
 
 Vince Watson is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Ghent and 5 more. Often billed alongside Bastienne, Dimitri Kneppers and STERAC. Next up: Melkweg, Amsterdam on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Vince Watson is a techno and house artist based in United Kingdom, with 21 gigs 
 
 Bastienne, Dimitri Kneppers, STERAC
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincewatson/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vincewatson/)*

@@ -1,6 +1,6 @@
 # Surge at Eastern Bloc Records
 
-Surge at Eastern Bloc Records on Sat 28 Nov, Manchester. 3 artists: BinaryFunction, Nestor and Randle P Mcmurphy. Electro and Acid. See the line-up on soundcheck.
+Surge at Eastern Bloc Records on Sat 28 Nov, Manchester. 3 artists: BinaryFunction, Nestor and Randle P Mcmurphy. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lakota, Bristol on Thu, 29 Oct 2026.
+Dan Shake is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lakota, Bristol on Thu, 29 Oct 2026.
 
 Dan Shake is a house and disco artist based in United Kingdom, with 207 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 52 more. Often billed alongside Eliza Rose, MiNNA and Eats Everything. Next up: Lakota, Bristol on Thu 29 Oct.
 
@@ -31,4 +31,4 @@ Dan Shake is a house and disco artist based in United Kingdom, with 207 gigs on 
 
 Eliza Rose, MiNNA, Eats Everything
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

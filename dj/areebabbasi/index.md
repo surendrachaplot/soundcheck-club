@@ -1,6 +1,6 @@
 # Areeb Abbasi
 
-Areeb Abbasi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Jungla London, London on Fri, 30 Oct 2026.
+Areeb Abbasi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Jungla London, London on Fri, 30 Oct 2026.
 
 Areeb Abbasi is a techno and house artist based in United Kingdom, with 31 gigs on soundcheck across Istanbul, London and Toronto. Often billed alongside Selch, Auseeb and Phåro. Next up: Jungla London, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Areeb Abbasi is a techno and house artist based in United Kingdom, with 31 gigs 
 
 Selch, Auseeb, Phåro (2)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/areebabbasi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/areebabbasi/)*

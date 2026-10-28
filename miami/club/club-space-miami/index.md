@@ -1,6 +1,6 @@
 # Club Space Miami
 
-Club Space Miami is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Halloweek: CamelPhat & Volkoder" on Fri, 30 Oct 2026.
+Club Space Miami is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Halloweek: CamelPhat & Volkoder" on Fri, 30 Oct 2026.
 
 Club Space Miami is a music venue in Miami listed on soundcheck. 11 upcoming gigs, with line-ups including Bakke, Bedouin, Beltran and CamelPhat and 2 more. See dates, start times and who's playing. 34 NE 11th St; Miami, FL 33132; United States.
 
@@ -23,4 +23,4 @@ Club Space Miami is a music venue in Miami listed on soundcheck. 11 upcoming gig
 
 34 NE 11th St; Miami, FL 33132; United States, Miami
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*

@@ -1,15 +1,13 @@
 # Oranj Dray Walk
 
-Oranj Dray Walk is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Lil C at Oranj Dray Walk" on Fri, 23 Oct 2026.
+Oranj Dray Walk is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Halloween at Dray Walk: re:ni, Pochola & Martelo" on Sat, 31 Oct 2026.
 
-Oranj Dray Walk is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Bok Bok, Eoin DJ and Lil C. See dates, start times and who's playing.
+Oranj Dray Walk is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Martelo, Pochola and re:ni. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Lil C at Oranj Dray Walk | Lil C |
-| Sat, 24 Oct 2026 | Bok Bok at Oranj Dray Walk | Bok Bok |
-| Sun, 25 Oct 2026 | Eoin DJ at Oranj Dray Walk | Eoin DJ |
+| Sat, 31 Oct 2026 | Halloween at Dray Walk: re:ni, Pochola & Martelo | Martelo, Pochola, re:ni |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/oranj-dray-walk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/oranj-dray-walk/)*

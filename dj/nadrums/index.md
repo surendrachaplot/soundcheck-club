@@ -1,6 +1,6 @@
 # Nadrums
 
-Nadrums is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KOKO, London on Fri, 20 Nov 2026.
+Nadrums is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at KOKO, London on Fri, 20 Nov 2026.
 
 Nadrums is a house and tech house artist based in Morocco, with 19 gigs on soundcheck across Amsterdam, Ibiza, London and Madrid and 2 more. Often billed alongside Francis Mercier, ARYMÉ and Nitefreak. Next up: KOKO, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Nadrums is a house and tech house artist based in Morocco, with 19 gigs on sound
 
 Francis Mercier, ARYMÉ, Nitefreak
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadrums/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadrums/)*

@@ -1,6 +1,6 @@
 # Silly Silky
 
-Silly Silky is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mago, Chubu on Sat, 31 Oct 2026.
+Silly Silky is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mago, Chubu on Sat, 31 Oct 2026.
 
 Silly Silky is a house and tech house artist based in South Korea, with 10 gigs on soundcheck across Chubu and Seoul. Often billed alongside Departs, Demuk and Jaebin. Next up: Mago, Chubu on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Silly Silky is a house and tech house artist based in South Korea, with 10 gigs 
 
 Departs, Demuk, Jaebin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sillysilky/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sillysilky/)*

@@ -1,6 +1,6 @@
 # Gela
 
-Gela is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Dabadaba, North on Fri, 6 Nov 2026.
+Gela is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Dabadaba, North on Fri, 6 Nov 2026.
 
 Gela is a house and afrobeat artist, with 6 gigs on soundcheck across Barcelona, Madrid, North and Oslo. Often billed alongside 1st Degree, Eoin DJ and Fernanda Arrau. Next up: Dabadaba, North on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Gela is a house and afrobeat artist, with 6 gigs on soundcheck across Barcelona,
 
 1st Degree, Eoin DJ, Fernanda Arrau
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gela/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gela/)*

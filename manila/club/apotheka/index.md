@@ -1,6 +1,6 @@
 # Apotheka
 
-Apotheka is a music venue in Manila with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "SCareer High: Horror House Party" on Wed, 28 Oct 2026.
+Apotheka is a music venue in Manila with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SCareer High: Horror House Party" on Wed, 28 Oct 2026.
 
 Apotheka is a music venue in Manila listed on soundcheck. 8 upcoming gigs, with line-ups including Barbara Pleaser, Cristal No.5, Duality and Kugel and 2 more. See dates, start times and who's playing. G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines.
 
@@ -21,4 +21,4 @@ Apotheka is a music venue in Manila listed on soundcheck. 8 upcoming gigs, with 
 
 G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines, Manila
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*

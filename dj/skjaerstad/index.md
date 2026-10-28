@@ -1,6 +1,6 @@
 # Skjaerstad
 
-Skjaerstad is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Atno, Budapest on Fri, 13 Nov 2026.
+Skjaerstad is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Atno, Budapest on Fri, 13 Nov 2026.
 
 Skjaerstad is a house and minimal artist based in Norway, with 27 gigs on soundcheck across Amsterdam, Bangkok, Bergen and Berlin and 4 more. Often billed alongside Dolbah, G-HA and Rado. Next up: Atno, Budapest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Skjaerstad is a house and minimal artist based in Norway, with 27 gigs on soundc
 
 Dolbah, G-HA, Rado
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skjaerstad/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skjaerstad/)*

@@ -1,6 +1,6 @@
 # La Belle Angele
 
-La Belle Angele is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Bpm - PHANTOM" on Thu, 29 Oct 2026.
+La Belle Angele is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Bpm - PHANTOM" on Thu, 29 Oct 2026.
 
 La Belle Angele is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Co-Accused, Gary Beck, Keyte and Neil Landstrumm and 1 more. See dates, start times and who's playing. 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ La Belle Angele is a music venue in Edinburgh listed on soundcheck. 2 upcoming g
 
 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom, Edinburgh
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*

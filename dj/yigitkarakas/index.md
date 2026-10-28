@@ -1,6 +1,6 @@
 # Yigit Karakas
 
-Yigit Karakas is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kastel, Istanbul on Wed, 28 Oct 2026.
+Yigit Karakas is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kastel, Istanbul on Wed, 28 Oct 2026.
 
 Yigit Karakas is a progressive house and house artist based in Turkey, with 13 gigs on soundcheck across Istanbul. Often billed alongside Batikan Tanrikulu, Chris Avantgarde and Adam Sellouk. Next up: Kastel, Istanbul on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Yigit Karakas is a progressive house and house artist based in Turkey, with 13 g
 
 Batikan Tanrikulu, Chris Avantgarde, Adam Sellouk
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yigitkarakas/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yigitkarakas/)*

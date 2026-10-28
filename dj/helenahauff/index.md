@@ -1,6 +1,6 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and Electro artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Helena Hauff is a Techno and Electro artist with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 Helena Hauff is a techno and electro artist based in Germany, with 241 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 84 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ Helena Hauff is a techno and electro artist based in Germany, with 241 gigs on s
 
 DVS1, Job Jobse, Ben UFO
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

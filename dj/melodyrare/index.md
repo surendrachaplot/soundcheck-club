@@ -1,6 +1,6 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at radial, London on Sat, 12 Dec 2026.
+Melody RA+RE is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at radial, London on Sat, 12 Dec 2026.
 
 Melody RA+RE is a house and electro artist based in France, with 129 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: radial, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Melody RA+RE is a house and electro artist based in France, with 129 gigs on sou
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*

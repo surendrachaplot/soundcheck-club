@@ -1,6 +1,6 @@
 # Dual
 
-Dual is a music venue in Bangkok with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "DUAL - THE FIFTH MOON" on Fri, 30 Oct 2026.
+Dual is a music venue in Bangkok with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "DUAL - THE FIFTH MOON" on Fri, 30 Oct 2026.
 
 Dual is a music venue in Bangkok listed on soundcheck. 12 upcoming gigs, with line-ups including .g (TH), Alex Dima, Alexia Glensy and AN!KA and 2 more. See dates, start times and who's playing. Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500.
 
@@ -23,4 +23,4 @@ Dual is a music venue in Bangkok listed on soundcheck. 12 upcoming gigs, with li
 
 Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500, Bangkok
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*

@@ -1,8 +1,8 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 24 Moons, Melbourne on Fri, 30 Oct 2026.
+Tom Peters is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 24 Moons, Melbourne on Fri, 30 Oct 2026.
 
-Tom Peters is a techno and house artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 19 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: 24 Moons, Melbourne on Fri 30 Oct.
+Tom Peters is a techno and house artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 19 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: 24 Moons, Melbourne on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tom Peters is a techno and house artist based in Germany, with 111 gigs on sound
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | 24 Moons | Melbourne |
 | Sat, 31 Oct 2026 | TBA | Sydney |
+| Fri, 6 Nov 2026 | TBA | Los Angeles |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
 
@@ -28,4 +29,4 @@ Tom Peters is a techno and house artist based in Germany, with 111 gigs on sound
 
 B-VERS, Bertolt Meyer, Primal State
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*

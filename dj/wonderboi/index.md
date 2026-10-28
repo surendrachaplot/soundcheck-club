@@ -1,6 +1,6 @@
 # Wonderboi
 
-Wonderboi is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
+Wonderboi is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
 
 Wonderboi is a techno and hardcore artist based in Canada, with 11 gigs on soundcheck across Vancouver. Often billed alongside Bÿständer, NIMAHA and Sam AK. Next up: Frankie’s, Vancouver on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Wonderboi is a techno and hardcore artist based in Canada, with 11 gigs on sound
 
 Bÿständer, NIMAHA, Sam AK
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wonderboi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wonderboi/)*

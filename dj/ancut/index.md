@@ -1,6 +1,6 @@
 # Ancut
 
-Ancut is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Quartiere Intelligente, Naples on Sat, 31 Oct 2026.
+Ancut is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Quartiere Intelligente, Naples on Sat, 31 Oct 2026.
 
 Ancut is a techno and house artist based in Italy, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 17 more. Often billed alongside Matthias, So-Fi and Alex Picone. Next up: Quartiere Intelligente, Naples on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ancut is a techno and house artist based in Italy, with 68 gigs on soundcheck ac
 
 Matthias (1), So-Fi, Alex Picone
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*

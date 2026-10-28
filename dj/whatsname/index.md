@@ -1,14 +1,15 @@
 # Whatsname
 
-Whatsname is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
+Whatsname is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
 
-Whatsname is a jungle and drum & bass artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Bryn Brax, Agility and zoneSL. Next up: Two Tribes CAMPFIRE, London on Sat 31 Oct.
+Whatsname is a jungle and drum & bass artist based in United Kingdom, with 19 gigs on soundcheck across London. Often billed alongside Bryn Brax, Agility and zoneSL. Next up: Two Tribes CAMPFIRE, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Two Tribes CAMPFIRE | London |
+| Fri, 6 Nov 2026 | Tola | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Whatsname is a jungle and drum & bass artist based in United Kingdom, with 18 gi
 
 Bryn Brax, Agility, zoneSL
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsname/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsname/)*

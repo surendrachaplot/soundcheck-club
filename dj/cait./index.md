@@ -1,6 +1,6 @@
 # CAIT.
 
-CAIT. is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Church, Little Portugal, Toronto on Fri, 30 Oct 2026.
+CAIT. is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Church, Little Portugal, Toronto on Fri, 30 Oct 2026.
 
 CAIT. is a garage and bass artist based in Canada, with 3 gigs on soundcheck across Montreal and Toronto. Often billed alongside Aydan XR, House of Lords and In Depth Subject. Next up: TBA - Secret Church, Little Portugal, Toronto on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ CAIT. is a garage and bass artist based in Canada, with 3 gigs on soundcheck acr
 
 Aydan XR, House of Lords, In Depth Subject
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cait./)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cait./)*

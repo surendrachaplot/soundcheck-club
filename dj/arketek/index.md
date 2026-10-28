@@ -1,6 +1,6 @@
 # Arketek
 
-Arketek is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Inner West Location, Sydney on Fri, 30 Oct 2026.
+Arketek is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Inner West Location, Sydney on Fri, 30 Oct 2026.
 
 Arketek is an electronica and experimental artist based in Australia, with 9 gigs on soundcheck across Sydney. Often billed alongside Postponez, An Dres and Bats. Next up: TBA - Secret Inner West Location, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Arketek is an electronica and experimental artist based in Australia, with 9 gig
 
 Postponez, An Dres, Bats
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arketek/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arketek/)*

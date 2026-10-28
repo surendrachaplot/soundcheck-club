@@ -1,6 +1,6 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 13 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Franky Wah" on Wed, 28 Oct 2026.
+Zumana Bali is a music venue in Bali with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Franky Wah" on Wed, 28 Oct 2026.
 
 Zumana Bali is a music venue in Bali listed on soundcheck. 13 upcoming gigs, with line-ups including Cameron Jack, Chris Luno, Damian Lazarus and Enoo Napa and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 13 upcoming gigs, wit
 | Wed, 25 Nov 2026 | Damian Lazarus | Damian Lazarus |
 | Fri, 27 Nov 2026 | Joseph Capriati | Joseph Capriati |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

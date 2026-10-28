@@ -1,6 +1,6 @@
 # TaronX
 
-TaronX is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bassiani, Tbilisi on Fri, 30 Oct 2026.
+TaronX is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bassiani, Tbilisi on Fri, 30 Oct 2026.
 
 TaronX is an electro and techno artist based in Armenia, with 25 gigs on soundcheck across Armenia, Berlin, Istanbul and Madrid and 1 more. Often billed alongside ElectroDon, Gio Shengelia and MEROUJ. Next up: Bassiani, Tbilisi on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ TaronX is an electro and techno artist based in Armenia, with 25 gigs on soundch
 
 ElectroDon, Gio Shengelia, MEROUJ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taronx/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taronx/)*

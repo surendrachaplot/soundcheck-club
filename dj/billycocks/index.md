@@ -1,6 +1,6 @@
 # Billy Cocks
 
-Billy Cocks is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
+Billy Cocks is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
 
 Billy Cocks is a house and tech house artist based in United Kingdom, with 35 gigs on soundcheck across London, Malta and Osaka. Often billed alongside Ellie Cocks, Larry London and Darrell Privett. Next up: LDN East, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Billy Cocks is a house and tech house artist based in United Kingdom, with 35 gi
 
 Ellie Cocks, Larry London, Darrell Privett
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billycocks/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billycocks/)*

@@ -1,6 +1,6 @@
 # Katvyl
 
-Katvyl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Stidilä, Helsinki on Sun, 1 Nov 2026.
+Katvyl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Stidilä, Helsinki on Sun, 1 Nov 2026.
 
 Katvyl is a techno and house artist based in Finland, with 44 gigs on soundcheck across Helsinki, Prague, Riga and Tallinn. Often billed alongside C4KE, CEB (FI) and Lil Tony. Next up: Stidilä, Helsinki on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Katvyl is a techno and house artist based in Finland, with 44 gigs on soundcheck
 
 C4KE, CEB (FI), Lil Tony
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katvyl/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katvyl/)*

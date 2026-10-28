@@ -1,6 +1,6 @@
 # Honeydü
 
-Honeydü is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 28 Nov 2026.
+Honeydü is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 28 Nov 2026.
 
 Honeydü is a house and electro artist, with 7 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Boyfriends, Gelato Boy and Sami Sebastian. Next up: TBA - DTLA, Los Angeles on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Honeydü is a house and electro artist, with 7 gigs on soundcheck across Los Ang
 
 Boyfriends, Gelato Boy, Sami Sebastian
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydu/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydu/)*

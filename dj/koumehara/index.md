@@ -1,14 +1,15 @@
 # Ko Umehara
 
-Ko Umehara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Thu, 29 Oct 2026.
+Ko Umehara is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Thu, 29 Oct 2026.
 
-Ko Umehara is a techno and house artist based in Japan, with 54 gigs on soundcheck across Tokyo. Often billed alongside Iori Wakasa, Haruka and IRON. Next up: Nakano Heavysick Zero, Tokyo on Thu 29 Oct.
+Ko Umehara is a techno and house artist based in Japan, with 55 gigs on soundcheck across Tokyo. Often billed alongside Iori Wakasa, Haruka and IRON. Next up: Nakano Heavysick Zero, Tokyo on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Nakano Heavysick Zero | Tokyo |
+| Sat, 14 Nov 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ko Umehara is a techno and house artist based in Japan, with 54 gigs on soundche
 
 Iori Wakasa, Haruka, IRON
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koumehara/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koumehara/)*

@@ -1,6 +1,6 @@
 # SEF
 
-SEF is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at GASHOUDER, Amsterdam on Thu, 31 Dec 2026.
+SEF is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at GASHOUDER, Amsterdam on Thu, 31 Dec 2026.
 
 SEF is a house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Bristol and Liverpool. Often billed alongside Kingdom Sound, Abiba Sokoto and Alain. Next up: GASHOUDER, Amsterdam on Thu 31 Dec.
 
@@ -24,4 +24,4 @@ SEF is a house and tech house artist based in United Kingdom, with 8 gigs on sou
 
 Kingdom Sound, Abiba Sokoto, Alain
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sef/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sef/)*

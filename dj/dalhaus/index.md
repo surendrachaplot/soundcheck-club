@@ -1,6 +1,6 @@
 # Dalhaus
 
-Dalhaus is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 31 Oct 2026.
+Dalhaus is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Dalhaus is an electronica and pop artist, with 6 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside 10cust, AMERICANRECYCLING and Alima Lee. Next up: Monarch, San Francisco/Oakland on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Dalhaus is an electronica and pop artist, with 6 gigs on soundcheck across Los A
 
 10cust, AMERICANRECYCLING, Alima Lee
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalhaus/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalhaus/)*

@@ -1,6 +1,6 @@
 # DJ Flight
 
-DJ Flight is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+DJ Flight is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 DJ Flight is a drum & bass and jungle artist based in United Kingdom, with 122 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 30 more. Often billed alongside Mantra, SP:MC and MC GQ. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ DJ Flight is a drum & bass and jungle artist based in United Kingdom, with 122 g
 
 Mantra, SP:MC, MC GQ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*

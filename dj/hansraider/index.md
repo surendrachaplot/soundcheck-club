@@ -1,6 +1,6 @@
 # Hans Raider
 
-Hans Raider is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Vespers Club, London on Sat, 28 Nov 2026.
+Hans Raider is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Vespers Club, London on Sat, 28 Nov 2026.
 
 Hans Raider is a techno and house artist, with 6 gigs on soundcheck across London. Often billed alongside Abobo, Munkwerk and Melaena. Next up: Vespers Club, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Hans Raider is a techno and house artist, with 6 gigs on soundcheck across Londo
 
 Abobo, Munkwerk, Melaena
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hansraider/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hansraider/)*

@@ -1,6 +1,6 @@
 # Margo
 
-Margo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
+Margo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
 
 Margo is a techno and house artist, with 47 gigs on soundcheck across Berlin, Brussels, Dortmund / Essen and Hamburg. Often billed alongside Margo (GER), Bushfya and DJ SOURCE. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Margo is a techno and house artist, with 47 gigs on soundcheck across Berlin, Br
 
 Margo (GER), Bushfya, DJ SOURCE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margo-de/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margo-de/)*

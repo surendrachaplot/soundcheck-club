@@ -1,6 +1,6 @@
 # Ika (GE)
 
-Ika (GE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at feedbk, New York City on Fri, 30 Oct 2026.
+Ika (GE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at feedbk, New York City on Fri, 30 Oct 2026.
 
 Ika (GE) is a house and techno artist based in Georgia, with 126 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 21 more. Often billed alongside Usherenko, Gio Shengelia and Generali Minerali. Next up: feedbk, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Ika (GE) is a house and techno artist based in Georgia, with 126 gigs on soundch
 
 Usherenko, Gio Shengelia, Generali Minerali
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ika/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ika/)*

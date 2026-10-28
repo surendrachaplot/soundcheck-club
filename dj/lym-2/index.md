@@ -1,6 +1,6 @@
 # LYM (2)
 
-LYM (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Datong District, Taipei on Sat, 7 Nov 2026.
+LYM (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Datong District, Taipei on Sat, 7 Nov 2026.
 
 LYM is a house and techno artist, with 14 gigs on soundcheck across Taipei. Often billed alongside klu, Pocari Sweaty and Andy Chiu. Next up: TBA - Datong District, Taipei on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ LYM is a house and techno artist, with 14 gigs on soundcheck across Taipei. Ofte
 
 klu (1), Pocari Sweaty, Andy Chiu
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lym-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lym-2/)*

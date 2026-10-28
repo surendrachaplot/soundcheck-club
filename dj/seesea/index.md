@@ -1,6 +1,6 @@
 # Seesea
 
-Seesea is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
+Seesea is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
 
 Seesea is a club and bass artist based in South Korea, with 52 gigs on soundcheck across Amsterdam, Beijing, Hanoi and Ho Chi Minh City and 4 more. Often billed alongside NET GALA, KA WAI and Ligrye. Next up: Blank Site, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Seesea is a club and bass artist based in South Korea, with 52 gigs on soundchec
 
 NET GALA, KA WAI, Ligrye
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seesea/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seesea/)*

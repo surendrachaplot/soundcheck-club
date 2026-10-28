@@ -1,6 +1,6 @@
 # New Year's Eve: Tumbaito [Live], Alfie Panaiotis, Paloma, Tall Nico at Grow
 
-New Year's Eve: Tumbaito [Live], Alfie Panaiotis, Paloma, Tall Nico at Grow on Thu 31 Dec, London. 3 artists: Alfie Panaiotis, Paloma and Tall Nico. House and Funk / Soul. See the line-up on soundcheck.
+New Year's Eve: Tumbaito [Live], Alfie Panaiotis, Paloma, Tall Nico at Grow on Thu 31 Dec, London. 3 artists: Alfie Panaiotis, Paloma (DJ) and Tall Nico. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ New Year's Eve: Tumbaito [Live], Alfie Panaiotis, Paloma, Tall Nico at Grow on T
 ## Line-up
 
 - Alfie Panaiotis
-- Paloma
+- Paloma (DJ)
 - Tall Nico
 
 *Source: [soundcheck](https://soundcheck.club/e/2569709-new-year-s-eve-tumbaito-live-alfie-panaiotis-paloma-tall-nic/)*

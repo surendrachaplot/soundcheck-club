@@ -1,6 +1,6 @@
 # Dj Goodboy
 
-Dj Goodboy is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at OHM, Berlin on Thu, 17 Dec 2026.
+Dj Goodboy is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at OHM, Berlin on Thu, 17 Dec 2026.
 
 Dj Goodboy is a bass and downtempo artist based in Germany, with 27 gigs on soundcheck across Berlin, Mexico City and New York City. Often billed alongside Rafush, ABRAMOV and ASA 808. Next up: OHM, Berlin on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Dj Goodboy is a bass and downtempo artist based in Germany, with 27 gigs on soun
 
 Rafush, ABRAMOV, ASA 808
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoodboy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoodboy/)*

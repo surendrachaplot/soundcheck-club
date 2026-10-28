@@ -1,14 +1,15 @@
 # Kapusta
 
-Kapusta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at River Ship Vecrīga, Riga on Fri, 30 Oct 2026.
+Kapusta is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at River Ship Vecrīga, Riga on Fri, 30 Oct 2026.
 
-Kapusta is a house and techno artist, with 36 gigs on soundcheck across Riga and Tallinn. Often billed alongside Rexton, Adam Blake and Kelvin. Next up: River Ship Vecrīga, Riga on Fri 30 Oct.
+Kapusta is a house and techno artist, with 37 gigs on soundcheck across Riga and Tallinn. Often billed alongside Rexton, Adam Blake and Kelvin. Next up: River Ship Vecrīga, Riga on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | River Ship Vecrīga | Riga |
+| Sat, 14 Nov 2026 | B2 Rīga | Riga |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kapusta is a house and techno artist, with 36 gigs on soundcheck across Riga and
 
 Rexton, Adam Blake, Kelvin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kapusta/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kapusta/)*

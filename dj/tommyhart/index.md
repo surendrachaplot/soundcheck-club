@@ -1,13 +1,14 @@
 # Tommy Hart
 
-Tommy Hart is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Versalles 64, Mexico City on Sat, 31 Oct 2026.
+Tommy Hart is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Los Angeles on Fri, 30 Oct 2026.
 
-Tommy Hart is a house and techno artist based in United States of America, with 120 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 19 more. Often billed alongside Alby Esc, Diz Shocka and Sylvie Forêt. Next up: Versalles 64, Mexico City on Sat 31 Oct.
+Tommy Hart is a house and techno artist based in United States of America, with 121 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 19 more. Often billed alongside Alby Esc, Diz Shocka and Sylvie Forêt. Next up: TBA, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | TBA | Los Angeles |
 | Sat, 31 Oct 2026 | Versalles 64 | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tommy Hart is a house and techno artist based in United States of America, with 
 
 Alby Esc, Diz Shocka, Sylvie Forêt
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyhart/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyhart/)*

@@ -1,6 +1,6 @@
 # Rosa
 
-Rosa is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at export, Rotterdam on Sat, 31 Oct 2026.
+Rosa is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at export, Rotterdam on Sat, 31 Oct 2026.
 
 Rosa is a bass and techno artist based in Australia, with 39 gigs on soundcheck across Amsterdam, Berlin, Brussels and Kyoto and 8 more. Often billed alongside Kazumichi Komatsu, MUNÉO and Whatman. Next up: export, Rotterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rosa is a bass and techno artist based in Australia, with 39 gigs on soundcheck 
 
 Kazumichi Komatsu, MUNÉO, Whatman
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosa/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosa/)*

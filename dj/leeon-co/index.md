@@ -1,6 +1,6 @@
 # Leeon
 
-Leeon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Leeon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Leeon is a house and techno artist based in Colombia, with 81 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Fais Le Beau, Sergio Iglesias and Confidential Recipe. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Leeon is a house and techno artist based in Colombia, with 81 gigs on soundcheck
 
 Fais Le Beau, Sergio Iglesias, Confidential Recipe
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeon-co/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeon-co/)*

@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 18 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori" on Fri, 30 Oct 2026.
+Public Works is a music venue in San Francisco/Oakland with 18 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori" on Fri, 30 Oct 2026.
 
 Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 18 upcoming gigs, with line-ups including AGROPOL, Alex Oxley, Alkemiss Erika and ALMAS and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 18 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

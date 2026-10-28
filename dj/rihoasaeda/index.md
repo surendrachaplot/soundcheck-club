@@ -1,6 +1,6 @@
 # RIHO ASAEDA
 
-RIHO ASAEDA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Z Maruyama, Tokyo on Thu, 29 Oct 2026.
+RIHO ASAEDA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Z Maruyama, Tokyo on Thu, 29 Oct 2026.
 
 RIHO ASAEDA is a house and techno artist based in Japan, with 154 gigs on soundcheck across Amsterdam, Taipei and Tokyo. Often billed alongside Leo Gabriel, Yamariki and Hayato Iwaki. Next up: Z Maruyama, Tokyo on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ RIHO ASAEDA is a house and techno artist based in Japan, with 154 gigs on soundc
 
 Leo Gabriel, Yamariki, Hayato Iwaki
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rihoasaeda/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rihoasaeda/)*

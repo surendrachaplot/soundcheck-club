@@ -1,6 +1,6 @@
 # Herr Muller
 
-Herr Muller is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at WDM, Hannover on Fri, 20 Nov 2026.
+Herr Muller is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at WDM, Hannover on Fri, 20 Nov 2026.
 
 Herr Muller is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Hannover. Often billed alongside NSLZ, mauli and Amiracle. Next up: WDM, Hannover on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Herr Muller is a techno and trance artist based in Germany, with 8 gigs on sound
 
 NSLZ, mauli, Amiracle
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herrmuller/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herrmuller/)*

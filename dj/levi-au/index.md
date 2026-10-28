@@ -1,8 +1,8 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Unity Electro Fest , Quebec-city on Fri, 30 Oct 2026.
+Levi (AU) is a Afro House and Deep House artist with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Unity Electro Fest , Quebec-city on Fri, 30 Oct 2026.
 
-Levi (AU) is an afro house and deep house artist based in Australia, with 119 gigs on soundcheck across Amsterdam, Athens, Austria and Bali and 50 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: TBA - Unity Electro Fest , Quebec City on Fri 30 Oct.
+Levi (AU) is an afro house and deep house artist based in Australia, with 122 gigs on soundcheck across Amsterdam, Athens, Austria and Bali and 51 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: TBA - Unity Electro Fest , Quebec City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,10 +12,12 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 119 gi
 | Sat, 31 Oct 2026 | TAO Chicago | Chicago |
 | Fri, 6 Nov 2026 | TBA - HARBOUR CLUB (PRIVATE MEMBERS) | Miami |
 | Sat, 7 Nov 2026 | Marquee | New York City |
+| Fri, 13 Nov 2026 | TBA - The Hollywood Roosevelt hotel Los Angeles, CA | Los Angeles |
 | Sat, 14 Nov 2026 | Marquee Dayclub | Las-vegas |
 | Sat, 21 Nov 2026 | TBA | Florida |
 | Sat, 28 Nov 2026 | Marquee Singapore | Singapore |
 | Tue, 1 Dec 2026 | Desa Kitsune | Bali |
+| Tue, 1 Dec 2026 | TBA - Desa Ketsuné, Bali Indonesia | Bali |
 | Sat, 12 Dec 2026 | Sydney Glass Island | Sydney |
 | Sat, 19 Dec 2026 | TBA - West Beach Pavilion Saint Kilda West, VIC | Melbourne |
 
@@ -34,4 +36,4 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 119 gi
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

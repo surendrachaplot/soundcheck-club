@@ -1,6 +1,6 @@
 # Jason Cluff
 
-Jason Cluff is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 31 Oct 2026.
+Jason Cluff is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 31 Oct 2026.
 
 Jason Cluff is a techno and hardcore artist based in United Kingdom, with 57 gigs on soundcheck across Aberdeen, Belfast, Berlin and Birmingham and 17 more. Often billed alongside Black Traffic, blk. and Jezza & Jod. Next up: The Telegraph Building, Belfast on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jason Cluff is a techno and hardcore artist based in United Kingdom, with 57 gig
 
 Black Traffic, blk., Jezza & Jod
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncluff/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncluff/)*

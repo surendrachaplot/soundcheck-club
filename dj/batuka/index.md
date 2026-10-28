@@ -1,6 +1,6 @@
 # Batuka
 
-Batuka is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Gallery, London on Wed, 28 Oct 2026.
+Batuka is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Gallery, London on Wed, 28 Oct 2026.
 
 Batuka is an afro house and afro tech artist based in Turkey, with 3 gigs on soundcheck across London and Paris. Often billed alongside Erinc. Next up: Gallery, London on Wed 28 Oct.
 
@@ -16,4 +16,4 @@ Batuka is an afro house and afro tech artist based in Turkey, with 3 gigs on sou
 
 Erinc
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batuka/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batuka/)*

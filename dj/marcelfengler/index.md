@@ -1,6 +1,6 @@
 # Marcel Fengler
 
-Marcel Fengler is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat, 14 Nov 2026.
+Marcel Fengler is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat, 14 Nov 2026.
 
 Marcel Fengler is a techno and house artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 32 more. Often billed alongside STEYA, Inverse Element and OGUZ. Next up: TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Marcel Fengler is a techno and house artist based in Germany, with 88 gigs on so
 
 STEYA, Inverse Element, OGUZ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelfengler/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelfengler/)*

@@ -1,6 +1,6 @@
 # Klubkneipe x Tuesday Ritual - Shibari Workshop at Prisma
 
-Klubkneipe x Tuesday Ritual - Shibari Workshop at Prisma on Tue 3 Nov, Berlin. 4 artists: Ankit, Emilion Dollar Baby, Mia Bergmann and Sahar. Techno and House. See the line-up on soundcheck.
+Klubkneipe x Tuesday Ritual - Shibari Workshop at Prisma on Tue 3 Nov, Berlin. 3 artists: Ankit, Emilion Dollar Baby and Mia Bergmann. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ Klubkneipe x Tuesday Ritual - Shibari Workshop at Prisma on Tue 3 Nov, Berlin. 4
 - Ankit
 - Emilion Dollar Baby
 - Mia Bergmann
-- Sahar
 
 *Source: [soundcheck](https://soundcheck.club/e/2569126-klubkneipe-x-tuesday-ritual-shibari-workshop-at-prisma/)*

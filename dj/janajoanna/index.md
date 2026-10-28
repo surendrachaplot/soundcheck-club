@@ -1,14 +1,14 @@
 # Jana Joanna
 
-Jana Joanna is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Pelgrimstraat 15, 2000 Antwerp , Antwerp on Fri, 13 Nov 2026.
+Jana Joanna is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Pelgrimstraat 15, 2000 Antwerpen. , Antwerp on Fri, 13 Nov 2026.
 
-Jana Joanna is a downtempo and techno artist based in Belgium, with 9 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside JACKUZZI, Rick Baguette and Ben Kamal. Next up: TBA - Pelgrimstraat 15, 2000 Antwerp , Antwerp on Fri 13 Nov.
+Jana Joanna is a downtempo and techno artist based in Belgium, with 9 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside JACKUZZI, Rick Baguette and Ben Kamal. Next up: TBA - Pelgrimstraat 15, 2000 Antwerpen. , Antwerp on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - Pelgrimstraat 15, 2000 Antwerp  | Antwerp |
+| Fri, 13 Nov 2026 | TBA - Pelgrimstraat 15, 2000 Antwerpen.  | Antwerp |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Jana Joanna is a downtempo and techno artist based in Belgium, with 9 gigs on so
 
 JACKUZZI, Rick Baguette, Ben Kamal
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janajoanna/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janajoanna/)*

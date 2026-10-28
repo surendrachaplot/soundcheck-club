@@ -1,6 +1,6 @@
 # nümind
 
-nümind is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 93 Feet East, London on Sat, 5 Dec 2026.
+nümind is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 93 Feet East, London on Sat, 5 Dec 2026.
 
 nümind is a trance and progressive house artist based in United Kingdom, with 9 gigs on soundcheck across Dresden, Dublin, Ibiza and London. Often billed alongside Kyau & Albert, C-systems and Darren Tate. Next up: 93 Feet East, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ nümind is a trance and progressive house artist based in United Kingdom, with 9
 
 Kyau & Albert, C-systems, Darren Tate
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/numind/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/numind/)*

@@ -1,11 +1,11 @@
-# galore 2027: Danielle, Massimiliano Pagliara && more // 12,31 at Gallery 1986
+# galore 2027: Danielle, Massimiliano Pagliara && more // 12,31 at gallery 1986
 
-galore 2027: Danielle, Massimiliano Pagliara && more // 12,31 at Gallery 1986 on Thu 31 Dec, Vilnius. 7 artists: Aiste Regina, Clicklounge, Danielle (UK) and Donatas Chipak and 3 more. See the line-up on soundcheck.
+galore 2027: Danielle, Massimiliano Pagliara && more // 12,31 at gallery 1986 on Thu 31 Dec, Vilnius. 7 artists: Aiste Regina, Clicklounge, Danielle (UK) and Donatas Chipak and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 31 Dec 2026 |
-| Venue | Gallery 1986 |
+| Venue | gallery 1986 |
 | City | Vilnius |
 
 ## Line-up

@@ -1,6 +1,6 @@
 # Roderic [Dafne Records / Katermukke] at Do Not Sit On The Furniture
 
-Roderic [Dafne Records / Katermukke] at Do Not Sit On The Furniture on Fri 25 Dec, Miami. 1 artist: Roderic. House and Deep House. See the line-up on soundcheck.
+Roderic [Dafne Records / Katermukke] at Do Not Sit On The Furniture on Fri 25 Dec, Miami. 2 artists: baez and Roderic. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Roderic [Dafne Records / Katermukke] at Do Not Sit On The Furniture on Fri 25 De
 
 ## Line-up
 
+- baez
 - Roderic
 
 *Source: [soundcheck](https://soundcheck.club/e/2569567-roderic-dafne-records-katermukke-at-do-not-sit-on-the-furnit/)*

@@ -1,6 +1,6 @@
 # Franco Brida
 
-Franco Brida is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Safestay Rooftop, Barcelona on Fri, 13 Nov 2026.
+Franco Brida is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Safestay Rooftop, Barcelona on Fri, 13 Nov 2026.
 
 Franco Brida is a techno and tech house artist based in Argentina, with 18 gigs on soundcheck across Barcelona and Paris. Often billed alongside Cucumelo, Jeremy Young and Julian Petru. Next up: Safestay Rooftop, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Franco Brida is a techno and tech house artist based in Argentina, with 18 gigs 
 
 Cucumelo, Jeremy Young, Julian Petru
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francobrida/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francobrida/)*

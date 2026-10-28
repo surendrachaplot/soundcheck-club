@@ -1,6 +1,6 @@
 # Yun Line
 
-Yun Line is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hertz, Seoul on Fri, 30 Oct 2026.
+Yun Line is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hertz, Seoul on Fri, 30 Oct 2026.
 
 Yun Line is a techno and house artist based in South Korea, with 35 gigs on soundcheck across Seoul. Often billed alongside S.Telecom, Zoonpark and PAIK. Next up: Hertz, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Yun Line is a techno and house artist based in South Korea, with 35 gigs on soun
 
 S.Telecom, Zoonpark, PAIK
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunline/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunline/)*

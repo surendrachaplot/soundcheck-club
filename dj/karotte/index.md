@@ -1,14 +1,15 @@
 # Karotte
 
-Karotte is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 14 Nov 2026.
+Karotte is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 14 Nov 2026.
 
-Karotte is a techno and house artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside Gregor Tresher, Lilly Palmer and Anja Schneider. Next up: Fridas Pier, Stuttgart on Sat 14 Nov.
+Karotte is a techno and house artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside Gregor Tresher, Lilly Palmer and Anja Schneider. Next up: Fridas Pier, Stuttgart on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Fridas Pier | Stuttgart |
+| Sat, 28 Nov 2026 | Leib & Seele | Frankfurt |
 | Sat, 5 Dec 2026 | SASS Music Club | Vienna |
 
 ## Recently played
@@ -26,4 +27,4 @@ Karotte is a techno and house artist based in Germany, with 80 gigs on soundchec
 
 Gregor Tresher, Lilly Palmer, Anja Schneider
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karotte/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karotte/)*

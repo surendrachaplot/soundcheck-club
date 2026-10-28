@@ -1,6 +1,6 @@
 # La Récré
 
-La Récré is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Behind the Fog" on Sat, 7 Nov 2026.
+La Récré is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Behind the Fog" on Sat, 7 Nov 2026.
 
 La Récré is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including Cidoine, Frits Wentink, Silktits and wetdogg. See dates, start times and who's playing. 5860 Av. De Lorimier, Montréal, QC H2G 2N9.
 
@@ -15,4 +15,4 @@ La Récré is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, w
 
 5860 Av. De Lorimier, Montréal, QC H2G 2N9, Montreal
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-r-cr/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-r-cr/)*

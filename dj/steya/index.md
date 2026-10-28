@@ -1,14 +1,15 @@
 # STEYA
 
-STEYA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat, 14 Nov 2026.
+STEYA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat, 14 Nov 2026.
 
-STEYA is a techno and trance artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside Marcel Fengler, OGUZ and Caniche. Next up: TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat 14 Nov.
+STEYA is a techno and trance artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside Marcel Fengler, OGUZ and Caniche. Next up: TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84, Tbilisi on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84 | Tbilisi |
+| Fri, 20 Nov 2026 | Vektor - The Klub | Budapest |
 | Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ STEYA is a techno and trance artist based in Germany, with 92 gigs on soundcheck
 
 Marcel Fengler, OGUZ, Caniche
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steya/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steya/)*

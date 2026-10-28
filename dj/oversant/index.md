@@ -1,6 +1,6 @@
 # Oversant
 
-Oversant is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Safestay Rooftop, Barcelona on Fri, 13 Nov 2026.
+Oversant is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Safestay Rooftop, Barcelona on Fri, 13 Nov 2026.
 
 Oversant is a house and deep house artist, with 20 gigs on soundcheck across Barcelona. Often billed alongside Nickewer, Juan Guerra and Lautaro Deem. Next up: Safestay Rooftop, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Oversant is a house and deep house artist, with 20 gigs on soundcheck across Bar
 
 Nickewer, Juan Guerra, Lautaro Deem
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oversant/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oversant/)*

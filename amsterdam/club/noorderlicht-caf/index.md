@@ -1,6 +1,6 @@
 # Noorderlicht Café
 
-Noorderlicht Café is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Samen 45: Amsterdams Most Wanted X Noorderlicht" on Sat, 14 Nov 2026.
+Noorderlicht Café is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Samen 45: Amsterdams Most Wanted X Noorderlicht" on Sat, 14 Nov 2026.
 
 Noorderlicht Café is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Antonio Fevola, DJ Chuckie, Dam Swindle and Dimitri Kneppers and 2 more. See dates, start times and who's playing. NDSM-Plein 102, 1033 WB Amsterdam, Netherlands.
 
@@ -15,4 +15,4 @@ Noorderlicht Café is a music venue in Amsterdam listed on soundcheck. 2 upcomin
 
 NDSM-Plein 102, 1033 WB Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/noorderlicht-caf/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/noorderlicht-caf/)*

@@ -1,6 +1,6 @@
 # DJ Craigslist
 
-DJ Craigslist is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Standard Time, Toronto on Sun, 8 Nov 2026.
+DJ Craigslist is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Standard Time, Toronto on Sun, 8 Nov 2026.
 
 DJ Craigslist is a post-punk and ebm artist, with 6 gigs on soundcheck across Toronto. Often billed alongside Mikey Apples, Tony Price and Andrew Ross. Next up: Standard Time, Toronto on Sun 8 Nov.
 
@@ -22,4 +22,4 @@ DJ Craigslist is a post-punk and ebm artist, with 6 gigs on soundcheck across To
 
 Mikey Apples, Tony Price, Andrew Ross
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcraigslist/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcraigslist/)*

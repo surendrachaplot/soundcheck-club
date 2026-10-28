@@ -1,6 +1,6 @@
 # Vidrik
 
-Vidrik is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 31 Oct 2026.
+Vidrik is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 31 Oct 2026.
 
 Vidrik is a techno and dub techno artist, with 7 gigs on soundcheck across Berlin and Florence. Often billed alongside Ectoplasm, Distorted Planet and A.D.A.G.. Next up: Deposito Pontecorvo, Florence on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Vidrik is a techno and dub techno artist, with 7 gigs on soundcheck across Berli
 
 Ectoplasm, Distorted Planet, A.D.A.G.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vidrik/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vidrik/)*

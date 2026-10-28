@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Q Nightclub, Seattle on Thu, 29 Oct 2026.
+Joseph Capriati is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Q Nightclub, Seattle on Thu, 29 Oct 2026.
 
 Joseph Capriati is a techno and house artist based in Italy, with 245 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 53 more. Often billed alongside Jamie Jones, Indira Paganotto and Seth Troxler. Next up: Q Nightclub, Seattle on Thu 29 Oct.
 
@@ -36,4 +36,4 @@ Joseph Capriati is a techno and house artist based in Italy, with 245 gigs on so
 
 Jamie Jones, Indira Paganotto, Seth Troxler
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

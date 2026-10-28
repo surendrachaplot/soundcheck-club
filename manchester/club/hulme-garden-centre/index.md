@@ -1,6 +1,6 @@
 # Hulme Garden Centre
 
-Hulme Garden Centre is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "cuesta x Faith In Nature present: DEEP ROOT" on Sat, 14 Nov 2026.
+Hulme Garden Centre is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "cuesta x Faith In Nature present: DEEP ROOT" on Sat, 14 Nov 2026.
 
 Hulme Garden Centre is a music venue in Manchester listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 28 Old Birley St, Hulme, Manchester M15 5RG.
 
@@ -15,4 +15,4 @@ Hulme Garden Centre is a music venue in Manchester listed on soundcheck. 2 upcom
 
 28 Old Birley St, Hulme, Manchester M15 5RG, Manchester
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hulme-garden-centre/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hulme-garden-centre/)*

@@ -1,6 +1,6 @@
 # Beate Barfuß /// Metanoia Showcase at Beate Uwe
 
-Beate Barfuß /// Metanoia Showcase at Beate Uwe on Sun 8 Nov, Berlin. 4 artists: Coss, David Benjamin, SUKISU and Zettka. Deep House and Downtempo. See the line-up on soundcheck.
+Beate Barfuß /// Metanoia Showcase at Beate Uwe on Sun 8 Nov, Berlin. 5 artists: Coss, David Benjamin, Numen and SUKISU and 1 more. Deep House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Beate Barfuß /// Metanoia Showcase at Beate Uwe on Sun 8 Nov, Berlin. 4 artists
 
 - Coss
 - David Benjamin
+- Numen
 - SUKISU
 - Zettka
 

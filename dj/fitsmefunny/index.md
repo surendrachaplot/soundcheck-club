@@ -1,8 +1,8 @@
 # FITS ME FUNNY
 
-FITS ME FUNNY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Greyhound, London on Sat, 31 Oct 2026.
+FITS ME FUNNY is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Greyhound, London on Sat, 31 Oct 2026.
 
-FITS ME FUNNY is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Brighton, London and Manchester. Often billed alongside ANLON, DJ VALENTINE and Emile. Next up: The Greyhound, London on Sat 31 Oct.
+FITS ME FUNNY is a house and techno artist based in United Kingdom, with 59 gigs on soundcheck across Brighton, London and Manchester. Often billed alongside ANLON, DJ VALENTINE and Emile. Next up: The Greyhound, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ FITS ME FUNNY is a house and techno artist based in United Kingdom, with 58 gigs
 | Sat, 31 Oct 2026 | The Greyhound | London |
 | Fri, 6 Nov 2026 | Dalston Den | London |
 | Fri, 13 Nov 2026 | radial | London |
+| Sat, 12 Dec 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ FITS ME FUNNY is a house and techno artist based in United Kingdom, with 58 gigs
 
 ANLON, DJ VALENTINE, Emile
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fitsmefunny/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fitsmefunny/)*

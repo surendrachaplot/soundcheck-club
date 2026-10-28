@@ -1,6 +1,6 @@
 # MAD – 75 YEARS OF MADNESS at Goldener Salon
 
-MAD – 75 YEARS OF MADNESS at Goldener Salon on Fri 13 Nov, Hamburg. 8 artists: Bennet, Daisy Weweh, DJ KILLING and DSGNRPSSY and 4 more. See the line-up on soundcheck.
+MAD – 75 YEARS OF MADNESS at Goldener Salon on Fri 13 Nov, Hamburg. 8 artists: Bennet (DE), Daisy Weweh, DJ KILLING and DSGNRPSSY and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ MAD – 75 YEARS OF MADNESS at Goldener Salon on Fri 13 Nov, Hamburg. 8 artists
 
 ## Line-up
 
-- Bennet
+- Bennet (DE)
 - Daisy Weweh
 - DJ KILLING
 - DSGNRPSSY

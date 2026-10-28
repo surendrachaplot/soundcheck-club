@@ -1,6 +1,6 @@
 # Odium
 
-Odium is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Epic Prague, Prague on Sat, 7 Nov 2026.
+Odium is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Epic Prague, Prague on Sat, 7 Nov 2026.
 
 Odium is a hardcore and techno artist based in Germany, with 6 gigs on soundcheck across Amsterdam, Berlin, Paris and Prague. Often billed alongside Aynaet, Code Black and Elijah Taylor. Next up: Epic Prague, Prague on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Odium is a hardcore and techno artist based in Germany, with 6 gigs on soundchec
 
 Aynaet, Code Black, Elijah Taylor
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odium/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odium/)*

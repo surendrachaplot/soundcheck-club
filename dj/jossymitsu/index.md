@@ -1,6 +1,6 @@
 # Jossy Mitsu
 
-Jossy Mitsu is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Drop inn, Birmingham on Fri, 30 Oct 2026.
+Jossy Mitsu is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Drop inn, Birmingham on Fri, 30 Oct 2026.
 
 Jossy Mitsu is a techno and bass artist, with 111 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 33 more. Often billed alongside Bluetoof, BLUMITSU and Neffa-T. Next up: The Drop inn, Birmingham on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Jossy Mitsu is a techno and bass artist, with 111 gigs on soundcheck across Adel
 
 Bluetoof, BLUMITSU, Neffa-T
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossymitsu/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossymitsu/)*

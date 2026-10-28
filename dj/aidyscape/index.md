@@ -1,6 +1,6 @@
 # Aidyscape
 
-Aidyscape is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at WaV, Liverpool on Sat, 12 Dec 2026.
+Aidyscape is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at WaV, Liverpool on Sat, 12 Dec 2026.
 
 Aidyscape is a trance and techno artist based in United Kingdom, with 6 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Daxson, Andrew Sharpe and C-systems. Next up: WaV, Liverpool on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Aidyscape is a trance and techno artist based in United Kingdom, with 6 gigs on 
 
 Daxson, Andrew Sharpe, C-systems
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aidyscape/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aidyscape/)*

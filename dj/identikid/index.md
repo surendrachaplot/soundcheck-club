@@ -1,6 +1,6 @@
 # Identikid
 
-Identikid is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Meraki, Liverpool on Fri, 20 Nov 2026.
+Identikid is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Meraki, Liverpool on Fri, 20 Nov 2026.
 
 Identikid is a techno and electro artist, with 25 gigs on soundcheck across Liverpool. Often billed alongside Waxtek, djcd and All Trades. Next up: Meraki, Liverpool on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Identikid is a techno and electro artist, with 25 gigs on soundcheck across Live
 
 Waxtek, djcd, All Trades
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/identikid/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/identikid/)*

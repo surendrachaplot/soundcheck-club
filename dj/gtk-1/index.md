@@ -1,6 +1,6 @@
 # GTK (1)
 
-GTK (1) is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 20 Nov 2026.
+GTK (1) is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 20 Nov 2026.
 
 GTK is a garage and drum & bass artist based in France, with 7 gigs on soundcheck across Lisbon and Strasbourg. Often billed alongside LOWLO, Lakaii and Thëskal. Next up: Karmen Camina, Strasbourg on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ GTK is a garage and drum & bass artist based in France, with 7 gigs on soundchec
 
 LOWLO, Lakaii, Thëskal
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gtk-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gtk-1/)*

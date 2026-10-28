@@ -1,6 +1,6 @@
 # UTILITY
 
-UTILITY is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cairo Jazz Club, Egypt on Thu, 5 Nov 2026.
+UTILITY is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cairo Jazz Club, Egypt on Thu, 5 Nov 2026.
 
 UTILITY is a hip-hop and baile funk artist based in Australia, with 16 gigs on soundcheck across Amsterdam, Berlin, Brussels and Egypt and 6 more. Often billed alongside Vv Pete, Brodinski and nunguja. Next up: Cairo Jazz Club, Egypt on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ UTILITY is a hip-hop and baile funk artist based in Australia, with 16 gigs on s
 
 Vv Pete, Brodinski, nunguja
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/utility/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/utility/)*

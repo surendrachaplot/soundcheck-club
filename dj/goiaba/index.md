@@ -1,6 +1,6 @@
 # Goiaba
 
-Goiaba is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
+Goiaba is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
 
 Goiaba is a house and tech house artist based in Germany, with 30 gigs on soundcheck across Berlin, Düsseldorf, Frankfurt and Munich and 1 more. Often billed alongside Chet Rubbs, VSSL and Bernd Affleck. Next up: Lieberscholli, Munich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Goiaba is a house and tech house artist based in Germany, with 30 gigs on soundc
 
 Chet Rubbs, VSSL, Bernd Affleck
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goiaba/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goiaba/)*

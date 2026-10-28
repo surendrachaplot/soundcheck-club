@@ -1,6 +1,6 @@
 # AELVA K
 
-AELVA K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Helios37, Cologne on Sat, 21 Nov 2026.
+AELVA K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Helios37, Cologne on Sat, 21 Nov 2026.
 
 AELVA K is a techno and house artist based in Sweden, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside S-vibe, Aleksander Lopez and Aja Gulris. Next up: Helios37, Cologne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ AELVA K is a techno and house artist based in Sweden, with 59 gigs on soundcheck
 
 S-vibe, Aleksander Lopez, Aja Gulris
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aelvak/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aelvak/)*

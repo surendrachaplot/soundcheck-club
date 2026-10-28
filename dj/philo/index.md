@@ -1,6 +1,6 @@
 # Philo
 
-Philo is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
+Philo is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
 
 Philo is a drum & bass and techno artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Cologne and 4 more. Often billed alongside 24hr Garage Girls, 4am Kru and A Little Sound. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Philo is a drum & bass and techno artist based in Germany, with 14 gigs on sound
 
 24hr Garage Girls, 4am Kru, A Little Sound
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philo/)*

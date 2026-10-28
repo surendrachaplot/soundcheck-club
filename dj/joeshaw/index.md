@@ -1,6 +1,6 @@
 # Joe Shaw
 
-Joe Shaw is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eiger Studios, Leeds on Fri, 4 Dec 2026.
+Joe Shaw is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eiger Studios, Leeds on Fri, 4 Dec 2026.
 
 Joe Shaw is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across Leeds. Often billed alongside Joe FM, Anastasia McGarel and James Frances. Next up: Eiger Studios, Leeds on Fri 4 Dec.
 
@@ -22,4 +22,4 @@ Joe Shaw is a house and disco artist based in United Kingdom, with 6 gigs on sou
 
 Joe FM, Anastasia McGarel, James Frances
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeshaw/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeshaw/)*

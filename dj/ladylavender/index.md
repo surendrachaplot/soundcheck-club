@@ -1,6 +1,6 @@
 # lady lavender
 
-lady lavender is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sun, 1 Nov 2026.
+lady lavender is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sun, 1 Nov 2026.
 
 lady lavender is a house and techno artist based in United States of America, with 93 gigs on soundcheck across Austin, Baltimore, New Orleans and New York City and 3 more. Often billed alongside Nile Ashton, secret handshake and D1ME. Next up: The Crypt (New Orleans), New Orleans on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ lady lavender is a house and techno artist based in United States of America, wi
 
 Nile Ashton, secret handshake, D1ME
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*

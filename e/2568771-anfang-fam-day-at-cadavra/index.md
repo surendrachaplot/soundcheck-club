@@ -1,6 +1,6 @@
 # ANFANG FAM DAY at Cadavra
 
-ANFANG FAM DAY at Cadavra on Thu 5 Nov, Madrid. 3 artists: Fiama Molina, MÄEM and Mario Blur. Techno and Electronica. See the line-up on soundcheck.
+ANFANG FAM DAY at Cadavra on Thu 5 Nov, Madrid. 2 artists: MÄEM and Mario Blur. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ ANFANG FAM DAY at Cadavra on Thu 5 Nov, Madrid. 3 artists: Fiama Molina, MÄEM a
 
 ## Line-up
 
-- Fiama Molina
 - MÄEM
 - Mario Blur
 

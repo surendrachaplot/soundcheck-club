@@ -1,6 +1,6 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 17 Little Portland Street, London on Thu, 29 Oct 2026.
+B.Love is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 17 Little Portland Street, London on Thu, 29 Oct 2026.
 
 B.Love is a house and tech house artist based in United Kingdom, with 96 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 18 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: 17 Little Portland Street, London on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ B.Love is a house and tech house artist based in United Kingdom, with 96 gigs on
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

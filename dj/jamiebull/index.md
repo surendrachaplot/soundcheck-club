@@ -1,6 +1,6 @@
 # Jamie Bull
 
-Jamie Bull is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at M.O.T, London on Sat, 14 Nov 2026.
+Jamie Bull is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at M.O.T, London on Sat, 14 Nov 2026.
 
 Jamie Bull is a house and disco artist based in United Kingdom, with 46 gigs on soundcheck across Barcelona, Bristol, London and Manchester and 1 more. Often billed alongside Gina Breeze, Will TRAMP! and Erol Alkan. Next up: M.O.T, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jamie Bull is a house and disco artist based in United Kingdom, with 46 gigs on 
 
 Gina Breeze, Will TRAMP!, Erol Alkan
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebull/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebull/)*

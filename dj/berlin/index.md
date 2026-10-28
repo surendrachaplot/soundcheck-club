@@ -1,6 +1,6 @@
 # BERLIN
 
-BERLIN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bike Jesus, Prague on Fri, 4 Dec 2026.
+BERLIN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bike Jesus, Prague on Fri, 4 Dec 2026.
 
 BERLIN is a techno and house artist based in Japan, with 51 gigs on soundcheck across Berlin, Dresden, Hamburg and Montreal and 4 more. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: Bike Jesus, Prague on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ BERLIN is a techno and house artist based in Japan, with 51 gigs on soundcheck a
 
 Laigonen Kanonen, V (NYC), Max Muth
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*

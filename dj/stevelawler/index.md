@@ -1,13 +1,14 @@
 # Steve Lawler
 
-Steve Lawler is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Edge Miami, Miami on Sat, 5 Dec 2026.
+Steve Lawler is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Story Toronto, Toronto on Sat, 31 Oct 2026.
 
-Steve Lawler is a house and progressive house artist based in United Kingdom, with 67 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and London and 11 more. Often billed alongside gaeb, Ella Romand and Will Taylor. Next up: Edge Miami, Miami on Sat 5 Dec.
+Steve Lawler is a house and progressive house artist based in United Kingdom, with 68 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and London and 11 more. Often billed alongside gaeb, Driss Skali and Ella Romand. Next up: Story Toronto, Toronto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Story Toronto | Toronto |
 | Sat, 5 Dec 2026 | Edge Miami | Miami |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
@@ -24,6 +25,6 @@ Steve Lawler is a house and progressive house artist based in United Kingdom, wi
 
 ## Shares bills with
 
-gaeb, Ella Romand, Will Taylor
+gaeb, Driss Skali, Ella Romand
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevelawler/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevelawler/)*

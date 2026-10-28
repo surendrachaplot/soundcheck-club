@@ -1,13 +1,14 @@
 # Rakans
 
-Rakans is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Wanderlust, Paris on Sat, 31 Oct 2026.
+Rakans is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Paula, Dresden on Fri, 30 Oct 2026.
 
-Rakans is a techno and house artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside VINVAR, Khloe and The Lady Machine. Next up: Wanderlust, Paris on Sat 31 Oct.
+Rakans is a techno and house artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside VINVAR, Khloe and The Lady Machine. Next up: Club Paula, Dresden on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Club Paula | Dresden |
 | Sat, 31 Oct 2026 | Wanderlust | Paris |
 | Fri, 6 Nov 2026 | Sameheads | Berlin |
 | Sat, 7 Nov 2026 | FLUCC | Vienna |
@@ -29,4 +30,4 @@ Rakans is a techno and house artist based in Germany, with 117 gigs on soundchec
 
 VINVAR, Khloe, The Lady Machine
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*

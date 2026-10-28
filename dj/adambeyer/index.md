@@ -1,6 +1,6 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 31 Oct 2026.
+Adam Beyer is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 31 Oct 2026.
 
 Adam Beyer is a techno and tech house artist based in Sweden, with 216 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Athens and 62 more. Often billed alongside Bart Skils, Eric Prydz and Patrick Topping. Next up: TBA - Lurin live, Peru on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Adam Beyer is a techno and tech house artist based in Sweden, with 216 gigs on s
 
 Bart Skils, Eric Prydz, Patrick Topping
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*

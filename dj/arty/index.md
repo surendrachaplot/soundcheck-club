@@ -1,6 +1,6 @@
 # Arty
 
-Arty is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pier 17, New York City on Sat, 31 Oct 2026.
+Arty is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pier 17, New York City on Sat, 31 Oct 2026.
 
 Arty is a house and progressive house artist based in Russia, with 33 gigs on soundcheck across Bangkok, Boston, Chicago and Denver and 10 more. Often billed alongside Jartley, Binyamhn and Eli Shaw. Next up: Pier 17, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Arty is a house and progressive house artist based in Russia, with 33 gigs on so
 
 Jartley, Binyamhn, Eli Shaw
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arty/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arty/)*

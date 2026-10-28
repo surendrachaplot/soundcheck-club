@@ -1,6 +1,6 @@
 # Measure Divide
 
-Measure Divide is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Standard Time, Toronto on Sat, 7 Nov 2026.
+Measure Divide is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Standard Time, Toronto on Sat, 7 Nov 2026.
 
 Measure Divide is a techno and acid artist based in Pakistan, with 91 gigs on soundcheck across Berlin, Chicago, Detroit and Istanbul and 12 more. Often billed alongside AADJA, Circumscums and Vadim Khan. Next up: Standard Time, Toronto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Measure Divide is a techno and acid artist based in Pakistan, with 91 gigs on so
 
 AADJA, Circumscums, Vadim Khan
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/measuredivide/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/measuredivide/)*

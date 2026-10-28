@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Pre- HALLOWEEN TURN UP" on Fri, 30 Oct 2026.
+TV Lounge is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Pre- HALLOWEEN TURN UP" on Fri, 30 Oct 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including Bruce Bailey, DJ Bone, Eli Escobar and hypemelo and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -18,4 +18,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, wit
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

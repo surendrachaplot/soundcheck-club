@@ -1,6 +1,6 @@
 # Universal Cave
 
-Universal Cave is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA -  A THRILLING TRANSCENDENTAL Secret Location !!! , Philadelphia on Sat, 31 Oct 2026.
+Universal Cave is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA -  A THRILLING TRANSCENDENTAL Secret Location !!! , Philadelphia on Sat, 31 Oct 2026.
 
 Universal Cave is a house and disco artist based in United States of America, with 39 gigs on soundcheck across New York City, Philadelphia, San Francisco/Oakland and Washington DC. Often billed alongside Shawn Ryan, Zillas on Acid and Dave P. Next up: TBA -  A THRILLING TRANSCENDENTAL Secret Location !!! , Philadelphia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Universal Cave is a house and disco artist based in United States of America, wi
 
 Shawn Ryan, Zillas on Acid, Dave P
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/universalcave/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/universalcave/)*

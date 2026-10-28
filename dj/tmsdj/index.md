@@ -1,6 +1,6 @@
 # TMS (Dj)
 
-TMS (Dj) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at OST, Berlin on Thu, 5 Nov 2026.
+TMS (Dj) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at OST, Berlin on Thu, 5 Nov 2026.
 
 TMS (Dj) is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside WAN.1, Jon10 and Backyard Mix. Next up: OST, Berlin on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ TMS (Dj) is a techno and trance artist based in Germany, with 16 gigs on soundch
 
 WAN.1, Jon10, Backyard Mix
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmsdj/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tmsdj/)*

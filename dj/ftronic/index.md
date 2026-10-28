@@ -1,6 +1,6 @@
 # fTronic
 
-fTronic is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Star of Bethnal Green, London on Fri, 30 Oct 2026.
+fTronic is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Star of Bethnal Green, London on Fri, 30 Oct 2026.
 
 fTronic is a house and electronica artist based in United Kingdom, with 29 gigs on soundcheck across London. Often billed alongside PEDRØ, MAÏS and Benebe. Next up: Star of Bethnal Green, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ fTronic is a house and electronica artist based in United Kingdom, with 29 gigs 
 
 PEDRØ, MAÏS, Benebe
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ftronic/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ftronic/)*

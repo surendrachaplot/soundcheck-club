@@ -1,8 +1,8 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location, Atlanta on Fri, 30 Oct 2026.
+Ellen Allien is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Location, Atlanta on Fri, 30 Oct 2026.
 
-Ellen Allien is a techno and house artist based in Germany, with 295 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 79 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: TBA - Secret Location, Atlanta on Fri 30 Oct.
+Ellen Allien is a techno and house artist based in Germany, with 297 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: TBA - Secret Location, Atlanta on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,12 +13,13 @@ Ellen Allien is a techno and house artist based in Germany, with 295 gigs on sou
 | Fri, 6 Nov 2026 | Gewölbe | Cologne |
 | Sat, 7 Nov 2026 | fabric | London |
 | Fri, 13 Nov 2026 | Signal | New York City |
+| Fri, 13 Nov 2026 | Stereo | Montreal |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 28 Nov 2026 | TRAUM | Antwerp |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 | Sat, 12 Dec 2026 | Q35 WAREHOUSE | Turin |
-| Sat, 16 Jan 2027 | The Castle of Good Hope | Cape-town |
+| Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Ellen Allien is a techno and house artist based in Germany, with 295 gigs on sou
 
 Dr. Rubinstein, Shaleen, Daria Kolosova
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

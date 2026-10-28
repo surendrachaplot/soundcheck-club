@@ -1,6 +1,6 @@
 # Santiago Salazar
 
-Santiago Salazar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Detroit on Fri, 30 Oct 2026.
+Santiago Salazar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Detroit on Fri, 30 Oct 2026.
 
 Santiago Salazar is a house and techno artist, with 30 gigs on soundcheck across Detroit, Los Angeles, New York City and Pittsburgh and 2 more. Often billed alongside Andy Oro, Juliet Mendoza and Nomadico. Next up: TBA, Detroit on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Santiago Salazar is a house and techno artist, with 30 gigs on soundcheck across
 
 Andy Oro, Juliet Mendoza, Nomadico
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagosalazar/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagosalazar/)*

@@ -1,6 +1,6 @@
 # babyschön
 
-babyschön is a House and Acid artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Carlton Club, Manchester on Sat, 31 Oct 2026.
+babyschön is a House and Acid artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Carlton Club, Manchester on Sat, 31 Oct 2026.
 
 babyschön is a house and acid artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 14 more. Often billed alongside Tia Cousins, DJ Subaru and Harry James. Next up: The Carlton Club, Manchester on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ babyschön is a house and acid artist based in United Kingdom, with 93 gigs on s
 
 Tia Cousins, DJ Subaru, Harry James
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*

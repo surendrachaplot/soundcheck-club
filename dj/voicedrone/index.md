@@ -1,6 +1,6 @@
 # Voicedrone
 
-Voicedrone is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+Voicedrone is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
 Voicedrone is a techno and house artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside James Newmarch, Anabel Arroyo and Alba Heidari. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Voicedrone is a techno and house artist based in United Kingdom, with 88 gigs on
 
 James Newmarch, Anabel Arroyo, Alba Heidari
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voicedrone/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voicedrone/)*

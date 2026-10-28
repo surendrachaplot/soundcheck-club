@@ -1,6 +1,6 @@
 # AnDe Trois
 
-AnDe Trois is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+AnDe Trois is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
 
 AnDe Trois is a techno and industrial artist, with 10 gigs on soundcheck across Amsterdam, Bologna, Cyprus and Lausanne and 5 more. Often billed alongside Doumu, Joris Turenhout and ALEXANDER M. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
 
@@ -25,4 +25,4 @@ AnDe Trois is a techno and industrial artist, with 10 gigs on soundcheck across 
 
 Doumu, Joris Turenhout, ALEXANDER M
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andetrois/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andetrois/)*

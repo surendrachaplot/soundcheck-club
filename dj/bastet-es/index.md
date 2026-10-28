@@ -1,14 +1,15 @@
 # Bastet
 
-Bastet is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at ELYSIUM SEVILLA, South on Fri, 6 Nov 2026.
+Bastet is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at ELYSIUM SEVILLA, South on Fri, 6 Nov 2026.
 
-Bastet is a techno and drum & bass artist, with 11 gigs on soundcheck across Amsterdam, Leeds, Madrid and Manchester and 2 more. Often billed alongside Nina de Koning, DJ Slave and Gino Lightner. Next up: ELYSIUM SEVILLA, South on Fri 6 Nov.
+Bastet is a techno and drum & bass artist, with 12 gigs on soundcheck across Amsterdam, Leeds, Madrid and Manchester and 2 more. Often billed alongside Nina de Koning, DJ Slave and Gino Lightner. Next up: ELYSIUM SEVILLA, South on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | ELYSIUM SEVILLA | South |
+| Fri, 1 Jan 2027 | ELYSIUM SEVILLA | South |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bastet is a techno and drum & bass artist, with 11 gigs on soundcheck across Ams
 
 Nina de Koning, DJ Slave, Gino Lightner
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastet-es/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastet-es/)*

@@ -1,6 +1,6 @@
 # PIX
 
-PIX is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+PIX is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 PIX is a techno and electronica artist, with 18 gigs on soundcheck across Berlin, Bogotá, Mexico City and Sydney. Often billed alongside Stefcon, Fashionably Late and Felinah. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PIX is a techno and electronica artist, with 18 gigs on soundcheck across Berlin
 
 Stefcon, Fashionably Late, Felinah
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pix/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pix/)*

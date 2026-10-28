@@ -1,6 +1,6 @@
 # Laetizia
 
-Laetizia is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Slot, Hamburg on Sat, 31 Oct 2026.
+Laetizia is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Slot, Hamburg on Sat, 31 Oct 2026.
 
 Laetizia is a house and experimental artist based in Germany, with 45 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Munich. Often billed alongside N:in (DE), Shimmy Robin and dj blip. Next up: Slot, Hamburg on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Laetizia is a house and experimental artist based in Germany, with 45 gigs on so
 
 N:in (DE), Shimmy Robin, dj blip
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laetizia/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laetizia/)*

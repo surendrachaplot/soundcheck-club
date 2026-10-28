@@ -1,6 +1,6 @@
 # Chloé
 
-Chloé is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Miniwax, Paris on Thu, 29 Oct 2026.
+Chloé is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Miniwax, Paris on Thu, 29 Oct 2026.
 
 Chloé is a techno and house artist based in France, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 13 more. Often billed alongside Mad Rey, Belaria and Ivan Smagghe. Next up: Miniwax, Paris on Thu 29 Oct.
 
@@ -9,7 +9,7 @@ Chloé is a techno and house artist based in France, with 60 gigs on soundcheck 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Miniwax | Paris |
-| Fri, 30 Oct 2026 | Gallery 1986 | Vilnius |
+| Fri, 30 Oct 2026 | gallery 1986 | Vilnius |
 | Wed, 18 Nov 2026 | Rough Trade Berlin | Berlin |
 | Fri, 27 Nov 2026 | DURO | Milan |
 | Fri, 27 Nov 2026 | DURO | Milan |
@@ -29,4 +29,4 @@ Chloé is a techno and house artist based in France, with 60 gigs on soundcheck 
 
 Mad Rey, Belaria, Ivan Smagghe
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloe/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloe/)*

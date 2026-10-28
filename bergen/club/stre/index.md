@@ -1,6 +1,6 @@
 # Østre
 
-Østre is a music venue in Bergen with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Ekko Festival 2026" on Thu, 29 Oct 2026.
+Østre is a music venue in Bergen with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Ekko Festival 2026" on Thu, 29 Oct 2026.
 
 Østre is a music venue in Bergen listed on soundcheck. 2 upcoming gigs, with line-ups including Carmen Villain, Danilo Plessow, Devon Rexi and Heith and 2 more. See dates, start times and who's playing. Østre Skostredet 3; 5017 Bergen; Norway.
 
@@ -15,4 +15,4 @@
 
 Østre Skostredet 3; 5017 Bergen; Norway, Bergen
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/stre/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/stre/)*

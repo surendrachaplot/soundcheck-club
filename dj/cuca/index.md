@@ -1,6 +1,6 @@
 # Cuca
 
-Cuca is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TRAUMA, Rio de Janeiro on Sun, 1 Nov 2026.
+Cuca is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TRAUMA, Rio de Janeiro on Sun, 1 Nov 2026.
 
 Cuca is a techno and house artist, with 52 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Glau, Ananda (BR) and NORA (BR). Next up: TRAUMA, Rio de Janeiro on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Cuca is a techno and house artist, with 52 gigs on soundcheck across Rio de Jane
 
 Glau, Ananda (BR), NORA (BR)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuca/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuca/)*

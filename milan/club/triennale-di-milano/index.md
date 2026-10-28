@@ -1,6 +1,6 @@
 # Triennale di Milano
 
-Triennale di Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "NEVER ALONE in Triennale" on Fri, 30 Oct 2026.
+Triennale di Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "NEVER ALONE in Triennale" on Fri, 30 Oct 2026.
 
 Triennale di Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Chassol, Hania Rani and Jeff Mills. See dates, start times and who's playing. Via Alemagna 6, Milano, 20100, Italy.
 
@@ -15,4 +15,4 @@ Triennale di Milano is a music venue in Milan listed on soundcheck. 2 upcoming g
 
 Via Alemagna 6, Milano, 20100, Italy, Milan
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/triennale-di-milano/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/triennale-di-milano/)*

@@ -1,6 +1,6 @@
 # JA SAFE
 
-JA SAFE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Fri, 6 Nov 2026.
+JA SAFE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Fri, 6 Nov 2026.
 
 JA SAFE is a techno and trance artist based in Switzerland, with 9 gigs on soundcheck across Berlin, Frankfurt and Zurich. Often billed alongside 18+, AISHA and Aexhy. Next up: Schlachthof Wiesbaden, Frankfurt on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ JA SAFE is a techno and trance artist based in Switzerland, with 9 gigs on sound
 
 18+, AISHA, Aexhy
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasafe/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasafe/)*

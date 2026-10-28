@@ -1,6 +1,6 @@
 # 3PM RECORDS
 
-3PM RECORDS is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Distrikt, Leeds on Sat, 7 Nov 2026.
+3PM RECORDS is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Distrikt, Leeds on Sat, 7 Nov 2026.
 
 3PM RECORDS is a house and minimal artist based in United Kingdom, with 19 gigs on soundcheck across Leeds and Manchester. Often billed alongside Partridge, Fentonffp and Alexandria. Next up: Distrikt, Leeds on Sat 7 Nov.
 
@@ -25,4 +25,4 @@
 
 Partridge, Fentonffp, Alexandria
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3pmrecords/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3pmrecords/)*

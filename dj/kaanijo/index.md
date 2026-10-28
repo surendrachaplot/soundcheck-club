@@ -1,6 +1,6 @@
 # Kaanijo
 
-Kaanijo is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ormside Projects, London on Fri, 13 Nov 2026.
+Kaanijo is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ormside Projects, London on Fri, 13 Nov 2026.
 
 Kaanijo is an electronic artist, with 7 gigs on soundcheck across London. Often billed alongside Manuka Honey, Architect and Baby Cocada. Next up: Ormside Projects, London on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Kaanijo is an electronic artist, with 7 gigs on soundcheck across London. Often 
 
 Manuka Honey, Architect (2), Baby Cocada
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaanijo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaanijo/)*

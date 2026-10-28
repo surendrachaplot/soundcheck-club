@@ -1,6 +1,6 @@
 # Qwenty
 
-Qwenty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Culture Box, Copenhagen on Fri, 27 Nov 2026.
+Qwenty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Culture Box, Copenhagen on Fri, 27 Nov 2026.
 
 Qwenty is a techno and house artist based in Italy, with 13 gigs on soundcheck across Copenhagen and Paris. Often billed alongside DJ B2B, avoN and ASTA MARI. Next up: Culture Box, Copenhagen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Qwenty is a techno and house artist based in Italy, with 13 gigs on soundcheck a
 
 DJ B2B, avoN, ASTA MARI
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qwenty/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qwenty/)*

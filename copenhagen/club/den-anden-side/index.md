@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Resting in the Arms of Morpheus AFTERPARTY" on Fri, 30 Oct 2026.
+Den Anden Side is a music venue in Copenhagen with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Resting in the Arms of Morpheus AFTERPARTY" on Fri, 30 Oct 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming gigs, with line-ups including abs8lute, ALiNA, Anastasia Kristensen and Anders Horse and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -23,4 +23,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming 
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

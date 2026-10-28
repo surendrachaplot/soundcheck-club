@@ -1,6 +1,6 @@
 # dohan & Friends at Macarena Club
 
-dohan & Friends at Macarena Club on Thu 29 Oct, Barcelona. 3 artists: dohan, Jazz K and Saulo Pisa. See the line-up on soundcheck.
+dohan & Friends at Macarena Club on Thu 29 Oct, Barcelona. 4 artists: Black Paps, dohan, Jazz K and Saulo Pisa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ dohan & Friends at Macarena Club on Thu 29 Oct, Barcelona. 3 artists: dohan, Jaz
 
 ## Line-up
 
+- Black Paps
 - dohan
 - Jazz K
 - Saulo Pisa

@@ -1,6 +1,6 @@
 # Dan Chan
 
-Dan Chan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Invisible Wind Factory, Liverpool on Fri, 13 Nov 2026.
+Dan Chan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Invisible Wind Factory, Liverpool on Fri, 13 Nov 2026.
 
 Dan Chan is a techno and house artist, with 15 gigs on soundcheck across Liverpool and Manchester. Often billed alongside MYOHMY, blvk.velvet and Luna Thee Frenchie. Next up: Invisible Wind Factory, Liverpool on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dan Chan is a techno and house artist, with 15 gigs on soundcheck across Liverpo
 
 MYOHMY, blvk.velvet, Luna Thee Frenchie
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danchan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danchan/)*

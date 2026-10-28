@@ -1,13 +1,14 @@
 # Bohan
 
-Bohan is a Electronica and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at B-SIDE, Warsaw on Fri, 13 Nov 2026.
+Bohan is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at B-SIDE, Warsaw on Sat, 7 Nov 2026.
 
-Bohan is an electronica and acid artist based in Belarus, with 18 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Okravan, user228322 and Elvira. Next up: B-SIDE, Warsaw on Fri 13 Nov.
+Bohan is a house and electronica artist based in Belarus, with 19 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Okravan, user228322 and Elvira. Next up: B-SIDE, Warsaw on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | B-SIDE | Warsaw |
 | Fri, 13 Nov 2026 | B-SIDE | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bohan is an electronica and acid artist based in Belarus, with 18 gigs on soundc
 
 Okravan, user228322, Elvira
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bohan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bohan/)*

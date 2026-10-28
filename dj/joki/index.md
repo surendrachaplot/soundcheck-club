@@ -1,6 +1,6 @@
 # JOKI
 
-JOKI is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at HVEN, Tokyo on Fri, 6 Nov 2026.
+JOKI is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at HVEN, Tokyo on Fri, 6 Nov 2026.
 
 JOKI is a house and deep house artist based in United States of America, with 22 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Momentune, Ohishi and 永z遼 / Ryo Nagase. Next up: HVEN, Tokyo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ JOKI is a house and deep house artist based in United States of America, with 22
 
 Momentune, Ohishi, 永z遼 / Ryo Nagase
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joki/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joki/)*

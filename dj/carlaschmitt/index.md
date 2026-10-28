@@ -1,6 +1,6 @@
 # Carla Schmitt
 
-Carla Schmitt is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 27 Nov 2026.
+Carla Schmitt is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 27 Nov 2026.
 
 Carla Schmitt is a techno and trance artist based in France, with 87 gigs on soundcheck across Barcelona, Basel, Berlin and Bordeaux and 26 more. Often billed alongside DURDENHAUER, KTK (DE) and Yasmin Regisford. Next up: Complex Maastricht, Netherlands on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Carla Schmitt is a techno and trance artist based in France, with 87 gigs on sou
 
 DURDENHAUER, KTK (DE), Yasmin Regisford
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschmitt/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschmitt/)*

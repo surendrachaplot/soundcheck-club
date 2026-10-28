@@ -1,6 +1,6 @@
 # Mariio
 
-Mariio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at POTENT, Shanghai on Fri, 30 Oct 2026.
+Mariio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at POTENT, Shanghai on Fri, 30 Oct 2026.
 
 Mariio is a techno and house artist based in China, with 16 gigs on soundcheck across Beijing, Chengdu, Chongqing and Hong Kong and 2 more. Often billed alongside Jeff Chong, LIUYANG and OoLONG. Next up: POTENT, Shanghai on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mariio is a techno and house artist based in China, with 16 gigs on soundcheck a
 
 Jeff Chong, LIUYANG, OoLONG (2)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariio/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariio/)*

@@ -1,6 +1,6 @@
 # Dominika Karaszewska
 
-Dominika Karaszewska is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at OT301, Amsterdam on Sat, 5 Dec 2026.
+Dominika Karaszewska is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at OT301, Amsterdam on Sat, 5 Dec 2026.
 
 Dominika Karaszewska is a techno and garage artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Berlin and Utrecht. Often billed alongside angelboy, Alarico and Amotik. Next up: OT301, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Dominika Karaszewska is a techno and garage artist based in Netherlands, with 13
 
 angelboy, Alarico, Amotik
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikakaraszewska/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikakaraszewska/)*

@@ -1,6 +1,6 @@
 # Sawf
 
-Sawf is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at SMUT Athens, Athens on Sat, 14 Nov 2026.
+Sawf is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at SMUT Athens, Athens on Sat, 14 Nov 2026.
 
 Sawf is a techno artist based in Tanzania, with 14 gigs on soundcheck across Athens, Berlin, Tbilisi and Thessaloniki. Often billed alongside ANFS, 3.14 and Regis. Next up: SMUT Athens, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sawf is a techno artist based in Tanzania, with 14 gigs on soundcheck across Ath
 
 ANFS, 3.14, Regis
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sawf/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sawf/)*

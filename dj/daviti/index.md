@@ -1,8 +1,8 @@
 # Daviti
 
-Daviti is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sensorium, Berlin on Fri, 6 Nov 2026.
+Daviti is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sensorium, Berlin on Fri, 6 Nov 2026.
 
-Daviti is a techno and tech house artist based in Georgia, with 7 gigs on soundcheck across Berlin. Often billed alongside UniKhatu, James Cherry and Viktor Kampf. Next up: Sensorium, Berlin on Fri 6 Nov.
+Daviti is a techno and tech house artist based in Georgia, with 7 gigs on soundcheck across Berlin. Often billed alongside UniKhatu, James Cherry and AZDRA. Next up: Sensorium, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Daviti is a techno and tech house artist based in Georgia, with 7 gigs on soundc
 
 ## Shares bills with
 
-UniKhatu, James Cherry, Viktor Kampf
+UniKhatu, James Cherry, AZDRA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daviti/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daviti/)*

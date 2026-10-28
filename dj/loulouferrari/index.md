@@ -1,6 +1,6 @@
 # Loulou Ferrari
 
-Loulou Ferrari is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sacré, Paris on Sat, 7 Nov 2026.
+Loulou Ferrari is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sacré, Paris on Sat, 7 Nov 2026.
 
 Loulou Ferrari is a house and deep house artist based in France, with 65 gigs on soundcheck across Berlin, Brussels, Geneva and Istanbul and 6 more. Often billed alongside EG, Emma B and Ams (FR). Next up: Sacré, Paris on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Loulou Ferrari is a house and deep house artist based in France, with 65 gigs on
 
 EG (1), Emma B, Ams (FR)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loulouferrari/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loulouferrari/)*

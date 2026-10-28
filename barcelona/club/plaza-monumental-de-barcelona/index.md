@@ -1,6 +1,6 @@
 # Plaza Monumental de Barcelona
 
-Plaza Monumental de Barcelona is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Monumental Club Halloween - Los Ganglios" on Sat, 31 Oct 2026.
+Plaza Monumental de Barcelona is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Monumental Club Halloween - Los Ganglios" on Sat, 31 Oct 2026.
 
 Plaza Monumental de Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Aurora Halal, EYRA, Imox and Jeff Mills and 2 more. See dates, start times and who's playing. Gran Via de les Corts Catalanes, 749, 08013 Barcelona, España.
 
@@ -17,4 +17,4 @@ Plaza Monumental de Barcelona is a music venue in Barcelona listed on soundcheck
 
 Gran Via de les Corts Catalanes, 749, 08013 Barcelona, España, Barcelona
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/plaza-monumental-de-barcelona/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/plaza-monumental-de-barcelona/)*

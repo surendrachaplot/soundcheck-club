@@ -1,6 +1,6 @@
 # Ko Kimura
 
-Ko Kimura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Dec 2026.
+Ko Kimura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Dec 2026.
 
 Ko Kimura is a techno and house artist based in Japan, with 31 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KIMURA, DJ Emma and Q'hey. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Ko Kimura is a techno and house artist based in Japan, with 31 gigs on soundchec
 
 KIMURA, DJ Emma, Q'hey
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kokimura/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kokimura/)*

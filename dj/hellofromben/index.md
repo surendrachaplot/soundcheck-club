@@ -1,6 +1,6 @@
 # Hello From Ben
 
-Hello From Ben is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - The Church, Canal St., Manchester on Sat, 7 Nov 2026.
+Hello From Ben is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - The Church, Canal St., Manchester on Sat, 7 Nov 2026.
 
 Hello From Ben is a house and disco artist based in United Kingdom, with 7 gigs on soundcheck across Manchester. Often billed alongside DJ Scissher, Lenny Ye$ and D-LIA. Next up: TBA - The Church, Canal St., Manchester on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Hello From Ben is a house and disco artist based in United Kingdom, with 7 gigs 
 
 DJ Scissher, Lenny Ye$, D-LIA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellofromben/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellofromben/)*

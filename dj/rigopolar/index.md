@@ -1,6 +1,6 @@
 # Rigopolar
 
-Rigopolar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lion's Den, Miami on Fri, 30 Oct 2026.
+Rigopolar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Lion's Den, Miami on Fri, 30 Oct 2026.
 
 Rigopolar is a house and techno artist, with 27 gigs on soundcheck across Berlin, Guadalajara, Hamburg and Los Angeles and 6 more. Often billed alongside Ark3r, De Mode and Discolypso Crew. Next up: Lion's Den, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rigopolar is a house and techno artist, with 27 gigs on soundcheck across Berlin
 
 Ark3r, De Mode, Discolypso Crew
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rigopolar/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rigopolar/)*

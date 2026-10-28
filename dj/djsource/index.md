@@ -1,6 +1,6 @@
 # DJ SOURCE
 
-DJ SOURCE is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Luna Club, Schleswig-holstein on Fri, 30 Oct 2026.
+DJ SOURCE is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Luna Club, Schleswig-holstein on Fri, 30 Oct 2026.
 
 DJ SOURCE is a techno and breakbeat artist based in Germany, with 119 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Leipzig and 3 more. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: Luna Club, Schleswig Holstein on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ DJ SOURCE is a techno and breakbeat artist based in Germany, with 119 gigs on so
 
 EliaHaze, DJ Babyblade, Anton Jonathan
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsource/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsource/)*

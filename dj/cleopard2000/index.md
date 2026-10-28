@@ -1,6 +1,6 @@
 # Cleopard2000
 
-Cleopard2000 is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
+Cleopard2000 is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
 
 Cleopard2000 is a techno and trance artist based in Germany, with 190 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 40 more. Often billed alongside Mika Heggemann, Elotrance and Trancemaster Krause. Next up: Left Bank Leeds, Leeds on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Cleopard2000 is a techno and trance artist based in Germany, with 190 gigs on so
 
 Mika Heggemann, Elotrance, Trancemaster Krause
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleopard2000/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleopard2000/)*

@@ -1,6 +1,6 @@
 # Chase Aldridge
 
-Chase Aldridge is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Los Angeles on Fri, 30 Oct 2026.
+Chase Aldridge is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Los Angeles on Fri, 30 Oct 2026.
 
 Chase Aldridge is a house and disco artist, with 32 gigs on soundcheck across Los Angeles. Often billed alongside AIRS, Connor Mikami and Stacy Christine. Next up: TBA, Los Angeles on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Chase Aldridge is a house and disco artist, with 32 gigs on soundcheck across Lo
 
 AIRS, Connor Mikami, Stacy Christine
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasealdridge/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasealdridge/)*

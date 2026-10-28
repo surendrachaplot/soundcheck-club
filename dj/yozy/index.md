@@ -1,6 +1,6 @@
 # Yozy
 
-Yozy is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sameheads, Berlin on Thu, 29 Oct 2026.
+Yozy is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sameheads, Berlin on Thu, 29 Oct 2026.
 
 Yozy is a techno and latin bass artist based in Uruguay, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 6 more. Often billed alongside M8NSE, ENGALANAN and AMANTRA. Next up: Sameheads, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Yozy is a techno and latin bass artist based in Uruguay, with 39 gigs on soundch
 
 M8NSE, ENGALANAN, AMANTRA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yozy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yozy/)*

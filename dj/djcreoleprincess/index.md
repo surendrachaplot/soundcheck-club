@@ -1,6 +1,6 @@
 # DJ Creole Princess
 
-DJ Creole Princess is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 31 Oct 2026.
+DJ Creole Princess is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 31 Oct 2026.
 
 DJ Creole Princess is a hip-hop and house artist, with 6 gigs on soundcheck across Berlin, London and New York City. Often billed alongside DotTV, Kieran Dotwav and TEBI TV. Next up: Humboldthain Club, Berlin on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ DJ Creole Princess is a hip-hop and house artist, with 6 gigs on soundcheck acro
 
 DotTV, Kieran Dotwav, TEBI TV
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcreoleprincess/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcreoleprincess/)*

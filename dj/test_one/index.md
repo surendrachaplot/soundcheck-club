@@ -1,6 +1,6 @@
 # Test_One
 
-Test_One is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sorgiva Village, Milan on Sun, 1 Nov 2026.
+Test_One is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sorgiva Village, Milan on Sun, 1 Nov 2026.
 
 Test_One is an electro and techno artist based in Italy, with 26 gigs on soundcheck across Milan. Often billed alongside BEPPE BRANDO, Attilio Cassano and Kalitragus. Next up: Sorgiva Village, Milan on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Test_One is an electro and techno artist based in Italy, with 26 gigs on soundch
 
 BEPPE BRANDO, Attilio Cassano, Kalitragus
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/test_one/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/test_one/)*

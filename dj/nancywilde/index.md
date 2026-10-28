@@ -1,6 +1,6 @@
 # Nancy Wilde
 
-Nancy Wilde is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Radial, London on Sat, 31 Oct 2026.
+Nancy Wilde is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Radial, London on Sat, 31 Oct 2026.
 
 Nancy Wilde is a house and disco artist, with 6 gigs on soundcheck across Galway, London, Tirana and Zagreb. Often billed alongside Mitch Presents, Niall Kelly and Bibiminor. Next up: Radial, London on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Nancy Wilde is a house and disco artist, with 6 gigs on soundcheck across Galway
 
 Mitch Presents, Niall Kelly, Bibiminor
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nancywilde/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nancywilde/)*

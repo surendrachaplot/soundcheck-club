@@ -1,13 +1,15 @@
 # Hollywood Theatre
 
-Hollywood Theatre is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Cut Copy DJ Set" on Tue, 3 Nov 2026.
+Hollywood Theatre is a music venue in Vancouver with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SkiiTour Apres Scream" on Fri, 30 Oct 2026.
 
-Hollywood Theatre is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs, with line-ups including Cooper Saver, Cut Copy, Sina Bathaie and UNKLE. See dates, start times and who's playing. 3123 W Broadway Vancouver, BC V6K 2H2.
+Hollywood Theatre is a music venue in Vancouver listed on soundcheck. 5 upcoming gigs, with line-ups including Cooper Saver, Cut Copy, Sina Bathaie and SkiiTour and 1 more. See dates, start times and who's playing. 3123 W Broadway Vancouver, BC V6K 2H2.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | SkiiTour Apres Scream | SkiiTour |
+| Sat, 31 Oct 2026 | SkiiTour Apres Scream | SkiiTour |
 | Tue, 3 Nov 2026 | Cut Copy DJ Set | Cooper Saver, Cut Copy |
 | Mon, 9 Nov 2026 | Sina Bathaie — White Lotus World Tour: Back Together - Vancouver | Sina Bathaie |
 | Mon, 7 Dec 2026 | UNKLE SOUNDS North America Tour 2026 | UNKLE |
@@ -16,4 +18,4 @@ Hollywood Theatre is a music venue in Vancouver listed on soundcheck. 3 upcoming
 
 3123 W Broadway Vancouver, BC V6K 2H2, Vancouver
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hollywood-theatre/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hollywood-theatre/)*

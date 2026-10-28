@@ -1,6 +1,6 @@
 # Knallplatten
 
-Knallplatten is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 30 Oct 2026.
+Knallplatten is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 30 Oct 2026.
 
 Knallplatten is a trance and techno artist based in Germany, with 34 gigs on soundcheck across Augsburg, Bavaria, Berlin and Munich. Often billed alongside Linz (Grell), Amøn and Dudelburschen. Next up: Lokschuppen Berlin, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Knallplatten is a trance and techno artist based in Germany, with 34 gigs on sou
 
 Linz (Grell), Amøn, Dudelburschen
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knallplatten/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knallplatten/)*

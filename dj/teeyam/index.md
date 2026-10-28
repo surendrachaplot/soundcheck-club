@@ -1,6 +1,6 @@
 # Teeyam
 
-Teeyam is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nightmoves, New York City on Sat, 7 Nov 2026.
+Teeyam is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Nightmoves, New York City on Sat, 7 Nov 2026.
 
 Teeyam is an acid and house artist, with 44 gigs on soundcheck across Istanbul, New York City, Philadelphia and Pittsburgh and 1 more. Often billed alongside DJ Slimey, John Barera and Googoosh Dolls. Next up: Nightmoves, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Teeyam is an acid and house artist, with 44 gigs on soundcheck across Istanbul, 
 
 DJ Slimey, John Barera, Googoosh Dolls
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teeyam/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teeyam/)*

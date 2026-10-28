@@ -1,6 +1,6 @@
 # Jawjee
 
-Jawjee is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Loco Klub, Bristol on Sat, 23 Jan 2027.
+Jawjee is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Loco Klub, Bristol on Sat, 23 Jan 2027.
 
 Jawjee is a progressive house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across Bristol and London. Often billed alongside Guy J, John '00' Fleming and Lavie Au Soleil. Next up: The Loco Klub, Bristol on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Jawjee is a progressive house and deep house artist based in United Kingdom, wit
 
 Guy J, John '00' Fleming, Lavie Au Soleil
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjee-uk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawjee-uk/)*

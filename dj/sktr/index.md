@@ -1,6 +1,6 @@
 # SKTR
 
-SKTR is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Paula, Dresden on Sat, 5 Dec 2026.
+SKTR is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Paula, Dresden on Sat, 5 Dec 2026.
 
 SKTR is a drum & bass and dubstep artist based in Germany, with 18 gigs on soundcheck across Dresden. Often billed alongside M/THREE/D, TINNITUS and 808 CRIME. Next up: Club Paula, Dresden on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ SKTR is a drum & bass and dubstep artist based in Germany, with 18 gigs on sound
 
 M/THREE/D, TINNITUS, 808 CRIME
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sktr/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sktr/)*

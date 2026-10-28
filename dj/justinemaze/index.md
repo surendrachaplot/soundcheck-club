@@ -1,14 +1,15 @@
 # Justine Maze
 
-Justine Maze is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KALT, Strasbourg on Sat, 7 Nov 2026.
+Justine Maze is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at KALT, Strasbourg on Sat, 7 Nov 2026.
 
-Justine Maze is a techno and ebm artist based in France, with 19 gigs on soundcheck across Berlin and Strasbourg. Often billed alongside Lude, Cinder and Tatlo. Next up: KALT, Strasbourg on Sat 7 Nov.
+Justine Maze is a techno and ebm artist based in France, with 20 gigs on soundcheck across Berlin and Strasbourg. Often billed alongside Lude, Cinder and Tatlo. Next up: KALT, Strasbourg on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | KALT | Strasbourg |
+| Sat, 21 Nov 2026 | Karmen Camina | Strasbourg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Justine Maze is a techno and ebm artist based in France, with 19 gigs on soundch
 
 Lude (2), Cinder, Tatlo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinemaze/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinemaze/)*

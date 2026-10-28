@@ -1,6 +1,6 @@
 # The Waxburners
 
-The Waxburners is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Collingwood Basement, Melbourne on Fri, 4 Dec 2026.
+The Waxburners is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Collingwood Basement, Melbourne on Fri, 4 Dec 2026.
 
 The Waxburners is a house and disco artist, with 7 gigs on soundcheck across Melbourne. Often billed alongside Tong 桐, ANNIE KEZ and Bby Cass. Next up: Collingwood Basement, Melbourne on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ The Waxburners is a house and disco artist, with 7 gigs on soundcheck across Mel
 
 Tong 桐, ANNIE KEZ, Bby Cass
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thewaxburners/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thewaxburners/)*

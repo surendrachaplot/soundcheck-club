@@ -1,6 +1,6 @@
 # Doudeh
 
-Doudeh is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KALT, Strasbourg on Sat, 14 Nov 2026.
+Doudeh is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at KALT, Strasbourg on Sat, 14 Nov 2026.
 
 Doudeh is a minimal and tech house artist based in France, with 27 gigs on soundcheck across Lyon, Paris and Strasbourg. Often billed alongside Sunpr, Beignet and Joey 808. Next up: KALT, Strasbourg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Doudeh is a minimal and tech house artist based in France, with 27 gigs on sound
 
 Sunpr, Beignet, Joey 808
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doudeh/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doudeh/)*

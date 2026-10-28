@@ -1,6 +1,6 @@
 # Tatse
 
-Tatse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hoppetosse, Berlin on Fri, 6 Nov 2026.
+Tatse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hoppetosse, Berlin on Fri, 6 Nov 2026.
 
 Tatse is a house and techno artist, with 21 gigs on soundcheck across Berlin. Often billed alongside Ecke & Hugo, - C2C - and Pavelo Promillo. Next up: Hoppetosse, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Tatse is a house and techno artist, with 21 gigs on soundcheck across Berlin. Of
 
 Ecke & Hugo, - C2C -, Pavelo Promillo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatse/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatse/)*

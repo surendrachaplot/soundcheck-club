@@ -1,6 +1,6 @@
 # Ivan Kyrov
 
-Ivan Kyrov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 6 Nov 2026.
+Ivan Kyrov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 6 Nov 2026.
 
 Ivan Kyrov is a techno and house artist based in Australia, with 19 gigs on soundcheck across Beijing, Chongqing, Melbourne and Shanghai and 2 more. Often billed alongside TimTVL, Steve Pan and promzon. Next up: Sub Club Melbourne, Melbourne on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Ivan Kyrov is a techno and house artist based in Australia, with 19 gigs on soun
 
 TimTVL, Steve Pan, promzon
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivankyrov/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivankyrov/)*

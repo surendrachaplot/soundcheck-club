@@ -1,6 +1,6 @@
 # Terikon
 
-Terikon is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Panke, Berlin on Fri, 6 Nov 2026.
+Terikon is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Panke, Berlin on Fri, 6 Nov 2026.
 
 Terikon is a bass and club artist based in Germany, with 29 gigs on soundcheck across Berlin, Paris and Sao Paulo. Often billed alongside Sergey Chernyshov, Ann Mysochka and Habitat Shaking. Next up: Panke, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Terikon is a bass and club artist based in Germany, with 29 gigs on soundcheck a
 
 Sergey Chernyshov, Ann Mysochka, Habitat Shaking
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terikon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terikon/)*

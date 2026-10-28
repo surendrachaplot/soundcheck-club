@@ -1,6 +1,6 @@
 # Silvesterparty at Karlstorbahnhof
 
-Silvesterparty at Karlstorbahnhof on Thu 31 Dec, Heidelberg. See the line-up on soundcheck.
+Silvesterparty at Karlstorbahnhof on Thu 31 Dec, Heidelberg. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

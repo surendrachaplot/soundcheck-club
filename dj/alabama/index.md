@@ -1,6 +1,6 @@
 # alabama
 
-alabama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hall, Tallinn on Sat, 14 Nov 2026.
+alabama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hall, Tallinn on Sat, 14 Nov 2026.
 
 alabama is a techno and house artist based in Estonia, with 7 gigs on soundcheck across Tallinn. Often billed alongside Rummo, Bricc and Brett Rästas. Next up: Hall, Tallinn on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ alabama is a techno and house artist based in Estonia, with 7 gigs on soundcheck
 
 Rummo, Bricc, Brett Rästas
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alabama/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alabama/)*

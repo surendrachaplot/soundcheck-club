@@ -1,6 +1,6 @@
 # Miri Malek
 
-Miri Malek is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at 90mil, Berlin on Sat, 7 Nov 2026.
+Miri Malek is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at 90mil, Berlin on Sat, 7 Nov 2026.
 
 Miri Malek is an experimental and bass artist based in Germany, with 44 gigs on soundcheck across Berlin, Hamburg and New York City. Often billed alongside Dakn, Hilary C/B and ophélie. Next up: 90mil, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Miri Malek is an experimental and bass artist based in Germany, with 44 gigs on 
 
 Dakn, Hilary C/B, ophélie
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirimalek/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirimalek/)*

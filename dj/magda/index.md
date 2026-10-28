@@ -1,6 +1,6 @@
 # Magda
 
-Magda is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
+Magda is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
 
 Magda is a techno and house artist based in United States of America, with 182 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 60 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Magda is a techno and house artist based in United States of America, with 182 g
 
 Mike Servito, Morgan, Tomas Station
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

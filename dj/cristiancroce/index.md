@@ -1,6 +1,6 @@
 # Cristian Croce
 
-Cristian Croce is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sorgiva Village, Milan on Sun, 1 Nov 2026.
+Cristian Croce is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sorgiva Village, Milan on Sun, 1 Nov 2026.
 
 Cristian Croce is a house and techno artist based in Italy, with 44 gigs on soundcheck across Florence and Milan. Often billed alongside Avikal, Dove Quiete and Asevenes. Next up: Sorgiva Village, Milan on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Cristian Croce is a house and techno artist based in Italy, with 44 gigs on soun
 
 Avikal, Dove Quiete, Asevenes
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiancroce/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiancroce/)*

@@ -1,6 +1,6 @@
 # ADAM (9)
 
-ADAM (9) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Vancouver on Fri, 20 Nov 2026.
+ADAM (9) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Vancouver on Fri, 20 Nov 2026.
 
 ADAM is a techno and bass artist based in Canada, with 6 gigs on soundcheck across Vancouver. Often billed alongside SUBDIDI, BINKY and Njoki Njoki. Next up: TBA, Vancouver on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ ADAM is a techno and bass artist based in Canada, with 6 gigs on soundcheck acro
 
 SUBDIDI, BINKY, Njoki Njoki
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adam-9/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adam-9/)*

@@ -1,6 +1,6 @@
 # Star of Bethnal Green
 
-Star of Bethnal Green is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "SLAY THE NIGHT - HORROR DISCO HALLOWEEN PARTY - FREE" on Fri, 30 Oct 2026.
+Star of Bethnal Green is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SLAY THE NIGHT - HORROR DISCO HALLOWEEN PARTY - FREE" on Fri, 30 Oct 2026.
 
 Star of Bethnal Green is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including fTronic and Knayohmi. See dates, start times and who's playing. 359 Bethnal Green Road; Bethnal Green; London E2 6LG; United Kingdom.
 
@@ -15,4 +15,4 @@ Star of Bethnal Green is a music venue in London listed on soundcheck. 2 upcomin
 
 359 Bethnal Green Road; Bethnal Green; London E2 6LG; United Kingdom, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/star-of-bethnal-green/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/star-of-bethnal-green/)*

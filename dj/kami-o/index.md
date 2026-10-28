@@ -1,6 +1,6 @@
 # Kami-O
 
-Kami-O is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+Kami-O is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
 Kami-O is a dubstep and grime artist based in United Kingdom, with 16 gigs on soundcheck across Edinburgh, Glasgow and Manchester. Often billed alongside Skillis, DJ Greenman and ELANDA. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kami-O is a dubstep and grime artist based in United Kingdom, with 16 gigs on so
 
 Skillis, DJ Greenman, ELANDA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kami-o/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kami-o/)*

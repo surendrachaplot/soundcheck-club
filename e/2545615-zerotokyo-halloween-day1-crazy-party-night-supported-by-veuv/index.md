@@ -1,6 +1,6 @@
 # ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' at ZEROTOKYO
 
-ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' on Fri 30 Oct, Tokyo. 3 artists: HATSUYUKI, Junya Shimizu and YOSHIMASA. Pop. See the line-up on soundcheck.
+ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' on Fri 30 Oct, Tokyo. 5 artists: AYANA KOSHIBA, FUJIWARAMONE, HATSUYUKI and Junya Shimizu and 1 more. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yellowee
 
 ## Line-up
 
+- AYANA KOSHIBA
+- FUJIWARAMONE
 - HATSUYUKI
 - Junya Shimizu
 - YOSHIMASA

@@ -1,6 +1,6 @@
 # Kreidler
 
-Kreidler is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at MS Stubnitz, Hamburg on Thu, 12 Nov 2026.
+Kreidler is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at MS Stubnitz, Hamburg on Thu, 12 Nov 2026.
 
 Kreidler is an electronica and experimental artist, with 6 gigs on soundcheck across Berlin, Hamburg and Istanbul. Often billed alongside Die Wilde Jagd, Ece Özel and Eric D. Clark. Next up: MS Stubnitz, Hamburg on Thu 12 Nov.
 
@@ -22,4 +22,4 @@ Kreidler is an electronica and experimental artist, with 6 gigs on soundcheck ac
 
 Die Wilde Jagd, Ece Özel, Eric D. Clark
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kreidler/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kreidler/)*

@@ -1,6 +1,6 @@
 # TiZi (NL)
 
-TiZi (NL) is a Dub and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 14 Nov 2026.
+TiZi (NL) is a Dub and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 14 Nov 2026.
 
 TiZi (NL) is a dub and footwork artist, with 30 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside DEROZAN, Isla Den and Kissen. Next up: Garage Noord, Amsterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ TiZi (NL) is a dub and footwork artist, with 30 gigs on soundcheck across Amster
 
 DEROZAN, Isla Den, Kissen
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tizi-nl/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tizi-nl/)*

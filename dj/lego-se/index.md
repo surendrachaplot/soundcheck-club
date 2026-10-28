@@ -1,6 +1,6 @@
 # lego
 
-lego is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Le Nocturne, Chicago on Sat, 14 Nov 2026.
+lego is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Nocturne, Chicago on Sat, 14 Nov 2026.
 
 lego is a house and techno artist based in Sweden, with 21 gigs on soundcheck across Bangkok, Berlin, Chicago and Gothenburg and 4 more. Often billed alongside Adorio, Brett Rästas and Franz Jäger. Next up: Le Nocturne, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ lego is a house and techno artist based in Sweden, with 21 gigs on soundcheck ac
 
 Adorio, Brett Rästas, Franz Jäger
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lego-se/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lego-se/)*

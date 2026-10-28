@@ -1,6 +1,6 @@
 # DJ TinyHandz
 
-DJ TinyHandz is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Slay, Glasgow on Sat, 14 Nov 2026.
+DJ TinyHandz is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Slay, Glasgow on Sat, 14 Nov 2026.
 
 DJ TinyHandz is a hardcore and trance artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, Glasgow, Leeds and Manchester. Often billed alongside DJ FLUFFIE, Miss Cabbage and HUNTRESS. Next up: Slay, Glasgow on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ TinyHandz is a hardcore and trance artist based in United Kingdom, with 18 gi
 
 DJ FLUFFIE, Miss Cabbage, HUNTRESS
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtinyhandz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtinyhandz/)*

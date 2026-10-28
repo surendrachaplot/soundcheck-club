@@ -1,6 +1,6 @@
 # Despoza
 
-Despoza is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Transformator, Wroclaw on Wed, 11 Nov 2026.
+Despoza is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Transformator, Wroclaw on Wed, 11 Nov 2026.
 
 Despoza is a techno and breakbeat artist based in Poland, with 13 gigs on soundcheck across Poznan and Wroclaw. Often billed alongside Proteina, MAKICH and ADHARDER. Next up: Transformator, Wroclaw on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Despoza is a techno and breakbeat artist based in Poland, with 13 gigs on soundc
 
 Proteina, MAKICH, ADHARDER
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/despoza/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/despoza/)*

@@ -1,6 +1,6 @@
 # Pharaoh Brunson
 
-Pharaoh Brunson is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The White Hotel, Manchester on Sat, 31 Oct 2026.
+Pharaoh Brunson is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The White Hotel, Manchester on Sat, 31 Oct 2026.
 
 Pharaoh Brunson is a house and disco artist based in United Kingdom, with 36 gigs on soundcheck across Hamburg, Leeds, London and Manchester. Often billed alongside Il Bosco, Kickin Pigeon and Royal Male. Next up: The White Hotel, Manchester on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Pharaoh Brunson is a house and disco artist based in United Kingdom, with 36 gig
 
 Il Bosco, Kickin Pigeon, Royal Male
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pharaohbrunson/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pharaohbrunson/)*

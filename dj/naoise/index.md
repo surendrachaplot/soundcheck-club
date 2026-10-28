@@ -1,6 +1,6 @@
 # Naoise
 
-Naoise is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pawn Shop, Dublin on Thu, 29 Oct 2026.
+Naoise is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pawn Shop, Dublin on Thu, 29 Oct 2026.
 
 Naoise is a club and experimental artist based in Ireland, with 27 gigs on soundcheck across Dublin and Galway. Often billed alongside JWY, Lúnasa and Roo Honeychild. Next up: Pawn Shop, Dublin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Naoise is a club and experimental artist based in Ireland, with 27 gigs on sound
 
 JWY (1), Lúnasa, Roo Honeychild
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naoise/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naoise/)*

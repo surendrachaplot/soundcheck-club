@@ -1,6 +1,6 @@
 # Alam
 
-Alam is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mantra Bar, Kuala Lumpur on Wed, 28 Oct 2026.
+Alam is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mantra Bar, Kuala Lumpur on Wed, 28 Oct 2026.
 
 Alam is a house and tech house artist based in Malaysia, with 196 gigs on soundcheck across Bali, Kuala Lumpur and Singapore. Often billed alongside Axel Groove, Victor G (MY) and Odd (MY). Next up: Mantra Bar, Kuala Lumpur on Wed 28 Oct.
 
@@ -29,4 +29,4 @@ Alam is a house and tech house artist based in Malaysia, with 196 gigs on soundc
 
 Axel Groove, Victor G (MY), Odd (MY)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alam/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alam/)*

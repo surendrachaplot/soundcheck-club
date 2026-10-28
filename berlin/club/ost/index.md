@@ -1,6 +1,6 @@
 # OST
 
-OST is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 29 Oct 2026.
+OST is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 29 Oct 2026.
 
 OST is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ALP (DE) and ALT8 and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
@@ -10,7 +10,7 @@ OST is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | [FREE ENTRY TILL 00:30] SAVORY | Khyodo, NO ONE |
 | Fri, 30 Oct 2026 | 5 Years of Gabber Industries Berlin | DJ Henk, DJ Ruffneck, Dagobird, Der Schaffner, Dj Cvntface, FLUCC, IceLipzz, KimberlaID, Lolalita, LØUS, MISSTAKEN, Marc Acardipane, Olmatri, Osiris (2), The Twins Artcore, VILAIN, Viscerale, Von Bikräv, daschka, m4tsch1 |
-| Sat, 31 Oct 2026 | Slave To The Rave Halloween | BAUGRUPPE90, Baron Von Trax, DJ Hell, Tigerhead, Upper90, Yuada, slin |
+| Sat, 31 Oct 2026 | Slave To The Rave Halloween | BAUGRUPPE90, Baron Von Trax, DJ Hell, Upper90, Yuada, slin |
 | Thu, 5 Nov 2026 | [FREE ENTRY TILL 00:30] SAVORY | TIKOA, TMS (Dj), WAN.1, Xiorro |
 | Fri, 6 Nov 2026 | SESH pres. Clara Cuvé invites | ALT8, CALLUSH, Clara Cuvé, DJ Cringey, FJUSHA, PANA (Ger), ROW1, TOXIMAMI |
 | Sat, 7 Nov 2026 | Convent pres. Charlie Sparks, CLTX, Kotorri | Astrid Gnosis, CLTX, Charlie Sparks, GLASSBASS, Lola Cerise, Louv |
@@ -23,4 +23,4 @@ OST is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

@@ -1,6 +1,6 @@
 # Vandorta
 
-Vandorta is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eastway Baths, London on Sat, 12 Dec 2026.
+Vandorta is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eastway Baths, London on Sat, 12 Dec 2026.
 
 Vandorta is a disco and house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Glasgow, London and Madrid and 4 more. Often billed alongside Jaime Rosso, Disco Fucks and Soph. Next up: Eastway Baths, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Vandorta is a disco and house artist based in United Kingdom, with 39 gigs on so
 
 Jaime Rosso, Disco Fucks, Soph
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vandorta/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vandorta/)*

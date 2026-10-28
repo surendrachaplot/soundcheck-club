@@ -1,6 +1,6 @@
 # DJ Ralf
 
-DJ Ralf is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sonora Club, Central on Sat, 7 Nov 2026.
+DJ Ralf is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sonora Club, Central on Sat, 7 Nov 2026.
 
 DJ Ralf is a house and techno artist based in Italy, with 26 gigs on soundcheck across Barcelona, Berlin, Bologna and Central and 7 more. Often billed alongside Germano Ventura, Philipp and Arvenn. Next up: Sonora Club, Central on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ DJ Ralf is a house and techno artist based in Italy, with 26 gigs on soundcheck 
 
 Germano Ventura, Philipp, Arvenn
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djralf/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djralf/)*

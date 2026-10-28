@@ -1,6 +1,6 @@
 # Karla Blum
 
-Karla Blum is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 6 Nov 2026.
+Karla Blum is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 6 Nov 2026.
 
 Karla Blum is a techno and house artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Austria, Berlin and Cologne and 20 more. Often billed alongside Felix Kröcher, A.D.H.S. and Alfred Heinrichs. Next up: Fridas Pier, Stuttgart on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Karla Blum is a techno and house artist based in Germany, with 80 gigs on soundc
 
 Felix Kröcher, A.D.H.S., Alfred Heinrichs
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlablum/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlablum/)*

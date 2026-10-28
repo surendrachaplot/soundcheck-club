@@ -1,6 +1,6 @@
 # r00bies4ever
 
-r00bies4ever is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Brixton Radio, London on Sat, 7 Nov 2026.
+r00bies4ever is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Brixton Radio, London on Sat, 7 Nov 2026.
 
 r00bies4ever is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Chicago and London. Often billed alongside ATT1C, Chaos In The CBD and Janesita. Next up: Brixton Radio, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ r00bies4ever is a techno and house artist based in United States of America, wit
 
 ATT1C, Chaos In The CBD, Janesita
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r00bies4ever/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r00bies4ever/)*

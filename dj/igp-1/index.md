@@ -1,6 +1,6 @@
 # IgP (1)
 
-IgP (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Althea's Rooftop, New York City on Sat, 31 Oct 2026.
+IgP (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Althea's Rooftop, New York City on Sat, 31 Oct 2026.
 
 IgP is a house and techno artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside KRAVE, Bruce Wayne (US) and JHANA. Next up: Althea's Rooftop, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ IgP is a house and techno artist based in United States of America, with 10 gigs
 
 KRAVE, Bruce Wayne (US), JHANA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igp-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igp-1/)*

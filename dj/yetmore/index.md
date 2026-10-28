@@ -1,6 +1,6 @@
 # Yet More
 
-Yet More is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Cyprus on Sat, 31 Oct 2026.
+Yet More is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Cyprus on Sat, 31 Oct 2026.
 
 Yet More is a house and deep house artist based in France, with 74 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside Nandu, Auggië and Miguel Payda. Next up: TBA, Cyprus on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yet More is a house and deep house artist based in France, with 74 gigs on sound
 
 Nandu, Auggië, Miguel Payda
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yetmore/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yetmore/)*

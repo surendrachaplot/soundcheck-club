@@ -1,6 +1,6 @@
 # Frawl
 
-Frawl is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hang Dai Chinese, Dublin on Sat, 31 Oct 2026.
+Frawl is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hang Dai Chinese, Dublin on Sat, 31 Oct 2026.
 
 Frawl is a disco and house artist, with 14 gigs on soundcheck across Cork, Dublin, Galway and Limerick. Often billed alongside Pablo Fatty Fatty, Dave Moloney and Ricky Chong. Next up: Hang Dai Chinese, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Frawl is a disco and house artist, with 14 gigs on soundcheck across Cork, Dubli
 
 Pablo Fatty Fatty, Dave Moloney, Ricky Chong
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frawl/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frawl/)*

@@ -1,6 +1,6 @@
 # Prozak (IRL)
 
-Prozak (IRL) is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 30 Oct 2026.
+Prozak (IRL) is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 30 Oct 2026.
 
 Prozak (IRL) is a garage and bass artist based in Ireland, with 136 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Silva Bumpa, Soul Mass Transit System and Conducta. Next up: Yamamori Tengu, Dublin on Fri 30 Oct.
 
@@ -9,7 +9,7 @@ Prozak (IRL) is a garage and bass artist based in Ireland, with 136 gigs on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Yamamori Tengu | Dublin |
-| Sat, 31 Oct 2026 | Phonox | London |
+| Fri, 30 Oct 2026 | Phonox | London |
 | Fri, 27 Nov 2026 | Yamamori Tengu | Dublin |
 | Fri, 11 Dec 2026 | The Clock Factory | Bristol |
 | Sat, 9 Jan 2027 | Liberty Hall | Sydney |
@@ -29,4 +29,4 @@ Prozak (IRL) is a garage and bass artist based in Ireland, with 136 gigs on soun
 
 Silva Bumpa, Soul Mass Transit System, Conducta
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prozak-irl/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prozak-irl/)*

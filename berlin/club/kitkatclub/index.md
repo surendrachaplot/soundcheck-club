@@ -1,8 +1,8 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 32 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "SYMBIOTIKKA Halloween PSY & Techno Special at KitKat Club" on Wed, 28 Oct 2026.
+KitKatClub is a music venue in Berlin with 33 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SYMBIOTIKKA Halloween PSY & Techno Special at KitKat Club" on Wed, 28 Oct 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 32 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alessia Cattani and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 33 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alessia Cattani and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 32 upcoming gigs, wi
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

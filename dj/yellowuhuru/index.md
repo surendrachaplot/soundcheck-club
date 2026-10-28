@@ -1,6 +1,6 @@
 # YELLOWUHURU
 
-YELLOWUHURU is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mitsuki, Tokyo on Wed, 28 Oct 2026.
+YELLOWUHURU is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mitsuki, Tokyo on Wed, 28 Oct 2026.
 
 YELLOWUHURU is a house and techno artist based in Japan, with 209 gigs on soundcheck across Bangkok, Berlin, Hanoi and Hong Kong and 8 more. Often billed alongside suimin, YAMARCHY and bungo. Next up: Mitsuki, Tokyo on Wed 28 Oct.
 
@@ -30,4 +30,4 @@ YELLOWUHURU is a house and techno artist based in Japan, with 209 gigs on soundc
 
 suimin, YAMARCHY, bungo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowuhuru/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowuhuru/)*

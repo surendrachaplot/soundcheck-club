@@ -1,13 +1,14 @@
 # Mao Loading
 
-Mao Loading is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Torre Barcelona , Bogotá on Sat, 31 Oct 2026.
+Mao Loading is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Egua, Bogotá on Wed, 28 Oct 2026.
 
-Mao Loading is a house and minimal artist based in Colombia, with 104 gigs on soundcheck across Barcelona, Berlin, Bogot and Bogotá and 3 more. Often billed alongside Gabo Forero, Memek and Mao Fonnegra. Next up: TBA - Torre Barcelona , Bogotá on Sat 31 Oct.
+Mao Loading is a house and minimal artist based in Colombia, with 105 gigs on soundcheck across Barcelona, Berlin, Bogot and Bogotá and 3 more. Often billed alongside Gabo Forero, Memek and Mao Fonnegra. Next up: Egua, Bogotá on Wed 28 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 28 Oct 2026 | Egua | Bogotá |
 | Sat, 31 Oct 2026 | TBA - Torre Barcelona  | Bogotá |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mao Loading is a house and minimal artist based in Colombia, with 104 gigs on so
 
 Gabo Forero, Memek, Mao Fonnegra
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maoloading/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maoloading/)*

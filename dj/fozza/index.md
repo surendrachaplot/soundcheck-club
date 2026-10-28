@@ -1,6 +1,6 @@
 # FOZZA
 
-FOZZA is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Dr Morse, Melbourne on Fri, 30 Oct 2026.
+FOZZA is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Dr Morse, Melbourne on Fri, 30 Oct 2026.
 
 FOZZA is a garage and deep house artist based in Australia, with 9 gigs on soundcheck across Hobart and Melbourne. Often billed alongside DJ CASPER, Aaliyah Salem and Alex Morris. Next up: Dr Morse, Melbourne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ FOZZA is a garage and deep house artist based in Australia, with 9 gigs on sound
 
 DJ CASPER (2), Aaliyah Salem, Alex Morris
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fozza/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fozza/)*

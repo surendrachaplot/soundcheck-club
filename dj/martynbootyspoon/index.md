@@ -1,6 +1,6 @@
 # Martyn Bootyspoon
 
-Martyn Bootyspoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at 1088 rue Clark, Montreal on Fri, 30 Oct 2026.
+Martyn Bootyspoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at 1088 rue Clark, Montreal on Fri, 30 Oct 2026.
 
 Martyn Bootyspoon is a techno and house artist based in Canada, with 117 gigs on soundcheck across Atlanta, Austin, Baltimore and Beijing and 28 more. Often billed alongside Goddollars, Jacques Greene and Finn. Next up: 1088 rue Clark, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Martyn Bootyspoon is a techno and house artist based in Canada, with 117 gigs on
 
 Goddollars, Jacques Greene, Finn
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martynbootyspoon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martynbootyspoon/)*

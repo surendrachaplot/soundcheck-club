@@ -1,6 +1,6 @@
 # Ludwig Wandinger
 
-Ludwig Wandinger is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
+Ludwig Wandinger is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
 
 Ludwig Wandinger is an experimental and idm artist based in Germany, with 25 gigs on soundcheck across Basel, Berlin, Bologna and Frankfurt and 1 more. Often billed alongside Yves B Golden, Sara Persico and Dorian Electra. Next up: Volksbühne, Berlin on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Ludwig Wandinger is an experimental and idm artist based in Germany, with 25 gig
 
 Yves B Golden, Sara Persico, Dorian Electra
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludwigwandinger/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludwigwandinger/)*

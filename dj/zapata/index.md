@@ -1,6 +1,6 @@
 # Zapata
 
-Zapata is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Waiting Room, London on Sat, 28 Nov 2026.
+Zapata is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Waiting Room, London on Sat, 28 Nov 2026.
 
 Zapata is a house and disco artist based in United States of America, with 31 gigs on soundcheck across Berlin, London, Mexico City and Wuppertal. Often billed alongside Nils Nilsson, Brink (US) and JVXTA. Next up: The Waiting Room, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Zapata is a house and disco artist based in United States of America, with 31 gi
 
 Nils Nilsson, Brink (US), JVXTA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zapata/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zapata/)*

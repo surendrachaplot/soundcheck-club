@@ -1,6 +1,6 @@
 # yuy4
 
-yuy4 is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Akabane Enab, Tokyo on Fri, 20 Nov 2026.
+yuy4 is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Akabane Enab, Tokyo on Fri, 20 Nov 2026.
 
 yuy4 is a house and disco artist, with 12 gigs on soundcheck across Tokyo. Often billed alongside Neri, Stev3NN and DJ ISE. Next up: Akabane Enab, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ yuy4 is a house and disco artist, with 12 gigs on soundcheck across Tokyo. Often
 
 Neri, Stev3NN, DJ ISE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuy4/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuy4/)*

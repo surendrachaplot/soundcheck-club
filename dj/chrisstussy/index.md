@@ -1,6 +1,6 @@
 # CHRIS STASSY
 
-CHRIS STASSY is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Concourse Project, Austin on Thu, 29 Oct 2026.
+CHRIS STASSY is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Concourse Project, Austin on Thu, 29 Oct 2026.
 
 CHRIS STASSY is a house and techno artist based in Netherlands, with 301 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 68 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: The Concourse Project, Austin on Thu 29 Oct.
 
@@ -36,4 +36,4 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 301 gigs on
 
 Jamie Jones, Seth Troxler, Joseph Capriati
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

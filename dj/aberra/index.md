@@ -1,6 +1,6 @@
 # Aberra
 
-Aberra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 28 Nov 2026.
+Aberra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 28 Nov 2026.
 
 Aberra is a techno and trance artist based in Italy, with 24 gigs on soundcheck across Florence and Turin. Often billed alongside Rytm, Syca and Teeo. Next up: Q35 WAREHOUSE, Turin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Aberra is a techno and trance artist based in Italy, with 24 gigs on soundcheck 
 
 Rytm, Syca, Teeo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aberra/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aberra/)*

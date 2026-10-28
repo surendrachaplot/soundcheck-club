@@ -1,6 +1,6 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+ANNĒ is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 ANNĒ is a techno and house artist based in Greece, with 219 gigs on soundcheck across Alicante, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside SHDW, Sera J and Sol Ortega. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ ANNĒ is a techno and house artist based in Greece, with 219 gigs on soundcheck 
 
 SHDW, Sera J, Sol Ortega
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

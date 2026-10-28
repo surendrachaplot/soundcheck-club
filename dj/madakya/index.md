@@ -1,6 +1,6 @@
 # MADAKYA
 
-MADAKYA is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Giri, Berlin on Wed, 18 Nov 2026.
+MADAKYA is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Giri, Berlin on Wed, 18 Nov 2026.
 
 MADAKYA is an experimental and techno artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside DJ Trade Trainer, Alada and Gadutra. Next up: Giri, Berlin on Wed 18 Nov.
 
@@ -22,4 +22,4 @@ MADAKYA is an experimental and techno artist based in Germany, with 6 gigs on so
 
 DJ Trade Trainer, Alada, Gadutra
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madakya/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madakya/)*

@@ -1,6 +1,6 @@
 # Juri
 
-Juri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
+Juri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
 
 Juri is a techno and house artist, with 9 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DANA NADA, Dani Savant and FU (JP). Next up: WOMB, Tokyo on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Juri is a techno and house artist, with 9 gigs on soundcheck across Osaka and To
 
 DANA NADA, Dani Savant, FU (JP)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juri/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juri/)*

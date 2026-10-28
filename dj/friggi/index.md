@@ -1,6 +1,6 @@
 # friggi
 
-friggi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at objekt klein a, Dresden on Sat, 31 Oct 2026.
+friggi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at objekt klein a, Dresden on Sat, 31 Oct 2026.
 
 friggi is a techno and house artist, with 11 gigs on soundcheck across Dresden. Often billed alongside ACTANT, Coline and Trokar. Next up: objekt klein a, Dresden on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ friggi is a techno and house artist, with 11 gigs on soundcheck across Dresden. 
 
 ACTANT, Coline, Trokar
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friggi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friggi/)*

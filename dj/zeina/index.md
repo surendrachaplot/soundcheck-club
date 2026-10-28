@@ -1,6 +1,6 @@
 # Zeina
 
-Zeina is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Zeina is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
 Zeina is a house and techno artist based in Egypt, with 51 gigs on soundcheck across Amsterdam, Berlin, Boston and Colombia and 15 more. Often billed alongside O.BEE, Omar Fayyad and Bruno Schmidt. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Zeina is a house and techno artist based in Egypt, with 51 gigs on soundcheck ac
 
 O.BEE, Omar Fayyad, Bruno Schmidt
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeina/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeina/)*

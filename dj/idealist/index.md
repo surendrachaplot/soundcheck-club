@@ -1,6 +1,6 @@
 # Idealist
 
-Idealist is a Dub Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Solace, Melbourne on Thu, 29 Oct 2026.
+Idealist is a Dub Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Solace, Melbourne on Thu, 29 Oct 2026.
 
 Idealist is a dub techno and dub artist, with 5 gigs on soundcheck across Berlin, Budapest, Lausanne and Melbourne. Often billed alongside Hyperprism, Garpo and Hatari!. Next up: Solace, Melbourne on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ Idealist is a dub techno and dub artist, with 5 gigs on soundcheck across Berlin
 
 Hyperprism, Garpo, Hatari!
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idealist/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idealist/)*

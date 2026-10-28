@@ -1,6 +1,6 @@
 # Neksi
 
-Neksi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Giri, Berlin on Fri, 30 Oct 2026.
+Neksi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Giri, Berlin on Fri, 30 Oct 2026.
 
 Neksi is a house and techno artist based in Romania, with 7 gigs on soundcheck across Berlin. Often billed alongside BIUSH, BUSSI and Bärtaub. Next up: Giri, Berlin on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Neksi is a house and techno artist based in Romania, with 7 gigs on soundcheck a
 
 BIUSH, BUSSI, Bärtaub
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neksi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neksi/)*

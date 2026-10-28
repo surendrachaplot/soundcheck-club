@@ -1,6 +1,6 @@
 # Concord Music Hall
 
-Concord Music Hall is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "ON THE HHAUNT HALLOWEEN 360°: hhunter + Flash Gea + Junkie Kid" on Fri, 30 Oct 2026.
+Concord Music Hall is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "ON THE HHAUNT HALLOWEEN 360°: hhunter + Flash Gea + Junkie Kid" on Fri, 30 Oct 2026.
 
 Concord Music Hall is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including Flash Gea, HerShe, hhunter and JAXX. and 2 more. See dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
 
@@ -23,4 +23,4 @@ Concord Music Hall is a music venue in Chicago listed on soundcheck. 10 upcoming
 
 2047 N Milwaukee Ave,  Chicago, IL 60647, Chicago
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*

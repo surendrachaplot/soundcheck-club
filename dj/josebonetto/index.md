@@ -1,6 +1,6 @@
 # Jose Bonetto
 
-Jose Bonetto is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Void Club, Berlin on Fri, 30 Oct 2026.
+Jose Bonetto is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Void Club, Berlin on Fri, 30 Oct 2026.
 
 Jose Bonetto is a techno and trance artist based in Argentina, with 12 gigs on soundcheck across Basel, Berlin, Buenos Aires and Munich and 1 more. Often billed alongside Lilly Palmer, DJ Jordan and Gregor Tresher. Next up: Void Club, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Jose Bonetto is a techno and trance artist based in Argentina, with 12 gigs on s
 
 Lilly Palmer, DJ Jordan, Gregor Tresher
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josebonetto/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josebonetto/)*

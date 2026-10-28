@@ -1,6 +1,6 @@
 # Om Unit
 
-Om Unit is a Bass and Dub artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Island, Bristol on Sat, 14 Nov 2026.
+Om Unit is a Bass and Dub artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Island, Bristol on Sat, 14 Nov 2026.
 
 Om Unit is a bass and dub artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 49 more. Often billed alongside Ehua, mad miran and Beatrice M.. Next up: The Island, Bristol on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ Om Unit is a bass and dub artist based in United Kingdom, with 121 gigs on sound
 
 Ehua, mad miran, Beatrice M.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*

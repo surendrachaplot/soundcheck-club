@@ -1,6 +1,6 @@
 # DJ Boris
 
-DJ Boris is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Edge Miami, Miami on Fri, 30 Oct 2026.
+DJ Boris is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Edge Miami, Miami on Fri, 30 Oct 2026.
 
 DJ Boris is a tech house and techno artist, with 20 gigs on soundcheck across Berlin, Boston, Mexico City and Miami and 1 more. Often billed alongside Oscar G, ALEX MEADOWS and AQUTIE. Next up: Edge Miami, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Boris is a tech house and techno artist, with 20 gigs on soundcheck across Be
 
 Oscar G, ALEX MEADOWS, AQUTIE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djboris/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djboris/)*

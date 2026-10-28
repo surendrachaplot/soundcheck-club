@@ -1,14 +1,14 @@
 # Greta Margo
 
-Greta Margo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 6 Nov 2026.
+Greta Margo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at gallery 1986, Vilnius on Fri, 6 Nov 2026.
 
-Greta Margo is a house and techno artist based in Lithuania, with 6 gigs on soundcheck across Vilnius. Often billed alongside chet (UK), AUREJA and Aistelele. Next up: Gallery 1986, Vilnius on Fri 6 Nov.
+Greta Margo is a house and techno artist based in Lithuania, with 6 gigs on soundcheck across Vilnius. Often billed alongside chet (UK), AUREJA and Aistelele. Next up: gallery 1986, Vilnius on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Gallery 1986 | Vilnius |
+| Fri, 6 Nov 2026 | gallery 1986 | Vilnius |
 
 ## Recently played
 
@@ -22,4 +22,4 @@ Greta Margo is a house and techno artist based in Lithuania, with 6 gigs on soun
 
 chet (UK), AUREJA, Aistelele
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gretamargo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gretamargo/)*

@@ -1,6 +1,6 @@
 # Sara Garvey
 
-Sara Garvey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Crowdedhouse, London on Sat, 24 Apr 2027.
+Sara Garvey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Crowdedhouse, London on Sat, 24 Apr 2027.
 
 Sara Garvey is a house and techno artist based in United Kingdom, with 15 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Comfy Bella, Booker T and Dave Beer. Next up: Crowdedhouse, London on Sat 24 Apr.
 
@@ -25,4 +25,4 @@ Sara Garvey is a house and techno artist based in United Kingdom, with 15 gigs o
 
 Comfy Bella, Booker T, Dave Beer
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saragarvey/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saragarvey/)*

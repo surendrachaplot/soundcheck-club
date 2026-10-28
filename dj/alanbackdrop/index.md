@@ -1,6 +1,6 @@
 # Alan Backdrop
 
-Alan Backdrop is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Circolo Amelia, Milan on Sat, 31 Oct 2026.
+Alan Backdrop is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Circolo Amelia, Milan on Sat, 31 Oct 2026.
 
 Alan Backdrop is a techno and idm artist, with 6 gigs on soundcheck across Berlin, Krakow, Milan and Rome and 1 more. Often billed alongside Luca Scarpa, Adiel and Badalian. Next up: Circolo Amelia, Milan on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Alan Backdrop is a techno and idm artist, with 6 gigs on soundcheck across Berli
 
 Luca Scarpa, Adiel, Badalian
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanbackdrop/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanbackdrop/)*

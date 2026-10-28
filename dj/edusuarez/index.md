@@ -1,6 +1,6 @@
 # Edu Suarez
 
-Edu Suarez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Supermercat Gotico, Barcelona on Sat, 31 Oct 2026.
+Edu Suarez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Supermercat Gotico, Barcelona on Sat, 31 Oct 2026.
 
 Edu Suarez is a house and techno artist, with 14 gigs on soundcheck across Barcelona. Often billed alongside Juan Guerra, Manu Chaile and Nuuk. Next up: The Supermercat Gotico, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Edu Suarez is a house and techno artist, with 14 gigs on soundcheck across Barce
 
 Juan Guerra, Manu Chaile, Nuuk
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edusuarez/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edusuarez/)*

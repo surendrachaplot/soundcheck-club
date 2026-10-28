@@ -1,6 +1,6 @@
 # Divasi
 
-Divasi is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Toffler, Rotterdam on Sat, 7 Nov 2026.
+Divasi is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Toffler, Rotterdam on Sat, 7 Nov 2026.
 
 Divasi is a techno and tech house artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Ghent, Rotterdam and Utrecht. Often billed alongside SANTØS, Ben Techy and KARAH. Next up: Toffler, Rotterdam on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Divasi is a techno and tech house artist based in Netherlands, with 14 gigs on s
 
 SANTØS, Ben Techy, KARAH
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/divasi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/divasi/)*

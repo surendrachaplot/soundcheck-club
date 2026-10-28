@@ -1,6 +1,6 @@
 # odpein
 
-odpein is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Astron Club, Athens on Fri, 13 Nov 2026.
+odpein is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Astron Club, Athens on Fri, 13 Nov 2026.
 
 odpein is a techno artist, with 13 gigs on soundcheck across Athens, Osaka, Thessaloniki and Tokyo. Often billed alongside Andreas Palmer, DJ Problems and Hypnotic Black Magic. Next up: Astron Club, Athens on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ odpein is a techno artist, with 13 gigs on soundcheck across Athens, Osaka, Thes
 
 Andreas Palmer, DJ Problems, Hypnotic Black Magic
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odpein/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odpein/)*

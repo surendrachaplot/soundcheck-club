@@ -1,14 +1,15 @@
 # ROBOTIQ
 
-ROBOTIQ is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 31 Oct 2026.
+ROBOTIQ is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 31 Oct 2026.
 
-ROBOTIQ is a house and tech house artist based in Germany, with 109 gigs on soundcheck across Berlin and Munich. Often billed alongside Steffen Lengler, B-ZEY and CHOOSE WHITE. Next up: MH5 Rooftop, Munich on Sat 31 Oct.
+ROBOTIQ is a house and tech house artist based in Germany, with 110 gigs on soundcheck across Berlin and Munich. Often billed alongside Steffen Lengler, B-ZEY and CHOOSE WHITE. Next up: MH5 Rooftop, Munich on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | MH5 Rooftop | Munich |
+| Sun, 8 Nov 2026 | Pimpernel | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ROBOTIQ is a house and tech house artist based in Germany, with 109 gigs on soun
 
 Steffen Lengler, B-ZEY, CHOOSE WHITE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robotiq/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robotiq/)*

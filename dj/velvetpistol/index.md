@@ -1,6 +1,6 @@
 # Velvet Pistol
 
-Velvet Pistol is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Gold Bar Distillery Treasure Island, San Francisco/Oakland on Sat, 31 Oct 2026.
+Velvet Pistol is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Gold Bar Distillery Treasure Island, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Velvet Pistol is a house and tech house artist based in United States of America, with 14 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ Parrot, Olly Junglist and RCA. Next up: TBA - Gold Bar Distillery Treasure Island, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Velvet Pistol is a house and tech house artist based in United States of America
 
 DJ Parrot, Olly Junglist, RCA (1)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/velvetpistol/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/velvetpistol/)*

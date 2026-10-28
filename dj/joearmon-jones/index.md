@@ -1,6 +1,6 @@
 # Joe Armon-Jones
 
-Joe Armon-Jones is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
+Joe Armon-Jones is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
 
 Joe Armon-Jones is a jazz and house artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Bristol, Copenhagen and London and 1 more. Often billed alongside Maxwell Owin, Bakey and Dave Harvey. Next up: TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Joe Armon-Jones is a jazz and house artist based in United Kingdom, with 15 gigs
 
 Maxwell Owin, Bakey, Dave Harvey
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joearmon-jones/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joearmon-jones/)*

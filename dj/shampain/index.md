@@ -1,6 +1,6 @@
 # Shampain
 
-Shampain is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 1990, Glasgow on Fri, 30 Oct 2026.
+Shampain is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 1990, Glasgow on Fri, 30 Oct 2026.
 
 Shampain is a techno and house artist based in Ireland, with 88 gigs on soundcheck across Basel, Belfast, Berlin and Brisbane and 22 more. Often billed alongside Miley Serious, DJ BORING and X CLUB.. Next up: 1990, Glasgow on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Shampain is a techno and house artist based in Ireland, with 88 gigs on soundche
 
 Miley Serious, DJ BORING, X CLUB.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shampain/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shampain/)*

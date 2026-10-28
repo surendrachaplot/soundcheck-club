@@ -1,8 +1,8 @@
 # Craze
 
-Craze is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Marble Bar, Detroit on Thu, 29 Oct 2026.
+Craze is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Marble Bar, Detroit on Thu, 29 Oct 2026.
 
-Craze is a drum & bass and jungle artist based in United States of America, with 70 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 23 more. Often billed alongside shinobi (US), Dillinja and Solartrak. Next up: Marble Bar, Detroit on Thu 29 Oct.
+Craze is a drum & bass and jungle artist based in United States of America, with 71 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 23 more. Often billed alongside shinobi (US), Dillinja and Solartrak. Next up: Marble Bar, Detroit on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Craze is a drum & bass and jungle artist based in United States of America, with
 | Fri, 30 Oct 2026 | Project Pierpont | Salt-lake-city |
 | Sat, 31 Oct 2026 | Fire & Lightbox | London |
 | Sun, 8 Nov 2026 | O2 Academy Bristol | Bristol |
+| Sat, 21 Nov 2026 | The Rabbit Hole | Charlotte |
 | Wed, 25 Nov 2026 | Miami Beach Bandshell | Miami |
 | Fri, 9 Apr 2027 | TBA | Amsterdam |
 
@@ -30,4 +31,4 @@ Craze is a drum & bass and jungle artist based in United States of America, with
 
 shinobi (US), Dillinja, Solartrak
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*

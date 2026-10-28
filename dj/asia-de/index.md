@@ -1,6 +1,6 @@
 # ASIA (DE)
 
-ASIA (DE) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 29 Oct 2026.
+ASIA (DE) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 29 Oct 2026.
 
 ASIA (DE) is a techno and house artist based in Russia, with 52 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 17 more. Often billed alongside DJ Koolt, Neik and Jorge Escribano. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 29 Oct.
 
@@ -31,4 +31,4 @@ ASIA (DE) is a techno and house artist based in Russia, with 52 gigs on soundche
 
 DJ Koolt, Neik, Jorge Escribano
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*

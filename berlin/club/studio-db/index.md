@@ -1,6 +1,6 @@
 # Studio dB
 
-Studio dB is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "SAD PROMPT ENGINEERING A/V SHOWCASE SUPPORTED BY LIMINAL VEIL" on Fri, 30 Oct 2026.
+Studio dB is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SAD PROMPT ENGINEERING A/V SHOWCASE SUPPORTED BY LIMINAL VEIL" on Fri, 30 Oct 2026.
 
 Studio dB is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Artur M Puga, CÁRPATOS, emme and exmantera and 2 more. See dates, start times and who's playing. Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin.
 
@@ -17,4 +17,4 @@ Studio dB is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with
 
 Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin, Berlin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-db/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-db/)*

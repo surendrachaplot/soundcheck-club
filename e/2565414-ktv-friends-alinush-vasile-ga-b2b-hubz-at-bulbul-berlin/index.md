@@ -1,6 +1,6 @@
 # KTV & Friends: ALINUSH, Vasile, Gaß b2b Hubz at Bulbul Berlin
 
-KTV & Friends: ALINUSH, Vasile, Gaß b2b Hubz at Bulbul Berlin on Fri 6 Nov, Berlin. 2 artists: Hubz and Vasile. House and Club. See the line-up on soundcheck.
+KTV & Friends: ALINUSH, Vasile, Gaß b2b Hubz at Bulbul Berlin on Fri 6 Nov, Berlin. 3 artists: ALINUSH, Hubz and Vasile. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KTV & Friends: ALINUSH, Vasile, Gaß b2b Hubz at Bulbul Berlin on Fri 6 Nov, Ber
 
 ## Line-up
 
+- ALINUSH
 - Hubz
 - Vasile
 

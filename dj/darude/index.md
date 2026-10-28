@@ -1,6 +1,6 @@
 # Darude
 
-Darude is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - FULTON 55 FRESNO, California on Sat, 31 Oct 2026.
+Darude is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - FULTON 55 FRESNO, California on Sat, 31 Oct 2026.
 
 Darude is a trance and techno artist based in Finland, with 38 gigs on soundcheck across Amsterdam, Auckland, Austin and Baltimore and 24 more. Often billed alongside ASLO, Adam Bartas and Boris Brejcha. Next up: TBA - FULTON 55 FRESNO, California on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Darude is a trance and techno artist based in Finland, with 38 gigs on soundchec
 
 ASLO, Adam Bartas, Boris Brejcha
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darude/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darude/)*

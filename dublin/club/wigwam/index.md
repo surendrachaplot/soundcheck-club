@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 18 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "DCUDJ present: Hauntover" on Thu, 29 Oct 2026.
+Wigwam is a music venue in Dublin with 18 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "DCUDJ present: Hauntover" on Thu, 29 Oct 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 18 upcoming gigs, with line-ups including Angel D'lite, Boyd Schidt, Cailín and CULT and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 18 upcoming gigs, with l
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

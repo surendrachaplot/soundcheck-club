@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 16 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "dihive" on Thu, 29 Oct 2026.
+Hive Club is a music venue in Zurich with 16 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "dihive" on Thu, 29 Oct 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 16 upcoming gigs, with line-ups including 1luu, Andreas Ramos, Animal Trainer and Anthik and 2 more. See dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -23,4 +23,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 16 upcoming gigs, wit
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

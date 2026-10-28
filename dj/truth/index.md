@@ -1,6 +1,6 @@
 # Truth
 
-Truth is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Mothership, Auckland on Sat, 7 Nov 2026.
+Truth is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Mothership, Auckland on Sat, 7 Nov 2026.
 
 Truth is a dubstep and bass artist based in New Zealand, with 36 gigs on soundcheck across Adelaide, Auckland, Baltimore and Chicago and 15 more. Often billed alongside Paige Julia, Hypho and Mala. Next up: The Mothership, Auckland on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Truth is a dubstep and bass artist based in New Zealand, with 36 gigs on soundch
 
 Paige Julia, Hypho, Mala
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truth/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truth/)*

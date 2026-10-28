@@ -1,6 +1,6 @@
 # Kardinal Bertram
 
-Kardinal Bertram is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at MODULE, Copenhagen on Fri, 30 Oct 2026.
+Kardinal Bertram is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at MODULE, Copenhagen on Fri, 30 Oct 2026.
 
 Kardinal Bertram is a techno and industrial artist based in Denmark, with 82 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 2 more. Often billed alongside Anna Logic, LMN and steamboi. Next up: MODULE, Copenhagen on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Kardinal Bertram is a techno and industrial artist based in Denmark, with 82 gig
 
 Anna Logic, LMN (1), steamboi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kardinalbertram/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kardinalbertram/)*

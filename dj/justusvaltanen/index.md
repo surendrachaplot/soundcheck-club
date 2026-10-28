@@ -1,6 +1,6 @@
 # Justus Valtanen
 
-Justus Valtanen is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Post Bar, Helsinki on Fri, 30 Oct 2026.
+Justus Valtanen is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Post Bar, Helsinki on Fri, 30 Oct 2026.
 
 Justus Valtanen is a house and techno artist based in Finland, with 63 gigs on soundcheck across Helsinki, Stockholm and The Hague. Often billed alongside Daniel Kayrouz, Denzel and Joni DJ. Next up: Post Bar, Helsinki on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Justus Valtanen is a house and techno artist based in Finland, with 63 gigs on s
 
 Daniel Kayrouz, Denzel, Joni DJ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justusvaltanen/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justusvaltanen/)*

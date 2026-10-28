@@ -1,6 +1,6 @@
 # Noor Sanchez
 
-Noor Sanchez is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
+Noor Sanchez is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
 
 Noor Sanchez is a house and electro artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Andeel, Dennis Beutler and Bombata. Next up: AMT, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Noor Sanchez is a house and electro artist based in Germany, with 17 gigs on sou
 
 Andeel, Dennis Beutler, Bombata
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noorsanchez/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noorsanchez/)*

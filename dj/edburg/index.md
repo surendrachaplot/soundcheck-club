@@ -1,6 +1,6 @@
 # Edburg
 
-Edburg is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Haus von Klaus, Zurich on Sat, 14 Nov 2026.
+Edburg is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Haus von Klaus, Zurich on Sat, 14 Nov 2026.
 
 Edburg is a house and deep house artist, with 9 gigs on soundcheck across Zurich. Often billed alongside Adi Dassler, Ancient Astronaut and Hardt Antoine. Next up: Haus von Klaus, Zurich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Edburg is a house and deep house artist, with 9 gigs on soundcheck across Zurich
 
 Adi Dassler, Ancient Astronaut, Hardt Antoine
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edburg/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edburg/)*

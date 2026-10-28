@@ -1,8 +1,8 @@
 # Ive Lovers
 
-Ive Lovers is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 30 Oct 2026.
+Ive Lovers is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 30 Oct 2026.
 
-Ive Lovers is a house and tech house artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, London, Manchester and Prague and 1 more. Often billed alongside Michael Pieterse, Julian Wijn and Xamount. Next up: SISSI'S Amsterdam, Amsterdam on Fri 30 Oct.
+Ive Lovers is a house and tech house artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, London, Manchester and Prague and 1 more. Often billed alongside Michael Pieterse, Julian Wijn and Xamount. Next up: SISSI'S Amsterdam, Amsterdam on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ive Lovers is a house and tech house artist based in Netherlands, with 42 gigs o
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 20 Nov 2026 | Madam | Amsterdam |
+| Sat, 5 Dec 2026 | Toffler | Rotterdam |
 | Sat, 19 Dec 2026 | Van Nelle Fabriek | Rotterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ Ive Lovers is a house and tech house artist based in Netherlands, with 42 gigs o
 
 Michael Pieterse, Julian Wijn, Xamount
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivelovers/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivelovers/)*

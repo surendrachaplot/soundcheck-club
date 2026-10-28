@@ -1,6 +1,6 @@
 # Nulab Chengdu
 
-Nulab Chengdu is a music venue in Chengdu with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "固定假期 X WIGWAM" on Fri, 30 Oct 2026.
+Nulab Chengdu is a music venue in Chengdu with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "固定假期 X WIGWAM" on Fri, 30 Oct 2026.
 
 Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 2 upcoming gigs, with line-ups including Brokenchord, Nighttrain2000 and SeventyMaos. See dates, start times and who's playing. No.666. Yong'an Rd. Jinjiang Dist. Chengdu China.
 
@@ -15,4 +15,4 @@ Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 2 upcoming gigs,
 
 No.666. Yong'an Rd. Jinjiang Dist. Chengdu China, Chengdu
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*

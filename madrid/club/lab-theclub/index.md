@@ -1,8 +1,8 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "BRNT with Mathame, SLVR" on Fri, 30 Oct 2026.
+LAB theCLUB is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "BRNT with Mathame, SLVR" on Fri, 30 Oct 2026.
 
-LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including ART NO LOGIA, Brenda Serna, Claptone and Djammin and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
+LAB theCLUB is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including ART NO LOGIA, Brenda Serna, Claptone and Djammin and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
 ## What's on
 
@@ -16,11 +16,11 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, w
 | Sat, 14 Nov 2026 | COCOA pres ART NO LOGIA ALL NIGHT LONG | ART NO LOGIA |
 | Sat, 28 Nov 2026 | Noventeros |  |
 | Sat, 28 Nov 2026 | Wally Lopez World Tour Closing | Wally Lopez |
+| Sat, 5 Dec 2026 | ROOM ONE with Raúl Pacheco | Raúl Pacheco |
 | Sat, 12 Dec 2026 | Esencia Pura by DJ Marta |  |
-| Sat, 19 Dec 2026 | SANPAPA CLUB at Especial Navidad |  |
 
 ## Address
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

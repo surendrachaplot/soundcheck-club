@@ -1,0 +1,16 @@
+# Elements Cave | HalloCave  AKLOW at Sala El Sol
+
+Elements Cave | HalloCave  AKLOW at Sala El Sol on Wed 28 Oct, Madrid. 2 artists: Larouge and Nigabba. Techno and Acid. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 28 Oct 2026 |
+| Venue | Sala El Sol |
+| City | Madrid |
+
+## Line-up
+
+- Larouge
+- Nigabba
+
+*Source: [soundcheck](https://soundcheck.club/e/2551603-elements-cave-hallocave-aklow-at-sala-el-sol/)*

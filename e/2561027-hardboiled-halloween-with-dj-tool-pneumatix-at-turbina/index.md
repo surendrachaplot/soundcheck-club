@@ -1,6 +1,6 @@
 # HARDBOILED HALLOWEEN ✦ with DJ TOOL, Pneumatix at Turbina
 
-HARDBOILED HALLOWEEN ✦ with DJ TOOL, Pneumatix at Turbina on Sat 31 Oct, Budapest. 6 artists: DJ TOOL, Pneumatix, Ruenge and SLYM and 2 more. Trance and Techno. See the line-up on soundcheck.
+HARDBOILED HALLOWEEN ✦ with DJ TOOL, Pneumatix at Turbina on Sat 31 Oct, Budapest. 7 artists: DJ TOOL, Droidecca, Pneumatix and Ruenge and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ HARDBOILED HALLOWEEN ✦ with DJ TOOL, Pneumatix at Turbina on Sat 31 Oct, Budap
 ## Line-up
 
 - DJ TOOL
+- Droidecca
 - Pneumatix
 - Ruenge
 - SLYM

@@ -1,6 +1,6 @@
 # Xenia Reaper
 
-Xenia Reaper is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 31 Oct 2026.
+Xenia Reaper is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sat, 31 Oct 2026.
 
 Xenia Reaper is an experimental and ambient artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside CYBERMISSION, Conna Haraway and ex wiish. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Xenia Reaper is an experimental and ambient artist based in Germany, with 34 gig
 
 CYBERMISSION, Conna Haraway, ex wiish
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xeniareaper/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xeniareaper/)*

@@ -1,6 +1,6 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+Julie Desire is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
 
 Julie Desire is a techno and house artist based in France, with 122 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bologna and 26 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Julie Desire is a techno and house artist based in France, with 122 gigs on soun
 
 Cheriii, Mars O10C, A-440
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*

@@ -1,6 +1,6 @@
 # e03 (1)
 
-e03 (1) is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 30 Oct 2026.
+e03 (1) is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 30 Oct 2026.
 
 e03 is an experimental and club artist, with 11 gigs on soundcheck across Berlin, Prague and Tbilisi. Often billed alongside bod [包家巷], Warlord® and PAX. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ e03 is an experimental and club artist, with 11 gigs on soundcheck across Berlin
 
 bod [包家巷], Warlord®, PAX (2)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e03-1/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e03-1/)*

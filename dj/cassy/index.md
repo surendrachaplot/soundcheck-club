@@ -1,6 +1,6 @@
 # Cassy
 
-Cassy is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, San Francisco/Oakland on Fri, 30 Oct 2026.
+Cassy is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Cassy is a house and techno artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Bali, Baltimore and Barcelona and 57 more. Often billed alongside Carlos Valdes, Anja Schneider and Konstantin. Next up: TBA, San Francisco/Oakland on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Cassy is a house and techno artist based in United Kingdom, with 185 gigs on sou
 
 Carlos Valdes, Anja Schneider, Konstantin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*

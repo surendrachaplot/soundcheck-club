@@ -1,6 +1,6 @@
 # SQUWUIS
 
-SQUWUIS is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Club Makossa, London on Fri, 30 Oct 2026.
+SQUWUIS is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Makossa, London on Fri, 30 Oct 2026.
 
 SQUWUIS is a bass and breakbeat artist, with 13 gigs on soundcheck across London. Often billed alongside Glittcherz, Quantum Echo and Kafn. Next up: Club Makossa, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SQUWUIS is a bass and breakbeat artist, with 13 gigs on soundcheck across London
 
 Glittcherz, Quantum Echo, Kafn
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/squwuis/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/squwuis/)*

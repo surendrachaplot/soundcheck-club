@@ -1,6 +1,6 @@
 # GODKORINE
 
-GODKORINE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - HOST - The Queer Space for the Brave, Singapore on Sun, 8 Nov 2026.
+GODKORINE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - HOST - The Queer Space for the Brave, Singapore on Sun, 8 Nov 2026.
 
 GODKORINE is a club and techno artist based in Singapore, with 15 gigs on soundcheck across Singapore. Often billed alongside New Masculine, howrøng and TASHASAN. Next up: TBA - HOST - The Queer Space for the Brave, Singapore on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ GODKORINE is a club and techno artist based in Singapore, with 15 gigs on soundc
 
 New Masculine, howrøng, TASHASAN
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godkorine/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godkorine/)*

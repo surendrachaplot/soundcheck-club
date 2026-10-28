@@ -1,6 +1,6 @@
 # Simula
 
-Simula is a Drum & Bass and Dubstep artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Kompass Klub, Ghent on Fri, 30 Oct 2026.
+Simula is a Drum & Bass and Dubstep artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Kompass Klub, Ghent on Fri, 30 Oct 2026.
 
 Simula is a drum & bass and dubstep artist based in United Kingdom, with 62 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 29 more. Often billed alongside Hedex, Jakes and Skantia. Next up: Kompass Klub, Ghent on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Simula is a drum & bass and dubstep artist based in United Kingdom, with 62 gigs
 
 Hedex, Jakes, Skantia
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simula/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simula/)*

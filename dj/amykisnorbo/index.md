@@ -1,6 +1,6 @@
 # Amy Kisnorbo
 
-Amy Kisnorbo is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Dalston Den, London on Fri, 4 Dec 2026.
+Amy Kisnorbo is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Dalston Den, London on Fri, 4 Dec 2026.
 
 Amy Kisnorbo is a bass and dubstep artist based in United Kingdom, with 39 gigs on soundcheck across Berlin, Brighton, Bristol and Cardiff and 6 more. Often billed alongside Sam Binga, Commodo and Sir Hiss. Next up: Dalston Den, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Amy Kisnorbo is a bass and dubstep artist based in United Kingdom, with 39 gigs 
 
 Sam Binga, Commodo, Sir Hiss
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amykisnorbo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amykisnorbo/)*

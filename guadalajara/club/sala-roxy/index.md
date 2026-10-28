@@ -1,6 +1,6 @@
 # Sala Roxy
 
-Sala Roxy is a music venue in Guadalajara with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "PervertMX: Día de Muertxxxs" on Sat, 31 Oct 2026.
+Sala Roxy is a music venue in Guadalajara with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "PervertMX: Día de Muertxxxs" on Sat, 31 Oct 2026.
 
 Sala Roxy is a music venue in Guadalajara listed on soundcheck. 1 upcoming gig, with line-ups including Alby Esc, Carbajal and Celice Monnette. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Sala Roxy is a music venue in Guadalajara listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | PervertMX: Día de Muertxxxs | Alby Esc, Carbajal, Celice Monnette |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/guadalajara/club/sala-roxy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/guadalajara/club/sala-roxy/)*

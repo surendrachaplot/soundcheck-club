@@ -1,6 +1,6 @@
 # fleet.dreams
 
-fleet.dreams is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at ErF Studios, New York City on Fri, 13 Nov 2026.
+fleet.dreams is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at ErF Studios, New York City on Fri, 13 Nov 2026.
 
 fleet.dreams is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Boston, Chicago, Detroit and Mexico City and 2 more. Often billed alongside EscaFlowne, KYRUH and Rose Kourts. Next up: ErF Studios, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ fleet.dreams is a house and techno artist based in United States of America, wit
 
 EscaFlowne, KYRUH, Rose Kourts
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetdreams/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetdreams/)*

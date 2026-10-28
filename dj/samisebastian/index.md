@@ -1,6 +1,6 @@
 # Sami Sebastian
 
-Sami Sebastian is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, San Diego on Fri, 6 Nov 2026.
+Sami Sebastian is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, San Diego on Fri, 6 Nov 2026.
 
 Sami Sebastian is a house and minimal artist based in United States of America, with 15 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Thomas Towey, AMZEL and Honeydü. Next up: TBA, San Diego on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sami Sebastian is a house and minimal artist based in United States of America, 
 
 Thomas Towey, AMZEL, Honeydü
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samisebastian/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samisebastian/)*

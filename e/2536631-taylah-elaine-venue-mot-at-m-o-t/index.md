@@ -1,6 +1,6 @@
 # Taylah Elaine - Venue MOT at M.O.T
 
-Taylah Elaine - Venue MOT at M.O.T on Sat 28 Nov, London. 4 artists: Donnie Sunshine, Fiyahdred, palmtreeprince and Taylah Elaine. See the line-up on soundcheck.
+Taylah Elaine - Venue MOT at M.O.T on Sat 28 Nov, London. 4 artists: Donnie Sunshine, Fiyahdred, palmtreeprince and Taylah Elaine. Bass and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Romare (Live)" on Thu, 29 Oct 2026.
+Belgrave Music Hall is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Romare (Live)" on Thu, 29 Oct 2026.
 
 Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including Elder Island, O'Flynn, Romare and Two Shell. See dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
@@ -22,4 +22,4 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 9 upcoming g
 
 1-1A Cross Belgrave Street, LS2 8JP Leeds, Leeds
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*

@@ -1,6 +1,6 @@
 # Richard Gregory
 
-Richard Gregory is a Trance and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at komunal, Birmingham on Sat, 31 Oct 2026.
+Richard Gregory is a Trance and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at komunal, Birmingham on Sat, 31 Oct 2026.
 
 Richard Gregory is a trance and tech house artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 8 more. Often billed alongside Carl H, Lora Mipsum and Inner Zone. Next up: komunal, Birmingham on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Richard Gregory is a trance and tech house artist based in United Kingdom, with 
 
 Carl H, Lora Mipsum, Inner Zone
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardgregory/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardgregory/)*

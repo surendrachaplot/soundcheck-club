@@ -1,6 +1,6 @@
 # Baltza
 
-Baltza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 20 Nov 2026.
+Baltza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 20 Nov 2026.
 
 Baltza is a house and techno artist, with 34 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Dgeral, Lucky Lube and DJ Woo Girl. Next up: Den Anden Side, Copenhagen on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Baltza is a house and techno artist, with 34 gigs on soundcheck across Berlin an
 
 Dgeral, Lucky Lube, DJ Woo Girl
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baltza/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baltza/)*

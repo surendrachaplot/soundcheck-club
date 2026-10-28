@@ -1,8 +1,8 @@
 # Tommy Phillips
 
-Tommy Phillips is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sub Club, Glasgow on Thu, 29 Oct 2026.
+Tommy Phillips is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sub Club, Glasgow on Thu, 29 Oct 2026.
 
-Tommy Phillips is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 32 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Sub Club, Glasgow on Thu 29 Oct.
+Tommy Phillips is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 33 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Sub Club, Glasgow on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -11,11 +11,11 @@ Tommy Phillips is a house and tech house artist based in United Kingdom, with 84
 | Thu, 29 Oct 2026 | Sub Club | Glasgow |
 | Fri, 30 Oct 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 14 Nov 2026 | Thuishaven | Amsterdam |
-| Fri, 27 Nov 2026 | fabric | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Coda | Toronto |
 | Sat, 5 Dec 2026 | Descent | Boston |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
+| Fri, 11 Dec 2026 | Radius | Chicago |
 | Sun, 13 Dec 2026 | Superior Ingredients | New York City |
 | Sat, 19 Dec 2026 | Spin | San Diego |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
@@ -36,4 +36,4 @@ Tommy Phillips is a house and tech house artist based in United Kingdom, with 84
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

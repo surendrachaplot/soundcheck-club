@@ -1,6 +1,6 @@
 # FREAK POV
 
-FREAK POV is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
+FREAK POV is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 FREAK POV is a techno and club artist based in United States of America, with 7 gigs on soundcheck across Minneapolis/St Paul, New Orleans, New York City and San Francisco/Oakland. Often billed alongside Tom Marsi, Bad Leather and Bored Lord. Next up: El Rio, San Francisco/Oakland on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ FREAK POV is a techno and club artist based in United States of America, with 7 
 
 Tom Marsi, Bad Leather, Bored Lord
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freakpov/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freakpov/)*

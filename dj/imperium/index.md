@@ -1,6 +1,6 @@
 # Imperium
 
-Imperium is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Athens, Athens on Wed, 28 Oct 2026.
+Imperium is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Athens, Athens on Wed, 28 Oct 2026.
 
 Imperium is a techno and trance artist based in Greece, with 48 gigs on soundcheck across Athens, Barcelona, Sofia and Thessaloniki and 1 more. Often billed alongside Pelany, siasios and Alisa Murphy. Next up: TBA - Athens, Athens on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Imperium is a techno and trance artist based in Greece, with 48 gigs on soundche
 
 Pelany, siasios, Alisa Murphy
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imperium/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imperium/)*

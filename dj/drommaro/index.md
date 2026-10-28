@@ -1,6 +1,6 @@
 # Drommaro
 
-Drommaro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 13 Nov 2026.
+Drommaro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 13 Nov 2026.
 
 Drommaro is a techno and house artist based in Germany, with 6 gigs on soundcheck across Leipzig. Often billed alongside TON_AN_, DIRTY YOUTH and SCHLAAKIII. Next up: Ilses Erika, Leipzig on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Drommaro is a techno and house artist based in Germany, with 6 gigs on soundchec
 
 TON_AN_, DIRTY YOUTH, SCHLAAKIII
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drommaro/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drommaro/)*

@@ -1,6 +1,6 @@
 # Markus Sommer
 
-Markus Sommer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Hoppetosse, Berlin on Fri, 30 Oct 2026.
+Markus Sommer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hoppetosse, Berlin on Fri, 30 Oct 2026.
 
 Markus Sommer is a house and techno artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Tom Ries, Phil Evans and Tzena. Next up: Hoppetosse, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Markus Sommer is a house and techno artist based in Germany, with 76 gigs on sou
 
 Tom Ries, Phil Evans, Tzena
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markussommer/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markussommer/)*

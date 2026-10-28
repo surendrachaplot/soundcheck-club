@@ -1,6 +1,6 @@
 # Di Francesco
 
-Di Francesco is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at PWCC, North on Sun, 1 Nov 2026.
+Di Francesco is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at PWCC, North on Sun, 1 Nov 2026.
 
 Di Francesco is an electronic artist based in Italy, with 4 gigs on soundcheck across Barcelona and North. Often billed alongside Alex Kraemer, Klevi Koci and Paoler. Next up: PWCC, North on Sun 1 Nov.
 
@@ -20,4 +20,4 @@ Di Francesco is an electronic artist based in Italy, with 4 gigs on soundcheck a
 
 Alex Kraemer, Klevi Koci, Paoler
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/difrancesco/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/difrancesco/)*

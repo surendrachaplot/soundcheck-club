@@ -1,6 +1,6 @@
 # Dave Aju
 
-Dave Aju is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Yamashiro Hollywood, Los Angeles on Sat, 31 Oct 2026.
+Dave Aju is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Yamashiro Hollywood, Los Angeles on Sat, 31 Oct 2026.
 
 Dave Aju is a house and disco artist based in United States of America, with 28 gigs on soundcheck across Berlin, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Tavish, SONNS and Stacy Christine. Next up: Yamashiro Hollywood, Los Angeles on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Dave Aju is a house and disco artist based in United States of America, with 28 
 
 Tavish, SONNS, Stacy Christine
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveaju/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveaju/)*

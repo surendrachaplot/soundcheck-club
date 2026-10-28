@@ -1,6 +1,6 @@
 # Theo Gramal
 
-Theo Gramal is a Downtempo and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 13 Nov 2026.
+Theo Gramal is a Downtempo and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 13 Nov 2026.
 
 Theo Gramal is a downtempo and techno artist, with 19 gigs on soundcheck across Berlin, Leipzig and Nürnberg. Often billed alongside Solatic, Dolph and Emina Helena. Next up: Ilses Erika, Leipzig on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Theo Gramal is a downtempo and techno artist, with 19 gigs on soundcheck across 
 
 Solatic, Dolph, Emina Helena
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theogramal/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theogramal/)*

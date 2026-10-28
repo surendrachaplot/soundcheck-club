@@ -1,6 +1,6 @@
 # DJ Brian Halligan
 
-DJ Brian Halligan is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Sinclair, Boston on Sat, 31 Oct 2026.
+DJ Brian Halligan is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Sinclair, Boston on Sat, 31 Oct 2026.
 
 DJ Brian Halligan is a house and disco artist based in United States of America, with 11 gigs on soundcheck across Boston and New York City. Often billed alongside Mx. Demeanor and Math3ca. Next up: The Sinclair, Boston on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ DJ Brian Halligan is a house and disco artist based in United States of America,
 
 Mx. Demeanor, Math3ca
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrianhalligan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrianhalligan/)*

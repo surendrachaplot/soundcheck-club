@@ -1,14 +1,15 @@
 # DJ Fett Burger
 
-DJ Fett Burger is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Temp., Bangkok on Fri, 30 Oct 2026.
+DJ Fett Burger is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Temp., Bangkok on Fri, 30 Oct 2026.
 
-DJ Fett Burger is a house and disco artist based in Norway, with 105 gigs on soundcheck across Antwerp, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Telephones, DJ Sotofett and Jana Falcon. Next up: Bar Temp., Bangkok on Fri 30 Oct.
+DJ Fett Burger is a house and disco artist based in Norway, with 106 gigs on soundcheck across Antwerp, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Telephones, DJ Sotofett and Jana Falcon. Next up: Bar Temp., Bangkok on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Bar Temp. | Bangkok |
+| Fri, 30 Oct 2026 | Elsewhere | Bangkok |
 | Fri, 20 Nov 2026 | The Buzz | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ Fett Burger is a house and disco artist based in Norway, with 105 gigs on sou
 
 Telephones, DJ Sotofett, Jana Falcon
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfettburger/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfettburger/)*

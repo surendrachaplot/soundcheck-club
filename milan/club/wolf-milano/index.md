@@ -1,6 +1,6 @@
 # Wolf Milano
 
-Wolf Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "✦✦UFF✦✦ /// Feda b2b ARMA /// at WOLF Milan" on Fri, 30 Oct 2026.
+Wolf Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "✦✦UFF✦✦ /// Feda b2b ARMA /// at WOLF Milan" on Fri, 30 Oct 2026.
 
 Wolf Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including ArmaDisco, Buza, Feda and Vis. and 1 more. See dates, start times and who's playing. Via Luigi Canonica, 13, 20154 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ Wolf Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, wit
 
 Via Luigi Canonica, 13, 20154 Milano MI, Italy, Milan
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/wolf-milano/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/wolf-milano/)*

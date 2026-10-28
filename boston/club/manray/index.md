@@ -1,6 +1,6 @@
 # Manray
 
-Manray is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Boudoir: Halloween" on Thu, 29 Oct 2026.
+Manray is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Boudoir: Halloween" on Thu, 29 Oct 2026.
 
 Manray is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-ups including Adam Unknown. See dates, start times and who's playing. 40 Prospect Street, Cambridge,  MA 02139 USA.
 
@@ -15,4 +15,4 @@ Manray is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with li
 
 40 Prospect Street, Cambridge,  MA 02139 USA, Boston
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/manray/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/manray/)*

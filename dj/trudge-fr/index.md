@@ -1,6 +1,6 @@
 # Trudge
 
-Trudge is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
+Trudge is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
 
 Trudge is a techno and industrial artist based in France, with 37 gigs on soundcheck across Beijing, Berlin, Brussels and Budapest and 14 more. Often billed alongside CAIVA, Alex Farell and Cryptofauna. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Trudge is a techno and industrial artist based in France, with 37 gigs on soundc
 
 CAIVA, Alex Farell, Cryptofauna
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trudge-fr/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trudge-fr/)*

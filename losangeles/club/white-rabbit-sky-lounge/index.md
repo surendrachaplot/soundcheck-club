@@ -1,6 +1,6 @@
 # White Rabbit Sky Lounge
 
-White Rabbit Sky Lounge is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "The Hustle: 70's Disco Halloween" on Fri, 30 Oct 2026.
+White Rabbit Sky Lounge is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "The Hustle: 70's Disco Halloween" on Fri, 30 Oct 2026.
 
 White Rabbit Sky Lounge is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 8440 Sunset Blvd., Los Angeles, CA 90069.
 
@@ -15,4 +15,4 @@ White Rabbit Sky Lounge is a music venue in Los Angeles listed on soundcheck. 2 
 
 8440 Sunset Blvd., Los Angeles, CA 90069, Los Angeles
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/white-rabbit-sky-lounge/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/white-rabbit-sky-lounge/)*

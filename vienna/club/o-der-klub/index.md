@@ -1,6 +1,6 @@
 # O der Klub
 
-O der Klub is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "HALLOWEEN TRANSMISSION" on Sat, 31 Oct 2026.
+O der Klub is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "HALLOWEEN TRANSMISSION" on Sat, 31 Oct 2026.
 
 O der Klub is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Fatima Hajji, Klangkarussell, Max Styler and NTO and 2 more. See dates, start times and who's playing. Opernring/Operngasse, 1010 Wien.
 
@@ -18,4 +18,4 @@ O der Klub is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, wit
 
 Opernring/Operngasse, 1010 Wien, Vienna
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/o-der-klub/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/o-der-klub/)*

@@ -1,6 +1,6 @@
 # Dan Cowan
 
-Dan Cowan is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Fivefourstudios, Manchester on Fri, 13 Nov 2026.
+Dan Cowan is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Fivefourstudios, Manchester on Fri, 13 Nov 2026.
 
 Dan Cowan is a house and garage artist based in United Kingdom, with 7 gigs on soundcheck across London and Manchester. Often billed alongside Groves, Lewis Carroll and Coyle. Next up: Fivefourstudios, Manchester on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Dan Cowan is a house and garage artist based in United Kingdom, with 7 gigs on s
 
 Groves, Lewis Carroll, Coyle
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dancowan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dancowan/)*

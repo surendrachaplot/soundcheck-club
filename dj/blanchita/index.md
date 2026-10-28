@@ -1,6 +1,6 @@
 # Blanchita
 
-Blanchita is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Archa+, Prague on Fri, 20 Nov 2026.
+Blanchita is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Archa+, Prague on Fri, 20 Nov 2026.
 
 Blanchita is a techno and trance artist based in Czech Republic, with 23 gigs on soundcheck across Lisbon and Prague. Often billed alongside Raphael Kosmos, Demonika and Kabal. Next up: Archa+, Prague on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Blanchita is a techno and trance artist based in Czech Republic, with 23 gigs on
 
 Raphael Kosmos, Demonika, Kabal
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanchita/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanchita/)*

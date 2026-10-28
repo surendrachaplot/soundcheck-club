@@ -1,6 +1,6 @@
 # Abn - P2z
 
-Abn - P2z is a Deep House and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at La Cômerie, Marseille on Sat, 12 Dec 2026.
+Abn - P2z is a Deep House and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at La Cômerie, Marseille on Sat, 12 Dec 2026.
 
 Abn - P2z is a deep house and ambient artist based in France, with 6 gigs on soundcheck across Marseille and Paris. Often billed alongside Deep Tears On Clamart, P2z and Ben Kaczor. Next up: La Cômerie, Marseille on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Abn - P2z is a deep house and ambient artist based in France, with 6 gigs on sou
 
 Deep Tears On Clamart, P2z, Ben Kaczor
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abn-p2z/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abn-p2z/)*

@@ -1,6 +1,6 @@
 # Club Saoco Vol. 3 at The Fox and Firkin
 
-Club Saoco Vol. 3 at The Fox and Firkin on Sat 7 Nov, London. 3 artists: Ana Isabela, Onda Saoco and Tsunamy. Baile Funk and Afrobeats. See the line-up on soundcheck.
+Club Saoco Vol. 3 at The Fox and Firkin on Sat 7 Nov, London. 4 artists: Ana Isabela, NORA, Onda Saoco and Tsunamy. Baile Funk and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Club Saoco Vol. 3 at The Fox and Firkin on Sat 7 Nov, London. 3 artists: Ana Isa
 ## Line-up
 
 - Ana Isabela
+- NORA (3)
 - Onda Saoco
 - Tsunamy
 

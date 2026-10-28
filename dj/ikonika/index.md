@@ -1,6 +1,6 @@
 # Ikonika
 
-Ikonika is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Jam Jar, Bristol on Thu, 29 Oct 2026.
+Ikonika is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Jam Jar, Bristol on Thu, 29 Oct 2026.
 
 Ikonika is a bass and techno artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Bok Bok, Karen Nyame KG and Kode9. Next up: The Jam Jar, Bristol on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Ikonika is a bass and techno artist based in United Kingdom, with 71 gigs on sou
 
 Bok Bok, Karen Nyame KG, Kode9
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikonika/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikonika/)*

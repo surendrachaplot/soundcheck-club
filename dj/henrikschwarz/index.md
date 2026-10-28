@@ -1,6 +1,6 @@
 # Henrik Schwarz
 
-Henrik Schwarz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at HCC Kuppelsaal, Hannover on Fri, 30 Oct 2026.
+Henrik Schwarz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at HCC Kuppelsaal, Hannover on Fri, 30 Oct 2026.
 
 Henrik Schwarz is a house and techno artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 35 more. Often billed alongside Âme, Mano Le Tough and Black Coffee. Next up: HCC Kuppelsaal, Hannover on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Henrik Schwarz is a house and techno artist based in Germany, with 122 gigs on s
 
 Âme, Mano Le Tough, Black Coffee
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*

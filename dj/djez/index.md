@@ -1,6 +1,6 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+DJ EZ is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 DJ EZ is a garage and house artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 31 more. Often billed alongside Danny Howard, Sonny Fodera and Benny Rodrigues. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ DJ EZ is a garage and house artist based in United Kingdom, with 110 gigs on sou
 
 Danny Howard, Sonny Fodera, Benny Rodrigues
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*

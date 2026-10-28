@@ -1,6 +1,6 @@
 # New River Studios
 
-New River Studios is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Crux audiovisual performance showcase" on Sun, 8 Nov 2026.
+New River Studios is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Crux audiovisual performance showcase" on Sun, 8 Nov 2026.
 
 New River Studios is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Mowie. See dates, start times and who's playing. 199 Eade Road, London, N4 1DN.
 
@@ -15,4 +15,4 @@ New River Studios is a music venue in London listed on soundcheck. 2 upcoming gi
 
 199 Eade Road, London, N4 1DN, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/new-river-studios/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/new-river-studios/)*

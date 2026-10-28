@@ -1,6 +1,6 @@
 # Apotheke
 
-Apotheke is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Just Like That W/ DJ Adam Lucky (The Numero Group)" on Thu, 29 Oct 2026.
+Apotheke is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Just Like That W/ DJ Adam Lucky (The Numero Group)" on Thu, 29 Oct 2026.
 
 Apotheke is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Glo Phase and LUPE. See dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
 
@@ -15,4 +15,4 @@ Apotheke is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, 
 
 1746 N Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*

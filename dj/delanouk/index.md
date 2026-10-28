@@ -1,6 +1,6 @@
 # Delano (UK)
 
-Delano (UK) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Bow, London on Sat, 7 Nov 2026.
+Delano (UK) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Bow, London on Sat, 7 Nov 2026.
 
 Delano (UK) is a techno and bass artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Thoughtful Ken, Paddy Cotter and Revstreet. Next up: TBA - Bow, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Delano (UK) is a techno and bass artist based in United Kingdom, with 23 gigs on
 
 Thoughtful Ken, Paddy Cotter, Revstreet
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanouk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanouk/)*

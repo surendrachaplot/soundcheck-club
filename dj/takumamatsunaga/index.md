@@ -1,6 +1,6 @@
 # Takuma Matsunaga
 
-Takuma Matsunaga is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Azumaya, Tokyo on Thu, 29 Oct 2026.
+Takuma Matsunaga is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Azumaya, Tokyo on Thu, 29 Oct 2026.
 
 Takuma Matsunaga is a techno and trance artist based in Japan, with 7 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Hue Ray, Mars89 and Azrel. Next up: Azumaya, Tokyo on Thu 29 Oct.
 
@@ -23,4 +23,4 @@ Takuma Matsunaga is a techno and trance artist based in Japan, with 7 gigs on so
 
 Hue Ray, Mars89, Azrel
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takumamatsunaga/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takumamatsunaga/)*

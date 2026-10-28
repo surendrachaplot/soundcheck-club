@@ -1,6 +1,6 @@
 # Martin Po
 
-Martin Po is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tell Me, Sofia on Fri, 30 Oct 2026.
+Martin Po is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tell Me, Sofia on Fri, 30 Oct 2026.
 
 Martin Po is an electronica and house artist based in Bulgaria, with 14 gigs on soundcheck across Sofia. Often billed alongside Vetomir, Ventsislav Gendov and Alexandar Kyosev. Next up: Tell Me, Sofia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Martin Po is an electronica and house artist based in Bulgaria, with 14 gigs on 
 
 Vetomir, Ventsislav Gendov, Alexandar Kyosev
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinpo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinpo/)*

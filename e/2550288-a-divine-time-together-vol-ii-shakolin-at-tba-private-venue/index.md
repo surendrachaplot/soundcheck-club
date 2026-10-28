@@ -1,6 +1,6 @@
 # A Divine Time Together Vol. II: Shakolin at TBA - Private Venue
 
-A Divine Time Together Vol. II: Shakolin at TBA - Private Venue on Fri 30 Oct, Seattle. 2 artists: natebytheway and Shakolin. Electro and Minimal. See the line-up on soundcheck.
+A Divine Time Together Vol. II: Shakolin at TBA - Private Venue on Fri 30 Oct, Seattle. 3 artists: KJ3 (US), natebytheway and Shakolin. Electro and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ A Divine Time Together Vol. II: Shakolin at TBA - Private Venue on Fri 30 Oct, S
 
 ## Line-up
 
+- KJ3 (US)
 - natebytheway
 - Shakolin
 

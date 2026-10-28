@@ -1,13 +1,14 @@
 # Vatsanah
 
-Vatsanah is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
+Vatsanah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Very Small Club, Budapest on Sat, 31 Oct 2026.
 
-Vatsanah is a house and downtempo artist, with 73 gigs on soundcheck across Berlin and Budapest. Often billed alongside Klayman, SVR101 and LAU. Next up: Turbina, Budapest on Fri 13 Nov.
+Vatsanah is a house and techno artist based in Hungary, with 74 gigs on soundcheck across Berlin and Budapest. Often billed alongside Klayman, SVR101 and LAU. Next up: Very Small Club, Budapest on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Very Small Club | Budapest |
 | Fri, 13 Nov 2026 | Turbina | Budapest |
 
 ## Recently played
@@ -25,4 +26,4 @@ Vatsanah is a house and downtempo artist, with 73 gigs on soundcheck across Berl
 
 Klayman, SVR101, LAU (6)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vatsanah-hu/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vatsanah-hu/)*

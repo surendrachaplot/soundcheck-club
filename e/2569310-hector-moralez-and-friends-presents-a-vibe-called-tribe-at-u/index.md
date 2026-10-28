@@ -1,6 +1,6 @@
 # Hector Moralez and friends presents 'A Vibe Called Tribe' at Underground SF
 
-Hector Moralez and friends presents 'A Vibe Called Tribe' at Underground SF on Sat 5 Dec, San Francisco/Oakland. Acid and Deep House. See the line-up on soundcheck.
+Hector Moralez and friends presents 'A Vibe Called Tribe' at Underground SF on Sat 5 Dec, San Francisco/Oakland. Deep House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

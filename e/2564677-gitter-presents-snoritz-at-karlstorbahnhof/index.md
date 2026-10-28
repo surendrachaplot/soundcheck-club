@@ -1,6 +1,6 @@
 # Gitter presents: Snoritz at Karlstorbahnhof
 
-Gitter presents: Snoritz at Karlstorbahnhof on Sat 14 Nov, Heidelberg. See the line-up on soundcheck.
+Gitter presents: Snoritz at Karlstorbahnhof on Sat 14 Nov, Heidelberg. Trance and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

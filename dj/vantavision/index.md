@@ -1,6 +1,6 @@
 # Vantavision
 
-Vantavision is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sensorium, Berlin on Wed, 28 Oct 2026.
+Vantavision is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sensorium, Berlin on Wed, 28 Oct 2026.
 
 Vantavision is a techno and tech house artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside EVYA, k.meower and Ankit. Next up: Sensorium, Berlin on Wed 28 Oct.
 
@@ -24,4 +24,4 @@ Vantavision is a techno and tech house artist based in Germany, with 8 gigs on s
 
 EVYA, k.meower, Ankit
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vantavision/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vantavision/)*

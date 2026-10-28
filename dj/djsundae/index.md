@@ -1,14 +1,15 @@
 # DJ Sundae
 
-DJ Sundae is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 30 Oct 2026.
+DJ Sundae is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 30 Oct 2026.
 
-DJ Sundae is a club and techno artist, with 48 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bristol and 14 more. Often billed alongside John Talabot, Lena Willikens and QRTR. Next up: Le Poisson Volant, Paris on Fri 30 Oct.
+DJ Sundae is a club and techno artist, with 49 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bristol and 14 more. Often billed alongside John Talabot, Lena Willikens and QRTR. Next up: Le Poisson Volant, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Le Poisson Volant | Paris |
+| Fri, 13 Nov 2026 | A-Side | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Sundae is a club and techno artist, with 48 gigs on soundcheck across Amsterd
 
 John Talabot, Lena Willikens, QRTR
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsundae/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsundae/)*

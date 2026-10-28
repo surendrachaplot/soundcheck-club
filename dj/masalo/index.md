@@ -1,6 +1,6 @@
 # Masalo
 
-Masalo is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
+Masalo is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
 
 Masalo is a house and disco artist based in Netherlands, with 142 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Kamma, Antal and DJ Tennis. Next up: fabric, London on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Masalo is a house and disco artist based in Netherlands, with 142 gigs on soundc
 
 Kamma, Antal, DJ Tennis
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*

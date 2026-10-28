@@ -1,8 +1,8 @@
 # NDR2 Red Room
 
-NDR2 Red Room is a music venue in London with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Red Room Halloween Launch - SECRET GUEST" on Fri, 30 Oct 2026.
+NDR2 Red Room is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Red Room Halloween Launch - SECRET GUEST" on Fri, 30 Oct 2026.
 
-NDR2 Red Room is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Aaron Burr, Alex, from Deep, anne névroses and Aria and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
+NDR2 Red Room is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Burr, Alex, from Deep, anne névroses and Aria and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
 ## What's on
 
@@ -15,9 +15,10 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 7 upcoming gigs, 
 | Fri, 20 Nov 2026 | Hooligan Soup [All Night Long] | Givron, Joe Gabbitas, Wilks (UK) |
 | Sat, 21 Nov 2026 | cartwheelin* 000 - launch party | Monika Taneska, anne névroses |
 | Sat, 28 Nov 2026 | Pastry Selects - 7th Anniversary | Mantis (UK), Phact (UK), Son of Paul |
+| Fri, 4 Dec 2026 | Friendship Circles presents: Yu Su | Penzik & Burns, Yu Su |
 
 ## Address
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*

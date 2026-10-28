@@ -1,6 +1,6 @@
 # Lorenzo BITW
 
-Lorenzo BITW is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Combo Social Club, Florence on Fri, 30 Oct 2026.
+Lorenzo BITW is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Combo Social Club, Florence on Fri, 30 Oct 2026.
 
 Lorenzo BITW is a techno and club artist, with 20 gigs on soundcheck across Florence, Milan and Rome. Often billed alongside SARABAMBA, snesty and Achieh. Next up: Combo Social Club, Florence on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lorenzo BITW is a techno and club artist, with 20 gigs on soundcheck across Flor
 
 SARABAMBA, snesty, Achieh
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzobitw/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzobitw/)*

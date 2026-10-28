@@ -1,6 +1,6 @@
 # Nonsense
 
-Nonsense is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
+Nonsense is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
 
 Nonsense is a drum & bass artist based in Netherlands, with 6 gigs on soundcheck across Prague. Often billed alongside Paul Krist, IGDA and Illya. Next up: Sacre Coeur Prague, Prague on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Nonsense is a drum & bass artist based in Netherlands, with 6 gigs on soundcheck
 
 Paul Krist, IGDA, Illya
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsense/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsense/)*

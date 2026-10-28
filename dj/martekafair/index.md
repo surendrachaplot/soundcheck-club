@@ -1,6 +1,6 @@
 # Marteka Fair
 
-Marteka Fair is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Green Room NYC, New York City on Sat, 7 Nov 2026.
+Marteka Fair is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Green Room NYC, New York City on Sat, 7 Nov 2026.
 
 Marteka Fair is a techno and minimal techno artist based in United States of America, with 34 gigs on soundcheck across Baltimore, Berlin, Boston and Chicago and 7 more. Often billed alongside Matthew Cha, JADE CAO and RAH (US). Next up: Green Room NYC, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Marteka Fair is a techno and minimal techno artist based in United States of Ame
 
 Matthew Cha, JADE CAO, RAH (US)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martekafair/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martekafair/)*

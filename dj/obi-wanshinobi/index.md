@@ -1,6 +1,6 @@
 # Obi-Wan Shinobi
 
-Obi-Wan Shinobi is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gotta Gacha, Detroit on Sat, 31 Oct 2026.
+Obi-Wan Shinobi is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Gotta Gacha, Detroit on Sat, 31 Oct 2026.
 
 Obi-Wan Shinobi is a club and hardcore artist based in United States of America, with 24 gigs on soundcheck across Chicago, Cleveland, Detroit and New York City. Often billed alongside Seanni B, Kuuma and DON 614. Next up: Gotta Gacha, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Obi-Wan Shinobi is a club and hardcore artist based in United States of America,
 
 Seanni B, Kuuma, DON 614
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obi-wanshinobi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obi-wanshinobi/)*

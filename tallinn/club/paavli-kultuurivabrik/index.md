@@ -1,6 +1,6 @@
 # Paavli Kultuurivabrik
 
-Paavli Kultuurivabrik is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Paavli House of Horrors" on Fri, 30 Oct 2026.
+Paavli Kultuurivabrik is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Paavli House of Horrors" on Fri, 30 Oct 2026.
 
 Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Shore Road, Gary Gwadera, Kode9 and Nikolajev and 2 more. See dates, start times and who's playing. Paavli 7a, 10412 Tallinn, Estonia.
 
@@ -15,4 +15,4 @@ Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 2 upcomi
 
 Paavli 7a, 10412 Tallinn, Estonia, Tallinn
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*

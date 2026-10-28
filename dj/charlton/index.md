@@ -1,6 +1,6 @@
 # Charlton
 
-Charlton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cadavra, Madrid on Thu, 12 Nov 2026.
+Charlton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cadavra, Madrid on Thu, 12 Nov 2026.
 
 Charlton is a techno and house artist based in Netherlands, with 61 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 12 more. Often billed alongside Bas Mooy, Thanos Hana and Kerrie. Next up: Cadavra, Madrid on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Charlton is a techno and house artist based in Netherlands, with 61 gigs on soun
 
 Bas Mooy, Thanos Hana, Kerrie
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlton/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlton/)*

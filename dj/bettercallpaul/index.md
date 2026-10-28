@@ -1,6 +1,6 @@
 # Better Call Paul
 
-Better Call Paul is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 30 Oct 2026.
+Better Call Paul is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 30 Oct 2026.
 
 Better Call Paul is a house and club artist based in Germany, with 91 gigs on soundcheck across Berlin, Düsseldorf and Hannover. Often billed alongside Nikklaas, Anne Hou and Dicso_Muzek. Next up: Bulbul Berlin, Berlin on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Better Call Paul is a house and club artist based in Germany, with 91 gigs on so
 
 Nikklaas, Anne Hou, Dicso_Muzek
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bettercallpaul/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bettercallpaul/)*

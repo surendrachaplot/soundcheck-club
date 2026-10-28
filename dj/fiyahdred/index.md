@@ -1,8 +1,8 @@
 # Fiyahdred
 
-Fiyahdred is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
+Fiyahdred is a Amapiano and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
 
-Fiyahdred is an amapiano and house artist based in United Kingdom, with 58 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 8 more. Often billed alongside Karen Nyame KG, Donnie Sunshine and Bok Bok. Next up: M.O.T, London on Sat 28 Nov.
+Fiyahdred is an amapiano and uk funky artist based in United Kingdom, with 58 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 8 more. Often billed alongside Karen Nyame KG, Donnie Sunshine and Bok Bok. Next up: M.O.T, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Fiyahdred is an amapiano and house artist based in United Kingdom, with 58 gigs 
 
 Karen Nyame KG, Donnie Sunshine, Bok Bok
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiyahdred/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiyahdred/)*

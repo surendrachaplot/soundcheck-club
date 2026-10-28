@@ -1,6 +1,6 @@
 # Love Sensation
 
-Love Sensation is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
+Love Sensation is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
 
 Love Sensation is a house and techno artist based in United Kingdom, with 20 gigs on soundcheck across Berlin and London. Often billed alongside MADDØG, Kidcat and Panooc. Next up: Dalston Superstore, London on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Love Sensation is a house and techno artist based in United Kingdom, with 20 gig
 
 MADDØG, Kidcat, Panooc
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovesensation/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovesensation/)*

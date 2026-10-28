@@ -1,6 +1,6 @@
 # dyspony
 
-dyspony is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lithuanian House, Toronto on Fri, 30 Oct 2026.
+dyspony is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Lithuanian House, Toronto on Fri, 30 Oct 2026.
 
 dyspony is a hardcore and club artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside GUSSYEE, xeon æon and Audi Étoffe. Next up: Lithuanian House, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ dyspony is a hardcore and club artist based in Canada, with 10 gigs on soundchec
 
 GUSSYEE, xeon æon, Audi Étoffe
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyspony/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyspony/)*

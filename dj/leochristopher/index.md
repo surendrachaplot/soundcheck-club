@@ -1,6 +1,6 @@
 # Leo Christopher
 
-Leo Christopher is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tide Nightclub, Brighton on Sat, 12 Dec 2026.
+Leo Christopher is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tide Nightclub, Brighton on Sat, 12 Dec 2026.
 
 Leo Christopher is a house and techno artist, with 18 gigs on soundcheck across Brighton and London. Often billed alongside Obester, Jake Nash and Oliver Molina. Next up: Tide Nightclub, Brighton on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Leo Christopher is a house and techno artist, with 18 gigs on soundcheck across 
 
 Obester, Jake Nash, Oliver Molina
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leochristopher/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leochristopher/)*

@@ -1,6 +1,6 @@
 # jannah
 
-jannah is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+jannah is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 jannah is a techno and electro artist based in Netherlands, with 66 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside David Vunk, Serge and Afra. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ jannah is a techno and electro artist based in Netherlands, with 66 gigs on soun
 
 David Vunk, Serge, Afra
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jannah-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jannah-2/)*

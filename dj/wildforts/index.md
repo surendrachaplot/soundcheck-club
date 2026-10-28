@@ -1,6 +1,6 @@
 # Wild Forts
 
-Wild Forts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Carlton Club, Manchester on Fri, 13 Nov 2026.
+Wild Forts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Carlton Club, Manchester on Fri, 13 Nov 2026.
 
 Wild Forts is a house and techno artist based in United Kingdom, with 28 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Judas Du, Kickin Pigeon and Luke Daniels. Next up: The Carlton Club, Manchester on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Wild Forts is a house and techno artist based in United Kingdom, with 28 gigs on
 
 Judas Du, Kickin Pigeon, Luke Daniels
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wildforts/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wildforts/)*

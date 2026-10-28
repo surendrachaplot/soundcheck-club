@@ -1,6 +1,6 @@
 # DJ Chris (CA)
 
-DJ Chris (CA) is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Cafeteria, Toronto on Sat, 31 Oct 2026.
+DJ Chris (CA) is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cafeteria, Toronto on Sat, 31 Oct 2026.
 
 DJ Chris (CA) is a minimal techno and house artist based in Canada, with 40 gigs on soundcheck across Bangkok, Madrid, Mexico City and Toronto. Often billed alongside International Habibi, Vladislove and Blkvirgo. Next up: Cafeteria, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Chris (CA) is a minimal techno and house artist based in Canada, with 40 gigs
 
 International Habibi, Vladislove, Blkvirgo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchrisca/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchrisca/)*

@@ -1,6 +1,6 @@
 # Serge
 
-Serge is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
+Serge is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
 Serge is a techno and house artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Afra, Alberta Balsam and Detroit In Effect. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Serge is a techno and house artist based in Netherlands, with 71 gigs on soundch
 
 Afra, Alberta Balsam, Detroit In Effect
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serge/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serge/)*

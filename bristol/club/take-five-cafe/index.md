@@ -1,6 +1,6 @@
 # Take Five Cafe
 
-Take Five Cafe is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "EXPANSIVE NYE" on Thu, 31 Dec 2026.
+Take Five Cafe is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "EXPANSIVE NYE" on Thu, 31 Dec 2026.
 
 Take Five Cafe is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with line-ups including Cat Caesura and Tribal. See dates, start times and who's playing. 72 Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -14,4 +14,4 @@ Take Five Cafe is a music venue in Bristol listed on soundcheck. 1 upcoming gig,
 
 72 Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/take-five-cafe/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/take-five-cafe/)*

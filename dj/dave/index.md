@@ -1,0 +1,29 @@
+# Dave
+
+Dave is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 6 Nov 2026.
+
+Dave is a techno and house artist based in Monaco, with 31 gigs on soundcheck across Berlin, Budapest, Kuala Lumpur and Leeds and 4 more. Often billed alongside Bisk, Emanuel Eisbrenner and Fabian Fischbach. Next up: Der Weiße Hase, Berlin on Fri 6 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 6 Nov 2026 | Der Weiße Hase | Berlin |
+| Thu, 26 Nov 2026 | Der Weiße Hase | Berlin |
+
+## Recently played
+
+- Der Weiße Hase, Berlin · Sat, 26 Sept 2026
+- Bredouille, Berlin · Fri, 14 Aug 2026
+- Epic Prague, Prague · Sat, 1 Aug 2026
+- Camp and Furnace, Liverpool · Thu, 30 Jul 2026
+- Der Weiße Hase, Berlin · Thu, 30 Jul 2026
+- Pontoon Budapest, Budapest · Sun, 5 Jul 2026
+- Der Weiße Hase, Berlin · Sat, 4 Jul 2026
+- Der Weiße Hase, Berlin · Tue, 16 Jun 2026
+
+## Shares bills with
+
+Bisk, Emanuel Eisbrenner, Fabian Fischbach
+
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dave/)*

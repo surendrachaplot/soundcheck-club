@@ -1,6 +1,6 @@
 # Club Cheek presents: DMX Krew (live) & Eclair Fifi at Club Cheek
 
-Club Cheek presents: DMX Krew (live) & Eclair Fifi on Fri 11 Dec, London. 2 artists: DMX Krew and Eclair Fifi. Acid and Electro. See the line-up on soundcheck.
+Club Cheek presents: DMX Krew (live) & Eclair Fifi on Fri 11 Dec, London. 2 artists: DMX Krew and Eclair Fifi. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

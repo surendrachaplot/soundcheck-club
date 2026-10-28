@@ -1,6 +1,6 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+DJ Seinfeld is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 DJ Seinfeld is a house and techno artist based in Sweden, with 205 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Atlanta and 59 more. Often billed alongside DJ BORING, Dom Dolla and Sossa. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ DJ Seinfeld is a house and techno artist based in Sweden, with 205 gigs on sound
 
 DJ BORING, Dom Dolla, Sossa
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*

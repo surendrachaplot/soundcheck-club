@@ -1,6 +1,6 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "FRNDS+FMLY - Chris Veron" on Fri, 30 Oct 2026.
+Slakthuset is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "FRNDS+FMLY - Chris Veron" on Fri, 30 Oct 2026.
 
 Slakthuset is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with line-ups including 5ekvens, Chris Veron, DJ Ruby and Floormagnet and 2 more. See dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
@@ -16,4 +16,4 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, 
 
 Slakthusgatan 6, 121 62 Johanneshov, Sweden, Stockholm
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*

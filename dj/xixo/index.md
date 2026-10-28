@@ -1,14 +1,15 @@
 # Xixo
 
-Xixo is a Broken Beat and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lovehaus, Seoul on Sat, 7 Nov 2026.
+Xixo is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lovehaus, Seoul on Sat, 7 Nov 2026.
 
-Xixo is a broken beat and bass artist based in South Korea, with 5 gigs on soundcheck across Seoul. Often billed alongside KISEWA, ACHANORI and AEIDA. Next up: Lovehaus, Seoul on Sat 7 Nov.
+Xixo is a bass and club artist based in South Korea, with 6 gigs on soundcheck across Seoul. Often billed alongside KISEWA, KING SHE and Kitty. Next up: Lovehaus, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Lovehaus | Seoul |
+| Sat, 7 Nov 2026 | BBCB: Beton Brut+Concrete Bar | Seoul |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Xixo is a broken beat and bass artist based in South Korea, with 5 gigs on sound
 
 ## Shares bills with
 
-KISEWA, ACHANORI, AEIDA
+KISEWA, KING SHE, Kitty
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xixo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xixo/)*

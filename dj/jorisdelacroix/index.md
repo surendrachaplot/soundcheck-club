@@ -1,6 +1,6 @@
 # Joris Delacroix
 
-Joris Delacroix is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 23 Jan 2027.
+Joris Delacroix is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 23 Jan 2027.
 
 Joris Delacroix is a techno and house artist based in France, with 49 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 14 more. Often billed alongside Joachim Pastor, Teho and Acid Arab. Next up: Het Sieraad, Amsterdam on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Joris Delacroix is a techno and house artist based in France, with 49 gigs on so
 
 Joachim Pastor, Teho, Acid Arab
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisdelacroix/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisdelacroix/)*

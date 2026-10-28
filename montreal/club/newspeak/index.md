@@ -1,8 +1,8 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Baauer - Montréal" on Fri, 30 Oct 2026.
+Newspeak is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Baauer - Montréal" on Fri, 30 Oct 2026.
 
-Newspeak is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Baauer, Brat Star, Dick Lee and key watch and 2 more. See dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
+Newspeak is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Baauer, Brat Star, Dick Lee and key watch and 2 more. See dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Newspeak is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, wit
 | Sat, 28 Nov 2026 | Suray Sertin - Montréal | Dick Lee, Melek, key watch |
 | Fri, 4 Dec 2026 | Loukeman - Montréal | Brat Star, Loukeman |
 | Sat, 5 Dec 2026 | Riot Ten - Montréal |  |
+| Mon, 25 Jan 2027 | KatzPascale - Montréal |  |
 
 ## Address
 
 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5, Montreal
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*

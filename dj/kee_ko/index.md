@@ -1,6 +1,6 @@
 # Kee_ko
 
-Kee_ko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Carmo Rooftop, Lisbon on Sat, 31 Oct 2026.
+Kee_ko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Carmo Rooftop, Lisbon on Sat, 31 Oct 2026.
 
 Kee_ko is a house and techno artist based in Portugal, with 187 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Jorge Caiado, John-E and MURI. Next up: Carmo Rooftop, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kee_ko is a house and techno artist based in Portugal, with 187 gigs on soundche
 
 Jorge Caiado, John-E, MURI
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*

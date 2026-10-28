@@ -1,6 +1,6 @@
 # Rider
 
-Rider is a Electro and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Gabriela, New York City on Fri, 30 Oct 2026.
+Rider is a Electro and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Gabriela, New York City on Fri, 30 Oct 2026.
 
 Rider is an electro and post-punk artist based in United States of America, with 11 gigs on soundcheck across London and New York City. Often billed alongside Apollo Navigation, Contra and A.M.C.. Next up: Gabriela, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rider is an electro and post-punk artist based in United States of America, with
 
 Apollo Navigation, Contra, A.M.C.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rider/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rider/)*

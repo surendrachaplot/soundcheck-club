@@ -1,6 +1,6 @@
 # Chata
 
-Chata is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tagada, Vienna on Sat, 31 Oct 2026.
+Chata is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tagada, Vienna on Sat, 31 Oct 2026.
 
 Chata is a house and deep house artist based in Georgia, with 24 gigs on soundcheck across Prague and Vienna. Often billed alongside Dona, Lucas Hulan and Aurelien. Next up: Tagada, Vienna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Chata is a house and deep house artist based in Georgia, with 24 gigs on soundch
 
 Dona, Lucas Hulan, Aurelien
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chata/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chata/)*

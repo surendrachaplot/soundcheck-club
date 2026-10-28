@@ -1,14 +1,15 @@
 # RINALUCKY
 
-RINALUCKY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at VENT, Tokyo on Sat, 31 Oct 2026.
+RINALUCKY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at VENT, Tokyo on Sat, 31 Oct 2026.
 
-RINALUCKY is a techno and house artist based in Japan, with 130 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside RYOHEI, Drunken Kong and ERIMIYA. Next up: VENT, Tokyo on Sat 31 Oct.
+RINALUCKY is a techno and house artist based in Japan, with 131 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside RYOHEI, Drunken Kong and ERIMIYA. Next up: VENT, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | VENT | Tokyo |
+| Sat, 12 Dec 2026 | 神田明神文化交流館 | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ RINALUCKY is a techno and house artist based in Japan, with 130 gigs on soundche
 
 RYOHEI, Drunken Kong, ERIMIYA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinalucky/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinalucky/)*

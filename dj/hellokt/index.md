@@ -1,6 +1,6 @@
 # hellokt
 
-hellokt is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Curveball, Dublin on Sat, 7 Nov 2026.
+hellokt is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Curveball, Dublin on Sat, 7 Nov 2026.
 
 hellokt is a techno and electro artist based in Ireland, with 36 gigs on soundcheck across Dublin and London. Often billed alongside Kjinn, CULT and FUAM. Next up: Curveball, Dublin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ hellokt is a techno and electro artist based in Ireland, with 36 gigs on soundch
 
 Kjinn, CULT, FUAM
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellokt/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellokt/)*

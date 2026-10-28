@@ -1,13 +1,14 @@
 # Dada Beijing
 
-Dada Beijing is a music venue in Beijing with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "10.24 SA Links w/JUAN.EV, The Ultimate Techno Night" on Sat, 24 Oct 2026.
+Dada Beijing is a music venue in Beijing with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "House of Visions x Disc Chef" on Fri, 30 Oct 2026.
 
-Dada Beijing is a music venue in Beijing listed on soundcheck. 1 upcoming gig, with line-ups including Juan Evangelista and NYB. See dates, start times and who's playing.
+Dada Beijing is a music venue in Beijing listed on soundcheck. 2 upcoming gigs, with line-ups including 2Difficult, Elias Sternin, Ivan Smagghe and Jiahao. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | 10.24 SA Links w/JUAN.EV, The Ultimate Techno Night | Juan Evangelista, NYB (1) |
+| Fri, 30 Oct 2026 | House of Visions x Disc Chef | 2Difficult, Elias Sternin, Ivan Smagghe, Jiahao |
+| Sat, 31 Oct 2026 | soarchive & DADA BEIJING pre. DJ Würm：玉木冰期，幽林巨蟒 |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/dada-beijing/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/dada-beijing/)*

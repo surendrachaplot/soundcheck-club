@@ -1,6 +1,6 @@
 # NOGE
 
-NOGE is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 14 Nov 2026.
+NOGE is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 14 Nov 2026.
 
 NOGE is a bass and drum & bass artist based in France, with 30 gigs on soundcheck across Edinburgh, Marseille and Paris. Often billed alongside WAWRZY, Pata Negra Loves U and Pata Negra. Next up: Le Chapiteau - Marseille, Marseille on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ NOGE is a bass and drum & bass artist based in France, with 30 gigs on soundchec
 
 WAWRZY, Pata Negra Loves U, Pata Negra
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noge/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noge/)*

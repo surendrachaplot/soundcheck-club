@@ -1,8 +1,8 @@
 # Lerro
 
-Lerro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Klub K4, Ljubljana on Sat, 14 Nov 2026.
+Lerro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Klub K4, Ljubljana on Sat, 14 Nov 2026.
 
-Lerro is a house and techno artist, with 13 gigs on soundcheck across Dublin, Ljubljana, London and Vienna and 1 more. Often billed alongside Lottie (SI), Monti1one and PJPJPJ. Next up: Klub K4, Ljubljana on Sat 14 Nov.
+Lerro is a house and techno artist based in Slovenia, with 13 gigs on soundcheck across Dublin, Ljubljana, London and Vienna and 1 more. Often billed alongside Lottie (SI), Monti1one and PJPJPJ. Next up: Klub K4, Ljubljana on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lerro is a house and techno artist, with 13 gigs on soundcheck across Dublin, Lj
 
 Lottie (SI), Monti1one, PJPJPJ
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerro/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerro/)*

@@ -1,6 +1,6 @@
 # Nicholas Van Orton
 
-Nicholas Van Orton is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mason Bar, Cyprus on Sat, 31 Oct 2026.
+Nicholas Van Orton is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mason Bar, Cyprus on Sat, 31 Oct 2026.
 
 Nicholas Van Orton is a progressive house and deep house artist based in Argentina, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 2 more. Often billed alongside Seesko, Tom Pavicich and Emeveka. Next up: Mason Bar, Cyprus on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nicholas Van Orton is a progressive house and deep house artist based in Argenti
 
 Seesko, Tom Pavicich, Emeveka
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasvanorton/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasvanorton/)*

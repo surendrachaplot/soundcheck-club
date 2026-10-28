@@ -1,6 +1,6 @@
 # Mariiin
 
-Mariiin is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
+Mariiin is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
 
 Mariiin is a techno and electro artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Bobby., Jos and Anna Wall. Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Mariiin is a techno and electro artist based in United Kingdom, with 95 gigs on 
 
 Bobby., Jos, Anna Wall
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*

@@ -1,6 +1,6 @@
 # Khrys
 
-Khrys is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
+Khrys is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
 Khrys is a techno and house artist, with 6 gigs on soundcheck across Berlin, Miami, New York City and Toronto. Often billed alongside Giovani, DJ Courtney K and ABEILLE. Next up: Eden NYC, New York City on Sun 1 Nov.
 
@@ -22,4 +22,4 @@ Khrys is a techno and house artist, with 6 gigs on soundcheck across Berlin, Mia
 
 Giovani, DJ Courtney K, ABEILLE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khrys/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khrys/)*

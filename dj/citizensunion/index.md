@@ -1,6 +1,6 @@
 # Citizens Union
 
-Citizens Union is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Left Bank, Tbilisi on Sat, 31 Oct 2026.
+Citizens Union is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Left Bank, Tbilisi on Sat, 31 Oct 2026.
 
 Citizens Union is a house and techno artist based in Georgia, with 46 gigs on soundcheck across Berlin, Leipzig, Stuttgart and Tbilisi. Often billed alongside Natuta, Knaughty and VINVAR. Next up: Left Bank, Tbilisi on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Citizens Union is a house and techno artist based in Georgia, with 46 gigs on so
 
 Natuta, Knaughty, VINVAR
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensunion/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensunion/)*

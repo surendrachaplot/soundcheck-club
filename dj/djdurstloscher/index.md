@@ -1,6 +1,6 @@
 # DJ DURSTLÖSCHER
 
-DJ DURSTLÖSCHER is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Nummer zu Platz, Bielefeld on Fri, 6 Nov 2026.
+DJ DURSTLÖSCHER is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Nummer zu Platz, Bielefeld on Fri, 6 Nov 2026.
 
 DJ DURSTLÖSCHER is a techno and jungle artist based in Germany, with 7 gigs on soundcheck across Bielefeld and Cologne. Often billed alongside Rafael Da Cruz, Andhim and Cufme. Next up: Nummer zu Platz, Bielefeld on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ DJ DURSTLÖSCHER is a techno and jungle artist based in Germany, with 7 gigs on 
 
 Rafael Da Cruz, Andhim, Cufme
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdurstloscher/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdurstloscher/)*

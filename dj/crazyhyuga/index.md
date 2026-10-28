@@ -1,6 +1,6 @@
 # CRAZYHYUGA
 
-CRAZYHYUGA is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Circus Tokyo, Tokyo on Tue, 3 Nov 2026.
+CRAZYHYUGA is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Circus Tokyo, Tokyo on Tue, 3 Nov 2026.
 
 CRAZYHYUGA is a drum & bass and bass artist based in Japan, with 63 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Altemica, SAKO and ATAMI. Next up: Circus Tokyo, Tokyo on Tue 3 Nov.
 
@@ -26,4 +26,4 @@ CRAZYHYUGA is a drum & bass and bass artist based in Japan, with 63 gigs on soun
 
 Altemica, SAKO, ATAMI
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazyhyuga/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazyhyuga/)*

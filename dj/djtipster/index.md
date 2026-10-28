@@ -1,6 +1,6 @@
 # DJ TIPSTER
 
-DJ TIPSTER is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 6 Nov 2026.
+DJ TIPSTER is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 6 Nov 2026.
 
 DJ TIPSTER is a techno and trance artist based in Germany, with 65 gigs on soundcheck across Athens, Berlin, Dresden and Frankfurt and 3 more. Often billed alongside HØLLE, DiskoJochen and DJ BRECHSTANGE. Next up: Lokschuppen Berlin, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ DJ TIPSTER is a techno and trance artist based in Germany, with 65 gigs on sound
 
 HØLLE (2), DiskoJochen, DJ BRECHSTANGE
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtipster/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtipster/)*

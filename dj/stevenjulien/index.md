@@ -1,14 +1,13 @@
 # Steven Julien
 
-Steven Julien is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at CHICO, Mexico City on Fri, 30 Oct 2026.
+Steven Julien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Karmakoma, Belgrade on Sat, 28 Nov 2026.
 
-Steven Julien is a house and techno artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 22 more. Often billed alongside FunkinEven, DJ Jeyon and J M S Khosah. Next up: CHICO, Mexico City on Fri 30 Oct.
+Steven Julien is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 21 more. Often billed alongside FunkinEven, DJ Jeyon and J M S Khosah. Next up: Karmakoma, Belgrade on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | CHICO | Mexico City |
 | Sat, 28 Nov 2026 | Karmakoma | Belgrade |
 
 ## Recently played
@@ -26,4 +25,4 @@ Steven Julien is a house and techno artist based in United Kingdom, with 66 gigs
 
 FunkinEven, DJ Jeyon, J M S Khosah
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenjulien/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenjulien/)*

@@ -1,6 +1,6 @@
 # Klubnacht + Afterhour at Golden Gate
 
-Klubnacht + Afterhour at Golden Gate on Fri 6 Nov, Berlin. 7 artists: Akos V, Anna Schreit, Emski and Fanfarrosa and 3 more. See the line-up on soundcheck.
+Klubnacht + Afterhour at Golden Gate on Fri 6 Nov, Berlin. 6 artists: Anna Schreit, Emski, Fanfarrosa and Jack Clark and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Klubnacht + Afterhour at Golden Gate on Fri 6 Nov, Berlin. 7 artists: Akos V, An
 
 ## Line-up
 
-- Akos V
 - Anna Schreit
 - Emski
 - Fanfarrosa

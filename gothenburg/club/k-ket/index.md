@@ -1,6 +1,6 @@
 # Köket
 
-Köket is a music venue in Gothenburg with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Köket hosted by Magnus Nylander" on Sat, 31 Oct 2026.
+Köket is a music venue in Gothenburg with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Köket hosted by Magnus Nylander" on Sat, 31 Oct 2026.
 
 Köket is a music venue in Gothenburg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Köket is a music venue in Gothenburg listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Köket hosted by Magnus Nylander |  |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/gothenburg/club/k-ket/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/gothenburg/club/k-ket/)*

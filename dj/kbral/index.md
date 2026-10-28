@@ -1,6 +1,6 @@
 # KBRAL
 
-KBRAL is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
+KBRAL is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
 
 KBRAL is a baile funk and techno artist based in Brazil, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 8 more. Often billed alongside Gustabby, NORA (BR) and Glau. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ KBRAL is a baile funk and techno artist based in Brazil, with 90 gigs on soundch
 
 Gustabby, NORA (BR), Glau
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kbral/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kbral/)*

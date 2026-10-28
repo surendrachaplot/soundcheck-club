@@ -1,8 +1,8 @@
 # Natta
 
-Natta is a Techno and Dancehall artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Fundbureau, Hamburg on Fri, 30 Oct 2026.
+Natta is a Techno and Dancehall artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fundbureau, Hamburg on Fri, 30 Oct 2026.
 
-Natta is a techno and dancehall artist based in Germany, with 9 gigs on soundcheck across Berlin, Hamburg, Hannover and Lyon. Often billed alongside KISSA, TZO and AH-N!CE. Next up: Fundbureau, Hamburg on Fri 30 Oct.
+Natta is a techno and dancehall artist based in Germany, with 10 gigs on soundcheck across Berlin, Hamburg, Hannover and Lyon. Often billed alongside Frank Rayo, KISSA and TZO. Next up: Fundbureau, Hamburg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Natta is a techno and dancehall artist based in Germany, with 9 gigs on soundche
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Fundbureau | Hamburg |
 | Sat, 31 Oct 2026 | WDM | Hannover |
+| Sat, 14 Nov 2026 | UWE Reeperbahn | Hamburg |
 | Fri, 4 Dec 2026 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
@@ -23,6 +24,6 @@ Natta is a techno and dancehall artist based in Germany, with 9 gigs on soundche
 
 ## Shares bills with
 
-KISSA, TZO (1), AH-N!CE
+Frank Rayo, KISSA, TZO (1)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natta/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natta/)*

@@ -1,6 +1,6 @@
 # MELATRONIX
 
-MELATRONIX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 30 Oct 2026.
+MELATRONIX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 30 Oct 2026.
 
 MELATRONIX is a techno and house artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 13 more. Often billed alongside Elad Magdasi, Mathias Weber and Projekt Gestalten. Next up: Pillbox Beijing, Beijing on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ MELATRONIX is a techno and house artist based in Germany, with 44 gigs on soundc
 
 Elad Magdasi, Mathias Weber, Projekt Gestalten
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melatronix/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melatronix/)*

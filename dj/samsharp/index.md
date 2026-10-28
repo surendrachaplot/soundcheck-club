@@ -1,6 +1,6 @@
 # Sam Sharp
 
-Sam Sharp is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bricks, London on Fri, 4 Dec 2026.
+Sam Sharp is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bricks, London on Fri, 4 Dec 2026.
 
 Sam Sharp is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside Yozza, Crumpler and Listiq. Next up: Bricks, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sam Sharp is a house and disco artist based in United Kingdom, with 24 gigs on s
 
 Yozza, Crumpler, Listiq
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samsharp/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samsharp/)*

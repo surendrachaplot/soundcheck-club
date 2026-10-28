@@ -1,6 +1,6 @@
 # Hungry Ghost
 
-Hungry Ghost is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+Hungry Ghost is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
 
 Hungry Ghost is a techno and latin bass artist based in Australia, with 6 gigs on soundcheck across Sydney. Often billed alongside Bouki, Ari Kiko and Bek. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Hungry Ghost is a techno and latin bass artist based in Australia, with 6 gigs o
 
 Bouki, Ari Kiko, Bek
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hungryghost/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hungryghost/)*

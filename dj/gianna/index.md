@@ -1,6 +1,6 @@
 # GIANNA
 
-GIANNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at elipamanoke, Leipzig on Sat, 21 Nov 2026.
+GIANNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at elipamanoke, Leipzig on Sat, 21 Nov 2026.
 
 GIANNA is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin, Leipzig and New York City. Often billed alongside Aio, Fennek and Rn86. Next up: elipamanoke, Leipzig on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ GIANNA is a techno and house artist based in Germany, with 9 gigs on soundcheck 
 
 Aio, Fennek, Rn86
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gianna/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gianna/)*

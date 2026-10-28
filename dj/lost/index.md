@@ -1,6 +1,6 @@
 # LOST
 
-LOST is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mitsuki, Tokyo on Mon, 2 Nov 2026.
+LOST is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mitsuki, Tokyo on Mon, 2 Nov 2026.
 
 LOST is a techno and psytrance artist, with 7 gigs on soundcheck across Kyoto, London and Tokyo. Often billed alongside Kojiro, MUNEMASA and Rickshinmi. Next up: Mitsuki, Tokyo on Mon 2 Nov.
 
@@ -23,4 +23,4 @@ LOST is a techno and psytrance artist, with 7 gigs on soundcheck across Kyoto, L
 
 Kojiro, MUNEMASA, Rickshinmi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lost/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lost/)*

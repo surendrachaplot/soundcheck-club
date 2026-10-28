@@ -1,6 +1,6 @@
 # Mint XL
 
-Mint XL is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Mint XL Hallowe'en Pt.1: RTK Tarantino, Mason Talbot" on Wed, 28 Oct 2026.
+Mint XL is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Mint XL Hallowe'en Pt.1: RTK Tarantino, Mason Talbot" on Wed, 28 Oct 2026.
 
 Mint XL is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including ADMNTi, ADR (UK), A For Alpha and Alex Farell and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Mint XL is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with l
 | Sat, 28 Nov 2026 | Framework presents Nicolas Lutz & Junki Inoue | Annie Errez, Bobby O'Donnell, Junki Inoue, Nicolas Lutz, Phil Warner |
 | Fri, 11 Dec 2026 | Fuse | ADMNTi, Annie Errez, B.Love, Bobby O'Donnell, Dan Ghenacia, Enzo Siragusa, L.P. Rhythm, LILI, PACH, Rich NXT, Seth Troxler |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*

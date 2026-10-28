@@ -1,6 +1,6 @@
 # DJ Kemit
 
-DJ Kemit is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Westside Motor Lounge, Atlanta on Sat, 31 Oct 2026.
+DJ Kemit is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Westside Motor Lounge, Atlanta on Sat, 31 Oct 2026.
 
 DJ Kemit is a house and afro house artist, with 42 gigs on soundcheck across Atlanta, Chicago, Detroit and London and 6 more. Often billed alongside Kai Alce, Salah Ananse and Rich Medina. Next up: Westside Motor Lounge, Atlanta on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Kemit is a house and afro house artist, with 42 gigs on soundcheck across Atl
 
 Kai Alce, Salah Ananse, Rich Medina
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkemit/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkemit/)*

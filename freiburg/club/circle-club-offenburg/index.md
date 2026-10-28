@@ -1,6 +1,6 @@
 # Circle Club Offenburg
 
-Circle Club Offenburg is a music venue in Freiburg with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "TOTPUNKT RAVE - TILL WE DIE " on Sat, 14 Nov 2026.
+Circle Club Offenburg is a music venue in Freiburg with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "TOTPUNKT RAVE - TILL WE DIE " on Sat, 14 Nov 2026.
 
 Circle Club Offenburg is a music venue in Freiburg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Circle Club Offenburg is a music venue in Freiburg listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TOTPUNKT RAVE - TILL WE DIE  |  |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/freiburg/club/circle-club-offenburg/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/freiburg/club/circle-club-offenburg/)*

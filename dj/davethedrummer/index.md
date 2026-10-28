@@ -1,6 +1,6 @@
 # DAVE the Drummer
 
-DAVE the Drummer is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Off-Club, Belgium on Sat, 21 Nov 2026.
+DAVE the Drummer is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Off-Club, Belgium on Sat, 21 Nov 2026.
 
 DAVE the Drummer is a techno and acid artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Barcelona, Belgium and Belgrade and 22 more. Often billed alongside Chris Liberator, CJ Bolland and Cinquedea. Next up: Off-Club, Belgium on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DAVE the Drummer is a techno and acid artist based in United Kingdom, with 46 gi
 
 Chris Liberator, CJ Bolland, Cinquedea
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davethedrummer/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davethedrummer/)*

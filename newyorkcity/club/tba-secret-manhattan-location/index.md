@@ -1,6 +1,6 @@
 # TBA - Secret Manhattan Location
 
-TBA - Secret Manhattan Location is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Sights & Sounds: Et al. – Demi Riquísimo (extended set)" on Sat, 21 Nov 2026.
+TBA - Secret Manhattan Location is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Sights & Sounds: Et al. – Demi Riquísimo (extended set)" on Sat, 21 Nov 2026.
 
 TBA - Secret Manhattan Location is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Atilla Ural, Demi Riquisimo and Van Der Laan. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Manhattan Location is a music venue in New York City listed on soun
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Sights & Sounds: Et al. – Demi Riquísimo (extended set) | Atilla Ural, Demi Riquisimo, Van Der Laan |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-secret-manhattan-location/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-secret-manhattan-location/)*

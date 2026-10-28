@@ -1,6 +1,6 @@
 # KEUT
 
-KEUT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Saint-Denis, Paris on Sat, 28 Nov 2026.
+KEUT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Saint-Denis, Paris on Sat, 28 Nov 2026.
 
 KEUT is a techno and house artist, with 38 gigs on soundcheck across Berlin, Los Angeles, Montreal and Nantes and 1 more. Often billed alongside GOTIS, Gabbor and Lastvuska. Next up: TBA - Saint-Denis, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KEUT is a techno and house artist, with 38 gigs on soundcheck across Berlin, Los
 
 GOTIS, Gabbor, Lastvuska
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keut/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keut/)*

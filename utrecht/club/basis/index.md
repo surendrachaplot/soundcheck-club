@@ -1,6 +1,6 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 20 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser" on Fri, 30 Oct 2026.
+BASIS is a music venue in Utrecht with 20 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser" on Fri, 30 Oct 2026.
 
 BASIS is a music venue in Utrecht listed on soundcheck. 20 upcoming gigs, with line-ups including Amy Rymes, Aphøtic, ARAKAZA and Azzurro and 2 more. See dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
@@ -23,4 +23,4 @@ BASIS is a music venue in Utrecht listed on soundcheck. 20 upcoming gigs, with l
 
 Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands, Utrecht
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*

@@ -1,8 +1,8 @@
 # Jesooria
 
-Jesooria is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at REC Napoli, Naples on Sat, 14 Nov 2026.
+Jesooria is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at REC Napoli, Naples on Sat, 14 Nov 2026.
 
-Jesooria is a techno and electronica artist based in Italy, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 5 more. Often billed alongside Ivan Carbone, Amiran and Nilo. Next up: REC Napoli, Naples on Sat 14 Nov.
+Jesooria is a techno and electronica artist based in Italy, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 5 more. Often billed alongside Ivan Carbone, Amiran and Nilo. Next up: REC Napoli, Naples on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jesooria is a techno and electronica artist based in Italy, with 60 gigs on soun
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | REC Napoli | Naples |
 | Sat, 26 Dec 2026 | REC Napoli | Naples |
+| Fri, 1 Jan 2027 | REC Napoli | Naples |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jesooria is a techno and electronica artist based in Italy, with 60 gigs on soun
 
 Ivan Carbone, Amiran, Nilo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesooria/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesooria/)*

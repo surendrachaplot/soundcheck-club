@@ -1,6 +1,6 @@
 # Semi
 
-Semi is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Dunia, Istanbul on Fri, 30 Oct 2026.
+Semi is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Dunia, Istanbul on Fri, 30 Oct 2026.
 
 Semi is a techno and drum & bass artist based in Germany, with 10 gigs on soundcheck across Berlin and Istanbul. Often billed alongside BERENALP, Mercedes Jens and RUK. Next up: Dunia, Istanbul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Semi is a techno and drum & bass artist based in Germany, with 10 gigs on soundc
 
 BERENALP, Mercedes Jens, RUK (2)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/semi/)*

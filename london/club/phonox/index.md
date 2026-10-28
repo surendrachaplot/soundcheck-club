@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 41 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Insomnia Halloween Special (4AM)" on Thu, 29 Oct 2026.
+Phonox is a music venue in London with 41 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Insomnia Halloween Special (4AM)" on Thu, 29 Oct 2026.
 
 Phonox is a music venue in London listed on soundcheck. 41 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -10,7 +10,7 @@ Phonox is a music venue in London listed on soundcheck. 41 upcoming gigs, with l
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Insomnia Halloween Special (4AM) | Brody James, Lucine, Roaming Data, Yves Tomas |
 | Fri, 30 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, Melé, Djammin | Djammin, Melé, p-rallel |
-| Sat, 31 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, PROZAK, CASNOVA, AMY OS - TICKETS FOR FRIDAY 30TH REMAIN | Amy Os, Casnova, Prozak (IRL), p-rallel |
+| Fri, 30 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, PROZAK, Melé, CASNOVA, Djammin AMY OS | Amy Os, Casnova, Djammin, Melé, Prozak (IRL), p-rallel |
 | Sat, 31 Oct 2026 | FMS 6 Deck - London |  |
 | Thu, 5 Nov 2026 | Insomnia: Dusty Dan, karishma, REYKA | Dusty Dan, REYKA, karishma |
 | Fri, 6 Nov 2026 | Ross From Friends & Cameo Blush: 4 Fridays at Phonox (Opening Party) | Cameo Blush, Ross From Friends |
@@ -23,4 +23,4 @@ Phonox is a music venue in London listed on soundcheck. 41 upcoming gigs, with l
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

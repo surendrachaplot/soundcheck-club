@@ -1,6 +1,6 @@
 # Noiiz Sound Archives
 
-Noiiz Sound Archives is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "Pura Frecuencia pres. Octave (RO)" on Sun, 15 Nov 2026.
+Noiiz Sound Archives is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Pura Frecuencia pres. Octave (RO)" on Sun, 15 Nov 2026.
 
 Noiiz Sound Archives is a music venue in Medellin listed on soundcheck. 1 upcoming gig, with line-ups including Federico Torres, Juanes Vasquez, Octave and Tomy Rubato. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Noiiz Sound Archives is a music venue in Medellin listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Pura Frecuencia pres. Octave (RO) | Federico Torres, Juanes Vasquez, Octave, Tomy Rubato |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/noiiz-sound-archives/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/noiiz-sound-archives/)*

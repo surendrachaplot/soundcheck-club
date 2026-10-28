@@ -1,6 +1,6 @@
 # The 212 Café & Bar
 
-The 212 Café & Bar is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Casika & Friends: with Wal, Casika,Temps,JacknBill and Bellaboo (Special guest to be announced)" on Fri, 27 Nov 2026.
+The 212 Café & Bar is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Casika & Friends: with Wal, Casika,Temps,JacknBill and Bellaboo (Special guest to be announced)" on Fri, 27 Nov 2026.
 
 The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Casika and Four Candles. See dates, start times and who's playing. 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom.
 
@@ -16,4 +16,4 @@ The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 3 upcoming g
 
 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom, Leeds
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-212-caf-bar/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-212-caf-bar/)*

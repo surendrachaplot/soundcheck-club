@@ -1,0 +1,28 @@
+# VECTA
+
+VECTA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tranzit, Hamburg on Fri, 20 Nov 2026.
+
+VECTA is a techno and hardcore artist based in Germany, with 19 gigs on soundcheck across Hamburg. Often billed alongside 333CXT, Frank Rayo and UMKA BEGOVIC. Next up: Tranzit, Hamburg on Fri 20 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 20 Nov 2026 | Tranzit | Hamburg |
+
+## Recently played
+
+- Tranzit, Hamburg · Fri, 9 Oct 2026
+- OZM AIR, Hamburg · Sat, 9 May 2026
+- Tranzit, Hamburg · Fri, 10 Apr 2026
+- Tranzit, Hamburg · Sat, 17 Jan 2026
+- Tranzit, Hamburg · Sat, 15 Nov 2025
+- Uebel & Gefährlich, Hamburg · Thu, 2 Oct 2025
+- Tranzit, Hamburg · Fri, 12 Sept 2025
+- TBA - Große Elbstraße, Hamburg · Sat, 30 Aug 2025
+
+## Shares bills with
+
+333CXT, Frank Rayo, UMKA BEGOVIC
+
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vecta/)*

@@ -1,8 +1,8 @@
 # zi!
 
-zi! is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Spanners, London on Fri, 30 Oct 2026.
+zi! is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Spanners, London on Fri, 30 Oct 2026.
 
-zi! is a techno and bass artist based in Canada, with 76 gigs on soundcheck across Auckland, Baltimore, Berlin and Chicago and 10 more. Often billed alongside Field Note, Dijipoune and Lia Plutonic. Next up: Spanners, London on Fri 30 Oct.
+zi! is a techno and bass artist based in Canada, with 77 gigs on soundcheck across Auckland, Baltimore, Berlin and Chicago and 11 more. Often billed alongside Field Note, Dijipoune and Lia Plutonic. Next up: Spanners, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ zi! is a techno and bass artist based in Canada, with 76 gigs on soundcheck acro
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Spanners | London |
 | Wed, 4 Nov 2026 | TBA - Secret Location (near Frankfurter Allee) | Berlin |
+| Thu, 10 Dec 2026 | Biltmore Cabaret | Vancouver |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ zi! is a techno and bass artist based in Canada, with 76 gigs on soundcheck acro
 
 Field Note, Dijipoune, Lia Plutonic
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*

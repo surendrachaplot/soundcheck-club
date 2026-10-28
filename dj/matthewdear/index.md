@@ -1,6 +1,6 @@
 # Matthew Dear
 
-Matthew Dear is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Matthew Dear is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Matthew Dear is a house and techno artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Juan Maclean, Carl Craig and Seth Troxler. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Matthew Dear is a house and techno artist based in United States of America, wit
 
 Juan Maclean, Carl Craig, Seth Troxler
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdear/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdear/)*

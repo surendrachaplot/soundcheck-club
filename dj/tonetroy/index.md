@@ -1,6 +1,6 @@
 # Tone Troy
 
-Tone Troy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 30 Oct 2026.
+Tone Troy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 30 Oct 2026.
 
 Tone Troy is a house and deep house artist based in United States of America, with 23 gigs on soundcheck across New York City. Often billed alongside AG (NYC), Max Parkinson and Alex Raouf. Next up: MAD Radio NYC, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tone Troy is a house and deep house artist based in United States of America, wi
 
 AG (NYC), Max Parkinson, Alex Raouf
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonetroy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonetroy/)*

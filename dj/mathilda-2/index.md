@@ -1,6 +1,6 @@
 # MATHILDA (2)
 
-MATHILDA (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at elipamanoke, Leipzig on Fri, 6 Nov 2026.
+MATHILDA (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at elipamanoke, Leipzig on Fri, 6 Nov 2026.
 
 MATHILDA is a techno and house artist based in Germany, with 67 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 5 more. Often billed alongside Carluschka, DJ SPORTSCHUH and Talia Dorr. Next up: elipamanoke, Leipzig on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ MATHILDA is a techno and house artist based in Germany, with 67 gigs on soundche
 
 Carluschka, DJ SPORTSCHUH, Talia Dorr
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*

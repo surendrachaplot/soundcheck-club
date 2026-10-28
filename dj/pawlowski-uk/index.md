@@ -1,6 +1,6 @@
 # Pawlowski (UK)
 
-Pawlowski (UK) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
+Pawlowski (UK) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
 
 Pawlowski (UK) is a techno and trance artist based in Poland, with 34 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 19 more. Often billed alongside Alignment, NOVAH and Nico Moreno. Next up: Kameleonten Areena, Finland on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Pawlowski (UK) is a techno and trance artist based in Poland, with 34 gigs on so
 
 Alignment, NOVAH, Nico Moreno
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*

@@ -1,6 +1,6 @@
 # Merlin
 
-Merlin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at City Hall, Barcelona on Thu, 26 Nov 2026.
+Merlin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at City Hall, Barcelona on Thu, 26 Nov 2026.
 
 Merlin is a techno and house artist based in Germany, with 19 gigs on soundcheck across Barcelona, Berlin, Hamburg and Leeds and 5 more. Often billed alongside Tom West, rizom and MARRGIAN. Next up: City Hall, Barcelona on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Merlin is a techno and house artist based in Germany, with 19 gigs on soundcheck
 
 Tom West, rizom, MARRGIAN
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merlin/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merlin/)*

@@ -1,6 +1,6 @@
 # Hotel Steyne
 
-Hotel Steyne is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Haus Space" on Fri, 6 Nov 2026.
+Hotel Steyne is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Haus Space" on Fri, 6 Nov 2026.
 
 Hotel Steyne is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Cassette, Chicane, Diana Daze and Joehemian and 2 more. See dates, start times and who's playing. 75 The Corso, Manly NSW 2095.
 
@@ -15,4 +15,4 @@ Hotel Steyne is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, w
 
 75 The Corso, Manly NSW 2095, Sydney
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/hotel-steyne/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/hotel-steyne/)*

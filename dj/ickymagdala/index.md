@@ -1,6 +1,6 @@
 # Icky Magdala
 
-Icky Magdala is a Dub and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, Montreal on Sat, 31 Oct 2026.
+Icky Magdala is a Dub and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Montreal on Sat, 31 Oct 2026.
 
 Icky Magdala is a dub and bass artist based in Canada, with 54 gigs on soundcheck across Los Angeles, Montreal and Toronto. Often billed alongside Andy Williams, Asha and DJ InYourFace. Next up: TBA, Montreal on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Icky Magdala is a dub and bass artist based in Canada, with 54 gigs on soundchec
 
 Andy Williams, Asha (4), DJ InYourFace
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ickymagdala/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ickymagdala/)*

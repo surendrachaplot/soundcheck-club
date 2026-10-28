@@ -1,6 +1,6 @@
 # Sojo
 
-Sojo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sonido Alicante, Alicante on Thu, 29 Oct 2026.
+Sojo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sonido Alicante, Alicante on Thu, 29 Oct 2026.
 
 Sojo is a house and minimal artist based in Mexico, with 17 gigs on soundcheck across Alicante, Bratislava, Mexico City and Paris and 1 more. Often billed alongside O.D.C.A, Alex Neri and Figurative Records. Next up: Sonido Alicante, Alicante on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Sojo is a house and minimal artist based in Mexico, with 17 gigs on soundcheck a
 
 O.D.C.A, Alex Neri, Figurative Records
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sojo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sojo/)*

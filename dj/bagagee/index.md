@@ -1,6 +1,6 @@
 # Bagagee Viphex13
 
-Bagagee Viphex13 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Lion Super Club, Seoul on Thu, 29 Oct 2026.
+Bagagee Viphex13 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lion Super Club, Seoul on Thu, 29 Oct 2026.
 
 Bagagee Viphex13 is a techno and electro artist based in South Korea, with 51 gigs on soundcheck across Seoul. Often billed alongside Honn, Better and Kataploks. Next up: Lion Super Club, Seoul on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Bagagee Viphex13 is a techno and electro artist based in South Korea, with 51 gi
 
 Honn, Better, Kataploks
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bagagee/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bagagee/)*

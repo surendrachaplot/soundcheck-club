@@ -1,6 +1,6 @@
 # Warzou
 
-Warzou is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Le Sucre, Lyon on Fri, 27 Nov 2026.
+Warzou is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Sucre, Lyon on Fri, 27 Nov 2026.
 
 Warzou is a bass and electro artist based in France, with 26 gigs on soundcheck across Belgrade, Berlin, Detroit and Düsseldorf and 11 more. Often billed alongside NVST, Westdale and Brodinski. Next up: Le Sucre, Lyon on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Warzou is a bass and electro artist based in France, with 26 gigs on soundcheck 
 
 NVST, Westdale, Brodinski
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warzou/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warzou/)*

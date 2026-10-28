@@ -1,6 +1,6 @@
 # Tania Kim
 
-Tania Kim is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
+Tania Kim is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
 
 Tania Kim is a techno and ambient artist based in Italy, with 30 gigs on soundcheck across Amsterdam, Bologna, Florence and Lisbon and 2 more. Often billed alongside Waldo, DRUM THE SYSTEM live and Atmosphreal. Next up: Arroz Estúdios, Lisbon on Wed 11 Nov.
 
@@ -27,4 +27,4 @@ Tania Kim is a techno and ambient artist based in Italy, with 30 gigs on soundch
 
 Waldo, DRUM THE SYSTEM live, Atmosphreal
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniakim/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniakim/)*

@@ -1,6 +1,6 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Crazy P is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Crazy P is a disco and house artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Barcelona, Basel and Birmingham and 31 more. Often billed alongside Luke Una, DJ Paulette and Erol Alkan. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Crazy P is a disco and house artist based in United Kingdom, with 138 gigs on so
 
 Luke Una, DJ Paulette, Erol Alkan
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*

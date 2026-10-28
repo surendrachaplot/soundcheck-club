@@ -1,6 +1,6 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 10 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "The Halloween Rave" on Thu, 29 Oct 2026.
+The Steel Yard is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "The Halloween Rave" on Thu, 29 Oct 2026.
 
 The Steel Yard is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Arrosa, Bassface, Claudia Kane and Crossy and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
@@ -23,4 +23,4 @@ The Steel Yard is a music venue in London listed on soundcheck. 10 upcoming gigs
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

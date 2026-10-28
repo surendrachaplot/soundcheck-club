@@ -1,6 +1,6 @@
 # Jotadelli
 
-Jotadelli is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tennis Bar Neukölln, Berlin on Fri, 30 Oct 2026.
+Jotadelli is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tennis Bar Neukölln, Berlin on Fri, 30 Oct 2026.
 
 Jotadelli is a latin bass and reggaeton artist based in Chile, with 14 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 3 more. Often billed alongside L'Miranda, Awa (uwu) and PAULAH. Next up: Tennis Bar Neukölln, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jotadelli is a latin bass and reggaeton artist based in Chile, with 14 gigs on s
 
 L'Miranda, Awa (uwu), PAULAH
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jotadelli/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jotadelli/)*

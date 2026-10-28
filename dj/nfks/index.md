@@ -1,6 +1,6 @@
 # NFKS
 
-NFKS is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 30 Oct 2026.
+NFKS is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 30 Oct 2026.
 
 NFKS is a techno artist based in United States of America, with 16 gigs on soundcheck across Bratislava, Nürnberg and Prague. Often billed alongside Domek, Teenage Mutants and Ejdm. Next up: Music Club Pulse 22, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ NFKS is a techno artist based in United States of America, with 16 gigs on sound
 
 Domek, Teenage Mutants, Ejdm
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nfks/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nfks/)*

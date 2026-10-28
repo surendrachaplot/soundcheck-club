@@ -1,6 +1,6 @@
 # Sugar Rody
 
-Sugar Rody is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hall, Tallinn on Sat, 31 Oct 2026.
+Sugar Rody is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hall, Tallinn on Sat, 31 Oct 2026.
 
 Sugar Rody is a techno and ebm artist based in Estonia, with 26 gigs on soundcheck across London, Riga and Tallinn. Often billed alongside Ricardo Castro, Micaela Saraceno and Steve Weeks. Next up: Hall, Tallinn on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sugar Rody is a techno and ebm artist based in Estonia, with 26 gigs on soundche
 
 Ricardo Castro, Micaela Saraceno, Steve Weeks
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarrody/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarrody/)*

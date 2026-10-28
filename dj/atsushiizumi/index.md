@@ -1,6 +1,6 @@
 # Atsushi Izumi
 
-Atsushi Izumi is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at KGR(n), Tokyo on Sat, 28 Nov 2026.
+Atsushi Izumi is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at KGR(n), Tokyo on Sat, 28 Nov 2026.
 
 Atsushi Izumi is an experimental and industrial artist based in Japan, with 11 gigs on soundcheck across Hong Kong, Osaka, Seoul and Tokyo. Often billed alongside C-KAY, Goth-Trad and AI.U. Next up: KGR(n), Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Atsushi Izumi is an experimental and industrial artist based in Japan, with 11 g
 
 C-KAY, Goth-Trad, AI.U
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushiizumi/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushiizumi/)*

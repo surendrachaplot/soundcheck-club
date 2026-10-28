@@ -1,6 +1,6 @@
 # Mon cher Guy
 
-Mon cher Guy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Virage, Paris on Fri, 6 Nov 2026.
+Mon cher Guy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Virage, Paris on Fri, 6 Nov 2026.
 
 Mon cher Guy is a house and techno artist based in France, with 45 gigs on soundcheck across Lyon, Nantes and Paris. Often billed alongside Joe Lewandowski, Dorian Flagrant and Karla Lynch. Next up: Virage, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mon cher Guy is a house and techno artist based in France, with 45 gigs on sound
 
 Joe Lewandowski, Dorian Flagrant, Karla Lynch
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moncherguy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moncherguy/)*

@@ -1,6 +1,6 @@
 # Art Club
 
-Art Club is a music venue in Houston with 14 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Art Club Open Decks" on Thu, 29 Oct 2026.
+Art Club is a music venue in Houston with 14 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Art Club Open Decks" on Thu, 29 Oct 2026.
 
 Art Club is a music venue in Houston listed on soundcheck. 14 upcoming gigs, with line-ups including AC Slater, Amarji King, DJ_Dave and EQ (Estratosfera + Qiri) and 2 more. See dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
@@ -23,4 +23,4 @@ Art Club is a music venue in Houston listed on soundcheck. 14 upcoming gigs, wit
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

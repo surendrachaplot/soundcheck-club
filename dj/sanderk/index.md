@@ -1,6 +1,6 @@
 # Sander Kleinenberg
 
-Sander Kleinenberg is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 27 Nov 2026.
+Sander Kleinenberg is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 27 Nov 2026.
 
 Sander Kleinenberg is a house and progressive house artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Brighton, Detroit and Ibiza and 8 more. Often billed alongside Alexander Koning, Dimitri and Erick E. Next up: Do Not Sit On The Furniture, Miami on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Sander Kleinenberg is a house and progressive house artist based in Netherlands,
 
 Alexander Koning, Dimitri (1), Erick E
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanderk/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanderk/)*

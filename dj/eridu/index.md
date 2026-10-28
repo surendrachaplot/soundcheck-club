@@ -1,6 +1,6 @@
 # Eridu
 
-Eridu is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Complex Maastricht, Netherlands on Sat, 14 Nov 2026.
+Eridu is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Complex Maastricht, Netherlands on Sat, 14 Nov 2026.
 
 Eridu is a tech house and house artist, with 6 gigs on soundcheck across Antwerp and Netherlands. Often billed alongside ColorJaxx, DJ Gamba and Dennis Quin. Next up: Complex Maastricht, Netherlands on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Eridu is a tech house and house artist, with 6 gigs on soundcheck across Antwerp
 
 ColorJaxx, DJ Gamba, Dennis Quin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eridu/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eridu/)*

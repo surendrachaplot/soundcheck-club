@@ -1,6 +1,6 @@
 # Zeqoo
 
-Zeqoo is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Meimei / &rumble, Tokyo on Thu, 19 Nov 2026.
+Zeqoo is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Meimei / &rumble, Tokyo on Thu, 19 Nov 2026.
 
 Zeqoo is a techno and footwork artist, with 23 gigs on soundcheck across Tokyo. Often billed alongside tom2, --- mr --- and anolis. Next up: Meimei / &rumble, Tokyo on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Zeqoo is a techno and footwork artist, with 23 gigs on soundcheck across Tokyo. 
 
 tom2, --- mr ---, anolis
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeqoo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeqoo/)*

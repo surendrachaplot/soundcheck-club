@@ -1,6 +1,6 @@
 # MUTEK NODO X SAUNDO - DUBMINGO at nueve cero nueve
 
-MUTEK NODO X SAUNDO - DUBMINGO at nueve cero nueve on Sun 1 Nov, Mexico City. 4 artists: Astroboii, Cybebe, EM2K and NAP (MX). Dub and Dub Techno. See the line-up on soundcheck.
+MUTEK NODO X SAUNDO - DUBMINGO at nueve cero nueve on Sun 1 Nov, Mexico City. 5 artists: Astroboii, Cybebe, Dj Luigi and EM2K and 1 more. Dub and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ MUTEK NODO X SAUNDO - DUBMINGO at nueve cero nueve on Sun 1 Nov, Mexico City. 4 
 
 - Astroboii
 - Cybebe
+- Dj Luigi
 - EM2K
 - NAP (MX)
 

@@ -1,6 +1,6 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Chelmsford City Racecourse, London on Sun, 1 Nov 2026.
+Marlie is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Chelmsford City Racecourse, London on Sun, 1 Nov 2026.
 
 Marlie is a house and tech house artist, with 137 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Bali and 30 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Chelmsford City Racecourse, London on Sun 1 Nov.
 
@@ -31,4 +31,4 @@ Marlie is a house and tech house artist, with 137 gigs on soundcheck across Amst
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

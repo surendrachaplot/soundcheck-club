@@ -1,6 +1,6 @@
 # Ulf Eriksson
 
-Ulf Eriksson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Basement Vesterbro, Copenhagen on Sat, 12 Dec 2026.
+Ulf Eriksson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Basement Vesterbro, Copenhagen on Sat, 12 Dec 2026.
 
 Ulf Eriksson is a techno and house artist based in Sweden, with 22 gigs on soundcheck across Beijing, Bergen, Berlin and Copenhagen and 5 more. Often billed alongside Andreas Tilliander, Johanna Knutsson and Cristian Vogel. Next up: Basement Vesterbro, Copenhagen on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ulf Eriksson is a techno and house artist based in Sweden, with 22 gigs on sound
 
 Andreas Tilliander, Johanna Knutsson, Cristian Vogel
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulferiksson/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulferiksson/)*

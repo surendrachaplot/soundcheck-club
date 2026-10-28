@@ -1,6 +1,6 @@
 # Jamie Duggan
 
-Jamie Duggan is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Electric Studios, Sheffield on Sat, 14 Nov 2026.
+Jamie Duggan is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Electric Studios, Sheffield on Sat, 14 Nov 2026.
 
 Jamie Duggan is a bass and drum & bass artist based in United Kingdom, with 31 gigs on soundcheck across Birmingham, Leeds, London and Manchester and 1 more. Often billed alongside Chad Harrison, DJ Q and Big Ang. Next up: Electric Studios, Sheffield on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jamie Duggan is a bass and drum & bass artist based in United Kingdom, with 31 g
 
 Chad Harrison, DJ Q, Big Ang
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieduggan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieduggan/)*

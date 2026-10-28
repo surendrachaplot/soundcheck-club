@@ -1,6 +1,6 @@
 # Taichi Kawahira
 
-Taichi Kawahira is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Zona Torrida, Okinawa on Fri, 27 Nov 2026.
+Taichi Kawahira is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Zona Torrida, Okinawa on Fri, 27 Nov 2026.
 
 Taichi Kawahira is a techno and house artist based in Japan, with 73 gigs on soundcheck across Okinawa, Osaka and Tokyo. Often billed alongside Kojiro, Da Yama and POPPO. Next up: Zona Torrida, Okinawa on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Taichi Kawahira is a techno and house artist based in Japan, with 73 gigs on sou
 
 Kojiro, Da Yama, POPPO
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taichikawahira/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taichikawahira/)*

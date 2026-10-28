@@ -1,6 +1,6 @@
 # FHNX
 
-FHNX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Melkweg, Amsterdam on Fri, 30 Oct 2026.
+FHNX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Melkweg, Amsterdam on Fri, 30 Oct 2026.
 
 FHNX is a techno and industrial artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and Paris. Often billed alongside Zeyvers, JXLN and MILØW. Next up: Melkweg, Amsterdam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ FHNX is a techno and industrial artist based in Netherlands, with 9 gigs on soun
 
 Zeyvers, JXLN, MILØW
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fhnx/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fhnx/)*

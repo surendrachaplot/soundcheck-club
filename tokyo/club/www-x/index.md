@@ -1,19 +1,19 @@
 # WWW X
 
-WWW X is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Melodies International JP Tour with Nariaki Obukuro supported by ndi" on Fri, 30 Oct 2026.
+WWW X is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Melodies International JP Tour with Nariaki Obukuro supported by ndi" on Fri, 30 Oct 2026.
 
-WWW X is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including kegøn, Kikiorix, lilbesh ramko and MCR-T and 2 more. See dates, start times and who's playing. 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042.
+WWW X is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including kegøn, Kikiorix, Kuniyuki and lilbesh ramko and 2 more. See dates, start times and who's playing. 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Melodies International JP Tour with Nariaki Obukuro supported by ndi | Kikiorix, Seiji Ono, Theo Terev |
-| Sat, 7 Nov 2026 | Live from Earth × Eastern Margins: Tokyo | MCR-T, Yurushite Nyan, kegøn, lilbesh ramko |
-| Sat, 21 Nov 2026 | BUTTER SESSIONS 15TH ANNIVERSARY TOKYO presented by GOLDEN 豪流伝 |  |
+| Sat, 7 Nov 2026 | Live from Earth × Eastern Margins × attic : Tokyo | MCR-T, Yurushite Nyan, kegøn, lilbesh ramko |
+| Sat, 21 Nov 2026 | BUTTER SESSIONS 15TH ANNIVERSARY TOKYO presented by GOLDEN 豪流伝 | Kuniyuki, Sleep D |
 
 ## Address
 
 13-7 Udagawacho, Shibuya-ku, Tokyo, 150-0042, Tokyo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-x/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www-x/)*

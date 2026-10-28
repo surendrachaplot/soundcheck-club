@@ -1,6 +1,6 @@
 # Ravejezuz
 
-Ravejezuz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
+Ravejezuz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
 
 Ravejezuz is a techno and trance artist, with 19 gigs on soundcheck across Berlin. Often billed alongside Thielking, Trash Bandit and ClubSubbe. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ravejezuz is a techno and trance artist, with 19 gigs on soundcheck across Berli
 
 Thielking, Trash Bandit, ClubSubbe
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravejezuz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravejezuz/)*

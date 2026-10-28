@@ -1,6 +1,6 @@
 # DEIV BUITRAGO
 
-DEIV BUITRAGO is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Mad Radio Medellín, Medellin on Thu, 29 Oct 2026.
+DEIV BUITRAGO is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mad Radio Medellín, Medellin on Thu, 29 Oct 2026.
 
 DEIV BUITRAGO is a progressive house and deep house artist, with 6 gigs on soundcheck across Medellin. Often billed alongside PALACIO, Briska and CABALLERO. Next up: Mad Radio Medellín, Medellin on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ DEIV BUITRAGO is a progressive house and deep house artist, with 6 gigs on sound
 
 PALACIO, Briska, CABALLERO
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deivbuitrago/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deivbuitrago/)*

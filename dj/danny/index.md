@@ -1,6 +1,6 @@
 # Danny
 
-Danny is a Electronica and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
+Danny is a Electronica and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Danny is an electronica and afro house artist, with 14 gigs on soundcheck across Amsterdam, Bali, London and Manchester and 2 more. Often billed alongside Archie Dennis, K A I and Deer Jade. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Danny is an electronica and afro house artist, with 14 gigs on soundcheck across
 
 Archie Dennis, K A I, Deer Jade
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danny/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danny/)*

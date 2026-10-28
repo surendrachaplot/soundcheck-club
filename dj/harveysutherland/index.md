@@ -1,6 +1,6 @@
 # Harvey Sutherland
 
-Harvey Sutherland is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Wool Mill, Melbourne on Sat, 31 Oct 2026.
+Harvey Sutherland is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Wool Mill, Melbourne on Sat, 31 Oct 2026.
 
 Harvey Sutherland is a house and disco artist based in Australia, with 47 gigs on soundcheck across Auckland, Berlin, Brisbane and Chicago and 10 more. Often billed alongside Kuzco, Chaos In The CBD and Marli. Next up: The Wool Mill, Melbourne on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Harvey Sutherland is a house and disco artist based in Australia, with 47 gigs o
 
 Kuzco, Chaos In The CBD, Marli
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harveysutherland/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harveysutherland/)*

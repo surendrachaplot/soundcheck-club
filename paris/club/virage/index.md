@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Soeurs Malsaines Présentent: Le Bal Crade" on Fri, 30 Oct 2026.
+Virage is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Soeurs Malsaines Présentent: Le Bal Crade" on Fri, 30 Oct 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Alhena_, Beste Hira, Cannonbar and David Carretta and 2 more. See dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -17,4 +17,4 @@ Virage is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with lin
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

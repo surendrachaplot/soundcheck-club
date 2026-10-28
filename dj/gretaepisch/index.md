@@ -1,6 +1,6 @@
 # gretaepisch
 
-gretaepisch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at objekt klein a, Dresden on Sat, 31 Oct 2026.
+gretaepisch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at objekt klein a, Dresden on Sat, 31 Oct 2026.
 
 gretaepisch is a house and techno artist based in Germany, with 14 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside DJ G1NA R., MIDNXGHT and Multifun. Next up: objekt klein a, Dresden on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ gretaepisch is a house and techno artist based in Germany, with 14 gigs on sound
 
 DJ G1NA R., MIDNXGHT, Multifun
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaepisch/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaepisch/)*

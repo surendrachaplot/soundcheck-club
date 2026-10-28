@@ -1,6 +1,6 @@
 # Dan Jakson
 
-Dan Jakson is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Mash House, Edinburgh on Thu, 19 Nov 2026.
+Dan Jakson is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Mash House, Edinburgh on Thu, 19 Nov 2026.
 
 Dan Jakson is an electronic artist, with 7 gigs on soundcheck across Edinburgh. Often billed alongside SINN3R, ROXAN (UK) and Rònan White. Next up: The Mash House, Edinburgh on Thu 19 Nov.
 
@@ -23,4 +23,4 @@ Dan Jakson is an electronic artist, with 7 gigs on soundcheck across Edinburgh. 
 
 SINN3R, ROXAN (UK), Rònan White
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danjakson/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danjakson/)*

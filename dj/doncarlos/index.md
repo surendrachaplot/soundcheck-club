@@ -1,6 +1,6 @@
 # Don Carlos
 
-Don Carlos is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Hang Dai Chinese, Dublin on Sat, 21 Nov 2026.
+Don Carlos is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hang Dai Chinese, Dublin on Sat, 21 Nov 2026.
 
 Don Carlos is a house and deep house artist based in Italy, with 14 gigs on soundcheck across Berlin, Bratislava, Dublin and Florence and 7 more. Often billed alongside Acid Gigi, Al.Essio and Alessio Tonin. Next up: Hang Dai Chinese, Dublin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Don Carlos is a house and deep house artist based in Italy, with 14 gigs on soun
 
 Acid Gigi, Al.Essio, Alessio Tonin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doncarlos/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doncarlos/)*

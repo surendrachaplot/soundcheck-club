@@ -1,6 +1,6 @@
 # 6 SENSE
 
-6 SENSE is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
+6 SENSE is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
 
 6 SENSE is a techno and house artist based in Australia, with 59 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 20 more. Often billed alongside Ned Bennett, KSMBA and Ollie Lishman. Next up: TBA - DTLA, Los Angeles on Fri 6 Nov.
 
@@ -30,4 +30,4 @@
 
 Ned Bennett, KSMBA, Ollie Lishman
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*

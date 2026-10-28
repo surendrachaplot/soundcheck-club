@@ -1,6 +1,6 @@
 # Ikaar
 
-Ikaar is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Masada, Milan on Sat, 14 Nov 2026.
+Ikaar is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Masada, Milan on Sat, 14 Nov 2026.
 
 Ikaar is a techno artist based in Italy, with 34 gigs on soundcheck across Milan. Often billed alongside Rorschack, Yamila and Spad. Next up: Masada, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ikaar is a techno artist based in Italy, with 34 gigs on soundcheck across Milan
 
 Rorschack, Yamila, Spad
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikaar/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikaar/)*

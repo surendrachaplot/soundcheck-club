@@ -1,8 +1,8 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Dukwa hosted by EAR\WAX halloween night + afterhours" on Sat, 31 Oct 2026.
+Azimut Club is a music venue in Turin with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Dukwa hosted by EAR\WAX halloween night + afterhours" on Sat, 31 Oct 2026.
 
-Azimut Club is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with line-ups including Allegretti, BLANKA, dj sweet6teen and Dukwa and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
+Azimut Club is a music venue in Turin listed on soundcheck. 9 upcoming gigs, with line-ups including Alberto Tolo, Allegretti, BLACK CROW and BLANKA and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Azimut Club is a music venue in Turin listed on soundcheck. 8 upcoming gigs, wit
 | Sat, 21 Nov 2026 | P.E.A.R.L. (Falling Ethics, Tar Hallow /ESP), Kessa (WRD /IT), Allegretti (WRD /IT) | Allegretti, Kessa, P.E.A.R.L. |
 | Sat, 28 Nov 2026 | Make A Dance hosted by EAR\WAX | Make A Dance |
 | Sat, 5 Dec 2026 | BLANKA All Night Long (Room Trax /ES) | BLANKA |
+| Mon, 7 Dec 2026 | SPIN CYCLE SESSION 6 | Alberto Tolo, BLACK CROW, EMPTY(IT), Jack Fresia |
 | Fri, 18 Dec 2026 | Lola Haro (Small Steps, Kiosk Radio /BE), Rice Papers (Continua, WRD /IT) hosted by Continua | Lola Haro |
 | Sat, 19 Dec 2026 | UFO95 live (Mord, Tresor, WSNWG /FR), THEGOD01 (Humanoid Gods /IT), Syca (WRD, Technobull /IT) | Syca, THEGOD01, UFO95 |
 
@@ -21,4 +22,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 8 upcoming gigs, wit
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

@@ -1,6 +1,6 @@
 # Ivory (INNERVISIONS) at Kowalski
 
-Ivory (INNERVISIONS) at Kowalski on Fri 6 Nov, Stuttgart. 2 artists: Chamelio 3000 and Ivory. Techno and House. See the line-up on soundcheck.
+Ivory (INNERVISIONS) at Kowalski on Fri 6 Nov, Stuttgart. 2 artists: Chamelio 3000 and Ivory. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

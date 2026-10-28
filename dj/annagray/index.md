@@ -1,6 +1,6 @@
 # Anna Gray
 
-Anna Gray is a Experimental and Dub artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at 09h30-05h30, Antwerp on Sat, 14 Nov 2026.
+Anna Gray is a Experimental and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 09h30-05h30, Antwerp on Sat, 14 Nov 2026.
 
 Anna Gray is an experimental and dub artist based in United Kingdom, with 7 gigs on soundcheck across Antwerp, Berlin and Manchester. Often billed alongside Conor Thomas, Faux Naif and Alessandro Adriani. Next up: 09h30-05h30, Antwerp on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Anna Gray is an experimental and dub artist based in United Kingdom, with 7 gigs
 
 Conor Thomas, Faux Naif, Alessandro Adriani
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annagray/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annagray/)*

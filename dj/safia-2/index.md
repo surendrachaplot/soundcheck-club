@@ -1,6 +1,6 @@
 # Safia (2)
 
-Safia (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Studio76 Club, Madrid on Sat, 28 Nov 2026.
+Safia (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Studio76 Club, Madrid on Sat, 28 Nov 2026.
 
 Safia is a techno and electronica artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Irazu, SERNA and Alice. Next up: Studio76 Club, Madrid on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Safia is a techno and electronica artist based in Spain, with 7 gigs on soundche
 
 Irazu, SERNA, Alice (3)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safia-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safia-2/)*

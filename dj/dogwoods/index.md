@@ -1,6 +1,6 @@
 # Dogwoods
 
-Dogwoods is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 30 Oct 2026.
+Dogwoods is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 30 Oct 2026.
 
 Dogwoods is a hip-hop and bass artist based in Japan, with 17 gigs on soundcheck across Osaka and Tokyo. Often billed alongside OKBOY, comm and MonoGoi. Next up: Enter Shibuya, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Dogwoods is a hip-hop and bass artist based in Japan, with 17 gigs on soundcheck
 
 OKBOY, comm, MonoGoi
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dogwoods/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dogwoods/)*

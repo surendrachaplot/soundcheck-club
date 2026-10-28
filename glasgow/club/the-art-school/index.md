@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "PRTY Halloween: KARAH + TITI, Glasgow" on Fri, 30 Oct 2026.
+The Art School is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "PRTY Halloween: KARAH + TITI, Glasgow" on Fri, 30 Oct 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs, with line-ups including ACHIRĀ, Corran, CU-S1TH and DJ Catnip and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -22,4 +22,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

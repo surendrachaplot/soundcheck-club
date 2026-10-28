@@ -1,6 +1,6 @@
 # (navarro)
 
-(navarro) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Pawn Shop, Dublin on Sat, 14 Nov 2026.
+(navarro) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pawn Shop, Dublin on Sat, 14 Nov 2026.
 
 (navarro) is a house and minimal artist based in Mexico, with 6 gigs on soundcheck across Dublin and Taipei. Often billed alongside Royce Larøca, G.G (LB) and Gabb (PRY). Next up: Pawn Shop, Dublin on Sat 14 Nov.
 
@@ -22,4 +22,4 @@
 
 Royce Larøca, G.G (LB), Gabb (PRY)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/navarro/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/navarro/)*

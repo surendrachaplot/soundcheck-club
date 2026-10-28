@@ -1,6 +1,6 @@
 # Francisca Urbano
 
-Francisca Urbano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA -  Vidigueira, Lisbon on Sat, 14 Nov 2026.
+Francisca Urbano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA -  Vidigueira, Lisbon on Sat, 14 Nov 2026.
 
 Francisca Urbano is a techno and house artist based in Portugal, with 62 gigs on soundcheck across Lisbon, Porto and Zurich. Often billed alongside Johan (PT), Tíago and Amulador. Next up: TBA -  Vidigueira, Lisbon on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Francisca Urbano is a techno and house artist based in Portugal, with 62 gigs on
 
 Johan (PT), Tíago, Amulador
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscaurbano/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscaurbano/)*

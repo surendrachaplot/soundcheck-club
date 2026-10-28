@@ -1,6 +1,6 @@
 # Keoki
 
-Keoki is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at 20 Meadow, New York City on Sat, 31 Oct 2026.
+Keoki is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at 20 Meadow, New York City on Sat, 31 Oct 2026.
 
 Keoki is a house and electronica artist based in United States of America, with 19 gigs on soundcheck across Chicago, Denver, Detroit and Houston and 7 more. Often billed alongside Decibel Flekx, Destro187 and Alexander Technique. Next up: 20 Meadow, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Keoki is a house and electronica artist based in United States of America, with 
 
 Decibel Flekx, Destro187, Alexander Technique
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keoki/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keoki/)*

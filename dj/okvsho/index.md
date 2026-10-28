@@ -1,6 +1,6 @@
 # Okvsho
 
-Okvsho is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Atemporal, Berlin on Sun, 29 Nov 2026.
+Okvsho is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Atemporal, Berlin on Sun, 29 Nov 2026.
 
 Okvsho is a house and jazz artist based in Switzerland, with 12 gigs on soundcheck across Berlin, London, Paris and Seoul and 1 more. Often billed alongside KAYYAK, Alex Dallas and Princess P. Next up: Atemporal, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Okvsho is a house and jazz artist based in Switzerland, with 12 gigs on soundche
 
 KAYYAK, Alex Dallas, Princess P
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okvsho/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okvsho/)*

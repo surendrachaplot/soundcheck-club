@@ -1,6 +1,6 @@
 # Hickey
 
-Hickey is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 27 Nov 2026.
+Hickey is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 27 Nov 2026.
 
 Hickey is a drum & bass and jungle artist based in United Kingdom, with 7 gigs on soundcheck across London and Tokyo. Often billed alongside SHAWK, Badly Drawn Banana and ETHICS. Next up: Avalon Cafe Bermondsey, London on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Hickey is a drum & bass and jungle artist based in United Kingdom, with 7 gigs o
 
 SHAWK, Badly Drawn Banana, ETHICS
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hickey/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hickey/)*

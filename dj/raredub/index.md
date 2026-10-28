@@ -1,6 +1,6 @@
 # Raredub
 
-Raredub is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Glamorama, Melbourne on Fri, 30 Oct 2026.
+Raredub is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Glamorama, Melbourne on Fri, 30 Oct 2026.
 
 Raredub is a techno and house artist based in Bulgaria, with 46 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 18 more. Often billed alongside KiNK, DVS1 and JakoJako. Next up: Glamorama, Melbourne on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Raredub is a techno and house artist based in Bulgaria, with 46 gigs on soundche
 
 KiNK, DVS1, JakoJako
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raredub/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raredub/)*

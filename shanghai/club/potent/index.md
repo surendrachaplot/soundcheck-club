@@ -1,6 +1,6 @@
 # POTENT
 
-POTENT is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "NEUX (DE)" on Fri, 30 Oct 2026.
+POTENT is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "NEUX (DE)" on Fri, 30 Oct 2026.
 
 POTENT is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs, with line-ups including GaoQiao, Mariio, Max Shen and MELATRONIX and 1 more. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ POTENT is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs, with 
 | Fri, 30 Oct 2026 | NEUX (DE) | GaoQiao, Mariio, NEUX |
 | Sat, 31 Oct 2026 | MELATRONIX (DE) | MELATRONIX, Max Shen |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/potent/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/potent/)*

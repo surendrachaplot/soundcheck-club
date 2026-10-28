@@ -1,6 +1,6 @@
 # KaioBarssalos
 
-KaioBarssalos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Under Bron, Stockholm on Sat, 7 Nov 2026.
+KaioBarssalos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Under Bron, Stockholm on Sat, 7 Nov 2026.
 
 KaioBarssalos is a techno and house artist based in Brazil, with 19 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid and 7 more. Often billed alongside Flip Devonian, Lost my Keys and Maccari. Next up: Under Bron, Stockholm on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ KaioBarssalos is a techno and house artist based in Brazil, with 19 gigs on soun
 
 Flip Devonian, Lost my Keys, Maccari
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiobarssalos/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiobarssalos/)*

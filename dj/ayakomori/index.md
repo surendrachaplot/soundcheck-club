@@ -1,6 +1,6 @@
 # Ayako Mori
 
-Ayako Mori is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Adrift, Tokyo on Sat, 28 Nov 2026.
+Ayako Mori is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Adrift, Tokyo on Sat, 28 Nov 2026.
 
 Ayako Mori is a techno and industrial artist based in Japan, with 44 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Florence and 8 more. Often billed alongside R. Martin, FENGX2 and EVE. Next up: Adrift, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ayako Mori is a techno and industrial artist based in Japan, with 44 gigs on sou
 
 R. Martin, FENGX2, EVE (1)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayakomori/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayakomori/)*

@@ -1,8 +1,8 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "DUDJ PRESENTS: CRYME" on Thu, 29 Oct 2026.
+Yamamori Tengu is a music venue in Dublin with 17 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "DUDJ PRESENTS: CRYME" on Thu, 29 Oct 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with line-ups including A For Alpha, Batu, Cormac and CRYME and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 17 upcoming gigs, with line-ups including A For Alpha, Batu, Cormac and CRYME and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming gigs
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

@@ -1,14 +1,15 @@
 # RP Boo
 
-RP Boo is a Footwork and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+RP Boo is a Footwork and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
-RP Boo is a footwork and house artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 31 more. Often billed alongside DJ Spinn, Crystallmess and Introspekt. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+RP Boo is a footwork and house artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 31 more. Often billed alongside DJ Spinn, Crystallmess and Kode9. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
+| Fri, 27 Nov 2026 | Ormside Projects | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ RP Boo is a footwork and house artist based in United States of America, with 86
 
 ## Shares bills with
 
-DJ Spinn, Crystallmess, Introspekt
+DJ Spinn, Crystallmess, Kode9
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*

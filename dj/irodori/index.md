@@ -1,6 +1,6 @@
 # IRODORI
 
-IRODORI is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 31 Oct 2026.
+IRODORI is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 31 Oct 2026.
 
 IRODORI is a tech house and house artist based in Japan, with 54 gigs on soundcheck across Tokyo. Often billed alongside CLESENT, Daitto and COCOLY. Next up: Enter Shibuya, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ IRODORI is a tech house and house artist based in Japan, with 54 gigs on soundch
 
 CLESENT, Daitto, COCOLY
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irodori/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irodori/)*

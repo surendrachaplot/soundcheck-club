@@ -1,6 +1,6 @@
 # Montenegro
 
-Montenegro is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 6 Nov 2026.
+Montenegro is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 6 Nov 2026.
 
 Montenegro is a techno and progressive house artist based in Mexico, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Estado De M Xico and 6 more. Often billed alongside Julietta Ferrari, Europa and Global. Next up: Razzmatazz, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Montenegro is a techno and progressive house artist based in Mexico, with 18 gig
 
 Julietta Ferrari, Europa (1), Global
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/montenegro/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/montenegro/)*

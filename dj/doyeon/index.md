@@ -1,6 +1,6 @@
 # Doyeon
 
-Doyeon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 26 Oct 2026.
+Doyeon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 26 Oct 2026.
 
 Doyeon is a house and techno artist based in South Korea, with 46 gigs on soundcheck across Seoul. Often billed alongside Moeuv, Afrodite and Gyusco. Next up: Stoked&stoned, Seoul on Mon 26 Oct.
 
@@ -26,4 +26,4 @@ Doyeon is a house and techno artist based in South Korea, with 46 gigs on soundc
 
 Moeuv, Afrodite (2), Gyusco
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doyeon/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doyeon/)*

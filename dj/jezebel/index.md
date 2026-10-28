@@ -1,6 +1,6 @@
 # Jezebel
 
-Jezebel is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Sefton Park Cricket Club, Liverpool on Sat, 31 Oct 2026.
+Jezebel is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sefton Park Cricket Club, Liverpool on Sat, 31 Oct 2026.
 
 Jezebel is a house and electronica artist, with 31 gigs on soundcheck across Berlin, Brussels, Detroit and Dublin and 4 more. Often billed alongside Surferboy, deejaytrainwreck and JWY. Next up: Sefton Park Cricket Club, Liverpool on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jezebel is a house and electronica artist, with 31 gigs on soundcheck across Ber
 
 Surferboy, deejaytrainwreck, JWY (1)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*

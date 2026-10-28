@@ -1,13 +1,14 @@
 # Suma Han
 
-Suma Han is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "RAVIN SHOWCASE HALLOWEEN EDITION" on Fri, 30 Oct 2026.
+Suma Han is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "HALLOWEEN NIGHT: CREEPY WEDNESDAY" on Wed, 28 Oct 2026.
 
-Suma Han is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Dodi Palese, Paraçek and Praslea. See dates, start times and who's playing. Bankalar Cd.Yanıkkapı Sk. No: 3 Karaköy, 34420 Istanbul, Turkey.
+Suma Han is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including Dodi Palese, Paraçek and Praslea. See dates, start times and who's playing. Bankalar Cd.Yanıkkapı Sk. No: 3 Karaköy, 34420 Istanbul, Turkey.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Wed, 28 Oct 2026 | HALLOWEEN NIGHT: CREEPY WEDNESDAY |  |
 | Fri, 30 Oct 2026 | RAVIN SHOWCASE HALLOWEEN EDITION |  |
 | Sat, 31 Oct 2026 | HALLOWEEN NIGHT: CHRISTIAN CRAKEN |  |
 | Fri, 6 Nov 2026 | BARBARA |  |
@@ -19,4 +20,4 @@ Suma Han is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, wit
 
 Bankalar Cd.Yanıkkapı Sk. No: 3 Karaköy, 34420 Istanbul, Turkey, Istanbul
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/suma-han/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/suma-han/)*

@@ -1,6 +1,6 @@
 # Emvae
 
-Emvae is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Wibar, Netherlands on Sat, 31 Oct 2026.
+Emvae is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Wibar, Netherlands on Sat, 31 Oct 2026.
 
 Emvae is a house and progressive house artist based in Netherlands, with 78 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Ibiza and 3 more. Often billed alongside Moxes, SAIDAH and Benwal. Next up: Wibar, Netherlands on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Emvae is a house and progressive house artist based in Netherlands, with 78 gigs
 
 Moxes, SAIDAH, Benwal
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*

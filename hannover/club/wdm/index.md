@@ -1,6 +1,6 @@
 # WDM
 
-WDM is a music venue in Hannover with 18 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Klubnacht w/ Koboyo, Nazz, ROMANO VAN DE MAS" on Fri, 30 Oct 2026.
+WDM is a music venue in Hannover with 18 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Klubnacht w/ Koboyo, Nazz, ROMANO VAN DE MAS" on Fri, 30 Oct 2026.
 
 WDM is a music venue in Hannover listed on soundcheck. 18 upcoming gigs, with line-ups including 2HOT2PLAY, 5euroGoldi, AEREA and Alisa Stovik and 2 more. See dates, start times and who's playing. Weidendamm 8, 30167 Hannover.
 
@@ -23,4 +23,4 @@ WDM is a music venue in Hannover listed on soundcheck. 18 upcoming gigs, with li
 
 Weidendamm 8, 30167 Hannover, Hannover
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*

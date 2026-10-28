@@ -1,6 +1,6 @@
 # LOVEDANCIN' Vienna at Funkhaus
 
-LOVEDANCIN' Vienna at Funkhaus on Fri 18 Dec, Vienna. 2 artists: Gerd Janson and Tom Kutsche. House and Disco. See the line-up on soundcheck.
+LOVEDANCIN' Vienna at Funkhaus on Fri 18 Dec, Vienna. 3 artists: Gerd Janson, Mareia and Tom Kutsche. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ LOVEDANCIN' Vienna at Funkhaus on Fri 18 Dec, Vienna. 2 artists: Gerd Janson and
 ## Line-up
 
 - Gerd Janson
+- Mareia
 - Tom Kutsche
 
 *Source: [soundcheck](https://soundcheck.club/e/2533523-lovedancin-vienna-at-funkhaus/)*

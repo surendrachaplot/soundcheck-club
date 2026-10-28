@@ -1,6 +1,6 @@
 # Lola Edo
 
-Lola Edo is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 30 Oct 2026.
+Lola Edo is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 30 Oct 2026.
 
 Lola Edo is a house and techno artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Brussels, Leipzig and Nantes and 5 more. Often billed alongside Doppelgang, Lucky Done Gone and angelboy. Next up: Time is the new space, Rotterdam on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Lola Edo is a house and techno artist based in Netherlands, with 98 gigs on soun
 
 Doppelgang, Lucky Done Gone, angelboy
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaedo/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaedo/)*

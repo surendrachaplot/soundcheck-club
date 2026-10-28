@@ -1,6 +1,6 @@
 # BEJA
 
-BEJA is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Subcero Club, Madrid on Thu, 5 Nov 2026.
+BEJA is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Subcero Club, Madrid on Thu, 5 Nov 2026.
 
 BEJA is a techno and electronica artist based in Spain, with 8 gigs on soundcheck across Berlin, Madrid, Porto and Valencia. Often billed alongside Brane, Claudio Zanon and Domovnika. Next up: Subcero Club, Madrid on Thu 5 Nov.
 
@@ -24,4 +24,4 @@ BEJA is a techno and electronica artist based in Spain, with 8 gigs on soundchec
 
 Brane, Claudio Zanon, Domovnika
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beja/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beja/)*

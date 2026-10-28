@@ -1,6 +1,6 @@
 # TANJA MIJU
 
-TANJA MIJU is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
+TANJA MIJU is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
 
 TANJA MIJU is a techno and trance artist based in Germany, with 81 gigs on soundcheck across Berlin, Budapest, Cologne and Dortmund / Essen and 21 more. Often billed alongside Johannes Schuster, Neon Graveyard and O.B.I. (DE). Next up: Kømplex Lisbon, Lisbon on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ TANJA MIJU is a techno and trance artist based in Germany, with 81 gigs on sound
 
 Johannes Schuster, Neon Graveyard, O.B.I. (DE)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjamiju/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjamiju/)*

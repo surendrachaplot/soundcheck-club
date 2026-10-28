@@ -1,6 +1,6 @@
 # Kollektiv Kaorle
 
-Kollektiv Kaorle is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "50 Herz / Sodomland" on Fri, 13 Nov 2026.
+Kollektiv Kaorle is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "50 Herz / Sodomland" on Fri, 13 Nov 2026.
 
 Kollektiv Kaorle is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including Darina, Inou Ki Endo, Sodomland and Ssaliva. See dates, start times and who's playing. Baumgartner Höhe 1 1140 WIen, Otto Wagner Areal Pavillion 21.
 
@@ -15,4 +15,4 @@ Kollektiv Kaorle is a music venue in Vienna listed on soundcheck. 2 upcoming gig
 
 Baumgartner Höhe 1 1140 WIen, Otto Wagner Areal Pavillion 21, Vienna
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kollektiv-kaorle/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kollektiv-kaorle/)*

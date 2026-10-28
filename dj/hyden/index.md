@@ -1,6 +1,6 @@
 # Hyden
 
-Hyden is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
+Hyden is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
 
 Hyden is a techno and electro artist based in France, with 54 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Buenos Aires and 12 more. Often billed alongside Cleric, Félicie and Koboyo. Next up: RSO.BERLIN, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hyden is a techno and electro artist based in France, with 54 gigs on soundcheck
 
 Cleric, Félicie, Koboyo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyden/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyden/)*

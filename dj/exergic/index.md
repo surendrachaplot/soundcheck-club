@@ -1,6 +1,6 @@
 # Exergic
 
-Exergic is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Studionotte, Milan on Sat, 7 Nov 2026.
+Exergic is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Studionotte, Milan on Sat, 7 Nov 2026.
 
 Exergic is a techno and electronica artist, with 7 gigs on soundcheck across Milan. Often billed alongside Ditzy, 7CIRCLE and ARMANDO. Next up: Studionotte, Milan on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Exergic is a techno and electronica artist, with 7 gigs on soundcheck across Mil
 
 Ditzy, 7CIRCLE, ARMANDO
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exergic/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exergic/)*

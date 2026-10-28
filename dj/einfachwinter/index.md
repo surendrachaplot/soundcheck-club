@@ -1,6 +1,6 @@
 # EinfachWinter
 
-EinfachWinter is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
+EinfachWinter is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
 
 EinfachWinter is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Berlin and Leipzig. Often billed alongside KETA PERRY, Timstagram and UNTENLINKS. Next up: Ilses Erika, Leipzig on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ EinfachWinter is a techno and trance artist based in Germany, with 20 gigs on so
 
 KETA PERRY, Timstagram, UNTENLINKS
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/einfachwinter/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/einfachwinter/)*

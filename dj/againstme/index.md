@@ -1,6 +1,6 @@
 # AgainstMe
 
-AgainstMe is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Circolo Amelia, Milan on Sat, 14 Nov 2026.
+AgainstMe is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Circolo Amelia, Milan on Sat, 14 Nov 2026.
 
 AgainstMe is a techno and minimal techno artist based in Greece, with 59 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Red Rooms, Tommy Four Seven and Icarus in love. Next up: Circolo Amelia, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ AgainstMe is a techno and minimal techno artist based in Greece, with 59 gigs on
 
 Red Rooms, Tommy Four Seven, Icarus in love
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/againstme/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/againstme/)*

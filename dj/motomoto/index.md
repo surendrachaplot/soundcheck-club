@@ -1,6 +1,6 @@
 # Moto Moto
 
-Moto Moto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Westhafen, Leipzig on Sat, 7 Nov 2026.
+Moto Moto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Westhafen, Leipzig on Sat, 7 Nov 2026.
 
 Moto Moto is a techno and house artist based in Germany, with 47 gigs on soundcheck across Baden W Rttemberg, Berlin, Cologne and Cork and 4 more. Often billed alongside Langnikel, Fennek and nyn lou. Next up: Westhafen, Leipzig on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Moto Moto is a techno and house artist based in Germany, with 47 gigs on soundch
 
 Langnikel, Fennek, nyn lou
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motomoto/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motomoto/)*

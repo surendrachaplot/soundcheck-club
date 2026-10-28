@@ -1,6 +1,6 @@
 # Cody Currie
 
-Cody Currie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Phonox, London on Sat, 2 Jan 2027.
+Cody Currie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Phonox, London on Sat, 2 Jan 2027.
 
 Cody Currie is a house and disco artist based in United Kingdom, with 139 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 48 more. Often billed alongside Kapote, Gee Lane and Sam Ruffillo. Next up: Phonox, London on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Cody Currie is a house and disco artist based in United Kingdom, with 139 gigs o
 
 Kapote, Gee Lane, Sam Ruffillo
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/codycurrie/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/codycurrie/)*

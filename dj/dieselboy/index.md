@@ -1,14 +1,15 @@
 # Dieselboy
 
-Dieselboy is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Project Pierpont, Salt-lake-city on Fri, 30 Oct 2026.
+Dieselboy is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Project Pierpont, Salt-lake-city on Fri, 30 Oct 2026.
 
-Dieselboy is a drum & bass and jungle artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Austin, Baltimore and Bogotá and 13 more. Often billed alongside Dave Shichman, Craze and Roni Size. Next up: Project Pierpont, Salt Lake City on Fri 30 Oct.
+Dieselboy is a drum & bass and jungle artist based in United States of America, with 51 gigs on soundcheck across Amsterdam, Austin, Baltimore and Bogotá and 14 more. Often billed alongside Dave Shichman, Craze and Roni Size. Next up: Project Pierpont, Salt Lake City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Project Pierpont | Salt-lake-city |
+| Sat, 21 Nov 2026 | The Rabbit Hole | Charlotte |
 | Sat, 28 Nov 2026 | Baltimore Soundstage | Baltimore |
 
 ## Recently played
@@ -26,4 +27,4 @@ Dieselboy is a drum & bass and jungle artist based in United States of America, 
 
 Dave Shichman, Craze, Roni Size
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselboy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselboy/)*

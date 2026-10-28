@@ -1,6 +1,6 @@
 # Royboy
 
-Royboy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Northcote Theatre, Melbourne on Sat, 21 Nov 2026.
+Royboy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Northcote Theatre, Melbourne on Sat, 21 Nov 2026.
 
 Royboy is a techno and house artist based in Australia, with 20 gigs on soundcheck across Melbourne. Often billed alongside CAITY WATSON, Mike Callander and Matt Radovich. Next up: Northcote Theatre, Melbourne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Royboy is a techno and house artist based in Australia, with 20 gigs on soundche
 
 CAITY WATSON, Mike Callander, Matt Radovich
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royboy/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royboy/)*

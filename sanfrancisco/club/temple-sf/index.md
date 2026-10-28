@@ -1,6 +1,6 @@
 # Temple SF
 
-Temple SF is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Perreo San Francisco Halloween!" on Fri, 30 Oct 2026.
+Temple SF is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Perreo San Francisco Halloween!" on Fri, 30 Oct 2026.
 
 Temple SF is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcoming gigs, with line-ups including TBA. See dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
 
@@ -18,4 +18,4 @@ Temple SF is a music venue in San Francisco/Oakland listed on soundcheck. 5 upco
 
 540 Howard St., San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*

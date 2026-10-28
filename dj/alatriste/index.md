@@ -1,6 +1,6 @@
 # Alatriste
 
-Alatriste is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Bar Oriente, Mexico City on Thu, 29 Oct 2026.
+Alatriste is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Oriente, Mexico City on Thu, 29 Oct 2026.
 
 Alatriste is a house and latin bass artist based in United States of America, with 31 gigs on soundcheck across Guadalajara, Los Angeles and Mexico City. Often billed alongside Cinema Paradisco, Enya Botello and Disco 86. Next up: Bar Oriente, Mexico City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Alatriste is a house and latin bass artist based in United States of America, wi
 
 Cinema Paradisco, Enya Botello, Disco 86
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alatriste/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alatriste/)*

@@ -1,6 +1,6 @@
 # AZAAD
 
-AZAAD is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Distrikt, Leeds on Fri, 1 Jan 2027.
+AZAAD is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Distrikt, Leeds on Fri, 1 Jan 2027.
 
 AZAAD is a house and minimal artist, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 10 more. Often billed alongside Julian Anthony, A.M. Project and Just Jam. Next up: Distrikt, Leeds on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ AZAAD is a house and minimal artist, with 55 gigs on soundcheck across Amsterdam
 
 Julian Anthony, A.M. Project, Just Jam
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azaad/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azaad/)*

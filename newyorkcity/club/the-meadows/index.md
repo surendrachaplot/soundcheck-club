@@ -1,6 +1,6 @@
 # The Meadows
 
-The Meadows is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "WHOREPOCALYPSE w/ Zutzut, 2AT, RICO RICA, DJ Rankng, Sterling Juan Diaz, Litney + more" on Fri, 30 Oct 2026.
+The Meadows is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "WHOREPOCALYPSE w/ Zutzut, 2AT, RICO RICA, DJ Rankng, Sterling Juan Diaz, Litney + more" on Fri, 30 Oct 2026.
 
 The Meadows is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including 2AT, Iris Estefanía, Litney and OYYSTER and 2 more. See dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
 
@@ -20,4 +20,4 @@ The Meadows is a music venue in New York City listed on soundcheck. 7 upcoming g
 
 17 Meadow St, Brooklyn, NY 11206, New York City
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*

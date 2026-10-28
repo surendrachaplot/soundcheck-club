@@ -1,8 +1,8 @@
 # Bricks
 
-Bricks is a music venue in London with 12 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "Hebe Jeebie Halloween" on Fri, 30 Oct 2026.
+Bricks is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Hebe Jeebie Halloween" on Fri, 30 Oct 2026.
 
-Bricks is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Adela, Antepop, AVANTIME and Braaks and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
+Bricks is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Adela, Antepop, AVANTIME and Body Clinic and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Bricks is a music venue in London listed on soundcheck. 12 upcoming gigs, with l
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Hebe Jeebie Halloween |  |
 | Sat, 31 Oct 2026 | HALLOWEEN BOOGIE: DISCO. FUNK. NO COSTUME NO ENTRY |  |
-| Fri, 6 Nov 2026 | Juice Rekords |  |
+| Fri, 6 Nov 2026 | Juice Rekords w/ Strike-E, Tom Da Silva + more |  |
 | Fri, 6 Nov 2026 | SYCAMORE.club | Henson, Parff |
 | Fri, 13 Nov 2026 | Grooves For Good X Bricks | CHICCA, Caspa Mono, DJ Bowlcut, Defunked, Lysander, OJ Willis, Rivera (UK) |
 | Sat, 14 Nov 2026 | Type One Community: Third Birthday | Antepop, Kyle Parsley, Timor, ohmydais |
@@ -23,4 +23,4 @@ Bricks is a music venue in London listed on soundcheck. 12 upcoming gigs, with l
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

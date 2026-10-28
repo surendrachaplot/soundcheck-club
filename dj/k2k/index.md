@@ -1,6 +1,6 @@
 # k2k
 
-k2k is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 7 Nov 2026.
+k2k is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 7 Nov 2026.
 
 k2k is a house and deep house artist, with 12 gigs on soundcheck across Auckland, Glasgow, Kyoto and London and 2 more. Often billed alongside JUN INAGAWA, A-Trak and ABSOLUTE.. Next up: Sub Club Melbourne, Melbourne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ k2k is a house and deep house artist, with 12 gigs on soundcheck across Auckland
 
 JUN INAGAWA, A-Trak, ABSOLUTE.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k2k/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k2k/)*

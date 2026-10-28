@@ -1,6 +1,6 @@
 # Oxtek
 
-Oxtek is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Video Club, Bogotá on Fri, 30 Oct 2026.
+Oxtek is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Video Club, Bogotá on Fri, 30 Oct 2026.
 
 Oxtek is a guaracha and latin bass artist, with 10 gigs on soundcheck across Bogotá, Los Angeles, Madrid and Medellin. Often billed alongside 2AT, Aleroj and Brenda.. Next up: Video Club, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Oxtek is a guaracha and latin bass artist, with 10 gigs on soundcheck across Bog
 
 2AT, Aleroj, Brenda.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxtek/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxtek/)*

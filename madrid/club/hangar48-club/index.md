@@ -1,8 +1,8 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "2RB Records with Arbizu aka Brain Bath, The Widow Son, Jaime Aydillo & Sesinjo" on Fri, 30 Oct 2026.
+Hangar48 Club is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "2RB Records with Arbizu aka Brain Bath, The Widow Son, Jaime Aydillo & Sesinjo" on Fri, 30 Oct 2026.
 
-Hangar48 Club is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Alexis mayer, Arbizu, Bat (US) and Djen and 2 more. See dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
+Hangar48 Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Alexis mayer, Arbizu, Bat (US) and Djen and 2 more. See dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 11 upcoming gigs,
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

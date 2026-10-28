@@ -1,6 +1,6 @@
 # Kasper Koman
 
-Kasper Koman is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Colombo, Sri-lanka on Sat, 31 Oct 2026.
+Kasper Koman is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Colombo, Sri-lanka on Sat, 31 Oct 2026.
 
 Kasper Koman is a progressive house and deep house artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 6 more. Often billed alongside Jody Wisternoff, Alex O'Rion and Because of Art. Next up: TBA - Colombo, Sri Lanka on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kasper Koman is a progressive house and deep house artist based in Netherlands, 
 
 Jody Wisternoff, Alex O'Rion, Because of Art
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasperkoman/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasperkoman/)*

@@ -1,8 +1,8 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "SOSS TARD TARD" on Wed, 28 Oct 2026.
+Panic Room is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SOSS TARD TARD" on Wed, 28 Oct 2026.
 
-Panic Room is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including J-Dub, Synapse and Vice Experience. See dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
+Panic Room is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including J-Dub and Vice Experience. See dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Panic Room is a music venue in Paris listed on soundcheck. 17 upcoming gigs, wit
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

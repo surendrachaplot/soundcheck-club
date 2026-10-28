@@ -1,8 +1,8 @@
 # Os Irmãos
 
-Os Irmãos is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Specka, Madrid on Fri, 20 Nov 2026.
+Os Irmãos is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Specka, Madrid on Fri, 20 Nov 2026.
 
-Os Irmãos is a techno and electronica artist, with 7 gigs on soundcheck across Madrid. Often billed alongside Deto, Luci B and Cilla. Next up: Specka, Madrid on Fri 20 Nov.
+Os Irmãos is a techno and electronica artist, with 7 gigs on soundcheck across Madrid. Often billed alongside Deto, Luci B and Cilla (AU). Next up: Specka, Madrid on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Os Irmãos is a techno and electronica artist, with 7 gigs on soundcheck across 
 
 ## Shares bills with
 
-Deto, Luci B, Cilla
+Deto, Luci B, Cilla (AU)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osirmaos/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osirmaos/)*

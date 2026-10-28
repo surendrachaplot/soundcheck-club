@@ -1,6 +1,6 @@
 # HOOD RAVE HALLOWEEN: DOWN TO CLOWN at TBA
 
-HOOD RAVE HALLOWEEN: DOWN TO CLOWN at TBA on Sat 31 Oct, Los Angeles. 4 artists: BAE BAE, Daniro, DJ Kita and Mia Carucci. House and Ghetto Tech. See the line-up on soundcheck.
+HOOD RAVE HALLOWEEN: DOWN TO CLOWN at TBA on Sat 31 Oct, Los Angeles. 4 artists: BAE BAE, Daniro, DJ Kita and Total Freedom. House and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ HOOD RAVE HALLOWEEN: DOWN TO CLOWN at TBA on Sat 31 Oct, Los Angeles. 4 artists:
 - BAE BAE
 - Daniro
 - DJ Kita
-- Mia Carucci
+- Total Freedom
 
 *Source: [soundcheck](https://soundcheck.club/e/2550243-hood-rave-halloween-down-to-clown-at-tba/)*

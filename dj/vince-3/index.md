@@ -1,6 +1,6 @@
 # vince
 
-vince is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Legal, Munich on Fri, 30 Oct 2026.
+vince is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Legal, Munich on Fri, 30 Oct 2026.
 
 vince is a techno and house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bratislava and 13 more. Often billed alongside Muallem, BASHKKA and Felix Rupprecht. Next up: Legal, Munich on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ vince is a techno and house artist based in Germany, with 93 gigs on soundcheck 
 
 Muallem, BASHKKA, Felix Rupprecht
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vince-3/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vince-3/)*

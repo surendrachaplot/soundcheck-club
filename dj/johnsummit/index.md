@@ -1,6 +1,6 @@
 # John Summit
 
-John Summit is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Capital One Arena, Washington DC on Sat, 31 Oct 2026.
+John Summit is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Capital One Arena, Washington DC on Sat, 31 Oct 2026.
 
 John Summit is a house and tech house artist based in United States of America, with 123 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 31 more. Often billed alongside Layton Giordani, Eli Brown and Loco Dice. Next up: TBA - Capital One Arena, Washington DC on Sat 31 Oct.
 
@@ -33,4 +33,4 @@ John Summit is a house and tech house artist based in United States of America, 
 
 Layton Giordani, Eli Brown, Loco Dice
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*

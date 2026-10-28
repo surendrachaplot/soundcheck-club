@@ -1,6 +1,6 @@
 # Hot Creations: Lee Foss, Miguel Campbell, Ozzie Guven, Seb Zito, Joshwa, Rooléh + more at fabric
 
-Hot Creations: Lee Foss, Miguel Campbell, Ozzie Guven, Seb Zito, Joshwa, Rooléh + more at fabric on Fri 27 Nov, London. 12 artists: Joe Rolét, Joshwa, Joss Dean and Kristin Velvet and 8 more. See the line-up on soundcheck.
+Hot Creations: Lee Foss, Miguel Campbell, Ozzie Guven, Seb Zito, Joshwa, Rooléh + more at fabric on Fri 27 Nov, London. 10 artists: Joe Rolét, Joshwa, Kristin Velvet and Lee Foss and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Hot Creations: Lee Foss, Miguel Campbell, Ozzie Guven, Seb Zito, Joshwa, Rooléh
 
 - Joe Rolét
 - Joshwa
-- Joss Dean
 - Kristin Velvet
 - Lee Foss
 - Miguel Campbell
@@ -21,6 +20,5 @@ Hot Creations: Lee Foss, Miguel Campbell, Ozzie Guven, Seb Zito, Joshwa, Rooléh
 - Rooléh
 - Seb Zito
 - Shadow Child
-- Tommy Phillips
 
 *Source: [soundcheck](https://soundcheck.club/e/2560317-hot-creations-lee-foss-miguel-campbell-ozzie-guven-seb-zito/)*

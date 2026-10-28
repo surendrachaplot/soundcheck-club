@@ -1,6 +1,6 @@
 # Jesse Chen
 
-Jesse Chen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
+Jesse Chen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
 
 Jesse Chen is a techno and house artist based in Taiwan, with 86 gigs on soundcheck across Bangkok, Seoul and Taipei. Often billed alongside Gemnital, F.G.D. and L-CC. Next up: Pawnshop, Taipei on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Jesse Chen is a techno and house artist based in Taiwan, with 86 gigs on soundch
 
 Gemnital, F.G.D., L-CC
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessechen/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessechen/)*

@@ -1,6 +1,6 @@
 # CLUB INFERNO RITUALIA - HALLOWEEN NIGHT - SAMPLING MOODS at SAM Sampling Moods
 
-CLUB INFERNO RITUALIA - HALLOWEEN NIGHT - SAMPLING MOODS at SAM Sampling Moods on Sat 31 Oct, Milan. 4 artists: Giamma Soren, marielou, Paul Lution and Vannelli Bros. Techno and Electro. See the line-up on soundcheck.
+CLUB INFERNO RITUALIA - HALLOWEEN NIGHT - SAMPLING MOODS at SAM Sampling Moods on Sat 31 Oct, Milan. 5 artists: Giamma Soren, Lucifero, marielou and Paul Lution and 1 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ CLUB INFERNO RITUALIA - HALLOWEEN NIGHT - SAMPLING MOODS at SAM Sampling Moods o
 ## Line-up
 
 - Giamma Soren
+- Lucifero
 - marielou
 - Paul Lution
 - Vannelli Bros

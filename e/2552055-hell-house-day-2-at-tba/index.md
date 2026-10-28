@@ -1,6 +1,6 @@
 # HELL HOUSE • DAY 2 at TBA
 
-HELL HOUSE • DAY 2 at TBA on Sat 31 Oct, Chicago. 5 artists: Eulalia, Flores Negras, Henry Brooks and Lil Duende and 1 more. Techno. See the line-up on soundcheck.
+HELL HOUSE • DAY 2 at TBA on Sat 31 Oct, Chicago. 6 artists: DJ Plant Texture, Eulalia, Flores Negras and Henry Brooks and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HELL HOUSE • DAY 2 at TBA on Sat 31 Oct, Chicago. 5 artists: Eulalia, Flores N
 
 ## Line-up
 
+- DJ Plant Texture
 - Eulalia
 - Flores Negras
 - Henry Brooks

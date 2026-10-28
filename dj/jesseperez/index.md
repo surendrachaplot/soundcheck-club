@@ -1,6 +1,6 @@
 # Jesse Perez
 
-Jesse Perez is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Ace*Mission Studios - Under The 6th Street Bridge, Los Angeles on Fri, 30 Oct 2026.
+Jesse Perez is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ace*Mission Studios - Under The 6th Street Bridge, Los Angeles on Fri, 30 Oct 2026.
 
 Jesse Perez is a house and tech house artist, with 22 gigs on soundcheck across Los Angeles, Miami, New York City and Philadelphia and 3 more. Often billed alongside DJ Sneak, Coffintexts and salute. Next up: Ace*Mission Studios - Under The 6th Street Bridge, Los Angeles on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Jesse Perez is a house and tech house artist, with 22 gigs on soundcheck across 
 
 DJ Sneak, Coffintexts, salute
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseperez/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseperez/)*

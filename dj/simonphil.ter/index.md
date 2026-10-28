@@ -1,6 +1,6 @@
 # Simon Phil.ter
 
-Simon Phil.ter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 13 Nov 2026.
+Simon Phil.ter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 13 Nov 2026.
 
 Simon Phil.ter is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Rn86, nøvae and Ri0D.. Next up: Ilses Erika, Leipzig on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Simon Phil.ter is a techno and house artist based in Germany, with 28 gigs on so
 
 Rn86, nøvae, Ri0D.
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonphil.ter/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonphil.ter/)*

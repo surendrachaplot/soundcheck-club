@@ -1,6 +1,6 @@
-# Soul Mass Transit System presents: Grand Soul Central - All Night Long - Sheffield at Plot 22
+# Soul Mass Transit System presents: Grand Soul Central - All Night Long - Sheffield - SOLD OUT at Plot 22
 
-Soul Mass Transit System presents: Grand Soul Central - All Night Long - Sheffield at Plot 22 on Fri 6 Nov, Sheffield. 1 artist: Soul Mass Transit System. Garage and Tech House. See the line-up on soundcheck.
+Soul Mass Transit System presents: Grand Soul Central - All Night Long - Sheffield - SOLD OUT at Plot 22 on Fri 6 Nov, Sheffield. 1 artist: Soul Mass Transit System. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

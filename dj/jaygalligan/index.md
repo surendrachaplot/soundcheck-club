@@ -1,6 +1,6 @@
 # Jay Galligan
 
-Jay Galligan is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at OHM, Berlin on Thu, 12 Nov 2026.
+Jay Galligan is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at OHM, Berlin on Thu, 12 Nov 2026.
 
 Jay Galligan is a techno and electro artist based in Ireland, with 18 gigs on soundcheck across Berlin, Bristol, Cork and Dublin and 3 more. Often billed alongside Ario, RS Tangent and Lynne. Next up: OHM, Berlin on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Jay Galligan is a techno and electro artist based in Ireland, with 18 gigs on so
 
 Ario, RS Tangent, Lynne
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*

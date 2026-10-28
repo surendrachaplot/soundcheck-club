@@ -1,6 +1,6 @@
 # Dr. Lu
 
-Dr. Lu is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Egg London, London on Sun, 8 Nov 2026.
+Dr. Lu is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Egg London, London on Sun, 8 Nov 2026.
 
 Dr. Lu is an electronic artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside 0Gravity, Alan Banks and BK. Next up: Egg London, London on Sun 8 Nov.
 
@@ -22,4 +22,4 @@ Dr. Lu is an electronic artist based in United Kingdom, with 6 gigs on soundchec
 
 0Gravity, Alan Banks, BK
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.lu/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.lu/)*

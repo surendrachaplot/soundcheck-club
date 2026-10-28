@@ -1,6 +1,6 @@
 # Kylie Exotic
 
-Kylie Exotic is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Outset, Chicago on Sat, 14 Nov 2026.
+Kylie Exotic is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Outset, Chicago on Sat, 14 Nov 2026.
 
 Kylie Exotic is a techno and club artist based in Ireland, with 8 gigs on soundcheck across Berlin, Chicago, Los Angeles and Miami and 1 more. Often billed alongside Only Fire, AISHA and Alice Longyu Gao. Next up: Outset, Chicago on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Kylie Exotic is a techno and club artist based in Ireland, with 8 gigs on soundc
 
 Only Fire, AISHA, Alice Longyu Gao
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylieexotic/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylieexotic/)*

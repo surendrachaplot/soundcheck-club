@@ -1,6 +1,6 @@
 # brazen
 
-brazen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Zuzu, Boston on Thu, 29 Oct 2026.
+brazen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Zuzu, Boston on Thu, 29 Oct 2026.
 
 brazen is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Boston, Bristol and London. Often billed alongside Janaway, Mx. Blaire and Alfredo Rico-Dimas. Next up: Zuzu, Boston on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ brazen is a house and techno artist based in United States of America, with 17 g
 
 Janaway, Mx. Blaire, Alfredo Rico-Dimas
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brazen/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brazen/)*

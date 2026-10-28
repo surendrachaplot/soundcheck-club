@@ -1,6 +1,6 @@
 # Romansoff
 
-Romansoff is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at control, Bucharest on Fri, 30 Oct 2026.
+Romansoff is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at control, Bucharest on Fri, 30 Oct 2026.
 
 Romansoff is a house and disco artist, with 29 gigs on soundcheck across Bucharest. Often billed alongside Bogman, Eirwud Mudwasser and Khidja. Next up: control, Bucharest on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Romansoff is a house and disco artist, with 29 gigs on soundcheck across Buchare
 
 Bogman, Eirwud Mudwasser, Khidja
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romansoff/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romansoff/)*

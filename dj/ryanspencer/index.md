@@ -1,14 +1,15 @@
 # Ryan Spencer
 
-Ryan Spencer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Tigris, Detroit on Sat, 31 Oct 2026.
+Ryan Spencer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Tigris, Detroit on Sat, 31 Oct 2026.
 
-Ryan Spencer is a house and techno artist based in United States of America, with 265 gigs on soundcheck across Detroit, Los Angeles, Montreal and New York City and 1 more. Often billed alongside Shigeto, Tammy Lakkis and Charles Trees. Next up: Tigris, Detroit on Sat 31 Oct.
+Ryan Spencer is a house and techno artist based in United States of America, with 266 gigs on soundcheck across Detroit, Los Angeles, Montreal and New York City and 1 more. Often billed alongside Shigeto, Tammy Lakkis and Charles Trees. Next up: Tigris, Detroit on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Tigris | Detroit |
+| Fri, 20 Nov 2026 | Bambi's | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ryan Spencer is a house and techno artist based in United States of America, wit
 
 Shigeto, Tammy Lakkis, Charles Trees
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanspencer/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanspencer/)*

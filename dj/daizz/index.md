@@ -1,6 +1,6 @@
 # Daizz
 
-Daizz is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA, San Diego on Fri, 6 Nov 2026.
+Daizz is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, San Diego on Fri, 6 Nov 2026.
 
 Daizz is a house and deep house artist based in United States of America, with 21 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Erik Vehmeyer, Wyllie and Louiv. Next up: TBA, San Diego on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Daizz is a house and deep house artist based in United States of America, with 2
 
 Erik Vehmeyer, Wyllie, Louiv
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daizz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daizz/)*

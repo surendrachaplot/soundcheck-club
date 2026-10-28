@@ -1,6 +1,6 @@
 # Dr Dubplate
 
-Dr Dubplate is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 31 Oct 2026.
+Dr Dubplate is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 31 Oct 2026.
 
 Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Bakey, Soul Mass Transit System and Yemz. Next up: Mint Warehouse, Leeds on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs o
 
 Bakey, Soul Mass Transit System, Yemz
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*

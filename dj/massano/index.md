@@ -1,6 +1,6 @@
 # Massano
 
-Massano is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Echostage, Washington DC on Fri, 30 Oct 2026.
+Massano is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Echostage, Washington DC on Fri, 30 Oct 2026.
 
 Massano is a techno and house artist based in United Kingdom, with 182 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 61 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Echostage, Washington DC on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Massano is a techno and house artist based in United Kingdom, with 182 gigs on s
 
 Adam Beyer, CamelPhat, Chris Avantgarde
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*

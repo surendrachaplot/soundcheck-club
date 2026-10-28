@@ -1,6 +1,6 @@
 # D-Edge RIO
 
-D-Edge RIO is a music venue in Rio de Janeiro with 11 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "D-ESGE RIO apresenta HEELS OF LOVE" on Fri, 30 Oct 2026.
+D-Edge RIO is a music venue in Rio de Janeiro with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "D-EDGE RIO apresenta HEELS OF LOVE" on Fri, 30 Oct 2026.
 
 D-Edge RIO is a music venue in Rio de Janeiro listed on soundcheck. 11 upcoming gigs, with line-ups including AIKO, Aninha, Beltran and Bervon and 2 more. See dates, start times and who's playing. Av. Rodrigues Alves, 293, Saúde.
 
@@ -8,7 +8,7 @@ D-Edge RIO is a music venue in Rio de Janeiro listed on soundcheck. 11 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | D-ESGE RIO apresenta HEELS OF LOVE |  |
+| Fri, 30 Oct 2026 | D-EDGE RIO apresenta HEELS OF LOVE | Eli Iwasa, Sô Lyma |
 | Sat, 31 Oct 2026 | D-Edge Rio apresenta ENTROPIA | Bervon, Doguez |
 | Fri, 6 Nov 2026 | D-Edge Rio apresenta Beltran | Beltran |
 | Sat, 7 Nov 2026 | D-Edge Rio apresenta DJ MARKY & FRIENDS |  |
@@ -23,4 +23,4 @@ D-Edge RIO is a music venue in Rio de Janeiro listed on soundcheck. 11 upcoming 
 
 Av. Rodrigues Alves, 293, Saúde, Rio de Janeiro
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/d-edge-rio/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/d-edge-rio/)*

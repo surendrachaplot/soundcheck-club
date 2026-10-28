@@ -1,6 +1,6 @@
 # Camila (2)
 
-Camila (2) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at The Chemist, Boston on Fri, 30 Oct 2026.
+Camila (2) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Chemist, Boston on Fri, 30 Oct 2026.
 
 Camila is a deep house and house artist based in Brazil, with 7 gigs on soundcheck across Boston. Often billed alongside Selector X, 1R.fm and Bintokin. Next up: The Chemist, Boston on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Camila is a deep house and house artist based in Brazil, with 7 gigs on soundche
 
 Selector X, 1R.fm, Bintokin
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camila-2/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camila-2/)*

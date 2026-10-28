@@ -1,6 +1,6 @@
 # Ukab
 
-Ukab is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+Ukab is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
 
 Ukab is a latin bass and club artist based in Mexico, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Faedro, Nicoba and BIANKA. Next up: SISSI'S Amsterdam, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ukab is a latin bass and club artist based in Mexico, with 9 gigs on soundcheck 
 
 Faedro, Nicoba, BIANKA
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ukab/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ukab/)*

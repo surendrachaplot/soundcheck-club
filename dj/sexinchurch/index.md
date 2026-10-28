@@ -1,14 +1,15 @@
 # SEXINCHURCH
 
-SEXINCHURCH is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
+SEXINCHURCH is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
 
-SEXINCHURCH is a techno and club artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside BLAIZE, DJ Sour and Ms Carrie Stacks. Next up: Paragon, New York City on Fri 30 Oct.
+SEXINCHURCH is a techno and club artist based in United States of America, with 31 gigs on soundcheck across New York City. Often billed alongside BLAIZE, DJ Sour and Amarji King. Next up: Paragon, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Paragon | New York City |
+| Fri, 30 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ SEXINCHURCH is a techno and club artist based in United States of America, with 
 
 ## Shares bills with
 
-BLAIZE, DJ Sour, Ms Carrie Stacks
+BLAIZE, DJ Sour, Amarji King
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sexinchurch/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sexinchurch/)*

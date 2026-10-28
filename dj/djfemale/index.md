@@ -1,6 +1,6 @@
 # Dj female
 
-Dj female is a Experimental and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Honey's, New York City on Thu, 5 Nov 2026.
+Dj female is a Experimental and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Honey's, New York City on Thu, 5 Nov 2026.
 
 Dj female is an experimental and house artist based in United States of America, with 4 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Alien D, Baroque Hoe and Carpet (F.L.H.P). Next up: Honey's, New York City on Thu 5 Nov.
 
@@ -20,4 +20,4 @@ Dj female is an experimental and house artist based in United States of America,
 
 Alien D, Baroque Hoe, Carpet (F.L.H.P)
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfemale/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfemale/)*

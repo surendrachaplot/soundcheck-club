@@ -1,6 +1,6 @@
 # BOPS • queer. pop. party at THE OTHER SIDE
 
-BOPS • queer. pop. party at THE OTHER SIDE on Fri 27 Nov, Amsterdam. 2 artists: Absoluut and TMORGZ. House and Pop. See the line-up on soundcheck.
+BOPS • queer. pop. party at THE OTHER SIDE on Fri 27 Nov, Amsterdam. 4 artists: Absoluut, Bass Btch, FREY. and TMORGZ. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ BOPS • queer. pop. party at THE OTHER SIDE on Fri 27 Nov, Amsterdam. 2 artists
 ## Line-up
 
 - Absoluut
+- Bass Btch
+- FREY.
 - TMORGZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2355303-bops-queer-pop-party-at-the-other-side/)*

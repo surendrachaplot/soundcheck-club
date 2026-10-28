@@ -1,6 +1,6 @@
 # CN DJ TANA
 
-CN DJ TANA is a Afro House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Dream Bags Jaguar Shoes, London on Thu, 5 Nov 2026.
+CN DJ TANA is a Afro House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Dream Bags Jaguar Shoes, London on Thu, 5 Nov 2026.
 
 CN DJ TANA is an afro house and afrobeat artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside DJ Decimal, Diggz and Toad. Next up: Dream Bags Jaguar Shoes, London on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ CN DJ TANA is an afro house and afrobeat artist based in United Kingdom, with 6 
 
 DJ Decimal, Diggz, Toad
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cndjtana/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cndjtana/)*

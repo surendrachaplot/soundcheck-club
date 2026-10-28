@@ -1,14 +1,15 @@
 # VAYROX
 
-VAYROX is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 21 Nov 2026.
+VAYROX is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 21 Nov 2026.
 
-VAYROX is an industrial and techno artist based in Bulgaria, with 11 gigs on soundcheck across Sofia. Often billed alongside KASSIS, GØBLIN and ARLECIN. Next up: Купе / Kupe, Sofia on Sat 21 Nov.
+VAYROX is an industrial and techno artist based in Bulgaria, with 12 gigs on soundcheck across Berlin and Sofia. Often billed alongside KASSIS, GØBLIN and ARLECIN. Next up: Купе / Kupe, Sofia on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Купе / Kupe | Sofia |
+| Sat, 20 Mar 2027 | TBA - SECRET PORTAL WAREHOUSE RAVE | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ VAYROX is an industrial and techno artist based in Bulgaria, with 11 gigs on sou
 
 KASSIS, GØBLIN, ARLECIN
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vayrox/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vayrox/)*

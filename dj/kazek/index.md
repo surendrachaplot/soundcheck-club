@@ -1,6 +1,6 @@
 # Kazek
 
-Kazek is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Savanna Tree, Manchester on Sat, 14 Nov 2026.
+Kazek is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Savanna Tree, Manchester on Sat, 14 Nov 2026.
 
 Kazek is a techno and acid artist based in Poland, with 11 gigs on soundcheck across Manchester. Often billed alongside RaFFski and Kami Lee. Next up: Savanna Tree, Manchester on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kazek is a techno and acid artist based in Poland, with 11 gigs on soundcheck ac
 
 RaFFski, Kami Lee
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazek/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazek/)*

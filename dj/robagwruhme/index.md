@@ -1,6 +1,6 @@
 # Robag Wruhme
 
-Robag Wruhme is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Distillery, Leipzig on Sat, 7 Nov 2026.
+Robag Wruhme is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Distillery, Leipzig on Sat, 7 Nov 2026.
 
 Robag Wruhme is a house and techno artist based in Germany, with 129 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 42 more. Often billed alongside Michael Mayer, Denis Stockhausen and Jonathan Kaspar. Next up: Distillery, Leipzig on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Robag Wruhme is a house and techno artist based in Germany, with 129 gigs on sou
 
 Michael Mayer, Denis Stockhausen, Jonathan Kaspar
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*

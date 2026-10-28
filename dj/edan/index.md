@@ -1,6 +1,6 @@
 # Edan
 
-Edan is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at public records, New York City on Sat, 28 Nov 2026.
+Edan is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at public records, New York City on Sat, 28 Nov 2026.
 
 Edan is a house and electro artist based in Italy, with 9 gigs on soundcheck across Los Angeles, Melbourne, New York City and San Francisco/Oakland and 1 more. Often billed alongside Cut Chemist, 4 Hero and Alton Miller. Next up: public records, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Edan is a house and electro artist based in Italy, with 9 gigs on soundcheck acr
 
 Cut Chemist, 4 Hero, Alton Miller
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edan/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edan/)*

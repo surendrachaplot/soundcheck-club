@@ -1,6 +1,6 @@
 # Kevin Saunderson
 
-Kevin Saunderson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Kevin Saunderson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Kevin Saunderson is a techno and house artist based in United States of America, with 128 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 37 more. Often billed alongside The Saunderson Brothers, Carl Craig and Speedy J. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Kevin Saunderson is a techno and house artist based in United States of America,
 
 The Saunderson Brothers, Carl Craig, Speedy J
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*

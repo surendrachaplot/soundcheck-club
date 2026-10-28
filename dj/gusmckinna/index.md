@@ -1,6 +1,6 @@
 # Gus McKinna
 
-Gus McKinna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Turbo422, Melbourne on Sat, 31 Oct 2026.
+Gus McKinna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Turbo422, Melbourne on Sat, 31 Oct 2026.
 
 Gus McKinna is a techno and house artist based in Australia, with 85 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Ejeckt, Four To Eight and Billy Currie. Next up: Turbo422, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gus McKinna is a techno and house artist based in Australia, with 85 gigs on sou
 
 Ejeckt, Four To Eight, Billy Currie
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusmckinna/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusmckinna/)*

@@ -1,6 +1,6 @@
 # Gazi View
 
-Gazi View is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. The next is "ΤΡΑΣΝΑΙΤ || HALLOWEEN || Gazi View" on Sat, 31 Oct 2026.
+Gazi View is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "ΤΡΑΣΝΑΙΤ || HALLOWEEN || Gazi View" on Sat, 31 Oct 2026.
 
 Gazi View is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Christian Cambas, Deherian, SCTR and Tanison. See dates, start times and who's playing. Iakhou 22, 11854 11854 Athens, Greece.
 
@@ -15,4 +15,4 @@ Gazi View is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with
 
 Iakhou 22, 11854 11854 Athens, Greece, Athens
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/gazi-view/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/gazi-view/)*

@@ -1,6 +1,6 @@
 # DJ Fiona
 
-DJ Fiona is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 5 Dec 2026.
+DJ Fiona is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 5 Dec 2026.
 
 DJ Fiona is a progressive house and house artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Heshumi, Holywanderer and OatMilk. Next up: Crack Bellmer, Berlin on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ DJ Fiona is a progressive house and house artist based in Germany, with 6 gigs o
 
 Heshumi, Holywanderer, OatMilk
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfiona/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfiona/)*

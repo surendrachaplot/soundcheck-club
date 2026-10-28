@@ -1,6 +1,6 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Gang Gang Cafe and Bar, Canberra on Sat, 31 Oct 2026.
+Kia (AU) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Gang Gang Cafe and Bar, Canberra on Sat, 31 Oct 2026.
 
 Kia (AU) is a techno and house artist based in Australia, with 228 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 61 more. Often billed alongside Reptant, Bitter Babe and Moopie. Next up: Gang Gang Cafe and Bar, Canberra on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ Kia (AU) is a techno and house artist based in Australia, with 228 gigs on sound
 
 Reptant, Bitter Babe, Moopie
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*

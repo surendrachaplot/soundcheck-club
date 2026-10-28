@@ -1,6 +1,6 @@
 # Rachel Torro
 
-Rachel Torro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at TBA - Soma loft w/ rooftop, San Francisco/Oakland on Sat, 31 Oct 2026.
+Rachel Torro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Soma loft w/ rooftop, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Rachel Torro is a house and disco artist based in United States of America, with 16 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Benjamin K, Galen and Jimmy B. Next up: TBA - Soma loft w/ rooftop, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rachel Torro is a house and disco artist based in United States of America, with
 
 Benjamin K, Galen, Jimmy B
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racheltorro/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racheltorro/)*

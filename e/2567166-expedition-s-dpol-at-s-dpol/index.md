@@ -1,6 +1,6 @@
 # Expedition Südpol at Südpol
 
-Expedition Südpol on Fri 30 Oct, Hamburg. 18 artists: AGILY, Antoine Baiser, Artemis and Bryan Kessler and 14 more. See the line-up on soundcheck.
+Expedition Südpol on Fri 30 Oct, Hamburg. 19 artists: AGILY, Antoine Baiser, Artemis and Bryan Kessler and 15 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -28,5 +28,6 @@ Expedition Südpol on Fri 30 Oct, Hamburg. 18 artists: AGILY, Antoine Baiser, Ar
 - Tala Berg
 - Tetra Hydro
 - Vale
+- Ypsilon
 
 *Source: [soundcheck](https://soundcheck.club/e/2567166-expedition-s-dpol-at-s-dpol/)*

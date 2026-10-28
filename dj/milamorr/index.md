@@ -1,6 +1,6 @@
 # Mila Morr
 
-Mila Morr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Le Jardin Enjoy, South-west on Sat, 31 Oct 2026.
+Mila Morr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Jardin Enjoy, South-west on Sat, 31 Oct 2026.
 
 Mila Morr is a house and techno artist based in Colombia, with 58 gigs on soundcheck across Barcelona, Bogotá, Ibiza and South West. Often billed alongside Elwei, John Karam and Bttologic. Next up: Le Jardin Enjoy, South West on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Mila Morr is a house and techno artist based in Colombia, with 58 gigs on soundc
 
 Elwei, John Karam, Bttologic
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milamorr/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milamorr/)*

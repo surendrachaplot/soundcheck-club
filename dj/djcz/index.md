@@ -1,6 +1,6 @@
 # DJ CZ
 
-DJ CZ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
+DJ CZ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 DJ CZ is a techno and experimental artist based in United States of America, with 21 gigs on soundcheck across San Francisco/Oakland. Often billed alongside llloyd (US), David Siska and Joe Rice. Next up: Underground SF, San Francisco/Oakland on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ DJ CZ is a techno and experimental artist based in United States of America, wit
 
 llloyd (US), David Siska, Joe Rice
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcz/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcz/)*

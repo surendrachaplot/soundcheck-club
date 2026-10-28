@@ -1,6 +1,6 @@
 # Mike Morrisey
 
-Mike Morrisey is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 8 Nov 2026.
+Mike Morrisey is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 8 Nov 2026.
 
 Mike Morrisey is a tech house and house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Ibiza and 10 more. Often billed alongside Luke Welsh, Dan Costello and MPhilly. Next up: Revolver Upstairs, Melbourne on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Mike Morrisey is a tech house and house artist based in United Kingdom, with 59 
 
 Luke Welsh, Dan Costello, MPhilly
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*

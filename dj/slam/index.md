@@ -1,6 +1,6 @@
 # Slam
 
-Slam is a Techno and Dub Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 27 Oct 2026. Next at The Golden Lion, Manchester on Sat, 31 Oct 2026.
+Slam is a Techno and Dub Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Golden Lion, Manchester on Sat, 31 Oct 2026.
 
 Slam is a techno and dub techno artist based in United Kingdom, with 146 gigs on soundcheck across Aberdeen, Barcelona, Belfast and Berlin and 35 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: The Golden Lion, Manchester on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Slam is a techno and dub techno artist based in United Kingdom, with 146 gigs on
 
 KAAI, Kairogen, Nightwave
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*
+*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*
