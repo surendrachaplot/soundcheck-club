@@ -1,8 +1,8 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Robbie Doherty is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
-Robbie Doherty is a house and tech house artist based in United Kingdom, with 167 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
+Robbie Doherty is a house and tech house artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 38 more. Often billed alongside Prunk, Dennis Quin and ALISHA. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Robbie Doherty is a house and tech house artist based in United Kingdom, with 16
 | Sat, 12 Dec 2026 | BASIS | Utrecht |
 | Thu, 31 Dec 2026 | Depot | Cardiff |
 | Fri, 22 Jan 2027 | Igloofest | Montreal |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -32,6 +33,6 @@ Robbie Doherty is a house and tech house artist based in United Kingdom, with 16
 
 ## Shares bills with
 
-Prunk, Dennis Quin, Jamback
+Prunk, Dennis Quin, ALISHA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

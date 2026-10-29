@@ -1,6 +1,6 @@
 # DJ Gianni
 
-DJ Gianni is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 20 Nov 2026.
+DJ Gianni is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 20 Nov 2026.
 
 DJ Gianni is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Heidelberg and Karlsruhe and 2 more. Often billed alongside ELOISA, Alexa Fluor and Carotin. Next up: Lokschuppen Berlin, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ DJ Gianni is a techno and trance artist based in Germany, with 23 gigs on soundc
 
 ELOISA, Alexa Fluor, Carotin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgianni/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgianni/)*

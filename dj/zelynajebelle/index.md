@@ -1,6 +1,6 @@
 # Zelyna je Belle
 
-Zelyna je Belle is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Rauxxxxs, Berlin on Sat, 14 Nov 2026.
+Zelyna je Belle is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Rauxxxxs, Berlin on Sat, 14 Nov 2026.
 
 Zelyna je Belle is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside G4F4RØU, Jaamann and MAURER. Next up: TBA - Rauxxxxs, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Zelyna je Belle is a techno and trance artist based in Germany, with 17 gigs on 
 
 G4F4RØU, Jaamann, MAURER
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zelynajebelle/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zelynajebelle/)*

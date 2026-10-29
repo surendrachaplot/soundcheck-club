@@ -1,6 +1,6 @@
 # Blue Hour
 
-Blue Hour is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 6 Nov 2026.
+Blue Hour is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 6 Nov 2026.
 
 Blue Hour is a techno and trance artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 42 more. Often billed alongside Philippa Pacho, Alpha Tracks and LDS. Next up: Studio Club Malaga, Malaga on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Blue Hour is a techno and trance artist based in United Kingdom, with 117 gigs o
 
 Philippa Pacho, Alpha Tracks, LDS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluehour/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluehour/)*

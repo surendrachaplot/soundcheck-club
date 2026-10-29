@@ -1,14 +1,15 @@
 # Zero
 
-Zero is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Komedia Bath, West-wales on Mon, 7 Dec 2026.
+Zero is a Garage and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Komedia Bath, West-wales on Mon, 7 Dec 2026.
 
-Zero is a garage and drum & bass artist based in Croatia, with 43 gigs on soundcheck across Austin, Barcelona, Bristol and Dublin and 18 more. Often billed alongside Skepsis, Window Kid and Charlie Tee. Next up: Komedia Bath, West Wales on Mon 7 Dec.
+Zero is a garage and drum & bass artist based in Croatia, with 44 gigs on soundcheck across Austin, Barcelona, Bristol and Dublin and 19 more. Often billed alongside Window Kid, MPH and Skepsis. Next up: Komedia Bath, West Wales on Mon 7 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 7 Dec 2026 | Komedia Bath | West-wales |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Zero is a garage and drum & bass artist based in Croatia, with 43 gigs on soundc
 
 ## Shares bills with
 
-Skepsis, Window Kid, Charlie Tee
+Window Kid, MPH (1), Skepsis
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zero/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zero/)*

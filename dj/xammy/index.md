@@ -1,6 +1,6 @@
 # Xammy
 
-Xammy is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Superlove, Milan on Thu, 29 Oct 2026.
+Xammy is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Superlove, Milan on Thu, 29 Oct 2026.
 
 Xammy is a techno and hardcore artist based in China, with 15 gigs on soundcheck across Milan. Often billed alongside FluffeR, Flaiv Đarkø and DRUM THE SYSTEM live. Next up: Superlove, Milan on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Xammy is a techno and hardcore artist based in China, with 15 gigs on soundcheck
 
 FluffeR, Flaiv Đarkø, DRUM THE SYSTEM live
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xammy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xammy/)*

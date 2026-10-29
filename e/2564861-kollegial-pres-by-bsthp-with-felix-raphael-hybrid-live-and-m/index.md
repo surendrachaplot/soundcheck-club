@@ -1,6 +1,6 @@
 # KOLLEGIAL pres. by BSTHP - with Felix Raphael [ hybrid LiVE ] and many more at Ritter Butzke
 
-KOLLEGIAL pres. by BSTHP - with Felix Raphael [ hybrid LiVE ] and many more at Ritter Butzke on Fri 4 Dec, Berlin. 3 artists: Felix Raphael, justUS and Toushe. Techno. See the line-up on soundcheck.
+KOLLEGIAL pres. by BSTHP - with Felix Raphael [ hybrid LiVE ] and many more at Ritter Butzke on Fri 4 Dec, Berlin. 4 artists: Felix Raphael, hörmi, justUS and Toushe. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ KOLLEGIAL pres. by BSTHP - with Felix Raphael [ hybrid LiVE ] and many more at R
 ## Line-up
 
 - Felix Raphael
+- hörmi
 - justUS
 - Toushe
 

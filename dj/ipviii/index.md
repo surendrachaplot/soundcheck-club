@@ -1,6 +1,6 @@
 # IP:VIII
 
-IP:VIII is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at K2 Comedy Club, Vilnius on Fri, 30 Oct 2026.
+IP:VIII is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at K2 Comedy Club, Vilnius on Fri, 30 Oct 2026.
 
 IP:VIII is a techno and industrial artist, with 36 gigs on soundcheck across Copenhagen and Vilnius. Often billed alongside Phase Line, Mirror Slave and Valdagger. Next up: K2 Comedy Club, Vilnius on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ IP:VIII is a techno and industrial artist, with 36 gigs on soundcheck across Cop
 
 Phase Line, Mirror Slave, Valdagger
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ipviii/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ipviii/)*

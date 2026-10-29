@@ -1,6 +1,6 @@
 # Bruna N.
 
-Bruna N. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at BAR NONE, Hamburg on Sat, 28 Nov 2026.
+Bruna N. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at BAR NONE, Hamburg on Sat, 28 Nov 2026.
 
 Bruna N. is a house and techno artist based in Germany, with 29 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Anton Jonathan, Daisy Weweh and Jean Mauj. Next up: BAR NONE, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bruna N. is a house and techno artist based in Germany, with 29 gigs on soundche
 
 Anton Jonathan, Daisy Weweh, Jean Mauj
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunan/)*

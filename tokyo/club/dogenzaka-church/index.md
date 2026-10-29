@@ -1,22 +1,26 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "inori" on Thu, 29 Oct 2026.
+Dogenzaka Church is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "inori" on Thu, 29 Oct 2026.
 
-Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including DADO, Hironobu Jyounai, KAIKAI and Mary-chan and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
+Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including DADO, Hironobu Jyounai, KAIKAI and Mary-chan and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | inori | DADO, KAIKAI |
+| Fri, 30 Oct 2026 | Cocalero Picante Event |  |
 | Sat, 31 Oct 2026 | NIGHT PRAYER HALLOWEEN 2026 |  |
 | Sun, 1 Nov 2026 | ReIncarnation | Mary-chan |
 | Mon, 2 Nov 2026 | MY GENERATION |  |
 | Fri, 6 Nov 2026 | BASS CATHEDRAL – DRUM'N'BASS SHIBUYA | Hironobu Jyounai, vinylDJ Eiji Takehana |
+| Sun, 8 Nov 2026 | Dogenzaka Exotic VooDoo Lounge |  |
+| Thu, 12 Nov 2026 | ROAD TO ADE CHURCH | Philo |
+| Thu, 12 Nov 2026 | Devote The Music |  |
 | Fri, 4 Dec 2026 | BASS CATHEDRAL – DRUM'N'BASS SHIBUYA | Hironobu Jyounai, Shimon, vinylDJ Eiji Takehana |
 
 ## Address
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

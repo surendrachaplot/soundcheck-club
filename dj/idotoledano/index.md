@@ -1,6 +1,6 @@
 # Ido Toledano
 
-Ido Toledano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Silbergold, Frankfurt on Sat, 31 Oct 2026.
+Ido Toledano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Silbergold, Frankfurt on Sat, 31 Oct 2026.
 
 Ido Toledano is a house and techno artist based in Germany, with 11 gigs on soundcheck across Frankfurt, Hamburg, Mannheim and Munich. Often billed alongside David Böning, DJ Split and David Boening. Next up: Silbergold, Frankfurt on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ido Toledano is a house and techno artist based in Germany, with 11 gigs on soun
 
 David Böning, DJ Split, David Boening
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idotoledano/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idotoledano/)*

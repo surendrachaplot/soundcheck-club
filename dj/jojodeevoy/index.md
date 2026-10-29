@@ -1,6 +1,6 @@
 # Jojo Deevoy
 
-Jojo Deevoy is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ministry Of Sound, London on Sat, 28 Nov 2026.
+Jojo Deevoy is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ministry Of Sound, London on Sat, 28 Nov 2026.
 
 Jojo Deevoy is a house and drum & bass artist, with 15 gigs on soundcheck across London. Often billed alongside SAVANNAH, Crazy Cousinz and Donae'o. Next up: Ministry Of Sound, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jojo Deevoy is a house and drum & bass artist, with 15 gigs on soundcheck across
 
 SAVANNAH, Crazy Cousinz, Donae'o
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojodeevoy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojodeevoy/)*

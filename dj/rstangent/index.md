@@ -1,6 +1,6 @@
 # RS Tangent
 
-RS Tangent is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Strange Brew, Bristol on Sat, 19 Dec 2026.
+RS Tangent is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Strange Brew, Bristol on Sat, 19 Dec 2026.
 
 RS Tangent is a techno and dub artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Bristol, Glasgow and London and 3 more. Often billed alongside Jay Galligan, Mackenzie (UK) and Thomas Ridley. Next up: Strange Brew, Bristol on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ RS Tangent is a techno and dub artist based in United Kingdom, with 20 gigs on s
 
 Jay Galligan, Mackenzie (UK), Thomas Ridley
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rstangent/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rstangent/)*

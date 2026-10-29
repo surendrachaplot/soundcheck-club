@@ -1,6 +1,6 @@
 # SCHRZØ
 
-SCHRZØ is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Madrid on Sat, 14 Nov 2026.
+SCHRZØ is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Madrid on Sat, 14 Nov 2026.
 
 SCHRZØ is a techno and tech house artist based in Spain, with 10 gigs on soundcheck across Barcelona, Madrid, North and Valencia. Often billed alongside Dani Soto, RBNK and Adversario. Next up: TBA, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ SCHRZØ is a techno and tech house artist based in Spain, with 10 gigs on soundc
 
 Dani Soto, RBNK, Adversario
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schrzo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schrzo/)*

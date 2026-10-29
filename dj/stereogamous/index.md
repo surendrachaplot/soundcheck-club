@@ -1,6 +1,6 @@
 # Stereogamous
 
-Stereogamous is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Final, Taipei on Fri, 30 Oct 2026.
+Stereogamous is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Final, Taipei on Fri, 30 Oct 2026.
 
 Stereogamous is a house and club artist based in Australia, with 19 gigs on soundcheck across Sydney and Taipei. Often billed alongside Matt Vaughan, Kemical SistaS and Rydeen (AU). Next up: Final, Taipei on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Stereogamous is a house and club artist based in Australia, with 19 gigs on soun
 
 Matt Vaughan, Kemical SistaS, Rydeen (AU)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereogamous/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereogamous/)*

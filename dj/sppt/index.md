@@ -1,6 +1,6 @@
 # SPPT
 
-SPPT is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at 1990, Glasgow on Fri, 27 Nov 2026.
+SPPT is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at 1990, Glasgow on Fri, 27 Nov 2026.
 
 SPPT is a house and minimal artist based in United Kingdom, with 12 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Patrick McCotter, Shaneo and The Sandman. Next up: 1990, Glasgow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ SPPT is a house and minimal artist based in United Kingdom, with 12 gigs on soun
 
 Patrick McCotter, Shaneo, The Sandman
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sppt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sppt/)*

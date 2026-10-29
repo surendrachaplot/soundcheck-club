@@ -1,6 +1,6 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "80s Party-Eighties Inferno" on Fri, 30 Oct 2026.
+Dunckerclub is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "80s Party-Eighties Inferno" on Fri, 30 Oct 2026.
 
 Dunckerclub is a music venue in Berlin listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
@@ -17,4 +17,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 4 upcoming gigs. Se
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

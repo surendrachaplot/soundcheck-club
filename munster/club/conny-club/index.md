@@ -1,6 +1,6 @@
 # Conny Club
 
-Conny Club is a music venue in Münster with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Halloween Party" on Fri, 30 Oct 2026.
+Conny Club is a music venue in Münster with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween Party" on Fri, 30 Oct 2026.
 
 Conny Club is a music venue in Münster listed on soundcheck. 6 upcoming gigs, with line-ups including Annemalie, Dennis Siemion and Sven Kerkhoff. See dates, start times and who's playing. Am Hawerkamp 31, 48155 Münster, Deutschland.
 
@@ -19,4 +19,4 @@ Conny Club is a music venue in Münster listed on soundcheck. 6 upcoming gigs, w
 
 Am Hawerkamp 31, 48155 Münster, Deutschland, Münster
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/conny-club/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/conny-club/)*

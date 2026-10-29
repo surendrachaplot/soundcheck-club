@@ -1,6 +1,6 @@
 # Matthias (1)
 
-Matthias (1) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+Matthias (1) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
 Matthias is a house and techno artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 39 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: Signal, New York City on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Matthias is a house and techno artist based in Germany, with 117 gigs on soundch
 
 So-Fi, Ancut, Brasi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*

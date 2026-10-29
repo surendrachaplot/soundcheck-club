@@ -1,13 +1,14 @@
 # Jacques Greene
 
-Jacques Greene is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Yes, Manchester on Fri, 20 Nov 2026.
+Jacques Greene is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-Jacques Greene is a house and techno artist based in Canada, with 112 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 38 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: Yes, Manchester on Fri 20 Nov.
+Jacques Greene is a house and techno artist based in Canada, with 113 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 38 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: Monarch, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Monarch | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Yes | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jacques Greene is a house and techno artist based in Canada, with 112 gigs on so
 
 Nosaj Thing, Jubilee, Coffintexts
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*

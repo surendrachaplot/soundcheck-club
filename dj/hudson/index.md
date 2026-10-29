@@ -1,6 +1,6 @@
 # Hudson
 
-Hudson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cafe-Gallery, Tbilisi on Fri, 30 Oct 2026.
+Hudson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cafe-Gallery, Tbilisi on Fri, 30 Oct 2026.
 
 Hudson is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across Detroit and Tbilisi. Often billed alongside Gio Shengelia, Bacho and Hatsvali. Next up: Cafe-Gallery, Tbilisi on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Hudson is a techno and house artist based in United Kingdom, with 13 gigs on sou
 
 Gio Shengelia, Bacho, Hatsvali
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hudson/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hudson/)*

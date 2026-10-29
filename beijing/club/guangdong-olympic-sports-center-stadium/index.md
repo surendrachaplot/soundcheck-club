@@ -1,6 +1,6 @@
 # Guangdong Olympic Sports Center Stadium
 
-Guangdong Olympic Sports Center Stadium is a music venue in Beijing with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Leehom Guangzhou Concert" on Sat, 7 Nov 2026.
+Guangdong Olympic Sports Center Stadium is a music venue in Beijing with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Leehom Guangzhou Concert" on Sat, 7 Nov 2026.
 
 Guangdong Olympic Sports Center Stadium is a music venue in Beijing listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Guangdong Olympic Sports Center Stadium is a music venue in Beijing listed on so
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Leehom Guangzhou Concert |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/guangdong-olympic-sports-center-stadium/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/guangdong-olympic-sports-center-stadium/)*

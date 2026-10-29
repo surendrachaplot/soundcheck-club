@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at D! Club, Lausanne on Fri, 30 Oct 2026.
+Ben Klock is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at D! Club, Lausanne on Fri, 30 Oct 2026.
 
 Ben Klock is a techno and house artist based in Germany, with 300 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 74 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: D! Club, Lausanne on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist based in Germany, with 300 gigs on soundc
 
 Fadi Mohem, Marcel Dettmann, Rødhåd
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

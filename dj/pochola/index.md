@@ -1,6 +1,6 @@
 # Pochola
 
-Pochola is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Oranj Dray Walk, London on Sat, 31 Oct 2026.
+Pochola is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Oranj Dray Walk, London on Sat, 31 Oct 2026.
 
 Pochola is a club and bass artist based in Mexico, with 16 gigs on soundcheck across Berlin, London and San Francisco/Oakland. Often billed alongside Manuka Honey, Mobilegirl and Nico Adomako. Next up: Oranj Dray Walk, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Pochola is a club and bass artist based in Mexico, with 16 gigs on soundcheck ac
 
 Manuka Honey, Mobilegirl, Nico Adomako
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pochola/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pochola/)*

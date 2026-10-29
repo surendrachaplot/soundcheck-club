@@ -1,6 +1,6 @@
 # Studio29*
 
-Studio29* is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Bee's Mouth, Brighton on Fri, 4 Dec 2026.
+Studio29* is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Bee's Mouth, Brighton on Fri, 4 Dec 2026.
 
 Studio29* is a house and electro artist based in United Kingdom, with 8 gigs on soundcheck across Brighton. Often billed alongside Sam Red, Sonic Juncture and Edo.1. Next up: The Bee's Mouth, Brighton on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Studio29* is a house and electro artist based in United Kingdom, with 8 gigs on 
 
 Sam Red, Sonic Juncture, Edo.1
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/studio29/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/studio29/)*

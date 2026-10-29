@@ -1,6 +1,6 @@
 # Yorz
 
-Yorz is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Patision65, Athens on Fri, 13 Nov 2026.
+Yorz is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Patision65, Athens on Fri, 13 Nov 2026.
 
 Yorz is a breakbeat and electro artist based in Greece, with 40 gigs on soundcheck across Athens. Often billed alongside Piece of Kate, IMPVLSIV and .Fro.. Next up: Patision65, Athens on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Yorz is a breakbeat and electro artist based in Greece, with 40 gigs on soundche
 
 Piece of Kate, IMPVLSIV, .Fro.
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yorz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yorz/)*

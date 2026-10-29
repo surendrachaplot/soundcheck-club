@@ -1,8 +1,8 @@
 # Sansibar
 
-Sansibar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
+Sansibar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
 
-Sansibar is a techno and house artist, with 199 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 53 more. Often billed alongside Denzel, Katerina and dj sweet6teen. Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
+Sansibar is a techno and house artist, with 200 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 53 more. Often billed alongside Denzel, Katerina and dj sweet6teen. Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sansibar is a techno and house artist, with 199 gigs on soundcheck across Amster
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 14 Nov 2026 | Circolo Amelia | Milan |
+| Fri, 18 Dec 2026 | Post Bar | Helsinki |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sansibar is a techno and house artist, with 199 gigs on soundcheck across Amster
 
 Denzel, Katerina, dj sweet6teen
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*

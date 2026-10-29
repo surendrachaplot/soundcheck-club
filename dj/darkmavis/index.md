@@ -1,13 +1,14 @@
 # darkmavis
 
-darkmavis is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Slane Castle, Ireland on Thu, 31 Dec 2026.
+darkmavis is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pawn Shop, Dublin on Thu, 29 Oct 2026.
 
-darkmavis is a trance and techno artist based in Ireland, with 54 gigs on soundcheck across Cork, Dublin, Edinburgh and Ireland and 3 more. Often billed alongside JWY, Shannen Blessing and Surka. Next up: Slane Castle, Ireland on Thu 31 Dec.
+darkmavis is a trance and techno artist based in Ireland, with 55 gigs on soundcheck across Cork, Dublin, Edinburgh and Ireland and 3 more. Often billed alongside JWY, Shannen Blessing and Surka. Next up: Pawn Shop, Dublin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Pawn Shop | Dublin |
 | Thu, 31 Dec 2026 | Slane Castle | Ireland |
 
 ## Recently played
@@ -25,4 +26,4 @@ darkmavis is a trance and techno artist based in Ireland, with 54 gigs on soundc
 
 JWY (1), Shannen Blessing, Surka (1)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmavis/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmavis/)*

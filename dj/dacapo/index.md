@@ -1,14 +1,15 @@
 # Da Capo
 
-Da Capo is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Roundhouse, London on Sat, 31 Oct 2026.
+Da Capo is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Roundhouse, London on Sat, 31 Oct 2026.
 
-Da Capo is an afro house and afro tech artist based in South Africa, with 60 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Enoo Napa, Caiiro and Van Zand. Next up: The Roundhouse, London on Sat 31 Oct.
+Da Capo is an afro house and afro tech artist based in South Africa, with 61 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Enoo Napa, Caiiro and Van Zand. Next up: The Roundhouse, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Roundhouse | London |
+| Sat, 31 Oct 2026 | Village Underground | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Da Capo is an afro house and afro tech artist based in South Africa, with 60 gig
 
 Enoo Napa, Caiiro, Van Zand
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dacapo/)*

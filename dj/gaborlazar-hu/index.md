@@ -1,6 +1,6 @@
 # Gábor Lázár
 
-Gábor Lázár is a Experimental and IDM artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Inkonst, Malmo on Fri, 27 Nov 2026.
+Gábor Lázár is a Experimental and IDM artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Inkonst, Malmo on Fri, 27 Nov 2026.
 
 Gábor Lázár is an experimental and idm artist, with 12 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 7 more. Often billed alongside Byetone, John Cleworth and Rat Section. Next up: Inkonst, Malmo on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Gábor Lázár is an experimental and idm artist, with 12 gigs on soundcheck acr
 
 Byetone, John Cleworth, Rat Section
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaborlazar-hu/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaborlazar-hu/)*

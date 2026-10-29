@@ -1,6 +1,6 @@
 # Liz Amarille
 
-Liz Amarille is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Thu, 29 Oct 2026.
+Liz Amarille is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Thu, 29 Oct 2026.
 
 Liz Amarille is a house and disco artist based in Colombia, with 15 gigs on soundcheck across Bogotá and Medellin. Often billed alongside DJ Mashu, Cales & Mr Hyde and AFM. Next up: Mad Radio Bogotá, Bogotá on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Liz Amarille is a house and disco artist based in Colombia, with 15 gigs on soun
 
 DJ Mashu, Cales & Mr Hyde, AFM
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizamarille/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizamarille/)*

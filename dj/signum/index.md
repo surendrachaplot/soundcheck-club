@@ -1,6 +1,6 @@
 # Signum
 
-Signum is a Trance and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tunnel Club, Birmingham on Sat, 12 Dec 2026.
+Signum is a Trance and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tunnel Club, Birmingham on Sat, 12 Dec 2026.
 
 Signum is a trance and club artist based in Netherlands, with 21 gigs on soundcheck across Birmingham, Brighton, Dublin and Glasgow and 8 more. Often billed alongside Dave Pearce, Lange and Billy Gillies. Next up: Tunnel Club, Birmingham on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Signum is a trance and club artist based in Netherlands, with 21 gigs on soundch
 
 Dave Pearce, Lange, Billy Gillies
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signum/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signum/)*

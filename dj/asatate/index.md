@@ -1,6 +1,6 @@
 # Asa Tate
 
-Asa Tate is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Platforma Wolff, Bucharest on Sat, 31 Oct 2026.
+Asa Tate is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Platforma Wolff, Bucharest on Sat, 31 Oct 2026.
 
 Asa Tate is a house and balearic artist, with 24 gigs on soundcheck across Berlin, Brighton, Bucharest and Edinburgh and 1 more. Often billed alongside Meg Paine, Tech Support and Ariane V. Next up: Platforma Wolff, Bucharest on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Asa Tate is a house and balearic artist, with 24 gigs on soundcheck across Berli
 
 Meg Paine, Tech Support, Ariane V
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asatate/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asatate/)*

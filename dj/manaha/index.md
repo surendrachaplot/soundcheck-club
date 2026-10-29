@@ -1,14 +1,15 @@
 # Manaha
 
-Manaha is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Harajuku Quest, Tokyo on Mon, 2 Nov 2026.
+Manaha is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Harajuku Quest, Tokyo on Mon, 2 Nov 2026.
 
-Manaha is a house and tech house artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside An toi, Curses and DJ Quietstorm. Next up: Harajuku Quest, Tokyo on Mon 2 Nov.
+Manaha is a house and tech house artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside 50Minimals, An toi and Curses. Next up: Harajuku Quest, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 2 Nov 2026 | Harajuku Quest | Tokyo |
+| Fri, 18 Dec 2026 | VENT | Tokyo |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Manaha is a house and tech house artist based in Japan, with 8 gigs on soundchec
 
 ## Shares bills with
 
-An toi, Curses, DJ Quietstorm
+50Minimals, An toi, Curses
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*

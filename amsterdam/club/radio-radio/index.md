@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Moody Mehran • Miguel De Bois" on Fri, 30 Oct 2026.
+Radio Radio is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Moody Mehran • Miguel De Bois" on Fri, 30 Oct 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Eileen (NL), I-F, Intergalactic Gary and Miguel De Bois and 1 more. See dates, start times and who's playing. Pazzanistraat 3.
 
@@ -17,4 +17,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs,
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

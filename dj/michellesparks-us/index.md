@@ -1,6 +1,6 @@
 # Michelle Sparks
 
-Michelle Sparks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Fri, 30 Oct 2026.
+Michelle Sparks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Fri, 30 Oct 2026.
 
 Michelle Sparks is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Amsterdam, Chicago, Denver and Detroit and 4 more. Often billed alongside Juheun, Barbosa and Declan James. Next up: Geary Avenue Warehouse Project, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Michelle Sparks is a techno and house artist based in United States of America, 
 
 Juheun, Barbosa, Declan James
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellesparks-us/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellesparks-us/)*

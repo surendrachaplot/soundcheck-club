@@ -1,6 +1,6 @@
 # LILI
 
-LILI is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Loft, Manchester on Thu, 29 Oct 2026.
+LILI is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Loft, Manchester on Thu, 29 Oct 2026.
 
 LILI is a tech house and house artist based in United Kingdom, with 30 gigs on soundcheck across Berlin, Ibiza, Leeds and London and 4 more. Often billed alongside ADMNTi, L.P. Rhythm and Lewis Carroll. Next up: The Loft, Manchester on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ LILI is a tech house and house artist based in United Kingdom, with 30 gigs on s
 
 ADMNTi, L.P. Rhythm, Lewis Carroll
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*

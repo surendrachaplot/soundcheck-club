@@ -1,6 +1,6 @@
 # Juan Guerra
 
-Juan Guerra is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Supermercat Gotico, Barcelona on Sat, 31 Oct 2026.
+Juan Guerra is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Supermercat Gotico, Barcelona on Sat, 31 Oct 2026.
 
 Juan Guerra is a techno and electronica artist, with 46 gigs on soundcheck across Barcelona and Dublin. Often billed alongside Manu Chaile, Nuuk and Edu Suarez. Next up: The Supermercat Gotico, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Juan Guerra is a techno and electronica artist, with 46 gigs on soundcheck acros
 
 Manu Chaile, Nuuk, Edu Suarez
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanguerra/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanguerra/)*

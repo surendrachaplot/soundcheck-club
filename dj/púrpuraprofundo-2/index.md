@@ -1,6 +1,6 @@
 # Púrpura Profundo (2)
 
-Púrpura Profundo (2) is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
+Púrpura Profundo (2) is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
 Púrpura Profundo is a techno and baile funk artist, with 10 gigs on soundcheck across New York City. Often billed alongside 8888, Secret Raver and Adrian Hex. Next up: Eden NYC, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Púrpura Profundo is a techno and baile funk artist, with 10 gigs on soundcheck 
 
 8888, Secret Raver, Adrian Hex
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/púrpuraprofundo-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/púrpuraprofundo-2/)*

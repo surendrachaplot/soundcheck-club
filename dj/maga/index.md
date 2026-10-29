@@ -1,6 +1,6 @@
 # MAGA
 
-MAGA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 31 Oct 2026.
+MAGA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Lurin live, Peru on Sat, 31 Oct 2026.
 
 MAGA is a house and techno artist based in France, with 93 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 33 more. Often billed alongside Sean Doron, Emanuel Satie and Tim Engelhardt. Next up: TBA - Lurin live, Peru on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ MAGA is a house and techno artist based in France, with 93 gigs on soundcheck ac
 
 Sean Doron, Emanuel Satie, Tim Engelhardt
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*

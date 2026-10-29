@@ -1,8 +1,8 @@
 # ODF (1)
 
-ODF (1) is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mint XL, Leeds on Fri, 30 Oct 2026.
+ODF (1) is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mint XL, Leeds on Fri, 30 Oct 2026.
 
-ODF is a garage and house artist based in United Kingdom, with 66 gigs on soundcheck across Brighton, Brisbane, Bristol and Cork and 10 more. Often billed alongside Fiaa, Jackum and Just Jane. Next up: Mint XL, Leeds on Fri 30 Oct.
+ODF is a garage and house artist based in United Kingdom, with 67 gigs on soundcheck across Brighton, Brisbane, Bristol and Cork and 11 more. Often billed alongside Fiaa, Jackum and Just Jane. Next up: Mint XL, Leeds on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ ODF is a garage and house artist based in United Kingdom, with 66 gigs on soundc
 | Fri, 30 Oct 2026 | Mint XL | Leeds |
 | Fri, 6 Nov 2026 | Stealth | Nottingham |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ ODF is a garage and house artist based in United Kingdom, with 66 gigs on soundc
 
 Fiaa, Jackum, Just Jane
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*

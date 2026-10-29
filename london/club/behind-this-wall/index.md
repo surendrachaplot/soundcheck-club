@@ -1,6 +1,6 @@
 # Behind This Wall
 
-Behind This Wall is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Hours London: Will, sEmoa, Hish" on Fri, 13 Nov 2026.
+Behind This Wall is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Hours London: Will, sEmoa, Hish" on Fri, 13 Nov 2026.
 
 Behind This Wall is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Desuba, Hish and sEmoa. See dates, start times and who's playing. 411 Mare St, London E8 1HY, UK.
 
@@ -14,4 +14,4 @@ Behind This Wall is a music venue in London listed on soundcheck. 1 upcoming gig
 
 411 Mare St, London E8 1HY, UK, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/behind-this-wall/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/behind-this-wall/)*

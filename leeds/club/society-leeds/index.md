@@ -1,6 +1,6 @@
 # Society Leeds
 
-Society Leeds is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "NCTRN at Edit Leeds" on Sat, 5 Dec 2026.
+Society Leeds is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "NCTRN at Edit Leeds" on Sat, 5 Dec 2026.
 
 Society Leeds is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including LSGrooves. See dates, start times and who's playing. 14 Swinegate, Leeds. LS4 1AG.
 
@@ -14,4 +14,4 @@ Society Leeds is a music venue in Leeds listed on soundcheck. 1 upcoming gig, wi
 
 14 Swinegate, Leeds. LS4 1AG, Leeds
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/society-leeds/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/society-leeds/)*

@@ -1,6 +1,6 @@
 # Nat Salih
 
-Nat Salih is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Melbourne on Fri, 30 Oct 2026.
+Nat Salih is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Melbourne on Fri, 30 Oct 2026.
 
 Nat Salih is a tech house and techno artist based in Australia, with 49 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Miscmeg, Moopie and Sandpit Alias. Next up: TBA, Melbourne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nat Salih is a tech house and techno artist based in Australia, with 49 gigs on 
 
 Miscmeg, Moopie, Sandpit Alias (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natsalih/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natsalih/)*

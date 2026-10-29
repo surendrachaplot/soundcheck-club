@@ -1,6 +1,6 @@
 # DJ Haram
 
-DJ Haram is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 7 Nov 2026.
+DJ Haram is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 DJ Haram is a club and techno artist based in United States of America, with 64 gigs on soundcheck across Atlanta, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside 8ULENTINA, Nazar and Kode9. Next up: Underground SF, San Francisco/Oakland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Haram is a club and techno artist based in United States of America, with 64 
 
 8ULENTINA, Nazar, Kode9
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djharam/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djharam/)*

@@ -1,6 +1,6 @@
 # Remi Mazet
 
-Remi Mazet is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cellar, London on Fri, 6 Nov 2026.
+Remi Mazet is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cellar, London on Fri, 6 Nov 2026.
 
 Remi Mazet is a techno and electro artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Berlin, Leeds and Lisbon and 3 more. Often billed alongside Maybe Laura, Bobby. and Bas Ibellini. Next up: Cellar, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Remi Mazet is a techno and electro artist based in United Kingdom, with 24 gigs 
 
 Maybe Laura, Bobby., Bas Ibellini
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remimazet/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remimazet/)*

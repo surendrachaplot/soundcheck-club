@@ -1,6 +1,6 @@
 # NORA (BR)
 
-NORA (BR) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 30 Oct 2026.
+NORA (BR) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 30 Oct 2026.
 
 NORA (BR) is a techno and house artist, with 64 gigs on soundcheck across Amsterdam, Berlin, Brussels and Frankfurt and 7 more. Often billed alongside Cuca, KBRAL and Glau. Next up: Paavli Kultuurivabrik, Tallinn on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ NORA (BR) is a techno and house artist, with 64 gigs on soundcheck across Amster
 
 Cuca, KBRAL, Glau
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*

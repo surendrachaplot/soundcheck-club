@@ -1,6 +1,6 @@
 # DJ Music
 
-DJ Music is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Wanderlust, Paris on Sat, 31 Oct 2026.
+DJ Music is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Wanderlust, Paris on Sat, 31 Oct 2026.
 
 DJ Music is a club and techno artist based in France, with 8 gigs on soundcheck across Paris. Often billed alongside Golce, fetva and BENGALA. Next up: Wanderlust, Paris on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ DJ Music is a club and techno artist based in France, with 8 gigs on soundcheck 
 
 Golce, fetva, BENGALA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmusic/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmusic/)*

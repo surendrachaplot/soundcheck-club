@@ -1,6 +1,6 @@
 # Mati Amoretti
 
-Mati Amoretti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at OXI, Berlin on Sat, 28 Nov 2026.
+Mati Amoretti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OXI, Berlin on Sat, 28 Nov 2026.
 
 Mati Amoretti is a house and techno artist based in Argentina, with 28 gigs on soundcheck across Berlin and Madrid. Often billed alongside oulcan, Tom Pavicich and Nacho Carbajal. Next up: OXI, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mati Amoretti is a house and techno artist based in Argentina, with 28 gigs on s
 
 oulcan, Tom Pavicich, Nacho Carbajal
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matiamoretti/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matiamoretti/)*

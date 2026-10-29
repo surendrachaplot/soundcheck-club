@@ -1,6 +1,6 @@
 # Zebo
 
-Zebo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Decibel, Chicago on Sat, 31 Oct 2026.
+Zebo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Decibel, Chicago on Sat, 31 Oct 2026.
 
 Zebo is a house and deep house artist, with 9 gigs on soundcheck across Chicago. Often billed alongside Gene Hunt, Adorio and Glyde. Next up: Decibel, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Zebo is a house and deep house artist, with 9 gigs on soundcheck across Chicago.
 
 Gene Hunt, Adorio, Glyde
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zebo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zebo/)*

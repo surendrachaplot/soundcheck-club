@@ -1,6 +1,6 @@
 # DJ Baby Berlin
 
-DJ Baby Berlin is a New Wave and Post-Punk artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Neon Clown Dream Lounge, Philadelphia on Thu, 5 Nov 2026.
+DJ Baby Berlin is a New Wave and Post-Punk artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Neon Clown Dream Lounge, Philadelphia on Thu, 5 Nov 2026.
 
 DJ Baby Berlin is a new wave and post-punk artist based in United States of America, with 88 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Brad Scott, DJ Nightwitch and Mark Cage. Next up: Neon Clown Dream Lounge, Philadelphia on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ DJ Baby Berlin is a new wave and post-punk artist based in United States of Amer
 
 Brad Scott, DJ Nightwitch, Mark Cage
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*

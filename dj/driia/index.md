@@ -1,6 +1,6 @@
 # DRIIA
 
-DRIIA is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 20 Nov 2026.
+DRIIA is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 20 Nov 2026.
 
 DRIIA is a drum & bass and garage artist based in United Kingdom, with 49 gigs on soundcheck across Bristol, Cardiff, Ibiza and London and 5 more. Often billed alongside Silva Bumpa, SICARIA and Sully. Next up: Karmen Camina, Strasbourg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DRIIA is a drum & bass and garage artist based in United Kingdom, with 49 gigs o
 
 Silva Bumpa, SICARIA, Sully
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/driia/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/driia/)*

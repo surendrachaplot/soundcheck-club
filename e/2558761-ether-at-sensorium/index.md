@@ -1,6 +1,6 @@
 # ETHER at Sensorium
 
-ETHER at Sensorium on Fri 6 Nov, Berlin. 3 artists: Daviti, pink-panther and UniKhatu. Techno and Tech House. See the line-up on soundcheck.
+ETHER at Sensorium on Fri 6 Nov, Berlin. 2 artists: Daviti and pink-panther. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ ETHER at Sensorium on Fri 6 Nov, Berlin. 3 artists: Daviti, pink-panther and Uni
 
 - Daviti
 - pink-panther
-- UniKhatu
 
 *Source: [soundcheck](https://soundcheck.club/e/2558761-ether-at-sensorium/)*

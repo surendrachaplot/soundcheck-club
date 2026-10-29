@@ -1,6 +1,6 @@
 # Danger Danger
 
-Danger Danger is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Halloween Eve Rave & Pop-Up with Sounds So Sweet (rsvp)" on Fri, 30 Oct 2026.
+Danger Danger is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween Eve Rave & Pop-Up with Sounds So Sweet (rsvp)" on Fri, 30 Oct 2026.
 
 Danger Danger is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including Falan and Lucia Haze. See dates, start times and who's playing. 232 Knickerbocker Ave, New York, 11237.
 
@@ -16,4 +16,4 @@ Danger Danger is a music venue in New York City listed on soundcheck. 3 upcoming
 
 232 Knickerbocker Ave, New York, 11237, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/danger-danger/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/danger-danger/)*

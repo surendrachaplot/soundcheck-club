@@ -1,0 +1,28 @@
+# A. Brehme
+
+A. Brehme is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
+
+A. Brehme is a techno and house artist based in Belgium, with 41 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 5 more. Often billed alongside DJ Rino, Clara D and Sonhan. Next up: Golden Gate, Berlin on Fri 27 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 27 Nov 2026 | Golden Gate | Berlin |
+
+## Recently played
+
+- Fuse, Brussels · Sat, 17 Oct 2026
+- TBA - Secret Location, Malta · Sat, 11 Apr 2026
+- UMI, Brussels · Fri, 27 Mar 2026
+- Sint- Antonius Kerk Meulestede, Ghent · Sat, 21 Mar 2026
+- C12, Brussels · Sat, 7 Feb 2026
+- C12, Brussels · Thu, 1 Jan 2026
+- TRAUM, Antwerp · Wed, 31 Dec 2025
+- ASIAT Park, Brussels · Sat, 4 Oct 2025
+
+## Shares bills with
+
+DJ Rino, Clara D, Sonhan
+
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.brehme/)*

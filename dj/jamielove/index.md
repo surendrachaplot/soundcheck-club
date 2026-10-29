@@ -1,6 +1,6 @@
 # Jamie Love
 
-Jamie Love is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
+Jamie Love is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
 
 Jamie Love is a house and deep house artist based in United Kingdom, with 124 gigs on soundcheck across Ibiza, London and Los Angeles. Often billed alongside Parris Taylor, Perry Martin and Alex Mills. Next up: LDN East, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jamie Love is a house and deep house artist based in United Kingdom, with 124 gi
 
 Parris Taylor, Perry Martin, Alex Mills
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamielove/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamielove/)*

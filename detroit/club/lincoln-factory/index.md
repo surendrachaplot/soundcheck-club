@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Techno City - Devil's Night Edition" on Fri, 30 Oct 2026.
+Lincoln Factory is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Techno City - Devil's Night Edition" on Fri, 30 Oct 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including Ataxia, Blackmoonchild, Blake Baxter and Carl Craig and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -22,4 +22,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 9 upcoming gig
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

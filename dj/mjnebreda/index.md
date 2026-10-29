@@ -1,6 +1,6 @@
 # MJ Nebreda
 
-MJ Nebreda is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Elsewhere, New York City on Fri, 30 Oct 2026.
+MJ Nebreda is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Elsewhere, New York City on Fri, 30 Oct 2026.
 
 MJ Nebreda is a reggaeton and neo perreo artist, with 48 gigs on soundcheck across Austin, Barcelona, Bogotá and Brussels and 14 more. Often billed alongside Le Poodle, SATURNSARii and v1fro. Next up: Elsewhere, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MJ Nebreda is a reggaeton and neo perreo artist, with 48 gigs on soundcheck acro
 
 Le Poodle, SATURNSARii, v1fro
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mjnebreda/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mjnebreda/)*

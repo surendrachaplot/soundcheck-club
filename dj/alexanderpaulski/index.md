@@ -1,6 +1,6 @@
 # Alexander Paulski
 
-Alexander Paulski is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 19 Dec 2026.
+Alexander Paulski is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 19 Dec 2026.
 
 Alexander Paulski is a house and disco artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Rafa Paella, Eren and ALKARLINE. Next up: Promenaden Eck, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Alexander Paulski is a house and disco artist based in Germany, with 11 gigs on 
 
 Rafa Paella, Eren (2), ALKARLINE
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderpaulski/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderpaulski/)*

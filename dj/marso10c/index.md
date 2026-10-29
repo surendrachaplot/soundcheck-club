@@ -1,14 +1,15 @@
 # Mars O10C
 
-Mars O10C is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at essaim, Paris on Sat, 31 Oct 2026.
+Mars O10C is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at essaim, Paris on Sat, 31 Oct 2026.
 
-Mars O10C is a techno and progressive house artist based in France, with 55 gigs on soundcheck across Berlin, Brussels, Leipzig and London and 4 more. Often billed alongside Julie Desire, Jolly (FR) and A-440. Next up: essaim, Paris on Sat 31 Oct.
+Mars O10C is a techno and trance artist based in France, with 56 gigs on soundcheck across Berlin, Brussels, Leipzig and London and 5 more. Often billed alongside Julie Desire, Jolly (FR) and A-440. Next up: essaim, Paris on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | essaim | Paris |
+| Sat, 7 Nov 2026 | Unité.22 | Marseille |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mars O10C is a techno and progressive house artist based in France, with 55 gigs
 
 Julie Desire, Jolly (FR), A-440
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*

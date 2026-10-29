@@ -1,8 +1,8 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Sara Landry is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
-Sara Landry is a techno and house artist based in United States of America, with 222 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 73 more. Often billed alongside I Hate Models, Nico Moreno and 999999999. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
+Sara Landry is a techno and house artist based in United States of America, with 223 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 73 more. Often billed alongside I Hate Models, Nico Moreno and 999999999. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sara Landry is a techno and house artist based in United States of America, with
 | Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Sat, 14 Nov 2026 | Pier 48's Shed A | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Roadrunner | Boston |
 | Fri, 4 Dec 2026 | Pandora Sevilla | South |
 | Fri, 11 Dec 2026 | Bootshaus | Cologne |
@@ -33,4 +34,4 @@ Sara Landry is a techno and house artist based in United States of America, with
 
 I Hate Models, Nico Moreno, 999999999
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

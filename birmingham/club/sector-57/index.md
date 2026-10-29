@@ -1,6 +1,6 @@
 # Sector 57
 
-Sector 57 is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "NIGHTMARE IN BIRMINGHAM - Birmingham's Biggest HALLOWEEN Experience" on Sat, 31 Oct 2026.
+Sector 57 is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "NIGHTMARE IN BIRMINGHAM - Birmingham's Biggest HALLOWEEN Experience" on Sat, 31 Oct 2026.
 
 Sector 57 is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including ID, Jon E Cash and Sweets. See dates, start times and who's playing. 21 Milk St, Deritend, Birmingham B5 5TR.
 
@@ -15,4 +15,4 @@ Sector 57 is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, 
 
 21 Milk St, Deritend, Birmingham B5 5TR, Birmingham
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/sector-57/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/sector-57/)*

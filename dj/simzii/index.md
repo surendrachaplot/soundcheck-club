@@ -1,6 +1,6 @@
 # Simzii
 
-Simzii is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
+Simzii is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
 
 Simzii is a techno and club artist based in Palestine, with 8 gigs on soundcheck across Berlin and New York City. Often billed alongside WTCHCRFT, Caín Lima and 8ULENTINA. Next up: Market Hotel, New York City on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Simzii is a techno and club artist based in Palestine, with 8 gigs on soundcheck
 
 WTCHCRFT, Caín Lima, 8ULENTINA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simzii/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simzii/)*

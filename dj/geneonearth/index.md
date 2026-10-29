@@ -1,6 +1,6 @@
 # Gene On Earth
 
-Gene On Earth is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Balagan Roma, Rome on Fri, 30 Oct 2026.
+Gene On Earth is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Balagan Roma, Rome on Fri, 30 Oct 2026.
 
 Gene On Earth is a house and techno artist based in United States of America, with 225 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 63 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Balagan Roma, Rome on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Gene On Earth is a house and techno artist based in United States of America, wi
 
 The Ghost, Dyed Soundorom, tINI
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

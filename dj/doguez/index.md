@@ -1,6 +1,6 @@
 # Doguez
 
-Doguez is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at D-Edge RIO, Rio de Janeiro on Sat, 31 Oct 2026.
+Doguez is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at D-Edge RIO, Rio de Janeiro on Sat, 31 Oct 2026.
 
 Doguez is a techno and progressive house artist based in Brazil, with 20 gigs on soundcheck across Amsterdam, Barcelona, Malaga and Rio de Janeiro and 1 more. Often billed alongside ELEVIN, All Of Me and PACS. Next up: D-Edge RIO, Rio de Janeiro on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Doguez is a techno and progressive house artist based in Brazil, with 20 gigs on
 
 ELEVIN, All Of Me, PACS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doguez/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doguez/)*

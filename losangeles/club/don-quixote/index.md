@@ -1,6 +1,6 @@
 # Don Quixote
 
-Don Quixote is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "I Know What You Did Last Halloween" on Sat, 31 Oct 2026.
+Don Quixote is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "I Know What You Did Last Halloween" on Sat, 31 Oct 2026.
 
 Don Quixote is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Baby J, Cquestt, Machinedrum and Nanoos and 2 more. See dates, start times and who's playing. 2811 E Olympic Blvd, Los Angeles, CA 90023.
 
@@ -18,4 +18,4 @@ Don Quixote is a music venue in Los Angeles listed on soundcheck. 5 upcoming gig
 
 2811 E Olympic Blvd, Los Angeles, CA 90023, Los Angeles
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/don-quixote/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/don-quixote/)*

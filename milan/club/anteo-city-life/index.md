@@ -1,6 +1,6 @@
 # Anteo City Life
 
-Anteo City Life is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Karmadrome: Trainspotting Party" on Fri, 13 Nov 2026.
+Anteo City Life is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Karmadrome: Trainspotting Party" on Fri, 13 Nov 2026.
 
 Anteo City Life is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Anteo City Life is a music venue in Milan listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Karmadrome: Trainspotting Party |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/anteo-city-life/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/anteo-city-life/)*

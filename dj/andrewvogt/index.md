@@ -1,6 +1,6 @@
 # Andrew Vogt
 
-Andrew Vogt is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Sat, 31 Oct 2026.
+Andrew Vogt is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Sat, 31 Oct 2026.
 
 Andrew Vogt is a house and progressive house artist, with 7 gigs on soundcheck across Amsterdam and New York City. Often billed alongside Saqib, Sven Jaeger and Ayomayo. Next up: Duke Of Tokyo, Amsterdam on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Andrew Vogt is a house and progressive house artist, with 7 gigs on soundcheck a
 
 Saqib, Sven Jaeger, Ayomayo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewvogt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewvogt/)*

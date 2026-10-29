@@ -1,6 +1,6 @@
 # DJ Sense
 
-DJ Sense is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 31 Oct 2026.
+DJ Sense is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 31 Oct 2026.
 
 DJ Sense is a techno and trance artist based in Georgia, with 99 gigs on soundcheck across Barcelona, Berlin, Budapest and Copenhagen and 4 more. Often billed alongside Seqta, Generali Minerali and Ottonian. Next up: Mtkvarze, Tbilisi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Sense is a techno and trance artist based in Georgia, with 99 gigs on soundch
 
 Seqta, Generali Minerali, Ottonian
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsense/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsense/)*

@@ -1,6 +1,6 @@
 # Acidpimp
 
-Acidpimp is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Spkrbox, Detroit on Fri, 30 Oct 2026.
+Acidpimp is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Spkrbox, Detroit on Fri, 30 Oct 2026.
 
 Acidpimp is a techno and acid artist, with 8 gigs on soundcheck across Atlanta and Detroit. Often billed alongside Augustus Williams, Viswar and Project 313. Next up: Spkrbox, Detroit on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Acidpimp is a techno and acid artist, with 8 gigs on soundcheck across Atlanta a
 
 Augustus Williams, Viswar, Project 313
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpimp/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpimp/)*

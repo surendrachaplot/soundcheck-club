@@ -1,6 +1,6 @@
 # Daniel Power
 
-Daniel Power is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Reactor Shanghai, Shanghai on Sat, 31 Oct 2026.
+Daniel Power is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Reactor Shanghai, Shanghai on Sat, 31 Oct 2026.
 
 Daniel Power is a drum & bass and bass artist, with 20 gigs on soundcheck across Beijing, Hong Kong, Shanghai and Shenzhen. Often billed alongside Immuno, Foambb and Just Bee. Next up: Reactor Shanghai, Shanghai on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Daniel Power is a drum & bass and bass artist, with 20 gigs on soundcheck across
 
 Immuno, Foambb, Just Bee
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpower/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpower/)*

@@ -1,6 +1,6 @@
 # Axciid
 
-Axciid is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Dual, Bangkok on Sat, 7 Nov 2026.
+Axciid is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Dual, Bangkok on Sat, 7 Nov 2026.
 
 Axciid is a techno and industrial artist based in Germany, with 35 gigs on soundcheck across Bangkok, Berlin, Budapest and Copenhagen and 5 more. Often billed alongside Pomah, Karashò and Nothing Left. Next up: Dual, Bangkok on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Axciid is a techno and industrial artist based in Germany, with 35 gigs on sound
 
 Pomah, Karashò, Nothing Left
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axciid/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axciid/)*

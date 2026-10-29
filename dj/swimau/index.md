@@ -1,6 +1,6 @@
 # SWIM (AU)
 
-SWIM (AU) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hackney Church, London on Sat, 21 Nov 2026.
+SWIM (AU) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hackney Church, London on Sat, 21 Nov 2026.
 
 SWIM (AU) is a house and techno artist based in Australia, with 59 gigs on soundcheck across Adelaide, Amsterdam, Belfast and Berlin and 24 more. Often billed alongside CRUSH3d, DJ Heartstring and BELLA (NL). Next up: Hackney Church, London on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ SWIM (AU) is a house and techno artist based in Australia, with 59 gigs on sound
 
 CRUSH3d, DJ Heartstring, BELLA (NL)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swimau/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swimau/)*

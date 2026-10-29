@@ -1,6 +1,6 @@
 # Amber's
 
-Amber's is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Demi Riquísimo & Grace Sands at Amber's " on Thu, 29 Oct 2026.
+Amber's is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Demi Riquísimo & Grace Sands at Amber's " on Thu, 29 Oct 2026.
 
 Amber's is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Addison Groove, DAIZ, Demi Riquisimo and Denham Audio and 2 more. See dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
 
@@ -17,4 +17,4 @@ Amber's is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, wi
 
 1 Circle Square, 3 Symphony Park, Manchester M17FS, Manchester
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*

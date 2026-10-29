@@ -1,6 +1,6 @@
 # FLORA (fr)
 
-FLORA (fr) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Macadam, Nantes on Sun, 6 Dec 2026.
+FLORA (fr) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Macadam, Nantes on Sun, 6 Dec 2026.
 
 FLORA (fr) is a techno and trance artist, with 8 gigs on soundcheck across Bordeaux, Nantes and Paris. Often billed alongside Bambi (FR), Akira Yamagata and Binome. Next up: Macadam, Nantes on Sun 6 Dec.
 
@@ -24,4 +24,4 @@ FLORA (fr) is a techno and trance artist, with 8 gigs on soundcheck across Borde
 
 Bambi (FR), Akira Yamagata, Binome
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flora-fr/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flora-fr/)*

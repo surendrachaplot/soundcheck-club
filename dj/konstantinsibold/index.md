@@ -1,6 +1,6 @@
 # Konstantin Sibold
 
-Konstantin Sibold is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Antwerp Expo, Antwerp on Fri, 6 Nov 2026.
+Konstantin Sibold is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Antwerp Expo, Antwerp on Fri, 6 Nov 2026.
 
 Konstantin Sibold is a techno and house artist based in Germany, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Kevin de Vries, Bart Skils and Adam Beyer. Next up: Antwerp Expo, Antwerp on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Konstantin Sibold is a techno and house artist based in Germany, with 131 gigs o
 
 Kevin de Vries, Bart Skils, Adam Beyer
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantinsibold/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantinsibold/)*

@@ -1,8 +1,8 @@
 # Schwefelgelb
 
-Schwefelgelb is a Techno and EBM artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Abyss Shanghai, Shanghai on Fri, 30 Oct 2026.
+Schwefelgelb is a Techno and EBM artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Abyss Shanghai, Shanghai on Fri, 30 Oct 2026.
 
-Schwefelgelb is a techno and ebm artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 33 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: Abyss Shanghai, Shanghai on Fri 30 Oct.
+Schwefelgelb is a techno and ebm artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: Abyss Shanghai, Shanghai on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Schwefelgelb is a techno and ebm artist based in Germany, with 77 gigs on soundc
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Abyss Shanghai | Shanghai |
 | Fri, 6 Nov 2026 | Elastica | Vilnius |
+| Sat, 7 Nov 2026 | Daina / Kaunas | Lithuania |
 | Mon, 9 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 13 Nov 2026 | BASEMENT | New York City |
 | Sat, 19 Dec 2026 | Le Trabendo | Paris |
@@ -29,4 +30,4 @@ Schwefelgelb is a techno and ebm artist based in Germany, with 77 gigs on soundc
 
 Ancient Methods, OTHR, Parrish Smith
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*

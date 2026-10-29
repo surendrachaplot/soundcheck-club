@@ -1,6 +1,6 @@
 # Black Circle
 
-Black Circle is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kowalski, Stuttgart on Sat, 21 Nov 2026.
+Black Circle is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kowalski, Stuttgart on Sat, 21 Nov 2026.
 
 Black Circle is a house and tech house artist based in Switzerland, with 30 gigs on soundcheck across Chicago, Frankfurt, Ibiza and Istanbul and 13 more. Often billed alongside 1TWO, Airrica and Avangart Tabldot. Next up: Kowalski, Stuttgart on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Black Circle is a house and tech house artist based in Switzerland, with 30 gigs
 
 1TWO, Airrica, Avangart Tabldot
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcircle/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcircle/)*

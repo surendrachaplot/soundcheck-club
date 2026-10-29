@@ -1,6 +1,6 @@
 # domi d.
 
-domi d. is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Czuła Jest noc, Wroclaw on Sat, 31 Oct 2026.
+domi d. is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Czuła Jest noc, Wroclaw on Sat, 31 Oct 2026.
 
 domi d. is a club and electronica artist based in Poland, with 17 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside anymati, dj neurospicy and KAROLINDA. Next up: Czuła Jest noc, Wroclaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ domi d. is a club and electronica artist based in Poland, with 17 gigs on soundc
 
 anymati, dj neurospicy, KAROLINDA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domid-pl/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domid-pl/)*

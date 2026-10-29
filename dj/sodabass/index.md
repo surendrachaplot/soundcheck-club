@@ -1,6 +1,6 @@
 # Sodabass
 
-Sodabass is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
+Sodabass is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
 
 Sodabass is a trance and techno artist based in Germany, with 4 gigs on soundcheck across Berlin, Dresden and Erfurt. Often billed alongside 3LEEZA, BENITO (DE) and DJ Achim Feuervogel. Next up: Kalif Storch, Erfurt on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Sodabass is a trance and techno artist based in Germany, with 4 gigs on soundche
 
 3LEEZA, BENITO (DE), DJ Achim Feuervogel
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sodabass/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sodabass/)*

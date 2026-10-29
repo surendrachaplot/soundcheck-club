@@ -1,6 +1,6 @@
 # TroyBoi
 
-TroyBoi is a Bass and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+TroyBoi is a Bass and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 TroyBoi is a bass and dubstep artist based in United Kingdom, with 31 gigs on soundcheck across Austin, Calgary, California and Chicago and 15 more. Often billed alongside Matroda, Alesso and Deorro. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ TroyBoi is a bass and dubstep artist based in United Kingdom, with 31 gigs on so
 
 Matroda, Alesso, Deorro
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*

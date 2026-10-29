@@ -1,6 +1,6 @@
 # Sam Ritter
 
-Sam Ritter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at 23 Music Room, Taipei on Sat, 7 Nov 2026.
+Sam Ritter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at 23 Music Room, Taipei on Sat, 7 Nov 2026.
 
 Sam Ritter is a techno and house artist, with 94 gigs on soundcheck across Melbourne, Sydney and Taipei. Often billed alongside GIORGIO (IT), Raina and CHIEN. Next up: 23 Music Room, Taipei on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sam Ritter is a techno and house artist, with 94 gigs on soundcheck across Melbo
 
 GIORGIO (IT), Raina, CHIEN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samritter/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samritter/)*

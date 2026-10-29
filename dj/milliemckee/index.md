@@ -1,6 +1,6 @@
 # Millie McKee
 
-Millie McKee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at NT's Loft, London on Sat, 23 Jan 2027.
+Millie McKee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at NT's Loft, London on Sat, 23 Jan 2027.
 
 Millie McKee is a house and techno artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Kyle Toole, DAR DISKU and Harri Pepper. Next up: NT's Loft, London on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Millie McKee is a house and techno artist based in United Kingdom, with 71 gigs 
 
 Kyle Toole, DAR DISKU, Harri Pepper
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*

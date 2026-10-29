@@ -1,8 +1,8 @@
 # Andhim
 
-Andhim is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
+Andhim is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
 
-Andhim is a house and techno artist based in Germany, with 129 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Rafael Da Cruz, Claptone and HOSH. Next up: Industry City, New York City on Fri 30 Oct.
+Andhim is a house and techno artist based in Germany, with 130 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Rafael Da Cruz, Claptone and HOSH. Next up: Industry City, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Andhim is a house and techno artist based in Germany, with 129 gigs on soundchec
 | Fri, 30 Oct 2026 | Industry City | New York City |
 | Fri, 20 Nov 2026 | UNLOCKED | London |
 | Sat, 21 Nov 2026 | WestWeelde | Amsterdam |
+| Sat, 28 Nov 2026 | Lux Fragil | Lisbon |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Andhim is a house and techno artist based in Germany, with 129 gigs on soundchec
 
 Rafael Da Cruz, Claptone, HOSH
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*

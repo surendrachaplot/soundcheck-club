@@ -1,6 +1,6 @@
 # artilerie
 
-artilerie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 13 Nov 2026.
+artilerie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 13 Nov 2026.
 
 artilerie is a techno and club artist based in Czech Republic, with 15 gigs on soundcheck across Prague and Warsaw. Often billed alongside 3ever, Nina Farrina and DDK. Next up: Ankali & Planeta Za, Prague on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ artilerie is a techno and club artist based in Czech Republic, with 15 gigs on s
 
 3ever, Nina Farrina, DDK (1)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artilerie/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artilerie/)*

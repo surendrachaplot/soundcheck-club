@@ -1,6 +1,6 @@
 # FREAKENSTEIN
 
-FREAKENSTEIN is a Electro and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Peckham Rye Park, London on Fri, 28 May 2027.
+FREAKENSTEIN is a Electro and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Peckham Rye Park, London on Fri, 28 May 2027.
 
 FREAKENSTEIN is an electro and balearic artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Bristol, Ibiza and Leeds and 4 more. Often billed alongside Egyptian Lover, Anna Wall and Anthea. Next up: Peckham Rye Park, London on Fri 28 May.
 
@@ -25,4 +25,4 @@ FREAKENSTEIN is an electro and balearic artist based in United Kingdom, with 29 
 
 Egyptian Lover, Anna Wall, Anthea
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freakenstein/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freakenstein/)*

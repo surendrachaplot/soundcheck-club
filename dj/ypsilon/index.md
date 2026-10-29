@@ -1,6 +1,6 @@
 # Ypsilon
 
-Ypsilon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Ypsilon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 Ypsilon is a techno and house artist based in Switzerland, with 2 gigs on soundcheck across Cologne and Hamburg. Often billed alongside AGILY, Antoine Baiser and Artemis. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -15,4 +15,4 @@ Ypsilon is a techno and house artist based in Switzerland, with 2 gigs on soundc
 
 AGILY, Antoine Baiser, Artemis
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ypsilon/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ypsilon/)*

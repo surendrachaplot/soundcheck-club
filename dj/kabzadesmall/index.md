@@ -1,6 +1,6 @@
 # Kabza De Small
 
-Kabza De Small is a Amapiano and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at MASSHOUSE, Nairobi on Sat, 5 Dec 2026.
+Kabza De Small is a Amapiano and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at MASSHOUSE, Nairobi on Sat, 5 Dec 2026.
 
 Kabza De Small is an amapiano and afro house artist, with 12 gigs on soundcheck across Amsterdam, Cape Town, Ibiza and London and 3 more. Often billed alongside Dj Maphorisa, Atmos Blaq and Groove. Next up: MASSHOUSE, Nairobi on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Kabza De Small is an amapiano and afro house artist, with 12 gigs on soundcheck 
 
 Dj Maphorisa, Atmos Blaq, Groove
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabzadesmall/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabzadesmall/)*

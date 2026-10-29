@@ -1,6 +1,6 @@
 # The Jam Jar
 
-The Jam Jar is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Ikonika (All Night Long)" on Thu, 29 Oct 2026.
+The Jam Jar is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Ikonika (All Night Long)" on Thu, 29 Oct 2026.
 
 The Jam Jar is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including 2 Bad Mice, Abby Daze, Cal Jader and Charlie Stoic and 2 more. See dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
 
@@ -18,4 +18,4 @@ The Jam Jar is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, w
 
 Little Ann St, Bristol BS2 9EB, United Kingdom, Bristol
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*

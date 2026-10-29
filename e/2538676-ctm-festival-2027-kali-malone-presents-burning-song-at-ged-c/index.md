@@ -1,6 +1,6 @@
 # CTM Festival 2027: Kali Malone presents »Burning Song« at Gedächtniskirche
 
-CTM Festival 2027: Kali Malone presents »Burning Song« at Gedächtniskirche on Tue 26 Jan, Berlin. 2 artists: Kali Malone and Stephen O'Malley. See the line-up on soundcheck.
+CTM Festival 2027: Kali Malone presents »Burning Song« at Gedächtniskirche on Tue 26 Jan, Berlin. 2 artists: Kali Malone and Stephen O'Malley. Minimal and Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

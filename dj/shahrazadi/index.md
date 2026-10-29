@@ -1,8 +1,8 @@
 # Shahrazadi
 
-Shahrazadi is a Baile Funk and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 3 Nov 2026.
+Shahrazadi is a Baile Funk and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 3 Nov 2026.
 
-Shahrazadi is a baile funk and dub artist based in Lebanon, with 11 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Telfort, damside and 3MR.. Next up: People's Leisure Club, Edinburgh on Tue 3 Nov.
+Shahrazadi is a baile funk and funk / soul artist based in Lebanon, with 11 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Telfort, damside and 3MR.. Next up: People's Leisure Club, Edinburgh on Tue 3 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Shahrazadi is a baile funk and dub artist based in Lebanon, with 11 gigs on soun
 
 Telfort, damside, 3MR.
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shahrazadi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shahrazadi/)*

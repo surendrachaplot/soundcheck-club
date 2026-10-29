@@ -1,6 +1,6 @@
 # Xen Model
 
-Xen Model is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - TLA, Los Angeles on Thu, 29 Oct 2026.
+Xen Model is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - TLA, Los Angeles on Thu, 29 Oct 2026.
 
 Xen Model is an experimental and techno artist based in United States of America, with 17 gigs on soundcheck across Berlin, London and Los Angeles. Often billed alongside Ice Wall, Danny Goliger and Jane Margarette. Next up: TBA - TLA, Los Angeles on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Xen Model is an experimental and techno artist based in United States of America
 
 Ice Wall, Danny Goliger, Jane Margarette
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xenmodel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xenmodel/)*

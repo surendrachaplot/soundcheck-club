@@ -1,8 +1,8 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks)" on Sun, 1 Nov 2026.
+Razzmatazz is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks)" on Sun, 1 Nov 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including adobeprincess, Alex Wilcox, Alvaro Medina and Andrae Durden and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including adobeprincess, Alex Wilcox, Alvaro Medina and Andrae Durden and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs,
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

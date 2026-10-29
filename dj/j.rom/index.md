@@ -1,6 +1,6 @@
 # J.Rom
 
-J.Rom is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Système, Montreal on Fri, 13 Nov 2026.
+J.Rom is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Système, Montreal on Fri, 13 Nov 2026.
 
 J.Rom is a techno and electro artist, with 11 gigs on soundcheck across Chengdu, Chongqing, Montreal and Quebec City. Often billed alongside Asha, AṢKIM and Badgalquirit. Next up: Système, Montreal on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ J.Rom is a techno and electro artist, with 11 gigs on soundcheck across Chengdu,
 
 Asha (4), AṢKIM, Badgalquirit
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.rom/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.rom/)*

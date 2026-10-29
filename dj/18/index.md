@@ -1,6 +1,6 @@
 # 18+
 
-18+ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SPACEROOM - 2 Nikoloz Baratashvili St, Tbilisi, Georgia, Tbilisi on Fri, 20 Nov 2026.
+18+ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SPACEROOM - 2 Nikoloz Baratashvili St, Tbilisi, Georgia, Tbilisi on Fri, 20 Nov 2026.
 
 18+ is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Berlin, Boston, Brighton and Bristol and 15 more. Often billed alongside PM, 600 mojo and A K. Next up: TBA - SPACEROOM - 2 Nikoloz Baratashvili St, Tbilisi, Georgia, Tbilisi on Fri 20 Nov.
 
@@ -25,4 +25,4 @@
 
 PM, 600 mojo, A K
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/18/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/18/)*

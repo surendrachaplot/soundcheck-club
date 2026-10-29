@@ -1,6 +1,6 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "BORIS CLUB" on Fri, 30 Oct 2026.
+BORIS CLUB is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BORIS CLUB" on Fri, 30 Oct 2026.
 
 BORIS CLUB is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including BizZa, HeAndMe, Jordi Carreras and K:ROL and 2 more. See dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
@@ -23,4 +23,4 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 
 Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2], Barcelona
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*

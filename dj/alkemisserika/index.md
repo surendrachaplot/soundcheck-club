@@ -1,8 +1,8 @@
 # Alkemiss Erika
 
-Alkemiss Erika is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 29 Oct 2026.
+Alkemiss Erika is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 29 Oct 2026.
 
-Alkemiss Erika is a deep house and house artist based in United States of America, with 38 gigs on soundcheck across Miami and San Francisco/Oakland. Often billed alongside Joseph Lee, IZIK and Reza Tabrizi. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 29 Oct.
+Alkemiss Erika is a deep house and house artist based in United States of America, with 38 gigs on soundcheck across Miami and San Francisco/Oakland. Often billed alongside Joseph Lee, Reza Tabrizi and IZIK. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Alkemiss Erika is a deep house and house artist based in United States of Americ
 
 ## Shares bills with
 
-Joseph Lee, IZIK, Reza Tabrizi
+Joseph Lee, Reza Tabrizi, IZIK
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alkemisserika/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alkemisserika/)*

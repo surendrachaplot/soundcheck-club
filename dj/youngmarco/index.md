@@ -1,8 +1,8 @@
 # Young Marco
 
-Young Marco is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at La Brisa, Bali on Sat, 31 Oct 2026.
+Young Marco is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at La Brisa, Bali on Sat, 31 Oct 2026.
 
-Young Marco is a house and techno artist based in Netherlands, with 237 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 73 more. Often billed alongside Job Jobse, DJ Gigola and Narciss. Next up: La Brisa, Bali on Sat 31 Oct.
+Young Marco is a house and techno artist based in Netherlands, with 238 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 74 more. Often billed alongside Job Jobse, DJ Gigola and Narciss. Next up: La Brisa, Bali on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Young Marco is a house and techno artist based in Netherlands, with 237 gigs on 
 | Sat, 21 Nov 2026 | Motel Campo | Geneva |
 | Fri, 4 Dec 2026 | FVTVR | Paris |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Young Marco is a house and techno artist based in Netherlands, with 237 gigs on 
 
 Job Jobse, DJ Gigola, Narciss
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*

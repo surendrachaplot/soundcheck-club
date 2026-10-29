@@ -1,10 +1,10 @@
 # Global pops party 'Die a little bit' at Live Haus
 
-Global pops party 'Die a little bit' at Live Haus on Fri 13 Nov, Tokyo. 1 artist: TAISHI IWAMI. Pop. See the line-up on soundcheck.
+Global pops party 'Die a little bit' at Live Haus on Sat 14 Nov, Tokyo. 1 artist: TAISHI IWAMI. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 13 Nov 2026 |
+| Date | Sat, 14 Nov 2026 |
 | Venue | Live Haus |
 | City | Tokyo |
 

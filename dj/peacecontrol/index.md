@@ -1,6 +1,6 @@
 # Peace Control
 
-Peace Control is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Dojo Boutique Club, Budapest on Sat, 14 Nov 2026.
+Peace Control is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Dojo Boutique Club, Budapest on Sat, 14 Nov 2026.
 
 Peace Control is a house and afro house artist based in United States of America, with 55 gigs on soundcheck across Amsterdam, Austin, Budapest and Buenos Aires and 21 more. Often billed alongside Francis Mercier, Marten Lou and Bontan. Next up: Dojo Boutique Club, Budapest on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Peace Control is a house and afro house artist based in United States of America
 
 Francis Mercier, Marten Lou, Bontan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacecontrol/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacecontrol/)*

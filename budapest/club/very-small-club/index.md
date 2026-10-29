@@ -1,6 +1,6 @@
 # Very Small Club
 
-Very Small Club is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Krudy C / Roland Handrick" on Thu, 29 Oct 2026.
+Very Small Club is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Krudy C / Roland Handrick" on Thu, 29 Oct 2026.
 
 Very Small Club is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including Electric Boutique, Krudy C, Lost in Details and Nyxa and 2 more. See dates, start times and who's playing. Dohány u. 28, 1074.
 
@@ -16,4 +16,4 @@ Very Small Club is a music venue in Budapest listed on soundcheck. 3 upcoming gi
 
 Dohány u. 28, 1074, Budapest
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/very-small-club/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/very-small-club/)*

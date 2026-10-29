@@ -1,6 +1,6 @@
 # Van Der (PT)
 
-Van Der (PT) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
+Van Der (PT) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
 
 Van Der (PT) is a techno and experimental artist based in Portugal, with 39 gigs on soundcheck across Lisbon. Often billed alongside Carolf, Dexter Lux and Dj Lynce. Next up: Arroz Estúdios, Lisbon on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Van Der (PT) is a techno and experimental artist based in Portugal, with 39 gigs
 
 Carolf, Dexter Lux, Dj Lynce
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vander-pt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vander-pt/)*

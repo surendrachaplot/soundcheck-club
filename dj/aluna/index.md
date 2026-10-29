@@ -1,6 +1,6 @@
 # Aluna
 
-Aluna is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 14 Nov 2026.
+Aluna is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Aluna is a house and techno artist based in United Kingdom, with 60 gigs on soundcheck across Austin, Barcelona, Bristol and Calgary and 21 more. Often billed alongside Coco & Breezy, RaeCola and Grimes. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Aluna is a house and techno artist based in United Kingdom, with 60 gigs on soun
 
 Coco & Breezy, RaeCola, Grimes
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aluna/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aluna/)*

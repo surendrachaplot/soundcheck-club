@@ -1,8 +1,8 @@
 # Britta Arnold
 
-Britta Arnold is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
+Britta Arnold is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
 
-Britta Arnold is a techno and house artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Mira, Chris Schwarzwälder and Franca. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
+Britta Arnold is a house and techno artist based in Germany, with 136 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Mira, Chris Schwarzwälder and Franca. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Britta Arnold is a techno and house artist based in Germany, with 135 gigs on so
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Ehemaliges Hauptzollamt | Hamburg |
 | Sat, 28 Nov 2026 | Hangaren | Copenhagen |
+| Fri, 22 Jan 2027 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Britta Arnold is a techno and house artist based in Germany, with 135 gigs on so
 
 Mira, Chris Schwarzwälder, Franca
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brittaarnold/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brittaarnold/)*

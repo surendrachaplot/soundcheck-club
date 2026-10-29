@@ -1,6 +1,6 @@
 # Pablo Pegar
 
-Pablo Pegar is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 21 Nov 2026.
+Pablo Pegar is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Sat, 21 Nov 2026.
 
 Pablo Pegar is a progressive house and tech house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside Callecat, Gustin and Around Us. Next up: Kaap Amsterdam, Amsterdam on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Pablo Pegar is a progressive house and tech house artist based in Netherlands, w
 
 Callecat, Gustin, Around Us
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablopegar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablopegar/)*

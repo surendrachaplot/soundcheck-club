@@ -1,6 +1,6 @@
 # Ben Kamal
 
-Ben Kamal is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at S'base Fitrzroy, Melbourne on Sat, 7 Nov 2026.
+Ben Kamal is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at S'base Fitrzroy, Melbourne on Sat, 7 Nov 2026.
 
 Ben Kamal is a house and techno artist based in Belgium, with 56 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brisbane and 10 more. Often billed alongside Lola Haro, Dana Kuehr and Walrus. Next up: S'base Fitrzroy, Melbourne on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Ben Kamal is a house and techno artist based in Belgium, with 56 gigs on soundch
 
 Lola Haro, Dana Kuehr, Walrus
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benkamal/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benkamal/)*

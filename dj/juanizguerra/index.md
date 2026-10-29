@@ -1,6 +1,6 @@
 # Juan Izguerra
 
-Juan Izguerra is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Under Bron, Stockholm on Sat, 21 Nov 2026.
+Juan Izguerra is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Under Bron, Stockholm on Sat, 21 Nov 2026.
 
 Juan Izguerra is a house and downtempo artist based in United States of America, with 43 gigs on soundcheck across Chicago, London, Los Angeles and Melbourne and 10 more. Often billed alongside Bianca Lexis, Soos and Adam Pits. Next up: Under Bron, Stockholm on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Juan Izguerra is a house and downtempo artist based in United States of America,
 
 Bianca Lexis, Soos, Adam Pits
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanizguerra/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanizguerra/)*

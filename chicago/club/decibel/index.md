@@ -1,6 +1,6 @@
 # Decibel
 
-Decibel is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Dark Frequency - Halloween Eve" on Fri, 30 Oct 2026.
+Decibel is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Dark Frequency - Halloween Eve" on Fri, 30 Oct 2026.
 
 Decibel is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with line-ups including Flores Negras, Harry Brenn, iamBrandon and Ilana Ariella and 2 more. See dates, start times and who's playing. 954 W Belmont Ave, Chicago, IL 60657.
 
@@ -17,4 +17,4 @@ Decibel is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with 
 
 954 W Belmont Ave, Chicago, IL 60657, Chicago
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/decibel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/decibel/)*

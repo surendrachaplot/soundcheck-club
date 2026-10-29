@@ -1,6 +1,6 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "PW Club Season • Cap, DJ Masda" on Fri, 30 Oct 2026.
+Platforma Wolff is a music venue in Bucharest with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "PW Club Season • Cap, DJ Masda" on Fri, 30 Oct 2026.
 
 Platforma Wolff is a music venue in Bucharest listed on soundcheck. 6 upcoming gigs, with line-ups including Asa Tate, Barbu, Cap and Cosmin TRG and 2 more. See dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
@@ -19,4 +19,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 6 upcoming g
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

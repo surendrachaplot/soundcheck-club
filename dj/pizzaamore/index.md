@@ -1,6 +1,6 @@
 # Pizza Amore
 
-Pizza Amore is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
+Pizza Amore is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
 
 Pizza Amore is a house and techno artist based in Hungary, with 36 gigs on soundcheck across Budapest. Often billed alongside Switch Nollie, Meduzah and SLYM. Next up: Atno, Budapest on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Pizza Amore is a house and techno artist based in Hungary, with 36 gigs on sound
 
 Switch Nollie, Meduzah, SLYM
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzaamore/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzaamore/)*

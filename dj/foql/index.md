@@ -1,6 +1,6 @@
 # FOQL
 
-FOQL is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Fort Sokolnickiego, Czarnieckiego 51, Warsaw on Fri, 30 Oct 2026.
+FOQL is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Fort Sokolnickiego, Czarnieckiego 51, Warsaw on Fri, 30 Oct 2026.
 
 FOQL is an experimental and electronica artist, with 7 gigs on soundcheck across London, Manchester, Poznan and Warsaw. Often billed alongside Abdullah Miniawy, Authentically Plastic and Brussi. Next up: TBA - Fort Sokolnickiego, Czarnieckiego 51, Warsaw on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ FOQL is an experimental and electronica artist, with 7 gigs on soundcheck across
 
 Abdullah Miniawy, Authentically Plastic, Brussi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foql/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foql/)*

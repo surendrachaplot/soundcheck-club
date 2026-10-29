@@ -1,6 +1,6 @@
 # OLIIV
 
-OLIIV is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sydney Portugal Community Club, Sydney on Sat, 31 Oct 2026.
+OLIIV is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sydney Portugal Community Club, Sydney on Sat, 31 Oct 2026.
 
 OLIIV is a house and techno artist based in Australia, with 49 gigs on soundcheck across Byron Bay, Melbourne, Sydney and Utrecht. Often billed alongside Samantha Loveridge, Ben Nott and Cassian. Next up: Sydney Portugal Community Club, Sydney on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ OLIIV is a house and techno artist based in Australia, with 49 gigs on soundchec
 
 Samantha Loveridge, Ben Nott, Cassian
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliiv/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliiv/)*

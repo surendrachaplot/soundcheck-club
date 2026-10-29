@@ -1,6 +1,6 @@
 # KABOCANA
 
-KABOCANA is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Bag Factory, Manchester on Fri, 6 Nov 2026.
+KABOCANA is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Bag Factory, Manchester on Fri, 6 Nov 2026.
 
 KABOCANA is a garage and bass artist based in United Kingdom, with 15 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside FXCKBOUT, BUTCHABOI and D-LIA. Next up: The Bag Factory, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ KABOCANA is a garage and bass artist based in United Kingdom, with 15 gigs on so
 
 FXCKBOUT, BUTCHABOI, D-LIA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabocana/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabocana/)*

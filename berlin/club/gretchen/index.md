@@ -1,14 +1,13 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 31 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "15 Years Gretchen: MOCKY - LA meets BERLIN JAM with MEGIAPA *live" on Wed, 28 Oct 2026.
+Gretchen is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "15 Years Gretchen: MYLES SANKO *live" on Thu, 29 Oct 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 31 upcoming gigs, with line-ups including alllone, anna andersrum, Ant TC1 and Bel Cobain and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including alllone, anna andersrum, Ant TC1 and Bel Cobain and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | 15 Years Gretchen: MOCKY - LA meets BERLIN JAM with MEGIAPA *live |  |
 | Thu, 29 Oct 2026 | 15 Years Gretchen: MYLES SANKO *live |  |
 | Fri, 30 Oct 2026 | 15 Years Gretchen: BOTTICELLI BABY *live |  |
 | Sat, 31 Oct 2026 | 15 Years Gretchen: MARK GUILIANA - BEAT MUSIC *live |  |
@@ -18,9 +17,10 @@ Gretchen is a music venue in Berlin listed on soundcheck. 31 upcoming gigs, with
 | Thu, 5 Nov 2026 | ÀBÁSE  *live | Àbáse |
 | Fri, 6 Nov 2026 | NORLYZ feat. MALIKA ALAOUI *live |  |
 | Sat, 7 Nov 2026 | Rey&Kjavik live | Rey&Kjavik |
+| Sun, 8 Nov 2026 | LEITER & HHV present: NOAH X PETTER – DRIFT *live* |  |
 
 ## Address
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

@@ -1,6 +1,6 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Good Room, New York City on Thu, 29 Oct 2026.
+2ManyDJs is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Good Room, New York City on Thu, 29 Oct 2026.
 
 2ManyDJs is a house and electro artist based in Belgium, with 74 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 30 more. Often billed alongside Erol Alkan, Tiga and Bolis Pupul. Next up: Good Room, New York City on Thu 29 Oct.
 
@@ -29,4 +29,4 @@
 
 Erol Alkan, Tiga, Bolis Pupul
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*

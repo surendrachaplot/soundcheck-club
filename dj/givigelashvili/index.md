@@ -1,6 +1,6 @@
 # Givi Gelashvili
 
-Givi Gelashvili is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fünk, Mexico City on Sat, 31 Oct 2026.
+Givi Gelashvili is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fünk, Mexico City on Sat, 31 Oct 2026.
 
 Givi Gelashvili is a dub techno and techno artist based in Georgia, with 10 gigs on soundcheck across Mexico City and Tbilisi. Often billed alongside Boyá, Dr. Long and skyra. Next up: Fünk, Mexico City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Givi Gelashvili is a dub techno and techno artist based in Georgia, with 10 gigs
 
 Boyá, Dr. Long, skyra
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/givigelashvili/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/givigelashvili/)*

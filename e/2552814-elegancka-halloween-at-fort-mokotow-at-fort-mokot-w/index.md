@@ -1,6 +1,6 @@
 # ELEGANCKA: Halloween at Fort Mokotow at Fort Mokotów
 
-ELEGANCKA: Halloween at Fort Mokotow at Fort Mokotów on Sat 31 Oct, Warsaw. 3 artists: Lil'Dave, Sasha Zlykh and Yunis. Electronica. See the line-up on soundcheck.
+ELEGANCKA: Halloween at Fort Mokotow at Fort Mokotów on Sat 31 Oct, Warsaw. 4 artists: DULUB, Lil'Dave, Sasha Zlykh and Yunis. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ELEGANCKA: Halloween at Fort Mokotow at Fort Mokotów on Sat 31 Oct, Warsaw. 3 a
 
 ## Line-up
 
+- DULUB
 - Lil'Dave
 - Sasha Zlykh
 - Yunis

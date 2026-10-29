@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Sharameet Día de Muertos - Kabylie Minogue - Techno Arabe" on Fri, 30 Oct 2026.
+DETROIT CLUB is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sharameet Día de Muertos - Kabylie Minogue - Techno Arabe" on Fri, 30 Oct 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including CARGO (DE), Cobb Douglas, DiscoDaisy and Felinae and 2 more. See dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -18,4 +18,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

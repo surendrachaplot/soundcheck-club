@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "An ASNM Halloween with Kanyon (NYC), Tony Price, Miss Kleio, & Amedeo" on Fri, 30 Oct 2026.
+Standard Time is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "An ASNM Halloween with Kanyon (NYC), Tony Price, Miss Kleio, & Amedeo" on Fri, 30 Oct 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Amedeo (CA) and Andrew Ross and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming gigs
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

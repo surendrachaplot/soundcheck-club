@@ -1,13 +1,14 @@
 # Dollushka
 
-Dollushka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at OXI, Berlin on Sat, 19 Dec 2026.
+Dollushka is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 21 Nov 2026.
 
-Dollushka is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Münster and 1 more. Often billed alongside GEN97, ZELIA and LARSUS. Next up: OXI, Berlin on Sat 19 Dec.
+Dollushka is a techno and trance artist based in Germany, with 25 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Münster and 1 more. Often billed alongside GEN97, ZELIA and LARSUS. Next up: Lokschuppen Berlin, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Dec 2026 | OXI | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
@@ -26,4 +27,4 @@ Dollushka is a techno and trance artist based in Germany, with 24 gigs on soundc
 
 GEN97, ZELIA, LARSUS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dollushka/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dollushka/)*

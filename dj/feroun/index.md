@@ -1,8 +1,8 @@
 # Feroun
 
-Feroun is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri, 30 Oct 2026.
+Feroun is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri, 30 Oct 2026.
 
-Feroun is a house and techno artist, with 65 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Mazi_R, unbound and Aaron Sparks. Next up: TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri 30 Oct.
+Feroun is a house and techno artist, with 65 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside unbound, Mazi_R and Aaron Sparks. Next up: TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Feroun is a house and techno artist, with 65 gigs on soundcheck across Baltimore
 
 ## Shares bills with
 
-Mazi_R, unbound, Aaron Sparks
+unbound, Mazi_R, Aaron Sparks
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feroun/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feroun/)*

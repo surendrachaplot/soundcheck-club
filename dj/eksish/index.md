@@ -1,6 +1,6 @@
 # Eksish
 
-Eksish is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, West-wales on Sat, 31 Oct 2026.
+Eksish is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, West-wales on Sat, 31 Oct 2026.
 
 Eksish is a house and techno artist based in United Kingdom, with 44 gigs on soundcheck across Bogotá, Brighton, Bristol and London and 4 more. Often billed alongside rasel h, Chez de Milo and Jake Moree. Next up: TBA, West Wales on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Eksish is a house and techno artist based in United Kingdom, with 44 gigs on sou
 
 rasel h, Chez de Milo, Jake Moree
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eksish/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eksish/)*

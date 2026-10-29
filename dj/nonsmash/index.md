@@ -1,6 +1,6 @@
 # NONSMASH
 
-NONSMASH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Baggen, Copenhagen on Fri, 30 Oct 2026.
+NONSMASH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Baggen, Copenhagen on Fri, 30 Oct 2026.
 
 NONSMASH is a house and techno artist, with 14 gigs on soundcheck across Copenhagen and Paris. Often billed alongside Entree, Cockwhore & Macho and JULEEO. Next up: Baggen, Copenhagen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ NONSMASH is a house and techno artist, with 14 gigs on soundcheck across Copenha
 
 Entree, Cockwhore & Macho, JULEEO
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsmash/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsmash/)*

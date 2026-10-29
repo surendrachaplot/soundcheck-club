@@ -1,8 +1,8 @@
 # Chris Lake
 
-Chris Lake is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Chris Lake is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Chris Lake is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 30 more. Often billed alongside FISHER, Loco Dice and Boys Noize. Next up: Factory Town, Miami on Wed 2 Dec.
+Chris Lake is a house and tech house artist based in United Kingdom, with 85 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 30 more. Often billed alongside FISHER, Loco Dice and Boys Noize. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Chris Lake is a house and tech house artist based in United Kingdom, with 84 gig
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
 | Sat, 26 Dec 2026 | Echostage | Washington DC |
+| Sun, 27 Dec 2026 | Big Night Live | Boston |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 
@@ -29,4 +30,4 @@ Chris Lake is a house and tech house artist based in United Kingdom, with 84 gig
 
 FISHER, Loco Dice, Boys Noize
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislake/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislake/)*

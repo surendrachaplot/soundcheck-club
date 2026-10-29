@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Soul Mass Transit System presents: Grand Soul Central All Night Long - Leeds - SOLD OUT" on Fri, 30 Oct 2026.
+Hope House is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Soul Mass Transit System presents: Grand Soul Central All Night Long - Leeds - SOLD OUT" on Fri, 30 Oct 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including COCO BOPS, Colleen 'Cosmo' Murphy, Daphni and Dean Fielding and 2 more. See dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -21,4 +21,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

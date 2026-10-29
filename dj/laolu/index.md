@@ -1,6 +1,6 @@
 # Laolu
 
-Laolu is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 30 Oct 2026.
+Laolu is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 30 Oct 2026.
 
 Laolu is a house and afro house artist based in Switzerland, with 106 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 30 more. Often billed alongside La Forêt, Ankhoï and AMÉMÉ. Next up: Klein Phönix, Istanbul on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Laolu is a house and afro house artist based in Switzerland, with 106 gigs on so
 
 La Forêt, Ankhoï, AMÉMÉ
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

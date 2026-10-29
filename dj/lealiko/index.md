@@ -1,6 +1,6 @@
 # Leali Ko
 
-Leali Ko is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Elektroküche, Cologne on Sat, 14 Nov 2026.
+Leali Ko is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Elektroküche, Cologne on Sat, 14 Nov 2026.
 
 Leali Ko is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside Ropemaker, AMBAM and ALLY. Next up: Elektroküche, Cologne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Leali Ko is a techno and trance artist based in Germany, with 11 gigs on soundch
 
 Ropemaker, AMBAM, ALLY
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lealiko/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lealiko/)*

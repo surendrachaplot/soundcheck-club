@@ -1,8 +1,8 @@
 # Fafi Abdel Nour
 
-Fafi Abdel Nour is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ampere, Antwerp on Sat, 31 Oct 2026.
+Fafi Abdel Nour is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ampere, Antwerp on Sat, 31 Oct 2026.
 
-Fafi Abdel Nour is a house and techno artist based in Netherlands, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 57 more. Often billed alongside Jennifer Loveless, Octo Octa and Shanti Celeste. Next up: Ampere, Antwerp on Sat 31 Oct.
+Fafi Abdel Nour is a house and techno artist based in Netherlands, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 58 more. Often billed alongside Jennifer Loveless, Shanti Celeste and Octo Octa. Next up: Ampere, Antwerp on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Fafi Abdel Nour is a house and techno artist based in Netherlands, with 225 gigs
 | Sat, 14 Nov 2026 | fabric | London |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ Fafi Abdel Nour is a house and techno artist based in Netherlands, with 225 gigs
 
 ## Shares bills with
 
-Jennifer Loveless, Octo Octa, Shanti Celeste
+Jennifer Loveless, Shanti Celeste, Octo Octa
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*

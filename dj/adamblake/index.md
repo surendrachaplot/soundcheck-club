@@ -1,6 +1,6 @@
 # Adam Blake
 
-Adam Blake is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at River Ship Vecrīga, Riga on Fri, 30 Oct 2026.
+Adam Blake is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at River Ship Vecrīga, Riga on Fri, 30 Oct 2026.
 
 Adam Blake is a house and deep house artist based in Latvia, with 13 gigs on soundcheck across Riga. Often billed alongside Kapusta, Kelvin and Rexton. Next up: River Ship Vecrīga, Riga on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Adam Blake is a house and deep house artist based in Latvia, with 13 gigs on sou
 
 Kapusta, Kelvin, Rexton
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamblake/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamblake/)*

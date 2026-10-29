@@ -1,6 +1,6 @@
 # JĀST
 
-JĀST is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Parque Ciudad Empresarial, Santiago on Sat, 21 Nov 2026.
+JĀST is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Parque Ciudad Empresarial, Santiago on Sat, 21 Nov 2026.
 
 JĀST is a house and techno artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Santiago. Often billed alongside UNYCA, Eyad and LEYLA\ /NOUHEYLA. Next up: Parque Ciudad Empresarial, Santiago on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ JĀST is a house and techno artist based in Germany, with 7 gigs on soundcheck a
 
 UNYCA, Eyad, LEYLA\ /NOUHEYLA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jast/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jast/)*

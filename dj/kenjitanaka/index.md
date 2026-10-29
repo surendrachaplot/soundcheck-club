@@ -1,6 +1,6 @@
 # Kenji Tanaka
 
-Kenji Tanaka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
+Kenji Tanaka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
 
 Kenji Tanaka is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Mal.Da, Gwen Wayne and Hellen Field. Next up: ://about blank, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Kenji Tanaka is a techno and house artist based in Germany, with 11 gigs on soun
 
 Mal.Da, Gwen Wayne, Hellen Field
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitanaka/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitanaka/)*

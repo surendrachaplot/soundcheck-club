@@ -1,6 +1,6 @@
 # Martelo
 
-Martelo is a Bass and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Oranj Dray Walk, London on Sat, 31 Oct 2026.
+Martelo is a Bass and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Oranj Dray Walk, London on Sat, 31 Oct 2026.
 
 Martelo is a bass and hip-hop artist based in United Kingdom, with 28 gigs on soundcheck across Berlin, Bogotá, Bristol and Glasgow and 1 more. Often billed alongside Oneman, Charisse C and Kemarr. Next up: Oranj Dray Walk, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Martelo is a bass and hip-hop artist based in United Kingdom, with 28 gigs on so
 
 Oneman, Charisse C, Kemarr
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martelo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martelo/)*

@@ -1,6 +1,6 @@
 # Alan Dixon
 
-Alan Dixon is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Spin, San Diego on Sun, 8 Nov 2026.
+Alan Dixon is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Spin, San Diego on Sun, 8 Nov 2026.
 
 Alan Dixon is a house and afro house artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Melvo Baptiste, Dave Lee and Kiddy Smile. Next up: Spin, San Diego on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Alan Dixon is a house and afro house artist based in United Kingdom, with 100 gi
 
 Melvo Baptiste, Dave Lee, Kiddy Smile
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alandixon/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alandixon/)*

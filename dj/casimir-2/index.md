@@ -1,6 +1,6 @@
 # Casimir (2)
 
-Casimir (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at HVEN, Tokyo on Sat, 7 Nov 2026.
+Casimir (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at HVEN, Tokyo on Sat, 7 Nov 2026.
 
 Casimir is a techno and tech house artist, with 9 gigs on soundcheck across Paris and Tokyo. Often billed alongside TATSUYA, Aurian and Austher. Next up: HVEN, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Casimir is a techno and tech house artist, with 9 gigs on soundcheck across Pari
 
 TATSUYA, Aurian, Austher
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casimir-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casimir-2/)*

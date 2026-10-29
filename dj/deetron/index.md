@@ -1,6 +1,6 @@
 # Deetron
 
-Deetron is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Deetron is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 Deetron is a techno and house artist based in Switzerland, with 65 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 30 more. Often billed alongside Zenker Brothers, Tasha and Armand Van Helden. Next up: The Cause, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Deetron is a techno and house artist based in Switzerland, with 65 gigs on sound
 
 Zenker Brothers, Tasha, Armand Van Helden
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*

@@ -1,6 +1,6 @@
 # Infamous Ali
 
-Infamous Ali is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paloma, Berlin on Fri, 6 Nov 2026.
+Infamous Ali is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paloma, Berlin on Fri, 6 Nov 2026.
 
 Infamous Ali is a house and techno artist based in Germany, with 14 gigs on soundcheck across Berlin and Münster. Often billed alongside Kristin Velvet, Tom. and .VRIL. Next up: Paloma, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Infamous Ali is a house and techno artist based in Germany, with 14 gigs on soun
 
 Kristin Velvet, Tom., .VRIL
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infamousali/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infamousali/)*

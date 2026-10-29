@@ -1,6 +1,6 @@
 # Liquidate
 
-Liquidate is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Cairn Sound @ Liquidate (fka Overdraught)" on Fri, 30 Oct 2026.
+Liquidate is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Cairn Sound @ Liquidate (fka Overdraught)" on Fri, 30 Oct 2026.
 
 Liquidate is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Gaskill, Bobo, Jack Moss and Mandolin and 2 more. See dates, start times and who's playing. 855 Stockport road.
 
@@ -20,4 +20,4 @@ Liquidate is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, 
 
 855 Stockport road, Manchester
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/liquidate/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/liquidate/)*

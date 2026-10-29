@@ -1,6 +1,6 @@
 # AMPRS&ND
 
-AMPRS&ND is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
+AMPRS&ND is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 AMPRS&ND is a house and tech house artist based in United States of America, with 25 gigs on soundcheck across Chicago, Miami and San Francisco/Oakland. Often billed alongside n808, Syd Gris and Emanate. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ AMPRS&ND is a house and tech house artist based in United States of America, wit
 
 n808, Syd Gris, Emanate
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amprsnd/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amprsnd/)*

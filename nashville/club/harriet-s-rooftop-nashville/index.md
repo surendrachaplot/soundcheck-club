@@ -1,6 +1,6 @@
 # Harriet's Rooftop Nashville
 
-Harriet's Rooftop Nashville is a music venue in Nashville with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Azure After Dark: Halloween at Harriet's" on Sat, 31 Oct 2026.
+Harriet's Rooftop Nashville is a music venue in Nashville with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Azure After Dark: Halloween at Harriet's" on Sat, 31 Oct 2026.
 
 Harriet's Rooftop Nashville is a music venue in Nashville listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 710 Demonbreun St, Nashville, TN 37203, USA.
 
@@ -14,4 +14,4 @@ Harriet's Rooftop Nashville is a music venue in Nashville listed on soundcheck. 
 
 710 Demonbreun St, Nashville, TN 37203, USA, Nashville
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/harriet-s-rooftop-nashville/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/harriet-s-rooftop-nashville/)*

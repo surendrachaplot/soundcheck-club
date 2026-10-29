@@ -1,6 +1,6 @@
 # Gewnky
 
-Gewnky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at or, Tokyo on Sun, 29 Nov 2026.
+Gewnky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at or, Tokyo on Sun, 29 Nov 2026.
 
 Gewnky is a house and techno artist based in Japan, with 36 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Jm3Yoci and Endote. Next up: or, Tokyo on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Gewnky is a house and techno artist based in Japan, with 36 gigs on soundcheck a
 
 SIGNAL (JP), Jm3Yoci, Endote
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gewnky/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gewnky/)*

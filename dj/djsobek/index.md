@@ -1,6 +1,6 @@
 # Sobek
 
-Sobek is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
+Sobek is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
 
 Sobek is a house and tech house artist based in Hungary, with 77 gigs on soundcheck across Berlin, Budapest, Istanbul and Lyon and 1 more. Often billed alongside Captain Knuckles, Daniel Moritz and Mulya. Next up: Hungarian Railway Museum, Budapest on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Sobek is a house and tech house artist based in Hungary, with 77 gigs on soundch
 
 Captain Knuckles, Daniel Moritz, Mulya
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsobek/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsobek/)*

@@ -1,6 +1,6 @@
 # Princess Elf Bar
 
-Princess Elf Bar is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 29 Oct 2026.
+Princess Elf Bar is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 29 Oct 2026.
 
 Princess Elf Bar is a trance and techno artist based in United Kingdom, with 167 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and Leaha. Next up: The Berkeley Suite, Glasgow on Thu 29 Oct.
 
@@ -32,4 +32,4 @@ Princess Elf Bar is a trance and techno artist based in United Kingdom, with 167
 
 AYDJ, Anop, Leaha
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*

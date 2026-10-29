@@ -1,6 +1,6 @@
 # Bootleg Bar NYC
 
-Bootleg Bar NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "LIFE AFTER TRANCE HALLOWEEN OPEN DECKS" on Sat, 31 Oct 2026.
+Bootleg Bar NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "LIFE AFTER TRANCE HALLOWEEN OPEN DECKS" on Sat, 31 Oct 2026.
 
 Bootleg Bar NYC is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including ASTER (DJ), Brooke Steele, eianne esau and Manthrax and 1 more. See dates, start times and who's playing. 1438 Myrtle Ave, Brooklyn, NY 11237.
 
@@ -15,4 +15,4 @@ Bootleg Bar NYC is a music venue in New York City listed on soundcheck. 2 upcomi
 
 1438 Myrtle Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bootleg-bar-nyc/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bootleg-bar-nyc/)*

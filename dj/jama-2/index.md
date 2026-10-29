@@ -1,6 +1,6 @@
 # Jama (2)
 
-Jama (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Volnost, Seoul on Sat, 31 Oct 2026.
+Jama (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Volnost, Seoul on Sat, 31 Oct 2026.
 
 Jama is a techno and electro artist based in South Korea, with 51 gigs on soundcheck across Seoul. Often billed alongside Zorba, Deekay and Xanexx. Next up: Volnost, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jama is a techno and electro artist based in South Korea, with 51 gigs on soundc
 
 Zorba, Deekay, Xanexx
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jama-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jama-2/)*

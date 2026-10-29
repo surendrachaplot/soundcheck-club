@@ -1,6 +1,6 @@
 # DJ_Dave
 
-DJ_Dave is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Roadrunner, Boston on Sat, 31 Oct 2026.
+DJ_Dave is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Roadrunner, Boston on Sat, 31 Oct 2026.
 
 DJ_Dave is a techno and electro artist based in United States of America, with 29 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 9 more. Often billed alongside Alice Longyu Gao, horsegiirL and B0YG1RL. Next up: Roadrunner, Boston on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ DJ_Dave is a techno and electro artist based in United States of America, with 2
 
 Alice Longyu Gao, horsegiirL, B0YG1RL
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*

@@ -1,6 +1,6 @@
 # Rorschack
 
-Rorschack is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Groove Gardens, Malta on Sun, 1 Nov 2026.
+Rorschack is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Groove Gardens, Malta on Sun, 1 Nov 2026.
 
 Rorschack is a techno and acid artist based in Italy, with 76 gigs on soundcheck across Amsterdam, Berlin, Bologna and Brussels and 13 more. Often billed alongside Yamila, Functional Disorder and Spad. Next up: Groove Gardens, Malta on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Rorschack is a techno and acid artist based in Italy, with 76 gigs on soundcheck
 
 Yamila, Functional Disorder, Spad
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorschack-it/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorschack-it/)*

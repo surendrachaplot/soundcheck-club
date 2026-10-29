@@ -1,8 +1,8 @@
 # Liva K
 
-Liva K is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bourke Street Courtyard, Melbourne on Sat, 5 Dec 2026.
+Liva K is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bourke Street Courtyard, Melbourne on Sat, 5 Dec 2026.
 
-Liva K is an afro house and house artist based in Greece, with 96 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Black Coffee, Bedouin and Damian Lazarus. Next up: Bourke Street Courtyard, Melbourne on Sat 5 Dec.
+Liva K is an afro house and house artist based in Greece, with 97 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Black Coffee, Bedouin and Damian Lazarus. Next up: Bourke Street Courtyard, Melbourne on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Liva K is an afro house and house artist based in Greece, with 96 gigs on soundc
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Bourke Street Courtyard | Melbourne |
 | Sun, 13 Dec 2026 | Savaya Bali | Bali |
+| Sun, 27 Dec 2026 | Cozmo Athens | Athens |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Liva K is an afro house and house artist based in Greece, with 96 gigs on soundc
 
 Black Coffee, Bedouin, Damian Lazarus
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livak/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livak/)*

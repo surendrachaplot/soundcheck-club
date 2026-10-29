@@ -1,6 +1,6 @@
 # Ankhoï
 
-Ankhoï is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pacha, Munich on Sat, 31 Oct 2026.
+Ankhoï is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pacha, Munich on Sat, 31 Oct 2026.
 
 Ankhoï is a house and afro house artist based in France, with 38 gigs on soundcheck across Amsterdam, Barcelona, Houston and Ibiza and 13 more. Often billed alongside Laolu, Adam Ten and JAMIIE. Next up: Pacha, Munich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ankhoï is a house and afro house artist based in France, with 38 gigs on soundc
 
 Laolu, Adam Ten, JAMIIE
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ankhoi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ankhoi/)*

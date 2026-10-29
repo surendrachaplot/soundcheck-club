@@ -1,6 +1,6 @@
 # Massive
 
-Massive is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Hell On Earth - Massive 3YR Anniversary" on Fri, 30 Oct 2026.
+Massive is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Hell On Earth - Massive 3YR Anniversary" on Fri, 30 Oct 2026.
 
 Massive is a music venue in Seattle listed on soundcheck. 4 upcoming gigs, with line-ups including ACHAMA, Bimbo Hypnosis, estoc and Jacob Meehan and 2 more. See dates, start times and who's playing. 619 E Pine Street, Seattle, WA 98122.
 
@@ -17,4 +17,4 @@ Massive is a music venue in Seattle listed on soundcheck. 4 upcoming gigs, with 
 
 619 E Pine Street, Seattle, WA 98122, Seattle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*

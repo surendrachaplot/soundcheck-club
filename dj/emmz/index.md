@@ -1,6 +1,6 @@
 # Emmz
 
-Emmz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Wibar, Netherlands on Sat, 31 Oct 2026.
+Emmz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Wibar, Netherlands on Sat, 31 Oct 2026.
 
 Emmz is a house and techno artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Netherlands and Utrecht. Often billed alongside Fiene, Ambu Bambu and Jelte. Next up: Wibar, Netherlands on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Emmz is a house and techno artist based in Netherlands, with 18 gigs on soundche
 
 Fiene, Ambu Bambu, Jelte
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmz/)*

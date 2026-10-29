@@ -1,6 +1,6 @@
 # Venus Melissa
 
-Venus Melissa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Lime Milano, Milan on Sat, 31 Oct 2026.
+Venus Melissa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lime Milano, Milan on Sat, 31 Oct 2026.
 
 Venus Melissa is a techno and trance artist, with 13 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 4 more. Often billed alongside GLADJEE, INVERNO and Vera Moro. Next up: Lime Milano, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Venus Melissa is a techno and trance artist, with 13 gigs on soundcheck across B
 
 GLADJEE, INVERNO, Vera Moro
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venusmelissa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venusmelissa/)*

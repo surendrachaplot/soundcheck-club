@@ -1,6 +1,6 @@
 # Cadence (1)
 
-Cadence (1) is a Drum & Bass and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Timber Loft, London on Sun, 8 Nov 2026.
+Cadence (1) is a Drum & Bass and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Timber Loft, London on Sun, 8 Nov 2026.
 
 Cadence is a drum & bass and minimal artist, with 10 gigs on soundcheck across Berlin, Brighton, Leeds and Liverpool and 2 more. Often billed alongside Calyx, Carli Jayne and Cone. Next up: The Timber Loft, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Cadence is a drum & bass and minimal artist, with 10 gigs on soundcheck across B
 
 Calyx, Carli Jayne, Cone
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cadence-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cadence-1/)*

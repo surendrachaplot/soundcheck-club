@@ -1,14 +1,15 @@
 # CYLLA
 
-CYLLA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Jama, Toronto on Fri, 30 Oct 2026.
+CYLLA is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Jama, Toronto on Fri, 30 Oct 2026.
 
-CYLLA is a club and techno artist based in Canada, with 8 gigs on soundcheck across Toronto. Often billed alongside moii-chan, 999ADJ and SEXMP3. Next up: The Jama, Toronto on Fri 30 Oct.
+CYLLA is a club and techno artist based in Canada, with 9 gigs on soundcheck across Toronto. Often billed alongside moii-chan, 999ADJ and Akkai. Next up: The Jama, Toronto on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | The Jama | Toronto |
+| Sat, 28 Nov 2026 | Cafeteria | Toronto |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ CYLLA is a club and techno artist based in Canada, with 8 gigs on soundcheck acr
 
 ## Shares bills with
 
-moii-chan, 999ADJ, SEXMP3
+moii-chan, 999ADJ, Akkai (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cylla/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cylla/)*

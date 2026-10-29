@@ -1,6 +1,6 @@
 # fangsie
 
-fangsie is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
+fangsie is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Collectif MTL, Montreal on Fri, 30 Oct 2026.
 
 fangsie is a techno and hardcore artist based in Canada, with 22 gigs on soundcheck across Montreal and New York City. Often billed alongside the bald girl, sineila and Mowie. Next up: Collectif MTL, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ fangsie is a techno and hardcore artist based in Canada, with 22 gigs on soundch
 
 the bald girl, sineila, Mowie (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fangsie/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fangsie/)*

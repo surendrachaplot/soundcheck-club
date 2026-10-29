@@ -1,6 +1,6 @@
 # Cousin
 
-Cousin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Gang Gang Cafe and Bar, Canberra on Sat, 31 Oct 2026.
+Cousin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gang Gang Cafe and Bar, Canberra on Sat, 31 Oct 2026.
 
 Cousin is a techno and house artist based in Australia, with 104 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 27 more. Often billed alongside DJ Fart in the Club, Kia (AU) and D-Grade. Next up: Gang Gang Cafe and Bar, Canberra on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Cousin is a techno and house artist based in Australia, with 104 gigs on soundch
 
 DJ Fart in the Club, Kia (AU), D-Grade
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cousin/)*

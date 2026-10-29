@@ -1,6 +1,6 @@
 # Bisou Mayfair
 
-Bisou Mayfair is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "POPUP x Friends of Friends present Halloween Special" on Sat, 31 Oct 2026.
+Bisou Mayfair is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "POPUP x Friends of Friends present Halloween Special" on Sat, 31 Oct 2026.
 
 Bisou Mayfair is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 9 Swallow Street, London, W1B 4DF.
 
@@ -15,4 +15,4 @@ Bisou Mayfair is a music venue in London listed on soundcheck. 2 upcoming gigs. 
 
 9 Swallow Street, London, W1B 4DF, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bisou-mayfair/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bisou-mayfair/)*

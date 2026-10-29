@@ -1,6 +1,6 @@
 # Anthea
 
-Anthea is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Jaeger, Oslo on Thu, 29 Oct 2026.
+Anthea is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Jaeger, Oslo on Thu, 29 Oct 2026.
 
 Anthea is a house and techno artist based in United Kingdom, with 198 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 55 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Jaeger, Oslo on Thu 29 Oct.
 
@@ -31,4 +31,4 @@ Anthea is a house and techno artist based in United Kingdom, with 198 gigs on so
 
 Oshana, tINI, Astral Travel
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

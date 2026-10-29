@@ -1,6 +1,6 @@
 # Soo Intoit
 
-Soo Intoit is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Then House 29 locust street. Brooklyn, New York City on Thu, 29 Oct 2026.
+Soo Intoit is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Then House 29 locust street. Brooklyn, New York City on Thu, 29 Oct 2026.
 
 Soo Intoit is a techno and club artist based in United States of America, with 114 gigs on soundcheck across Boston, Chicago, New York City and Philadelphia and 2 more. Often billed alongside Xana 101, Sailor Malice and Sp3cial K. Next up: TBA - Then House 29 locust street. Brooklyn, New York City on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Soo Intoit is a techno and club artist based in United States of America, with 1
 
 Xana 101, Sailor Malice, Sp3cial K
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soointoit/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soointoit/)*

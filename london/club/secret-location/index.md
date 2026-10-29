@@ -1,8 +1,8 @@
 # Secret Location
 
-Secret Location is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Detour Discotheque presents… The Lost Disco" on Fri, 30 Oct 2026.
+Secret Location is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Detour Discotheque presents… The Lost Disco" on Fri, 30 Oct 2026.
 
-Secret Location is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Kassian, Benny Bysouth, Bubs Baker and Eris Drew and 2 more. See dates, start times and who's playing. To Be Announced.
+Secret Location is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Kassian, Benny Bysouth, Bubs Baker and Eris Drew and 2 more. See dates, start times and who's playing. To Be Announced.
 
 ## What's on
 
@@ -11,8 +11,9 @@ Secret Location is a music venue in London listed on soundcheck. 7 upcoming gigs
 | Fri, 30 Oct 2026 | Detour Discotheque presents… The Lost Disco |  |
 | Sat, 31 Oct 2026 | Detour Discotheque presents… The Lost Disco |  |
 | Sat, 14 Nov 2026 | Opal Sunn Live (Alex Kassian & Hiroaki OBA) + support | Alex Kassian, Hiroaki OBA, Opal Sunn |
+| Sat, 14 Nov 2026 | SKANK |  |
 | Sun, 15 Nov 2026 | Eris Drew & Octo Octa (4HR Set) | Eris Drew, Octo Octa |
-| Fri, 20 Nov 2026 | Nachtlicker XII feat PUSSY RIOT: RIOT DAYS |  |
+| Fri, 20 Nov 2026 | Nachtlicker XII feat PUSSY RIOT: RIOT DAYS | JPEG (3), Kells, PEPPA (2), PJ Peek |
 | Sat, 28 Nov 2026 | ESSENZ-CLUB XXIII | Not A Headliner |
 | Fri, 18 Dec 2026 | Silk Road: Josh Keit, Nate Oldfield, Benny Bysouth & more | Benny Bysouth, Bubs Baker, Josh Keit |
 
@@ -20,4 +21,4 @@ Secret Location is a music venue in London listed on soundcheck. 7 upcoming gigs
 
 To Be Announced, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

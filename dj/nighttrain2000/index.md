@@ -1,14 +1,15 @@
 # Nighttrain2000
 
-Nighttrain2000 is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 30 Oct 2026.
+Nighttrain2000 is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 30 Oct 2026.
 
-Nighttrain2000 is a bass and techno artist based in China, with 34 gigs on soundcheck across Beijing, Chengdu and Shanghai. Often billed alongside SeventyMaos, 10000 (CN) and Sonicare. Next up: Nulab Chengdu, Chengdu on Fri 30 Oct.
+Nighttrain2000 is a bass and techno artist based in China, with 35 gigs on soundcheck across Beijing, Chengdu and Shanghai. Often billed alongside SeventyMaos, 10000 (CN) and Sonicare. Next up: Nulab Chengdu, Chengdu on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Nulab Chengdu | Chengdu |
+| Sat, 31 Oct 2026 | 工gong | Chengdu |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nighttrain2000 is a bass and techno artist based in China, with 34 gigs on sound
 
 SeventyMaos, 10000 (CN), Sonicare
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nighttrain2000/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nighttrain2000/)*

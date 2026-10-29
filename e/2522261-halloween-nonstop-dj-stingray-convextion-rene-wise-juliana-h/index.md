@@ -16,12 +16,12 @@ Halloween Nonstop: DJ Stingray, Convextion, Rene Wise, Juliana Huxtable, DJ Kool
 - DJ G.
 - DJ Koolt
 - DJ Stingray 313
-- Hiroko Yamamura
 - IMOGEN
 - Juliana Huxtable
 - LYDO
 - Philippa Pacho
 - Rene Wise
+- RHR
 - Tammy Lakkis
 - Vladimir Ivkovic
 

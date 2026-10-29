@@ -1,6 +1,6 @@
 # vibemeister
 
-vibemeister is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Beat Boutique, Hamburg on Fri, 30 Oct 2026.
+vibemeister is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Beat Boutique, Hamburg on Fri, 30 Oct 2026.
 
 vibemeister is a techno and trance artist based in Georgia, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside sabenzzzo, Goatchu and Pamadii. Next up: Beat Boutique, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ vibemeister is a techno and trance artist based in Georgia, with 9 gigs on sound
 
 sabenzzzo, Goatchu, Pamadii
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibemeister/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibemeister/)*

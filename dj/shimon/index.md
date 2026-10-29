@@ -1,6 +1,6 @@
 # Shimon
 
-Shimon is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Dogenzaka Church, Tokyo on Fri, 4 Dec 2026.
+Shimon is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Dogenzaka Church, Tokyo on Fri, 4 Dec 2026.
 
 Shimon is a house and jungle artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hamburg and 7 more. Often billed alongside Farry, Edouard! and Benny L. Next up: Dogenzaka Church, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Shimon is a house and jungle artist based in United Kingdom, with 42 gigs on sou
 
 Farry, Edouard!, Benny L
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon/)*

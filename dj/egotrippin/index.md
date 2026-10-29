@@ -1,6 +1,6 @@
 # Ego Trippin
 
-Ego Trippin is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Billy Bootleggers, Nottingham on Fri, 6 Nov 2026.
+Ego Trippin is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Billy Bootleggers, Nottingham on Fri, 6 Nov 2026.
 
 Ego Trippin is a drum & bass and jungle artist, with 15 gigs on soundcheck across Brighton, Bristol, Cardiff and Leeds and 4 more. Often billed alongside Logan D, Majistrate and Eksman. Next up: Billy Bootleggers, Nottingham on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ego Trippin is a drum & bass and jungle artist, with 15 gigs on soundcheck acros
 
 Logan D, Majistrate, Eksman
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egotrippin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egotrippin/)*

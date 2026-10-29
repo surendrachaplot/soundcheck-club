@@ -1,6 +1,6 @@
 # ROSHI
 
-ROSHI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Persefonis 37, Athina 118 54, Athens on Fri, 30 Oct 2026.
+ROSHI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Persefonis 37, Athina 118 54, Athens on Fri, 30 Oct 2026.
 
 ROSHI is a techno and house artist based in Greece, with 37 gigs on soundcheck across Athens, Barcelona, Los Angeles and New York City and 3 more. Often billed alongside KLD, Pelany and Imperium. Next up: TBA - Persefonis 37, Athina 118 54, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ROSHI is a techno and house artist based in Greece, with 37 gigs on soundcheck a
 
 KLD (1), Pelany, Imperium
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roshi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roshi/)*

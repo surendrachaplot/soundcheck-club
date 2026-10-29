@@ -1,6 +1,6 @@
 # Hipp-e
 
-Hipp-e is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Home of Plenty, South-australia on Thu, 31 Dec 2026.
+Hipp-e is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Home of Plenty, South-australia on Thu, 31 Dec 2026.
 
 Hipp-e is a tech house and deep house artist, with 5 gigs on soundcheck across Denver, London, Los Angeles and Melbourne and 1 more. Often billed alongside H-Foundation, Halo Varga and Katia Curie. Next up: Home of Plenty, South Australia on Thu 31 Dec.
 
@@ -21,4 +21,4 @@ Hipp-e is a tech house and deep house artist, with 5 gigs on soundcheck across D
 
 H-Foundation, Halo Varga, Katia Curie
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hippe/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hippe/)*

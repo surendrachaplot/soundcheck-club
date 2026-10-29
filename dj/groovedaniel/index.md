@@ -1,6 +1,6 @@
 # Groove Daniel
 
-Groove Daniel is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Arch 14, London on Sat, 5 Dec 2026.
+Groove Daniel is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Arch 14, London on Sat, 5 Dec 2026.
 
 Groove Daniel is a techno and acid artist, with 30 gigs on soundcheck across Amsterdam, Berlin, Bologna and Dresden and 5 more. Often billed alongside Konik Polny, Midirama and V (NYC). Next up: Arch 14, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Groove Daniel is a techno and acid artist, with 30 gigs on soundcheck across Ams
 
 Konik Polny, Midirama, V (NYC)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovedaniel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovedaniel/)*

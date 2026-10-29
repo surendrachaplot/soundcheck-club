@@ -1,6 +1,6 @@
 # Ko Yang (JP)
 
-Ko Yang (JP) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at flo Soakin, Osaka on Thu, 29 Oct 2026.
+Ko Yang (JP) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at flo Soakin, Osaka on Thu, 29 Oct 2026.
 
 Ko Yang (JP) is a house and club artist based in Japan, with 21 gigs on soundcheck across Ho Chi Minh City, Kyoto, Osaka and Tokyo. Often billed alongside CityBoyLounge, GAKUTO(TOKYO) and Lvca. Next up: flo Soakin, Osaka on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Ko Yang (JP) is a house and club artist based in Japan, with 21 gigs on soundche
 
 CityBoyLounge, GAKUTO(TOKYO), Lvca
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koyangjp/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koyangjp/)*

@@ -1,6 +1,6 @@
 # Harry Hayes
 
-Harry Hayes is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Harry Hayes is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Harry Hayes is a house and garage artist based in Australia, with 26 gigs on soundcheck across Dublin, London, Manchester and Melbourne and 1 more. Often billed alongside LUPO.THEBOY, Memphis LK and Mike McCaskill. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Harry Hayes is a house and garage artist based in Australia, with 26 gigs on sou
 
 LUPO.THEBOY, Memphis LK, Mike McCaskill
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryhayes/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryhayes/)*

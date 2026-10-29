@@ -1,13 +1,14 @@
 # Jezza & Jod
 
-Jezza & Jod is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Arzenal, Budapest on Fri, 27 Nov 2026.
+Jezza & Jod is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Leopardstown Racecourse, Dublin on Sat, 31 Oct 2026.
 
-Jezza & Jod are a techno and house duo based in United Kingdom, with 56 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Budapest and 11 more. Often billed alongside blk., Black Traffic and Jason Cluff. Next up: Arzenal, Budapest on Fri 27 Nov.
+Jezza & Jod are a techno and house duo based in United Kingdom, with 57 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Budapest and 11 more. Often billed alongside blk., Black Traffic and Jason Cluff. Next up: Leopardstown Racecourse, Dublin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Leopardstown Racecourse | Dublin |
 | Fri, 27 Nov 2026 | Arzenal | Budapest |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jezza & Jod are a techno and house duo based in United Kingdom, with 56 gigs on 
 
 blk., Black Traffic, Jason Cluff
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzajod/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jezzajod/)*

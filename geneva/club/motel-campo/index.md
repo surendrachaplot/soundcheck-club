@@ -1,6 +1,6 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Motel 16th Birthday ✰ Soichi Terada (Live)" on Sat, 31 Oct 2026.
+Motel Campo is a music venue in Geneva with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Motel 16th Birthday ✰ Soichi Terada (Live)" on Sat, 31 Oct 2026.
 
 Motel Campo is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, with line-ups including AIEAIEAIE, Audrey Danza, Hirma and picchu and 2 more. See dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
@@ -20,4 +20,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, wi
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

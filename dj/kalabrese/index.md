@@ -1,14 +1,15 @@
 # Kalabrese
 
-Kalabrese is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Golden Lion, Manchester on Fri, 13 Nov 2026.
+Kalabrese is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Golden Lion, Manchester on Fri, 13 Nov 2026.
 
-Kalabrese is a house and electronica artist based in Switzerland, with 123 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside KAYYAK, Alex Dallas and Dejan. Next up: The Golden Lion, Manchester on Fri 13 Nov.
+Kalabrese is a house and electronica artist based in Switzerland, with 124 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside KAYYAK, Alex Dallas and Dejan. Next up: The Golden Lion, Manchester on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Golden Lion | Manchester |
+| Fri, 4 Dec 2026 | Kauz | Zurich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kalabrese is a house and electronica artist based in Switzerland, with 123 gigs 
 
 KAYYAK, Alex Dallas, Dejan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*

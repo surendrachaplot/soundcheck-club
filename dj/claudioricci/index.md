@@ -1,6 +1,6 @@
 # Claudio Ricci
 
-Claudio Ricci is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 7 Nov 2026.
+Claudio Ricci is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 7 Nov 2026.
 
 Claudio Ricci is a house artist based in Spain, with 16 gigs on soundcheck across Barcelona, Berlin, Ibiza and Munich and 1 more. Often billed alongside AN5 (SP), Ander Race and Andrea Castells. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Claudio Ricci is a house artist based in Spain, with 16 gigs on soundcheck acros
 
 AN5 (SP), Ander Race, Andrea Castells
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioricci/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioricci/)*

@@ -1,6 +1,6 @@
 # Marie Lung
 
-Marie Lung is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
+Marie Lung is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
 
 Marie Lung is a house and techno artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 14 more. Often billed alongside Momo, Michal Zietara and Turkish. Next up: TBA - SECRET LOCATION, Hannover on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Marie Lung is a house and techno artist based in Germany, with 93 gigs on soundc
 
 Momo, Michal Zietara, Turkish
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marielung/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marielung/)*

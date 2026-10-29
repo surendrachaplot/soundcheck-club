@@ -1,6 +1,6 @@
 # Oxygenic
 
-Oxygenic is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Hathor 06" on Sat, 7 Nov 2026.
+Oxygenic is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Hathor 06" on Sat, 7 Nov 2026.
 
 Oxygenic is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 169/171 Whitley Road, Whitley Bay, NE25 4BJ. UK..
 
@@ -17,4 +17,4 @@ Oxygenic is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs. Se
 
 169/171 Whitley Road, Whitley Bay, NE25 4BJ. UK., Newcastle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/oxygenic/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/oxygenic/)*

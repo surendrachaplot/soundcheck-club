@@ -1,6 +1,6 @@
 # Yukon Nature
 
-Yukon Nature is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
+Yukon Nature is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
 
 Yukon Nature is a house and garage artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Dyslexi, Cosmic Cherry and Berunth. Next up: Paloma, Berlin on Sun 15 Nov.
 
@@ -24,4 +24,4 @@ Yukon Nature is a house and garage artist based in Germany, with 8 gigs on sound
 
 Dyslexi, Cosmic Cherry, Berunth
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukonnature/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukonnature/)*

@@ -1,6 +1,6 @@
 # SAVVV
 
-SAVVV is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Evangeline, Toronto on Thu, 29 Oct 2026.
+SAVVV is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Evangeline, Toronto on Thu, 29 Oct 2026.
 
 SAVVV is a house and club artist based in Canada, with 26 gigs on soundcheck across New York City and Toronto. Often billed alongside Onii-Sama, Manalang and Afrique Like Me. Next up: Evangeline, Toronto on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ SAVVV is a house and club artist based in Canada, with 26 gigs on soundcheck acr
 
 Onii-Sama, Manalang, Afrique Like Me
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savvv/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savvv/)*

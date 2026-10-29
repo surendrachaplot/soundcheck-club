@@ -1,6 +1,6 @@
 # Fvck Totvm
 
-Fvck Totvm is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Low Profile Studios, London on Fri, 13 Nov 2026.
+Fvck Totvm is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Low Profile Studios, London on Fri, 13 Nov 2026.
 
 Fvck Totvm is a techno and electro artist, with 18 gigs on soundcheck across Barcelona and London. Often billed alongside Labåzuy, TECHSIA and Amor Ante. Next up: Low Profile Studios, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Fvck Totvm is a techno and electro artist, with 18 gigs on soundcheck across Bar
 
 Labåzuy, TECHSIA, Amor Ante
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fvcktotvm/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fvcktotvm/)*

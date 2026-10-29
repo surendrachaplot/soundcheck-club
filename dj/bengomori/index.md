@@ -1,6 +1,6 @@
 # Ben Gomori
 
-Ben Gomori is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Twist Bar, Prague on Thu, 29 Oct 2026.
+Ben Gomori is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Twist Bar, Prague on Thu, 29 Oct 2026.
 
 Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside Ariane V, Gaucho (UK) and Sarahtonin. Next up: Twist Bar, Prague on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on 
 
 Ariane V, Gaucho (UK), Sarahtonin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*

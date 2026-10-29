@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Strictly Strictly With Jesse G & Rakr" on Fri, 30 Oct 2026.
+Jolene is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Strictly Strictly With Jesse G & Rakr" on Fri, 30 Oct 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including BRAVER (DK), Christina Evangelista, Denzel and Jesse G and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -16,4 +16,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, wit
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

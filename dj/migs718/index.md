@@ -1,6 +1,6 @@
 # MiGS718
 
-MiGS718 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Bushwick, Brooklyn, New York City on Sat, 14 Nov 2026.
+MiGS718 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Bushwick, Brooklyn, New York City on Sat, 14 Nov 2026.
 
 MiGS718 is a techno and hardcore artist based in United States of America, with 15 gigs on soundcheck across New York City. Often billed alongside Vyper, CYNICAL and ELIVVATE. Next up: TBA - Bushwick, Brooklyn, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MiGS718 is a techno and hardcore artist based in United States of America, with 
 
 Vyper, CYNICAL, ELIVVATE
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/migs718/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/migs718/)*

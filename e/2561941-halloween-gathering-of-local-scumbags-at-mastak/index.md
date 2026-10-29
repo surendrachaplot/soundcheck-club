@@ -1,6 +1,6 @@
 # HALLOWEEN: gathering of local scumbags at Mastak
 
-HALLOWEEN: gathering of local scumbags at Mastak on Sat 31 Oct, Warsaw. 6 artists: Alex Kosta, MARCUCCIO, Maria Pozhar and Nana_k and 2 more. Techno. See the line-up on soundcheck.
+HALLOWEEN: gathering of local scumbags at Mastak on Sat 31 Oct, Warsaw. 4 artists: Alex Kosta, MARCUCCIO, Nana_k and Slava Bernat. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,7 @@ HALLOWEEN: gathering of local scumbags at Mastak on Sat 31 Oct, Warsaw. 6 artist
 
 - Alex Kosta
 - MARCUCCIO
-- Maria Pozhar
 - Nana_k
 - Slava Bernat
-- Slowmode
 
 *Source: [soundcheck](https://soundcheck.club/e/2561941-halloween-gathering-of-local-scumbags-at-mastak/)*

@@ -1,8 +1,8 @@
 # Dixon
 
-Dixon is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Prysm Nightclub, Chicago on Fri, 30 Oct 2026.
+Dixon is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Prysm Nightclub, Chicago on Fri, 30 Oct 2026.
 
-Dixon is a house and techno artist based in Germany, with 209 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Prysm Nightclub, Chicago on Fri 30 Oct.
+Dixon is a house and techno artist based in Germany, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Prysm Nightclub, Chicago on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Dixon is a house and techno artist based in Germany, with 209 gigs on soundcheck
 | Sat, 7 Nov 2026 | The Source Marrakesh | Morocco |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
+| Sat, 28 Nov 2026 | Kastel | Istanbul |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sun, 3 Jan 2027 | Pier 80 Warehouse | San-francisco-oakland |
 
@@ -33,4 +34,4 @@ Dixon is a house and techno artist based in Germany, with 209 gigs on soundcheck
 
 Jimi Jules, Âme, Trikk
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*

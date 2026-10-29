@@ -1,6 +1,6 @@
 # Mamayo
 
-Mamayo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Doop, Shanghai on Sat, 31 Oct 2026.
+Mamayo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Doop, Shanghai on Sat, 31 Oct 2026.
 
 Mamayo is a house and club artist, with 20 gigs on soundcheck across Chengdu, Shanghai and Tokyo. Often billed alongside Dai Nasty, Knopha and Young Uncle. Next up: Doop, Shanghai on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mamayo is a house and club artist, with 20 gigs on soundcheck across Chengdu, Sh
 
 Dai Nasty, Knopha, Young Uncle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamayo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamayo/)*

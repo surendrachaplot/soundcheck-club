@@ -1,6 +1,6 @@
 # NØSYNC
 
-NØSYNC is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Dual, Bangkok on Fri, 30 Oct 2026.
+NØSYNC is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Dual, Bangkok on Fri, 30 Oct 2026.
 
 NØSYNC is a techno and industrial artist based in Russia, with 33 gigs on soundcheck across Bangkok and Chicago. Often billed alongside REIKS, POKOLENIE MIKROZAYMOV and The3RD. Next up: Dual, Bangkok on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ NØSYNC is a techno and industrial artist based in Russia, with 33 gigs on sound
 
 REIKS, POKOLENIE MIKROZAYMOV, The3RD
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosync/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosync/)*

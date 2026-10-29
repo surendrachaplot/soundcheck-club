@@ -1,6 +1,6 @@
 # Gingerino's Pizza
 
-Gingerino's Pizza is a music venue in Newcastle with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Public House Hifi presents The Might Zaf (Love Vinyl)" on Sat, 31 Oct 2026.
+Gingerino's Pizza is a music venue in Newcastle with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Public House Hifi presents The Might Zaf (Love Vinyl)" on Sat, 31 Oct 2026.
 
 Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 5 upcoming gigs, with line-ups including Daniel Wang, Diz Jockey, Mr Scruff and Sam Don and 2 more. See dates, start times and who's playing. 8 Stepney Bank, Newcastle upon Tyne NE1 2PW.
 
@@ -18,4 +18,4 @@ Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 5 upcoming
 
 8 Stepney Bank, Newcastle upon Tyne NE1 2PW, Newcastle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*

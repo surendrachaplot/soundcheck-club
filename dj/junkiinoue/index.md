@@ -1,6 +1,6 @@
 # Junki Inoue
 
-Junki Inoue is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 31 Oct 2026.
+Junki Inoue is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Junki Inoue is a house and techno artist based in Japan, with 135 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 30 more. Often billed alongside Unai Trotti, Z@p and Vass. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Junki Inoue is a house and techno artist based in Japan, with 135 gigs on soundc
 
 Unai Trotti, Z@p, Vass
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiinoue/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiinoue/)*

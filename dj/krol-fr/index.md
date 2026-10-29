@@ -1,6 +1,6 @@
 # Krol
 
-Krol is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Jolene Downtown Miami, Miami on Thu, 29 Oct 2026.
+Krol is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Jolene Downtown Miami, Miami on Thu, 29 Oct 2026.
 
 Krol is a house and minimal artist based in France, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 10 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Jolene Downtown Miami, Miami on Thu 29 Oct.
 
@@ -30,4 +30,4 @@ Krol is a house and minimal artist based in France, with 67 gigs on soundcheck a
 
 Aline Umber, Aline Brooklyn, Aman Umber
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*

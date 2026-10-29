@@ -1,6 +1,6 @@
 # Jack Clark
 
-Jack Clark is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
+Jack Clark is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
 
 Jack Clark is a house and minimal artist based in Australia, with 25 gigs on soundcheck across Berlin and Milan. Often billed alongside Scoopsi, Annina and Papa K. Next up: Beate Uwe, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Jack Clark is a house and minimal artist based in Australia, with 25 gigs on sou
 
 Scoopsi, Annina, Papa K
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackclark/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackclark/)*

@@ -1,8 +1,8 @@
 # Gabriel & Dresden
 
-Gabriel & Dresden is a Trance and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Evergreen Brick Works, Toronto on Sat, 31 Oct 2026.
+Gabriel & Dresden is a Trance and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Evergreen Brick Works, Toronto on Sat, 31 Oct 2026.
 
-Gabriel & Dresden are a trance and progressive house duo based in United States of America, with 56 gigs on soundcheck across Austin, Bristol, Chicago and Dallas/Fort Worth and 17 more. Often billed alongside Luccio, Amy Wiles and Mat Zo. Next up: Evergreen Brick Works, Toronto on Sat 31 Oct.
+Gabriel & Dresden are a trance and progressive house duo based in United States of America, with 57 gigs on soundcheck across Austin, Bristol, Chicago and Dallas/Fort Worth and 17 more. Often billed alongside Luccio, Amy Wiles and Mat Zo. Next up: Evergreen Brick Works, Toronto on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gabriel & Dresden are a trance and progressive house duo based in United States 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Evergreen Brick Works | Toronto |
 | Fri, 6 Nov 2026 | Q Nightclub | Seattle |
+| Sat, 14 Nov 2026 | Public Works | San Francisco/Oakland |
 | Fri, 4 Dec 2026 | The XOX Arena Arch Galeries | Kuala Lumpur |
 | Sat, 5 Dec 2026 | Pasir Panjang Power Station | Singapore |
 
@@ -28,4 +29,4 @@ Gabriel & Dresden are a trance and progressive house duo based in United States 
 
 Luccio, Amy Wiles, Mat Zo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielndresden/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielndresden/)*

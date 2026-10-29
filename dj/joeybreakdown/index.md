@@ -1,14 +1,15 @@
 # Joey Breakdown
 
-Joey Breakdown is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Upstairs at the 700, Philadelphia on Fri, 6 Nov 2026.
+Joey Breakdown is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Upstairs at the 700, Philadelphia on Fri, 6 Nov 2026.
 
-Joey Breakdown is a drum & bass and jungle artist based in United States of America, with 16 gigs on soundcheck across Philadelphia. Often billed alongside Art Cuebik, Armen and Mis-Ty. Next up: Upstairs at the 700, Philadelphia on Fri 6 Nov.
+Joey Breakdown is a drum & bass and jungle artist based in United States of America, with 17 gigs on soundcheck across Philadelphia. Often billed alongside Art Cuebik, Armen and Mis-Ty. Next up: Upstairs at the 700, Philadelphia on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Upstairs at the 700 | Philadelphia |
+| Fri, 18 Dec 2026 | The Winston Social Club | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Joey Breakdown is a drum & bass and jungle artist based in United States of Amer
 
 Art Cuebik, Armen, Mis-Ty
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeybreakdown/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeybreakdown/)*

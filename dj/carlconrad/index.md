@@ -1,6 +1,6 @@
 # Carl Conrad
 
-Carl Conrad is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Prisma, Berlin on Thu, 26 Nov 2026.
+Carl Conrad is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Prisma, Berlin on Thu, 26 Nov 2026.
 
 Carl Conrad is a techno and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Unerhört, High Protocol and Alternate. Next up: Prisma, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Carl Conrad is a techno and tech house artist based in Germany, with 17 gigs on 
 
 Unerhört, High Protocol, Alternate
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlconrad/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlconrad/)*

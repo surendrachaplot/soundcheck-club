@@ -1,6 +1,6 @@
 # David Delgado
 
-David Delgado is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Golden Gate, Berlin on Thu, 5 Nov 2026.
+David Delgado is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Gate, Berlin on Thu, 5 Nov 2026.
 
 David Delgado is a house and tech house artist based in Colombia, with 56 gigs on soundcheck across Barcelona, Berlin, Bogotá and Frankfurt and 3 more. Often billed alongside Maik Yells, BeleeJean and Tripmastaz. Next up: Golden Gate, Berlin on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ David Delgado is a house and tech house artist based in Colombia, with 56 gigs o
 
 Maik Yells, BeleeJean, Tripmastaz
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daviddelgado/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daviddelgado/)*

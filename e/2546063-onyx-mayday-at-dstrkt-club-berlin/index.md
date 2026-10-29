@@ -1,6 +1,6 @@
 # ONYX 'MAYDAY' at DSTRKT Club Berlin
 
-ONYX 'MAYDAY' at DSTRKT Club Berlin on Sat 1 May, Berlin. 1 artist: DJ DRECKISCH. See the line-up on soundcheck.
+ONYX 'MAYDAY' at DSTRKT Club Berlin on Sat 1 May, Berlin. 4 artists: DJ Achim Feuervogel, DJ DRECKISCH, Eva Charley and NYCO (NL). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ ONYX 'MAYDAY' at DSTRKT Club Berlin on Sat 1 May, Berlin. 1 artist: DJ DRECKISCH
 
 ## Line-up
 
+- DJ Achim Feuervogel
 - DJ DRECKISCH
+- Eva Charley
+- NYCO (NL)
 
 *Source: [soundcheck](https://soundcheck.club/e/2546063-onyx-mayday-at-dstrkt-club-berlin/)*

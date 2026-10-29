@@ -1,6 +1,6 @@
 # Eden NYC
 
-Eden NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SHIFT: The Nightmare Isn't Over — Developer , DJ Plant Texture (Live) & Orlando Voorn" on Sun, 1 Nov 2026.
+Eden NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "SHIFT: The Nightmare Isn't Over — Developer , DJ Plant Texture (Live) & Orlando Voorn" on Sun, 1 Nov 2026.
 
 Eden NYC is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including ABEILLE, Adrian Hex, Dalton Taylor and Developer and 2 more. See dates, start times and who's playing. 20 w 36th St.
 
@@ -15,4 +15,4 @@ Eden NYC is a music venue in New York City listed on soundcheck. 2 upcoming gigs
 
 20 w 36th St, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden-nyc/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden-nyc/)*

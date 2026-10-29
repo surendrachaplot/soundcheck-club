@@ -1,6 +1,6 @@
 # San Holo
 
-San Holo is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+San Holo is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 San Holo is a bass and house artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 17 more. Often billed alongside Of The Trees, Alesso and Boys Noize. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ San Holo is a bass and house artist based in Netherlands, with 32 gigs on soundc
 
 Of The Trees, Alesso, Boys Noize
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*

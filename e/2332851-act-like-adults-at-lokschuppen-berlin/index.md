@@ -1,6 +1,6 @@
 # Act Like Adults at Lokschuppen Berlin
 
-Act Like Adults at Lokschuppen Berlin on Sat 21 Nov, Berlin. 2 artists: pavvvvvvlo and Surf 2 Glory. Trance and Techno. See the line-up on soundcheck.
+Act Like Adults at Lokschuppen Berlin on Sat 21 Nov, Berlin. 10 artists: Bae Blade, DJ Sweedee, DJ WIFI and Dollushka and 6 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,14 @@ Act Like Adults at Lokschuppen Berlin on Sat 21 Nov, Berlin. 2 artists: pavvvvvv
 
 ## Line-up
 
+- Bae Blade
+- DJ Sweedee
+- DJ WIFI
+- Dollushka
+- GI.O
+- Johannes Wohlgeschaffen
+- Lisek
+- OCIN
 - pavvvvvvlo
 - Surf 2 Glory
 

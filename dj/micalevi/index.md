@@ -1,6 +1,6 @@
 # Mica Levi
 
-Mica Levi is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ormside Projects, London on Sun, 8 Nov 2026.
+Mica Levi is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ormside Projects, London on Sun, 8 Nov 2026.
 
 Mica Levi is an experimental and electronica artist based in United Kingdom, with 20 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Krakow and 7 more. Often billed alongside 2K88, Arca and ojoo. Next up: Ormside Projects, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Mica Levi is an experimental and electronica artist based in United Kingdom, wit
 
 2K88, Arca, ojoo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micalevi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micalevi/)*

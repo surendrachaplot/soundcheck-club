@@ -1,14 +1,14 @@
 # Axel Esphinoza
 
-Axel Esphinoza is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
+Axel Esphinoza is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at 821 Runnymede Rd, Toronto on Fri, 30 Oct 2026.
 
-Axel Esphinoza is a techno and new wave artist based in Canada, with 8 gigs on soundcheck across Toronto. Often billed alongside A_C_E., KILL 9 1 and MENACE.. Next up: TBA, Toronto on Fri 30 Oct.
+Axel Esphinoza is a techno and new wave artist based in Canada, with 8 gigs on soundcheck across Toronto. Often billed alongside A_C_E., KILL 9 1 and MENACE.. Next up: 821 Runnymede Rd, Toronto on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA | Toronto |
+| Fri, 30 Oct 2026 | 821 Runnymede Rd | Toronto |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ Axel Esphinoza is a techno and new wave artist based in Canada, with 8 gigs on s
 
 A_C_E., KILL 9 1, MENACE.
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelesphinoza/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelesphinoza/)*

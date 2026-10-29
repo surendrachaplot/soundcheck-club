@@ -1,14 +1,15 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Theata, London on Fri, 30 Oct 2026.
+Marco Carola is a Tech House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Theata, London on Fri, 30 Oct 2026.
 
-Marco Carola is a tech house and techno artist based in Italy, with 324 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 44 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Ilario Alicante. Next up: Theata, London on Fri 30 Oct.
+Marco Carola is a tech house and techno artist based in Italy, with 325 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Loco Dice. Next up: Theata, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Theata | London |
+| Sat, 31 Oct 2026 | Autodromo Enzo e Dino Ferrari | Bologna |
 | Sat, 7 Nov 2026 | Vale do Anhangabaú | Sao Paulo |
 | Fri, 13 Nov 2026 | Fabrique | Milan |
 | Sat, 14 Nov 2026 | Warehouse ZRH | Zurich |
@@ -19,7 +20,6 @@ Marco Carola is a tech house and techno artist based in Italy, with 324 gigs on 
 | Sun, 27 Dec 2026 | KOKO | London |
 | Mon, 28 Dec 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 1 Jan 2027 | Fabrik | Madrid |
-| Sat, 2 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Marco Carola is a tech house and techno artist based in Italy, with 324 gigs on 
 
 ## Shares bills with
 
-Franky Rizardo, Ale De Tuglie, Ilario Alicante
+Franky Rizardo, Ale De Tuglie, Loco Dice
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

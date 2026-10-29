@@ -1,6 +1,6 @@
 # Système
 
-Système is a music venue in Montreal with 21 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Système Soundsystem" on Thu, 29 Oct 2026.
+Système is a music venue in Montreal with 21 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Système Soundsystem" on Thu, 29 Oct 2026.
 
 Système is a music venue in Montreal listed on soundcheck. 21 upcoming gigs, with line-ups including Akpossoul, Ana Luisa, Andrea de Tour and Artphorm and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 21 upcoming gigs, wi
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

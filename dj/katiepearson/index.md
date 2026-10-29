@@ -1,6 +1,6 @@
 # Katie Pearson
 
-Katie Pearson is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Poodle Bar and Bistro, Melbourne on Fri, 30 Oct 2026.
+Katie Pearson is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Poodle Bar and Bistro, Melbourne on Fri, 30 Oct 2026.
 
 Katie Pearson is a house and club artist based in Australia, with 31 gigs on soundcheck across Brisbane, Melbourne, Perth and Sydney. Often billed alongside Millú, Naycab and Activator (AU). Next up: Poodle Bar and Bistro, Melbourne on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Katie Pearson is a house and club artist based in Australia, with 31 gigs on sou
 
 Millú, Naycab, Activator (AU)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiepearson/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiepearson/)*

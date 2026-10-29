@@ -1,6 +1,6 @@
 # Prosperity Room
 
-Prosperity Room is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Concord Music Hall, Chicago on Fri, 30 Oct 2026.
+Prosperity Room is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Concord Music Hall, Chicago on Fri, 30 Oct 2026.
 
 Prosperity Room is a club and techno artist based in United States of America, with 18 gigs on soundcheck across Atlanta, Chicago and San Francisco/Oakland. Often billed alongside hhunter, Elarm and Kirk (US). Next up: Concord Music Hall, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Prosperity Room is a club and techno artist based in United States of America, w
 
 hhunter, Elarm, Kirk (US)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prosperityroom/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prosperityroom/)*

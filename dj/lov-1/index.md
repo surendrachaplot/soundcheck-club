@@ -1,18 +1,18 @@
 # LOV (1)
 
-LOV (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bodeek, Brussels on Wed, 28 Oct 2026.
+LOV (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
-LOV is a techno and house artist based in Italy, with 8 gigs on soundcheck across Brussels, Ghent and London. Often billed alongside 131bpm, 1000raks and ASHTREY. Next up: Bodeek, Brussels on Wed 28 Oct.
+LOV is a techno and house artist based in Italy, with 8 gigs on soundcheck across Brussels, Ghent and London. Often billed alongside 131bpm, 1000raks and ASHTREY. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | Bodeek | Brussels |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 
 ## Recently played
 
+- Bodeek, Brussels · Wed, 28 Oct 2026
 - Usquare, Brussels · Fri, 28 Aug 2026
 - Le Labokube, Brussels · Fri, 14 Aug 2026
 - Hackney Wick Multiple Venues, London · Sat, 4 Jul 2026
@@ -24,4 +24,4 @@ LOV is a techno and house artist based in Italy, with 8 gigs on soundcheck acros
 
 131bpm, 1000raks, ASHTREY
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lov-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lov-1/)*

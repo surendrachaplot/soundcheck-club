@@ -1,6 +1,6 @@
 # ¥ØU$UK€ ¥UK1MAT$U
 
-¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Wan Chai Harbourfront, Hong Kong on Fri, 30 Oct 2026.
+¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Wan Chai Harbourfront, Hong Kong on Fri, 30 Oct 2026.
 
 ¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist based in Japan, with 202 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 68 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Wan Chai Harbourfront, Hong Kong on Fri 30 Oct.
 
@@ -29,4 +29,4 @@
 
 Blawan, DJ Gigola, Interplanetary Criminal
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*

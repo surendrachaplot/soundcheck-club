@@ -1,6 +1,6 @@
 # somnifobia
 
-somnifobia is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ciało, Wroclaw on Fri, 30 Oct 2026.
+somnifobia is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ciało, Wroclaw on Fri, 30 Oct 2026.
 
 somnifobia is a techno and breakbeat artist based in Poland, with 47 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Tekknik, Furie and PUZZ. Next up: Ciało, Wroclaw on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ somnifobia is a techno and breakbeat artist based in Poland, with 47 gigs on sou
 
 Tekknik, Furie, PUZZ
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somnifobia/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somnifobia/)*

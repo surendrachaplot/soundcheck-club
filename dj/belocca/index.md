@@ -1,6 +1,6 @@
 # Belocca
 
-Belocca is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 16 Jan 2027.
+Belocca is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 16 Jan 2027.
 
 Belocca is a techno and acid artist based in Hungary, with 19 gigs on soundcheck across Amsterdam, Athens, Berlin and Bratislava and 6 more. Often billed alongside Dreadsun, Joris Turenhout and Ozzy Riot. Next up: Akvárium Klub, Budapest on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Belocca is a techno and acid artist based in Hungary, with 19 gigs on soundcheck
 
 Dreadsun, Joris Turenhout, Ozzy Riot
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belocca/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belocca/)*

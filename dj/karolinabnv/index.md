@@ -1,6 +1,6 @@
 # Karolina Bnv
 
-Karolina Bnv is a House and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Paloma, Berlin on Thu, 19 Nov 2026.
+Karolina Bnv is a House and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Paloma, Berlin on Thu, 19 Nov 2026.
 
 Karolina Bnv is a house and italo disco artist, with 59 gigs on soundcheck across Amsterdam, Berlin, Dresden and Hamburg and 4 more. Often billed alongside Franz Scala, Paty Vapor and Fineberg. Next up: Paloma, Berlin on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Karolina Bnv is a house and italo disco artist, with 59 gigs on soundcheck acros
 
 Franz Scala, Paty Vapor, Fineberg
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinabnv/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinabnv/)*

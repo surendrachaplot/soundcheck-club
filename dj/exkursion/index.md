@@ -1,6 +1,6 @@
 # Exkursion
 
-Exkursion is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at FOLD, London on Sat, 21 Nov 2026.
+Exkursion is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at FOLD, London on Sat, 21 Nov 2026.
 
 Exkursion is a garage and house artist based in Switzerland, with 24 gigs on soundcheck across Berlin, Brussels, London and Lyon and 1 more. Often billed alongside Sanctus Libido, Das Firmament and Innuendo. Next up: FOLD, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Exkursion is a garage and house artist based in Switzerland, with 24 gigs on sou
 
 Sanctus Libido, Das Firmament, Innuendo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exkursion/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exkursion/)*

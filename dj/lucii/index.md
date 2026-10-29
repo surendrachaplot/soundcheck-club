@@ -1,6 +1,6 @@
 # lucii
 
-lucii is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at vurt., Seoul on Fri, 30 Oct 2026.
+lucii is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at vurt., Seoul on Fri, 30 Oct 2026.
 
 lucii is a techno and house artist based in Myanmar, with 19 gigs on soundcheck across Bangkok and Seoul. Often billed alongside MOAH, ATISMIA and D.E.F. Next up: vurt., Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ lucii is a techno and house artist based in Myanmar, with 19 gigs on soundcheck 
 
 MOAH, ATISMIA, D.E.F
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucii/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucii/)*

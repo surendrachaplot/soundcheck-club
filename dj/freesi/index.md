@@ -1,6 +1,6 @@
 # freesi
 
-freesi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Frappant, Hamburg on Sat, 7 Nov 2026.
+freesi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Frappant, Hamburg on Sat, 7 Nov 2026.
 
 freesi is a house and disco artist based in Germany, with 29 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Franziska Frizzante, Luk Vicent and Bomchello. Next up: Frappant, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ freesi is a house and disco artist based in Germany, with 29 gigs on soundcheck 
 
 Franziska Frizzante, Luk Vicent, Bomchello
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freesi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freesi/)*

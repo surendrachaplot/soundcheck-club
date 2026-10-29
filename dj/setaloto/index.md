@@ -1,6 +1,6 @@
 # Seta Loto
 
-Seta Loto is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 19 Nov 2026.
+Seta Loto is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 19 Nov 2026.
 
 Seta Loto is a bass and techno artist based in Germany, with 17 gigs on soundcheck across Beijing, Berlin, Chengdu and Kyoto and 4 more. Often billed alongside TBH, Abo Abo and Claude B. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Seta Loto is a bass and techno artist based in Germany, with 17 gigs on soundche
 
 TBH, Abo Abo, Claude B
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaloto/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaloto/)*

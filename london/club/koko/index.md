@@ -1,8 +1,8 @@
 # KOKO
 
-KOKO is a music venue in London with 26 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Anywherelse Halloween: ARODES, Marten Lou" on Fri, 30 Oct 2026.
+KOKO is a music venue in London with 26 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Anywherelse Halloween: ARODES, Marten Lou" on Fri, 30 Oct 2026.
 
-KOKO is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including ABEL (UK), Andrea Oliva, Argia and Arnie Wrong and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including ABEL (UK), AMOUNKA, Andrea Oliva and Argia and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
@@ -10,7 +10,7 @@ KOKO is a music venue in London listed on soundcheck. 26 upcoming gigs, with lin
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Anywherelse Halloween: ARODES, Marten Lou | ARODES, Khenya, Marten Lou, Rockin Moroccin |
 | Sat, 31 Oct 2026 | KOKO Electronic: Halloween - Ahmed Spins [SOLD OUT] | ABEL (UK) |
-| Fri, 6 Nov 2026 | KOKO Electronic: Kirollus (All Night Long) | Kirollus |
+| Fri, 6 Nov 2026 | Camden Disco Festival: Mafalda, Daisybelle, Tiffany Quinn, Lilli Kelly | Daisybelle, Mafalda, Tiffany Quinn |
 | Sat, 7 Nov 2026 | Acid House Palace: Special Guests |  |
 | Fri, 13 Nov 2026 | KOKO Electronic: Andrea Oliva | Andrea Oliva, Argia, Vanco |
 | Sat, 14 Nov 2026 | KOKO Electronic: Claptone | Claptone, Crusy, Will Silver |
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 26 upcoming gigs, with lin
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

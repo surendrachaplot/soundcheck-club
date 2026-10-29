@@ -1,6 +1,6 @@
 # The Grocery Studios
 
-The Grocery Studios is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "What's Going On: Conduction, Improvisation, and the Culture of Structure" on Sun, 22 Nov 2026.
+The Grocery Studios is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "What's Going On: Conduction, Improvisation, and the Culture of Structure" on Sun, 22 Nov 2026.
 
 The Grocery Studios is a music venue in Seattle listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Grocery Studios is a music venue in Seattle listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | What's Going On: Conduction, Improvisation, and the Culture of Structure |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-grocery-studios/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-grocery-studios/)*

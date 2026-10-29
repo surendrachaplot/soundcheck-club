@@ -1,6 +1,6 @@
 # Francisco B
 
-Francisco B is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 28 Nov 2026.
+Francisco B is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 Francisco B is a techno and minimal techno artist based in Spain, with 11 gigs on soundcheck across Barcelona. Often billed alongside Lardin, Guillem Cotto and IZAN CRAMER. Next up: Village Underground Barcelona, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Francisco B is a techno and minimal techno artist based in Spain, with 11 gigs o
 
 Lardin, Guillem Cotto, IZAN CRAMER
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscob/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscob/)*

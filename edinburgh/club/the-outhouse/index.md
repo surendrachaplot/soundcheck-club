@@ -1,6 +1,6 @@
 # The Outhouse
 
-The Outhouse is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "An Intimate Evening with Doogzz and Slown" on Fri, 6 Nov 2026.
+The Outhouse is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "An Intimate Evening with Doogzz and Slown" on Fri, 6 Nov 2026.
 
 The Outhouse is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 12a Broughton Street Lane, Edinburgh, Midlothian EH1 3LY.
 
@@ -14,4 +14,4 @@ The Outhouse is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig.
 
 12a Broughton Street Lane, Edinburgh, Midlothian EH1 3LY, Edinburgh
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-outhouse/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-outhouse/)*

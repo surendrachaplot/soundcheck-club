@@ -1,13 +1,14 @@
 # Killian
 
-Killian is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Liberty Hall, Sydney on Sat, 12 Dec 2026.
+Killian is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Civic Underground, Sydney on Sat, 5 Dec 2026.
 
-Killian is a techno and house artist based in Australia, with 29 gigs on soundcheck across Brisbane, Byron Bay, Dublin and Glasgow and 5 more. Often billed alongside 1tbsp, SOLTERA and D-Grade. Next up: Liberty Hall, Sydney on Sat 12 Dec.
+Killian is a techno and house artist based in Australia, with 30 gigs on soundcheck across Brisbane, Byron Bay, Dublin and Glasgow and 5 more. Often billed alongside 1tbsp, SOLTERA and D-Grade. Next up: Civic Underground, Sydney on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Civic Underground | Sydney |
 | Sat, 12 Dec 2026 | Liberty Hall | Sydney |
 | Sat, 19 Dec 2026 | TBA | Sydney |
 
@@ -26,4 +27,4 @@ Killian is a techno and house artist based in Australia, with 29 gigs on soundch
 
 1tbsp, SOLTERA, D-Grade
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killian/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killian/)*

@@ -1,6 +1,6 @@
 # Tumbaco
 
-Tumbaco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at SEN, Warsaw on Fri, 30 Oct 2026.
+Tumbaco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at SEN, Warsaw on Fri, 30 Oct 2026.
 
 Tumbaco is a techno and house artist, with 8 gigs on soundcheck across Tallinn and Warsaw. Often billed alongside Simo, Bambi (Menage a Trois) and Emanuel Satie. Next up: SEN, Warsaw on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Tumbaco is a techno and house artist, with 8 gigs on soundcheck across Tallinn a
 
 Simo (1), Bambi (Menage a Trois), Emanuel Satie
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tumbaco/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tumbaco/)*

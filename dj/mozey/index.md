@@ -1,8 +1,8 @@
 # Mozey
 
-Mozey is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at MK Arena, Midlands on Sat, 31 Oct 2026.
+Mozey is a Drum & Bass and Jungle artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at MK Arena, Midlands on Sat, 31 Oct 2026.
 
-Mozey is a drum & bass and jungle artist based in United Kingdom, with 113 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 35 more. Often billed alongside K Motionz, Kanine and Hedex. Next up: MK Arena, Midlands on Sat 31 Oct.
+Mozey is a drum & bass and jungle artist based in United Kingdom, with 114 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 36 more. Often billed alongside Hedex, K Motionz and Kanine. Next up: MK Arena, Midlands on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Mozey is a drum & bass and jungle artist based in United Kingdom, with 113 gigs 
 | Sat, 21 Nov 2026 | The Trusts Stadium | Auckland |
 | Fri, 11 Dec 2026 | The Racket Space | Dublin |
 | Sat, 30 Jan 2027 | Akvárium Klub | Budapest |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played
@@ -30,6 +31,6 @@ Mozey is a drum & bass and jungle artist based in United Kingdom, with 113 gigs 
 
 ## Shares bills with
 
-K Motionz, Kanine, Hedex
+Hedex, K Motionz, Kanine
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*

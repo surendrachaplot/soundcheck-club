@@ -1,6 +1,6 @@
 # Okain
 
-Okain is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hoppetosse, Berlin on Sat, 14 Nov 2026.
+Okain is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hoppetosse, Berlin on Sat, 14 Nov 2026.
 
 Okain is a house and minimal artist based in France, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 11 more. Often billed alongside Ray Okpara, Marko Nastic and D Jaguar. Next up: Hoppetosse, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Okain is a house and minimal artist based in France, with 34 gigs on soundcheck 
 
 Ray Okpara, Marko Nastic, D Jaguar
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okain/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okain/)*

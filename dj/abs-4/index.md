@@ -1,6 +1,6 @@
 # ABS (4)
 
-ABS (4) is a House and Rio Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Jupiter Disco, New York City on Sat, 7 Nov 2026.
+ABS (4) is a House and Rio Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jupiter Disco, New York City on Sat, 7 Nov 2026.
 
 ABS is a house and rio funk artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Armii1n, Joiah and Choukroun. Next up: Jupiter Disco, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ABS is a house and rio funk artist based in United States of America, with 9 gig
 
 Armii1n, Joiah, Choukroun
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abs-4/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abs-4/)*

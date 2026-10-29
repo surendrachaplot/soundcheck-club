@@ -1,0 +1,28 @@
+# A.L.A.E
+
+A.L.A.E is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Glazart, Paris on Wed, 11 Nov 2026.
+
+A.L.A.E is a techno artist based in Morocco, with 10 gigs on soundcheck across Amsterdam, Marseille and Paris. Often billed alongside BNJR, Marco Ramos and A.mo. Next up: Glazart, Paris on Wed 11 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 11 Nov 2026 | Glazart | Paris |
+
+## Recently played
+
+- John Doe, Amsterdam · Thu, 22 Oct 2026
+- Glazart, Paris · Sun, 26 Jul 2026
+- Glazart, Paris · Sun, 10 May 2026
+- Glazart, Paris · Sat, 17 Jan 2026
+- Glazart, Paris · Sat, 8 Nov 2025
+- Glazart, Paris · Sun, 19 Oct 2025
+- Glazart, Paris · Sun, 24 Aug 2025
+- Cabaret  Aléatoire, Marseille · Fri, 27 Jun 2025
+
+## Shares bills with
+
+BNJR, Marco Ramos, A.mo
+
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.l.a.e/)*

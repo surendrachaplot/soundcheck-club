@@ -1,14 +1,14 @@
 # KJ3 (US)
 
-KJ3 (US) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Private Venue, Seattle on Fri, 30 Oct 2026.
+KJ3 (US) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SECRET LOCATION, Seattle on Fri, 30 Oct 2026.
 
-KJ3 (US) is a house and electro artist, with 21 gigs on soundcheck across Seattle. Often billed alongside Temenon, alexia.f and Freddy M. Next up: TBA - Private Venue, Seattle on Fri 30 Oct.
+KJ3 (US) is a house and electro artist, with 21 gigs on soundcheck across Seattle. Often billed alongside Temenon, alexia.f and Freddy M. Next up: TBA - SECRET LOCATION, Seattle on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA - Private Venue | Seattle |
+| Fri, 30 Oct 2026 | TBA - SECRET LOCATION | Seattle |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ KJ3 (US) is a house and electro artist, with 21 gigs on soundcheck across Seattl
 
 Temenon, alexia.f, Freddy M
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kj3-us/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kj3-us/)*

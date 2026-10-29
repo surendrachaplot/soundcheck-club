@@ -1,6 +1,6 @@
 # Art Of Dark - Xmas Bank Holiday - Raphael Carrau, Karine, Donald + more at FOLD
 
-Art Of Dark - Xmas Bank Holiday - Raphael Carrau, Karine, Donald + more at FOLD on Sun 27 Dec, London. 6 artists: DONALD - BIIG_DONNY, DORA, Karine and Nicky Macha and 2 more. Progressive House and Techno. See the line-up on soundcheck.
+Art Of Dark - Xmas Bank Holiday - Raphael Carrau, Karine, Donald + more at FOLD on Sun 27 Dec, London. 7 artists: Bitzer Maloney, DONALD - BIIG_DONNY, Dora (UK) and Karine and 3 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,9 @@ Art Of Dark - Xmas Bank Holiday - Raphael Carrau, Karine, Donald + more at FOLD 
 
 ## Line-up
 
+- Bitzer Maloney
 - DONALD - BIIG_DONNY
-- DORA
+- Dora (UK)
 - Karine
 - Nicky Macha
 - Raphael Carrau

@@ -1,6 +1,6 @@
 # sulffffffur
 
-sulffffffur is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Ask A Raver, Chicago on Fri, 30 Oct 2026.
+sulffffffur is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Ask A Raver, Chicago on Fri, 30 Oct 2026.
 
 sulffffffur is an experimental and hardcore artist based in United States of America, with 20 gigs on soundcheck across Chicago and Detroit. Often billed alongside CRYYM_, avas and easygoingtech. Next up: TBA - Ask A Raver, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ sulffffffur is an experimental and hardcore artist based in United States of Ame
 
 CRYYM_, avas, easygoingtech
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sulffffffur/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sulffffffur/)*

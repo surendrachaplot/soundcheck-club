@@ -1,6 +1,6 @@
 # Circolo degli Illuminati
 
-Circolo degli Illuminati is a music venue in Rome with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "MINÛ HALLOWEEN NIGHT: Sonja Moonear, Zeina & Allegra De Angelis" on Sat, 31 Oct 2026.
+Circolo degli Illuminati is a music venue in Rome with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "MINÛ HALLOWEEN NIGHT: Sonja Moonear, Zeina & Allegra De Angelis" on Sat, 31 Oct 2026.
 
 Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 3 upcoming gigs, with line-ups including Allegra De Angelis, PARAMIDA, Schatzï and Sonja Moonear and 1 more. See dates, start times and who's playing. Via Giuseppe Libetta 1, 00154 Roma (RM), Italy.
 
@@ -16,4 +16,4 @@ Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 3 upcomi
 
 Via Giuseppe Libetta 1, 00154 Roma (RM), Italy, Rome
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/circolo-degli-illuminati/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/circolo-degli-illuminati/)*

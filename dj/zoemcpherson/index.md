@@ -1,6 +1,6 @@
 # Zoë Mc Pherson
 
-Zoë Mc Pherson is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Confort Moderne, West on Sat, 14 Nov 2026.
+Zoë Mc Pherson is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Confort Moderne, West on Sat, 14 Nov 2026.
 
 Zoë Mc Pherson is an experimental and techno artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Bergen and 28 more. Often billed alongside Alessandra Leone, ABADIR and Evian Christ. Next up: Le Confort Moderne, West on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Zoë Mc Pherson is an experimental and techno artist based in United Kingdom, wi
 
 Alessandra Leone, ABADIR, Evian Christ
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoemcpherson/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoemcpherson/)*

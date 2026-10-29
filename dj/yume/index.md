@@ -1,14 +1,15 @@
 # Yume
 
-Yume is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Débris, Tokyo on Sat, 7 Nov 2026.
+Yume is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Débris, Tokyo on Sat, 7 Nov 2026.
 
-Yume is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Montreal, Naples, Osaka and Paris and 2 more. Often billed alongside SIGNAL (JP), AHREUM and ATT. Next up: Débris, Tokyo on Sat 7 Nov.
+Yume is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Montreal, Naples, Osaka and Paris and 2 more. Often billed alongside SIGNAL (JP), AHREUM and ATT. Next up: Débris, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Débris | Tokyo |
+| Thu, 12 Nov 2026 | ZUBAR | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Yume is a house and techno artist based in United States of America, with 28 gig
 
 SIGNAL (JP), AHREUM, ATT
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yume/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yume/)*

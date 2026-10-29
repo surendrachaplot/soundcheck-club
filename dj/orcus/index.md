@@ -1,6 +1,6 @@
 # Orcus
 
-Orcus is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Şahika, Istanbul on Fri, 30 Oct 2026.
+Orcus is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Şahika, Istanbul on Fri, 30 Oct 2026.
 
 Orcus is a techno and trance artist, with 12 gigs on soundcheck across Berlin, Istanbul and Lyon. Often billed alongside Roots., MILANCHOLIE and senaitstar. Next up: Şahika, Istanbul on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Orcus is a techno and trance artist, with 12 gigs on soundcheck across Berlin, I
 
 Roots., MILANCHOLIE, senaitstar
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orcus/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orcus/)*

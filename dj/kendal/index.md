@@ -1,6 +1,6 @@
 # Kendal
 
-Kendal is a Italo Disco and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at H0L0, New York City on Fri, 6 Nov 2026.
+Kendal is a Italo Disco and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at H0L0, New York City on Fri, 6 Nov 2026.
 
 Kendal is an italo disco and techno artist based in France, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 33 more. Often billed alongside Andi, Pablo Bozzi and Belaria. Next up: H0L0, New York City on Fri 6 Nov.
 
@@ -10,7 +10,7 @@ Kendal is an italo disco and techno artist based in France, with 118 gigs on sou
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | H0L0 | New York City |
 | Sat, 14 Nov 2026 | Petit CAB | Marseille |
-| Sat, 5 Dec 2026 | Mondo | Madrid |
+| Sat, 5 Dec 2026 | Sala Cocó | Madrid |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ Kendal is an italo disco and techno artist based in France, with 118 gigs on sou
 
 Andi, Pablo Bozzi, Belaria
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*

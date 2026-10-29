@@ -1,14 +1,15 @@
 # Haney Lee
 
-Haney Lee is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at BBCB: Beton Brut+Concrete Bar, Seoul on Sat, 7 Nov 2026.
+Haney Lee is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Blank Site, Seoul on Sat, 7 Nov 2026.
 
-Haney Lee is a bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Hong Kong, Krakow and Seoul. Often billed alongside Shins, Hyejin and KING SHE. Next up: BBCB: Beton Brut+Concrete Bar, Seoul on Sat 7 Nov.
+Haney Lee is a bass and jungle artist based in United Kingdom, with 16 gigs on soundcheck across Hong Kong, Krakow and Seoul. Often billed alongside Shins, Hyejin and KING SHE. Next up: Blank Site, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | BBCB: Beton Brut+Concrete Bar | Seoul |
+| Sat, 7 Nov 2026 | Blank Site | Seoul |
+| Sat, 14 Nov 2026 | The Edge Seoul | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Haney Lee is a bass and jungle artist based in United Kingdom, with 15 gigs on s
 
 Shins, Hyejin, KING SHE
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haneylee/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haneylee/)*

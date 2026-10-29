@@ -1,6 +1,6 @@
 # Clwd
 
-Clwd is a music venue in Sofia with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "EXE pres. Adam Ten" on Fri, 6 Nov 2026.
+Clwd is a music venue in Sofia with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "EXE pres. Adam Ten" on Fri, 6 Nov 2026.
 
 Clwd is a music venue in Sofia listed on soundcheck. 2 upcoming gigs, with line-ups including Adam Ten, Lilya Mandre, MODERN and Pavel Petrov and 2 more. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Clwd is a music venue in Sofia listed on soundcheck. 2 upcoming gigs, with line-
 | Fri, 6 Nov 2026 | EXE pres. Adam Ten | Adam Ten, Lilya Mandre, Pavel Petrov |
 | Sat, 7 Nov 2026 | BERLIN CALLING | MODERN, Speedy J, Vorick |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/clwd/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/clwd/)*

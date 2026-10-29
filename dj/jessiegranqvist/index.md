@@ -1,8 +1,8 @@
 # Jessie Granqvist
 
-Jessie Granqvist is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bassiani, Tbilisi on Fri, 30 Oct 2026.
+Jessie Granqvist is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bassiani, Tbilisi on Fri, 30 Oct 2026.
 
-Jessie Granqvist is a techno and house artist based in Sweden, with 103 gigs on soundcheck across Amsterdam, Beijing, Berlin and Dubai and 11 more. Often billed alongside Maris Shilton, Anthony Linell and Evigt Mörker. Next up: Bassiani, Tbilisi on Fri 30 Oct.
+Jessie Granqvist is a techno and house artist based in Sweden, with 104 gigs on soundcheck across Amsterdam, Beijing, Berlin and Dubai and 11 more. Often billed alongside Maris Shilton, Anthony Linell and Evigt Mörker. Next up: Bassiani, Tbilisi on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jessie Granqvist is a techno and house artist based in Sweden, with 103 gigs on 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 14 Nov 2026 | Under Bron | Stockholm |
+| Sun, 15 Nov 2026 | Garage Noord | Amsterdam |
 | Sat, 21 Nov 2026 | AMT | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Jessie Granqvist is a techno and house artist based in Sweden, with 103 gigs on 
 
 Maris Shilton, Anthony Linell, Evigt Mörker
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiegranqvist/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiegranqvist/)*

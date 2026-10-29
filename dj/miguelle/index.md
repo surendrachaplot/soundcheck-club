@@ -1,6 +1,6 @@
 # Miguelle
 
-Miguelle is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Miguelle is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Miguelle is a tech house and house artist based in Venezuela, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 22 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Miguelle is a tech house and house artist based in Venezuela, with 124 gigs on s
 
 TONS, Ben Sterling, Marco Carola
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*

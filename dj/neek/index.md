@@ -1,8 +1,8 @@
 # Neek
 
-Neek is a Techno and Dubstep artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
+Neek is a Techno and Dubstep artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
 
-Neek is a techno and dubstep artist based in United Kingdom, with 77 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 36 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
+Neek is a techno and dubstep artist based in United Kingdom, with 77 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 36 more. Often billed alongside Kahn, Medis and KRUELTY. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Neek is a techno and dubstep artist based in United Kingdom, with 77 gigs on sou
 
 ## Shares bills with
 
-Kahn, Medis, SGT Pokes
+Kahn, Medis, KRUELTY
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*

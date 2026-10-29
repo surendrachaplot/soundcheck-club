@@ -1,6 +1,6 @@
 # Claws
 
-Claws is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - LFO, Madrid on Sat, 5 Dec 2026.
+Claws is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - LFO, Madrid on Sat, 5 Dec 2026.
 
 Claws is a techno and trance artist based in United Kingdom, with 8 gigs on soundcheck across Madrid. Often billed alongside colell, Segas and Mental Duality. Next up: TBA - LFO, Madrid on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Claws is a techno and trance artist based in United Kingdom, with 8 gigs on soun
 
 colell, Segas, Mental Duality
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claws/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claws/)*

@@ -1,6 +1,6 @@
 # Moose
 
-Moose is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+Moose is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
 Moose is a drum & bass and jungle artist based in Netherlands, with 54 gigs on soundcheck across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Jumping Jack Frost, Funsta and IC3. Next up: XOYO, London on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Moose is a drum & bass and jungle artist based in Netherlands, with 54 gigs on s
 
 Jumping Jack Frost, Funsta, IC3
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*

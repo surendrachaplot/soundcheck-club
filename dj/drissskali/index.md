@@ -1,6 +1,6 @@
 # Driss Skali
 
-Driss Skali is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Story Toronto, Toronto on Sat, 31 Oct 2026.
+Driss Skali is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Story Toronto, Toronto on Sat, 31 Oct 2026.
 
 Driss Skali is a house and deep house artist, with 14 gigs on soundcheck across Atlanta, Miami, Montreal and New York City and 3 more. Often billed alongside Steve Lawler, Al V Dam and Amine K. Next up: Story Toronto, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Driss Skali is a house and deep house artist, with 14 gigs on soundcheck across 
 
 Steve Lawler, Al V Dam, Amine K
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drissskali/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drissskali/)*

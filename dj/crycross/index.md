@@ -1,14 +1,15 @@
 # cry$cross
 
-cry$cross is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Jupiter Disco, New York City on Sun, 22 Nov 2026.
+cry$cross is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Jupiter Disco, New York City on Sun, 22 Nov 2026.
 
-cry$cross is a house and techno artist based in United States of America, with 76 gigs on soundcheck across Los Angeles, New York City and Philadelphia. Often billed alongside Swaya, BOJAQ and Daniro. Next up: Jupiter Disco, New York City on Sun 22 Nov.
+cry$cross is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Los Angeles, New York City and Philadelphia. Often billed alongside Swaya, BOJAQ and Kweku Saunderson. Next up: Jupiter Disco, New York City on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Jupiter Disco | New York City |
+| Sat, 12 Dec 2026 | Paragon | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ cry$cross is a house and techno artist based in United States of America, with 7
 
 ## Shares bills with
 
-Swaya, BOJAQ, Daniro
+Swaya, BOJAQ, Kweku Saunderson
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*

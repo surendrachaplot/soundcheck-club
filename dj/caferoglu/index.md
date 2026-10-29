@@ -1,6 +1,6 @@
 # Caferoglu
 
-Caferoglu is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Toronto on Sat, 14 Nov 2026.
+Caferoglu is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Toronto on Sat, 14 Nov 2026.
 
 Caferoglu is an electronica and club artist, with 14 gigs on soundcheck across Toronto. Often billed alongside Katy Rise, Addy and Anoia. Next up: TBA, Toronto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Caferoglu is an electronica and club artist, with 14 gigs on soundcheck across T
 
 Katy Rise, Addy, Anoia
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caferoglu/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caferoglu/)*

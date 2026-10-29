@@ -1,14 +1,14 @@
 # HIKARU
 
-HIKARU is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at clubasia, Tokyo on Mon, 30 Nov 2026.
+HIKARU is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at club asia, Tokyo on Mon, 30 Nov 2026.
 
-HIKARU is a house and hip-hop artist based in Japan, with 72 gigs on soundcheck across Kyoto, Los Angeles and Tokyo. Often billed alongside MICO, nosuke and LoversOnly. Next up: clubasia, Tokyo on Mon 30 Nov.
+HIKARU is a house and hip-hop artist based in Japan, with 72 gigs on soundcheck across Kyoto, Los Angeles and Tokyo. Often billed alongside MICO, nosuke and LoversOnly. Next up: club asia, Tokyo on Mon 30 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 30 Nov 2026 | clubasia | Tokyo |
+| Mon, 30 Nov 2026 | club asia | Tokyo |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ HIKARU is a house and hip-hop artist based in Japan, with 72 gigs on soundcheck 
 
 MICO, nosuke, LoversOnly
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hikaru/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hikaru/)*

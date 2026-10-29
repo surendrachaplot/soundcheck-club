@@ -1,6 +1,6 @@
 # beGun
 
-beGun is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 31 Oct 2026.
+beGun is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 31 Oct 2026.
 
 beGun is an electronica and house artist, with 13 gigs on soundcheck across Barcelona. Often billed alongside Arnau Obiols, Enzo Leep and AINES. Next up: La Terrrazza, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ beGun is an electronica and house artist, with 13 gigs on soundcheck across Barc
 
 Arnau Obiols, Enzo Leep, AINES
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/begun-es/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/begun-es/)*

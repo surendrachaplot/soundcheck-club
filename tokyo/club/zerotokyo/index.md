@@ -1,8 +1,8 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 24 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "PRISM - All Underground Music" on Thu, 29 Oct 2026.
+ZEROTOKYO is a music venue in Tokyo with 25 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "PRISM - All Underground Music" on Thu, 29 Oct 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, with line-ups including Aiobahn, Anfisa Letyago, AVALON and AYANA KOSHIBA and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 25 upcoming gigs, with line-ups including Aiobahn, Anfisa Letyago, AVALON and AYANA KOSHIBA and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, with
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

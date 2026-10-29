@@ -1,6 +1,6 @@
 # Ross Williams ( 519 )
 
-Ross Williams ( 519 ) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at ekō, Windsor on Wed, 18 Nov 2026.
+Ross Williams ( 519 ) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ekō, Windsor on Wed, 18 Nov 2026.
 
 Ross Williams ( 519 ) is a techno and tech house artist based in Canada, with 6 gigs on soundcheck across Detroit and Windsor. Often billed alongside Wax Assassin, DJ DARIA and DJVODKASODA. Next up: ekō, Windsor on Wed 18 Nov.
 
@@ -22,4 +22,4 @@ Ross Williams ( 519 ) is a techno and tech house artist based in Canada, with 6 
 
 Wax Assassin, DJ DARIA, DJVODKASODA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosswilliams519/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosswilliams519/)*

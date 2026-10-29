@@ -1,6 +1,6 @@
 # Keisuke Miura
 
-Keisuke Miura is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Disco Eddie's, Tokyo on Fri, 20 Nov 2026.
+Keisuke Miura is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Disco Eddie's, Tokyo on Fri, 20 Nov 2026.
 
 Keisuke Miura is a house and techno artist based in Japan, with 30 gigs on soundcheck across Tokyo. Often billed alongside MNTA, DAIY and Junya. Next up: Disco Eddie's, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Keisuke Miura is a house and techno artist based in Japan, with 30 gigs on sound
 
 MNTA, DAIY, Junya
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keisukemiura/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keisukemiura/)*

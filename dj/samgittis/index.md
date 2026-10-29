@@ -1,6 +1,6 @@
 # Sam Gittis
 
-Sam Gittis is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at SASS Music Club, Vienna on Thu, 29 Oct 2026.
+Sam Gittis is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at SASS Music Club, Vienna on Thu, 29 Oct 2026.
 
 Sam Gittis is a house and tech house artist based in United States of America, with 130 gigs on soundcheck across Berlin, Budapest, Leipzig and London and 4 more. Often billed alongside Sebastian Paiza, Chad Andrew and Tatomed. Next up: SASS Music Club, Vienna on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Sam Gittis is a house and tech house artist based in United States of America, w
 
 Sebastian Paiza, Chad Andrew, Tatomed (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgittis/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgittis/)*

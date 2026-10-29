@@ -1,6 +1,6 @@
 # Tau Car
 
-Tau Car is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Tau Car is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
 Tau Car is a house and techno artist based in France, with 123 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bangkok and 34 more. Often billed alongside International Mac, Konstantin and Edward. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Tau Car is a house and techno artist based in France, with 123 gigs on soundchec
 
 International Mac, Konstantin, Edward
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*

@@ -1,6 +1,6 @@
 # Ixa (2)
 
-Ixa (2) is a Electro and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at ciao ciao Bar, Berlin on Fri, 30 Oct 2026.
+Ixa (2) is a Electro and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ciao ciao Bar, Berlin on Fri, 30 Oct 2026.
 
 Ixa is an electro and progressive house artist, with 9 gigs on soundcheck across Berlin. Often billed alongside ADAM MUNNINGS, DJ Petite and Jonathan Apelbaum. Next up: ciao ciao Bar, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ixa is an electro and progressive house artist, with 9 gigs on soundcheck across
 
 ADAM MUNNINGS, DJ Petite, Jonathan Apelbaum
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ixa-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ixa-2/)*

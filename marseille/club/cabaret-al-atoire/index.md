@@ -1,6 +1,6 @@
 # Cabaret  Aléatoire
 
-Cabaret  Aléatoire is a music venue in Marseille with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Club Cabaret X La Zouaverie: Rumble Echoes #2" on Fri, 6 Nov 2026.
+Cabaret  Aléatoire is a music venue in Marseille with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Club Cabaret X La Zouaverie: Rumble Echoes #2" on Fri, 6 Nov 2026.
 
 Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 8 upcoming gigs, with line-ups including Angel Karel, Avni Leka, Bella Claxton and BonÏpso and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
 
@@ -21,4 +21,4 @@ Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 8 upcomi
 
 41 Rue Jobin, 13003, Marseille, Marseille
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*

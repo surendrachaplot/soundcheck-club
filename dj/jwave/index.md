@@ -1,6 +1,6 @@
 # jWave
 
-jWave is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lofi, Amsterdam on Sat, 31 Oct 2026.
+jWave is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lofi, Amsterdam on Sat, 31 Oct 2026.
 
 jWave is a tech house and house artist based in United Kingdom, with 53 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Birmingham and 17 more. Often billed alongside Josh Baker, Marsolo and Alexandria. Next up: Lofi, Amsterdam on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ jWave is a tech house and house artist based in United Kingdom, with 53 gigs on 
 
 Josh Baker, Marsolo, Alexandria
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*

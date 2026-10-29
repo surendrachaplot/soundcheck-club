@@ -1,6 +1,6 @@
 # Vani Vachi
 
-Vani Vachi is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 7 Nov 2026.
+Vani Vachi is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 7 Nov 2026.
 
 Vani Vachi is a techno and trance artist, with 78 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 16 more. Often billed alongside Tweeman, Ruslan Mays and Nastya Muravyova. Next up: Lehmann Club, Stuttgart on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Vani Vachi is a techno and trance artist, with 78 gigs on soundcheck across Amst
 
 Tweeman, Ruslan Mays, Nastya Muravyova
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanivachi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanivachi/)*

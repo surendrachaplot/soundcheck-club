@@ -1,14 +1,15 @@
 # Artic Yoyo
 
-Artic Yoyo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Location, Budapest on Sat, 21 Nov 2026.
+Artic Yoyo is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location, Budapest on Sat, 21 Nov 2026.
 
-Artic Yoyo is a minimal and tech house artist, with 23 gigs on soundcheck across Budapest. Often billed alongside Zsikla, Drabar and Ratkay. Next up: TBA - Secret Location, Budapest on Sat 21 Nov.
+Artic Yoyo is a minimal and tech house artist, with 24 gigs on soundcheck across Budapest. Often billed alongside Zsikla, Drabar and Ratkay. Next up: TBA - Secret Location, Budapest on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Secret Location | Budapest |
+| Fri, 27 Nov 2026 | Textilgyár | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Artic Yoyo is a minimal and tech house artist, with 23 gigs on soundcheck across
 
 Zsikla, Drabar, Ratkay
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/articyoyo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/articyoyo/)*

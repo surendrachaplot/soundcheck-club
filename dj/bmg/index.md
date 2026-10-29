@@ -1,6 +1,6 @@
 # BMG
 
-BMG is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
+BMG is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
 BMG is a techno and acid artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 20 more. Often billed alongside Erika, Mike Servito and Derek Plaslaiko. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ BMG is a techno and acid artist based in United States of America, with 77 gigs 
 
 Erika, Mike Servito, Derek Plaslaiko
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*

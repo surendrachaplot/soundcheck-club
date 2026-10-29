@@ -1,6 +1,6 @@
 # Labohr
 
-Labohr is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at halle02, Heidelberg on Fri, 13 Nov 2026.
+Labohr is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at halle02, Heidelberg on Fri, 13 Nov 2026.
 
 Labohr is a techno and trance artist, with 7 gigs on soundcheck across Heidelberg. Often billed alongside Feydh Rotan, MP-Nuts and André Galluzzi. Next up: halle02, Heidelberg on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Labohr is a techno and trance artist, with 7 gigs on soundcheck across Heidelber
 
 Feydh Rotan, MP-Nuts, André Galluzzi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labohr/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labohr/)*

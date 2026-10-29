@@ -1,6 +1,6 @@
 # SEXMP3
 
-SEXMP3 is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Jama, Toronto on Fri, 30 Oct 2026.
+SEXMP3 is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Jama, Toronto on Fri, 30 Oct 2026.
 
 SEXMP3 is a club and techno artist based in Canada, with 40 gigs on soundcheck across Montreal, Shanghai and Toronto. Often billed alongside Melonwater, 999ADJ and GUSSYEE. Next up: The Jama, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SEXMP3 is a club and techno artist based in Canada, with 40 gigs on soundcheck a
 
 Melonwater, 999ADJ, GUSSYEE
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sexmp3/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sexmp3/)*

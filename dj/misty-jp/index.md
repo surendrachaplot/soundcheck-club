@@ -1,6 +1,6 @@
 # Misty (JP)
 
-Misty (JP) is a Deep House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at rake?raka?, Osaka on Thu, 29 Oct 2026.
+Misty (JP) is a Deep House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at rake?raka?, Osaka on Thu, 29 Oct 2026.
 
 Misty (JP) is a deep house and electro artist, with 11 gigs on soundcheck across Osaka. Often billed alongside Ayato, Cine and DJ Nobita. Next up: rake?raka?, Osaka on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Misty (JP) is a deep house and electro artist, with 11 gigs on soundcheck across
 
 Ayato, Cine, DJ Nobita
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misty-jp/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misty-jp/)*

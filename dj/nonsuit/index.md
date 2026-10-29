@@ -1,14 +1,15 @@
 # nonsuit
 
-nonsuit is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at BASEMENT, New York City on Fri, 30 Oct 2026.
+nonsuit is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at BASEMENT, New York City on Fri, 30 Oct 2026.
 
-nonsuit is a techno and club artist based in United States of America, with 99 gigs on soundcheck across Chicago, Los Angeles, New York City and Portland and 2 more. Often billed alongside likeholywine, Adam Kraft and Beverly Chills. Next up: BASEMENT, New York City on Fri 30 Oct.
+nonsuit is a techno and club artist based in United States of America, with 100 gigs on soundcheck across Chicago, Los Angeles, New York City and Portland and 2 more. Often billed alongside likeholywine, Adam Kraft and Beverly Chills. Next up: BASEMENT, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | BASEMENT | New York City |
+| Thu, 12 Nov 2026 | Underground SF | San Francisco/Oakland |
 | Sat, 14 Nov 2026 | Monument SF | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | The Great Northern | San Francisco/Oakland |
 
@@ -27,4 +28,4 @@ nonsuit is a techno and club artist based in United States of America, with 99 g
 
 likeholywine, Adam Kraft, Beverly Chills
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsuit/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsuit/)*

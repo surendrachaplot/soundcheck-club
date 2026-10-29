@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire" on Thu, 29 Oct 2026.
+Bulbul Berlin is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire" on Thu, 29 Oct 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including 6ton, ALINUSH, Ashbeat and ATTA (GER) and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 16 upcoming gigs,
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

@@ -1,6 +1,6 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Foro Basement, Mexico City on Fri, 30 Oct 2026.
+Jody Wisternoff is a Progressive House and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Foro Basement, Mexico City on Fri, 30 Oct 2026.
 
 Jody Wisternoff is a progressive house and house artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Auckland, Austin and Baltimore and 44 more. Often billed alongside Nicky Elisabeth, Dosem and Marsh. Next up: Foro Basement, Mexico City on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Jody Wisternoff is a progressive house and house artist based in United Kingdom,
 
 Nicky Elisabeth, Dosem, Marsh
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*

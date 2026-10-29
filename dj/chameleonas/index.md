@@ -1,6 +1,6 @@
 # Chameleonas
 
-Chameleonas is a Disco and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Fox and Firkin, London on Sat, 28 Nov 2026.
+Chameleonas is a Disco and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Fox and Firkin, London on Sat, 28 Nov 2026.
 
 Chameleonas is a disco and jazz artist based in Lithuania, with 11 gigs on soundcheck across London and Vilnius. Often billed alongside Bena, Emanuel Pavlova and Bushbby. Next up: The Fox and Firkin, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Chameleonas is a disco and jazz artist based in Lithuania, with 11 gigs on sound
 
 Bena, Emanuel Pavlova, Bushbby
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chameleonas/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chameleonas/)*

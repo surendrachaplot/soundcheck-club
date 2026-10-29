@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "HELLOWALSKI 2026 • Day & Night Halloween im Kowalski Stuttgart" on Sat, 31 Oct 2026.
+Kowalski is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HELLOWALSKI 2026 • Day & Night Halloween im Kowalski Stuttgart" on Sat, 31 Oct 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, with line-ups including Black Circle, Chamelio 3000, Einmusik and Ivory and 2 more. See dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -19,4 +19,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, wi
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

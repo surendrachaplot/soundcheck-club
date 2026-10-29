@@ -1,13 +1,14 @@
 # Fruitmarket
 
-Fruitmarket is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Ground Truth(s) Deep Time: a festival of new music" on Thu, 26 Nov 2026.
+Fruitmarket is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "OVERGROUND x Club Spit x Sneaky Pete's: Vuncle" on Sat, 14 Nov 2026.
 
-Fruitmarket is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Fruitmarket is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Jodie Mooney, Mixfits, RUA DJ and Wrisk. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | OVERGROUND x Club Spit x Sneaky Pete's: Vuncle | Jodie Mooney, Mixfits (2), RUA DJ, Wrisk |
 | Thu, 26 Nov 2026 | Ground Truth(s) Deep Time: a festival of new music |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/fruitmarket/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/fruitmarket/)*

@@ -1,6 +1,6 @@
 # Baby Mango
 
-Baby Mango is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 30 Oct 2026.
+Baby Mango is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 30 Oct 2026.
 
 Baby Mango is a house and techno artist based in Mexico, with 38 gigs on soundcheck across Berlin, Guadalajara, Leipzig and Mexico City. Often billed alongside Peter Invasion, Adrien Calvet and Cabizbajo. Next up: Bar Oriente, Mexico City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Baby Mango is a house and techno artist based in Mexico, with 38 gigs on soundch
 
 Peter Invasion, Adrien Calvet, Cabizbajo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babymango/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babymango/)*

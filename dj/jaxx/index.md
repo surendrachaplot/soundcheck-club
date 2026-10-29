@@ -1,6 +1,6 @@
 # Jaxx
 
-Jaxx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at H0L0, New York City on Thu, 19 Nov 2026.
+Jaxx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at H0L0, New York City on Thu, 19 Nov 2026.
 
 Jaxx is a house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Chicago, Mexico City, New York City and Sydney. Often billed alongside Ariel Zetina, Miss Twink USA and Ana Armada. Next up: H0L0, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Jaxx is a house and techno artist based in United Kingdom, with 10 gigs on sound
 
 Ariel Zetina, Miss Twink USA, Ana Armada
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx/)*

@@ -1,6 +1,6 @@
 # teleopath
 
-teleopath is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
+teleopath is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
 
 teleopath is a disco and techno artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, London and Sheffield. Often billed alongside Tafkanik, S_STEELE and Liam Parsons. Next up: Unit 58, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ teleopath is a disco and techno artist based in United Kingdom, with 59 gigs on 
 
 Tafkanik, S_STEELE, Liam Parsons
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teleopath/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teleopath/)*

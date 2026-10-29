@@ -1,6 +1,6 @@
 # RUIZ OSC1
 
-RUIZ OSC1 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 31 Oct 2026.
+RUIZ OSC1 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 31 Oct 2026.
 
 RUIZ OSC1 is a techno and house artist based in Colombia, with 177 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 50 more. Often billed alongside Carmen Electro, Tarkno and slin. Next up: Mondo Open Air, Madrid on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ RUIZ OSC1 is a techno and house artist based in Colombia, with 177 gigs on sound
 
 Carmen Electro, Tarkno, slin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*

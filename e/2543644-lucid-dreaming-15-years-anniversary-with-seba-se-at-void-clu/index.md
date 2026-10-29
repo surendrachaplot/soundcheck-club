@@ -1,6 +1,6 @@
 # Lucid Dreaming - 15 Years Anniversary with Seba (SE) at Void Club
 
-Lucid Dreaming - 15 Years Anniversary with Seba (SE) at Void Club on Fri 20 Nov, Berlin. 3 artists: Seba, Shaded Lines and Upzet. Drum & Bass and Jungle. See the line-up on soundcheck.
+Lucid Dreaming - 15 Years Anniversary with Seba (SE) at Void Club on Fri 20 Nov, Berlin. 4 artists: CainDNB, Seba, Shaded Lines and Upzet. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Lucid Dreaming - 15 Years Anniversary with Seba (SE) at Void Club on Fri 20 Nov,
 
 ## Line-up
 
+- CainDNB
 - Seba
 - Shaded Lines
 - Upzet

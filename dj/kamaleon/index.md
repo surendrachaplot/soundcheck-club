@@ -1,6 +1,6 @@
 # Kamäleon
 
-Kamäleon is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Westhafen, Leipzig on Sat, 31 Oct 2026.
+Kamäleon is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Westhafen, Leipzig on Sat, 31 Oct 2026.
 
 Kamäleon is a trance and techno artist based in Germany, with 37 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 6 more. Often billed alongside two girls one mom, DICE and Amøn. Next up: Westhafen, Leipzig on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kamäleon is a trance and techno artist based in Germany, with 37 gigs on soundc
 
 two girls one mom, DICE, Amøn
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamaleon/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamaleon/)*

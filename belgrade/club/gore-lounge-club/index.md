@@ -1,14 +1,13 @@
 # Gore Lounge Club
 
-Gore Lounge Club is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SHOOMADISCO GO!BANG" on Fri, 23 Oct 2026.
+Gore Lounge Club is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Gore Social Club - MINA & MELI" on Fri, 30 Oct 2026.
 
-Gore Lounge Club is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+Gore Lounge Club is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including M E L I. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | SHOOMADISCO GO!BANG |  |
-| Sat, 24 Oct 2026 | DJ YELL |  |
+| Fri, 30 Oct 2026 | Gore Social Club - MINA & MELI | M E L I |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/gore-lounge-club/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/gore-lounge-club/)*

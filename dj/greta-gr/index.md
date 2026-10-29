@@ -1,6 +1,6 @@
 # GRETA (GR)
 
-GRETA (GR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at AMT, Berlin on Fri, 20 Nov 2026.
+GRETA (GR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at AMT, Berlin on Fri, 20 Nov 2026.
 
 GRETA (GR) is a techno and house artist based in Greece, with 40 gigs on soundcheck across Athens, Berlin and Munich. Often billed alongside Ayshel, Miss Trouli and Andreas Palmer. Next up: AMT, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ GRETA (GR) is a techno and house artist based in Greece, with 40 gigs on soundch
 
 Ayshel, Miss Trouli, Andreas Palmer
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-gr/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greta-gr/)*

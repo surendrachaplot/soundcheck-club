@@ -1,6 +1,6 @@
 # Sbri
 
-Sbri is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sameheads, Berlin on Fri, 13 Nov 2026.
+Sbri is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sameheads, Berlin on Fri, 13 Nov 2026.
 
 Sbri is an electro and ebm artist, with 20 gigs on soundcheck across Barcelona, Berlin, Lisbon and Rome. Often billed alongside Yoshi (DE), Ed Warner and Massi. Next up: Sameheads, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sbri is an electro and ebm artist, with 20 gigs on soundcheck across Barcelona, 
 
 Yoshi (DE), Ed Warner, Massi (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sbri/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sbri/)*

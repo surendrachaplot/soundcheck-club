@@ -1,6 +1,6 @@
 # KALI (AU)
 
-KALI (AU) is a Latin Bass and Gqom artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Trainscendence, Melbourne on Tue, 3 Nov 2026.
+KALI (AU) is a Latin Bass and Gqom artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Trainscendence, Melbourne on Tue, 3 Nov 2026.
 
 KALI (AU) is a latin bass and gqom artist based in South Africa, with 7 gigs on soundcheck across Melbourne. Often billed alongside fbw.archive, BIG SLIME and BABANASHE. Next up: Trainscendence, Melbourne on Tue 3 Nov.
 
@@ -23,4 +23,4 @@ KALI (AU) is a latin bass and gqom artist based in South Africa, with 7 gigs on 
 
 fbw.archive, BIG SLIME, BABANASHE
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kali-aus/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kali-aus/)*

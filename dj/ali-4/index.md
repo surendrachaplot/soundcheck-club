@@ -1,6 +1,6 @@
 # Ali (4)
 
-Ali (4) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bangkok Island, Bangkok on Sun, 1 Nov 2026.
+Ali (4) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bangkok Island, Bangkok on Sun, 1 Nov 2026.
 
 Ali is a house and techno artist based in United Kingdom, with 19 gigs on soundcheck across Bangkok, Berlin, Calgary and Detroit and 7 more. Often billed alongside Daniel Avery, Stev3NN and Sunny (DE). Next up: Bangkok Island, Bangkok on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Ali is a house and techno artist based in United Kingdom, with 19 gigs on soundc
 
 Daniel Avery, Stev3NN, Sunny (DE)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ali-4/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ali-4/)*

@@ -1,6 +1,6 @@
 # Maduk
 
-Maduk is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 13 Nov 2026.
+Maduk is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 13 Nov 2026.
 
 Maduk is a drum & bass and bass artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside MOTA, Fox Stevenson and Jon Void. Next up: Ääniwalli, Helsinki on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Maduk is a drum & bass and bass artist based in Netherlands, with 40 gigs on sou
 
 MOTA, Fox Stevenson, Jon Void
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maduk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maduk/)*

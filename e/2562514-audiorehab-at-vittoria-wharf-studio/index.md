@@ -1,6 +1,6 @@
 # AudioRehab at Vittoria Wharf Studio
 
-AudioRehab at Vittoria Wharf Studio on Sat 5 Dec, London. 5 artists: Darren J, Eeks, Jack Burt and Mark Radford and 1 more. House and Deep House. See the line-up on soundcheck.
+AudioRehab at Vittoria Wharf Studio on Sat 5 Dec, London. 6 artists: Darren J, Eeks, Jack Burt and Josh German and 2 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ AudioRehab at Vittoria Wharf Studio on Sat 5 Dec, London. 5 artists: Darren J, E
 - Darren J
 - Eeks
 - Jack Burt
+- Josh German
 - Mark Radford
 - Nocturnal Joe
 

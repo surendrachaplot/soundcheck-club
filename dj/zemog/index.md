@@ -1,13 +1,14 @@
 # Zemög
 
-Zemög is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Zemög is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Korova Club, Cali on Sat, 7 Nov 2026.
 
-Zemög is a techno and dub techno artist based in Colombia, with 26 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bogotá and 13 more. Often billed alongside Andres Gaviria, Cia Rebeck and Inger. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Zemög is a techno and dub techno artist based in Colombia, with 27 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bogotá and 14 more. Often billed alongside Andres Gaviria, Cia Rebeck and Inger. Next up: Korova Club, Cali on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Korova Club | Cali |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Zemög is a techno and dub techno artist based in Colombia, with 26 gigs on soun
 
 Andres Gaviria, Cia Rebeck, Inger
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zemog/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zemog/)*

@@ -1,6 +1,6 @@
 # ESB
 
-ESB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 18 Dec 2026.
+ESB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 18 Dec 2026.
 
 ESB is a house and techno artist, with 11 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Dane, Esette and Mike McSuede. Next up: Biltmore Cabaret, Vancouver on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ ESB is a house and techno artist, with 11 gigs on soundcheck across Calgary and 
 
 Dane, Esette, Mike McSuede
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esb/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esb/)*

@@ -1,14 +1,15 @@
 # April (UK)
 
-April (UK) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 1520, Manchester on Fri, 30 Oct 2026.
+April (UK) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 1520, Manchester on Fri, 30 Oct 2026.
 
-April (UK) is a techno and house artist based in United Kingdom, with 67 gigs on soundcheck across Glasgow, Leeds, Liverpool and Manchester and 1 more. Often billed alongside Esmé, Alex Milo and Practical. Next up: 1520, Manchester on Fri 30 Oct.
+April (UK) is a techno and house artist based in United Kingdom, with 68 gigs on soundcheck across Glasgow, Leeds, Liverpool and Manchester and 1 more. Often billed alongside Esmé, Alex Milo and BAY-BUSH-KA. Next up: 1520, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | 1520 | Manchester |
+| Fri, 27 Nov 2026 | Piccadilly Central | Manchester |
 | Fri, 18 Dec 2026 | Stage and Radio | Manchester |
 
 ## Recently played
@@ -24,6 +25,6 @@ April (UK) is a techno and house artist based in United Kingdom, with 67 gigs on
 
 ## Shares bills with
 
-Esmé, Alex Milo, Practical
+Esmé, Alex Milo, BAY-BUSH-KA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*

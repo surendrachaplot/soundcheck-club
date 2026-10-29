@@ -1,6 +1,6 @@
 # Jewel
 
-Jewel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 4 Dec 2026.
+Jewel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 4 Dec 2026.
 
 Jewel is a house and techno artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Athens, Berlin and Hamburg and 3 more. Often billed alongside Hanaby, Killa and Carmen 16. Next up: CLUB RAUM, Amsterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Jewel is a house and techno artist based in Germany, with 27 gigs on soundcheck 
 
 Hanaby, Killa, Carmen 16
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jewel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jewel/)*

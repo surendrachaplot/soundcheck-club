@@ -1,6 +1,6 @@
 # PIA8
 
-PIA8 is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Subdeck, Bratislava on Thu, 29 Oct 2026.
+PIA8 is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Subdeck, Bratislava on Thu, 29 Oct 2026.
 
 PIA8 is an electro and acid artist, with 26 gigs on soundcheck across Bratislava. Often billed alongside Naďa, BBK and Bad Mojo. Next up: Subdeck, Bratislava on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ PIA8 is an electro and acid artist, with 26 gigs on soundcheck across Bratislava
 
 Naďa, BBK, Bad Mojo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pia8/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pia8/)*

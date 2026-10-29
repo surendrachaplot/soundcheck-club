@@ -1,6 +1,6 @@
 # CÁRPATOS
 
-CÁRPATOS is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Studio dB, Berlin on Fri, 30 Oct 2026.
+CÁRPATOS is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Studio dB, Berlin on Fri, 30 Oct 2026.
 
 CÁRPATOS is an experimental and club artist based in Germany, with 38 gigs on soundcheck across Athens, Berlin, Guadalajara and London and 2 more. Often billed alongside Bungalovv, Artur M Puga and Sinxstxsia. Next up: Studio dB, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ CÁRPATOS is an experimental and club artist based in Germany, with 38 gigs on s
 
 Bungalovv, Artur M Puga, Sinxstxsia
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carpatos/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carpatos/)*

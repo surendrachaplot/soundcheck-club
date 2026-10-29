@@ -1,6 +1,6 @@
 # Suasimodo
 
-Suasimodo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Bushwick 11237, New York City on Fri, 6 Nov 2026.
+Suasimodo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Bushwick 11237, New York City on Fri, 6 Nov 2026.
 
 Suasimodo is a house and club artist based in United States of America, with 41 gigs on soundcheck across New York City. Often billed alongside Shameless Deejay, Loomer and Union (US). Next up: TBA - Bushwick 11237, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Suasimodo is a house and club artist based in United States of America, with 41 
 
 Shameless Deejay, Loomer, Union (US)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suasimodo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suasimodo/)*

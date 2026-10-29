@@ -1,8 +1,8 @@
 # Dennis Quin
 
-Dennis Quin is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
+Dennis Quin is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
 
-Dennis Quin is a house and tech house artist based in Netherlands, with 166 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 34 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Maassilo, Rotterdam on Sat 31 Oct.
+Dennis Quin is a house and tech house artist based in Netherlands, with 167 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 35 more. Often billed alongside Job de Jong, Prunk and M-High. Next up: Maassilo, Rotterdam on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Dennis Quin is a house and tech house artist based in Netherlands, with 166 gigs
 | Sat, 21 Nov 2026 | Electric Studios | Sheffield |
 | Fri, 4 Dec 2026 | Centre Point | Dublin |
 | Sat, 12 Dec 2026 | The Liquid Room | Edinburgh |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ Dennis Quin is a house and tech house artist based in Netherlands, with 166 gigs
 
 ## Shares bills with
 
-Prunk, Job de Jong, M-High
+Job de Jong, Prunk, M-High
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisquin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisquin/)*

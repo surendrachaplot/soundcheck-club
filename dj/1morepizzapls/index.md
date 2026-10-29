@@ -1,6 +1,6 @@
 # 1MOREPIZZAPLS
 
-1MOREPIZZAPLS is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Bizarre, Naples on Sat, 31 Oct 2026.
+1MOREPIZZAPLS is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Bizarre, Naples on Sat, 31 Oct 2026.
 
 1MOREPIZZAPLS is a house and disco artist based in Italy, with 11 gigs on soundcheck across London and Naples. Often billed alongside KARLOVE, ThanksMate and Ams (FR). Next up: Club Bizarre, Naples on Sat 31 Oct.
 
@@ -25,4 +25,4 @@
 
 KARLOVE, ThanksMate, Ams (FR)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1morepizzapls/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1morepizzapls/)*

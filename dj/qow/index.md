@@ -1,14 +1,15 @@
 # Qow
 
-Qow is a Experimental and Classical artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Balthyscaphe, Brussels on Thu, 12 Nov 2026.
+Qow is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Balthyscaphe, Brussels on Thu, 12 Nov 2026.
 
-Qow is an experimental and classical artist based in Czech Republic, with 31 gigs on soundcheck across Berlin, Brussels, Budapest and London and 3 more. Often billed alongside lizwiz, Mor Wen and ionai. Next up: Balthyscaphe, Brussels on Thu 12 Nov.
+Qow is an experimental and bass artist based in Czech Republic, with 32 gigs on soundcheck across Berlin, Brussels, Budapest and London and 3 more. Often billed alongside lizwiz, Mor Wen and ionai. Next up: Balthyscaphe, Brussels on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Balthyscaphe | Brussels |
+| Fri, 27 Nov 2026 | Panke | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Qow is an experimental and classical artist based in Czech Republic, with 31 gig
 
 lizwiz, Mor Wen, ionai
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qow/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qow/)*

@@ -1,6 +1,6 @@
 # Blackeye MC
 
-Blackeye MC is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+Blackeye MC is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
 Blackeye MC is a jungle and drum & bass artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 12 more. Often billed alongside Mantra, Double O and Tim Reaper. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Blackeye MC is a jungle and drum & bass artist based in United Kingdom, with 77 
 
 Mantra, Double O, Tim Reaper
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackeyemc/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackeyemc/)*

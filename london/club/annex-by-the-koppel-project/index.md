@@ -1,6 +1,6 @@
 # Annex by The Koppel Project
 
-Annex by The Koppel Project is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Knots presents: Oscillations" on Fri, 6 Nov 2026.
+Annex by The Koppel Project is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Knots presents: Oscillations" on Fri, 6 Nov 2026.
 
 Annex by The Koppel Project is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Annex by The Koppel Project is a music venue in London listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Knots presents: Oscillations |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/annex-by-the-koppel-project/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/annex-by-the-koppel-project/)*

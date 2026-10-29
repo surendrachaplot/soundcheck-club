@@ -1,6 +1,6 @@
 # Shimmy Robin
 
-Shimmy Robin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Locke, Hamburg on Thu, 29 Oct 2026.
+Shimmy Robin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Locke, Hamburg on Thu, 29 Oct 2026.
 
 Shimmy Robin is a techno and house artist based in Germany, with 114 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dortmund / Essen and 6 more. Often billed alongside Najeh, dj blip and dj fako. Next up: Locke, Hamburg on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Shimmy Robin is a techno and house artist based in Germany, with 114 gigs on sou
 
 Najeh, dj blip, dj fako
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmyrobin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmyrobin/)*

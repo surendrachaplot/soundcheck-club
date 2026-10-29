@@ -1,6 +1,6 @@
 # Sebastiaan Hooft
 
-Sebastiaan Hooft is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paradiso, Amsterdam on Sat, 7 Aug 2027.
+Sebastiaan Hooft is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paradiso, Amsterdam on Sat, 7 Aug 2027.
 
 Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside AFAR, Bi Män and Dana Ruh. Next up: Paradiso, Amsterdam on Sat 7 Aug.
 
@@ -25,4 +25,4 @@ Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, with 2
 
 AFAR, Bi Män, Dana Ruh
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiaanhooft/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiaanhooft/)*

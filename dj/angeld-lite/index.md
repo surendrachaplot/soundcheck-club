@@ -1,6 +1,6 @@
 # Angel D'lite
 
-Angel D'lite is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Klub K4, Ljubljana on Fri, 30 Oct 2026.
+Angel D'lite is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Klub K4, Ljubljana on Fri, 30 Oct 2026.
 
 Angel D'lite is a house and techno artist based in United Kingdom, with 250 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: Klub K4, Ljubljana on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Angel D'lite is a house and techno artist based in United Kingdom, with 250 gigs
 
 dj sweet6teen, THC, FAFF
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*

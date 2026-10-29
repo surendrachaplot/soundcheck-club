@@ -1,6 +1,6 @@
 # marielou
 
-marielou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at SAM Sampling Moods, Milan on Sat, 31 Oct 2026.
+marielou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at SAM Sampling Moods, Milan on Sat, 31 Oct 2026.
 
 marielou is a techno and house artist, with 41 gigs on soundcheck across Düsseldorf, Malaga, Milan and Naples and 2 more. Often billed alongside GNMR, Dove Quiete and Marc Anthony Bowen. Next up: SAM Sampling Moods, Milan on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ marielou is a techno and house artist, with 41 gigs on soundcheck across Düssel
 
 GNMR, Dove Quiete, Marc Anthony Bowen
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marielou/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marielou/)*

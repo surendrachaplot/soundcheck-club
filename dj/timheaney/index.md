@@ -1,6 +1,6 @@
 # Tim Heaney
 
-Tim Heaney is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Tim Heaney is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Tim Heaney is a deep house and techno artist based in Australia, with 18 gigs on soundcheck across Berlin, Hobart, Melbourne and Osaka and 2 more. Often billed alongside Norachi, Billus and Hannah D. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Tim Heaney is a deep house and techno artist based in Australia, with 18 gigs on
 
 Norachi, Billus, Hannah D
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timheaney/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timheaney/)*

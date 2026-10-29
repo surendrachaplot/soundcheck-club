@@ -1,8 +1,8 @@
 # Todiefor
 
-Todiefor is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Warehouse, Nantes on Fri, 20 Nov 2026.
+Todiefor is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Warehouse, Nantes on Fri, 20 Nov 2026.
 
-Todiefor is a techno and hardcore artist based in Belgium, with 20 gigs on soundcheck across Brussels, Geneva, Ho Chi Minh City and Lausanne and 5 more. Often billed alongside Vladimir Cauchemar, LESSSS and Mandragora. Next up: Warehouse, Nantes on Fri 20 Nov.
+Todiefor is a techno and hardcore artist based in Belgium, with 20 gigs on soundcheck across Brussels, Geneva, Ho Chi Minh City and Lausanne and 5 more. Often billed alongside Vladimir Cauchemar, Dj Schnake and LESSSS. Next up: Warehouse, Nantes on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Todiefor is a techno and hardcore artist based in Belgium, with 20 gigs on sound
 
 ## Shares bills with
 
-Vladimir Cauchemar, LESSSS, Mandragora
+Vladimir Cauchemar, Dj Schnake, LESSSS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/todiefor/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/todiefor/)*

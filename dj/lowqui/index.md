@@ -1,6 +1,6 @@
 # LowQui
 
-LowQui is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hootananny Brixton, London on Sat, 12 Dec 2026.
+LowQui is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hootananny Brixton, London on Sat, 12 Dec 2026.
 
 LowQui is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Bali, Birmingham, Brighton and Bristol and 11 more. Often billed alongside S.P.Y, Carasel and Technimatic. Next up: Hootananny Brixton, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ LowQui is a drum & bass and jungle artist based in United Kingdom, with 53 gigs 
 
 S.P.Y, Carasel, Technimatic
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowqui/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowqui/)*

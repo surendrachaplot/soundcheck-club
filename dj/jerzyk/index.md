@@ -1,6 +1,6 @@
 # Jerzyk
 
-Jerzyk is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ciało, Wroclaw on Sat, 7 Nov 2026.
+Jerzyk is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ciało, Wroclaw on Sat, 7 Nov 2026.
 
 Jerzyk is a drum & bass and techno artist based in Poland, with 14 gigs on soundcheck across Wroclaw. Often billed alongside Camo & Krooked, Chris.SU and Commix. Next up: Ciało, Wroclaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jerzyk is a drum & bass and techno artist based in Poland, with 14 gigs on sound
 
 Camo & Krooked, Chris.SU, Commix
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerzyk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerzyk/)*

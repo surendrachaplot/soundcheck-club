@@ -1,8 +1,8 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mint XL, Leeds on Fri, 30 Oct 2026.
+Riordan is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mint XL, Leeds on Fri, 30 Oct 2026.
 
-Riordan is a house and tech house artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Gorgon City, Prunk and Jackie Hollander. Next up: Mint XL, Leeds on Fri 30 Oct.
+Riordan is a house and tech house artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Gorgon City, Prunk and Jackie Hollander. Next up: Mint XL, Leeds on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Riordan is a house and tech house artist based in United Kingdom, with 134 gigs 
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
 | Fri, 5 Feb 2027 | The Concourse Project | Austin |
 | Sat, 13 Feb 2027 | Radius | Chicago |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Riordan is a house and tech house artist based in United Kingdom, with 134 gigs 
 
 Gorgon City, Prunk, Jackie Hollander
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*

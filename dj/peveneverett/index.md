@@ -1,6 +1,6 @@
 # Peven Everett
 
-Peven Everett is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at NT's Loft, London on Thu, 29 Oct 2026.
+Peven Everett is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at NT's Loft, London on Thu, 29 Oct 2026.
 
 Peven Everett is a house and funk / soul artist based in United States of America, with 14 gigs on soundcheck across Berlin, Chicago, Lisbon and London and 4 more. Often billed alongside Mylo Harvey, Ameer Brooks and Coflo. Next up: NT's Loft, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Peven Everett is a house and funk / soul artist based in United States of Americ
 
 Mylo Harvey, Ameer Brooks, Coflo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peveneverett/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peveneverett/)*

@@ -1,8 +1,8 @@
 # Lauren Thompson
 
-Lauren Thompson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at fabric, London on Sat, 28 Nov 2026.
+Lauren Thompson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
-Lauren Thompson is a house and disco artist, with 22 gigs on soundcheck across Brighton, Edinburgh and London. Often billed alongside Davide Del Vecchio, Dan Cluskey and Faro. Next up: fabric, London on Sat 28 Nov.
+Lauren Thompson is a house and disco artist based in United Kingdom, with 22 gigs on soundcheck across Brighton, Edinburgh and London. Often billed alongside Davide Del Vecchio, Dan Cluskey and Faro. Next up: fabric, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lauren Thompson is a house and disco artist, with 22 gigs on soundcheck across B
 
 Davide Del Vecchio, Dan Cluskey, Faro
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenthompson/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenthompson/)*

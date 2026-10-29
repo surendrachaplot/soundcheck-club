@@ -1,6 +1,6 @@
 # 25EMEHEURE
 
-25EMEHEURE is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 27 Nov 2026.
+25EMEHEURE is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 27 Nov 2026.
 
 25EMEHEURE is a techno and acid artist based in France, with 35 gigs on soundcheck across Amsterdam, Berlin, Geneva and Lisbon and 6 more. Often billed alongside ECZODIA, LESSSS and William Luck. Next up: La Machine Du Moulin Rouge, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@
 
 ECZODIA, LESSSS, William Luck
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/25emeheure/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/25emeheure/)*

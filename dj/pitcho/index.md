@@ -1,14 +1,15 @@
 # Pitcho
 
-Pitcho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at 5A, Lisbon on Thu, 29 Oct 2026.
+Pitcho is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 5A, Lisbon on Thu, 29 Oct 2026.
 
-Pitcho is a house and techno artist based in Portugal, with 31 gigs on soundcheck across Lisbon and Porto. Often billed alongside Nibius, Fonzi and Billi. Next up: 5A, Lisbon on Thu 29 Oct.
+Pitcho is a house and techno artist based in Portugal, with 32 gigs on soundcheck across Ghent, Lisbon and Porto. Often billed alongside Nibius, Fonzi and Billi. Next up: 5A, Lisbon on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | 5A | Lisbon |
+| Sat, 31 Oct 2026 | Funke | Ghent |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pitcho is a house and techno artist based in Portugal, with 31 gigs on soundchec
 
 Nibius, Fonzi (2), Billi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pitcho/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pitcho/)*

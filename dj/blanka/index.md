@@ -1,6 +1,6 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 31 Oct 2026.
+BLANKA is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 31 Oct 2026.
 
 BLANKA is a techno and house artist based in Spain, with 171 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Angioma, Quelza and Setaoc Mass. Next up: Klub Progresja, Warsaw on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ BLANKA is a techno and house artist based in Spain, with 171 gigs on soundcheck 
 
 Angioma, Quelza, Setaoc Mass
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

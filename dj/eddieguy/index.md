@@ -1,6 +1,6 @@
 # Eddie Guy
 
-Eddie Guy is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
+Eddie Guy is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
 
 Eddie Guy is a house and minimal artist based in United Kingdom, with 37 gigs on soundcheck across Bogotá, Medellin, Melbourne and Sydney. Often billed alongside Ben Kennedy, Dasha SPRW and Séarlait. Next up: OneSixOne, Melbourne on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Eddie Guy is a house and minimal artist based in United Kingdom, with 37 gigs on
 
 Ben Kennedy, Dasha SPRW, Séarlait
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieguy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieguy/)*

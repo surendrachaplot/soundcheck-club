@@ -1,6 +1,6 @@
 # HYPERFEMME
 
-HYPERFEMME is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Art Club, Houston on Sat, 31 Oct 2026.
+HYPERFEMME is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Art Club, Houston on Sat, 31 Oct 2026.
 
 HYPERFEMME is a club and techno artist based in United States of America, with 60 gigs on soundcheck across Austin, Houston, Los Angeles and Miami and 5 more. Often billed alongside Amarji King, yunginternet and Big Ace. Next up: Art Club, Houston on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ HYPERFEMME is a club and techno artist based in United States of America, with 6
 
 Amarji King, yunginternet, Big Ace
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperfemme/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperfemme/)*

@@ -1,6 +1,6 @@
 # Margaux Plays
 
-Margaux Plays is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Folklor, Lausanne on Sat, 31 Oct 2026.
+Margaux Plays is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Folklor, Lausanne on Sat, 31 Oct 2026.
 
 Margaux Plays is a house and techno artist based in Switzerland, with 9 gigs on soundcheck across Lausanne. Often billed alongside Adolpho & Franky, TT and Evan Preston. Next up: Folklor, Lausanne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Margaux Plays is a house and techno artist based in Switzerland, with 9 gigs on 
 
 Adolpho & Franky, TT (2), Evan Preston
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxplays/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxplays/)*

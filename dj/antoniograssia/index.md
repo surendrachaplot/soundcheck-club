@@ -1,6 +1,6 @@
 # Antonio Grassia
 
-Antonio Grassia is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Basic Club, Naples on Sat, 14 Nov 2026.
+Antonio Grassia is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Basic Club, Naples on Sat, 14 Nov 2026.
 
 Antonio Grassia is an electronica and house artist, with 13 gigs on soundcheck across London and Naples. Often billed alongside Enrico Pelosi, Antonio Memoli and DJ Simi. Next up: Basic Club, Naples on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Antonio Grassia is an electronica and house artist, with 13 gigs on soundcheck a
 
 Enrico Pelosi, Antonio Memoli, DJ Simi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniograssia/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniograssia/)*

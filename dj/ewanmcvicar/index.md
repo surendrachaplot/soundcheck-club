@@ -1,6 +1,6 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mint XL, Leeds on Sat, 31 Oct 2026.
+Ewan McVicar is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mint XL, Leeds on Sat, 31 Oct 2026.
 
 Ewan McVicar is a house and techno artist based in United Kingdom, with 188 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 43 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Mint XL, Leeds on Sat 31 Oct.
 
@@ -34,4 +34,4 @@ Ewan McVicar is a house and techno artist based in United Kingdom, with 188 gigs
 
 Special Request, Dom Dolla, Overmono
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*

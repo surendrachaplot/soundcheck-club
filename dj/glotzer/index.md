@@ -1,6 +1,6 @@
 # Glotzer
 
-Glotzer is a New Wave and EBM artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Camden Assembly, London on Fri, 30 Oct 2026.
+Glotzer is a New Wave and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Camden Assembly, London on Fri, 30 Oct 2026.
 
 Glotzer is a new wave and ebm artist based in United Kingdom, with 20 gigs on soundcheck across Berlin and London. Often billed alongside Proteus, Becky Stroke and Mara Mortem. Next up: Camden Assembly, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Glotzer is a new wave and ebm artist based in United Kingdom, with 20 gigs on so
 
 Proteus, Becky Stroke, Mara Mortem
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glotzer/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glotzer/)*

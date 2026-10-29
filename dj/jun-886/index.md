@@ -1,8 +1,8 @@
 # Jun (+886)
 
-Jun (+886) is a Techno and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Koenji Cave, Tokyo on Fri, 30 Oct 2026.
+Jun (+886) is a Techno and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Koenji Cave, Tokyo on Fri, 30 Oct 2026.
 
-Jun (+886) is a techno and hip-hop artist based in Taiwan, with 33 gigs on soundcheck across New York City, Osaka, Taipei and Tokyo. Often billed alongside Drunken Kong, AoWu and Ken Ishii. Next up: Koenji Cave, Tokyo on Fri 30 Oct.
+Jun (+886) is a techno and hip-hop artist based in Taiwan, with 34 gigs on soundcheck across New York City, Osaka, Taipei and Tokyo. Often billed alongside Drunken Kong, Ken Ishii and AoWu. Next up: Koenji Cave, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jun (+886) is a techno and hip-hop artist based in Taiwan, with 33 gigs on sound
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Koenji Cave | Tokyo |
 | Sat, 31 Oct 2026 | VENT | Tokyo |
+| Mon, 23 Nov 2026 | or | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Jun (+886) is a techno and hip-hop artist based in Taiwan, with 33 gigs on sound
 
 ## Shares bills with
 
-Drunken Kong, AoWu, Ken Ishii
+Drunken Kong, Ken Ishii, AoWu
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jun-886/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jun-886/)*

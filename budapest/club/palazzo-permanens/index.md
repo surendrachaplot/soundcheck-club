@@ -1,6 +1,6 @@
 # Palazzo Permanens
 
-Palazzo Permanens is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Hungarian University Of Fine Arts // Freshman PARTY" on Thu, 29 Oct 2026.
+Palazzo Permanens is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Hungarian University Of Fine Arts // Freshman PARTY" on Thu, 29 Oct 2026.
 
 Palazzo Permanens is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including 96zen, Adis Is OK, Afriqua and Akác and 2 more. See dates, start times and who's playing. Budapest, Kertész u. 36, 1072.
 
@@ -22,4 +22,4 @@ Palazzo Permanens is a music venue in Budapest listed on soundcheck. 9 upcoming 
 
 Budapest, Kertész u. 36, 1072, Budapest
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/palazzo-permanens/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/palazzo-permanens/)*

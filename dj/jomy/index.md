@@ -1,14 +1,15 @@
 # JO (MY)
 
-JO (MY) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 13 Nov 2026.
+JO (MY) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 13 Nov 2026.
 
-JO (MY) is a techno and house artist based in Malaysia, with 6 gigs on soundcheck across Kuala Lumpur. Often billed alongside Odd (MY), Alam and JonnyVicious. Next up: Pisco Bar, Kuala Lumpur on Fri 13 Nov.
+JO (MY) is a house and techno artist based in Malaysia, with 7 gigs on soundcheck across Kuala Lumpur. Often billed alongside Odd (MY), Alam and JonnyVicious. Next up: Pisco Bar, Kuala Lumpur on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Pisco Bar | Kuala Lumpur |
+| Sat, 14 Nov 2026 | TBA - JOLOKO | Kuala Lumpur |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ JO (MY) is a techno and house artist based in Malaysia, with 6 gigs on soundchec
 
 Odd (MY), Alam, JonnyVicious
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jomy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jomy/)*

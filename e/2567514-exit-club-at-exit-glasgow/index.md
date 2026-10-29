@@ -1,6 +1,6 @@
-# Exit Club at EXIT Glasgow
+# EXIT CLUB at EXIT Glasgow
 
-Exit Club at EXIT Glasgow on Sat 12 Dec, Glasgow. See the line-up on soundcheck.
+EXIT CLUB at EXIT Glasgow on Sat 12 Dec, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

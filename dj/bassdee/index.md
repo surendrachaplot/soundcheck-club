@@ -1,6 +1,6 @@
 # Bassdee
 
-Bassdee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 14 Nov 2026.
+Bassdee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 14 Nov 2026.
 
 Bassdee is a house and deep house artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Sven von Thülen, Felix K and DB1. Next up: Der Weiße Hase, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bassdee is a house and deep house artist based in Germany, with 15 gigs on sound
 
 Sven von Thülen, Felix K, DB1
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassdee/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassdee/)*

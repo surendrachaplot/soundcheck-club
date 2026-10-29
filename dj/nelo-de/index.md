@@ -1,6 +1,6 @@
 # NELØ
 
-NELØ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Segelschiff Mare Frisium, Hamburg on Sat, 31 Oct 2026.
+NELØ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Segelschiff Mare Frisium, Hamburg on Sat, 31 Oct 2026.
 
 NELØ is a house and techno artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside JASHTECH, Alexej and Burak55. Next up: Segelschiff Mare Frisium, Hamburg on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ NELØ is a house and techno artist based in Germany, with 8 gigs on soundcheck a
 
 JASHTECH, Alexej, Burak55
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelo-de/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelo-de/)*

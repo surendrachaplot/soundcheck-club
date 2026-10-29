@@ -1,6 +1,6 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Subcero x Glow Up" on Thu, 29 Oct 2026.
+Subcero Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Subcero x Glow Up" on Thu, 29 Oct 2026.
 
 Subcero Club is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including BEJA, Fontango, Francesco Collesei and Hugo Carter and 2 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
@@ -18,4 +18,4 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, w
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

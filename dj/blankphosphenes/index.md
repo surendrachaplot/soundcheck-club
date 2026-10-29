@@ -1,6 +1,6 @@
 # blankphosphenes
 
-blankphosphenes is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 29 Oct 2026.
+blankphosphenes is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 29 Oct 2026.
 
 blankphosphenes is a hardcore and techno artist, with 30 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Hissyfit, Franxx and Gabberbitch69. Next up: TRANSMISSION DC, Washington DC on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ blankphosphenes is a hardcore and techno artist, with 30 gigs on soundcheck acro
 
 Hissyfit, Franxx, Gabberbitch69
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blankphosphenes/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blankphosphenes/)*

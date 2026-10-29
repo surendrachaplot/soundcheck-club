@@ -1,6 +1,6 @@
 # Huizit
 
-Huizit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Drinkery (Ruijin Lu), Shanghai on Fri, 30 Oct 2026.
+Huizit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Drinkery (Ruijin Lu), Shanghai on Fri, 30 Oct 2026.
 
 Huizit is a techno and trance artist, with 45 gigs on soundcheck across Chengdu and Shanghai. Often billed alongside PRYMARA, DJ GOGA and Boreas. Next up: The Drinkery (Ruijin Lu), Shanghai on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Huizit is a techno and trance artist, with 45 gigs on soundcheck across Chengdu 
 
 PRYMARA, DJ GOGA, Boreas
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huizit/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huizit/)*

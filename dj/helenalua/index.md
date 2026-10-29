@@ -1,13 +1,14 @@
 # Helena Lua
 
-Helena Lua is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Palazzo Permanens, Budapest on Fri, 13 Nov 2026.
+Helena Lua is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Coco Boule, Berlin on Fri, 13 Nov 2026.
 
-Helena Lua is a house and techno artist, with 17 gigs on soundcheck across Berlin, Bratislava and Budapest. Often billed alongside baeker, 96zen and Kiqo. Next up: Palazzo Permanens, Budapest on Fri 13 Nov.
+Helena Lua is a house and techno artist, with 18 gigs on soundcheck across Berlin, Bratislava and Budapest. Often billed alongside baeker, 96zen and Kiqo. Next up: Coco Boule, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Coco Boule | Berlin |
 | Fri, 13 Nov 2026 | Palazzo Permanens | Budapest |
 
 ## Recently played
@@ -25,4 +26,4 @@ Helena Lua is a house and techno artist, with 17 gigs on soundcheck across Berli
 
 baeker, 96zen, Kiqo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalua/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalua/)*

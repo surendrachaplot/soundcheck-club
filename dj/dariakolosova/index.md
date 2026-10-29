@@ -1,6 +1,6 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 30 Oct 2026.
+Daria Kolosova is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 30 Oct 2026.
 
 Daria Kolosova is a techno and house artist based in Ukraine, with 319 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 84 more. Often billed alongside KlangKuenstler, DAX J and Patrick Mason. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Daria Kolosova is a techno and house artist based in Ukraine, with 319 gigs on s
 
 KlangKuenstler, DAX J, Patrick Mason
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*

@@ -1,6 +1,6 @@
 # Duality
 
-Duality is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at or, Tokyo on Wed, 4 Nov 2026.
+Duality is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at or, Tokyo on Wed, 4 Nov 2026.
 
 Duality is a techno and house artist based in Philippines, with 67 gigs on soundcheck across Bangkok, Berlin, Bristol and Geneva and 10 more. Often billed alongside Versailles, SIGNAL (JP) and baby ikea. Next up: or, Tokyo on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ Duality is a techno and house artist based in Philippines, with 67 gigs on sound
 
 Versailles, SIGNAL (JP), baby ikea
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duality/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duality/)*

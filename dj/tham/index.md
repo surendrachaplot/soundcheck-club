@@ -1,6 +1,6 @@
 # Tham
 
-Tham is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at WDM, Hannover on Sat, 31 Oct 2026.
+Tham is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at WDM, Hannover on Sat, 31 Oct 2026.
 
 Tham is a techno and trance artist based in Germany, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 62 more. Often billed alongside Acierate, CARAVEL and Vendex. Next up: WDM, Hannover on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Tham is a techno and trance artist based in Germany, with 193 gigs on soundcheck
 
 Acierate, CARAVEL, Vendex
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*

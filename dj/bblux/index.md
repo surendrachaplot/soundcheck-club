@@ -1,6 +1,6 @@
 # BB Lux
 
-BB Lux is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at CHICO, Mexico City on Fri, 30 Oct 2026.
+BB Lux is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at CHICO, Mexico City on Fri, 30 Oct 2026.
 
 BB Lux is a house and techno artist, with 18 gigs on soundcheck across Atlanta, Barcelona, Mexico City and Miami and 1 more. Often billed alongside Gavilàn, Akarsh and INVT. Next up: CHICO, Mexico City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ BB Lux is a house and techno artist, with 18 gigs on soundcheck across Atlanta, 
 
 Gavilàn, Akarsh, INVT
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bblux/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bblux/)*

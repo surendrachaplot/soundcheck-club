@@ -1,6 +1,6 @@
 # Seviliya
 
-Seviliya is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 30 Oct 2026.
+Seviliya is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 30 Oct 2026.
 
 Seviliya is a club and experimental artist based in Ukraine, with 15 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Ilyas S, Oleg Deluxe and Warlord®. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Seviliya is a club and experimental artist based in Ukraine, with 15 gigs on sou
 
 Ilyas S, Oleg Deluxe, Warlord®
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seviliya/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seviliya/)*

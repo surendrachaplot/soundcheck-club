@@ -1,6 +1,6 @@
 # Amp Halloween with snoritz (Extended Set) & Amp Soundsystem at Amp
 
-Amp Halloween with snoritz (Extended Set) & Amp Soundsystem on Sat 31 Oct, Münster. 3 artists: Matzubi, snoritz and Vinur. Trance and Techno. See the line-up on soundcheck.
+Amp Halloween with snoritz (Extended Set) & Amp Soundsystem on Sat 31 Oct, Münster. 4 artists: club technician, Matzubi, snoritz and Vinur. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Amp Halloween with snoritz (Extended Set) & Amp Soundsystem on Sat 31 Oct, Müns
 
 ## Line-up
 
+- club technician
 - Matzubi
 - snoritz
 - Vinur

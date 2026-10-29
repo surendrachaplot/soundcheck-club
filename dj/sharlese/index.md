@@ -1,14 +1,15 @@
 # Sharlese
 
-Sharlese is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Pony, Seattle on Sat, 14 Nov 2026.
+Sharlese is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pony, Seattle on Sat, 14 Nov 2026.
 
-Sharlese is a techno and electro artist based in United States of America, with 152 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Boston and 18 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: Pony, Seattle on Sat 14 Nov.
+Sharlese is a techno and electro artist based in United States of America, with 153 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Boston and 19 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: Pony, Seattle on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Pony | Seattle |
+| Fri, 20 Nov 2026 | KHIDI | Tbilisi |
 | Sat, 21 Nov 2026 | Nowadays | New York City |
 | Sat, 12 Dec 2026 | Pony | Seattle |
 
@@ -27,4 +28,4 @@ Sharlese is a techno and electro artist based in United States of America, with 
 
 DJ SH1-TR, Lord Phatrick, Kadeejah Streets
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*

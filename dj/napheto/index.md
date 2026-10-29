@@ -1,6 +1,6 @@
 # NAPHETO
 
-NAPHETO is a Trance and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
+NAPHETO is a Trance and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
 
 NAPHETO is a trance and deep house artist based in Georgia, with 11 gigs on soundcheck across Tbilisi. Often billed alongside NODAR, ZAPA and MSTN. Next up: KHIDI, Tbilisi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NAPHETO is a trance and deep house artist based in Georgia, with 11 gigs on soun
 
 NODAR, ZAPA, MSTN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napheto/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napheto/)*

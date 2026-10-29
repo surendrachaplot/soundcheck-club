@@ -1,6 +1,6 @@
 # Chimparonnn
 
-Chimparonnn is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 30 Oct 2026.
+Chimparonnn is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 30 Oct 2026.
 
 Chimparonnn is an electronica and downtempo artist based in Mexico, with 14 gigs on soundcheck across Mexico City. Often billed alongside Cybebe, Astroboii and B Le Goff. Next up: Bar Oriente, Mexico City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Chimparonnn is an electronica and downtempo artist based in Mexico, with 14 gigs
 
 Cybebe, Astroboii, B Le Goff
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chimparonnn/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chimparonnn/)*

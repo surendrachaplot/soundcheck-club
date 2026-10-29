@@ -1,14 +1,15 @@
 # Unhuman
 
-Unhuman is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Vibra, Tbilisi on Sat, 31 Oct 2026.
+Unhuman is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Vibra, Tbilisi on Sat, 31 Oct 2026.
 
-Unhuman is a techno and industrial artist based in Greece, with 94 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 21 more. Often billed alongside Phase Fatale, Petra Flurr and 00rt. Next up: Vibra, Tbilisi on Sat 31 Oct.
+Unhuman is a techno and industrial artist based in Greece, with 95 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 21 more. Often billed alongside Phase Fatale, Petra Flurr and 00rt. Next up: Vibra, Tbilisi on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Vibra | Tbilisi |
+| Fri, 20 Nov 2026 | KHIDI | Tbilisi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Unhuman is a techno and industrial artist based in Greece, with 94 gigs on sound
 
 Phase Fatale, Petra Flurr, 00rt
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unhuman/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unhuman/)*

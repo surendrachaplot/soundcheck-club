@@ -1,6 +1,6 @@
 # Kamekawa
 
-Kamekawa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at DUNGEON akihabara, Tokyo on Sat, 28 Nov 2026.
+Kamekawa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at DUNGEON akihabara, Tokyo on Sat, 28 Nov 2026.
 
 Kamekawa is a techno and house artist based in Japan, with 98 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), DJ NECO and AHREUM. Next up: DUNGEON akihabara, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kamekawa is a techno and house artist based in Japan, with 98 gigs on soundcheck
 
 SIGNAL (JP), DJ NECO, AHREUM
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamekawa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamekawa/)*

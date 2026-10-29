@@ -1,6 +1,6 @@
 # Edge Miami
 
-Edge Miami is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "BORIS at EDGE Halloween Weekend" on Fri, 30 Oct 2026.
+Edge Miami is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BORIS at EDGE Halloween Weekend" on Fri, 30 Oct 2026.
 
 Edge Miami is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including DJ Boris, Lee Foss, Miguel Bastida and Steve Lawler and 2 more. See dates, start times and who's playing. 114 NE 20th Terrace Miami, FL 33137.
 
@@ -22,4 +22,4 @@ Edge Miami is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with
 
 114 NE 20th Terrace Miami, FL 33137, Miami
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/edge-miami/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/edge-miami/)*

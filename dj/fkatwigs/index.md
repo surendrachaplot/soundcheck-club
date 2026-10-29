@@ -1,6 +1,6 @@
 # FKA twigs
 
-FKA twigs is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
+FKA twigs is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
 FKA twigs is an electronica and pop artist based in United Kingdom, with 23 gigs on soundcheck across Barcelona, Berlin, Chicago and Glasgow and 11 more. Often billed alongside Charli XCX, LCD Soundsystem and Parma Ham. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ FKA twigs is an electronica and pop artist based in United Kingdom, with 23 gigs
 
 Charli XCX, LCD Soundsystem, Parma Ham
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkatwigs/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkatwigs/)*

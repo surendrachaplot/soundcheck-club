@@ -1,6 +1,6 @@
 # Jo Kovaa
 
-Jo Kovaa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Sucre, Lyon on Sun, 6 Dec 2026.
+Jo Kovaa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Sucre, Lyon on Sun, 6 Dec 2026.
 
 Jo Kovaa is a techno and house artist, with 7 gigs on soundcheck across Lyon and Paris. Often billed alongside Kirara, Amour Noir and Anfisa Letyago. Next up: Le Sucre, Lyon on Sun 6 Dec.
 
@@ -23,4 +23,4 @@ Jo Kovaa is a techno and house artist, with 7 gigs on soundcheck across Lyon and
 
 Kirara (2), Amour Noir, Anfisa Letyago
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jokovaa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jokovaa/)*

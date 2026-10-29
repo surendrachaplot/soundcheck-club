@@ -1,6 +1,6 @@
 # Eren Yildiz
 
-Eren Yildiz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paloma, London on Fri, 13 Nov 2026.
+Eren Yildiz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paloma, London on Fri, 13 Nov 2026.
 
 Eren Yildiz is a house and tech house artist based in Turkey, with 22 gigs on soundcheck across Amsterdam, Istanbul, London and Milan. Often billed alongside BATU (TR), Mont Rouge and A DEEN. Next up: Paloma, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Eren Yildiz is a house and tech house artist based in Turkey, with 22 gigs on so
 
 BATU (TR), Mont Rouge, A DEEN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erenyildiz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erenyildiz/)*

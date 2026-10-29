@@ -1,6 +1,6 @@
 # Leblanc
 
-Leblanc is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pacha, Munich on Fri, 30 Oct 2026.
+Leblanc is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pacha, Munich on Fri, 30 Oct 2026.
 
 Leblanc is a trance and electro artist based in France, with 21 gigs on soundcheck across Athens, Barcelona, Basel and Berlin and 8 more. Often billed alongside Joachim Pastor, Bérou and James de Torres. Next up: Pacha, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Leblanc is a trance and electro artist based in France, with 21 gigs on soundche
 
 Joachim Pastor, Bérou, James de Torres
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leblanc/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leblanc/)*

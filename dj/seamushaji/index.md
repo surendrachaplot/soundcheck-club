@@ -1,6 +1,6 @@
 # Seamus Haji
 
-Seamus Haji is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fonoteek, Tallinn on Fri, 6 Nov 2026.
+Seamus Haji is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fonoteek, Tallinn on Fri, 6 Nov 2026.
 
 Seamus Haji is a house and disco artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 14 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: Fonoteek, Tallinn on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Seamus Haji is a house and disco artist based in United Kingdom, with 51 gigs on
 
 Melvo Baptiste, Horse Meat Disco, Roger Sanchez
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*

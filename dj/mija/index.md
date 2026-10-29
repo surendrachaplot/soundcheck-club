@@ -1,6 +1,6 @@
 # Mija
 
-Mija is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Kompass Klub, Ghent on Sat, 31 Oct 2026.
+Mija is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kompass Klub, Ghent on Sat, 31 Oct 2026.
 
 Mija is a techno and trance artist based in United States of America, with 153 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 58 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Kompass Klub, Ghent on Sat 31 Oct.
 
@@ -33,4 +33,4 @@ Mija is a techno and trance artist based in United States of America, with 153 g
 
 Bad Boombox, Mischluft, Janis Zielinski
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*

@@ -1,0 +1,28 @@
+# Clearcast
+
+Clearcast is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 28 Nov 2026.
+
+Clearcast is a techno and garage artist based in United States of America, with 58 gigs on soundcheck across Auckland, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Skiis, Vertigo and Adware. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 28 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 28 Nov 2026 | Pier 48's Shed A | San Francisco/Oakland |
+
+## Recently played
+
+- Cow Palace, San Francisco/Oakland · Fri, 16 Oct 2026
+- Public Works, San Francisco/Oakland · Sat, 10 Oct 2026
+- Elsewhere, New York City · Sat, 3 Oct 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Whammy Bar, Auckland · Sat, 4 Jul 2026
+- TBA - Shasta-Trinity National Forest, San Francisco/Oakland · Thu, 4 Jun 2026
+- Buena Vista Lake, Los Angeles · Wed, 20 May 2026
+- F8 1192 Folsom, San Francisco/Oakland · Fri, 24 Apr 2026
+
+## Shares bills with
+
+Skiis, Vertigo, Adware
+
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clearcast/)*

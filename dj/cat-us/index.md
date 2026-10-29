@@ -1,6 +1,6 @@
 # Cat (US)
 
-Cat (US) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Cat (US) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Cat (US) is a tech house and house artist based in United States of America, with 7 gigs on soundcheck across Amsterdam, Barcelona, Los Angeles and Medellin and 2 more. Often billed alongside 999999999, A Little Sound and AC Slater. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Cat (US) is a tech house and house artist based in United States of America, wit
 
 999999999, A Little Sound, AC Slater
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cat-us/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cat-us/)*

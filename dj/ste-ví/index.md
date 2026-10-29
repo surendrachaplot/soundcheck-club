@@ -1,6 +1,6 @@
 # STE-VÍ
 
-STE-VÍ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
+STE-VÍ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
 STE-VÍ is a techno and house artist based in Ireland, with 66 gigs on soundcheck across Berlin, Boston, Cork and New York City and 2 more. Often billed alongside Secret Raver, Adrian Hex and Junkfile. Next up: Eden NYC, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ STE-VÍ is a techno and house artist based in Ireland, with 66 gigs on soundchec
 
 Secret Raver, Adrian Hex, Junkfile
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ste-ví/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ste-ví/)*

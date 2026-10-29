@@ -1,6 +1,6 @@
 # Throw Social DC
 
-Throw Social DC is a music venue in Washington DC with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Smoke In The City" on Thu, 29 Oct 2026.
+Throw Social DC is a music venue in Washington DC with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Smoke In The City" on Thu, 29 Oct 2026.
 
 Throw Social DC is a music venue in Washington DC listed on soundcheck. 6 upcoming gigs, with line-ups including Guy Mantzur and Mr. Pauer. See dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
 
@@ -19,4 +19,4 @@ Throw Social DC is a music venue in Washington DC listed on soundcheck. 6 upcomi
 
 1401 Okie St NE, Ste #102 Washington D.C. 20002, Washington DC
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*

@@ -1,6 +1,6 @@
 # TAUBE
 
-TAUBE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at OST, Berlin on Thu, 19 Nov 2026.
+TAUBE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OST, Berlin on Thu, 19 Nov 2026.
 
 TAUBE is a techno and house artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne, Hannover and Karlsruhe and 5 more. Often billed alongside Boys Noize, AISHA and Bella Claxton. Next up: OST, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ TAUBE is a techno and house artist based in Germany, with 26 gigs on soundcheck 
 
 Boys Noize, AISHA, Bella Claxton
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taube/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taube/)*

@@ -1,6 +1,6 @@
 # mabaton
 
-mabaton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Formosa Aroma | Alhambra, Los Angeles on Sat, 31 Oct 2026.
+mabaton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Formosa Aroma | Alhambra, Los Angeles on Sat, 31 Oct 2026.
 
 mabaton is a techno and house artist, with 7 gigs on soundcheck across Los Angeles and Taipei. Often billed alongside BIFA01, 5p3c141 and Ava Blank. Next up: Formosa Aroma | Alhambra, Los Angeles on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ mabaton is a techno and house artist, with 7 gigs on soundcheck across Los Angel
 
 BIFA01, 5p3c141, Ava Blank
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabaton/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabaton/)*

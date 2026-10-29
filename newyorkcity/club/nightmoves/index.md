@@ -1,6 +1,6 @@
 # Nightmoves
 
-Nightmoves is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "KATIEE 'Resonant Objects' Record Release Party" on Fri, 6 Nov 2026.
+Nightmoves is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "KATIEE 'Resonant Objects' Record Release Party" on Fri, 6 Nov 2026.
 
 Nightmoves is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Brian Abelson, DJ Slimey, John Barera and Teeyam. See dates, start times and who's playing. 295 grand street, brooklyn ny 11211.
 
@@ -15,4 +15,4 @@ Nightmoves is a music venue in New York City listed on soundcheck. 2 upcoming gi
 
 295 grand street, brooklyn ny 11211, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nightmoves/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nightmoves/)*

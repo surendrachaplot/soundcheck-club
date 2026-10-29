@@ -1,6 +1,6 @@
 # Night Bloom at AMT
 
-Night Bloom at AMT on Fri 27 Nov, Berlin. 10 artists: Achilles, Ezio Aguiar, Helina and hero and 6 more. House and Afro House. See the line-up on soundcheck.
+Night Bloom at AMT on Fri 27 Nov, Berlin. 11 artists: Achilles, Ezio Aguiar, Helina and hero and 7 more. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Night Bloom at AMT on Fri 27 Nov, Berlin. 10 artists: Achilles, Ezio Aguiar, Hel
 - Helina
 - hero
 - KALEA
+- Kataya
 - Luca Nova
 - Max Joni
 - MUKKIMIAU

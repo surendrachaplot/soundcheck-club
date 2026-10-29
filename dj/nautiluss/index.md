@@ -1,6 +1,6 @@
 # Nautiluss
 
-Nautiluss is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Datcha, Montreal on Thu, 29 Oct 2026.
+Nautiluss is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar Datcha, Montreal on Thu, 29 Oct 2026.
 
 Nautiluss is a house and minimal artist based in Canada, with 24 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside Rabzi, DJ Frog and Chinelo. Next up: Bar Datcha, Montreal on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Nautiluss is a house and minimal artist based in Canada, with 24 gigs on soundch
 
 Rabzi, DJ Frog, Chinelo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nautiluss/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nautiluss/)*

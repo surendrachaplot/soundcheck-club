@@ -1,6 +1,6 @@
 # XANDY
 
-XANDY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Glove That Fits, London on Fri, 4 Dec 2026.
+XANDY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Glove That Fits, London on Fri, 4 Dec 2026.
 
 XANDY is a techno and house artist based in Latvia, with 21 gigs on soundcheck across Birmingham, London, Manchester and Riga and 1 more. Often billed alongside INLIMEN, Aeden and Eudoxie. Next up: The Glove That Fits, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ XANDY is a techno and house artist based in Latvia, with 21 gigs on soundcheck a
 
 INLIMEN, Aeden (1), Eudoxie
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xandy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xandy/)*

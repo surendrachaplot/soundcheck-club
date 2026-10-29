@@ -1,8 +1,8 @@
 # SAM PHONIC
 
-SAM PHONIC is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Egg London, London on Sat, 31 Oct 2026.
+SAM PHONIC is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Egg London, London on Sat, 31 Oct 2026.
 
-SAM PHONIC is a house and tech house artist, with 18 gigs on soundcheck across London. Often billed alongside Shiloh (UK), Olly Brady and BOA. Next up: Egg London, London on Sat 31 Oct.
+SAM PHONIC is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Shiloh (UK), Olly Brady and BOA. Next up: Egg London, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SAM PHONIC is a house and tech house artist, with 18 gigs on soundcheck across L
 
 Shiloh (UK), Olly Brady, BOA (1)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samphonic/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samphonic/)*

@@ -1,14 +1,15 @@
 # Mandragora
 
-Mandragora is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Mandragora is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
-Mandragora is a techno and psytrance artist based in Brazil, with 49 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 20 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
+Mandragora is a techno and psytrance artist based in Brazil, with 50 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 21 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
+| Sat, 28 Nov 2026 | Halcyon | San Francisco/Oakland |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
@@ -26,4 +27,4 @@ Mandragora is a techno and psytrance artist based in Brazil, with 49 gigs on sou
 
 Vladimir Cauchemar, Angerfist, DYEN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*

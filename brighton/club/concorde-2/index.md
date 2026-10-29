@@ -1,6 +1,6 @@
 # Concorde 2
 
-Concorde 2 is a music venue in Brighton with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Born On Road: Brighton" on Fri, 30 Oct 2026.
+Concorde 2 is a music venue in Brighton with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Born On Road: Brighton" on Fri, 30 Oct 2026.
 
 Concorde 2 is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, with line-ups including 2 Bad Mice, Aries, Coco Bryce and Culture Shock and 2 more. See dates, start times and who's playing. 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom.
 
@@ -22,4 +22,4 @@ Concorde 2 is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, w
 
 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom, Brighton
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*

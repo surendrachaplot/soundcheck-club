@@ -1,6 +1,6 @@
 # Golden Record NYC x pregame present Krol B2B Aline Brooklyn at Green Room NYC
 
-Golden Record NYC x pregame present Krol B2B Aline Brooklyn at Green Room NYC on Fri 4 Dec, New York City. 4 artists: Aline Brooklyn, Armii1n, Krol and Monk. House. See the line-up on soundcheck.
+Golden Record NYC x pregame present Krol B2B Aline Brooklyn at Green Room NYC on Fri 4 Dec, New York City. 5 artists: Aline Brooklyn, Armii1n, Krol and Monk and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Golden Record NYC x pregame present Krol B2B Aline Brooklyn at Green Room NYC on
 - Armii1n
 - Krol
 - Monk (2)
+- Tim Lucent
 
 *Source: [soundcheck](https://soundcheck.club/e/2552041-golden-record-nyc-x-pregame-present-krol-b2b-aline-brooklyn/)*

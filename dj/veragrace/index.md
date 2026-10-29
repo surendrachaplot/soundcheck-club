@@ -1,6 +1,6 @@
 # Vera Grace
 
-Vera Grace is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
+Vera Grace is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
 
 Vera Grace is a techno and industrial artist based in Netherlands, with 137 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside SEMMUS, Cynthia Spiering and SNTS. Next up: Soul SKG, Thessaloniki on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Vera Grace is a techno and industrial artist based in Netherlands, with 137 gigs
 
 SEMMUS, Cynthia Spiering, SNTS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*

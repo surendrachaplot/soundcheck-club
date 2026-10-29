@@ -1,6 +1,6 @@
 # Verushka
 
-Verushka is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 31 Oct 2026.
+Verushka is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 31 Oct 2026.
 
 Verushka is a house and techno artist based in Venezuela, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Acidnena, Meritxell De Soto and Hello Sasy. Next up: Nitsa Club, Barcelona on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Verushka is a house and techno artist based in Venezuela, with 103 gigs on sound
 
 Acidnena, Meritxell De Soto, Hello Sasy
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verushka/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verushka/)*

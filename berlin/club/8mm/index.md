@@ -1,6 +1,6 @@
 # 8MM
 
-8MM is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is " Unknown Callers X 8MM | Halloween All-Nighter" on Sat, 31 Oct 2026.
+8MM is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is " Unknown Callers X 8MM | Halloween All-Nighter" on Sat, 31 Oct 2026.
 
 8MM is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Aleksandra Słyż, Circular Ruins, Faux Sermons and Justin Anastasi and 2 more. See dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
@@ -18,4 +18,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

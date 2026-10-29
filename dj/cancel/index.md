@@ -1,6 +1,6 @@
 # Cancel
 
-Cancel is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Rhiz, Vienna on Sat, 31 Oct 2026.
+Cancel is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Rhiz, Vienna on Sat, 31 Oct 2026.
 
 Cancel is a techno and hardcore artist based in Belgium, with 46 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Rebekah, 6EJOU and Aphøtic. Next up: Rhiz, Vienna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cancel is a techno and hardcore artist based in Belgium, with 46 gigs on soundch
 
 Rebekah, 6EJOU, Aphøtic
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cancel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cancel/)*

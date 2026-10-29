@@ -1,6 +1,6 @@
 # Hot Since 82
 
-Hot Since 82 is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bragadiru Palace, Bucharest on Fri, 6 Nov 2026.
+Hot Since 82 is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bragadiru Palace, Bucharest on Fri, 6 Nov 2026.
 
 Hot Since 82 is a house and tech house artist based in United Kingdom, with 227 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 53 more. Often billed alongside Jamie Jones, Prunk and Fleur Shore. Next up: Bragadiru Palace, Bucharest on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Hot Since 82 is a house and tech house artist based in United Kingdom, with 227 
 
 Jamie Jones, Prunk, Fleur Shore
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*

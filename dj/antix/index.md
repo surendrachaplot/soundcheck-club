@@ -1,6 +1,6 @@
 # Antix
 
-Antix is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Antix is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
 Antix is a techno and progressive house artist based in New Zealand, with 7 gigs on soundcheck across Auckland, Christchurch, Manchester and Morelos. Often billed alongside Pitch Black, Act One and Alex Stein. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Antix is a techno and progressive house artist based in New Zealand, with 7 gigs
 
 Pitch Black, Act One, Alex Stein
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antix/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antix/)*

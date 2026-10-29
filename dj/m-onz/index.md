@@ -1,6 +1,6 @@
 # m-onz
 
-m-onz is a Jungle and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at M.O.T, London on Wed, 11 Nov 2026.
+m-onz is a Jungle and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at M.O.T, London on Wed, 11 Nov 2026.
 
 m-onz is a jungle and idm artist based in United Kingdom, with 14 gigs on soundcheck across London and Tokyo. Often billed alongside SYNTƏL8, South London Bedroom Orchestra and Tyger Blue. Next up: M.O.T, London on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ m-onz is a jungle and idm artist based in United Kingdom, with 14 gigs on soundc
 
 SYNTƏL8, South London Bedroom Orchestra, Tyger Blue
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-onz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-onz/)*

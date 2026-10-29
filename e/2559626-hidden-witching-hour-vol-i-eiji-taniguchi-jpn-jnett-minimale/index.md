@@ -1,6 +1,6 @@
 # Hidden WITCHING HOUR VOL. I — Eiji Taniguchi (JPN), Jnett, Minimale Fatale at TBA
 
-Hidden WITCHING HOUR VOL. I — Eiji Taniguchi (JPN), Jnett, Minimale Fatale at TBA on Sat 31 Oct, Melbourne. 2 artists: DIMI and Minimale Fatale. Techno and House. See the line-up on soundcheck.
+Hidden WITCHING HOUR VOL. I — Eiji Taniguchi (JPN), Jnett, Minimale Fatale at TBA on Sat 31 Oct, Melbourne. 3 artists: DIMI, Evripidou and Minimale Fatale. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Hidden WITCHING HOUR VOL. I — Eiji Taniguchi (JPN), Jnett, Minimale Fatale at 
 ## Line-up
 
 - DIMI (4)
+- Evripidou
 - Minimale Fatale
 
 *Source: [soundcheck](https://soundcheck.club/e/2559626-hidden-witching-hour-vol-i-eiji-taniguchi-jpn-jnett-minimale/)*

@@ -1,18 +1,17 @@
 # Bunker Club
 
-Bunker Club is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "CANCELLED- Studio Crumb 048 - Haseeb Iqbal - All Night Long" on Fri, 23 Oct 2026.
+Bunker Club is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Absolutely Flawless: A George Michael Memorial Disco" on Sat, 12 Dec 2026.
 
-Bunker Club is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Haseeb Iqbal and Onde Anda. See dates, start times and who's playing. 46 Deptford Broadway; Deptford; London SE8 4PH; United Kingdom.
+Bunker Club is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 46 Deptford Broadway; Deptford; London SE8 4PH; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | CANCELLED- Studio Crumb 048 - Haseeb Iqbal - All Night Long | Haseeb Iqbal |
-| Sat, 24 Oct 2026 | ONDE ANDA ALL NIGHT LONG #28 @ Bunker Club | Onde Anda |
+| Sat, 12 Dec 2026 | Absolutely Flawless: A George Michael Memorial Disco |  |
 
 ## Address
 
 46 Deptford Broadway; Deptford; London SE8 4PH; United Kingdom, London
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bunker-club/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bunker-club/)*

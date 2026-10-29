@@ -1,6 +1,6 @@
 # AWSM
 
-AWSM is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cassiopeia, Berlin on Sat, 28 Nov 2026.
+AWSM is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cassiopeia, Berlin on Sat, 28 Nov 2026.
 
 AWSM is a house and tech house artist based in Germany, with 28 gigs on soundcheck across Berlin. Often billed alongside Thomas Haak, Alex Gallus and BUTTCHIN. Next up: Cassiopeia, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ AWSM is a house and tech house artist based in Germany, with 28 gigs on soundche
 
 Thomas Haak, Alex Gallus, BUTTCHIN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awsm/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awsm/)*

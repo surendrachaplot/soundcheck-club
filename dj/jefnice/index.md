@@ -1,6 +1,6 @@
 # Jef Nice
 
-Jef Nice is a Trance and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ampere, Antwerp on Sat, 31 Oct 2026.
+Jef Nice is a Trance and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ampere, Antwerp on Sat, 31 Oct 2026.
 
 Jef Nice is a trance and house artist based in Belgium, with 24 gigs on soundcheck across Antwerp, Brussels and Mallorca. Often billed alongside BISOUX, Arter and Geheimzinnig Soundsystem. Next up: Ampere, Antwerp on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Jef Nice is a trance and house artist based in Belgium, with 24 gigs on soundche
 
 BISOUX, Arter, Geheimzinnig Soundsystem
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jefnice/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jefnice/)*

@@ -1,6 +1,6 @@
 # Bushbby
 
-Bushbby is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Villa, Oslo on Sat, 31 Oct 2026.
+Bushbby is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Villa, Oslo on Sat, 31 Oct 2026.
 
 Bushbby is a reggaeton and latin bass artist, with 101 gigs on soundcheck across Barcelona, Bogotá, Bristol and Brussels and 10 more. Often billed alongside Papaoul, Arthi and CXLI. Next up: The Villa, Oslo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bushbby is a reggaeton and latin bass artist, with 101 gigs on soundcheck across
 
 Papaoul, Arthi, CXLI
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbby/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbby/)*

@@ -1,6 +1,6 @@
 # Pyramidal Decode
 
-Pyramidal Decode is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 12 Dec 2026.
+Pyramidal Decode is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 12 Dec 2026.
 
 Pyramidal Decode is a techno and club artist based in Italy, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bilbao and 9 more. Often billed alongside Unkle Fon, Gabriel D'or & Bordoy and Irazu. Next up: Lasociaciøn, Madrid on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Pyramidal Decode is a techno and club artist based in Italy, with 27 gigs on sou
 
 Unkle Fon, Gabriel D'or & Bordoy, Irazu
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyramidaldecode/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyramidaldecode/)*

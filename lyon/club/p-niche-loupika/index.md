@@ -1,6 +1,6 @@
 # Péniche Loupika
 
-Péniche Loupika is a music venue in Lyon with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "VERSUS THE CLUB: INVITE CHROMA TAKEOVER AT LOUPIKA" on Sat, 7 Nov 2026.
+Péniche Loupika is a music venue in Lyon with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "VERSUS THE CLUB: INVITE CHROMA TAKEOVER AT LOUPIKA" on Sat, 7 Nov 2026.
 
 Péniche Loupika is a music venue in Lyon listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 47 Quai Rambaud, 69002 Lyon, France.
 
@@ -15,4 +15,4 @@ Péniche Loupika is a music venue in Lyon listed on soundcheck. 2 upcoming gigs.
 
 47 Quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/p-niche-loupika/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/p-niche-loupika/)*

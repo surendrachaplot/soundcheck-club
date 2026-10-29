@@ -1,6 +1,6 @@
 # The Timber Loft
 
-The Timber Loft is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Because of Art" on Fri, 30 Oct 2026.
+The Timber Loft is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Because of Art" on Fri, 30 Oct 2026.
 
 The Timber Loft is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Mariiin, Anna Wall, Atjazz and Because of Art and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
 
@@ -8,7 +8,7 @@ The Timber Loft is a music venue in London listed on soundcheck. 12 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Because of Art | Because of Art |
+| Fri, 30 Oct 2026 | Because of Art | Because of Art, Carina Lawrence, Steven Weston |
 | Sun, 1 Nov 2026 | Only For Promotion | Anna Wall, Laurence, Mariiin |
 | Sun, 8 Nov 2026 | Step Inside | MUNNI |
 | Sun, 8 Nov 2026 | Step Inside presents: All Day | Cadence (1), TODDZ |
@@ -23,4 +23,4 @@ The Timber Loft is a music venue in London listed on soundcheck. 12 upcoming gig
 
 233 Shoreditch High St, London E1 6PJ, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*

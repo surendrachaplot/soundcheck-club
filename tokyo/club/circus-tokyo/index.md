@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "BONE SHAKER 1st Anniversary" on Mon, 26 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BONE SHAKER 1st Anniversary" on Mon, 26 Oct 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including ACHIRI, ACKERMAN, Acrocanthosaurus and AI and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -17,10 +17,10 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, w
 | Fri, 6 Nov 2026 | VIVID H34RTS | Iga, Number Collector, Xamd, Yoyou, aryy, kegøn, lazydoll |
 | Sat, 7 Nov 2026 | Critical Sound Japan 2026 | Azumai, Fonts, Kasra |
 | Sun, 8 Nov 2026 | HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW | ACKERMAN (2), HEAVEN'S GATE CREW, nabii |
-| Sat, 14 Nov 2026 | Explosive in Tokyo | Coretex, Dustvoxx, Dynamax, Hayate (2) |
+| Sat, 14 Nov 2026 | Explosive in Tokyo | Coretex, Dustvoxx, Dynamax, Hayate (2), Reverse16 |
 
 ## Address
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

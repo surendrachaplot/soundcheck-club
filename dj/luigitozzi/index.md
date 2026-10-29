@@ -1,6 +1,6 @@
 # Luigi Tozzi
 
-Luigi Tozzi is a Techno and Dub Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at DURO, Milan on Sat, 31 Oct 2026.
+Luigi Tozzi is a Techno and Dub Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DURO, Milan on Sat, 31 Oct 2026.
 
 Luigi Tozzi is a techno and dub techno artist based in Italy, with 118 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Laura BCR, Feral and Claudio PRC. Next up: DURO, Milan on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Luigi Tozzi is a techno and dub techno artist based in Italy, with 118 gigs on s
 
 Laura BCR, Feral, Claudio PRC
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*

@@ -1,6 +1,6 @@
 # Magazzino sul Po
 
-Magazzino sul Po is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "TRRRMOTO: ¡Atención! Alta Tensión" on Fri, 30 Oct 2026.
+Magazzino sul Po is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "TRRRMOTO: ¡Atención! Alta Tensión" on Fri, 30 Oct 2026.
 
 Magazzino sul Po is a music venue in Turin listed on soundcheck. 3 upcoming gigs, with line-ups including Bucci, Gambo, GS.ELLE and Lord Spikeheart and 2 more. See dates, start times and who's playing. Murazzi del Po 18/20 (lato sx).
 
@@ -16,4 +16,4 @@ Magazzino sul Po is a music venue in Turin listed on soundcheck. 3 upcoming gigs
 
 Murazzi del Po 18/20 (lato sx), Turin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/magazzino-sul-po/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/magazzino-sul-po/)*

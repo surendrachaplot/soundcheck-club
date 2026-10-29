@@ -1,6 +1,6 @@
 # Girls of the Internet
 
-Girls of the Internet is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Jam Jar, Bristol on Fri, 6 Nov 2026.
+Girls of the Internet is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Jam Jar, Bristol on Fri, 6 Nov 2026.
 
 Girls of the Internet is a disco and house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brighton and 15 more. Often billed alongside James Alexander Bright, The Shapeshifters and Melvo Baptiste. Next up: The Jam Jar, Bristol on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Girls of the Internet is a disco and house artist based in United Kingdom, with 
 
 James Alexander Bright, The Shapeshifters, Melvo Baptiste
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsoftheinternet/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsoftheinternet/)*

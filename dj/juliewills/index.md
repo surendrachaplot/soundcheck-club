@@ -1,6 +1,6 @@
 # Julie Wills
 
-Julie Wills is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The DBA, Manchester on Fri, 20 Nov 2026.
+Julie Wills is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The DBA, Manchester on Fri, 20 Nov 2026.
 
 Julie Wills is a disco and house artist based in United Kingdom, with 9 gigs on soundcheck across Manchester. Often billed alongside Il Bosco, James Holroyd and Moodymanc. Next up: The DBA, Manchester on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Julie Wills is a disco and house artist based in United Kingdom, with 9 gigs on 
 
 Il Bosco, James Holroyd, Moodymanc
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliewills/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliewills/)*

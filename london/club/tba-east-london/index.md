@@ -1,6 +1,6 @@
 # TBA - EAST LONDON
 
-TBA - EAST LONDON is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Subtle Radio: The House Party" on Sat, 5 Dec 2026.
+TBA - EAST LONDON is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Subtle Radio: The House Party" on Sat, 5 Dec 2026.
 
 TBA - EAST LONDON is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - EAST LONDON is a music venue in London listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Subtle Radio: The House Party |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-east-london/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-east-london/)*

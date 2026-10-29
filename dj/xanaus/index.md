@@ -1,6 +1,6 @@
 # XANA (US)
 
-XANA (US) is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Floyd, Miami on Sat, 7 Nov 2026.
+XANA (US) is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Floyd, Miami on Sat, 7 Nov 2026.
 
 XANA (US) is a reggaeton and techno artist based in United States of America, with 40 gigs on soundcheck across Chicago, Jacksonville, Miami and New York City. Often billed alongside 1-800-Lolita, RUDE BOY (US) and SATURNSARii. Next up: Floyd, Miami on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ XANA (US) is a reggaeton and techno artist based in United States of America, wi
 
 1-800-Lolita, RUDE BOY (US), SATURNSARii
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xanaus/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xanaus/)*

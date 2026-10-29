@@ -1,6 +1,6 @@
 # Esther Dune
 
-Esther Dune is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hall of Fame, Netherlands on Fri, 6 Nov 2026.
+Esther Dune is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hall of Fame, Netherlands on Fri, 6 Nov 2026.
 
 Esther Dune is a techno and house artist based in Netherlands, with 108 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside I-F, Marsman and Dexon. Next up: Hall of Fame, Netherlands on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Esther Dune is a techno and house artist based in Netherlands, with 108 gigs on 
 
 I-F, Marsman, Dexon
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estherdune/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estherdune/)*

@@ -1,6 +1,6 @@
 # Cleric
 
-Cleric is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - WAREHOUSE TBA , New York City on Sat, 31 Oct 2026.
+Cleric is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - WAREHOUSE TBA , New York City on Sat, 31 Oct 2026.
 
 Cleric is a techno and acid artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Félicie, Habgud and Bailey Ibbs. Next up: TBA - WAREHOUSE TBA , New York City on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Cleric is a techno and acid artist based in United Kingdom, with 126 gigs on sou
 
 Félicie, Habgud, Bailey Ibbs
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*

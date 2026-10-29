@@ -1,6 +1,6 @@
 # THEMBA
 
-THEMBA is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bazart, Montreal on Thu, 29 Oct 2026.
+THEMBA is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bazart, Montreal on Thu, 29 Oct 2026.
 
 THEMBA is an afro house and house artist based in South Africa, with 137 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside Black Coffee, Miss Monique and Franky Wah. Next up: Bazart, Montreal on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ THEMBA is an afro house and house artist based in South Africa, with 137 gigs on
 
 Black Coffee, Miss Monique, Franky Wah
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*

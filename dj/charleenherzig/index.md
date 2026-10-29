@@ -1,8 +1,8 @@
 # Charleen Herzig
 
-Charleen Herzig is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Wagenhallen, Stuttgart on Sat, 31 Oct 2026.
+Charleen Herzig is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Wagenhallen, Stuttgart on Sat, 31 Oct 2026.
 
-Charleen Herzig is a techno and trance artist based in Germany, with 45 gigs on soundcheck across Berlin, Brandenburg, Cologne and Frankfurt and 6 more. Often billed alongside Limoncello, Katy Rough and DETOXX. Next up: Wagenhallen, Stuttgart on Sat 31 Oct.
+Charleen Herzig is a techno and trance artist based in Germany, with 46 gigs on soundcheck across Berlin, Brandenburg, Cologne and Frankfurt and 6 more. Often billed alongside Limoncello, Katy Rough and DETOXX. Next up: Wagenhallen, Stuttgart on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Charleen Herzig is a techno and trance artist based in Germany, with 45 gigs on 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Wagenhallen | Stuttgart |
 | Sat, 7 Nov 2026 | ://about blank | Berlin |
+| Sat, 14 Nov 2026 | Edelfettwerk | Hamburg |
 | Sat, 28 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 28 Nov 2026 | Siggi | Brandenburg |
 | Sat, 19 Dec 2026 | ://about blank | Berlin |
@@ -30,4 +31,4 @@ Charleen Herzig is a techno and trance artist based in Germany, with 45 gigs on 
 
 Limoncello, Katy Rough, DETOXX
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*

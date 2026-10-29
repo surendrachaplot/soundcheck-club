@@ -1,14 +1,15 @@
 # ALT8
 
-ALT8 is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at OST, Berlin on Fri, 6 Nov 2026.
+ALT8 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OST, Berlin on Fri, 6 Nov 2026.
 
-ALT8 is a techno and trance artist based in Ireland, with 165 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 61 more. Often billed alongside Sara Landry, OGUZ and Adrian Mills. Next up: OST, Berlin on Fri 6 Nov.
+ALT8 is a techno and trance artist based in Ireland, with 166 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 62 more. Often billed alongside Sara Landry, OGUZ and Adrian Mills. Next up: OST, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | OST | Berlin |
+| Sat, 14 Nov 2026 | Pier 48's Shed A | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Sat, 21 Nov 2026 | Groove | Buenos Aires |
 | Sat, 28 Nov 2026 | Akvárium Klub | Budapest |
@@ -29,4 +30,4 @@ ALT8 is a techno and trance artist based in Ireland, with 165 gigs on soundcheck
 
 Sara Landry, OGUZ, Adrian Mills
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*

@@ -1,6 +1,6 @@
 # GENNARO
 
-GENNARO is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+GENNARO is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 GENNARO is a tech house and house artist based in Italy, with 27 gigs on soundcheck across Amsterdam, Chicago, Cologne and Dortmund / Essen and 12 more. Often billed alongside Mason Collective, Ben Sterling and ChaseWest. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ GENNARO is a tech house and house artist based in Italy, with 27 gigs on soundch
 
 Mason Collective, Ben Sterling, ChaseWest
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*

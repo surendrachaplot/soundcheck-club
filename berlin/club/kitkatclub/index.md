@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 33 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SYMBIOTIKKA Halloween PSY & Techno Special at KitKat Club" on Wed, 28 Oct 2026.
+KitKatClub is a music venue in Berlin with 32 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Human Colours 'Naughty Halloween' w/ Pappenheimer - Ānna Meā - Somaphon (2 Floors)" on Thu, 29 Oct 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 33 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alessia Cattani and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 32 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alessia Cattani and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | SYMBIOTIKKA Halloween PSY & Techno Special at KitKat Club | DJ Jordan, Grace Thompson, LeoSkiDj, Querox |
 | Thu, 29 Oct 2026 | Human Colours 'Naughty Halloween' w/ Pappenheimer - Ānna Meā - Somaphon (2 Floors) | Somaphon |
 | Thu, 29 Oct 2026 | Burlesque Inferno at KitKat 'Burlesque Halloween Ball 2026' (Start 7 pm) |  |
 | Fri, 30 Oct 2026 | PiepShow - OctoberPiep | Alessia Cattani, Chiara Fucci, Chris Fuego, DJ PayPaul, Daryl Johnson, David Strasser, FLEXTASY, Juan Del Chambo, KEN (DE), Maleska |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 33 upcoming gigs, wi
 | Wed, 4 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Kalimanda, Sin:port |
 | Thu, 5 Nov 2026 | Unity (surprise special edition) | Balkhausen, alemiko, e.leptic |
 | Fri, 6 Nov 2026 | Four Play | Alex Nantaya, Alyne, Blame the Booker, Dada Disco, Dela Nesto, Gizmo, Lazykid, PyjamaMama, Stallo, justUS |
+| Sun, 8 Nov 2026 | Nachspiel | Fran-Cee |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

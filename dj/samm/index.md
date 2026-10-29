@@ -1,6 +1,6 @@
 # Samm
 
-Samm is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 21 Nov 2026.
+Samm is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 21 Nov 2026.
 
 Samm is a house and deep house artist based in Greece, with 13 gigs on soundcheck across Amsterdam, Hamburg, Ibiza and London and 3 more. Often billed alongside AJNA, Andrea Oliva and Adriatique. Next up: Shelter Amsterdam, Amsterdam on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Samm is a house and deep house artist based in Greece, with 13 gigs on soundchec
 
 AJNA, Andrea Oliva, Adriatique
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*

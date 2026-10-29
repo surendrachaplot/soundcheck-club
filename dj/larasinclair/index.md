@@ -1,13 +1,14 @@
 # Lara Sinclair
 
-Lara Sinclair is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 6 Nov 2026.
+Lara Sinclair is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Mash House, Edinburgh on Sat, 31 Oct 2026.
 
-Lara Sinclair is a bass and house artist based in United Kingdom, with 201 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3, JI_2001 and DV60. Next up: People's Leisure Club, Edinburgh on Fri 6 Nov.
+Lara Sinclair is a bass and house artist based in United Kingdom, with 202 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3, JI_2001 and DV60. Next up: The Mash House, Edinburgh on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | The Mash House | Edinburgh |
 | Fri, 6 Nov 2026 | People's Leisure Club | Edinburgh |
 | Sun, 8 Nov 2026 | Sneaky Pete's | Edinburgh |
 
@@ -26,4 +27,4 @@ Lara Sinclair is a bass and house artist based in United Kingdom, with 201 gigs 
 
 ZO3 (1), JI_2001, DV60
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*

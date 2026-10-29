@@ -1,6 +1,6 @@
 # Ice Cream - xmas edition at Rolling Stock
 
-Ice Cream - xmas edition at Rolling Stock on Sat 5 Dec, London. Techno and House. See the line-up on soundcheck.
+Ice Cream - xmas edition at Rolling Stock on Sat 5 Dec, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

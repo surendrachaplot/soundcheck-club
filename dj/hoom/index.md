@@ -1,13 +1,14 @@
 # HOOM
 
-HOOM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Südpol, Hamburg on Fri, 18 Dec 2026.
+HOOM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
 
-HOOM is a techno and trance artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Hannover and 5 more. Often billed alongside Temazcal, DJ Breakless and MADMAN. Next up: Südpol, Hamburg on Fri 18 Dec.
+HOOM is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Hannover and 5 more. Often billed alongside Temazcal, A.N.I. and DJ Breakless. Next up: Edelfettwerk, Hamburg on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Edelfettwerk | Hamburg |
 | Fri, 18 Dec 2026 | Südpol | Hamburg |
 
 ## Recently played
@@ -23,6 +24,6 @@ HOOM is a techno and trance artist based in Germany, with 33 gigs on soundcheck 
 
 ## Shares bills with
 
-Temazcal (2), DJ Breakless, MADMAN (2)
+Temazcal (2), A.N.I., DJ Breakless
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoom/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoom/)*

@@ -1,6 +1,6 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "EQ x The Machine" on Fri, 30 Oct 2026.
+Warehouse on Watts is a music venue in Philadelphia with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "EQ x The Machine" on Fri, 30 Oct 2026.
 
 Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 10 upcoming gigs, with line-ups including Barbara Tucker, De León, DJ Tennis and FAME LUST and 2 more. See dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
@@ -23,4 +23,4 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 10 upc
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

@@ -1,6 +1,6 @@
 # Vivace
 
-Vivace is a Garage and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Glamorama, Melbourne on Fri, 30 Oct 2026.
+Vivace is a Garage and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Glamorama, Melbourne on Fri, 30 Oct 2026.
 
 Vivace is a garage and techno artist, with 8 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and London and 3 more. Often billed alongside PØVE, Adrian Mills and Alex Farell. Next up: Glamorama, Melbourne on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Vivace is a garage and techno artist, with 8 gigs on soundcheck across Aberdeen,
 
 PØVE, Adrian Mills, Alex Farell
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace/)*

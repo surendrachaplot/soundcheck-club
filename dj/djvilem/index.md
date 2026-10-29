@@ -1,6 +1,6 @@
 # DJ Vilém
 
-DJ Vilém is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 6 Nov 2026.
+DJ Vilém is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 6 Nov 2026.
 
 DJ Vilém is a house and techno artist, with 9 gigs on soundcheck across Prague. Often billed alongside DJ Lumiere, Chad Andrew and Rodriguez Jr.. Next up: Bukanyr Boat, Prague on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Vilém is a house and techno artist, with 9 gigs on soundcheck across Prague.
 
 DJ Lumiere, Chad Andrew, Rodriguez Jr.
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvilem/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvilem/)*

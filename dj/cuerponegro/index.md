@@ -1,13 +1,14 @@
 # Cuerpo Negro
 
-Cuerpo Negro is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
+Cuerpo Negro is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Howler, Melbourne on Sun, 15 Nov 2026.
 
-Cuerpo Negro is a house and latin bass artist based in Colombia, with 15 gigs on soundcheck across Brisbane, Byron Bay, Medellin and Melbourne and 1 more. Often billed alongside Otorongo, La Payara and Martha van Straaten. Next up: Collingwood Children's Farm, Melbourne on Thu 31 Dec.
+Cuerpo Negro is an electronica and house artist based in Colombia, with 16 gigs on soundcheck across Brisbane, Byron Bay, Medellin and Melbourne and 1 more. Often billed alongside Otorongo, La Payara and Martha van Straaten. Next up: Howler, Melbourne on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Howler | Melbourne |
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cuerpo Negro is a house and latin bass artist based in Colombia, with 15 gigs on
 
 Otorongo, La Payara, Martha van Straaten
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerponegro/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerponegro/)*

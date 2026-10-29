@@ -1,6 +1,6 @@
 # Kaory
 
-Kaory is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at West Harlem, Kyoto on Fri, 13 Nov 2026.
+Kaory is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at West Harlem, Kyoto on Fri, 13 Nov 2026.
 
 Kaory is a house and techno artist based in Japan, with 42 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Kengo, Satoshi Matsui and Yuki Kakuno. Next up: West Harlem, Kyoto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Kaory is a house and techno artist based in Japan, with 42 gigs on soundcheck ac
 
 Kengo, Satoshi Matsui, Yuki Kakuno
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaory/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaory/)*

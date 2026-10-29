@@ -1,6 +1,6 @@
 # Techno-Blondy
 
-Techno-Blondy is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cartilage, Paris on Fri, 30 Oct 2026.
+Techno-Blondy is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cartilage, Paris on Fri, 30 Oct 2026.
 
 Techno-Blondy is a techno and hardcore artist based in France, with 28 gigs on soundcheck across Barcelona, Berlin, London and Paris and 2 more. Often billed alongside Psyber Angel, leomonira and XTRATAKI. Next up: Cartilage, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Techno-Blondy is a techno and hardcore artist based in France, with 28 gigs on s
 
 Psyber Angel, leomonira, XTRATAKI
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techno-blondy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techno-blondy/)*

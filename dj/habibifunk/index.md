@@ -1,6 +1,6 @@
 # Habibi Funk
 
-Habibi Funk is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at LDN East, London on Sat, 21 Nov 2026.
+Habibi Funk is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at LDN East, London on Sat, 21 Nov 2026.
 
 Habibi Funk is a funk / soul and house artist, with 64 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 26 more. Often billed alongside Nabihah Iqbal, Arp Frique and Hadj Sameer. Next up: LDN East, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Habibi Funk is a funk / soul and house artist, with 64 gigs on soundcheck across
 
 Nabihah Iqbal, Arp Frique, Hadj Sameer
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/habibifunk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/habibifunk/)*

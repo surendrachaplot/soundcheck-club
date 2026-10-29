@@ -1,6 +1,6 @@
 # Rüfüs Du Sol
 
-Rüfüs Du Sol is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pier 80 Warehouse, San-francisco-oakland on Sun, 3 Jan 2027.
+Rüfüs Du Sol is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pier 80 Warehouse, San-francisco-oakland on Sun, 3 Jan 2027.
 
 Rüfüs Du Sol is a house and electronica artist based in Australia, with 38 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 18 more. Often billed alongside Cassian, Yulia Niko and Central Cee. Next up: Pier 80 Warehouse, San Francisco Oakland on Sun 3 Jan.
 
@@ -25,4 +25,4 @@ Rüfüs Du Sol is a house and electronica artist based in Australia, with 38 gig
 
 Cassian, Yulia Niko, Central Cee
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rufusdusol/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rufusdusol/)*

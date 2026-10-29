@@ -1,6 +1,6 @@
 # Sago
 
-Sago is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Egg London, London on Sat, 16 Jan 2027.
+Sago is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Egg London, London on Sat, 16 Jan 2027.
 
 Sago is a trance and techno artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, Liverpool, London and Milan. Often billed alongside C-systems, DJMrB and Thiago Genez. Next up: Egg London, London on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Sago is a trance and techno artist based in United Kingdom, with 11 gigs on soun
 
 C-systems, DJMrB, Thiago Genez
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sago-uk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sago-uk/)*

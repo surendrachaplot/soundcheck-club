@@ -1,8 +1,8 @@
 # Marina Herlop
 
-Marina Herlop is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Marina Herlop is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
-Marina Herlop is an experimental and techno artist based in Spain, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 18 more. Often billed alongside James Holden, Kode9 and Bill Kouligas. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+Marina Herlop is an experimental and techno artist based in Spain, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 18 more. Often billed alongside James Holden, Kode9 and Bill Kouligas. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marina Herlop is an experimental and techno artist based in Spain, with 37 gigs 
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 | Thu, 5 Nov 2026 | Kino Siska | Ljubljana |
+| Fri, 6 Nov 2026 | Bozar | Brussels |
 | Fri, 22 Jan 2027 | TBA | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Marina Herlop is an experimental and techno artist based in Spain, with 37 gigs 
 
 James Holden, Kode9, Bill Kouligas
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marinaherlop/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marinaherlop/)*

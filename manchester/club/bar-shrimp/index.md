@@ -1,6 +1,6 @@
 # Bar Shrimp
 
-Bar Shrimp is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "DIG MY BOX with Allius" on Thu, 29 Oct 2026.
+Bar Shrimp is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DIG MY BOX with Allius" on Thu, 29 Oct 2026.
 
 Bar Shrimp is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Allius, King Kit and Kusasa. See dates, start times and who's playing. 7 New York Street, Manchester, M1 4JB.
 
@@ -16,4 +16,4 @@ Bar Shrimp is a music venue in Manchester listed on soundcheck. 3 upcoming gigs,
 
 7 New York Street, Manchester, M1 4JB, Manchester
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bar-shrimp/)*

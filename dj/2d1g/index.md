@@ -1,6 +1,6 @@
 # 2D1G
 
-2D1G is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paloma, Berlin on Sun, 8 Nov 2026.
+2D1G is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paloma, Berlin on Sun, 8 Nov 2026.
 
 2D1G is a house and trance artist, with 14 gigs on soundcheck across Berlin and Leipzig. Often billed alongside mp.ulle, DJ SOFTICE and DJ G1NA R.. Next up: Paloma, Berlin on Sun 8 Nov.
 
@@ -25,4 +25,4 @@
 
 mp.ulle, DJ SOFTICE, DJ G1NA R.
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2d1g/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2d1g/)*

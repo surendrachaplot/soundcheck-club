@@ -1,6 +1,6 @@
 # Rochelle Jordan
 
-Rochelle Jordan is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at ZeyZey, Miami on Thu, 3 Dec 2026.
+Rochelle Jordan is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ZeyZey, Miami on Thu, 3 Dec 2026.
 
 Rochelle Jordan is a house and r&b artist based in Canada, with 35 gigs on soundcheck across Atlanta, Austin, Chicago and Dallas/Fort Worth and 18 more. Often billed alongside Disclosure, DARIUS and Dam Swindle. Next up: ZeyZey, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Rochelle Jordan is a house and r&b artist based in Canada, with 35 gigs on sound
 
 Disclosure, DARIUS, Dam Swindle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rochellejordan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rochellejordan/)*

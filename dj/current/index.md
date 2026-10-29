@@ -1,6 +1,6 @@
 # Current
 
-Current is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bourbon On Division, Chicago on Wed, 18 Nov 2026.
+Current is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bourbon On Division, Chicago on Wed, 18 Nov 2026.
 
 Current is a drum & bass and breakbeat artist based in United States of America, with 22 gigs on soundcheck across Chicago. Often billed alongside Renan, Toyacoyah and Chrissy Tee. Next up: Bourbon On Division, Chicago on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Current is a drum & bass and breakbeat artist based in United States of America,
 
 Renan, Toyacoyah, Chrissy Tee
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/current/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/current/)*

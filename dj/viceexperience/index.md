@@ -1,6 +1,6 @@
 # Vice Experience
 
-Vice Experience is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at GIMIC, Brussels on Sun, 1 Nov 2026.
+Vice Experience is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at GIMIC, Brussels on Sun, 1 Nov 2026.
 
 Vice Experience is a house and techno artist based in France, with 147 gigs on soundcheck across Bordeaux, Brussels, Buenos Aires and Lisbon and 4 more. Often billed alongside euler, French Phil and GLAD. Next up: GIMIC, Brussels on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Vice Experience is a house and techno artist based in France, with 147 gigs on s
 
 euler, French Phil, GLAD
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*

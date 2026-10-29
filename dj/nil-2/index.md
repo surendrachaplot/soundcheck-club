@@ -1,6 +1,6 @@
 # Nil (2)
 
-Nil (2) is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Circus Tokyo, Tokyo on Tue, 3 Nov 2026.
+Nil (2) is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Circus Tokyo, Tokyo on Tue, 3 Nov 2026.
 
 Nil is a drum & bass artist, with 8 gigs on soundcheck across Tbilisi and Tokyo. Often billed alongside 2ciu, Audrey Danza and Aurora Halal. Next up: Circus Tokyo, Tokyo on Tue 3 Nov.
 
@@ -24,4 +24,4 @@ Nil is a drum & bass artist, with 8 gigs on soundcheck across Tbilisi and Tokyo.
 
 2ciu, Audrey Danza, Aurora Halal
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nil-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nil-2/)*

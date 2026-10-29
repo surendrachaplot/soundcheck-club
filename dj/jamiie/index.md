@@ -1,13 +1,14 @@
 # JAMIIE
 
-JAMIIE is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Luz De Gas, Barcelona on Sat, 28 Nov 2026.
+JAMIIE is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 14 Nov 2026.
 
-JAMIIE is a house and afro house artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Luz De Gas, Barcelona on Sat 28 Nov.
+JAMIIE is a house and afro house artist based in Germany, with 108 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Het Sieraad, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Het Sieraad | Amsterdam |
 | Sat, 28 Nov 2026 | Luz De Gas | Barcelona |
 | Fri, 11 Dec 2026 | Fållan | Stockholm |
 
@@ -26,4 +27,4 @@ JAMIIE is a house and afro house artist based in Germany, with 107 gigs on sound
 
 Black Coffee, Âme, Jimi Jules
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*

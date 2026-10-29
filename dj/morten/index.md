@@ -1,6 +1,6 @@
 # Morten
 
-Morten is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Morten is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Morten is an electronica and house artist based in Denmark, with 35 gigs on soundcheck across Athens, Barcelona, Bratislava and Budapest and 16 more. Often billed alongside David Guetta, Adam Ten and Artbat. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Morten is an electronica and house artist based in Denmark, with 35 gigs on soun
 
 David Guetta, Adam Ten, Artbat
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morten/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morten/)*

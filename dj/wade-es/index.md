@@ -1,14 +1,15 @@
 # Wade
 
-Wade is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+Wade is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
-Wade is a tech house and techno artist based in Spain, with 109 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Basel and 35 more. Often billed alongside Chelina Manuhutu, Marco Carola and Gordo. Next up: DRUMSHEDS, London on Sat 31 Oct.
+Wade is a tech house and techno artist based in Spain, with 110 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Basel and 35 more. Often billed alongside Chelina Manuhutu, Marco Carola and Gordo. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
+| Fri, 20 Nov 2026 | Fitz Club | Madrid |
 | Sun, 6 Dec 2026 | TBA - La Estación, Cordoba | Argentina |
 
 ## Recently played
@@ -26,4 +27,4 @@ Wade is a tech house and techno artist based in Spain, with 109 gigs on soundche
 
 Chelina Manuhutu, Marco Carola, Gordo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*

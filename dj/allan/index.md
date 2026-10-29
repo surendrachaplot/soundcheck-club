@@ -1,6 +1,6 @@
 # Allan
 
-Allan is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - secret location, Zagreb on Fri, 13 Nov 2026.
+Allan is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - secret location, Zagreb on Fri, 13 Nov 2026.
 
 Allan is an electronica and techno artist, with 11 gigs on soundcheck across New York City, The Hague and Zagreb. Often billed alongside Carnero, Jeans (NL) and PM. Next up: TBA - secret location, Zagreb on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Allan is an electronica and techno artist, with 11 gigs on soundcheck across New
 
 Carnero, Jeans (NL), PM
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allan/)*

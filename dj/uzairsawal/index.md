@@ -1,6 +1,6 @@
 # uzairsawal
 
-uzairsawal is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at fono, Kuala Lumpur on Fri, 6 Nov 2026.
+uzairsawal is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at fono, Kuala Lumpur on Fri, 6 Nov 2026.
 
 uzairsawal is a dub and bass artist, with 15 gigs on soundcheck across Kuala Lumpur. Often billed alongside Jony Maddkidz, Notion A and Helios XL. Next up: fono, Kuala Lumpur on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ uzairsawal is a dub and bass artist, with 15 gigs on soundcheck across Kuala Lum
 
 Jony Maddkidz, Notion A, Helios XL
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uzairsawal/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uzairsawal/)*

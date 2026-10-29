@@ -1,6 +1,6 @@
 # Altern-8
 
-Altern-8 is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Volks, Brighton on Fri, 6 Nov 2026.
+Altern-8 is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Volks, Brighton on Fri, 6 Nov 2026.
 
 Altern-8 is an acid and house artist, with 32 gigs on soundcheck across Belfast, Berlin, Birmingham and Brighton and 12 more. Often billed alongside Slipmatt, Brandon Block and Danny Tenaglia. Next up: Volks, Brighton on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Altern-8 is an acid and house artist, with 32 gigs on soundcheck across Belfast,
 
 Slipmatt, Brandon Block, Danny Tenaglia
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altern-8/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altern-8/)*

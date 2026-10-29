@@ -1,6 +1,6 @@
 # Martello Give
 
-Martello Give is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 30 Oct 2026.
+Martello Give is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 30 Oct 2026.
 
 Martello Give is a techno and electro artist based in Ireland, with 8 gigs on soundcheck across Vancouver. Often billed alongside Beiti, Bronsön and Xiumei. Next up: Biltmore Cabaret, Vancouver on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Martello Give is a techno and electro artist based in Ireland, with 8 gigs on so
 
 Beiti, Bronsön, Xiumei
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martellogive/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martellogive/)*

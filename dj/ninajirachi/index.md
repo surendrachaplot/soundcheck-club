@@ -1,13 +1,14 @@
 # Ninajirachi
 
-Ninajirachi is a Club and Pop artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+Ninajirachi is a Club and Pop artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 28 Nov 2026.
 
-Ninajirachi is a club and pop artist based in Australia, with 68 gigs on soundcheck across Adelaide, Auckland, Austin and Barcelona and 33 more. Often billed alongside umru, KETTAMA and Izzy Camina. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
+Ninajirachi is a club and pop artist based in Australia, with 69 gigs on soundcheck across Adelaide, Auckland, Austin and Barcelona and 33 more. Often billed alongside umru, KETTAMA and Doss. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Pier 48's Shed A | San Francisco/Oakland |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Petco Park | San-diego |
@@ -27,6 +28,6 @@ Ninajirachi is a club and pop artist based in Australia, with 68 gigs on soundch
 
 ## Shares bills with
 
-umru, KETTAMA, Izzy Camina
+umru, KETTAMA, Doss
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*

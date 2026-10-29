@@ -1,8 +1,8 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Vault Nightclub Bournemouth, South-east on Fri, 30 Oct 2026.
+Job de Jong is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Vault Nightclub Bournemouth, South-east on Fri, 30 Oct 2026.
 
-Job de Jong is a house and tech house artist based in Netherlands, with 177 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 26 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: The Vault Nightclub Bournemouth, South East on Fri 30 Oct.
+Job de Jong is a house and tech house artist based in Netherlands, with 178 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 27 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: The Vault Nightclub Bournemouth, South East on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Job de Jong is a house and tech house artist based in Netherlands, with 177 gigs
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 4 Dec 2026 | Centre Point | Dublin |
 | Sat, 12 Dec 2026 | The Liquid Room | Edinburgh |
-| Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Job de Jong is a house and tech house artist based in Netherlands, with 177 gigs
 
 Dennis Quin, Prunk, M-High
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

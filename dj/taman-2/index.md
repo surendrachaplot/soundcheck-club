@@ -1,6 +1,6 @@
 # TAMAN (2)
 
-TAMAN (2) is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Invisible Wind Factory, Liverpool on Fri, 13 Nov 2026.
+TAMAN (2) is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Invisible Wind Factory, Liverpool on Fri, 13 Nov 2026.
 
 TAMAN is a club and house artist based in United Kingdom, with 21 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Dan Chan, MYOHMY and Bron. Next up: Invisible Wind Factory, Liverpool on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ TAMAN is a club and house artist based in United Kingdom, with 21 gigs on soundc
 
 Dan Chan, MYOHMY, Bron (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taman-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taman-2/)*

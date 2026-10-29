@@ -1,6 +1,6 @@
 # sister.spooky
 
-sister.spooky is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Location, Chicago on Fri, 30 Oct 2026.
+sister.spooky is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location, Chicago on Fri, 30 Oct 2026.
 
 sister.spooky is a techno and club artist, with 8 gigs on soundcheck across Chicago. Often billed alongside Absono, BLACKCLUB and CTRLZORA. Next up: TBA - Secret Location, Chicago on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ sister.spooky is a techno and club artist, with 8 gigs on soundcheck across Chic
 
 Absono, BLACKCLUB, CTRLZORA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sister.spooky/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sister.spooky/)*

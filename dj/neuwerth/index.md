@@ -1,14 +1,15 @@
 # NEUWERTH
 
-NEUWERTH is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
+NEUWERTH is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
 
-NEUWERTH is a techno and gabber artist based in Czech Republic, with 26 gigs on soundcheck across Prague. Often billed alongside Nøteleks, 2NDRA and NONSENSE (CZ). Next up: Fuchs2, Prague on Sat 31 Oct.
+NEUWERTH is a techno and gabber artist based in Czech Republic, with 27 gigs on soundcheck across Prague. Often billed alongside Nøteleks, 2NDRA and RiVid. Next up: Fuchs2, Prague on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Fuchs2 | Prague |
+| Fri, 4 Dec 2026 | Fuchs2 | Prague |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ NEUWERTH is a techno and gabber artist based in Czech Republic, with 26 gigs on 
 
 ## Shares bills with
 
-Nøteleks, 2NDRA, NONSENSE (CZ)
+Nøteleks, 2NDRA, RiVid
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neuwerth/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neuwerth/)*

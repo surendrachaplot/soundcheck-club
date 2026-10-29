@@ -1,6 +1,6 @@
 # Themine
 
-Themine is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sala Independance Club, Madrid on Sun, 6 Dec 2026.
+Themine is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sala Independance Club, Madrid on Sun, 6 Dec 2026.
 
 Themine is a techno and electro artist based in Spain, with 17 gigs on soundcheck across Madrid. Often billed alongside Fujur, Xpansul and ADRI.G. Next up: Sala Independance Club, Madrid on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Themine is a techno and electro artist based in Spain, with 17 gigs on soundchec
 
 Fujur, Xpansul, ADRI.G
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themine/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themine/)*

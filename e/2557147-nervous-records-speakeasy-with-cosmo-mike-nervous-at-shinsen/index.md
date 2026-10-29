@@ -1,6 +1,6 @@
 # Nervous Records Speakeasy with Cosmo & Mike Nervous at Shinsen
 
-Nervous Records Speakeasy with Cosmo & Mike Nervous at Shinsen on Thu 5 Nov, New York City. 1 artist: Mike Nervous. House. See the line-up on soundcheck.
+Nervous Records Speakeasy with Cosmo & Mike Nervous at Shinsen on Thu 5 Nov, New York City. 2 artists: Cosmo (NY) and Mike Nervous. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Nervous Records Speakeasy with Cosmo & Mike Nervous at Shinsen on Thu 5 Nov, New
 
 ## Line-up
 
+- Cosmo (NY)
 - Mike Nervous
 
 *Source: [soundcheck](https://soundcheck.club/e/2557147-nervous-records-speakeasy-with-cosmo-mike-nervous-at-shinsen/)*

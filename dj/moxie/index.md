@@ -1,6 +1,6 @@
 # Moxie
 
-Moxie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
+Moxie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
 
 Moxie is a house and techno artist based in United Kingdom, with 203 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 59 more. Often billed alongside Leon Vynehall, Shanti Celeste and NIKS. Next up: TBA - Secret Location, London on Thu 29 Oct.
 
@@ -30,4 +30,4 @@ Moxie is a house and techno artist based in United Kingdom, with 203 gigs on sou
 
 Leon Vynehall, Shanti Celeste, NIKS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*

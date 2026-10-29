@@ -1,6 +1,6 @@
 # Ayebatonye
 
-Ayebatonye is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+Ayebatonye is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
 
 Ayebatonye is a house and techno artist based in Australia, with 34 gigs on soundcheck across Brisbane, Melbourne, Sydney and Victoria. Often billed alongside C.FRIM, Four Tet and Jyoty. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ayebatonye is a house and techno artist based in Australia, with 34 gigs on soun
 
 C.FRIM, Four Tet, Jyoty
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayebatonye/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayebatonye/)*

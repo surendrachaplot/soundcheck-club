@@ -1,6 +1,6 @@
 # AHREUM
 
-AHREUM is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at HVEN, Tokyo on Thu, 29 Oct 2026.
+AHREUM is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at HVEN, Tokyo on Thu, 29 Oct 2026.
 
 AHREUM is a techno and progressive house artist, with 61 gigs on soundcheck across Tokyo. Often billed alongside U:ICHI, Drunken Kong and Shogo Ito. Next up: HVEN, Tokyo on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ AHREUM is a techno and progressive house artist, with 61 gigs on soundcheck acro
 
 U:ICHI, Drunken Kong, Shogo Ito
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahreum/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahreum/)*

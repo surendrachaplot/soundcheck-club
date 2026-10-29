@@ -1,6 +1,6 @@
 # Shhhhh
 
-Shhhhh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Shhhhh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 Shhhhh is a techno and house artist based in Japan, with 122 gigs on soundcheck across Bali, Chubu, Hanoi and Ho Chi Minh City and 9 more. Often billed alongside YOKOSUN, Compuma and imus. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Shhhhh is a techno and house artist based in Japan, with 122 gigs on soundcheck 
 
 YOKOSUN, Compuma, imus
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*

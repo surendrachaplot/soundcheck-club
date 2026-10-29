@@ -1,6 +1,6 @@
 # Selin (DE)
 
-Selin (DE) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Haus73, Hamburg on Sat, 31 Oct 2026.
+Selin (DE) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Haus73, Hamburg on Sat, 31 Oct 2026.
 
 Selin (DE) is a house and disco artist based in Germany, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Kat_Es, Bress Underground and Darwin Stapel. Next up: Haus73, Hamburg on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Selin (DE) is a house and disco artist based in Germany, with 17 gigs on soundch
 
 Kat_Es, Bress Underground, Darwin Stapel
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selinde/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selinde/)*

@@ -1,14 +1,15 @@
 # Wax Galactique
 
-Wax Galactique is a Italo Disco and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Court Coleman Manor, West-wales on Sat, 31 Oct 2026.
+Wax Galactique is a Electro and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Court Coleman Manor, West-wales on Sat, 31 Oct 2026.
 
-Wax Galactique is an italo disco and electro artist, with 5 gigs on soundcheck across Cardiff and West Wales. Often billed alongside David J Bull, Esther (UK) and 7T8s. Next up: Court Coleman Manor, West Wales on Sat 31 Oct.
+Wax Galactique is an electro and italo disco artist, with 6 gigs on soundcheck across Birmingham, Cardiff and West Wales. Often billed alongside David J Bull, Esther (UK) and 7T8s. Next up: Court Coleman Manor, West Wales on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Court Coleman Manor | West-wales |
+| Sat, 14 Nov 2026 | komunal | Birmingham |
 | Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 
 ## Recently played
@@ -21,4 +22,4 @@ Wax Galactique is an italo disco and electro artist, with 5 gigs on soundcheck a
 
 David J Bull, Esther (UK), 7T8s
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxgalactique/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxgalactique/)*

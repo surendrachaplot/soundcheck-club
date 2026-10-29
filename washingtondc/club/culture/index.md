@@ -1,6 +1,6 @@
 # Culture
 
-Culture is a music venue in Washington DC with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Church On Sunday: Kenny Dope" on Sat, 31 Oct 2026.
+Culture is a music venue in Washington DC with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Church On Sunday: Kenny Dope" on Sat, 31 Oct 2026.
 
 Culture is a music venue in Washington DC listed on soundcheck. 7 upcoming gigs, with line-ups including Amtrac, Kenny Dope, NOVAH and Skream and 1 more. See dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
@@ -20,4 +20,4 @@ Culture is a music venue in Washington DC listed on soundcheck. 7 upcoming gigs,
 
 2002 Fenwick St NE, Washington, DC 20002, United States, Washington DC
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*

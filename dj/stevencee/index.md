@@ -1,6 +1,6 @@
 # Steven Cee
 
-Steven Cee is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
+Steven Cee is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
 
 Steven Cee is a tech house and deep house artist based in United Kingdom, with 65 gigs on soundcheck across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside JAYDAA, Jerome Six and DJ Majesty. Next up: LDN East, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Steven Cee is a tech house and deep house artist based in United Kingdom, with 6
 
 JAYDAA, Jerome Six, DJ Majesty
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevencee/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevencee/)*

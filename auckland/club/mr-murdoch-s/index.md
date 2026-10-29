@@ -1,6 +1,6 @@
 # Mr Murdoch's
 
-Mr Murdoch's is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "NOLJA: Nightmare on Fort Street" on Sat, 31 Oct 2026.
+Mr Murdoch's is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "NOLJA: Nightmare on Fort Street" on Sat, 31 Oct 2026.
 
 Mr Murdoch's is a music venue in Auckland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mr Murdoch's is a music venue in Auckland listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | NOLJA: Nightmare on Fort Street |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/mr-murdoch-s/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/mr-murdoch-s/)*

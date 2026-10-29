@@ -1,6 +1,6 @@
 # AK1200
 
-AK1200 is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mad Chiller World, Tampa Bay on Sat, 21 Nov 2026.
+AK1200 is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mad Chiller World, Tampa Bay on Sat, 21 Nov 2026.
 
 AK1200 is a drum & bass and jungle artist based in United States of America, with 8 gigs on soundcheck across Chicago, Detroit, Orlando and Tampa Bay and 1 more. Often billed alongside Roni Size, Dieselboy and Alex Zelenka. Next up: Mad Chiller World, Tampa Bay on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ AK1200 is a drum & bass and jungle artist based in United States of America, wit
 
 Roni Size, Dieselboy, Alex Zelenka
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ak1200/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ak1200/)*

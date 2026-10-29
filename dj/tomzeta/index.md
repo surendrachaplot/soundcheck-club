@@ -1,6 +1,6 @@
 # Tom Zeta
 
-Tom Zeta is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Polifonic.MX, Guadalajara on Fri, 30 Oct 2026.
+Tom Zeta is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Polifonic.MX, Guadalajara on Fri, 30 Oct 2026.
 
 Tom Zeta is a house and deep house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Belgrade and 10 more. Often billed alongside Adam Ten, Matthias Tanzmann and Mita Gami. Next up: Polifonic.MX, Guadalajara on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tom Zeta is a house and deep house artist based in Netherlands, with 30 gigs on 
 
 Adam Ten, Matthias Tanzmann, Mita Gami
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*

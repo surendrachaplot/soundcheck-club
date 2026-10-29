@@ -1,14 +1,16 @@
 # eveava
 
-eveava is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+eveava is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
-eveava is a house and techno artist based in Colombia, with 52 gigs on soundcheck across Berlin, Bogotá, Frankfurt and Lisbon and 2 more. Often billed alongside True Vine, Peter Schumann and Whitesquare. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
+eveava is a house and techno artist based in Colombia, with 54 gigs on soundcheck across Berlin, Bogotá, Frankfurt and Lisbon and 2 more. Often billed alongside True Vine, Peter Schumann and Whitesquare. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Kaputt Club / Proyecto Kinder | Bogotá |
+| Thu, 12 Nov 2026 | Kater | Berlin |
+| Thu, 19 Nov 2026 | Golden Gate | Berlin |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ eveava is a house and techno artist based in Colombia, with 52 gigs on soundchec
 
 True Vine, Peter Schumann, Whitesquare
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eveava/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eveava/)*

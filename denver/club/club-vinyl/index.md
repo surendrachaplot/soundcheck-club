@@ -1,6 +1,6 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Benwal" on Fri, 6 Nov 2026.
+Club Vinyl is a music venue in Denver with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Benwal" on Fri, 6 Nov 2026.
 
 Club Vinyl is a music venue in Denver listed on soundcheck. 12 upcoming gigs, with line-ups including Benwal, Deborah De Luca, Kyle Starkey and Luca Agnelli and 2 more. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
@@ -23,4 +23,4 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 12 upcoming gigs, wi
 
 1082 Broadway; Denver, CO 80203; United States, Denver
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*

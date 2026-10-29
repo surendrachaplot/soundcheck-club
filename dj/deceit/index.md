@@ -1,6 +1,6 @@
 # Deceit
 
-Deceit is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - LFO, Madrid on Sat, 5 Dec 2026.
+Deceit is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - LFO, Madrid on Sat, 5 Dec 2026.
 
 Deceit is a house and electronica artist based in Spain, with 18 gigs on soundcheck across Barcelona, Madrid and Rome. Often billed alongside Anso, Axis Mundi and Baldman. Next up: TBA - LFO, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Deceit is a house and electronica artist based in Spain, with 18 gigs on soundch
 
 Anso, Axis Mundi, Baldman
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deceit/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deceit/)*

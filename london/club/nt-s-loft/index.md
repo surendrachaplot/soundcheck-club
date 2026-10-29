@@ -1,6 +1,6 @@
 # NT's Loft
 
-NT's Loft is a music venue in London with 24 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "10 Years of Sunshine Soul: Peven Everett (Live) - SECOND DATE ADDED" on Thu, 29 Oct 2026.
+NT's Loft is a music venue in London with 24 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "10 Years of Sunshine Soul: Peven Everett (Live) - SECOND DATE ADDED" on Thu, 29 Oct 2026.
 
 NT's Loft is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including babyschön, blissy e, Budino and Clara Rosa and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -23,4 +23,4 @@ NT's Loft is a music venue in London listed on soundcheck. 24 upcoming gigs, wit
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/nt-s-loft/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/nt-s-loft/)*

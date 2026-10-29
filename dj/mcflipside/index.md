@@ -1,14 +1,15 @@
 # MC Flipside
 
-MC Flipside is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Wiggle Room, Toronto on Fri, 13 Nov 2026.
+MC Flipside is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Wiggle Room, Toronto on Fri, 13 Nov 2026.
 
-MC Flipside is a techno and tech house artist based in Canada, with 52 gigs on soundcheck across Miami and Toronto. Often billed alongside Miz Megs, Manzone & Strong and Tyler Hill. Next up: Wiggle Room, Toronto on Fri 13 Nov.
+MC Flipside is a tech house and techno artist based in Canada, with 53 gigs on soundcheck across Miami and Toronto. Often billed alongside Manzone & Strong, Miz Megs and Tyler Hill. Next up: Wiggle Room, Toronto on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Wiggle Room | Toronto |
+| Sun, 22 Nov 2026 | Wiggle Room | Toronto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ MC Flipside is a techno and tech house artist based in Canada, with 52 gigs on s
 
 ## Shares bills with
 
-Miz Megs, Manzone & Strong, Tyler Hill
+Manzone & Strong, Miz Megs, Tyler Hill
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcflipside/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcflipside/)*

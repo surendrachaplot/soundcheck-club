@@ -1,6 +1,6 @@
 # Daz Manchild Smith
 
-Daz Manchild Smith is a Club and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hidden, Manchester on Sat, 28 Nov 2026.
+Daz Manchild Smith is a Club and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hidden, Manchester on Sat, 28 Nov 2026.
 
 Daz Manchild Smith is a club and trance artist based in United Kingdom, with 12 gigs on soundcheck across London and Manchester. Often billed alongside Dave Lazenby, Shwar and Agnelli & Nelson. Next up: Hidden, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Daz Manchild Smith is a club and trance artist based in United Kingdom, with 12 
 
 Dave Lazenby, Shwar, Agnelli & Nelson
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazmanchildsmith/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazmanchildsmith/)*

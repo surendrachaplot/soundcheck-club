@@ -1,14 +1,13 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "AUDE: Listening Session - Burial, UNTRUE" on Wed, 28 Oct 2026.
+Bridge 48 is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "RITUALS x BRIDGE 48 pres. Audiolux + Mist Gasp + Arof + Toni Amador" on Thu, 29 Oct 2026.
 
-Bridge 48 is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Ale Hope, Alice Youngling, Arof and Atari Stacey and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
+Bridge 48 is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Ale Hope, Alice Youngling, Arof and Atari Stacey and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | AUDE: Listening Session - Burial, UNTRUE | Burial |
 | Thu, 29 Oct 2026 | RITUALS x BRIDGE 48 pres. Audiolux + Mist Gasp + Arof + Toni Amador | Arof, Audiolux, Mist Gasp, Toni Amador |
 | Fri, 30 Oct 2026 | BRIDGE 48 — 2 ROOMS x El Tony Mate | Diego Ro-k, Mac (4) |
 | Sat, 31 Oct 2026 | UNÁNIME TECHNO HALLOWEEN NIGHT | KRYTE, Pullär, SASAXX |
@@ -18,9 +17,10 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, 
 | Fri, 6 Nov 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Ale Hope, Beniso, Cucut, Dadame |
 | Sat, 7 Nov 2026 | UMBRAL Techno Culture | Diffuse Reality, JKEY, Oscar Zillini, RHITA, Squaric |
 | Sun, 15 Nov 2026 | Placeo pres. Alice Youngling - Afternoon Showcase - Bridge48 with Vibes Live | Alice Youngling |
+| Sat, 21 Nov 2026 | MA House 1ST ANNIVERSARY — FESTIVAL EDITION | Atari Stacey, Charlins, DJ Mats, DJ Tortuga, Mullet, Vitorio Testa |
 
 ## Address
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

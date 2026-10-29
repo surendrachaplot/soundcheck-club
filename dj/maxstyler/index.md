@@ -1,8 +1,8 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at New City Gas, Montreal on Sat, 31 Oct 2026.
+Max Styler is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at New City Gas, Montreal on Sat, 31 Oct 2026.
 
-Max Styler is a house and tech house artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 43 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: New City Gas, Montreal on Sat 31 Oct.
+Max Styler is a house and tech house artist based in United States of America, with 137 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 43 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: New City Gas, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Max Styler is a house and tech house artist based in United States of America, w
 | Sat, 7 Nov 2026 | Klub Werkstatt | Copenhagen |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | Woldenberg Riverfront Park | New-orleans |
+| Sun, 15 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | Toffler | Rotterdam |
 | Sat, 21 Nov 2026 | 26 Leake Street | London |
 | Sat, 21 Nov 2026 | 26 Leake Street | London |
 | Sat, 28 Nov 2026 | Gallagher Square | San Diego |
 | Fri, 4 Dec 2026 | Echostage | Washington DC |
 | Tue, 29 Dec 2026 | Du Port El Gouna | Egypt |
-| Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Max Styler is a house and tech house artist based in United States of America, w
 
 Layton Giordani, John Summit, Eli Brown
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*

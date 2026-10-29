@@ -1,6 +1,6 @@
 # Calabasa
 
-Calabasa is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Calabasa is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
 Calabasa is a house and minimal artist based in Spain, with 53 gigs on soundcheck across Antwerp, Barcelona, Berlin and Bologna and 11 more. Often billed alongside Foie Gras, MARYO and Cap. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Calabasa is a house and minimal artist based in Spain, with 53 gigs on soundchec
 
 Foie Gras, MARYO, Cap
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calabasa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calabasa/)*

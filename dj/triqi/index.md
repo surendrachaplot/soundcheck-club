@@ -1,14 +1,15 @@
 # Triqi
 
-Triqi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Smolna, Warsaw on Sat, 7 Nov 2026.
+Triqi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Smolna, Warsaw on Sat, 7 Nov 2026.
 
-Triqi is a house and techno artist based in Germany, with 129 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 2 more. Often billed alongside Immy, INVERNO and hripsime. Next up: Smolna, Warsaw on Sat 7 Nov.
+Triqi is a house and techno artist based in Germany, with 130 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 2 more. Often billed alongside Immy, INVERNO and hripsime. Next up: Smolna, Warsaw on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Smolna | Warsaw |
+| Fri, 20 Nov 2026 | Giri | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Triqi is a house and techno artist based in Germany, with 129 gigs on soundcheck
 
 Immy, INVERNO, hripsime
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triqi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triqi/)*

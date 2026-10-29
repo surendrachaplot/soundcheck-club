@@ -1,6 +1,6 @@
 # FRACTAAL X ALLE REMMEN LOS [ACIDCORE & HARDCORE UPTEMPO] at Chinastraat
 
-FRACTAAL X ALLE REMMEN LOS [ACIDCORE & HARDCORE UPTEMPO] at Chinastraat on Sat 7 Nov, Ghent. 3 artists: Foubert, Inkorrekt and MARDENMEISTER. Acid and Hardcore. See the line-up on soundcheck.
+FRACTAAL X ALLE REMMEN LOS [ACIDCORE & HARDCORE UPTEMPO] at Chinastraat on Sat 7 Nov, Ghent. 3 artists: Foubert, Inkorrekt and MARDENMEISTER. Hardcore and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

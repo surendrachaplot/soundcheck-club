@@ -1,6 +1,6 @@
 # The Darrs
 
-The Darrs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Carpet Shop, London on Fri, 1 Jan 2027.
+The Darrs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Carpet Shop, London on Fri, 1 Jan 2027.
 
 The Darrs is a house and techno artist based in United Kingdom, with 21 gigs on soundcheck across Birmingham, Leeds, Lisbon and London and 1 more. Often billed alongside B.Love, Jenson. and Neb Spook. Next up: The Carpet Shop, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ The Darrs is a house and techno artist based in United Kingdom, with 21 gigs on 
 
 B.Love, Jenson., Neb Spook
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarrs/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarrs/)*

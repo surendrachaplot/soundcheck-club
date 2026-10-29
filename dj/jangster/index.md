@@ -1,6 +1,6 @@
 # Jangster
 
-Jangster is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 26 Oct 2026.
+Jangster is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 26 Oct 2026.
 
 Jangster is a house and techno artist based in South Korea, with 17 gigs on soundcheck across Seoul and Tokyo. Often billed alongside bojvck, Hyejin and SINAHILL. Next up: Stoked&stoned, Seoul on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Jangster is a house and techno artist based in South Korea, with 17 gigs on soun
 
 bojvck, Hyejin, SINAHILL
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jangster/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jangster/)*

@@ -1,6 +1,6 @@
 # Marie Dior
 
-Marie Dior is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Giri, Berlin on Thu, 5 Nov 2026.
+Marie Dior is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Giri, Berlin on Thu, 5 Nov 2026.
 
 Marie Dior is an electronica and experimental artist, with 6 gigs on soundcheck across Berlin and Lisbon. Often billed alongside A lake by the mõõn, 7777 の天使 and Aires. Next up: Giri, Berlin on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Marie Dior is an electronica and experimental artist, with 6 gigs on soundcheck 
 
 A lake by the mõõn, 7777 の天使, Aires
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedior/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedior/)*

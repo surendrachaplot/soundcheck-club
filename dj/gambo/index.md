@@ -1,6 +1,6 @@
 # Gambo
 
-Gambo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Magazzino sul Po, Turin on Sat, 31 Oct 2026.
+Gambo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Magazzino sul Po, Turin on Sat, 31 Oct 2026.
 
 Gambo is a techno and house artist based in Italy, with 19 gigs on soundcheck across London and Turin. Often billed alongside Alex Dima, Kreggo and Seven sins. Next up: Magazzino sul Po, Turin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Gambo is a techno and house artist based in Italy, with 19 gigs on soundcheck ac
 
 Alex Dima, Kreggo, Seven sins
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gambo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gambo/)*

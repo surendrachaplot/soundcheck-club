@@ -1,6 +1,6 @@
 # Briela Veneno
 
-Briela Veneno is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Boston, Boston on Fri, 30 Oct 2026.
+Briela Veneno is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Boston, Boston on Fri, 30 Oct 2026.
 
 Briela Veneno is a techno and industrial artist based in Colombia, with 39 gigs on soundcheck across Berlin, Bogotá, Boston and Medellin and 3 more. Often billed alongside Sánchez Jr., B444DLOVE and Cami Vásquez. Next up: TBA - Boston, Boston on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Briela Veneno is a techno and industrial artist based in Colombia, with 39 gigs 
 
 Sánchez Jr., B444DLOVE, Cami Vásquez
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brielaveneno/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brielaveneno/)*

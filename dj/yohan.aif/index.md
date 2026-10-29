@@ -1,6 +1,6 @@
 # yohan.aif
 
-yohan.aif is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Slaktkyrkan, Stockholm on Sat, 14 Nov 2026.
+yohan.aif is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Slaktkyrkan, Stockholm on Sat, 14 Nov 2026.
 
 yohan.aif is a techno and hardcore artist based in Sweden, with 34 gigs on soundcheck across Berlin, Stockholm and Vienna. Often billed alongside Joey, Claire Hardman and KILIÅN. Next up: Slaktkyrkan, Stockholm on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ yohan.aif is a techno and hardcore artist based in Sweden, with 34 gigs on sound
 
 Joey (2), Claire Hardman, KILIÅN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yohan.aif/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yohan.aif/)*

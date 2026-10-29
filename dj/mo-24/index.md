@@ -1,6 +1,6 @@
 # Mo (24)
 
-Mo (24) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Elsewhere, Bangkok on Fri, 30 Oct 2026.
+Mo (24) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Elsewhere, Bangkok on Fri, 30 Oct 2026.
 
 Mo is a techno and house artist based in United Kingdom, with 12 gigs on soundcheck across Bali, Bangkok, Barcelona and Brighton and 3 more. Often billed alongside Payu, AUDIO DUNE and Azrael. Next up: Elsewhere, Bangkok on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mo is a techno and house artist based in United Kingdom, with 12 gigs on soundch
 
 Payu, AUDIO DUNE, Azrael
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mo-24/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mo-24/)*

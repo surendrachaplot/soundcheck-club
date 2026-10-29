@@ -1,6 +1,6 @@
 # Studionotte
 
-Studionotte is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "MUM MILANO with Young Gaina" on Fri, 30 Oct 2026.
+Studionotte is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "MUM MILANO with Young Gaina" on Fri, 30 Oct 2026.
 
 Studionotte is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Acidgigi, Arkan, Border One and Dario Lem and 2 more. See dates, start times and who's playing. Via Feltre, 30, 20132 Milano MI.
 
@@ -17,4 +17,4 @@ Studionotte is a music venue in Milan listed on soundcheck. 4 upcoming gigs, wit
 
 Via Feltre, 30, 20132 Milano MI, Milan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/studionotte/)*

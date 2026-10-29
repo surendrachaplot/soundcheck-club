@@ -1,6 +1,6 @@
 # Stereo Underground
 
-Stereo Underground is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Stereo Underground is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
 Stereo Underground is a progressive house and techno artist based in Israel, with 8 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and London and 2 more. Often billed alongside Gai Barone, Tash and Act One. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Stereo Underground is a progressive house and techno artist based in Israel, wit
 
 Gai Barone, Tash, Act One
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereounderground/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereounderground/)*

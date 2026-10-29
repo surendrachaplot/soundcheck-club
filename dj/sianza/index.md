@@ -1,6 +1,6 @@
 # sianza
 
-sianza is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at ZIRKA, Munich on Sat, 7 Nov 2026.
+sianza is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ZIRKA, Munich on Sat, 7 Nov 2026.
 
 sianza is a house and electronica artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Berlin, Cologne and Florence and 12 more. Often billed alongside Benjamin Roeder, Bogus Trumper and DJoy. Next up: ZIRKA, Munich on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ sianza is a house and electronica artist based in Germany, with 107 gigs on soun
 
 Benjamin Roeder, Bogus Trumper, DJoy
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*

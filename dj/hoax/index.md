@@ -1,6 +1,6 @@
 # HOAX
 
-HOAX is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+HOAX is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 HOAX is a drum & bass and jungle artist based in Georgia, with 28 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside Unglued, Whiney and Fred V. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ HOAX is a drum & bass and jungle artist based in Georgia, with 28 gigs on soundc
 
 Unglued, Whiney, Fred V
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*

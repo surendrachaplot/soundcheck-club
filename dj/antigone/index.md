@@ -1,6 +1,6 @@
 # Antigone
 
-Antigone is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
+Antigone is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
 
 Antigone is a techno and house artist based in France, with 91 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Parallx, Bours? and Afem Syko. Next up: RSO.BERLIN, Berlin on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Antigone is a techno and house artist based in France, with 91 gigs on soundchec
 
 Parallx, Bours?, Afem Syko
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antigone/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antigone/)*

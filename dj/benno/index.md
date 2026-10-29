@@ -1,13 +1,14 @@
 # Benno
 
-Benno is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 27 Nov 2026.
+Benno is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Simone's, Liverpool on Thu, 29 Oct 2026.
 
-Benno is a house and hip-hop artist based in United Kingdom, with 46 gigs on soundcheck across Berlin, Liverpool, London and Manchester and 1 more. Often billed alongside Beat Detective, Matica and Mia Mai. Next up: 24 Kitchen Street, Liverpool on Fri 27 Nov.
+Benno is a house and hip-hop artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Liverpool, London and Manchester and 1 more. Often billed alongside Beat Detective, Matica and Mia Mai. Next up: Simone's, Liverpool on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Simone's | Liverpool |
 | Fri, 27 Nov 2026 | 24 Kitchen Street | Liverpool |
 
 ## Recently played
@@ -25,4 +26,4 @@ Benno is a house and hip-hop artist based in United Kingdom, with 46 gigs on sou
 
 Beat Detective, Matica, Mia Mai
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benno/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benno/)*

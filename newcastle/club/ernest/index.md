@@ -1,6 +1,6 @@
 # Ernest
 
-Ernest is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Dr Wuf at Ernest" on Sat, 31 Oct 2026.
+Ernest is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Dr Wuf at Ernest" on Sat, 31 Oct 2026.
 
 Ernest is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, with line-ups including James Worker, Josh Wuf, Molly Sinnott and PHJ.WAV. See dates, start times and who's playing. 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP.
 
@@ -16,4 +16,4 @@ Ernest is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, with
 
 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP, Newcastle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ernest/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ernest/)*

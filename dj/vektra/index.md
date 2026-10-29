@@ -1,6 +1,6 @@
 # Vektra
 
-Vektra is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Baalsaal, Hamburg on Fri, 30 Oct 2026.
+Vektra is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Baalsaal, Hamburg on Fri, 30 Oct 2026.
 
 Vektra is a techno and disco artist based in Germany, with 15 gigs on soundcheck across Hamburg. Often billed alongside MORI PIPER, TRYPTAJ and Berrin Tan. Next up: Baalsaal, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vektra is a techno and disco artist based in Germany, with 15 gigs on soundcheck
 
 MORI PIPER, TRYPTAJ, Berrin Tan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vektra/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vektra/)*

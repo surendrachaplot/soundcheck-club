@@ -1,6 +1,6 @@
 # Quka
 
-Quka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Core, Madrid on Thu, 29 Oct 2026.
+Quka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Core, Madrid on Thu, 29 Oct 2026.
 
 Quka is a techno and trance artist based in Spain, with 26 gigs on soundcheck across Brussels and Madrid. Often billed alongside Atrâm, Diego Armando and FUKCNORMAL. Next up: Core, Madrid on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Quka is a techno and trance artist based in Spain, with 26 gigs on soundcheck ac
 
 Atrâm, Diego Armando, FUKCNORMAL
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quka/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quka/)*

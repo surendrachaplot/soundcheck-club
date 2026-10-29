@@ -1,6 +1,6 @@
 # Schubas
 
-Schubas is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Full Circle vol 16 with Mazi, Cano Cruz & Anthony Cruz" on Fri, 30 Oct 2026.
+Schubas is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Full Circle vol 16 with Mazi, Cano Cruz & Anthony Cruz" on Fri, 30 Oct 2026.
 
 Schubas is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with line-ups including Anthony Cruz, Dj Scari, Ed Nine and Jace Inman and 2 more. See dates, start times and who's playing. 3159 N. Southport Ave; Chicago, IL 60657; United States.
 
@@ -17,4 +17,4 @@ Schubas is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with 
 
 3159 N. Southport Ave; Chicago, IL 60657; United States, Chicago
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/schubas/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/schubas/)*

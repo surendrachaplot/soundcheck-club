@@ -1,6 +1,6 @@
 # Andi
 
-Andi is a EBM and Italo Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Silence Please, New York City on Thu, 29 Oct 2026.
+Andi is a EBM and Italo Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Silence Please, New York City on Thu, 29 Oct 2026.
 
 Andi is an ebm and italo disco artist based in United States of America, with 235 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 23 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Silence Please, New York City on Thu 29 Oct.
 
@@ -30,4 +30,4 @@ Andi is an ebm and italo disco artist based in United States of America, with 23
 
 Eli Escobar, Facets, Arvin T
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*

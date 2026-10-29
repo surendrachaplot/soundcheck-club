@@ -1,6 +1,6 @@
 # Kiju
 
-Kiju is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Système, Montreal on Sat, 31 Oct 2026.
+Kiju is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Système, Montreal on Sat, 31 Oct 2026.
 
 Kiju is a techno and house artist based in Canada, with 66 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside coldchainlogistics, Sako and Evita. Next up: Système, Montreal on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kiju is a techno and house artist based in Canada, with 66 gigs on soundcheck ac
 
 coldchainlogistics, Sako (2), Evita
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiju/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiju/)*

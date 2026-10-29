@@ -1,6 +1,6 @@
 # kamo.
 
-kamo. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
+kamo. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
 
 kamo. is a techno and house artist, with 4 gigs on soundcheck across Munich. Often billed alongside ANASTASÍA, Jeyrototo and SHAJAN. Next up: Rote Sonne, Munich on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ kamo. is a techno and house artist, with 4 gigs on soundcheck across Munich. Oft
 
 ANASTASÍA, Jeyrototo, SHAJAN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamo./)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamo./)*

@@ -1,6 +1,6 @@
 # D.O.D.
 
-D.O.D. is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 4 Dec 2026.
+D.O.D. is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 4 Dec 2026.
 
 D.O.D. is a house and tech house artist based in United Kingdom, with 52 gigs on soundcheck across Barcelona, Belfast, Boston and Brighton and 24 more. Often billed alongside Danny Howard, Sonny Fodera and hitty. Next up: NX Newcastle, Newcastle on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ D.O.D. is a house and tech house artist based in United Kingdom, with 52 gigs on
 
 Danny Howard, Sonny Fodera, hitty
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.d./)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.d./)*

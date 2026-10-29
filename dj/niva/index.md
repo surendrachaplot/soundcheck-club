@@ -1,8 +1,8 @@
 # Niva
 
-Niva is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 31 Oct 2026.
+Niva is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 31 Oct 2026.
 
-Niva is a house and techno artist based in Sweden, with 7 gigs on soundcheck across Leeds, Liverpool, London and Newcastle. Often billed alongside Anil Aras, Caleb Laurenson and Candidate. Next up: Ouseburn Garden, Newcastle on Sat 31 Oct.
+Niva is a house and techno artist based in Sweden, with 7 gigs on soundcheck across Leeds, Liverpool, London and Newcastle. Often billed alongside Adam Lance, Anil Aras and Caleb Laurenson. Next up: Ouseburn Garden, Newcastle on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Niva is a house and techno artist based in Sweden, with 7 gigs on soundcheck acr
 
 ## Shares bills with
 
-Anil Aras, Caleb Laurenson, Candidate
+Adam Lance, Anil Aras, Caleb Laurenson
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niva/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niva/)*

@@ -1,6 +1,6 @@
 # kletis
 
-kletis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 30 Oct 2026.
+kletis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 30 Oct 2026.
 
 kletis is a techno and acid artist, with 20 gigs on soundcheck across Belgrade, Berlin, Prague and Warsaw. Often billed alongside Atch22, Dash (CZ) and Demonika. Next up: Ankali & Planeta Za, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ kletis is a techno and acid artist, with 20 gigs on soundcheck across Belgrade, 
 
 Atch22, Dash (CZ), Demonika
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kletis/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kletis/)*

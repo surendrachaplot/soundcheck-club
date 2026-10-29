@@ -1,6 +1,6 @@
 # Sasha GiGi
 
-Sasha GiGi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+Sasha GiGi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 Sasha GiGi is a tech house and house artist, with 36 gigs on soundcheck across Amsterdam, Leeds, London and Manchester. Often billed alongside lau.ra, Surya Sen and Arielle. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sasha GiGi is a tech house and house artist, with 36 gigs on soundcheck across A
 
 lau.ra, Surya Sen, Arielle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashagigi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashagigi/)*

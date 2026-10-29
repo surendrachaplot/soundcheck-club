@@ -1,6 +1,6 @@
 # OFITR x AMEN NYE at TBA
 
-OFITR x AMEN NYE at TBA on Thu 31 Dec, London. 4 artists: AMAR (UK), Jax Vrooge, UNCUT (UK) and Yazmin (UK). See the line-up on soundcheck.
+OFITR x AMEN NYE at TBA on Thu 31 Dec, London. 4 artists: AMAR (UK), Jax Vrooge, UNCUT (UK) and Yazmin (UK). Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

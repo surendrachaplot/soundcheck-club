@@ -1,6 +1,6 @@
 # IvaNNa
 
-IvaNNa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bridge 48, Barcelona on Thu, 5 Nov 2026.
+IvaNNa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bridge 48, Barcelona on Thu, 5 Nov 2026.
 
 IvaNNa is a house and techno artist based in Germany, with 9 gigs on soundcheck across Barcelona, Berlin, Mexico City and Miami. Often billed alongside 10961, DURØ and P3PA. Next up: Bridge 48, Barcelona on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ IvaNNa is a house and techno artist based in Germany, with 9 gigs on soundcheck 
 
 10961, DURØ, P3PA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanna/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanna/)*

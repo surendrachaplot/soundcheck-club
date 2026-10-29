@@ -1,8 +1,8 @@
 # CVRLXS CA
 
-CVRLXS CA is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Studio76 Club, Madrid on Fri, 30 Oct 2026.
+CVRLXS CA is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Studio76 Club, Madrid on Fri, 30 Oct 2026.
 
-CVRLXS CA is a techno artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside Aizikovic, Ania Bruster and Biorc. Next up: Studio76 Club, Madrid on Fri 30 Oct.
+CVRLXS CA is a techno artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside Aizikovic, Ania Bruster and Arlase. Next up: Studio76 Club, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ CVRLXS CA is a techno artist based in Spain, with 5 gigs on soundcheck across Ma
 
 ## Shares bills with
 
-Aizikovic, Ania Bruster, Biorc
+Aizikovic, Ania Bruster, Arlase
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrlxsca/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrlxsca/)*

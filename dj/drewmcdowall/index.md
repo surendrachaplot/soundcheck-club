@@ -1,13 +1,14 @@
 # Drew McDowall
 
-Drew McDowall is a Experimental and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Rugs*, Beijing on Fri, 13 Nov 2026.
+Drew McDowall is a Experimental and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Reactor Shanghai, Shanghai on Wed, 11 Nov 2026.
 
-Drew McDowall is an experimental and industrial artist based in United Kingdom, with 34 gigs on soundcheck across Antwerp, Barcelona, Beijing and Berlin and 17 more. Often billed alongside Pedro Maia, Aaron Dilloway and Buttechno. Next up: Rugs*, Beijing on Fri 13 Nov.
+Drew McDowall is an experimental and industrial artist based in United Kingdom, with 35 gigs on soundcheck across Antwerp, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Hiro Kone, Pedro Maia and Aaron Dilloway. Next up: Reactor Shanghai, Shanghai on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 11 Nov 2026 | Reactor Shanghai | Shanghai |
 | Fri, 13 Nov 2026 | Rugs* | Beijing |
 | Fri, 20 Nov 2026 | Acadana | Hong Kong |
 
@@ -24,6 +25,6 @@ Drew McDowall is an experimental and industrial artist based in United Kingdom, 
 
 ## Shares bills with
 
-Pedro Maia, Aaron Dilloway, Buttechno
+Hiro Kone, Pedro Maia, Aaron Dilloway
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drewmcdowall/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drewmcdowall/)*

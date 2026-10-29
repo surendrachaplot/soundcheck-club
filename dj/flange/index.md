@@ -1,14 +1,15 @@
 # Flange
 
-Flange is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Marble Bar, Detroit on Fri, 20 Nov 2026.
+Flange is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Marble Bar, Detroit on Fri, 20 Nov 2026.
 
-Flange is a techno and house artist, with 7 gigs on soundcheck across Detroit and Minneapolis/St Paul. Often billed alongside DJ Nola, Lonefront and Mike Agent X Clark. Next up: Marble Bar, Detroit on Fri 20 Nov.
+Flange is a techno and house artist, with 8 gigs on soundcheck across Detroit and Minneapolis/St Paul. Often billed alongside DJ Nola, ollo11 and Centrific. Next up: Marble Bar, Detroit on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Marble Bar | Detroit |
+| Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Flange is a techno and house artist, with 7 gigs on soundcheck across Detroit an
 
 ## Shares bills with
 
-DJ Nola, Lonefront, Mike Agent X Clark
+DJ Nola, ollo11, Centrific
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flange/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flange/)*

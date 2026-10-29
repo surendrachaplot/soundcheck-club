@@ -1,6 +1,6 @@
 # Max Kraushaar
 
-Max Kraushaar is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at 94th Aero Squadron, Miami on Sat, 31 Oct 2026.
+Max Kraushaar is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at 94th Aero Squadron, Miami on Sat, 31 Oct 2026.
 
 Max Kraushaar is a house and minimal artist based in Chile, with 11 gigs on soundcheck across Miami. Often billed alongside Kev Gee, Ricardo Villalobos and Alex Pastor. Next up: 94th Aero Squadron, Miami on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Max Kraushaar is a house and minimal artist based in Chile, with 11 gigs on soun
 
 Kev Gee, Ricardo Villalobos, Alex Pastor
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkraushaar-us/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkraushaar-us/)*

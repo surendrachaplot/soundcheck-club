@@ -1,6 +1,6 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "RADION Invites: Fever Dream x Patchwork Family" on Fri, 30 Oct 2026.
+RADION is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "RADION Invites: Fever Dream x Patchwork Family" on Fri, 30 Oct 2026.
 
 RADION is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Beau Didier, BIANKA, Blasha & Allatt and Bongoat and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
@@ -22,4 +22,4 @@ RADION is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

@@ -1,6 +1,6 @@
 # FUJIWARAMONE
 
-FUJIWARAMONE is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 30 Oct 2026.
+FUJIWARAMONE is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 30 Oct 2026.
 
 FUJIWARAMONE is a psytrance and techno artist, with 8 gigs on soundcheck across Tokyo. Often billed alongside AYANA KOSHIBA, AMG SAIMURA (TECHVANE) and AMIDAdrive. Next up: ZEROTOKYO, Tokyo on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ FUJIWARAMONE is a psytrance and techno artist, with 8 gigs on soundcheck across 
 
 AYANA KOSHIBA, AMG SAIMURA (TECHVANE), AMIDAdrive
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fujiwaramone/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fujiwaramone/)*

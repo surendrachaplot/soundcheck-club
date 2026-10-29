@@ -1,6 +1,6 @@
 # Nacho Corominas
 
-Nacho Corominas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Morabito Art Villa, Bali on Sat, 31 Oct 2026.
+Nacho Corominas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Morabito Art Villa, Bali on Sat, 31 Oct 2026.
 
 Nacho Corominas is a house and techno artist, with 32 gigs on soundcheck across Bali and Singapore. Often billed alongside Andy Chunes, Collé and DJ Chus. Next up: Morabito Art Villa, Bali on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nacho Corominas is a house and techno artist, with 32 gigs on soundcheck across 
 
 Andy Chunes, Collé, DJ Chus
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachocorominas/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachocorominas/)*

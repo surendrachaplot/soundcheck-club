@@ -1,6 +1,6 @@
 # Seb Wildblood
 
-Seb Wildblood is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Bowery Loft (Manhattan), New-york-state on Sat, 14 Nov 2026.
+Seb Wildblood is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Bowery Loft (Manhattan), New-york-state on Sat, 14 Nov 2026.
 
 Seb Wildblood is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Austin, Bangkok and Beijing and 36 more. Often billed alongside Blossom Hill, Tom VR and Baalti. Next up: TBA - Secret Bowery Loft (Manhattan), New York State on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Seb Wildblood is a house and techno artist based in United Kingdom, with 86 gigs
 
 Blossom Hill, Tom VR, Baalti
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebwildblood/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebwildblood/)*

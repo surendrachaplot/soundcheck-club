@@ -1,6 +1,6 @@
 # sixtimes8
 
-sixtimes8 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
+sixtimes8 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
 
 sixtimes8 is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin and Cologne. Often billed alongside DJ Spaßgetränk, Bélavie and Leenberger. Next up: Odonien, Cologne on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ sixtimes8 is a techno and trance artist based in Germany, with 8 gigs on soundch
 
 DJ Spaßgetränk, Bélavie, Leenberger
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtimes8/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtimes8/)*

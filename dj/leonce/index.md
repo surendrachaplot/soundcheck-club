@@ -1,6 +1,6 @@
 # Leonce
 
-Leonce is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Rawhide, New York City on Fri, 30 Oct 2026.
+Leonce is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Rawhide, New York City on Fri, 30 Oct 2026.
 
 Leonce is a techno and house artist based in United States of America, with 113 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 24 more. Often billed alongside Kilopatrah Jones, ALEXIS DE LA ROSA and Sterling Juan Diaz. Next up: Club Rawhide, New York City on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Leonce is a techno and house artist based in United States of America, with 113 
 
 Kilopatrah Jones, ALEXIS DE LA ROSA, Sterling Juan Diaz
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonce/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonce/)*

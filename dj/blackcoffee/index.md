@@ -1,6 +1,6 @@
 # Black Coffee
 
-Black Coffee is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ductwork Houston, Houston on Thu, 29 Oct 2026.
+Black Coffee is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ductwork Houston, Houston on Thu, 29 Oct 2026.
 
 Black Coffee is an afro house and house artist based in South Africa, with 308 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 61 more. Often billed alongside Damian Lazarus, Paul Reynolds and Skepta. Next up: Ductwork Houston, Houston on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Black Coffee is an afro house and house artist based in South Africa, with 308 g
 
 Damian Lazarus, Paul Reynolds, Skepta
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*

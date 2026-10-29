@@ -1,6 +1,6 @@
 # KEBRA
 
-KEBRA is a Baile Funk and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Col. Centro, CDMX, Mexico City on Sat, 31 Oct 2026.
+KEBRA is a Baile Funk and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Col. Centro, CDMX, Mexico City on Sat, 31 Oct 2026.
 
 KEBRA is a baile funk and latin bass artist based in Brazil, with 75 gigs on soundcheck across Barcelona, Berlin, Bogotá and Calgary and 12 more. Often billed alongside Babybruise, Basho and Iris Estefanía. Next up: TBA - Col. Centro, CDMX, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ KEBRA is a baile funk and latin bass artist based in Brazil, with 75 gigs on sou
 
 Babybruise, Basho, Iris Estefanía
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kebra/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kebra/)*

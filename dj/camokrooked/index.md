@@ -1,8 +1,8 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ministry Of Sound, London on Fri, 30 Oct 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ministry Of Sound, London on Fri, 30 Oct 2026.
 
-Camo & Krooked are a drum & bass and jungle duo based in Austria, with 86 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 37 more. Often billed alongside Mefjus, Kanine and Disrupta. Next up: Ministry Of Sound, London on Fri 30 Oct.
+Camo & Krooked are a drum & bass and jungle duo based in Austria, with 87 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 38 more. Often billed alongside Mefjus, Kanine and Disrupta. Next up: Ministry Of Sound, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, with 86 gigs o
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
 | Thu, 31 Dec 2026 | Sawmills | Bristol |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, with 86 gigs o
 
 Mefjus, Kanine, Disrupta
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*

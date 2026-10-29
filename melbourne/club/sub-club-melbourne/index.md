@@ -1,8 +1,8 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "allure. x Safari Zone x Impulse Generation presents: morph" on Fri, 30 Oct 2026.
+Sub Club Melbourne is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "allure. x Safari Zone x Impulse Generation presents: morph" on Fri, 30 Oct 2026.
 
-Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Babycino and Baxter and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
+Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Babycino and Baxter and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 8 upcomin
 | Fri, 6 Nov 2026 | Tokyo Love Hotel with machìna [live] [KR/JP] | Ivan Kyrov, LEXI (2), machìna |
 | Sat, 7 Nov 2026 | 3 Years Of Reasons To Be Cheerful: Secret International Guest [??] | Babycino, k2k |
 | Fri, 13 Nov 2026 | Soothsayer presents... Baxter (UK) | Baxter (2) |
+| Sat, 14 Nov 2026 | Animals Dancing: Powder (All Night Long) | Powder |
 | Fri, 20 Nov 2026 | Soda Bar pres. Gabrielle Kwarteng | Gabrielle Kwarteng, Miki (3), Rosax, With Ess |
 | Sat, 21 Nov 2026 | FOZZA presents: BOOM BOOM ROOM | Fresh Hex, dj awesomechillguy25 |
 
@@ -21,4 +22,4 @@ Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 8 upcomin
 
 Flinders Ct, Melbourne VIC 3000, Australia, Melbourne
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*

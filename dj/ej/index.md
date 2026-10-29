@@ -1,6 +1,6 @@
 # EJ
 
-EJ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Exit Reality, Singapore on Fri, 30 Oct 2026.
+EJ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Exit Reality, Singapore on Fri, 30 Oct 2026.
 
 EJ is a house and techno artist, with 63 gigs on soundcheck across Bali, Denver, Kuala Lumpur and Leeds and 2 more. Often billed alongside VAIBS, Amber H and sho&tell. Next up: Exit Reality, Singapore on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ EJ is a house and techno artist, with 63 gigs on soundcheck across Bali, Denver,
 
 VAIBS, Amber H, sho&tell
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ej/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ej/)*

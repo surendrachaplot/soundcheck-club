@@ -1,8 +1,8 @@
 # Toma Kami
 
-Toma Kami is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at OHM, Berlin on Fri, 30 Oct 2026.
+Toma Kami is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OHM, Berlin on Fri, 30 Oct 2026.
 
-Toma Kami is a techno and bass artist based in France, with 103 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 37 more. Often billed alongside ojoo, Ehua and Emma DJ. Next up: OHM, Berlin on Fri 30 Oct.
+Toma Kami is a techno and bass artist based in France, with 104 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 37 more. Often billed alongside ojoo, Ehua and Emma DJ. Next up: OHM, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Toma Kami is a techno and bass artist based in France, with 103 gigs on soundche
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | OHM | Berlin |
 | Sat, 31 Oct 2026 | Pamela Club | Paris |
+| Fri, 6 Nov 2026 | Pamela Club | Paris |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Toma Kami is a techno and bass artist based in France, with 103 gigs on soundche
 
 ojoo, Ehua, Emma DJ
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomakami/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomakami/)*

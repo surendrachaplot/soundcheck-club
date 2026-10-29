@@ -1,6 +1,6 @@
 # PAULA ZAPY
 
-PAULA ZAPY is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
+PAULA ZAPY is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 13 Nov 2026.
 
 PAULA ZAPY is a techno and electronica artist based in Spain, with 52 gigs on soundcheck across Barcelona and Madrid. Often billed alongside TEEMON&POOMBA, Null Pointer and Luska. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ PAULA ZAPY is a techno and electronica artist based in Spain, with 52 gigs on so
 
 TEEMON&POOMBA, Null Pointer, Luska
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulazapy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulazapy/)*

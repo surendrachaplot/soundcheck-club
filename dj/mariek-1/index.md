@@ -1,6 +1,6 @@
 # Marie K (1)
 
-Marie K (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Shunter, Rotterdam on Sat, 31 Oct 2026.
+Marie K (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Shunter, Rotterdam on Sat, 31 Oct 2026.
 
 Marie K is a techno and house artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: Shunter, Rotterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Marie K is a techno and house artist based in Netherlands, with 72 gigs on sound
 
 Eversines, Caim, Pieter Jansen
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariek-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariek-1/)*

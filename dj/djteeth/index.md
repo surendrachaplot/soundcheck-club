@@ -1,6 +1,6 @@
 # DJ TEETH
 
-DJ TEETH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SECRET LOCATION, Turin on Sat, 7 Nov 2026.
+DJ TEETH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SECRET LOCATION, Turin on Sat, 7 Nov 2026.
 
 DJ TEETH is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Berlin, Bristol, Ghent and London and 8 more. Often billed alongside TPR (DE), E-Talking and Carl H. Next up: TBA - SECRET LOCATION, Turin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ DJ TEETH is a techno and trance artist based in Germany, with 49 gigs on soundch
 
 TPR (DE), E-Talking, Carl H
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*

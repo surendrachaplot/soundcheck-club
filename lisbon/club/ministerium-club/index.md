@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Halloween Riktus X Kursed System with GWELD (NL) • Frik • MAKECATEBLEED • Satyr b2b Zephyr • CL" on Thu, 29 Oct 2026.
+Ministerium Club is a music venue in Lisbon with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween Riktus X Kursed System with GWELD (NL) • Frik • MAKECATEBLEED • Satyr b2b Zephyr • CL" on Thu, 29 Oct 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 11 upcoming gigs, with line-ups including 753, Aleeki, Antilope and Ben Sims and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 11 upcoming gi
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

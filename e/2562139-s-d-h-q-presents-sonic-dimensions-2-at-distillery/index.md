@@ -1,6 +1,6 @@
 # S.D.H.Q. presents: Sonic Dimensions #2 at Distillery
 
-S.D.H.Q. presents: Sonic Dimensions #2 at Distillery on Fri 13 Nov, Leipzig. 3 artists: Emeveka, Kalitos and OutWithJane. Techno and Psytrance. See the line-up on soundcheck.
+S.D.H.Q. presents: Sonic Dimensions #2 at Distillery on Fri 13 Nov, Leipzig. 4 artists: Die Ruhe, Emeveka, Kalitos and OutWithJane. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ S.D.H.Q. presents: Sonic Dimensions #2 at Distillery on Fri 13 Nov, Leipzig. 3 a
 
 ## Line-up
 
+- Die Ruhe
 - Emeveka
 - Kalitos
 - OutWithJane

@@ -1,6 +1,6 @@
 # Turbomarius
 
-Turbomarius is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Stollen 134, Dortmund / Essen on Fri, 30 Oct 2026.
+Turbomarius is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Stollen 134, Dortmund / Essen on Fri, 30 Oct 2026.
 
 Turbomarius is a trance and techno artist based in Germany, with 41 gigs on soundcheck across Dortmund / Essen. Often billed alongside byrush, DJ HÖRDE and Alexa Fluor. Next up: Stollen 134, Dortmund / Essen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Turbomarius is a trance and techno artist based in Germany, with 41 gigs on soun
 
 byrush, DJ HÖRDE, Alexa Fluor
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turbomarius/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turbomarius/)*

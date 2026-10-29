@@ -1,6 +1,6 @@
 # Kissel
 
-Kissel is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Barbary, Philadelphia on Fri, 30 Oct 2026.
+Kissel is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Barbary, Philadelphia on Fri, 30 Oct 2026.
 
 Kissel is a techno and club artist based in United States of America, with 8 gigs on soundcheck across Philadelphia. Often billed alongside E.LEE, Obreezy Beats and RESONATE.JPEG. Next up: The Barbary, Philadelphia on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Kissel is a techno and club artist based in United States of America, with 8 gig
 
 E.LEE, Obreezy Beats, RESONATE.JPEG
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kissel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kissel/)*

@@ -1,6 +1,6 @@
 # Keenarf
 
-Keenarf is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at SEN, Warsaw on Fri, 30 Oct 2026.
+Keenarf is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at SEN, Warsaw on Fri, 30 Oct 2026.
 
 Keenarf is a techno and house artist, with 8 gigs on soundcheck across Warsaw. Often billed alongside Mabu, Chriss Jaxx and Daro. Next up: SEN, Warsaw on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Keenarf is a techno and house artist, with 8 gigs on soundcheck across Warsaw. O
 
 Mabu, Chriss Jaxx, Daro
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keenarf/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keenarf/)*

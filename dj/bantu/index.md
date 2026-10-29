@@ -1,6 +1,6 @@
 # Bantu
 
-Bantu is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Elsewhere, New York City on Sat, 31 Oct 2026.
+Bantu is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Elsewhere, New York City on Sat, 31 Oct 2026.
 
 Bantu is an afro house and deep house artist based in South Africa, with 7 gigs on soundcheck across Berlin, Ibiza, London and Los Angeles and 3 more. Often billed alongside Andrea Oliva, Cincity and D Stone. Next up: Elsewhere, New York City on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Bantu is an afro house and deep house artist based in South Africa, with 7 gigs 
 
 Andrea Oliva, Cincity, D Stone
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bantu/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bantu/)*

@@ -1,14 +1,13 @@
 # Factory Floor
 
-Factory Floor is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Elevate x Algorave" on Wed, 28 Oct 2026.
+Factory Floor is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Polyphonic: Moving Parts" on Fri, 6 Nov 2026.
 
-Factory Floor is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs, with line-ups including Damu, Holon._, Julion De'Angelo and sleepsang. See dates, start times and who's playing. 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom.
+Factory Floor is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with line-ups including Holon._ and Julion De'Angelo. See dates, start times and who's playing. 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | Elevate x Algorave | Damu, sleepsang |
 | Fri, 6 Nov 2026 | Polyphonic: Moving Parts |  |
 | Sat, 28 Nov 2026 | Side5tep: Julion De'Angelo | Holon._, Julion De'Angelo |
 
@@ -16,4 +15,4 @@ Factory Floor is a music venue in Sheffield listed on soundcheck. 3 upcoming gig
 
 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom, Sheffield
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*

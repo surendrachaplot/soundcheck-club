@@ -1,6 +1,6 @@
 # HOOPALAÏ
 
-HOOPALAÏ is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+HOOPALAÏ is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
 
 HOOPALAÏ is a house and progressive house artist, with 8 gigs on soundcheck across Montreal. Often billed alongside Felix Da Housecat, Axel Boman and BisouBizou. Next up: Le Sainte-Catherine Hall, Montreal on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ HOOPALAÏ is a house and progressive house artist, with 8 gigs on soundcheck acr
 
 Felix Da Housecat, Axel Boman, BisouBizou
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoopalaï/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoopalaï/)*

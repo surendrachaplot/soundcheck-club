@@ -1,6 +1,6 @@
 # WhoMadeWho
 
-WhoMadeWho is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at UKOKO CLUB, Costa-rica on Fri, 30 Oct 2026.
+WhoMadeWho is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at UKOKO CLUB, Costa-rica on Fri, 30 Oct 2026.
 
 WhoMadeWho is a house and techno artist based in Denmark, with 174 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: UKOKO CLUB, Costa Rica on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ WhoMadeWho is a house and techno artist based in Denmark, with 174 gigs on sound
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

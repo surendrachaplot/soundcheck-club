@@ -1,6 +1,6 @@
 # Mylo Harvey
 
-Mylo Harvey is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at NT's Loft, London on Thu, 29 Oct 2026.
+Mylo Harvey is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NT's Loft, London on Thu, 29 Oct 2026.
 
 Mylo Harvey is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, London, Manchester and Nottingham. Often billed alongside Chenzo, Acuña Collective and Faro. Next up: NT's Loft, London on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Mylo Harvey is a house and disco artist based in United Kingdom, with 24 gigs on
 
 Chenzo, Acuña Collective, Faro
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myloharvey/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myloharvey/)*

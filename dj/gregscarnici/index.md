@@ -1,6 +1,6 @@
 # Greg Scarnici
 
-Greg Scarnici is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Banya Brooklyn, New York City on Sun, 8 Nov 2026.
+Greg Scarnici is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Banya Brooklyn, New York City on Sun, 8 Nov 2026.
 
 Greg Scarnici is a disco and italo disco artist, with 7 gigs on soundcheck across Istanbul and New York City. Often billed alongside William Francis, BAAZZLEY and DJ Dawson. Next up: Banya Brooklyn, New York City on Sun 8 Nov.
 
@@ -23,4 +23,4 @@ Greg Scarnici is a disco and italo disco artist, with 7 gigs on soundcheck acros
 
 William Francis, BAAZZLEY, DJ Dawson
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregscarnici/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregscarnici/)*

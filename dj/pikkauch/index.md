@@ -1,6 +1,6 @@
 # pikkauch
 
-pikkauch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hall, Tallinn on Sat, 31 Oct 2026.
+pikkauch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hall, Tallinn on Sat, 31 Oct 2026.
 
 pikkauch is a techno and house artist, with 21 gigs on soundcheck across Berlin, Helsinki, Tallinn and Warsaw. Often billed alongside Artur Lääts, Micaela Saraceno and Katja Adrikova. Next up: Hall, Tallinn on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ pikkauch is a techno and house artist, with 21 gigs on soundcheck across Berlin,
 
 Artur Lääts, Micaela Saraceno, Katja Adrikova
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pikkauch/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pikkauch/)*

@@ -1,14 +1,15 @@
 # Fiama Molina
 
-Fiama Molina is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at OXI, Berlin on Tue, 3 Nov 2026.
+Fiama Molina is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OXI, Berlin on Tue, 3 Nov 2026.
 
-Fiama Molina is a techno and acid artist based in Argentina, with 23 gigs on soundcheck across Amsterdam, Berlin and Buenos Aires. Often billed alongside Fiama, Josefina Muñoz and Faustø. Next up: OXI, Berlin on Tue 3 Nov.
+Fiama Molina is a techno and acid artist based in Argentina, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires. Often billed alongside Fiama, Josefina Muñoz and Faustø. Next up: OXI, Berlin on Tue 3 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 3 Nov 2026 | OXI | Berlin |
+| Thu, 5 Nov 2026 | Les Enfants Brillants | Barcelona |
 | Tue, 10 Nov 2026 | Melkweg | Amsterdam |
 | Sat, 5 Dec 2026 | TCQ | Buenos Aires |
 
@@ -27,4 +28,4 @@ Fiama Molina is a techno and acid artist based in Argentina, with 23 gigs on sou
 
 Fiama, Josefina Muñoz, Faustø
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiamamolina/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fiamamolina/)*

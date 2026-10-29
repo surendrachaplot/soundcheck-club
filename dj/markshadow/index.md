@@ -1,6 +1,6 @@
 # mark shadow
 
-mark shadow is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Arch 14, London on Fri, 6 Nov 2026.
+mark shadow is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Arch 14, London on Fri, 6 Nov 2026.
 
 mark shadow is an electro and techno artist, with 27 gigs on soundcheck across Brighton and London. Often billed alongside KAMEROL, IZZY (UK) and JaeS. Next up: Arch 14, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ mark shadow is an electro and techno artist, with 27 gigs on soundcheck across B
 
 KAMEROL, IZZY (UK), JaeS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markshadow/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markshadow/)*

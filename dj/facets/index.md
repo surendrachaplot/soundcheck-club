@@ -1,6 +1,6 @@
 # Facets
 
-Facets is a Italo Disco and EBM artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Klub 20/44, Belgrade on Fri, 30 Oct 2026.
+Facets is a Italo Disco and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Klub 20/44, Belgrade on Fri, 30 Oct 2026.
 
 Facets is an italo disco and ebm artist based in Serbia, with 137 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Franz Scala and Berlin Bunny. Next up: Klub 20/44, Belgrade on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Facets is an italo disco and ebm artist based in Serbia, with 137 gigs on soundc
 
 Andi, Franz Scala, Berlin Bunny
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facets/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facets/)*

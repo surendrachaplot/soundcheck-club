@@ -1,6 +1,6 @@
 # Jaxter
 
-Jaxter is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at KitKatClub, Berlin on Sun, 1 Nov 2026.
+Jaxter is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at KitKatClub, Berlin on Sun, 1 Nov 2026.
 
 Jaxter is a house and techno artist based in Belgium, with 10 gigs on soundcheck across Belgium, Berlin, Brussels and Ghent. Often billed alongside Don Cabron, GALAGO (BE) and Aytiwan. Next up: KitKatClub, Berlin on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Jaxter is a house and techno artist based in Belgium, with 10 gigs on soundcheck
 
 Don Cabron, GALAGO (BE), Aytiwan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxter/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxter/)*

@@ -1,6 +1,6 @@
 # evolpeeD
 
-evolpeeD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Gewölbe, Cologne on Sat, 12 Dec 2026.
+evolpeeD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Gewölbe, Cologne on Sat, 12 Dec 2026.
 
 evolpeeD is a house and techno artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Munich and 1 more. Often billed alongside Lara Fein, DCHM and Victor (DE). Next up: Gewölbe, Cologne on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ evolpeeD is a house and techno artist based in Germany, with 28 gigs on soundche
 
 Lara Fein, DCHM, Victor (DE)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evolpeed/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evolpeed/)*

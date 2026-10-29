@@ -1,6 +1,6 @@
-# SOUND OF KARMEN [Danilo Plessow (MCDE) (4Hs set) • Orele • Phil]] at Karmen Camina
+# SOUND OF KARMEN [Danilo Plessow (MCDE) (4Hs set) • Orele • Phil] at Karmen Camina
 
-SOUND OF KARMEN [Danilo Plessow (MCDE) (4Hs set) • Orele • Phil]] at Karmen Camina on Fri 4 Dec, Strasbourg. 2 artists: Danilo Plessow and Motor City Drum Ensemble. House. See the line-up on soundcheck.
+SOUND OF KARMEN [Danilo Plessow (MCDE) (4Hs set) • Orele • Phil] at Karmen Camina on Fri 4 Dec, Strasbourg. 2 artists: Danilo Plessow and Motor City Drum Ensemble. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

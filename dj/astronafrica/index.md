@@ -1,6 +1,6 @@
 # Astronafrica
 
-Astronafrica is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
+Astronafrica is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
 
 Astronafrica is a house and electronica artist based in Australia, with 16 gigs on soundcheck across Sydney. Often billed alongside Deepa, Evie and Phil Smart. Next up: TBA, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Astronafrica is a house and electronica artist based in Australia, with 16 gigs 
 
 Deepa, Evie, Phil Smart
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astronafrica/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astronafrica/)*

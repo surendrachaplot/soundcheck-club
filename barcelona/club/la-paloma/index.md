@@ -1,8 +1,8 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "La Paloma presents: Soichi Terada + Jennifer Loveless + Pau Roca" on Fri, 30 Oct 2026.
+La Paloma is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "La Paloma presents: Soichi Terada + Jennifer Loveless + Pau Roca" on Fri, 30 Oct 2026.
 
-La Paloma is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including Colleen 'Cosmo' Murphy, Danilo Plessow, Deckard and Egyptian Greyhound and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
+La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including Colleen 'Cosmo' Murphy, Danilo Plessow, Deckard and Egyptian Greyhound and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
 ## What's on
 
@@ -14,9 +14,10 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, w
 | Sat, 7 Nov 2026 | Poly-Rythmo Club: Colleen 'Cosmo' Murphy + Deckard + Sonido Tupinamba | Colleen 'Cosmo' Murphy, Deckard, Sonido Tupinamba |
 | Fri, 13 Nov 2026 | POLENTA |  |
 | Sat, 14 Nov 2026 | La Paloma presents: Danilo Plessow DJ set + Tereza DJ set | Danilo Plessow, Tereza |
+| Fri, 27 Nov 2026 | La Paloma meets Dance Elements: Steffi x Virginia + Elwood b2b Ezekiel + Phijos | Elwood, Ezekiel, Phijos, Steffi, Virginia |
 
 ## Address
 
 Calle Tigre 27, 08001 Barcelona, Barcelona
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*

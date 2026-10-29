@@ -1,6 +1,6 @@
 # DJ Bone
 
-DJ Bone is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+DJ Bone is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 DJ Bone is a techno and house artist based in United States of America, with 140 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Azucy, Yeti Mind Tricks and Jack Fresia. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ DJ Bone is a techno and house artist based in United States of America, with 140
 
 Azucy, Yeti Mind Tricks, Jack Fresia
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbone/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbone/)*

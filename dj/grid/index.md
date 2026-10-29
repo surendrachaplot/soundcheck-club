@@ -1,6 +1,6 @@
 # Grid
 
-Grid is a Electro and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Modeci, Seoul on Sat, 31 Oct 2026.
+Grid is a Electro and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Modeci, Seoul on Sat, 31 Oct 2026.
 
 Grid is an electro and funk / soul artist based in Lebanon, with 8 gigs on soundcheck across Montreal and Seoul. Often billed alongside Cidoine, Darone Sassounian and Kico. Next up: Modeci, Seoul on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Grid is an electro and funk / soul artist based in Lebanon, with 8 gigs on sound
 
 Cidoine, Darone Sassounian, Kico (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grid/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grid/)*

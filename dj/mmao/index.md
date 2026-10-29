@@ -1,6 +1,6 @@
 # MMAO
 
-MMAO is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 30 Oct 2026.
+MMAO is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 30 Oct 2026.
 
 MMAO is a house and electro artist based in Georgia, with 7 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Shveba, IKKS and BLACKOUT. Next up: Süss War Gestern, Berlin on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ MMAO is a house and electro artist based in Georgia, with 7 gigs on soundcheck a
 
 Shveba, IKKS, BLACKOUT (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmao/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmao/)*

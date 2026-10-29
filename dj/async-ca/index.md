@@ -1,6 +1,6 @@
 # /ASYNC
 
-/ASYNC is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Junction Underground, Toronto on Fri, 13 Nov 2026.
+/ASYNC is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Junction Underground, Toronto on Fri, 13 Nov 2026.
 
 /ASYNC is an electro and techno artist based in Ukraine, with 29 gigs on soundcheck across Toronto. Often billed alongside Xela., Hycastle and TJ Traxx. Next up: Junction Underground, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@
 
 Xela., Hycastle, TJ Traxx
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/async-ca/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/async-ca/)*

@@ -1,6 +1,6 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Staatstheater & Alte Feuerwache, Saarland on Wed, 28 Oct 2026.
+Estella Boersma is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Staatstheater & Alte Feuerwache, Saarland on Wed, 28 Oct 2026.
 
 Estella Boersma is a techno and house artist based in Germany, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 79 more. Often billed alongside Patrick Mason, Cera Khin and Daria Kolosova. Next up: Staatstheater & Alte Feuerwache, Saarland on Wed 28 Oct.
 
@@ -18,6 +18,7 @@ Estella Boersma is a techno and house artist based in Germany, with 207 gigs on 
 
 ## Recently played
 
+- Staatstheater & Alte Feuerwache, Saarland · Wed, 28 Oct 2026
 - 50:Hertz House & Techno Cafe Rembrandt Square, Amsterdam · Sat, 24 Oct 2026
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - The Cause, London · Sat, 17 Oct 2026
@@ -25,10 +26,9 @@ Estella Boersma is a techno and house artist based in Germany, with 207 gigs on 
 - Gotec, Karlsruhe · Sat, 3 Oct 2026
 - Etko, Cyprus · Fri, 25 Sept 2026
 - ZEROTOKYO, Tokyo · Sun, 20 Sept 2026
-- UNDERCITY, Seoul · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Patrick Mason, Cera Khin, Daria Kolosova
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*

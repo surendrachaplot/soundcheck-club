@@ -1,6 +1,6 @@
 # Gabrielito
 
-Gabrielito is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Bonobo, New York City on Sun, 8 Nov 2026.
+Gabrielito is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar Bonobo, New York City on Sun, 8 Nov 2026.
 
 Gabrielito is a house and disco artist, with 7 gigs on soundcheck across New York City. Next up: Bar Bonobo, New York City on Sun 8 Nov.
 
@@ -19,4 +19,4 @@ Gabrielito is a house and disco artist, with 7 gigs on soundcheck across New Yor
 - THE FACTORY 380, New York City · Thu, 29 Jun 2023
 - THE FACTORY 380, New York City · Thu, 15 Jun 2023
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielito/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielito/)*

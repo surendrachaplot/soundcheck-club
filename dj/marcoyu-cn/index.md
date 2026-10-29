@@ -1,6 +1,6 @@
 # MarcoYu
 
-MarcoYu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Acadana, Hong Kong on Fri, 20 Nov 2026.
+MarcoYu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Acadana, Hong Kong on Fri, 20 Nov 2026.
 
 MarcoYu is a techno and house artist based in China, with 53 gigs on soundcheck across Beijing, Hanoi, Hong Kong and Seoul and 2 more. Often billed alongside Nanogram, Dan-neo and Finsent C. Next up: Acadana, Hong Kong on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ MarcoYu is a techno and house artist based in China, with 53 gigs on soundcheck 
 
 Nanogram, Dan-neo, Finsent C
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoyu-cn/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoyu-cn/)*

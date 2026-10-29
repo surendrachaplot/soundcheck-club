@@ -1,6 +1,6 @@
 # Artbat
 
-Artbat is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Artbat is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Artbat is a techno and house artist based in Ukraine, with 147 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Artbat is a techno and house artist based in Ukraine, with 147 gigs on soundchec
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

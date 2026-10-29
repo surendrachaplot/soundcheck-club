@@ -1,6 +1,6 @@
-# Halloween party at Gólya Presszó
+# Halloween Party at Gólya Presszó
 
-Halloween party at Gólya Presszó on Fri 30 Oct, Budapest. Experimental and Club. See the line-up on soundcheck.
+Halloween Party at Gólya Presszó on Fri 30 Oct, Budapest. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # bullet tooth
 
-bullet tooth is a House and Garage artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Depot, Cardiff on Fri, 30 Oct 2026.
+bullet tooth is a House and Garage artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Depot, Cardiff on Fri, 30 Oct 2026.
 
-bullet tooth is a house and garage artist based in United Kingdom, with 138 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 38 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: Depot, Cardiff on Fri 30 Oct.
+bullet tooth is a house and garage artist based in United Kingdom, with 139 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 39 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: Depot, Cardiff on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ bullet tooth is a house and garage artist based in United Kingdom, with 138 gigs
 | Sat, 21 Nov 2026 | The Brickworks | Nottingham |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Thu, 31 Dec 2026 | E1 | London |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ bullet tooth is a house and garage artist based in United Kingdom, with 138 gigs
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

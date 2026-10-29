@@ -1,6 +1,6 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at La Terrrazza, Barcelona on Fri, 6 Nov 2026.
+Louie Vega is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at La Terrrazza, Barcelona on Fri, 6 Nov 2026.
 
 Louie Vega is a house and disco artist based in United States of America, with 219 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 38 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: La Terrrazza, Barcelona on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Louie Vega is a house and disco artist based in United States of America, with 2
 
 Anane, Melvo Baptiste, Christian Mantini
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*

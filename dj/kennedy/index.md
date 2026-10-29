@@ -1,14 +1,15 @@
 # Kennedy
 
-Kennedy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at PIP Den Haag, The Hague on Fri, 30 Oct 2026.
+Kennedy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at PIP Den Haag, The Hague on Fri, 30 Oct 2026.
 
-Kennedy is a house and disco artist based in Netherlands, with 78 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 15 more. Often billed alongside Ajuma, I-F and Alessandro Parisi. Next up: PIP Den Haag, The Hague on Fri 30 Oct.
+Kennedy is a house and disco artist based in Netherlands, with 79 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 16 more. Often billed alongside Ajuma, Benny Rodrigues and I-F. Next up: PIP Den Haag, The Hague on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | PIP Den Haag | The Hague |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kennedy is a house and disco artist based in Netherlands, with 78 gigs on soundc
 
 ## Shares bills with
 
-Ajuma, I-F, Alessandro Parisi
+Ajuma, Benny Rodrigues, I-F
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennedy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennedy/)*

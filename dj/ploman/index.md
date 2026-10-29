@@ -1,8 +1,8 @@
 # PLO Man
 
-PLO Man is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at SMUT Athens, Athens on Sat, 31 Oct 2026.
+PLO Man is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at SMUT Athens, Athens on Sat, 31 Oct 2026.
 
-PLO Man is a techno and house artist based in Germany, with 175 gigs on soundcheck across Amsterdam, Athens, Austin and Baltimore and 47 more. Often billed alongside DJ Spence, Hashman Deejay and Gi Gi. Next up: SMUT Athens, Athens on Sat 31 Oct.
+PLO Man is a techno and house artist based in Germany, with 176 gigs on soundcheck across Amsterdam, Athens, Austin and Baltimore and 47 more. Often billed alongside DJ Spence, Hashman Deejay and Gi Gi. Next up: SMUT Athens, Athens on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ PLO Man is a techno and house artist based in Germany, with 175 gigs on soundche
 | Fri, 4 Dec 2026 | FOLD | London |
 | Sat, 19 Dec 2026 | CLUB RAUM | Amsterdam |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ PLO Man is a techno and house artist based in Germany, with 175 gigs on soundche
 
 DJ Spence, Hashman Deejay, Gi Gi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*

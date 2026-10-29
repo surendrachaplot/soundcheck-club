@@ -1,6 +1,6 @@
 # Xanadu x Choke Hole x Function 'WITCHSLAP' (skate + drag wrestling + dance party + concert) at Xanadu
 
-Xanadu x Choke Hole x Function 'WITCHSLAP' (skate + drag wrestling + dance party + concert) on Fri 30 Oct, New York City. 2 artists: Dangerous Rose and Makadsi. Electronica. See the line-up on soundcheck.
+Xanadu x Choke Hole x Function 'WITCHSLAP' (skate + drag wrestling + dance party + concert) on Fri 30 Oct, New York City. 3 artists: Chachi Guerrero, Dangerous Rose and Makadsi. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Xanadu x Choke Hole x Function 'WITCHSLAP' (skate + drag wrestling + dance party
 
 ## Line-up
 
+- Chachi Guerrero
 - Dangerous Rose
 - Makadsi
 

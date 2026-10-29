@@ -1,6 +1,6 @@
 # Palazzo (2)
 
-Palazzo (2) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
+Palazzo (2) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
 
 Palazzo is a house and club artist based in Argentina, with 9 gigs on soundcheck across Lisbon, Melbourne and Sydney. Often billed alongside Elsie, Tina Disco and Zafiro. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Palazzo is a house and club artist based in Argentina, with 9 gigs on soundcheck
 
 Elsie, Tina Disco, Zafiro
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palazzo-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palazzo-2/)*

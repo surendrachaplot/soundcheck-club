@@ -1,6 +1,6 @@
 # The Old Blue Last
 
-The Old Blue Last is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Scary Things (NTS): Halloween 2026 w/ Sam Wise, Jjess, DJ Bempah + more" on Sat, 31 Oct 2026.
+The Old Blue Last is a music venue in London with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Scary Things (NTS): Halloween 2026 w/ Sam Wise, Jjess, DJ Bempah + more" on Sat, 31 Oct 2026.
 
 The Old Blue Last is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Bempah, Bruin Chan, Cleopatra and Sam Wise. See dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
 
@@ -20,4 +20,4 @@ The Old Blue Last is a music venue in London listed on soundcheck. 7 upcoming gi
 
 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*

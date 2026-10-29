@@ -1,6 +1,6 @@
 # A.Knives
 
-A.Knives is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at EQ San Diego, San Diego on Thu, 29 Oct 2026.
+A.Knives is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at EQ San Diego, San Diego on Thu, 29 Oct 2026.
 
 A.Knives is a techno and psytrance artist based in United States of America, with 7 gigs on soundcheck across San Diego. Often billed alongside Cyberia Lain, DEA MAGNA and JAQ.XS. Next up: EQ San Diego, San Diego on Thu 29 Oct.
 
@@ -23,4 +23,4 @@ A.Knives is a techno and psytrance artist based in United States of America, wit
 
 Cyberia Lain, DEA MAGNA, JAQ.XS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.knives/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.knives/)*

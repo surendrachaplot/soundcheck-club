@@ -1,6 +1,6 @@
 # Victor Norman
 
-Victor Norman is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Gazebo, Stockholm on Sat, 14 Nov 2026.
+Victor Norman is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Gazebo, Stockholm on Sat, 14 Nov 2026.
 
 Victor Norman is a downtempo and progressive house artist based in Sweden, with 13 gigs on soundcheck across Berlin, Lisbon and Stockholm. Often billed alongside Ahiram, Britta Arnold and Hraach. Next up: Gazebo, Stockholm on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Victor Norman is a downtempo and progressive house artist based in Sweden, with 
 
 Ahiram, Britta Arnold, Hraach
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victornorman/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victornorman/)*

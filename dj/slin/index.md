@@ -1,6 +1,6 @@
 # slin
 
-slin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at OST, Berlin on Sat, 31 Oct 2026.
+slin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OST, Berlin on Sat, 31 Oct 2026.
 
 slin is a techno and house artist based in Germany, with 188 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bergen and 53 more. Often billed alongside Tarkno, Carmen Electro and lex_shockwerk. Next up: OST, Berlin on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ slin is a techno and house artist based in Germany, with 188 gigs on soundcheck 
 
 Tarkno, Carmen Electro, lex_shockwerk
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slin/)*

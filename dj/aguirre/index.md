@@ -1,6 +1,6 @@
 # Aguirre
 
-Aguirre is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at El Espacio, Bogotá on Sat, 31 Oct 2026.
+Aguirre is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at El Espacio, Bogotá on Sat, 31 Oct 2026.
 
 Aguirre is a techno and house artist based in Colombia, with 51 gigs on soundcheck across Bogotá, Medellin and Valencia. Often billed alongside Brenda., Tomás Nada and Aleroj. Next up: El Espacio, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Aguirre is a techno and house artist based in Colombia, with 51 gigs on soundche
 
 Brenda., Tomás Nada, Aleroj
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aguirre/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aguirre/)*

@@ -1,6 +1,6 @@
 # miss jas
 
-miss jas is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Makossa, London on Thu, 19 Nov 2026.
+miss jas is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Makossa, London on Thu, 19 Nov 2026.
 
 miss jas is a garage and dubstep artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside A.N.T, AUDIO DUNE and BOSKY. Next up: Club Makossa, London on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ miss jas is a garage and dubstep artist based in United Kingdom, with 10 gigs on
 
 A.N.T, AUDIO DUNE, BOSKY
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missjas/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missjas/)*

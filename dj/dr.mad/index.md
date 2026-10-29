@@ -1,6 +1,6 @@
 # Dr. MaD
 
-Dr. MaD is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Balcon, Montreal on Sat, 7 Nov 2026.
+Dr. MaD is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Balcon, Montreal on Sat, 7 Nov 2026.
 
 Dr. MaD is a funk / soul and disco artist based in Canada, with 7 gigs on soundcheck across Montreal and Toronto. Often billed alongside Walla P, Groovy Castle and Jean Pascal Groove. Next up: Le Balcon, Montreal on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Dr. MaD is a funk / soul and disco artist based in Canada, with 7 gigs on soundc
 
 Walla P, Groovy Castle, Jean Pascal Groove
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.mad/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.mad/)*

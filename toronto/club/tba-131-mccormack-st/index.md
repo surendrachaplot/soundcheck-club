@@ -1,6 +1,6 @@
 # TBA - 131 McCormack St.
 
-TBA - 131 McCormack St. is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Apollo presents Nikolina " on Fri, 30 Oct 2026.
+TBA - 131 McCormack St. is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Apollo presents Nikolina " on Fri, 30 Oct 2026.
 
 TBA - 131 McCormack St. is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Kerri Chandler, MERS, Nikolina and Nina Kraviz and 1 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - 131 McCormack St. is a music venue in Toronto listed on soundcheck. 3 upco
 | Fri, 6 Nov 2026 | Apollo presents Kerri Chandler (Open to Close) | Kerri Chandler |
 | Sat, 7 Nov 2026 | Apollo presents Nina Kraviz  | MERS, Nina Kraviz |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-131-mccormack-st/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-131-mccormack-st/)*

@@ -1,6 +1,6 @@
 # FREY.
 
-FREY. is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 27 Nov 2026.
+FREY. is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 27 Nov 2026.
 
 FREY. is a house and pop artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam. Often billed alongside Absoluut, TMORGZ and Bass Btch. Next up: THE OTHER SIDE, Amsterdam on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ FREY. is a house and pop artist based in Netherlands, with 4 gigs on soundcheck 
 
 Absoluut, TMORGZ, Bass Btch
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frey-nl/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frey-nl/)*

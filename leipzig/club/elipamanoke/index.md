@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 17 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "between x Soft Violence" on Wed, 28 Oct 2026.
+elipamanoke is a music venue in Leipzig with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "//STRANGE OVERTONES// EINE MUSIKLESEBÜHNE" on Thu, 29 Oct 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 17 upcoming gigs, with line-ups including :MUMM, Acid Goldee, Aio and a:technuk and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 17 upcoming gigs, with line-ups including :MUMM, Acid Goldee, Aio and AMBROXAN and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | between x Soft Violence | Mariposa x Lyra, Richie Rollin, VLUNA |
 | Thu, 29 Oct 2026 | //STRANGE OVERTONES// EINE MUSIKLESEBÜHNE |  |
 | Fri, 30 Oct 2026 | Trancegedance - Halloween Special | Acid Goldee, GoaGraf, ch4r20tte, monotony |
 | Sat, 31 Oct 2026 | ZAN – Witches* & Friends | DJ STIMULA, SCHUB, Siggi Petrol, a:technuk, clubm8, lena xx |
@@ -18,9 +17,10 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 17 upcoming gigs, 
 | Sat, 14 Nov 2026 | Neurotherapy |  |
 | Tue, 17 Nov 2026 | SUBØHM x eli pres. Lola Cerise | DJ STIMULA, DYNASTY, KREONE, Lola Cerise, Mascha Roth, SubkoØne |
 | Fri, 20 Nov 2026 | soft & HARD CRUSH | Cat-J, DYNASTY, KETA PERRY, LYZI, PyjamaMama, meowmeyer |
+| Sat, 21 Nov 2026 | KOSMOS with Mehr is Mehr | Aio, Fennek, GIANNA, Mehr is Mehr, Randali, Shabiki |
 
 ## Address
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

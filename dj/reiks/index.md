@@ -1,6 +1,6 @@
 # REIKS
 
-REIKS is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Dual, Bangkok on Fri, 30 Oct 2026.
+REIKS is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Dual, Bangkok on Fri, 30 Oct 2026.
 
 REIKS is a techno and industrial artist based in Thailand, with 56 gigs on soundcheck across Bangkok, Ho Chi Minh City and Tokyo. Often billed alongside The3RD, NØSYNC and POKOLENIE MIKROZAYMOV. Next up: Dual, Bangkok on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ REIKS is a techno and industrial artist based in Thailand, with 56 gigs on sound
 
 The3RD, NØSYNC, POKOLENIE MIKROZAYMOV
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reiks/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reiks/)*

@@ -1,6 +1,6 @@
 # Yi Lum (2)
 
-Yi Lum (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 31 Oct 2026.
+Yi Lum (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 31 Oct 2026.
 
 Yi Lum is a house and tech house artist, with 8 gigs on soundcheck across Melbourne. Often billed alongside Andy Hart, Dasha SPRW and Charlotte Rooney. Next up: Angel Music Bar, Melbourne on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Yi Lum is a house and tech house artist, with 8 gigs on soundcheck across Melbou
 
 Andy Hart, Dasha SPRW, Charlotte Rooney
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yilum-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yilum-2/)*

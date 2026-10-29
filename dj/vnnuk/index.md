@@ -1,6 +1,6 @@
 # VNNUK
 
-VNNUK is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
+VNNUK is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
 
 VNNUK is a techno and experimental artist based in Czech Republic, with 31 gigs on soundcheck across Prague. Often billed alongside Atlaskin, zazitech and 3ever. Next up: Fuchs2, Prague on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ VNNUK is a techno and experimental artist based in Czech Republic, with 31 gigs 
 
 Atlaskin, zazitech, 3ever
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vnnuk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vnnuk/)*

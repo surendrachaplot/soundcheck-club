@@ -1,6 +1,6 @@
 # Merino
 
-Merino is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at LAUT, Barcelona on Fri, 30 Oct 2026.
+Merino is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at LAUT, Barcelona on Fri, 30 Oct 2026.
 
 Merino is a techno and house artist based in Colombia, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Sepian, GHERAN and Julianna. Next up: LAUT, Barcelona on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Merino is a techno and house artist based in Colombia, with 78 gigs on soundchec
 
 Sepian, GHERAN, Julianna
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merino/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merino/)*

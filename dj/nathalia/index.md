@@ -1,6 +1,6 @@
 # Nathalia
 
-Nathalia is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Low Key Records, Sofia on Sun, 1 Nov 2026.
+Nathalia is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Low Key Records, Sofia on Sun, 1 Nov 2026.
 
 Nathalia is an ambient and techno artist based in Bulgaria, with 15 gigs on soundcheck across Barcelona, Berlin, Paris and Sofia. Often billed alongside Marco Shuttle, Sarah Wreath and Ario. Next up: Low Key Records, Sofia on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Nathalia is an ambient and techno artist based in Bulgaria, with 15 gigs on soun
 
 Marco Shuttle, Sarah Wreath, Ario
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalia/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalia/)*

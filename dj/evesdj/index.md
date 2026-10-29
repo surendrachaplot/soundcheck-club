@@ -1,6 +1,6 @@
 # EVES DJ
 
-EVES DJ is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SECRET LOCATION POBLE NOU, Barcelona on Sat, 31 Oct 2026.
+EVES DJ is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SECRET LOCATION POBLE NOU, Barcelona on Sat, 31 Oct 2026.
 
 EVES DJ is a tech house and house artist based in Spain, with 41 gigs on soundcheck across Barcelona and Berlin. Often billed alongside MøønkiZa, DAZA and Daniel Aguilar. Next up: TBA - SECRET LOCATION POBLE NOU, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ EVES DJ is a tech house and house artist based in Spain, with 41 gigs on soundch
 
 MøønkiZa, DAZA, Daniel Aguilar (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evesdj/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evesdj/)*

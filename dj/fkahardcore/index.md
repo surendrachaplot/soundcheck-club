@@ -1,6 +1,6 @@
 # FKA Hardcore
 
-FKA Hardcore is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Meraki, Liverpool on Sat, 12 Dec 2026.
+FKA Hardcore is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Meraki, Liverpool on Sat, 12 Dec 2026.
 
 FKA Hardcore is a hardcore and jungle artist based in United Kingdom, with 38 gigs on soundcheck across Bristol, Liverpool, London and Manchester and 2 more. Often billed alongside Yyre, DJ Soyboi and djlaundrybasket. Next up: Meraki, Liverpool on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ FKA Hardcore is a hardcore and jungle artist based in United Kingdom, with 38 gi
 
 Yyre, DJ Soyboi, djlaundrybasket
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkahardcore/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkahardcore/)*

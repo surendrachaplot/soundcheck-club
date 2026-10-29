@@ -1,6 +1,6 @@
 # RASA
 
-RASA is a music venue in Singapore with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "RASA x The Deep End presents Temple of Dance with Patrice Bäumel" on Fri, 30 Oct 2026.
+RASA is a music venue in Singapore with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "RASA x The Deep End presents Temple of Dance with Patrice Bäumel" on Fri, 30 Oct 2026.
 
 RASA is a music venue in Singapore listed on soundcheck. 7 upcoming gigs, with line-ups including CC:DISCO!, Dexter Colt, Kugel and Lee Burridge and 2 more. See dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ RASA is a music venue in Singapore listed on soundcheck. 7 upcoming gigs, with l
 | Fri, 20 Nov 2026 | RASA & Shutter Rhythms present Huriya | Dexter Colt, Kugel, Lola Haro, Suffyan, Yadin Moha |
 | Fri, 27 Nov 2026 | RASA presents Mano Le Tough | Loyboy, Mano Le Tough, VIX (1) |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*

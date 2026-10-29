@@ -1,6 +1,6 @@
 # COBRETTI
 
-COBRETTI is a Electronica and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+COBRETTI is a Electronica and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 COBRETTI is an electronica and post-punk artist, with 10 gigs on soundcheck across Bogotá and New York City. Often billed alongside Diluet, Kabinett and 8888. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ COBRETTI is an electronica and post-punk artist, with 10 gigs on soundcheck acro
 
 Diluet, Kabinett, 8888
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobretti/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobretti/)*

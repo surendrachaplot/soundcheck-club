@@ -1,6 +1,6 @@
 # Lolu Menayed
 
-Lolu Menayed is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Golden Gate, Berlin on Thu, 29 Oct 2026.
+Lolu Menayed is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Gate, Berlin on Thu, 29 Oct 2026.
 
 Lolu Menayed is a house and tech house artist based in Argentina, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Jay de Lys, Franky Rizardo and Toman. Next up: Golden Gate, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Lolu Menayed is a house and tech house artist based in Argentina, with 33 gigs o
 
 Jay de Lys, Franky Rizardo, Toman
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolumenayed-ar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolumenayed-ar/)*

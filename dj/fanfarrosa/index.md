@@ -1,6 +1,6 @@
 # Fanfarrosa
 
-Fanfarrosa is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Golden Gate, Berlin on Fri, 6 Nov 2026.
+Fanfarrosa is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Gate, Berlin on Fri, 6 Nov 2026.
 
 Fanfarrosa is a house and minimal artist based in Mexico, with 43 gigs on soundcheck across Berlin and Guadalajara. Often billed alongside Akatana, DJ Zurückbleiben Bitte and Estimulo. Next up: Golden Gate, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Fanfarrosa is a house and minimal artist based in Mexico, with 43 gigs on soundc
 
 Akatana, DJ Zurückbleiben Bitte, Estimulo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fanfarrosa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fanfarrosa/)*

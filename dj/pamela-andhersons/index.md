@@ -1,6 +1,6 @@
 # Pamela_ and her sons
 
-Pamela_ and her sons is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Compound, Baltimore on Fri, 30 Oct 2026.
+Pamela_ and her sons is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Compound, Baltimore on Fri, 30 Oct 2026.
 
 Pamela_ and her sons are an experimental and techno duo based in United States of America, with 14 gigs on soundcheck across Baltimore, Chicago, New York City and Philadelphia and 2 more. Often billed alongside 30000AD, Kiernan Laveaux and MIRA MIRA. Next up: The Compound, Baltimore on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Pamela_ and her sons are an experimental and techno duo based in United States o
 
 30000AD, Kiernan Laveaux, MIRA MIRA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pamela-andhersons/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pamela-andhersons/)*

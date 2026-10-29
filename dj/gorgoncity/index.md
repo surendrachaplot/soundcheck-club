@@ -1,14 +1,15 @@
 # Gorgon City
 
-Gorgon City is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Gorgon City is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Gorgon City is a house and tech house artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside Danny Howard, Azzecca and Sonny Fodera. Next up: Factory Town, Miami on Fri 30 Oct.
+Gorgon City is a house and tech house artist based in United Kingdom, with 162 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Danny Howard, Azzecca and Sonny Fodera. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Sat, 31 Oct 2026 | Silo Dallas | Dallas/Fort Worth |
 | Sat, 28 Nov 2026 | Alexandra Palace | London |
 | Thu, 31 Dec 2026 | The Concourse Project | Austin |
 
@@ -27,4 +28,4 @@ Gorgon City is a house and tech house artist based in United Kingdom, with 161 g
 
 Danny Howard, Azzecca, Sonny Fodera
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgoncity/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgoncity/)*

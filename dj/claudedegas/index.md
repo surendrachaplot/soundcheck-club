@@ -1,13 +1,14 @@
 # Claude Degas
 
-Claude Degas is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Smolna, Warsaw on Fri, 30 Oct 2026.
+Claude Degas is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Smolna, Warsaw on Thu, 29 Oct 2026.
 
-Claude Degas is a techno and house artist based in Poland, with 24 gigs on soundcheck across Warsaw. Often billed alongside Saint Peter, Kasia DVD and Adam Obrębski. Next up: Smolna, Warsaw on Fri 30 Oct.
+Claude Degas is a techno and house artist based in Poland, with 25 gigs on soundcheck across Warsaw. Often billed alongside Saint Peter, Kasia DVD and vitcat. Next up: Smolna, Warsaw on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Smolna | Warsaw |
 | Fri, 30 Oct 2026 | Smolna | Warsaw |
 | Sat, 21 Nov 2026 | Luzztro | Warsaw |
 
@@ -24,6 +25,6 @@ Claude Degas is a techno and house artist based in Poland, with 24 gigs on sound
 
 ## Shares bills with
 
-Saint Peter, Kasia DVD, Adam Obrębski
+Saint Peter, Kasia DVD, vitcat (3)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudedegas/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudedegas/)*

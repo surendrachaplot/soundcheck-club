@@ -1,6 +1,6 @@
 # mika.collage
 
-mika.collage is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+mika.collage is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
 
 mika.collage is a latin bass and club artist based in Bolivia, with 14 gigs on soundcheck across Amsterdam, Brussels, Lausanne and Paris. Often billed alongside otap, dieglitter and Susobrino. Next up: SISSI'S Amsterdam, Amsterdam on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ mika.collage is a latin bass and club artist based in Bolivia, with 14 gigs on s
 
 otap, dieglitter, Susobrino
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/collage/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/collage/)*

@@ -1,6 +1,6 @@
 # Nico Gregori
 
-Nico Gregori is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Silbergold, Frankfurt on Fri, 30 Oct 2026.
+Nico Gregori is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Silbergold, Frankfurt on Fri, 30 Oct 2026.
 
 Nico Gregori is a house artist, with 9 gigs on soundcheck across Frankfurt and London. Often billed alongside Louie Cash, Cretallaz and FLO:WER. Next up: Silbergold, Frankfurt on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nico Gregori is a house artist, with 9 gigs on soundcheck across Frankfurt and L
 
 Louie Cash, Cretallaz, FLO:WER
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicogregori/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicogregori/)*

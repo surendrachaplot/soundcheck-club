@@ -1,6 +1,6 @@
 # Big Ang
 
-Big Ang is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Electric Studios, Sheffield on Sat, 31 Oct 2026.
+Big Ang is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Electric Studios, Sheffield on Sat, 31 Oct 2026.
 
 Big Ang is a bass and garage artist based in United Kingdom, with 53 gigs on soundcheck across Bristol, Leeds, London and Manchester and 3 more. Often billed alongside Jamie Duggan, Silva Bumpa and Phatworld. Next up: Electric Studios, Sheffield on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Big Ang is a bass and garage artist based in United Kingdom, with 53 gigs on sou
 
 Jamie Duggan, Silva Bumpa, Phatworld
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*

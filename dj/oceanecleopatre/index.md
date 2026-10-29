@@ -1,6 +1,6 @@
 # Océane Cléopatre
 
-Océane Cléopatre is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 29 Nov 2026.
+Océane Cléopatre is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 29 Nov 2026.
 
 Océane Cléopatre is a house and progressive house artist, with 8 gigs on soundcheck across Berlin. Often billed alongside 6RAJ, ARGO and Adrija. Next up: Crack Bellmer, Berlin on Sun 29 Nov.
 
@@ -24,4 +24,4 @@ Océane Cléopatre is a house and progressive house artist, with 8 gigs on sound
 
 6RAJ, ARGO, Adrija
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanecleopatre/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanecleopatre/)*

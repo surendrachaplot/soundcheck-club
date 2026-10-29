@@ -1,6 +1,6 @@
 # T4oH
 
-T4oH is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at White Rabbit, San Francisco/Oakland on Sat, 31 Oct 2026.
+T4oH is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at White Rabbit, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 T4oH is a house and tech house artist, with 9 gigs on soundcheck across San Francisco/Oakland. Often billed alongside SGRKANE, Mackswell and Nem. Next up: White Rabbit, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ T4oH is a house and tech house artist, with 9 gigs on soundcheck across San Fran
 
 SGRKANE, Mackswell, Nem (1)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t4oh/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t4oh/)*

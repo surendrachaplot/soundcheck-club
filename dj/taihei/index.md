@@ -1,6 +1,6 @@
 # TAIHEI
 
-TAIHEI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Daphnia, Osaka on Sat, 31 Oct 2026.
+TAIHEI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Daphnia, Osaka on Sat, 31 Oct 2026.
 
 TAIHEI is a house and techno artist based in Japan, with 50 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside bungo, DJ HI-C and Haruka Katagata. Next up: Club Daphnia, Osaka on Sat 31 Oct.
 
@@ -9,7 +9,7 @@ TAIHEI is a house and techno artist based in Japan, with 50 gigs on soundcheck a
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Club Daphnia | Osaka |
-| Mon, 30 Nov 2026 | clubasia | Tokyo |
+| Mon, 30 Nov 2026 | club asia | Tokyo |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ TAIHEI is a house and techno artist based in Japan, with 50 gigs on soundcheck a
 
 bungo, DJ HI-C, Haruka Katagata
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taihei/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taihei/)*

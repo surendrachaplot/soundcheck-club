@@ -1,6 +1,6 @@
 # Hi/Fi
 
-Hi/Fi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bridge 48, Barcelona on Thu, 5 Nov 2026.
+Hi/Fi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bridge 48, Barcelona on Thu, 5 Nov 2026.
 
 Hi/Fi is a techno and house artist based in Italy, with 32 gigs on soundcheck across Barcelona and Milan. Often billed alongside Hutchee, Pietro Fantin and Crissaf. Next up: Bridge 48, Barcelona on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Hi/Fi is a techno and house artist based in Italy, with 32 gigs on soundcheck ac
 
 Hutchee, Pietro Fantin, Crissaf
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hifi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hifi/)*

@@ -1,6 +1,6 @@
 # Dj Luigi
 
-Dj Luigi is a Dub and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fünk, Mexico City on Thu, 29 Oct 2026.
+Dj Luigi is a Dub and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fünk, Mexico City on Thu, 29 Oct 2026.
 
 Dj Luigi is a dub and house artist based in Mexico, with 5 gigs on soundcheck across Mexico City. Often billed alongside Astroboii, Cybebe and EM2K. Next up: Fünk, Mexico City on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ Dj Luigi is a dub and house artist based in Mexico, with 5 gigs on soundcheck ac
 
 Astroboii, Cybebe, EM2K
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djluigi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djluigi/)*

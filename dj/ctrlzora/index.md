@@ -1,6 +1,6 @@
 # CTRLZORA
 
-CTRLZORA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The California Clipper, Chicago on Fri, 30 Oct 2026.
+CTRLZORA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The California Clipper, Chicago on Fri, 30 Oct 2026.
 
 CTRLZORA is a house and techno artist based in United States of America, with 118 gigs on soundcheck across Atlanta, Chicago, Copenhagen and Detroit and 9 more. Often billed alongside JADALAREIGN, BLESSTONIO and Cordell Johnson. Next up: The California Clipper, Chicago on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ CTRLZORA is a house and techno artist based in United States of America, with 11
 
 JADALAREIGN, BLESSTONIO, Cordell Johnson
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrlzora/)*

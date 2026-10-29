@@ -1,6 +1,6 @@
 # Beiti
 
-Beiti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 30 Oct 2026.
+Beiti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 30 Oct 2026.
 
 Beiti is a techno and house artist based in Canada, with 24 gigs on soundcheck across Vancouver. Often billed alongside Andre Rose, Bronsön and DJ dood. Next up: Biltmore Cabaret, Vancouver on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Beiti is a techno and house artist based in Canada, with 24 gigs on soundcheck a
 
 Andre Rose, Bronsön, DJ dood
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beiti/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beiti/)*

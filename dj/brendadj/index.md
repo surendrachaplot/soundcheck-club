@@ -1,6 +1,6 @@
 # Brenda.
 
-Brenda. is a Latin Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - 288 Green St, Cambridge, MA, Boston on Fri, 30 Oct 2026.
+Brenda. is a Latin Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - 288 Green St, Cambridge, MA, Boston on Fri, 30 Oct 2026.
 
 Brenda. is a latin bass and techno artist based in Colombia, with 62 gigs on soundcheck across Belgrade, Berlin, Bogotá and Boston and 19 more. Often billed alongside MARIA MANUELA, Aguirre and Ultrabruma. Next up: TBA - 288 Green St, Cambridge, MA, Boston on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Brenda. is a latin bass and techno artist based in Colombia, with 62 gigs on sou
 
 MARIA MANUELA, Aguirre, Ultrabruma
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendadj/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendadj/)*

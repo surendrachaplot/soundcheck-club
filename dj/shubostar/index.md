@@ -1,13 +1,14 @@
 # Shubostar
 
-Shubostar is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Cause, London on Sat, 28 Nov 2026.
+Shubostar is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 1 Nov 2026.
 
-Shubostar is a house and techno artist based in South Korea, with 121 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 42 more. Often billed alongside Mano Le Tough, Âme and Peter Invasion. Next up: The Cause, London on Sat 28 Nov.
+Shubostar is a house and techno artist based in South Korea, with 122 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 42 more. Often billed alongside Mano Le Tough, Âme and Peter Invasion. Next up: Sunday Sunday, Mexico City on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Sunday Sunday | Mexico City |
 | Sat, 28 Nov 2026 | The Cause | London |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Mon, 15 Mar 2027 | Leysin Ski Resort | Switzerland |
@@ -27,4 +28,4 @@ Shubostar is a house and techno artist based in South Korea, with 121 gigs on so
 
 Mano Le Tough, Âme, Peter Invasion
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*

@@ -1,6 +1,6 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 33 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Studio Stereo x Less Is More pres. Kid Moss b2b Guedes" on Thu, 29 Oct 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 33 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Studio Stereo x Less Is More pres. Kid Moss b2b Guedes" on Thu, 29 Oct 2026.
 
 TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 33 upcoming gigs, with line-ups including Alex Garcia, Ana Alves, B2G and Balou and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Sat, 14 Nov 2026 | Studio Stereo TBA |  |
 | Thu, 19 Nov 2026 | Studio Stereo TBA |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

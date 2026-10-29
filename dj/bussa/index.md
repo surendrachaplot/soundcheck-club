@@ -1,6 +1,6 @@
 # Bussa
 
-Bussa is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
+Bussa is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
 
 Bussa is a house and broken beat artist, with 8 gigs on soundcheck across London. Often billed alongside Adiba, Aumy Raggo and Chenzo. Next up: Colour Factory, London on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ Bussa is a house and broken beat artist, with 8 gigs on soundcheck across London
 
 Adiba, Aumy Raggo, Chenzo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bussa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bussa/)*

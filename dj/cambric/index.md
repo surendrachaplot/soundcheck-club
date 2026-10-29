@@ -1,6 +1,6 @@
 # Cambric
 
-Cambric is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Common Ground, Naples on Sat, 28 Nov 2026.
+Cambric is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Common Ground, Naples on Sat, 28 Nov 2026.
 
 Cambric is a techno and tech house artist based in Spain, with 27 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and Naples and 1 more. Often billed alongside Lino Fuso, Alex Sharp and Carlos Pérez. Next up: Common Ground, Naples on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Cambric is a techno and tech house artist based in Spain, with 27 gigs on soundc
 
 Lino Fuso, Alex Sharp, Carlos Pérez
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cambric/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cambric/)*

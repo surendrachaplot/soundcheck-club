@@ -1,6 +1,6 @@
 # LATIDA ALL GIRL'S TAKEOVER at Nico's Bar
 
-LATIDA ALL GIRL'S TAKEOVER at Nico's Bar on Fri 13 Nov, Glasgow. 5 artists: ANGELDOOF, COURTEZ, Justyyna and MMS and 1 more. Trance and House. See the line-up on soundcheck.
+LATIDA ALL GIRL'S TAKEOVER at Nico's Bar on Fri 13 Nov, Glasgow. 6 artists: ANGELDOOF, COURTEZ, FIORENZA and Justyyna and 2 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ LATIDA ALL GIRL'S TAKEOVER at Nico's Bar on Fri 13 Nov, Glasgow. 5 artists: ANGE
 
 - ANGELDOOF
 - COURTEZ
+- FIORENZA
 - Justyyna
 - MMS (2)
 - SAPHOS

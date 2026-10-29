@@ -1,6 +1,6 @@
 # Bleim01
 
-Bleim01 is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Distillery N17, London on Sat, 28 Nov 2026.
+Bleim01 is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Distillery N17, London on Sat, 28 Nov 2026.
 
 Bleim01 is a techno and electronica artist based in Italy, with 9 gigs on soundcheck across Bratislava, London and Milan. Often billed alongside Panik Attak, ANTØNIØ. and Mattia Fois. Next up: Distillery N17, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bleim01 is a techno and electronica artist based in Italy, with 9 gigs on soundc
 
 Panik Attak, ANTØNIØ., Mattia Fois
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bleim01/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bleim01/)*

@@ -1,6 +1,6 @@
 # Sinca
 
-Sinca is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Superior Ingredients, New York City on Sun, 8 Nov 2026.
+Sinca is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Superior Ingredients, New York City on Sun, 8 Nov 2026.
 
 Sinca is a deep house and house artist based in Canada, with 51 gigs on soundcheck across Amsterdam, Basel, Berlin and Denver and 11 more. Often billed alongside ELIF, Lee Burridge and Dosem. Next up: Superior Ingredients, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Sinca is a deep house and house artist based in Canada, with 51 gigs on soundche
 
 ELIF, Lee Burridge, Dosem
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinca/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinca/)*

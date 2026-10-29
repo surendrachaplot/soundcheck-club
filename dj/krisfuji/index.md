@@ -1,6 +1,6 @@
 # Kris Fuji
 
-Kris Fuji is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at HVEN, Tokyo on Thu, 29 Oct 2026.
+Kris Fuji is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at HVEN, Tokyo on Thu, 29 Oct 2026.
 
 Kris Fuji is a techno and progressive house artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside AHREUM, Conures (DJ Tokunaga) and Kulage. Next up: HVEN, Tokyo on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Kris Fuji is a techno and progressive house artist based in Japan, with 9 gigs o
 
 AHREUM, Conures (DJ Tokunaga), Kulage
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krisfuji/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krisfuji/)*

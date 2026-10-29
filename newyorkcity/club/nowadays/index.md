@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Body Hack" on Thu, 29 Oct 2026.
+Nowadays is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Body Hack" on Thu, 29 Oct 2026.
 
 Nowadays is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including LYDO, ābnamā, AceMo and adobeprincess and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -9,7 +9,7 @@ Nowadays is a music venue in New York City listed on soundcheck. 18 upcoming gig
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Body Hack | Archangel, Daniro, Doula, LustSickPuppy, Ushka |
-| Fri, 30 Oct 2026 | Halloween Nonstop: DJ Stingray, Convextion, Rene Wise, Juliana Huxtable, DJ Koolt + more | Convextion, DJ G., DJ Koolt, DJ Stingray 313, Hiroko Yamamura, IMOGEN, Juliana Huxtable, LYDO, Philippa Pacho, Rene Wise, Tammy Lakkis, Vladimir Ivkovic, cotton, ābnamā |
+| Fri, 30 Oct 2026 | Halloween Nonstop: DJ Stingray, Convextion, Rene Wise, Juliana Huxtable, DJ Koolt + more | Convextion, DJ G., DJ Koolt, DJ Stingray 313, IMOGEN, Juliana Huxtable, LYDO, Philippa Pacho, RHR, Rene Wise, Tammy Lakkis, Vladimir Ivkovic, cotton, ābnamā |
 | Sun, 1 Nov 2026 | Mister Halloween Sunday, Our Season Closer: Eamon Harkin and Justin Carter | Eamon Harkin, Justin Carter |
 | Fri, 6 Nov 2026 | Binh All Night | Binh |
 | Sat, 7 Nov 2026 | TraTraTrax Nonstop: Verraco, Pariah, PLO Man, BADSISTA, Gabrielle Kwarteng, Nick León + more | BADSISTA, Brenda., Colombian Drone Mafia, Doctor Jeep, EMA (1), Gabrielle Kwarteng, Ma Sha, Nick León, PLO Man, Pariah, Verraco |
@@ -23,4 +23,4 @@ Nowadays is a music venue in New York City listed on soundcheck. 18 upcoming gig
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

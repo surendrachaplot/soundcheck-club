@@ -1,6 +1,6 @@
 # DJ eh
 
-DJ eh is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Jupiter Disco, New York City on Wed, 4 Nov 2026.
+DJ eh is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jupiter Disco, New York City on Wed, 4 Nov 2026.
 
 DJ eh is a drum & bass and jungle artist based in United States of America, with 36 gigs on soundcheck across New York City. Often billed alongside DJ Nope, BLCKLST and Remniqe. Next up: Jupiter Disco, New York City on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ DJ eh is a drum & bass and jungle artist based in United States of America, with
 
 DJ Nope, BLCKLST, Remniqe
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeh/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeh/)*

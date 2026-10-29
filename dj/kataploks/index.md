@@ -1,6 +1,6 @@
 # Kataploks
 
-Kataploks is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lion Super Club, Seoul on Thu, 29 Oct 2026.
+Kataploks is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lion Super Club, Seoul on Thu, 29 Oct 2026.
 
 Kataploks is a trance and progressive house artist based in South Korea, with 32 gigs on soundcheck across Seoul. Often billed alongside Casepeat, Kago Pengchi and Rubato. Next up: Lion Super Club, Seoul on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Kataploks is a trance and progressive house artist based in South Korea, with 32
 
 Casepeat, Kago Pengchi, Rubato
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kataploks/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kataploks/)*

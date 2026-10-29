@@ -1,14 +1,15 @@
 # Volkan Gunduz
 
-Volkan Gunduz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kastel, Istanbul on Sat, 31 Oct 2026.
+Volkan Gunduz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kastel, Istanbul on Sat, 31 Oct 2026.
 
-Volkan Gunduz is a house and techno artist, with 51 gigs on soundcheck across Istanbul. Often billed alongside Atakan Uysal, FAITH and Gunes Ergun. Next up: Kastel, Istanbul on Sat 31 Oct.
+Volkan Gunduz is a house and techno artist, with 52 gigs on soundcheck across Istanbul. Often billed alongside Atakan Uysal, FAITH and Gunes Ergun. Next up: Kastel, Istanbul on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Kastel | Istanbul |
+| Sat, 28 Nov 2026 | Kastel | Istanbul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Volkan Gunduz is a house and techno artist, with 51 gigs on soundcheck across Is
 
 Atakan Uysal, FAITH, Gunes Ergun
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volkangunduz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volkangunduz/)*

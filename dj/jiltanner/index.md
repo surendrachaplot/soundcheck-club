@@ -1,6 +1,6 @@
 # Jil Tanner
 
-Jil Tanner is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Elsterartig, Leipzig on Tue, 17 Nov 2026.
+Jil Tanner is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Elsterartig, Leipzig on Tue, 17 Nov 2026.
 
 Jil Tanner is a techno and house artist based in Germany, with 42 gigs on soundcheck across Austria, Berlin, Dresden and Frankfurt and 4 more. Often billed alongside LOVRA, Felix Kröcher and Karla Blum. Next up: Elsterartig, Leipzig on Tue 17 Nov.
 
@@ -27,4 +27,4 @@ Jil Tanner is a techno and house artist based in Germany, with 42 gigs on soundc
 
 LOVRA, Felix Kröcher, Karla Blum
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiltanner/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiltanner/)*

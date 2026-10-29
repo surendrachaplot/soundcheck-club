@@ -1,6 +1,6 @@
 # funksmack
 
-funksmack is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Big Romance, Dublin on Sat, 31 Oct 2026.
+funksmack is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Big Romance, Dublin on Sat, 31 Oct 2026.
 
 funksmack is a disco and house artist based in Ireland, with 29 gigs on soundcheck across Cork and Dublin. Often billed alongside Danilo Milk, Ricky Chong and A.O.D. Next up: The Big Romance, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ funksmack is a disco and house artist based in Ireland, with 29 gigs on soundche
 
 Danilo Milk, Ricky Chong, A.O.D
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funksmack/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funksmack/)*

@@ -1,6 +1,6 @@
 # J.C.
 
-J.C. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cadavra, Madrid on Fri, 30 Oct 2026.
+J.C. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cadavra, Madrid on Fri, 30 Oct 2026.
 
 J.C. is a techno and house artist based in Spain, with 17 gigs on soundcheck across Madrid and Tokyo. Often billed alongside DJ S (UK), F. Vinuesa and Laia. Next up: Cadavra, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ J.C. is a techno and house artist based in Spain, with 17 gigs on soundcheck acr
 
 DJ S (UK), F. Vinuesa, Laia
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.c./)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.c./)*

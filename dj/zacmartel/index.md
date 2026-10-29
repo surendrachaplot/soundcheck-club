@@ -1,6 +1,6 @@
 # Zac Martel
 
-Zac Martel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Stereo, Montreal on Sat, 14 Nov 2026.
+Zac Martel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Stereo, Montreal on Sat, 14 Nov 2026.
 
 Zac Martel is a house and techno artist based in Canada, with 21 gigs on soundcheck across Montreal. Often billed alongside Prïa, Lost Heroes and Vayia. Next up: Stereo, Montreal on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Zac Martel is a house and techno artist based in Canada, with 21 gigs on soundch
 
 Prïa, Lost Heroes, Vayia
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zacmartel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zacmartel/)*

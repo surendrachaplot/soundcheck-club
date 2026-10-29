@@ -1,6 +1,6 @@
 # Drinks On Me
 
-Drinks On Me is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Aaja Basement, London on Sat, 5 Dec 2026.
+Drinks On Me is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Aaja Basement, London on Sat, 5 Dec 2026.
 
 Drinks On Me is a garage and drum & bass artist based in United Kingdom, with 36 gigs on soundcheck across Bristol, Edinburgh, Glasgow and Leeds and 2 more. Often billed alongside Southby, Flourish and Sam Day. Next up: Aaja Basement, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Drinks On Me is a garage and drum & bass artist based in United Kingdom, with 36
 
 Southby, Flourish, Sam Day
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drinksonme/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drinksonme/)*

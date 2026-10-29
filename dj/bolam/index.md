@@ -1,6 +1,6 @@
 # Bolam
 
-Bolam is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+Bolam is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
 Bolam is a techno and club artist, with 12 gigs on soundcheck across Copenhagen, Edinburgh, Malmo and Stockholm. Often billed alongside 170lex, Casement and DV60. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bolam is a techno and club artist, with 12 gigs on soundcheck across Copenhagen,
 
 170lex, Casement, DV60
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolam/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolam/)*

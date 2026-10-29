@@ -1,6 +1,6 @@
 # Casa Montjuïc
 
-Casa Montjuïc is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "LAGR(III)MAL: Music 4 Salvation (I) + Mateo Benguria" on Fri, 30 Oct 2026.
+Casa Montjuïc is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "LAGR(III)MAL: Music 4 Salvation (I) + Mateo Benguria" on Fri, 30 Oct 2026.
 
 Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
 
@@ -14,4 +14,4 @@ Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 1 upcoming gi
 
 Vila i Vilà 65, 08004, Barcelona, Barcelona
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*

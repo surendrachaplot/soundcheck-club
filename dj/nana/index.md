@@ -1,6 +1,6 @@
 # NA/NA
 
-NA/NA is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eleusis LFC Music Studio, Athens on Fri, 27 Nov 2026.
+NA/NA is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eleusis LFC Music Studio, Athens on Fri, 27 Nov 2026.
 
 NA/NA is a techno artist based in Greece, with 10 gigs on soundcheck across Athens. Often billed alongside VSSLS, SALIN and Até.. Next up: Eleusis LFC Music Studio, Athens on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ NA/NA is a techno artist based in Greece, with 10 gigs on soundcheck across Athe
 
 VSSLS, SALIN, Até.
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nana/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nana/)*

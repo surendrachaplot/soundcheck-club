@@ -1,8 +1,8 @@
 # Emily Makis
 
-Emily Makis is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Klokgebouw, Eindhoven on Sun, 27 Dec 2026.
+Emily Makis is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Klokgebouw, Eindhoven on Sun, 27 Dec 2026.
 
-Emily Makis is a drum & bass and bass artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 15 more. Often billed alongside Monrroe, Pola & Bryson and Camo & Krooked. Next up: Klokgebouw, Eindhoven on Sun 27 Dec.
+Emily Makis is a drum & bass and bass artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 16 more. Often billed alongside Monrroe, Pola & Bryson and Camo & Krooked. Next up: Klokgebouw, Eindhoven on Sun 27 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Emily Makis is a drum & bass and bass artist based in United Kingdom, with 41 gi
 | --- | --- | --- |
 | Sun, 27 Dec 2026 | Klokgebouw | Eindhoven |
 | Thu, 31 Dec 2026 | Sawmills | Bristol |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Emily Makis is a drum & bass and bass artist based in United Kingdom, with 41 gi
 
 Monrroe, Pola & Bryson, Camo & Krooked
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilymakis/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilymakis/)*

@@ -1,6 +1,6 @@
 # fbw.archive
 
-fbw.archive is a Latin Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Trainscendence, Melbourne on Tue, 3 Nov 2026.
+fbw.archive is a Latin Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Trainscendence, Melbourne on Tue, 3 Nov 2026.
 
 fbw.archive is a latin bass and garage artist based in New Zealand, with 9 gigs on soundcheck across Melbourne. Often billed alongside KALI (AU), BIG SLIME and Brown Suga Princess. Next up: Trainscendence, Melbourne on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ fbw.archive is a latin bass and garage artist based in New Zealand, with 9 gigs 
 
 KALI (AU), BIG SLIME, Brown Suga Princess
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fbw.archive/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fbw.archive/)*

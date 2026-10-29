@@ -1,8 +1,8 @@
 # Debit
 
-Debit is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 30 Oct 2026.
+Debit is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-Debit is a techno and experimental artist based in United States of America, with 202 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 57 more. Often billed alongside APP, Alaska and Flat. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 30 Oct.
+Debit is a techno and experimental artist based in United States of America, with 204 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 57 more. Often billed alongside APP, Alaska and Flat. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Debit is a techno and experimental artist based in United States of America, wit
 | Sat, 31 Oct 2026 | TBA - Private Warehouse DTLA | Los Angeles |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 | Fri, 22 Jan 2027 | TBA | Berlin |
+| Fri, 22 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 23 Jan 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Debit is a techno and experimental artist based in United States of America, wit
 
 APP, Alaska (2), Flat
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*

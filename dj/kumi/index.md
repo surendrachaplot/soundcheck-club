@@ -1,6 +1,6 @@
 # Kumi
 
-Kumi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Kumi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Kumi is a techno and house artist based in Australia, with 36 gigs on soundcheck across Adelaide, Auckland, Barcelona and Berlin and 8 more. Often billed alongside JÄMO, Caleb Jay and J-OK. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Kumi is a techno and house artist based in Australia, with 36 gigs on soundcheck
 
 JÄMO, Caleb Jay, J-OK
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kumi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kumi/)*

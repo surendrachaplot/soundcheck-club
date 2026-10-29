@@ -1,6 +1,6 @@
 # Arkaoda
 
-Arkaoda is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Appleblim (UK / Tempa, Sneaker Social Club) & DJ Regret (DE / Ausländerbehörde)" on Fri, 6 Nov 2026.
+Arkaoda is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Appleblim (UK / Tempa, Sneaker Social Club) & DJ Regret (DE / Ausländerbehörde)" on Fri, 6 Nov 2026.
 
 Arkaoda is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Appleblim and DJ Regret. See dates, start times and who's playing. Kadife Sokak No:18/A Kadıköy/İstanbul.
 
@@ -14,4 +14,4 @@ Arkaoda is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with 
 
 Kadife Sokak No:18/A Kadıköy/İstanbul, Istanbul
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/arkaoda/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/arkaoda/)*

@@ -1,6 +1,6 @@
 # Ly Sas
 
-Ly Sas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 7 Nov 2026.
+Ly Sas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 7 Nov 2026.
 
 Ly Sas is a techno and house artist based in Georgia, with 51 gigs on soundcheck across Bergen, Berlin, Cologne and Hamburg and 3 more. Often billed alongside Pink Concrete, Generali Minerali and Irakli. Next up: Haus der Visionäre, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ly Sas is a techno and house artist based in Georgia, with 51 gigs on soundcheck
 
 Pink Concrete, Generali Minerali, Irakli
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lysas/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lysas/)*

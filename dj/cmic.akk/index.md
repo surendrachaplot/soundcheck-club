@@ -1,6 +1,6 @@
 # cmic.akk
 
-cmic.akk is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
+cmic.akk is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
 
 cmic.akk is a techno artist based in Serbia, with 11 gigs on soundcheck across Belgrade. Often billed alongside Aneri, Mamavitae and SRNA. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ cmic.akk is a techno artist based in Serbia, with 11 gigs on soundcheck across B
 
 Aneri, Mamavitae, SRNA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmic.akk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmic.akk/)*

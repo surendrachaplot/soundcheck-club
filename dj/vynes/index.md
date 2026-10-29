@@ -1,6 +1,6 @@
 # Vynes
 
-Vynes is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at ark (Melb), Melbourne on Sat, 2 Jan 2027.
+Vynes is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ark (Melb), Melbourne on Sat, 2 Jan 2027.
 
 Vynes is a garage and house artist, with 13 gigs on soundcheck across Melbourne. Often billed alongside IsGwan, KJONES and Tuff Trax. Next up: ark (Melb), Melbourne on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Vynes is a garage and house artist, with 13 gigs on soundcheck across Melbourne.
 
 IsGwan, KJONES, Tuff Trax
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vynes/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vynes/)*

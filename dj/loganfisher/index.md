@@ -1,6 +1,6 @@
 # Logan Fisher
 
-Logan Fisher is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Are You Affiliated, Newcastle on Sat, 31 Oct 2026.
+Logan Fisher is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Are You Affiliated, Newcastle on Sat, 31 Oct 2026.
 
 Logan Fisher is a house and acid artist based in United Kingdom, with 28 gigs on soundcheck across Athens, Birmingham, Brighton and Bucharest and 7 more. Often billed alongside Rosie Ama, Fall Forward and Leo Zero. Next up: Are You Affiliated, Newcastle on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Logan Fisher is a house and acid artist based in United Kingdom, with 28 gigs on
 
 Rosie Ama, Fall Forward, Leo Zero
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*

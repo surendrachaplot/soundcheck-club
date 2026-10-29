@@ -1,6 +1,6 @@
 # Tâmitan
 
-Tâmitan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Jaeger, Oslo on Sat, 14 Nov 2026.
+Tâmitan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jaeger, Oslo on Sat, 14 Nov 2026.
 
 Tâmitan is a house and tech house artist based in Norway, with 14 gigs on soundcheck across Oslo. Often billed alongside G-HA, Samuel Feste and Booka Shade. Next up: Jaeger, Oslo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tâmitan is a house and tech house artist based in Norway, with 14 gigs on sound
 
 G-HA, Samuel Feste, Booka Shade
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tâmitan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tâmitan/)*

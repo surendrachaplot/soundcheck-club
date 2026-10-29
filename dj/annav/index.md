@@ -1,6 +1,6 @@
 # Anna V.
 
-Anna V. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Liquid Club, Malta on Sat, 28 Nov 2026.
+Anna V. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Liquid Club, Malta on Sat, 28 Nov 2026.
 
 Anna V. is a techno and electro artist, with 13 gigs on soundcheck across Athens and Malta. Often billed alongside Linkshand, Olga and D-Vibe. Next up: Liquid Club, Malta on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Anna V. is a techno and electro artist, with 13 gigs on soundcheck across Athens
 
 Linkshand, Olga (1), D-Vibe
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annav/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annav/)*

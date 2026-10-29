@@ -1,6 +1,6 @@
 # Mayo (1)
 
-Mayo (1) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Grand South House, Jakarta on Fri, 30 Oct 2026.
+Mayo (1) is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Grand South House, Jakarta on Fri, 30 Oct 2026.
 
 Mayo is a house and downtempo artist based in Ireland, with 10 gigs on soundcheck across Amsterdam, Berlin, Jakarta and Tokyo. Often billed alongside bebe bad, Doppelgang and ARAKAZA. Next up: The Grand South House, Jakarta on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mayo is a house and downtempo artist based in Ireland, with 10 gigs on soundchec
 
 bebe bad, Doppelgang, ARAKAZA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo-1/)*

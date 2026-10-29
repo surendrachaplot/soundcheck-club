@@ -1,6 +1,6 @@
 # Berna
 
-Berna is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Canary-islands on Sat, 14 Nov 2026.
+Berna is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Canary-islands on Sat, 14 Nov 2026.
 
 Berna is an electro and techno artist based in Spain, with 15 gigs on soundcheck across Barcelona, Canary Islands, Krakow and London and 3 more. Often billed alongside Javier Carballo, Oliver Molina and Rubén Baiz. Next up: TBA, Canary Islands on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Berna is an electro and techno artist based in Spain, with 15 gigs on soundcheck
 
 Javier Carballo, Oliver Molina, Rubén Baiz
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berna/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berna/)*

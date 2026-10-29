@@ -1,6 +1,6 @@
 # Caleesi
 
-Caleesi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Omeara, London on Sat, 14 Nov 2026.
+Caleesi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Omeara, London on Sat, 14 Nov 2026.
 
 Caleesi is a house and techno artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 27 more. Often billed alongside Sarah Kreis, Mira and Gina Sabatini. Next up: Omeara, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Caleesi is a house and techno artist based in Germany, with 105 gigs on soundche
 
 Sarah Kreis, Mira, Gina Sabatini
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caleesi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caleesi/)*

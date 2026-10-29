@@ -1,6 +1,6 @@
 # GODINI
 
-GODINI is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Forge, Bucharest on Sat, 21 Nov 2026.
+GODINI is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Forge, Bucharest on Sat, 21 Nov 2026.
 
 GODINI is a techno and hardcore artist based in Romania, with 20 gigs on soundcheck across Bucharest, Budapest and Munich. Often billed alongside DA NA, KØMI and Sandraz. Next up: Forge, Bucharest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ GODINI is a techno and hardcore artist based in Romania, with 20 gigs on soundch
 
 DA NA, KØMI, Sandraz
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godini/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godini/)*

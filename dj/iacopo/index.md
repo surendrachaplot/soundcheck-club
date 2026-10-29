@@ -1,6 +1,6 @@
 # IACOPO
 
-IACOPO is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 31 Oct 2026.
+IACOPO is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 31 Oct 2026.
 
 IACOPO is a techno and electro artist based in Italy, with 30 gigs on soundcheck across Florence, Malaga, Milan and Naples and 1 more. Often billed alongside Iacopo Vocci, Iacopo Carli and Marthial. Next up: Deposito Pontecorvo, Florence on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ IACOPO is a techno and electro artist based in Italy, with 30 gigs on soundcheck
 
 Iacopo Vocci, Iacopo Carli, Marthial
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iacopo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iacopo/)*

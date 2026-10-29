@@ -1,6 +1,6 @@
 # Mirmur
 
-Mirmur is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Toldi Klub, Budapest on Sat, 7 Nov 2026.
+Mirmur is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Toldi Klub, Budapest on Sat, 7 Nov 2026.
 
 Mirmur is a house and techno artist based in Hungary, with 68 gigs on soundcheck across Budapest and Milan. Often billed alongside Katamii, Adis Is OK and Daniel Santiago. Next up: Toldi Klub, Budapest on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Mirmur is a house and techno artist based in Hungary, with 68 gigs on soundcheck
 
 Katamii, Adis Is OK, Daniel Santiago
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirmur/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirmur/)*

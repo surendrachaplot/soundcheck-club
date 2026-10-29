@@ -1,6 +1,6 @@
 # Muipo Club
 
-Muipo Club is a music venue in Vilnius with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Bubble Brothers presents MuiPo Club" on Fri, 27 Nov 2026.
+Muipo Club is a music venue in Vilnius with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Bubble Brothers presents MuiPo Club" on Fri, 27 Nov 2026.
 
 Muipo Club is a music venue in Vilnius listed on soundcheck. 1 upcoming gig, with line-ups including AUREJA. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Muipo Club is a music venue in Vilnius listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Bubble Brothers presents MuiPo Club | AUREJA |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/muipo-club/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/muipo-club/)*

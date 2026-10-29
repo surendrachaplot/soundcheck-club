@@ -1,6 +1,6 @@
 # Joan Cute Sack
 
-Joan Cute Sack is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club NYX, Amsterdam on Sat, 31 Oct 2026.
+Joan Cute Sack is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club NYX, Amsterdam on Sat, 31 Oct 2026.
 
 Joan Cute Sack is a techno and pop artist based in Australia, with 8 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Kaikaina, ADHDJ and Alexis Knox. Next up: Club NYX, Amsterdam on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Joan Cute Sack is a techno and pop artist based in Australia, with 8 gigs on sou
 
 Kaikaina, ADHDJ (2), Alexis Knox
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joancutesack/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joancutesack/)*

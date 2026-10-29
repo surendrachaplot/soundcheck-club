@@ -1,6 +1,6 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
+Avalon Emerson is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Avalon Emerson is a techno and house artist based in United States of America, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: The Great Northern, San Francisco/Oakland on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 
 Sedef Adasï, BASHKKA, Ben UFO
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

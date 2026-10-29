@@ -1,6 +1,6 @@
 # Kvrt
 
-Kvrt is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Flinders, Sydney on Fri, 30 Oct 2026.
+Kvrt is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Flinders, Sydney on Fri, 30 Oct 2026.
 
 Kvrt is a techno and industrial artist based in Germany, with 19 gigs on soundcheck across Sydney. Often billed alongside pretzelz, Bleach and ARTISAH. Next up: The Flinders, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kvrt is a techno and industrial artist based in Germany, with 19 gigs on soundch
 
 pretzelz, Bleach, ARTISAH
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kvrt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kvrt/)*

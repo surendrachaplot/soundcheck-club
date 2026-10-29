@@ -1,6 +1,6 @@
 # Yubik
 
-Yubik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 21 Nov 2026.
+Yubik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 21 Nov 2026.
 
 Yubik is a techno and house artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 23 more. Often billed alongside 19:26, Denes Toth and Davko. Next up: Geary Avenue Warehouse Project, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Yubik is a techno and house artist based in Germany, with 54 gigs on soundcheck 
 
 19:26, Denes Toth, Davko
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yubik/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yubik/)*

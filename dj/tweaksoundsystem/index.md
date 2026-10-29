@@ -1,6 +1,6 @@
 # Tweak Soundsystem
 
-Tweak Soundsystem is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at A-Side, Paris on Fri, 13 Nov 2026.
+Tweak Soundsystem is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at A-Side, Paris on Fri, 13 Nov 2026.
 
 Tweak Soundsystem is a house and bass artist based in France, with 23 gigs on soundcheck across Brussels, Lyon and Paris. Often billed alongside Mamie's, Sentiments and Baraka. Next up: A-Side, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tweak Soundsystem is a house and bass artist based in France, with 23 gigs on so
 
 Mamie's, Sentiments, Baraka
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tweaksoundsystem/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tweaksoundsystem/)*

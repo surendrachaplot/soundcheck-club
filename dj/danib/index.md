@@ -1,6 +1,6 @@
 # Dani B
 
-Dani B is a Tech House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
+Dani B is a Tech House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
 
 Dani B is a tech house and club artist based in United Kingdom, with 9 gigs on soundcheck across Barcelona, Bogotá and London. Often billed alongside Alex Rebel, Dagga and Selva. Next up: Union Club, Vauxhall, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Dani B is a tech house and club artist based in United Kingdom, with 9 gigs on s
 
 Alex Rebel, Dagga, Selva
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danib/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danib/)*

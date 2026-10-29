@@ -1,6 +1,6 @@
 # Javel
 
-Javel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Masada, Milan on Sat, 5 Dec 2026.
+Javel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Masada, Milan on Sat, 5 Dec 2026.
 
 Javel is a techno and house artist based in Lithuania, with 15 gigs on soundcheck across Milan, Oslo, Riga and Vilnius and 1 more. Often billed alongside Franko, Aydin Imani and Alfred Czital. Next up: Masada, Milan on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Javel is a techno and house artist based in Lithuania, with 15 gigs on soundchec
 
 Franko, Aydin Imani, Alfred Czital
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javel/)*

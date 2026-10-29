@@ -1,6 +1,6 @@
 # TURMOIL: LCN fka. LCY at OIL Club
 
-TURMOIL: LCN fka. LCY at OIL Club on Sat 31 Oct, Shenzhen. 3 artists: Beibeilon, Funkie and zzm. Bass and Experimental. See the line-up on soundcheck.
+TURMOIL: LCN fka. LCY at OIL Club on Sat 31 Oct, Shenzhen. 1 artist: Beibeilon. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,5 @@ TURMOIL: LCN fka. LCY at OIL Club on Sat 31 Oct, Shenzhen. 3 artists: Beibeilon,
 ## Line-up
 
 - Beibeilon
-- Funkie
-- zzm (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2532672-turmoil-lcn-fka-lcy-at-oil-club/)*

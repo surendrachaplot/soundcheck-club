@@ -1,6 +1,6 @@
 # La Warrior
 
-La Warrior is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Fri, 30 Oct 2026.
+La Warrior is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Fri, 30 Oct 2026.
 
 La Warrior is an electronic artist, with 18 gigs on soundcheck across Bogotá. Often billed alongside Fiona Beeson, Gerard Radio and Isabella Isaza. Next up: Mad Radio Bogotá, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ La Warrior is an electronic artist, with 18 gigs on soundcheck across Bogotá. O
 
 Fiona Beeson, Gerard Radio, Isabella Isaza
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawarrior/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawarrior/)*

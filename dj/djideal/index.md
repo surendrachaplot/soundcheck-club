@@ -1,13 +1,14 @@
 # DJ IDeaL
 
-DJ IDeaL is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Rich's Nightclub, San Diego on Sat, 7 Nov 2026.
+DJ IDeaL is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Dave & Buster's San Diego, San Diego on Fri, 30 Oct 2026.
 
-DJ IDeaL is a techno and tech house artist based in United States of America, with 64 gigs on soundcheck across Austin, Chicago, Houston and Los Angeles and 2 more. Often billed alongside Redux Saints, Susio and Terry Jasinto. Next up: Rich's Nightclub, San Diego on Sat 7 Nov.
+DJ IDeaL is a techno and tech house artist based in United States of America, with 65 gigs on soundcheck across Austin, Chicago, Houston and Los Angeles and 2 more. Often billed alongside Redux Saints, Susio and Terry Jasinto. Next up: Dave & Buster's San Diego, San Diego on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Dave & Buster's San Diego | San Diego |
 | Sat, 7 Nov 2026 | Rich's Nightclub | San Diego |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ IDeaL is a techno and tech house artist based in United States of America, wi
 
 Redux Saints, Susio, Terry Jasinto
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djideal/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djideal/)*

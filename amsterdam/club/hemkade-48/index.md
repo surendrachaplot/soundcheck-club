@@ -1,6 +1,6 @@
 # Hemkade 48
 
-Hemkade 48 is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "GABBERLAND" on Sat, 31 Oct 2026.
+Hemkade 48 is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "GABBERLAND" on Sat, 31 Oct 2026.
 
 Hemkade 48 is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Art of Fighters, DJ Panic, Dj Promo and East End Dubs and 2 more. See dates, start times and who's playing. Hemkade 48, 1506 PS Zaandam.
 
@@ -16,4 +16,4 @@ Hemkade 48 is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, 
 
 Hemkade 48, 1506 PS Zaandam, Amsterdam
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hemkade-48/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hemkade-48/)*

@@ -1,6 +1,6 @@
 # Hafenklang
 
-Hafenklang is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Eulentanz x Bladehouse" on Sat, 31 Oct 2026.
+Hafenklang is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Eulentanz x Bladehouse" on Sat, 31 Oct 2026.
 
 Hafenklang is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including Nadine Hennig, Annina, Casimir von Oettingen and Electronic Elephant and 2 more. See dates, start times and who's playing. Große Elbstrasse 84; 22767 Hamburg; Germany.
 
@@ -14,4 +14,4 @@ Hafenklang is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, wit
 
 Große Elbstrasse 84; 22767 Hamburg; Germany, Hamburg
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenklang/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenklang/)*

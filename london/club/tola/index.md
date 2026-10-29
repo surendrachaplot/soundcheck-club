@@ -1,6 +1,6 @@
 # Tola
 
-Tola is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Hang the DJ Vol.10" on Thu, 29 Oct 2026.
+Tola is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Hang the DJ Vol.10" on Thu, 29 Oct 2026.
 
 Tola is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Agility, Blake, Blaqq & Why'd and Brandon Tourle and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
@@ -11,9 +11,9 @@ Tola is a music venue in London listed on soundcheck. 8 upcoming gigs, with line
 | Thu, 29 Oct 2026 | Hang the DJ Vol.10 |  |
 | Fri, 30 Oct 2026 | Groove27 presents: Día de los Muertos | Daisybelle, Ghosts Of Dance |
 | Sat, 31 Oct 2026 | one:2 eight presents: LE CIRQUE CLANDESTIN Edition | Not From Concentrate, Sophia Nicole |
-| Fri, 6 Nov 2026 | SubFusion - Free Entry Before 11.30pm - Garage / Breaks / Jungle | Agility, Blake (2), Bryn Brax, Whatsname |
+| Fri, 6 Nov 2026 | SubFusion - Free Entry Before 11.30pm - Garage / Breaks / Dubstep / Jungle | Agility, Blake (2), Bryn Brax, Whatsname, zoneSL |
 | Sat, 7 Nov 2026 | Bloom Sound presents: Blaqq & Why'd (London Debut) | Blaqq & Why'd, Brandon Tourle, Diego Gee, Jaden Pace, Wes Colstock |
-| Sat, 7 Nov 2026 | Jatozuki & FRIENDS | Dukesmith, RIMIX |
+| Sat, 7 Nov 2026 | Jatozuki & FRIENDS | Dukesmith, Jatozuki, RIMIX |
 | Fri, 27 Nov 2026 | The Greater Good - Tola Takeover | Gravy Bois |
 | Sat, 19 Dec 2026 | . VISTA: DEEP IN DECEMBER |  |
 
@@ -21,4 +21,4 @@ Tola is a music venue in London listed on soundcheck. 8 upcoming gigs, with line
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

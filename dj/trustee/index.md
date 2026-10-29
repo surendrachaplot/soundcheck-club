@@ -1,6 +1,6 @@
 # TRUSTEE
 
-TRUSTEE is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+TRUSTEE is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
 TRUSTEE is a garage and house artist based in Australia, with 42 gigs on soundcheck across Australian Capital Territory, Brisbane, Hobart and Melbourne and 2 more. Often billed alongside KJONES, Prizefight and IsGwan. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ TRUSTEE is a garage and house artist based in Australia, with 42 gigs on soundch
 
 KJONES, Prizefight, IsGwan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trustee/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trustee/)*

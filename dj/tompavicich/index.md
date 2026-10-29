@@ -1,6 +1,6 @@
 # Tom Pavicich
 
-Tom Pavicich is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Sat, 31 Oct 2026.
+Tom Pavicich is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Sat, 31 Oct 2026.
 
 Tom Pavicich is a house and progressive house artist based in Argentina, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 5 more. Often billed alongside oulcan, Mati Amoretti and FTRXPRS. Next up: Duke Of Tokyo, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tom Pavicich is a house and progressive house artist based in Argentina, with 40
 
 oulcan, Mati Amoretti, FTRXPRS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tompavicich/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tompavicich/)*

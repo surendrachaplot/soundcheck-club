@@ -1,6 +1,6 @@
 # Linds
 
-Linds is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Foksal 19, Warsaw on Fri, 30 Oct 2026.
+Linds is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Foksal 19, Warsaw on Fri, 30 Oct 2026.
 
 Linds is a techno and trance artist based in Poland, with 60 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Bergen and 17 more. Often billed alongside 2HOT2PLAY, GI.O and Kichta. Next up: Foksal 19, Warsaw on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Linds is a techno and trance artist based in Poland, with 60 gigs on soundcheck 
 
 2HOT2PLAY, GI.O, Kichta
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linds/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linds/)*

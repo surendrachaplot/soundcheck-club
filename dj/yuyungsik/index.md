@@ -1,6 +1,6 @@
 # yuyungsik
 
-yuyungsik is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Chunhee, Seoul on Fri, 30 Oct 2026.
+yuyungsik is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Chunhee, Seoul on Fri, 30 Oct 2026.
 
 yuyungsik is a jungle and drum & bass artist, with 21 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Uman Therma, Von Bueno and Seyn. Next up: Chunhee, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ yuyungsik is a jungle and drum & bass artist, with 21 gigs on soundcheck across 
 
 Uman Therma, Von Bueno, Seyn
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuyungsik/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuyungsik/)*

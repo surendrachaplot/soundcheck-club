@@ -1,6 +1,6 @@
 # NONI (US)
 
-NONI (US) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Jupiter Disco, New York City on Wed, 18 Nov 2026.
+NONI (US) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jupiter Disco, New York City on Wed, 18 Nov 2026.
 
 NONI (US) is a house and afro house artist, with 8 gigs on soundcheck across New York City. Often billed alongside Abenezer, Karo and boongaboonga. Next up: Jupiter Disco, New York City on Wed 18 Nov.
 
@@ -24,4 +24,4 @@ NONI (US) is a house and afro house artist, with 8 gigs on soundcheck across New
 
 Abenezer, Karo (3), boongaboonga
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noni-us/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noni-us/)*

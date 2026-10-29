@@ -1,6 +1,6 @@
 # Pancratio
 
-Pancratio is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Basic Club, Naples on Fri, 30 Oct 2026.
+Pancratio is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Basic Club, Naples on Fri, 30 Oct 2026.
 
 Pancratio is a house and techno artist based in Italy, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Basic Club, Naples on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Pancratio is a house and techno artist based in Italy, with 66 gigs on soundchec
 
 Dante (H501), Fabrizio Sala, Leo Benassi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*

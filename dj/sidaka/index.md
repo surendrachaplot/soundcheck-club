@@ -1,6 +1,6 @@
 # sidaka
 
-sidaka is a Jazz and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Clara Chicago, Chicago on Fri, 30 Oct 2026.
+sidaka is a Jazz and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Clara Chicago, Chicago on Fri, 30 Oct 2026.
 
 sidaka is a jazz and ambient artist based in United States of America, with 2 gigs on soundcheck across Chicago. Often billed alongside 9MAGICFOREVER1, Casper McFadden and JULLS. Next up: Clara Chicago, Chicago on Fri 30 Oct.
 
@@ -15,4 +15,4 @@ sidaka is a jazz and ambient artist based in United States of America, with 2 gi
 
 9MAGICFOREVER1, Casper McFadden, JULLS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sidaka/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sidaka/)*

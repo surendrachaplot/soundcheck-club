@@ -1,6 +1,6 @@
 # LEYA
 
-LEYA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+LEYA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
 LEYA is an experimental and electronica artist, with 24 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brussels and 12 more. Often billed alongside Andriana-Yaroslava Saienko, Heinali and Still House Plants. Next up: public records, New York City on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ LEYA is an experimental and electronica artist, with 24 gigs on soundcheck acros
 
 Andriana-Yaroslava Saienko, Heinali, Still House Plants
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leya/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leya/)*

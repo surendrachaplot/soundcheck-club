@@ -1,6 +1,6 @@
 # Shelton Cooper
 
-Shelton Cooper is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Stereo, Montreal on Fri, 20 Nov 2026.
+Shelton Cooper is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Stereo, Montreal on Fri, 20 Nov 2026.
 
 Shelton Cooper is an afro house and progressive house artist based in Canada, with 8 gigs on soundcheck across Montreal. Often billed alongside Hex Hector, Jimmy Be and Manny Ward. Next up: Stereo, Montreal on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Shelton Cooper is an afro house and progressive house artist based in Canada, wi
 
 Hex Hector, Jimmy Be, Manny Ward
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheltoncooper/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheltoncooper/)*

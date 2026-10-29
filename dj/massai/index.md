@@ -1,6 +1,6 @@
 # Massaï
 
-Massaï is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Rex Club, Paris on Fri, 30 Oct 2026.
+Massaï is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Rex Club, Paris on Fri, 30 Oct 2026.
 
 Massaï is a house and electro artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside LAMALICE, Man/Ipulate and Gabriel Belabbas. Next up: Rex Club, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Massaï is a house and electro artist based in United Kingdom, with 92 gigs on s
 
 LAMALICE, Man/Ipulate, Gabriel Belabbas
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massai/)*

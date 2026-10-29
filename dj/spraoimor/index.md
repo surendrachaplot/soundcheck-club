@@ -1,14 +1,14 @@
 # Spraoi Mór
 
-Spraoi Mór is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sameheads, Berlin on Sat, 31 Oct 2026.
+Spraoi Mór is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sameheads, Berlin on Sat, 28 Nov 2026.
 
-Spraoi Mór is a disco and acid artist based in Ireland, with 19 gigs on soundcheck across Belfast, Berlin, Dublin and Ibiza and 1 more. Often billed alongside Dar Molloy, Holten and Bella Festa. Next up: Sameheads, Berlin on Sat 31 Oct.
+Spraoi Mór is a disco and acid artist based in Ireland, with 19 gigs on soundcheck across Belfast, Berlin, Dublin and Ibiza and 1 more. Often billed alongside Dar Molloy, Holten and Bella Festa. Next up: Sameheads, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Sameheads | Berlin |
+| Sat, 28 Nov 2026 | Sameheads | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Spraoi Mór is a disco and acid artist based in Ireland, with 19 gigs on soundch
 
 Dar Molloy (2), Holten, Bella Festa
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spraoimor/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spraoimor/)*

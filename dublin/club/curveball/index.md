@@ -1,6 +1,6 @@
 # Curveball
 
-Curveball is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "SOAP: FREE HALLOWEEN PARTY" on Sat, 31 Oct 2026.
+Curveball is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "SOAP: FREE HALLOWEEN PARTY" on Sat, 31 Oct 2026.
 
 Curveball is a music venue in Dublin listed on soundcheck. 2 upcoming gigs, with line-ups including DJ SHORTKING, hellokt, High Fidelity and Sleepyhead. See dates, start times and who's playing. Curved St, Temple Bar, Dublin, D02 RD26.
 
@@ -15,4 +15,4 @@ Curveball is a music venue in Dublin listed on soundcheck. 2 upcoming gigs, with
 
 Curved St, Temple Bar, Dublin, D02 RD26, Dublin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/curveball/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/curveball/)*

@@ -1,6 +1,6 @@
 # Clark Price
 
-Clark Price is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The New Hot Mass, Pittsburgh on Sat, 14 Nov 2026.
+Clark Price is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The New Hot Mass, Pittsburgh on Sat, 14 Nov 2026.
 
 Clark Price is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Atlanta, Berlin, Detroit and Manchester and 6 more. Often billed alongside Aaron Clark, Honcho and d'Adhemar. Next up: The New Hot Mass, Pittsburgh on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Clark Price is a house and techno artist based in United States of America, with
 
 Aaron Clark, Honcho, d'Adhemar
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarkprice/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarkprice/)*

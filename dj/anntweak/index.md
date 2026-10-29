@@ -1,14 +1,15 @@
 # Ann Tweak
 
-Ann Tweak is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
+Ann Tweak is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
 
-Ann Tweak is a disco and house artist based in United Kingdom, with 78 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Jacuzzi General, Fierro Grande and Otis Worming. Next up: The Pitt Market, Edinburgh on Sat 31 Oct.
+Ann Tweak is a disco and house artist based in United Kingdom, with 79 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Jacuzzi General, Fierro Grande and Otis Worming. Next up: The Pitt Market, Edinburgh on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Pitt Market | Edinburgh |
+| Sat, 31 Oct 2026 | The Caley Bar | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ann Tweak is a disco and house artist based in United Kingdom, with 78 gigs on s
 
 Jacuzzi General, Fierro Grande, Otis Worming
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anntweak/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anntweak/)*

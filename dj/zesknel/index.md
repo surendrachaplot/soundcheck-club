@@ -1,6 +1,6 @@
 # Zesknel
 
-Zesknel is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bassiani, Tbilisi on Fri, 13 Nov 2026.
+Zesknel is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bassiani, Tbilisi on Fri, 13 Nov 2026.
 
 Zesknel is an experimental and ambient artist based in Georgia, with 40 gigs on soundcheck across London, Prague and Tbilisi. Often billed alongside Kvanchi, HVL and Ndrx. Next up: Bassiani, Tbilisi on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Zesknel is an experimental and ambient artist based in Georgia, with 40 gigs on 
 
 Kvanchi, HVL, Ndrx
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zesknel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zesknel/)*

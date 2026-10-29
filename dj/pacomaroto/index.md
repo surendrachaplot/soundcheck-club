@@ -1,6 +1,6 @@
 # Paco Maroto
 
-Paco Maroto is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at M7 Club, Barcelona on Sat, 7 Nov 2026.
+Paco Maroto is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at M7 Club, Barcelona on Sat, 7 Nov 2026.
 
 Paco Maroto is a progressive house and techno artist, with 9 gigs on soundcheck across Barcelona. Often billed alongside J.Louis, Beto Delgado and Ibañez. Next up: M7 Club, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Paco Maroto is a progressive house and techno artist, with 9 gigs on soundcheck 
 
 J.Louis, Beto Delgado, Ibañez
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacomaroto/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacomaroto/)*

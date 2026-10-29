@@ -1,6 +1,6 @@
 # Arca
 
-Arca is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Take It Easy Halloween Night" on Sat, 31 Oct 2026.
+Arca is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Take It Easy Halloween Night" on Sat, 31 Oct 2026.
 
 Arca is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Bugsy, Clover, Davide D'Amico and Dirty Channels and 2 more. See dates, start times and who's playing. Via Rimini, 38 20142 Milan, Italy.
 
@@ -17,4 +17,4 @@ Arca is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-
 
 Via Rimini, 38 20142 Milan, Italy, Milan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arca/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arca/)*

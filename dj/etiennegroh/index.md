@@ -1,6 +1,6 @@
 # Etienne Groh
 
-Etienne Groh is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 1520, Manchester on Sat, 7 Nov 2026.
+Etienne Groh is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 1520, Manchester on Sat, 7 Nov 2026.
 
 Etienne Groh is an ambient and experimental artist based in France, with 18 gigs on soundcheck across Leeds and Manchester. Often billed alongside Nikol, Cersy and Allius. Next up: 1520, Manchester on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Etienne Groh is an ambient and experimental artist based in France, with 18 gigs
 
 Nikol, Cersy, Allius
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennegroh/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennegroh/)*

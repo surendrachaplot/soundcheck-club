@@ -1,6 +1,6 @@
 # OG Lotti
 
-OG Lotti is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
+OG Lotti is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
 
 OG Lotti is a techno and trance artist based in Switzerland, with 16 gigs on soundcheck across Basel and Zurich. Often billed alongside Tanja Alison, Twenny5 and kso12. Next up: Elysia, Basel on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ OG Lotti is a techno and trance artist based in Switzerland, with 16 gigs on sou
 
 Tanja Alison, Twenny5, kso12
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oglotti/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oglotti/)*

@@ -1,6 +1,6 @@
 # Hunnygloss
 
-Hunnygloss is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The DBA, Manchester on Thu, 29 Oct 2026.
+Hunnygloss is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The DBA, Manchester on Thu, 29 Oct 2026.
 
 Hunnygloss is an electro and pop artist, with 8 gigs on soundcheck across Manchester. Often billed alongside NeoLeo, zergchild and AEON FUX. Next up: The DBA, Manchester on Thu 29 Oct.
 
@@ -24,4 +24,4 @@ Hunnygloss is an electro and pop artist, with 8 gigs on soundcheck across Manche
 
 NeoLeo, zergchild, AEON FUX
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hunnygloss/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hunnygloss/)*

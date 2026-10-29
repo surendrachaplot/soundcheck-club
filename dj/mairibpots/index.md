@@ -1,6 +1,6 @@
 # Mairi 'b' Pots
 
-Mairi 'b' Pots is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 20 Nov 2026.
+Mairi 'b' Pots is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 20 Nov 2026.
 
 Mairi 'b' Pots is a disco and house artist, with 72 gigs on soundcheck across Edinburgh and Newcastle. Often billed alongside Trendy Wendy, Jordy Joans and Hobbes. Next up: Leith FAB Cricket Club, Edinburgh on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Mairi 'b' Pots is a disco and house artist, with 72 gigs on soundcheck across Ed
 
 Trendy Wendy, Jordy Joans, Hobbes
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mairibpots/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mairibpots/)*

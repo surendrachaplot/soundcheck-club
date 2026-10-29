@@ -1,6 +1,6 @@
 # 3LOAR
 
-3LOAR is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at New Guernica, Melbourne on Thu, 29 Oct 2026.
+3LOAR is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at New Guernica, Melbourne on Thu, 29 Oct 2026.
 
 3LOAR is a techno and electro artist, with 27 gigs on soundcheck across Melbourne and Tokyo. Often billed alongside Telefixa, AKEYLAH and HAUSWiFE. Next up: New Guernica, Melbourne on Thu 29 Oct.
 
@@ -25,4 +25,4 @@
 
 Telefixa, AKEYLAH, HAUSWiFE
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3loar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3loar/)*

@@ -1,14 +1,15 @@
 # Matthias Olck
 
-Matthias Olck is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat, 31 Oct 2026.
+Matthias Olck is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat, 31 Oct 2026.
 
-Matthias Olck is a techno and industrial artist based in Germany, with 22 gigs on soundcheck across Bavaria, Berlin, Cologne and Dortmund / Essen and 3 more. Often billed alongside Ropemaker, Diode Eins and Kos:mo. Next up: TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat 31 Oct.
+Matthias Olck is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Bavaria, Berlin, Cologne and Dortmund / Essen and 3 more. Often billed alongside Ropemaker, Diode Eins and Kos:mo. Next up: TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG  | Bavaria |
+| Thu, 31 Dec 2026 | MTW | Frankfurt |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Matthias Olck is a techno and industrial artist based in Germany, with 22 gigs o
 
 Ropemaker, Diode Eins, Kos:mo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasolck/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasolck/)*

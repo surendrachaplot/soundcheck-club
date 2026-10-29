@@ -1,6 +1,6 @@
 # Tato (UK)
 
-Tato (UK) is a Tech House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
+Tato (UK) is a Tech House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 45 London, London on Fri, 30 Oct 2026.
 
 Tato (UK) is a tech house and afro tech artist based in United Kingdom, with 3 gigs on soundcheck across Amsterdam and London. Often billed alongside CANO, Pedro Villa and Ale Grooves. Next up: 45 London, London on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Tato (UK) is a tech house and afro tech artist based in United Kingdom, with 3 g
 
 CANO (3), Pedro Villa, Ale Grooves
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tato-uk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tato-uk/)*

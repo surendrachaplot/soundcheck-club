@@ -1,6 +1,6 @@
 # Lorenzo Raganzini
 
-Lorenzo Raganzini is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Exil, Vienna on Fri, 30 Oct 2026.
+Lorenzo Raganzini is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Exil, Vienna on Fri, 30 Oct 2026.
 
 Lorenzo Raganzini is a techno and hardcore artist based in Italy, with 98 gigs on soundcheck across Barcelona, Basel, Belgrade and Berlin and 45 more. Often billed alongside Paolo Ferrara, Alignment and DIØN. Next up: Club Exil, Vienna on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lorenzo Raganzini is a techno and hardcore artist based in Italy, with 98 gigs o
 
 Paolo Ferrara, Alignment, DIØN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzo-es/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzo-es/)*

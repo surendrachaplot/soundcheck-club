@@ -1,6 +1,6 @@
 # The Lower Level
 
-The Lower Level is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Infra presents: P.E.A.R.L & Meschwitz" on Sat, 31 Oct 2026.
+The Lower Level is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Infra presents: P.E.A.R.L & Meschwitz" on Sat, 31 Oct 2026.
 
 The Lower Level is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including Meschwitz and P.E.A.R.L.. See dates, start times and who's playing. 55 Bishop Allen Dr, Cambridge, MA 02139, USA.
 
@@ -14,4 +14,4 @@ The Lower Level is a music venue in Boston listed on soundcheck. 1 upcoming gig,
 
 55 Bishop Allen Dr, Cambridge, MA 02139, USA, Boston
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-lower-level/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-lower-level/)*

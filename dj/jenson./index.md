@@ -1,6 +1,6 @@
 # Jenson.
 
-Jenson. is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Location, Essex , South-east on Sat, 31 Oct 2026.
+Jenson. is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location, Essex , South-east on Sat, 31 Oct 2026.
 
 Jenson. is a house and minimal artist based in United Kingdom, with 29 gigs on soundcheck across Leeds, London and South East. Often billed alongside Robbo, Josh Keit and The Darrs. Next up: TBA - Secret Location, Essex , South East on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jenson. is a house and minimal artist based in United Kingdom, with 29 gigs on s
 
 Robbo, Josh Keit, The Darrs
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenson./)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenson./)*

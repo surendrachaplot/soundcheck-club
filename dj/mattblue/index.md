@@ -1,6 +1,6 @@
 # Matt Blue
 
-Matt Blue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Frau Holle, Hamburg on Sat, 31 Oct 2026.
+Matt Blue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Frau Holle, Hamburg on Sat, 31 Oct 2026.
 
 Matt Blue is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside Oliver Eich, DAIVER and Rausch & Farbe. Next up: Club Frau Holle, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Matt Blue is a techno and house artist based in Germany, with 14 gigs on soundch
 
 Oliver Eich, DAIVER, Rausch & Farbe
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattblue/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattblue/)*

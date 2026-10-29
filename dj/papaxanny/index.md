@@ -1,6 +1,6 @@
 # Papa Xanny
 
-Papa Xanny is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
+Papa Xanny is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Papa Xanny is a techno and club artist based in United States of America, with 57 gigs on soundcheck across Chicago and San Francisco/Oakland. Often billed alongside nonsuit, Beverly Chills and Just Another Bitch. Next up: The Great Northern, San Francisco/Oakland on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Papa Xanny is a techno and club artist based in United States of America, with 5
 
 nonsuit, Beverly Chills, Just Another Bitch
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papaxanny/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papaxanny/)*

@@ -1,6 +1,6 @@
 # Valleyk
 
-Valleyk is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Specka, Madrid on Fri, 30 Oct 2026.
+Valleyk is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Specka, Madrid on Fri, 30 Oct 2026.
 
 Valleyk is an electronica and techno artist based in Spain, with 17 gigs on soundcheck across Madrid. Often billed alongside Denso, Kamboya and MSKS. Next up: Specka, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Valleyk is an electronica and techno artist based in Spain, with 17 gigs on soun
 
 Denso, Kamboya, MSKS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valleyk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valleyk/)*

@@ -1,6 +1,6 @@
 # KA WAI
 
-KA WAI is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri, 30 Oct 2026.
+KA WAI is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri, 30 Oct 2026.
 
 KA WAI is a club and techno artist, with 42 gigs on soundcheck across Beijing, Hanoi, Ho Chi Minh City and New York City and 5 more. Often billed alongside Seesea, moong!rl and NET GALA. Next up: TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KA WAI is a club and techno artist, with 42 gigs on soundcheck across Beijing, H
 
 Seesea, moong!rl, NET GALA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kawai/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kawai/)*

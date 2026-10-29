@@ -1,14 +1,15 @@
 # CHARBINKS
 
-CHARBINKS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
+CHARBINKS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
 
-CHARBINKS is a house and techno artist based in France, with 25 gigs on soundcheck across Melbourne. Often billed alongside Andrew88, Caleb Jay and Andrea Guadalupi. Next up: Glamorama, Melbourne on Sat 7 Nov.
+CHARBINKS is a house and techno artist based in France, with 26 gigs on soundcheck across Melbourne. Often billed alongside Andrew88, Caleb Jay and Andrea Guadalupi. Next up: Glamorama, Melbourne on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Glamorama | Melbourne |
+| Sat, 26 Dec 2026 | Second Story Studios | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CHARBINKS is a house and techno artist based in France, with 25 gigs on soundche
 
 Andrew88, Caleb Jay, Andrea Guadalupi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charbinks/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charbinks/)*

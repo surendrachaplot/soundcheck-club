@@ -1,6 +1,6 @@
 # Kobold
 
-Kobold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TANKclub, Bologna on Fri, 6 Nov 2026.
+Kobold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TANKclub, Bologna on Fri, 6 Nov 2026.
 
 Kobold is a techno and house artist, with 25 gigs on soundcheck across Berlin, Bologna, Naples and Rome. Often billed alongside Davide Brosco, Nilo and Amiran. Next up: TANKclub, Bologna on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kobold is a techno and house artist, with 25 gigs on soundcheck across Berlin, B
 
 Davide Brosco, Nilo, Amiran
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobold/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobold/)*

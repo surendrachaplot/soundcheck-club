@@ -1,6 +1,6 @@
 # zey
 
-zey is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Soulkitchen Vienna, Vienna on Sat, 31 Oct 2026.
+zey is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Soulkitchen Vienna, Vienna on Sat, 31 Oct 2026.
 
 zey is a techno and bass artist based in Czech Republic, with 40 gigs on soundcheck across Amsterdam, Prague, Rotterdam and Sydney and 1 more. Often billed alongside মm., Gawdesque and anxxxious_t. Next up: Soulkitchen Vienna, Vienna on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ zey is a techno and bass artist based in Czech Republic, with 40 gigs on soundch
 
 মm., Gawdesque, anxxxious_t
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zey/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zey/)*

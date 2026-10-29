@@ -1,14 +1,14 @@
 # Hyejin
 
-Hyejin is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at BBCB: Beton Brut+Concrete Bar, Seoul on Sat, 7 Nov 2026.
+Hyejin is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Blank Site, Seoul on Sat, 7 Nov 2026.
 
-Hyejin is a house and bass artist based in South Korea, with 95 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Shins, untitled and KISEWA. Next up: BBCB: Beton Brut+Concrete Bar, Seoul on Sat 7 Nov.
+Hyejin is a house and bass artist based in South Korea, with 95 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Shins, untitled and KISEWA. Next up: Blank Site, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | BBCB: Beton Brut+Concrete Bar | Seoul |
+| Sat, 7 Nov 2026 | Blank Site | Seoul |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Hyejin is a house and bass artist based in South Korea, with 95 gigs on soundche
 
 Shins, untitled (2), KISEWA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyejin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyejin/)*

@@ -1,6 +1,6 @@
 # Oscar Rosmano
 
-Oscar Rosmano is a Progressive House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TEMPLE, Lisbon on Sat, 7 Nov 2026.
+Oscar Rosmano is a Progressive House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TEMPLE, Lisbon on Sat, 7 Nov 2026.
 
 Oscar Rosmano is a progressive house and minimal techno artist based in Portugal, with 40 gigs on soundcheck across Amsterdam, Budapest and Lisbon. Often billed alongside David J Newton, Jaap Ligthart and Artemios Trigo. Next up: TEMPLE, Lisbon on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Oscar Rosmano is a progressive house and minimal techno artist based in Portugal
 
 David J Newton, Jaap Ligthart, Artemios Trigo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarrosmano/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarrosmano/)*

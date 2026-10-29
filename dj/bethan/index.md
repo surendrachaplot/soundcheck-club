@@ -1,6 +1,6 @@
 # Bethan
 
-Bethan is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Gut Level, Sheffield on Fri, 6 Nov 2026.
+Bethan is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gut Level, Sheffield on Fri, 6 Nov 2026.
 
 Bethan is a house and progressive house artist based in United Kingdom, with 42 gigs on soundcheck across London and Sheffield. Often billed alongside Angel D'lite, Marie Malarie and Michelle Manetti. Next up: Gut Level, Sheffield on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Bethan is a house and progressive house artist based in United Kingdom, with 42 
 
 Angel D'lite, Marie Malarie, Michelle Manetti
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bethan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bethan/)*

@@ -1,6 +1,6 @@
 # George Smeddles
 
-George Smeddles is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
+George Smeddles is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
 
 George Smeddles is a house and tech house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 23 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: LDN East, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ George Smeddles is a house and tech house artist based in United Kingdom, with 7
 
 Darius Syrossian, GW Harrison, Prunk
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*

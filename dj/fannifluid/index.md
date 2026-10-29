@@ -1,6 +1,6 @@
 # Fanni Fluid
 
-Fanni Fluid is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 31 Oct 2026.
+Fanni Fluid is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 31 Oct 2026.
 
 Fanni Fluid is a techno and trance artist, with 10 gigs on soundcheck across Copenhagen. Often billed alongside DJ 2LATE, Aja Gulris and Anna Logic. Next up: Den Anden Side, Copenhagen on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Fanni Fluid is a techno and trance artist, with 10 gigs on soundcheck across Cop
 
 DJ 2LATE, Aja Gulris, Anna Logic
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fannifluid/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fannifluid/)*

@@ -1,6 +1,6 @@
 # BodyOrigami with Nonna Fab at Pan-Pan
 
-BodyOrigami with Nonna Fab at Pan-Pan on Sat 21 Nov, Birmingham. 2 artists: Fading Objects and Nonna Fab. House and Jazz. See the line-up on soundcheck.
+BodyOrigami with Nonna Fab at Pan-Pan on Sat 21 Nov, Birmingham. 3 artists: dec_rim, Fading Objects and Nonna Fab. House and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BodyOrigami with Nonna Fab at Pan-Pan on Sat 21 Nov, Birmingham. 2 artists: Fadi
 
 ## Line-up
 
+- dec_rim
 - Fading Objects
 - Nonna Fab
 

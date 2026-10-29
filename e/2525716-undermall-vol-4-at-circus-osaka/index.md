@@ -1,6 +1,6 @@
 # UNDERMALL vol.4 at Circus Osaka
 
-UNDERMALL vol.4 at Circus Osaka on Fri 30 Oct, Osaka. 2 artists: J Wax and Osmosis Jones. Breakbeat and Garage. See the line-up on soundcheck.
+UNDERMALL vol.4 at Circus Osaka on Fri 30 Oct, Osaka. 3 artists: J Wax, Osmosis Jones and Pak9. Breakbeat and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ UNDERMALL vol.4 at Circus Osaka on Fri 30 Oct, Osaka. 2 artists: J Wax and Osmos
 
 - J Wax
 - Osmosis Jones
+- Pak9
 
 *Source: [soundcheck](https://soundcheck.club/e/2525716-undermall-vol-4-at-circus-osaka/)*

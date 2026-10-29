@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Refuge, New York City on Thu, 29 Oct 2026.
+salute is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Refuge, New York City on Thu, 29 Oct 2026.
 
 salute is a house and techno artist based in Austria, with 210 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside HAAi, DJ BORING and Eliza Rose. Next up: Refuge, New York City on Thu 29 Oct.
 
@@ -36,4 +36,4 @@ salute is a house and techno artist based in Austria, with 210 gigs on soundchec
 
 HAAi, DJ BORING, Eliza Rose
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

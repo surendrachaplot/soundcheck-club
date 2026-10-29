@@ -1,6 +1,6 @@
 # Eric Yaz
 
-Eric Yaz is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Spkrbox, Detroit on Sat, 31 Oct 2026.
+Eric Yaz is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Spkrbox, Detroit on Sat, 31 Oct 2026.
 
 Eric Yaz is a techno and house artist based in United States of America, with 76 gigs on soundcheck across Baltimore, Detroit, Miami and New York City and 3 more. Often billed alongside SPCL.K, Xav (US) and Stagira. Next up: Spkrbox, Detroit on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Eric Yaz is a techno and house artist based in United States of America, with 76
 
 SPCL.K, Xav (US), Stagira
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyaz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyaz/)*

@@ -1,6 +1,6 @@
 # Baltra
 
-Baltra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
+Baltra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
 
 Baltra is a house and techno artist based in United States of America, with 93 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Shaolin Cowboy. Next up: Paragon, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Baltra is a house and techno artist based in United States of America, with 93 g
 
 dj poolboi, DJ Cinéma Quartier Latin, Shaolin Cowboy
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baltra-us/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baltra-us/)*

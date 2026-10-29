@@ -1,6 +1,6 @@
 # EN:VY
 
-EN:VY is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hidden, Manchester on Fri, 30 Oct 2026.
+EN:VY is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hidden, Manchester on Fri, 30 Oct 2026.
 
 EN:VY is a drum & bass and dubstep artist based in Ukraine, with 31 gigs on soundcheck across Auckland, Bristol, Ghent and London and 12 more. Often billed alongside Enei, Kasra and Kyrist. Next up: Hidden, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ EN:VY is a drum & bass and dubstep artist based in Ukraine, with 31 gigs on soun
 
 Enei, Kasra, Kyrist
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/envy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/envy/)*

@@ -1,6 +1,6 @@
 # HAAi
 
-HAAi is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at EartH, London on Sat, 31 Oct 2026.
+HAAi is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at EartH, London on Sat, 31 Oct 2026.
 
 HAAi is a house and techno artist based in Australia, with 239 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside salute, DJ BORING and DJ Tennis. Next up: EartH, London on Sat 31 Oct.
 
@@ -36,4 +36,4 @@ HAAi is a house and techno artist based in Australia, with 239 gigs on soundchec
 
 salute, DJ BORING, DJ Tennis
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

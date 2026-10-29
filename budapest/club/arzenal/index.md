@@ -1,8 +1,8 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Arzenal Halloween with Byorn" on Fri, 30 Oct 2026.
+Arzenal is a music venue in Budapest with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Arzenal Halloween with Byorn" on Fri, 30 Oct 2026.
 
-Arzenal is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, with line-ups including 1991 (UK), ädene, AESZTETIK and Afterlife and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
+Arzenal is a music venue in Budapest listed on soundcheck. 14 upcoming gigs, with line-ups including 1991 (UK), ädene, AESZTETIK and Afterlife and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, wit
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

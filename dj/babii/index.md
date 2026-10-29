@@ -1,6 +1,6 @@
 # BABii
 
-BABii is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Uhelný Mlýn, Prague on Sat, 14 Nov 2026.
+BABii is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Uhelný Mlýn, Prague on Sat, 14 Nov 2026.
 
 BABii is a club and electronica artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bristol and 22 more. Often billed alongside Iglooghost, User2222 and Isla Den. Next up: Uhelný Mlýn, Prague on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ BABii is a club and electronica artist based in United Kingdom, with 47 gigs on 
 
 Iglooghost, User2222, Isla Den
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babii/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babii/)*

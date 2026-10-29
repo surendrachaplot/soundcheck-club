@@ -1,0 +1,28 @@
+# Tod Louie
+
+Tod Louie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Gehør, Oslo on Thu, 29 Oct 2026.
+
+Tod Louie is a house and techno artist based in Norway, with 55 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Guadalajara and 5 more. Often billed alongside Chris Solaris, Karl Fraunhofer and Thomas Refvik. Next up: Gehør, Oslo on Thu 29 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 29 Oct 2026 | Gehør | Oslo |
+
+## Recently played
+
+- Gehør, Oslo · Fri, 9 Oct 2026
+- Gehør, Oslo · Fri, 9 Oct 2026
+- Jaeger, Oslo · Sat, 3 Oct 2026
+- Jaeger, Oslo · Sat, 5 Sept 2026
+- The Villa, Oslo · Fri, 21 Aug 2026
+- Jaeger, Oslo · Sat, 4 Jul 2026
+- Gehør, Oslo · Sat, 20 Jun 2026
+- Jaeger, Oslo · Sat, 13 Jun 2026
+
+## Shares bills with
+
+Chris Solaris, Karl Fraunhofer, Thomas Refvik
+
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/todlouie/)*

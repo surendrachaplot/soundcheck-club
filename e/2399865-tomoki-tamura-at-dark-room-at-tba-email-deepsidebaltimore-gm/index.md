@@ -1,6 +1,6 @@
 # Tomoki Tamura at Dark Room at TBA - Email Deepsidebaltimore@gmail.com for info/address
 
-Tomoki Tamura at Dark Room at TBA - Email Deepsidebaltimore@gmail.com for info/address on Fri 30 Oct, Baltimore. 2 artists: Feroun and Tomoki Tamura. Techno and House. See the line-up on soundcheck.
+Tomoki Tamura at Dark Room at TBA - Email Deepsidebaltimore@gmail.com for info/address on Fri 30 Oct, Baltimore. 3 artists: Feroun, Tomoki Tamura and unbound. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Tomoki Tamura at Dark Room at TBA - Email Deepsidebaltimore@gmail.com for info/a
 
 - Feroun
 - Tomoki Tamura
+- unbound
 
 *Source: [soundcheck](https://soundcheck.club/e/2399865-tomoki-tamura-at-dark-room-at-tba-email-deepsidebaltimore-gm/)*

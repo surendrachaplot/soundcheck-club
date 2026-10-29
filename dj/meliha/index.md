@@ -1,8 +1,8 @@
 # Meliha
 
-Meliha is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Wet Deck at W Hotel, Kuala Lumpur on Fri, 30 Oct 2026.
+Meliha is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Wet Deck at W Hotel, Kuala Lumpur on Fri, 30 Oct 2026.
 
-Meliha is a techno and house artist based in Malaysia, with 115 gigs on soundcheck across Bali, Bangkok, Kuala Lumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: Wet Deck at W Hotel, Kuala Lumpur on Fri 30 Oct.
+Meliha is a techno and house artist based in Malaysia, with 116 gigs on soundcheck across Bali, Bangkok, Kuala Lumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: Wet Deck at W Hotel, Kuala Lumpur on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Meliha is a techno and house artist based in Malaysia, with 115 gigs on soundche
 | Wed, 4 Nov 2026 | TBA - YKO | Kuala Lumpur |
 | Fri, 6 Nov 2026 | Pisco Bar | Kuala Lumpur |
 | Fri, 13 Nov 2026 | Pisco Bar | Kuala Lumpur |
+| Sat, 14 Nov 2026 | TBA - JOLOKO | Kuala Lumpur |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Meliha is a techno and house artist based in Malaysia, with 115 gigs on soundche
 
 Obadius, Biscuit (MY), OtherKind
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meliha/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meliha/)*

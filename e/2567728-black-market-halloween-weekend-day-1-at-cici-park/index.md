@@ -1,6 +1,6 @@
 # Black Market | Halloween Weekend Day 1 at Cici Park
 
-Black Market | Halloween Weekend Day 1 at Cici Park on Fri 30 Oct, Chongqing. 3 artists: Jamira Estrada, NVST and Sunyoung. Bass and Electro. See the line-up on soundcheck.
+Black Market | Halloween Weekend Day 1 at Cici Park on Fri 30 Oct, Chongqing. 3 artists: Jamira Estrada, NVST and Sunyoung. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

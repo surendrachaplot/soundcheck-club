@@ -1,6 +1,6 @@
 # RRUDEGIRLLL
 
-RRUDEGIRLLL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+RRUDEGIRLLL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
 RRUDEGIRLLL is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Nina Pixina, LOVECAT and Sissy Cinnamon. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ RRUDEGIRLLL is a techno and house artist based in United Kingdom, with 13 gigs o
 
 Nina Pixina, LOVECAT, Sissy Cinnamon
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrudegirlll/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrudegirlll/)*

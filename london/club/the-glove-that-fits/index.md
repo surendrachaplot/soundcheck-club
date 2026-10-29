@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 19 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "DJ Carpenter presents Steel City Dance Discs EP Launch Party" on Thu, 29 Oct 2026.
+The Glove That Fits is a music venue in London with 19 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DJ Carpenter presents Steel City Dance Discs EP Launch Party" on Thu, 29 Oct 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including Amor Ante, Antonio De Angelis, Ardishko and Arnaud Le Texier and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 19 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

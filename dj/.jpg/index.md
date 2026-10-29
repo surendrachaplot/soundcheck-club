@@ -1,6 +1,6 @@
 # .JPG
 
-.JPG is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Odem, Bogotá on Fri, 30 Oct 2026.
+.JPG is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Odem, Bogotá on Fri, 30 Oct 2026.
 
 .JPG is a house and electro artist based in Venezuela, with 11 gigs on soundcheck across Barcelona, Bogotá and Madrid. Often billed alongside Moig, LM and Alex (ES). Next up: Odem, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@
 
 Moig, LM, Alex (ES)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.jpg/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.jpg/)*

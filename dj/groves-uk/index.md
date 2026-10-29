@@ -1,6 +1,6 @@
 # Groves
 
-Groves is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Fivefourstudios, Manchester on Fri, 13 Nov 2026.
+Groves is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Fivefourstudios, Manchester on Fri, 13 Nov 2026.
 
 Groves is a house and garage artist based in United Kingdom, with 8 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Dan Cowan, Lewis Carroll and Coyle. Next up: Fivefourstudios, Manchester on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Groves is a house and garage artist based in United Kingdom, with 8 gigs on soun
 
 Dan Cowan, Lewis Carroll, Coyle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groves-uk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groves-uk/)*

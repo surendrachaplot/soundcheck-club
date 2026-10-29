@@ -1,14 +1,15 @@
 # Annie
 
-Annie is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mia Mao, Paris on Tue, 10 Nov 2026.
+Annie is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mia Mao, Paris on Tue, 10 Nov 2026.
 
-Annie is a techno and trance artist based in Norway, with 10 gigs on soundcheck across Cologne, Hamburg, Ibiza and Karlsruhe and 3 more. Often billed alongside DVAID, DJ DRECKISCH and Golpe. Next up: Mia Mao, Paris on Tue 10 Nov.
+Annie is a techno and trance artist based in Norway, with 11 gigs on soundcheck across Cologne, Hamburg, Ibiza and Karlsruhe and 4 more. Often billed alongside DVAID, DJ DRECKISCH and Golpe. Next up: Mia Mao, Paris on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 10 Nov 2026 | Mia Mao | Paris |
+| Fri, 11 Dec 2026 | DEX | Moscow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Annie is a techno and trance artist based in Norway, with 10 gigs on soundcheck 
 
 DVAID, DJ DRECKISCH, Golpe
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annie/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annie/)*

@@ -1,6 +1,6 @@
 # Falan
 
-Falan is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Danger Danger, New York City on Sun, 1 Nov 2026.
+Falan is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Danger Danger, New York City on Sun, 1 Nov 2026.
 
 Falan is an afro house and house artist, with 7 gigs on soundcheck across New York City. Often billed alongside Chez Tropics, SHRAY and $EJ. Next up: Danger Danger, New York City on Sun 1 Nov.
 
@@ -23,4 +23,4 @@ Falan is an afro house and house artist, with 7 gigs on soundcheck across New Yo
 
 Chez Tropics, SHRAY, $EJ
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falan/)*

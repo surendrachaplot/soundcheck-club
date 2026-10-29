@@ -1,6 +1,6 @@
 # Go Kiryu
 
-Go Kiryu is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Good Room, New York City on Sun, 15 Nov 2026.
+Go Kiryu is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Good Room, New York City on Sun, 15 Nov 2026.
 
 Go Kiryu is a house and jazz artist, with 7 gigs on soundcheck across New York City. Often billed alongside Danny Krivit, HIRAME and Mike Nervous. Next up: Good Room, New York City on Sun 15 Nov.
 
@@ -23,4 +23,4 @@ Go Kiryu is a house and jazz artist, with 7 gigs on soundcheck across New York C
 
 Danny Krivit, HIRAME, Mike Nervous
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gokiryu/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gokiryu/)*

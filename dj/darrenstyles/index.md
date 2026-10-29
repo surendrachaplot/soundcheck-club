@@ -1,14 +1,15 @@
 # Darren Styles
 
-Darren Styles is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Darren Styles is a Hardcore and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Darren Styles is a hardcore and techno artist based in United Kingdom, with 24 gigs on soundcheck across Aberdeen, Birmingham, Brighton and Edinburgh and 10 more. Often billed alongside Hixxy, Gammer and Showtek. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Darren Styles is a hardcore and techno artist based in United Kingdom, with 25 gigs on soundcheck across Aberdeen, Birmingham, Brighton and Edinburgh and 11 more. Often billed alongside Hixxy, Coone and Gammer. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Sat, 7 Nov 2026 | Phantom, Paris | Paris |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 12 Dec 2026 | SWG3 | Glasgow |
 
@@ -25,6 +26,6 @@ Darren Styles is a hardcore and techno artist based in United Kingdom, with 24 g
 
 ## Shares bills with
 
-Hixxy, Gammer, Showtek
+Hixxy, Coone, Gammer
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenstyles/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenstyles/)*

@@ -1,6 +1,6 @@
 # Ranerro
 
-Ranerro is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 6 Nov 2026.
+Ranerro is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 6 Nov 2026.
 
 Ranerro is a house and electro artist based in Slovenia, with 24 gigs on soundcheck across Amsterdam, Berlin, Budapest and Ljubljana and 3 more. Often billed alongside Teo (SI), Lakmi and AR:TE. Next up: Shelter Amsterdam, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ranerro is a house and electro artist based in Slovenia, with 24 gigs on soundch
 
 Teo (SI), Lakmi, AR:TE
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerro/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerro/)*

@@ -1,6 +1,6 @@
 # ILIE (RO)
 
-ILIE (RO) is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar A Bar, London on Fri, 20 Nov 2026.
+ILIE (RO) is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar A Bar, London on Fri, 20 Nov 2026.
 
 ILIE (RO) is a minimal and minimal techno artist, with 15 gigs on soundcheck across Bucharest, London and Paris. Often billed alongside Trofin, Sorin Simon and Pe Dant:. Next up: Bar A Bar, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ILIE (RO) is a minimal and minimal techno artist, with 15 gigs on soundcheck acr
 
 Trofin, Sorin Simon, Pe Dant:
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iliero/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iliero/)*

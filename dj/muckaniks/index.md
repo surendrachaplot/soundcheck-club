@@ -1,6 +1,6 @@
 # MUCKANIKS
 
-MUCKANIKS is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Yes, Manchester on Fri, 11 Dec 2026.
+MUCKANIKS is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Yes, Manchester on Fri, 11 Dec 2026.
 
 MUCKANIKS is a garage and bass artist, with 8 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside BVNQUET, Higgo and LLEAHDAVIES. Next up: Yes, Manchester on Fri 11 Dec.
 
@@ -24,4 +24,4 @@ MUCKANIKS is a garage and bass artist, with 8 gigs on soundcheck across Bristol,
 
 BVNQUET, Higgo, LLEAHDAVIES
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muckaniks/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muckaniks/)*

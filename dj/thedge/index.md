@@ -1,6 +1,6 @@
 # THEDGE
 
-THEDGE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 31 Oct 2026.
+THEDGE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 31 Oct 2026.
 
 THEDGE is a techno and house artist based in Mexico, with 8 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Madrid and 1 more. Often billed alongside AL MANDO, Alessandra Fierro and ADJK. Next up: Klunkerkranich, Berlin on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ THEDGE is a techno and house artist based in Mexico, with 8 gigs on soundcheck a
 
 AL MANDO, Alessandra Fierro, ADJK
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedge/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedge/)*

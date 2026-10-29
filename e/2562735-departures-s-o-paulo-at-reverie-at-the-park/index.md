@@ -1,6 +1,6 @@
 # Departures: São Paulo at Reverie at the Park
 
-Departures: São Paulo at Reverie at the Park on Sat 28 Nov, Toronto. Tech House and Baile Funk. See the line-up on soundcheck.
+Departures: São Paulo at Reverie at the Park on Sat 28 Nov, Toronto. Baile Funk and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 915 Dupont
 
-915 Dupont is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "915 Halloween with DJs Moon Hymns & Gil Masuda" on Fri, 30 Oct 2026.
+915 Dupont is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "915 Halloween with DJs Moon Hymns & Gil Masuda" on Fri, 30 Oct 2026.
 
 915 Dupont is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Alister Johnson, Cidoine, Dinamo Azari and Gil Masuda and 2 more. See dates, start times and who's playing. 915 Dupont Street, Toronto, ON M6H 1Z1, Canada.
 
@@ -16,4 +16,4 @@
 
 915 Dupont Street, Toronto, ON M6H 1Z1, Canada, Toronto
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/915-dupont/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/915-dupont/)*

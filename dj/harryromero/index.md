@@ -1,6 +1,6 @@
 # Harry Romero
 
-Harry Romero is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
+Harry Romero is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
 
 Harry Romero is a house and tech house artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside Nic Fanciulli, Danny Howard and Darius Syrossian. Next up: Mantamar Beach Club, Puerto Vallarta on Thu 11 Mar.
 
@@ -25,4 +25,4 @@ Harry Romero is a house and tech house artist based in United States of America,
 
 Nic Fanciulli, Danny Howard, Darius Syrossian
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryromero/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryromero/)*

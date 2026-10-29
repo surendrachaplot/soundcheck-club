@@ -1,6 +1,6 @@
 # DUSS
 
-DUSS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hala Odra, Poland on Sat, 21 Nov 2026.
+DUSS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hala Odra, Poland on Sat, 21 Nov 2026.
 
 DUSS is a techno and house artist based in Poland, with 56 gigs on soundcheck across Krakow, Poland, Poznan and Warsaw and 1 more. Often billed alongside Angelo Mike, WEIKUM and Kuvau. Next up: Hala Odra, Poland on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DUSS is a techno and house artist based in Poland, with 56 gigs on soundcheck ac
 
 Angelo Mike, WEIKUM, Kuvau
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duss/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duss/)*

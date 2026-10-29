@@ -1,6 +1,6 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax" on Sat, 7 Nov 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax" on Sat, 7 Nov 2026.
 
 DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including 2HOT2PLAY, Al Aslan, Alex Friday and Andreas Henneberg and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
@@ -17,10 +17,10 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming 
 | Wed, 30 Dec 2026 | ONYX NYE: 'NEW ERA' | 2HOT2PLAY, AREA ØNE, BENITO (DE), BENNETT, BIJI ON DECKS, Bruno Brero, HANÀ, KARISH, L.zwo, MISS FRENXH, OLED, Part Time Killer, Treibende Kraft, two girls one mom |
 | Fri, 29 Jan 2027 | ONYX pres. Ueberrest: 'RECHARGE' | Alex Friday, Bruno Brero, Danilo Filipe, Ueberrest |
 | Sat, 13 Mar 2027 | ONYX pres. Somewhen [EXTENDED SET]: 'PRESSURE' | Somewhen |
-| Sat, 1 May 2027 | ONYX 'MAYDAY' | DJ DRECKISCH |
+| Sat, 1 May 2027 | ONYX 'MAYDAY' | DJ Achim Feuervogel, DJ DRECKISCH, Eva Charley, NYCO (NL) |
 
 ## Address
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

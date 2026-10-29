@@ -1,6 +1,6 @@
 # Errorsmith
 
-Errorsmith is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
+Errorsmith is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
 
 Errorsmith is an experimental and techno artist based in Germany, with 8 gigs on soundcheck across Beijing, Berlin, Krakow and Shanghai and 2 more. Often billed alongside DJ Double Spoon, Dscrd and Evian Christ. Next up: Reactor Shanghai, Shanghai on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Errorsmith is an experimental and techno artist based in Germany, with 8 gigs on
 
 DJ Double Spoon, Dscrd, Evian Christ
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/errorsmith/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/errorsmith/)*

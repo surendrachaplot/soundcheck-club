@@ -1,6 +1,6 @@
 # Carly Barton
 
-Carly Barton is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Process PDX, Portland on Fri, 30 Oct 2026.
+Carly Barton is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Process PDX, Portland on Fri, 30 Oct 2026.
 
 Carly Barton is a techno and experimental artist, with 31 gigs on soundcheck across Philadelphia, Portland and Seattle. Often billed alongside Andy Warren, DJ Eft and Andrew Paris. Next up: Process PDX, Portland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Carly Barton is a techno and experimental artist, with 31 gigs on soundcheck acr
 
 Andy Warren, DJ Eft, Andrew Paris
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlybarton/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlybarton/)*

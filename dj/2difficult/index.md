@@ -1,6 +1,6 @@
 # 2Difficult
 
-2Difficult is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Dada Beijing, Beijing on Fri, 30 Oct 2026.
+2Difficult is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Dada Beijing, Beijing on Fri, 30 Oct 2026.
 
 2Difficult is a house and techno artist based in China, with 26 gigs on soundcheck across Beijing, Chengdu, Seoul and Shanghai. Often billed alongside Nigls, Jorge Caiado and Stefano Dvt. Next up: Dada Beijing, Beijing on Fri 30 Oct.
 
@@ -25,4 +25,4 @@
 
 Nigls, Jorge Caiado, Stefano Dvt
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2difficult/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2difficult/)*

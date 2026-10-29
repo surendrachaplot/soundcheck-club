@@ -1,6 +1,6 @@
 # HearThug
 
-HearThug is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Barraca, Valencia on Sat, 31 Oct 2026.
+HearThug is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Barraca, Valencia on Sat, 31 Oct 2026.
 
 HearThug is a house and electro artist based in Tunisia, with 62 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Barraca, Valencia on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ HearThug is a house and electro artist based in Tunisia, with 62 gigs on soundch
 
 Occibel, IAMBP, Alyhas
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

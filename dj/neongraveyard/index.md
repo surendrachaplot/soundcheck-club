@@ -1,6 +1,6 @@
 # Neon Graveyard
 
-Neon Graveyard is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Exil, Vienna on Fri, 30 Oct 2026.
+Neon Graveyard is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Exil, Vienna on Fri, 30 Oct 2026.
 
 Neon Graveyard is a techno and trance artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Johannes Schuster, CALLUSH and KUKO. Next up: Club Exil, Vienna on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Neon Graveyard is a techno and trance artist based in Germany, with 183 gigs on 
 
 Johannes Schuster, CALLUSH, KUKO
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neongraveyard/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neongraveyard/)*

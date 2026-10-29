@@ -1,6 +1,6 @@
 # Clouzer
 
-Clouzer is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at YSY, Berlin on Fri, 30 Oct 2026.
+Clouzer is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at YSY, Berlin on Fri, 30 Oct 2026.
 
 Clouzer is an ebm and techno artist based in Germany, with 9 gigs on soundcheck across Bangkok, Berlin and Prague. Often billed alongside ANTGNSM, Franz Scala and LOKIDÍ. Next up: YSY, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Clouzer is an ebm and techno artist based in Germany, with 9 gigs on soundcheck 
 
 ANTGNSM, Franz Scala, LOKIDÍ
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clouzer/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clouzer/)*

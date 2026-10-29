@@ -1,6 +1,6 @@
 # Strathearn
 
-Strathearn is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Quarry, Liverpool on Fri, 27 Nov 2026.
+Strathearn is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Quarry, Liverpool on Fri, 27 Nov 2026.
 
 Strathearn is a techno and bass artist, with 5 gigs on soundcheck across Liverpool. Often billed alongside The Cyclist, Emmett G and MYOHMY. Next up: Quarry, Liverpool on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Strathearn is a techno and bass artist, with 5 gigs on soundcheck across Liverpo
 
 The Cyclist, Emmett G, MYOHMY
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strathearn/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strathearn/)*

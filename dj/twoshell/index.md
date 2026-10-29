@@ -1,6 +1,6 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at New Century Locker, Manchester on Fri, 6 Nov 2026.
+Two Shell is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at New Century Locker, Manchester on Fri, 6 Nov 2026.
 
 Two Shell is a techno and experimental artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: New Century Locker, Manchester on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Two Shell is a techno and experimental artist based in United Kingdom, with 90 g
 
 Ogazón, Avalon Emerson, Call Super
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*

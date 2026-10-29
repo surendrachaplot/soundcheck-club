@@ -1,6 +1,6 @@
 # JS Alvarez
 
-JS Alvarez is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The California Clipper, Chicago on Thu, 29 Oct 2026.
+JS Alvarez is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The California Clipper, Chicago on Thu, 29 Oct 2026.
 
 JS Alvarez is a techno and electro artist based in United States of America, with 47 gigs on soundcheck across Chicago, Denver, Detroit and New Orleans and 3 more. Often billed alongside Makeen, Shanti and Dan B Hood. Next up: The California Clipper, Chicago on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ JS Alvarez is a techno and electro artist based in United States of America, wit
 
 Makeen, Shanti, Dan B Hood
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jsalvarez/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jsalvarez/)*

@@ -1,14 +1,15 @@
 # OKO (1)
 
-OKO (1) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+OKO (1) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
-OKO is a drum & bass and jungle artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Cologne, Edinburgh and Frankfurt and 6 more. Often billed alongside Diagnostix, Duskee and A Little Sound. Next up: DRUMSHEDS, London on Sat 7 Nov.
+OKO is a drum & bass and jungle artist based in United Kingdom, with 21 gigs on soundcheck across Bristol, Cologne, Edinburgh and Frankfurt and 7 more. Often billed alongside Diagnostix, A Little Sound and Duskee. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ OKO is a drum & bass and jungle artist based in United Kingdom, with 20 gigs on 
 
 ## Shares bills with
 
-Diagnostix, Duskee, A Little Sound
+Diagnostix, A Little Sound, Duskee
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oko-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oko-1/)*

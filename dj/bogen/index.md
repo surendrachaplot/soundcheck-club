@@ -1,6 +1,6 @@
 # Bøgen
 
-Bøgen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 27 Nov 2026.
+Bøgen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 27 Nov 2026.
 
 Bøgen is a techno and house artist based in Chile, with 48 gigs on soundcheck across Amsterdam, Berlin, Ljubljana and Prague and 1 more. Often billed alongside Vlad Yaki, Hugorieri and Stefan Muchte. Next up: Der Weiße Hase, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Bøgen is a techno and house artist based in Chile, with 48 gigs on soundcheck a
 
 Vlad Yaki, Hugorieri, Stefan Muchte
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bogen/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bogen/)*

@@ -1,6 +1,6 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "THE OTHER SIDE Of Club 27" on Fri, 6 Nov 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "THE OTHER SIDE Of Club 27" on Fri, 6 Nov 2026.
 
 THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Absoluut, ACID FLORA, Animal Trainer and Bass Btch and 2 more. See dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
@@ -20,4 +20,4 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 7 upcoming gi
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

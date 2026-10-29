@@ -1,6 +1,6 @@
 # Dustvoxx
 
-Dustvoxx is a Psytrance and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
+Dustvoxx is a Psytrance and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
 Dustvoxx is a psytrance and techno artist based in Japan, with 24 gigs on soundcheck across Kanto, Osaka and Tokyo. Often billed alongside Rickshinmi, CHIKA and Coretex. Next up: TBA - Kinone Pension, Kanto on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Dustvoxx is a psytrance and techno artist based in Japan, with 24 gigs on soundc
 
 Rickshinmi, CHIKA, Coretex
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustvoxx/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustvoxx/)*

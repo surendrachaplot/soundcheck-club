@@ -1,6 +1,6 @@
 # Bibi
 
-Bibi is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at K39, Frankfurt on Fri, 30 Oct 2026.
+Bibi is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at K39, Frankfurt on Fri, 30 Oct 2026.
 
 Bibi is a techno and ambient artist based in Spain, with 8 gigs on soundcheck across Barcelona, Cologne, Frankfurt and London and 2 more. Often billed alongside BabaBass3000, Bouncy Bitch and Christian AB. Next up: K39, Frankfurt on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Bibi is a techno and ambient artist based in Spain, with 8 gigs on soundcheck ac
 
 BabaBass3000, Bouncy Bitch, Christian AB
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibi/)*

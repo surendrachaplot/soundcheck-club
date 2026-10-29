@@ -1,6 +1,6 @@
 # Hemi
 
-Hemi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 30 Oct 2026.
+Hemi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 30 Oct 2026.
 
 Hemi is a house and techno artist based in Turkey, with 25 gigs on soundcheck across Amsterdam, Athens, Berlin and Istanbul and 1 more. Often billed alongside Johannes Albert, Kantel and Orkun Bozdemir. Next up: Klein Phönix, Istanbul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Hemi is a house and techno artist based in Turkey, with 25 gigs on soundcheck ac
 
 Johannes Albert, Kantel, Orkun Bozdemir
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemi-tk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemi-tk/)*

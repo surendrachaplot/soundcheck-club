@@ -1,0 +1,28 @@
+# SERENE
+
+SERENE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+
+SERENE is a house and techno artist based in Spain, with 9 gigs on soundcheck across Berlin, New York City, Seoul and Vienna. Often billed alongside Leon Licht, Neco and A.D.H.S.. Next up: Golden Gate, Berlin on Thu 19 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 19 Nov 2026 | Golden Gate | Berlin |
+
+## Recently played
+
+- Kater, Berlin · Sat, 18 Jul 2026
+- Golden Gate, Berlin · Thu, 16 Jul 2026
+- Golden Gate, Berlin · Sat, 9 May 2026
+- Klunkerkranich, Berlin · Fri, 8 May 2026
+- TBA, Berlin · Sat, 28 Feb 2026
+- Lovehaus, Seoul · Thu, 25 Sept 2025
+- Harriet's Rooftop, New York City · Sat, 9 Aug 2025
+- SASS Music Club, Vienna · Sat, 26 Jul 2025
+
+## Shares bills with
+
+Leon Licht, Neco, A.D.H.S.
+
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serene/)*

@@ -1,6 +1,6 @@
 # Champion
 
-Champion is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Champion is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Champion is a garage and bass artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brighton and 17 more. Often billed alongside Oppidan, Bakey and MPH. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Champion is a garage and bass artist based in United Kingdom, with 51 gigs on so
 
 Oppidan, Bakey, MPH (1)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*

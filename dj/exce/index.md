@@ -1,6 +1,6 @@
 # EXCE
 
-EXCE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
+EXCE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
 
 EXCE is a house and techno artist based in Poland, with 15 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Kuvau, Konca and Angelo Mike. Next up: Luzztro, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ EXCE is a house and techno artist based in Poland, with 15 gigs on soundcheck ac
 
 Kuvau, Konca, Angelo Mike
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exce/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/exce/)*

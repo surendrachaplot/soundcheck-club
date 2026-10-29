@@ -1,6 +1,6 @@
 # Captain Pastek
 
-Captain Pastek is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at [119], Berlin on Fri, 30 Oct 2026.
+Captain Pastek is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at [119], Berlin on Fri, 30 Oct 2026.
 
 Captain Pastek is a techno and psytrance artist based in France, with 16 gigs on soundcheck across Basel, Berlin, Chengdu and Copenhagen and 5 more. Often billed alongside Ash Roy, Bazeja and Diana May. Next up: [119], Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Captain Pastek is a techno and psytrance artist based in France, with 16 gigs on
 
 Ash Roy, Bazeja, Diana May
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainpastek/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainpastek/)*

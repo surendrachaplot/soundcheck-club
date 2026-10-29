@@ -1,6 +1,6 @@
 # Hunny
 
-Hunny is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club FF, Seoul on Thu, 29 Oct 2026.
+Hunny is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club FF, Seoul on Thu, 29 Oct 2026.
 
 Hunny is a techno and deep house artist, with 7 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Minehero, BEATTEKNIKS and Ciakam. Next up: Club FF, Seoul on Thu 29 Oct.
 
@@ -23,4 +23,4 @@ Hunny is a techno and deep house artist, with 7 gigs on soundcheck across Seoul 
 
 Minehero, BEATTEKNIKS, Ciakam
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hunny/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hunny/)*

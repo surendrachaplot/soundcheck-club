@@ -1,6 +1,6 @@
 # POLSCHI (2)
 
-POLSCHI (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fitzroy, Berlin on Sat, 5 Dec 2026.
+POLSCHI (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fitzroy, Berlin on Sat, 5 Dec 2026.
 
 POLSCHI is a house and tech house artist based in Germany, with 13 gigs on soundcheck across Berlin, Cologne and Düsseldorf. Often billed alongside Lingy, Vasile and Mike Starr. Next up: Fitzroy, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ POLSCHI is a house and tech house artist based in Germany, with 13 gigs on sound
 
 Lingy, Vasile, Mike Starr
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polschi-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polschi-2/)*

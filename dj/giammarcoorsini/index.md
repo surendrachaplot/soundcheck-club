@@ -1,6 +1,6 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Starlane São Paulo, Sao Paulo on Thu, 29 Oct 2026.
+Giammarco Orsini is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Starlane São Paulo, Sao Paulo on Thu, 29 Oct 2026.
 
 Giammarco Orsini is a house and techno artist based in Italy, with 187 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 45 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: Starlane São Paulo, Sao Paulo on Thu 29 Oct.
 
@@ -29,4 +29,4 @@ Giammarco Orsini is a house and techno artist based in Italy, with 187 gigs on s
 
 PARAMIDA, Marcolino, Anthea
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

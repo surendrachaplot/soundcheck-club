@@ -1,6 +1,6 @@
 # Flux
 
-Flux is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "VOXX TRANCE:MISSION HALLOWEEN" on Sat, 31 Oct 2026.
+Flux is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "VOXX TRANCE:MISSION HALLOWEEN" on Sat, 31 Oct 2026.
 
 Flux is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with line-ups including ALPER, Emin Vardar, Estella Boersma and KLAEZCH and 2 more. See dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
 
@@ -17,4 +17,4 @@ Flux is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with li
 
 Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396, Istanbul
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*

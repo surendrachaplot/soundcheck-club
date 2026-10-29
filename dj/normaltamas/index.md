@@ -1,6 +1,6 @@
 # Normál Tamás
 
-Normál Tamás is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Pók Büfé, Budapest on Fri, 6 Nov 2026.
+Normál Tamás is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pók Büfé, Budapest on Fri, 6 Nov 2026.
 
 Normál Tamás is a techno and experimental artist based in Hungary, with 11 gigs on soundcheck across Budapest. Often billed alongside obwigszyh, Adam Krasz and AGA2L. Next up: Pók Büfé, Budapest on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Normál Tamás is a techno and experimental artist based in Hungary, with 11 gig
 
 obwigszyh, Adam Krasz, AGA2L
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/normaltamas/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/normaltamas/)*

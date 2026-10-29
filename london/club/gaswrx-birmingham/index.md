@@ -1,6 +1,6 @@
 # Gaswrx Birmingham
 
-Gaswrx Birmingham is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Halloween Special // DJ EZ // Notion // Girls Don't Sync // Yung Singh // Saint Ludo, SKALAH" on Sat, 31 Oct 2026.
+Gaswrx Birmingham is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween Special // DJ EZ // Notion // Girls Don't Sync // Yung Singh // Saint Ludo, SKALAH" on Sat, 31 Oct 2026.
 
 Gaswrx Birmingham is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including DJ EZ, Girls Don't Sync, Notion and Saint Ludo and 2 more. See dates, start times and who's playing. 50 Adderley Street, Digbeth, Birmingham, B9 4ED.
 
@@ -15,4 +15,4 @@ Gaswrx Birmingham is a music venue in London listed on soundcheck. 2 upcoming gi
 
 50 Adderley Street, Digbeth, Birmingham, B9 4ED, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaswrx-birmingham/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaswrx-birmingham/)*

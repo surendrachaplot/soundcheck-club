@@ -1,6 +1,6 @@
 # Robyn Sin Love
 
-Robyn Sin Love is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at MAD Club Live, Miami on Sat, 21 Nov 2026.
+Robyn Sin Love is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at MAD Club Live, Miami on Sat, 21 Nov 2026.
 
 Robyn Sin Love is a techno and house artist based in United States of America, with 43 gigs on soundcheck across Chicago, Los Angeles and Miami. Often billed alongside Ultrathem, ALEJO (US) and SATURNSARii. Next up: MAD Club Live, Miami on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Robyn Sin Love is a techno and house artist based in United States of America, w
 
 Ultrathem, ALEJO (US), SATURNSARii
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robynsinnlove/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robynsinnlove/)*

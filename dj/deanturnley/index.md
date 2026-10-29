@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Brooklyn Storehouse, New-york-city on Sun, 1 Nov 2026.
+Dean Turnley is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Brooklyn Storehouse, New-york-city on Sun, 1 Nov 2026.
 
 Dean Turnley is a house and tech house artist based in Australia, with 34 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Belfast and 26 more. Often billed alongside Hamdi, Jamback and MPH. Next up: Brooklyn Storehouse, New York City on Sun 1 Nov.
 
@@ -33,4 +33,4 @@ Dean Turnley is a house and tech house artist based in Australia, with 34 gigs o
 
 Hamdi, Jamback, MPH (1)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

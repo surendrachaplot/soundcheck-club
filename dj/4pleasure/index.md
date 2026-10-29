@@ -1,6 +1,6 @@
 # 4Pleasure
 
-4Pleasure is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 20 Nov 2026.
+4Pleasure is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Starlane Pizza Bar, London on Fri, 20 Nov 2026.
 
 4Pleasure is a tech house and house artist based in Spain, with 33 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Angel Sani, Ion Pananides and Alvaro Medina. Next up: Starlane Pizza Bar, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@
 
 Angel Sani, Ion Pananides, Alvaro Medina
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4pleasure/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4pleasure/)*

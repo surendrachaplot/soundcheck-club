@@ -1,6 +1,6 @@
 # Gouzz
 
-Gouzz is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Barrio Cafe, Brussels on Sat, 31 Oct 2026.
+Gouzz is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Barrio Cafe, Brussels on Sat, 31 Oct 2026.
 
 Gouzz is a techno and hardcore artist based in Belgium, with 8 gigs on soundcheck across Amsterdam, Brussels, Ghent and Luxembourg and 1 more. Often billed alongside Kingsmo, Ce$ar and Dizo. Next up: Barrio Cafe, Brussels on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Gouzz is a techno and hardcore artist based in Belgium, with 8 gigs on soundchec
 
 Kingsmo, Ce$ar, Dizo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gouzz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gouzz/)*

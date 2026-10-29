@@ -1,6 +1,6 @@
 # Sky Society
 
-Sky Society is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Moondog Hifi, New York City on Sat, 31 Oct 2026.
+Sky Society is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Moondog Hifi, New York City on Sat, 31 Oct 2026.
 
 Sky Society is a house and funk / soul artist based in United States of America, with 28 gigs on soundcheck across Atlanta, Denver, Hong Kong and Los Angeles and 5 more. Often billed alongside Skeme Richards, Chez Damier and Crab. Next up: Moondog Hifi, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sky Society is a house and funk / soul artist based in United States of America,
 
 Skeme Richards, Chez Damier, Crab
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skysociety/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skysociety/)*

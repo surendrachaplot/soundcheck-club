@@ -1,6 +1,6 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Palais, London on Sat, 14 Nov 2026.
+Bradley Zero is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palais, London on Sat, 14 Nov 2026.
 
 Bradley Zero is a house and techno artist based in United Kingdom, with 231 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 61 more. Often billed alongside MLE (UK), Moxie and Sally C. Next up: Palais, London on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ Bradley Zero is a house and techno artist based in United Kingdom, with 231 gigs
 
 MLE (UK), Moxie, Sally C
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

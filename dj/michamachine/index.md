@@ -1,6 +1,6 @@
 # Micha Machine
 
-Micha Machine is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
+Micha Machine is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
 
 Micha Machine is a techno and electro artist based in Colombia, with 14 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Zemög, Aksamit and Alfi. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Micha Machine is a techno and electro artist based in Colombia, with 14 gigs on 
 
 Zemög, Aksamit, Alfi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michamachine/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michamachine/)*

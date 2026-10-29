@@ -1,6 +1,6 @@
 # Trol2000
 
-Trol2000 is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Collect LX Factory, Lisbon on Fri, 13 Nov 2026.
+Trol2000 is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Collect LX Factory, Lisbon on Fri, 13 Nov 2026.
 
 Trol2000 is a house and disco artist based in Portugal, with 43 gigs on soundcheck across Berlin and Lisbon. Often billed alongside Mário Valente, CVLT and Godi Osegueda. Next up: Collect LX Factory, Lisbon on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Trol2000 is a house and disco artist based in Portugal, with 43 gigs on soundche
 
 Mário Valente, CVLT, Godi Osegueda
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trol2000/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trol2000/)*

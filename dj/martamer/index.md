@@ -1,6 +1,6 @@
 # Marta Mer
 
-Marta Mer is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 20 Nov 2026.
+Marta Mer is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 20 Nov 2026.
 
 Marta Mer is a techno and electronica artist based in Spain, with 36 gigs on soundcheck across Barcelona, Berlin, Brussels and Madrid and 2 more. Often billed alongside Ale Hope, ONA (SP) and Isa Enes. Next up: Razzmatazz, Barcelona on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Marta Mer is a techno and electronica artist based in Spain, with 36 gigs on sou
 
 Ale Hope, ONA (SP), Isa Enes
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martamer/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martamer/)*

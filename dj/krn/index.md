@@ -1,6 +1,6 @@
 # KRN
 
-KRN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Carpet Shop, London on Fri, 1 Jan 2027.
+KRN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Carpet Shop, London on Fri, 1 Jan 2027.
 
 KRN is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside The Ghost, Sugar Free and DJ Pipe. Next up: The Carpet Shop, London on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ KRN is a house and techno artist based in United Kingdom, with 56 gigs on soundc
 
 The Ghost, Sugar Free, DJ Pipe
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*

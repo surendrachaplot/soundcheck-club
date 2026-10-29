@@ -1,6 +1,6 @@
 # TH;EN
 
-TH;EN is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+TH;EN is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 TH;EN is a techno and progressive house artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 16 more. Often billed alongside Diode Eins, Alchemiah and AVANT. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ TH;EN is a techno and progressive house artist based in Germany, with 39 gigs on
 
 Diode Eins, Alchemiah, AVANT
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/then/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/then/)*

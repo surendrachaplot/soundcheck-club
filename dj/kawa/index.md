@@ -1,6 +1,6 @@
 # KAWA
 
-KAWA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Zvon, Prague on Sat, 31 Oct 2026.
+KAWA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar Zvon, Prague on Sat, 31 Oct 2026.
 
 KAWA is a house and tech house artist based in Czech Republic, with 34 gigs on soundcheck across Paris, Prague and Tokyo. Often billed alongside Sam Gittis, Diva and S.N.R.I.. Next up: Bar Zvon, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ KAWA is a house and tech house artist based in Czech Republic, with 34 gigs on s
 
 Sam Gittis, Diva, S.N.R.I.
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kawa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kawa/)*

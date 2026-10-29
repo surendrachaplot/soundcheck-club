@@ -1,14 +1,15 @@
 # Dave Huismans
 
-Dave Huismans is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 7 Nov 2026.
+Dave Huismans is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 7 Nov 2026.
 
-Dave Huismans is a techno and house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 9 more. Often billed alongside Nazar, Al Wootton and Azu Tiwaline. Next up: Yamamori Tengu, Dublin on Sat 7 Nov.
+Dave Huismans is a techno and house artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 10 more. Often billed alongside Batu, Mia Koden and Nazar. Next up: Yamamori Tengu, Dublin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Yamamori Tengu | Dublin |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Dave Huismans is a techno and house artist based in Netherlands, with 22 gigs on
 
 ## Shares bills with
 
-Nazar, Al Wootton, Azu Tiwaline
+Batu, Mia Koden, Nazar
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davehuismans/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davehuismans/)*

@@ -1,13 +1,14 @@
 # Sky Rivers
 
-Sky Rivers is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Los Angeles on Fri, 20 Nov 2026.
+Sky Rivers is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Green Room NYC, New York City on Sat, 14 Nov 2026.
 
-Sky Rivers is a house and minimal artist based in United States of America, with 59 gigs on soundcheck across London, Los Angeles, New York City and San Diego and 2 more. Often billed alongside Hazy, Ian Llorens and Highkin'. Next up: TBA, Los Angeles on Fri 20 Nov.
+Sky Rivers is a house and minimal artist based in United States of America, with 60 gigs on soundcheck across London, Los Angeles, New York City and San Diego and 2 more. Often billed alongside Hazy, Ian Llorens and Highkin'. Next up: Green Room NYC, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Green Room NYC | New York City |
 | Fri, 20 Nov 2026 | TBA | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sky Rivers is a house and minimal artist based in United States of America, with
 
 Hazy, Ian Llorens, Highkin'
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skyrivers/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skyrivers/)*

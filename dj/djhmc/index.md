@@ -1,6 +1,6 @@
 # DJ HMC
 
-DJ HMC is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Electric Circus, Adelaide on Sat, 31 Oct 2026.
+DJ HMC is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Electric Circus, Adelaide on Sat, 31 Oct 2026.
 
 DJ HMC is a techno and house artist, with 7 gigs on soundcheck across Adelaide, Auckland and Melbourne. Often billed alongside Late Nite Tuff Guy, Alan Braxe and DJ F16 Falcon. Next up: Electric Circus, Adelaide on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ DJ HMC is a techno and house artist, with 7 gigs on soundcheck across Adelaide, 
 
 Late Nite Tuff Guy, Alan Braxe, DJ F16 Falcon
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhmc/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhmc/)*

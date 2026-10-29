@@ -1,6 +1,6 @@
 # Kiuz
 
-Kiuz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 21 Nov 2026.
+Kiuz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 21 Nov 2026.
 
 Kiuz is a techno and house artist based in Iran, with 61 gigs on soundcheck across Budapest, Paris and Tbilisi. Often billed alongside Arash Ete, CRB and Rovizz. Next up: Palazzo Permanens, Budapest on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Kiuz is a techno and house artist based in Iran, with 61 gigs on soundcheck acro
 
 Arash Ete, CRB, Rovizz
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiuz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiuz/)*

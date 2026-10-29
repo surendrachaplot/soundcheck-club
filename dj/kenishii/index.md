@@ -1,14 +1,15 @@
 # Ken Ishii
 
-Ken Ishii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
+Ken Ishii is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
 
-Ken Ishii is a techno and house artist based in Japan, with 121 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 18 more. Often billed alongside Drunken Kong, Ririko and Risa Taniguchi. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 31 Oct.
+Ken Ishii is a techno and house artist based in Japan, with 122 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 18 more. Often billed alongside Drunken Kong, Risa Taniguchi and Ririko. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Mon, 23 Nov 2026 | or | Tokyo |
 | Thu, 3 Dec 2026 | WOMB | Tokyo |
 | Tue, 29 Dec 2026 | Joule | Osaka |
 
@@ -25,6 +26,6 @@ Ken Ishii is a techno and house artist based in Japan, with 121 gigs on soundche
 
 ## Shares bills with
 
-Drunken Kong, Ririko, Risa Taniguchi
+Drunken Kong, Risa Taniguchi, Ririko
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenishii/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenishii/)*

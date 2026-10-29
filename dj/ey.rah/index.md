@@ -1,6 +1,6 @@
 # Ey.rah
 
-Ey.rah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at essaim, Paris on Fri, 20 Nov 2026.
+Ey.rah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at essaim, Paris on Fri, 20 Nov 2026.
 
 Ey.rah is a techno and house artist, with 51 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 4 more. Often billed alongside Öspiel, OPÄK and Znzl. Next up: essaim, Paris on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ey.rah is a techno and house artist, with 51 gigs on soundcheck across Amsterdam
 
 Öspiel, OPÄK, Znzl
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ey.rah/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ey.rah/)*

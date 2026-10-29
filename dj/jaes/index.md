@@ -1,6 +1,6 @@
 # JaeS
 
-JaeS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Arch 14, London on Fri, 6 Nov 2026.
+JaeS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Arch 14, London on Fri, 6 Nov 2026.
 
 JaeS is a tech house and house artist based in France, with 26 gigs on soundcheck across Cologne, London, Los Angeles and Paris. Often billed alongside Adam Romo, MacToMac and Marcos Loveday. Next up: Arch 14, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ JaeS is a tech house and house artist based in France, with 26 gigs on soundchec
 
 Adam Romo, MacToMac, Marcos Loveday
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaes/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaes/)*

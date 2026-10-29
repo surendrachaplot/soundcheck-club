@@ -1,6 +1,6 @@
 # Kabinett
 
-Kabinett is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
+Kabinett is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
 
 Kabinett is a house and techno artist based in Colombia, with 47 gigs on soundcheck across Barcelona, Berlin, Bogotá and Bucharest and 10 more. Often billed alongside Nuclear Digital Transistor, Juanitablue and Dubnivm. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Kabinett is a house and techno artist based in Colombia, with 47 gigs on soundch
 
 Nuclear Digital Transistor, Juanitablue, Dubnivm
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabinett-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabinett-1/)*

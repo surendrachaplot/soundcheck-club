@@ -1,6 +1,6 @@
 # Nicola Gavino
 
-Nicola Gavino is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Range, Turin on Fri, 30 Oct 2026.
+Nicola Gavino is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Range, Turin on Fri, 30 Oct 2026.
 
 Nicola Gavino is a tech house and house artist, with 103 gigs on soundcheck across Amsterdam, London, Milan and Turin. Often billed alongside YOUniverse, Riverside (IT) and Paul Acquaviva. Next up: The Range, Turin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nicola Gavino is a tech house and house artist, with 103 gigs on soundcheck acro
 
 YOUniverse, Riverside (IT), Paul Acquaviva
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolagavino/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolagavino/)*

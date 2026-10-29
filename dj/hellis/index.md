@@ -1,6 +1,6 @@
 # HELLIS
 
-HELLIS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
+HELLIS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
 
 HELLIS is a techno and industrial artist based in Ukraine, with 7 gigs on soundcheck across Tbilisi, Warsaw and Wroclaw. Often billed alongside M.F.D.A, tuoredis and Aithō. Next up: Transformator, Wroclaw on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ HELLIS is a techno and industrial artist based in Ukraine, with 7 gigs on soundc
 
 M.F.D.A, tuoredis, Aithō
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellis/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellis/)*

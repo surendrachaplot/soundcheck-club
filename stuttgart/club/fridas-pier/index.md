@@ -1,6 +1,6 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 14 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "LOST IN SOUND" on Fri, 30 Oct 2026.
+Fridas Pier is a music venue in Stuttgart with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "LOST IN SOUND" on Fri, 30 Oct 2026.
 
 Fridas Pier is a music venue in Stuttgart listed on soundcheck. 14 upcoming gigs, with line-ups including Bjørnson, Danilo Filipe, Dejago and Domenic D'Agnelli and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 14 upcoming gigs
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

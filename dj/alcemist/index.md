@@ -1,6 +1,6 @@
 # Alcemist
 
-Alcemist is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Nottingham Secret Garden, Nottingham on Sat, 7 Nov 2026.
+Alcemist is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Nottingham Secret Garden, Nottingham on Sat, 7 Nov 2026.
 
 Alcemist is a drum & bass and bass artist based in United Kingdom, with 56 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 22 more. Often billed alongside K Motionz, Disrupta and Hedex. Next up: Nottingham Secret Garden, Nottingham on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Alcemist is a drum & bass and bass artist based in United Kingdom, with 56 gigs 
 
 K Motionz, Disrupta, Hedex
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alcemist/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alcemist/)*

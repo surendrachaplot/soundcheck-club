@@ -1,6 +1,6 @@
 # DJ Python
 
-DJ Python is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+DJ Python is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 DJ Python is a techno and house artist based in United States of America, with 192 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 48 more. Often billed alongside Nick León, Ana Roxanne and VTSS. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ DJ Python is a techno and house artist based in United States of America, with 1
 
 Nick León, Ana Roxanne, VTSS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*

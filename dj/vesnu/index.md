@@ -1,6 +1,6 @@
 # Vesnu
 
-Vesnu is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Šafko Klub, Bratislava on Fri, 30 Oct 2026.
+Vesnu is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Šafko Klub, Bratislava on Fri, 30 Oct 2026.
 
 Vesnu is a house and pop artist, with 20 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside AantiGen, BALI G and Coco. Next up: Šafko Klub, Bratislava on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vesnu is a house and pop artist, with 20 gigs on soundcheck across Berlin, Brati
 
 AantiGen, BALI G, Coco
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vesnu/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vesnu/)*

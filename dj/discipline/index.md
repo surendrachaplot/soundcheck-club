@@ -1,6 +1,6 @@
 # DISCIPLINE
 
-DISCIPLINE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Abyss Shanghai, Shanghai on Sat, 31 Oct 2026.
+DISCIPLINE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Abyss Shanghai, Shanghai on Sat, 31 Oct 2026.
 
 DISCIPLINE is a techno and hardcore artist, with 57 gigs on soundcheck across Bangkok, Beijing, Chongqing and Hong Kong and 3 more. Often billed alongside PRYMARA, DJ GOGA and DJ EBP. Next up: Abyss Shanghai, Shanghai on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DISCIPLINE is a techno and hardcore artist, with 57 gigs on soundcheck across Ba
 
 PRYMARA, DJ GOGA, DJ EBP
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discipline/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discipline/)*

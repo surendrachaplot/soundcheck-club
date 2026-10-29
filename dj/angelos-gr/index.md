@@ -1,6 +1,6 @@
 # Angelos
 
-Angelos is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mott 32, Hong Kong on Sat, 31 Oct 2026.
+Angelos is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mott 32, Hong Kong on Sat, 31 Oct 2026.
 
 Angelos is an afro house and house artist based in Greece, with 37 gigs on soundcheck across Athens, Berlin, Brussels and Dubai and 16 more. Often billed alongside Black Coffee, Damian Lazarus and Henrik Schwarz. Next up: Mott 32, Hong Kong on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Angelos is an afro house and house artist based in Greece, with 37 gigs on sound
 
 Black Coffee, Damian Lazarus, Henrik Schwarz
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelos-gr/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelos-gr/)*

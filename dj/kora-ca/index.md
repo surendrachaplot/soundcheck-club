@@ -1,6 +1,6 @@
 # Kora (CA)
 
-Kora (CA) is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Kora (CA) is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 Kora (CA) is a deep house and house artist based in Canada, with 58 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 15 more. Often billed alongside Dexter Crowe, Madota and Atish. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Kora (CA) is a deep house and house artist based in Canada, with 58 gigs on soun
 
 Dexter Crowe, Madota, Atish
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kora-ca/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kora-ca/)*

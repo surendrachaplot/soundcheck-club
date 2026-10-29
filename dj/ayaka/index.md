@@ -1,14 +1,14 @@
 # ayaka
 
-ayaka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at clubasia, Tokyo on Sat, 28 Nov 2026.
+ayaka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at club asia, Tokyo on Sat, 28 Nov 2026.
 
-ayaka is a techno and house artist based in Japan, with 100 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside FLEDtokyo, Neon Noir and Crazy Neo. Next up: clubasia, Tokyo on Sat 28 Nov.
+ayaka is a techno and house artist based in Japan, with 100 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside FLEDtokyo, Neon Noir and Crazy Neo. Next up: club asia, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | clubasia | Tokyo |
+| Sat, 28 Nov 2026 | club asia | Tokyo |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ ayaka is a techno and house artist based in Japan, with 100 gigs on soundcheck a
 
 FLEDtokyo, Neon Noir, Crazy Neo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayaka/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayaka/)*

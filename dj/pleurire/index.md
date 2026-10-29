@@ -1,6 +1,6 @@
 # Pleurire
 
-Pleurire is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Entre Nous, Montreal on Fri, 13 Nov 2026.
+Pleurire is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Entre Nous, Montreal on Fri, 13 Nov 2026.
 
 Pleurire is a techno and bass artist based in Canada, with 32 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Wencat, Kiviv and coldchainlogistics. Next up: Entre Nous, Montreal on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Pleurire is a techno and bass artist based in Canada, with 32 gigs on soundcheck
 
 Wencat, Kiviv, coldchainlogistics
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pleurire/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pleurire/)*

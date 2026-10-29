@@ -1,8 +1,8 @@
 # KLING&KLANG
 
-KLING&KLANG is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 5 Dec 2026.
+KLING&KLANG is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 5 Dec 2026.
 
-KLING&KLANG is a trance and techno artist based in Germany, with 169 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 15 more. Often billed alongside Amøn, DJ Henk and Paraçek. Next up: Lokschuppen Berlin, Berlin on Sat 5 Dec.
+KLING&KLANG is a trance and techno artist based in Germany, with 170 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 15 more. Often billed alongside Amøn, DJ Henk and Paraçek. Next up: Lokschuppen Berlin, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KLING&KLANG is a trance and techno artist based in Germany, with 169 gigs on sou
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Dec 2026 | ://about blank | Berlin |
+| Sat, 30 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ KLING&KLANG is a trance and techno artist based in Germany, with 169 gigs on sou
 
 Amøn, DJ Henk, Paraçek
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klingklang/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klingklang/)*

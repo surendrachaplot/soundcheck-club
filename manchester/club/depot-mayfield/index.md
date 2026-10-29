@@ -1,6 +1,6 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Overmono presents Pure Devotion - World Tour, Manchester" on Fri, 30 Oct 2026.
+Depot Mayfield is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Overmono presents Pure Devotion - World Tour, Manchester" on Fri, 30 Oct 2026.
 
 Depot Mayfield is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Spinelli, 2FEL, 2ManyDJs and 4000 Hz and 2 more. See dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
@@ -23,4 +23,4 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 15 upcoming 
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

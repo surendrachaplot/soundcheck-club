@@ -1,10 +1,10 @@
 # Libera NYE 2027 at Ace Hotel
 
-Libera NYE 2027 at Ace Hotel on Sat 31 Oct, New York City. Techno and House. See the line-up on soundcheck.
+Libera NYE 2027 at Ace Hotel on Thu 31 Dec, New York City. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 31 Oct 2026 |
+| Date | Thu, 31 Dec 2026 |
 | Venue | Ace Hotel |
 | City | New York City |
 

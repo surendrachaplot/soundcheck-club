@@ -1,6 +1,6 @@
 # RUBBLE // Shahrazadi, Ot Pascoe at People's Leisure Club
 
-RUBBLE // Shahrazadi, Ot Pascoe at People's Leisure Club on Tue 3 Nov, Edinburgh. 2 artists: Otis Worming and Shahrazadi. Dub and Baile Funk. See the line-up on soundcheck.
+RUBBLE // Shahrazadi, Ot Pascoe at People's Leisure Club on Tue 3 Nov, Edinburgh. 2 artists: Otis Worming and Shahrazadi. Baile Funk and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Char.l.n
 
-Char.l.n is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Mile-Ex, Montreal on Sun, 1 Nov 2026.
+Char.l.n is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Mile-Ex, Montreal on Sun, 1 Nov 2026.
 
 Char.l.n is a techno and house artist based in Canada, with 25 gigs on soundcheck across Montreal. Often billed alongside ALEX REV, Special K (CA) and Xaviera. Next up: TBA - Mile-Ex, Montreal on Sun 1 Nov.
 
@@ -27,4 +27,4 @@ Char.l.n is a techno and house artist based in Canada, with 25 gigs on soundchec
 
 ALEX REV, Special K (CA), Xaviera
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/char.l.n/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/char.l.n/)*

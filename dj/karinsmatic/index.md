@@ -1,6 +1,6 @@
 # KARINSMATIC
 
-KARINSMATIC is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
+KARINSMATIC is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Romania on Fri, 18 Jun 2027.
 
 KARINSMATIC is a progressive house and techno artist based in Estonia, with 26 gigs on soundcheck across Amsterdam, Romania and Tallinn. Often billed alongside Ken Dark, Unknown Horizon and Amethy. Next up: TBA, Romania on Fri 18 Jun.
 
@@ -25,4 +25,4 @@ KARINSMATIC is a progressive house and techno artist based in Estonia, with 26 g
 
 Ken Dark, Unknown Horizon, Amethy
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karinsmatic/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karinsmatic/)*

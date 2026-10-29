@@ -1,6 +1,6 @@
 # Amir Alexander
 
-Amir Alexander is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at public records, New York City on Sat, 28 Nov 2026.
+Amir Alexander is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at public records, New York City on Sat, 28 Nov 2026.
 
 Amir Alexander is a minimal and house artist based in United States of America, with 7 gigs on soundcheck across Amsterdam, Berlin, Ghent and New York City and 1 more. Often billed alongside Edward, Gizem Öz and Konstantin. Next up: public records, New York City on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Amir Alexander is a minimal and house artist based in United States of America, 
 
 Edward, Gizem Öz, Konstantin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amiralexander/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amiralexander/)*

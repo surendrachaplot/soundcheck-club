@@ -1,6 +1,6 @@
 # Balearic Banana
 
-Balearic Banana is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Holešovická Tržnice, Prague on Fri, 13 Nov 2026.
+Balearic Banana is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Holešovická Tržnice, Prague on Fri, 13 Nov 2026.
 
 Balearic Banana is a house and balearic artist, with 35 gigs on soundcheck across Berlin, Paris, Prague and Rio de Janeiro and 3 more. Often billed alongside Gop Tun DJs, Martha Pinel and Alicia Carrera. Next up: Holešovická Tržnice, Prague on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Balearic Banana is a house and balearic artist, with 35 gigs on soundcheck acros
 
 Gop Tun DJs, Martha Pinel, Alicia Carrera
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balearicbanana/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balearicbanana/)*

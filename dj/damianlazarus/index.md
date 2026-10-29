@@ -1,6 +1,6 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Future Nightlife, Toronto on Fri, 30 Oct 2026.
+Damian Lazarus is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Future Nightlife, Toronto on Fri, 30 Oct 2026.
 
 Damian Lazarus is a house and techno artist based in United Kingdom, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Black Coffee, Paul Reynolds and Airrica. Next up: Future Nightlife, Toronto on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Damian Lazarus is a house and techno artist based in United Kingdom, with 225 gi
 
 Black Coffee, Paul Reynolds, Airrica
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

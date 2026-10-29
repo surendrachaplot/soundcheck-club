@@ -1,6 +1,6 @@
 # Max Parkinson
 
-Max Parkinson is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 30 Oct 2026.
+Max Parkinson is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 30 Oct 2026.
 
 Max Parkinson is a bass and house artist based in United States of America, with 18 gigs on soundcheck across New York City. Often billed alongside Tone Troy, oomfhaver and AG (NYC). Next up: MAD Radio NYC, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Max Parkinson is a bass and house artist based in United States of America, with
 
 Tone Troy, oomfhaver, AG (NYC)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxparkinson/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxparkinson/)*

@@ -1,6 +1,6 @@
 # Carlo Martino
 
-Carlo Martino is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Duel Club, Naples on Sat, 31 Oct 2026.
+Carlo Martino is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Duel Club, Naples on Sat, 31 Oct 2026.
 
 Carlo Martino is a house and tech house artist, with 47 gigs on soundcheck across Madrid, Milan, Naples and Rome. Often billed alongside VNP, Gabriele Russo and Joshua (IT). Next up: Duel Club, Naples on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Carlo Martino is a house and tech house artist, with 47 gigs on soundcheck acros
 
 VNP, Gabriele Russo, Joshua (IT)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlomartino/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlomartino/)*

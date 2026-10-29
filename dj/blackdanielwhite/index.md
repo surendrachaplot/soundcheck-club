@@ -1,6 +1,6 @@
 # BlackDanielWhite
 
-BlackDanielWhite is a R&B and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mood Ring, New York City on Wed, 9 Dec 2026.
+BlackDanielWhite is a R&B and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mood Ring, New York City on Wed, 9 Dec 2026.
 
 BlackDanielWhite is a r&b and hip-hop artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside DJ Fat Frog, Fefe and Kweku. Next up: Mood Ring, New York City on Wed 9 Dec.
 
@@ -24,4 +24,4 @@ BlackDanielWhite is a r&b and hip-hop artist based in United States of America, 
 
 DJ Fat Frog, Fefe, Kweku
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdanielwhite/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdanielwhite/)*

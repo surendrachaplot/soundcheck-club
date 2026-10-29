@@ -1,6 +1,6 @@
 # ZIGGY ZAYA
 
-ZIGGY ZAYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Biltmore Cabaret, Vancouver on Thu, 17 Dec 2026.
+ZIGGY ZAYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Biltmore Cabaret, Vancouver on Thu, 17 Dec 2026.
 
 ZIGGY ZAYA is a techno and house artist based in Canada, with 29 gigs on soundcheck across Portland, Toronto and Vancouver. Often billed alongside Fisher Bryce, AVRY and PM. Next up: Biltmore Cabaret, Vancouver on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ ZIGGY ZAYA is a techno and house artist based in Canada, with 29 gigs on soundch
 
 Fisher Bryce, AVRY, PM
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggyzaya/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggyzaya/)*

@@ -1,6 +1,6 @@
 # El Buho
 
-El Buho is a Electronica and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Jazz Cafe, London on Fri, 27 Nov 2026.
+El Buho is a Electronica and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Jazz Cafe, London on Fri, 27 Nov 2026.
 
 El Buho is an electronica and latin bass artist based in Spain, with 17 gigs on soundcheck across Barcelona, Berlin, Budapest and Edinburgh and 5 more. Often billed alongside Nickodemus, Amuleto Manuela and Artifex (DE). Next up: The Jazz Cafe, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ El Buho is an electronica and latin bass artist based in Spain, with 17 gigs on 
 
 Nickodemus, Amuleto Manuela, Artifex (DE)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elbuho/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elbuho/)*

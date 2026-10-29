@@ -1,6 +1,6 @@
 # Vangoth666
 
-Vangoth666 is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - HOST - The Queer Space for the Brave, Singapore on Sun, 8 Nov 2026.
+Vangoth666 is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - HOST - The Queer Space for the Brave, Singapore on Sun, 8 Nov 2026.
 
 Vangoth666 is a club and experimental artist, with 12 gigs on soundcheck across Berlin, Glasgow, Ho Chi Minh City and London and 1 more. Often billed alongside GODKORINE, S280F and Ship Sket. Next up: TBA - HOST - The Queer Space for the Brave, Singapore on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Vangoth666 is a club and experimental artist, with 12 gigs on soundcheck across 
 
 GODKORINE, S280F, Ship Sket
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vangoth666/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vangoth666/)*

@@ -1,6 +1,6 @@
 # Chris Beulich
 
-Chris Beulich is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Silbergold, Frankfurt on Fri, 30 Oct 2026.
+Chris Beulich is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Silbergold, Frankfurt on Fri, 30 Oct 2026.
 
 Chris Beulich is a house and tech house artist based in Germany, with 64 gigs on soundcheck across Berlin, Frankfurt, Hamburg and London and 1 more. Often billed alongside Boutiq.808, Chris Wood and Max Reggiannini. Next up: Silbergold, Frankfurt on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Chris Beulich is a house and tech house artist based in Germany, with 64 gigs on
 
 Boutiq.808, Chris Wood, Max Reggiannini
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbeulich/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbeulich/)*

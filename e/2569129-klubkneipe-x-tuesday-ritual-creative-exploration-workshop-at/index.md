@@ -1,6 +1,6 @@
 # Klubkneipe x Tuesday Ritual - Creative Exploration Workshop at Prisma
 
-Klubkneipe x Tuesday Ritual - Creative Exploration Workshop at Prisma on Tue 17 Nov, Berlin. 2 artists: Domovnika and peak2soon. Techno and House. See the line-up on soundcheck.
+Klubkneipe x Tuesday Ritual - Creative Exploration Workshop at Prisma on Tue 17 Nov, Berlin. 3 artists: Domovnika, Lars Löffler and peak2soon. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Klubkneipe x Tuesday Ritual - Creative Exploration Workshop at Prisma on Tue 17 
 ## Line-up
 
 - Domovnika
+- Lars Löffler
 - peak2soon
 
 *Source: [soundcheck](https://soundcheck.club/e/2569129-klubkneipe-x-tuesday-ritual-creative-exploration-workshop-at/)*

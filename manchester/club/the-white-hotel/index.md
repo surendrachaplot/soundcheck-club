@@ -1,6 +1,6 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 39 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Nathan Fake (Live)" on Thu, 29 Oct 2026.
+The White Hotel is a music venue in Manchester with 39 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Nathan Fake (Live)" on Thu, 29 Oct 2026.
 
 The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Ana Roxanne and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

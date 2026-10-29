@@ -1,6 +1,6 @@
 # Rosax
 
-Rosax is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at New Guernica, Melbourne on Thu, 29 Oct 2026.
+Rosax is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at New Guernica, Melbourne on Thu, 29 Oct 2026.
 
 Rosax is a techno and house artist based in Australia, with 10 gigs on soundcheck across Melbourne. Often billed alongside HAUSWiFE, Joey Coco and Mitch Tonta. Next up: New Guernica, Melbourne on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Rosax is a techno and house artist based in Australia, with 10 gigs on soundchec
 
 HAUSWiFE, Joey Coco, Mitch Tonta
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosax/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosax/)*

@@ -1,6 +1,6 @@
 # Electric Studios
 
-Electric Studios is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Danza x Sunken presents Jamie Fielding" on Fri, 30 Oct 2026.
+Electric Studios is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Danza x Sunken presents Jamie Fielding" on Fri, 30 Oct 2026.
 
 Electric Studios is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, with line-ups including Big Ang, Channel One Sound, Chicane and Dan Shake and 2 more. See dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
 
@@ -21,4 +21,4 @@ Electric Studios is a music venue in Sheffield listed on soundcheck. 8 upcoming 
 
 6 Leadmill Road, Sheffield, S1 4SE, Sheffield
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*

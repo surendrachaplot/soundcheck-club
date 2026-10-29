@@ -1,13 +1,14 @@
 # Pye Corner Audio
 
-Pye Corner Audio is a Ambient and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The White Hotel, Manchester on Thu, 19 Nov 2026.
+Pye Corner Audio is a Ambient and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Workmans Club, Dublin on Wed, 4 Nov 2026.
 
-Pye Corner Audio is an ambient and electronica artist based in United Kingdom, with 15 gigs on soundcheck across Barcelona, Belfast, Berlin and Bristol and 7 more. Often billed alongside AERAE, ANAHITA and Al Wootton. Next up: The White Hotel, Manchester on Thu 19 Nov.
+Pye Corner Audio is an ambient and electronica artist based in United Kingdom, with 16 gigs on soundcheck across Barcelona, Belfast, Berlin and Bristol and 7 more. Often billed alongside AERAE, ANAHITA and Al Wootton. Next up: The Workmans Club, Dublin on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 4 Nov 2026 | The Workmans Club | Dublin |
 | Thu, 19 Nov 2026 | The White Hotel | Manchester |
 | Fri, 27 Nov 2026 | Vespers Club | London |
 | Sat, 28 Nov 2026 | The Croft | Bristol |
@@ -27,4 +28,4 @@ Pye Corner Audio is an ambient and electronica artist based in United Kingdom, w
 
 AERAE, ANAHITA, Al Wootton
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyecorneraudio/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyecorneraudio/)*

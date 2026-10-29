@@ -1,13 +1,14 @@
 # discjocelyne
 
-discjocelyne is a Post-Punk and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 24 Nov 2026.
+discjocelyne is a Post-Punk and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at West Port Oracle, Edinburgh on Sat, 31 Oct 2026.
 
-discjocelyne is a post-punk and house artist based in United Kingdom, with 39 gigs on soundcheck across Edinburgh. Often billed alongside Ravelston, Lara Sinclair and Otis Worming. Next up: People's Leisure Club, Edinburgh on Tue 24 Nov.
+discjocelyne is a post-punk and house artist based in United Kingdom, with 40 gigs on soundcheck across Edinburgh. Often billed alongside Ravelston, Lara Sinclair and Lietzsche. Next up: West Port Oracle, Edinburgh on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | West Port Oracle | Edinburgh |
 | Tue, 24 Nov 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
@@ -23,6 +24,6 @@ discjocelyne is a post-punk and house artist based in United Kingdom, with 39 gi
 
 ## Shares bills with
 
-Ravelston, Lara Sinclair, Otis Worming
+Ravelston, Lara Sinclair, Lietzsche
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*

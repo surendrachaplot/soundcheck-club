@@ -1,6 +1,6 @@
 # Bassline
 
-Bassline is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Miester presents BACKROOM 001: D-Unity, Miester & Bulat" on Sat, 28 Nov 2026.
+Bassline is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Miester presents BACKROOM 001: D-Unity, Miester & Bulat" on Sat, 28 Nov 2026.
 
 Bassline is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including D-Unity and Miester. See dates, start times and who's playing. 2239 S. Michigan Chicago Illinois 60608 USA.
 
@@ -14,4 +14,4 @@ Bassline is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with 
 
 2239 S. Michigan Chicago Illinois 60608 USA, Chicago
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bassline/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bassline/)*

@@ -1,13 +1,14 @@
 # relajadita
 
-relajadita is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Recinto Ferial de Cáceres, South on Sun, 1 Nov 2026.
+relajadita is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 31 Oct 2026.
 
-relajadita is a techno and trance artist based in Spain, with 35 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Adrian Mills, DVAID and HUMAN ERROR. Next up: Recinto Ferial de Cáceres, South on Sun 1 Nov.
+relajadita is a techno and trance artist based in Spain, with 36 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Adrian Mills, DVAID and HUMAN ERROR. Next up: Studio Club Malaga, Malaga on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Studio Club Malaga | Malaga |
 | Sun, 1 Nov 2026 | Recinto Ferial de Cáceres | South |
 | Thu, 12 Nov 2026 | Sala Cocó | Madrid |
 | Fri, 13 Nov 2026 | TBA | Berlin |
@@ -31,4 +32,4 @@ relajadita is a techno and trance artist based in Spain, with 35 gigs on soundch
 
 Adrian Mills, DVAID, HUMAN ERROR
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*

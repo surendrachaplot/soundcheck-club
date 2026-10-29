@@ -1,8 +1,8 @@
 # radial
 
-radial is a music venue in London with 16 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "grounded w. Yushh x LWS x Delay Grounds" on Fri, 30 Oct 2026.
+radial is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "grounded w. Yushh x LWS x Delay Grounds" on Fri, 30 Oct 2026.
 
-radial is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Seyer (UK), Adam Curtain, ADHDj (UK) and Alien Communications and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Seyer (UK), Adam Curtain, ADHDj (UK) and Alien Communications and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 16 upcoming gigs, with l
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

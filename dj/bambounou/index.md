@@ -1,6 +1,6 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Green Room NYC, New York City on Fri, 30 Oct 2026.
+Bambounou is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Green Room NYC, New York City on Fri, 30 Oct 2026.
 
 Bambounou is a techno and house artist based in France, with 181 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 54 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Green Room NYC, New York City on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Bambounou is a techno and house artist based in France, with 181 gigs on soundch
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

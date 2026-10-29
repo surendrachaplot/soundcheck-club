@@ -1,8 +1,8 @@
 # Asha Franco
 
-Asha Franco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Haven, Byron Bay on Fri, 6 Nov 2026.
+Asha Franco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Haven, Byron Bay on Fri, 6 Nov 2026.
 
-Asha Franco is a house and techno artist, with 31 gigs on soundcheck across Brisbane, Byron Bay and Melbourne. Often billed alongside Zjoso, Castla and Mark Moon. Next up: Haven, Byron Bay on Fri 6 Nov.
+Asha Franco is a house and techno artist based in Australia, with 31 gigs on soundcheck across Brisbane, Byron Bay and Melbourne. Often billed alongside Zjoso, Castla and Mark Moon. Next up: Haven, Byron Bay on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Asha Franco is a house and techno artist, with 31 gigs on soundcheck across Bris
 
 Zjoso, Castla, Mark Moon
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashafranco/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashafranco/)*

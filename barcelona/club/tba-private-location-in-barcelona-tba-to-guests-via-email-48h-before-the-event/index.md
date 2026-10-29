@@ -1,6 +1,6 @@
 # TBA - private location in Barcelona, tba to guests via email 48h before the event
 
-TBA - private location in Barcelona, tba to guests via email 48h before the event is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Sex-Positive Techno Party // Halloween  // 85% sold out" on Fri, 30 Oct 2026.
+TBA - private location in Barcelona, tba to guests via email 48h before the event is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sex-Positive Techno Party // Halloween  // 90% sold out" on Fri, 30 Oct 2026.
 
 TBA - private location in Barcelona, tba to guests via email 48h before the event is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Rowsi. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - private location in Barcelona, tba to guests via email 48h before the even
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Sex-Positive Techno Party // Halloween  // 85% sold out | Rowsi |
+| Fri, 30 Oct 2026 | Sex-Positive Techno Party // Halloween  // 90% sold out | Rowsi |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-private-location-in-barcelona-tba-to-guests-via-email-48h-before-the-event/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-private-location-in-barcelona-tba-to-guests-via-email-48h-before-the-event/)*

@@ -1,6 +1,6 @@
 # Hauke
 
-Hauke is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Locke, Hamburg on Thu, 29 Oct 2026.
+Hauke is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Locke, Hamburg on Thu, 29 Oct 2026.
 
 Hauke is a techno and trance artist, with 10 gigs on soundcheck across Hamburg. Often billed alongside Alina Viktoria, Anne-Lu and Caspar. Next up: Locke, Hamburg on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Hauke is a techno and trance artist, with 10 gigs on soundcheck across Hamburg. 
 
 Alina Viktoria, Anne-Lu, Caspar
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hauke/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hauke/)*

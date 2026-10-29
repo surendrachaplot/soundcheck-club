@@ -1,13 +1,14 @@
 # Méni
 
-Méni is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 7 Nov 2026.
+Méni is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Funke, Ghent on Sat, 31 Oct 2026.
 
-Méni is a house and techno artist, with 42 gigs on soundcheck across Antwerp, Barcelona, Brussels and Ghent and 1 more. Often billed alongside Timmerman, Ben Kamal and Hame. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 7 Nov.
+Méni is a house and techno artist, with 43 gigs on soundcheck across Antwerp, Barcelona, Brussels and Ghent and 1 more. Often billed alongside Timmerman, Ben Kamal and Hame. Next up: Funke, Ghent on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Funke | Ghent |
 | Sat, 7 Nov 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Méni is a house and techno artist, with 42 gigs on soundcheck across Antwerp, B
 
 Timmerman, Ben Kamal, Hame (1)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meni/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meni/)*

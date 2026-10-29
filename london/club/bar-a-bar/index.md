@@ -1,6 +1,6 @@
 # Bar A Bar
 
-Bar A Bar is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Misfits. (HALLOWEEN PARTY) " on Fri, 30 Oct 2026.
+Bar A Bar is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Misfits. (HALLOWEEN PARTY) " on Fri, 30 Oct 2026.
 
 Bar A Bar is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Cristi Cons, Domenico Crisci, ILIE (RO) and Svet and 1 more. See dates, start times and who's playing. 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom.
 
@@ -19,4 +19,4 @@ Bar A Bar is a music venue in London listed on soundcheck. 6 upcoming gigs, with
 
 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bar-a-bar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bar-a-bar/)*

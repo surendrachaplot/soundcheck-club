@@ -1,6 +1,6 @@
 # Philipp Stoffel
 
-Philipp Stoffel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at fi, Cologne on Fri, 20 Nov 2026.
+Philipp Stoffel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at fi, Cologne on Fri, 20 Nov 2026.
 
 Philipp Stoffel is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin and Cologne. Often billed alongside Michael Mayer, oskø and AMSL. Next up: fi, Cologne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Philipp Stoffel is a techno and house artist based in Germany, with 17 gigs on s
 
 Michael Mayer, oskø, AMSL
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstoffel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstoffel/)*

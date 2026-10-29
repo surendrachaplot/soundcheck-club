@@ -1,8 +1,8 @@
 # ZUNDOKO DISCO
 
-ZUNDOKO DISCO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
+ZUNDOKO DISCO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
 
-ZUNDOKO DISCO is a techno and house artist based in Japan, with 31 gigs on soundcheck across Kanto, Osaka, Seoul and Tokyo. Often billed alongside P-YAN, YAMARCHY and teppei. Next up: Oizumi-Kojo, Kanto on Sun 22 Nov.
+ZUNDOKO DISCO is a techno and house artist based in Japan, with 31 gigs on soundcheck across Kanto, Osaka, Seoul and Tokyo. Often billed alongside P-YAN, YAMARCHY and YUTA. Next up: Oizumi-Kojo, Kanto on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ ZUNDOKO DISCO is a techno and house artist based in Japan, with 31 gigs on sound
 
 ## Shares bills with
 
-P-YAN, YAMARCHY, teppei
+P-YAN, YAMARCHY, YUTA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zundokodisco/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zundokodisco/)*

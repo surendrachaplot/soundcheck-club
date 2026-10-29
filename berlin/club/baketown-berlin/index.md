@@ -1,6 +1,6 @@
 # Baketown Berlin
 
-Baketown Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "bed" on Sat, 31 Oct 2026.
+Baketown Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "bed" on Sat, 31 Oct 2026.
 
 Baketown Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Baketown Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | bed |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/baketown-berlin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/baketown-berlin/)*

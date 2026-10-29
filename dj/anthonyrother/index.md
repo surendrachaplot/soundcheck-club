@@ -1,6 +1,6 @@
 # Anthony Rother
 
-Anthony Rother is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Anthony Rother is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Anthony Rother is a techno and electro artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Helena Hauff, Alienata and Asymptote. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Anthony Rother is a techno and electro artist based in Germany, with 94 gigs on 
 
 Helena Hauff, Alienata, Asymptote
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*

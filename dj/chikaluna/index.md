@@ -1,6 +1,6 @@
 # Chika Luna
 
-Chika Luna is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Royal Lounge, Tokyo on Tue, 3 Nov 2026.
+Chika Luna is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Royal Lounge, Tokyo on Tue, 3 Nov 2026.
 
 Chika Luna is a house and techno artist based in Japan, with 93 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SUETSUGU. Next up: Royal Lounge, Tokyo on Tue 3 Nov.
 
@@ -27,4 +27,4 @@ Chika Luna is a house and techno artist based in Japan, with 93 gigs on soundche
 
 Yamariki, PUNK N MATRIX, SUETSUGU
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chikaluna/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chikaluna/)*

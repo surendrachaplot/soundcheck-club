@@ -1,8 +1,8 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hive Club, Zurich on Fri, 30 Oct 2026.
+Verraco is a Techno and Bass artist with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hive Club, Zurich on Fri, 30 Oct 2026.
 
-Verraco is a techno and bass artist based in Colombia, with 180 gigs on soundcheck across Amsterdam, Athens, Atlanta and Baltimore and 52 more. Often billed alongside Bitter Babe, Batu and CCL. Next up: Hive Club, Zurich on Fri 30 Oct.
+Verraco is a techno and bass artist based in Colombia, with 182 gigs on soundcheck across Amsterdam, Athens, Atlanta and Baltimore and 53 more. Often billed alongside Bitter Babe, Batu and CCL. Next up: Hive Club, Zurich on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Verraco is a techno and bass artist based in Colombia, with 180 gigs on soundche
 | Fri, 20 Nov 2026 | Pisces | Atlanta |
 | Sat, 21 Nov 2026 | Flash | Washington DC |
 | Sat, 5 Dec 2026 | TBA | Mexico City |
+| Sat, 12 Dec 2026 | Barn Radio | Portland |
 | Thu, 18 Feb 2027 | Bozar | Brussels |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
-| Fri, 28 May 2027 | Peckham Rye Park | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Verraco is a techno and bass artist based in Colombia, with 180 gigs on soundche
 
 Bitter Babe, Batu, CCL
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

@@ -1,6 +1,6 @@
 # Mikey DJ
 
-Mikey DJ is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
+Mikey DJ is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
 
 Mikey DJ is a house and garage artist based in United Kingdom, with 11 gigs on soundcheck across Birmingham and London. Often billed alongside Jeremy Sylvester, DJ MJ and MC CKP. Next up: Rolling Stock, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mikey DJ is a house and garage artist based in United Kingdom, with 11 gigs on s
 
 Jeremy Sylvester, DJ MJ, MC CKP
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeydj/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeydj/)*

@@ -1,8 +1,8 @@
 # Virginia
 
-Virginia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Printhouse, Munich on Sat, 31 Oct 2026.
+Virginia is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Printhouse, Munich on Sat, 31 Oct 2026.
 
-Virginia is a house and techno artist based in Germany, with 257 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 64 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: Printhouse, Munich on Sat 31 Oct.
+Virginia is a house and techno artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 64 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: Printhouse, Munich on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Virginia is a house and techno artist based in Germany, with 257 gigs on soundch
 | Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 14 Nov 2026 | fabric | London |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
+| Fri, 27 Nov 2026 | La Paloma | Barcelona |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Virginia is a house and techno artist based in Germany, with 257 gigs on soundch
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

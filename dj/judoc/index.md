@@ -1,6 +1,6 @@
 # Judoc
 
-Judoc is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
+Judoc is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sol y Luna Lounge & Club, Düsseldorf on Wed, 11 Nov 2026.
 
 Judoc is a house and tech house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Düsseldorf and Ibiza. Often billed alongside Major K, Femmebot Grooves and Jana Vitiligo. Next up: Sol y Luna Lounge & Club, Düsseldorf on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Judoc is a house and tech house artist based in Netherlands, with 28 gigs on sou
 
 Major K, Femmebot Grooves, Jana Vitiligo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judoc/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judoc/)*

@@ -1,6 +1,6 @@
 # MARINA
 
-MARINA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at SEL OCTAGON TOKYO, Tokyo on Thu, 29 Oct 2026.
+MARINA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at SEL OCTAGON TOKYO, Tokyo on Thu, 29 Oct 2026.
 
 MARINA is a house and techno artist based in Italy, with 14 gigs on soundcheck across Bologna, Milan, Rome and Tokyo and 1 more. Often billed alongside Da Yama, Marina Herlop and Marina Trench. Next up: SEL OCTAGON TOKYO, Tokyo on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ MARINA is a house and techno artist based in Italy, with 14 gigs on soundcheck a
 
 Da Yama, Marina Herlop, Marina Trench
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marina/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marina/)*

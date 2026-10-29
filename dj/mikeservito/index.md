@@ -1,6 +1,6 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
+Mike Servito is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
 Mike Servito is a house and techno artist based in United States of America, with 316 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Erika, Shaun J. Wright and Carlos Souffront. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
@@ -16,10 +16,10 @@ Mike Servito is a house and techno artist based in United States of America, wit
 | Sat, 7 Nov 2026 | BASEMENT | New York City |
 | Fri, 13 Nov 2026 | TBA - Secret Dungeon Location | Pittsburgh |
 | Sat, 14 Nov 2026 | Nowadays | New York City |
-| Sun, 15 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Mike Servito is a house and techno artist based in United States of America, wit
 
 Erika, Shaun J. Wright, Carlos Souffront
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

@@ -1,6 +1,6 @@
 # Sokolyann
 
-Sokolyann is a Psytrance and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Glove That Fits, London on Fri, 4 Dec 2026.
+Sokolyann is a Psytrance and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Glove That Fits, London on Fri, 4 Dec 2026.
 
 Sokolyann is a psytrance and downtempo artist, with 8 gigs on soundcheck across London. Often billed alongside rannag, External Subway and GreenWay. Next up: The Glove That Fits, London on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Sokolyann is a psytrance and downtempo artist, with 8 gigs on soundcheck across 
 
 rannag, External Subway, GreenWay
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sokolyann/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sokolyann/)*

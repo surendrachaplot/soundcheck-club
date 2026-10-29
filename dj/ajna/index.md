@@ -1,6 +1,6 @@
 # AJNA
 
-AJNA is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
+AJNA is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hungarian Railway Museum, Budapest on Fri, 30 Oct 2026.
 
 AJNA is a house and afro house artist based in Belgium, with 44 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside Samm (BE), Maxi Meraki and Samm. Next up: Hungarian Railway Museum, Budapest on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ AJNA is a house and afro house artist based in Belgium, with 44 gigs on soundche
 
 Samm (BE), Maxi Meraki, Samm
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajna/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajna/)*

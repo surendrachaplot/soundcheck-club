@@ -1,6 +1,6 @@
 # Reon Vanger
 
-Reon Vanger is a Afro House and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The BBE Store, London on Sat, 31 Oct 2026.
+Reon Vanger is a Afro House and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The BBE Store, London on Sat, 31 Oct 2026.
 
 Reon Vanger is an afro house and r&b artist based in United Kingdom, with 11 gigs on soundcheck across Birmingham, London and Manchester. Often billed alongside Sham Steele, Keyrah and Papu Raf. Next up: The BBE Store, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Reon Vanger is an afro house and r&b artist based in United Kingdom, with 11 gig
 
 Sham Steele, Keyrah, Papu Raf
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reonvanger/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reonvanger/)*

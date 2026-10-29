@@ -1,6 +1,6 @@
 # Stuart Patterson
 
-Stuart Patterson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Eagle, London on Sat, 14 Nov 2026.
+Stuart Patterson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Eagle, London on Sat, 14 Nov 2026.
 
 Stuart Patterson is a house and disco artist based in United Kingdom, with 73 gigs on soundcheck across Brighton, Cardiff, Ibiza and Krakow and 5 more. Often billed alongside Terry Farley, JARVIS and Tito Pulpo. Next up: The Eagle, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Stuart Patterson is a house and disco artist based in United Kingdom, with 73 gi
 
 Terry Farley, JARVIS, Tito Pulpo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stuartpatterson/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stuartpatterson/)*

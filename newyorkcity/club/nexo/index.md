@@ -1,6 +1,6 @@
 # Nexo
 
-Nexo is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Nightmare on 36th Street Halloween Parrty Nightclub" on Sat, 31 Oct 2026.
+Nexo is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Nightmare on 36th Street Halloween Parrty Nightclub" on Sat, 31 Oct 2026.
 
 Nexo is a music venue in New York City listed on soundcheck. 12 upcoming gigs. See dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
 
@@ -23,4 +23,4 @@ Nexo is a music venue in New York City listed on soundcheck. 12 upcoming gigs. S
 
 29 W 36th St., New York, NY 10018, USA, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*

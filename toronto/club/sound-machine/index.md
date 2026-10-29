@@ -1,6 +1,6 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Selecta 040" on Thu, 29 Oct 2026.
+Sound Machine is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Selecta 040" on Thu, 29 Oct 2026.
 
 Sound Machine is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including ADEOLA, baby mmune, hadis and Jojoflores and 2 more. See dates, start times and who's playing. 178 Bathurst Street.
 
@@ -17,4 +17,4 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 4 upcoming gigs,
 
 178 Bathurst Street, Toronto
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*

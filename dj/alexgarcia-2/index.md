@@ -1,6 +1,6 @@
 # Alex Garcia (2)
 
-Alex Garcia (2) is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at feedbk, New York City on Sat, 31 Oct 2026.
+Alex Garcia (2) is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at feedbk, New York City on Sat, 31 Oct 2026.
 
 Alex Garcia is a house and electro artist based in Spain, with 46 gigs on soundcheck across Barcelona and New York City. Often billed alongside Vince Void, Adria (ES) and Pau Rosés. Next up: feedbk, New York City on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Alex Garcia is a house and electro artist based in Spain, with 46 gigs on soundc
 
 Vince Void, Adria (ES), Pau Rosés
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgarcia-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexgarcia-2/)*

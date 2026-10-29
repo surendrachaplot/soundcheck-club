@@ -1,6 +1,6 @@
 # John's
 
-John's is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Arch 14, London on Sat, 5 Dec 2026.
+John's is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Arch 14, London on Sat, 5 Dec 2026.
 
 John's is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Colaps, Cristian Sirica and Misura. Next up: Arch 14, London on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ John's is a house and techno artist based in United Kingdom, with 7 gigs on soun
 
 Colaps, Cristian Sirica, Misura
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johns/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johns/)*

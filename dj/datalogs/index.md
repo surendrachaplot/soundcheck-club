@@ -1,6 +1,6 @@
 # Datalogs
 
-Datalogs is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Astron Club, Athens on Fri, 20 Nov 2026.
+Datalogs is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Astron Club, Athens on Fri, 20 Nov 2026.
 
 Datalogs is an electro and techno artist, with 40 gigs on soundcheck across Athens. Often billed alongside IMPVLSIV, Kazteins and DΛS. Next up: Astron Club, Athens on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Datalogs is an electro and techno artist, with 40 gigs on soundcheck across Athe
 
 IMPVLSIV, Kazteins, DΛS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/datalogs/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/datalogs/)*

@@ -1,6 +1,6 @@
 # LATO
 
-LATO is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Old Church, London on Sat, 21 Nov 2026.
+LATO is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Old Church, London on Sat, 21 Nov 2026.
 
 LATO is a techno and afro house artist, with 17 gigs on soundcheck across Berlin, Glasgow and London. Often billed alongside ADRIAN LECA, Ting Run Run and ISO YSO. Next up: The Old Church, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ LATO is a techno and afro house artist, with 17 gigs on soundcheck across Berlin
 
 ADRIAN LECA, Ting Run Run, ISO YSO
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lato/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lato/)*

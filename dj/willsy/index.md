@@ -1,6 +1,6 @@
 # Willsy
 
-Willsy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Fivefourstudios, Manchester on Fri, 13 Nov 2026.
+Willsy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Fivefourstudios, Manchester on Fri, 13 Nov 2026.
 
 Willsy is a house and garage artist based in United Kingdom, with 15 gigs on soundcheck across Leeds, London, Manchester and Nottingham. Often billed alongside Golden Syrup, Coyle and Dan Cowan. Next up: Fivefourstudios, Manchester on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Willsy is a house and garage artist based in United Kingdom, with 15 gigs on sou
 
 Golden Syrup, Coyle, Dan Cowan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willsy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willsy/)*

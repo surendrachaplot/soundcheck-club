@@ -1,6 +1,6 @@
 # Crystal Lounge
 
-Crystal Lounge is a music venue in Seattle with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "11/6 Otoconia House Music Social - DJ's Treehead, Joey Phatone, & Kristian Haas" on Fri, 6 Nov 2026.
+Crystal Lounge is a music venue in Seattle with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "11/6 Otoconia House Music Social - DJ's Treehead, Joey Phatone, & Kristian Haas" on Fri, 6 Nov 2026.
 
 Crystal Lounge is a music venue in Seattle listed on soundcheck. 3 upcoming gigs, with line-ups including Christine Michelle and Vagabond Superstar. See dates, start times and who's playing. 2008 1st Ave.
 
@@ -16,4 +16,4 @@ Crystal Lounge is a music venue in Seattle listed on soundcheck. 3 upcoming gigs
 
 2008 1st Ave, Seattle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*

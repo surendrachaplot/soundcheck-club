@@ -1,6 +1,6 @@
 # Chasing Kurt
 
-Chasing Kurt is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Leib & Seele, Frankfurt on Sat, 12 Dec 2026.
+Chasing Kurt is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Leib & Seele, Frankfurt on Sat, 12 Dec 2026.
 
 Chasing Kurt is a tech house and techno artist, with 15 gigs on soundcheck across Frankfurt. Often billed alongside Alexander Aurel, Dom Waits and Audio Safari. Next up: Leib & Seele, Frankfurt on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Chasing Kurt is a tech house and techno artist, with 15 gigs on soundcheck acros
 
 Alexander Aurel, Dom Waits, Audio Safari
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasingkurt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasingkurt/)*

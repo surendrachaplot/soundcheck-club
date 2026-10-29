@@ -1,6 +1,6 @@
 # Chris Dustin
 
-Chris Dustin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
+Chris Dustin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
 
 Chris Dustin is a techno and house artist based in Hungary, with 7 gigs on soundcheck across Budapest and Vienna. Often billed alongside CRB, Y4NKO and Barbad. Next up: Turbina, Budapest on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Chris Dustin is a techno and house artist based in Hungary, with 7 gigs on sound
 
 CRB, Y4NKO, Barbad
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdustin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdustin/)*

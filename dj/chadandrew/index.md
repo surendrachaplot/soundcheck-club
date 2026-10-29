@@ -1,6 +1,6 @@
 # Chad Andrew
 
-Chad Andrew is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bar Zvon, Prague on Sat, 31 Oct 2026.
+Chad Andrew is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar Zvon, Prague on Sat, 31 Oct 2026.
 
 Chad Andrew is a house and minimal artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 11 more. Often billed alongside Sam Gittis, AMO and Sebastian Paiza. Next up: Bar Zvon, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Chad Andrew is a house and minimal artist based in United States of America, wit
 
 Sam Gittis, AMO, Sebastian Paiza
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chadandrew/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chadandrew/)*

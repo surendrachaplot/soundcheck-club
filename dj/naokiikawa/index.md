@@ -1,6 +1,6 @@
 # Naoki Ikawa
 
-Naoki Ikawa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at R Lounge, Tokyo on Thu, 29 Oct 2026.
+Naoki Ikawa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at R Lounge, Tokyo on Thu, 29 Oct 2026.
 
 Naoki Ikawa is a house and techno artist based in Japan, with 43 gigs on soundcheck across Tokyo. Often billed alongside NAOKI, Leefia and Eichi Abe. Next up: R Lounge, Tokyo on Thu 29 Oct.
 
@@ -9,7 +9,7 @@ Naoki Ikawa is a house and techno artist based in Japan, with 43 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | R Lounge | Tokyo |
-| Fri, 20 Nov 2026 | clubasia | Tokyo |
+| Fri, 20 Nov 2026 | club asia | Tokyo |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Naoki Ikawa is a house and techno artist based in Japan, with 43 gigs on soundch
 
 NAOKI, Leefia, Eichi Abe
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naokiikawa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naokiikawa/)*

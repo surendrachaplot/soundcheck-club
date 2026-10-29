@@ -1,13 +1,14 @@
 # Karlainthemix
 
-Karlainthemix is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hotel Montepiedra, Alicante on Thu, 27 May 2027.
+Karlainthemix is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Doka, Amsterdam on Fri, 13 Nov 2026.
 
-Karlainthemix is a house and deep house artist based in Finland, with 21 gigs on soundcheck across Alicante, Chicago, Helsinki and Lisbon and 5 more. Often billed alongside Afshin, Greg Gauthier and Kapela. Next up: Hotel Montepiedra, Alicante on Thu 27 May.
+Karlainthemix is a house and deep house artist based in Finland, with 22 gigs on soundcheck across Alicante, Amsterdam, Chicago and Helsinki and 6 more. Often billed alongside Afshin, Greg Gauthier and Kapela. Next up: Doka, Amsterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Doka | Amsterdam |
 | Thu, 27 May 2027 | Hotel Montepiedra | Alicante |
 | Thu, 16 Sept 2027 | TBA - VARIOUS | Malta |
 
@@ -26,4 +27,4 @@ Karlainthemix is a house and deep house artist based in Finland, with 21 gigs on
 
 Afshin, Greg Gauthier, Kapela
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlainthemix/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlainthemix/)*

@@ -1,6 +1,6 @@
 # Sasha Rome
 
-Sasha Rome is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mood Ring, New York City on Thu, 12 Nov 2026.
+Sasha Rome is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mood Ring, New York City on Thu, 12 Nov 2026.
 
 Sasha Rome is a garage and house artist based in United States of America, with 28 gigs on soundcheck across Chicago, New York City and Pittsburgh. Often billed alongside Lovelydaze, Gigi Rio and Lord of Ciphers. Next up: Mood Ring, New York City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Sasha Rome is a garage and house artist based in United States of America, with 
 
 Lovelydaze, Gigi Rio, Lord of Ciphers
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sasharome/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sasharome/)*

@@ -1,6 +1,6 @@
 # Nekes
 
-Nekes is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hoppetosse, Berlin on Fri, 30 Oct 2026.
+Nekes is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hoppetosse, Berlin on Fri, 30 Oct 2026.
 
 Nekes is a house and minimal artist based in Germany, with 56 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 6 more. Often billed alongside Federico Molinari, Alvaro Medina and Lee Burton. Next up: Hoppetosse, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Nekes is a house and minimal artist based in Germany, with 56 gigs on soundcheck
 
 Federico Molinari, Alvaro Medina, Lee Burton
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nekes/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nekes/)*

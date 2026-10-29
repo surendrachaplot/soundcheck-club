@@ -1,6 +1,6 @@
 # Lucas Vazz
 
-Lucas Vazz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Macarena Club, Barcelona on Mon, 23 Nov 2026.
+Lucas Vazz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Macarena Club, Barcelona on Mon, 23 Nov 2026.
 
 Lucas Vazz is a techno and house artist based in Chile, with 23 gigs on soundcheck across Barcelona, Berlin, Ibiza and Santiago. Often billed alongside Miguel Silva, Civaro and Elwei. Next up: Macarena Club, Barcelona on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ Lucas Vazz is a techno and house artist based in Chile, with 23 gigs on soundche
 
 Miguel Silva, Civaro, Elwei
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasvazz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasvazz/)*

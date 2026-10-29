@@ -1,6 +1,6 @@
 # Listen Listen x Club Cosmic at Sameheads
 
-Listen Listen x Club Cosmic at Sameheads on Sat 21 Nov, Berlin. 4 artists: Alexander Arpeggio, DJ Primitivo, Osterinsel and Rachel Opert. See the line-up on soundcheck.
+Listen Listen x Club Cosmic at Sameheads on Sat 21 Nov, Berlin. 5 artists: Alexander Arpeggio, DJ Primitivo, Novo Line and Osterinsel and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Listen Listen x Club Cosmic at Sameheads on Sat 21 Nov, Berlin. 4 artists: Alexa
 
 - Alexander Arpeggio
 - DJ Primitivo
+- Novo Line
 - Osterinsel
 - Rachel Opert
 

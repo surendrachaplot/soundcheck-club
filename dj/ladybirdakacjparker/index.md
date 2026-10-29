@@ -1,6 +1,6 @@
 # LadyBird aka C.J. Parker
 
-LadyBird aka C.J. Parker is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at KitKatClub, Berlin on Wed, 11 Nov 2026.
+LadyBird aka C.J. Parker is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at KitKatClub, Berlin on Wed, 11 Nov 2026.
 
 LadyBird aka C.J. Parker is a techno and tech house artist, with 13 gigs on soundcheck across Berlin. Often billed alongside A.N.I., DJ Jordan and SaltySis. Next up: KitKatClub, Berlin on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ LadyBird aka C.J. Parker is a techno and tech house artist, with 13 gigs on soun
 
 A.N.I., DJ Jordan, SaltySis
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladybirdakacjparker/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladybirdakacjparker/)*

@@ -1,8 +1,8 @@
 # Wispelturig
 
-Wispelturig is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Café Katoen, Amsterdam on Thu, 29 Oct 2026.
+Wispelturig is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Café Katoen, Amsterdam on Thu, 29 Oct 2026.
 
-Wispelturig is an electronica and club artist, with 24 gigs on soundcheck across Amsterdam, Istanbul and Utrecht. Often billed alongside Kyoso, ADHI and Elisa Batti. Next up: Café Katoen, Amsterdam on Thu 29 Oct.
+Wispelturig is an electronica and club artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Istanbul and Utrecht. Often billed alongside Kyoso, ADHI and Elisa Batti. Next up: Café Katoen, Amsterdam on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Wispelturig is an electronica and club artist, with 24 gigs on soundcheck across
 
 Kyoso, ADHI, Elisa Batti
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wispelturig/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wispelturig/)*

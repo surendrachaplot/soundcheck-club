@@ -1,6 +1,6 @@
 # Templeton
 
-Templeton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Distillery, Leipzig on Fri, 30 Oct 2026.
+Templeton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Distillery, Leipzig on Fri, 30 Oct 2026.
 
 Templeton is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin and Leipzig. Often billed alongside catjes, Lydmate and NICI PALM. Next up: Distillery, Leipzig on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Templeton is a techno and house artist based in Germany, with 17 gigs on soundch
 
 catjes, Lydmate, NICI PALM
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/templeton/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/templeton/)*

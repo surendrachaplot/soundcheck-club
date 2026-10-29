@@ -1,6 +1,6 @@
 # Magnolia Coronado
 
-Magnolia Coronado is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Brutal Mx, Mexico City on Sat, 7 Nov 2026.
+Magnolia Coronado is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Brutal Mx, Mexico City on Sat, 7 Nov 2026.
 
 Magnolia Coronado is a techno and house artist based in Mexico, with 91 gigs on soundcheck across Guadalajara, Mexico City and Miami. Often billed alongside Enya Botello, Ann García and Dj Fucci. Next up: Brutal Mx, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Magnolia Coronado is a techno and house artist based in Mexico, with 91 gigs on 
 
 Enya Botello, Ann García, Dj Fucci
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magnoliacoronado/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magnoliacoronado/)*

@@ -1,14 +1,13 @@
 # 1720
 
-1720 is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Minty Boi Presents: swedm (Varg2tm + jamesjamesjames) with Bhristo" on Wed, 28 Oct 2026.
+1720 is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BACKROOMS RAVE [HALLOWEEN EDITION]" on Thu, 29 Oct 2026.
 
-1720 is a music venue in Los Angeles listed on soundcheck. 9 upcoming gigs, with line-ups including Bag Raiders, CSS, Gentleman's Dub Club and jamesjamesjames and 2 more. See dates, start times and who's playing. 1720 E. 16th Ave, Los Angeles, CA 90021.
+1720 is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, with line-ups including Bag Raiders, CSS, Gentleman's Dub Club and Juliet Mendoza and 2 more. See dates, start times and who's playing. 1720 E. 16th Ave, Los Angeles, CA 90021.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | Minty Boi Presents: swedm (Varg2tm + jamesjamesjames) with Bhristo | Varg²™, jamesjamesjames |
 | Thu, 29 Oct 2026 | BACKROOMS RAVE [HALLOWEEN EDITION] |  |
 | Sat, 31 Oct 2026 | System Error: Gentlemens Club, Neumonic, Snuffy | Gentleman's Dub Club, Neumonic |
 | Fri, 6 Nov 2026 | D.A.N.C.E: 10 Year feat. Bag Raiders, Uffie, & CSS | Bag Raiders, CSS, Uffie |
@@ -22,4 +21,4 @@
 
 1720 E. 16th Ave, Los Angeles, CA 90021, Los Angeles
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*

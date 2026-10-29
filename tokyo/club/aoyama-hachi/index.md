@@ -1,6 +1,6 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Sunshine Underground Vol.12 4th Anniversary" on Sat, 31 Oct 2026.
+Aoyama Hachi is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sunshine Underground Vol.12 4th Anniversary" on Sat, 31 Oct 2026.
 
 Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including ANiIIIIiiiKii, bungo, CKRN303 and Daiki and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
@@ -23,4 +23,4 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, w
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

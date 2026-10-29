@@ -1,6 +1,6 @@
 # Jazz K
 
-Jazz K is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Macarena Club, Barcelona on Thu, 29 Oct 2026.
+Jazz K is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Macarena Club, Barcelona on Thu, 29 Oct 2026.
 
 Jazz K is a techno and house artist based in France, with 129 gigs on soundcheck across Barcelona. Often billed alongside LUXX, NIIXII and ERRANT. Next up: Macarena Club, Barcelona on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Jazz K is a techno and house artist based in France, with 129 gigs on soundcheck
 
 LUXX, NIIXII, ERRANT
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzk/)*

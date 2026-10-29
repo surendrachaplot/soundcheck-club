@@ -1,6 +1,6 @@
 # DJ Bowlcut
 
-DJ Bowlcut is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bricks, London on Fri, 13 Nov 2026.
+DJ Bowlcut is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bricks, London on Fri, 13 Nov 2026.
 
 DJ Bowlcut is a house and techno artist based in South Korea, with 85 gigs on soundcheck across Bangkok, Berlin, Bucharest and London and 4 more. Often billed alongside Krijka, Slowmouth and Conan. Next up: Bricks, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DJ Bowlcut is a house and techno artist based in South Korea, with 85 gigs on so
 
 Krijka, Slowmouth, Conan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlcut/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlcut/)*

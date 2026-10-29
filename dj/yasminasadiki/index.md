@@ -1,6 +1,6 @@
 # Yasmina Sadiki
 
-Yasmina Sadiki is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Yasmina Sadiki is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Yasmina Sadiki is a house and electronica artist based in Australia, with 8 gigs on soundcheck across Melbourne and Sydney. Often billed alongside YASMINA, Miss Kaninna and RIRIA. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Yasmina Sadiki is a house and electronica artist based in Australia, with 8 gigs
 
 YASMINA, Miss Kaninna, RIRIA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminasadiki/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminasadiki/)*

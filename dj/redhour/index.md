@@ -1,6 +1,6 @@
 # REDHOUR
 
-REDHOUR is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at E1, London on Sat, 7 Nov 2026.
+REDHOUR is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at E1, London on Sat, 7 Nov 2026.
 
 REDHOUR is an amapiano and afro house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside European 305, Olayemi and Ade Smilez. Next up: E1, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ REDHOUR is an amapiano and afro house artist based in United Kingdom, with 9 gig
 
 European 305, Olayemi, Ade Smilez
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redhour/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redhour/)*

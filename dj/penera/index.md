@@ -1,6 +1,6 @@
 # Penera
 
-Penera is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sektor 6D, Warsaw on Sat, 7 Nov 2026.
+Penera is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sektor 6D, Warsaw on Sat, 7 Nov 2026.
 
 Penera is a techno and trance artist based in Poland, with 61 gigs on soundcheck across Berlin, Krakow, Ljubljana and Poznan and 3 more. Often billed alongside Kilarska, Edvvin and DJ Gigola. Next up: Sektor 6D, Warsaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Penera is a techno and trance artist based in Poland, with 61 gigs on soundcheck
 
 Kilarska, Edvvin, DJ Gigola
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penera/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penera/)*

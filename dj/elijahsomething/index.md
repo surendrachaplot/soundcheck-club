@@ -1,6 +1,6 @@
 # Elijah Something
 
-Elijah Something is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 31 Oct 2026.
+Elijah Something is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 31 Oct 2026.
 
 Elijah Something is a house and techno artist based in Australia, with 55 gigs on soundcheck across Amsterdam, Bali, Beijing and Byron Bay and 6 more. Often billed alongside Cassette, Caleb Jackson and Litmus. Next up: Sub Club Melbourne, Melbourne on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Elijah Something is a house and techno artist based in Australia, with 55 gigs o
 
 Cassette, Caleb Jackson, Litmus
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahsomething/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahsomething/)*

@@ -1,13 +1,14 @@
 # Sevenum Six
 
-Sevenum Six is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Decadance, Ghent on Fri, 11 Dec 2026.
+Sevenum Six is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Chinastraat, Ghent on Sat, 28 Nov 2026.
 
-Sevenum Six is a techno and acid artist based in Belgium, with 33 gigs on soundcheck across Antwerp, Brussels, Dresden and Geneva and 6 more. Often billed alongside Lena De Roose, Radze and Brain Impact. Next up: Decadance, Ghent on Fri 11 Dec.
+Sevenum Six is a techno and acid artist based in Belgium, with 34 gigs on soundcheck across Antwerp, Brussels, Dresden and Geneva and 6 more. Often billed alongside Lena De Roose, Radze and Brain Impact. Next up: Chinastraat, Ghent on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Chinastraat | Ghent |
 | Fri, 11 Dec 2026 | Decadance | Ghent |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sevenum Six is a techno and acid artist based in Belgium, with 33 gigs on soundc
 
 Lena De Roose, Radze, Brain Impact
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenumsix/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenumsix/)*

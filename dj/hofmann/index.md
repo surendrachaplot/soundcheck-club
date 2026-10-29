@@ -1,6 +1,6 @@
 # Hofmann
 
-Hofmann is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
+Hofmann is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
 
 Hofmann is an electro and house artist, with 10 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Yela, Gamine and Mia Cecille. Next up: UMI, Brussels on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Hofmann is an electro and house artist, with 10 gigs on soundcheck across Amster
 
 Yela, Gamine, Mia Cecille
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hofmann/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hofmann/)*

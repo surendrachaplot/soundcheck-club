@@ -1,14 +1,16 @@
 # LAZLO
 
-LAZLO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
+LAZLO is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
 
-LAZLO is a techno and trance artist based in United Kingdom, with 86 gigs on soundcheck across Berlin, Dundee, Edinburgh and Galway and 3 more. Often billed alongside Quail, DDSIX and Schism. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 28 Nov.
+LAZLO is a techno and electro artist based in United Kingdom, with 88 gigs on soundcheck across Berlin, Dundee, Edinburgh and Galway and 3 more. Often billed alongside Quail, DDSIX and Schism. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Argyle Arcade (Buchanan Street Entrance) | Glasgow |
+| Fri, 18 Dec 2026 | EXIT Glasgow | Glasgow |
+| Sat, 26 Dec 2026 | The Bongo Club | Edinburgh |
 | Sun, 27 Dec 2026 | SWG3 | Glasgow |
 
 ## Recently played
@@ -26,4 +28,4 @@ LAZLO is a techno and trance artist based in United Kingdom, with 86 gigs on sou
 
 Quail, DDSIX, Schism
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazlo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazlo/)*

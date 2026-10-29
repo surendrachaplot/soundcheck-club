@@ -1,6 +1,6 @@
 # RRRKRTA
 
-RRRKRTA is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Grassroots, Tokyo on Mon, 2 Nov 2026.
+RRRKRTA is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Grassroots, Tokyo on Mon, 2 Nov 2026.
 
 RRRKRTA is a techno and club artist based in Poland, with 36 gigs on soundcheck across Belgrade, Berlin, Chubu and Glasgow and 9 more. Often billed alongside Diamin, Elena Colombi and JayJay. Next up: Grassroots, Tokyo on Mon 2 Nov.
 
@@ -27,4 +27,4 @@ RRRKRTA is a techno and club artist based in Poland, with 36 gigs on soundcheck 
 
 Diamin, Elena Colombi, JayJay
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*

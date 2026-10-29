@@ -1,6 +1,6 @@
 # Jakobin
 
-Jakobin is a Garage and Amapiano artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at After Dark, Bristol on Sat, 31 Oct 2026.
+Jakobin is a Garage and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at After Dark, Bristol on Sat, 31 Oct 2026.
 
 Jakobin is a garage and amapiano artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, London, Newcastle and Vienna. Often billed alongside Dorpy, AÆE and STYLI. Next up: After Dark, Bristol on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jakobin is a garage and amapiano artist based in United Kingdom, with 27 gigs on
 
 Dorpy, AÆE, STYLI
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobin/)*

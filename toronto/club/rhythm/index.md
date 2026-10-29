@@ -1,8 +1,8 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Long Play: Khruangbin" on Thu, 29 Oct 2026.
+Rhythm is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Long Play: Khruangbin" on Thu, 29 Oct 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Ankathesia, Barbara Preisinger, Blkvirgo and Burnin' Vernon and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Ankathesia, Arapu, Barbara Preisinger and Blkvirgo and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with 
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

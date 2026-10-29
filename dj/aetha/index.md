@@ -1,6 +1,6 @@
 # Aetha
 
-Aetha is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Noce KRK, Krakow on Fri, 30 Oct 2026.
+Aetha is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Noce KRK, Krakow on Fri, 30 Oct 2026.
 
 Aetha is a techno and acid artist based in Poland, with 80 gigs on soundcheck across Berlin, Krakow, Warsaw and Wroclaw. Often billed alongside Hellix, diabot and Gabi Bury. Next up: Noce KRK, Krakow on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Aetha is a techno and acid artist based in Poland, with 80 gigs on soundcheck ac
 
 Hellix, diabot, Gabi Bury
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aetha/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aetha/)*

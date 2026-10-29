@@ -1,6 +1,6 @@
 # GENESI
 
-GENESI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Armania Phuket, Thailand on Fri, 30 Oct 2026.
+GENESI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Armania Phuket, Thailand on Fri, 30 Oct 2026.
 
 GENESI is a house and techno artist based in Italy, with 57 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 21 more. Often billed alongside Meduza, James Hype (UK) and David Guetta. Next up: Armania Phuket, Thailand on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ GENESI is a house and techno artist based in Italy, with 57 gigs on soundcheck a
 
 Meduza, James Hype (UK), David Guetta
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*

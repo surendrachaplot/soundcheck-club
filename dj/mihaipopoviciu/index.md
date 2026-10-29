@@ -1,6 +1,6 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 6 Nov 2026.
+Mihai Popoviciu is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at BORIS CLUB, Barcelona on Fri, 6 Nov 2026.
 
 Mihai Popoviciu is a house and deep house artist based in Romania, with 84 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 39 more. Often billed alongside Andrey Pushkarev, Lola Palmer and Janeret. Next up: BORIS CLUB, Barcelona on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Mihai Popoviciu is a house and deep house artist based in Romania, with 84 gigs 
 
 Andrey Pushkarev, Lola Palmer, Janeret
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*

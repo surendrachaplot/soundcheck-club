@@ -1,6 +1,6 @@
 # Chris Zippel
 
-Chris Zippel is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at KitKatClub, Berlin on Fri, 20 Nov 2026.
+Chris Zippel is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at KitKatClub, Berlin on Fri, 20 Nov 2026.
 
 Chris Zippel is a house and downtempo artist based in Germany, with 18 gigs on soundcheck across Berlin, Ibiza and Zurich. Often billed alongside Michael Ritter, Felix E and Neobeo. Next up: KitKatClub, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Chris Zippel is a house and downtempo artist based in Germany, with 18 gigs on s
 
 Michael Ritter, Felix E, Neobeo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chriszippel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chriszippel/)*

@@ -1,8 +1,8 @@
 # A.N.T
 
-A.N.T is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
+A.N.T is a Jungle and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
 
-A.N.T is a jungle and garage artist based in United Kingdom, with 49 gigs on soundcheck across London and San Francisco/Oakland. Often billed alongside Marky V, Abby Daze and ADA (UK). Next up: Two Tribes CAMPFIRE, London on Sat 31 Oct.
+A.N.T is a jungle and garage artist based in United Kingdom, with 50 gigs on soundcheck across Bristol, London and San Francisco/Oakland. Often billed alongside Marky V, Abby Daze and ADA (UK). Next up: Two Tribes CAMPFIRE, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ A.N.T is a jungle and garage artist based in United Kingdom, with 49 gigs on sou
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Two Tribes CAMPFIRE | London |
 | Thu, 5 Nov 2026 | Planet Wax | London |
+| Sat, 7 Nov 2026 | Basement 45 | Bristol |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ A.N.T is a jungle and garage artist based in United Kingdom, with 49 gigs on sou
 
 Marky V, Abby Daze, ADA (UK)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.n.t/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.n.t/)*

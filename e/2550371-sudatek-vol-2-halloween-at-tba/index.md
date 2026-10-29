@@ -1,6 +1,6 @@
 # SUDATEK VOL.2 HALLOWEEN at TBA
 
-SUDATEK VOL.2 HALLOWEEN at TBA on Sat 31 Oct, Barcelona. 2 artists: Euforia and Ody.ssey. Techno. See the line-up on soundcheck.
+SUDATEK VOL.2 HALLOWEEN at TBA on Sat 31 Oct, Barcelona. 3 artists: Euforia, Gabriel Arango and Ody.ssey. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SUDATEK VOL.2 HALLOWEEN at TBA on Sat 31 Oct, Barcelona. 2 artists: Euforia and 
 ## Line-up
 
 - Euforia
+- Gabriel Arango
 - Ody.ssey
 
 *Source: [soundcheck](https://soundcheck.club/e/2550371-sudatek-vol-2-halloween-at-tba/)*

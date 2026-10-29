@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA -  SECRET LOCATION
 
-TBA - Secret Location is a music venue in London with 56 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "RAW CUTS: X CLUB" on Thu, 29 Oct 2026.
+TBA -  SECRET LOCATION is a music venue in London with 58 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "RAW CUTS: X CLUB" on Thu, 29 Oct 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 56 upcoming gigs, with line-ups including Kepler, Absono, AINES and Allan and 2 more. See dates, start times and who's playing.
+TBA -  SECRET LOCATION is a music venue in London listed on soundcheck. 58 upcoming gigs, with line-ups including Kepler, Absono, AINES and Allan and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -13,10 +13,10 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 56 upcomi
 | Fri, 30 Oct 2026 | ReSolute Halloween with DJ Harvey & Friends | DJ Harvey |
 | Fri, 30 Oct 2026 | Twisted Circus | CLAWZ, DJ SEXSTASY, Ellen Allien, hhunter |
 | Fri, 30 Oct 2026 | Def Halloween Warehouse |  |
+| Fri, 30 Oct 2026 | A Divine Time Together Vol. II: Shakolin | KJ3 (US), Shakolin, natebytheway |
 | Fri, 30 Oct 2026 | BEATS ON THE BOAT: 'SHIPWRECKED.' | MADAMA, Samir (DVS), Sophi B |
 | Fri, 30 Oct 2026 | HEAT//sink ~ | Jumpr, Liza Spinnelli, Mutualism |
 | Fri, 30 Oct 2026 | SISTER.SPOOKZ CRYPT CRAWLERZ | Absono, Dj Nico, karennoid, sister.spooky |
 | Sat, 31 Oct 2026 | Secret Halloween Warehouse Rave |  |
-| Sat, 31 Oct 2026 | NEBULA: HALLOWEEN NIGHT — TECHNO / HARDGROOVE / HARD TRANCE | Calavera, EMILIO (3), LYOM, Messiahwaits, SONATA, STRATAH, XINOVI, uuu7 |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

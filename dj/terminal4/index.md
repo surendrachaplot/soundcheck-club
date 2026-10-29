@@ -1,6 +1,6 @@
 # TERMINAL 4
 
-TERMINAL 4 is a Afro House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
+TERMINAL 4 is a Afro House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
 
 TERMINAL 4 is an afro house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Supa D, DJ Majesty and Beezo. Next up: Eutopia Warehouse, London on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ TERMINAL 4 is an afro house and tech house artist based in United Kingdom, with 
 
 Supa D, DJ Majesty, Beezo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*

@@ -1,13 +1,14 @@
 # Egor Sintsoff
 
-Egor Sintsoff is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 18 Dec 2026.
+Egor Sintsoff is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Купе / Kupe, Sofia on Fri, 13 Nov 2026.
 
-Egor Sintsoff is a techno and trance artist based in Bulgaria, with 58 gigs on soundcheck across Sofia. Often billed alongside NERONE, Zasho and Lqga Luga. Next up: Inter Expo Centre, Sofia on Fri 18 Dec.
+Egor Sintsoff is a techno and trance artist based in Bulgaria, with 59 gigs on soundcheck across Sofia. Often billed alongside NERONE, Zasho and Lqga Luga. Next up: Купе / Kupe, Sofia on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Купе / Kupe | Sofia |
 | Fri, 18 Dec 2026 | Inter Expo Centre | Sofia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Egor Sintsoff is a techno and trance artist based in Bulgaria, with 58 gigs on s
 
 NERONE (2), Zasho, Lqga Luga
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egorsintsoff/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egorsintsoff/)*

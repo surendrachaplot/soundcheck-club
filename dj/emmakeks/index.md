@@ -1,6 +1,6 @@
 # Emma Keks
 
-Emma Keks is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 20 Nov 2026.
+Emma Keks is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 20 Nov 2026.
 
 Emma Keks is a tech house and techno artist based in Germany, with 61 gigs on soundcheck across Berlin. Often billed alongside Stephan Licha, Licha and Cyranotaurus Cortex. Next up: Der Weiße Hase, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Emma Keks is a tech house and techno artist based in Germany, with 61 gigs on so
 
 Stephan Licha, Licha, Cyranotaurus Cortex
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmakeks/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmakeks/)*

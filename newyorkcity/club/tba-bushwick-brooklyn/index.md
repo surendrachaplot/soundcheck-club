@@ -1,6 +1,6 @@
 # TBA - Bushwick, Brooklyn
 
-TBA - Bushwick, Brooklyn is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "SUNRISESSION.TV: DEA MAGNA - Saint Velez - MEDINA - MiGS718" on Sat, 14 Nov 2026.
+TBA - Bushwick, Brooklyn is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "SUNRISESSION.TV: DEA MAGNA - Saint Velez - MEDINA - MiGS718" on Sat, 14 Nov 2026.
 
 TBA - Bushwick, Brooklyn is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including DEA MAGNA, ELIVVATE, MEDINA and MiGS718 and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bushwick, Brooklyn is a music venue in New York City listed on soundcheck.
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | SUNRISESSION.TV: DEA MAGNA - Saint Velez - MEDINA - MiGS718 | DEA MAGNA, ELIVVATE, MEDINA, MiGS718, Saint Velez |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-bushwick-brooklyn/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-bushwick-brooklyn/)*

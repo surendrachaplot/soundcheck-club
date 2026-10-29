@@ -1,14 +1,15 @@
 # Matthew Neequaye
 
-Matthew Neequaye is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Love Inn, Bristol on Sun, 1 Nov 2026.
+Matthew Neequaye is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Love Inn, Bristol on Sun, 1 Nov 2026.
 
-Matthew Neequaye is a house and electro artist, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Shanti Celeste, Children of Valis and Christian AB. Next up: The Love Inn, Bristol on Sun 1 Nov.
+Matthew Neequaye is a house and techno artist, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Shanti Celeste, Children of Valis and Christian AB. Next up: The Love Inn, Bristol on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | The Love Inn | Bristol |
+| Fri, 20 Nov 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Matthew Neequaye is a house and electro artist, with 54 gigs on soundcheck acros
 
 Shanti Celeste, Children of Valis, Christian AB
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*

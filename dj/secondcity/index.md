@@ -1,6 +1,6 @@
 # Secondcity
 
-Secondcity is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at XOYO, London on Sat, 28 Nov 2026.
+Secondcity is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at XOYO, London on Sat, 28 Nov 2026.
 
 Secondcity is a house and tech house artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Chicago and 16 more. Often billed alongside Steven Cee, Brian Smith and Ellie Cocks. Next up: XOYO, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Secondcity is a house and tech house artist based in United Kingdom, with 47 gig
 
 Steven Cee, Brian Smith, Ellie Cocks
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcity/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcity/)*

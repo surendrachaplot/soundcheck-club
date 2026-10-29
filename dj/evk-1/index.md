@@ -1,6 +1,6 @@
 # EVK (1)
 
-EVK (1) is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le 211, Paris on Sun, 8 Nov 2026.
+EVK (1) is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le 211, Paris on Sun, 8 Nov 2026.
 
 EVK is a minimal techno and techno artist based in France, with 18 gigs on soundcheck across Berlin and Paris. Often billed alongside Corbeille Dallas, DMN DJ and A.mo. Next up: Le 211, Paris on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ EVK is a minimal techno and techno artist based in France, with 18 gigs on sound
 
 Corbeille Dallas, DMN DJ, A.mo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evk-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evk-1/)*

@@ -1,6 +1,6 @@
 # Sterling Juan Diaz
 
-Sterling Juan Diaz is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Meadows, New York City on Fri, 30 Oct 2026.
+Sterling Juan Diaz is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Meadows, New York City on Fri, 30 Oct 2026.
 
 Sterling Juan Diaz is a house and techno artist based in United States of America, with 133 gigs on soundcheck across Berlin, Chicago, Leipzig and Los Angeles and 7 more. Often billed alongside Sekucci, ALEXIS DE LA ROSA and Makadsi. Next up: The Meadows, New York City on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Sterling Juan Diaz is a house and techno artist based in United States of Americ
 
 Sekucci, ALEXIS DE LA ROSA, Makadsi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*

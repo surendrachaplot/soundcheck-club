@@ -1,6 +1,6 @@
 # Aya ( Human Elements )
 
-Aya ( Human Elements ) is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Saloon, Tokyo on Sat, 14 Nov 2026.
+Aya ( Human Elements ) is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Saloon, Tokyo on Sat, 14 Nov 2026.
 
 Aya ( Human Elements ) is a drum & bass and bass artist based in Japan, with 12 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Velocity, Zusan and Fonts. Next up: Saloon, Tokyo on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Aya ( Human Elements ) is a drum & bass and bass artist based in Japan, with 12 
 
 Velocity, Zusan (3), Fonts
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayahumanelements/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayahumanelements/)*

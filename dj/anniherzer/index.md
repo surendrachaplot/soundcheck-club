@@ -1,6 +1,6 @@
 # Anni Herzer
 
-Anni Herzer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Vienna on Sat, 31 Oct 2026.
+Anni Herzer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Vienna on Sat, 31 Oct 2026.
 
 Anni Herzer is a house and techno artist based in Austria, with 85 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Munich and 1 more. Often billed alongside Paul Mile, LizN and MIA MIA. Next up: TBA, Vienna on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Anni Herzer is a house and techno artist based in Austria, with 85 gigs on sound
 
 Paul Mile, LizN, MIA MIA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anniherzer/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anniherzer/)*

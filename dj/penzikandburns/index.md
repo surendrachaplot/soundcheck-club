@@ -1,6 +1,6 @@
 # Penzik & Burns
 
-Penzik & Burns is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at NDR2 Red Room, London on Fri, 4 Dec 2026.
+Penzik & Burns is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at NDR2 Red Room, London on Fri, 4 Dec 2026.
 
 Penzik & Burns are a house and techno duo based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Grace Sands, T. Jacques and Alfie Aukett. Next up: NDR2 Red Room, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Penzik & Burns are a house and techno duo based in United Kingdom, with 12 gigs 
 
 Grace Sands, T. Jacques, Alfie Aukett
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penzikandburns/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penzikandburns/)*

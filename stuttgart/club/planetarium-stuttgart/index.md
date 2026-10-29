@@ -1,6 +1,6 @@
 # Planetarium Stuttgart
 
-Planetarium Stuttgart is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Emika - Fountain Immersive Live / Stuttgart" on Sat, 20 Feb 2027.
+Planetarium Stuttgart is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Emika - Fountain Immersive Live / Stuttgart" on Sat, 20 Feb 2027.
 
 Planetarium Stuttgart is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, with line-ups including Emika. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Planetarium Stuttgart is a music venue in Stuttgart listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 20 Feb 2027 | Emika - Fountain Immersive Live / Stuttgart | Emika |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/planetarium-stuttgart/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/planetarium-stuttgart/)*

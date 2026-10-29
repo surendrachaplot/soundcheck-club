@@ -1,6 +1,6 @@
 # DOUBLE TROUBLE with Magnetude (UK) at Cross Club
 
-DOUBLE TROUBLE with Magnetude (UK) at Cross Club on Fri 6 Nov, Prague. 1 artist: Magnetude. See the line-up on soundcheck.
+DOUBLE TROUBLE with Magnetude (UK) at Cross Club on Fri 6 Nov, Prague. 3 artists: Dasha Fyah, Magnetude and Tony Terra. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ DOUBLE TROUBLE with Magnetude (UK) at Cross Club on Fri 6 Nov, Prague. 1 artist:
 
 ## Line-up
 
+- Dasha Fyah
 - Magnetude
+- Tony Terra
 
 *Source: [soundcheck](https://soundcheck.club/e/2567801-double-trouble-with-magnetude-uk-at-cross-club/)*

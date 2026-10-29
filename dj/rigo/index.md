@@ -1,6 +1,6 @@
 # RIGO
 
-RIGO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at UMI, Brussels on Sat, 14 Nov 2026.
+RIGO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at UMI, Brussels on Sat, 14 Nov 2026.
 
 RIGO is a techno and trance artist, with 41 gigs on soundcheck across Berlin, Bordeaux, Brussels and Düsseldorf and 5 more. Often billed alongside CallBackSami, Neida and Juniore (FR). Next up: UMI, Brussels on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ RIGO is a techno and trance artist, with 41 gigs on soundcheck across Berlin, Bo
 
 CallBackSami, Neida, Juniore (FR)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rigo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rigo/)*

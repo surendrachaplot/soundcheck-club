@@ -1,6 +1,6 @@
 # Dame Area
 
-Dame Area is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ateliersi, Bologna on Sat, 31 Oct 2026.
+Dame Area is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ateliersi, Bologna on Sat, 31 Oct 2026.
 
 Dame Area is an experimental and electronica artist based in Spain, with 41 gigs on soundcheck across Athens, Barcelona, Berlin and Bogotá and 23 more. Often billed alongside aya, mad miran and Oriana. Next up: Ateliersi, Bologna on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Dame Area is an experimental and electronica artist based in Spain, with 41 gigs
 
 aya, mad miran, Oriana
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damearea/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damearea/)*

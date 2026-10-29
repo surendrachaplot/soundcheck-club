@@ -1,6 +1,6 @@
 # Abena
 
-Abena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The White Hotel, Manchester on Fri, 6 Nov 2026.
+Abena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The White Hotel, Manchester on Fri, 6 Nov 2026.
 
 Abena is a techno and house artist based in United Kingdom, with 42 gigs on soundcheck across Berlin, Edinburgh, Ghent and Glasgow and 5 more. Often billed alongside DANCING WITH STANLEY, Peverelist and Bitzer Maloney. Next up: The White Hotel, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Abena is a techno and house artist based in United Kingdom, with 42 gigs on soun
 
 DANCING WITH STANLEY, Peverelist, Bitzer Maloney
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abena/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abena/)*

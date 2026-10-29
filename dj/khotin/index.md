@@ -1,6 +1,6 @@
 # Khotin
 
-Khotin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Biltmore Cabaret, Vancouver on Sun, 6 Dec 2026.
+Khotin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Biltmore Cabaret, Vancouver on Sun, 6 Dec 2026.
 
 Khotin is a house and techno artist, with 32 gigs on soundcheck across Calgary, Los Angeles, Montreal and New York City and 7 more. Often billed alongside DJ D.Dee, Dane and Patrick Holland. Next up: Biltmore Cabaret, Vancouver on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Khotin is a house and techno artist, with 32 gigs on soundcheck across Calgary, 
 
 DJ D.Dee, Dane, Patrick Holland
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khotin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khotin/)*

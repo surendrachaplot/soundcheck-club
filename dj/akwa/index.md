@@ -1,6 +1,6 @@
 # AKWA
 
-AKWA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Dalston Den, London on Fri, 6 Nov 2026.
+AKWA is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Dalston Den, London on Fri, 6 Nov 2026.
 
 AKWA is a house and disco artist, with 45 gigs on soundcheck across Berlin, London, Montreal and New York City and 1 more. Often billed alongside TESFAY, Andre Zimmer and Jacob de Hooge. Next up: Dalston Den, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ AKWA is a house and disco artist, with 45 gigs on soundcheck across Berlin, Lond
 
 TESFAY, Andre Zimmer, Jacob de Hooge
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*

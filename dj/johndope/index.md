@@ -1,6 +1,6 @@
 # John Dope
 
-John Dope is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+John Dope is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 John Dope is a techno and house artist based in Colombia, with 32 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Alejandra Rosales, Dubnivm and EV-1. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ John Dope is a techno and house artist based in Colombia, with 32 gigs on soundc
 
 Alejandra Rosales, Dubnivm, EV-1
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johndope/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johndope/)*

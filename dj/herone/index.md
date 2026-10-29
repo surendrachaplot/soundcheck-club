@@ -1,6 +1,6 @@
 # Herone
 
-Herone is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at La Gravière, Geneva on Fri, 6 Nov 2026.
+Herone is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Gravière, Geneva on Fri, 6 Nov 2026.
 
 Herone is a techno and baile funk artist, with 10 gigs on soundcheck across Berlin and Geneva. Often billed alongside Mysthy, ALIASLOH and Reita D Russo. Next up: La Gravière, Geneva on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Herone is a techno and baile funk artist, with 10 gigs on soundcheck across Berl
 
 Mysthy, ALIASLOH, Reita D Russo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herone/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herone/)*

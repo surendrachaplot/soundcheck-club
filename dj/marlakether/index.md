@@ -1,6 +1,6 @@
 # Marla Kether
 
-Marla Kether is a House and Jazz artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Marla Kether is a House and Jazz artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Marla Kether is a house and jazz artist based in United Kingdom, with 39 gigs on soundcheck across Bristol, Cardiff, Lisbon and London and 1 more. Often billed alongside Cable!, Jamie Joy and Baitman. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Marla Kether is a house and jazz artist based in United Kingdom, with 39 gigs on
 
 Cable!, Jamie Joy, Baitman
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlakether/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlakether/)*

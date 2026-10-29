@@ -1,6 +1,6 @@
 # Sue Lèwig
 
-Sue Lèwig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 23 Nov 2026.
+Sue Lèwig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 23 Nov 2026.
 
 Sue Lèwig is a techno and house artist, with 12 gigs on soundcheck across Berlin, Ghent, Glasgow and Leipzig. Often billed alongside Stigmatique, CUNT REMEMBER and JANEIN. Next up: Tresor / Globus, Berlin on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ Sue Lèwig is a techno and house artist, with 12 gigs on soundcheck across Berli
 
 Stigmatique, CUNT REMEMBER, JANEIN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suelewig/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suelewig/)*

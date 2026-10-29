@@ -1,6 +1,6 @@
 # Grain Haus
 
-Grain Haus is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "PLACES+FACES x Unborn Sounds x HOTBOX present 'SPOOKY NIGHT'" on Sat, 31 Oct 2026.
+Grain Haus is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "PLACES+FACES x Unborn Sounds x HOTBOX present 'SPOOKY NIGHT'" on Sat, 31 Oct 2026.
 
 Grain Haus is a music venue in Seoul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1F, 40, Usadan-ro, Yongsan-gu, Seoul, Republic of Korea.
 
@@ -14,4 +14,4 @@ Grain Haus is a music venue in Seoul listed on soundcheck. 1 upcoming gig. See d
 
 1F, 40, Usadan-ro, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/grain-haus/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/grain-haus/)*

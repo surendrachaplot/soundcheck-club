@@ -1,14 +1,15 @@
 # Philip Paul
 
-Philip Paul is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eleusis LFC Music Studio, Athens on Sat, 31 Oct 2026.
+Philip Paul is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Eleusis LFC Music Studio, Athens on Sat, 31 Oct 2026.
 
-Philip Paul is a techno artist based in Greece, with 15 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Freeflow, Blame The Mono and PINELOPI. Next up: Eleusis LFC Music Studio, Athens on Sat 31 Oct.
+Philip Paul is a techno artist based in Greece, with 16 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Freeflow, Blame The Mono and PINELOPI. Next up: Eleusis LFC Music Studio, Athens on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Eleusis LFC Music Studio | Athens |
+| Fri, 20 Nov 2026 | Death Disco | Athens |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Philip Paul is a techno artist based in Greece, with 15 gigs on soundcheck acros
 
 Freeflow, Blame The Mono, PINELOPI
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippaul/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippaul/)*

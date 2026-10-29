@@ -1,6 +1,6 @@
 # O;Riordan (NL)
 
-O;Riordan (NL) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 6 Nov 2026.
+O;Riordan (NL) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 6 Nov 2026.
 
 O;Riordan (NL) is a house and electro artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and The Hague and 1 more. Often billed alongside Richelle Soigni, Kennedy and Kevin Lo. Next up: Time is the new space, Rotterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ O;Riordan (NL) is a house and electro artist based in Netherlands, with 19 gigs 
 
 Richelle Soigni, Kennedy, Kevin Lo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriordannl/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriordannl/)*

@@ -1,6 +1,6 @@
 # Robbie
 
-Robbie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Oran Mor, Glasgow on Fri, 30 Oct 2026.
+Robbie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Oran Mor, Glasgow on Fri, 30 Oct 2026.
 
 Robbie is a house and techno artist based in United Kingdom, with 82 gigs on soundcheck across Aberdeen, Auckland, Dundee and Edinburgh and 3 more. Often billed alongside Jamie Gunn, Carmen Baía and Breathe. Next up: Oran Mor, Glasgow on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Robbie is a house and techno artist based in United Kingdom, with 82 gigs on sou
 
 Jamie Gunn, Carmen Baía, Breathe
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbie/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbie/)*

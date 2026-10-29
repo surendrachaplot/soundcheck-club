@@ -1,6 +1,6 @@
 # LSB
 
-LSB is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Volks, Brighton on Sat, 31 Oct 2026.
+LSB is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Volks, Brighton on Sat, 31 Oct 2026.
 
 LSB is a drum & bass and jungle artist based in United Kingdom, with 73 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 33 more. Often billed alongside DRS, Workforce and MC Fox. Next up: Volks, Brighton on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ LSB is a drum & bass and jungle artist based in United Kingdom, with 73 gigs on 
 
 DRS, Workforce, MC Fox
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*

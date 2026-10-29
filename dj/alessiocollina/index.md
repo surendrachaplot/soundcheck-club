@@ -1,6 +1,6 @@
 # Alessio Collina
 
-Alessio Collina is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bagno Mundial, Bologna on Sat, 7 Nov 2026.
+Alessio Collina is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bagno Mundial, Bologna on Sat, 7 Nov 2026.
 
 Alessio Collina is a house and acid artist based in Italy, with 24 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 3 more. Often billed alongside DJ Rou, Brine and Flavio Deff. Next up: Bagno Mundial, Bologna on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Alessio Collina is a house and acid artist based in Italy, with 24 gigs on sound
 
 DJ Rou, Brine, Flavio Deff
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiocollina/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiocollina/)*

@@ -1,6 +1,6 @@
 # Miyuki Omura
 
-Miyuki Omura is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Asakusa Stella, Tokyo on Sat, 14 Nov 2026.
+Miyuki Omura is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Asakusa Stella, Tokyo on Sat, 14 Nov 2026.
 
 Miyuki Omura is a hardcore and techno artist based in Japan, with 49 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 13 more. Often billed alongside Reverse16, KAMIKAZE and M-Project. Next up: Asakusa Stella, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Miyuki Omura is a hardcore and techno artist based in Japan, with 49 gigs on sou
 
 Reverse16, KAMIKAZE, M-Project
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyukiomura/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyukiomura/)*

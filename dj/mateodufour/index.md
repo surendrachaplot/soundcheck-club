@@ -1,6 +1,6 @@
 # Mateo Dufour
 
-Mateo Dufour is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Mateo Dufour is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
 Mateo Dufour is a house and tech house artist based in Argentina, with 88 gigs on soundcheck across Amsterdam, Bali, Barcelona and Buenos Aires and 16 more. Often billed alongside ANOTR, Alci and Toman. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mateo Dufour is a house and tech house artist based in Argentina, with 88 gigs o
 
 ANOTR, Alci, Toman
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*

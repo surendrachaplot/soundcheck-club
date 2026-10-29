@@ -1,6 +1,6 @@
 # Shibuya Stream Hall
 
-Shibuya Stream Hall is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "MO( ) TOKYO" on Fri, 6 Nov 2026.
+Shibuya Stream Hall is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "MO( ) TOKYO" on Fri, 6 Nov 2026.
 
 Shibuya Stream Hall is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including DJ B2B, DJ Quietstorm, Elle Shimada and tamanaramen and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Shibuya Stream Hall is a music venue in Tokyo listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | MO( ) TOKYO | DJ B2B, DJ Quietstorm, Elle Shimada, YUVIE, tamanaramen |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-stream-hall/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-stream-hall/)*

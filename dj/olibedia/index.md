@@ -1,6 +1,6 @@
 # OLI BEDIA
 
-OLI BEDIA is a Electronica and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Madrid on Sat, 7 Nov 2026.
+OLI BEDIA is a Electronica and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Madrid on Sat, 7 Nov 2026.
 
 OLI BEDIA is an electronica and downtempo artist based in Spain, with 16 gigs on soundcheck across Madrid. Often billed alongside DIGUES, Aizikovic and BIHABI. Next up: TBA, Madrid on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ OLI BEDIA is an electronica and downtempo artist based in Spain, with 16 gigs on
 
 DIGUES, Aizikovic, BIHABI
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olibedia/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olibedia/)*

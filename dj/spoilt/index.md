@@ -1,6 +1,6 @@
 # SPOILT
 
-SPOILT is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Flinders, Sydney on Sat, 7 Nov 2026.
+SPOILT is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Flinders, Sydney on Sat, 7 Nov 2026.
 
 SPOILT is a techno and hardcore artist based in Australia, with 3 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside ONARSÉ, <777> and WISER. Next up: The Flinders, Sydney on Sat 7 Nov.
 
@@ -16,4 +16,4 @@ SPOILT is a techno and hardcore artist based in Australia, with 3 gigs on soundc
 
 ONARSÉ, <777>, WISER
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spoilt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spoilt/)*

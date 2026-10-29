@@ -1,6 +1,6 @@
 # MALAGÜERA
 
-MALAGÜERA is a House and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 1 Nov 2026.
+MALAGÜERA is a House and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 1 Nov 2026.
 
 MALAGÜERA is a house and baile funk artist based in Chile, with 16 gigs on soundcheck across Berlin. Often billed alongside Isa GT, Lazy Rosario and B. Clarke. Next up: Crack Bellmer, Berlin on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ MALAGÜERA is a house and baile funk artist based in Chile, with 16 gigs on soun
 
 Isa GT, Lazy Rosario, B. Clarke
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaguera/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaguera/)*

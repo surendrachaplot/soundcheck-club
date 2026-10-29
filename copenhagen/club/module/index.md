@@ -1,6 +1,6 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "TorsdagsTechno x Nameless" on Thu, 29 Oct 2026.
+MODULE is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "TorsdagsTechno x Nameless" on Thu, 29 Oct 2026.
 
 MODULE is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including Anders HP, Anna Logic, CERJ and CF682 and 2 more. See dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
@@ -16,4 +16,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, wit
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

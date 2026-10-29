@@ -1,6 +1,6 @@
 # Cascina Cappuccina
 
-Cascina Cappuccina is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "La Ballata Dei Morti" on Sun, 1 Nov 2026.
+Cascina Cappuccina is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "La Ballata Dei Morti" on Sun, 1 Nov 2026.
 
 Cascina Cappuccina is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cascina Cappuccina is a music venue in Milan listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | La Ballata Dei Morti |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cascina-cappuccina/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cascina-cappuccina/)*

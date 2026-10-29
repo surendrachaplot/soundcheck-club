@@ -1,14 +1,15 @@
 # Mara Mortem
 
-Mara Mortem is a EBM and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Camden Assembly, London on Fri, 30 Oct 2026.
+Mara Mortem is a EBM and New Wave artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Camden Assembly, London on Fri, 30 Oct 2026.
 
-Mara Mortem is an ebm and new wave artist based in Spain, with 15 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Ricardo Castro, Lais Pattak and Steve Weeks. Next up: Camden Assembly, London on Fri 30 Oct.
+Mara Mortem is an ebm and new wave artist based in Spain, with 16 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Ricardo Castro, Lais Pattak and Steve Weeks. Next up: Camden Assembly, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Camden Assembly | London |
+| Sat, 31 Oct 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mara Mortem is an ebm and new wave artist based in Spain, with 15 gigs on soundc
 
 Ricardo Castro, Lais Pattak, Steve Weeks
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maramortem/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maramortem/)*

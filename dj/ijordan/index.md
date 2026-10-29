@@ -1,6 +1,6 @@
 # I. JORDAN
 
-I. JORDAN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at SWG3, Glasgow on Fri, 30 Oct 2026.
+I. JORDAN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at SWG3, Glasgow on Fri, 30 Oct 2026.
 
 I. JORDAN is a techno and house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: SWG3, Glasgow on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ I. JORDAN is a techno and house artist based in United Kingdom, with 125 gigs on
 
 SHERELLE, KETTAMA, Honey Dijon
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*

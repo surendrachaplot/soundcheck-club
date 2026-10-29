@@ -1,6 +1,6 @@
 # Dino Saints
 
-Dino Saints is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at VIBE Music Zone, Milan on Fri, 30 Oct 2026.
+Dino Saints is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at VIBE Music Zone, Milan on Fri, 30 Oct 2026.
 
 Dino Saints is a tech house and minimal artist, with 11 gigs on soundcheck across Barcelona, London, Medellin and Milan and 1 more. Often billed alongside Andrea Abbate, Andrea Rossi and Grittrip. Next up: VIBE Music Zone, Milan on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Dino Saints is a tech house and minimal artist, with 11 gigs on soundcheck acros
 
 Andrea Abbate, Andrea Rossi, Grittrip
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinosaints/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinosaints/)*

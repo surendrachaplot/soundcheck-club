@@ -1,6 +1,6 @@
 # Joe Vanditti
 
-Joe Vanditti is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Studio Club Malaga, Malaga on Sun, 1 Nov 2026.
+Joe Vanditti is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Studio Club Malaga, Malaga on Sun, 1 Nov 2026.
 
 Joe Vanditti is a tech house and house artist based in Italy, with 56 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bucharest and 17 more. Often billed alongside Stefano Noferini, Alev Tav and Alex Bohemien. Next up: Studio Club Malaga, Malaga on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Joe Vanditti is a tech house and house artist based in Italy, with 56 gigs on so
 
 Stefano Noferini, Alev Tav, Alex Bohemien
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*

@@ -1,6 +1,6 @@
 # Von Bueno
 
-Von Bueno is a Post-Punk and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Chunhee, Seoul on Fri, 30 Oct 2026.
+Von Bueno is a Post-Punk and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Chunhee, Seoul on Fri, 30 Oct 2026.
 
 Von Bueno is a post-punk and new wave artist, with 20 gigs on soundcheck across Seoul. Often billed alongside yuyungsik, Quandol and Uman Therma. Next up: Chunhee, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Von Bueno is a post-punk and new wave artist, with 20 gigs on soundcheck across 
 
 yuyungsik, Quandol, Uman Therma
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbueno/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbueno/)*

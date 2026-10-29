@@ -1,14 +1,13 @@
 # ILLUM
 
-ILLUM is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "atha 2026aw 「聚乐部」之夜 pop up store & party" on Fri, 23 Oct 2026.
+ILLUM is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "亚洲超速 HYPERASIA Vol.4" on Sat, 7 Nov 2026.
 
-ILLUM is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+ILLUM is a music venue in Shanghai listed on soundcheck. 1 upcoming gig, with line-ups including 50JING. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | atha 2026aw 「聚乐部」之夜 pop up store & party |  |
-| Sat, 24 Oct 2026 | 「RAW TIME」JERKBOYS 一 周年巨献 |  |
+| Sat, 7 Nov 2026 | 亚洲超速 HYPERASIA Vol.4 | 50JING |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/illum/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/illum/)*

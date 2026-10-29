@@ -1,6 +1,6 @@
 # Nader
 
-Nader is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Nader is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Nader is a techno and electronica artist, with 21 gigs on soundcheck across Berlin, Bogotá, Toronto and Zurich. Often billed alongside Bedriñana, Bluekim and Camille Spectrae. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nader is a techno and electronica artist, with 21 gigs on soundcheck across Berl
 
 Bedriñana, Bluekim, Camille Spectrae
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nader/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nader/)*

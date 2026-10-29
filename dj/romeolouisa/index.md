@@ -1,6 +1,6 @@
 # Romeo Louisa
 
-Romeo Louisa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Glazart, Paris on Sun, 1 Nov 2026.
+Romeo Louisa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Glazart, Paris on Sun, 1 Nov 2026.
 
 Romeo Louisa is a house and techno artist based in France, with 35 gigs on soundcheck across Amsterdam, Bangkok, Budapest and Hong Kong and 4 more. Often billed alongside ZAV, Axelle Maga and THEOS. Next up: Glazart, Paris on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Romeo Louisa is a house and techno artist based in France, with 35 gigs on sound
 
 ZAV, Axelle Maga, THEOS (1)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romeolouisa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romeolouisa/)*

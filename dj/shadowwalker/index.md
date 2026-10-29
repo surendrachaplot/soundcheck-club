@@ -1,14 +1,15 @@
 # Shadow Walker
 
-Shadow Walker is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Chinatown Warehouse Location, Philadelphia on Fri, 30 Oct 2026.
+Shadow Walker is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Chinatown Warehouse Location, Philadelphia on Fri, 30 Oct 2026.
 
-Shadow Walker is a progressive house and house artist based in United States of America, with 23 gigs on soundcheck across Philadelphia. Often billed alongside Mayank, Kobza and Miles Alexander. Next up: TBA - Secret Chinatown Warehouse Location, Philadelphia on Fri 30 Oct.
+Shadow Walker is a progressive house and house artist based in United States of America, with 24 gigs on soundcheck across Philadelphia. Often billed alongside Mayank, Kobza and Miles Alexander. Next up: TBA - Secret Chinatown Warehouse Location, Philadelphia on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - Secret Chinatown Warehouse Location | Philadelphia |
+| Thu, 3 Dec 2026 | Noto Philadelphia | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shadow Walker is a progressive house and house artist based in United States of 
 
 Mayank, Kobza, Miles Alexander
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowwalker/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowwalker/)*

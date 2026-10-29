@@ -1,6 +1,6 @@
 # Feelgood
 
-Feelgood is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Venue DT Vancouver, Vancouver on Fri, 30 Oct 2026.
+Feelgood is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Venue DT Vancouver, Vancouver on Fri, 30 Oct 2026.
 
 Feelgood is a bass and drum & bass artist, with 4 gigs on soundcheck across London and Vancouver. Often billed alongside BiiSHoP, Daega Sound and Donna Dada. Next up: TBA - Secret Venue DT Vancouver, Vancouver on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Feelgood is a bass and drum & bass artist, with 4 gigs on soundcheck across Lond
 
 BiiSHoP, Daega Sound, Donna Dada
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feelgood/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feelgood/)*

@@ -1,6 +1,6 @@
 # Kaycee
 
-Kaycee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Centre Point, Dublin on Sat, 28 Nov 2026.
+Kaycee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Centre Point, Dublin on Sat, 28 Nov 2026.
 
 Kaycee is a house and techno artist based in Ireland, with 33 gigs on soundcheck across Dublin. Often billed alongside DART, Kayleigh Glynn and ShaunaDee. Next up: Centre Point, Dublin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kaycee is a house and techno artist based in Ireland, with 33 gigs on soundcheck
 
 DART, Kayleigh Glynn, ShaunaDee
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaycee/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaycee/)*

@@ -1,6 +1,6 @@
 # Paranormal Disco - Two Rooms, Nine Hours at The Model
 
-Paranormal Disco - Two Rooms, Nine Hours at The Model on Sat 31 Oct, Nottingham. 5 artists: Brad Bradley, Burly Chassis, dj come and rPal and 1 more. Tech House and Italo Disco. See the line-up on soundcheck.
+Paranormal Disco - Two Rooms, Nine Hours at The Model on Sat 31 Oct, Nottingham. 7 artists: Brad Bradley, Burly Chassis, dj come and Evil Woman and 3 more. Tech House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,8 @@ Paranormal Disco - Two Rooms, Nine Hours at The Model on Sat 31 Oct, Nottingham.
 - Brad Bradley
 - Burly Chassis
 - dj come
+- Evil Woman
+- Kay Fabe
 - rPal
 - SPICYIVY
 

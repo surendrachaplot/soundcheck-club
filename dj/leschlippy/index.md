@@ -1,15 +1,14 @@
 # Le Schlippy
 
-Le Schlippy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at crobar, Cleveland on Fri, 30 Oct 2026.
+Le Schlippy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at crobar, Cleveland on Fri, 30 Oct 2026.
 
-Le Schlippy is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Cleveland and Detroit. Often billed alongside Innergroove, Sleazus Christ and Au Contraire. Next up: crobar, Cleveland on Fri 30 Oct.
+Le Schlippy is a techno and house artist based in United States of America, with 25 gigs on soundcheck across Cleveland and Detroit. Often billed alongside Innergroove, Sleazus Christ and Au Contraire. Next up: crobar, Cleveland on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | crobar | Cleveland |
-| Thu, 12 Nov 2026 | crobar | Cleveland |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Le Schlippy is a techno and house artist based in United States of America, with
 
 Innergroove, Sleazus Christ, Au Contraire
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leschlippy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leschlippy/)*

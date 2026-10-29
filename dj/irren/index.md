@@ -1,6 +1,6 @@
 # Irren
 
-Irren is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London on Sat, 31 Oct 2026.
+Irren is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London on Sat, 31 Oct 2026.
 
 Irren is a house and tech house artist based in Moldova, with 18 gigs on soundcheck across London. Often billed alongside Andrea Giudice, Larry Cadge and Mono Dust_. Next up: TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Irren is a house and tech house artist based in Moldova, with 18 gigs on soundch
 
 Andrea Giudice, Larry Cadge, Mono Dust_
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irren/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irren/)*

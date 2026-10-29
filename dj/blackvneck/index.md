@@ -1,6 +1,6 @@
 # Black V Neck
 
-Black V Neck is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Ora, Seattle on Sun, 24 Jan 2027.
+Black V Neck is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ora, Seattle on Sun, 24 Jan 2027.
 
 Black V Neck is a house and tech house artist based in United States of America, with 36 gigs on soundcheck across Austin, Boston, Chicago and Detroit and 14 more. Often billed alongside Vnssa, Matroda and Walker & Royce. Next up: Ora, Seattle on Sun 24 Jan.
 
@@ -25,4 +25,4 @@ Black V Neck is a house and tech house artist based in United States of America,
 
 Vnssa, Matroda, Walker & Royce
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackvneck/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackvneck/)*

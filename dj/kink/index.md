@@ -1,6 +1,6 @@
 # KiNK
 
-KiNK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at D! Club, Lausanne on Fri, 30 Oct 2026.
+KiNK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at D! Club, Lausanne on Fri, 30 Oct 2026.
 
 KiNK is a techno and house artist based in Bulgaria, with 201 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 60 more. Often billed alongside Raredub, FJAAK and Ben Klock. Next up: D! Club, Lausanne on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ KiNK is a techno and house artist based in Bulgaria, with 201 gigs on soundcheck
 
 Raredub, FJAAK, Ben Klock
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*

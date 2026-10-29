@@ -1,6 +1,6 @@
 # Nico Moon
 
-Nico Moon is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Club M2 Miami, Miami on Sat, 7 Nov 2026.
+Nico Moon is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club M2 Miami, Miami on Sat, 7 Nov 2026.
 
 Nico Moon is a house and deep house artist based in Argentina, with 65 gigs on soundcheck across Dallas/Fort Worth, Florida, Ibiza and Los Angeles and 4 more. Often billed alongside Kike Roldan, DIFFER and Mariano Mellino. Next up: Club M2 Miami, Miami on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Nico Moon is a house and deep house artist based in Argentina, with 65 gigs on s
 
 Kike Roldan, DIFFER, Mariano Mellino
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoon/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoon/)*

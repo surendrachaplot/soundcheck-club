@@ -1,6 +1,6 @@
 # Ackerlady
 
-Ackerlady is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tuff Bar, Bangkok on Fri, 30 Oct 2026.
+Ackerlady is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tuff Bar, Bangkok on Fri, 30 Oct 2026.
 
 Ackerlady is a techno and club artist based in Thailand, with 8 gigs on soundcheck across Bangkok, New York City and Tokyo. Often billed alongside LOMOROOM, MJMA and MOONBLUE. Next up: Tuff Bar, Bangkok on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Ackerlady is a techno and club artist based in Thailand, with 8 gigs on soundche
 
 LOMOROOM, MJMA, MOONBLUE
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ackerlady/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ackerlady/)*

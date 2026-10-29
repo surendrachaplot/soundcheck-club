@@ -1,6 +1,6 @@
 # Doctor P
 
-Doctor P is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sidney & Matilda, Sheffield on Sat, 12 Dec 2026.
+Doctor P is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sidney & Matilda, Sheffield on Sat, 12 Dec 2026.
 
 Doctor P is a dubstep and techno artist based in United Kingdom, with 10 gigs on soundcheck across Baltimore, Denver, Jacksonville and London and 4 more. Often billed alongside Flux Pavilion, Blooom and CODE. Next up: Sidney & Matilda, Sheffield on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Doctor P is a dubstep and techno artist based in United Kingdom, with 10 gigs on
 
 Flux Pavilion, Blooom, CODE (3)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorp/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorp/)*

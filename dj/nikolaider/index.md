@@ -1,6 +1,6 @@
 # Nikolaider
 
-Nikolaider is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Glove That Fits, London on Fri, 4 Dec 2026.
+Nikolaider is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Glove That Fits, London on Fri, 4 Dec 2026.
 
 Nikolaider is a techno and psytrance artist based in Belarus, with 10 gigs on soundcheck across London. Often billed alongside ALVAZ, GreenWay and DungeonMaster. Next up: The Glove That Fits, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nikolaider is a techno and psytrance artist based in Belarus, with 10 gigs on so
 
 ALVAZ, GreenWay, DungeonMaster
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolaider/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolaider/)*

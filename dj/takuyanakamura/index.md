@@ -1,6 +1,6 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 15 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Limelight, Belfast on Fri, 30 Oct 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Limelight, Belfast on Fri, 30 Oct 2026.
 
 Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 42 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: The Limelight, Belfast on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on sou
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

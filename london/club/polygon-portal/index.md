@@ -1,6 +1,6 @@
 # Polygon Portal
 
-Polygon Portal is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "WONDER Across Continents" on Thu, 19 Nov 2026.
+Polygon Portal is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "WONDER Across Continents" on Thu, 19 Nov 2026.
 
 Polygon Portal is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Polygon Portal is a music venue in London listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | WONDER Across Continents |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/polygon-portal/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/polygon-portal/)*

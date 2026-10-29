@@ -1,6 +1,6 @@
 # Jaebin
 
-Jaebin is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Flac, Seoul on Sat, 31 Oct 2026.
+Jaebin is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Flac, Seoul on Sat, 31 Oct 2026.
 
 Jaebin is a house and tech house artist based in South Korea, with 19 gigs on soundcheck across London and Seoul. Often billed alongside Davico, Demuk and Departs. Next up: Flac, Seoul on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jaebin is a house and tech house artist based in South Korea, with 19 gigs on so
 
 Davico, Demuk, Departs
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaebin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaebin/)*

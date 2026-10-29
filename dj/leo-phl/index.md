@@ -1,14 +1,14 @@
 # Leo (PHL)
 
-Leo (PHL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Umbria Arts, 5100 Umbria St, Philadelphia, PA 19128, Philadelphia on Thu, 5 Nov 2026.
+Leo (PHL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Umbria Arts, Philadelphia on Thu, 5 Nov 2026.
 
-Leo (PHL) is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Miami and Philadelphia. Often billed alongside APS, AbueKev and Andrew James Gustav. Next up: TBA - Umbria Arts, 5100 Umbria St, Philadelphia, PA 19128, Philadelphia on Thu 5 Nov.
+Leo (PHL) is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Miami and Philadelphia. Often billed alongside APS, AbueKev and Andrew James Gustav. Next up: Umbria Arts, Philadelphia on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | TBA - Umbria Arts, 5100 Umbria St, Philadelphia, PA 19128 | Philadelphia |
+| Thu, 5 Nov 2026 | Umbria Arts | Philadelphia |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ Leo (PHL) is a techno and house artist based in United States of America, with 8
 
 APS, AbueKev, Andrew James Gustav
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-phl/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-phl/)*

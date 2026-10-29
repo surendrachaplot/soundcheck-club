@@ -1,8 +1,8 @@
 # Paragon
 
-Paragon is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Resolved: DSA Halloween" on Thu, 29 Oct 2026.
+Paragon is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Resolved: DSA Halloween" on Thu, 29 Oct 2026.
 
-Paragon is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 1morning, 550am, Adelaide and AK (US) and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 1morning, 550am, Adelaide and AK (US) and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Paragon is a music venue in New York City listed on soundcheck. 14 upcoming gigs
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

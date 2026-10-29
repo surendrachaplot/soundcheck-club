@@ -1,6 +1,6 @@
 # XAN (TW)
 
-XAN (TW) is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Saloon, Tokyo on Fri, 30 Oct 2026.
+XAN (TW) is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Saloon, Tokyo on Fri, 30 Oct 2026.
 
 XAN (TW) is a baile funk and bass artist, with 9 gigs on soundcheck across Taipei and Tokyo. Often billed alongside Jun (+886), AoWu and B E N N. Next up: Saloon, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ XAN (TW) is a baile funk and bass artist, with 9 gigs on soundcheck across Taipe
 
 Jun (+886), AoWu, B E N N
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xan-tw/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xan-tw/)*

@@ -1,6 +1,6 @@
 # Channel One Sound
 
-Channel One Sound is a Dub and Bass artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
+Channel One Sound is a Dub and Bass artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Channel One Sound is a dub and bass artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 21 more. Often billed alongside Kahn, Breakfake and Dubkasm. Next up: Village Underground Barcelona, Barcelona on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Channel One Sound is a dub and bass artist based in United Kingdom, with 72 gigs
 
 Kahn, Breakfake, Dubkasm
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*

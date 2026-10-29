@@ -1,6 +1,6 @@
 # james K
 
-james K is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Echoplex, Los Angeles on Fri, 6 Nov 2026.
+james K is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Echoplex, Los Angeles on Fri, 6 Nov 2026.
 
 james K is an ambient and experimental artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Nick León, Oklou and Yumi. Next up: The Echoplex, Los Angeles on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ james K is an ambient and experimental artist based in United States of America,
 
 Nick León, Oklou, Yumi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesk-de/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesk-de/)*

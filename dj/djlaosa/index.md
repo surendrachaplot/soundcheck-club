@@ -1,6 +1,6 @@
 # DJ LaOsa
 
-DJ LaOsa is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Rum Shack, Glasgow on Sat, 31 Oct 2026.
+DJ LaOsa is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Rum Shack, Glasgow on Sat, 31 Oct 2026.
 
 DJ LaOsa is an electronic artist, with 7 gigs on soundcheck across Glasgow. Often billed alongside pasosprohibidos, DJ D-Vent and DJ DAKILEI. Next up: The Rum Shack, Glasgow on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ DJ LaOsa is an electronic artist, with 7 gigs on soundcheck across Glasgow. Ofte
 
 pasosprohibidos, DJ D-Vent, DJ DAKILEI
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlaosa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlaosa/)*

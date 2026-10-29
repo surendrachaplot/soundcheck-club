@@ -1,6 +1,6 @@
 # Franky Greiner
 
-Franky Greiner is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Nido Marseille, Marseille on Sat, 28 Nov 2026.
+Franky Greiner is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Nido Marseille, Marseille on Sat, 28 Nov 2026.
 
 Franky Greiner is a techno and minimal artist, with 20 gigs on soundcheck across Berlin, Ibiza, Istanbul and Marseille. Often billed alongside Cabanne, Hagel and Johnny D. Next up: Nido Marseille, Marseille on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Franky Greiner is a techno and minimal artist, with 20 gigs on soundcheck across
 
 Cabanne, Hagel, Johnny D
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankygreiner/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankygreiner/)*

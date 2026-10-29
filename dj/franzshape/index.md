@@ -1,6 +1,6 @@
 # Franz & Shape
 
-Franz & Shape is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at NOH Extended, Istanbul on Sat, 31 Oct 2026.
+Franz & Shape is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at NOH Extended, Istanbul on Sat, 31 Oct 2026.
 
 Franz & Shape are an ebm and techno duo based in Italy, with 8 gigs on soundcheck across Berlin, Istanbul, Los Angeles and Rome and 2 more. Often billed alongside Amatric, Berlin Bunny and Club Drippy. Next up: NOH Extended, Istanbul on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Franz & Shape are an ebm and techno duo based in Italy, with 8 gigs on soundchec
 
 Amatric, Berlin Bunny, Club Drippy
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franzshape/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franzshape/)*

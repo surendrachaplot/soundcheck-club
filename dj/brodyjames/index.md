@@ -1,6 +1,6 @@
 # Brody James
 
-Brody James is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Phonox, London on Thu, 29 Oct 2026.
+Brody James is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Phonox, London on Thu, 29 Oct 2026.
 
 Brody James is a house and techno artist based in United Kingdom, with 28 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Tosher, DRUMA and Babyccino. Next up: Phonox, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Brody James is a house and techno artist based in United Kingdom, with 28 gigs o
 
 Tosher, DRUMA, Babyccino
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brodyjames/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brodyjames/)*

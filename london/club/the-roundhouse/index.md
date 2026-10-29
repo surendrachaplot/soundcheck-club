@@ -1,6 +1,6 @@
 # The Roundhouse
 
-The Roundhouse is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "MESTIZA presents Sacro Halloween" on Fri, 30 Oct 2026.
+The Roundhouse is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "MESTIZA presents Sacro Halloween" on Fri, 30 Oct 2026.
 
 The Roundhouse is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including ALLKNIGHT, Caiiro, Calibre and Da Capo and 2 more. See dates, start times and who's playing. Chalk Farm Road; Camden Town; London NW1 8EH; United Kingdom.
 
@@ -21,4 +21,4 @@ The Roundhouse is a music venue in London listed on soundcheck. 8 upcoming gigs,
 
 Chalk Farm Road; Camden Town; London NW1 8EH; United Kingdom, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-roundhouse/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-roundhouse/)*

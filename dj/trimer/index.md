@@ -1,6 +1,6 @@
 # Trimer
 
-Trimer is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+Trimer is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
 Trimer is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on soundcheck across Birmingham, Brighton, Bristol and Glasgow and 3 more. Often billed alongside Benny L, Fatman D and IC3. Next up: XOYO, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Trimer is a drum & bass and jungle artist based in United Kingdom, with 19 gigs 
 
 Benny L, Fatman D, IC3
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trimer/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trimer/)*

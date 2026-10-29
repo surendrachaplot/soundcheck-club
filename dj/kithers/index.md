@@ -1,13 +1,14 @@
 # Kithers
 
-Kithers is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at BRET, Amsterdam on Sat, 28 Nov 2026.
+Kithers is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at BRET, Amsterdam on Sat, 28 Nov 2026.
 
-Kithers is a house and tech house artist based in Australia, with 29 gigs on soundcheck across Amsterdam, Berlin, Hobart and London and 1 more. Often billed alongside Bex, Andy Luff and Amphi. Next up: BRET, Amsterdam on Sat 28 Nov.
+Kithers is a house and tech house artist based in Australia, with 30 gigs on soundcheck across Amsterdam, Berlin, Hobart and London and 1 more. Often billed alongside Bex, Andy Luff and Alex Dima. Next up: BRET, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sun, 13 Dec 2026 | Rooftop Bar | Melbourne |
@@ -25,6 +26,6 @@ Kithers is a house and tech house artist based in Australia, with 29 gigs on sou
 
 ## Shares bills with
 
-Bex, Andy Luff, Amphi
+Bex, Andy Luff, Alex Dima
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kithers/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kithers/)*

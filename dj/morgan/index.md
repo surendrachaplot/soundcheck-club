@@ -1,6 +1,6 @@
 # Morgan
 
-Morgan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Morgan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Morgan is a house and techno artist based in Australia, with 140 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 27 more. Often billed alongside Tomas Station, Magda and Christian AB. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Morgan is a house and techno artist based in Australia, with 140 gigs on soundch
 
 Tomas Station, Magda, Christian AB
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morgan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morgan/)*

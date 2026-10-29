@@ -1,6 +1,6 @@
 # eskay
 
-eskay is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Bernard Shaw, Dublin on Sat, 7 Nov 2026.
+eskay is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Bernard Shaw, Dublin on Sat, 7 Nov 2026.
 
 eskay is a house and deep house artist based in Ireland, with 29 gigs on soundcheck across Dublin, New York City and Sydney. Often billed alongside 2step.png, Jenn Hession and Decorum. Next up: The Bernard Shaw, Dublin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ eskay is a house and deep house artist based in Ireland, with 29 gigs on soundch
 
 2step.png, Jenn Hession, Decorum
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eskay/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eskay/)*

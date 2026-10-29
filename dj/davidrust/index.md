@@ -1,6 +1,6 @@
 # David Rust
 
-David Rust is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at WaV, Liverpool on Fri, 30 Oct 2026.
+David Rust is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at WaV, Liverpool on Fri, 30 Oct 2026.
 
 David Rust is a trance and techno artist based in United Kingdom, with 22 gigs on soundcheck across Cardiff, Dallas/Fort Worth, Dundee and Edinburgh and 12 more. Often billed alongside Billy Gillies, Aaron Hibell and Aly & Fila. Next up: WaV, Liverpool on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ David Rust is a trance and techno artist based in United Kingdom, with 22 gigs o
 
 Billy Gillies, Aaron Hibell, Aly & Fila
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrust/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrust/)*

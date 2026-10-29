@@ -1,6 +1,6 @@
 # J1 - FJAAK at Jasna 1
 
-J1 - FJAAK at Jasna 1 on Sat 7 Nov, Warsaw. 1 artist: FJAAK. See the line-up on soundcheck.
+J1 - FJAAK at Jasna 1 on Sat 7 Nov, Warsaw. 4 artists: Botanica, Cyryl, Ferskja and FJAAK. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ J1 - FJAAK at Jasna 1 on Sat 7 Nov, Warsaw. 1 artist: FJAAK. See the line-up on 
 
 ## Line-up
 
+- Botanica
+- Cyryl
+- Ferskja
 - FJAAK
 
 *Source: [soundcheck](https://soundcheck.club/e/2505838-j1-fjaak-at-jasna-1/)*

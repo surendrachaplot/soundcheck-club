@@ -1,8 +1,8 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Gloria's, Liverpool on Sat, 7 Nov 2026.
+Bustin' Loose is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gloria's, Liverpool on Sat, 7 Nov 2026.
 
-Bustin' Loose is a house and disco artist based in United Kingdom, with 160 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Berlin and 19 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Gloria's, Liverpool on Sat 7 Nov.
+Bustin' Loose is a house and disco artist based in United Kingdom, with 163 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Berlin and 19 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Gloria's, Liverpool on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,9 @@ Bustin' Loose is a house and disco artist based in United Kingdom, with 160 gigs
 | Sat, 7 Nov 2026 | Gloria's | Liverpool |
 | Fri, 13 Nov 2026 | Alcazar Live | Rome |
 | Sat, 14 Nov 2026 | Madam | Amsterdam |
+| Sat, 21 Nov 2026 | Ciao Ciao | New York City |
+| Thu, 3 Dec 2026 | Jean’s | New York City |
+| Sat, 19 Dec 2026 | Ciao Ciao | New York City |
 
 ## Recently played
 
@@ -27,4 +30,4 @@ Bustin' Loose is a house and disco artist based in United Kingdom, with 160 gigs
 
 Tatiana, Roland & Brother Rich, Magnolia_
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

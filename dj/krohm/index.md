@@ -1,6 +1,6 @@
 # Krohm
 
-Krohm is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sameheads, Berlin on Thu, 29 Oct 2026.
+Krohm is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sameheads, Berlin on Thu, 29 Oct 2026.
 
 Krohm is a techno and electronica artist, with 13 gigs on soundcheck across Berlin and Vienna. Often billed alongside olesia, rouge-ah and CUNT REMEMBER. Next up: Sameheads, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Krohm is a techno and electronica artist, with 13 gigs on soundcheck across Berl
 
 olesia, rouge-ah, CUNT REMEMBER
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krohm/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krohm/)*

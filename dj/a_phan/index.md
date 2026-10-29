@@ -1,6 +1,6 @@
 # A_Phan
 
-A_Phan is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Lucia, Vienna on Mon, 30 Nov 2026.
+A_Phan is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Lucia, Vienna on Mon, 30 Nov 2026.
 
 A_Phan is an electronica and jazz artist based in Austria, with 7 gigs on soundcheck across Berlin and Vienna. Often billed alongside Natasha Moreno, Yakkushi and Anmon. Next up: Club Lucia, Vienna on Mon 30 Nov.
 
@@ -23,4 +23,4 @@ A_Phan is an electronica and jazz artist based in Austria, with 7 gigs on soundc
 
 Natasha Moreno, Yakkushi, Anmon
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a_phan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a_phan/)*

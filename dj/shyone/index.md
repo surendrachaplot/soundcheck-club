@@ -1,6 +1,6 @@
 # Shy One
 
-Shy One is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Fitzroy, Berlin on Fri, 30 Oct 2026.
+Shy One is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fitzroy, Berlin on Fri, 30 Oct 2026.
 
 Shy One is a house and techno artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 28 more. Often billed alongside Ruby Savage, NIKS and OK Williams. Next up: Fitzroy, Berlin on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Shy One is a house and techno artist based in United Kingdom, with 132 gigs on s
 
 Ruby Savage, NIKS, OK Williams
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*

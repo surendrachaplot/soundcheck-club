@@ -1,6 +1,6 @@
 # Magugu
 
-Magugu is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Stereo, Glasgow on Sat, 21 Nov 2026.
+Magugu is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Stereo, Glasgow on Sat, 21 Nov 2026.
 
 Magugu is a bass and techno artist, with 25 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 13 more. Often billed alongside Le Motel, Jan Loup and Sam Binga. Next up: Stereo, Glasgow on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Magugu is a bass and techno artist, with 25 gigs on soundcheck across Barcelona,
 
 Le Motel, Jan Loup, Sam Binga
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magugu/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magugu/)*

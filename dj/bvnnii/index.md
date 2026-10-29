@@ -1,13 +1,14 @@
 # BVNNII
 
-BVNNII is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at John Doe, Amsterdam on Sat, 14 Nov 2026.
+BVNNII is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Sauvage, Ghent on Fri, 30 Oct 2026.
 
-BVNNII is a techno and trance artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Paris. Often billed alongside MIESØ, JØYCE and LEX LEDU. Next up: John Doe, Amsterdam on Sat 14 Nov.
+BVNNII is a techno and trance artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Ghent and 1 more. Often billed alongside MIESØ, JØYCE and LEX LEDU. Next up: Club Sauvage, Ghent on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Club Sauvage | Ghent |
 | Sat, 14 Nov 2026 | John Doe | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ BVNNII is a techno and trance artist based in Netherlands, with 20 gigs on sound
 
 MIESØ, JØYCE, LEX LEDU
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bvnnii/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bvnnii/)*

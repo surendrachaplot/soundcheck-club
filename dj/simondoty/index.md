@@ -1,6 +1,6 @@
 # Simon Doty
 
-Simon Doty is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
+Simon Doty is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
 
 Simon Doty is a progressive house and house artist based in Canada, with 118 gigs on soundcheck across Adelaide, Austin, Baltimore and Boston and 43 more. Often billed alongside Marsh, Braxton and Dosem. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Simon Doty is a progressive house and house artist based in Canada, with 118 gig
 
 Marsh, Braxton, Dosem
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*

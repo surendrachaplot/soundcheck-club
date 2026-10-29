@@ -1,6 +1,6 @@
 # Tim O'Keefe
 
-Tim O'Keefe is a Experimental and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Dada, New York City on Sat, 31 Oct 2026.
+Tim O'Keefe is a Experimental and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Dada, New York City on Sat, 31 Oct 2026.
 
 Tim O'Keefe is an experimental and deep house artist based in United States of America, with 12 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Funk du Jour, Tj McAu and A. Sarr. Next up: Dada, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tim O'Keefe is an experimental and deep house artist based in United States of A
 
 Funk du Jour, Tj McAu, A. Sarr
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timokeefe/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timokeefe/)*

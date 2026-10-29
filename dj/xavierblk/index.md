@@ -1,6 +1,6 @@
 # Xavier BLK
 
-Xavier BLK is a Club and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
+Xavier BLK is a Club and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
 
 Xavier BLK is a club and afrobeat artist, with 23 gigs on soundcheck across Amsterdam, Atlanta, Lisbon and London and 2 more. Often billed alongside Hourglass, JSPORT and Greedy Girlz. Next up: Beato 30, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Xavier BLK is a club and afrobeat artist, with 23 gigs on soundcheck across Amst
 
 Hourglass, JSPORT, Greedy Girlz
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xavierblk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xavierblk/)*

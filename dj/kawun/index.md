@@ -1,6 +1,6 @@
 # Kawun
 
-Kawun is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 21 Nov 2026.
+Kawun is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 21 Nov 2026.
 
 Kawun is a house and techno artist based in Denmark, with 71 gigs on soundcheck across Beijing, Berlin, Copenhagen and London and 1 more. Often billed alongside Prom Night, David Garset and Harrison Heat. Next up: Bulbul Berlin, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Kawun is a house and techno artist based in Denmark, with 71 gigs on soundcheck 
 
 Prom Night, David Garset, Harrison Heat
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kawun/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kawun/)*

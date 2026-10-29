@@ -1,6 +1,6 @@
 # James Holden
 
-James Holden is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
+James Holden is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
 
 James Holden is an experimental and techno artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 18 more. Often billed alongside Waclaw Zimpel, Christian AB and Marina Herlop. Next up: TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu 18 Feb.
 
@@ -26,4 +26,4 @@ James Holden is an experimental and techno artist based in United Kingdom, with 
 
 Waclaw Zimpel, Christian AB, Marina Herlop
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesholden/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesholden/)*

@@ -1,6 +1,6 @@
 # Val Trujillo
 
-Val Trujillo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Radio Estrella, Bogotá on Fri, 30 Oct 2026.
+Val Trujillo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Radio Estrella, Bogotá on Fri, 30 Oct 2026.
 
 Val Trujillo is a tech house and house artist based in Colombia, with 10 gigs on soundcheck across Bogotá. Often billed alongside Gabo Forero, Mao Loading and DH Moon. Next up: Radio Estrella, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Val Trujillo is a tech house and house artist based in Colombia, with 10 gigs on
 
 Gabo Forero, Mao Loading, DH Moon
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valtrujillo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valtrujillo/)*

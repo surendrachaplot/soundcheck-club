@@ -1,6 +1,6 @@
 # Nobuya
 
-Nobuya is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
+Nobuya is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
 Nobuya is a techno and progressive house artist based in Japan, with 16 gigs on soundcheck across Osaka and Tokyo. Often billed alongside O-MAN, Drunken Kong and KENJI MARUI. Next up: Joule, Osaka on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Nobuya is a techno and progressive house artist based in Japan, with 16 gigs on 
 
 O-MAN, Drunken Kong, KENJI MARUI
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuya-jp/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuya-jp/)*

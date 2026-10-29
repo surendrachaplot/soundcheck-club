@@ -1,6 +1,6 @@
 # Ø [Phase]
 
-Ø [Phase] is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
+Ø [Phase] is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
 
 Ø [Phase] is a techno and house artist based in United Kingdom, with 102 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 46 more. Often billed alongside Luke Slater, Setaoc Mass and Adriana Lopez. Next up: KREUZWERK, Berlin on Fri 13 Nov.
 
@@ -27,4 +27,4 @@
 
 Luke Slater, Setaoc Mass, Adriana Lopez
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*

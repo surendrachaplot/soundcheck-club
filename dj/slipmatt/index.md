@@ -1,6 +1,6 @@
 # Slipmatt
 
-Slipmatt is a House and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Fox and Firkin, London on Fri, 30 Oct 2026.
+Slipmatt is a House and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Fox and Firkin, London on Fri, 30 Oct 2026.
 
 Slipmatt is a house and hardcore artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Ratpack, Grooverider and Nicky Blackmarket. Next up: The Fox and Firkin, London on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Slipmatt is a house and hardcore artist based in United Kingdom, with 67 gigs on
 
 Ratpack, Grooverider, Nicky Blackmarket
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*

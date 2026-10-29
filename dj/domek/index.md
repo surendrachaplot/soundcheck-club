@@ -1,6 +1,6 @@
 # Domek
 
-Domek is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 30 Oct 2026.
+Domek is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 30 Oct 2026.
 
 Domek is a techno and house artist based in Czech Republic, with 22 gigs on soundcheck across London, Prague and Sofia. Often billed alongside NFKS, Orbith and Daria. Next up: Music Club Pulse 22, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Domek is a techno and house artist based in Czech Republic, with 22 gigs on soun
 
 NFKS, Orbith, Daria
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domek/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domek/)*

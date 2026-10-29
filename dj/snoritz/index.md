@@ -1,6 +1,6 @@
 # snoritz
 
-snoritz is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
+snoritz is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
 
 snoritz is a techno and trance artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 13 more. Often billed alongside Valeby, dylliboi_91 and Schwesta P. Next up: Odonien, Cologne on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ snoritz is a techno and trance artist based in Germany, with 122 gigs on soundch
 
 Valeby, dylliboi_91, Schwesta P
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snoritz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snoritz/)*

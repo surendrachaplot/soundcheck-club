@@ -1,6 +1,6 @@
 # OKBOY
 
-OKBOY is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 30 Oct 2026.
+OKBOY is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 30 Oct 2026.
 
 OKBOY is a hip-hop and bass artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside Dogwoods, iida Reo and MonoGoi. Next up: Enter Shibuya, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ OKBOY is a hip-hop and bass artist based in Japan, with 12 gigs on soundcheck ac
 
 Dogwoods, iida Reo, MonoGoi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okboy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okboy/)*

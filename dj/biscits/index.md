@@ -1,6 +1,6 @@
 # Biscits
 
-Biscits is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Mission Ballroom, Denver on Fri, 30 Oct 2026.
+Biscits is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mission Ballroom, Denver on Fri, 30 Oct 2026.
 
 Biscits is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Austin, Boston, Brisbane and Charlotte and 26 more. Often billed alongside Sonny Fodera, Gorgon City and Matroda. Next up: Mission Ballroom, Denver on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Biscits is a house and tech house artist based in United Kingdom, with 75 gigs o
 
 Sonny Fodera, Gorgon City, Matroda
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*

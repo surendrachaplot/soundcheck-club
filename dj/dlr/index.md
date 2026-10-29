@@ -1,6 +1,6 @@
 # DLR
 
-DLR is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+DLR is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 DLR is a drum & bass and jungle artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 25 more. Often billed alongside MC Gusto, Gusto and Break. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ DLR is a drum & bass and jungle artist based in United Kingdom, with 73 gigs on 
 
 MC Gusto, Gusto, Break
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*

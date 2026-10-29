@@ -1,8 +1,8 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Anxiety Night" on Thu, 29 Oct 2026.
+Golden Gate is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Anxiety Night" on Thu, 29 Oct 2026.
 
-Golden Gate is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Javier Anxiety, Anna Schreit, Arval and Cesare vs Disorder and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
+Golden Gate is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Javier Anxiety, A. Brehme, Alex New and Ancut and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
@@ -14,9 +14,13 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, wi
 | Thu, 5 Nov 2026 | Donnerdogge | David Delgado, Eros (US), Gunnar Guess |
 | Fri, 6 Nov 2026 | Klubnacht + Afterhour | Anna Schreit, Emski, Fanfarrosa, Jack Clark, Jan, Utip |
 | Sat, 7 Nov 2026 | Nightshade Family | Der Schmeisser, Nils Ohrmann |
+| Thu, 12 Nov 2026 | Silvi Recordings | Brizman, Joss, Vanaenae |
+| Fri, 13 Nov 2026 | Santa Musica + Easy Latino Records Afterhour | Clemente (DE), Frania, Juan Ferreyra, Laurence, Qasio, Vale Colvin, Victoria |
+| Sat, 14 Nov 2026 | Klubnacht | Crowdpleaser, Mr. Laboso, Pentti Igor, TINDRA |
+| Thu, 19 Nov 2026 | Golden Gate Anniversary | Ancut, Anderson, Bee Lincoln, Click / Click, Coco, Didier Dlb, Edgar Peng, Elli.on, Esther Silex, Flo Pirke, Hagel, Jased, Joe BRT, Koljah, Leon Licht, Meat, Nadine, Najeh, Nils Ohrmann, SERENE, Slurm McKenzie, eveava, jiyun kim, kluntje, magic.made.by.r |
 
 ## Address
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

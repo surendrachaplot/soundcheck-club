@@ -1,6 +1,6 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Ballin Maidstone, London on Sat, 31 Oct 2026.
+Obskur is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ballin Maidstone, London on Sat, 31 Oct 2026.
 
 Obskur is a house and tech house artist, with 165 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 42 more. Often billed alongside East End Dubs, Max Dean and Jamback. Next up: Ballin Maidstone, London on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Obskur is a house and tech house artist, with 165 gigs on soundcheck across Aber
 
 East End Dubs, Max Dean, Jamback
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*

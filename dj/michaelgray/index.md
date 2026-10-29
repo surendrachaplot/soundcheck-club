@@ -1,6 +1,6 @@
 # Michael Gray
 
-Michael Gray is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Joshua Brooks, Manchester on Sat, 28 Nov 2026.
+Michael Gray is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Joshua Brooks, Manchester on Sat, 28 Nov 2026.
 
 Michael Gray is a house and disco artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brighton and 17 more. Often billed alongside Melvo Baptiste, Dave Lee and MiNNA. Next up: Joshua Brooks, Manchester on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Michael Gray is a house and disco artist based in United Kingdom, with 51 gigs o
 
 Melvo Baptiste, Dave Lee, MiNNA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelgray/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelgray/)*

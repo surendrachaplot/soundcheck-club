@@ -1,6 +1,6 @@
 # Goss
 
-Goss is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Maquis Club, Hanoi on Sat, 31 Oct 2026.
+Goss is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Maquis Club, Hanoi on Sat, 31 Oct 2026.
 
 Goss is a techno and hardcore artist based in France, with 70 gigs on soundcheck across Hanoi, Ho Chi Minh City and Tokyo. Often billed alongside ILONA, Phát Paris and Smoothie Boiz. Next up: Le Maquis Club, Hanoi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Goss is a techno and hardcore artist based in France, with 70 gigs on soundcheck
 
 ILONA, Phát Paris, Smoothie Boiz
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goss/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goss/)*

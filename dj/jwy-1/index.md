@@ -1,8 +1,8 @@
 # JWY (1)
 
-JWY (1) is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Flux Studios D2, Dublin on Sat, 7 Nov 2026.
+JWY (1) is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Flux Studios D2, Dublin on Sat, 7 Nov 2026.
 
-JWY is a techno and baile funk artist based in Netherlands, with 102 gigs on soundcheck across Belfast, Cork, Dublin and Galway and 2 more. Often billed alongside Lúnasa, Puzzy Wrangler and Roo Honeychild. Next up: Flux Studios D2, Dublin on Sat 7 Nov.
+JWY is a techno and baile funk artist based in Netherlands, with 102 gigs on soundcheck across Belfast, Cork, Dublin and Galway and 2 more. Often billed alongside Roo Honeychild, Lúnasa and Puzzy Wrangler. Next up: Flux Studios D2, Dublin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ JWY is a techno and baile funk artist based in Netherlands, with 102 gigs on sou
 
 ## Shares bills with
 
-Lúnasa, Puzzy Wrangler, Roo Honeychild
+Roo Honeychild, Lúnasa, Puzzy Wrangler
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwy-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwy-1/)*

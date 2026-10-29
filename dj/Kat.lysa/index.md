@@ -1,6 +1,6 @@
 # Kat.lysa
 
-Kat.lysa is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 2 Nov 2026.
+Kat.lysa is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 2 Nov 2026.
 
 Kat.lysa is a techno artist based in Germany, with 9 gigs on soundcheck across Berlin and London. Often billed alongside 4BLISS#, BUTZ and Banjax iO. Next up: Tresor / Globus, Berlin on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Kat.lysa is a techno artist based in Germany, with 9 gigs on soundcheck across B
 
 4BLISS#, BUTZ, Banjax iO
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kat.lysa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Kat.lysa/)*

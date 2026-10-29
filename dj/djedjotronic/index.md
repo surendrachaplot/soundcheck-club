@@ -1,6 +1,6 @@
 # Djedjotronic
 
-Djedjotronic is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
+Djedjotronic is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
 
 Djedjotronic is a techno and ebm artist based in France, with 31 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Ljubljana and 8 more. Often billed alongside Kendal, Belaria and DJ MELL G. Next up: Base Sous-Marine de Bordeaux, Bordeaux on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Djedjotronic is a techno and ebm artist based in France, with 31 gigs on soundch
 
 Kendal, Belaria, DJ MELL G
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjotronic/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjotronic/)*

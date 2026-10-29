@@ -1,14 +1,13 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Moog Club, Barcelona on Wed, 28 Oct 2026.
+Jeff Mills is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 31 Oct 2026.
 
-Jeff Mills is a techno and house artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 70 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Moog Club, Barcelona on Wed 28 Oct.
+Jeff Mills is a techno and house artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 70 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Mondo Open Air, Madrid on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | Moog Club | Barcelona |
 | Sat, 31 Oct 2026 | Mondo Open Air | Madrid |
 | Sun, 1 Nov 2026 | Sophie Festival | Malaga |
 | Sat, 14 Nov 2026 | Plaza Mayor Medellin | Medellin |
@@ -22,6 +21,7 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 
 ## Recently played
 
+- Moog Club, Barcelona · Wed, 28 Oct 2026
 - Le Sucre, Lyon · Sun, 25 Oct 2026
 - Sugarfactory, Amsterdam · Sat, 24 Oct 2026
 - WestWeelde, Amsterdam · Fri, 23 Oct 2026
@@ -29,10 +29,9 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Fvtvr, Paris · Wed, 30 Sept 2026
-- Amnesia Ibiza, Ibiza · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 DVS1, Marcel Dettmann, Helena Hauff
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

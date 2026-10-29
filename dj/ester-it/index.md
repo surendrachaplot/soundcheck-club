@@ -1,6 +1,6 @@
 # ESTER.
 
-ESTER. is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Fuchs2, Prague on Fri, 27 Nov 2026.
+ESTER. is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Fuchs2, Prague on Fri, 27 Nov 2026.
 
 ESTER. is a techno and industrial artist based in Italy, with 26 gigs on soundcheck across Brussels, Budapest, Paris and Prague and 2 more. Often billed alongside Raphael Kosmos, Trauma (CZ) and AVHD. Next up: Fuchs2, Prague on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ ESTER. is a techno and industrial artist based in Italy, with 26 gigs on soundch
 
 Raphael Kosmos, Trauma (CZ), AVHD
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ester-it/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ester-it/)*

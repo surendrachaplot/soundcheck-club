@@ -1,6 +1,6 @@
 # Gui Scott
 
-Gui Scott is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 20 Nov 2026.
+Gui Scott is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 20 Nov 2026.
 
 Gui Scott is a house and balearic artist based in Brazil, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 11 more. Often billed alongside Pino Henrique Pedra, Discos Baratos and Caio T.. Next up: Edifício Martinelli, Sao Paulo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Gui Scott is a house and balearic artist based in Brazil, with 65 gigs on soundc
 
 Pino Henrique Pedra, Discos Baratos, Caio T.
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guiscott/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guiscott/)*

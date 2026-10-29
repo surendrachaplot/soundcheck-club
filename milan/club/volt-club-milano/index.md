@@ -1,6 +1,6 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Benja + Vittilucchi" on Thu, 29 Oct 2026.
+Volt Club Milano is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Benja + Vittilucchi" on Thu, 29 Oct 2026.
 
 Volt Club Milano is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Alessio Cristiano, Benja, Frankey & Sandrino and KEKURA and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
@@ -16,4 +16,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 3 upcoming gigs
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

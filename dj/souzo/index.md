@@ -1,6 +1,6 @@
 # Souzo
 
-Souzo is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
+Souzo is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
 Souzo is a techno and bass artist based in France, with 11 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Lyon and 5 more. Often billed alongside A Strange Wedding, Christian Coiffure and Hysteria temple Foundation. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Souzo is a techno and bass artist based in France, with 11 gigs on soundcheck ac
 
 A Strange Wedding, Christian Coiffure, Hysteria temple Foundation
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/souzo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/souzo/)*

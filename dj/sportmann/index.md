@@ -1,6 +1,6 @@
 # SPORTMANN
 
-SPORTMANN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
+SPORTMANN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
 
 SPORTMANN is a techno and trance artist based in Germany, with 69 gigs on soundcheck across Bangkok, Berlin, Hamburg and Hannover and 1 more. Often billed alongside AKIIM, co:co and DJ BTM. Next up: glimmer, Hamburg on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ SPORTMANN is a techno and trance artist based in Germany, with 69 gigs on soundc
 
 AKIIM, co:co, DJ BTM
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sportmann/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sportmann/)*

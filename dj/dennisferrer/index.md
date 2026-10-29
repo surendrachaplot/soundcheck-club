@@ -1,6 +1,6 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Pacha New York, New York City on Thu, 29 Oct 2026.
+Dennis Ferrer is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pacha New York, New York City on Thu, 29 Oct 2026.
 
 Dennis Ferrer is a house and tech house artist based in United States of America, with 146 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Pacha New York, New York City on Thu 29 Oct.
 
@@ -31,4 +31,4 @@ Dennis Ferrer is a house and tech house artist based in United States of America
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

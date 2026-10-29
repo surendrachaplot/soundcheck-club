@@ -1,6 +1,6 @@
 # MøønkiZa
 
-MøønkiZa is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SECRET LOCATION POBLE NOU, Barcelona on Sat, 31 Oct 2026.
+MøønkiZa is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SECRET LOCATION POBLE NOU, Barcelona on Sat, 31 Oct 2026.
 
 MøønkiZa is a house and progressive house artist, with 85 gigs on soundcheck across Barcelona. Often billed alongside Agatha Pher, EVES DJ and Daniel Aguilar. Next up: TBA - SECRET LOCATION POBLE NOU, Barcelona on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ MøønkiZa is a house and progressive house artist, with 85 gigs on soundcheck a
 
 Agatha Pher, EVES DJ, Daniel Aguilar (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonkiza/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonkiza/)*

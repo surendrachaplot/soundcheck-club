@@ -1,6 +1,6 @@
 # Pulsum
 
-Pulsum is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Union Française de Montréal, Montreal on Fri, 30 Oct 2026.
+Pulsum is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Union Française de Montréal, Montreal on Fri, 30 Oct 2026.
 
 Pulsum is a techno and post-punk artist based in Canada, with 19 gigs on soundcheck across Montreal. Often billed alongside CPR Annie, Casa Kobrae and ElForever. Next up: Union Française de Montréal, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Pulsum is a techno and post-punk artist based in Canada, with 19 gigs on soundch
 
 CPR Annie, Casa Kobrae, ElForever
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pulsum/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pulsum/)*

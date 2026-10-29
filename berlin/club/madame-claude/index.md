@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "MOONBEAN + ORBITAL GLOOM + Oberst Panizza (DJ-Set)" on Fri, 30 Oct 2026.
+Madame Claude is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "MOONBEAN + ORBITAL GLOOM + Oberst Panizza (DJ-Set)" on Fri, 30 Oct 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including MOONBEAN. See dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, 
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

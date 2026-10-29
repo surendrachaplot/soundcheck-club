@@ -1,6 +1,6 @@
 # Tory Stiletto
 
-Tory Stiletto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Rawhide, New York City on Sat, 31 Oct 2026.
+Tory Stiletto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Rawhide, New York City on Sat, 31 Oct 2026.
 
 Tory Stiletto is a house and techno artist based in United States of America, with 27 gigs on soundcheck across New York City and Paris. Often billed alongside Michael Magnan, ALEXIS DE LA ROSA and Amber Valentine. Next up: Club Rawhide, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tory Stiletto is a house and techno artist based in United States of America, wi
 
 Michael Magnan, ALEXIS DE LA ROSA, Amber Valentine
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torystiletto/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torystiletto/)*

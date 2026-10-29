@@ -1,6 +1,6 @@
 # Rev Lon
 
-Rev Lon is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Coil, Melbourne on Thu, 29 Oct 2026.
+Rev Lon is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Coil, Melbourne on Thu, 29 Oct 2026.
 
 Rev Lon is a house and techno artist, with 43 gigs on soundcheck across Berlin, Edinburgh, Hobart and Lisbon and 2 more. Often billed alongside Bex, Terri and Katharine. Next up: Coil, Melbourne on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Rev Lon is a house and techno artist, with 43 gigs on soundcheck across Berlin, 
 
 Bex, Terri (2), Katharine
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revlon/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/revlon/)*

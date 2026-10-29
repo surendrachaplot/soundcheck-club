@@ -1,14 +1,15 @@
 # Patchwork
 
-Patchwork is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Chemist, Boston on Fri, 30 Oct 2026.
+Patchwork is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Chemist, Boston on Fri, 30 Oct 2026.
 
-Patchwork is a house and disco artist based in United States of America, with 21 gigs on soundcheck across Boston. Often billed alongside Private Dancer, Rasaaq and AL-B. Next up: The Chemist, Boston on Fri 30 Oct.
+Patchwork is a house and disco artist based in United States of America, with 22 gigs on soundcheck across Boston. Often billed alongside AL-B, Private Dancer and Rasaaq. Next up: The Chemist, Boston on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | The Chemist | Boston |
+| Sat, 31 Oct 2026 | The Sinclair | Boston |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Patchwork is a house and disco artist based in United States of America, with 21
 
 ## Shares bills with
 
-Private Dancer, Rasaaq, AL-B (2)
+AL-B (2), Private Dancer, Rasaaq
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patchwork/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patchwork/)*

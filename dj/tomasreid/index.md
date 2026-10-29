@@ -1,6 +1,6 @@
 # Tomas Reid
 
-Tomas Reid is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 29 Oct 2026.
+Tomas Reid is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 29 Oct 2026.
 
 Tomas Reid is a minimal and house artist based in Chile, with 22 gigs on soundcheck across Berlin and Mexico City. Often billed alongside Ernest Duke, Itza Chacón and Majo Villalobos. Next up: nueve cero nueve, Mexico City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Tomas Reid is a minimal and house artist based in Chile, with 22 gigs on soundch
 
 Ernest Duke, Itza Chacón, Majo Villalobos
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasreid/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasreid/)*

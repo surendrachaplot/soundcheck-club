@@ -1,6 +1,6 @@
 # Rabih Beaini
 
-Rabih Beaini is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at OHM, Berlin on Fri, 13 Nov 2026.
+Rabih Beaini is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OHM, Berlin on Fri, 13 Nov 2026.
 
 Rabih Beaini is an experimental and electronica artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Berlin, Cork and Krakow and 3 more. Often billed alongside Mieko Suzuki, Assyouti and Deadbeat. Next up: OHM, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Rabih Beaini is an experimental and electronica artist based in Germany, with 30
 
 Mieko Suzuki, Assyouti, Deadbeat
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rabihbeaini/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rabihbeaini/)*

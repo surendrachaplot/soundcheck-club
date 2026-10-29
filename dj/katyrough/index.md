@@ -1,6 +1,6 @@
 # Katy Rough
 
-Katy Rough is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Tanztag. Schwerin, Mecklenburg-vorpommern on Sat, 7 Nov 2026.
+Katy Rough is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tanztag. Schwerin, Mecklenburg-vorpommern on Sat, 7 Nov 2026.
 
 Katy Rough is a techno and trance artist based in Germany, with 57 gigs on soundcheck across Berlin, Cologne, Frankfurt and Freiburg and 8 more. Often billed alongside Charleen Herzig, A.N.I. and Trancestrudel. Next up: Tanztag. Schwerin, Mecklenburg Vorpommern on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Katy Rough is a techno and trance artist based in Germany, with 57 gigs on sound
 
 Charleen Herzig, A.N.I., Trancestrudel
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyrough/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katyrough/)*

@@ -1,6 +1,6 @@
 # Greenhouse
 
-Greenhouse is a Garage and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 6 Feet, Cardiff on Sat, 31 Oct 2026.
+Greenhouse is a Garage and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 6 Feet, Cardiff on Sat, 31 Oct 2026.
 
 Greenhouse is a garage and drum & bass artist based in Romania, with 7 gigs on soundcheck across Amsterdam, Cardiff and Leeds. Often billed alongside Amelia Leigh, Andrew Devine and Apostle. Next up: 6 Feet, Cardiff on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Greenhouse is a garage and drum & bass artist based in Romania, with 7 gigs on s
 
 Amelia Leigh, Andrew Devine, Apostle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greenhouse/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greenhouse/)*

@@ -1,6 +1,6 @@
 # LOQU
 
-LOQU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Saloon, Tokyo on Sun, 1 Nov 2026.
+LOQU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Saloon, Tokyo on Sun, 1 Nov 2026.
 
 LOQU is a house and techno artist based in Japan, with 18 gigs on soundcheck across Tokyo. Often billed alongside Mykey, T.B. and Acrocanthosaurus. Next up: Saloon, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ LOQU is a house and techno artist based in Japan, with 18 gigs on soundcheck acr
 
 Mykey (2), T.B., Acrocanthosaurus
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loqu/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loqu/)*

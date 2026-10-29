@@ -1,6 +1,6 @@
 # Brodinski
 
-Brodinski is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Brodinski is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 Brodinski is a hip-hop and techno artist based in France, with 65 gigs on soundcheck across Amsterdam, Bangkok, Belgrade and Berlin and 29 more. Often billed alongside Slikback, Polygonia and aya. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Brodinski is a hip-hop and techno artist based in France, with 65 gigs on soundc
 
 Slikback, Polygonia, aya
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brodinski/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brodinski/)*

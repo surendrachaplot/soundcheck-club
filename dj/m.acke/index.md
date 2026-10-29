@@ -1,6 +1,6 @@
 # M.ACKE
 
-M.ACKE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
+M.ACKE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
 
 M.ACKE is a techno and industrial artist, with 18 gigs on soundcheck across Berlin, Birmingham, Budapest and Frankfurt and 2 more. Often billed alongside Pavle Phial, Teychee and DeGuzman. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 20 Mar.
 
@@ -25,4 +25,4 @@ M.ACKE is a techno and industrial artist, with 18 gigs on soundcheck across Berl
 
 Pavle Phial, Teychee, DeGuzman
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.acke/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.acke/)*

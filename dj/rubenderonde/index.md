@@ -1,6 +1,6 @@
 # Ruben de Ronde
 
-Ruben de Ronde is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at DRUMSHEDS, London on Sat, 14 Nov 2026.
+Ruben de Ronde is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 14 Nov 2026.
 
 Ruben de Ronde is a trance and techno artist based in Netherlands, with 7 gigs on soundcheck across Calgary, Hamburg, London and Paris and 2 more. Often billed alongside Cosmic Gate, Adrian Mega and Allen Watts. Next up: DRUMSHEDS, London on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Ruben de Ronde is a trance and techno artist based in Netherlands, with 7 gigs o
 
 Cosmic Gate, Adrian Mega, Allen Watts
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenderonde/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenderonde/)*

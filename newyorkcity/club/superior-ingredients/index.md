@@ -1,6 +1,6 @@
 # Superior Ingredients
 
-Superior Ingredients is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Rivo Day & Night Full Venue Takeover" on Fri, 30 Oct 2026.
+Superior Ingredients is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Rivo Day & Night Full Venue Takeover" on Fri, 30 Oct 2026.
 
 Superior Ingredients is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including Bendito, Cam Stockman, Chus & Ceballos and Cosmic Gate and 2 more. See dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
 
@@ -23,4 +23,4 @@ Superior Ingredients is a music venue in New York City listed on soundcheck. 13 
 
 74 Wythe Avenue, Brooklyn, NY 11249, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*

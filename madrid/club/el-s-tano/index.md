@@ -1,8 +1,8 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 30 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "UNDER HAZE: Natxo, CX-0, VOLTA DEKYRA" on Thu, 29 Oct 2026.
+EL SÓTANO is a music venue in Madrid with 31 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "UNDER HAZE: Natxo, CX-0, VOLTA DEKYRA" on Thu, 29 Oct 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 30 upcoming gigs, with line-ups including Monty, Alexander Kowalski, Arok Shiva and Babylon Whore and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 31 upcoming gigs, with line-ups including Monty, Alexander Kowalski, Arok Shiva and Babylon Whore and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 30 upcoming gigs, wi
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

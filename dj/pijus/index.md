@@ -1,6 +1,6 @@
 # Pijus
 
-Pijus is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bi Nuu, Berlin on Fri, 30 Oct 2026.
+Pijus is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bi Nuu, Berlin on Fri, 30 Oct 2026.
 
 Pijus is a house and techno artist based in Lithuania, with 23 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Dublin and 13 more. Often billed alongside Target Demographic, Shaolin Cowboy and DJ WINDOWS 7. Next up: Bi Nuu, Berlin on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ Pijus is a house and techno artist based in Lithuania, with 23 gigs on soundchec
 
 Target Demographic, Shaolin Cowboy, DJ WINDOWS 7
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pijus/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pijus/)*

@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Legal x Perlaplastica Showcase w./ Katia Curie b2b Nizar Sarakbi, Reduks, vince" on Fri, 30 Oct 2026.
+Legal is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Legal x Perlaplastica Showcase w./ Katia Curie b2b Nizar Sarakbi, Reduks, vince" on Fri, 30 Oct 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including Almedina, Andre Zimmer, Haze (GER) and Julie Fleischer and 2 more. See dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -15,4 +15,4 @@ Legal is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with lin
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

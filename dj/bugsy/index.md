@@ -1,6 +1,6 @@
 # Bugsy
 
-Bugsy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Arca, Milan on Sat, 31 Oct 2026.
+Bugsy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Arca, Milan on Sat, 31 Oct 2026.
 
 Bugsy is a house and techno artist based in Italy, with 86 gigs on soundcheck across Bangkok, Beijing, Bologna and Bristol and 6 more. Often billed alongside DJLMP, Tayga and Dirty Channels. Next up: Arca, Milan on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Bugsy is a house and techno artist based in Italy, with 86 gigs on soundcheck ac
 
 DJLMP, Tayga, Dirty Channels
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bugsy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bugsy/)*

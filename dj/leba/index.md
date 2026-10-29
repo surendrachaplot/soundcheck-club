@@ -1,6 +1,6 @@
 # Leba
 
-Leba is a Gqom and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 5 Nov 2026.
+Leba is a Gqom and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 5 Nov 2026.
 
 Leba is a gqom and bass artist, with 3 gigs on soundcheck across Berlin. Often billed alongside CCTV, Cmba and DATA RYDER. Next up: Crack Bellmer, Berlin on Thu 5 Nov.
 
@@ -19,4 +19,4 @@ Leba is a gqom and bass artist, with 3 gigs on soundcheck across Berlin. Often b
 
 CCTV, Cmba, DATA RYDER
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leba/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leba/)*

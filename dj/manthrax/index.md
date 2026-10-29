@@ -1,6 +1,6 @@
 # Manthrax
 
-Manthrax is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bootleg Bar NYC, New York City on Sat, 31 Oct 2026.
+Manthrax is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bootleg Bar NYC, New York City on Sat, 31 Oct 2026.
 
 Manthrax is a techno and house artist based in Malta, with 29 gigs on soundcheck across Malta and New York City. Often billed alongside Gordon Flash, Sean Rickett and Human Safari. Next up: Bootleg Bar NYC, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Manthrax is a techno and house artist based in Malta, with 29 gigs on soundcheck
 
 Gordon Flash, Sean Rickett, Human Safari
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manthrax/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manthrax/)*

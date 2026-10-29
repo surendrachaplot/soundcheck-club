@@ -1,8 +1,8 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Westworld of Scottsdale, Arizona on Fri, 30 Oct 2026.
+Marie Vaunt is a Techno and Acid artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Westworld of Scottsdale, Arizona on Fri, 30 Oct 2026.
 
-Marie Vaunt is a techno and acid artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Arizona, Athens and Atlanta and 51 more. Often billed alongside Space 92, Maddix and Eli Brown. Next up: Westworld of Scottsdale, Arizona on Fri 30 Oct.
+Marie Vaunt is a techno and acid artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Arizona, Athens and Atlanta and 51 more. Often billed alongside Space 92, Maddix and Eli Brown. Next up: Westworld of Scottsdale, Arizona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Marie Vaunt is a techno and acid artist based in United States of America, with 
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Fri, 27 Nov 2026 | E1 | London |
+| Fri, 4 Dec 2026 | Akvárium Klub | Budapest |
 | Sat, 12 Dec 2026 | Art Club | Houston |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
@@ -32,4 +33,4 @@ Marie Vaunt is a techno and acid artist based in United States of America, with 
 
 Space 92, Maddix, Eli Brown
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

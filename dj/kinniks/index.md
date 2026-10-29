@@ -1,6 +1,6 @@
 # KINNIKS
 
-KINNIKS is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Aahhh Rooftop, Munich on Sat, 7 Nov 2026.
+KINNIKS is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Aahhh Rooftop, Munich on Sat, 7 Nov 2026.
 
 KINNIKS is a house and trance artist based in Germany, with 10 gigs on soundcheck across Munich. Often billed alongside Noah Kulaga, Seto and Maxâge. Next up: Aahhh Rooftop, Munich on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ KINNIKS is a house and trance artist based in Germany, with 10 gigs on soundchec
 
 Noah Kulaga, Seto, Maxâge
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinniks/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinniks/)*

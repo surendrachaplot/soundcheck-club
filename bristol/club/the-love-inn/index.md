@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Dub Techno Chess Club w/ A.Wild + Moli" on Thu, 29 Oct 2026.
+The Love Inn is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Dub Techno Chess Club w/ A.Wild + Moli" on Thu, 29 Oct 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including A.Wild, AdomasLP, Alien Communications and Andy Martin and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -23,4 +23,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 10 upcoming gigs,
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

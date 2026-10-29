@@ -1,6 +1,6 @@
 # Adron_
 
-Adron_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 31 Oct 2026.
+Adron_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 31 Oct 2026.
 
 Adron_ is a techno and house artist based in Germany, with 32 gigs on soundcheck across Barcelona, Berlin, Hamburg and London and 2 more. Often billed alongside Manu Strasse, magic.made.by.r and Leah Marie. Next up: Klunkerkranich, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Adron_ is a techno and house artist based in Germany, with 32 gigs on soundcheck
 
 Manu Strasse, magic.made.by.r, Leah Marie
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adron_/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adron_/)*

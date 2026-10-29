@@ -1,13 +1,14 @@
 # Alex Milo
 
-Alex Milo is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Stage and Radio, Manchester on Fri, 18 Dec 2026.
+Alex Milo is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 27 Nov 2026.
 
-Alex Milo is a downtempo and house artist, with 23 gigs on soundcheck across Manchester. Often billed alongside April (UK), Yorlig and LOCKS. Next up: Stage and Radio, Manchester on Fri 18 Dec.
+Alex Milo is a house and downtempo artist, with 24 gigs on soundcheck across Manchester. Often billed alongside April (UK), Yorlig and LOCKS. Next up: Piccadilly Central, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Piccadilly Central | Manchester |
 | Fri, 18 Dec 2026 | Stage and Radio | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Alex Milo is a downtempo and house artist, with 23 gigs on soundcheck across Man
 
 April (UK), Yorlig, LOCKS
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmilo/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmilo/)*

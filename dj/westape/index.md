@@ -1,16 +1,16 @@
 # West Ape
 
-West Ape is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at clubasia, Tokyo on Fri, 30 Oct 2026.
+West Ape is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at club asia, Tokyo on Fri, 30 Oct 2026.
 
-West Ape is a house and techno artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside JUN INAGAWA, Eichi Abe and FELINE (JP). Next up: clubasia, Tokyo on Fri 30 Oct.
+West Ape is a house and techno artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside JUN INAGAWA, Eichi Abe and FELINE (JP). Next up: club asia, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | clubasia | Tokyo |
+| Fri, 30 Oct 2026 | club asia | Tokyo |
 | Fri, 6 Nov 2026 | Enter Shibuya | Tokyo |
-| Fri, 20 Nov 2026 | clubasia | Tokyo |
+| Fri, 20 Nov 2026 | club asia | Tokyo |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ West Ape is a house and techno artist based in Japan, with 15 gigs on soundcheck
 
 JUN INAGAWA, Eichi Abe, FELINE (JP)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westape/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westape/)*

@@ -1,6 +1,6 @@
 # gaiko
 
-gaiko is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TRAUM, Antwerp on Fri, 18 Dec 2026.
+gaiko is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TRAUM, Antwerp on Fri, 18 Dec 2026.
 
 gaiko is a club and bass artist based in Belgium, with 31 gigs on soundcheck across Antwerp, Brussels, Ghent and Rotterdam. Often billed alongside cyvira, O'SIMMIE and ojoo. Next up: TRAUM, Antwerp on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ gaiko is a club and bass artist based in Belgium, with 31 gigs on soundcheck acr
 
 cyvira, O'SIMMIE, ojoo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiko/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiko/)*

@@ -1,6 +1,6 @@
 # Yamagucci (2)
 
-Yamagucci (2) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Grand Park, Los Angeles on Sat, 31 Oct 2026.
+Yamagucci (2) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Grand Park, Los Angeles on Sat, 31 Oct 2026.
 
 Yamagucci is a house and electronica artist based in United States of America, with 9 gigs on soundcheck across Amsterdam, Brussels, Los Angeles and New York City and 4 more. Often billed alongside Adam Ten, Antdot and Bedouin. Next up: Grand Park, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yamagucci is a house and electronica artist based in United States of America, w
 
 Adam Ten, Antdot, Bedouin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci-2/)*

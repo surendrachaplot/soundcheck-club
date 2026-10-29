@@ -1,6 +1,6 @@
 # bethanylikesham
 
-bethanylikesham is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 1 Nov 2026.
+bethanylikesham is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 1 Nov 2026.
 
 bethanylikesham is a pop and club artist, with 8 gigs on soundcheck across Berlin. Often billed alongside Ina Vietha, Caesarr and DJ Trade Trainer. Next up: Crack Bellmer, Berlin on Sun 1 Nov.
 
@@ -24,4 +24,4 @@ bethanylikesham is a pop and club artist, with 8 gigs on soundcheck across Berli
 
 Ina Vietha, Caesarr, DJ Trade Trainer
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bethanylikesham/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bethanylikesham/)*

@@ -1,6 +1,6 @@
 # Yoru
 
-Yoru is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Gretchen, Berlin on Fri, 20 Nov 2026.
+Yoru is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Gretchen, Berlin on Fri, 20 Nov 2026.
 
 Yoru is a drum & bass and jungle artist based in Ireland, with 31 gigs on soundcheck across Belfast, Berlin and Seoul. Often billed alongside Upzet, Anton Quasi and Gyusco. Next up: Gretchen, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Yoru is a drum & bass and jungle artist based in Ireland, with 31 gigs on soundc
 
 Upzet, Anton Quasi, Gyusco
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoru/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoru/)*

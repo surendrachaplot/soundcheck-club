@@ -1,6 +1,6 @@
 # Biltmore Cabaret
 
-Biltmore Cabaret is a music venue in Vancouver with 15 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "The Haunted Hotel with Beiti, Martello Give & LVT" on Fri, 30 Oct 2026.
+Biltmore Cabaret is a music venue in Vancouver with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "The Haunted Hotel with Beiti, Martello Give & LVT" on Fri, 30 Oct 2026.
 
 Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 15 upcoming gigs, with line-ups including Afrooz, Altinbas, Angel Science and Beiti and 2 more. See dates, start times and who's playing. 395 Kingsway; Vancouver, BC V5T 3J5; Canada.
 
@@ -23,4 +23,4 @@ Biltmore Cabaret is a music venue in Vancouver listed on soundcheck. 15 upcoming
 
 395 Kingsway; Vancouver, BC V5T 3J5; Canada, Vancouver
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/biltmore-cabaret/)*

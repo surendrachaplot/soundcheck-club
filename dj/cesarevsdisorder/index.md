@@ -1,14 +1,15 @@
 # Cesare vs Disorder
 
-Cesare vs Disorder is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
+Cesare vs Disorder is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
 
-Cesare vs Disorder are a house and minimal duo based in Italy, with 59 gigs on soundcheck across Barcelona, Beijing, Berlin and Bogotá and 9 more. Often billed alongside Weg (DE), Rhom Omit and Ocean Lam. Next up: Golden Gate, Berlin on Fri 30 Oct.
+Cesare vs Disorder are a house and minimal duo based in Italy, with 60 gigs on soundcheck across Barcelona, Beijing, Berlin and Bogotá and 10 more. Often billed alongside Weg (DE), Rhom Omit and Ocean Lam. Next up: Golden Gate, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Golden Gate | Berlin |
+| Sat, 31 Oct 2026 | Autodromo Enzo e Dino Ferrari | Bologna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cesare vs Disorder are a house and minimal duo based in Italy, with 59 gigs on s
 
 Weg (DE), Rhom Omit, Ocean Lam
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarevsdisorder/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarevsdisorder/)*

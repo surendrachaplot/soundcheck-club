@@ -1,6 +1,6 @@
 # París 15
 
-París 15 is a music venue in Malaga with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Aleron Club MÁLAGA" on Sat, 7 Nov 2026.
+París 15 is a music venue in Malaga with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Aleron Club MÁLAGA" on Sat, 7 Nov 2026.
 
 París 15 is a music venue in Malaga listed on soundcheck. 3 upcoming gigs, with line-ups including ArceX, Cera Khin, Luxi Villar and Nico Loco and 2 more. See dates, start times and who's playing. Calle la Orotava 25, 29006 Malaga.
 
@@ -16,4 +16,4 @@ París 15 is a music venue in Malaga listed on soundcheck. 3 upcoming gigs, with
 
 Calle la Orotava 25, 29006 Malaga, Malaga
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/par-s-15/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/par-s-15/)*

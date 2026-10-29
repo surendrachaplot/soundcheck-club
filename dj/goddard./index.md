@@ -1,6 +1,6 @@
 # goddard.
 
-goddard. is a Drum & Bass and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Thekla, Bristol on Fri, 30 Oct 2026.
+goddard. is a Drum & Bass and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Thekla, Bristol on Fri, 30 Oct 2026.
 
 goddard. is a drum & bass and electronica artist based in United Kingdom, with 31 gigs on soundcheck across Adelaide, Auckland, Austin and Birmingham and 15 more. Often billed alongside DREAD MC, Hybrid Minds and Dada Jones. Next up: Thekla, Bristol on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ goddard. is a drum & bass and electronica artist based in United Kingdom, with 3
 
 DREAD MC, Hybrid Minds, Dada Jones
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goddard./)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goddard./)*

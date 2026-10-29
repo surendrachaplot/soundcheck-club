@@ -1,6 +1,6 @@
 # ZiMMT
 
-ZiMMT is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "The Future Is… – Klangvertonungen von utopitschen und distopischen Comics" on Thu, 29 Oct 2026.
+ZiMMT is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "The Future Is… – Klangvertonungen von utopitschen und distopischen Comics" on Thu, 29 Oct 2026.
 
 ZiMMT is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
 
@@ -16,4 +16,4 @@ ZiMMT is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs. See dat
 
 Torgauer Str. 80, 04318 Leipzig, Germany, Leipzig
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*

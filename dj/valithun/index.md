@@ -1,6 +1,6 @@
 # VALI THUN
 
-VALI THUN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
+VALI THUN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
 
 VALI THUN is a house and tech house artist based in Germany, with 19 gigs on soundcheck across Berlin, Hamburg, Munich and Münster and 1 more. Often billed alongside Taisy, Nik Andersson and Offkit. Next up: Kosmos Karoline, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ VALI THUN is a house and tech house artist based in Germany, with 19 gigs on sou
 
 Taisy, Nik Andersson, Offkit
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valithun/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valithun/)*

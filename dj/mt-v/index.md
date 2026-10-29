@@ -1,6 +1,6 @@
 # MT-V
 
-MT-V is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
+MT-V is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kosmos Karoline, Hamburg on Sat, 28 Nov 2026.
 
 MT-V is a house and trance artist based in Poland, with 42 gigs on soundcheck across Hamburg, Krakow and Warsaw. Often billed alongside Abrew, Kobayashkn and Easy Audio. Next up: Kosmos Karoline, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ MT-V is a house and trance artist based in Poland, with 42 gigs on soundcheck ac
 
 Abrew, Kobayashkn, Easy Audio
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mt-v/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mt-v/)*

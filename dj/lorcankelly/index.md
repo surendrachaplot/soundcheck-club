@@ -1,6 +1,6 @@
 # Lorcan Kelly
 
-Lorcan Kelly is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Music Room, Belfast on Sat, 31 Oct 2026.
+Lorcan Kelly is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Music Room, Belfast on Sat, 31 Oct 2026.
 
 Lorcan Kelly is a techno and house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Belfast, Berlin and Cork and 4 more. Often billed alongside Sophie, Chris Flannigan and DIEBYVEG. Next up: Music Room, Belfast on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Lorcan Kelly is a techno and house artist based in United Kingdom, with 23 gigs 
 
 Sophie (2), Chris Flannigan, DIEBYVEG
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorcankelly/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorcankelly/)*

@@ -1,6 +1,6 @@
 # Patision65
 
-Patision65 is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "GNNS, IMPVLSIV & Romphea" on Fri, 30 Oct 2026.
+Patision65 is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "GNNS, IMPVLSIV & Romphea" on Fri, 30 Oct 2026.
 
 Patision65 is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Anatolian Weapons, Eleusinia Mysteria, GNNS and IMPVLSIV and 2 more. See dates, start times and who's playing. 28is Oktovriou 65, Athina 104 33, Greece.
 
@@ -16,4 +16,4 @@ Patision65 is a music venue in Athens listed on soundcheck. 3 upcoming gigs, wit
 
 28is Oktovriou 65, Athina 104 33, Greece, Athens
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/patision65/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/patision65/)*

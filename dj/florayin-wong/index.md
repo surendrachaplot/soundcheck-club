@@ -1,6 +1,6 @@
 # Flora Yin-Wong
 
-Flora Yin-Wong is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cafe OTO, London on Fri, 6 Nov 2026.
+Flora Yin-Wong is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cafe OTO, London on Fri, 6 Nov 2026.
 
 Flora Yin-Wong is an experimental and ambient artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 20 more. Often billed alongside Ekaterina Bazhenova-Yamasaki, Ana Quiroga and Astrid Sonne. Next up: Cafe OTO, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Flora Yin-Wong is an experimental and ambient artist based in United Kingdom, wi
 
 Ekaterina Bazhenova-Yamasaki, Ana Quiroga, Astrid Sonne
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florayin-wong/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florayin-wong/)*

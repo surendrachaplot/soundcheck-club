@@ -1,6 +1,6 @@
 # Gigi Testa
 
-Gigi Testa is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Basic Club, Naples on Sat, 7 Nov 2026.
+Gigi Testa is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Basic Club, Naples on Sat, 7 Nov 2026.
 
 Gigi Testa is a house and balearic artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 12 more. Often billed alongside Davide D'Amico, Antal and Masalo. Next up: Basic Club, Naples on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Gigi Testa is a house and balearic artist based in Italy, with 44 gigs on soundc
 
 Davide D'Amico, Antal, Masalo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigitesta/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigitesta/)*

@@ -1,14 +1,13 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "New Party Preview: CUERO // A Latin Leather Night 10.28.26 w/ Fried Platano, JULIO CZR" on Wed, 28 Oct 2026.
+Club Rawhide is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Curse of the CODED w/ Prince Rose, Boomer Banks" on Thu, 29 Oct 2026.
 
-Club Rawhide is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including ALEXIS DE LA ROSA, Boomer Banks, Delilah At Night and DJ Dawson and 2 more. See dates, start times and who's playing. 250 W 26TH ST.
+Club Rawhide is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including ALEXIS DE LA ROSA, Boomer Banks, Delilah At Night and DJ Dawson and 2 more. See dates, start times and who's playing. 250 W 26TH ST.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | New Party Preview: CUERO // A Latin Leather Night 10.28.26 w/ Fried Platano, JULIO CZR |  |
 | Thu, 29 Oct 2026 | Curse of the CODED w/ Prince Rose, Boomer Banks | Boomer Banks, Prince Rose |
 | Fri, 30 Oct 2026 | Club Rawhide FRIDAY: Freakish Friday Formula #79 with Will Automagic, Leonce, Delilah At Night | Delilah At Night, Leonce, Will Automagic |
 | Sat, 31 Oct 2026 | Club Rawhide SATURDAY: Potent HALLOWEEN Concentrate #26 with Lauren Flax, Alexis, Stiletto | ALEXIS DE LA ROSA, Lauren Flax, Tory Stiletto |
@@ -23,4 +22,4 @@ Club Rawhide is a music venue in New York City listed on soundcheck. 10 upcoming
 
 250 W 26TH ST, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

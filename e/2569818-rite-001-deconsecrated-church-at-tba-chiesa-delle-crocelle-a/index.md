@@ -1,6 +1,6 @@
 # Rite 001 - Deconsecrated Church at TBA - Chiesa delle Crocelle ai Mannesi
 
-Rite 001 - Deconsecrated Church at TBA - Chiesa delle Crocelle ai Mannesi on Sun 8 Nov, Naples. 3 artists: CIRØ, Michele Lopardo and Soulmates. House. See the line-up on soundcheck.
+Rite 001 - Deconsecrated Church at TBA - Chiesa delle Crocelle ai Mannesi on Sun 8 Nov, Naples. 4 artists: CIRØ, GDT (ITA), Michele Lopardo and Soulmates. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Rite 001 - Deconsecrated Church at TBA - Chiesa delle Crocelle ai Mannesi on Sun
 ## Line-up
 
 - CIRØ
+- GDT (ITA)
 - Michele Lopardo
 - Soulmates
 

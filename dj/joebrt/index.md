@@ -1,13 +1,14 @@
 # Joe BRT
 
-Joe BRT is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hoppetosse, Berlin on Sat, 21 Nov 2026.
+Joe BRT is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
-Joe BRT is a house and minimal artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Grant Dell, SaPu and Balthazar Martinez. Next up: Hoppetosse, Berlin on Sat 21 Nov.
+Joe BRT is a house and minimal artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Grant Dell, Meat and SaPu. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Golden Gate | Berlin |
 | Sat, 21 Nov 2026 | Hoppetosse | Berlin |
 
 ## Recently played
@@ -22,6 +23,6 @@ Joe BRT is a house and minimal artist based in Germany, with 8 gigs on soundchec
 
 ## Shares bills with
 
-Grant Dell, SaPu, Balthazar Martinez
+Grant Dell, Meat, SaPu
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joebrt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joebrt/)*

@@ -1,6 +1,6 @@
 # FAFF
 
-FAFF is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+FAFF is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
 FAFF is a house and techno artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 20 more. Often billed alongside Angel D'lite, Michelle Manetti and Marie Malarie. Next up: The Cause, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ FAFF is a house and techno artist based in United Kingdom, with 114 gigs on soun
 
 Angel D'lite, Michelle Manetti, Marie Malarie
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faff/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faff/)*

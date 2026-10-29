@@ -1,6 +1,6 @@
 # Robin Tasi
 
-Robin Tasi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at fi, Cologne on Fri, 18 Dec 2026.
+Robin Tasi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at fi, Cologne on Fri, 18 Dec 2026.
 
 Robin Tasi is a techno and trance artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 11 more. Often billed alongside Krackk, Justin Tinderdate and DJ Autobahn. Next up: fi, Cologne on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Robin Tasi is a techno and trance artist based in Germany, with 106 gigs on soun
 
 Krackk, Justin Tinderdate, DJ Autobahn
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robintasi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robintasi/)*

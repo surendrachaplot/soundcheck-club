@@ -1,6 +1,6 @@
 # Bongo & Pusk
 
-Bongo & Pusk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Culture Box, Copenhagen on Sat, 31 Oct 2026.
+Bongo & Pusk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Culture Box, Copenhagen on Sat, 31 Oct 2026.
 
 Bongo & Pusk are a techno and house duo based in Denmark, with 32 gigs on soundcheck across Berlin, Copenhagen and Hamburg. Often billed alongside Aja Gulris, MiniMalene and Pusk. Next up: Culture Box, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bongo & Pusk are a techno and house duo based in Denmark, with 32 gigs on soundc
 
 Aja Gulris, MiniMalene (2), Pusk
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bongopusk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bongopusk/)*

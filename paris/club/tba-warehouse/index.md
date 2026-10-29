@@ -1,6 +1,6 @@
 # TBA - Warehouse
 
-TBA - Warehouse is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Maybe Forever: Danny L Harle + Hudson Mohawke" on Fri, 30 Oct 2026.
+TBA - Warehouse is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Maybe Forever: Danny L Harle + Hudson Mohawke" on Fri, 30 Oct 2026.
 
 TBA - Warehouse is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, Boss Priester, Dana Vicci and Danny L Harle and 2 more. See dates, start times and who's playing.
 
@@ -17,4 +17,4 @@ TBA - Warehouse is a music venue in Paris listed on soundcheck. 8 upcoming gigs,
 | Fri, 4 Dec 2026 | TAKEOVER 6IX presents SERAFINA [ALL NIGHT LONG] | Serafina |
 | Sat, 19 Dec 2026 | Berlin Finest x Dark Hearts | Dana Vicci |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-warehouse/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-warehouse/)*

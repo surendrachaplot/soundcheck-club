@@ -1,6 +1,6 @@
 # Bare Tecture
 
-Bare Tecture is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Rosie's Bar, Berlin on Sat, 31 Oct 2026.
+Bare Tecture is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Rosie's Bar, Berlin on Sat, 31 Oct 2026.
 
 Bare Tecture is a house and garage artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside DJ with Soul, U Know Y and Kat_Es. Next up: Rosie's Bar, Berlin on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Bare Tecture is a house and garage artist based in Germany, with 8 gigs on sound
 
 DJ with Soul, U Know Y, Kat_Es
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baretecture/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baretecture/)*

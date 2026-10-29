@@ -1,6 +1,6 @@
 # FCKNYE Festival 2026 at Brussels Expo
 
-FCKNYE Festival 2026 at Brussels Expo on Wed 30 Dec, Brussels. 54 artists: 2HOT2PLAY, A.N.I., Alignment and Angerfist and 50 more. See the line-up on soundcheck.
+FCKNYE Festival 2026 at Brussels Expo on Wed 30 Dec, Brussels. 64 artists: 2HOT2PLAY, A.N.I., Alignment and Angerfist and 60 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ FCKNYE Festival 2026 at Brussels Expo on Wed 30 Dec, Brussels. 54 artists: 2HOT2
 - A.N.I.
 - Alignment
 - Angerfist
+- ANXHELA
 - ascendant vierge
 - Bassjackers
 - billx
@@ -22,13 +23,16 @@ FCKNYE Festival 2026 at Brussels Expo on Wed 30 Dec, Brussels. 54 artists: 2HOT2
 - CARAVEL
 - davyboi
 - DJ Gigola
+- Dj Schnake
 - ECZODIA
 - Hedex
 - Holy Priest
+- K Motionz
 - KARAH
 - KLOFAMA
 - Kobosil
 - Krowdexx
+- KRUELTY
 - KX CHR
 - L.zwo
 - LB aka LABAT
@@ -37,15 +41,19 @@ FCKNYE Festival 2026 at Brussels Expo on Wed 30 Dec, Brussels. 54 artists: 2HOT2
 - Mandidextrous
 - Mandragora
 - Neek
+- NEGITIV
 - Nikolina
 - NoName
+- OMAKS
 - Onlynumbers
 - Part Time Killer
 - Pawlowski
+- PLK
 - PRADA2000
 - Protokseed
 - Restricted
 - Samuel Moriero (2)
+- Sickmode
 - Sköne
 - SLVL
 - Somewhen
@@ -55,8 +63,10 @@ FCKNYE Festival 2026 at Brussels Expo on Wed 30 Dec, Brussels. 54 artists: 2HOT2
 - Todiefor
 - Trym
 - Ueberrest
+- Unicorn on Ketamine
 - uphoria
 - Urumi
+- Vendex
 - Vieze Asbak
 - Vladimir Cauchemar
 - Von Bikräv

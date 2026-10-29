@@ -1,6 +1,6 @@
 # Rodri Martin
 
-Rodri Martin is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Studio76 Club, Madrid on Sat, 28 Nov 2026.
+Rodri Martin is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Studio76 Club, Madrid on Sat, 28 Nov 2026.
 
 Rodri Martin is a techno and minimal techno artist, with 10 gigs on soundcheck across Madrid. Often billed alongside Fgdj, KRSDJ and PW DISTORTION. Next up: Studio76 Club, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rodri Martin is a techno and minimal techno artist, with 10 gigs on soundcheck a
 
 Fgdj, KRSDJ, PW DISTORTION
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrimartin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrimartin/)*

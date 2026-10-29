@@ -1,6 +1,6 @@
 # Scott W.
 
-Scott W. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 4 Dec 2026.
+Scott W. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 4 Dec 2026.
 
 Scott W. is a techno and house artist based in Canada, with 23 gigs on soundcheck across Calgary, Osaka, Portland and Tokyo and 2 more. Often billed alongside Dane, KAITO. and Beiti. Next up: Biltmore Cabaret, Vancouver on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Scott W. is a techno and house artist based in Canada, with 23 gigs on soundchec
 
 Dane, KAITO., Beiti
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottw./)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottw./)*

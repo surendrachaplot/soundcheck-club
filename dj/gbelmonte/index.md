@@ -1,6 +1,6 @@
 # G Belmonte
 
-G Belmonte is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Arch 14, London on Sat, 5 Dec 2026.
+G Belmonte is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Arch 14, London on Sat, 5 Dec 2026.
 
 G Belmonte is a house and electro artist based in Brazil, with 28 gigs on soundcheck across Barcelona, Berlin, Brighton and London. Often billed alongside Leonardo Cruz DJ, Simoon Pedro and De La Reef. Next up: Arch 14, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ G Belmonte is a house and electro artist based in Brazil, with 28 gigs on soundc
 
 Leonardo Cruz DJ, Simoon Pedro, De La Reef
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gbelmonte/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gbelmonte/)*

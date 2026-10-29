@@ -1,6 +1,6 @@
 # KEVS
 
-KEVS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
+KEVS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
 
 KEVS is a house and tech house artist based in Poland, with 76 gigs on soundcheck across Bogotá and Warsaw. Often billed alongside HANICZ, Mabu and Meskalino. Next up: TBA - Secret Location (passed 2h before event), Warsaw on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ KEVS is a house and tech house artist based in Poland, with 76 gigs on soundchec
 
 HANICZ, Mabu, Meskalino
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevs/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevs/)*

@@ -1,6 +1,6 @@
 # Cassette
 
-Cassette is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Hotel Steyne, Sydney on Fri, 6 Nov 2026.
+Cassette is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hotel Steyne, Sydney on Fri, 6 Nov 2026.
 
 Cassette is a house and deep house artist based in Australia, with 64 gigs on soundcheck across Auckland, Bali, Brisbane and Melbourne and 1 more. Often billed alongside Danni B, Ben Nott and Elijah Something. Next up: Hotel Steyne, Sydney on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Cassette is a house and deep house artist based in Australia, with 64 gigs on so
 
 Danni B, Ben Nott, Elijah Something
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassette/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassette/)*

@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 13 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "HARDBUERAU HALLOWEEN EDITION W/ Natta + INNER CIRCLE" on Fri, 30 Oct 2026.
+Fundbureau is a music venue in Hamburg with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HARDBUERAU HALLOWEEN EDITION W/ Natta + INNER CIRCLE" on Fri, 30 Oct 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, with line-ups including Ani con Gas, Baime, BNZN and Ceymi.Ann and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, w
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

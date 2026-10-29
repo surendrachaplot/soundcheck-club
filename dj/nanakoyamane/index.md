@@ -1,14 +1,15 @@
 # Nanako Yamane
 
-Nanako Yamane is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at W Osaka, Osaka on Sat, 31 Oct 2026.
+Nanako Yamane is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at W Osaka, Osaka on Sat, 31 Oct 2026.
 
-Nanako Yamane is a house and techno artist based in Japan, with 51 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside DMITRI ABSINTHE, SIGNAL (JP) and YU-MA. Next up: W Osaka, Osaka on Sat 31 Oct.
+Nanako Yamane is a house and techno artist based in Japan, with 52 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside DMITRI ABSINTHE, SIGNAL (JP) and YU-MA. Next up: W Osaka, Osaka on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | W Osaka | Osaka |
+| Sun, 22 Nov 2026 | R Lounge | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nanako Yamane is a house and techno artist based in Japan, with 51 gigs on sound
 
 DMITRI ABSINTHE, SIGNAL (JP), YU-MA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakoyamane/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanakoyamane/)*

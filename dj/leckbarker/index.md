@@ -1,6 +1,6 @@
 # Leck Barker
 
-Leck Barker is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at La Fabriek, Brussels on Fri, 20 Nov 2026.
+Leck Barker is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Fabriek, Brussels on Fri, 20 Nov 2026.
 
 Leck Barker is a techno and industrial artist, with 14 gigs on soundcheck across Brussels. Often billed alongside OWD, Makoveev and SYSMIK. Next up: La Fabriek, Brussels on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Leck Barker is a techno and industrial artist, with 14 gigs on soundcheck across
 
 OWD (1), Makoveev, SYSMIK
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leckbarker/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leckbarker/)*

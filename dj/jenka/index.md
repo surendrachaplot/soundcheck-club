@@ -1,6 +1,6 @@
 # JENKA
 
-JENKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
+JENKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
 
 JENKA is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin, Dresden, Mecklenburg Vorpommern and Münster. Often billed alongside FRÆNCIS, DJ Dios and L X S. Next up: ÆDEN, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ JENKA is a techno and trance artist based in Germany, with 19 gigs on soundcheck
 
 FRÆNCIS, DJ Dios, L X S
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenka/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenka/)*

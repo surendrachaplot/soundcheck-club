@@ -1,6 +1,6 @@
 # SHE/HER
 
-SHE/HER is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Q Club, Milan on Fri, 30 Oct 2026.
+SHE/HER is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Q Club, Milan on Fri, 30 Oct 2026.
 
 SHE/HER is a techno and house artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Berlin, Milan and Prague and 2 more. Often billed alongside Flits, Isaiah (NL) and Lasse. Next up: Q Club, Milan on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ SHE/HER is a techno and house artist based in Netherlands, with 65 gigs on sound
 
 Flits, Isaiah (NL), Lasse
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*

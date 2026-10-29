@@ -1,6 +1,6 @@
 # VIKKI_
 
-VIKKI_ is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
+VIKKI_ is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
 
 VIKKI_ is an electro and experimental artist based in Poland, with 12 gigs on soundcheck across Warsaw. Often billed alongside MARCUCCIO, Slowmode and zeroday. Next up: Jasna 1, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ VIKKI_ is an electro and experimental artist based in Poland, with 12 gigs on so
 
 MARCUCCIO, Slowmode, zeroday
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikki_/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikki_/)*

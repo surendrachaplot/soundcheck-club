@@ -1,6 +1,6 @@
 # Hot Cross Fun presents: Halloween Disco at Two More Years
 
-Hot Cross Fun presents: Halloween Disco at Two More Years on Sat 31 Oct, London. 3 artists: Arnie Wrong, Gerrardo and Hot Cross Fun. See the line-up on soundcheck.
+Hot Cross Fun presents: Halloween Disco at Two More Years on Sat 31 Oct, London. 4 artists: Arnie Wrong, Foshay, Gerrardo and Hot Cross Fun. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Hot Cross Fun presents: Halloween Disco at Two More Years on Sat 31 Oct, London.
 ## Line-up
 
 - Arnie Wrong
+- Foshay
 - Gerrardo
 - Hot Cross Fun
 

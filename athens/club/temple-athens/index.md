@@ -1,6 +1,6 @@
 # Temple Athens
 
-Temple Athens is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "Sunrise Zone & Innersense pres T99/Quadrophonia" on Sat, 5 Dec 2026.
+Temple Athens is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sunrise Zone & Innersense pres T99/Quadrophonia" on Sat, 5 Dec 2026.
 
 Temple Athens is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Petros Floorfiller. See dates, start times and who's playing. Iakhou 17, 118 54 Athens, Greece.
 
@@ -14,4 +14,4 @@ Temple Athens is a music venue in Athens listed on soundcheck. 1 upcoming gig, w
 
 Iakhou 17, 118 54 Athens, Greece, Athens
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/temple-athens/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/temple-athens/)*

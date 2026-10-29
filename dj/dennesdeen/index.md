@@ -1,6 +1,6 @@
 # Dennes Deen
 
-Dennes Deen is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at M1 Club, Vienna on Sat, 31 Oct 2026.
+Dennes Deen is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at M1 Club, Vienna on Sat, 31 Oct 2026.
 
 Dennes Deen is a techno and tech house artist based in Austria, with 10 gigs on soundcheck across Beijing, New York City, Shanghai and Vienna. Often billed alongside Ralph Nasr, Ronin (LB) and Stefano Dvt. Next up: M1 Club, Vienna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dennes Deen is a techno and tech house artist based in Austria, with 10 gigs on 
 
 Ralph Nasr, Ronin (LB), Stefano Dvt
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennesdeen/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennesdeen/)*

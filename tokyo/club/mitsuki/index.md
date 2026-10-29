@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "'DOPE FUN'" on Wed, 28 Oct 2026.
+Mitsuki is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Connor/MIZUKI OGISU/july" on Thu, 29 Oct 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including akii, AKIRAM EN, Alex Neri and Al Jones and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including akii, AKIRAM EN, Alex Neri and Al Jones and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | 'DOPE FUN' | YELLOWUHURU, lostbaggage |
 | Thu, 29 Oct 2026 | Connor/MIZUKI OGISU/july | Connor, MIZUKI OGISU |
 | Fri, 30 Oct 2026 | GERO ALL NIGHT LONG |  |
 | Sat, 31 Oct 2026 | BALOCCO | Yaya |
@@ -23,4 +22,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with l
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

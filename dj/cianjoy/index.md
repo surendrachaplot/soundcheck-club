@@ -1,6 +1,6 @@
 # Cian Joy
 
-Cian Joy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Distrikt, Leeds on Sat, 5 Dec 2026.
+Cian Joy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Distrikt, Leeds on Sat, 5 Dec 2026.
 
 Cian Joy is a house and tech house artist, with 7 gigs on soundcheck across Leeds. Often billed alongside Jartley, Mango Boogy and Arty (UK). Next up: Distrikt, Leeds on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Cian Joy is a house and tech house artist, with 7 gigs on soundcheck across Leed
 
 Jartley, Mango Boogy, Arty (UK)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cianjoy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cianjoy/)*

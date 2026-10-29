@@ -1,14 +1,15 @@
 # Marco Neves
 
-Marco Neves is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paragon, New York City on Sat, 14 Nov 2026.
+Marco Neves is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Paragon, New York City on Sat, 14 Nov 2026.
 
-Marco Neves is a techno and house artist based in United States of America, with 49 gigs on soundcheck across Amsterdam, Detroit, New York City and San Francisco/Oakland. Often billed alongside Tlim Shug, /KATA/ and Lexicon. Next up: Paragon, New York City on Sat 14 Nov.
+Marco Neves is a techno and house artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Detroit, New York City and San Francisco/Oakland. Often billed alongside Tlim Shug, /KATA/ and Lexicon. Next up: Paragon, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Paragon | New York City |
+| Sat, 21 Nov 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Marco Neves is a techno and house artist based in United States of America, with
 
 Tlim Shug, /KATA/, Lexicon
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marconeves/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marconeves/)*

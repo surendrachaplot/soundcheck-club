@@ -1,6 +1,6 @@
 # Sara Miller
 
-Sara Miller is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at YSY, Berlin on Sat, 7 Nov 2026.
+Sara Miller is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at YSY, Berlin on Sat, 7 Nov 2026.
 
 Sara Miller is a house and techno artist based in Ireland, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 6 more. Often billed alongside Benjamin Fröhlich, Rosa Red and Alinka. Next up: YSY, Berlin on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Sara Miller is a house and techno artist based in Ireland, with 61 gigs on sound
 
 Benjamin Fröhlich, Rosa Red, Alinka
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saramiller/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saramiller/)*

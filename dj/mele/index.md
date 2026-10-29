@@ -1,6 +1,6 @@
 # Melé
 
-Melé is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Phonox, London on Fri, 30 Oct 2026.
+Melé is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Phonox, London on Fri, 30 Oct 2026.
 
 Melé is a house and tech house artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 35 more. Often billed alongside Eats Everything, Sam Divine and Olive F. Next up: Phonox, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Melé is a house and tech house artist based in United Kingdom, with 132 gigs on
 
 Eats Everything, Sam Divine, Olive F
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

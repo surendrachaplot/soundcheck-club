@@ -1,6 +1,6 @@
 # LIVE FROM EARTH Halloween at Hoppetosse
 
-LIVE FROM EARTH Halloween at Hoppetosse on Sat 31 Oct, Berlin. 5 artists: ALCATRAZ, bambinodj, bbpue and EMMA KING and 1 more. See the line-up on soundcheck.
+LIVE FROM EARTH Halloween at Hoppetosse on Sat 31 Oct, Berlin. 6 artists: AbuGlitsch, ALCATRAZ, bambinodj and bbpue and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ LIVE FROM EARTH Halloween at Hoppetosse on Sat 31 Oct, Berlin. 5 artists: ALCATR
 
 ## Line-up
 
+- AbuGlitsch
 - ALCATRAZ
 - bambinodj
 - bbpue

@@ -1,6 +1,6 @@
 # Stiffdance
 
-Stiffdance is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Good Room, New York City on Fri, 30 Oct 2026.
+Stiffdance is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Good Room, New York City on Fri, 30 Oct 2026.
 
 Stiffdance is a house and techno artist based in United States of America, with 11 gigs on soundcheck across New York City, Richmond and Toronto. Often billed alongside Andi, Aji and B I P. Next up: Good Room, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Stiffdance is a house and techno artist based in United States of America, with 
 
 Andi, Aji (2), B I P
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stiffdance/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stiffdance/)*

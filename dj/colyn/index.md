@@ -1,6 +1,6 @@
 # Colyn
 
-Colyn is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
+Colyn is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
 
 Colyn is a techno and house artist based in Netherlands, with 188 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Adriatique, Innellea and Tale Of Us. Next up: E1, London on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Colyn is a techno and house artist based in Netherlands, with 188 gigs on soundc
 
 Adriatique, Innellea, Tale Of Us
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*

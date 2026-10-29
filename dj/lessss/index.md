@@ -1,6 +1,6 @@
 # LESSSS
 
-LESSSS is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 74 Hall, Istanbul on Fri, 30 Oct 2026.
+LESSSS is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 74 Hall, Istanbul on Fri, 30 Oct 2026.
 
 LESSSS is a techno and hardcore artist based in France, with 194 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 61 more. Often billed alongside Azyr, OMAKS and Basswell. Next up: 74 Hall, Istanbul on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ LESSSS is a techno and hardcore artist based in France, with 194 gigs on soundch
 
 Azyr, OMAKS, Basswell
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*

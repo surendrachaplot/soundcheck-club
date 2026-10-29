@@ -1,14 +1,15 @@
 # Phase Line
 
-Phase Line is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Elastica, Vilnius on Fri, 30 Oct 2026.
+Phase Line is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Elastica, Vilnius on Fri, 30 Oct 2026.
 
-Phase Line is a techno and acid artist, with 46 gigs on soundcheck across Copenhagen, London, Riga and Vilnius. Often billed alongside IP:VIII, Mirror Slave and Valdagger. Next up: Elastica, Vilnius on Fri 30 Oct.
+Phase Line is a techno and acid artist, with 47 gigs on soundcheck across Copenhagen, Lithuania, London and Riga and 1 more. Often billed alongside IP:VIII, Mirror Slave and Valdagger. Next up: Elastica, Vilnius on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Elastica | Vilnius |
+| Sat, 7 Nov 2026 | Daina / Kaunas | Lithuania |
 | Fri, 20 Nov 2026 | gallery 1986 | Vilnius |
 
 ## Recently played
@@ -26,4 +27,4 @@ Phase Line is a techno and acid artist, with 46 gigs on soundcheck across Copenh
 
 IP:VIII, Mirror Slave, Valdagger
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*

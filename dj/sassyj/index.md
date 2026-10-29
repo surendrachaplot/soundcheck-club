@@ -1,6 +1,6 @@
 # Sassy J
 
-Sassy J is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
+Sassy J is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
 
 Sassy J is a house and disco artist based in Switzerland, with 52 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 23 more. Often billed alongside Antal, D'Monk and Eternal Love. Next up: Elysia, Basel on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Sassy J is a house and disco artist based in Switzerland, with 52 gigs on soundc
 
 Antal, D'Monk, Eternal Love
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sassyj/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sassyj/)*

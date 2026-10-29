@@ -1,6 +1,6 @@
 # Matty Judah
 
-Matty Judah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - HOST - The Queer Space for the Brave, Singapore on Sun, 8 Nov 2026.
+Matty Judah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - HOST - The Queer Space for the Brave, Singapore on Sun, 8 Nov 2026.
 
 Matty Judah is a techno and house artist based in Singapore, with 8 gigs on soundcheck across Singapore. Often billed alongside AETLL, howrøng and New Masculine. Next up: TBA - HOST - The Queer Space for the Brave, Singapore on Sun 8 Nov.
 
@@ -24,4 +24,4 @@ Matty Judah is a techno and house artist based in Singapore, with 8 gigs on soun
 
 AETLL, howrøng, New Masculine
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattyjudah/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattyjudah/)*

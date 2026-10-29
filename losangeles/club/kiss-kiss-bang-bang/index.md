@@ -1,6 +1,6 @@
 # Kiss Kiss Bang Bang
 
-Kiss Kiss Bang Bang is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Stereo Punks presents BYNX" on Thu, 29 Oct 2026.
+Kiss Kiss Bang Bang is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Stereo Punks presents BYNX" on Thu, 29 Oct 2026.
 
 Kiss Kiss Bang Bang is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 3531 Wilshire Blvd, Los Angeles, CA 90010, USA.
 
@@ -18,4 +18,4 @@ Kiss Kiss Bang Bang is a music venue in Los Angeles listed on soundcheck. 5 upco
 
 3531 Wilshire Blvd, Los Angeles, CA 90010, USA, Los Angeles
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kiss-kiss-bang-bang/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kiss-kiss-bang-bang/)*

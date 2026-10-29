@@ -1,6 +1,6 @@
 # Jeff Veliz
 
-Jeff Veliz is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at 1 Hotel Brooklyn Bridge, New-york-state on Sun, 8 Nov 2026.
+Jeff Veliz is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 1 Hotel Brooklyn Bridge, New-york-state on Sun, 8 Nov 2026.
 
 Jeff Veliz is a tech house and afro house artist, with 11 gigs on soundcheck across New York State, New York City, Philadelphia and Washington DC. Often billed alongside ANDŸ CARDONA, Bruce Wayne (US) and La Santa (ES). Next up: 1 Hotel Brooklyn Bridge, New York State on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Jeff Veliz is a tech house and afro house artist, with 11 gigs on soundcheck acr
 
 ANDŸ CARDONA, Bruce Wayne (US), La Santa (ES)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffveliz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffveliz/)*

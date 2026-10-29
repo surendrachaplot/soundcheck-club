@@ -1,6 +1,6 @@
 # Eli Iwasa
 
-Eli Iwasa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 30 Oct 2026.
+Eli Iwasa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 30 Oct 2026.
 
 Eli Iwasa is a house and techno artist based in Brazil, with 71 gigs on soundcheck across Bali, Barcelona, Brazil and Dublin and 9 more. Often billed alongside From House to Disco, Marta Supernova and Nana Kohat. Next up: D-Edge RIO, Rio de Janeiro on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Eli Iwasa is a house and techno artist based in Brazil, with 71 gigs on soundche
 
 From House to Disco, Marta Supernova, Nana Kohat
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliiwasa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliiwasa/)*

@@ -1,6 +1,6 @@
 # Jazzhaus
 
-Jazzhaus is a music venue in Freiburg with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "bratty • with charli xcx & other brat coded artists • freiburg" on Fri, 13 Nov 2026.
+Jazzhaus is a music venue in Freiburg with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "bratty • with charli xcx & other brat coded artists • freiburg" on Fri, 13 Nov 2026.
 
 Jazzhaus is a music venue in Freiburg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Jazzhaus is a music venue in Freiburg listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | bratty • with charli xcx & other brat coded artists • freiburg |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/freiburg/club/jazzhaus/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/freiburg/club/jazzhaus/)*

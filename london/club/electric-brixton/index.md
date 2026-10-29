@@ -1,6 +1,6 @@
 # Electric Brixton
 
-Electric Brixton is a music venue in London with 9 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "The London Halloween Ball 2026 Live From Electric Brixton" on Fri, 30 Oct 2026.
+Electric Brixton is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "The London Halloween Ball 2026 Live From Electric Brixton" on Fri, 30 Oct 2026.
 
 Electric Brixton is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Ahadadream, Alex Farell, DJ EZ and Donae'o and 2 more. See dates, start times and who's playing. Town Hall Parade; Brixton; London SW2 1RJ; United Kingdom.
 
@@ -22,4 +22,4 @@ Electric Brixton is a music venue in London listed on soundcheck. 9 upcoming gig
 
 Town Hall Parade; Brixton; London SW2 1RJ; United Kingdom, London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-brixton/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-brixton/)*

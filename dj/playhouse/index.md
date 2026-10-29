@@ -1,6 +1,6 @@
 # Play House
 
-Play House is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Signorvino (Pl. Saint-Michel), Paris on Thu, 29 Oct 2026.
+Play House is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Signorvino (Pl. Saint-Michel), Paris on Thu, 29 Oct 2026.
 
 Play House is an afro house and house artist based in France, with 9 gigs on soundcheck across Paris. Often billed alongside GrooveBøx. Next up: Signorvino (Pl. Saint-Michel), Paris on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Play House is an afro house and house artist based in France, with 9 gigs on sou
 
 GrooveBøx
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/playhouse/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/playhouse/)*

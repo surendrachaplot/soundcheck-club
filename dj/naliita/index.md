@@ -1,6 +1,6 @@
 # NALIITA
 
-NALIITA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Angel Music Bar, Melbourne on Tue, 3 Nov 2026.
+NALIITA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Angel Music Bar, Melbourne on Tue, 3 Nov 2026.
 
 NALIITA is a house and deep house artist based in Australia, with 22 gigs on soundcheck across Melbourne. Often billed alongside Miles Ahead, Julius Myles and Emil LP. Next up: Angel Music Bar, Melbourne on Tue 3 Nov.
 
@@ -26,4 +26,4 @@ NALIITA is a house and deep house artist based in Australia, with 22 gigs on sou
 
 Miles Ahead, Julius Myles, Emil LP
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naliita/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naliita/)*

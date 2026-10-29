@@ -1,6 +1,6 @@
 # Last Arch
 
-Last Arch is a music venue in London with 15 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "[CANCELLED] Más Música" on Fri, 30 Oct 2026.
+Last Arch is a music venue in London with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "[CANCELLED] Más Música" on Fri, 30 Oct 2026.
 
 Last Arch is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including BEADS, Bunney, Calla and DJ Brockie and 2 more. See dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
@@ -9,7 +9,7 @@ Last Arch is a music venue in London listed on soundcheck. 15 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | [CANCELLED] Más Música | HiFever, Luke Mannion, Ryan Nicholls, Timmy P, Tobias Lineker, Vince LaSalle |
-| Sat, 31 Oct 2026 | Holy Grail Presents: Halloween with Higgo | Higgo, THIRZA |
+| Sat, 31 Oct 2026 | Holy Grail Presents: Halloween with Higgo [SOLD OUT] | Higgo, THIRZA |
 | Fri, 6 Nov 2026 | SOLAS Studios presents: SOLAS & Friends (Chapter 2) |  |
 | Sat, 7 Nov 2026 | Project 304 | TurnTwo |
 | Fri, 13 Nov 2026 | FAM JAM PRESENTS: Punky and the Brain | Calla, LEWY (2), OTIS (3), Paul Lution, Punky and the brain |
@@ -23,4 +23,4 @@ Last Arch is a music venue in London listed on soundcheck. 15 upcoming gigs, wit
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

@@ -1,6 +1,6 @@
 # Bisk
 
-Bisk is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Der Weiße Hase, Berlin on Thu, 29 Oct 2026.
+Bisk is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Der Weiße Hase, Berlin on Thu, 29 Oct 2026.
 
 Bisk is a techno and tech house artist based in Germany, with 124 gigs on soundcheck across Berlin, New York City and Tokyo. Often billed alongside DAV3, Morris Fitch and ED2000. Next up: Der Weiße Hase, Berlin on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ Bisk is a techno and tech house artist based in Germany, with 124 gigs on soundc
 
 DAV3, Morris Fitch, ED2000
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bisk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bisk/)*

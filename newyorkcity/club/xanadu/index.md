@@ -1,14 +1,14 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Xanadu x Choke Hole x Function 'WITCHSLAP' (skate + drag wrestling + dance party + concert)" on Fri, 30 Oct 2026.
+Xanadu is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Xanadu x Choke Hole x Function 'WITCHSLAP' (skate + drag wrestling + dance party + concert)" on Fri, 30 Oct 2026.
 
-Xanadu is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Conduit, Amelia Holt, Bouffant Bouffant and DADA COZMIC and 2 more. See dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
+Xanadu is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Conduit, Amelia Holt, Bouffant Bouffant and Chachi Guerrero and 2 more. See dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Xanadu x Choke Hole x Function 'WITCHSLAP' (skate + drag wrestling + dance party + concert) | Dangerous Rose, Makadsi |
+| Fri, 30 Oct 2026 | Xanadu x Choke Hole x Function 'WITCHSLAP' (skate + drag wrestling + dance party + concert) | Chachi Guerrero, Dangerous Rose, Makadsi |
 | Sun, 1 Nov 2026 | 40+ Years of REGGAE 'To the Foundation' by Sting International (dance party) | Sting International |
 | Thu, 5 Nov 2026 | Dirty Magazine's Lingerie Skate (skate all night) | DADA COZMIC, Quetamine |
 | Fri, 6 Nov 2026 | Jay Dimes - Dime in Da Rough Show (concert) |  |
@@ -21,4 +21,4 @@ Xanadu is a music venue in New York City listed on soundcheck. 8 upcoming gigs, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

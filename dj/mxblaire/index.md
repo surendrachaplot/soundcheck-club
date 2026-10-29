@@ -1,6 +1,6 @@
 # Mx. Blaire
 
-Mx. Blaire is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 29 Oct 2026.
+Mx. Blaire is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 29 Oct 2026.
 
 Mx. Blaire is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Adam Unknown, Jordan Graham and Math3ca. Next up: Bulbul Berlin, Berlin on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Mx. Blaire is a house and techno artist based in United States of America, with 
 
 Adam Unknown, Jordan Graham, Math3ca
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxblaire/)*

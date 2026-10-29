@@ -1,14 +1,15 @@
 # Memphy
 
-Memphy is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Secret Warehouse, San Diego on Fri, 30 Oct 2026.
+Memphy is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Warehouse, San Diego on Fri, 30 Oct 2026.
 
-Memphy is a techno and club artist based in United States of America, with 92 gigs on soundcheck across Auckland, Berlin, Chicago and London and 11 more. Often billed alongside Bapari, Sevyn 0000 and FASHION (US). Next up: TBA - Secret Warehouse, San Diego on Fri 30 Oct.
+Memphy is a techno and club artist based in United States of America, with 93 gigs on soundcheck across Auckland, Berlin, Chicago and London and 11 more. Often billed alongside Bapari, Sevyn 0000 and FASHION (US). Next up: TBA - Secret Warehouse, San Diego on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - Secret Warehouse | San Diego |
+| Sat, 31 Oct 2026 | TBA | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Memphy is a techno and club artist based in United States of America, with 92 gi
 
 Bapari, Sevyn 0000, FASHION (US)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memphy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memphy/)*

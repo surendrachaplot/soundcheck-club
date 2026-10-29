@@ -1,6 +1,6 @@
 # Ű999
 
-Ű999 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Vektor - The Klub, Budapest on Fri, 6 Nov 2026.
+Ű999 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Vektor - The Klub, Budapest on Fri, 6 Nov 2026.
 
 Ű999 is a techno and trance artist, with 10 gigs on soundcheck across Berlin and Budapest. Often billed alongside Kamafaka, Daddy D and ädene. Next up: Vektor - The Klub, Budapest on Fri 6 Nov.
 
@@ -25,4 +25,4 @@
 
 Kamafaka, Daddy D, ädene
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u999/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u999/)*

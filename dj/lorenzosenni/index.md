@@ -1,6 +1,6 @@
 # Lorenzo Senni
 
-Lorenzo Senni is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Lorenzo Senni is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Lorenzo Senni is an experimental and techno artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 24 more. Often billed alongside Kode9, Marcel Dettmann and Amnesia Scanner. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Lorenzo Senni is an experimental and techno artist based in Italy, with 46 gigs 
 
 Kode9, Marcel Dettmann, Amnesia Scanner
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzosenni/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzosenni/)*

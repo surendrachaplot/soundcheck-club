@@ -1,6 +1,6 @@
 # KOKO Electronic: Jan Blomqvist (live) at KOKO
 
-KOKO Electronic: Jan Blomqvist (live) on Fri 11 Dec, London. 1 artist: Jan Blomqvist. See the line-up on soundcheck.
+KOKO Electronic: Jan Blomqvist (live) on Fri 11 Dec, London. 2 artists: AMOUNKA and Jan Blomqvist. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KOKO Electronic: Jan Blomqvist (live) on Fri 11 Dec, London. 1 artist: Jan Blomq
 
 ## Line-up
 
+- AMOUNKA
 - Jan Blomqvist
 
 *Source: [soundcheck](https://soundcheck.club/e/2545177-koko-electronic-jan-blomqvist-live-at-koko/)*

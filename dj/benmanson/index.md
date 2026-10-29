@@ -1,6 +1,6 @@
 # Ben Manson
 
-Ben Manson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at ROSA, Berlin on Fri, 13 Nov 2026.
+Ben Manson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ROSA, Berlin on Fri, 13 Nov 2026.
 
 Ben Manson is a techno and house artist based in France, with 107 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 4 more. Often billed alongside Mr Cozzo, Hugo Prime and Feel .MA. Next up: ROSA, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ben Manson is a techno and house artist based in France, with 107 gigs on soundc
 
 Mr Cozzo, Hugo Prime, Feel .MA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benmanson/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benmanson/)*

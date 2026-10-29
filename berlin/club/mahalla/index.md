@@ -1,14 +1,15 @@
 # MaHalla
 
-MaHalla is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "TOTENPICKNICK" on Sat, 31 Oct 2026.
+MaHalla is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "TOTENPICKNICK" on Sat, 31 Oct 2026.
 
-MaHalla is a music venue in Berlin listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Wilhelminenhofstraße 76, 12459, Berlin.
+MaHalla is a music venue in Berlin listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Wilhelminenhofstraße 76, 12459, Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TOTENPICKNICK |  |
+| Fri, 6 Nov 2026 | AWARË |  |
 | Sat, 14 Nov 2026 | Canto Diáspora Album Release Party |  |
 | Sat, 28 Nov 2026 | Sam Gendel & Sam Wilkes Live |  |
 
@@ -16,4 +17,4 @@ MaHalla is a music venue in Berlin listed on soundcheck. 3 upcoming gigs. See da
 
 Wilhelminenhofstraße 76, 12459, Berlin, Berlin
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*

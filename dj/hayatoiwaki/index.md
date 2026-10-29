@@ -1,6 +1,6 @@
 # Hayato Iwaki
 
-Hayato Iwaki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Aoyama Tunnel, Tokyo on Thu, 29 Oct 2026.
+Hayato Iwaki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Aoyama Tunnel, Tokyo on Thu, 29 Oct 2026.
 
 Hayato Iwaki is a house and techno artist based in Japan, with 132 gigs on soundcheck across Tokyo. Often billed alongside Leo Gabriel, Hayato and RIHO ASAEDA. Next up: Aoyama Tunnel, Tokyo on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Hayato Iwaki is a house and techno artist based in Japan, with 132 gigs on sound
 
 Leo Gabriel, Hayato, RIHO ASAEDA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayatoiwaki/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayatoiwaki/)*

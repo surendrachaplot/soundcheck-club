@@ -1,6 +1,6 @@
 # Mark Angel
 
-Mark Angel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Nocturne, Chicago on Wed, 25 Nov 2026.
+Mark Angel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Nocturne, Chicago on Wed, 25 Nov 2026.
 
 Mark Angel is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Chicago. Often billed alongside Brenda, Mike Dunn and Gabriel Palomo. Next up: Le Nocturne, Chicago on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Mark Angel is a techno and house artist based in United States of America, with 
 
 Brenda, Mike Dunn, Gabriel Palomo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markangel/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markangel/)*

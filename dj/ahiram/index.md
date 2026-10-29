@@ -1,6 +1,6 @@
 # Ahiram
 
-Ahiram is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Gazebo, Stockholm on Thu, 31 Dec 2026.
+Ahiram is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Gazebo, Stockholm on Thu, 31 Dec 2026.
 
 Ahiram is an electronica and minimal artist based in Sweden, with 12 gigs on soundcheck across Oslo and Stockholm. Often billed alongside Hraach, Victor Norman and Ed Noodle. Next up: Gazebo, Stockholm on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ahiram is an electronica and minimal artist based in Sweden, with 12 gigs on sou
 
 Hraach, Victor Norman, Ed Noodle
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahiram/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahiram/)*

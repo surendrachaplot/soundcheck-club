@@ -1,6 +1,6 @@
 # Afr0delic
 
-Afr0delic is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Our Time Kitchen, Baltimore on Sat, 31 Oct 2026.
+Afr0delic is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Our Time Kitchen, Baltimore on Sat, 31 Oct 2026.
 
 Afr0delic is a club and house artist based in Jamaica, with 14 gigs on soundcheck across Baltimore and New York City. Often billed alongside DJ Dolla, JaySwann and SOUNDS BY SEVEN. Next up: Our Time Kitchen, Baltimore on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Afr0delic is a club and house artist based in Jamaica, with 14 gigs on soundchec
 
 DJ Dolla, JaySwann, SOUNDS BY SEVEN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afr0delic/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afr0delic/)*

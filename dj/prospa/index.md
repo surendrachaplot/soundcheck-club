@@ -1,6 +1,6 @@
 # Prospa
 
-Prospa is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Prospa is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Prospa is a house and techno artist based in United Kingdom, with 192 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 53 more. Often billed alongside Seth Troxler, Josh Baker and Carlita. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Prospa is a house and techno artist based in United Kingdom, with 192 gigs on so
 
 Seth Troxler, Josh Baker, Carlita
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

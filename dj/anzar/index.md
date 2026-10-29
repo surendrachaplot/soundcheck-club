@@ -1,6 +1,6 @@
 # Anzar
 
-Anzar is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 31 Oct 2026.
+Anzar is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 31 Oct 2026.
 
 Anzar is a house and electronica artist, with 7 gigs on soundcheck across Barcelona, Ibiza, Lisbon and London and 1 more. Often billed alongside Holly Molly, Nathabes and Amxire. Next up: Les Enfants Brillants, Barcelona on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Anzar is a house and electronica artist, with 7 gigs on soundcheck across Barcel
 
 Holly Molly, Nathabes, Amxire
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anzar/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anzar/)*

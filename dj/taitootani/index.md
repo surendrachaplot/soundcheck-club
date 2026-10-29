@@ -1,6 +1,6 @@
 # Taito Otani
 
-Taito Otani is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Tka4, Tokyo on Sun, 1 Nov 2026.
+Taito Otani is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tka4, Tokyo on Sun, 1 Nov 2026.
 
 Taito Otani is an experimental and noise artist, with 8 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Hackmarkt, Alice In Aesthesia and Mucaro. Next up: Tka4, Tokyo on Sun 1 Nov.
 
@@ -24,4 +24,4 @@ Taito Otani is an experimental and noise artist, with 8 gigs on soundcheck acros
 
 Hackmarkt, Alice In Aesthesia, Mucaro
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taitootani/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taitootani/)*

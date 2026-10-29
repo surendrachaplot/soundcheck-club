@@ -1,6 +1,6 @@
 # Leona
 
-Leona is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Saloon, Tokyo on Fri, 30 Oct 2026.
+Leona is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Saloon, Tokyo on Fri, 30 Oct 2026.
 
 Leona is a techno and house artist, with 20 gigs on soundcheck across Berlin, Geneva, Lisbon and Nantes and 3 more. Often billed alongside Melting 99, Chima Isaaro and Elinnn. Next up: Saloon, Tokyo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Leona is a techno and house artist, with 20 gigs on soundcheck across Berlin, Ge
 
 Melting 99, Chima Isaaro, Elinnn
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leona-1/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leona-1/)*

@@ -1,8 +1,8 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Job Jobse is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
-Job Jobse is a house and techno artist based in Netherlands, with 150 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 47 more. Often billed alongside Palms Trax, BASHKKA and KI/KI. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
+Job Jobse is a house and techno artist based in Netherlands, with 151 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 48 more. Often billed alongside Palms Trax, BASHKKA and Sedef Adasï. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Job Jobse is a house and techno artist based in Netherlands, with 150 gigs on so
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 7 Jan 2027 | Carriageworks | Sydney |
 | Fri, 8 Jan 2027 | The Wool Store | Melbourne |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Job Jobse is a house and techno artist based in Netherlands, with 150 gigs on so
 
 ## Shares bills with
 
-Palms Trax, BASHKKA, KI/KI
+Palms Trax, BASHKKA, Sedef Adasï
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*

@@ -1,6 +1,6 @@
 # RUK (2)
 
-RUK (2) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Yan Gastro, Istanbul on Sat, 31 Oct 2026.
+RUK (2) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Yan Gastro, Istanbul on Sat, 31 Oct 2026.
 
 RUK is a techno and drum & bass artist based in Turkey, with 13 gigs on soundcheck across Istanbul and Tbilisi. Often billed alongside BERENALP, Semi and dj s1s0. Next up: Yan Gastro, Istanbul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ RUK is a techno and drum & bass artist based in Turkey, with 13 gigs on soundche
 
 BERENALP, Semi, dj s1s0
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruk-2/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruk-2/)*

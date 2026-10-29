@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Hoochie Palace x DickAppointment (DETROIT)" on Fri, 13 Nov 2026.
+Northern Lights Lounge is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Hoochie Palace x DickAppointment (DETROIT)" on Fri, 13 Nov 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Ameera, Glenn Underground, SKY JETTA and Turtle Bugg. See dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -15,4 +15,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 2 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

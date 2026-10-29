@@ -1,6 +1,6 @@
 # F O R E S I G H T
 
-F O R E S I G H T is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Späti Bro, Warschauer Str., Berlin on Sat, 31 Oct 2026.
+F O R E S I G H T is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Späti Bro, Warschauer Str., Berlin on Sat, 31 Oct 2026.
 
 F O R E S I G H T is a trance and techno artist based in India, with 8 gigs on soundcheck across Berlin. Often billed alongside Armaville, Dr.Waumiau and FAballert. Next up: TBA - Späti Bro, Warschauer Str., Berlin on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ F O R E S I G H T is a trance and techno artist based in India, with 8 gigs on s
 
 Armaville, Dr.Waumiau, FAballert
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foresight/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foresight/)*

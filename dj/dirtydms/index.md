@@ -1,14 +1,15 @@
 # dirtydms
 
-dirtydms is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at C12, Brussels on Sat, 7 Nov 2026.
+dirtydms is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at C12, Brussels on Sat, 7 Nov 2026.
 
-dirtydms is a techno and bass artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bologna and 6 more. Often billed alongside Helmond Lang, Kessler and Vox supreme. Next up: C12, Brussels on Sat 7 Nov.
+dirtydms is a techno and bass artist based in Netherlands, with 66 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bologna and 7 more. Often billed alongside Helmond Lang, Jasmín and Kessler. Next up: C12, Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | C12 | Brussels |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ dirtydms is a techno and bass artist based in Netherlands, with 65 gigs on sound
 
 ## Shares bills with
 
-Helmond Lang, Kessler, Vox supreme
+Helmond Lang, Jasmín, Kessler
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydms/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydms/)*

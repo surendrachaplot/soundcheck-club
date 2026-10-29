@@ -1,14 +1,15 @@
 # Prince Rose
 
-Prince Rose is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Club Rawhide, New York City on Thu, 29 Oct 2026.
+Prince Rose is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Rawhide, New York City on Thu, 29 Oct 2026.
 
-Prince Rose is a house and techno artist based in United States of America, with 32 gigs on soundcheck across New York City and Washington DC. Often billed alongside Gail Force One, PWRPUFF and Joann Fabrixx. Next up: Club Rawhide, New York City on Thu 29 Oct.
+Prince Rose is a house and techno artist based in United States of America, with 33 gigs on soundcheck across New York City and Washington DC. Often billed alongside Gail Force One, PWRPUFF and Joann Fabrixx. Next up: Club Rawhide, New York City on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Club Rawhide | New York City |
+| Sun, 29 Nov 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Prince Rose is a house and techno artist based in United States of America, with
 
 Gail Force One, PWRPUFF, Joann Fabrixx
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princerose/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princerose/)*

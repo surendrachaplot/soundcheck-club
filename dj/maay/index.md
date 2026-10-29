@@ -1,6 +1,6 @@
 # MAAY
 
-MAAY is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - BARRACAS , Buenos Aires on Sat, 31 Oct 2026.
+MAAY is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - BARRACAS , Buenos Aires on Sat, 31 Oct 2026.
 
 MAAY is an experimental and club artist, with 35 gigs on soundcheck across Berlin, Buenos Aires, London and Madrid and 5 more. Often billed alongside DJ GHEPARD, DJ LOUI FROM JUPITER4 and auto_timer. Next up: TBA - BARRACAS , Buenos Aires on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MAAY is an experimental and club artist, with 35 gigs on soundcheck across Berli
 
 DJ GHEPARD, DJ LOUI FROM JUPITER4, auto_timer
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maay/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maay/)*

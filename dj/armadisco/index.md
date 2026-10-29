@@ -1,6 +1,6 @@
 # ArmaDisco
 
-ArmaDisco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Wolf Milano, Milan on Fri, 30 Oct 2026.
+ArmaDisco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Wolf Milano, Milan on Fri, 30 Oct 2026.
 
 ArmaDisco is a house and disco artist, with 19 gigs on soundcheck across Budapest and Milan. Often billed alongside Alex De Ponti, Feda and Nick Sanfrancisco. Next up: Wolf Milano, Milan on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ArmaDisco is a house and disco artist, with 19 gigs on soundcheck across Budapes
 
 Alex De Ponti, Feda, Nick Sanfrancisco
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armadisco/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armadisco/)*

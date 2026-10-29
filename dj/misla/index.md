@@ -1,6 +1,6 @@
 # Misla
 
-Misla is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 5 Nov 2026.
+Misla is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Thu, 5 Nov 2026.
 
 Misla is a house and tech house artist based in Chile, with 34 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Rony Finkel, Chichöl and Guille Pinet. Next up: 303 Audiophile Bar, Barcelona on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Misla is a house and tech house artist based in Chile, with 34 gigs on soundchec
 
 Rony Finkel, Chichöl, Guille Pinet
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misla/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misla/)*

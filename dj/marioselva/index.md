@@ -1,6 +1,6 @@
 # Mario Selva
 
-Mario Selva is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at REC Napoli, Naples on Fri, 11 Dec 2026.
+Mario Selva is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at REC Napoli, Naples on Fri, 11 Dec 2026.
 
 Mario Selva is a tech house and afro house artist based in Italy, with 11 gigs on soundcheck across Barcelona and Naples. Often billed alongside Luigi D'Alterio, Alex Thunder and Sasha Carassi. Next up: REC Napoli, Naples on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Mario Selva is a tech house and afro house artist based in Italy, with 11 gigs o
 
 Luigi D'Alterio, Alex Thunder, Sasha Carassi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marioselva/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marioselva/)*

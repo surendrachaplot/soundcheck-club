@@ -1,6 +1,6 @@
 # xtelma
 
-xtelma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
+xtelma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
 
 xtelma is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Chicago and Detroit. Often billed alongside Eulalia, Initial G and Miss Twink USA. Next up: TBA, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ xtelma is a techno and house artist based in United States of America, with 9 gi
 
 Eulalia, Initial G, Miss Twink USA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xtelma-usa/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xtelma-usa/)*

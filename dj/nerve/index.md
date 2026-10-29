@@ -1,6 +1,6 @@
 # Nerve
 
-Nerve is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+Nerve is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
 
 Nerve is a bass and experimental artist based in Australia, with 13 gigs on soundcheck across Berlin, Brussels, Hong Kong and Melbourne and 1 more. Often billed alongside Emelyne, Moopie and Kate Miller. Next up: Miscellania, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Nerve is a bass and experimental artist based in Australia, with 13 gigs on soun
 
 Emelyne, Moopie, Kate Miller
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nerve/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nerve/)*

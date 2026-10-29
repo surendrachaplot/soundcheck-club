@@ -1,6 +1,6 @@
 # Tino Machauer
 
-Tino Machauer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Lehmann Club, Stuttgart on Fri, 18 Dec 2026.
+Tino Machauer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lehmann Club, Stuttgart on Fri, 18 Dec 2026.
 
 Tino Machauer is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside slin, lex_shockwerk and HERMETICA. Next up: Lehmann Club, Stuttgart on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Tino Machauer is a techno and house artist based in Germany, with 61 gigs on sou
 
 slin, lex_shockwerk, HERMETICA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinomachauer/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinomachauer/)*

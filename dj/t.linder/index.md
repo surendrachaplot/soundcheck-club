@@ -1,6 +1,6 @@
 # T.Linder
 
-T.Linder is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 30 Oct 2026.
+T.Linder is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Der Weiße Hase, Berlin on Fri, 30 Oct 2026.
 
 T.Linder is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Berlin, Detroit and Indiana and 3 more. Often billed alongside DJ Seoul, Neil V and DJ Roach. Next up: Der Weiße Hase, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ T.Linder is a techno and house artist based in United States of America, with 38
 
 DJ Seoul, Neil V, DJ Roach
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.linder/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.linder/)*

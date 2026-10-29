@@ -1,6 +1,6 @@
 # Quantum
 
-Quantum is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
+Quantum is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
 
 Quantum is a techno and deep house artist, with 8 gigs on soundcheck across Berlin, Istanbul, Paris and The Hague. Often billed alongside Eva, HANNAHHANSEN and Marc Eisenberg. Next up: TBA - Black Scorpion Music بلک اسکورپیون موزیک, The Hague on Tue 1 Aug.
 
@@ -24,4 +24,4 @@ Quantum is a techno and deep house artist, with 8 gigs on soundcheck across Berl
 
 Eva, HANNAHHANSEN, Marc Eisenberg
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quantum/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quantum/)*

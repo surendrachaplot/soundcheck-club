@@ -1,18 +1,18 @@
 # TAPCUE
 
-TAPCUE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Das Werk, Vienna on Wed, 28 Oct 2026.
+TAPCUE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 31 Oct 2026.
 
-TAPCUE is a techno and trance artist, with 23 gigs on soundcheck across Bratislava, Copenhagen, Prague and Vienna. Often billed alongside SPACER (SK), MIKLEI and KRISTIE KARDIO. Next up: Das Werk, Vienna on Wed 28 Oct.
+TAPCUE is a techno and trance artist, with 23 gigs on soundcheck across Bratislava, Copenhagen, Prague and Vienna. Often billed alongside SPACER (SK), MIKLEI and KRISTIE KARDIO. Next up: Ankali & Planeta Za, Prague on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | Das Werk | Vienna |
 | Sat, 31 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
+- Das Werk, Vienna · Wed, 28 Oct 2026
 - Jungle Roastery, Bratislava · Sat, 17 Oct 2026
 - MODULE, Copenhagen · Fri, 6 Mar 2026
 - Subdeck, Bratislava · Fri, 27 Feb 2026
@@ -20,10 +20,9 @@ TAPCUE is a techno and trance artist, with 23 gigs on soundcheck across Bratisla
 - Subdeck, Bratislava · Fri, 23 Jan 2026
 - Subdeck, Bratislava · Sat, 22 Nov 2025
 - Subdeck, Bratislava · Fri, 26 Sept 2025
-- WAX, Bratislava · Fri, 4 Jul 2025
 
 ## Shares bills with
 
 SPACER (SK), MIKLEI, KRISTIE KARDIO
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapcue/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapcue/)*

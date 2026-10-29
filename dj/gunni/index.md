@@ -1,13 +1,14 @@
 # Gunni
 
-Gunni is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
+Gunni is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Funke, Ghent on Sat, 31 Oct 2026.
 
-Gunni is a techno and house artist based in Belgium, with 20 gigs on soundcheck across Berlin, Brussels, Cologne and London. Often billed alongside AliA, DJ Rino and EliseThere. Next up: Crevette Records, Brussels on Wed 4 Nov.
+Gunni is a techno and house artist based in Belgium, with 21 gigs on soundcheck across Berlin, Brussels, Cologne and Ghent and 1 more. Often billed alongside AliA, DJ Rino and EliseThere. Next up: Funke, Ghent on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Funke | Ghent |
 | Wed, 4 Nov 2026 | Crevette Records | Brussels |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gunni is a techno and house artist based in Belgium, with 20 gigs on soundcheck 
 
 AliA, DJ Rino, EliseThere
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gunni/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gunni/)*

@@ -1,14 +1,15 @@
 # L.A.X
 
-L.A.X is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 29 Oct 2026.
+L.A.X is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 29 Oct 2026.
 
-L.A.X is an electronic artist based in Germany, with 10 gigs on soundcheck across Munich. Often billed alongside Punktmidi, Roshan (DE) and SpanierOhneAuto. Next up: Bahnwärter Thiel, Munich on Thu 29 Oct.
+L.A.X is a house and techno artist based in Germany, with 11 gigs on soundcheck across Munich. Often billed alongside Punktmidi, Roshan (DE) and SpanierOhneAuto. Next up: Bahnwärter Thiel, Munich on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Bahnwärter Thiel | Munich |
+| Fri, 20 Nov 2026 | Lieberscholli | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ L.A.X is an electronic artist based in Germany, with 10 gigs on soundcheck acros
 
 Punktmidi, Roshan (DE), SpanierOhneAuto
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.a.x/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.a.x/)*

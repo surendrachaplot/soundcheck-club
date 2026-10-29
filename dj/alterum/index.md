@@ -1,6 +1,6 @@
 # alterum
 
-alterum is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Brixton Jamm, London on Thu, 29 Oct 2026.
+alterum is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Brixton Jamm, London on Thu, 29 Oct 2026.
 
 alterum is a hardcore and techno artist based in United Kingdom, with 65 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 7 more. Often billed alongside 3DMA, pissxie and Takenbymarshall. Next up: Brixton Jamm, London on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ alterum is a hardcore and techno artist based in United Kingdom, with 65 gigs on
 
 3DMA, pissxie, Takenbymarshall
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*

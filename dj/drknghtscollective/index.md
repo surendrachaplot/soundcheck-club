@@ -1,6 +1,6 @@
 # DRKNGHTS
 
-DRKNGHTS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 31 Oct 2026.
+DRKNGHTS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 31 Oct 2026.
 
 DRKNGHTS is a techno and house artist, with 28 gigs on soundcheck across Amsterdam, Antwerp, Rotterdam and Utrecht. Often billed alongside ARAKAZA, OG Karin and TWIENA. Next up: Garage Noord, Amsterdam on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ DRKNGHTS is a techno and house artist, with 28 gigs on soundcheck across Amsterd
 
 ARAKAZA, OG Karin, TWIENA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drknghtscollective/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drknghtscollective/)*

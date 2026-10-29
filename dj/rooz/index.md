@@ -1,6 +1,6 @@
 # Rooz
 
-Rooz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
+Rooz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Rooz is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Athens, Frankfurt, San Francisco/Oakland and Tampa Bay. Often billed alongside Bo (Borzu), Anthony Mansfield and David Harness. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Rooz is a house and techno artist based in United States of America, with 32 gig
 
 Bo (Borzu), Anthony Mansfield, David Harness
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rooz/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rooz/)*

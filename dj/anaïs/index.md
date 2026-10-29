@@ -1,8 +1,8 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Garage artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
+Anaïs is a Drum & Bass and Garage artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
 
-Anaïs is a drum & bass and garage artist based in United Kingdom, with 62 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brighton and 22 more. Often billed alongside Whiney, Degs and P Money. Next up: The Prospect Building, Bristol on Sat 14 Nov.
+Anaïs is a drum & bass and garage artist based in United Kingdom, with 63 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brighton and 23 more. Often billed alongside Whiney, Degs and P Money. Next up: The Prospect Building, Bristol on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Anaïs is a drum & bass and garage artist based in United Kingdom, with 62 gigs 
 | Fri, 4 Dec 2026 | Quarters | Brighton |
 | Sat, 5 Dec 2026 | The Nest | Nottingham |
 | Sat, 5 Dec 2026 | Ouseburn Garden | Newcastle |
+| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Anaïs is a drum & bass and garage artist based in United Kingdom, with 62 gigs 
 
 Whiney, Degs, P Money
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

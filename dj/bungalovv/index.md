@@ -1,14 +1,15 @@
 # Bungalovv
 
-Bungalovv is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 30 Oct 2026.
+Bungalovv is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 30 Oct 2026.
 
-Bungalovv is an experimental and club artist based in Argentina, with 64 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 16 more. Often billed alongside TUFI, CÁRPATOS and Isaka. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 30 Oct.
+Bungalovv is an experimental and club artist based in Argentina, with 65 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 16 more. Often billed alongside TUFI, CÁRPATOS and Isaka. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
+| Fri, 27 Nov 2026 | Studio dB | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bungalovv is an experimental and club artist based in Argentina, with 64 gigs on
 
 TUFI, CÁRPATOS, Isaka
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bungalovv/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bungalovv/)*

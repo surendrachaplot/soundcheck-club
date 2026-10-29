@@ -1,6 +1,6 @@
 # Luciano Lamanna
 
-Luciano Lamanna is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Cieloterra, Rome on Fri, 6 Nov 2026.
+Luciano Lamanna is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cieloterra, Rome on Fri, 6 Nov 2026.
 
 Luciano Lamanna is a techno and hardcore artist based in Italy, with 8 gigs on soundcheck across Milan, Naples and Rome. Often billed alongside fivequestionmarks, CezarX and Dolce Potente. Next up: Cieloterra, Rome on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Luciano Lamanna is a techno and hardcore artist based in Italy, with 8 gigs on s
 
 fivequestionmarks, CezarX, Dolce Potente
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianolamanna/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianolamanna/)*

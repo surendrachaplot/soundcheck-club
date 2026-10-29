@@ -1,6 +1,6 @@
 # GraceBones
 
-GraceBones is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - Select FM, Los Angeles on Fri, 30 Oct 2026.
+GraceBones is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Select FM, Los Angeles on Fri, 30 Oct 2026.
 
 GraceBones is a house and garage artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, London, Los Angeles and Utrecht. Often billed alongside Raw Underground, Dante Tom and Cortese. Next up: TBA - Select FM, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ GraceBones is a house and garage artist based in United Kingdom, with 75 gigs on
 
 Raw Underground, Dante Tom, Cortese
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracebones/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracebones/)*

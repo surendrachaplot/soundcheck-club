@@ -1,6 +1,6 @@
 # Inner Totality
 
-Inner Totality is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Sauna Social Club, London on Fri, 6 Nov 2026.
+Inner Totality is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sauna Social Club, London on Fri, 6 Nov 2026.
 
 Inner Totality is a downtempo and house artist based in United Kingdom, with 36 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Lisbon and 8 more. Often billed alongside ddwy, Good Block and RAMZi. Next up: Sauna Social Club, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Inner Totality is a downtempo and house artist based in United Kingdom, with 36 
 
 ddwy, Good Block, RAMZi
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innertotality/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innertotality/)*

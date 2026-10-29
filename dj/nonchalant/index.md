@@ -1,6 +1,6 @@
 # nonchalant
 
-nonchalant is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Vagabond, Washington DC on Sat, 31 Oct 2026.
+nonchalant is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Vagabond, Washington DC on Sat, 31 Oct 2026.
 
 nonchalant is an afro house and house artist, with 25 gigs on soundcheck across Baltimore, Bangkok, New York City and Orlando and 1 more. Often billed alongside AJAMU, JADE CAO and Sabeel Chohan. Next up: Vagabond, Washington DC on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ nonchalant is an afro house and house artist, with 25 gigs on soundcheck across 
 
 AJAMU, JADE CAO, Sabeel Chohan
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonchalant/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonchalant/)*

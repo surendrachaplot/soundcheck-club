@@ -1,14 +1,15 @@
 # moii-chan
 
-moii-chan is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Mahjong Bar, Toronto on Thu, 29 Oct 2026.
+moii-chan is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mahjong Bar, Toronto on Thu, 29 Oct 2026.
 
-moii-chan is a club and techno artist based in Canada, with 21 gigs on soundcheck across Toronto. Often billed alongside 999ADJ, CYLLA and Jelly Monte. Next up: Mahjong Bar, Toronto on Thu 29 Oct.
+moii-chan is a club and techno artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside CYLLA, 999ADJ and Akkai. Next up: Mahjong Bar, Toronto on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Mahjong Bar | Toronto |
+| Sat, 28 Nov 2026 | Cafeteria | Toronto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ moii-chan is a club and techno artist based in Canada, with 21 gigs on soundchec
 
 ## Shares bills with
 
-999ADJ, CYLLA, Jelly Monte
+CYLLA, 999ADJ, Akkai (2)
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moii-chan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moii-chan/)*

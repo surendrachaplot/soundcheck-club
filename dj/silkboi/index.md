@@ -1,14 +1,15 @@
 # SilkBoi
 
-SilkBoi is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
+SilkBoi is a Hip-Hop and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
 
-SilkBoi is a hip-hop and club artist, with 32 gigs on soundcheck across Beijing, Chengdu, Hong Kong and Seoul and 2 more. Often billed alongside Kilo Vee, Tohji and kongbb. Next up: Reactor Shanghai, Shanghai on Fri 30 Oct.
+SilkBoi is a hip-hop and club artist, with 33 gigs on soundcheck across Beijing, Chengdu, Hong Kong and Seoul and 2 more. Often billed alongside Kilo Vee, kongbb and Tohji. Next up: Reactor Shanghai, Shanghai on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Reactor Shanghai | Shanghai |
+| Sat, 7 Nov 2026 | Reactor Shanghai | Shanghai |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ SilkBoi is a hip-hop and club artist, with 32 gigs on soundcheck across Beijing,
 
 ## Shares bills with
 
-Kilo Vee, Tohji, kongbb
+Kilo Vee, kongbb, Tohji
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silkboi/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silkboi/)*

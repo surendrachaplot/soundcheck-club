@@ -1,8 +1,8 @@
 # Roxy
 
-Roxy is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "1991 ∞ ROXY Prague" on Fri, 30 Oct 2026.
+Roxy is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "1991 ∞ ROXY Prague" on Fri, 30 Oct 2026.
 
-Roxy is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including 1991 (UK), Adam Beyer, Agents Of Time and Darren Emerson and 2 more. See dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
+Roxy is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with line-ups including 1991 (UK), Adam Beyer, Agents Of Time and Darren Emerson and 2 more. See dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Roxy is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with lin
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

@@ -1,6 +1,6 @@
 # Maga Knaup
 
-Maga Knaup is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 7 Nov 2026.
+Maga Knaup is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hangar48 Club, Madrid on Sat, 7 Nov 2026.
 
 Maga Knaup is a techno and progressive house artist, with 3 gigs on soundcheck across Madrid. Often billed alongside Alexis mayer, Belkan and Djen. Next up: Hangar48 Club, Madrid on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Maga Knaup is a techno and progressive house artist, with 3 gigs on soundcheck a
 
 Alexis mayer, Belkan, Djen
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magaknaup/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magaknaup/)*

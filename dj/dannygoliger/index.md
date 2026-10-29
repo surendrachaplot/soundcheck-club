@@ -1,6 +1,6 @@
 # Danny Goliger
 
-Danny Goliger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA - TLA, Los Angeles on Thu, 29 Oct 2026.
+Danny Goliger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - TLA, Los Angeles on Thu, 29 Oct 2026.
 
 Danny Goliger is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Denver, London, Los Angeles and Mexico City and 5 more. Often billed alongside Farsight, Gay Felony and sysk. Next up: TBA - TLA, Los Angeles on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Danny Goliger is a techno and house artist based in United States of America, wi
 
 Farsight, Gay Felony, sysk
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygoliger/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygoliger/)*

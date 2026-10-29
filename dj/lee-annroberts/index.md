@@ -1,6 +1,6 @@
 # Lee Ann Roberts
 
-Lee Ann Roberts is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Lee Ann Roberts is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Lee Ann Roberts is a techno and industrial artist based in South Africa, with 188 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lee Ann Roberts is a techno and industrial artist based in South Africa, with 18
 
 Charlie Sparks, 999999999, I Hate Models
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*

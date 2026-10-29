@@ -1,8 +1,8 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "HALLOWEEN GOTH NIGHT BY SPACEBUNKER" on Thu, 29 Oct 2026.
+Garage Noord is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HALLOWEEN GOTH NIGHT BY SPACEBUNKER" on Thu, 29 Oct 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 2tongues, ARAKAZA, AUCO and baby ganoush and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 2tongues, Anthony Linell, ARAKAZA and AUCO and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gig
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

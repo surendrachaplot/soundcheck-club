@@ -1,6 +1,6 @@
 # TANKclub
 
-TANKclub is a music venue in Bologna with 5 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Selofan Live" on Fri, 30 Oct 2026.
+TANKclub is a music venue in Bologna with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Selofan Live" on Fri, 30 Oct 2026.
 
 TANKclub is a music venue in Bologna listed on soundcheck. 5 upcoming gigs, with line-ups including Kobold, Louisahhh and POTOCHKINE. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TANKclub is a music venue in Bologna listed on soundcheck. 5 upcoming gigs, with
 | Fri, 13 Nov 2026 | POTOCHKINE + Border Live | POTOCHKINE |
 | Fri, 27 Nov 2026 | Subject Sue + Las Eras Live |  |
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/tankclub/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/tankclub/)*

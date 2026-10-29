@@ -1,6 +1,6 @@
 # Alvaro Medina
 
-Alvaro Medina is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+Alvaro Medina is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
 Alvaro Medina is a house and minimal artist based in Spain, with 94 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 11 more. Often billed alongside Jordi Castell, MARYO and Federico Molinari. Next up: Signal, New York City on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Alvaro Medina is a house and minimal artist based in Spain, with 94 gigs on soun
 
 Jordi Castell (1), MARYO, Federico Molinari
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromedina/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromedina/)*

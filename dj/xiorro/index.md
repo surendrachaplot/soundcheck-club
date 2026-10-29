@@ -1,6 +1,6 @@
 # Xiorro
 
-Xiorro is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at OST, Berlin on Thu, 5 Nov 2026.
+Xiorro is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OST, Berlin on Thu, 5 Nov 2026.
 
 Xiorro is a techno and house artist based in United States of America, with 90 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 30 more. Often billed alongside Laure Croft, Faster Horses and Parallx. Next up: OST, Berlin on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Xiorro is a techno and house artist based in United States of America, with 90 g
 
 Laure Croft, Faster Horses, Parallx
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*

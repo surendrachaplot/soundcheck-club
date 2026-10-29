@@ -1,8 +1,8 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+GiGi FM is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
-GiGi FM is a techno and house artist, with 193 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 63 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
+GiGi FM is a techno and house artist, with 194 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 64 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ GiGi FM is a techno and house artist, with 193 gigs on soundcheck across Adelaid
 | Fri, 18 Dec 2026 | FORGE | Sheffield |
 | Sat, 19 Dec 2026 | Strange Brew | Bristol |
 | Sat, 26 Dec 2026 | SMUT Athens | Athens |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ GiGi FM is a techno and house artist, with 193 gigs on soundcheck across Adelaid
 
 Altinbas, Polygonia, DVS1
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

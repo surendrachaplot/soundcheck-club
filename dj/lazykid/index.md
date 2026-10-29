@@ -1,6 +1,6 @@
 # Lazykid
 
-Lazykid is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
+Lazykid is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
 
 Lazykid is a techno and house artist based in Germany, with 94 gigs on soundcheck across Berlin, Hamburg, Munich and Nürnberg. Often billed alongside Rad.Lez, SILSAN and Shabiki. Next up: KitKatClub, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Lazykid is a techno and house artist based in Germany, with 94 gigs on soundchec
 
 Rad.Lez, SILSAN, Shabiki
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazykid/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazykid/)*

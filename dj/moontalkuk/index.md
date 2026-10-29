@@ -1,6 +1,6 @@
 # Moontalk (UK)
 
-Moontalk (UK) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Lab.Club, London on Fri, 30 Oct 2026.
+Moontalk (UK) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lab.Club, London on Fri, 30 Oct 2026.
 
 Moontalk (UK) is a bass and techno artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside limi, CHEZA LUCINA and DJ Programma. Next up: Lab.Club, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Moontalk (UK) is a bass and techno artist based in United Kingdom, with 14 gigs 
 
 limi, CHEZA LUCINA, DJ Programma
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moontalkuk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moontalkuk/)*

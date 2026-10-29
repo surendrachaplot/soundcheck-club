@@ -1,6 +1,6 @@
 # ADRIANNA.C
 
-ADRIANNA.C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Acadana, Hong Kong on Thu, 31 Dec 2026.
+ADRIANNA.C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Acadana, Hong Kong on Thu, 31 Dec 2026.
 
 ADRIANNA.C is a techno and house artist based in China, with 46 gigs on soundcheck across Beijing, Hanoi, Hong Kong and Seoul and 2 more. Often billed alongside Mill.H, Dan-neo and Faxtory. Next up: Acadana, Hong Kong on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ ADRIANNA.C is a techno and house artist based in China, with 46 gigs on soundche
 
 Mill.H, Dan-neo, Faxtory
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianna.c/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianna.c/)*

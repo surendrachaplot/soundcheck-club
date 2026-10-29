@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "Papi Juice Halloween" on Fri, 30 Oct 2026.
+Elsewhere is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Papi Juice Halloween" on Fri, 30 Oct 2026.
 
 Elsewhere is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including 6 SENSE, LYDO, Adam R and AEREA and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 21 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

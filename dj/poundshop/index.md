@@ -1,6 +1,6 @@
 # Poundshop
 
-Poundshop is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
+Poundshop is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
 
 Poundshop is a bass and hardcore artist based in United Kingdom, with 21 gigs on soundcheck across Edinburgh, Glasgow, London and Manchester. Often billed alongside Ship Sket, Basmati and Bushbby. Next up: M.O.T, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Poundshop is a bass and hardcore artist based in United Kingdom, with 21 gigs on
 
 Ship Sket, Basmati (1), Bushbby
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poundshop/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poundshop/)*

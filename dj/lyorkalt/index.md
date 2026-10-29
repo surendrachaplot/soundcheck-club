@@ -1,6 +1,6 @@
 # Lyor Kalt
 
-Lyor Kalt is a Techno and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 27 Nov 2026.
+Lyor Kalt is a Techno and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 27 Nov 2026.
 
 Lyor Kalt is a techno and hard drum artist based in Ukraine, with 20 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Butwho, Francesca (PL) and SYS.END. Next up: STK 47 WAREHOUSE, Krakow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lyor Kalt is a techno and hard drum artist based in Ukraine, with 20 gigs on sou
 
 Butwho, Francesca (PL), SYS.END
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyorkalt/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyorkalt/)*

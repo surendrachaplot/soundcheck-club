@@ -1,6 +1,6 @@
 # Tympanic
 
-Tympanic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at DETROIT CLUB, Barcelona on Fri, 30 Oct 2026.
+Tympanic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at DETROIT CLUB, Barcelona on Fri, 30 Oct 2026.
 
 Tympanic is a techno and house artist based in Spain, with 26 gigs on soundcheck across Barcelona. Often billed alongside 9 Lives, ATMEN and Katya La Mar. Next up: DETROIT CLUB, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tympanic is a techno and house artist based in Spain, with 26 gigs on soundcheck
 
 9 Lives, ATMEN, Katya La Mar
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tympanic/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tympanic/)*

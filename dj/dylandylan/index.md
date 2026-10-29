@@ -1,6 +1,6 @@
 # Dylan Dylan
 
-Dylan Dylan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Le Trabendo, Paris on Sat, 7 Nov 2026.
+Dylan Dylan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Trabendo, Paris on Sat, 7 Nov 2026.
 
 Dylan Dylan is a house and techno artist based in France, with 53 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and London and 6 more. Often billed alongside Marina Trench, Mad Rey and Kx9000. Next up: Le Trabendo, Paris on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Dylan Dylan is a house and techno artist based in France, with 53 gigs on soundc
 
 Marina Trench, Mad Rey, Kx9000
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylandylan/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylandylan/)*

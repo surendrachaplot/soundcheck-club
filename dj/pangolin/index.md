@@ -1,6 +1,6 @@
 # Pangölin
 
-Pangölin is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
+Pangölin is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
 
 Pangölin is a progressive house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across Manchester. Often billed alongside WeeDot, Róisín W and The Brokers. Next up: Honey Street Studio, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Pangölin is a progressive house and tech house artist based in United Kingdom, 
 
 WeeDot, Róisín W, The Brokers
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pangolin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pangolin/)*

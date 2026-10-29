@@ -1,6 +1,6 @@
 # Killing Time
 
-Killing Time is a music venue in Valencia with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "BRASKADA X Cosmic Anomaly & SRVNT" on Fri, 30 Oct 2026.
+Killing Time is a music venue in Valencia with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BRASKADA X Cosmic Anomaly & SRVNT" on Fri, 30 Oct 2026.
 
 Killing Time is a music venue in Valencia listed on soundcheck. 3 upcoming gigs, with line-ups including Broken boy, Cosmic Anomaly, Gamir and Kene and 2 more. See dates, start times and who's playing. Doctor Sumsi, 21 (Ruzafa), Valencia.
 
@@ -16,4 +16,4 @@ Killing Time is a music venue in Valencia listed on soundcheck. 3 upcoming gigs,
 
 Doctor Sumsi, 21 (Ruzafa), Valencia, Valencia
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/killing-time/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/killing-time/)*

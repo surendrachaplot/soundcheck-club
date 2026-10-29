@@ -1,6 +1,6 @@
 # Rivera (UK)
 
-Rivera (UK) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Dalston Den, London on Fri, 6 Nov 2026.
+Rivera (UK) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Dalston Den, London on Fri, 6 Nov 2026.
 
 Rivera (UK) is a house and electronica artist based in United Kingdom, with 10 gigs on soundcheck across London and Manchester. Often billed alongside Sam Deeley, THIRZA and AKWA. Next up: Dalston Den, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Rivera (UK) is a house and electronica artist based in United Kingdom, with 10 g
 
 Sam Deeley, THIRZA, AKWA
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivera-uk/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivera-uk/)*

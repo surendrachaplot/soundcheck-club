@@ -1,6 +1,6 @@
 # TIWEA
 
-TIWEA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Orange Club, Schleswig-holstein on Sun, 8 Nov 2026.
+TIWEA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Orange Club, Schleswig-holstein on Sun, 8 Nov 2026.
 
 TIWEA is a techno and minimal techno artist based in Germany, with 16 gigs on soundcheck across Berlin, Hamburg, Leipzig and Schleswig Holstein and 1 more. Often billed alongside Ozzy Riot, Patrick Scuro and Sabura. Next up: Orange Club, Schleswig Holstein on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ TIWEA is a techno and minimal techno artist based in Germany, with 16 gigs on so
 
 Ozzy Riot, Patrick Scuro, Sabura
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiwea/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiwea/)*

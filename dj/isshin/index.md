@@ -1,6 +1,6 @@
 # Isshin
 
-Isshin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 30 Oct 2026.
+Isshin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 30 Oct 2026.
 
 Isshin is a techno and house artist based in Japan, with 38 gigs on soundcheck across Bratislava, Kyoto, Osaka and Tokyo. Often billed alongside tnseei, Kurea and Lynta. Next up: Circus Tokyo, Tokyo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Isshin is a techno and house artist based in Japan, with 38 gigs on soundcheck a
 
 tnseei, Kurea, Lynta
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isshin/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isshin/)*

@@ -1,6 +1,6 @@
 # Night Format
 
-Night Format is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at TBA, Vancouver on Sat, 7 Nov 2026.
+Night Format is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Vancouver on Sat, 7 Nov 2026.
 
 Night Format is a techno and hardcore artist based in Canada, with 8 gigs on soundcheck across Calgary and Vancouver. Often billed alongside BRNT, C-Star and Chris Liebing. Next up: TBA, Vancouver on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Night Format is a techno and hardcore artist based in Canada, with 8 gigs on sou
 
 BRNT, C-Star, Chris Liebing
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightformat/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightformat/)*

@@ -1,6 +1,6 @@
 # Freefall
 
-Freefall is a Drum & Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 31 Oct 2026.
+Freefall is a Drum & Bass and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 31 Oct 2026.
 
 Freefall is a drum & bass and tech house artist, with 15 gigs on soundcheck across Washington DC. Often billed alongside DR MILLER, Beaux and Chris Nitti. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Freefall is a drum & bass and tech house artist, with 15 gigs on soundcheck acro
 
 DR MILLER, Beaux, Chris Nitti
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freefall/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freefall/)*

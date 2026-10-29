@@ -1,6 +1,6 @@
 # Liu Lee
 
-Liu Lee is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Final, Taipei on Fri, 13 Nov 2026.
+Liu Lee is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Final, Taipei on Fri, 13 Nov 2026.
 
 Liu Lee is a bass and club artist based in South Korea, with 38 gigs on soundcheck across Beijing, Berlin, London and Lyon and 7 more. Often billed alongside HYUNHXEE, Wholes and KOLLIN. Next up: Final, Taipei on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Liu Lee is a bass and club artist based in South Korea, with 38 gigs on soundche
 
 HYUNHXEE, Wholes, KOLLIN
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liulee/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liulee/)*

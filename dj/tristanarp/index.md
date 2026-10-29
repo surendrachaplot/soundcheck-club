@@ -1,14 +1,15 @@
 # Tristan Arp
 
-Tristan Arp is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 30 Oct 2026.
+Tristan Arp is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 30 Oct 2026.
 
-Tristan Arp is a bass and techno artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 18 more. Often billed alongside Coline Cornélis, DJ DEADNAME and Daigos. Next up: Garage Noord, Amsterdam on Fri 30 Oct.
+Tristan Arp is a bass and techno artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 18 more. Often billed alongside Coline Cornélis, DJ DEADNAME and Daigos. Next up: Garage Noord, Amsterdam on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Garage Noord | Amsterdam |
+| Sat, 28 Nov 2026 | Rovr Soho | London |
 | Fri, 4 Dec 2026 | Ormside Projects | London |
 | Thu, 28 Jan 2027 | Bozar | Brussels |
 
@@ -27,4 +28,4 @@ Tristan Arp is a bass and techno artist based in United States of America, with 
 
 Coline Cornélis, DJ DEADNAME, Daigos
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*

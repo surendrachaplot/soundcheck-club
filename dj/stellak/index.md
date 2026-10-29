@@ -1,14 +1,15 @@
 # Stella K
 
-Stella K is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Bodies in Space, Brussels on Sat, 31 Oct 2026.
+Stella K is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bodies in Space, Brussels on Sat, 31 Oct 2026.
 
-Stella K is a techno and house artist based in France, with 35 gigs on soundcheck across Berlin, Brussels, Geneva and Ghent and 3 more. Often billed alongside NMSS, Vera Moro and Casper. Next up: Bodies in Space, Brussels on Sat 31 Oct.
+Stella K is a house and techno artist based in France, with 36 gigs on soundcheck across Berlin, Brussels, Geneva and Ghent and 3 more. Often billed alongside NMSS, Vera Moro and Casper. Next up: Bodies in Space, Brussels on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Bodies in Space | Brussels |
+| Fri, 20 Nov 2026 | Bal Chavaux | Paris |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 21 Nov 2026 | Fuse | Brussels |
 
@@ -27,4 +28,4 @@ Stella K is a techno and house artist based in France, with 35 gigs on soundchec
 
 NMSS, Vera Moro, Casper
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellak/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellak/)*

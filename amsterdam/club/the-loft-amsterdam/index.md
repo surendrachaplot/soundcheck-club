@@ -1,6 +1,6 @@
 # The Loft Amsterdam
 
-The Loft Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. The next is "The Loft presents: Kybbaholic" on Fri, 27 Nov 2026.
+The Loft Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "The Loft presents: Kybbaholic" on Fri, 27 Nov 2026.
 
 The Loft Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1031 KS, Overhoeksplein 1.
 
@@ -14,4 +14,4 @@ The Loft Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcomin
 
 1031 KS, Overhoeksplein 1, Amsterdam
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-loft-amsterdam/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-loft-amsterdam/)*

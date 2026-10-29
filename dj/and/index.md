@@ -1,14 +1,15 @@
 # AnD
 
-AnD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Paris15, Malaga on Sat, 31 Oct 2026.
+AnD is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Paris15, Malaga on Sat, 31 Oct 2026.
 
-AnD is a techno and industrial artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 52 more. Often billed alongside CLTX, LESSSS and Dexphase. Next up: Paris15, Malaga on Sat 31 Oct.
+AnD is a techno and industrial artist based in United Kingdom, with 158 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 53 more. Often billed alongside CLTX, LESSSS and Dexphase. Next up: Paris15, Malaga on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Paris15 | Malaga |
+| Fri, 13 Nov 2026 | Area City | Venice |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AnD is a techno and industrial artist based in United Kingdom, with 157 gigs on 
 
 CLTX, LESSSS, Dexphase
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*

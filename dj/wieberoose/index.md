@@ -1,6 +1,6 @@
 # Wiebe Roose
 
-Wiebe Roose is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Der Weiße Hase, Berlin on Thu, 29 Oct 2026.
+Wiebe Roose is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Der Weiße Hase, Berlin on Thu, 29 Oct 2026.
 
 Wiebe Roose is a techno and tech house artist based in Belgium, with 152 gigs on soundcheck across Bangkok, Barcelona, Berlin and Cologne and 8 more. Often billed alongside DAV3, Monty and Epicx. Next up: Der Weiße Hase, Berlin on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Wiebe Roose is a techno and tech house artist based in Belgium, with 152 gigs on
 
 DAV3, Monty, Epicx
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wieberoose/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wieberoose/)*

@@ -1,6 +1,6 @@
 # What So Not
 
-What So Not is a Bass and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at Pandora Sevilla, South on Sat, 7 Nov 2026.
+What So Not is a Bass and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pandora Sevilla, South on Sat, 7 Nov 2026.
 
 What So Not is a bass and drum & bass artist based in Australia, with 30 gigs on soundcheck across Amsterdam, Bali, Berlin and London and 12 more. Often billed alongside BABii, Big Gigantic and DJ Snake. Next up: Pandora Sevilla, South on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ What So Not is a bass and drum & bass artist based in Australia, with 30 gigs on
 
 BABii, Big Gigantic, DJ Snake
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsonot/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsonot/)*

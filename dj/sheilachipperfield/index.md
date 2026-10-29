@@ -1,6 +1,6 @@
 # Sheila Chipperfield
 
-Sheila Chipperfield is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eschschloraque, Berlin on Sat, 31 Oct 2026.
+Sheila Chipperfield is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eschschloraque, Berlin on Sat, 31 Oct 2026.
 
 Sheila Chipperfield is an electronic artist, with 15 gigs on soundcheck across Berlin. Often billed alongside MissVergnügen. Next up: Eschschloraque, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sheila Chipperfield is an electronic artist, with 15 gigs on soundcheck across B
 
 MissVergnügen
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheilachipperfield/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheilachipperfield/)*

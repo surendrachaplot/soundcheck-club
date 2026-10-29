@@ -1,6 +1,6 @@
 # Pär Grindvik
 
-Pär Grindvik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Under Bron, Stockholm on Fri, 27 Nov 2026.
+Pär Grindvik is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Under Bron, Stockholm on Fri, 27 Nov 2026.
 
 Pär Grindvik is a techno and house artist, with 8 gigs on soundcheck across Amsterdam, Berlin and Stockholm. Often billed alongside Peder Mannerfelt, DJ Plead and Yonti. Next up: Under Bron, Stockholm on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Pär Grindvik is a techno and house artist, with 8 gigs on soundcheck across Ams
 
 Peder Mannerfelt, DJ Plead, Yonti
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pargrindvik/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pargrindvik/)*

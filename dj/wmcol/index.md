@@ -1,13 +1,14 @@
 # WM(COL)
 
-WM(COL) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Baren, Medellin on Fri, 30 Oct 2026.
+WM(COL) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sonorama, Medellin on Thu, 29 Oct 2026.
 
-WM(COL) is a tech house and house artist, with 51 gigs on soundcheck across Medellin. Often billed alongside Spini, Shakur and SLÏME. Next up: Baren, Medellin on Fri 30 Oct.
+WM(COL) is a tech house and house artist, with 52 gigs on soundcheck across Medellin. Often billed alongside Spini, Shakur and SLÏME. Next up: Sonorama, Medellin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Sonorama | Medellin |
 | Fri, 30 Oct 2026 | Baren | Medellin |
 
 ## Recently played
@@ -25,4 +26,4 @@ WM(COL) is a tech house and house artist, with 51 gigs on soundcheck across Mede
 
 Spini, Shakur, SLÏME
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wmcol/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wmcol/)*

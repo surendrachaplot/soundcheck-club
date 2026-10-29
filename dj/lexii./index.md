@@ -1,6 +1,6 @@
 # LEXII.
 
-LEXII. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+LEXII. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
 LEXII. is a house and techno artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Berlin, London and New York City and 2 more. Often billed alongside TEDESCO, Lagoon Femshayma and Ivicore. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ LEXII. is a house and techno artist based in United Kingdom, with 43 gigs on sou
 
 TEDESCO, Lagoon Femshayma, Ivicore
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexii./)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexii./)*

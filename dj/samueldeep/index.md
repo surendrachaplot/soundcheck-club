@@ -1,8 +1,8 @@
 # Samuel Deep
 
-Samuel Deep is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. Next at block., Dublin on Fri, 30 Oct 2026.
+Samuel Deep is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at block., Dublin on Fri, 30 Oct 2026.
 
-Samuel Deep is a house and tech house artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: block., Dublin on Fri 30 Oct.
+Samuel Deep is a house and tech house artist based in Netherlands, with 196 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 34 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: block., Dublin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Samuel Deep is a house and tech house artist based in Netherlands, with 195 gigs
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | block. | Dublin |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
+| Sat, 7 Nov 2026 | Amboss Rampe | Zurich |
 | Fri, 13 Nov 2026 | Digital | Newcastle |
 | Fri, 20 Nov 2026 | Amigo | Ghent |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
@@ -30,4 +31,4 @@ Samuel Deep is a house and tech house artist based in Netherlands, with 195 gigs
 
 Doudou MD, DJ Senc, Laidlaw
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*

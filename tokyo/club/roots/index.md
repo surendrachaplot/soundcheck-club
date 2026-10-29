@@ -1,6 +1,6 @@
 # Roots
 
-Roots is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 28 Oct 2026. The next is "ワンナイトプレイ -ヨツウチジゴクエディション-" on Fri, 30 Oct 2026.
+Roots is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "ワンナイトプレイ -ヨツウチジゴクエディション-" on Fri, 30 Oct 2026.
 
 Roots is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including MASA NAGAMORI and Moeko Nagamori. See dates, start times and who's playing. 11-6 Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan.
 
@@ -15,4 +15,4 @@ Roots is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line
 
 11-6 Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan, Tokyo
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/roots/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/roots/)*

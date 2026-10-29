@@ -1,6 +1,6 @@
 # D1ME
 
-D1ME is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 28 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sun, 1 Nov 2026.
+D1ME is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sun, 1 Nov 2026.
 
 D1ME is a techno and club artist, with 32 gigs on soundcheck across Austin, Houston and New Orleans. Often billed alongside lady lavender, gabriela (US) and Nile Ashton. Next up: The Crypt (New Orleans), New Orleans on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ D1ME is a techno and club artist, with 32 gigs on soundcheck across Austin, Hous
 
 lady lavender, gabriela (US), Nile Ashton
 
-*Updated Wed, 28 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d1me/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d1me/)*

@@ -1,0 +1,15 @@
+# Change the Beat: Sydney Blu's Birthday Fundraiser at Wiggle Room
+
+Change the Beat: Sydney Blu's Birthday Fundraiser at Wiggle Room on Fri 20 Nov, Toronto. 1 artist: Sydney Blu. House and Tech House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 20 Nov 2026 |
+| Venue | Wiggle Room |
+| City | Toronto |
+
+## Line-up
+
+- Sydney Blu
+
+*Source: [soundcheck](https://soundcheck.club/e/2570883-change-the-beat-sydney-blu-s-birthday-fundraiser-at-wiggle-r/)*
