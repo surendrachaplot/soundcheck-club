@@ -1,8 +1,8 @@
 # Cashu
 
-Cashu is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 31 Oct 2026.
+Cashu is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 31 Oct 2026.
 
-Cashu is a techno and house artist based in Brazil, with 179 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 48 more. Often billed alongside Alírio, BADSISTA and Kontronatura. Next up: Nitsa Club, Barcelona on Sat 31 Oct.
+Cashu is a techno and house artist based in Brazil, with 180 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 48 more. Often billed alongside Alírio, BADSISTA and Kontronatura. Next up: Nitsa Club, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Cashu is a techno and house artist based in Brazil, with 179 gigs on soundcheck 
 | Sat, 31 Oct 2026 | Nitsa Club | Barcelona |
 | Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
 | Sat, 7 Nov 2026 | Armazem Solon | Sao-paulo |
+| Fri, 4 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

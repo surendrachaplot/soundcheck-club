@@ -1,13 +1,14 @@
 # H2O
 
-H2O is a Electro and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Cômerie, Marseille on Sat, 12 Dec 2026.
+H2O is a Electro and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Le 211, Paris on Sun, 22 Nov 2026.
 
-H2O is an electro and ambient artist, with 40 gigs on soundcheck across Brussels, Marseille, Paris and Rio de Janeiro. Often billed alongside Jacky Jeane, Blanche and Amau. Next up: La Cômerie, Marseille on Sat 12 Dec.
+H2O is an electro and ambient artist, with 41 gigs on soundcheck across Brussels, Marseille, Paris and Rio de Janeiro. Often billed alongside Jacky Jeane, Blanche and Amau. Next up: Le 211, Paris on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Le 211 | Paris |
 | Sat, 12 Dec 2026 | La Cômerie | Marseille |
 
 ## Recently played

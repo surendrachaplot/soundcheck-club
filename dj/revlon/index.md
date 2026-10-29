@@ -1,14 +1,13 @@
 # Rev Lon
 
-Rev Lon is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Coil, Melbourne on Thu, 29 Oct 2026.
+Rev Lon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at S'base Fitrzroy, Melbourne on Sat, 7 Nov 2026.
 
-Rev Lon is a house and techno artist, with 43 gigs on soundcheck across Berlin, Edinburgh, Hobart and Lisbon and 2 more. Often billed alongside Bex, Terri and Katharine. Next up: Coil, Melbourne on Thu 29 Oct.
+Rev Lon is a house and techno artist, with 43 gigs on soundcheck across Berlin, Edinburgh, Hobart and Lisbon and 2 more. Often billed alongside Bex, Terri and Katharine. Next up: S'base Fitrzroy, Melbourne on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Coil | Melbourne |
 | Sat, 7 Nov 2026 | S'base Fitrzroy | Melbourne |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 

@@ -9,7 +9,7 @@ Lasse Top is a house and tech house artist based in Netherlands, with 65 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
-| Fri, 20 Nov 2026 | Westerliefde | Amsterdam |
+| Fri, 20 Nov 2026 | WestWeelde | Amsterdam |
 | Sat, 12 Dec 2026 | BASIS | Utrecht |
 
 ## Recently played

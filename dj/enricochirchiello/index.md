@@ -10,7 +10,7 @@ Enrico Chirchiello is a tech house and techno artist based in Italy, with 182 gi
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Union Club, Vauxhall | London |
 | Sat, 31 Oct 2026 | Fire | London |
-| Sun, 1 Nov 2026 | Fire | London |
+| Sun, 1 Nov 2026 | Fire & Lightbox | London |
 | Fri, 6 Nov 2026 | Union Club, Vauxhall | London |
 
 ## Recently played

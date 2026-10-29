@@ -1,6 +1,6 @@
 # Renate's Halloween Klubnacht w/ Coco Cobra, casadephunk, Jiāla & Antina's SpookWaves at Renate
 
-Renate's Halloween Klubnacht w/ Coco Cobra, casadephunk, Jiāla & Antina's SpookWaves on Sat 31 Oct, Berlin. 10 artists: Coco Cobra, elliephunk, Evaluvfrog and Hongor and 6 more. House and Disco. See the line-up on soundcheck.
+Renate's Halloween Klubnacht w/ Coco Cobra, casadephunk, Jiāla & Antina's SpookWaves on Sat 31 Oct, Berlin. 11 artists: ANGELIC SINTESIS, Coco Cobra, elliephunk and Evaluvfrog and 7 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Renate's Halloween Klubnacht w/ Coco Cobra, casadephunk, Jiāla & Antina's Spook
 
 ## Line-up
 
+- ANGELIC SINTESIS
 - Coco Cobra
 - elliephunk
 - Evaluvfrog

@@ -1,14 +1,14 @@
 # KAYDNCE
 
-KAYDNCE is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, London on Fri, 30 Oct 2026.
+KAYDNCE is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Eleven Hoxton Square - London N1 6NU, London on Fri, 30 Oct 2026.
 
-KAYDNCE is a tech house and house artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Jo Cruz, Jerome Awtem and Sonata Collective. Next up: TBA, London on Fri 30 Oct.
+KAYDNCE is a tech house and house artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Jo Cruz, Jerome Awtem and Sonata Collective. Next up: TBA - Eleven Hoxton Square - London N1 6NU, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA | London |
+| Fri, 30 Oct 2026 | TBA - Eleven Hoxton Square - London N1 6NU | London |
 
 ## Recently played
 

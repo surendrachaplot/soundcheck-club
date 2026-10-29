@@ -1,8 +1,8 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Holy Shift Halloween" on Fri, 30 Oct 2026.
+The Fox and Firkin is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Holy Shift Halloween" on Fri, 30 Oct 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Ana Isabela, Awesome Tapes From Africa, Beirut Groove Collective and Bena and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Ana Isabela, Awesome Tapes From Africa, Beirut Groove Collective and Bena and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 

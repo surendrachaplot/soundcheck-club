@@ -9,7 +9,7 @@ Boris Coelman is a house and disco artist based in Netherlands, with 96 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Shelter Amsterdam | Amsterdam |
-| Fri, 20 Nov 2026 | Westerliefde | Amsterdam |
+| Fri, 20 Nov 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 

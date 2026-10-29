@@ -1,14 +1,13 @@
 # Music BAR Bounce
 
-Music BAR Bounce is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Minnesotah, DaBook, DJ KENTA & more" on Thu, 29 Oct 2026.
+Music BAR Bounce is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "WATTER, shakke & more" on Fri, 30 Oct 2026.
 
-Music BAR Bounce is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−19−12 東洋道玄坂ビル 2階.
+Music BAR Bounce is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−19−12 東洋道玄坂ビル 2階.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Minnesotah, DaBook, DJ KENTA & more |  |
 | Fri, 30 Oct 2026 | WATTER, shakke & more |  |
 | Sat, 31 Oct 2026 | BiBIYUA, AJUCHAN & DJ HAZUKI |  |
 

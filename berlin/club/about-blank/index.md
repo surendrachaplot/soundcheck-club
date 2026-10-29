@@ -15,7 +15,7 @@
 | Fri, 6 Nov 2026 | Party aus ZUCKER | 50PHIE, Acid Managment, Bruder Jakob (2), Christian Kluge, DJ Detective, DJ WETPANTS, Full Multi, Gwen Wayne, Haiyti, Kenji Tanaka, Modschi |
 | Sat, 7 Nov 2026 | ANTIHOUR - Party minus Antisemitismus | Saturator, Staím, deliora |
 | Sat, 7 Nov 2026 | DUALISM with Anuuk & DON CHOPPA, Charleen Herzig, Paul Meier, Alex.Do | 4NOUK, Alex.Do, Anuuk, Balkhausen, Charleen Herzig, DJ Flink, DonChoppa, Jacky Ickx, Paul Meier, SEKTOR69, dj_kareless, happysadgirl |
-| Fri, 13 Nov 2026 | Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] | Balkhausen, Bokaric, DEN!SE, DJ Perroz, Jasmin Giovanazzi, SIUL (1), Solvados, TAKT130, YETI (3) |
+| Fri, 13 Nov 2026 | Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] | Balkhausen, Bokaric, DEN!SE, DJ Perroz, Jasmin Giovanazzi, Martxas, SIUL (1), Solvados, TAKT130, YETI (3) |
 | Fri, 13 Nov 2026 | 128<3 - Der Elternabend im Club | Tragz |
 | Sat, 14 Nov 2026 | STAUB XL |  |
 

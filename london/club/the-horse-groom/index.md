@@ -9,7 +9,7 @@ The Horse & Groom is a music venue in London listed on soundcheck. 10 upcoming g
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Spinimana's Spun House | Spinimana |
-| Fri, 6 Nov 2026 | That Friday night Feeling ! free launch party | Brockney C, Neil Thornton |
+| Fri, 6 Nov 2026 | That Friday night Feeling ! free launch party with  Brockney C  | Brockney C, Neil Thornton |
 | Sat, 7 Nov 2026 | The Pow WoW launch with special guest Jasper the Vinyl Junkie (Mi-Soul) |  |
 | Fri, 13 Nov 2026 | Good Life |  |
 | Sat, 14 Nov 2026 | House Sensation | MzTrix |

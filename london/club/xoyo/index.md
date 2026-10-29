@@ -1,8 +1,8 @@
 # XOYO
 
-XOYO is a music venue in London with 45 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Cherry - House & Disco - XOYO [HALLOWEEN EDITION]" on Thu, 29 Oct 2026.
+XOYO is a music venue in London with 46 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Cherry - House & Disco - XOYO [HALLOWEEN EDITION]" on Thu, 29 Oct 2026.
 
-XOYO is a music venue in London listed on soundcheck. 45 upcoming gigs, with line-ups including Adela, Alex Osifo, Andy C and BTAY and 2 more. See dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 46 upcoming gigs, with line-ups including Adela, Alex Osifo, Andy C and BTAY and 2 more. See dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 

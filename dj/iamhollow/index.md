@@ -2,7 +2,7 @@
 
 iamhollow is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Avve, Bangkok on Sat, 31 Oct 2026.
 
-iamhollow is a techno and industrial artist, with 36 gigs on soundcheck across Bangkok. Often billed alongside GLCK, REIKS and NØSYNC. Next up: Avve, Bangkok on Sat 31 Oct.
+iamhollow is a techno and industrial artist based in Thailand, with 36 gigs on soundcheck across Bangkok. Often billed alongside GLCK, REIKS and NØSYNC. Next up: Avve, Bangkok on Sat 31 Oct.
 
 ## Upcoming shows
 

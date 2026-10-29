@@ -2,13 +2,13 @@
 
 Zemin Art Gallery is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "KLEM #5 [Ergorithmus]" on Thu, 10 Dec 2026.
 
-Zemin Art Gallery is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including ( ether o ), INVERNO and yvois. See dates, start times and who's playing. Urbanstraße 3, 10961 Berlin.
+Zemin Art Gallery is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including ( ether o ), hypertexture, INVERNO and yvois. See dates, start times and who's playing. Urbanstraße 3, 10961 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 10 Dec 2026 | KLEM #5 [Ergorithmus] | ( ether o ), INVERNO, yvois |
+| Thu, 10 Dec 2026 | KLEM #5 [Ergorithmus] | ( ether o ), INVERNO, hypertexture, yvois |
 
 ## Address
 

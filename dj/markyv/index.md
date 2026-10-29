@@ -1,14 +1,15 @@
 # Marky V
 
-Marky V is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
+Marky V is a Garage and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
 
-Marky V is a garage and jungle artist based in United Kingdom, with 40 gigs on soundcheck across London. Often billed alongside A.N.T, Abby Daze and Drime. Next up: Two Tribes CAMPFIRE, London on Sat 31 Oct.
+Marky V is a garage and jungle artist based in United Kingdom, with 41 gigs on soundcheck across London. Often billed alongside A.N.T, Abby Daze and Drime. Next up: Two Tribes CAMPFIRE, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Two Tribes CAMPFIRE | London |
+| Fri, 27 Nov 2026 | M.O.T | London |
 
 ## Recently played
 

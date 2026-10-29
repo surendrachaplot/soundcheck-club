@@ -1,14 +1,15 @@
 # Samirah
 
-Samirah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Alaska Waterloo, London on Fri, 13 Nov 2026.
+Samirah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Alaska Waterloo, London on Fri, 13 Nov 2026.
 
-Samirah is a house and techno artist, with 9 gigs on soundcheck across London. Often billed alongside ElectroPleasure, Adaje and BOA. Next up: Alaska Waterloo, London on Fri 13 Nov.
+Samirah is a house and techno artist, with 10 gigs on soundcheck across London. Often billed alongside ElectroPleasure, Adaje and BOA. Next up: Alaska Waterloo, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Alaska Waterloo | London |
+| Thu, 19 Nov 2026 | Bread and Butter Arch | London |
 
 ## Recently played
 

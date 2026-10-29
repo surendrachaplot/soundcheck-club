@@ -1,6 +1,6 @@
 # K I N 0 3 // Grace Sands // Bengoa // Debora Gjiergji // JB at Arch 14
 
-K I N 0 3 // Grace Sands // Bengoa // Debora Gjiergji // JB at Arch 14 on Fri 18 Dec, London. 3 artists: Bengoa, Grace Sands and Jb... See the line-up on soundcheck.
+K I N 0 3 // Grace Sands // Bengoa // Debora Gjiergji // JB at Arch 14 on Fri 18 Dec, London. 3 artists: Bengoa, Grace Sands and Jb... House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

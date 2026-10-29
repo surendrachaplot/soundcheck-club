@@ -1,0 +1,20 @@
+# Club Tineke Halloween - SISSI'S Amsterdam ( LAST TICKETS) at SISSI'S Amsterdam
+
+Club Tineke Halloween - SISSI'S Amsterdam ( LAST TICKETS) on Fri 30 Oct, Amsterdam. 6 artists: Benny Rodrigues, Cas Tang, Hayley Zalassi and Ive Lovers and 2 more. House and Tech House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 30 Oct 2026 |
+| Venue | SISSI'S Amsterdam |
+| City | Amsterdam |
+
+## Line-up
+
+- Benny Rodrigues
+- Cas Tang
+- Hayley Zalassi
+- Ive Lovers
+- Lasse Top
+- Lewis Carroll
+
+*Source: [soundcheck](https://soundcheck.club/e/2535059-club-tineke-halloween-sissi-s-amsterdam-last-tickets-at-siss/)*

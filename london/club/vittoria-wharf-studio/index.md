@@ -1,8 +1,8 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Wrong Way Home: Launch Party [DnB, Jungle]" on Thu, 29 Oct 2026.
+Vittoria Wharf Studio is a music venue in London with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Wrong Way Home: Launch Party [DnB, Jungle]" on Thu, 29 Oct 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Alien Communications, Andrew Robertson, Bekefi and BLKC and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Alien Communications, Andrew Robertson, Basement Maxx and Bekefi and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 

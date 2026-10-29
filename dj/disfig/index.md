@@ -1,14 +1,15 @@
 # Dis Fig
 
-Dis Fig is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at MS Stubnitz, Hamburg on Wed, 2 Dec 2026.
+Dis Fig is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at MS Stubnitz, Hamburg on Wed, 2 Dec 2026.
 
-Dis Fig is an experimental and club artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Beijing and 25 more. Often billed alongside The Bug, aya and Buttechno. Next up: MS Stubnitz, Hamburg on Wed 2 Dec.
+Dis Fig is an experimental and club artist based in United States of America, with 68 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Beijing and 25 more. Often billed alongside The Bug, aya and Buttechno. Next up: MS Stubnitz, Hamburg on Wed 2 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Dec 2026 | MS Stubnitz | Hamburg |
+| Thu, 3 Dec 2026 | Occii | Amsterdam |
 | Fri, 11 Dec 2026 | The White Hotel | Manchester |
 | Fri, 22 Jan 2027 | TBA | Berlin |
 

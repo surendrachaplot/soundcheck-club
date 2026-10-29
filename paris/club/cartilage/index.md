@@ -8,7 +8,7 @@ Cartilage is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | INFEKTIOUS X S3X A PILL X DRAG ME TO HELL | Foubert, NURSE3D, Techno-Blondy, leomonira |
+| Fri, 30 Oct 2026 | INFEKTIOUS X S3X A PILL X DRAG ME TO HELL | Foubert, NURSE3D, SO FUCKING CUNT, Techno-Blondy, leomonira |
 | Fri, 6 Nov 2026 | LA 'NIK TES MORTS' Mourirdeux x Duperré |  |
 | Sat, 14 Nov 2026 | FHOMO #5: Vhyce, James Marceau, Osoloco, Ixpé | Ixpé, James Marceau, Osoloco, Vhyce |
 

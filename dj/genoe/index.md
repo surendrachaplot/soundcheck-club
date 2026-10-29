@@ -1,13 +1,14 @@
 # Genoe
 
-Genoe is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OHM, Berlin on Fri, 18 Dec 2026.
+Genoe is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 4 Dec 2026.
 
-Genoe is a bass and dubstep artist based in Germany, with 27 gigs on soundcheck across Berlin, Ljubljana and Prague. Often billed alongside Comf, Forward Sisters and KaraKara. Next up: OHM, Berlin on Fri 18 Dec.
+Genoe is a bass and dubstep artist based in Germany, with 28 gigs on soundcheck across Berlin, Ljubljana and Prague. Often billed alongside Comf, Forward Sisters and KaraKara. Next up: RSO.BERLIN, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | RSO.BERLIN | Berlin |
 | Fri, 18 Dec 2026 | OHM | Berlin |
 
 ## Recently played

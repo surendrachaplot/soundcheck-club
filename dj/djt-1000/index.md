@@ -1,14 +1,15 @@
 # DJ T-1000
 
-DJ T-1000 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Madrid on Sat, 7 Nov 2026.
+DJ T-1000 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Madrid on Sat, 7 Nov 2026.
 
-DJ T-1000 is a techno and electro artist based in Germany, with 68 gigs on soundcheck across Antwerp, Belgrade, Berlin and Bogotá and 24 more. Often billed alongside Ellen Allien, BLACK ANTHEM RESTORE and Tigerhead. Next up: TBA, Madrid on Sat 7 Nov.
+DJ T-1000 is a techno and electro artist based in Germany, with 69 gigs on soundcheck across Antwerp, Belgrade, Berlin and Bogotá and 24 more. Often billed alongside Ellen Allien, BLACK ANTHEM RESTORE and Miro Von. Next up: TBA, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA | Madrid |
+| Fri, 20 Nov 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DJ T-1000 is a techno and electro artist based in Germany, with 68 gigs on sound
 
 ## Shares bills with
 
-Ellen Allien, BLACK ANTHEM RESTORE, Tigerhead
+Ellen Allien, BLACK ANTHEM RESTORE, Miro Von
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djt-1000/)*

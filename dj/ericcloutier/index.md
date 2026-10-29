@@ -1,8 +1,8 @@
 # Eric Cloutier
 
-Eric Cloutier is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bassiani, Tbilisi on Fri, 30 Oct 2026.
+Eric Cloutier is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bassiani, Tbilisi on Fri, 30 Oct 2026.
 
-Eric Cloutier is a techno and house artist based in United States of America, with 75 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 22 more. Often billed alongside Amulador, Andy Garvey and Bloody Mary. Next up: Bassiani, Tbilisi on Fri 30 Oct.
+Eric Cloutier is a techno and house artist based in United States of America, with 76 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 22 more. Often billed alongside Amulador, Andy Garvey and Bloody Mary. Next up: Bassiani, Tbilisi on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Eric Cloutier is a techno and house artist based in United States of America, wi
 | Fri, 30 Oct 2026 | Bassiani | Tbilisi |
 | Sun, 1 Nov 2026 | NUMBER 90 LONDON | London |
 | Sat, 14 Nov 2026 | RSO.BERLIN | Berlin |
+| Sat, 5 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # KLEM #5 [Ergorithmus] at Zemin Art Gallery
 
-KLEM #5 [Ergorithmus] at Zemin Art Gallery on Thu 10 Dec, Berlin. 3 artists: ( ether o ), INVERNO and yvois. Ambient and Experimental. See the line-up on soundcheck.
+KLEM #5 [Ergorithmus] at Zemin Art Gallery on Thu 10 Dec, Berlin. 4 artists: ( ether o ), hypertexture, INVERNO and yvois. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ KLEM #5 [Ergorithmus] at Zemin Art Gallery on Thu 10 Dec, Berlin. 3 artists: ( e
 ## Line-up
 
 - ( ether o )
+- hypertexture
 - INVERNO
 - yvois
 

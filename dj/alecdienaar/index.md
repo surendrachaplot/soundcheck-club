@@ -1,14 +1,14 @@
 # Alec Dienaar
 
-Alec Dienaar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Westerliefde, Amsterdam on Fri, 20 Nov 2026.
+Alec Dienaar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 20 Nov 2026.
 
-Alec Dienaar is a techno and house artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Dublin and 9 more. Often billed alongside Genex, STIPP and Lasse Top. Next up: Westerliefde, Amsterdam on Fri 20 Nov.
+Alec Dienaar is a techno and house artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Dublin and 9 more. Often billed alongside Genex, STIPP and Lasse Top. Next up: WestWeelde, Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Westerliefde | Amsterdam |
+| Fri, 20 Nov 2026 | WestWeelde | Amsterdam |
 | Sat, 28 Nov 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played

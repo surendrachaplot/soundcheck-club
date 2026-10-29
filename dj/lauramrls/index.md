@@ -1,14 +1,15 @@
 # Laura MRLS
 
-Laura MRLS is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Post Bar, Helsinki on Sat, 31 Oct 2026.
+Laura MRLS is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Post Bar, Helsinki on Sat, 31 Oct 2026.
 
-Laura MRLS is a techno and ambient artist based in Germany, with 36 gigs on soundcheck across Barcelona, Berlin, Helsinki and London and 2 more. Often billed alongside Exploited Body, JASSASS and Joni DJ. Next up: Post Bar, Helsinki on Sat 31 Oct.
+Laura MRLS is a techno and ambient artist based in Germany, with 37 gigs on soundcheck across Barcelona, Berlin, Helsinki and London and 2 more. Often billed alongside Exploited Body, JASSASS and Joni DJ. Next up: Post Bar, Helsinki on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Post Bar | Helsinki |
+| Sat, 5 Dec 2026 | The Glove That Fits | London |
 
 ## Recently played
 

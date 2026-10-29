@@ -1,8 +1,8 @@
 # Oscar Mulero
 
-Oscar Mulero is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hive Club, Zurich on Fri, 30 Oct 2026.
+Oscar Mulero is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hive Club, Zurich on Fri, 30 Oct 2026.
 
-Oscar Mulero is a techno and house artist based in Spain, with 176 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Ben Sims, Adriana Lopez and DVS1. Next up: Hive Club, Zurich on Fri 30 Oct.
+Oscar Mulero is a techno and house artist based in Spain, with 177 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Ben Sims, DVS1 and Adriana Lopez. Next up: Hive Club, Zurich on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Oscar Mulero is a techno and house artist based in Spain, with 176 gigs on sound
 | Sat, 14 Nov 2026 | Circolo Amelia | Milan |
 | Sat, 21 Nov 2026 | Industrial Copera | South |
 | Fri, 4 Dec 2026 | essaim | Paris |
+| Sat, 19 Dec 2026 | FOLD | London |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ Oscar Mulero is a techno and house artist based in Spain, with 176 gigs on sound
 
 ## Shares bills with
 
-Ben Sims, Adriana Lopez, DVS1
+Ben Sims, DVS1, Adriana Lopez
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*

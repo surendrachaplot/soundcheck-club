@@ -1,8 +1,8 @@
 # Janina
 
-Janina is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
+Janina is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Signal, New York City on Fri, 27 Nov 2026.
 
-Janina is a techno and tech house artist based in Germany, with 76 gigs on soundcheck across Barcelona, Berlin, Dortmund / Essen and Greece and 10 more. Often billed alongside Francesco Farfa, Luigi Rossi and Piticu. Next up: Signal, New York City on Fri 27 Nov.
+Janina is a techno and tech house artist based in Germany, with 77 gigs on soundcheck across Barcelona, Berlin, Dortmund / Essen and Greece and 10 more. Often billed alongside Francesco Farfa, Luigi Rossi and Piticu. Next up: Signal, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Janina is a techno and tech house artist based in Germany, with 76 gigs on sound
 | Fri, 27 Nov 2026 | Signal | New York City |
 | Sat, 28 Nov 2026 | Flash | Washington DC |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
+| Sat, 19 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

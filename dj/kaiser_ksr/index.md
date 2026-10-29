@@ -1,8 +1,8 @@
 # Kaiser (K S R)
 
-Kaiser (K S R) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
+Kaiser (K S R) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
 
-Kaiser (K S R) is a techno and house artist based in Italy, with 144 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 50 more. Often billed alongside Freddy K, Kwartz and Chami. Next up: Zinkbad Eventhalle, Zurich on Fri 6 Nov.
+Kaiser (K S R) is a techno and house artist based in Italy, with 145 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 50 more. Often billed alongside Freddy K, Kwartz and Chami. Next up: Zinkbad Eventhalle, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kaiser (K S R) is a techno and house artist based in Italy, with 144 gigs on sou
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Zinkbad Eventhalle | Zurich |
 | Sat, 7 Nov 2026 | RADION | Amsterdam |
+| Sun, 29 Nov 2026 | The Greyhound | London |
 | Sat, 19 Dec 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played

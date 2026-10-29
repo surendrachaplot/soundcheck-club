@@ -9,7 +9,7 @@ Elisa Nau. is a tech house and techno artist based in Italy, with 31 gigs on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Union Club, Vauxhall | London |
-| Fri, 30 Oct 2026 | TBA | London |
+| Fri, 30 Oct 2026 | TBA - Eleven Hoxton Square - London N1 6NU | London |
 
 ## Recently played
 

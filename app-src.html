@@ -3628,6 +3628,25 @@ a.dst-full-t:hover{text-decoration:underline}
        and align-items:center so a wrapped row does not stretch to match its
        tallest sibling. */
     .fp-acts{ display:flex; flex-wrap:wrap; align-items:center; gap:9px; }
+    /* Artist pills (Paper NEXT 29 Oct): every pill as wide as the widest, edges aligned. An inline grid of
+       equal 1fr columns sizes each column to the widest pill — not to the screen. 2 columns on a phone, 4 from 760. */
+
+    /* friend cues (Paper NEXT 29 Oct) */
+    .lv-cue, .cue-line{ display:flex; align-items:center; gap:6px; margin-top:4px; font:500 13px/18px var(--body); color:var(--fg); min-width:0; }
+    .lv-cue > span:last-child, .cue-line > span:last-child{ min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .cue-line{ margin-top:12px; white-space:normal; }
+    .cue-line > span:last-child{ white-space:normal; }
+    .cue-f{ display:inline-flex; flex:none; }
+    .cue-f i{ width:18px; height:18px; border-radius:999px; background-size:cover; background-position:center; border:1.5px solid var(--bg); }
+    .cue-f i + i{ margin-left:-6px; }
+    .cue-card{ margin-top:14px; padding:12px; border-radius:var(--radius-md); background:var(--surface); }
+    .cue-card .cue-eb{ font:700 11px/14px var(--body); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin-bottom:4px; }
+    .cue-card p{ margin:0; font:400 15px/21px var(--body); color:var(--fg); }
+    .cue-n{ color:inherit; text-decoration:none; font-weight:700; }
+    .fp-lu-cue{ font:500 12px/16px var(--body); color:var(--lilac,#B8A8D0); margin-top:2px; }
+    .fp-acts.fp-acts-eq{ display:inline-grid; grid-template-columns:1fr 1fr; }
+    .fp-acts.fp-acts-eq > .fp-ab{ width:100%; justify-content:center; }
+    @media (min-width:760px){ .fp-acts.fp-acts-eq{ grid-template-columns:repeat(4,1fr); } }
     .fp-acts > .fp-ab, .fp-acts > .fp-pb { flex:0 0 auto; width:auto; }
     .fp-ab{ min-width:0; }
     /* tour-dates table */
@@ -5284,7 +5303,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793036717256">
+<meta name="sc-build" content="1793287165630">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5344,7 +5363,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-26/">Mon 26 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-27/">Tue 27 Oct <span class="c">7 events</span></a></li><li><a href="/london/2026-10-28/">Wed 28 Oct <span class="c">14 events</span></a></li><li><a href="/london/2026-10-29/">Thu 29 Oct <span class="c">55 events</span></a></li><li><a href="/london/2026-10-30/">Fri 30 Oct <span class="c">132 events</span></a></li><li><a href="/london/2026-10-31/">Sat 31 Oct <span class="c">216 events</span></a></li><li><a href="/london/2026-11-01/">Sun 1 Nov <span class="c">33 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-29/">Thu 29 Oct <span class="c">57 events</span></a></li><li><a href="/london/2026-10-30/">Fri 30 Oct <span class="c">135 events</span></a></li><li><a href="/london/2026-10-31/">Sat 31 Oct <span class="c">222 events</span></a></li><li><a href="/london/2026-11-01/">Sun 1 Nov <span class="c">34 events</span></a></li><li><a href="/london/2026-11-02/">Mon 2 Nov <span class="c">3 events</span></a></li><li><a href="/london/2026-11-03/">Tue 3 Nov <span class="c">4 events</span></a></li><li><a href="/london/2026-11-04/">Wed 4 Nov <span class="c">11 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -6712,7 +6731,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '</span></button>'+
         // Heard rows show a violet tick where the save icon was. A set with no
         // Listen key (Mixcloud) keeps an empty 44 slot so the more icon lines up.
-        '<div class="fp-sk-acts">'+(o.heard?'<span class="sk-tick" role="img" aria-label="Heard">'+HEARD_SVG+'</span>':(o.save||'<span class="set-add-sp" aria-hidden="true"></span>'))+
+        '<div class="fp-sk-acts">'+(o.heard?'<span class="sk-tick" role="img" aria-label="Listened">'+HEARD_SVG+'</span>':(o.save||'<span class="set-add-sp" aria-hidden="true"></span>'))+
         '<button class="fp-ib sk-more" type="button" aria-haspopup="menu" aria-label="More">'+MORE_SVG+'</button></div></div>';
     }
     var SET_SRC={ YT:'YouTube', SC:'SoundCloud', NTS:'NTS' };
@@ -8441,7 +8460,7 @@ a.dst-full-t:hover{text-decoration:underline}
       var i=key.indexOf('|'), meta=_lsnMeta[key]||{}, body={ id:key.slice(i+1), source:key.slice(0,i), heard:!!on };
       if(on) Object.keys(meta).forEach(function(f){ if(meta[f]!=null && meta[f]!=='') body[f]=meta[f]; });
       authedFetch('/api/sets/heard',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) })
-        .then(function(r){ if(!r.ok) throw new Error(r.status); showToast(on?'Heard':'Not heard'); lsnHydrate(); if(currentRoute()==='listen') lsnRender(); })
+        .then(function(r){ if(!r.ok) throw new Error(r.status); showToast(on?'Listened':'Not listened'); lsnHydrate(); if(currentRoute()==='listen') lsnRender(); })
         .catch(function(){ showToast('Couldn’t save. Try again.'); });
     }
 
@@ -8489,7 +8508,7 @@ a.dst-full-t:hover{text-decoration:underline}
         '<div class="skm-h"><span class="skm-art"'+(r.thumb?' style="background-image:url(\''+esc(r.thumb)+'\')"':'')+'></span>'+
           '<div class="skm-tx"><div class="skm-ti">'+esc(r.title)+'</div>'+(r.name?'<div class="skm-ar"><span>'+esc(r.name)+'</span>'+nameHeartHTML(r.slug, r.name)+'</div>':'')+'</div></div>'+
         row('play', SKM_IC.play, 'Play')+
-        (key?row('save', SAVE_SVG, saved?'Saved':'Save', { cls:saved?'on':'' })+row('heard', HEARD_SVG, heard?'Heard':'Mark as heard', { cls:'tick'+(heard?' on':'') }):'')+
+        (key?row('save', SAVE_SVG, saved?'Saved':'Save', { cls:saved?'on':'' })+row('heard', HEARD_SVG, heard?'Listened':'Mark as listened', { cls:'tick'+(heard?' on':'') }):'')+
         gigRow(r.nextGig)+
         (r.slug?row('artist', SKM_IC.artist, 'Go to artist'):'')+
         row('share', SKM_IC.share, 'Share')+
@@ -8610,8 +8629,8 @@ a.dst-full-t:hover{text-decoration:underline}
     }
     // Four chips, one list at a time. Saved = yours, Your artists = new sets from
     // the artists you want to see, Picks = curated (public), Heard = heard.
-    var LSN_CHIPS=[['picks','Curated picks'],['saved','Saved'],['artists','Your artists'],['heard','Heard']];
-    var LSN_EMPTY={ saved:'No saved sets yet.', artists:'Save artists to see their new sets here.', heard:'Nothing heard yet.' };
+    var LSN_CHIPS=[['picks','Curated picks'],['saved','Saved'],['artists','Your artists'],['heard','Listened']];
+    var LSN_EMPTY={ saved:'No saved sets yet.', artists:'Save artists to see their new sets here.', heard:'Nothing listened to yet.' };
     var _lsnChip=null, _lsnData=null, _lsnSeq=0;
     async function openListen(){
       if(location.pathname!==SC_BASE+'listen/') history.pushState({sc:1},'',SC_BASE+'listen/');
@@ -11285,6 +11304,23 @@ a.dst-full-t:hover{text-decoration:underline}
     // VIEWER's follow state (viewerFollows), which is why the endpoint returns it
     // per row — otherwise a 200-person list would need 200 follow lookups.
     var _pplLoaded={};
+    // The ribbon's Followers / Following (Paper NEXT 29 Oct): one sheet, two chips, the same rows the People tab had.
+    function followsSheet(p, kind){
+      var ov=openModalShell(null, '@'+p.handle,
+        '<div class="lsn-chips" role="tablist">'+[['followers','Followers',p.followers||0],['following','Following',p.following||0]].map(function(c){
+          return '<button class="qchip'+(c[0]===kind?' on':'')+'" type="button" role="tab" data-fk="'+c[0]+'" aria-selected="'+(c[0]===kind)+'">'+c[1]+' '+c[2]+'</button>'; }).join('')+'</div>'+
+        '<div id="pf-followers"'+(kind==='followers'?'':' hidden')+'></div><div id="pf-following"'+(kind==='following'?'':' hidden')+'></div>');
+      _pplLoaded={};
+      fillPeopleBox(p.handle, kind);
+      ov.querySelectorAll('.qchip[data-fk]').forEach(function(b){ b.addEventListener('click', function(){
+        var k=b.dataset.fk;
+        ov.querySelectorAll('.qchip[data-fk]').forEach(function(x){ var on=x===b; x.classList.toggle('on',on); x.setAttribute('aria-selected',on); });
+        document.getElementById('pf-followers').hidden=k!=='followers'; document.getElementById('pf-following').hidden=k!=='following';
+        fillPeopleBox(p.handle, k);
+      }); });
+      // a tap on a person opens their diary: close the sheet first
+      ov.addEventListener('click', function(e){ if(e.target.closest('a.nav[data-handle]')) ov.close(); });
+    }
     async function fillPeopleBox(handle, kind){
       var el=document.getElementById('pf-'+kind); if(!el || _pplLoaded[kind]) return;
       _pplLoaded[kind]=true;
@@ -11368,8 +11404,8 @@ a.dst-full-t:hover{text-decoration:underline}
           '<div class="c" data-go="diary"><b>'+nights+'</b><span>Gigs</span></div>'+
           '<div class="c" data-go="artists" data-go-sub="seen"><b>'+seenN+'</b><span>Seen live</span></div>'+
           '<div class="c" data-go="artists" data-go-sub="wanna"><b>'+wannaN+'</b><span>Want to see</span></div>'+
-          '<div class="c" data-go="people" data-go-sub="followers"><b>'+(p.followers||0)+'</b><span>Followers</span></div>'+
-          '<div class="c" data-go="people" data-go-sub="following"><b>'+(p.following||0)+'</b><span>Following</span></div>'+
+          '<div class="c" role="button" tabindex="0" data-follows="followers" aria-label="Followers, '+(p.followers||0)+'. Opens the list"><b>'+(p.followers||0)+'</b><span>Followers</span></div>'+
+          '<div class="c" role="button" tabindex="0" data-follows="following" aria-label="Following, '+(p.following||0)+'. Opens the list"><b>'+(p.following||0)+'</b><span>Following</span></div>'+
         '</div>'+
       '</div></div>';
       // Sections as in-page tabs (only render a tab when it has content, matching the
@@ -11384,12 +11420,7 @@ a.dst-full-t:hover{text-decoration:underline}
       if(isMe||seenN)  artSegs.push({sub:'seen', label:'Seen live', count:seenN, boxId:'pf-seen'});
       if(isMe||wannaN) artSegs.push({sub:'wanna',label:'Want to see',count:wannaN,boxId:'pf-wanna'});
       if(artSegs.length) T.push({k:'artists',l:'My artists',c:(seenN+wannaN)||null,html:pfSegHTML(artSegs,'pf-share-art')});
-      // People — Followers + Following behind the same inner pill switcher as
-      // My Artists, so the profile has one tab pattern rather than a tab for
-      // some things and a separate page for others.
-      T.push({k:'people',l:'People',c:((p.followers||0)+(p.following||0))||null,
-              html:pfSegHTML([{sub:'followers',label:'Followers',count:p.followers||0,boxId:'pf-followers'},
-                              {sub:'following',label:'Following',count:p.following||0,boxId:'pf-following'}])});
+      // People: no tab (Paper NEXT 29 Oct) — the ribbon's Followers / Following open followsSheet().
       if(savedN) T.push({k:'saved',l:'Saved',c:savedN,html:'<div id="pf-events"></div>'});   // filled below: the Upcoming / Past chips, then the box
       // My Playlist — shared Playlists behind an inner pill switcher.
       // ponytail: Queue/Listened set-shelf segments removed (founder: "too much").
@@ -11649,10 +11680,10 @@ a.dst-full-t:hover{text-decoration:underline}
         _svPaint();
       } else eb.remove(); }
       if(p.isMe){ fillPlaylists(); wireSuggest(); }
-      _pplLoaded={};
-      fillPeopleBox(p.handle, 'followers');
-      document.querySelectorAll('.pf .pf-segb[data-sub="following"]').forEach(function(b){
-        b.addEventListener('click', function(){ fillPeopleBox(p.handle, 'following'); });
+      document.querySelectorAll('.pfh-ribbon .c[data-follows]').forEach(function(c){
+        function go(){ followsSheet(p, c.dataset.follows); }
+        c.addEventListener('click', go);
+        c.addEventListener('keydown', function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); go(); } });
       });
       // Inner pill switchers (My Artists: Wanna see/Seen live · My Playlist: Playlists)
       document.querySelectorAll('.pf .pf-seg').forEach(function(seg){ seg.addEventListener('click',function(e){
@@ -12880,13 +12911,14 @@ a.dst-full-t:hover{text-decoration:underline}
               (subW?'<div class="fp-hsub h7w">'+subW+'</div>':'')+'</div>'+
               bioBlock(_aBio)+
               genreTags+festLine+gemLine+hrW+rowsW+
-              '<div class="fp-acts">'+
+              '<div class="fp-acts fp-acts-eq">'+
                 '<button class="fp-ab go" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' data-ic="play" type="button" aria-label="Play '+esc(a.name||slug)+'&rsquo;s sets"><span>Play</span></button>'+
                 // founder 2 Oct: the heart by the name collided with the link discs; the pill is back. Seen artists read "Seen".
                 '<button class="fp-ab'+((mine==='wanna_see'||mine==='seen')?' on':'')+'" id="ap-wanna" data-ic="heart" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see'||mine==='seen')+'"><span>'+(mine==='seen'?'Seen':'Want to see')+'</span></button>'+
                 '<button class="fp-ab" id="ap-log" data-ic="plus" type="button"><span>Log a gig</span></button>'+
                 '<button class="fp-ab" id="ap-list" data-ic="list" type="button"><span>Add to list</span></button>'+
               '</div>'+
+              '<div class="cue-line" id="ap-cues" hidden></div>'+
             '</div>'+
           '</div>'+
           '<div id="ap-seen-panel"></div>';
@@ -12931,6 +12963,7 @@ a.dst-full-t:hover{text-decoration:underline}
         var _acanon=location.origin+SC_BASE+'dj/'+slug+'/';
         var _adesc=a.description||((a.name||slug)+' upcoming gigs, past gigs, venues and sets on soundcheck. Follow to get alerts when they play your city.');
         setSeo((a.name||slug)+' · gigs & upcoming shows | soundcheck', _adesc, { "@context":"https://schema.org","@type":"MusicGroup", name:(a.name||slug), url:_acanon, description:_adesc }, _acanon);
+        fillArtistCues(slug);
         var apRadio=document.getElementById('ap-radio');
         // Tune in = play the artist's full sets back-to-back. Warm the sets list on
         // press so the queue is ready by click-time (keeps mobile autoplay inside the gesture).
@@ -14240,6 +14273,7 @@ a.dst-full-t:hover{text-decoration:underline}
                 // From 760 up Share is a pill in this row (the corner icon is the phone's).
                 return '<div class="fp-ev-playbar'+(acts.length===1?' solo':'')+'">'+acts.join('')+'<button class="fp-pb h7w" id="fp-ev-share2" data-ic="share" type="button">Share</button></div>';
               })()+
+              '<div class="cue-card" id="ev-cues" hidden></div>'+
               '</div>'+
               ((ev.genres||[]).length?'<div class="fp-ev-gline">'+(ev.genres||[]).slice(0,4).map(function(g){ return '<span class="fp-ev-gtag">'+esc(g)+'</span>'; }).join('')+'</div>':'')+
               (blurb?'<p class="fp-ev-blurb">'+esc(blurb)+'</p>':'')+
@@ -14287,6 +14321,7 @@ a.dst-full-t:hover{text-decoration:underline}
         h+='<div style="padding:18px 18px 4px">'+reportCue('event:'+id)+'</div>';
         h+='</div>';
         openPanel(h);
+        fillEvCues(id);
         wireReportCues(document.getElementById('page-body'));
         (function(){
           var pos=document.getElementById('fp-ev-pos'); if(!pos||!ev.poster) return;
@@ -14379,6 +14414,7 @@ a.dst-full-t:hover{text-decoration:underline}
           }).join('');
           var lq=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; }).filter(function(x){ return x.slug; });
           lineupBox.querySelectorAll('.fp-lu-nl[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ if(t.dataset.artist) openArtist(t.dataset.artist); }); });
+          fillLineupCues(lineupBox);
           // KEY BY SLUG, NEVER BY INDEX. data-i was the position in `items`, but
           // lq is `items` with slugless acts FILTERED OUT — so one unslugged name
           // shifted every index after it and the play button next to an artist
@@ -16078,6 +16114,7 @@ a.dst-full-t:hover{text-decoration:underline}
       wireEvcCards(gridEl, evById);
       applyShared();
       decorateProof(list);
+      decorateCues(gridEl, list);
       syncFilterDot();
     }
     function gridGenres(){ var s={}; _gridEvents.forEach(function(e){ (e.genres||[]).forEach(function(g){ s[g]=(s[g]||0)+1; }); }); return Object.keys(s).sort(function(a,b){ return s[b]-s[a] || a.localeCompare(b); }); }
@@ -16173,6 +16210,63 @@ a.dst-full-t:hover{text-decoration:underline}
     }
     // Phase 5: social proof — save counts + friends-going on event cards.
     // Disabled for now: we don't surface any "how many going" numbers yet.
+    // ── Friend cues (Paper NEXT 29 Oct, "5 — friend cues") ──────────────────────
+    // Who you follow is going to / saved a gig, wants to see / saw an artist (POST /api/cues).
+    // One style everywhere; signed out or no friends = nothing drawn.
+    var _cueCache={};
+    async function cuesFetch(events, artists){
+      await whenAuthKnown();   // a cold load opens the page before /auth/me answers
+      if(!currentUser) return { events:{}, artists:{} };
+      var key=JSON.stringify([events||[], artists||[]]); if(_cueCache[key]) return _cueCache[key];
+      var p=authedFetch('/api/cues',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ events:events||[], artists:artists||[] }) })
+        .then(function(r){ return r.ok?r.json():{ events:{}, artists:{} }; }).catch(function(){ return { events:{}, artists:{} }; });
+      _cueCache[key]=p; return p;
+    }
+    function cueName(u){ return (u.name&&String(u.name).trim())||u.handle; }
+    function cueLink(u){ return '<a class="nav cue-n" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'">'+esc(cueName(u))+'</a>'; }
+    // 1: a · 2: a and b · 3+: a, b and n more
+    function cueJoin(xs, f){ f=f||function(u){ return esc(cueName(u)); };
+      if(xs.length<=2) return xs.map(f).join(' and ');
+      return f(xs[0])+', '+f(xs[1])+' and '+(xs.length-2)+' more'; }
+    function cueFaces(xs){ return '<span class="cue-f" aria-hidden="true">'+xs.slice(0,3).map(function(u){ return '<i style="background-image:'+avatarBg(u.handle,u.avatar)+'"></i>'; }).join('')+'</span>'; }
+    // the short line: "zoe going" · "zoe + 2 going" · "zoe saved it" · "zoe wants to see" · "zoe + 1 want to see" · "zoe saw them"
+    function cueShort(xs){
+      var n=xs.length-1, s=xs[0].status, who=esc(cueName(xs[0]))+(n>0?' + '+n:'');
+      return who+(s==='going'?' going':s==='saved'?' saved it':s==='wanna_see'?(n>0?' want to see':' wants to see'):' saw them');
+    }
+    function cueSentence(xs, kinds){
+      return kinds.map(function(k){ var g=xs.filter(function(u){ return u.status===k[0]; }); if(!g.length) return '';
+        return cueJoin(g, cueLink)+' '+(g.length===1?k[1]:k[2]); }).filter(Boolean).join(' &middot; ');
+    }
+    async function decorateCues(root, events){
+      if(!root) return;
+      var ids=(events||[]).map(function(e){ return e.id; }).filter(function(x){ return x!=null; }).map(String);
+      if(!ids.length) return;
+      var j=await cuesFetch(ids, []);
+      Object.keys(j.events||{}).forEach(function(id){
+        var xs=j.events[id]; if(!xs||!xs.length) return;
+        var card=root.querySelector('.gcard[data-evt="'+CSS.escape(id)+'"] .lv-bd'); if(!card||card.querySelector('.lv-cue')) return;
+        card.insertAdjacentHTML('beforeend','<span class="lv-cue">'+cueFaces(xs)+'<span>'+cueShort(xs)+'</span></span>');
+      });
+    }
+    async function fillEvCues(id){
+      var el=document.getElementById('ev-cues'); if(!el) return;
+      var xs=((await cuesFetch([String(id)], [])).events||{})[String(id)]||[]; if(!xs.length) return;
+      el.innerHTML='<div class="cue-eb">Friends</div><p>'+cueSentence(xs, [['going','is going','are going'],['saved','saved it','saved it']])+'</p>'; el.hidden=false;
+    }
+    async function fillArtistCues(slug){
+      var el=document.getElementById('ap-cues'); if(!el) return;
+      var xs=((await cuesFetch([], [slug])).artists||{})[slug]||[]; if(!xs.length) return;
+      el.innerHTML=cueFaces(xs)+'<span>'+cueSentence(xs, [['wanna_see','wants to see them','want to see them'],['seen','saw them','saw them']])+'</span>'; el.hidden=false;
+    }
+    async function fillLineupCues(box){
+      if(!box) return;
+      var links=[].slice.call(box.querySelectorAll('.fp-lu-nl[data-artist]')).filter(function(a){ return a.dataset.artist; });
+      var slugs=links.map(function(a){ return a.dataset.artist; }); if(!slugs.length) return;
+      var m=(await cuesFetch([], slugs)).artists||{};
+      links.forEach(function(a){ var xs=m[a.dataset.artist]; if(!xs||!xs.length||a.parentNode.querySelector('.fp-lu-cue')) return;
+        a.insertAdjacentHTML('afterend','<div class="fp-lu-cue">'+cueShort(xs)+'</div>'); });
+    }
     async function decorateProof(events){
       return; // social proof hidden — early stage
       var ids=events.map(function(e){ return e.id; }).filter(function(x){ return x!=null; }).map(String);

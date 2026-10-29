@@ -1,14 +1,15 @@
 # Holywanderer
 
-Holywanderer is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ://about blank, Berlin on Sat, 31 Oct 2026.
+Holywanderer is a EBM and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ://about blank, Berlin on Sat, 31 Oct 2026.
 
-Holywanderer is an electro and ebm artist, with 11 gigs on soundcheck across Berlin. Often billed alongside Heshumi, doctor doms and Sakrum. Next up: ://about blank, Berlin on Sat 31 Oct.
+Holywanderer is an ebm and electro artist, with 12 gigs on soundcheck across Berlin. Often billed alongside Heshumi, doctor doms and Sakrum. Next up: ://about blank, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | ://about blank | Berlin |
+| Sat, 28 Nov 2026 | TBA - Secret Location, Neukölln (near Sonnenallee) | Berlin |
 
 ## Recently played
 

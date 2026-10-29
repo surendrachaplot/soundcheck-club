@@ -1,0 +1,28 @@
+# Any Mello
+
+Any Mello is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 4 Dec 2026.
+
+Any Mello is a techno and house artist based in Brazil, with 49 gigs on soundcheck across Amsterdam, Basel, Berlin and Bologna and 9 more. Often billed alongside Toni Dextor, Eluzid and Alexander Kowalski. Next up: Tresor / Globus, Berlin on Fri 4 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 4 Dec 2026 | Tresor / Globus | Berlin |
+
+## Recently played
+
+- RADION, Amsterdam · Sat, 24 Oct 2026
+- Else, Berlin · Fri, 4 Sept 2026
+- Tresor / Globus, Berlin · Sat, 27 Jun 2026
+- RSO.BERLIN, Berlin · Sat, 11 Apr 2026
+- Odonien, Cologne · Sat, 21 Mar 2026
+- Amigo, Ghent · Fri, 6 Feb 2026
+- Berghain | Panorama Bar | Säule, Berlin · Thu, 5 Feb 2026
+- Climax-Institutes, Stuttgart · Fri, 30 Jan 2026
+
+## Shares bills with
+
+Toni Dextor, Eluzid, Alexander Kowalski
+
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anymello/)*

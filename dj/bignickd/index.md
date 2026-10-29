@@ -1,13 +1,14 @@
 # Big Nick D
 
-Big Nick D is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hoxton Cabin, London on Fri, 6 Nov 2026.
+Big Nick D is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Two More Years, London on Fri, 30 Oct 2026.
 
-Big Nick D is a house and disco artist, with 12 gigs on soundcheck across London. Often billed alongside Cosmic Bob, Yama Music and Emilè. Next up: Hoxton Cabin, London on Fri 6 Nov.
+Big Nick D is a house and disco artist, with 13 gigs on soundcheck across London. Often billed alongside Cosmic Bob, Yama Music and Emilè. Next up: Two More Years, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Two More Years | London |
 | Fri, 6 Nov 2026 | Hoxton Cabin | London |
 
 ## Recently played

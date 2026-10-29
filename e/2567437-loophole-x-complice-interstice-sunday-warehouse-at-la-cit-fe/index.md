@@ -1,6 +1,6 @@
 # Loophole X Complice: Interstice (Sunday Warehouse) at La Cité Fertile
 
-Loophole X Complice: Interstice (Sunday Warehouse) at La Cité Fertile on Sun 29 Nov, Paris. 5 artists: EMIRA, Equus Belli, Forest (PL) and LOLSNAKE and 1 more. Techno. See the line-up on soundcheck.
+Loophole X Complice: Interstice (Sunday Warehouse) at La Cité Fertile on Sun 29 Nov, Paris. 5 artists: EMIRA, Equus Belli, Forest and LOLSNAKE and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Loophole X Complice: Interstice (Sunday Warehouse) at La Cité Fertile on Sun 29
 
 - EMIRA
 - Equus Belli
-- Forest (PL)
+- Forest
 - LOLSNAKE
 - Znzl
 

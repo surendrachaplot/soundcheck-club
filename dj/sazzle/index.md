@@ -1,8 +1,8 @@
 # Sazzle
 
-Sazzle is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at radial, London on Sat, 7 Nov 2026.
+Sazzle is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at radial, London on Sat, 7 Nov 2026.
 
-Sazzle is a techno and house artist based in United Kingdom, with 28 gigs on soundcheck across Belfast, London and Newcastle. Often billed alongside Elianne, TEDESCO and AKU. Next up: radial, London on Sat 7 Nov.
+Sazzle is a techno and house artist based in United Kingdom, with 29 gigs on soundcheck across Belfast, London and Newcastle. Often billed alongside Dusty Dan, Elianne and TEDESCO. Next up: radial, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sazzle is a techno and house artist based in United Kingdom, with 28 gigs on sou
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | radial | London |
 | Sat, 14 Nov 2026 | Unit 3 | London |
+| Fri, 27 Nov 2026 | Dalston Den | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Sazzle is a techno and house artist based in United Kingdom, with 28 gigs on sou
 
 ## Shares bills with
 
-Elianne, TEDESCO, AKU (3)
+Dusty Dan, Elianne, TEDESCO
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sazzle/)*

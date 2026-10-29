@@ -1,14 +1,15 @@
 # DJ Crystal Bitch
 
-DJ Crystal Bitch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 6 Nov 2026.
+DJ Crystal Bitch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 6 Nov 2026.
 
-DJ Crystal Bitch is a techno and house artist, with 11 gigs on soundcheck across Amsterdam. Often billed alongside RawB, Delguero and Jayzo. Next up: THE OTHER SIDE, Amsterdam on Fri 6 Nov.
+DJ Crystal Bitch is a techno and house artist, with 12 gigs on soundcheck across Amsterdam. Often billed alongside RawB, MIESØ and Delguero. Next up: THE OTHER SIDE, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | THE OTHER SIDE | Amsterdam |
+| Sat, 5 Dec 2026 | De Fik Garden | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DJ Crystal Bitch is a techno and house artist, with 11 gigs on soundcheck across
 
 ## Shares bills with
 
-RawB, Delguero, Jayzo
+RawB, MIESØ, Delguero
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcrystalbitch/)*

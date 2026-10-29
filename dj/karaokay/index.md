@@ -1,8 +1,8 @@
 # Kara Okay
 
-Kara Okay is a House and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mint XL, Leeds on Fri, 30 Oct 2026.
+Kara Okay is a House and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mint XL, Leeds on Fri, 30 Oct 2026.
 
-Kara Okay is a house and trance artist based in Netherlands, with 81 gigs on soundcheck across Amsterdam, Antwerp, Bali and Byron Bay and 19 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: Mint XL, Leeds on Fri 30 Oct.
+Kara Okay is a house and trance artist based in Netherlands, with 82 gigs on soundcheck across Amsterdam, Antwerp, Bali and Byron Bay and 19 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: Mint XL, Leeds on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Kara Okay is a house and trance artist based in Netherlands, with 81 gigs on sou
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 4 Dec 2026 | Mint Warehouse | Leeds |
 | Sat, 19 Dec 2026 | Zeefgebouw | Netherlands |
+| Sat, 19 Dec 2026 | Lofi | Amsterdam |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played

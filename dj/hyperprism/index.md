@@ -1,14 +1,13 @@
 # Hyperprism
 
-Hyperprism is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Solace, Melbourne on Thu, 29 Oct 2026.
+Hyperprism is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Angel Music Bar, Melbourne on Thu, 5 Nov 2026.
 
-Hyperprism is a techno and deep house artist, with 8 gigs on soundcheck across Melbourne. Often billed alongside Idealist, Willis Anne and 2 Factor Authentication. Next up: Solace, Melbourne on Thu 29 Oct.
+Hyperprism is a techno and deep house artist, with 8 gigs on soundcheck across Melbourne. Often billed alongside Idealist, Willis Anne and 2 Factor Authentication. Next up: Angel Music Bar, Melbourne on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Solace | Melbourne |
 | Thu, 5 Nov 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played

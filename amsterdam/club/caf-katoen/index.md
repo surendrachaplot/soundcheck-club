@@ -1,14 +1,18 @@
 # Café Katoen
 
-Café Katoen is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "100% KATOEN" on Thu, 29 Oct 2026.
+Café Katoen is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "100% KATOEN" on Thu, 29 Oct 2026.
 
-Café Katoen is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Wispelturig. See dates, start times and who's playing. Oude Turfmarkt 153, 1012 GC Amsterdam.
+Café Katoen is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including ESTRELLA, Nori, Polli Panda and Wispelturig. See dates, start times and who's playing. Oude Turfmarkt 153, 1012 GC Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | 100% KATOEN | Wispelturig |
+| Thu, 5 Nov 2026 | 100% KATOEN |  |
+| Thu, 12 Nov 2026 | 100% KATOEN | Polli Panda |
+| Thu, 19 Nov 2026 | 100% KATOEN | ESTRELLA |
+| Thu, 26 Nov 2026 | 100% KATOEN | Nori |
 
 ## Address
 

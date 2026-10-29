@@ -1,8 +1,8 @@
 # Burnski
 
-Burnski is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
+Burnski is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location, London on Thu, 29 Oct 2026.
 
-Burnski is a house and garage artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 15 more. Often billed alongside Kepler, Sidney Charles and Dennis Quin. Next up: TBA - Secret Location, London on Thu 29 Oct.
+Burnski is a house and tech house artist based in United Kingdom, with 70 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 15 more. Often billed alongside Kepler, Sidney Charles and Dennis Quin. Next up: TBA - Secret Location, London on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Burnski is a house and garage artist based in United Kingdom, with 69 gigs on so
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | TBA - Secret Location | London |
 | Sat, 7 Nov 2026 | Cottiers Theatre | Glasgow |
+| Sat, 21 Nov 2026 | XOYO | London |
 
 ## Recently played
 

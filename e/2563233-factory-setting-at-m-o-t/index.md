@@ -1,6 +1,6 @@
 # Factory Setting at M.O.T
 
-Factory Setting at M.O.T on Thu 19 Nov, London. 3 artists: bbecks, Kinga Janicka and Simon Mós. Techno and Experimental. See the line-up on soundcheck.
+Factory Setting at M.O.T on Thu 19 Nov, London. 4 artists: AM sin, bbecks, Kinga Janicka and Simon Mós. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Factory Setting at M.O.T on Thu 19 Nov, London. 3 artists: bbecks, Kinga Janicka
 
 ## Line-up
 
+- AM sin
 - bbecks
 - Kinga Janicka
 - Simon Mós

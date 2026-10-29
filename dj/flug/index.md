@@ -1,14 +1,15 @@
 # Flug
 
-Flug is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Green Room NYC, New York City on Sat, 7 Nov 2026.
+Flug is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Green Room NYC, New York City on Sat, 7 Nov 2026.
 
-Flug is a techno and tech house artist based in Argentina, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside Linkan Ray, Coyu and Lino Fuso. Next up: Green Room NYC, New York City on Sat 7 Nov.
+Flug is a techno and tech house artist based in Argentina, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside Linkan Ray, Coyu and Lino Fuso. Next up: Green Room NYC, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Green Room NYC | New York City |
+| Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 
 ## Recently played

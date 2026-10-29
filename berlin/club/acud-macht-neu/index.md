@@ -1,8 +1,8 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "'PERSIAN LOVE / SHAB SHOD HALLOWEEN: A Middle Eastern / SWANA Rave' with Milli (MEHMOONI LDN)" on Fri, 30 Oct 2026.
+Acud Macht NEU is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "'PERSIAN LOVE / SHAB SHOD HALLOWEEN: A Middle Eastern / SWANA Rave' with Milli (MEHMOONI LDN)" on Fri, 30 Oct 2026.
 
-Acud Macht NEU is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Amowia, Bokaric, DJ Hristos and DJ Sea View and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
+Acud Macht NEU is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Amowia, Bokaric, DJ Hristos and DJ Sea View and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 7 upcoming gigs,
 | Fri, 30 Oct 2026 | 'PERSIAN LOVE / SHAB SHOD HALLOWEEN: A Middle Eastern / SWANA Rave' with Milli (MEHMOONI LDN) | Milli |
 | Sat, 31 Oct 2026 | Psychopomps | HWXXNG, Leng Seong, Memeshift, NaN., Sabiwa, Thiên, fugitive radio, mobin |
 | Fri, 6 Nov 2026 | Hyper Fog presents: HYD • ultra caro • s1m0nc3ll0 • DJ Hristos | DJ Hristos, lokik, ultra caro |
+| Sat, 7 Nov 2026 | Reflective Waves | DJ Skurge, Levat, Sarah Farina, TRU:L |
 | Thu, 12 Nov 2026 | punktò - BERLIN (€URO TOUR 2026) |  |
 | Fri, 20 Nov 2026 | astral.lab x Quake | DJ Sea View, FILTH.y, Frølår, Signe Alarcón, pnk pnthr, vSto |
 | Sat, 21 Nov 2026 | KHOLEKTIV Showcase with Lola Kay | Bokaric, K.Dissent, Lola Kay, Masarini |

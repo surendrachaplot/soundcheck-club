@@ -2,7 +2,7 @@
 
 FLORA is a R&B and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jupiter Disco, New York City on Sun, 22 Nov 2026.
 
-FLORA is a r&b and downtempo artist, with 40 gigs on soundcheck across Buenos Aires, Lyon, Münster and Nantes and 5 more. Often billed alongside DJ Tara, Toribio and Cosmo (NY). Next up: Jupiter Disco, New York City on Sun 22 Nov.
+FLORA is a r&b and downtempo artist based in United States of America, with 40 gigs on soundcheck across Buenos Aires, Lyon, Münster and Nantes and 5 more. Often billed alongside DJ Tara, Toribio and Cosmo (NY). Next up: Jupiter Disco, New York City on Sun 22 Nov.
 
 ## Upcoming shows
 

@@ -1,14 +1,15 @@
 # Smiff
 
-Smiff is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
+Smiff is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
 
-Smiff is a bass and breakbeat artist based in United Kingdom, with 140 gigs on soundcheck across Aberdeen, Athens, Berlin and Bristol and 3 more. Often billed alongside JI_2001, Wrisk and Sea Urchin. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
+Smiff is a bass and techno artist based in United Kingdom, with 141 gigs on soundcheck across Aberdeen, Athens, Berlin and Bristol and 3 more. Often billed alongside JI_2001, Wrisk and Sea Urchin. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TAC (Tottenham Arts Collective) | London |
+| Fri, 27 Nov 2026 | Dalston Den | London |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ Gallery is a music venue in London listed on soundcheck. 14 upcoming gigs, with 
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | RSquared, FIFI FORTE, Joey London Style - Paradox Nexus x PlayHaus | FIFI FORTE, Joey London, RSquared |
 | Thu, 29 Oct 2026 | POP x Gallery (October 29th - Cubanista) |  |
-| Fri, 30 Oct 2026 | Halloween Organic: Bhaskar | Bhaskar |
+| Fri, 30 Oct 2026 | Halloween Organic: Bhaskar | Bhaskar, Kling |
 | Fri, 6 Nov 2026 | Gallery X VIRAGE |  |
 | Sat, 7 Nov 2026 | Barbaro: ONE MORE DANCE | Ale Grooves, Nico Ramírez, Ramoss |
 | Fri, 13 Nov 2026 | XPALM PRESENTS (KARTY) |  |

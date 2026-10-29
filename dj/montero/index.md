@@ -1,14 +1,15 @@
 # Montero
 
-Montero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 31 Oct 2026.
+Montero is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 31 Oct 2026.
 
-Montero is a techno and house artist based in Spain, with 77 gigs on soundcheck across Barcelona, Berlin, Bogotá and Guadalajara and 13 more. Often billed alongside Tauer, Anika Kunst and Stojche. Next up: Studio Club Malaga, Malaga on Sat 31 Oct.
+Montero is a techno and house artist based in Spain, with 78 gigs on soundcheck across Barcelona, Berlin, Bogotá and Guadalajara and 13 more. Often billed alongside Tauer, Anika Kunst and Stojche. Next up: Studio Club Malaga, Malaga on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Studio Club Malaga | Malaga |
+| Sat, 5 Dec 2026 | Fabrik | Madrid |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # LnX at ://about blank
 
-LnX at ://about blank on Sun 15 Nov, Berlin. 2 artists: kayBe (UK) and Theo Gramal. Downtempo. See the line-up on soundcheck.
+LnX at ://about blank on Sun 15 Nov, Berlin. 3 artists: kayBe (UK), Theo Gramal and Tvísker. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ LnX at ://about blank on Sun 15 Nov, Berlin. 2 artists: kayBe (UK) and Theo Gram
 
 - kayBe (UK)
 - Theo Gramal
+- Tvísker
 
 *Source: [soundcheck](https://soundcheck.club/e/2445630-lnx-at-about-blank/)*

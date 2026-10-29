@@ -9,7 +9,7 @@ Moody Mehran is a house and techno artist based in Netherlands, with 161 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Radio Radio | Amsterdam |
-| Fri, 20 Nov 2026 | Westerliefde | Amsterdam |
+| Fri, 20 Nov 2026 | WestWeelde | Amsterdam |
 | Tue, 22 Dec 2026 | Radio Radio | Amsterdam |
 | Thu, 31 Dec 2026 | Graanfabriek | Netherlands |
 

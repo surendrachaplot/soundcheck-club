@@ -1,13 +1,14 @@
 # Miro Von
 
-Miro Von is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
+Miro Von is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
-Miro Von is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Zagreb. Often billed alongside Miro Von (unlive), Ellen Allien and VINVAR. Next up: Void Club, Berlin on Sat 21 Nov.
+Miro Von is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Zagreb. Often billed alongside Miro Von (unlive), Ellen Allien and VINVAR. Next up: OXI, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | OXI | Berlin |
 | Sat, 21 Nov 2026 | Void Club | Berlin |
 
 ## Recently played

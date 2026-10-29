@@ -1,8 +1,8 @@
 # Yant
 
-Yant is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 7 Nov 2026.
+Yant is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 7 Nov 2026.
 
-Yant is a techno and house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Setaoc Mass, Blasha & Allatt and Aletha. Next up: Eastern Bloc Records, Manchester on Sat 7 Nov.
+Yant is a techno and house artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Setaoc Mass, Blasha & Allatt and Aletha. Next up: Eastern Bloc Records, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yant is a techno and house artist based in United Kingdom, with 84 gigs on sound
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Eastern Bloc Records | Manchester |
 | Sun, 6 Dec 2026 | The Bassement | Madrid |
+| Sat, 19 Dec 2026 | FOLD | London |
 
 ## Recently played
 

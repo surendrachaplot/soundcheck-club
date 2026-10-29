@@ -1,8 +1,8 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 55 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Chantal's House of Shame" on Thu, 29 Oct 2026.
+Lokschuppen Berlin is a music venue in Berlin with 57 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Chantal's House of Shame" on Thu, 29 Oct 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 55 upcoming gigs, with line-ups including 3LEEZA, 4NOUK, 5euroGoldi and 9LALEY and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 57 upcoming gigs, with line-ups including 3LEEZA, 4NOUK, 5euroGoldi and 9LALEY and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 

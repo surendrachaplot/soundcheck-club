@@ -1,8 +1,8 @@
 # Tania Atyabi
 
-Tania Atyabi is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Cu, London on Sat, 31 Oct 2026.
+Tania Atyabi is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Cu, London on Sat, 31 Oct 2026.
 
-Tania Atyabi is an electro and techno artist, with 26 gigs on soundcheck across Barcelona, London and Manchester. Often billed alongside Medallion Man, YouYou and ARA-U. Next up: Cu, London on Sat 31 Oct.
+Tania Atyabi is an electro and techno artist, with 27 gigs on soundcheck across Barcelona, London and Manchester. Often billed alongside Medallion Man, YouYou and ARA-U. Next up: Cu, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Tania Atyabi is an electro and techno artist, with 26 gigs on soundcheck across 
 | Sat, 31 Oct 2026 | Cu | London |
 | Fri, 13 Nov 2026 | NDR2 Red Room | London |
 | Fri, 20 Nov 2026 | radial | London |
+| Thu, 3 Dec 2026 | Planet Wax | London |
 
 ## Recently played
 

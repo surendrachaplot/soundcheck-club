@@ -1,14 +1,15 @@
 # HAMY
 
-HAMY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
+HAMY is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
 
-HAMY is a techno and house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside ENNIO, Faerber and N.R.M. Next up: KREUZWERK, Berlin on Fri 13 Nov.
+HAMY is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside ENNIO, Faerber and N.R.M. Next up: KREUZWERK, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | KREUZWERK | Berlin |
+| Fri, 4 Dec 2026 | Tresor / Globus | Berlin |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 
 ## Recently played

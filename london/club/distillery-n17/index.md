@@ -1,8 +1,8 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "INFERNO'WEEN" on Fri, 30 Oct 2026.
+Distillery N17 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "INFERNO'WEEN" on Fri, 30 Oct 2026.
 
-Distillery N17 is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Acid Steve, Alba Heidari, alterum and Antonio De Angelis and 2 more. See dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
+Distillery N17 is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Acid Steve, Alba Heidari, alterum and Antonio De Angelis and 2 more. See dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Distillery N17 is a music venue in London listed on soundcheck. 10 upcoming gigs
 | Fri, 27 Nov 2026 | Mums Against Donk: Breaking Donk | Ev3.mp3, GFOTY, Takenbymarshall, alterum, pissxie |
 | Sat, 28 Nov 2026 | Mother #002 | Alba Heidari, Bleim01, Flight Mode (DE), G.oss, Gareth Wild, LUISELLE, Silpagare |
 | Sat, 5 Dec 2026 | Wildthings Records Label Party |  |
-| Thu, 31 Dec 2026 | Noise Orchestra presents: Da Capo New Year's Eve | Antonio De Angelis, Arnaud Le Texier, Gridlock, HMMND, Laure Croft, Madtronik, Pre Silent, SBBS, Slinky Kinky, WVRM POOL, Yova Yager |
+| Sat, 12 Dec 2026 | Nameless Meets Distropiko with Knisda Kanisda | !NN |
 
 ## Address
 

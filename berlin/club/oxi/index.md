@@ -1,8 +1,8 @@
 # OXI
 
-OXI is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HALLOWEEN PARTY by XOXO #SWAG PARTY" on Fri, 30 Oct 2026.
+OXI is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HALLOWEEN PARTY by XOXO #SWAG PARTY" on Fri, 30 Oct 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including AINA.KRU, Alexa Fluor, Alhena_ and Amo (IT) and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including AINA.KRU, Alexa Fluor, Alhena_ and Amo (IT) and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 

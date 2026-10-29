@@ -1,8 +1,8 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 23 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BLAK 2 FUTURE presents Dopamine" on Thu, 29 Oct 2026.
+Planet Wax is a music venue in London with 33 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BLAK 2 FUTURE presents Dopamine" on Thu, 29 Oct 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including A.N.T, Abby Daze, Amy  B and Andy Foundations and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including A.N.T, Abby Daze, Amy  B and Andy Foundations and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Planet Wax is a music venue in London listed on soundcheck. 23 upcoming gigs, wi
 | Sat, 31 Oct 2026 | Bad Intentions x Planet Wax | Layson, Madelic |
 | Sun, 1 Nov 2026 | INFRARED. FM: Sunday Sessions | Joe Joiner |
 | Sun, 1 Nov 2026 | SUNDAY SERVICE (LIVE) | Sho Gabi, Uncle G |
+| Wed, 4 Nov 2026 | OPEN DECKS |  |
 | Thu, 5 Nov 2026 | RECREATION | A.N.T, Catch25, Kassian, Rebekah Abdeen |
 | Fri, 6 Nov 2026 | Planet Wax INC.	Two Years of 'ON AIR' | Abby Daze, Amy  B, Dexta, Sho Gabi, Uncle G |
-| Sat, 7 Nov 2026 | DILEMMA & FRIENDS: TAKEOVER Planet Wax | BCee, Winslow |
 
 ## Address
 

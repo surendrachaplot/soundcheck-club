@@ -1,6 +1,6 @@
 # Secret Rave - Inner Void at TBA - secret location
 
-Secret Rave - Inner Void at TBA - secret location on Fri 13 Nov, Barcelona. 2 artists: Julian Bartsch and SZABØ. Techno. See the line-up on soundcheck.
+Secret Rave - Inner Void at TBA - secret location on Fri 13 Nov, Barcelona. 4 artists: Julian Bartsch, Mëtro, SZABØ and Thiim. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Secret Rave - Inner Void at TBA - secret location on Fri 13 Nov, Barcelona. 2 ar
 ## Line-up
 
 - Julian Bartsch
+- Mëtro
 - SZABØ
+- Thiim
 
 *Source: [soundcheck](https://soundcheck.club/e/2561673-secret-rave-inner-void-at-tba-secret-location/)*

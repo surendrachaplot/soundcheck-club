@@ -1,6 +1,6 @@
 # XTRUDE x Mount Kimbie x Polar Inertia w/ Eric Cloutier, OK Williams, Olivia Mendez Mathys Lenne at RSO.BERLIN
 
-XTRUDE x Mount Kimbie x Polar Inertia w/ Eric Cloutier, OK Williams, Olivia Mendez Mathys Lenne at RSO.BERLIN on Sat 14 Nov, Berlin. 11 artists: A Strange Wedding, Dajusch, Eric Cloutier and Mathys Lenne and 7 more. Breakbeat and Techno. See the line-up on soundcheck.
+XTRUDE x Mount Kimbie x Polar Inertia w/ Eric Cloutier, OK Williams, Olivia Mendez Mathys Lenne at RSO.BERLIN on Sat 14 Nov, Berlin. 12 artists: A Strange Wedding, Blu Aloé, Dajusch and Eric Cloutier and 8 more. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ XTRUDE x Mount Kimbie x Polar Inertia w/ Eric Cloutier, OK Williams, Olivia Mend
 ## Line-up
 
 - A Strange Wedding
+- Blu Aloé
 - Dajusch
 - Eric Cloutier
 - Mathys Lenne

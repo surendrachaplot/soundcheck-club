@@ -1,6 +1,6 @@
 # FUZZ at Love Shack LDN
 
-FUZZ at Love Shack LDN on Sat 28 Nov, London. 3 artists: FC Kahuna, Mytron and Richard Sen. Acid and Italo Disco. See the line-up on soundcheck.
+FUZZ at Love Shack LDN on Sat 28 Nov, London. 4 artists: FC Kahuna, Jenny Twenty, Mytron and Richard Sen. Acid and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ FUZZ at Love Shack LDN on Sat 28 Nov, London. 3 artists: FC Kahuna, Mytron and R
 ## Line-up
 
 - FC Kahuna
+- Jenny Twenty
 - Mytron
 - Richard Sen
 

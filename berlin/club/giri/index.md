@@ -17,7 +17,7 @@ Giri is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with lin
 | Wed, 11 Nov 2026 | Giri presents Baci Concert |  |
 | Thu, 12 Nov 2026 | Bao Fembot |  |
 | Fri, 13 Nov 2026 | Giri x Éclat release |  |
-| Wed, 18 Nov 2026 | Giri x SYNESTRANSIA Experiment #5: The Freedom of Five | ANNARA, DJ Trade Trainer, MADAKYA |
+| Wed, 18 Nov 2026 | Giri x SYNESTRANSIA Experiment #5: The Freedom of Five | ANNARA, DJ Trade Trainer, MADAKYA, SXCL |
 
 ## Address
 

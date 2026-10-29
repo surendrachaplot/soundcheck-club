@@ -1,13 +1,14 @@
 # Sarah Wild
 
-Sarah Wild is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
+Sarah Wild is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Thu, 29 Oct 2026.
 
-Sarah Wild is a house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Beijing, Berlin and Cologne and 18 more. Often billed alongside Kotoe, Britta Arnold and Chris Schwarzwälder. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
+Sarah Wild is a house and techno artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Beijing, Berlin and Cologne and 18 more. Often billed alongside Kotoe, Britta Arnold and Chris Schwarzwälder. Next up: Renate, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Renate | Berlin |
 | Sat, 31 Oct 2026 | PKH Warehouse | Berlin |
 | Sun, 1 Nov 2026 | Smolna | Warsaw |
 | Fri, 6 Nov 2026 | Culture Box | Copenhagen |

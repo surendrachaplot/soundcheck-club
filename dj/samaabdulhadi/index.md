@@ -1,8 +1,8 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
+Sama' Abdulhadi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
 
-Sama' Abdulhadi is a techno and house artist based in Palestine, with 170 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 59 more. Often billed alongside Richie Hawtin, Ben Klock and Anfisa Letyago. Next up: Las Tres Chimeneas, Barcelona on Sat 31 Oct.
+Sama' Abdulhadi is a techno and house artist based in Palestine, with 171 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 59 more. Often billed alongside Richie Hawtin, Ben Klock and Anfisa Letyago. Next up: Las Tres Chimeneas, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sama' Abdulhadi is a techno and house artist based in Palestine, with 170 gigs o
 | Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
 | Fri, 6 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Sat, 14 Nov 2026 | CDP - Grassina (FI) | Florence |
+| Sat, 28 Nov 2026 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
 

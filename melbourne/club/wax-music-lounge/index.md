@@ -1,14 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 46 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "TAZ FLOWER" on Thu, 29 Oct 2026.
+Wax Music Lounge is a music venue in Melbourne with 45 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Dando Mambo presents SABOR LATINO" on Fri, 30 Oct 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 46 upcoming gigs, with line-ups including CHARLES-EDDY, Joey Coco, leverson and Manchild and 2 more. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 45 upcoming gigs, with line-ups including CHARLES-EDDY, Joey Coco, leverson and Manchild and 2 more. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | TAZ FLOWER |  |
 | Fri, 30 Oct 2026 | Dando Mambo presents SABOR LATINO |  |
 | Sat, 31 Oct 2026 | SUB LEVEL 002 | CHARLES-EDDY, Joey Coco |
 | Mon, 2 Nov 2026 | CIRCADIAN RHYTHMS |  |
@@ -18,6 +17,7 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 46 upcoming
 | Fri, 6 Nov 2026 | BIONIC BOOGIE |  |
 | Sat, 7 Nov 2026 | DANCEHALL TING |  |
 | Sat, 7 Nov 2026 | THE SHUT UP AND LISTEN CLUB – No. 10 |  |
+| Mon, 9 Nov 2026 | CIRCADIAN RHYTHMS |  |
 
 ## Address
 

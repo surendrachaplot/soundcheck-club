@@ -1,0 +1,28 @@
+# STAANA
+
+STAANA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 9 Dec 2026.
+
+STAANA is a techno and house artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 1 more. Often billed alongside CLEO, Caniche and Ketarina. Next up: Tresor / Globus, Berlin on Wed 9 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 9 Dec 2026 | Tresor / Globus | Berlin |
+
+## Recently played
+
+- Tresor / Globus, Berlin · Mon, 26 Oct 2026
+- Chinastraat, Ghent · Tue, 21 Jul 2026
+- Renate, Berlin · Sat, 6 Jun 2026
+- 0punkt, Berlin · Sat, 16 May 2026
+- Else, Berlin · Thu, 30 Apr 2026
+- OST, Berlin · Fri, 17 Apr 2026
+- KREUZWERK, Berlin · Fri, 10 Apr 2026
+- ://about blank, Berlin · Fri, 20 Mar 2026
+
+## Shares bills with
+
+CLEO, Caniche, Ketarina
+
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staana/)*

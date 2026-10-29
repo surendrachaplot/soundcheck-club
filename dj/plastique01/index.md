@@ -1,14 +1,15 @@
 # Plastique01
 
-Plastique01 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Brancaleone, Rome on Sat, 7 Nov 2026.
+Plastique01 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Brancaleone, Rome on Sat, 7 Nov 2026.
 
-Plastique01 is a techno and trance artist, with 38 gigs on soundcheck across Bologna, Brussels, Florence and Milan and 5 more. Often billed alongside Abo Abo, TOMO and Crossing Avenue. Next up: Brancaleone, Rome on Sat 7 Nov.
+Plastique01 is a techno and trance artist, with 39 gigs on soundcheck across Amsterdam, Bologna, Brussels and Florence and 6 more. Often billed alongside Abo Abo, TOMO and Crossing Avenue. Next up: Brancaleone, Rome on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Brancaleone | Rome |
+| Sat, 28 Nov 2026 | OT301 | Amsterdam |
 
 ## Recently played
 

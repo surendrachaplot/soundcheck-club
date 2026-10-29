@@ -1,8 +1,8 @@
 # Elisa Bee
 
-Elisa Bee is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at P61 Gallery, Berlin on Fri, 30 Oct 2026.
+Elisa Bee is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at P61 Gallery, Berlin on Fri, 30 Oct 2026.
 
-Elisa Bee is a techno and tech house artist based in Italy, with 81 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Industrial Romantico, Marthial and Acidalia. Next up: P61 Gallery, Berlin on Fri 30 Oct.
+Elisa Bee is a techno and house artist based in Italy, with 82 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Industrial Romantico, Marthial and Acidalia. Next up: P61 Gallery, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Elisa Bee is a techno and tech house artist based in Italy, with 81 gigs on soun
 | Sat, 31 Oct 2026 | glimmer | Hamburg |
 | Sat, 14 Nov 2026 | Tempio del Futuro Perduto | Milan |
 | Sat, 21 Nov 2026 | TBA - Madrid | Madrid |
+| Fri, 11 Dec 2026 | Tresor / Globus | Berlin |
 | Sat, 12 Dec 2026 | Tempio del Futuro Perduto | Milan |
 | Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
 

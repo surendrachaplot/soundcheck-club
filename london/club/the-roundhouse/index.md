@@ -13,7 +13,7 @@ The Roundhouse is a music venue in London listed on soundcheck. 8 upcoming gigs,
 | Fri, 13 Nov 2026 | Labyrinth presents: Marsh extended set | ALLKNIGHT, Leo Wood, Marsh |
 | Sat, 21 Nov 2026 | Calibre | Calibre, Mark Ernestus, SP:MC |
 | Sat, 28 Nov 2026 | NOTION at The Roundhouse |  |
-| Fri, 4 Dec 2026 | Labyrinth presents: TeeDee extended set at Roundhouse |  |
+| Fri, 4 Dec 2026 | Hyperactive World presents TeeDee Extended Set |  |
 | Sat, 5 Dec 2026 | Labyrinth presents: Sasha & John Digweed Open to Close | John Digweed, Sasha |
 | Sat, 13 Feb 2027 | Labyrinth presents: Ember by Dlala Thukzin Added Date |  |
 

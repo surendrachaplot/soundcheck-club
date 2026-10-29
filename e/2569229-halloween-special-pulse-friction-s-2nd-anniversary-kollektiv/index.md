@@ -1,6 +1,6 @@
 # Halloween Special - Pulse Friction's 2nd Anniversary × Kollektiv Sonnenallee at TBA - DM @pulse_friction on Instagram for details
 
-Halloween Special - Pulse Friction's 2nd Anniversary × Kollektiv Sonnenallee at TBA - DM @pulse_friction on Instagram for details on Sat 31 Oct, Berlin. 7 artists: Clarisafarie, doctor doms, eXpressivo and Luminick and 3 more. Techno. See the line-up on soundcheck.
+Halloween Special - Pulse Friction's 2nd Anniversary × Kollektiv Sonnenallee at TBA - DM @pulse_friction on Instagram for details on Sat 31 Oct, Berlin. 8 artists: Break Beats Berlin, Clarisafarie, doctor doms and eXpressivo and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Halloween Special - Pulse Friction's 2nd Anniversary × Kollektiv Sonnenallee at
 
 ## Line-up
 
+- Break Beats Berlin
 - Clarisafarie
 - doctor doms
 - eXpressivo

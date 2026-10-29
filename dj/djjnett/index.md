@@ -1,14 +1,13 @@
 # DJ JNETT
 
-DJ JNETT is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Music Room, Melbourne on Thu, 29 Oct 2026.
+DJ JNETT is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at My Aeon, Melbourne on Sat, 31 Oct 2026.
 
-DJ JNETT is a house and deep house artist based in Australia, with 137 gigs on soundcheck across Auckland, Brisbane, Byron Bay and Canberra and 2 more. Often billed alongside Colette, Zjoso and Moopie. Next up: Music Room, Melbourne on Thu 29 Oct.
+DJ JNETT is a house and deep house artist based in Australia, with 137 gigs on soundcheck across Auckland, Brisbane, Byron Bay and Canberra and 2 more. Often billed alongside Colette, Zjoso and Moopie. Next up: My Aeon, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Music Room | Melbourne |
 | Sat, 31 Oct 2026 | My Aeon | Melbourne |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Fri, 6 Nov 2026 | QUIVR | Brisbane |

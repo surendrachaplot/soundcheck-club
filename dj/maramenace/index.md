@@ -1,13 +1,14 @@
 # Mara Menace
 
-Mara Menace is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
+Mara Menace is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at THF Radio / Torhaus, Berlin on Fri, 6 Nov 2026.
 
-Mara Menace is a techno and house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 10 more. Often billed alongside Maris Shilton, Sicion and Mathys Lenne. Next up: Renate, Berlin on Sat 14 Nov.
+Mara Menace is a techno and house artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 10 more. Often billed alongside Maris Shilton, Sicion and Mathys Lenne. Next up: THF Radio / Torhaus, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | THF Radio / Torhaus | Berlin |
 | Sat, 14 Nov 2026 | Renate | Berlin |
 | Fri, 11 Dec 2026 | Fitzroy | Berlin |
 

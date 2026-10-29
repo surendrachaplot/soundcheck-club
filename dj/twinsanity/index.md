@@ -1,14 +1,13 @@
 # Twinsanity
 
-Twinsanity is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Coil, Melbourne on Thu, 29 Oct 2026.
+Twinsanity is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Miscellania, Melbourne on Sun, 1 Nov 2026.
 
-Twinsanity is a minimal and tech house artist based in Australia, with 30 gigs on soundcheck across Athens, Melbourne and Sydney. Often billed alongside Rev Lon, Nat Salih and Dasha SPRW. Next up: Coil, Melbourne on Thu 29 Oct.
+Twinsanity is a minimal and tech house artist based in Australia, with 30 gigs on soundcheck across Athens, Melbourne and Sydney. Often billed alongside Rev Lon, Nat Salih and Dasha SPRW. Next up: Miscellania, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Coil | Melbourne |
 | Sun, 1 Nov 2026 | Miscellania | Melbourne |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Rotten Peach at Oath
 
-Rotten Peach at Oath on Wed 28 Oct, Tokyo. Techno and House. See the line-up on soundcheck.
+Rotten Peach at Oath on Wed 28 Oct, Tokyo. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

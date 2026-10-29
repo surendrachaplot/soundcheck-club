@@ -1,8 +1,8 @@
 # M.O.T
 
-M.O.T is a music venue in London with 38 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "✦ M.O.T Radio ✦ Beatrice M. & Tim Reaper, Grandmixxer, Jay Duncan ✦" on Thu, 29 Oct 2026.
+M.O.T is a music venue in London with 39 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "✦ M.O.T Radio ✦ Beatrice M. & Tim Reaper, Grandmixxer, Jay Duncan ✦" on Thu, 29 Oct 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including abejizaza, abs8lute, Addison Groove and Aldonna and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including A.N.T, abejizaza, abs8lute and Addison Groove and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 

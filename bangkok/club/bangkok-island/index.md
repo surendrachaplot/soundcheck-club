@@ -1,14 +1,13 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "GOLDEN HOUR SOCIETY — ON THE DECK" on Thu, 29 Oct 2026.
+Bangkok Island is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "GHOST BOAT" on Sat, 31 Oct 2026.
 
-Bangkok Island is a music venue in Bangkok listed on soundcheck. 8 upcoming gigs, with line-ups including Ali, bee, Selecta (ES) and Shaan. See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
+Bangkok Island is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with line-ups including Ali, bee, Selecta (ES) and Shaan. See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | GOLDEN HOUR SOCIETY — ON THE DECK |  |
 | Sat, 31 Oct 2026 | GHOST BOAT |  |
 | Sat, 31 Oct 2026 | Black Pearl Party | bee (2) |
 | Sun, 1 Nov 2026 | Trip to Eden 1 nov 20263 | Ali (4), Shaan (2) |

@@ -1,8 +1,8 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Savaya Bali, Bali on Sat, 7 Nov 2026.
+Patrick Mason is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Savaya Bali, Bali on Sat, 7 Nov 2026.
 
-Patrick Mason is a techno and house artist based in Germany, with 312 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 96 more. Often billed alongside Héctor Oaks, Indira Paganotto and 999999999. Next up: Savaya Bali, Bali on Sat 7 Nov.
+Patrick Mason is a techno and house artist based in Germany, with 313 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 96 more. Often billed alongside Héctor Oaks, Indira Paganotto and 999999999. Next up: Savaya Bali, Bali on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Patrick Mason is a techno and house artist based in Germany, with 312 gigs on so
 | Sat, 7 Nov 2026 | Savaya Bali | Bali |
 | Fri, 20 Nov 2026 | gallery 1986 | Vilnius |
 | Fri, 27 Nov 2026 | Flux | Istanbul |
+| Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Fri, 11 Dec 2026 | Club Ciudad de Buenos Aires | Buenos Aires |
 | Fri, 18 Dec 2026 | BASIS | Utrecht |
 | Sun, 20 Dec 2026 | Le Sucre | Lyon |

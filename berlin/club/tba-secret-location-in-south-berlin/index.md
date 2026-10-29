@@ -8,6 +8,6 @@ TBA - Secret Location in South Berlin is a music venue in Berlin listed on sound
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Halloween Rave // OverdosedBerlin X BPM | ClubSubbe, DJ ORDNUNGSAMT, DJ Paradox, DJ Sterni, Dr . Mario, E.T., GM1 (IT), Ravejezuz, Thielking, fU.impact |
+| Sat, 31 Oct 2026 | Halloween Rave // OverdosedBerlin X BPM | ClubSubbe, DJ ORDNUNGSAMT, DJ Paradox, DJ Sterni, Dr . Mario, E.T., GM1 (IT), JUWLZ, Ravejezuz, Thielking, fU.impact |
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-secret-location-in-south-berlin/)*

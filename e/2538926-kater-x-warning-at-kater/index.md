@@ -1,6 +1,6 @@
 # Kater x WARNING at Kater
 
-Kater x WARNING on Fri 6 Nov, Berlin. 7 artists: Audio Werner, David Delgado, DJ ZBB and Elena Bi and 3 more. Trance and Tech House. See the line-up on soundcheck.
+Kater x WARNING on Fri 6 Nov, Berlin. 8 artists: Audio Werner, David Delgado, DJ ZBB and Elena Bi and 4 more. Trance and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Kater x WARNING on Fri 6 Nov, Berlin. 7 artists: Audio Werner, David Delgado, DJ
 - DJ ZBB
 - Elena Bi
 - Foolik
+- Königsmann
 - The Pushamann
 - Trancesetters of Westphalia
 

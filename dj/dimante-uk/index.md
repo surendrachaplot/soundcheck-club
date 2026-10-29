@@ -11,7 +11,7 @@ Dimanté is a techno and tech house artist based in Ukraine, with 16 gigs on sou
 | Fri, 30 Oct 2026 | Jungla London | London |
 | Sat, 31 Oct 2026 | Rolling Stock | London |
 | Sat, 31 Oct 2026 | Fire | London |
-| Sun, 1 Nov 2026 | Fire | London |
+| Sun, 1 Nov 2026 | Fire & Lightbox | London |
 | Sat, 28 Nov 2026 | Upper East | London |
 
 ## Recently played

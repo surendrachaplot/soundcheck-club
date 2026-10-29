@@ -9,7 +9,7 @@ Francesco Poggi is a tech house and house artist based in United Kingdom, with 1
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Fire | London |
-| Sun, 1 Nov 2026 | Fire | London |
+| Sun, 1 Nov 2026 | Fire & Lightbox | London |
 
 ## Recently played
 

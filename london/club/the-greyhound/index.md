@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "TWO STEP 004 - HALLOWEEN DANCE" on Fri, 30 Oct 2026.
+The Greyhound is a music venue in London with 18 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "TWO STEP 004 - HALLOWEEN DANCE" on Fri, 30 Oct 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 

@@ -1,14 +1,15 @@
 # Sarah Farina
 
-Sarah Farina is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 30 Oct 2026.
+Sarah Farina is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 30 Oct 2026.
 
-Sarah Farina is a house and bass artist, with 63 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside African Head Charge, Marta De Pascalis and PRAED. Next up: Golden Pudel Club, Hamburg on Fri 30 Oct.
+Sarah Farina is a house and bass artist, with 64 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside African Head Charge, Marta De Pascalis and PRAED. Next up: Golden Pudel Club, Hamburg on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Golden Pudel Club | Hamburg |
+| Sat, 7 Nov 2026 | Acud Macht NEU | Berlin |
 
 ## Recently played
 

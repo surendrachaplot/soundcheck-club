@@ -2,7 +2,7 @@
 
 Simon Mós is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at M.O.T, London on Thu, 19 Nov 2026.
 
-Simon Mós is an experimental and techno artist based in United Kingdom, with 21 gigs on soundcheck across Berlin and London. Often billed alongside DJ Counselling, Kinga Janicka and happyhappyface. Next up: M.O.T, London on Thu 19 Nov.
+Simon Mós is an experimental and techno artist based in United Kingdom, with 21 gigs on soundcheck across Berlin and London. Often billed alongside DJ Counselling, Kinga Janicka and AM sin. Next up: M.O.T, London on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Simon Mós is an experimental and techno artist based in United Kingdom, with 21
 
 ## Shares bills with
 
-DJ Counselling, Kinga Janicka, happyhappyface
+DJ Counselling, Kinga Janicka, AM sin
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonmos/)*

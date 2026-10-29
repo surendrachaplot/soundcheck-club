@@ -1,13 +1,14 @@
 # Helly
 
-Helly is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Karree, Freiburg on Fri, 6 Nov 2026.
+Helly is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lofi, Amsterdam on Sat, 31 Oct 2026.
 
-Helly is a house and techno artist, with 52 gigs on soundcheck across Amsterdam, Athens, Baden W Rttemberg and Barcelona and 19 more. Often billed alongside DJ Tjizza, DJ Senc and Jacopo Latini. Next up: Karree, Freiburg on Fri 6 Nov.
+Helly is a house and techno artist, with 53 gigs on soundcheck across Amsterdam, Athens, Baden W Rttemberg and Barcelona and 19 more. Often billed alongside DJ Tjizza, DJ Senc and Jacopo Latini. Next up: Lofi, Amsterdam on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Lofi | Amsterdam |
 | Fri, 6 Nov 2026 | Karree | Freiburg |
 | Fri, 6 Nov 2026 | Karree | Baden-w-rttemberg |
 

@@ -1,8 +1,8 @@
 # Diffrent
 
-Diffrent is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+Diffrent is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
-Diffrent is a garage and house artist based in Germany, with 162 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Kyle Starkey, Pegassi and SAIDAH. Next up: DRUMSHEDS, London on Sat 31 Oct.
+Diffrent is a garage and house artist based in Germany, with 163 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Kyle Starkey, Pegassi and SAIDAH. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Diffrent is a garage and house artist based in Germany, with 162 gigs on soundch
 | Fri, 4 Dec 2026 | Hangaren | Copenhagen |
 | Sat, 5 Dec 2026 | OST | Berlin |
 | Sat, 19 Dec 2026 | Van Nelle Fabriek | Rotterdam |
+| Sat, 19 Dec 2026 | Lofi | Amsterdam |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Sunil Sharpe
 
-Sunil Sharpe is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lost Horizon, Bristol on Fri, 30 Oct 2026.
+Sunil Sharpe is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lost Horizon, Bristol on Fri, 30 Oct 2026.
 
-Sunil Sharpe is a techno and electro artist based in Ireland, with 102 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 32 more. Often billed alongside Kerrie, Newa and IMOGEN. Next up: Lost Horizon, Bristol on Fri 30 Oct.
+Sunil Sharpe is a techno and electro artist based in Ireland, with 103 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 32 more. Often billed alongside Kerrie, Newa and IMOGEN. Next up: Lost Horizon, Bristol on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Lost Horizon | Bristol |
+| Sat, 5 Dec 2026 | Tresor / Globus | Berlin |
 | Sat, 19 Dec 2026 | Centre Point | Dublin |
 
 ## Recently played

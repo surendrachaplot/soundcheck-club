@@ -1,8 +1,8 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Freï: Hallow's Eve 2026" on Sat, 31 Oct 2026.
+nachbar is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Freï: Hallow's Eve 2026" on Sat, 31 Oct 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AEZARYA, bebe bad, Introspekt and MALLAURY and 2 more. See dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including AEZARYA, bebe bad, Introspekt and MALLAURY and 2 more. See dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 

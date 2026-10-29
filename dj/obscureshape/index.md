@@ -1,8 +1,8 @@
 # Obscure Shape
 
-Obscure Shape is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
+Obscure Shape is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
 
-Obscure Shape is a techno and house artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside SHDW, Laure Croft and 999999999. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
+Obscure Shape is a techno and house artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside SHDW, Laure Croft and 999999999. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Obscure Shape is a techno and house artist based in Germany, with 116 gigs on so
 | Sat, 7 Nov 2026 | RADION | Amsterdam |
 | Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
 | Sat, 14 Nov 2026 | TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84 | Tbilisi |
+| Fri, 20 Nov 2026 | OXI | Berlin |
 | Sat, 21 Nov 2026 | Gate Milano | Milan |
 | Sat, 28 Nov 2026 | BEC (Bilbao Exhibition Center) | North |
 

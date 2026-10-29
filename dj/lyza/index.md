@@ -1,14 +1,13 @@
 # LYZA
 
-LYZA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 29 Oct 2026.
+LYZA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 13 Nov 2026.
 
-LYZA is a techno and house artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hannover and 6 more. Often billed alongside AMORAL, Lyric and Rene Wise. Next up: Les Enfants Brillants, Barcelona on Thu 29 Oct.
+LYZA is a techno and house artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Hannover and Madrid and 5 more. Often billed alongside AMORAL, Lyric and Rene Wise. Next up: Tresor / Globus, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 13 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 28 Nov 2026 | Lieberscholli | Munich |
 

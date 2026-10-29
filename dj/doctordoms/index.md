@@ -1,14 +1,15 @@
 # doctor doms
 
-doctor doms is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - DM @pulse_friction on Instagram for details, Berlin on Sat, 31 Oct 2026.
+doctor doms is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - DM @pulse_friction on Instagram for details, Berlin on Sat, 31 Oct 2026.
 
-doctor doms is a techno and trance artist based in Germany, with 68 gigs on soundcheck across Berlin and Marseille. Often billed alongside OM (COL), Rudy Zigliara and VO227. Next up: TBA - DM @pulse_friction on Instagram for details, Berlin on Sat 31 Oct.
+doctor doms is a techno and trance artist based in Germany, with 69 gigs on soundcheck across Berlin and Marseille. Often billed alongside OM (COL), VO227 and Rudy Zigliara. Next up: TBA - DM @pulse_friction on Instagram for details, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - DM @pulse_friction on Instagram for details | Berlin |
+| Thu, 12 Nov 2026 | Promenaden Eck | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ doctor doms is a techno and trance artist based in Germany, with 68 gigs on soun
 
 ## Shares bills with
 
-OM (COL), Rudy Zigliara, VO227
+OM (COL), VO227, Rudy Zigliara
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*

@@ -1,14 +1,15 @@
 # Miss Italia
 
-Miss Italia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 18 Nov 2026.
+Miss Italia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 18 Nov 2026.
 
-Miss Italia is a techno and house artist based in Germany, with 46 gigs on soundcheck across Berlin. Often billed alongside Handmade, Rangelova and VCO. Next up: Tresor / Globus, Berlin on Wed 18 Nov.
+Miss Italia is a techno and house artist based in Germany, with 47 gigs on soundcheck across Berlin. Often billed alongside Handmade, Rangelova and VCO. Next up: Tresor / Globus, Berlin on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | Tresor / Globus | Berlin |
+| Wed, 16 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

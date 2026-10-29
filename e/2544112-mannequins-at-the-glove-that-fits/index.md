@@ -1,6 +1,6 @@
 # mannequins at The Glove That Fits
 
-mannequins at The Glove That Fits on Thu 26 Nov, London. 4 artists: Amor Ante, LO-LOW, Sissy Cinnamon and YOYO (UK). Trance and Techno. See the line-up on soundcheck.
+mannequins at The Glove That Fits on Thu 26 Nov, London. 5 artists: Amor Ante, LO-LOW, muzhit and Sissy Cinnamon and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ mannequins at The Glove That Fits on Thu 26 Nov, London. 4 artists: Amor Ante, L
 
 - Amor Ante
 - LO-LOW
+- muzhit
 - Sissy Cinnamon
 - YOYO (UK)
 

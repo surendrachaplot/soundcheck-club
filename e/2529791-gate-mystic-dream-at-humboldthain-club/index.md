@@ -1,6 +1,6 @@
 # GATE - Mystic Dream at Humboldthain Club
 
-GATE - Mystic Dream at Humboldthain Club on Fri 6 Nov, Berlin. 6 artists: 5euroGoldi, August Kind, leanripke and Neoma and 2 more. Trance and House. See the line-up on soundcheck.
+GATE - Mystic Dream at Humboldthain Club on Fri 6 Nov, Berlin. 7 artists: 5euroGoldi, August Kind, Henry (DE) and leanripke and 3 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ GATE - Mystic Dream at Humboldthain Club on Fri 6 Nov, Berlin. 6 artists: 5euroG
 
 - 5euroGoldi
 - August Kind
+- Henry (DE)
 - leanripke
 - Neoma
 - senaitstar

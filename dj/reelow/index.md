@@ -1,14 +1,15 @@
 # Reelow
 
-Reelow is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+Reelow is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
-Reelow is a tech house and house artist, with 79 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 18 more. Often billed alongside ACA (YU), Sadkiel and Mene. Next up: XOYO, London on Sat 7 Nov.
+Reelow is a tech house and house artist, with 80 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 18 more. Often billed alongside ACA (YU), Sadkiel and Mene. Next up: XOYO, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | XOYO | London |
+| Sat, 14 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
 

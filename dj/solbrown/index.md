@@ -2,7 +2,7 @@
 
 Sol Brown is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
-Sol Brown is a house and deep house artist, with 12 gigs on soundcheck across Athens, Bristol, London and Malaga. Often billed alongside DJ Murrell, Tito Pulpo and Aston Evans. Next up: fabric, London on Sat 28 Nov.
+Sol Brown is a house and deep house artist based in United Kingdom, with 12 gigs on soundcheck across Athens, Bristol, London and Malaga. Often billed alongside DJ Murrell, Tito Pulpo and Aston Evans. Next up: fabric, London on Sat 28 Nov.
 
 ## Upcoming shows
 

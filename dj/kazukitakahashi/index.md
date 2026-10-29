@@ -1,14 +1,13 @@
 # Kazuki Takahashi
 
-Kazuki Takahashi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Prisma, Berlin on Thu, 29 Oct 2026.
+Kazuki Takahashi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 45 London, London on Sat, 28 Nov 2026.
 
-Kazuki Takahashi is a house and techno artist based in Japan, with 23 gigs on soundcheck across Berlin and London. Often billed alongside Emilion Dollar Baby, Yukari and Tina Technotic. Next up: Prisma, Berlin on Thu 29 Oct.
+Kazuki Takahashi is a house and techno artist based in Japan, with 23 gigs on soundcheck across Berlin and London. Often billed alongside Emilion Dollar Baby, Yukari and Tina Technotic. Next up: 45 London, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Prisma | Berlin |
 | Sat, 28 Nov 2026 | 45 London | London |
 | Sun, 29 Nov 2026 | Prisma | Berlin |
 

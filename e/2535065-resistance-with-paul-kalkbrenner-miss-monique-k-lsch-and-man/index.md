@@ -1,6 +1,6 @@
-# Resistance with Paul Kalkbrenner, Miss Monique, Kölsch and many more at DRUMSHEDS
+# RESISTANCE with Paul Kalkbrenner, Miss Monique, Kölsch and many more at DRUMSHEDS
 
-Resistance with Paul Kalkbrenner, Miss Monique, Kölsch and many more at DRUMSHEDS on Sat 5 Dec, London. 8 artists: ANNA, Dana Ruh, Deer Jade and Gerd Janson and 4 more. Minimal Techno. See the line-up on soundcheck.
+RESISTANCE with Paul Kalkbrenner, Miss Monique, Kölsch and many more at DRUMSHEDS on Sat 5 Dec, London. 8 artists: ANNA, Dana Ruh, Deer Jade and Gerd Janson and 4 more. Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

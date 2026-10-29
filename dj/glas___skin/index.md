@@ -1,14 +1,14 @@
 # glas___skin
 
-glas___skin is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Living Womb, London on Sat, 21 Nov 2026.
+glas___skin is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Living Womb, London on Fri, 20 Nov 2026.
 
-glas___skin is an experimental and electro artist, with 17 gigs on soundcheck across Bristol, Budapest and London. Often billed alongside Naramnesia, overshine and Ship Sket. Next up: Living Womb, London on Sat 21 Nov.
+glas___skin is an experimental and electro artist, with 17 gigs on soundcheck across Bristol, Budapest and London. Often billed alongside Naramnesia, overshine and Ship Sket. Next up: Living Womb, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Living Womb | London |
+| Fri, 20 Nov 2026 | Living Womb | London |
 
 ## Recently played
 

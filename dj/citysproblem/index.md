@@ -2,7 +2,7 @@
 
 CITYSPROBLEM is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at H0L0, New York City on Fri, 30 Oct 2026.
 
-CITYSPROBLEM is a trance and techno artist based in United States of America, with 17 gigs on soundcheck across Boston, Leeds, London and Manchester and 2 more. Often billed alongside moistbreezy, Princess Elf Bar and dj try (US). Next up: H0L0, New York City on Fri 30 Oct.
+CITYSPROBLEM is a trance and techno artist based in United States of America, with 17 gigs on soundcheck across Boston, Leeds, London and Manchester and 2 more. Often billed alongside moistbreezy, DJ Try (US) and Princess Elf Bar. Next up: H0L0, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ CITYSPROBLEM is a trance and techno artist based in United States of America, wi
 
 ## Shares bills with
 
-moistbreezy, Princess Elf Bar, dj try (US)
+moistbreezy, DJ Try (US), Princess Elf Bar
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/citysproblem/)*

@@ -1,6 +1,6 @@
 # one:2 eight presents: LE CIRQUE CLANDESTIN Edition at Tola
 
-one:2 eight presents: LE CIRQUE CLANDESTIN Edition at Tola on Sat 31 Oct, London. 2 artists: Not From Concentrate and Sophia Nicole. Techno and Tech House. See the line-up on soundcheck.
+one:2 eight presents: LE CIRQUE CLANDESTIN Edition at Tola on Sat 31 Oct, London. 2 artists: Not From Concentrate and Sophia Nicole. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

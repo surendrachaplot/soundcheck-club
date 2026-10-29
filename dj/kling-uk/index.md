@@ -1,13 +1,14 @@
 # Kling
 
-Kling is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Studio 338, London on Sat, 7 Nov 2026.
+Kling is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gallery, London on Fri, 30 Oct 2026.
 
-Kling is a techno and psytrance artist based in Brazil, with 36 gigs on soundcheck across Cologne, London, Paris and Tallinn. Often billed alongside Almeida Moura, Duwat? and Monnay. Next up: Studio 338, London on Sat 7 Nov.
+Kling is a techno and tech house artist based in Brazil, with 37 gigs on soundcheck across Cologne, London, Paris and Tallinn. Often billed alongside Almeida Moura, Duwat? and Monnay. Next up: Gallery, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Gallery | London |
 | Sat, 7 Nov 2026 | Studio 338 | London |
 
 ## Recently played

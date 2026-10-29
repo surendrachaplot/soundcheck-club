@@ -8,9 +8,9 @@ Renate is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | House of Lunacy Halloween Ball - The Danse Macabre |  |
+| Thu, 29 Oct 2026 | House of Lunacy Halloween Ball - The Danse Macabre | ANTYA, Bizzarro Universe, Cyranotaurus Cortex, Dj handbag, Don Rogall, Emma Keks, Emo Rugene, Franz Scala, Freudenthal, HOVR, MADDYY, SASKiA SASSE, Sagrivox, Sarah Wild, Stephan Licha, caipora, maniaclina |
 | Fri, 30 Oct 2026 | Renate Klubnacht with HABITUS x CURA Berlin | Adlas, Anna Kost, Concussion, MASCHA, Maccari, Max Dewavrin, Vale, Waldymoto |
-| Sat, 31 Oct 2026 | Renate's Halloween Klubnacht w/ Coco Cobra, casadephunk, Jiāla & Antina's SpookWaves | Coco Cobra, Evaluvfrog, Hongor, Manolo. (DE), Mara Mortem, Organza, Panooc, Robin Flux, Testbild, elliephunk |
+| Sat, 31 Oct 2026 | Renate's Halloween Klubnacht w/ Coco Cobra, casadephunk, Jiāla & Antina's SpookWaves | ANGELIC SINTESIS, Coco Cobra, Evaluvfrog, Hongor, Manolo. (DE), Mara Mortem, Organza, Panooc, Robin Flux, Testbild, elliephunk |
 | Thu, 5 Nov 2026 | Renate Thursdays with The Better Move |  |
 | Fri, 6 Nov 2026 | Renate Klubnacht w/  Arno, Chain Reaction, Abstraxion, DJ Dope, Habitat Shaking, Toni Sauna  | Abstraxion, Adri Alibi, Arno, Dj Dope (2), Habitat Shaking, Maï-Linh, Skipson |
 | Sat, 7 Nov 2026 | Renate Klubnacht with IO, Breakfest & Fear Of SIlence | Delta Division, Esgeem, Justus Kaya, Laetizia, Mantis (IT), Mordio, N:in (DE), Rompa, VSC (1), Vanta (DE), Vroomfondel, dérive, lu.wicked |

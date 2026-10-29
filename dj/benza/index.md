@@ -1,16 +1,18 @@
 # BENZA
 
-BENZA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 31 Oct 2026.
+BENZA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 31 Oct 2026.
 
-BENZA is a techno and house artist based in Spain, with 72 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Chicago and 20 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: Smoke & Mirrors, Chicago on Sat 31 Oct.
+BENZA is a techno and house artist based in Spain, with 74 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Chicago and 20 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: Smoke & Mirrors, Chicago on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Smoke & Mirrors | Chicago |
+| Sat, 7 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 13 Nov 2026 | Astoria | Turin |
 | Sat, 21 Nov 2026 | AMT | Berlin |
+| Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 
 ## Recently played

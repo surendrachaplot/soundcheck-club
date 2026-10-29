@@ -1,6 +1,6 @@
 # Kater x 30 Years of Moodmusic at Kater
 
-Kater x 30 Years of Moodmusic on Fri 4 Dec, Berlin. 9 artists: Amine K, babxi, Jepe and Kristin Velvet and 5 more. House and Tech House. See the line-up on soundcheck.
+Kater x 30 Years of Moodmusic on Fri 4 Dec, Berlin. 9 artists: Amine K, babxi, Filippo Moscatello and Jepe and 5 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,11 +12,11 @@ Kater x 30 Years of Moodmusic on Fri 4 Dec, Berlin. 9 artists: Amine K, babxi, J
 
 - Amine K
 - babxi
+- Filippo Moscatello
 - Jepe
 - Kristin Velvet
 - miAs
 - Sasse
-- Stelios Vassiloudis
 - Stella Stellar
 - Wewerka
 

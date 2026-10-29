@@ -1,6 +1,6 @@
 # The Goldmark
 
-The Goldmark is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Tue, 27 Oct 2026. The next is "ELIXR Halloween Costume Party" on Tue, 27 Oct 2026.
+The Goldmark is a music venue in Pittsburgh with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "ELIXR Halloween Costume Party" on Tue, 27 Oct 2026.
 
 The Goldmark is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Goldmark is a music venue in Pittsburgh listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | ELIXR Halloween Costume Party |  |
 
-*Updated Tue, 27 Oct 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/the-goldmark/)*
+*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/pittsburgh/club/the-goldmark/)*

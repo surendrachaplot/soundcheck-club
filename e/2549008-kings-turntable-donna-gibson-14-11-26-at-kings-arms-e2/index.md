@@ -1,6 +1,6 @@
 # Kings Turntable: Donna Gibson [14.11.26] at Kings Arms E2
 
-Kings Turntable: Donna Gibson [14.11.26] at Kings Arms E2 on Sat 14 Nov, London. 1 artist: Donna Gibson. See the line-up on soundcheck.
+Kings Turntable: Donna Gibson [14.11.26] at Kings Arms E2 on Sat 14 Nov, London. 1 artist: Donna Gibson. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # ALKARLINE
 
-ALKARLINE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paloma, Berlin on Sun, 1 Nov 2026.
+ALKARLINE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Paloma, Berlin on Sun, 1 Nov 2026.
 
-ALKARLINE is a house and techno artist based in Germany, with 45 gigs on soundcheck across Berlin, Dresden and Hamburg. Often billed alongside Momo Femi, BBetriebswirt and Revolucien. Next up: Paloma, Berlin on Sun 1 Nov.
+ALKARLINE is a house and techno artist based in Germany, with 46 gigs on soundcheck across Berlin, Dresden and Hamburg. Often billed alongside Momo Femi, BBetriebswirt and Revolucien. Next up: Paloma, Berlin on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Paloma | Berlin |
+| Wed, 16 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

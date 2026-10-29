@@ -1,14 +1,15 @@
 # Nio-B
 
-Nio-B is a Garage and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Glove That Fits, London on Sat, 31 Oct 2026.
+Nio-B is a Garage and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Glove That Fits, London on Sat, 31 Oct 2026.
 
-Nio-B is a garage and dubstep artist based in United Kingdom, with 65 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside MIDRIB, Freja and Marky V. Next up: The Glove That Fits, London on Sat 31 Oct.
+Nio-B is a garage and dubstep artist based in United Kingdom, with 66 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside MIDRIB, Freja and Marky V. Next up: The Glove That Fits, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Glove That Fits | London |
+| Fri, 27 Nov 2026 | M.O.T | London |
 | Sat, 5 Dec 2026 | Planet Wax | London |
 
 ## Recently played

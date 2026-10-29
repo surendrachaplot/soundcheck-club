@@ -1,6 +1,6 @@
 # Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] at ://about blank
 
-Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] at ://about blank on Fri 13 Nov, Berlin. 9 artists: Balkhausen, Bokaric, DEN!SE and DJ Perroz and 5 more. Techno. See the line-up on soundcheck.
+Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] at ://about blank on Fri 13 Nov, Berlin. 10 artists: Balkhausen, Bokaric, DEN!SE and DJ Perroz and 6 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] at ://about blank
 - DEN!SE
 - DJ Perroz
 - Jasmin Giovanazzi
+- Martxas
 - SIUL (1)
 - Solvados
 - TAKT130

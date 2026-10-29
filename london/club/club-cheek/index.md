@@ -16,7 +16,7 @@ Club Cheek is a music venue in London listed on soundcheck. 16 upcoming gigs, wi
 | Sat, 7 Nov 2026 | BIO-TECH LDN 010 feat Amit & B-Key | Amit, Facs, Primitivizm, Xanadu |
 | Fri, 13 Nov 2026 | Amadeus presents: Ariane V, Serious Hots, WildWood (Live) and Flash Mitra | Ariane V, Flash Mitra |
 | Sat, 14 Nov 2026 | Girls of the Internet (Live) | Girls of the Internet |
-| Sat, 14 Nov 2026 | SERVE | Bekefi, LORA S, S_STEELE, Somme Farris |
+| Sat, 14 Nov 2026 | SERVE (THE UNOFFICIAL BODY MOVEMENTS AFTERS) | Bekefi, LORA S, S_STEELE, Somme Farris |
 | Fri, 20 Nov 2026 | D4NCE THERAPY - VOL 2 | MIDRIB, Proc Fiskal |
 
 ## Address

@@ -9,7 +9,7 @@ SHADYLINES is a techno and trance artist based in Germany, with 56 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | [119] | Berlin |
-| Fri, 4 Dec 2026 | TBA - Storkower Strasse 119 | Berlin |
+| Fri, 4 Dec 2026 | [119] | Berlin |
 
 ## Recently played
 

@@ -1,15 +1,14 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BONE SHAKER 1st Anniversary" on Mon, 26 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BONE SHAKER 1st Anniversary" on Mon, 26 Oct 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including ACHIRI, ACKERMAN, Acrocanthosaurus and AI and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including ACHIRI, ACKERMAN, Acrocanthosaurus and AI and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Mon, 26 Oct 2026 | BONE SHAKER 1st Anniversary | Genick, Jacotanu, Tinny Noll, YUVIE |
-| Thu, 29 Oct 2026 | EFFIE & Eurohead | Eurohead, Lil Farm, m i m i (US) |
 | Fri, 30 Oct 2026 | ENSITE 4 Year Anniversary with Mareena (Tresor, Unrush, Fides) | AI (10), Isshin, KOSHIRO, Kotaro Shimizu, Kurea, Lynta, Mareena, Mistr Dean, Yui (JP), tnseei |
 | Sat, 31 Oct 2026 | RIP with Osmosis Jones | Acrocanthosaurus, Genick, J Wax, Jacotanu, Kamui Wada, MOOTOE, Osmosis Jones, That Fancy I, VECSILLE, kyo (3) |
 | Mon, 2 Nov 2026 | CULTURE SHIT RECORDS VOL.4 1 YEAR ANNIVERSARY | ACHIRI, ISSA, Lamine, MoEPiKA, Sugar and Spice, YUVIE, nasthug |
@@ -18,6 +17,7 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, w
 | Sat, 7 Nov 2026 | Critical Sound Japan 2026 | Azumai, Fonts, Kasra |
 | Sun, 8 Nov 2026 | HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW | ACKERMAN (2), HEAVEN'S GATE CREW, nabii |
 | Sat, 14 Nov 2026 | Explosive in Tokyo | Coretex, Dustvoxx, Dynamax, Hayate (2), Reverse16 |
+| Sun, 15 Nov 2026 | LYNY Tokyo show | SAKO |
 
 ## Address
 

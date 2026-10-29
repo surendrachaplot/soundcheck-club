@@ -1,14 +1,15 @@
 # Thomas Kick (2)
 
-Thomas Kick (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 7 Nov 2026.
+Thomas Kick (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 7 Nov 2026.
 
-Thomas Kick is a house and techno artist based in Spain, with 37 gigs on soundcheck across Barcelona, London, Madrid and Milan. Often billed alongside Adria (ES), Pau Rosés and Devesa. Next up: TBA - Tibidabo Area, Barcelona on Sat 7 Nov.
+Thomas Kick is a house and techno artist based in Spain, with 38 gigs on soundcheck across Barcelona, London, Madrid and Milan. Often billed alongside Adria (ES), Pau Rosés and Devesa. Next up: TBA - Tibidabo Area, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA - Tibidabo Area | Barcelona |
+| Fri, 13 Nov 2026 | TBA - secret location | Barcelona |
 
 ## Recently played
 
