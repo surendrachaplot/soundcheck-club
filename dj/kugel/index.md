@@ -1,14 +1,15 @@
 # Kugel
 
-Kugel is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Modeci, Seoul on Sat, 31 Oct 2026.
+Kugel is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Modeci, Seoul on Sat, 31 Oct 2026.
 
-Kugel is a techno and house artist based in South Korea, with 191 gigs on soundcheck across Bangkok, Chengdu, Hanoi and Ho Chi Minh City and 10 more. Often billed alongside Sunday Lee, RTRP and Gumi. Next up: Modeci, Seoul on Sat 31 Oct.
+Kugel is a techno and house artist based in South Korea, with 192 gigs on soundcheck across Bangkok, Chengdu, Hanoi and Ho Chi Minh City and 10 more. Often billed alongside Sunday Lee, RTRP and Gumi. Next up: Modeci, Seoul on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Modeci | Seoul |
+| Sat, 31 Oct 2026 | Nué Seoul | Seoul |
 | Sat, 14 Nov 2026 | Apotheka | Manila |
 | Fri, 20 Nov 2026 | RASA | Singapore |
 | Sat, 21 Nov 2026 | Pawnshop | Taipei |

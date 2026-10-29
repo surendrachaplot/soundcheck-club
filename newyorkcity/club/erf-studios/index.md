@@ -9,7 +9,7 @@ ErF Studios is a music venue in New York City listed on soundcheck. 3 upcoming g
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Dressed up like your Last Day, Dia De Muertos Immersive Experience & Party |  |
-| Thu, 12 Nov 2026 | SOLVENT | Friedberg, Leafy Greens, The Hefker Girl |
+| Thu, 12 Nov 2026 | SOLVENT | Friedberg, Leafy Greens, The Hefker Girl, Zach Davis |
 | Fri, 13 Nov 2026 | Mind Cargo 1st Anniversary Party | Alien D, Baroque Hoe, Carpet (F.L.H.P), Dj female, Gi Gi, Mr. Murray, Plushie, fleet.dreams |
 
 ## Address

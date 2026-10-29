@@ -13,7 +13,7 @@ Bar A Bar is a music venue in London listed on soundcheck. 6 upcoming gigs, with
 | Fri, 13 Nov 2026 | LAVA.LIQUID.LONDON Vol.004 - [HEADLINER RUEBEN] |  |
 | Sat, 14 Nov 2026 | ALEX AKAL - SOUNDS OF TRIBE - Electronic Tribal with Live Music + World Jam Session |  |
 | Fri, 20 Nov 2026 | Pulse Series 03 with Cristi Cons | Cristi Cons, ILIE (RO), Trofin |
-| Fri, 27 Nov 2026 | PARALLEL / Hard House, Speed Garage & 140 |  |
+| Fri, 27 Nov 2026 | Parallel / House, Speed Garage & 140 |  |
 
 ## Address
 

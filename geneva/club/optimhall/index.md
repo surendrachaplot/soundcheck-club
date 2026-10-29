@@ -1,0 +1,17 @@
+# Optimhall
+
+Optimhall is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "HALLOWEEN by Strange Tree" on Sat, 31 Oct 2026.
+
+Optimhall is a music venue in Geneva listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Chem. de la Gravière 4, 1227 Genève, Switzerla.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | HALLOWEEN by Strange Tree |  |
+
+## Address
+
+Chem. de la Gravière 4, 1227 Genève, Switzerla, Geneva
+
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/optimhall/)*

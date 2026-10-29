@@ -1,14 +1,15 @@
 # Semi Peppered
 
-Semi Peppered is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Carlton Club, Manchester on Sat, 31 Oct 2026.
+Semi Peppered is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Carlton Club, Manchester on Sat, 31 Oct 2026.
 
-Semi Peppered is a house and bass artist based in United Kingdom, with 31 gigs on soundcheck across Antwerp, Berlin, London and Manchester. Often billed alongside MLE (UK), Camilla Reghenzi and EJ Woodall. Next up: The Carlton Club, Manchester on Sat 31 Oct.
+Semi Peppered is a bass and house artist based in United Kingdom, with 32 gigs on soundcheck across Antwerp, Berlin, London and Manchester. Often billed alongside MLE (UK), Camilla Reghenzi and EJ Woodall. Next up: The Carlton Club, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Carlton Club | Manchester |
+| Fri, 27 Nov 2026 | The Yard | Manchester |
 
 ## Recently played
 

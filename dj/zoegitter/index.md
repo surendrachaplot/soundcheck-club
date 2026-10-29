@@ -1,13 +1,14 @@
 # Zoe Gitter
 
-Zoe Gitter is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Zoe Gitter is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Avalon Hollywood, Los Angeles on Thu, 29 Oct 2026.
 
-Zoe Gitter is a club and house artist based in United States of America, with 28 gigs on soundcheck across Arizona, Chicago, Ibiza and London and 6 more. Often billed alongside Alex Chapman, Ben Sterling and Mita Gami. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Zoe Gitter is a club and house artist based in United States of America, with 29 gigs on soundcheck across Arizona, Chicago, Ibiza and London and 6 more. Often billed alongside Alex Chapman, Ben Sterling and Mita Gami. Next up: Avalon Hollywood, Los Angeles on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Avalon Hollywood | Los Angeles |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
 

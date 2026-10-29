@@ -2,7 +2,7 @@
 
 Weyón is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
-Weyón is an experimental and idm artist, with 9 gigs on soundcheck across Adelaide, Brisbane, Melbourne and New South Wales and 1 more. Often billed alongside know.clu, Cristal No.5 and Marcus Whale. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
+Weyón is an experimental and idm artist based in Australia, with 9 gigs on soundcheck across Adelaide, Brisbane, Melbourne and New South Wales and 1 more. Often billed alongside know.clu, Cristal No.5 and Marcus Whale. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
 ## Upcoming shows
 

@@ -1,14 +1,13 @@
 # Exit Reality
 
-Exit Reality is a music venue in Singapore with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Exit Reality with Some Guy [PH]" on Thu, 29 Oct 2026.
+Exit Reality is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Exit Reality with Shane Naz & EJ Missy" on Fri, 30 Oct 2026.
 
-Exit Reality is a music venue in Singapore listed on soundcheck. 5 upcoming gigs, with line-ups including DEZ (SG), EJ, Sunju Hargun and VAIBS. See dates, start times and who's playing.
+Exit Reality is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with line-ups including DEZ (SG), EJ, Sunju Hargun and VAIBS. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Exit Reality with Some Guy [PH] |  |
 | Fri, 30 Oct 2026 | Exit Reality with Shane Naz & EJ Missy | EJ |
 | Sat, 31 Oct 2026 | Exit Reality with Dez | DEZ (SG) |
 | Sat, 7 Nov 2026 | House Party |  |

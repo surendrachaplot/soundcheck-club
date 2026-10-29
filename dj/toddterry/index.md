@@ -1,8 +1,8 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palm House, Liverpool on Fri, 30 Oct 2026.
+Todd Terry is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palm House, Liverpool on Fri, 30 Oct 2026.
 
-Todd Terry is a house and disco artist based in United States of America, with 156 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 31 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Palm House, Liverpool on Fri 30 Oct.
+Todd Terry is a house and disco artist based in United States of America, with 157 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 31 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Palm House, Liverpool on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Todd Terry is a house and disco artist based in United States of America, with 1
 | Fri, 30 Oct 2026 | Freeze HiFi | Liverpool |
 | Sat, 31 Oct 2026 | Freeze HiFi | Liverpool |
 | Fri, 20 Nov 2026 | The Jazz Cafe | London |
+| Sat, 28 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Bassement, Madrid on Fri, 30 Oct 2026.
+Wata Igarashi is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Bassement, Madrid on Fri, 30 Oct 2026.
 
-Wata Igarashi is a techno and house artist based in Japan, with 243 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 64 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: The Bassement, Madrid on Fri 30 Oct.
+Wata Igarashi is a techno and house artist based in Japan, with 244 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 64 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: The Bassement, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Wata Igarashi is a techno and house artist based in Japan, with 243 gigs on soun
 | Sat, 28 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Fri, 11 Dec 2026 | Unmute | Hanoi |
 | Fri, 18 Dec 2026 | Abercrombie Hotel | Sydney |
+| Wed, 27 Jan 2027 | TBA - Brooklyn | New York City |
 
 ## Recently played
 

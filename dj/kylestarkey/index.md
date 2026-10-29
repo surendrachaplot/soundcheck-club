@@ -1,8 +1,8 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Floyd, Miami on Sat, 31 Oct 2026.
+Kyle Starkey is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Floyd, Miami on Sat, 31 Oct 2026.
 
-Kyle Starkey is a techno and house artist based in United Kingdom, with 181 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 44 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Floyd, Miami on Sat 31 Oct.
+Kyle Starkey is a techno and house artist based in United Kingdom, with 183 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 46 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Floyd, Miami on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -15,10 +15,11 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 181 gigs
 | Sat, 14 Nov 2026 | Radius | Chicago |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Dec 2026 | M.O.T | London |
+| Fri, 11 Dec 2026 | Complex Maastricht | Netherlands |
+| Sat, 26 Dec 2026 | Holme Garden | New-south-wales |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
-| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 

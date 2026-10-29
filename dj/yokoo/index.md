@@ -1,13 +1,14 @@
 # YokoO
 
-YokoO is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Flash, Washington DC on Sat, 19 Dec 2026.
+YokoO is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at House of Yes, New York City on Fri, 30 Oct 2026.
 
-YokoO is a house and deep house artist based in France, with 110 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Baltimore and 24 more. Often billed alongside Matthew Dekay, Bobi Stevkovski and Kokeshi. Next up: Flash, Washington DC on Sat 19 Dec.
+YokoO is a house and deep house artist based in France, with 111 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Baltimore and 24 more. Often billed alongside Matthew Dekay, Bobi Stevkovski and Kokeshi. Next up: House of Yes, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | House of Yes | New York City |
 | Sat, 19 Dec 2026 | Flash | Washington DC |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 

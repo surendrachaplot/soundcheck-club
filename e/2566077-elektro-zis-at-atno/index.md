@@ -1,6 +1,6 @@
 # Elektroázis at Atno
 
-Elektroázis at Atno on Fri 6 Nov, Budapest. 5 artists: Galactic Jackson, Kvrk, LAU and Max Sinclair and 1 more. Electro and Acid. See the line-up on soundcheck.
+Elektroázis at Atno on Fri 6 Nov, Budapest. 6 artists: Atomik, Galactic Jackson, Kvrk and LAU and 2 more. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Elektroázis at Atno on Fri 6 Nov, Budapest. 5 artists: Galactic Jackson, Kvrk, 
 
 ## Line-up
 
+- Atomik
 - Galactic Jackson
 - Kvrk
 - LAU (6)

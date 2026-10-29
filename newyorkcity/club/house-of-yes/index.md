@@ -1,13 +1,14 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "House of Grooves: Eli Escobar All Night + Sissies of Mercy" on Fri, 6 Nov 2026.
+House of Yes is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Zombie Prom: Coffintexts, girl_irl, YokoO, Philou, Airwolf (BK) & Shelby Shocks" on Fri, 30 Oct 2026.
 
-House of Yes is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including BEARCAT, DJ Ultra Violet, Eelke Kleijn and Eli Escobar and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including BEARCAT, Coffintexts, DJ Ultra Violet and Eelke Kleijn and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Zombie Prom: Coffintexts, girl_irl, YokoO, Philou, Airwolf (BK) & Shelby Shocks | Coffintexts, Philou, Shelby Shocks, YokoO, girl_irl |
 | Fri, 6 Nov 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 | Sat, 7 Nov 2026 | Scorpio Stings: Junior Sanchez, Ultra Violet and DJ Guari | DJ Ultra Violet, Junior Sanchez |
 | Fri, 13 Nov 2026 | Inner Sin: Henrik Schwarz LiVE, Viken Arman and Kiyoshi | Henrik Schwarz, Kiyoshi, Viken Arman |

@@ -2,7 +2,7 @@
 
 Low Freq is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Blindspot*, Bucharest on Fri, 20 Nov 2026.
 
-Low Freq is a bass and dub artist, with 12 gigs on soundcheck across Bucharest. Often billed alongside Riddim Bandits, ANIN and Drao. Next up: Blindspot*, Bucharest on Fri 20 Nov.
+Low Freq is a bass and dub artist based in Romania, with 12 gigs on soundcheck across Bucharest. Often billed alongside Riddim Bandits, ANIN and Drao. Next up: Blindspot*, Bucharest on Fri 20 Nov.
 
 ## Upcoming shows
 

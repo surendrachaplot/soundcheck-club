@@ -1,13 +1,15 @@
 # Gop Tun DJs
 
-Gop Tun DJs is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Armazem Solon, Sao-paulo on Sat, 7 Nov 2026.
+Gop Tun DJs is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TRAUMA, Rio de Janeiro on Fri, 30 Oct 2026.
 
-Gop Tun DJs is a house and disco artist based in Brazil, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside Cashu, Giu Nunez and Millos Kaiser. Next up: Armazem Solon, Sao Paulo on Sat 7 Nov.
+Gop Tun DJs is a house and disco artist based in Brazil, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside Cashu, Giu Nunez and Millos Kaiser. Next up: TRAUMA, Rio de Janeiro on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | TRAUMA | Rio de Janeiro |
+| Sat, 31 Oct 2026 | Bar de Escuta | Rio de Janeiro |
 | Sat, 7 Nov 2026 | Armazem Solon | Sao-paulo |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Yanamaste is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Yanamaste is a techno and house artist based in Georgia, with 269 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 77 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Factory Town, Miami on Fri 30 Oct.
+Yanamaste is a techno and house artist based in Georgia, with 271 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 77 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Yanamaste is a techno and house artist based in Georgia, with 269 gigs on soundc
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sun, 6 Dec 2026 | The Bassement | Madrid |
-| Sat, 26 Dec 2026 | KREUZWERK | Berlin |
+| Fri, 25 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played
 

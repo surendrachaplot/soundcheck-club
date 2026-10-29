@@ -9,7 +9,7 @@ Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Ontai Media Showcase | AOKI takamasa, DAIY, Itou, Jellyf!sh |
-| Fri, 18 Dec 2026 | GEEK BAR presents 「C.S.C.S.」Vol.2 | Albino Sound, Nehan, P-YAN, Rio Kawamoto |
+| Fri, 18 Dec 2026 | GEEK BAR presents 「C.S.C.S.」Vol.2 | Albino Sound, P-YAN, Rio Kawamoto, Takashi Himeoka |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # Headline Flip at Pumpehuset
 
-Headline Flip at Pumpehuset on Thu 5 Nov, Copenhagen. 1 artist: MASIV. See the line-up on soundcheck.
+Headline Flip at Pumpehuset on Thu 5 Nov, Copenhagen. 2 artists: Den Sorte Skole and MASIV. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Headline Flip at Pumpehuset on Thu 5 Nov, Copenhagen. 1 artist: MASIV. See the l
 
 ## Line-up
 
+- Den Sorte Skole
 - MASIV
 
 *Source: [soundcheck](https://soundcheck.club/e/2543967-headline-flip-at-pumpehuset/)*

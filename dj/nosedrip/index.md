@@ -1,14 +1,13 @@
 # Nosedrip
 
-Nosedrip is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bongo Joe, Geneva on Thu, 29 Oct 2026.
+Nosedrip is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
 
-Nosedrip is a techno and house artist based in Belgium, with 141 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 41 more. Often billed alongside OKO DJ, Amelia Holt and Vlada. Next up: Bongo Joe, Geneva on Thu 29 Oct.
+Nosedrip is a techno and house artist based in Belgium, with 141 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 41 more. Often billed alongside OKO DJ, Amelia Holt and Vlada. Next up: The White Hotel, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Bongo Joe | Geneva |
 | Sat, 7 Nov 2026 | The White Hotel | Manchester |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 21 Nov 2026 | UMI | Brussels |

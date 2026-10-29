@@ -13,7 +13,7 @@ Magda is a techno and house artist based in United States of America, with 183 g
 | Fri, 13 Nov 2026 | D-Edge RIO | Rio de Janeiro |
 | Sat, 14 Nov 2026 | Fabriketa | Sao Paulo |
 | Thu, 19 Nov 2026 | Club Vibe | Brazil |
-| Fri, 4 Dec 2026 | Kauz | Zurich |
+| Fri, 11 Dec 2026 | Kauz | Zurich |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played

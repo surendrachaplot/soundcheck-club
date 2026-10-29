@@ -1,13 +1,14 @@
 # Sô Lyma
 
-Sô Lyma is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 30 Oct 2026.
+Sô Lyma is a House and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar de Escuta, Rio de Janeiro on Thu, 29 Oct 2026.
 
-Sô Lyma is a house and hip-hop artist, with 21 gigs on soundcheck across Rio De Janeiro, Rio de Janeiro and Sao Paulo. Often billed alongside Antes E Depois, Bernardo Campos and Bia Marques. Next up: D-Edge RIO, Rio de Janeiro on Fri 30 Oct.
+Sô Lyma is a house and hip-hop artist, with 22 gigs on soundcheck across Rio De Janeiro, Rio de Janeiro and Sao Paulo. Often billed alongside Antes E Depois, Bernardo Campos and Bia Marques. Next up: Bar de Escuta, Rio de Janeiro on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Bar de Escuta | Rio de Janeiro |
 | Fri, 30 Oct 2026 | D-Edge RIO | Rio de Janeiro |
 | Fri, 20 Nov 2026 | TBA | Rio-de-janeiro |
 

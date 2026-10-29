@@ -1,8 +1,8 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location, Atlanta on Fri, 30 Oct 2026.
+DJ SEXSTASY is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location, Atlanta on Fri, 30 Oct 2026.
 
-DJ SEXSTASY is a techno and trance artist based in Brazil, with 48 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Budapest and 17 more. Often billed alongside Rishka, Towicz and Cara Elizabeth. Next up: TBA - Secret Location, Atlanta on Fri 30 Oct.
+DJ SEXSTASY is a techno and trance artist based in Brazil, with 49 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Budapest and 18 more. Often billed alongside Rishka, Towicz and Cara Elizabeth. Next up: TBA - Secret Location, Atlanta on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 48 gigs on sound
 | Fri, 30 Oct 2026 | TBA - Secret Location | Atlanta |
 | Sat, 31 Oct 2026 | 888 Garage | San Francisco/Oakland |
 | Fri, 6 Nov 2026 | TBA | Los Angeles |
+| Sat, 14 Nov 2026 | Sainte-Catherine Hall | Montreal |
 | Sat, 21 Nov 2026 | MAD Club Live | Miami |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 

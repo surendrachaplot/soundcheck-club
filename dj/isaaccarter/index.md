@@ -1,8 +1,8 @@
 # Isaac Carter
 
-Isaac Carter is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Millenium Club, Bologna on Wed, 28 Oct 2026.
+Isaac Carter is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Millenium Club, Bologna on Wed, 28 Oct 2026.
 
-Isaac Carter is a house and deep house artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 27 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Millenium Club, Bologna on Wed 28 Oct.
+Isaac Carter is a house and deep house artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Millenium Club, Bologna on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Isaac Carter is a house and deep house artist based in United Kingdom, with 100 
 | Thu, 29 Oct 2026 | The Loft | Manchester |
 | Sun, 1 Nov 2026 | Chelmsford City Racecourse | London |
 | Sat, 21 Nov 2026 | Vittoria Wharf Studio | London |
+| Fri, 27 Nov 2026 | Lux Fragil | Lisbon |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sat, 19 Dec 2026 | Les Enfants Brillants | Barcelona |
 

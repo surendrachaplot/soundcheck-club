@@ -1,8 +1,8 @@
 # Kop-Z
 
-Kop-Z is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The White Hotel, Manchester on Fri, 30 Oct 2026.
+Kop-Z is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The White Hotel, Manchester on Fri, 30 Oct 2026.
 
-Kop-Z is an experimental and techno artist based in United Kingdom, with 58 gigs on soundcheck across Berlin, Bristol, Liverpool and Manchester and 1 more. Often billed alongside Flames Disperse, TOOT and Cersy. Next up: The White Hotel, Manchester on Fri 30 Oct.
+Kop-Z is an experimental and techno artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Bristol, Liverpool and Manchester and 2 more. Often billed alongside Flames Disperse, TOOT and Cersy. Next up: The White Hotel, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kop-Z is an experimental and techno artist based in United Kingdom, with 58 gigs
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | The White Hotel | Manchester |
 | Sun, 15 Nov 2026 | The White Hotel | Manchester |
+| Sat, 28 Nov 2026 | Circolo Amelia | Milan |
 
 ## Recently played
 

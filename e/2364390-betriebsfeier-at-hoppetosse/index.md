@@ -1,6 +1,6 @@
 # Betriebsfeier at Hoppetosse
 
-Betriebsfeier at Hoppetosse on Fri 27 Nov, Berlin. 11 artists: 3RDV, Adolpho & Franky, Bonnie Ford and Coco and 7 more. Techno and House. See the line-up on soundcheck.
+Betriebsfeier at Hoppetosse on Fri 27 Nov, Berlin. 13 artists: 3RDV, Adolpho & Franky, Bonnie Ford and Coco and 9 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,8 @@ Betriebsfeier at Hoppetosse on Fri 27 Nov, Berlin. 11 artists: 3RDV, Adolpho & F
 - Josephine Wedekind
 - Ray Okpara
 - Sonnensysteme
+- Stan Starry
+- Thomas Koob
 - Tobi Neumann
 
 *Source: [soundcheck](https://soundcheck.club/e/2364390-betriebsfeier-at-hoppetosse/)*

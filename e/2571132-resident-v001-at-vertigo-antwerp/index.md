@@ -1,6 +1,6 @@
 # RESIDENT_V001 at Vertigo Antwerp
 
-RESIDENT_V001 at Vertigo Antwerp on Sat 14 Nov, Antwerp. 2 artists: Denn Punk and STATICBXBY. Techno and House. See the line-up on soundcheck.
+RESIDENT_V001 at Vertigo Antwerp on Sat 14 Nov, Antwerp. 3 artists: Denn Punk, Roland Kemper and STATICBXBY. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ RESIDENT_V001 at Vertigo Antwerp on Sat 14 Nov, Antwerp. 2 artists: Denn Punk an
 ## Line-up
 
 - Denn Punk
+- Roland Kemper
 - STATICBXBY
 
 *Source: [soundcheck](https://soundcheck.club/e/2571132-resident-v001-at-vertigo-antwerp/)*

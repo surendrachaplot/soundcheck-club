@@ -1,13 +1,14 @@
 # Sindicato Del Baile
 
-Sindicato Del Baile is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sun, 6 Dec 2026.
+Sindicato Del Baile is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kristal Club, Bucharest on Fri, 13 Nov 2026.
 
-Sindicato Del Baile is a house and electronica artist based in Spain, with 40 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid and 7 more. Often billed alongside Seth Troxler, Alex (ES) and Ion Pananides. Next up: Les Enfants Brillants, Barcelona on Sun 6 Dec.
+Sindicato Del Baile is a house and electronica artist based in Spain, with 41 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 8 more. Often billed alongside Seth Troxler, Alex (ES) and Ion Pananides. Next up: Kristal Club, Bucharest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Kristal Club | Bucharest |
 | Sun, 6 Dec 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played

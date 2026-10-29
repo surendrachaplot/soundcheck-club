@@ -13,7 +13,7 @@ Z@p is a techno and house artist based in Uruguay, with 139 gigs on soundcheck a
 | Fri, 13 Nov 2026 | Cadavra | Madrid |
 | Sat, 21 Nov 2026 | FOLD | London |
 | Sat, 28 Nov 2026 | Les Enfants Brillants | Barcelona |
-| Fri, 4 Dec 2026 | Kauz | Zurich |
+| Fri, 11 Dec 2026 | Kauz | Zurich |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

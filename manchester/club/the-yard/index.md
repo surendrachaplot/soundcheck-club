@@ -10,7 +10,7 @@ The Yard is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, w
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | OBSCURUM ( Halloween X Thadingyut ) | 13Ø4, Egui, Freshta, Jumbled, KOSO, Obeka, Qoqnut, Third Kulture, krioso |
 | Sat, 7 Nov 2026 | Five years of Pambuku - Onur Özer, Vass, P.O (live)  | Alex Q (3), Cruveiller, Onur Özer, P.O (1), Vass |
-| Fri, 27 Nov 2026 | Partisan 10th Birthday |  |
+| Fri, 27 Nov 2026 | Partisan 10th Birthday | Clemency, Kusasa, Semi Peppered, Zuri, d. clemente, fig (4) |
 | Sat, 28 Nov 2026 | Sticky Heat with Adam Freeland | Adam Freeland, Chris Massey, Muddy Feet |
 
 ## Address

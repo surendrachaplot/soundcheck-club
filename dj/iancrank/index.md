@@ -2,7 +2,7 @@
 
 Ian Crank is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Favela, Münster on Sat, 21 Nov 2026.
 
-Ian Crank is a techno and trance artist, with 26 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 2 more. Often billed alongside Bolster, Just a Name and Fr.Reichert. Next up: Club Favela, Münster on Sat 21 Nov.
+Ian Crank is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 2 more. Often billed alongside Bolster, Just a Name and Fr.Reichert. Next up: Club Favela, Münster on Sat 21 Nov.
 
 ## Upcoming shows
 

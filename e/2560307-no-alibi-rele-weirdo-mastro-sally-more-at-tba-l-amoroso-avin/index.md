@@ -1,11 +1,11 @@
-# NO ALIBI: Rele, Weirdo, Mastro Sally & more at TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423
+# NO ALIBI: Rele, Weirdo, Mastro Sally & more at TBA - L'AMOROSO - AVINGUDA DIAGONAL 423
 
-NO ALIBI: Rele, Weirdo, Mastro Sally & more at TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423 on Fri 30 Oct, Barcelona. 4 artists: Garçon De Rue, MassiF, Mastro Sally and Rele. Tech House and Electronica. See the line-up on soundcheck.
+NO ALIBI: Rele, Weirdo, Mastro Sally & more at TBA - L'AMOROSO - AVINGUDA DIAGONAL 423 on Fri 30 Oct, Barcelona. 4 artists: Garçon De Rue, MassiF, Mastro Sally and Rele. Tech House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 30 Oct 2026 |
-| Venue | TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423 |
+| Venue | TBA - L'AMOROSO - AVINGUDA DIAGONAL 423 |
 | City | Barcelona |
 
 ## Line-up

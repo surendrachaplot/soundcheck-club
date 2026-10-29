@@ -1,13 +1,14 @@
 # Hope 808
 
-Hope 808 is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 2 Nov 2026.
+Hope 808 is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Animal, New York City on Sat, 31 Oct 2026.
 
-Hope 808 is a house and disco artist based in United States of America, with 25 gigs on soundcheck across New York City. Often billed alongside Aleska, James Juke and La Vega. Next up: Bossa Nova Civic Club, New York City on Mon 2 Nov.
+Hope 808 is a house and disco artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside Aleska, James Juke and La Vega. Next up: Animal, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Animal | New York City |
 | Mon, 2 Nov 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played

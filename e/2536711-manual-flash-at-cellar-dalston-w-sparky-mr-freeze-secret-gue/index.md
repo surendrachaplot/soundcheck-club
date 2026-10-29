@@ -1,6 +1,6 @@
 # Manual Flash at Cellar Dalston w/ Sparky, Mr. Freeze & Secret Guests at Cellar
 
-Manual Flash at Cellar Dalston w/ Sparky, Mr. Freeze & Secret Guests on Sat 7 Nov, London. 2 artists: Mr. Freeze and Sparky (AU). House. See the line-up on soundcheck.
+Manual Flash at Cellar Dalston w/ Sparky, Mr. Freeze & Secret Guests on Sat 7 Nov, London. 2 artists: Mr. Freeze and Sparky (AU). House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

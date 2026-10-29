@@ -1,8 +1,8 @@
 # kengotaki
 
-kengotaki is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at WOMB, Tokyo on Sat, 31 Oct 2026.
+kengotaki is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at WOMB, Tokyo on Sat, 31 Oct 2026.
 
-kengotaki is a house and techno artist based in Japan, with 176 gigs on soundcheck across Osaka, Sydney and Tokyo. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: WOMB, Tokyo on Sat 31 Oct.
+kengotaki is a house and techno artist based in Japan, with 179 gigs on soundcheck across Kyushu, Okinawa, Osaka and Sydney and 1 more. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: WOMB, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,9 @@ kengotaki is a house and techno artist based in Japan, with 176 gigs on soundche
 | Sat, 31 Oct 2026 | WOMB | Tokyo |
 | Sat, 31 Oct 2026 | Enter Shibuya | Tokyo |
 | Mon, 2 Nov 2026 | Saloon | Tokyo |
+| Thu, 5 Nov 2026 | Little Rockers | Okinawa |
+| Sat, 7 Nov 2026 | Circus Osaka | Osaka |
+| Fri, 20 Nov 2026 | Kieth Flack | Kyushu |
 | Thu, 3 Dec 2026 | Circus Osaka | Osaka |
 | Thu, 3 Dec 2026 | Circus Osaka | Osaka |
 

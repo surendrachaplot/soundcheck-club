@@ -9,7 +9,7 @@ TBA - TBA  is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Guest Giuliano Porcelli su X-Centri1c | Giuliano Porcelli |
-| Fri, 13 Nov 2026 | UFeel Brooklyn Late Nighter with Secret Special Guest | Akin (NYC), O.BEE, Zayd, Úrsula |
+| Fri, 13 Nov 2026 | UFeel Brooklyn Late Nighter with O.BEE | Akin (NYC), O.BEE, Zayd, Úrsula |
 | Fri, 27 Nov 2026 | Guest Giuliano Porcelli su X-Centri1c | Giuliano Porcelli |
 | Fri, 27 Nov 2026 | Time Flies presents Vera, Dana Kuehr, Super Venus | Blason, Dana Kuehr, Ethan., Patrick Rowe, Super Venus, Vera |
 | Sun, 29 Nov 2026 | INFINITY FM _ presenta Giuliano Porcelli | Giuliano Porcelli |

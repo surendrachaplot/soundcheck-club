@@ -1,8 +1,8 @@
 # KI/KI
 
-KI/KI is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+KI/KI is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-KI/KI is a techno and house artist based in Netherlands, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 80 more. Often billed alongside DJ Gigola, Anetha and SPFDJ. Next up: Tinker Field, Orlando on Fri 6 Nov.
+KI/KI is a techno and house artist based in Netherlands, with 236 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 80 more. Often billed alongside DJ Gigola, Anetha and SPFDJ. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ KI/KI is a techno and house artist based in Netherlands, with 235 gigs on soundc
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
+| Sun, 15 Nov 2026 | The Concourse Project | Austin |
 | Sat, 21 Nov 2026 | Magazine London | London |
 | Sat, 28 Nov 2026 | Gare Maritime | Brussels |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
@@ -19,7 +20,6 @@ KI/KI is a techno and house artist based in Netherlands, with 235 gigs on soundc
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
-| Sat, 9 Jan 2027 | Carriageworks | Sydney |
 
 ## Recently played
 

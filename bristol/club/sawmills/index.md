@@ -8,7 +8,7 @@ Sawmills is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Sawmills Halloween | Berwick (Live), Egyptian Lover, Gene On Earth, JPEG (3), Mollie Rush, Radioactive Man, SILQ, Saoirse, youyou |
+| Sat, 31 Oct 2026 | Sawmills Halloween | Berwick (Live), Egyptian Lover, Gene On Earth, JPEG (3), Mollie Rush, Radioactive Man, SILQ, Saoirse, muzhit, youyou |
 | Sat, 7 Nov 2026 | Honey Dijon | Bekefi, Dani Whylie, Honey Dijon, Joshua James (UK), Lolli |
 | Sat, 14 Nov 2026 | En Masse x Sawmills: Helena Hauff b2b Batu, Barker (live), i-sha + more | Barker, Batu, Helena Hauff, Verraco, i-sha |
 | Sat, 21 Nov 2026 | Lights Out with Mandidextrous |  |

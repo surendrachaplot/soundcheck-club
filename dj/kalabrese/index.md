@@ -9,7 +9,7 @@ Kalabrese is a house and electronica artist based in Switzerland, with 124 gigs 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Golden Lion | Manchester |
-| Fri, 4 Dec 2026 | Kauz | Zurich |
+| Fri, 11 Dec 2026 | Kauz | Zurich |
 
 ## Recently played
 

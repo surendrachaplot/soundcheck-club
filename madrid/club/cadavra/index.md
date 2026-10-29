@@ -12,7 +12,7 @@ Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with 
 | Fri, 30 Oct 2026 | Phonotheque Showcase with Christian Bonanata, Oriana, J.C., Ces-Q, Aaliaga | Ces-Q, J.C., Oriana |
 | Sat, 31 Oct 2026 | Halloween: 10 YEARS OF ORCHID with Loa Szala & Luna Ludmila | BOTHER, Loa Szala, Luna Ludmila, Martin Balladares, Nurias |
 | Thu, 5 Nov 2026 | ANFANG FAM DAY | Mario Blur, MÄEM |
-| Fri, 6 Nov 2026 | CDVR with Camion Bazar (hybrid live set) | Camion Bazar, ESSTI, Iria, Luska, Sonder (1) |
+| Fri, 6 Nov 2026 | CDVR with Camion Bazar (hybrid set) | Camion Bazar, ESSTI, Iria, Luska, Sonder (1) |
 | Sat, 7 Nov 2026 | CDVR with Anna Wall | Anna Wall, Conio, KISKI, Marina Antih, Nurias |
 | Thu, 12 Nov 2026 | Mareena, Charlton & Unkle Fon at ANFANG | Charlton, Mareena, Unkle Fon |
 | Fri, 13 Nov 2026 | LA MOVIDA RADIOACTIVA / 2 YEARS | EMIR-B, Xorpel, Z@p |

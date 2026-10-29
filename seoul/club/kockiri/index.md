@@ -1,18 +1,18 @@
 # Kockiri
 
-Kockiri is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "KOCKIRI" on Sat, 24 Oct 2026.
+Kockiri is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "KOCKIRI" on Fri, 30 Oct 2026.
 
-Kockiri is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including Bolm, Hender and Hogi. See dates, start times and who's playing. 46, Usadan-ro, Yongsan-gu, Seoul, 04405, Republic of Korea.
+Kockiri is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including range vak, Sucowania and Youknowsong. See dates, start times and who's playing. 46, Usadan-ro, Yongsan-gu, Seoul, 04405, Republic of Korea.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | KOCKIRI | Bolm |
-| Sun, 25 Oct 2026 | Papaya Allnight | Hender, Hogi |
+| Fri, 30 Oct 2026 | KOCKIRI | Sucowania, range vak |
+| Sat, 31 Oct 2026 | KOCKIRI | Youknowsong |
 
 ## Address
 
 46, Usadan-ro, Yongsan-gu, Seoul, 04405, Republic of Korea, Seoul
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/kockiri/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/kockiri/)*

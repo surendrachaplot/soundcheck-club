@@ -1,6 +1,6 @@
 # BLIND_7 at TBA - 1 INGRAHAM ST
 
-BLIND_7 at TBA - 1 INGRAHAM ST on Sat 21 Nov, New York City. 6 artists: COVE(US), DREAMINSLOW, Friedberg and Kim Anh and 2 more. Techno and Experimental. See the line-up on soundcheck.
+BLIND_7 at TBA - 1 INGRAHAM ST on Sat 21 Nov, New York City. 7 artists: COVE(US), DREAMINSLOW, Friedberg and Kim Anh and 3 more. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ BLIND_7 at TBA - 1 INGRAHAM ST on Sat 21 Nov, New York City. 6 artists: COVE(US)
 - Kim Anh
 - Lauren Flax
 - Megan Rosengarten
+- Zach Davis
 
 *Source: [soundcheck](https://soundcheck.club/e/2569322-blind-7-at-tba-1-ingraham-st/)*

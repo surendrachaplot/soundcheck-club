@@ -1,6 +1,6 @@
 # SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori at Public Works
 
-SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori at Public Works on Fri 30 Oct, San Francisco/Oakland. 9 artists: Alkemiss Erika, ALMAS, ENJII and Nay Jay and 5 more. House and Deep House. See the line-up on soundcheck.
+SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori at Public Works on Fri 30 Oct, San Francisco/Oakland. 10 artists: Alkemiss Erika, ALMAS, ENJII and Nay Jay and 6 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori at 
 - ENJII
 - Nay Jay
 - Pixxie
+- Reza Tabrizi
 - Roy Rosenfeld
 - Satori
 - Sebastien Leger

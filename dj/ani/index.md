@@ -1,8 +1,8 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
+A.N.I. is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
-A.N.I. is a techno and trance artist based in Germany, with 222 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 49 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
+A.N.I. is a techno and trance artist based in Germany, with 223 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 50 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ A.N.I. is a techno and trance artist based in Germany, with 222 gigs on soundche
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 11 Dec 2026 | TBA | Bremen |
 | Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
+| Sat, 19 Dec 2026 | Audiodrome | Turin |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
-| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 

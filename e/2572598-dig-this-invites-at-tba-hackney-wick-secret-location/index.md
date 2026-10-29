@@ -10,7 +10,7 @@ Dig This Invites at TBA - Hackney Wick - Secret Location on Fri 27 Nov, London. 
 
 ## Line-up
 
-- Brennan
+- Brennan (2)
 - Dig This
 - Michael Wagner
 - Toby (UK)

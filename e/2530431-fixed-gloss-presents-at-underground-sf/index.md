@@ -1,6 +1,6 @@
 # FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬 at Underground SF
 
-FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬 at Underground SF on Fri 30 Oct, San Francisco/Oakland. 1 artist: ALICE STRIBLING. Electro and Electronica. See the line-up on soundcheck.
+FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬 at Underground SF on Fri 30 Oct, San Francisco/Oakland. 2 artists: ALICE STRIBLING and Charles Hawthorne. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 �
 ## Line-up
 
 - ALICE STRIBLING
+- Charles Hawthorne
 
 *Source: [soundcheck](https://soundcheck.club/e/2530431-fixed-gloss-presents-at-underground-sf/)*

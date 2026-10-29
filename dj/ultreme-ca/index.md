@@ -1,14 +1,15 @@
 # Ultreme
 
-Ultreme is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Grenade Bar, Montreal on Sat, 7 Nov 2026.
+Ultreme is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Grenade Bar, Montreal on Sat, 7 Nov 2026.
 
-Ultreme is a house and funk / soul artist based in Canada, with 9 gigs on soundcheck across Montreal. Often billed alongside ultreme, Andie and BisouBizou. Next up: Grenade Bar, Montreal on Sat 7 Nov.
+Ultreme is a house and funk / soul artist based in Canada, with 10 gigs on soundcheck across Montreal. Often billed alongside ultreme, Andie and BisouBizou. Next up: Grenade Bar, Montreal on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Grenade Bar | Montreal |
+| Sat, 28 Nov 2026 | Vino Disco | Montreal |
 
 ## Recently played
 

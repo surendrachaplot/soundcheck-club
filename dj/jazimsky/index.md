@@ -1,8 +1,8 @@
 # JAZ IMSKY
 
-JAZ IMSKY is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hidden, Manchester on Fri, 30 Oct 2026.
+JAZ IMSKY is a Dubstep and Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hidden, Manchester on Fri, 30 Oct 2026.
 
-JAZ IMSKY is a dubstep and bass artist based in United Kingdom, with 34 gigs on soundcheck across Barcelona, Brighton, Bristol and Gothenburg and 7 more. Often billed alongside SKALAH (UK), Sir Spyro and Flava D. Next up: Hidden, Manchester on Fri 30 Oct.
+JAZ IMSKY is a dubstep and bass artist based in United Kingdom, with 35 gigs on soundcheck across Barcelona, Brighton, Bristol and Gothenburg and 8 more. Often billed alongside SKALAH (UK), Sir Spyro and Flava D. Next up: Hidden, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ JAZ IMSKY is a dubstep and bass artist based in United Kingdom, with 34 gigs on 
 | Fri, 30 Oct 2026 | Hidden | Manchester |
 | Fri, 30 Oct 2026 | Dryad Works | Sheffield |
 | Sat, 31 Oct 2026 | Dryad Works | Sheffield |
+| Sat, 31 Oct 2026 | Beaver Works | Leeds |
 | Fri, 6 Nov 2026 | Disco Zwei | Mannheim |
 | Sat, 21 Nov 2026 | Outernet Live | London |
 | Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |

@@ -10,7 +10,7 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | SWEDM - The Great Northern |  |
 | Fri, 30 Oct 2026 | SQUISH: HALLOWEEN → Avalon Emerson + Sedef Adasï | Avalon Emerson, BEYA, Mez Monty, Papa Xanny, Sedef Adasï, Sholim Eso |
-| Sat, 31 Oct 2026 | The Boo-Over SF |  |
+| Sat, 31 Oct 2026 | The Boo-Over SF | CALDEE, DJ Puffy, Dj Sliink, Full Crate |
 | Fri, 6 Nov 2026 | Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Special Guest | EQ (Estratosfera + Qiri), Parallel Play |
 | Fri, 13 Nov 2026 | Maceo Plex - The Great Northern | Maceo Plex |
 | Sat, 28 Nov 2026 | Polyglamorous x SQUISH: Sides featuring HAAi | BEYA, Beverly Chills, HAAi, Just Another Bitch, Mark O'Brien, Papa Xanny, likeholywine, nonsuit |

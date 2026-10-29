@@ -1,14 +1,13 @@
 # Nathan Fake
 
-Nathan Fake is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The White Hotel, Manchester on Thu, 29 Oct 2026.
+Nathan Fake is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Faith in Strangers, South-east on Sat, 31 Oct 2026.
 
-Nathan Fake is a techno and electro artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Berlin, Bristol and French West Indies and 9 more. Often billed alongside Gold Panda, Alex Wilcox and Arsenal Mikebe. Next up: The White Hotel, Manchester on Thu 29 Oct.
+Nathan Fake is a techno and electro artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Berlin, Bristol and French West Indies and 9 more. Often billed alongside Gold Panda, Alex Wilcox and Arsenal Mikebe. Next up: Faith in Strangers, South East on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | The White Hotel | Manchester |
 | Sat, 31 Oct 2026 | Faith in Strangers | South-east |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 | Fri, 11 Dec 2026 | Petit CAB | Marseille |

@@ -1,6 +1,6 @@
 # Halte at Système
 
-Halte at Système on Fri 13 Nov, Montreal. 4 artists: Ficilio, Groceries, J.Rom and Kiju. See the line-up on soundcheck.
+Halte at Système on Fri 13 Nov, Montreal. 3 artists: Ficilio, Groceries and Kiju. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Halte at Système on Fri 13 Nov, Montreal. 4 artists: Ficilio, Groceries, J.Rom 
 
 - Ficilio
 - Groceries
-- J.Rom
 - Kiju
 
 *Source: [soundcheck](https://soundcheck.club/e/2563780-halte-at-syst-me/)*

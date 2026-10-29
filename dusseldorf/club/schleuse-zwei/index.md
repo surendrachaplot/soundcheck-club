@@ -1,14 +1,13 @@
 # Schleuse Zwei
 
-Schleuse Zwei is a music venue in Düsseldorf with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Keshavara – live" on Thu, 29 Oct 2026.
+Schleuse Zwei is a music venue in Düsseldorf with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Discovery Zone – live" on Thu, 5 Nov 2026.
 
-Schleuse Zwei is a music venue in Düsseldorf listed on soundcheck. 4 upcoming gigs, with line-ups including Bufiman and Keshavara. See dates, start times and who's playing. Aachener Str. 39, 40223 Düsseldorf, Germany.
+Schleuse Zwei is a music venue in Düsseldorf listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Aachener Str. 39, 40223 Düsseldorf, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Keshavara – live | Bufiman, Keshavara |
 | Thu, 5 Nov 2026 | Discovery Zone – live |  |
 | Wed, 9 Dec 2026 | Space Elephant |  |
 | Wed, 16 Dec 2026 | Lucy Liebe & Gianni Brezzo |  |

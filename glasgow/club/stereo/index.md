@@ -11,7 +11,7 @@ Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with 
 | Thu, 29 Oct 2026 | CTR: House & Garage with LOOSE E |  |
 | Fri, 30 Oct 2026 | Subcity Radio: Midnight Zone | holographic |
 | Sat, 31 Oct 2026 | Scandalween: Cosha | Babyjaii, Rahul.mp3 |
-| Thu, 5 Nov 2026 | GTE GAFF 3: 1 YEAR ANNIVERSARY | ACHIRĀ, leahgte |
+| Thu, 5 Nov 2026 | GTE GAFF 3: 1 YEAR ANNIVERSARY | ACHIRĀ, leahgte, shaiwarrior |
 | Fri, 6 Nov 2026 | Ghouls Club | Creep-P |
 | Fri, 6 Nov 2026 | Libra Esterlina x Stereo: JASSS & Josey Rebelle | Acido Cielo, JASSS, Josey Rebelle, Libra Esterlina |
 | Sat, 7 Nov 2026 | SKIVE: Powered by 527 Soundsystem | Loose E, Patrick McCotter |

@@ -1,14 +1,15 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 30 Oct 2026.
+PAURRO is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-PAURRO is a house and techno artist based in Mexico, with 199 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 40 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 30 Oct.
+PAURRO is a house and techno artist based in Mexico, with 200 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 40 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Sat, 31 Oct 2026 | TBA | Los Angeles |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 
 ## Recently played

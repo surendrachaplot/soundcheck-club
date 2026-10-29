@@ -1,14 +1,15 @@
 # Natalia Roth
 
-Natalia Roth is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Music Yard, Charlotte on Fri, 13 Nov 2026.
+Natalia Roth is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Music Yard, Charlotte on Fri, 13 Nov 2026.
 
-Natalia Roth is a house and tech house artist based in Puerto Rico, with 151 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bogotá and 22 more. Often billed alongside Danyelino, Ms. Mada and Jamie Jones. Next up: The Music Yard, Charlotte on Fri 13 Nov.
+Natalia Roth is a house and tech house artist based in Puerto Rico, with 152 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bogotá and 22 more. Often billed alongside Danyelino, Ms. Mada and Jamie Jones. Next up: The Music Yard, Charlotte on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Music Yard | Charlotte |
+| Fri, 20 Nov 2026 | Prysm Nightclub | Chicago |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Fri, 4 Dec 2026 | Floyd | Miami |
 

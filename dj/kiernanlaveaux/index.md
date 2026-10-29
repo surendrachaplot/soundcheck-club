@@ -1,13 +1,14 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 1 Nov 2026.
+Kiernan Laveaux is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Compound, Baltimore on Fri, 30 Oct 2026.
 
-Kiernan Laveaux is a techno and house artist based in United States of America, with 172 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 30 more. Often billed alongside ADAB, Malzof and CCL. Next up: Bossa Nova Civic Club, New York City on Sun 1 Nov.
+Kiernan Laveaux is a techno and house artist based in United States of America, with 173 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 30 more. Often billed alongside ADAB, Malzof and CCL. Next up: The Compound, Baltimore on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | The Compound | Baltimore |
 | Sun, 1 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |

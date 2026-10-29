@@ -1,14 +1,15 @@
 # Alina (MTL)
 
-Alina (MTL) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - down by the water, Montreal on Sat, 31 Oct 2026.
+Alina (MTL) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - down by the water, Montreal on Sat, 31 Oct 2026.
 
-Alina (MTL) is a house and disco artist based in Canada, with 83 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 4 more. Often billed alongside Guthrie, Ferias and Lia Plutonic. Next up: TBA - down by the water, Montreal on Sat 31 Oct.
+Alina (MTL) is a house and disco artist based in Canada, with 84 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 4 more. Often billed alongside Guthrie, Ferias and Lexis (Music Is My Sanctuary). Next up: TBA - down by the water, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - down by the water | Montreal |
+| Fri, 20 Nov 2026 | Centre PHI | Montreal |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Alina (MTL) is a house and disco artist based in Canada, with 83 gigs on soundch
 
 ## Shares bills with
 
-Guthrie, Ferias, Lia Plutonic
+Guthrie, Ferias, Lexis (Music Is My Sanctuary)
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alina-mtl/)*

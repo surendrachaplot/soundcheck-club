@@ -1,6 +1,6 @@
 # BASTET PRESENTS: Regal 86 at Bastet
 
-BASTET PRESENTS: Regal 86 at Bastet on Fri 6 Nov, Philadelphia. 1 artist: Regal86. Techno and Hip-Hop. See the line-up on soundcheck.
+BASTET PRESENTS: Regal 86 at Bastet on Fri 6 Nov, Philadelphia. 4 artists: Cubby, DJ Sylo, Nine of Wands and Regal86. Techno and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ BASTET PRESENTS: Regal 86 at Bastet on Fri 6 Nov, Philadelphia. 1 artist: Regal8
 
 ## Line-up
 
+- Cubby
+- DJ Sylo
+- Nine of Wands
 - Regal86
 
 *Source: [soundcheck](https://soundcheck.club/e/2564192-bastet-presents-regal-86-at-bastet/)*

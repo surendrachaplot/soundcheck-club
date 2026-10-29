@@ -1,14 +1,13 @@
 # Robert James Perkins
 
-Robert James Perkins is a Afro House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at RIVA Bar Munich, Munich on Thu, 29 Oct 2026.
+Robert James Perkins is a Afro House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at RIVA Bar Munich, Munich on Thu, 5 Nov 2026.
 
-Robert James Perkins is an afro house and deep house artist based in Germany, with 47 gigs on soundcheck across Munich. Next up: RIVA Bar Munich, Munich on Thu 29 Oct.
+Robert James Perkins is an afro house and deep house artist based in Germany, with 47 gigs on soundcheck across Munich. Next up: RIVA Bar Munich, Munich on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | RIVA Bar Munich | Munich |
 | Thu, 5 Nov 2026 | RIVA Bar Munich | Munich |
 | Thu, 12 Nov 2026 | RIVA Bar Munich | Munich |
 | Thu, 19 Nov 2026 | RIVA Bar Munich | Munich |

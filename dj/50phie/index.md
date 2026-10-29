@@ -1,14 +1,15 @@
 # 50PHIE
 
-50PHIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
+50PHIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
 
-50PHIE is a techno and house artist based in Germany, with 43 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 2 more. Often billed alongside Jacob Knob, Christian Kluge and Vy Tran. Next up: ://about blank, Berlin on Fri 6 Nov.
+50PHIE is a techno and house artist based in Germany, with 44 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 2 more. Often billed alongside Jacob Knob, Christian Kluge and Vy Tran. Next up: ://about blank, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | ://about blank | Berlin |
+| Sat, 28 Nov 2026 | Distillery | Leipzig |
 
 ## Recently played
 

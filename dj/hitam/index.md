@@ -1,8 +1,8 @@
 # Hitam
 
-Hitam is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Astoria, Turin on Fri, 30 Oct 2026.
+Hitam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Astoria, Turin on Fri, 30 Oct 2026.
 
-Hitam is a techno and house artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 37 more. Often billed alongside WINDFUHR, AMORAL and I-RO. Next up: Astoria, Turin on Fri 30 Oct.
+Hitam is a techno and house artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 38 more. Often billed alongside WINDFUHR, AMORAL and I-RO. Next up: Astoria, Turin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hitam is a techno and house artist based in Netherlands, with 103 gigs on soundc
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Astoria | Turin |
 | Fri, 6 Nov 2026 | ÆDEN | Berlin |
+| Sat, 5 Dec 2026 | TBA - Secret Location | Toronto |
 
 ## Recently played
 

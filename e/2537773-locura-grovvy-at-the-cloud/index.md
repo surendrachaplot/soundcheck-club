@@ -1,6 +1,6 @@
 # Locura Grovvy at The Cloud
 
-Locura Grovvy at The Cloud on Sat 7 Nov, Berlin. 4 artists: Cristian Varela, Fernando Lagreca, Mosher and Patrick Scuro. Techno and Electronica. See the line-up on soundcheck.
+Locura Grovvy at The Cloud on Sat 7 Nov, Berlin. 3 artists: Cristian Varela, Mosher and Patrick Scuro. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Locura Grovvy at The Cloud on Sat 7 Nov, Berlin. 4 artists: Cristian Varela, Fer
 ## Line-up
 
 - Cristian Varela
-- Fernando Lagreca
 - Mosher
 - Patrick Scuro
 

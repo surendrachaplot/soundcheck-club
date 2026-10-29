@@ -1,8 +1,8 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Moshi Rave" on Thu, 29 Oct 2026.
+Brixton Jamm is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Moshi Rave" on Thu, 29 Oct 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including alterum, Benny Page, CHICCA and Deekline and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including alterum, Aries, Benny Page and Bladerunner and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 

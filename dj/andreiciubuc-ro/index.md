@@ -1,13 +1,14 @@
 # Andrei Ciubuc
 
-Andrei Ciubuc is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Signal, New York City on Sat, 7 Nov 2026.
+Andrei Ciubuc is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
 
-Andrei Ciubuc is a house and minimal artist based in Romania, with 65 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 12 more. Often billed alongside Herodot, Cap and Aleksan'dru. Next up: Signal, New York City on Sat 7 Nov.
+Andrei Ciubuc is a house and minimal artist based in Romania, with 66 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 12 more. Often billed alongside Herodot, Cap and Aleksan'dru. Next up: Club Guesthouse, Bucharest on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Club Guesthouse | Bucharest |
 | Sat, 7 Nov 2026 | Signal | New York City |
 | Fri, 13 Nov 2026 | Hoppetosse | Berlin |
 

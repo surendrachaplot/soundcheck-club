@@ -1,14 +1,15 @@
 # Sinistarr
 
-Sinistarr is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Marble Bar, Detroit on Thu, 29 Oct 2026.
+Sinistarr is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Marble Bar, Detroit on Thu, 29 Oct 2026.
 
-Sinistarr is a drum & bass and techno artist based in United States of America, with 88 gigs on soundcheck across Denver, Detroit, London and Miami and 9 more. Often billed alongside Sheefy McFly, JMT and AK (US). Next up: Marble Bar, Detroit on Thu 29 Oct.
+Sinistarr is a drum & bass and techno artist based in United States of America, with 89 gigs on soundcheck across Denver, Detroit, London and Miami and 9 more. Often billed alongside Sheefy McFly, Charles Trees and JMT. Next up: Marble Bar, Detroit on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Marble Bar | Detroit |
+| Sun, 1 Nov 2026 | Hizz Lounge | Detroit |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sinistarr is a drum & bass and techno artist based in United States of America, 
 
 ## Shares bills with
 
-Sheefy McFly, JMT (2), AK (US)
+Sheefy McFly, Charles Trees, JMT (2)
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistarr/)*

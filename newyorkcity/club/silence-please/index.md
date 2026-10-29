@@ -1,8 +1,8 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "The Cure's Disintegration Listening Session with Andi" on Thu, 29 Oct 2026.
+Silence Please is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "The Cure's Disintegration Listening Session with Andi" on Thu, 29 Oct 2026.
 
-Silence Please is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Arjun Shah, Andi and Margot. See dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
+Silence Please is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Arjun Shah, Andi, Margot and Max Kulchinsky. See dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
 ## What's on
 
@@ -10,6 +10,8 @@ Silence Please is a music venue in New York City listed on soundcheck. 6 upcomin
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | The Cure's Disintegration Listening Session with Andi | Andi |
 | Fri, 30 Oct 2026 | After Eden with Lorien Well (Live) |  |
+| Sat, 31 Oct 2026 | Turn Around with Max Kulchinsky | Max Kulchinsky |
+| Sun, 1 Nov 2026 | First Sundays with OurChess + Family |  |
 | Tue, 3 Nov 2026 | Cleo Reed: 'Is This How Empires Die?' Listening & Dialogue |  |
 | Fri, 6 Nov 2026 |  Daniel Noah Miller presents: Ten Songs for Two Cellos (LIVE) |  |
 | Fri, 6 Nov 2026 | Margot — The Villain: First Listen + Live Performance | Margot |

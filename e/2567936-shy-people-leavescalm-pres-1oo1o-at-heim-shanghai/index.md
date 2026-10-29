@@ -1,6 +1,6 @@
 # Shy People + LeavesCalm pres. 1OO1O at Heim Shanghai
 
-Shy People + LeavesCalm pres. 1OO1O at Heim Shanghai on Fri 18 Dec, Shanghai. 2 artists: 10000 (CN) and 1OO1O. See the line-up on soundcheck.
+Shy People + LeavesCalm pres. 1OO1O at Heim Shanghai on Fri 18 Dec, Shanghai. 2 artists: 10000 (CN) and 1OO1O. Techno and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

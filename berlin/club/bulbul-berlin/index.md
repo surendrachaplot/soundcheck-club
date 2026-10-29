@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire" on Thu, 29 Oct 2026.
+Bulbul Berlin is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "XOXA's Club Angel: elliephunk, Immy b2b Mx. Blaire" on Thu, 29 Oct 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including 6ton, ALINUSH, Ashbeat and ATTA (GER) and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -8,7 +8,7 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 16 upcoming gigs,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire | Immy, Mx. Blaire, Panooc |
+| Thu, 29 Oct 2026 | XOXA's Club Angel: elliephunk, Immy b2b Mx. Blaire | Immy, Mx. Blaire, elliephunk |
 | Fri, 30 Oct 2026 | #MOVEYOURBODY: critical P, Jambel b2b 6ton, Tommes K. Brandt, Better Call Paul b2b Dicso_Muzek | 6ton, Better Call Paul, Dicso_Muzek, Jambel, Tommes K. Brandt, critical P |
 | Sat, 31 Oct 2026 | HOUSE OF BULBUL: Bruder Jakob, Rik Laren b2b Drip Curl, Shveba & MMAO | Bruder Jakob, MMAO, Rik Laren, Shveba |
 | Thu, 5 Nov 2026 | FRESH FACES (FREE ENTRY): Alejo Romano, Alex Stauffer, Hilu, KLAPZEE | Hilu (2) |

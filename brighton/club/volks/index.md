@@ -1,8 +1,8 @@
 # Volks
 
-Volks is a music venue in Brighton with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "LSB + DRS present: Space Age Halloween Special" on Sat, 31 Oct 2026.
+Volks is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "LSB + DRS present: Space Age Halloween Special" on Sat, 31 Oct 2026.
 
-Volks is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, with line-ups including Altern-8, Benny L, Calyx and Cleveland Watkiss and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
+Volks is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with line-ups including Altern-8, Benny L, Calyx and Cleveland Watkiss and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
 ## What's on
 
@@ -17,6 +17,7 @@ Volks is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, with l
 | Sat, 28 Nov 2026 | Ivy Lab - Farewell Tour | Ivy Lab |
 | Sat, 5 Dec 2026 | Metalheadz: Brighton | Benny L, Cleveland Watkiss, Diverge, Doc Scott |
 | Fri, 11 Dec 2026 | Critical Music | Kasra |
+| Thu, 31 Dec 2026 | 30 Years of Volks presents: Fabio & Grooverider (Up Close & Personal) NYE | Fabio, Grooverider |
 
 ## Address
 

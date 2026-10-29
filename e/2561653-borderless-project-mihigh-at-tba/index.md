@@ -1,6 +1,6 @@
 # Borderless Project: Mihigh at TBA
 
-Borderless Project: Mihigh at TBA on Sat 14 Nov, Los Angeles. 2 artists: Mihigh and Yair. See the line-up on soundcheck.
+Borderless Project: Mihigh at TBA on Sat 14 Nov, Los Angeles. 2 artists: Mihigh and Yair. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Ulla
 
-Ulla is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Silent Green, Berlin on Thu, 29 Oct 2026.
+Ulla is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Raleigh Chapel, London on Sat, 14 Nov 2026.
 
-Ulla is an experimental and ambient artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Perila, Lawrence and Map.ache. Next up: Silent Green, Berlin on Thu 29 Oct.
+Ulla is an experimental and ambient artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Perila, Lawrence and Map.ache. Next up: Raleigh Chapel, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Silent Green | Berlin |
 | Sat, 14 Nov 2026 | Raleigh Chapel | London |
 
 ## Recently played

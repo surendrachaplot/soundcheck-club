@@ -1,8 +1,8 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sydney Massive #005" on Fri, 30 Oct 2026.
+Abercrombie Hotel is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sydney Massive #005" on Fri, 30 Oct 2026.
 
-Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including Arkywaters, Baby G, BASHKKA and Cedar and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
+Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with line-ups including Arkywaters, Baby G, BASHKKA and Cedar and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 11 upcoming g
 | Fri, 27 Nov 2026 | Abercrombie Pres. BASHKKA [DE] & JakoJako [DE] | BASHKKA, JakoJako |
 | Fri, 4 Dec 2026 | Abercrombie Pres. Olivia Mendez [FRA] | Olivia Mendez |
 | Sat, 5 Dec 2026 | Abercrombie Pres. Ploy [UK] | Ploy |
+| Sat, 5 Dec 2026 | P&F: DOOZIE RECORDS COURTYARD PARTY ¤ RTK Tarantino ¤ PARKER ¤ Nay Barr | James Parker, RTK Tarantino |
 | Fri, 11 Dec 2026 | Abercrombie Pres. Takaaki Itoh [JAP] | Takaaki Itoh |
-| Sat, 12 Dec 2026 | Abercrombie Pres. Hidden Spheres [UK] | Hidden Spheres |
 
 ## Address
 

@@ -9,7 +9,7 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 6 upcoming gigs
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Zyklop Audio pres.: Eye Konnex EP Release Night | Kormos, Peter Pixzel, Sam Gittis |
-| Fri, 30 Oct 2026 | 20 Years of Massimiliano Pagliara | Jorkes, Massimiliano Pagliara |
+| Fri, 30 Oct 2026 | 20 Years of Massimiliano Pagliara | Jorkes, Massimiliano Pagliara, Seba (4) |
 | Sat, 31 Oct 2026 | Connecting People | Leon Diamant, Maximilian Foit, Mehmet Acuma |
 | Fri, 6 Nov 2026 | WOS Soundsystem invites Josefina Tapia | Apua, Bambi-S, Josefina Tapia (2), Oliviero |
 | Thu, 19 Nov 2026 | Bonkers x Belly Dance Services | Ludviq, Nick Hanzo |

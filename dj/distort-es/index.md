@@ -9,7 +9,7 @@ DISTORT (ES) is an electronica and techno artist based in Spain, with 38 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - ENTITY powered by VOID ACOUSTCS | Madrid |
-| Sat, 31 Oct 2026 | Studio76 Club | Madrid |
+| Sat, 31 Oct 2026 | TBA - Powered by Void Acoustics | Madrid |
 
 ## Recently played
 

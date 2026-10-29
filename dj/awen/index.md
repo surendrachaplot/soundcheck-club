@@ -1,14 +1,15 @@
 # AWEN
 
-AWEN is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
+AWEN is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
 
-AWEN is an afro house and house artist based in France, with 87 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Shimza, DJEFF and Francis Mercier. Next up: Industry City, New York City on Fri 30 Oct.
+AWEN is an afro house and house artist based in France, with 88 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Shimza, DJEFF and Francis Mercier. Next up: Industry City, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Industry City | New York City |
+| Fri, 13 Nov 2026 | Volt Club Milano | Milan |
 | Sat, 28 Nov 2026 | Trübsee Station, Engelberg | Switzerland |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 30 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Elements x LÙTH: Fear & Fashion" on Thu, 29 Oct 2026.
+People's Leisure Club is a music venue in Edinburgh with 31 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Elements x LÙTH: Fear & Fashion" on Thu, 29 Oct 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 30 upcoming gigs, with line-ups including FLIPSIDE., Becca Egan, Big Miz and Bolam and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 31 upcoming gigs, with line-ups including FLIPSIDE., Becca Egan, Big Miz and Bolam and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 

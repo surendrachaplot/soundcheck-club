@@ -1,8 +1,8 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Progressivu, Doni Kis" on Thu, 29 Oct 2026.
+Lux Fragil is a music venue in Lisbon with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Progressivu, Doni Kis" on Thu, 29 Oct 2026.
 
-Lux Fragil is a music venue in Lisbon listed on soundcheck. 12 upcoming gigs, with line-ups including 420@ôa, Andhim, Brusca and Cherry Knot and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
+Lux Fragil is a music venue in Lisbon listed on soundcheck. 14 upcoming gigs, with line-ups including 420@ôa, Andhim, AZM and Brusca and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
 ## What's on
 

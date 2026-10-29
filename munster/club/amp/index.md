@@ -1,8 +1,8 @@
 # Amp
 
-Amp is a music venue in Münster with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "5(0) Jahre ENDSTATION SEHNSUCHT" on Fri, 30 Oct 2026.
+Amp is a music venue in Münster with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "5(0) Jahre ENDSTATION SEHNSUCHT" on Fri, 30 Oct 2026.
 
-Amp is a music venue in Münster listed on soundcheck. 11 upcoming gigs, with line-ups including 909 RACING TEAM, Cali Caracho, club technician and Cora Lee and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
+Amp is a music venue in Münster listed on soundcheck. 12 upcoming gigs, with line-ups including 909 RACING TEAM, Cali Caracho, club technician and Cora Lee and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
 
 ## What's on
 

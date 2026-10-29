@@ -12,7 +12,7 @@ Distillery N17 is a music venue in London listed on soundcheck. 11 upcoming gigs
 | Fri, 6 Nov 2026 | Roots On The Corner #45. Vedic Roots Sound System meets Roots Sensation Sound System | Roots Sensation, Vedic Roots |
 | Sat, 7 Nov 2026 | Audio 23 : ZEBEDEE GEEZER MIRO ACID STEVE LUCINDA  PASQUAL!NN | Acid Steve, MIRO (DE) |
 | Sat, 21 Nov 2026 | Down The Spiral Vol.2 | Chris Liberator, Jerome Hill |
-| Sun, 22 Nov 2026 | Singularity UK: Sunday Funday |  |
+| Sun, 22 Nov 2026 | Singularity UK: Sunday Funday | ISORA, Janaway, Louise Plus One, MIDRIB, The Bass Injector |
 | Fri, 27 Nov 2026 | [CANCELLED] INFERNO |  |
 | Fri, 27 Nov 2026 | Mums Against Donk: Breaking Donk | Ev3.mp3, GFOTY, Takenbymarshall, alterum, pissxie |
 | Sat, 28 Nov 2026 | Mother #002 | Alba Heidari, Bleim01, Flight Mode (DE), G.oss, Gareth Wild, LUISELLE, Silpagare |

@@ -1,8 +1,8 @@
 # Red Axes
 
-Red Axes is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at LED Unit, Riga on Fri, 30 Oct 2026.
+Red Axes is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at LED Unit, Riga on Fri, 30 Oct 2026.
 
-Red Axes is a house and techno artist based in Israel, with 89 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside DJ Tennis, Adiel and Bakke. Next up: LED Unit, Riga on Fri 30 Oct.
+Red Axes is a house and techno artist based in Israel, with 90 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside DJ Tennis, Adiel and Bakke. Next up: LED Unit, Riga on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Red Axes is a house and techno artist based in Israel, with 89 gigs on soundchec
 | Fri, 13 Nov 2026 | Village Underground | London |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 4 Dec 2026 | WOMB | Tokyo |
+| Sat, 5 Dec 2026 | Circus Osaka | Osaka |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 
 ## Recently played

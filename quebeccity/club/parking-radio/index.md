@@ -1,14 +1,13 @@
 # Parking.Radio
 
-Parking.Radio is a music venue in Quebec City with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "PUNKDT TAKEOVER" on Thu, 29 Oct 2026.
+Parking.Radio is a music venue in Quebec City with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "GUEST MIXES" on Fri, 30 Oct 2026.
 
-Parking.Radio is a music venue in Quebec City listed on soundcheck. 17 upcoming gigs, with line-ups including Billy Bondage, BUYMEFLOVVERS, Casa Kobrae and Just Jul' and 2 more. See dates, start times and who's playing. Québec, G1K 2Y2.
+Parking.Radio is a music venue in Quebec City listed on soundcheck. 16 upcoming gigs, with line-ups including Billy Bondage, BUYMEFLOVVERS, Casa Kobrae and Just Jul' and 2 more. See dates, start times and who's playing. Québec, G1K 2Y2.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | PUNKDT TAKEOVER | Queenie Jr, Vayia |
 | Fri, 30 Oct 2026 | GUEST MIXES |  |
 | Sat, 31 Oct 2026 | MINIMUMWAGE TAKEOVER |  |
 | Sun, 1 Nov 2026 | GUEST MIXES | Just Jul' |
@@ -18,6 +17,7 @@ Parking.Radio is a music venue in Quebec City listed on soundcheck. 17 upcoming 
 | Sun, 8 Nov 2026 | Guest Mix: HEURES OUVRABLES |  |
 | Sun, 8 Nov 2026 | GROOVE STREET  (Live) |  |
 | Wed, 11 Nov 2026 | SYNTH MEETUPS |  |
+| Fri, 13 Nov 2026 | Guest Mixes: KAWABENGA, BAGEL & STORMIES |  |
 
 ## Address
 

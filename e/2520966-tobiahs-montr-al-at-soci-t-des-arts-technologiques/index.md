@@ -1,6 +1,6 @@
 # Tobiahs - Montréal at Société des arts technologiques
 
-Tobiahs - Montréal at Société des arts technologiques on Sat 7 Nov, Montreal. 1 artist: Tobiah. House and Pop. See the line-up on soundcheck.
+Tobiahs - Montréal at Société des arts technologiques on Sat 7 Nov, Montreal. 1 artist: Rim SDL. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Tobiahs - Montréal at Société des arts technologiques on Sat 7 Nov, Montreal.
 
 ## Line-up
 
-- Tobiah
+- Rim SDL
 
 *Source: [soundcheck](https://soundcheck.club/e/2520966-tobiahs-montr-al-at-soci-t-des-arts-technologiques/)*

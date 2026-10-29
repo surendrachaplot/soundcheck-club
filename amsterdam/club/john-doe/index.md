@@ -1,8 +1,8 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 47 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Amsterdam Techno Sessions w/ Ksenia Kamikaza (Platz Fur Tanz) LV" on Thu, 29 Oct 2026.
+John Doe is a music venue in Amsterdam with 54 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Amsterdam Techno Sessions w/ Ksenia Kamikaza (Platz Fur Tanz) LV" on Thu, 29 Oct 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 47 upcoming gigs, with line-ups including ADRIELY, Alex Sharp, BVNNII and Djaygo T and 2 more. See dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 54 upcoming gigs, with line-ups including ADRIELY, Alex Sharp, BVNNII and Djaygo T and 2 more. See dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 
@@ -15,9 +15,9 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 47 upcoming gigs, w
 | Tue, 3 Nov 2026 | [PHANTOM GROUP] KLUBNACHT w SUKA / STVN / LUNØVA / ZULFIQQ / P4NTOM1ME  | STVN (2), SUKA |
 | Wed, 4 Nov 2026 | RAVELAND: Hard Techno & Hard Bounce |  |
 | Thu, 5 Nov 2026 | Amsterdam Techno Sessions | Marco Ramos |
-| Mon, 9 Nov 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
-| Tue, 10 Nov 2026 | [PHANTOM GROUP] KLUBNACHT | TRANZ |
-| Wed, 11 Nov 2026 | RAVELAND: Hard Techno & Hard Bounce |  |
+| Fri, 6 Nov 2026 | Undercore Episode 3 | JOANNA DARK, Raffo |
+| Sat, 7 Nov 2026 | Stuck in a Loop with Mosher & Joris Turenhout - (hard)house to Techno | Joris Turenhout, Mosher |
+| Sun, 8 Nov 2026 | No Sundays Without Techno | Alex Sharp |
 
 ## Address
 

@@ -10,7 +10,7 @@ Aline (CH) is a house and techno artist based in Switzerland, with 54 gigs on so
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Amboss Rampe | Zurich |
 | Sat, 14 Nov 2026 | Supermarket | Zurich |
-| Fri, 4 Dec 2026 | Kauz | Zurich |
+| Fri, 11 Dec 2026 | Kauz | Zurich |
 
 ## Recently played
 

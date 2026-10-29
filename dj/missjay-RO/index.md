@@ -1,14 +1,15 @@
 # Miss Jay (RO)
 
-Miss Jay (RO) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Col. Centro, CDMX, Mexico City on Sat, 31 Oct 2026.
+Miss Jay (RO) is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Col. Centro, CDMX, Mexico City on Sat, 31 Oct 2026.
 
-Miss Jay (RO) is a bass and club artist based in Romania, with 44 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Sukubratz, BRAVA and Mareeo. Next up: TBA - Col. Centro, CDMX, Mexico City on Sat 31 Oct.
+Miss Jay (RO) is a bass and club artist based in Romania, with 45 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Sukubratz, BRAVA and Mareeo. Next up: TBA - Col. Centro, CDMX, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - Col. Centro, CDMX | Mexico City |
+| Sat, 7 Nov 2026 | CHICO | Mexico City |
 
 ## Recently played
 

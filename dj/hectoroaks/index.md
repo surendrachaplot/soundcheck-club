@@ -1,8 +1,8 @@
 # Héctor Oaks
 
-Héctor Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 30 Oct 2026.
+Héctor Oaks is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 30 Oct 2026.
 
-Héctor Oaks is a techno and house artist based in Spain, with 297 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 94 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 30 Oct.
+Héctor Oaks is a techno and house artist based in Spain, with 298 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 94 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Héctor Oaks is a techno and house artist based in Spain, with 297 gigs on sound
 | Fri, 20 Nov 2026 | Octava | Bogotá |
 | Sat, 21 Nov 2026 | Salon Amador | Medellin |
 | Fri, 4 Dec 2026 | Gate Milano | Milan |
+| Sat, 19 Dec 2026 | Jasna 1 | Warsaw |
 | Sun, 27 Dec 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 | Fri, 1 Jan 2027 | REC Napoli | Naples |
 

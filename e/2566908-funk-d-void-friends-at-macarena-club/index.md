@@ -1,6 +1,6 @@
 # Funk D'Void & Friends at Macarena Club
 
-Funk D'Void & Friends at Macarena Club on Thu 19 Nov, Barcelona. 2 artists: Funk D'Void and Paul Loraine. See the line-up on soundcheck.
+Funk D'Void & Friends at Macarena Club on Thu 19 Nov, Barcelona. 3 artists: Funk D'Void, Paul Loraine and Ryan O Gorman. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Funk D'Void & Friends at Macarena Club on Thu 19 Nov, Barcelona. 2 artists: Funk
 
 - Funk D'Void
 - Paul Loraine
+- Ryan O Gorman
 
 *Source: [soundcheck](https://soundcheck.club/e/2566908-funk-d-void-friends-at-macarena-club/)*

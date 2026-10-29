@@ -1,14 +1,15 @@
 # Mefteh
 
-Mefteh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
+Mefteh is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
 
-Mefteh is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Madrid and 3 more. Often billed alongside L-AUX, Ricksen and Maximus (DE). Next up: Zinkbad Eventhalle, Zurich on Fri 6 Nov.
+Mefteh is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Madrid and 4 more. Often billed alongside L-AUX, Ricksen and Maximus (DE). Next up: Zinkbad Eventhalle, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Zinkbad Eventhalle | Zurich |
+| Sat, 14 Nov 2026 | Sacadura Cabral, 167 | Rio de Janeiro |
 
 ## Recently played
 

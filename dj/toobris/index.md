@@ -1,8 +1,8 @@
 # Toobris
 
-Toobris is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at FLUCC, Vienna on Fri, 30 Oct 2026.
+Toobris is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at FLUCC, Vienna on Fri, 30 Oct 2026.
 
-Toobris is a techno and house artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Freddy K, Alarico and Lobster (NL). Next up: FLUCC, Vienna on Fri 30 Oct.
+Toobris is a techno and house artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Freddy K, Alarico and Lobster (NL). Next up: FLUCC, Vienna on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Toobris is a techno and house artist based in Germany, with 66 gigs on soundchec
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | FLUCC | Vienna |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
+| Fri, 20 Nov 2026 | Tanzhaus West | Frankfurt |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 
 ## Recently played

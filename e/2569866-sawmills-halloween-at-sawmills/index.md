@@ -1,6 +1,6 @@
 # Sawmills Halloween at Sawmills
 
-Sawmills Halloween on Sat 31 Oct, Bristol. 9 artists: Berwick (Live), Egyptian Lover, Gene On Earth and JPEG and 5 more. Electro. See the line-up on soundcheck.
+Sawmills Halloween on Sat 31 Oct, Bristol. 10 artists: Berwick (Live), Egyptian Lover, Gene On Earth and JPEG and 6 more. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Sawmills Halloween on Sat 31 Oct, Bristol. 9 artists: Berwick (Live), Egyptian L
 - Gene On Earth
 - JPEG (3)
 - Mollie Rush
+- muzhit
 - Radioactive Man
 - Saoirse
 - SILQ

@@ -1,8 +1,8 @@
 # Caiiro
 
-Caiiro is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Roundhouse, London on Sat, 31 Oct 2026.
+Caiiro is a Afro House and Afro Tech artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Roundhouse, London on Sat, 31 Oct 2026.
 
-Caiiro is an afro house and afro tech artist based in South Africa, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 26 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: The Roundhouse, London on Sat 31 Oct.
+Caiiro is an afro house and afro tech artist based in South Africa, with 87 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 27 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: The Roundhouse, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Caiiro is an afro house and afro tech artist based in South Africa, with 86 gigs
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Roundhouse | London |
 | Sat, 31 Oct 2026 | Village Underground | London |
+| Fri, 13 Nov 2026 | Fitz Club | Madrid |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 
 ## Recently played

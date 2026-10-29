@@ -8,7 +8,7 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 19 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori | ALMAS, Alkemiss Erika, ENJII, Nay Jay, Pixxie, Roy Rosenfeld, SSEDA, Satori, Sebastien Leger |
+| Fri, 30 Oct 2026 | SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori | ALMAS, Alkemiss Erika, ENJII, Nay Jay, Pixxie, Reza Tabrizi, Roy Rosenfeld, SSEDA, Satori, Sebastien Leger |
 | Sat, 31 Oct 2026 | Christian Löffler >< Halloween Night >< presented by Public Works & Safra  | ALMAS, Alex Oxley, Christian Löffler, DWSM, Gru.di, Horror Hi-Fi, Roxanne Roll |
 | Thu, 5 Nov 2026 | Local 500 & Public Works present: Function 500 with FLUXIONS | AGROPOL, DJ Panderer, Vertigo, bad juuju |
 | Fri, 6 Nov 2026 | Bounce SF: Ueberrest, Flash Gea, & dj try | DJ Try (US), Flash Gea, Lil Laurie, Ueberrest |

@@ -1,8 +1,8 @@
 # Jacuzzi General
 
-Jacuzzi General is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at West Port Oracle, Edinburgh on Fri, 30 Oct 2026.
+Jacuzzi General is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at West Port Oracle, Edinburgh on Fri, 30 Oct 2026.
 
-Jacuzzi General is a house and balearic artist based in United Kingdom, with 113 gigs on soundcheck across Berlin, Edinburgh and London. Often billed alongside Ann Tweak, Fierro Grande and Lara Sinclair. Next up: West Port Oracle, Edinburgh on Fri 30 Oct.
+Jacuzzi General is a house and balearic artist based in United Kingdom, with 114 gigs on soundcheck across Berlin, Edinburgh and London. Often billed alongside Ann Tweak, Fierro Grande and Lara Sinclair. Next up: West Port Oracle, Edinburgh on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jacuzzi General is a house and balearic artist based in United Kingdom, with 113
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | West Port Oracle | Edinburgh |
 | Sat, 31 Oct 2026 | Paradise Palms | Edinburgh |
+| Sat, 14 Nov 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 

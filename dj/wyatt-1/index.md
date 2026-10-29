@@ -10,7 +10,7 @@ Wyatt is a house and techno artist based in Switzerland, with 14 gigs on soundch
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Lido Berlin | Berlin |
 | Sat, 7 Nov 2026 | Amboss Rampe | Zurich |
-| Fri, 4 Dec 2026 | Kauz | Zurich |
+| Fri, 11 Dec 2026 | Kauz | Zurich |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Olefonken
 
-Olefonken is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kafe Hærverk, Oslo on Thu, 29 Oct 2026.
+Olefonken is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kafe Hærverk, Oslo on Thu, 29 Oct 2026.
 
-Olefonken is a house and techno artist based in Norway, with 80 gigs on soundcheck across Bergen and Oslo. Often billed alongside Øyvind Morken, G-HA and Olanskii. Next up: Kafe Hærverk, Oslo on Thu 29 Oct.
+Olefonken is a house and techno artist based in Norway, with 81 gigs on soundcheck across Bergen and Oslo. Often billed alongside Øyvind Morken, G-HA and Olanskii. Next up: Kafe Hærverk, Oslo on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Kafe Hærverk | Oslo |
+| Fri, 30 Oct 2026 | Gehør | Oslo |
 | Fri, 6 Nov 2026 | Jaeger | Oslo |
 
 ## Recently played

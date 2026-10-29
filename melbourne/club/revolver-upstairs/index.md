@@ -1,6 +1,6 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 21 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Bellaqueo presents: Dark Fantasy Vol. 2 ft. Linapary (CO) — Free Entry" on Thu, 29 Oct 2026.
+Revolver Upstairs is a music venue in Melbourne with 21 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Opti-Recs VA3 Launch — Opti-Recs x Revolver Fridays" on Fri, 30 Oct 2026.
 
 Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 21 upcoming gigs, with line-ups including 3rd Orbit, archiLo, Aristo G and Bappy and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
@@ -8,7 +8,6 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 21 upcomin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Bellaqueo presents: Dark Fantasy Vol. 2 ft. Linapary (CO) — Free Entry | Linapary, Zafiro |
 | Fri, 30 Oct 2026 | Opti-Recs VA3 Launch — Opti-Recs x Revolver Fridays |  |
 | Sat, 31 Oct 2026 | The Late Show | 3rd Orbit, Kovac, Lewis Cancut, Mina Tonic |
 | Sat, 31 Oct 2026 | REVOLVER BANDROOM: VERONIC — Army Of Darkness |  |
@@ -18,6 +17,7 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 21 upcomin
 | Fri, 6 Nov 2026 | REVOLVER BANDROOM: FUNK FACE — ALL CHOPPED UP! The BIG Chop Launch Party |  |
 | Fri, 6 Nov 2026 | Move D (DE) — Revolver Fridays, Jmcee & Friends | Jmcee, Mike Callander, Move D |
 | Sat, 7 Nov 2026 | REVOLVER BANDROOM: BRO58 — THE COUNTDOWN ALBUM LAUNCH | DJ Rellik |
+| Sat, 7 Nov 2026 | The Late Show | Gay Roberto, Lewis Cancut, Shannon, archiLo |
 
 ## Address
 

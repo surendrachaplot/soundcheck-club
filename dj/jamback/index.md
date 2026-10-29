@@ -1,8 +1,8 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 21 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Art Club, Houston on Fri, 30 Oct 2026.
+Jamback is a House and Tech House artist with 22 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Art Club, Houston on Fri, 30 Oct 2026.
 
-Jamback is a house and tech house artist based in Netherlands, with 212 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Art Club, Houston on Fri 30 Oct.
+Jamback is a house and tech house artist based in Netherlands, with 213 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Art Club, Houston on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Jamback is a house and tech house artist based in Netherlands, with 212 gigs on 
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
 | Sat, 14 Nov 2026 | The Liquid Room | Edinburgh |
-| Sat, 21 Nov 2026 | Mint XL | Leeds |
+| Fri, 20 Nov 2026 | Index | Dublin |
 
 ## Recently played
 

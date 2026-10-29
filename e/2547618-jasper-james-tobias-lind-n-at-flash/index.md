@@ -1,6 +1,6 @@
 # Jasper James - Tobias Lindén at Flash
 
-Jasper James - Tobias Lindén at Flash on Sat 14 Nov, Washington DC. 2 artists: Jasper James and Tobias Lindén. Techno and House. See the line-up on soundcheck.
+Jasper James - Tobias Lindén at Flash on Sat 14 Nov, Washington DC. 5 artists: Alanapana, enz.O, Jasper James and Moreon and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ Jasper James - Tobias Lindén at Flash on Sat 14 Nov, Washington DC. 2 artists: 
 
 ## Line-up
 
+- Alanapana
+- enz.O
 - Jasper James
+- Moreon
 - Tobias Lindén
 
 *Source: [soundcheck](https://soundcheck.club/e/2547618-jasper-james-tobias-lind-n-at-flash/)*

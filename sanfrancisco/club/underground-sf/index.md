@@ -8,7 +8,7 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬 | ALICE STRIBLING |
+| Fri, 30 Oct 2026 | FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬 | ALICE STRIBLING, Charles Hawthorne |
 | Sat, 31 Oct 2026 | Halloween Underground (SF): Primo, Oso Feo, M66, Very Much Romance | DJ Primo, M66 (1), Oso Feo, Very Much Romance |
 | Thu, 5 Nov 2026 | Age of Sin | 2dahlia, Aralia, Lonald J. Bandz, Tom Marsi |
 | Fri, 6 Nov 2026 | Party for No Reason |  |

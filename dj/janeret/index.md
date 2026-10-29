@@ -1,8 +1,8 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at radial, London on Sun, 1 Nov 2026.
+Janeret is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at radial, London on Sun, 1 Nov 2026.
 
-Janeret is a house and minimal artist based in France, with 152 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 54 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: radial, London on Sun 1 Nov.
+Janeret is a house and minimal artist based in France, with 153 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 54 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: radial, London on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Janeret is a house and minimal artist based in France, with 152 gigs on soundche
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | radial | London |
 | Fri, 6 Nov 2026 | Klub K4 | Ljubljana |
+| Fri, 6 Nov 2026 | Club Guesthouse | Bucharest |
 | Sat, 19 Dec 2026 | La Belle Électrique | South-east |
 
 ## Recently played

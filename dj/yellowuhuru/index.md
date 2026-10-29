@@ -1,8 +1,8 @@
 # YELLOWUHURU
 
-YELLOWUHURU is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
+YELLOWUHURU is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
-YELLOWUHURU is a house and techno artist based in Japan, with 209 gigs on soundcheck across Bangkok, Berlin, Hanoi and Hong Kong and 8 more. Often billed alongside suimin, YAMARCHY and bungo. Next up: TBA - Kinone Pension, Kanto on Sat 31 Oct.
+YELLOWUHURU is a house and techno artist based in Japan, with 210 gigs on soundcheck across Bangkok, Berlin, Hanoi and Hong Kong and 8 more. Often billed alongside suimin, YAMARCHY and bungo. Next up: TBA - Kinone Pension, Kanto on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ YELLOWUHURU is a house and techno artist based in Japan, with 209 gigs on soundc
 | Sat, 31 Oct 2026 | Club Daphnia | Osaka |
 | Sun, 1 Nov 2026 | Saloon | Tokyo |
 | Thu, 5 Nov 2026 | Unmute | Hanoi |
+| Sat, 21 Nov 2026 | Azumaya | Tokyo |
 
 ## Recently played
 

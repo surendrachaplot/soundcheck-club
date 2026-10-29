@@ -1,14 +1,15 @@
 # Richie Beige
 
-Richie Beige is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jasna 1, Warsaw on Sat, 14 Nov 2026.
+Richie Beige is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Jasna 1, Warsaw on Sat, 14 Nov 2026.
 
-Richie Beige is a techno and electro artist based in Ukraine, with 57 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Krakow and 3 more. Often billed alongside dd (PL), faron and iffi. Next up: Jasna 1, Warsaw on Sat 14 Nov.
+Richie Beige is a techno and electro artist based in Ukraine, with 58 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Krakow and 3 more. Often billed alongside dd (PL), faron and iffi. Next up: Jasna 1, Warsaw on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Jasna 1 | Warsaw |
+| Thu, 31 Dec 2026 | Renate | Berlin |
 
 ## Recently played
 

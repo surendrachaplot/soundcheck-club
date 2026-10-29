@@ -1,6 +1,6 @@
 # Echo Locations presents: Reflexions at TBA
 
-Echo Locations presents: Reflexions at TBA on Fri 13 Nov, Vancouver. 2 artists: Antonio Elgeta and AWood. Techno and Dub Techno. See the line-up on soundcheck.
+Echo Locations presents: Reflexions at TBA on Fri 13 Nov, Vancouver. 3 artists: Antonio Elgeta, AWood and niki disc. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Echo Locations presents: Reflexions at TBA on Fri 13 Nov, Vancouver. 2 artists: 
 
 - Antonio Elgeta
 - AWood
+- niki disc
 
 *Source: [soundcheck](https://soundcheck.club/e/2563862-echo-locations-presents-reflexions-at-tba/)*

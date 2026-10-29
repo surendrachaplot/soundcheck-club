@@ -1,14 +1,15 @@
 # Ma Haiping
 
-Ma Haiping is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Abyss Shanghai, Shanghai on Fri, 30 Oct 2026.
+Ma Haiping is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Abyss Shanghai, Shanghai on Fri, 30 Oct 2026.
 
-Ma Haiping is a techno and house artist based in China, with 51 gigs on soundcheck across Bangkok, Beijing, Belgrade and Denver and 8 more. Often billed alongside NAXIN, Shanghai Ultra and LIUYANG. Next up: Abyss Shanghai, Shanghai on Fri 30 Oct.
+Ma Haiping is a techno and house artist based in China, with 52 gigs on soundcheck across Bangkok, Beijing, Belgrade and Denver and 8 more. Often billed alongside NAXIN, Shanghai Ultra and LIUYANG. Next up: Abyss Shanghai, Shanghai on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Abyss Shanghai | Shanghai |
+| Sat, 28 Nov 2026 | Reactor Shanghai | Shanghai |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Freddye
 
-Freddye is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Brancaleone, Rome on Sat, 7 Nov 2026.
+Freddye is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Brancaleone, Rome on Sat, 7 Nov 2026.
 
-Freddye is a techno and electronica artist based in Italy, with 29 gigs on soundcheck across Rome. Often billed alongside Martek, Sunday Bath and Tafanish. Next up: Brancaleone, Rome on Sat 7 Nov.
+Freddye is a techno and electronica artist based in Italy, with 30 gigs on soundcheck across Rome. Often billed alongside Martek, Sunday Bath and Tafanish. Next up: Brancaleone, Rome on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Brancaleone | Rome |
+| Sat, 28 Nov 2026 | Brancaleone | Rome |
 
 ## Recently played
 

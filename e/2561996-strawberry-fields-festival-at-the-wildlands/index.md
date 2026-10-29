@@ -1,6 +1,6 @@
 # Strawberry Fields Festival at The Wildlands
 
-Strawberry Fields Festival at The Wildlands on Fri 20 Nov, Melbourne. 80 artists: 1tbsp, 6 SENSE, Ahadadream and Baby G and 76 more. House and Electronica. See the line-up on soundcheck.
+Strawberry Fields Festival at The Wildlands on Fri 20 Nov, Melbourne. 81 artists: 1tbsp, 6 SENSE, Ahadadream and Baby G and 77 more. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,6 +22,7 @@ Strawberry Fields Festival at The Wildlands on Fri 20 Nov, Melbourne. 80 artists
 - CC:DISCO!
 - CCL
 - Charlie Bucket
+- Cherry Chola
 - Courtney Bailey
 - DAWS
 - DJ Koco aka Shimokita

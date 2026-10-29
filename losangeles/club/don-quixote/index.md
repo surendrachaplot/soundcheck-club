@@ -11,7 +11,7 @@ Don Quixote is a music venue in Los Angeles listed on soundcheck. 5 upcoming gig
 | Sat, 31 Oct 2026 | I Know What You Did Last Halloween |  |
 | Fri, 6 Nov 2026 | Bitch Planet: Barbazon presents Big Freedia | Cquestt, Star Amerasu, UNiiQU3 |
 | Sat, 7 Nov 2026 | B-Side Los Angeles presents: Mirror Mode - A Hundred Drums Face to Face Zen Selekta |  |
-| Fri, 13 Nov 2026 | BBYJCORE x BAILE WORLD | Baby J (2), Cquestt, Nanoos, Quinn Blake |
+| Fri, 13 Nov 2026 | BBYJCORE x BAILE WORLD: Baby J, Naisha, Nanoos, Cquestt, & Quinn Blake | Baby J (2), Cquestt, Nanoos, Quinn Blake |
 | Sat, 21 Nov 2026 | B-Side Los Angeles presents: Mirror Mode - Machinedrum Face to Face Rohaan | Machinedrum, Rohaan |
 
 ## Address

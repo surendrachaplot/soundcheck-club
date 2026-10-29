@@ -1,0 +1,19 @@
+# From Athens to Brussels with love ♡ Halloween 2026 (tix left at the door) at Recyclart
+
+From Athens to Brussels with love ♡ Halloween 2026 (tix left at the door) at Recyclart on Sat 31 Oct, Brussels. 5 artists: Chlorys, Joost de Lyser, Khidja and Strik and 1 more. Techno and House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 31 Oct 2026 |
+| Venue | Recyclart |
+| City | Brussels |
+
+## Line-up
+
+- Chlorys
+- Joost de Lyser
+- Khidja
+- Strik
+- tabi (BE)
+
+*Source: [soundcheck](https://soundcheck.club/e/2536886-from-athens-to-brussels-with-love-halloween-2026-tix-left-at/)*

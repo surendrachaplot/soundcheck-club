@@ -9,7 +9,7 @@ Rhythm is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Long Play: Khruangbin |  |
-| Fri, 30 Oct 2026 | HALLOWEEN: Sweely, Blkvirgo, Shen, Hasa, &I, Sakiko Nagai, Mira Méla | Blkvirgo, Mira Méla, Sakiko Nagai, Shen (CA), Sweely, Underwaterhasa, me, myself &i |
+| Fri, 30 Oct 2026 | HALLOWEEN: Sweely (FR), Blkvirgo, Shen, Hasa, &I, Sakiko Nagai, Mira Méla | Blkvirgo, Mira Méla, Sakiko Nagai, Shen (CA), Sweely, Underwaterhasa, me, myself &i |
 | Wed, 4 Nov 2026 | Rhythm Workshop Series: Ableton Workshop |  |
 | Thu, 5 Nov 2026 | Long Play: Daniel Caesar |  |
 | Sat, 7 Nov 2026 | Carousel x Rhythm: Tomoki Tamura, Mary | Mary (5), Tomoki Tamura |

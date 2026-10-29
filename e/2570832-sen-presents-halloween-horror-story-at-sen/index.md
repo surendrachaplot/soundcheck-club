@@ -1,6 +1,6 @@
 # SEN PRESENTS: HALLOWEEN HORROR STORY at SEN
 
-SEN PRESENTS: HALLOWEEN HORROR STORY on Fri 30 Oct, Warsaw. 2 artists: Keenarf and Tumbaco. Techno and House. See the line-up on soundcheck.
+SEN PRESENTS: HALLOWEEN HORROR STORY on Fri 30 Oct, Warsaw. 3 artists: Ayah True Soul, Keenarf and Tumbaco. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SEN PRESENTS: HALLOWEEN HORROR STORY on Fri 30 Oct, Warsaw. 2 artists: Keenarf a
 
 ## Line-up
 
+- Ayah True Soul
 - Keenarf
 - Tumbaco
 

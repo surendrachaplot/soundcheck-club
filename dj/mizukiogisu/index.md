@@ -1,14 +1,13 @@
 # MIZUKI OGISU
 
-MIZUKI OGISU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mitsuki, Tokyo on Thu, 29 Oct 2026.
+MIZUKI OGISU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Red Bar, Tokyo on Fri, 30 Oct 2026.
 
-MIZUKI OGISU is a house and techno artist based in Japan, with 50 gigs on soundcheck across Tokyo. Often billed alongside Taichi Nagayama, niwa and KAKERU. Next up: Mitsuki, Tokyo on Thu 29 Oct.
+MIZUKI OGISU is a house and techno artist based in Japan, with 50 gigs on soundcheck across Tokyo. Often billed alongside Taichi Nagayama, niwa and KAKERU. Next up: Red Bar, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Mitsuki | Tokyo |
 | Fri, 30 Oct 2026 | Red Bar | Tokyo |
 
 ## Recently played

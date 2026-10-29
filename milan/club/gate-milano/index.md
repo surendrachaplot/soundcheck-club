@@ -8,7 +8,7 @@ Gate Milano is a music venue in Milan listed on soundcheck. 16 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Giardino Dei Visionari / Día de Muertos |  |
+| Fri, 30 Oct 2026 | Giardino Dei Visionari / Día de Muertos | ETNA |
 | Fri, 6 Nov 2026 | PRTY & PLASMA: SAMUEL MORIERO & EXPROZ | ANKKH, Samuel Moriero (2) |
 | Fri, 13 Nov 2026 | Funk Tribu | Funk Tribu, GLADJEE, RESA UTOPICA |
 | Sat, 14 Nov 2026 | Mantikore: Per Pleks | HEMPTOTE, Per Pleks, Pura Solenne |

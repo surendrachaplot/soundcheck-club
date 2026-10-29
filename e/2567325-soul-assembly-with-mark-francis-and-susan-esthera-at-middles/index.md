@@ -1,6 +1,6 @@
 # Soul Assembly with Mark Francis and Susan Esthera at Middlesex
 
-Soul Assembly with Mark Francis and Susan Esthera at Middlesex on Thu 19 Nov, Boston. 1 artist: Mark Francis. Deep House and Afro House. See the line-up on soundcheck.
+Soul Assembly with Mark Francis and Susan Esthera at Middlesex on Thu 19 Nov, Boston. 2 artists: Mark Francis and Susan Esthera. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Soul Assembly with Mark Francis and Susan Esthera at Middlesex on Thu 19 Nov, Bo
 ## Line-up
 
 - Mark Francis
+- Susan Esthera
 
 *Source: [soundcheck](https://soundcheck.club/e/2567325-soul-assembly-with-mark-francis-and-susan-esthera-at-middles/)*

@@ -9,7 +9,7 @@ PINKBOIALWAYSCRY is a techno and bass artist based in China, with 70 gigs on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | 工gong | Chengdu |
-| Sat, 31 Oct 2026 | TBA | Chengdu |
+| Sat, 31 Oct 2026 | Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ） | Chengdu |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # renae
 
-renae is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Persona - Raphi & Jude Race (4hr Sets)" on Thu, 29 Oct 2026.
+renae is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Persona - Raphi & Jude Race (4hr Sets)" on Thu, 29 Oct 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including BANSHII, Bruno Bellissimo, Camilla Reghenzi and Danandout and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including Atiké, BANSHII, Bruno Bellissimo and Camilla Reghenzi and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
@@ -15,9 +15,9 @@ renae is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, wit
 | Sat, 31 Oct 2026 | renae: Urbi | Urbi |
 | Sun, 1 Nov 2026 | renae: Pooyan Saadati |  |
 | Thu, 5 Nov 2026 | renae labs: Tash LC presents The Black Fantastic | Tash LC |
+| Fri, 6 Nov 2026 | Atiké + Little O | Atiké, Little O (IE) |
 | Sun, 8 Nov 2026 | Golden Ratio Frequencies: Sonic Meditation |  |
 | Fri, 13 Nov 2026 | The Other People Place: Polyamore | Bruno Bellissimo, Camilla Reghenzi |
-| Sat, 14 Nov 2026 | QU3ST | SOULQU3ST |
 
 ## Address
 

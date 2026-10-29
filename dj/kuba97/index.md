@@ -1,8 +1,8 @@
 # Kuba'97
 
-Kuba'97 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hexagon Brussels, Brussels on Sat, 31 Oct 2026.
+Kuba'97 is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hexagon Brussels, Brussels on Sat, 31 Oct 2026.
 
-Kuba'97 is a techno and house artist based in Belgium, with 78 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: Hexagon Brussels, Brussels on Sat 31 Oct.
+Kuba'97 is a techno and house artist based in Belgium, with 79 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 22 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: Hexagon Brussels, Brussels on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kuba'97 is a techno and house artist based in Belgium, with 78 gigs on soundchec
 | Sat, 31 Oct 2026 | Hexagon Brussels | Brussels |
 | Wed, 4 Nov 2026 | Crevette Records | Brussels |
 | Sat, 7 Nov 2026 | Buda BXL | Brussels |
+| Thu, 12 Nov 2026 | Modeci | Seoul |
 | Sat, 14 Nov 2026 | 宀 Club | Hong Kong |
 | Sat, 28 Nov 2026 | TBA | Sydney |
 

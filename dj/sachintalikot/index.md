@@ -1,14 +1,15 @@
 # SACHIN TALIKOT
 
-SACHIN TALIKOT is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Taco Kat, Orlando on Thu, 29 Oct 2026.
+SACHIN TALIKOT is a Minimal and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Taco Kat, Orlando on Thu, 29 Oct 2026.
 
-SACHIN TALIKOT is a minimal and deep house artist, with 23 gigs on soundcheck across Miami, New York City and Orlando. Often billed alongside Andravida, Auphoria and Cataclisma. Next up: Taco Kat, Orlando on Thu 29 Oct.
+SACHIN TALIKOT is a minimal and deep house artist, with 24 gigs on soundcheck across Miami, New York City, Orlando and Tampa Bay. Often billed alongside Andravida, Cataclisma and Auphoria. Next up: Taco Kat, Orlando on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Taco Kat | Orlando |
+| Sat, 14 Nov 2026 | The Nest at St. Pete Brewing Co. | Tampa Bay |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ SACHIN TALIKOT is a minimal and deep house artist, with 23 gigs on soundcheck ac
 
 ## Shares bills with
 
-Andravida, Auphoria, Cataclisma
+Andravida, Cataclisma, Auphoria
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sachintalikot/)*

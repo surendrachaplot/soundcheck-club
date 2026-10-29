@@ -1,6 +1,6 @@
-# Gambeat at Noce KRK
+# GAMBEAT at Noce KRK
 
-Gambeat at Noce KRK on Fri 30 Oct, Krakow. 6 artists: Aetha, Avtomat, good.little.evening and Hekato and 2 more. Breakbeat and Techno. See the line-up on soundcheck.
+GAMBEAT at Noce KRK on Fri 30 Oct, Krakow. 6 artists: Aetha, Avtomat, good.little.evening and Hekato and 2 more. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

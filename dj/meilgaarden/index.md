@@ -1,13 +1,14 @@
 # Meilgaarden
 
-Meilgaarden is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 30 Oct 2026.
+Meilgaarden is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Salon Palomilla, Mexico City on Thu, 29 Oct 2026.
 
-Meilgaarden is a house and techno artist based in Sweden, with 99 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Boston and 11 more. Often billed alongside Ian Crane, x3butterfly and LYDO. Next up: YuYu Cine Club, Mexico City on Fri 30 Oct.
+Meilgaarden is a house and techno artist based in Sweden, with 100 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Boston and 11 more. Often billed alongside Ian Crane, x3butterfly and LYDO. Next up: Salon Palomilla, Mexico City on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Salon Palomilla | Mexico City |
 | Fri, 30 Oct 2026 | YuYu Cine Club | Mexico City |
 | Fri, 20 Nov 2026 | BASEMENT | New York City |
 

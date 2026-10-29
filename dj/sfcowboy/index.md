@@ -1,8 +1,8 @@
 # sfcowboy
 
-sfcowboy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 30 Oct 2026.
+sfcowboy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-sfcowboy is a techno and house artist based in United States of America, with 80 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside erika (SF), moth (US) and Lethargy. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 30 Oct.
+sfcowboy is a techno and house artist based in United States of America, with 81 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside erika (SF), moth (US) and Lethargy. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ sfcowboy is a techno and house artist based in United States of America, with 80
 | Fri, 30 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Thu, 5 Nov 2026 | Signal | New York City |
 | Thu, 19 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
+| Sun, 22 Nov 2026 | The Regency Ballroom | San Francisco/Oakland |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # FOCUS: Alan Fitzpatrick at Flash
 
-FOCUS: Alan Fitzpatrick at Flash on Sat 7 Nov, Washington DC. 4 artists: Alan Fitzpatrick, Dabz, Micfreak and STUKES. Techno and Minimal Techno. See the line-up on soundcheck.
+FOCUS: Alan Fitzpatrick at Flash on Sat 7 Nov, Washington DC. 5 artists: Alan Fitzpatrick, Benjy Bradshaw, Dabz and Micfreak and 1 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ FOCUS: Alan Fitzpatrick at Flash on Sat 7 Nov, Washington DC. 4 artists: Alan Fi
 ## Line-up
 
 - Alan Fitzpatrick
+- Benjy Bradshaw
 - Dabz
 - Micfreak
 - STUKES

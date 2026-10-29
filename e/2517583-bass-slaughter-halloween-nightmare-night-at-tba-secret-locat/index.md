@@ -1,6 +1,6 @@
 # BASS SLAUGHTER: HALLOWEEN NIGHTMARE - Night at TBA - SECRET LOCATION, GRĪZIŅKALNS
 
-BASS SLAUGHTER: HALLOWEEN NIGHTMARE - Night at TBA - SECRET LOCATION, GRĪZIŅKALNS on Sat 31 Oct, Riga. 5 artists: DENOVA, Leprosy, Marex Kai and RAWKORED and 1 more. House and Hardcore. See the line-up on soundcheck.
+BASS SLAUGHTER: HALLOWEEN NIGHTMARE - Night at TBA - SECRET LOCATION, GRĪZIŅKALNS on Sat 31 Oct, Riga. 6 artists: DENOVA, Leprosy, Marex Kai and MBark and 2 more. House and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ BASS SLAUGHTER: HALLOWEEN NIGHTMARE - Night at TBA - SECRET LOCATION, GRĪZIŅKA
 - DENOVA
 - Leprosy
 - Marex Kai
+- MBark
 - RAWKORED
 - XSYNC19
 

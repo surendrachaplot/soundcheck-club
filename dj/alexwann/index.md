@@ -1,8 +1,8 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Future Nightlife, Toronto on Fri, 6 Nov 2026.
+Alex Wann is a Afro House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Future Nightlife, Toronto on Fri, 6 Nov 2026.
 
-Alex Wann is an afro house and house artist based in France, with 155 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: Future Nightlife, Toronto on Fri 6 Nov.
+Alex Wann is an afro house and house artist based in France, with 156 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: Future Nightlife, Toronto on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Alex Wann is an afro house and house artist based in France, with 155 gigs on so
 | Sat, 7 Nov 2026 | Vera Cocina & بار | Washington DC |
 | Sat, 14 Nov 2026 | Bohemia Beach Club | Dubai |
 | Thu, 19 Nov 2026 | Folklor | Lausanne |
+| Sat, 21 Nov 2026 | Volt Club Milano | Milan |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 
 ## Recently played

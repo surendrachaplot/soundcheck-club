@@ -1,10 +1,10 @@
-# never ever ending Kauz at Kauz
+# Never Ever Ending Kauz at Kauz
 
-never ever ending Kauz on Fri 4 Dec, Zurich. 17 artists: Alessia Ceruti, Aline (CH), Baerg and Ben Kaczor and 13 more. Techno and House. See the line-up on soundcheck.
+Never Ever Ending Kauz on Fri 11 Dec, Zurich. 17 artists: Alessia Ceruti, Aline (CH), Baerg and Ben Kaczor and 13 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 4 Dec 2026 |
+| Date | Fri, 11 Dec 2026 |
 | Venue | Kauz |
 | City | Zurich |
 
@@ -19,11 +19,11 @@ never ever ending Kauz on Fri 4 Dec, Zurich. 17 artists: Alessia Ceruti, Aline (
 - CRi
 - Dana Ruh
 - fabulus
+- Insel
 - Kalabrese
 - Leo Gretener
 - limbic sis
 - Magda
-- Sanctus Libido
 - Wandler
 - Wyatt (1)
 - Z@p

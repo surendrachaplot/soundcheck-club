@@ -1,8 +1,8 @@
 # Kø:lab
 
-Kø:lab is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Wagenhallen, Stuttgart on Sat, 31 Oct 2026.
+Kø:lab is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Wagenhallen, Stuttgart on Sat, 31 Oct 2026.
 
-Kø:lab is a techno and trance artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Ankara, Barcelona and Berlin and 25 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: Wagenhallen, Stuttgart on Sat 31 Oct.
+Kø:lab is a techno and trance artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Ankara, Barcelona and Berlin and 26 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: Wagenhallen, Stuttgart on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kø:lab is a techno and trance artist based in Germany, with 124 gigs on soundch
 | Sat, 31 Oct 2026 | Wagenhallen | Stuttgart |
 | Fri, 6 Nov 2026 | Bootshaus | Cologne |
 | Sat, 28 Nov 2026 | OST | Berlin |
+| Fri, 4 Dec 2026 | Das Zimmer | Mannheim |
 
 ## Recently played
 

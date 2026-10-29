@@ -1,6 +1,6 @@
 # MONO CULTURE & RAVE.GLA present at Nice N Sleazy
 
-MONO CULTURE & RAVE.GLA present at Nice N Sleazy on Fri 11 Dec, Glasgow. Drum & Bass and Jungle. See the line-up on soundcheck.
+MONO CULTURE & RAVE.GLA present at Nice N Sleazy on Fri 11 Dec, Glasgow. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

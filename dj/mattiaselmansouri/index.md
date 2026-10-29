@@ -1,13 +1,14 @@
 # Mattias El Mansouri
 
-Mattias El Mansouri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Mattias El Mansouri is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
-Mattias El Mansouri is a techno and house artist based in Sweden, with 70 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 9 more. Often billed alongside Sergej Orlov, Oberman and Chlär. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
+Mattias El Mansouri is a techno and house artist based in Sweden, with 71 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 9 more. Often billed alongside Sergej Orlov, Oberman and Chlär. Next up: Renate, Berlin on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | Renate | Berlin |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Illogical Operator
 
-Illogical Operator is a Acid and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at McNeills, Glasgow on Sat, 14 Nov 2026.
+Illogical Operator is a Acid and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at McNeills, Glasgow on Sat, 14 Nov 2026.
 
-Illogical Operator is an acid and experimental artist based in United Kingdom, with 20 gigs on soundcheck across Aberdeen, Dundee and Glasgow. Often billed alongside GK Machine, Acid Boner and Wrong Party!. Next up: McNeills, Glasgow on Sat 14 Nov.
+Illogical Operator is an acid and experimental artist based in United Kingdom, with 21 gigs on soundcheck across Aberdeen, Dundee and Glasgow. Often billed alongside GK Machine, Wrong Party! and Acid Boner. Next up: McNeills, Glasgow on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | McNeills | Glasgow |
+| Sat, 5 Dec 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Illogical Operator is an acid and experimental artist based in United Kingdom, w
 
 ## Shares bills with
 
-GK Machine, Acid Boner, Wrong Party!
+GK Machine, Wrong Party!, Acid Boner
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illogicaloperator/)*

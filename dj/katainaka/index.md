@@ -2,7 +2,7 @@
 
 KATAINAKA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Cu, London on Thu, 29 Oct 2026.
 
-KATAINAKA is a house and techno artist, with 34 gigs on soundcheck across London, Seoul and Tokyo. Often billed alongside iz, YOSHIHAARAA and kengotaki. Next up: Cu, London on Thu 29 Oct.
+KATAINAKA is a house and techno artist based in Japan, with 34 gigs on soundcheck across London, Seoul and Tokyo. Often billed alongside iz, YOSHIHAARAA and kengotaki. Next up: Cu, London on Thu 29 Oct.
 
 ## Upcoming shows
 

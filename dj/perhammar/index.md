@@ -1,8 +1,8 @@
 # Per Hammar
 
-Per Hammar is a Minimal and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mad Radio Miami, Miami on Thu, 29 Oct 2026.
+Per Hammar is a Minimal and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mad Radio Miami, Miami on Thu, 29 Oct 2026.
 
-Per Hammar is a minimal and house artist based in Sweden, with 122 gigs on soundcheck across Amsterdam, Auckland, Austin and Bangkok and 46 more. Often billed alongside Olga Korol, Pentti Igor and TINDRA. Next up: Mad Radio Miami, Miami on Thu 29 Oct.
+Per Hammar is a minimal and house artist based in Sweden, with 123 gigs on soundcheck across Amsterdam, Auckland, Austin and Bangkok and 46 more. Often billed alongside Olga Korol, Pentti Igor and TINDRA. Next up: Mad Radio Miami, Miami on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Per Hammar is a minimal and house artist based in Sweden, with 122 gigs on sound
 | Thu, 29 Oct 2026 | Mad Radio Miami | Miami |
 | Fri, 30 Oct 2026 | Signal | New York City |
 | Sat, 31 Oct 2026 | Utopia | Los Angeles |
+| Sun, 1 Nov 2026 | Wönzimer | Los Angeles |
 | Sat, 7 Nov 2026 | TBA | Vancouver |
 | Fri, 13 Nov 2026 | B2 Rīga | Riga |
 | Sat, 21 Nov 2026 | Kater | Berlin |

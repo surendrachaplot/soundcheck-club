@@ -1,6 +1,6 @@
 # DaH! Sessions x Under Bridge at Under Bridge Madrid
 
-DaH! Sessions x Under Bridge at Under Bridge Madrid on Sat 14 Nov, Madrid. 2 artists: Giulia Mad and Jobe1811. See the line-up on soundcheck.
+DaH! Sessions x Under Bridge at Under Bridge Madrid on Sat 14 Nov, Madrid. 3 artists: Giulia Mad, Jobe1811 and Vico Deep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ DaH! Sessions x Under Bridge at Under Bridge Madrid on Sat 14 Nov, Madrid. 2 art
 
 - Giulia Mad
 - Jobe1811
+- Vico Deep
 
 *Source: [soundcheck](https://soundcheck.club/e/2570341-dah-sessions-x-under-bridge-at-under-bridge-madrid/)*

@@ -8,6 +8,6 @@ TBA - 1 INGRAHAM ST is a music venue in New York City listed on soundcheck. 1 up
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | BLIND_7 | COVE(US), DREAMINSLOW, Friedberg, Kim Anh, Lauren Flax, Megan Rosengarten |
+| Sat, 21 Nov 2026 | BLIND_7 | COVE(US), DREAMINSLOW, Friedberg, Kim Anh, Lauren Flax, Megan Rosengarten, Zach Davis |
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-1-ingraham-st/)*

@@ -1,14 +1,13 @@
 # judgeman
 
-judgeman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Z Maruyama, Tokyo on Thu, 29 Oct 2026.
+judgeman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at FS., Tokyo on Sat, 31 Oct 2026.
 
-judgeman is a house and techno artist based in Japan, with 103 gigs on soundcheck across Tokyo. Often billed alongside DJ SHIKISAI, has and Terax. Next up: Z Maruyama, Tokyo on Thu 29 Oct.
+judgeman is a house and techno artist based in Japan, with 103 gigs on soundcheck across Tokyo. Often billed alongside DJ SHIKISAI, has and Terax. Next up: FS., Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Z Maruyama | Tokyo |
 | Sat, 31 Oct 2026 | FS. | Tokyo |
 
 ## Recently played

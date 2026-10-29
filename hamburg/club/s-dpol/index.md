@@ -1,8 +1,8 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Expedition Südpol" on Fri, 30 Oct 2026.
+Südpol is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Expedition Südpol" on Fri, 30 Oct 2026.
 
-Südpol is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including 3LEEZA, 5euroGoldi, abs8lute and AGILY and 2 more. See dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
+Südpol is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including 3LEEZA, 5euroGoldi, abs8lute and AGILY and 2 more. See dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Südpol is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with 
 | Sat, 7 Nov 2026 | Alle Lampen an | Francesca, LENI, Sahra Bass, Urem, miszo |
 | Fri, 13 Nov 2026 | Expedition Südpol | Chris Hanke, DINKS, EPHIE, Falke, Horst Haller, Jamal, Katzenohr, Kotoe, Melbo, Newinfluenzer, Rachel Raw, Robert Romain, Surreal (DE), UNZHA, Vio PRG, abs8lute, bīsu, ple:xy |
 | Fri, 20 Nov 2026 | unceen with GI.O, 3LEEZA, BNZN, 5euroGoldi & DJ WIFI | 3LEEZA, 5euroGoldi, BNZN, DJ WIFI, GI.O, Scoozy, Talia Dorr |
+| Fri, 4 Dec 2026 | AOS 4 YEARS | Anton Jonathan, Beste Hira, DJ Babyblade, JSPRV35, L.A.tifa, Mac Declos, Sophti, T.PLAYBOI |
 | Fri, 18 Dec 2026 | unceen with ANDATA & HOOM | ANDATA, HOOM, Natalox, SPORTMANN, unjani |
 
 ## Address

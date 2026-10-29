@@ -11,7 +11,7 @@
 | Sat, 31 Oct 2026 | The Halloween Disco |  |
 | Sat, 31 Oct 2026 | boatclub |  |
 | Sat, 7 Nov 2026 | Escapada - BACK TO THE GOLDEN ERA - 93 Feet East | Carlos Aries, Jerome Six, Lee Luxe, Mark Radford, RENZO., Rhiavas |
-| Sun, 8 Nov 2026 | AFTERJAM [05]: LONDON | HALFPINT, Jamback, Stacie Fields |
+| Sun, 8 Nov 2026 | AFTERJAM [05]: LONDON | HALFPINT, Jamback, Mya (1) |
 | Sat, 14 Nov 2026 | Deep Into Soul x Djoon | Afshin, Chris Hewitt, DJ DuBois, Emmaculate, Kanem, Kapela, Neil Pierce, Ross Purcell, Sy Sez, Trinidadian Deep, Wez Whynt, merlin bobb |
 | Fri, 20 Nov 2026 | [SOLD OUT] Job de Jong b2b Dennis Quin - All Night Long | Dennis Quin, Job de Jong |
 | Sat, 28 Nov 2026 | Kinky Malinki Ibiza Reunion + 28th Birthday | F Red, Jamie Hayhoe, Josh, SOMEGUY, Tristan Ingram |

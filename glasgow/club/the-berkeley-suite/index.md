@@ -1,8 +1,8 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 28 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "THE HOUSE OF FemmeDM" on Thu, 29 Oct 2026.
+The Berkeley Suite is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "THE HOUSE OF FemmeDM" on Thu, 29 Oct 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 28 upcoming gigs, with line-ups including BAUGRUPPE90, Bella Claxton, Carmen Baía and Crazy P and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, with line-ups including BAUGRUPPE90, Bella Claxton, Carmen Baía and Co-Accused and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 

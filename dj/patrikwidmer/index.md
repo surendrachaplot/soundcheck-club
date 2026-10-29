@@ -1,14 +1,14 @@
 # Patrik Widmer
 
-Patrik Widmer is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Supermarket, Zurich on Fri, 6 Nov 2026.
+Patrik Widmer is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Supermarket, Zurich on Sat, 2 Jan 2027.
 
-Patrik Widmer is a techno and acid artist based in Switzerland, with 61 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hong Kong and 2 more. Often billed alongside mvdi, Erebos and DJ Jordan. Next up: Supermarket, Zurich on Fri 6 Nov.
+Patrik Widmer is a techno and acid artist based in Switzerland, with 61 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hong Kong and 2 more. Often billed alongside mvdi, Erebos and DJ Jordan. Next up: Supermarket, Zurich on Sat 2 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Supermarket | Zurich |
+| Sat, 2 Jan 2027 | Supermarket | Zurich |
 | Sat, 30 Jan 2027 | Zinkbad Eventhalle | Zurich |
 
 ## Recently played

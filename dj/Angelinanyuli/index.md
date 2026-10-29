@@ -1,14 +1,15 @@
 # Angelinanyulí
 
-Angelinanyulí is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
+Angelinanyulí is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
 
-Angelinanyulí is an electronica and techno artist based in Spain, with 18 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Ariezzz, Vulva Vitamina and FAG HAG. Next up: Spook Club, Valencia on Sat 31 Oct.
+Angelinanyulí is a techno and electronica artist based in Spain, with 19 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Ariezzz, Vulva Vitamina and FAG HAG. Next up: Spook Club, Valencia on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
+| Fri, 20 Nov 2026 | TBA - LFO | Madrid |
 
 ## Recently played
 

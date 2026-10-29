@@ -1,13 +1,14 @@
 # Reboot
 
-Reboot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Apophis Club, Milan on Sat, 7 Nov 2026.
+Reboot is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Apophis Club, Milan on Sat, 7 Nov 2026.
 
-Reboot is a house and tech house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Bucharest and 16 more. Often billed alongside Valenzia, Boutiq.808 and Nick Curly. Next up: Apophis Club, Milan on Sat 7 Nov.
+Reboot is a house and tech house artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Bucharest and 16 more. Often billed alongside Valenzia, Boutiq.808 and Nick Curly. Next up: Apophis Club, Milan on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Apophis Club | Milan |
 | Sat, 7 Nov 2026 | Apophis Club | Milan |
 
 ## Recently played

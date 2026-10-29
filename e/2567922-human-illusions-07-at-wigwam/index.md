@@ -1,6 +1,6 @@
 # Human Illusions 07 at Wigwam
 
-Human Illusions 07 at Wigwam on Thu 19 Nov, Shanghai. 1 artist: 10000 (CN). Electronica. See the line-up on soundcheck.
+Human Illusions 07 at Wigwam on Thu 19 Nov, Shanghai. 2 artists: 10000 (CN) and WC7 (SE). Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Human Illusions 07 at Wigwam on Thu 19 Nov, Shanghai. 1 artist: 10000 (CN). Elec
 ## Line-up
 
 - 10000 (CN)
+- WC7 (SE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2567922-human-illusions-07-at-wigwam/)*

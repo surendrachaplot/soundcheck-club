@@ -9,7 +9,7 @@ The Artisan is a techno and electronica artist based in Netherlands, with 3 gigs
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | 工gong | Chengdu |
-| Sat, 31 Oct 2026 | TBA | Chengdu |
+| Sat, 31 Oct 2026 | Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ） | Chengdu |
 
 ## Recently played
 

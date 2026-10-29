@@ -8,6 +8,6 @@ Ehemaliges Hauptzollamt is a music venue in Hamburg listed on soundcheck. 1 upco
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Modus Weekender | Britta Arnold, Convinzed, Denis Horvat, Innellea, KALEA, Kollektiv Turmstrasse, Margo, MikAH, Miyagi, Sitze, Xinobi |
+| Fri, 30 Oct 2026 | Modus Weekender | Britta Arnold, Convinzed, Denis Horvat, Innellea, KALEA, Kollektiv Turmstrasse, Margo (GER), MikAH, Miyagi, Sitze, Xinobi |
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ehemaliges-hauptzollamt/)*

@@ -10,10 +10,10 @@ Dana Ruh is a house and techno artist based in Germany, with 171 gigs on soundch
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Golden Gate | Berlin |
 | Sat, 31 Oct 2026 | Esbirra Ibiza | Ibiza |
-| Fri, 4 Dec 2026 | Kauz | Zurich |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Sat, 5 Dec 2026 | 303 Audiophile Bar | Barcelona |
+| Fri, 11 Dec 2026 | Kauz | Zurich |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ LAUT is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Merino (all night long) | Merino |
 | Sat, 31 Oct 2026 | Pépe (all night long) | Pépe |
-| Sat, 31 Oct 2026 | Devil's Night Out: Black Devil Disco Club + The Ripofficers + Brendv Blu + Charlie Levan | Black Devil Disco Club |
+| Sat, 31 Oct 2026 | Devil's Night Out: Black Devil Disco Club + The Ripofficers + Brendv Blu + Charlie Levan | Black Devil Disco Club, Lil Vän |
 | Fri, 6 Nov 2026 | Andy Martin + Rootian B2B Memory Palace | Andy Martin, Memory Palace, Rootian |
 | Sat, 7 Nov 2026 | Moses Joses (All Night Long) | Moses Joses |
 | Fri, 13 Nov 2026 | NEMS-B (All Night Long) | NEMS-B |

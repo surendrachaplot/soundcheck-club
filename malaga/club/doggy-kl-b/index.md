@@ -17,7 +17,7 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 11 upcoming gigs, w
 | Sat, 14 Nov 2026 | Dark Room: Checa invites Histeriko | Checa |
 | Fri, 20 Nov 2026 | Moruki invites Sakro | Moruki, Sakro |
 | Sat, 21 Nov 2026 | Cultura Club: Rickie + Rvbbio | Rickie (Overground), rubbio |
-| Fri, 27 Nov 2026 | Doggy Project presents: Jimin | Jimin, Unreal Vibes |
+| Fri, 27 Nov 2026 | Andres Sancho + Unreal Vibes | Andrés Sancho, Unreal Vibes |
 
 ## Address
 

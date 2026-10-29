@@ -17,7 +17,7 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, 
 | Sat, 21 Nov 2026 | Part Time Killer, babysquid, Fanni Fluid, Eva Claudia   | Eva Claudia, Fanni Fluid, Part Time Killer, babysquid |
 | Fri, 27 Nov 2026 | Mac Declos (all night long) | Mac Declos |
 | Sat, 28 Nov 2026 | Britta Arnold, MiniMalene, OnsBerg | Britta Arnold, MiniMalene (2), OnsBerg |
-| Fri, 4 Dec 2026 | Diffrent | Diffrent |
+| Fri, 4 Dec 2026 | Diffrent, samgood, DRABER666 | DRABER666, Diffrent, samgood |
 
 ## Address
 

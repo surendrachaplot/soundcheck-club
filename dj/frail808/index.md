@@ -1,14 +1,15 @@
 # frail808
 
-frail808 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Guild Row, Chicago on Sun, 1 Nov 2026.
+frail808 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Guild Row, Chicago on Sun, 1 Nov 2026.
 
-frail808 is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Chicago. Often billed alongside Jaggy, patrick conahan and Nolia. Next up: Guild Row, Chicago on Sun 1 Nov.
+frail808 is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Chicago. Often billed alongside Jaggy, patrick conahan and Nolia. Next up: Guild Row, Chicago on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Guild Row | Chicago |
+| Sun, 1 Nov 2026 | Gracey’s | Chicago |
 
 ## Recently played
 

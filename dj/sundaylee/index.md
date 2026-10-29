@@ -1,14 +1,15 @@
 # Sunday Lee
 
-Sunday Lee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ring, Seoul on Fri, 30 Oct 2026.
+Sunday Lee is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ring, Seoul on Fri, 30 Oct 2026.
 
-Sunday Lee is a house and techno artist based in South Korea, with 159 gigs on soundcheck across Hanoi and Seoul. Often billed alongside Kugel, Cosmo (KR) and DJ Funny. Next up: Ring, Seoul on Fri 30 Oct.
+Sunday Lee is a house and techno artist based in South Korea, with 160 gigs on soundcheck across Hanoi and Seoul. Often billed alongside Kugel, Cosmo (KR) and DJ Funny. Next up: Ring, Seoul on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Ring | Seoul |
+| Sat, 31 Oct 2026 | Nué Seoul | Seoul |
 
 ## Recently played
 

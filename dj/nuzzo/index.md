@@ -1,14 +1,15 @@
 # Nuzzo
 
-Nuzzo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pacha Ibiza, Ibiza on Fri, 30 Oct 2026.
+Nuzzo is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pacha Ibiza, Ibiza on Fri, 30 Oct 2026.
 
-Nuzzo is a house and minimal artist based in Spain, with 52 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 2 more. Often billed alongside Carlos Vila, Pol K and Hugo Martinez. Next up: Pacha Ibiza, Ibiza on Fri 30 Oct.
+Nuzzo is a house and minimal artist based in Spain, with 53 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 2 more. Often billed alongside Carlos Vila, Pol K and Hugo Martinez. Next up: Pacha Ibiza, Ibiza on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Pacha Ibiza | Ibiza |
+| Sun, 1 Nov 2026 | TBA | Ibiza |
 
 ## Recently played
 

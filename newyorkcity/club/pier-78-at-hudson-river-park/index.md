@@ -1,8 +1,8 @@
 # Pier 78 at Hudson River Park
 
-Pier 78 at Hudson River Park is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "The #1 Halloween HIP HOP & R&B Boat Ride Party Cruise NYC" on Fri, 30 Oct 2026.
+Pier 78 at Hudson River Park is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "The #1 Halloween HIP HOP & R&B Boat Ride Party Cruise NYC" on Fri, 30 Oct 2026.
 
-Pier 78 at Hudson River Park is a music venue in New York City listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
+Pier 78 at Hudson River Park is a music venue in New York City listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Pier 78 at Hudson River Park is a music venue in New York City listed on soundch
 | Sat, 31 Oct 2026 | The #1 Halloween HIP HOP & R&B Boat Ride Party Cruise NYC |  |
 | Sat, 31 Oct 2026 | The #1 Halloween LATIN & REGGAETON Boat Party NYC Yacht Cruise |  |
 | Sat, 31 Oct 2026 | The Day of the Dead Halloween Latin & Reggaeton Boat Party NYC Yacht Cruise |  |
+| Sat, 31 Oct 2026 | Lovers & Friends Hip-Hop & R&B Halloween Boat Party NYC |  |
 | Sat, 31 Oct 2026 | Lovers & Friends Hip-Hop & R&B Halloween Boat Party NYC |  |
 
 ## Address

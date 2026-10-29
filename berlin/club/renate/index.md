@@ -15,9 +15,9 @@ Renate is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with l
 | Fri, 6 Nov 2026 | Renate Klubnacht w/  Arno, Chain Reaction, Abstraxion, DJ Dope, Habitat Shaking, Toni Sauna  | Abstraxion, Adri Alibi, Arno, Dj Dope (2), Habitat Shaking, Maï-Linh, Skipson |
 | Sat, 7 Nov 2026 | Renate Klubnacht with IO, Breakfest & Fear Of SIlence | Delta Division, Esgeem, Justus Kaya, Laetizia, Mantis (IT), Mordio, N:in (DE), Rompa, VSC (1), Vanta (DE), Vroomfondel, dérive, lu.wicked |
 | Thu, 12 Nov 2026 | Renate Thursdays |  |
-| Fri, 13 Nov 2026 | Renate Klubnacht with Carly Zeng & CREAM | Brahmski, Carly Zeng, Johana Jost, Kontronatura, Mille (DE), Vanaenae, Yas Reven |
-| Sat, 14 Nov 2026 | Renate Klubnacht w/ SNC, Mara Menace & Loveshack | Bekkler, Bonzai Bonner, Charlie Vaux, DCHM, EMIRA, Mara Menace, Maruwa, SNC Crew, exuvia |
-| Fri, 20 Nov 2026 | Renate Klubnacht with Black.Is, Moses Joses & HitYaWithThat | Denzel, Hitomi (DE), Julion De'Angelo, Moses Joses |
+| Fri, 13 Nov 2026 | Renate Klubnacht & Daytime with Carly Zeng & CREAM | Brahmski, Carly Zeng, Johana Jost, Kontronatura, Mille (DE), Vanaenae, Yas Reven |
+| Sat, 14 Nov 2026 | Renate Klubnacht & Daytime w/ SNC, Mara Menace & Loveshack | Bekkler, Bonzai Bonner, Charlie Vaux, DCHM, EMIRA, Mara Menace, Maruwa, SNC Crew, exuvia |
+| Fri, 20 Nov 2026 | Renate Klubnacht & Daytime with Black.Is, Moses Joses & HitYaWithThat | Denzel, Hitomi (DE), Julion De'Angelo, Moses Joses |
 
 ## Address
 

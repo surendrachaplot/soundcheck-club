@@ -1,14 +1,13 @@
 # KAIKAI
 
-KAIKAI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Dogenzaka Church, Tokyo on Thu, 29 Oct 2026.
+KAIKAI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 1 Nov 2026.
 
-KAIKAI is a house and techno artist based in Japan, with 39 gigs on soundcheck across Bali, Ibiza, San Francisco/Oakland and Sydney and 1 more. Often billed alongside SIGNAL (JP), Krankent and ALEXANDER M. Next up: Dogenzaka Church, Tokyo on Thu 29 Oct.
+KAIKAI is a house and techno artist based in Japan, with 39 gigs on soundcheck across Bali, Ibiza, San Francisco/Oakland and Sydney and 1 more. Often billed alongside SIGNAL (JP), Krankent and ALEXANDER M. Next up: Aoyama Hachi, Tokyo on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Dogenzaka Church | Tokyo |
 | Sun, 1 Nov 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played

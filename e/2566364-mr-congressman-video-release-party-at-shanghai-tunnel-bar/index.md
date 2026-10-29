@@ -1,6 +1,6 @@
 # mr. congressman video release party at Shanghai Tunnel Bar
 
-mr. congressman video release party at Shanghai Tunnel Bar on Tue 3 Nov, Portland. Dubstep and Acid. See the line-up on soundcheck.
+mr. congressman video release party at Shanghai Tunnel Bar on Tue 3 Nov, Portland. Acid and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

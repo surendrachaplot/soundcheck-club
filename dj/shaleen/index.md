@@ -1,8 +1,8 @@
 # Shaleen
 
-Shaleen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
+Shaleen is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
 
-Shaleen is a techno and house artist based in Germany, with 155 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 26 more. Often billed alongside Ellen Allien, JANEIN and Stigmatique. Next up: Tresor.West, Dortmund / Essen on Sat 31 Oct.
+Shaleen is a techno and house artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 26 more. Often billed alongside Ellen Allien, JANEIN and Stigmatique. Next up: Tresor.West, Dortmund / Essen on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shaleen is a techno and house artist based in Germany, with 155 gigs on soundche
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Tresor.West | Dortmund / Essen |
 | Fri, 13 Nov 2026 | Bassiani | Tbilisi |
+| Tue, 17 Nov 2026 | Distillery | Leipzig |
 | Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 | Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
 

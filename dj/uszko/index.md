@@ -1,14 +1,13 @@
 # uszko
 
-uszko is a Ambient and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Komuna Warszawa, Warsaw on Thu, 29 Oct 2026.
+uszko is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jasna 1, Warsaw on Fri, 20 Nov 2026.
 
-uszko is an ambient and acid artist, with 11 gigs on soundcheck across Warsaw. Often billed alongside PLAL, Dyktando and Kovvalsky. Next up: Komuna Warszawa, Warsaw on Thu 29 Oct.
+uszko is an ambient and acid artist, with 11 gigs on soundcheck across Warsaw. Often billed alongside PLAL, Dyktando and Kovvalsky. Next up: Jasna 1, Warsaw on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Komuna Warszawa | Warsaw |
 | Fri, 20 Nov 2026 | Jasna 1 | Warsaw |
 
 ## Recently played

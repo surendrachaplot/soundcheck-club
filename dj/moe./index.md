@@ -1,14 +1,15 @@
 # moe.
 
-moe. is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at migas, a listening bar, Berlin on Fri, 27 Nov 2026.
+moe. is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at migas, a listening bar, Berlin on Fri, 27 Nov 2026.
 
-moe. is a house and disco artist based in Sudan, with 70 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside Ken Okuda, DJ Westfa and Suze Ijó. Next up: migas, a listening bar, Berlin on Fri 27 Nov.
+moe. is a house and disco artist based in Sudan, with 71 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside Ken Okuda, DJ Westfa and Organza. Next up: migas, a listening bar, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | migas, a listening bar | Berlin |
+| Thu, 31 Dec 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ moe. is a house and disco artist based in Sudan, with 70 gigs on soundcheck acro
 
 ## Shares bills with
 
-Ken Okuda, DJ Westfa, Suze Ijó
+Ken Okuda, DJ Westfa, Organza
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moe./)*

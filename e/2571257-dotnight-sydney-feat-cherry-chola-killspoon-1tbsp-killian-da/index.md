@@ -1,6 +1,6 @@
 # dotnight sydney feat. cherry chola, killspoon (1tbsp + Killian), dan+ee at Civic Underground
 
-dotnight sydney feat. cherry chola, killspoon (1tbsp + Killian), dan+ee at Civic Underground on Sat 5 Dec, Sydney. 2 artists: 1tbsp and Killian. Reggaeton and Electronica. See the line-up on soundcheck.
+dotnight sydney feat. cherry chola, killspoon (1tbsp + Killian), dan+ee at Civic Underground on Sat 5 Dec, Sydney. 3 artists: 1tbsp, Cherry Chola and Killian. Reggaeton and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ dotnight sydney feat. cherry chola, killspoon (1tbsp + Killian), dan+ee at Civic
 ## Line-up
 
 - 1tbsp
+- Cherry Chola
 - Killian
 
 *Source: [soundcheck](https://soundcheck.club/e/2571257-dotnight-sydney-feat-cherry-chola-killspoon-1tbsp-killian-da/)*

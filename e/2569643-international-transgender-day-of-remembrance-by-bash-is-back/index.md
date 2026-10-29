@@ -1,6 +1,6 @@
 # International Transgender day of Remembrance by BASH IS BACK at Den Anden Side
 
-International Transgender day of Remembrance by BASH IS BACK at Den Anden Side on Fri 20 Nov, Copenhagen. 4 artists: Baltza, Dgeral, Gavnlig and Immy. Progressive House and House. See the line-up on soundcheck.
+International Transgender day of Remembrance by BASH IS BACK at Den Anden Side on Fri 20 Nov, Copenhagen. 6 artists: Baltza, Delove, Dgeral and DJ Woo Girl and 2 more. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ International Transgender day of Remembrance by BASH IS BACK at Den Anden Side o
 ## Line-up
 
 - Baltza
+- Delove
 - Dgeral
+- DJ Woo Girl
 - Gavnlig
 - Immy
 

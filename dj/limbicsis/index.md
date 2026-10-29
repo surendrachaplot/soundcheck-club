@@ -1,14 +1,14 @@
 # limbic sis
 
-limbic sis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kauz, Zurich on Fri, 4 Dec 2026.
+limbic sis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
 
-limbic sis is a house and techno artist based in Germany, with 67 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 14 more. Often billed alongside FRÆNZ:, DJ Eivissa and 0megavybe. Next up: Kauz, Zurich on Fri 4 Dec.
+limbic sis is a house and techno artist based in Germany, with 67 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 14 more. Often billed alongside FRÆNZ:, DJ Eivissa and 0megavybe. Next up: Kauz, Zurich on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Dec 2026 | Kauz | Zurich |
+| Fri, 11 Dec 2026 | Kauz | Zurich |
 
 ## Recently played
 

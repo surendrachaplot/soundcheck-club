@@ -1,6 +1,6 @@
-# BRONX > LAMACHINE (STHLM) > ARANEA (GBG) > PAUL FITZGIBBON (Ireland) > Billie Jo (STHLM) at Eventhuset
+# BRONX > LAMACHINE (STHLM) > ARANEA (GBG) > PAUL FITZGIBBON (Ireland) > Billie Jo > E Nässén at Eventhuset
 
-BRONX > LAMACHINE (STHLM) > ARANEA (GBG) > PAUL FITZGIBBON (Ireland) > Billie Jo (STHLM) at Eventhuset on Sat 28 Nov, Stockholm. 4 artists: ARANEA, Billie Jo, LAMACHINE and Paul Fitzgibbon. Techno and Industrial. See the line-up on soundcheck.
+BRONX > LAMACHINE (STHLM) > ARANEA (GBG) > PAUL FITZGIBBON (Ireland) > Billie Jo > E Nässén at Eventhuset on Sat 28 Nov, Stockholm. 5 artists: ARANEA, Billie Jo, Evelina Nässén and LAMACHINE and 1 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ BRONX > LAMACHINE (STHLM) > ARANEA (GBG) > PAUL FITZGIBBON (Ireland) > Billie Jo
 
 - ARANEA
 - Billie Jo
+- Evelina Nässén
 - LAMACHINE
 - Paul Fitzgibbon
 

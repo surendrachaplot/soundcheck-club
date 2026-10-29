@@ -1,8 +1,8 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Toffler presents GWELD (LIVE), REDBATUN (HYBRID LIVE)" on Fri, 30 Oct 2026.
+Toffler is a music venue in Rotterdam with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Toffler presents GWELD (LIVE), REDBATUN (HYBRID LIVE)" on Fri, 30 Oct 2026.
 
-Toffler is a music venue in Rotterdam listed on soundcheck. 11 upcoming gigs, with line-ups including AIS, Ben Horton, Bumpr and DAF and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
+Toffler is a music venue in Rotterdam listed on soundcheck. 12 upcoming gigs, with line-ups including AIS, Ben Horton, Bumpr and DAF and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
 ## What's on
 

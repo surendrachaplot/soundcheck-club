@@ -1,14 +1,15 @@
 # Philipp Otterbach
 
-Philipp Otterbach is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at kv.r., Vienna on Thu, 12 Nov 2026.
+Philipp Otterbach is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at kv.r., Vienna on Thu, 12 Nov 2026.
 
-Philipp Otterbach is an experimental and ambient artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 14 more. Often billed alongside p/kstr, Benedikt Frey and DJ Absolutely Shit. Next up: kv.r., Vienna on Thu 12 Nov.
+Philipp Otterbach is an experimental and ambient artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 14 more. Often billed alongside p/kstr, Benedikt Frey and DJ Absolutely Shit. Next up: kv.r., Vienna on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | kv.r. | Vienna |
+| Fri, 27 Nov 2026 | Twist Bar | Prague |
 
 ## Recently played
 

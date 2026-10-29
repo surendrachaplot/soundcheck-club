@@ -9,7 +9,7 @@ Altrove is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | 1 Year of LAMA STUDIO w/ Kreggo | Jasmine Delle Vedove, Kreggo, Mareeo, Wusketti |
-| Fri, 13 Nov 2026 | Art d'enfer Altrove Milano | Lucifero, Marc Anthony Bowen |
+| Fri, 13 Nov 2026 | Art d'enfer at Altrove Milano | Lucifero, Marc Anthony Bowen |
 | Sat, 14 Nov 2026 | Mischia - Altrove Milano | ALDAVE, AMBRA, Nicodemo |
 
 ## Address

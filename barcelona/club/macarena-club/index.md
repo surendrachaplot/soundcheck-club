@@ -1,8 +1,8 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 33 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "dohan & Friends" on Thu, 29 Oct 2026.
+Macarena Club is a music venue in Barcelona with 34 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "dohan & Friends" on Thu, 29 Oct 2026.
 
-Macarena Club is a music venue in Barcelona listed on soundcheck. 33 upcoming gigs, with line-ups including Jo-Sie, Acid Astrid, Althoff and Amadori and 2 more. See dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
+Macarena Club is a music venue in Barcelona listed on soundcheck. 34 upcoming gigs, with line-ups including Jo-Sie, Acid Astrid, AFFKT and Althoff and 2 more. See dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
 ## What's on
 

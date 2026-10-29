@@ -1,6 +1,6 @@
 # RAVE3000 / I Hate Models, Cloudy, KUKO, Serafina, Kessler, THD+N at Native Beach Club
 
-RAVE3000 / I Hate Models, Cloudy, KUKO, Serafina, Kessler, THD+N at Native Beach Club on Fri 20 Nov, Buenos Aires. 6 artists: Cloudy, I Hate Models, Kessler and KUKO and 2 more. Techno and Hard Drum. See the line-up on soundcheck.
+RAVE3000 / I Hate Models, Cloudy, KUKO, Serafina, Kessler, THD+N at Native Beach Club on Fri 20 Nov, Buenos Aires. 5 artists: Cloudy, I Hate Models, KUKO and Serafina and 1 more. Techno and Hard Drum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ RAVE3000 / I Hate Models, Cloudy, KUKO, Serafina, Kessler, THD+N at Native Beach
 
 - Cloudy
 - I Hate Models
-- Kessler
 - KUKO
 - Serafina
 - THD+N

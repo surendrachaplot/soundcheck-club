@@ -1,8 +1,8 @@
 # XXHARDBIT3S
 
-XXHARDBIT3S is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at H0L0, New York City on Fri, 30 Oct 2026.
+XXHARDBIT3S is a Hardcore and Gabber artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at H0L0, New York City on Fri, 30 Oct 2026.
 
-XXHARDBIT3S is a hardcore and techno artist based in United States of America, with 58 gigs on soundcheck across Baltimore, Boston, Denver and Detroit and 6 more. Often billed alongside JESSXO, 3mouth and Soo Intoit. Next up: H0L0, New York City on Fri 30 Oct.
+XXHARDBIT3S is a hardcore and gabber artist based in United States of America, with 59 gigs on soundcheck across Baltimore, Boston, Chicago and Denver and 7 more. Often billed alongside JESSXO, 3mouth and Yesterdayneverhappened. Next up: H0L0, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ XXHARDBIT3S is a hardcore and techno artist based in United States of America, w
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | H0L0 | New York City |
 | Fri, 30 Oct 2026 | H0L0 | New York City |
+| Sat, 7 Nov 2026 | TBA | Chicago |
 | Fri, 4 Dec 2026 | Wonderville | New York City |
 
 ## Recently played
@@ -25,6 +26,6 @@ XXHARDBIT3S is a hardcore and techno artist based in United States of America, w
 
 ## Shares bills with
 
-JESSXO, 3mouth, Soo Intoit
+JESSXO, 3mouth, Yesterdayneverhappened
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*

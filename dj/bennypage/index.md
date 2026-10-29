@@ -1,14 +1,15 @@
 # Benny Page
 
-Benny Page is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Brixton Jamm, London on Fri, 30 Oct 2026.
+Benny Page is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Brixton Jamm, London on Fri, 30 Oct 2026.
 
-Benny Page is a drum & bass and jungle artist based in United Kingdom, with 70 gigs on soundcheck across Amsterdam, Bangkok, Birmingham and Boston and 15 more. Often billed alongside Deekline, Navigator and Doktor. Next up: Brixton Jamm, London on Fri 30 Oct.
+Benny Page is a drum & bass and jungle artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Bangkok, Birmingham and Boston and 15 more. Often billed alongside Deekline, Navigator and Doktor. Next up: Brixton Jamm, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Brixton Jamm | London |
+| Sat, 5 Dec 2026 | Brixton Jamm | London |
 
 ## Recently played
 

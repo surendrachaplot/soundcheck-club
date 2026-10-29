@@ -1,6 +1,6 @@
 # Therapy presents: The Shapeshifters at TBA
 
-Therapy presents: The Shapeshifters at TBA on Sat 21 Nov, Toronto. 3 artists: Psi, Simon Jain and The Shapeshifters. House. See the line-up on soundcheck.
+Therapy presents: The Shapeshifters at TBA on Sat 21 Nov, Toronto. 4 artists: Brock Stacey, Psi, Simon Jain and The Shapeshifters. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Therapy presents: The Shapeshifters at TBA on Sat 21 Nov, Toronto. 3 artists: Ps
 
 ## Line-up
 
+- Brock Stacey
 - Psi (1)
 - Simon Jain
 - The Shapeshifters

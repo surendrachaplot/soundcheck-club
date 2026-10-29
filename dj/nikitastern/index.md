@@ -2,7 +2,7 @@
 
 Nikitastern is a House and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at glimmer, Hamburg on Fri, 30 Oct 2026.
 
-Nikitastern is a house and breakbeat artist based in Germany, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Cielo.MP3, ALP (DE) and Bennet (DE). Next up: glimmer, Hamburg on Fri 30 Oct.
+Nikitastern is a house and breakbeat artist based in Germany, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Cielo.MP3, ALP (DE) and Bruna N.. Next up: glimmer, Hamburg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Nikitastern is a house and breakbeat artist based in Germany, with 5 gigs on sou
 
 ## Shares bills with
 
-Cielo.MP3, ALP (DE), Bennet (DE)
+Cielo.MP3, ALP (DE), Bruna N.
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitastern/)*

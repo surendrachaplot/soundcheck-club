@@ -1,13 +1,14 @@
 # Pictureplane
 
-Pictureplane is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at CHICO, Mexico City on Fri, 20 Nov 2026.
+Pictureplane is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 30 Oct 2026.
 
-Pictureplane is a techno and industrial artist based in United States of America, with 34 gigs on soundcheck across Boston, Detroit, Los Angeles and Mexico City and 6 more. Often billed alongside Alessandro Adriani, Machine Girl and Maŕa (US). Next up: CHICO, Mexico City on Fri 20 Nov.
+Pictureplane is a techno and industrial artist based in United States of America, with 35 gigs on soundcheck across Boston, Detroit, Los Angeles and Mexico City and 6 more. Often billed alongside Alessandro Adriani, Machine Girl and Maŕa (US). Next up: 99 Scott Ave, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | 99 Scott Ave | New York City |
 | Fri, 20 Nov 2026 | CHICO | Mexico City |
 
 ## Recently played

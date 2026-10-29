@@ -1,14 +1,15 @@
 # Revivis
 
-Revivis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at YSY, Berlin on Sat, 7 Nov 2026.
+Revivis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at YSY, Berlin on Sat, 7 Nov 2026.
 
-Revivis is a house and techno artist, with 21 gigs on soundcheck across Barcelona, Belgrade, Berlin and Frankfurt and 3 more. Often billed alongside Running Hot, Christa K and LIA. Next up: YSY, Berlin on Sat 7 Nov.
+Revivis is a house and techno artist, with 22 gigs on soundcheck across Barcelona, Belgrade, Berlin and Frankfurt and 3 more. Often billed alongside Running Hot, Christa K and LIA. Next up: YSY, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | YSY | Berlin |
+| Fri, 13 Nov 2026 | OXI | Berlin |
 
 ## Recently played
 

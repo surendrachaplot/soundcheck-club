@@ -1,8 +1,8 @@
 # Matriark
 
-Matriark is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Elysia, Basel on Sat, 31 Oct 2026.
+Matriark is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Elysia, Basel on Sat, 31 Oct 2026.
 
-Matriark is a techno and trance artist based in Norway, with 143 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside DJ IBON, ibon and Britney Speed. Next up: Elysia, Basel on Sat 31 Oct.
+Matriark is a techno and trance artist based in Norway, with 144 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside DJ IBON, ibon and Britney Speed. Next up: Elysia, Basel on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Matriark is a techno and trance artist based in Norway, with 143 gigs on soundch
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Elysia | Basel |
 | Fri, 6 Nov 2026 | The Villa | Oslo |
+| Thu, 31 Dec 2026 | Renate | Berlin |
 
 ## Recently played
 

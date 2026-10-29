@@ -1,14 +1,15 @@
 # 2flowers
 
-2flowers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Vancouver on Sat, 31 Oct 2026.
+2flowers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Vancouver on Sat, 31 Oct 2026.
 
-2flowers is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Vancouver. Often billed alongside LVT, DJ Hockey and INNEZZ. Next up: TBA, Vancouver on Sat 31 Oct.
+2flowers is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Vancouver. Often billed alongside LVT, DJ Hockey and INNEZZ. Next up: TBA, Vancouver on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA | Vancouver |
+| Fri, 27 Nov 2026 | TBA | Vancouver |
 
 ## Recently played
 

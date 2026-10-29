@@ -1,14 +1,14 @@
 # Garçon De Rue
 
-Garçon De Rue is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri, 30 Oct 2026.
+Garçon De Rue is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - L'AMOROSO - AVINGUDA DIAGONAL 423, Barcelona on Fri, 30 Oct 2026.
 
-Garçon De Rue is a house and tech house artist based in Italy, with 31 gigs on soundcheck across Barcelona, Florence, London and Madrid and 2 more. Often billed alongside Marais, Drew. and Dirty Channels. Next up: TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423, Barcelona on Fri 30 Oct.
+Garçon De Rue is a house and tech house artist based in Italy, with 31 gigs on soundcheck across Barcelona, Florence, London and Madrid and 2 more. Often billed alongside Marais, Drew. and Dirty Channels. Next up: TBA - L'AMOROSO - AVINGUDA DIAGONAL 423, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA - L'AMOROSO - AVINGUIDA DIAGONAL 423 | Barcelona |
+| Fri, 30 Oct 2026 | TBA - L'AMOROSO - AVINGUDA DIAGONAL 423 | Barcelona |
 
 ## Recently played
 

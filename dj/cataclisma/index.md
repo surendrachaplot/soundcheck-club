@@ -1,13 +1,14 @@
 # Cataclisma
 
-Cataclisma is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Iron Cow, Orlando on Fri, 20 Nov 2026.
+Cataclisma is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 14 Nov 2026.
 
-Cataclisma is a house and garage artist based in United States of America, with 11 gigs on soundcheck across Orlando. Often billed alongside Sknls, Ant. (US) and Kappauccino.G. Next up: Iron Cow, Orlando on Fri 20 Nov.
+Cataclisma is a house and garage artist based in United States of America, with 12 gigs on soundcheck across Orlando and Tampa Bay. Often billed alongside Sknls, Ant. (US) and Kappauccino.G. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | The Nest at St. Pete Brewing Co. | Tampa Bay |
 | Fri, 20 Nov 2026 | Iron Cow | Orlando |
 
 ## Recently played

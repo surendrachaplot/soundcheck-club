@@ -9,7 +9,7 @@ CH3LO is a techno and electronica artist based in Spain, with 51 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - ENTITY powered by VOID ACOUSTCS | Madrid |
-| Sat, 31 Oct 2026 | Studio76 Club | Madrid |
+| Sat, 31 Oct 2026 | TBA - Powered by Void Acoustics | Madrid |
 
 ## Recently played
 

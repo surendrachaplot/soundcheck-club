@@ -1,6 +1,6 @@
 # AFTERJAM [05]: LONDON at 93 Feet East
 
-AFTERJAM [05]: LONDON at 93 Feet East on Sun 8 Nov, London. 3 artists: HALFPINT, Jamback and Stacie Fields. House and Tech House. See the line-up on soundcheck.
+AFTERJAM [05]: LONDON at 93 Feet East on Sun 8 Nov, London. 3 artists: HALFPINT, Jamback and Mya. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ AFTERJAM [05]: LONDON at 93 Feet East on Sun 8 Nov, London. 3 artists: HALFPINT,
 
 - HALFPINT
 - Jamback
-- Stacie Fields
+- Mya (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2544179-afterjam-05-london-at-93-feet-east/)*

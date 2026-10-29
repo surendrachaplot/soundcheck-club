@@ -1,8 +1,8 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 22 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HARD-HALLOWEEN: SARA KRIN by CITY HELL" on Thu, 29 Oct 2026.
+City Hall is a music venue in Barcelona with 25 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HARD-HALLOWEEN: SARA KRIN by CITY HELL" on Thu, 29 Oct 2026.
 
-City Hall is a music venue in Barcelona listed on soundcheck. 22 upcoming gigs, with line-ups including Ardz, B.UNQ!, Cambric and DIL KASHMIR and 2 more. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
+City Hall is a music venue in Barcelona listed on soundcheck. 25 upcoming gigs, with line-ups including Ardz, B.UNQ!, Cambric and CUTIE and 2 more. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
 ## What's on
 

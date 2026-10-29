@@ -1,8 +1,8 @@
 # Yesterdayneverhappened
 
-Yesterdayneverhappened is a Jungle and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at H0L0, New York City on Fri, 30 Oct 2026.
+Yesterdayneverhappened is a Jungle and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at H0L0, New York City on Fri, 30 Oct 2026.
 
-Yesterdayneverhappened is a jungle and house artist based in United States of America, with 66 gigs on soundcheck across Atlanta, Baltimore, Boston and Chicago and 12 more. Often billed alongside Dazegxd, 3mouth and XXHARDBIT3S. Next up: H0L0, New York City on Fri 30 Oct.
+Yesterdayneverhappened is a jungle and house artist based in United States of America, with 67 gigs on soundcheck across Atlanta, Baltimore, Boston and Chicago and 12 more. Often billed alongside Dazegxd, 3mouth and XXHARDBIT3S. Next up: H0L0, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Yesterdayneverhappened is a jungle and house artist based in United States of Am
 | Fri, 30 Oct 2026 | H0L0 | New York City |
 | Fri, 30 Oct 2026 | H0L0 | New York City |
 | Sat, 31 Oct 2026 | Market Hotel | New York City |
+| Sat, 7 Nov 2026 | TBA | Chicago |
 
 ## Recently played
 

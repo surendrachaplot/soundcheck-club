@@ -1,8 +1,8 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Faster Horses is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
-Faster Horses is a techno and trance artist based in United Kingdom, with 263 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 64 more. Often billed alongside Azyr, Leaha and Kander. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
+Faster Horses is a techno and trance artist based in United Kingdom, with 264 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 65 more. Often billed alongside Azyr, Leaha and Kander. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 263 gi
 | Sat, 5 Dec 2026 | The Telegraph Building | Belfast |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
+| Sat, 26 Dec 2026 | Holme Garden | New-south-wales |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
-| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 

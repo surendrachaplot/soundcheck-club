@@ -1,14 +1,13 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Who Loves the Sun" on Thu, 29 Oct 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "ROMANTIC TECHNOLOGY 112 / 13th Anniversary Party" on Sun, 1 Nov 2026.
 
-Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including Dev/Null, GATERROR, goreshit and Goth-Trad and 2 more. See dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
+Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including Dev/Null, GATERROR, goreshit and Goth-Trad and 2 more. See dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Who Loves the Sun | Ko Umehara |
 | Sun, 1 Nov 2026 | ROMANTIC TECHNOLOGY 112 / 13th Anniversary Party | Yasuo Sato, Yousuke Kaga |
 | Mon, 2 Nov 2026 | R A D I C A L S E S S I O N | haLuka |
 | Sat, 7 Nov 2026 | GRIT - グリット - |  |

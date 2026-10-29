@@ -1,8 +1,8 @@
 # Theo Terev
 
-Theo Terev is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at WWW X, Tokyo on Fri, 30 Oct 2026.
+Theo Terev is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at WWW X, Tokyo on Fri, 30 Oct 2026.
 
-Theo Terev is a house and disco artist based in France, with 49 gigs on soundcheck across Bangkok, Barcelona, Bristol and Hong Kong and 10 more. Often billed alongside Seiji Ono, Hugo LX and Mafalda. Next up: WWW X, Tokyo on Fri 30 Oct.
+Theo Terev is a house and disco artist based in France, with 50 gigs on soundcheck across Bangkok, Barcelona, Bristol and Hong Kong and 10 more. Often billed alongside Seiji Ono, Hugo LX and Mafalda. Next up: WWW X, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Theo Terev is a house and disco artist based in France, with 49 gigs on soundche
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | WWW X | Tokyo |
 | Sun, 8 Nov 2026 | Club Metro | Kyoto |
+| Sat, 21 Nov 2026 | TBA - The Parlor @ The Standard Bangkok | Bangkok |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Hubble
 
-Hubble is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Teatro di Sant'eulalia, Sardinia on Thu, 29 Oct 2026.
+Hubble is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Campidarte Sardegna, Central on Sun, 22 Nov 2026.
 
-Hubble is a house and techno artist, with 34 gigs on soundcheck across Austin, Berlin, Central and Paris and 3 more. Often billed alongside Akatana, Cez and Lenny Mailleau. Next up: Teatro di Sant'eulalia, Sardinia on Thu 29 Oct.
+Hubble is a house and techno artist, with 34 gigs on soundcheck across Austin, Berlin, Central and Paris and 3 more. Often billed alongside Akatana, Cez and Lenny Mailleau. Next up: Campidarte Sardegna, Central on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Teatro di Sant'eulalia | Sardinia |
 | Sun, 22 Nov 2026 | Campidarte Sardegna | Central |
 
 ## Recently played

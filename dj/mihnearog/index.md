@@ -1,14 +1,15 @@
 # Mihnea Rog
 
-Mihnea Rog is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Mihnea Rog is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Mihnea Rog is a techno and house artist based in Romania, with 21 gigs on soundcheck across Bucharest, Greece, London and Milan and 1 more. Often billed alongside Cap, DumitrEscu and BILA. Next up: One Resort, Tunisia on Thu 5 Nov.
+Mihnea Rog is a techno and house artist based in Romania, with 22 gigs on soundcheck across Bucharest, Greece, London and Milan and 1 more. Often billed alongside Cap, BILA and DumitrEscu. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
+| Fri, 6 Nov 2026 | Club Guesthouse | Bucharest |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mihnea Rog is a techno and house artist based in Romania, with 21 gigs on soundc
 
 ## Shares bills with
 
-Cap, DumitrEscu, BILA
+Cap, BILA, DumitrEscu
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihnearog/)*

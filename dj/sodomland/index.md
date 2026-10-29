@@ -1,14 +1,13 @@
 # Sodomland
 
-Sodomland is a Electro and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Badaboum, Paris on Thu, 29 Oct 2026.
+Sodomland is a Electro and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kollektiv Kaorle, Vienna on Fri, 13 Nov 2026.
 
-Sodomland is an electro and experimental artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London and 4 more. Often billed alongside Global, Europa and Blood of Aza. Next up: Badaboum, Paris on Thu 29 Oct.
+Sodomland is an electro and experimental artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London and 4 more. Often billed alongside Global, Europa and Blood of Aza. Next up: Kollektiv Kaorle, Vienna on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Badaboum | Paris |
 | Fri, 13 Nov 2026 | Kollektiv Kaorle | Vienna |
 | Sat, 21 Nov 2026 | De Sering | Amsterdam |
 

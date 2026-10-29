@@ -9,7 +9,7 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 17 upcoming g
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Das Zündet | Diskohengst, Tom Kutsche |
-| Sat, 31 Oct 2026 | Memphis Gansta Rave | DJ Creole Princess, DJ Spit (ES), MACKSTA C, Viikatory |
+| Sat, 31 Oct 2026 | Memphis Gansta Rave | DJ Creole Princess, DJ Spit, MACKSTA C, Viikatory |
 | Tue, 3 Nov 2026 | Open Decks & Tischtennis |  |
 | Fri, 6 Nov 2026 | GATE - Mystic Dream | 5euroGoldi, August Kind, Henry (DE), Neoma, Shake Daddy, leanripke, senaitstar |
 | Sat, 7 Nov 2026 | Lange Nacht der Wissenschaft X PhonoVision | Bamela Paywatch, HiHat, Ini Lamborghini, Lenny Fuck, Pavelo Promillo, so:fein |

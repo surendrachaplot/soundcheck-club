@@ -1,6 +1,6 @@
-# Dearly Beloved, Dead Letter No.9's final Thursday - Orson, James Juke, Sanouyer, RONRON at Dead Letter No. 9
+# Dearly Beloved, Dead Letter No.9's final Thursday - Orson, James Juke, Sanouyer, RONRON, Rani at Dead Letter No. 9
 
-Dearly Beloved, Dead Letter No.9's final Thursday - Orson, James Juke, Sanouyer, RONRON at Dead Letter No. 9 on Thu 29 Oct, New York City. 2 artists: James Juke and Orson.NYC. House and Electronica. See the line-up on soundcheck.
+Dearly Beloved, Dead Letter No.9's final Thursday - Orson, James Juke, Sanouyer, RONRON, Rani at Dead Letter No. 9 on Thu 29 Oct, New York City. 2 artists: James Juke and Orson.NYC. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

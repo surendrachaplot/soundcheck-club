@@ -1,14 +1,15 @@
 # idiotYuuka
 
-idiotYuuka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at W Osaka, Osaka on Sat, 31 Oct 2026.
+idiotYuuka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at W Osaka, Osaka on Sat, 31 Oct 2026.
 
-idiotYuuka is a house and techno artist based in Japan, with 20 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Cine, DMITRI ABSINTHE and MAX PELA. Next up: W Osaka, Osaka on Sat 31 Oct.
+idiotYuuka is a house and techno artist based in Japan, with 21 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Cine, DMITRI ABSINTHE and MAX PELA. Next up: W Osaka, Osaka on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | W Osaka | Osaka |
+| Sat, 5 Dec 2026 | Circus Osaka | Osaka |
 
 ## Recently played
 

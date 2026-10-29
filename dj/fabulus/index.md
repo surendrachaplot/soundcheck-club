@@ -9,7 +9,7 @@ fabulus is a house and techno artist based in Switzerland, with 45 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Kauz | Zurich |
-| Fri, 4 Dec 2026 | Kauz | Zurich |
+| Fri, 11 Dec 2026 | Kauz | Zurich |
 
 ## Recently played
 

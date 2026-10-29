@@ -13,7 +13,7 @@ The Rose is a music venue in New York City listed on soundcheck. 7 upcoming gigs
 | Mon, 16 Nov 2026 | MMF Society Open Decks | shirlz |
 | Tue, 17 Nov 2026 | Eugene presents The Dragons Fist Special Guest Tinamarie Diva | Gino Santos |
 | Tue, 1 Dec 2026 | Heather Teather  | Gino Santos |
-| Tue, 22 Dec 2026 | Eugene presents Merry Christmas with Dj Lisa Silvio & Friends | Gino Santos |
+| Tue, 22 Dec 2026 | Eugene presents Merry Christmas with Dj Lisa Silvio & Asa McCoy | Gino Santos |
 | Fri, 25 Dec 2026 | All Rose Events by Gino are Herby Cancelled due to Clery Act Concerns  | Gino Santos |
 
 ## Address

@@ -1,14 +1,13 @@
 # BBBBBBB
 
-BBBBBBB is a Hardcore and Noise artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Channel Zero, Ljubljana on Thu, 29 Oct 2026.
+BBBBBBB is a Hardcore and Noise artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-BBBBBBB is a hardcore and noise artist based in Japan, with 22 gigs on soundcheck across Berlin, Kyoto, Lisbon and Ljubljana and 5 more. Often billed alongside moreru, deadfish eyes and iida Reo. Next up: Channel Zero, Ljubljana on Thu 29 Oct.
+BBBBBBB is a hardcore and noise artist based in Japan, with 22 gigs on soundcheck across Berlin, Kyoto, Lisbon and Ljubljana and 5 more. Often billed alongside moreru, deadfish eyes and iida Reo. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Channel Zero | Ljubljana |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 6 Nov 2026 | Panke | Berlin |
 

@@ -1,14 +1,15 @@
 # CERJ
 
-CERJ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at MODULE, Copenhagen on Sat, 31 Oct 2026.
+CERJ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at MODULE, Copenhagen on Sat, 31 Oct 2026.
 
-CERJ is a techno and house artist based in Denmark, with 53 gigs on soundcheck across Copenhagen, Frankfurt, London and Malmo. Often billed alongside Aja Gulris, Anders HP and Only Ollie. Next up: MODULE, Copenhagen on Sat 31 Oct.
+CERJ is a techno and house artist based in Denmark, with 54 gigs on soundcheck across Copenhagen, Frankfurt, London and Malmo. Often billed alongside Aja Gulris, Anders HP and Only Ollie. Next up: MODULE, Copenhagen on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | MODULE | Copenhagen |
+| Fri, 1 Jan 2027 | MODULE | Copenhagen |
 
 ## Recently played
 

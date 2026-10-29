@@ -1,19 +1,21 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Cirque Du Soul: Leeds // Halloween" on Fri, 30 Oct 2026.
+Beaver Works is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Cirque Du Soul: Leeds // Halloween" on Fri, 30 Oct 2026.
 
-Beaver Works is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, with line-ups including Amelia Leigh, Badger (UK), Chinese Daughter and CICELY and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
+Beaver Works is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Amelia Leigh, Badger (UK), Chinese Daughter and CICELY and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Cirque Du Soul: Leeds // Halloween | Badger (UK), IsGwan |
-| Fri, 6 Nov 2026 | Acid Ballroom: Paranoid London | E-Boo, Jake Rollinson, OJ Willis, Paranoid London |
+| Sat, 31 Oct 2026 | Beaver Works Halloween w/ Y U QT b2b Saint Ludo, Gray + more | Gray, JAZ IMSKY, Saint Ludo, Y U QT |
+| Fri, 6 Nov 2026 | Acid Ballroom: Paranoid London | E-Boo, Jake Rollinson, OJ Willis, ORI (ozone), Paranoid London |
 | Fri, 6 Nov 2026 | Acid Ballroom After Party |  |
 | Fri, 13 Nov 2026 | Moosejaw Friday 13th | Chinese Daughter, Sully |
 | Sat, 21 Nov 2026 | Crossy presents: The Breakthrough - Leeds | Crossy |
 | Fri, 11 Dec 2026 | The Nightmare Before Christmas 3! PRSPCT & BassOff present | Amelia Leigh, CICELY, DR BUMBERCREASE, Ebz, Greenhouse, IFFYHYPE, Imanu, Jackum, LIMEWAX, Milzy, Napes, Psyked, RAYBAY, Thrasher |
+| Thu, 31 Dec 2026 | Beaverworks  - Trouble in Wonderland |  |
 
 ## Address
 

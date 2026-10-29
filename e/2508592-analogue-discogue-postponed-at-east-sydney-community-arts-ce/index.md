@@ -1,0 +1,15 @@
+# Analogue Discogue POSTPONED at East Sydney Community & Arts Centre
+
+Analogue Discogue POSTPONED at East Sydney Community & Arts Centre on Sun 1 Nov, Sydney. 1 artist: Norm De Plume. Deep House and Disco. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 1 Nov 2026 |
+| Venue | East Sydney Community & Arts Centre |
+| City | Sydney |
+
+## Line-up
+
+- Norm De Plume
+
+*Source: [soundcheck](https://soundcheck.club/e/2508592-analogue-discogue-postponed-at-east-sydney-community-arts-ce/)*

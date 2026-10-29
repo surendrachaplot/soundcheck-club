@@ -1,6 +1,6 @@
 # Ezekiel 25:17 x Arcosound x Underscore at TBA - Pelgrimstraat 15, 2000 Antwerpen. 
 
-Ezekiel 25:17 x Arcosound x Underscore at TBA - Pelgrimstraat 15, 2000 Antwerpen.  on Fri 13 Nov, Antwerp. 5 artists: JACKUZZI, Jana Joanna, Ludovica Frauu and Redo and 1 more. Techno and Downtempo. See the line-up on soundcheck.
+Ezekiel 25:17 x Arcosound x Underscore at TBA - Pelgrimstraat 15, 2000 Antwerpen.  on Fri 13 Nov, Antwerp. 6 artists: Etienne Victor, JACKUZZI, Jana Joanna and Ludovica Frauu and 2 more. Techno and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ezekiel 25:17 x Arcosound x Underscore at TBA - Pelgrimstraat 15, 2000 Antwerpen
 
 ## Line-up
 
+- Etienne Victor
 - JACKUZZI
 - Jana Joanna
 - Ludovica Frauu

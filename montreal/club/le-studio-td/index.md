@@ -12,7 +12,7 @@ Le Studio TD is a music venue in Montreal listed on soundcheck. 5 upcoming gigs,
 | Sat, 7 Nov 2026 | Tinzo + Jojo's Dark Library - Montreal | Jojo Lorenzo, Tinzo |
 | Sat, 7 Nov 2026 | Tinzo + Jojo - Dark Library Tour | Jojo Lorenzo, Tinzo |
 | Sun, 8 Nov 2026 | Nina Kraviz [DAY RAVE] | Corinita, Nina Kraviz, Ostrich |
-| Fri, 15 Jan 2027 | GorillaT |  |
+| Fri, 15 Jan 2027 | îLESONIQ présente: GorillaT |  |
 
 ## Address
 

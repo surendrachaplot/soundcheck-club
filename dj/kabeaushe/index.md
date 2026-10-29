@@ -1,14 +1,13 @@
 # Kabeaushé
 
-Kabeaushé is a Experimental and Pop artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Paradiso, Amsterdam on Thu, 29 Oct 2026.
+Kabeaushé is a Experimental and Pop artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at La Lune des Pirates, North on Sat, 31 Oct 2026.
 
-Kabeaushé is an experimental and pop artist based in Kenya, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside HAAi, TAAHLIAH and Adrian Sherwood. Next up: Paradiso, Amsterdam on Thu 29 Oct.
+Kabeaushé is an experimental and pop artist based in Kenya, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside HAAi, TAAHLIAH and Adrian Sherwood. Next up: La Lune des Pirates, North on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Paradiso | Amsterdam |
 | Sat, 31 Oct 2026 | La Lune des Pirates | North |
 | Thu, 19 Nov 2026 | Café Berlín | Madrid |
 | Fri, 22 Jan 2027 | TBA | Berlin |

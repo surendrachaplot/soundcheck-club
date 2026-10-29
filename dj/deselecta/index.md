@@ -1,8 +1,8 @@
 # Deselecta
 
-Deselecta is a Jungle and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Planet Wax, London on Thu, 29 Oct 2026.
+Deselecta is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Planet Wax, London on Thu, 29 Oct 2026.
 
-Deselecta is a jungle and drum & bass artist based in United Kingdom, with 75 gigs on soundcheck across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Mousai. Next up: Planet Wax, London on Thu 29 Oct.
+Deselecta is a drum & bass and jungle artist based in United Kingdom, with 76 gigs on soundcheck across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Mousai. Next up: Planet Wax, London on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Deselecta is a jungle and drum & bass artist based in United Kingdom, with 75 gi
 | Thu, 29 Oct 2026 | Planet Wax | London |
 | Fri, 30 Oct 2026 | Exchange | Bristol |
 | Sat, 31 Oct 2026 | The Cause | London |
+| Fri, 13 Nov 2026 | The Boxing Club | Bristol |
 | Fri, 18 Dec 2026 | The Cause | London |
 | Thu, 31 Dec 2026 | The Clock Factory | Bristol |
 

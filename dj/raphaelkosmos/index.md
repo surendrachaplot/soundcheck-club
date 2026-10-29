@@ -1,14 +1,15 @@
 # Raphael Kosmos
 
-Raphael Kosmos is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bike Jesus, Prague on Fri, 20 Nov 2026.
+Raphael Kosmos is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bike Jesus, Prague on Fri, 20 Nov 2026.
 
-Raphael Kosmos is a techno and electro artist based in Czech Republic, with 98 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 2 more. Often billed alongside Olinstvi, Manntracs and Midirama. Next up: Bike Jesus, Prague on Fri 20 Nov.
+Raphael Kosmos is a techno and electro artist based in Czech Republic, with 99 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 2 more. Often billed alongside Olinstvi, Manntracs and Midirama. Next up: Bike Jesus, Prague on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Bike Jesus | Prague |
+| Fri, 27 Nov 2026 | Twist Bar | Prague |
 
 ## Recently played
 

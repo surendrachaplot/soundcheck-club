@@ -1,8 +1,8 @@
 # mixtress
 
-mixtress is a Jungle and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
+mixtress is a Jungle and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
 
-mixtress is a jungle and bass artist based in United Kingdom, with 127 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside Ell Murphy, Bakey and Breaka. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
+mixtress is a jungle and bass artist based in United Kingdom, with 128 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside Ell Murphy, Bakey and Breaka. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ mixtress is a jungle and bass artist based in United Kingdom, with 127 gigs on s
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TAC (Tottenham Arts Collective) | London |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Sat, 14 Nov 2026 | TBA - Secret North London Location | London |
 | Sat, 21 Nov 2026 | The Fox and Firkin | London |
 | Fri, 22 Jan 2027 | The Carpet Shop | London |
 

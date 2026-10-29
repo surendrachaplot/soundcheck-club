@@ -1,8 +1,8 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 6 Nov 2026.
+Shanti Celeste is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 6 Nov 2026.
 
-Shanti Celeste is a house and techno artist based in United Kingdom, with 228 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 62 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: The Berkeley Suite, Glasgow on Fri 6 Nov.
+Shanti Celeste is a house and techno artist based in United Kingdom, with 229 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 62 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: The Berkeley Suite, Glasgow on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 228 gi
 | Sat, 14 Nov 2026 | Strange Brew | Bristol |
 | Fri, 27 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 28 Nov 2026 | Quarters | Brighton |
+| Thu, 31 Dec 2026 | Phonox | London |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |

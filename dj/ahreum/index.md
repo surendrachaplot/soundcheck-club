@@ -1,14 +1,13 @@
 # AHREUM
 
-AHREUM is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at HVEN, Tokyo on Thu, 29 Oct 2026.
+AHREUM is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 4 Dec 2026.
 
-AHREUM is a techno and progressive house artist, with 61 gigs on soundcheck across Tokyo. Often billed alongside U:ICHI, Drunken Kong and Shogo Ito. Next up: HVEN, Tokyo on Thu 29 Oct.
+AHREUM is a techno and progressive house artist, with 61 gigs on soundcheck across Tokyo. Often billed alongside U:ICHI, Drunken Kong and Shogo Ito. Next up: Z Maruyama, Tokyo on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | HVEN | Tokyo |
 | Fri, 4 Dec 2026 | Z Maruyama | Tokyo |
 
 ## Recently played

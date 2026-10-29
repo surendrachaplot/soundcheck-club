@@ -9,7 +9,7 @@ Locke is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Soft Power with shimmy chanel, Spaceholder of Frequencies, LAIDA & Hauke Schebitz | Hauke, Shimmy Robin, dj fako, shimmy chanel |
-| Fri, 30 Oct 2026 | After Vortrag Party with Momo & MILLE | MILLE, Momo |
+| Fri, 30 Oct 2026 | After Vortrag Party with MILLE, Momo, Jonas Pelle & Ravi | MILLE, Momo |
 | Sat, 31 Oct 2026 | Remoto Records Preparty before Pudel | Aii PS, Christian Kluge, Plastik (1) |
 | Sun, 1 Nov 2026 | Hit The Pulse |  |
 | Sat, 7 Nov 2026 | Forward Kollektiv with Anis, Eo, Jumi & Vilma | EO (1), Vilma |

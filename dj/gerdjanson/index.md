@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+Gerd Janson is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
-Gerd Janson is a house and techno artist based in Germany, with 339 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 88 more. Often billed alongside Marcel Dettmann, Âme and DJ Tennis. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
+Gerd Janson is a house and techno artist based in Germany, with 340 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 88 more. Often billed alongside Marcel Dettmann, Âme and DJ Tennis. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Gerd Janson is a house and techno artist based in Germany, with 339 gigs on soun
 | Sat, 31 Oct 2026 | Dockland | Münster |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 13 Nov 2026 | TBA | Amsterdam |
+| Sat, 14 Nov 2026 | Volt Club Milano | Milan |
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
 | Sat, 21 Nov 2026 | Preston Warehouse | Melbourne |
 | Wed, 25 Nov 2026 | Process PDX | Portland |
@@ -19,7 +20,6 @@ Gerd Janson is a house and techno artist based in Germany, with 339 gigs on soun
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
-| Fri, 18 Dec 2026 | Funkhaus | Vienna |
 
 ## Recently played
 

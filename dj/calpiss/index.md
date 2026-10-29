@@ -1,14 +1,14 @@
 # CALPISS
 
-CALPISS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at club asia, Tokyo on Thu, 29 Oct 2026.
+CALPISS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Navaro, Kyushu on Sat, 7 Nov 2026.
 
-CALPISS is a house and techno artist based in Japan, with 171 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside BANANA-CHAN, YAMARCHY and YELLOWUHURU. Next up: club asia, Tokyo on Thu 29 Oct.
+CALPISS is a house and techno artist based in Japan, with 172 gigs on soundcheck across Kyoto, Kyushu, Osaka and Tokyo. Often billed alongside BANANA-CHAN, YAMARCHY and YELLOWUHURU. Next up: Navaro, Kyushu on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | club asia | Tokyo |
+| Sat, 7 Nov 2026 | Navaro | Kyushu |
 | Tue, 10 Nov 2026 | Azumaya | Tokyo |
 
 ## Recently played

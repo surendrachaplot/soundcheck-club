@@ -1,14 +1,15 @@
 # Ground (1)
 
-Ground (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
+Ground (1) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
 
-Ground is a house and techno artist based in Japan, with 62 gigs on soundcheck across Bangkok, Berlin, Kyoto and Kyushu and 7 more. Often billed alongside SATICA, YAMA(JP/OSK) and Gonno. Next up: WOMB, Tokyo on Mon 2 Nov.
+Ground is a house and techno artist based in Japan, with 63 gigs on soundcheck across Bangkok, Berlin, Kyoto and Kyushu and 7 more. Often billed alongside SATICA, YAMA(JP/OSK) and Gonno. Next up: WOMB, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 2 Nov 2026 | WOMB | Tokyo |
+| Sat, 14 Nov 2026 | Circus Osaka | Osaka |
 | Sat, 21 Nov 2026 | BAR Inc | Osaka |
 | Sat, 21 Nov 2026 | BAR Inc | Osaka |
 

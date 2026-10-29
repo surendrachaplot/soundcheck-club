@@ -1,14 +1,15 @@
 # Leon
 
-Leon is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Amnesia Milano, Milan on Sat, 31 Oct 2026.
+Leon is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Amnesia Milano, Milan on Sat, 31 Oct 2026.
 
-Leon is a tech house and techno artist based in Italy, with 73 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Marco Carola, Yamariki and Glasse. Next up: Amnesia Milano, Milan on Sat 31 Oct.
+Leon is a tech house and techno artist based in Italy, with 74 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Marco Carola, Yamariki and Glasse. Next up: Amnesia Milano, Milan on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Amnesia Milano | Milan |
+| Fri, 6 Nov 2026 | The Range | Turin |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Dark Neon Illumination at Basement 45
 
-Dark Neon Illumination at Basement 45 on Sat 7 Nov, Bristol. 2 artists: A.N.T and Olly Junglist. Drum & Bass and Hardcore. See the line-up on soundcheck.
+Dark Neon Illumination at Basement 45 on Sat 7 Nov, Bristol. 3 artists: ChaoticStyle, Olly Junglist and Ramenbr0th. Drum & Bass and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,8 @@ Dark Neon Illumination at Basement 45 on Sat 7 Nov, Bristol. 2 artists: A.N.T an
 
 ## Line-up
 
-- A.N.T
+- ChaoticStyle
 - Olly Junglist
+- Ramenbr0th
 
 *Source: [soundcheck](https://soundcheck.club/e/2571614-dark-neon-illumination-at-basement-45/)*

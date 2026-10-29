@@ -1,14 +1,13 @@
 # KOSHIRO
 
-KOSHIRO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at SEL OCTAGON TOKYO, Tokyo on Thu, 29 Oct 2026.
+KOSHIRO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 30 Oct 2026.
 
-KOSHIRO is a techno and trance artist based in Japan, with 55 gigs on soundcheck across Osaka and Tokyo. Often billed alongside YANNY, Lynta and AI. Next up: SEL OCTAGON TOKYO, Tokyo on Thu 29 Oct.
+KOSHIRO is a techno and trance artist based in Japan, with 55 gigs on soundcheck across Osaka and Tokyo. Often billed alongside YANNY, Lynta and AI. Next up: Circus Tokyo, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Fri, 30 Oct 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played

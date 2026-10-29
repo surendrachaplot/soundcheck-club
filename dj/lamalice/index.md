@@ -1,14 +1,15 @@
 # LAMALICE
 
-LAMALICE is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Signal, New York City on Fri, 6 Nov 2026.
+LAMALICE is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Signal, New York City on Fri, 6 Nov 2026.
 
-LAMALICE is a house and electro artist based in France, with 124 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 35 more. Often billed alongside Massaï, ABI (FR) and Ill Spleen. Next up: Signal, New York City on Fri 6 Nov.
+LAMALICE is a house and electro artist based in France, with 125 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 36 more. Often billed alongside Massaï, ABI (FR) and Ill Spleen. Next up: Signal, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Signal | New York City |
+| Tue, 29 Dec 2026 | Little Moon Villa Koh Mak | Thailand |
 
 ## Recently played
 

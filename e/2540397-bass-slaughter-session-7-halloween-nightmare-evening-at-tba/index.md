@@ -1,6 +1,6 @@
 # BASS SLAUGHTER session 7 (HALLOWEEN NIGHTMARE) - Evening at TBA - SECRET LOCATION, GRĪZIŅKALNS
 
-BASS SLAUGHTER session 7 (HALLOWEEN NIGHTMARE) - Evening at TBA - SECRET LOCATION, GRĪZIŅKALNS on Sat 31 Oct, Riga. 3 artists: MVKO, oshigakill and XSYNC19. Hardcore and Garage. See the line-up on soundcheck.
+BASS SLAUGHTER session 7 (HALLOWEEN NIGHTMARE) - Evening at TBA - SECRET LOCATION, GRĪZIŅKALNS on Sat 31 Oct, Riga. 4 artists: MBark, MVKO, oshigakill and XSYNC19. Hardcore and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BASS SLAUGHTER session 7 (HALLOWEEN NIGHTMARE) - Evening at TBA - SECRET LOCATIO
 
 ## Line-up
 
+- MBark
 - MVKO
 - oshigakill
 - XSYNC19

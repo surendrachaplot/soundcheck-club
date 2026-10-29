@@ -2,7 +2,7 @@
 
 Twist Fire is a Ambient and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
 
-Twist Fire is an ambient and dub artist, with 13 gigs on soundcheck across Berlin. Often billed alongside Triqi, Maryisonacid and NaN.. Next up: Renate, Berlin on Sat 21 Nov.
+Twist Fire is an ambient and dub artist based in United States of America, with 13 gigs on soundcheck across Berlin. Often billed alongside Triqi, Maryisonacid and NaN.. Next up: Renate, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 

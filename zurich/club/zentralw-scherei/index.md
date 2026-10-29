@@ -1,15 +1,13 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "ZW-KONZERT : SAEKO KILLY / KONOMONO" on Thu, 29 Oct 2026.
+Zentralwäscherei is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Tilt with Princess P, Tebe, Greta, HyperLili, Furka Radio and others" on Sat, 31 Oct 2026.
 
-Zentralwäscherei is a music venue in Zurich listed on soundcheck. 6 upcoming gigs, with line-ups including GRETA, HyperLili, Jolly and Lord Spikeheart and 2 more. See dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
+Zentralwäscherei is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including GRETA, HyperLili, Jolly and Lord Spikeheart and 2 more. See dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | ZW-KONZERT : SAEKO KILLY / KONOMONO |  |
-| Thu, 29 Oct 2026 | ZW-CONCERT Saeko Killy / KONOMONO | Saeko Killy |
 | Sat, 31 Oct 2026 | Tilt with Princess P, Tebe, Greta, HyperLili, Furka Radio and others | GRETA (2), HyperLili, Jolly (2), Luciùs, Nora Asteroid, Princess P, Tikitula |
 | Sat, 31 Oct 2026 | ZW-TILT | HyperLili, Luciùs, Nora Asteroid, Princess P, Tikitula |
 | Thu, 5 Nov 2026 | Live in Halle: Lord Spikeheart, Radon | Lord Spikeheart |

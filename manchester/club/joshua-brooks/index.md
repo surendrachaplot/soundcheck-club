@@ -9,7 +9,7 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 16 upcoming g
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Halloween: Prunk + Watchers - Joshua Brooks Manchester | Prunk, Watchers |
-| Fri, 6 Nov 2026 | Hannah Wants x counter culture - manchester | Hannah Wants |
+| Fri, 6 Nov 2026 | Hannah Wants x counter culture - manchester | Hannah Wants, Mehlor |
 | Fri, 13 Nov 2026 | Laidback Luke | Laidback Luke |
 | Fri, 20 Nov 2026 | TS7 + Newsham - Joshua Brooks Manchester | Josh Newsham, TS7 |
 | Sat, 21 Nov 2026 | EVIE: All Night Long - Joshua Brooks Manchester |  |

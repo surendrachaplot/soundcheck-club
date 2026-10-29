@@ -1,8 +1,8 @@
 # JOKESONYOU
 
-JOKESONYOU is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 30 Oct 2026.
+JOKESONYOU is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 30 Oct 2026.
 
-JOKESONYOU is a techno and trance artist based in Australia, with 73 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside 3LEEZA, Azyr and Mika Heggemann. Next up: Entrepôts Dominion, Les, Montreal on Fri 30 Oct.
+JOKESONYOU is a techno and trance artist based in Australia, with 74 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside 3LEEZA, Azyr and Mika Heggemann. Next up: Entrepôts Dominion, Les, Montreal on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JOKESONYOU is a techno and trance artist based in Australia, with 73 gigs on sou
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Entrepôts Dominion, Les | Montreal |
 | Sat, 31 Oct 2026 | Frankie’s | Vancouver |
+| Fri, 6 Nov 2026 | The Comfort Zone | Toronto |
 | Fri, 4 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 10 Apr 2027 | Lokschuppen Berlin | Berlin |
 

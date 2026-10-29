@@ -1,13 +1,14 @@
 # Daya Dadlani
 
-Daya Dadlani is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Say No More Madrid, Madrid on Fri, 13 Nov 2026.
+Daya Dadlani is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Casa Amante Club, Madrid on Sat, 31 Oct 2026.
 
-Daya Dadlani is a house and electronica artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside Iker Lobo, Álvaro Naive and Alex Sosa. Next up: Say No More Madrid, Madrid on Fri 13 Nov.
+Daya Dadlani is a house and electronica artist based in Spain, with 10 gigs on soundcheck across Madrid. Often billed alongside Iker Lobo, Álvaro Naive and Alex Sosa. Next up: Casa Amante Club, Madrid on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Casa Amante Club | Madrid |
 | Fri, 13 Nov 2026 | Say No More Madrid | Madrid |
 
 ## Recently played

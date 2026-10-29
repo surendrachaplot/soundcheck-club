@@ -1,8 +1,8 @@
 # Navider
 
-Navider is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Slow Club, Barcelona on Thu, 29 Oct 2026.
+Navider is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Slow Club, Barcelona on Thu, 29 Oct 2026.
 
-Navider is a house and techno artist based in Spain, with 285 gigs on soundcheck across Barcelona, Budapest, Ibiza and Madrid and 1 more. Often billed alongside D.T.H., Hermes Disco Eterno and Frankie G. Next up: Slow Club, Barcelona on Thu 29 Oct.
+Navider is a house and techno artist based in Spain, with 283 gigs on soundcheck across Barcelona, Budapest, Ibiza and Madrid and 1 more. Often billed alongside D.T.H., Hermes Disco Eterno and Frankie G. Next up: Slow Club, Barcelona on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Navider is a house and techno artist based in Spain, with 285 gigs on soundcheck
 | Sat, 31 Oct 2026 | Slow Club | Barcelona |
 | Thu, 5 Nov 2026 | Slow Club | Barcelona |
 | Fri, 6 Nov 2026 | Slow Club | Barcelona |
-| Sat, 7 Nov 2026 | Slow Club | Barcelona |
-| Thu, 12 Nov 2026 | Slow Club | Barcelona |
 | Fri, 13 Nov 2026 | Slow Club | Barcelona |
 | Thu, 19 Nov 2026 | Slow Club | Barcelona |
 | Fri, 20 Nov 2026 | Slow Club | Barcelona |
 | Thu, 26 Nov 2026 | Slow Club | Barcelona |
+| Fri, 27 Nov 2026 | Slow Club | Barcelona |
+| Sat, 28 Nov 2026 | Slow Club | Barcelona |
 
 ## Recently played
 

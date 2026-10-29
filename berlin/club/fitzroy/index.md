@@ -13,7 +13,7 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with 
 | Thu, 12 Nov 2026 | HOUSE EDUCATION #09 |  |
 | Sat, 14 Nov 2026 | Insolar (Day Into Night) | Eliza (2), GRETA (2), Marius Bø, Miran N, Rompa |
 | Sun, 15 Nov 2026 | Essential Delights | Atavi, Elsia, Hasvat Informant, ISA (ES) |
-| Fri, 20 Nov 2026 | Melodic showcase | Olga Korol |
+| Fri, 20 Nov 2026 | Melodic showcase | Ferdinand Kremer, Olga Korol |
 | Sat, 21 Nov 2026 | Moritz Klein Instruments x Erica Synths: Circuit Design Sessions - FREE w/ RSVP |  |
 | Sun, 22 Nov 2026 | 3 YEARS LIFTED | Darwin Stapel, Frank Motetti, Mamede, NeZoomie, Selin (DE), Tommes K. Brandt, riss |
 | Sat, 5 Dec 2026 | SUPERSONIC  | BFAM, Carmelina, Eline (BE), POLSCHI (2), Vasile, Vic (FR) |

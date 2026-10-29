@@ -1,14 +1,15 @@
 # @djlobottomy
 
-@djlobottomy is a Latin Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at There/There, San Francisco/Oakland on Sat, 31 Oct 2026.
+@djlobottomy is a Latin Bass and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at There/There, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-@djlobottomy is a latin bass and electronica artist based in United States of America, with 27 gigs on soundcheck across San Francisco/Oakland. Often billed alongside xtcemi, Martyr Princess and Maznoize. Next up: There/There, San Francisco/Oakland on Sat 31 Oct.
+@djlobottomy is a latin bass and electronica artist based in United States of America, with 28 gigs on soundcheck across San Francisco/Oakland. Often billed alongside xtcemi, Martyr Princess and Maznoize. Next up: There/There, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | There/There | San Francisco/Oakland |
+| Fri, 6 Nov 2026 | Delirium San Francisco | San Francisco/Oakland |
 
 ## Recently played
 

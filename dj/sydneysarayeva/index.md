@@ -1,14 +1,15 @@
 # Sydney Sarayeva
 
-Sydney Sarayeva is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Blue Room, Montreal on Sat, 31 Oct 2026.
+Sydney Sarayeva is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Blue Room, Montreal on Sat, 31 Oct 2026.
 
-Sydney Sarayeva is a tech house and techno artist based in Canada, with 28 gigs on soundcheck across Montreal and Toronto. Often billed alongside Manzone & Strong, Barroness and Miz Megs. Next up: Blue Room, Montreal on Sat 31 Oct.
+Sydney Sarayeva is a tech house and techno artist based in Canada, with 29 gigs on soundcheck across Montreal and Toronto. Often billed alongside Manzone & Strong, Barroness and Miz Megs. Next up: Blue Room, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Blue Room | Montreal |
+| Sat, 14 Nov 2026 | Sainte-Catherine Hall | Montreal |
 | Sat, 28 Nov 2026 | Bar Datcha | Montreal |
 
 ## Recently played

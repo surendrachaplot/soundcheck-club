@@ -1,6 +1,6 @@
 # Memphis Gansta Rave at Humboldthain Club
 
-Memphis Gansta Rave at Humboldthain Club on Sat 31 Oct, Berlin. 4 artists: DJ Creole Princess, DJ Spit (ES), MACKSTA C and Viikatory. House and Hip-Hop. See the line-up on soundcheck.
+Memphis Gansta Rave at Humboldthain Club on Sat 31 Oct, Berlin. 4 artists: DJ Creole Princess, DJ Spit, MACKSTA C and Viikatory. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Memphis Gansta Rave at Humboldthain Club on Sat 31 Oct, Berlin. 4 artists: DJ Cr
 ## Line-up
 
 - DJ Creole Princess
-- DJ Spit (ES)
+- DJ Spit
 - MACKSTA C
 - Viikatory
 

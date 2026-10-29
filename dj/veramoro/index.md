@@ -1,14 +1,15 @@
 # Vera Moro
 
-Vera Moro is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
+Vera Moro is a Techno and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
 
-Vera Moro is a techno and latin bass artist based in Belgium, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside NMSS, Stanislawa and Ricky Corazón. Next up: KREUZWERK, Berlin on Sat 31 Oct.
+Vera Moro is a techno and latin bass artist based in Belgium, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside NMSS, Stanislawa and Ricky Corazón. Next up: KREUZWERK, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | KREUZWERK | Berlin |
+| Sat, 7 Nov 2026 | The Grey Space In The Middle | The Hague |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 
 ## Recently played

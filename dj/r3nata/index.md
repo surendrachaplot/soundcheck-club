@@ -1,13 +1,14 @@
 # R3NATA
 
-R3NATA is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kater, Berlin on Fri, 20 Nov 2026.
+R3NATA is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at MODULE, Copenhagen on Fri, 6 Nov 2026.
 
-R3NATA is a techno and progressive house artist, with 28 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Miami and 1 more. Often billed alongside Urem, Corios and Elias Goldmund. Next up: Kater, Berlin on Fri 20 Nov.
+R3NATA is a techno and progressive house artist, with 29 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Miami and 1 more. Often billed alongside Urem, Corios and Elias Goldmund. Next up: MODULE, Copenhagen on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | MODULE | Copenhagen |
 | Fri, 20 Nov 2026 | Kater | Berlin |
 
 ## Recently played

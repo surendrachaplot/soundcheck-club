@@ -9,7 +9,7 @@ Outernet Live is a music venue in London listed on soundcheck. 14 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Labyrinth presents: Cassius Last Ever Live Show | Cassius, Fantastic Man, Tiffany Quinn |
-| Sat, 7 Nov 2026 | Two Shell (A/V Show) with Weirdcore, Samuelspaniel, Bugasmurph ++more — Outernet Live, London | Samuelspaniel, Two Shell |
+| Sat, 7 Nov 2026 | Two Shell (A/V Show) with Weirdcore, Samuelspaniel, Bugasmurf ++more — Outernet Live, London | Samuelspaniel, Two Shell |
 | Sat, 14 Nov 2026 | The History of Jungle | DJ Hype, DJ Rap, DJ SS, Eksman, Grooverider, Inja, Kenny Ken, MC Det, MC Flux, MC GQ, Majistrate, Navigator, Nicky Blackmarket, Roni Size |
 | Sat, 14 Nov 2026 | A State of Trance London Afterparty feat. Dash Berlin, Daxson & More | Dash Berlin, Daxson, Modea, P.O.U |
 | Fri, 20 Nov 2026 | ALISHA - All Night Long | ALISHA |

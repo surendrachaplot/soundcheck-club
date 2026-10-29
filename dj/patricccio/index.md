@@ -1,14 +1,15 @@
 # patricccio
 
-patricccio is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 31 Oct 2026.
+patricccio is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 31 Oct 2026.
 
-patricccio is a techno and latin bass artist based in Mexico, with 47 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside Atch22, Yan (CZ) and Alfred Czital. Next up: Ankali & Planeta Za, Prague on Sat 31 Oct.
+patricccio is a techno and latin bass artist based in Mexico, with 48 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside Atch22, Yan (CZ) and Alfred Czital. Next up: Ankali & Planeta Za, Prague on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Ankali & Planeta Za | Prague |
+| Sat, 7 Nov 2026 | Twist Bar | Prague |
 
 ## Recently played
 

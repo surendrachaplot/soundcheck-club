@@ -1,13 +1,14 @@
 # ddwy
 
-ddwy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Low Profile Studios, London on Fri, 20 Nov 2026.
+ddwy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Secret Location, London on Sat, 14 Nov 2026.
 
-ddwy is a house and techno artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 22 more. Often billed alongside Inner Totality, Denzel and Bell Towers. Next up: Low Profile Studios, London on Fri 20 Nov.
+ddwy is a house and techno artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 22 more. Often billed alongside Inner Totality, Denzel and Bell Towers. Next up: Secret Location, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Secret Location | London |
 | Fri, 20 Nov 2026 | Low Profile Studios | London |
 
 ## Recently played

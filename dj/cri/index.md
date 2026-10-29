@@ -1,14 +1,14 @@
 # CRi
 
-CRi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kauz, Zurich on Fri, 4 Dec 2026.
+CRi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
 
-CRi is a house and deep house artist based in Canada, with 53 gigs on soundcheck across Austin, Berlin, Chicago and Dallas/Fort Worth and 16 more. Often billed alongside Nicky Elisabeth, Hana and Eli & Fur. Next up: Kauz, Zurich on Fri 4 Dec.
+CRi is a house and deep house artist based in Canada, with 53 gigs on soundcheck across Austin, Berlin, Chicago and Dallas/Fort Worth and 16 more. Often billed alongside Nicky Elisabeth, Hana and Eli & Fur. Next up: Kauz, Zurich on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Dec 2026 | Kauz | Zurich |
+| Fri, 11 Dec 2026 | Kauz | Zurich |
 
 ## Recently played
 

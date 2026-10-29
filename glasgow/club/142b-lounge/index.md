@@ -14,7 +14,7 @@
 | Sat, 31 Oct 2026 | NDOTZ HALLOWEEN AFTERPARTY |  |
 | Sun, 1 Nov 2026 | SOUL SUNDAYS feat. DJ NAEEM |  |
 | Fri, 6 Nov 2026 | FREAKY AFROPIANO FRIDAYS |  |
-| Sat, 7 Nov 2026 | Nothings Hits Harder |  |
+| Sat, 7 Nov 2026 | NOTHING HITS HARDER feat. DJ SAMSZY Live in Glasgow |  |
 | Sun, 8 Nov 2026 | BRYMO OFFICIAL AFTERPARTY |  |
 | Fri, 13 Nov 2026 | FREAKY AFROPIANO FRIDAYS |  |
 | Sat, 14 Nov 2026 | Nothing Hits Harder |  |

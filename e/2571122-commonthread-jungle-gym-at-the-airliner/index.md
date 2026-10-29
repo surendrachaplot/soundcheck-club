@@ -1,6 +1,6 @@
-# COMMONTHREAD - Jungle Gym at The Airliner
+# COMMONTHREAD - JUNGLE GYM at The Airliner
 
-COMMONTHREAD - Jungle Gym at The Airliner on Sat 21 Nov, Los Angeles. 1 artist: Salenta. Dub and Jungle. See the line-up on soundcheck.
+COMMONTHREAD - JUNGLE GYM at The Airliner on Sat 21 Nov, Los Angeles. 2 artists: mira.avi and Salenta. Dub and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ COMMONTHREAD - Jungle Gym at The Airliner on Sat 21 Nov, Los Angeles. 1 artist: 
 
 ## Line-up
 
+- mira.avi
 - Salenta
 
 *Source: [soundcheck](https://soundcheck.club/e/2571122-commonthread-jungle-gym-at-the-airliner/)*

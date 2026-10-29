@@ -1,13 +1,14 @@
 # Camporeale (FR)
 
-Camporeale (FR) is a UK Funky and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Haggerston, London on Sat, 21 Nov 2026.
+Camporeale (FR) is a UK Funky and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Glazart, Paris on Sat, 7 Nov 2026.
 
-Camporeale (FR) is an uk funky and electro artist based in France, with 16 gigs on soundcheck across London, Milan and Paris. Often billed alongside Annyrock, Audem and BADSISTA. Next up: The Haggerston, London on Sat 21 Nov.
+Camporeale (FR) is an uk funky and garage artist based in France, with 17 gigs on soundcheck across London, Milan and Paris. Often billed alongside Annyrock, Audem and BADSISTA. Next up: Glazart, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Glazart | Paris |
 | Sat, 21 Nov 2026 | The Haggerston | London |
 
 ## Recently played

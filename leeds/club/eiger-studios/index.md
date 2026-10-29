@@ -15,7 +15,7 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 14 upcoming gigs, 
 | Thu, 12 Nov 2026 | Limousine Dream: Secrets Launch Party [Gene On Earth + Wallace] | Gene On Earth, Wallace |
 | Fri, 13 Nov 2026 | keep going presents: švedka w / mentz krueger, shizIa + durgy | Shizla, švedka |
 | Sat, 14 Nov 2026 | Granville Collective - Leeds w/ Bobby | Bobby., LEN. |
-| Fri, 20 Nov 2026 | Big Boys presents Opening Night with Cottam | Cottam (2), Joe Ross |
+| Fri, 20 Nov 2026 | Big Boys presents Opening Night with Cottam | Cottam (2), Joe Ross, Kid Charlemagne |
 | Sat, 21 Nov 2026 | La Bise 1st Birthday: Dan Andrei, Benny Bysouth & Redshift | Benny Bysouth, Dan Andrei, Redshift (2) |
 | Fri, 27 Nov 2026 | desire line with mad miran & residents | Constance, Eve Lizard, Jetsam, mad miran |
 

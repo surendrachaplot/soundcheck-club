@@ -1,14 +1,13 @@
 # GAKUTO(TOKYO)
 
-GAKUTO(TOKYO) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at flo Soakin, Osaka on Thu, 29 Oct 2026.
+GAKUTO(TOKYO) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mitsuki, Tokyo on Sat, 7 Nov 2026.
 
-GAKUTO(TOKYO) is a techno and house artist, with 17 gigs on soundcheck across Chongqing, Kyoto, Osaka and Tokyo. Often billed alongside ceza, Tui and AKIRA  FLAMMA. Next up: flo Soakin, Osaka on Thu 29 Oct.
+GAKUTO(TOKYO) is a techno and house artist, with 17 gigs on soundcheck across Chongqing, Kyoto, Osaka and Tokyo. Often billed alongside ceza, Tui and AKIRA  FLAMMA. Next up: Mitsuki, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | flo Soakin | Osaka |
 | Sat, 7 Nov 2026 | Mitsuki | Tokyo |
 
 ## Recently played

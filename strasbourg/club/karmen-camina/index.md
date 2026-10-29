@@ -1,8 +1,8 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić]" on Thu, 29 Oct 2026.
+Karmen Camina is a music venue in Strasbourg with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić]" on Thu, 29 Oct 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 13 upcoming gigs, with line-ups including Amadeo Savio, Arbo, Bitter Babe and Bjr Alex and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 16 upcoming gigs, with line-ups including Amadeo Savio, Arbo, Bitter Babe and Bjr Alex and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 13 upcoming g
 | Thu, 5 Nov 2026 | COMBO CLUB [HiLo, Ødass] |  |
 | Fri, 6 Nov 2026 | Musik im Augenblick [Alice Gift (live) • DJ Marcelle • Oskar Haag (live) • Rachid Bowie] | DJ Marcelle |
 | Sat, 7 Nov 2026 | KC [Ollie Lishman • RUIZ OSC1 • TristeTrans • VOIDE] | Ollie Lishman, RUIZ OSC1 |
+| Thu, 12 Nov 2026 | ALGORAVE [Crash server, Jia Liu & Michel Samarotto, Students] |  |
+| Fri, 13 Nov 2026 | KOLLECTIV • ZEST RADIO [Om Unit • Blakkstar • Trash Mc.Queen • RCB SOUNDSYSTEM] | Om Unit |
 | Sat, 14 Nov 2026 | KC x FLASHBALL [Nicolas Lutz • Sedef Adasï • Mel • Sanon] | Nicolas Lutz, Sedef Adasï |
-| Fri, 20 Nov 2026 | Keep Hush X SPECTR with DRIIA (uk), Noli (uk) | DRIIA, GTK (1) |
-| Sat, 21 Nov 2026 | KC [Randomer • Cryptofauna • Die Klar • Justine Maze • Staary] | Cryptofauna, Die Klar, Justine Maze, Randomer |
-| Sat, 28 Nov 2026 | HEISSS x 31Hertz [Disguised • Juri Heidemann • Kim She • Aligatou • Arbo • Neurone • Ochenne] | Arbo, Disguised, Juri Heidemann, Kim She |
+| Thu, 19 Nov 2026 | COMBO CLUB [Shônagon & Glenn Prinz] |  |
 
 ## Address
 

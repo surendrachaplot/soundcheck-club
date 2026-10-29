@@ -1,6 +1,6 @@
 # Halloween Warehouse Dance with DJ Travella, DJ Nigga Fox, plentyppl + more at Jumbi
 
-Halloween Warehouse Dance with DJ Travella, DJ Nigga Fox, plentyppl + more at Jumbi on Sat 31 Oct, London. 5 artists: CasuallyClued, DJ Nigga Fox, DJ Travella and Marvin Jupiter and 1 more. Kuduro and Singeli. See the line-up on soundcheck.
+Halloween Warehouse Dance with DJ Travella, DJ Nigga Fox, plentyppl + more at Jumbi on Sat 31 Oct, London. 6 artists: CasuallyClued, DJ Nigga Fox, DJ Travella and Kemarr and 2 more. Kuduro and Singeli. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Halloween Warehouse Dance with DJ Travella, DJ Nigga Fox, plentyppl + more at Ju
 - CasuallyClued
 - DJ Nigga Fox
 - DJ Travella
+- Kemarr
 - Marvin Jupiter
 - Yemz
 

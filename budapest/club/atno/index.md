@@ -10,7 +10,7 @@ Atno is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with l
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Mehet | Akos V, Hanussen, Kiqo, Meduzah, Rolo (2), Stark |
 | Sat, 31 Oct 2026 | Diszkóázis | Infragandhi, Softense |
-| Fri, 6 Nov 2026 | Elektroázis | Galactic Jackson, Kvrk, LAU (6), Max Sinclair, Mesterhazy |
+| Fri, 6 Nov 2026 | Elektroázis | Atomik, Galactic Jackson, Kvrk, LAU (6), Max Sinclair, Mesterhazy |
 | Sat, 7 Nov 2026 | Shifted Frequencies 006: BLNDFLD (GE) | BLNDFLD, Réti Virág, sabw.ay, szoliver |
 | Fri, 13 Nov 2026 | ABC Events w/Cap | Cap, Claudio Imperatrice, Sandor (2), Skjaerstad |
 | Sat, 14 Nov 2026 | 4/4 Bass Focus | Csodaszoba, Zakhorov, tshabee |

@@ -9,7 +9,7 @@ Village Underground is a music venue in London listed on soundcheck. 17 upcoming
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Origins: Batu [All Night Long]  | Batu |
-| Sat, 31 Oct 2026 | Mungo's HiFi (Full Soundsystem) - Halloween Daytime Session | Mungo's Hi Fi |
+| Sat, 31 Oct 2026 | Mungo's HiFi (Full Soundsystem) - Halloween Daytime Session | Killa P, Mungo's Hi Fi |
 | Sat, 31 Oct 2026 | Labyrinth presents: Caiiro x Da Capo x Enoo Napa B3B Halloween Afterparty | Caiiro, Da Capo, Enoo Napa |
 | Sat, 7 Nov 2026 | Eastern Margins x Asian Paper: DJ Billybool & More | amil raja |
 | Fri, 13 Nov 2026 | Red Axes - Village Underground | Harri Pepper, Red Axes |

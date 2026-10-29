@@ -9,7 +9,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 34 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | haptic: Massie | Bartek, Comrade Massie, freddy haptic |
-| Fri, 30 Oct 2026 | Rinse FM: Yung Singh | Yung Singh |
+| Fri, 30 Oct 2026 | Rinse FM: Yung Singh + miira | Yung Singh, miira |
 | Sat, 31 Oct 2026 | Soul Jam: Fierro Grande | Fierro Grande, Percy Main |
 | Sun, 1 Nov 2026 | Postal: DJ CABLECAR | DJ CABLECAR |
 | Mon, 2 Nov 2026 | Konversion | 3MR., Buckfast Barbie |

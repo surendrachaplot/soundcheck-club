@@ -8,6 +8,6 @@ TBA - Hackney Wick - Secret Location is a music venue in London listed on soundc
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Dig This Invites | Brennan, Dig This, Michael Wagner, Toby (UK) |
+| Fri, 27 Nov 2026 | Dig This Invites | Brennan (2), Dig This, Michael Wagner, Toby (UK) |
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-hackney-wick-secret-location/)*

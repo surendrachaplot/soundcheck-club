@@ -9,7 +9,7 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | HALLOWEEN | Carlos Souffront, Clarisa Kimskii, DJ Stingray 313, Danny Daze, Ehua, Mor Elian, Suze Ijó |
-| Sat, 7 Nov 2026 | Tobiahs - Montréal | Tobiah |
+| Sat, 7 Nov 2026 | Tobiahs - Montréal | Rim SDL |
 | Tue, 10 Nov 2026 | Nia Archives - Montréal | Bambii, Nia Archives |
 | Thu, 12 Nov 2026 | BEATS x SAT — [Unfolded] | Myriam Bleau |
 | Fri, 20 Nov 2026 | Club SAT — Turbine (Live A/V) • Musik Me Luv (Melek b3b Dick Lee b3b nad) | Dick Lee, Melek, Turbine |

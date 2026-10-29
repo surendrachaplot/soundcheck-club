@@ -1,6 +1,6 @@
 # REFLEXIONS invites Spiral Generator, Tromac, Starship Truth, and SEMA (live) at The Compound
 
-REFLEXIONS invites Spiral Generator, Tromac, Starship Truth, and SEMA (live) at The Compound on Fri 30 Oct, Baltimore. 6 artists: 30000AD, MIRA MIRA, Pamela_ and her sons and Rage.inald and 2 more. Experimental and Club. See the line-up on soundcheck.
+REFLEXIONS invites Spiral Generator, Tromac, Starship Truth, and SEMA (live) at The Compound on Fri 30 Oct, Baltimore. 7 artists: 30000AD, Kiernan Laveaux, MIRA MIRA and Pamela_ and her sons and 3 more. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ REFLEXIONS invites Spiral Generator, Tromac, Starship Truth, and SEMA (live) at 
 ## Line-up
 
 - 30000AD
+- Kiernan Laveaux
 - MIRA MIRA
 - Pamela_ and her sons
 - Rage.inald

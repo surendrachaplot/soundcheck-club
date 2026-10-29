@@ -1,0 +1,11 @@
+# Studio Stereo x &friends pres. Giuliano Lomonte at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
+
+Studio Stereo x &friends pres. Giuliano Lomonte at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 14 Nov, Barcelona. House and Electro. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 14 Nov 2026 |
+| Venue | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona |
+| City | Barcelona |
+
+*Source: [soundcheck](https://soundcheck.club/e/2541015-studio-stereo-x-friends-pres-giuliano-lomonte-at-tba-studio/)*

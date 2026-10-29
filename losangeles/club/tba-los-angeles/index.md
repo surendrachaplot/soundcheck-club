@@ -1,8 +1,8 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "WORK presents: Narciss, Masha Mar, & Marc Homer" on Fri, 6 Nov 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "WORK presents: Narciss, Masha Mar, & Marc Homer" on Fri, 6 Nov 2026.
 
-TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 11 upcoming gigs, with line-ups including 999999999, Adrian Reyes, Annika Wolfe and Body Wave DJs and 2 more. See dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 12 upcoming gigs, with line-ups including 999999999, Adrian Reyes, Akua and Annika Wolfe and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

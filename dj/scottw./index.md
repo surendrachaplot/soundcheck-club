@@ -1,13 +1,14 @@
 # Scott W.
 
-Scott W. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 4 Dec 2026.
+Scott W. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Vancouver on Fri, 27 Nov 2026.
 
-Scott W. is a techno and house artist based in Canada, with 23 gigs on soundcheck across Calgary, Osaka, Portland and Tokyo and 2 more. Often billed alongside Dane, KAITO. and Beiti. Next up: Biltmore Cabaret, Vancouver on Fri 4 Dec.
+Scott W. is a techno and house artist based in Canada, with 24 gigs on soundcheck across Calgary, Osaka, Portland and Tokyo and 2 more. Often billed alongside Dane, KAITO. and Beiti. Next up: TBA, Vancouver on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | TBA | Vancouver |
 | Fri, 4 Dec 2026 | Biltmore Cabaret | Vancouver |
 
 ## Recently played

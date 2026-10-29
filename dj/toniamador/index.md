@@ -1,14 +1,13 @@
 # Toni Amador
 
-Toni Amador is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bridge 48, Barcelona on Thu, 29 Oct 2026.
+Toni Amador is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Kiosk del Rec (Igualada), Barcelona on Sat, 7 Nov 2026.
 
-Toni Amador is a techno and house artist based in Spain, with 31 gigs on soundcheck across Barcelona. Often billed alongside Ana Alves, Hades PRX and Ikari. Next up: Bridge 48, Barcelona on Thu 29 Oct.
+Toni Amador is a techno and house artist based in Spain, with 31 gigs on soundcheck across Barcelona. Often billed alongside Ana Alves, Hades PRX and Ikari. Next up: TBA - Kiosk del Rec (Igualada), Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Bridge 48 | Barcelona |
 | Sat, 7 Nov 2026 | TBA - Kiosk del Rec (Igualada) | Barcelona |
 | Thu, 26 Nov 2026 | Les Enfants Brillants | Barcelona |
 

@@ -1,0 +1,17 @@
+# Foro Normandie
+
+Foro Normandie is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "HARD HALOWEEN" on Sat, 31 Oct 2026.
+
+Foro Normandie is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including DEFAVLT and Ironick. See dates, start times and who's playing. Calle López 15, Colonia Centro, Centro, 06000 Ciudad de México, CDMX, Mexico.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | HARD HALOWEEN | DEFAVLT, Ironick |
+
+## Address
+
+Calle López 15, Colonia Centro, Centro, 06000 Ciudad de México, CDMX, Mexico, Mexico City
+
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/foro-normandie/)*

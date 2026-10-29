@@ -14,7 +14,7 @@ The Airliner is a music venue in Los Angeles listed on soundcheck. 7 upcoming gi
 | Sat, 14 Nov 2026 | WHAT'S THE 411 |  |
 | Tue, 17 Nov 2026 | VINSON presents: Good Company | VINSON |
 | Fri, 20 Nov 2026 | The One Hundred | Juliet Mendoza, Yazmina |
-| Sat, 21 Nov 2026 | COMMONTHREAD - Jungle Gym | Salenta |
+| Sat, 21 Nov 2026 | COMMONTHREAD - JUNGLE GYM | Salenta, mira.avi |
 
 ## Address
 

@@ -8,6 +8,6 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 1 Jan 2027 | smalltown NYD with Âme, Kölsch + Mano Le Tough | Dj Bouncy, Gumm, Jack Colletta, Kölsch, Mano Le Tough, Samantha Loveridge, Âme |
+| Fri, 1 Jan 2027 | smalltown NYD with Âme, Kölsch + Mano Le Tough | Dj Bouncy, Gumm, Jack Colletta, Kölsch, Mano Le Tough, Samantha Loveridge, Tilly Hardy, Âme |
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/7-palmer-parade-cremorne-3121/)*

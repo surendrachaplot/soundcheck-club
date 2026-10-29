@@ -1,13 +1,14 @@
 # Janky
 
-Janky is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 14 Nov 2026.
+Janky is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Animal, New York City on Sun, 1 Nov 2026.
 
-Janky is a house and techno artist, with 40 gigs on soundcheck across Berlin, Chicago, Istanbul and London and 8 more. Often billed alongside Towicz, Derrick Carter and Dominique Lamee. Next up: Warehouse on Watts, Philadelphia on Sat 14 Nov.
+Janky is a house and techno artist, with 41 gigs on soundcheck across Berlin, Chicago, Istanbul and London and 8 more. Often billed alongside Towicz, Derrick Carter and Dominique Lamee. Next up: Animal, New York City on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Animal | New York City |
 | Sat, 14 Nov 2026 | Warehouse on Watts | Philadelphia |
 
 ## Recently played

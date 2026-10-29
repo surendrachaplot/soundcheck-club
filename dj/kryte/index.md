@@ -9,7 +9,7 @@ KRYTE is a techno and electronica artist based in Spain, with 39 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Bridge 48 | Barcelona |
-| Thu, 5 Nov 2026 | The Supermercat Gotico | Barcelona |
+| Thu, 5 Nov 2026 | Can Luis | Barcelona |
 
 ## Recently played
 

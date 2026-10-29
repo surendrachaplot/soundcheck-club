@@ -1,14 +1,15 @@
 # LIONESSA
 
-LIONESSA is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 31 Oct 2026.
+LIONESSA is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Sat, 31 Oct 2026.
 
-LIONESSA is a bass and electro artist based in Egypt, with 29 gigs on soundcheck across Athens, Berlin, Dublin and Geneva and 8 more. Often billed alongside suciopath, PUFF and AWood. Next up: Geary Avenue Warehouse Project, Toronto on Sat 31 Oct.
+LIONESSA is a bass and electro artist based in Egypt, with 30 gigs on soundcheck across Athens, Berlin, Chicago and Dublin and 9 more. Often billed alongside suciopath, PUFF and AWood. Next up: Geary Avenue Warehouse Project, Toronto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Geary Avenue Warehouse Project | Toronto |
+| Sat, 7 Nov 2026 | Sleeping Village | Chicago |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Panooc
 
-Panooc is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 29 Oct 2026.
+Panooc is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
 
-Panooc is a house and techno artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Edinburgh and 6 more. Often billed alongside Robin Flux, Michelle Manetti and materia hache. Next up: Bulbul Berlin, Berlin on Thu 29 Oct.
+Panooc is a house and techno artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Edinburgh and 6 more. Often billed alongside Robin Flux, Michelle Manetti and materia hache. Next up: Renate, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Bulbul Berlin | Berlin |
 | Sat, 31 Oct 2026 | Renate | Berlin |
 
 ## Recently played

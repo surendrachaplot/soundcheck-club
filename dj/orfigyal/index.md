@@ -1,13 +1,14 @@
 # ORFIGYAL
 
-ORFIGYAL is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+ORFIGYAL is a Reggaeton and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sala ART, Madrid on Fri, 6 Nov 2026.
 
-ORFIGYAL is a reggaeton and neo perreo artist based in Spain, with 40 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 6 more. Often billed alongside Mena G, NAD1A and TINA (ES). Next up: Razzmatazz, Barcelona on Sat 21 Nov.
+ORFIGYAL is a reggaeton and neo perreo artist based in Spain, with 41 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 6 more. Often billed alongside Mena G, NAD1A and TINA (ES). Next up: Sala ART, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Sala ART | Madrid |
 | Sat, 21 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played

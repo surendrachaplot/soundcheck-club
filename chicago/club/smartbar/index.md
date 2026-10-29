@@ -9,7 +9,7 @@ smartbar is a music venue in Chicago listed on soundcheck. 19 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Nanoos & Company feat. Nanoos - DJ Spinn - DJ Zuni | DJ Spinn, Nanoos |
-| Sat, 31 Oct 2026 | THE HOT B!T@# HALLOWEEN PARTY feat. Miss Toto - Madeline - Kitt Vesper - Virago | Kitt Vesper, Madeline (Chi), Miss Toto |
+| Sat, 31 Oct 2026 | THE HOT B!T@# HALLOWEEN PARTY feat. Miss Toto - Madeline - Mister Wallace - Virago | Madeline (Chi), Miss Toto, Mister Wallace |
 | Sun, 1 Nov 2026 | All-Building Hallo-Queen | Chris Cruse, Czboogie, DJ Minx, Derrick Carter, Michael Serafini |
 | Fri, 6 Nov 2026 | Tinzo & Jojo - DJ Lady D | DJ Lady D, Jojo Lorenzo, Tinzo |
 | Sat, 7 Nov 2026 | Format presents UFO95 (Live) - Brenda - KX1000 | Brenda, KX1000, UFO95 |

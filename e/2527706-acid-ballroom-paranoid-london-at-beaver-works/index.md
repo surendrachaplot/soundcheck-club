@@ -1,6 +1,6 @@
 # Acid Ballroom: Paranoid London at Beaver Works
 
-Acid Ballroom: Paranoid London at Beaver Works on Fri 6 Nov, Leeds. 4 artists: E-Boo, Jake Rollinson, OJ Willis and Paranoid London. Techno and Acid. See the line-up on soundcheck.
+Acid Ballroom: Paranoid London at Beaver Works on Fri 6 Nov, Leeds. 5 artists: E-Boo, Jake Rollinson, OJ Willis and ORI (ozone) and 1 more. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Acid Ballroom: Paranoid London at Beaver Works on Fri 6 Nov, Leeds. 4 artists: E
 - E-Boo
 - Jake Rollinson
 - OJ Willis
+- ORI (ozone)
 - Paranoid London
 
 *Source: [soundcheck](https://soundcheck.club/e/2527706-acid-ballroom-paranoid-london-at-beaver-works/)*

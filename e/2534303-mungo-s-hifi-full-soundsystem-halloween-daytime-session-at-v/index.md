@@ -1,6 +1,6 @@
 # Mungo's HiFi (Full Soundsystem) - Halloween Daytime Session at Village Underground
 
-Mungo's HiFi (Full Soundsystem) - Halloween Daytime Session at Village Underground on Sat 31 Oct, London. 1 artist: Mungo's Hi Fi. Bass and Dub. See the line-up on soundcheck.
+Mungo's HiFi (Full Soundsystem) - Halloween Daytime Session at Village Underground on Sat 31 Oct, London. 2 artists: Killa P and Mungo's Hi Fi. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Mungo's HiFi (Full Soundsystem) - Halloween Daytime Session at Village Undergrou
 
 ## Line-up
 
+- Killa P
 - Mungo's Hi Fi
 
 *Source: [soundcheck](https://soundcheck.club/e/2534303-mungo-s-hifi-full-soundsystem-halloween-daytime-session-at-v/)*

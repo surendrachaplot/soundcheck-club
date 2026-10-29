@@ -1,14 +1,16 @@
 # Goya Social Club
 
-Goya Social Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Promised Wax invites Occibel" on Fri, 30 Oct 2026.
+Goya Social Club is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "SPOOKY GROOVES" on Thu, 29 Oct 2026.
 
-Goya Social Club is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Charlotte (FR), Diego, Giammarco Orsini and Joanna K and 2 more. See dates, start times and who's playing. Calle de Goya, 43, 28001 Madrid, Spain.
+Goya Social Club is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Charlotte (FR), Diego, Giammarco Orsini and Joanna K and 2 more. See dates, start times and who's playing. Calle de Goya, 43, 28001 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | SPOOKY GROOVES |  |
 | Fri, 30 Oct 2026 | Promised Wax invites Occibel | Joanna K, Matthieu Faubourg, Occibel, Santa Fe |
+| Sat, 31 Oct 2026 | HALLOWEEN @ ZFX |  |
 | Fri, 6 Nov 2026 | Baila Ritmo with Shakti |  |
 | Fri, 13 Nov 2026 | Flat Response with Giammarco Orsini | Diego (8), Giammarco Orsini, Le Nomad |
 | Fri, 4 Dec 2026 | Flat Response with Charlotte | Charlotte (FR), Le Nomad |

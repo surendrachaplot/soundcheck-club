@@ -1,13 +1,14 @@
 # ANÍBAL
 
-ANÍBAL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+ANÍBAL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 31 Oct 2026.
 
-ANÍBAL is a techno and trance artist based in Portugal, with 25 gigs on soundcheck across Berlin, Lisbon and Madrid. Often billed alongside Djooke, AAguilAA and Dimitri Tenot. Next up: OST, Berlin on Thu 31 Dec.
+ANÍBAL is a techno and trance artist based in Portugal, with 26 gigs on soundcheck across Berlin, Lisbon and Madrid. Often billed alongside Djooke, AAguilAA and Dimitri Tenot. Next up: NADA Lisbon, Lisbon on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | NADA Lisbon | Lisbon |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played

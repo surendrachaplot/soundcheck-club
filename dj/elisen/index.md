@@ -1,14 +1,15 @@
 # Elisen
 
-Elisen is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gewölbe, Cologne on Sun, 8 Nov 2026.
+Elisen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gewölbe, Cologne on Sun, 8 Nov 2026.
 
-Elisen is a techno and house artist based in Germany, with 42 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside Leolo Lozone, Gutkind and Marcel Janovsky. Next up: Gewölbe, Cologne on Sun 8 Nov.
+Elisen is a techno and house artist based in Germany, with 43 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside Leolo Lozone, Gutkind and Marcel Janovsky. Next up: Gewölbe, Cologne on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | Gewölbe | Cologne |
+| Sat, 28 Nov 2026 | Gewölbe | Cologne |
 | Fri, 11 Dec 2026 | Artheater | Cologne |
 | Sat, 19 Dec 2026 | fi | Cologne |
 

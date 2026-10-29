@@ -1,14 +1,16 @@
 # Rick Wade
 
-Rick Wade is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Email deepsidebaltimore@gmail.com, Baltimore on Sat, 14 Nov 2026.
+Rick Wade is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Stone House Bar, Detroit on Wed, 11 Nov 2026.
 
-Rick Wade is a house and deep house artist based in United States of America, with 62 gigs on soundcheck across Atlanta, Austin, Baltimore and Barcelona and 14 more. Often billed alongside Chuck Daniels, Norm Talley and Curmudgeon. Next up: TBA - Email deepsidebaltimore@gmail.com, Baltimore on Sat 14 Nov.
+Rick Wade is a house and deep house artist based in United States of America, with 64 gigs on soundcheck across Atlanta, Austin, Baltimore and Barcelona and 14 more. Often billed alongside Chuck Daniels, Norm Talley and Curmudgeon. Next up: The Stone House Bar, Detroit on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 11 Nov 2026 | The Stone House Bar | Detroit |
 | Sat, 14 Nov 2026 | TBA - Email deepsidebaltimore@gmail.com | Baltimore |
+| Sat, 21 Nov 2026 | The Monkey Loft | Seattle |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 | Sun, 20 Dec 2026 | Ticcle | Hobart |
 

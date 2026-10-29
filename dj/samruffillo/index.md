@@ -1,13 +1,14 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Good Room, New York City on Thu, 10 Dec 2026.
+Sam Ruffillo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Prysm Nightclub, Chicago on Sat, 5 Dec 2026.
 
-Sam Ruffillo is a house and disco artist based in Italy, with 125 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 40 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Good Room, New York City on Thu 10 Dec.
+Sam Ruffillo is a house and disco artist based in Italy, with 126 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 40 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Prysm Nightclub, Chicago on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Prysm Nightclub | Chicago |
 | Thu, 10 Dec 2026 | Good Room | New York City |
 
 ## Recently played

@@ -12,7 +12,7 @@ La Bellevilloise is a music venue in Paris listed on soundcheck. 5 upcoming gigs
 | Tue, 10 Nov 2026 | La Shattarena #11 ~ Afro-Caribbean-Tropical Party |  |
 | Sat, 14 Nov 2026 | Free Your Funk X Club Coco: Another Taste, DJ Spinna | Another Taste, Coco Maria, DJ Spinna, Emile Omar |
 | Fri, 20 Nov 2026 | ElectroRoller x La Bellevilloise 'Roller Party' | Amarou, Florian Defresne |
-| Sat, 19 Dec 2026 | Free Your Funk Xmas Party Power: Quantic & Friends | Donna Gibson, Donna Leake, Quantic |
+| Sat, 19 Dec 2026 | Free Your Funk : Quantic & Friends | Donna Gibson, Donna Leake, Quantic |
 
 ## Address
 

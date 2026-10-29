@@ -1,8 +1,8 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Trancemaster Krause is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Trancemaster Krause is a techno and trance artist based in Germany, with 242 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Trancemaster Krause is a techno and trance artist based in Germany, with 243 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 242 gig
 | Wed, 18 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 27 Nov 2026 | Amp | Münster |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
+| Fri, 4 Dec 2026 | La Machine Du Moulin Rouge | Paris |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Fri, 26 Feb 2027 | RSO.BERLIN | Berlin |

@@ -1,15 +1,14 @@
 # SeventyMaos
 
-SeventyMaos is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 30 Oct 2026.
+SeventyMaos is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ）, Chengdu on Sat, 31 Oct 2026.
 
-SeventyMaos is a techno and bass artist, with 56 gigs on soundcheck across Beijing, Chengdu, Shanghai and Shenzhen. Often billed alongside Sonicare, Sanyo and DJ Pex. Next up: Nulab Chengdu, Chengdu on Fri 30 Oct.
+SeventyMaos is a techno and bass artist, with 55 gigs on soundcheck across Beijing, Chengdu, Shanghai and Shenzhen. Often billed alongside Sonicare, Sanyo and DJ Pex. Next up: Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ）, Chengdu on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Nulab Chengdu | Chengdu |
-| Sat, 31 Oct 2026 | TBA | Chengdu |
+| Sat, 31 Oct 2026 | Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ） | Chengdu |
 
 ## Recently played
 

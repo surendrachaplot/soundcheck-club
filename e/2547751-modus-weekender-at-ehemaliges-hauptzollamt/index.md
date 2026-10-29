@@ -16,7 +16,7 @@ Modus Weekender at Ehemaliges Hauptzollamt on Fri 30 Oct, Hamburg. 11 artists: B
 - Innellea
 - KALEA
 - Kollektiv Turmstrasse
-- Margo
+- Margo (GER)
 - MikAH
 - Miyagi
 - Sitze

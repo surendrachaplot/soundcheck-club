@@ -1,14 +1,15 @@
 # Macarena
 
-Macarena is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Nuevo Leon 89, Mexico City on Fri, 30 Oct 2026.
+Macarena is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nuevo Leon 89, Mexico City on Fri, 30 Oct 2026.
 
-Macarena is a house and disco artist based in Mexico, with 56 gigs on soundcheck across Berlin, Guadalajara, Mexico City and Tokyo. Often billed alongside Alby Esc, OMFDAN and Diz Shocka. Next up: Nuevo Leon 89, Mexico City on Fri 30 Oct.
+Macarena is a house and disco artist based in Mexico, with 57 gigs on soundcheck across Berlin, Guadalajara, Mexico City and Tokyo. Often billed alongside Alby Esc, OMFDAN and Diz Shocka. Next up: Nuevo Leon 89, Mexico City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Nuevo Leon 89 | Mexico City |
+| Sat, 31 Oct 2026 | Abrazarnos | Mexico City |
 
 ## Recently played
 

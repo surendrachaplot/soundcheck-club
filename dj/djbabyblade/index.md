@@ -1,14 +1,15 @@
 # DJ Babyblade
 
-DJ Babyblade is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 14 Nov 2026.
+DJ Babyblade is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 14 Nov 2026.
 
-DJ Babyblade is a techno and house artist based in Germany, with 121 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 3 more. Often billed alongside EliaHaze, DJ SOURCE and Anton Jonathan. Next up: Golden Pudel Club, Hamburg on Sat 14 Nov.
+DJ Babyblade is a techno and house artist based in Germany, with 122 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 3 more. Often billed alongside EliaHaze, DJ SOURCE and Anton Jonathan. Next up: Golden Pudel Club, Hamburg on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Golden Pudel Club | Hamburg |
+| Fri, 4 Dec 2026 | Südpol | Hamburg |
 
 ## Recently played
 

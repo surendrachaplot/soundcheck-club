@@ -1,13 +1,14 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Knockdown Center, New York City on Fri, 6 Nov 2026.
+SPFDJ is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 30 Oct 2026.
 
-SPFDJ is a techno and house artist based in Sweden, with 271 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 89 more. Often billed alongside Anetha, DAX J and KI/KI. Next up: Knockdown Center, New York City on Fri 6 Nov.
+SPFDJ is a techno and house artist based in Sweden, with 272 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 90 more. Often billed alongside Anetha, DAX J and KI/KI. Next up: Club Cultural Lima, Peru on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Club Cultural Lima | Peru |
 | Fri, 6 Nov 2026 | Knockdown Center | New York City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |

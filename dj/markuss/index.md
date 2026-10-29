@@ -1,13 +1,14 @@
 # Markuss
 
-Markuss is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Salon Daomé, Montreal on Sat, 21 Nov 2026.
+Markuss is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sidecar, Barcelona on Sun, 1 Nov 2026.
 
-Markuss is a house and electronica artist based in Spain, with 48 gigs on soundcheck across Austin, Barcelona and Montreal. Often billed alongside CHRIS RAZZ, a$ia and Basement Scene. Next up: Salon Daomé, Montreal on Sat 21 Nov.
+Markuss is a house and electronica artist based in Spain, with 49 gigs on soundcheck across Austin, Barcelona and Montreal. Often billed alongside CHRIS RAZZ, a$ia and Basement Scene. Next up: Sidecar, Barcelona on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Sidecar | Barcelona |
 | Sat, 21 Nov 2026 | Salon Daomé | Montreal |
 
 ## Recently played

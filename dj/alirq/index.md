@@ -1,8 +1,8 @@
 # ali rq
 
-ali rq is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Elsewhere, New York City on Sat, 31 Oct 2026.
+ali rq is a Club and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Elsewhere, New York City on Sat, 31 Oct 2026.
 
-ali rq is a club and techno artist based in United States of America, with 47 gigs on soundcheck across Barcelona, Berlin, London and Los Angeles and 8 more. Often billed alongside 10cust, Cannelle and Frost Children. Next up: Elsewhere, New York City on Sat 31 Oct.
+ali rq is a club and techno artist based in United States of America, with 48 gigs on soundcheck across Barcelona, Berlin, London and Los Angeles and 8 more. Often billed alongside 10cust, Cannelle and Eurohead. Next up: Elsewhere, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ ali rq is a club and techno artist based in United States of America, with 47 gi
 | Sat, 31 Oct 2026 | Le Bain | New York City |
 | Thu, 19 Nov 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
 | Sat, 21 Nov 2026 | The Warfield | San Francisco/Oakland |
+| Sun, 22 Nov 2026 | The Regency Ballroom | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ ali rq is a club and techno artist based in United States of America, with 47 gi
 
 ## Shares bills with
 
-10cust, Cannelle, Frost Children
+10cust, Cannelle, Eurohead
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*

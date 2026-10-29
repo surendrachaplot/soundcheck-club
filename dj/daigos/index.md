@@ -2,7 +2,7 @@
 
 Daigos is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 20 Nov 2026.
 
-Daigos is a bass and techno artist, with 14 gigs on soundcheck across Kyoto, London and Tokyo. Often billed alongside Jyn, NTsKi and Albino Sound. Next up: MIDNIGHT EAST, Tokyo on Fri 20 Nov.
+Daigos is a bass and techno artist based in Japan, with 14 gigs on soundcheck across Kyoto, London and Tokyo. Often billed alongside Jyn, NTsKi and Albino Sound. Next up: MIDNIGHT EAST, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 

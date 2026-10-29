@@ -1,14 +1,15 @@
 # Rill
 
-Rill is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Spartacus Potsdam, Berlin on Fri, 6 Nov 2026.
+Rill is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Spartacus Potsdam, Berlin on Fri, 6 Nov 2026.
 
-Rill is a techno and breakbeat artist based in Germany, with 64 gigs on soundcheck across Berlin, Düsseldorf, Edinburgh and Hamburg and 11 more. Often billed alongside Hang Aoki, Hanna Baertig and Reka Zalan. Next up: Spartacus Potsdam, Berlin on Fri 6 Nov.
+Rill is a techno and breakbeat artist based in Germany, with 65 gigs on soundcheck across Berlin, Düsseldorf, Edinburgh and Hamburg and 11 more. Often billed alongside Hang Aoki, Hanna Baertig and Reka Zalan. Next up: Spartacus Potsdam, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Spartacus Potsdam | Berlin |
+| Thu, 31 Dec 2026 | Renate | Berlin |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Central Chapelle
 
-Central Chapelle is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 26 Oct 2026. The next is "Ely Oaks" on Wed, 28 Oct 2026.
+Central Chapelle is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Glaive" on Mon, 30 Nov 2026.
 
-Central Chapelle is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Ely Oaks, Jazzy (IRL) and Tonic Walter. See dates, start times and who's playing. 4 Esp. Alice Milliat, 75018 Paris.
+Central Chapelle is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Jazzy (IRL) and Tonic Walter. See dates, start times and who's playing. 4 Esp. Alice Milliat, 75018 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 28 Oct 2026 | Ely Oaks | Ely Oaks |
 | Mon, 30 Nov 2026 | Glaive |  |
 | Sat, 5 Dec 2026 | Jazzy: Peace & Patience Tour — Central Chapelle | Jazzy (IRL) |
 | Fri, 11 Dec 2026 | Tonic Walter | Tonic Walter |
@@ -17,4 +16,4 @@ Central Chapelle is a music venue in Paris listed on soundcheck. 4 upcoming gigs
 
 4 Esp. Alice Milliat, 75018 Paris, Paris
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/central-chapelle/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/central-chapelle/)*

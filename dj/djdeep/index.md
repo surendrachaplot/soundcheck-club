@@ -1,8 +1,8 @@
 # DJ Deep
 
-DJ Deep is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bien Public, Bordeaux on Fri, 30 Oct 2026.
+DJ Deep is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bien Public, Bordeaux on Fri, 30 Oct 2026.
 
-DJ Deep is a house and techno artist based in France, with 88 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 28 more. Often billed alongside Kerri Chandler, Chez Damier and DJ Reas. Next up: Bien Public, Bordeaux on Fri 30 Oct.
+DJ Deep is a house and techno artist based in France, with 89 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 28 more. Often billed alongside Kerri Chandler, Chez Damier and DJ Reas. Next up: Bien Public, Bordeaux on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Deep is a house and techno artist based in France, with 88 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Bien Public | Bordeaux |
 | Sat, 7 Nov 2026 | fi | Cologne |
+| Sat, 14 Nov 2026 | Charlie | Munich |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 
 ## Recently played

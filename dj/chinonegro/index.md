@@ -1,13 +1,14 @@
 # Chinonegro
 
-Chinonegro is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
+Chinonegro is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Casa Real Getsemani Cartagena, Colombia on Sat, 14 Nov 2026.
 
-Chinonegro is a tech house and house artist based in Peru, with 35 gigs on soundcheck across Amsterdam, Austin, Barcelona and Buenos Aires and 15 more. Often billed alongside BLOND:ISH, Ammo Avenue and Luuk van Dijk. Next up: Factory Town, Miami on Thu 3 Dec.
+Chinonegro is a tech house and house artist based in Peru, with 36 gigs on soundcheck across Amsterdam, Austin, Barcelona and Buenos Aires and 16 more. Often billed alongside BLOND:ISH, Ammo Avenue and Luuk van Dijk. Next up: Casa Real Getsemani Cartagena, Colombia on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Casa Real Getsemani Cartagena | Colombia |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
 | Fri, 18 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 

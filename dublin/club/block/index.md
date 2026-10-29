@@ -9,7 +9,7 @@ block. is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Omni x SlapFunk: Samuel Deep & Julian Anthony | Julian Anthony (US), Samuel Deep |
-| Sat, 31 Oct 2026 | Block: Spray & Or:la | Or:la, Spray |
+| Sat, 31 Oct 2026 | Block: Spray & Or:la | Or:la, Spray, Síofra |
 | Fri, 6 Nov 2026 | Block x Asahi Super Dry: Special Request | Special Request |
 | Sat, 7 Nov 2026 | Block x Endless: Jamie Fielding All Night Long | Jamie Fielding |
 | Sat, 14 Nov 2026 | Block x Research x Subject: Blasha & Allatt | Blasha & Allatt, Shannen Blessing |

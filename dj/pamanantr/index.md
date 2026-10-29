@@ -1,8 +1,8 @@
 # Pam Anantr
 
-Pam Anantr is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Chang Chui Creative Park, Bangkok on Sat, 7 Nov 2026.
+Pam Anantr is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Chang Chui Creative Park, Bangkok on Sat, 7 Nov 2026.
 
-Pam Anantr is a house and disco artist based in Thailand, with 60 gigs on soundcheck across Bali, Bangkok, Melbourne and Osaka and 6 more. Often billed alongside Seelie, Brent Burns and Jayja. Next up: Chang Chui Creative Park, Bangkok on Sat 7 Nov.
+Pam Anantr is a house and disco artist based in Thailand, with 61 gigs on soundcheck across Bali, Bangkok, Melbourne and Osaka and 6 more. Often billed alongside Seelie, Brent Burns and DOTT. Next up: Chang Chui Creative Park, Bangkok on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pam Anantr is a house and disco artist based in Thailand, with 60 gigs on soundc
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Chang Chui Creative Park | Bangkok |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
+| Tue, 29 Dec 2026 | Little Moon Villa Koh Mak | Thailand |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Pam Anantr is a house and disco artist based in Thailand, with 60 gigs on soundc
 
 ## Shares bills with
 
-Seelie, Brent Burns, Jayja
+Seelie, Brent Burns, DOTT
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pamanantr/)*

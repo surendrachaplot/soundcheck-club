@@ -1,8 +1,8 @@
 # Brutalismus 3000
 
-Brutalismus 3000 is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Union Transfer, Philadelphia on Wed, 4 Nov 2026.
+Brutalismus 3000 is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Union Transfer, Philadelphia on Wed, 4 Nov 2026.
 
-Brutalismus 3000 is a techno and house artist based in Germany, with 84 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside DJ Gigola, MCR-T and 999999999. Next up: Union Transfer, Philadelphia on Wed 4 Nov.
+Brutalismus 3000 is a techno and house artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside DJ Gigola, MCR-T and 999999999. Next up: Union Transfer, Philadelphia on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Brutalismus 3000 is a techno and house artist based in Germany, with 84 gigs on 
 | Sat, 14 Nov 2026 | Radius | Chicago |
 | Thu, 19 Nov 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
 | Sat, 21 Nov 2026 | The Warfield | San Francisco/Oakland |
+| Sun, 22 Nov 2026 | The Regency Ballroom | San Francisco/Oakland |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Prom Night
 
-Prom Night is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
+Prom Night is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
 
-Prom Night is a house and disco artist based in Denmark, with 83 gigs on soundcheck across Bangkok, Belfast, Berlin and Cologne and 3 more. Often billed alongside Kawun, Harrison Heat and Kasper Bjorke. Next up: Den Anden Side, Copenhagen on Fri 6 Nov.
+Prom Night is a house and disco artist based in Denmark, with 84 gigs on soundcheck across Bangkok, Belfast, Berlin and Cologne and 4 more. Often billed alongside Kawun, Harrison Heat and Kasper Bjorke. Next up: Den Anden Side, Copenhagen on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Den Anden Side | Copenhagen |
+| Sat, 23 Jan 2027 | Azimut Club | Turin |
 
 ## Recently played
 

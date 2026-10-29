@@ -1,14 +1,13 @@
 # Dublon
 
-Dublon is a House and Jazz artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Café Berlín, Madrid on Thu, 29 Oct 2026.
+Dublon is a House and Jazz artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Grove, Newcastle on Mon, 9 Nov 2026.
 
-Dublon is a house and jazz artist based in Denmark, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 17 more. Often billed alongside Agathe Mougin, Amy Jor and Argia. Next up: Café Berlín, Madrid on Thu 29 Oct.
+Dublon is a house and jazz artist based in Denmark, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 17 more. Often billed alongside Agathe Mougin, Amy Jor and Argia. Next up: The Grove, Newcastle on Mon 9 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Café Berlín | Madrid |
 | Mon, 9 Nov 2026 | The Grove | Newcastle |
 | Thu, 12 Nov 2026 | Headrow House | Leeds |
 | Sat, 14 Nov 2026 | NT's Loft | London |

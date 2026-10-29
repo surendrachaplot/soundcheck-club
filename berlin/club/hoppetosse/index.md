@@ -17,7 +17,7 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wi
 | Sat, 14 Nov 2026 | It's Ours | Marko Nastic, Okain, Ray Okpara, Rossko |
 | Fri, 20 Nov 2026 | Novaturient | Gwenan, San Pedro, Tom Morgan, Usherenko |
 | Sat, 21 Nov 2026 | Rhythm By Nature: Gideon Jackson, Natascha Kann, Joe BRT, SaPu | Joe BRT, Natascha Kann, SaPu |
-| Fri, 27 Nov 2026 | Betriebsfeier | 3RDV, Adolpho & Franky, Bonnie Ford, Coco, EllA, Empro, Josephine Wedekind, Ray Okpara, Sonnensysteme, Tobi Neumann, eveava |
+| Fri, 27 Nov 2026 | Betriebsfeier | 3RDV, Adolpho & Franky, Bonnie Ford, Coco, EllA, Empro, Josephine Wedekind, Ray Okpara, Sonnensysteme, Stan Starry, Thomas Koob, Tobi Neumann, eveava |
 
 ## Address
 

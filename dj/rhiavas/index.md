@@ -1,8 +1,8 @@
 # Rhiavas
 
-Rhiavas is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 93 Feet East, London on Sat, 7 Nov 2026.
+Rhiavas is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 93 Feet East, London on Sat, 7 Nov 2026.
 
-Rhiavas is a house and tech house artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside FLORA THA EXPLORA, DRIA and Jerome Six. Next up: 93 Feet East, London on Sat 7 Nov.
+Rhiavas is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside FLORA THA EXPLORA, DRIA and Jerome Six. Next up: 93 Feet East, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rhiavas is a house and tech house artist based in United Kingdom, with 17 gigs o
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | 93 Feet East | London |
 | Sat, 7 Nov 2026 | The BBE Store | London |
+| Sat, 7 Nov 2026 | The Haggerston | London |
 | Fri, 20 Nov 2026 | Grow | London |
 | Fri, 27 Nov 2026 | Upper East | London |
 

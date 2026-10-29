@@ -1,6 +1,6 @@
 # Kings Turntable: Malou [21.11.26] at Kings Arms E2
 
-Kings Turntable: Malou [21.11.26] at Kings Arms E2 on Sat 21 Nov, London. Balearic. See the line-up on soundcheck.
+Kings Turntable: Malou [21.11.26] at Kings Arms E2 on Sat 21 Nov, London. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

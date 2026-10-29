@@ -1,6 +1,6 @@
 # GEEK BAR presents 「C.S.C.S.」Vol.2 at Daikanyama ORD.
 
-GEEK BAR presents 「C.S.C.S.」Vol.2 at Daikanyama ORD. on Fri 18 Dec, Tokyo. 4 artists: Albino Sound, Nehan, P-YAN and Rio Kawamoto. See the line-up on soundcheck.
+GEEK BAR presents 「C.S.C.S.」Vol.2 at Daikanyama ORD. on Fri 18 Dec, Tokyo. 4 artists: Albino Sound, P-YAN, Rio Kawamoto and Takashi Himeoka. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ GEEK BAR presents 「C.S.C.S.」Vol.2 at Daikanyama ORD. on Fri 18 Dec, Tokyo. 4
 ## Line-up
 
 - Albino Sound
-- Nehan
 - P-YAN
 - Rio Kawamoto
+- Takashi Himeoka
 
 *Source: [soundcheck](https://soundcheck.club/e/2570526-geek-bar-presents-c-s-c-s-vol-2-at-daikanyama-ord/)*

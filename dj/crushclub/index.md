@@ -2,7 +2,7 @@
 
 Crush Club is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 9 Nov 2026.
 
-Crush Club is a techno and house artist based in United States of America, with 9 gigs on soundcheck across New York City, Philadelphia and San Francisco/Oakland. Often billed alongside elle xxo, senoritajuicy and BEYA. Next up: Bossa Nova Civic Club, New York City on Mon 9 Nov.
+Crush Club is a techno and house artist based in United States of America, with 9 gigs on soundcheck across New York City, Philadelphia and San Francisco/Oakland. Often billed alongside elle xxo, Señoritajuicy and BEYA. Next up: Bossa Nova Civic Club, New York City on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Crush Club is a techno and house artist based in United States of America, with 
 
 ## Shares bills with
 
-elle xxo, senoritajuicy, BEYA
+elle xxo, Señoritajuicy, BEYA
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crushclub/)*

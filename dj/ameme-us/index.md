@@ -1,14 +1,15 @@
 # AMÉMÉ
 
-AMÉMÉ is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Essex, Mexico City on Sat, 31 Oct 2026.
+AMÉMÉ is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Essex, Mexico City on Sat, 31 Oct 2026.
 
-AMÉMÉ is a house and afro house artist based in Benin, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Essex, Mexico City on Sat 31 Oct.
+AMÉMÉ is a house and afro house artist based in Benin, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Essex, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Essex | Mexico City |
+| Sat, 7 Nov 2026 | Volt Club Milano | Milan |
 | Sun, 6 Dec 2026 | Savaya Bali | Bali |
 | Tue, 8 Dec 2026 | Desa Kitsune | Bali |
 

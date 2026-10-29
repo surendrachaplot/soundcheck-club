@@ -1,13 +1,14 @@
 # Sintoma TR
 
-Sintoma TR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at nueve cero nueve, Mexico City on Sat, 14 Nov 2026.
+Sintoma TR is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gobernador José Gómez Cortina #3 • Col. San Miguel Chapultepec, Cdmxpultepec, Cdmx, Mexico City on Sat, 31 Oct 2026.
 
-Sintoma TR is a techno and trance artist based in Mexico, with 19 gigs on soundcheck across Mexico City. Often billed alongside Alejandro Franco, GEO LINN and Dig-it. Next up: nueve cero nueve, Mexico City on Sat 14 Nov.
+Sintoma TR is a techno and trance artist based in Mexico, with 20 gigs on soundcheck across Mexico City. Often billed alongside Alejandro Franco, GEO LINN and Dig-it. Next up: Gobernador José Gómez Cortina #3 • Col. San Miguel Chapultepec, Cdmxpultepec, Cdmx, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Gobernador José Gómez Cortina #3 • Col. San Miguel Chapultepec, Cdmxpultepec, Cdmx | Mexico City |
 | Sat, 14 Nov 2026 | nueve cero nueve | Mexico City |
 
 ## Recently played

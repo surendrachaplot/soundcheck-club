@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 39 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DAYTONA 500: Maude Vos, Solofan, SIETE" on Thu, 29 Oct 2026.
+Bossa Nova Civic Club is a music venue in New York City with 40 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DAYTONA 500: Maude Vos, Solofan, SIETE" on Thu, 29 Oct 2026.
 
-Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 39 upcoming gigs, with line-ups including 1-800 GIRLS, ABEILLE, Ah Dek and Airali and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 40 upcoming gigs, with line-ups including 1-800 GIRLS, ABEILLE, Ah Dek and Airali and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 

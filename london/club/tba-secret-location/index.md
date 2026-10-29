@@ -1,8 +1,8 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 60 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "RAW CUTS: X CLUB" on Thu, 29 Oct 2026.
+TBA - Secret Location is a music venue in London with 61 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "RAW CUTS: X CLUB" on Thu, 29 Oct 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 60 upcoming gigs, with line-ups including Kepler, Absono, AINES and Allan and 2 more. See dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 61 upcoming gigs, with line-ups including 0dysseus, Kepler, Absono and AINES and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

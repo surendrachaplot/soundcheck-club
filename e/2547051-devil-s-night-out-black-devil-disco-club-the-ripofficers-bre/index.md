@@ -1,6 +1,6 @@
 # Devil's Night Out: Black Devil Disco Club + The Ripofficers + Brendv Blu + Charlie Levan at LAUT
 
-Devil's Night Out: Black Devil Disco Club + The Ripofficers + Brendv Blu + Charlie Levan at LAUT on Sat 31 Oct, Barcelona. 1 artist: Black Devil Disco Club. Disco and Post-Punk. See the line-up on soundcheck.
+Devil's Night Out: Black Devil Disco Club + The Ripofficers + Brendv Blu + Charlie Levan at LAUT on Sat 31 Oct, Barcelona. 2 artists: Black Devil Disco Club and Lil Vän. Disco and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Devil's Night Out: Black Devil Disco Club + The Ripofficers + Brendv Blu + Charl
 ## Line-up
 
 - Black Devil Disco Club
+- Lil Vän
 
 *Source: [soundcheck](https://soundcheck.club/e/2547051-devil-s-night-out-black-devil-disco-club-the-ripofficers-bre/)*

@@ -1,8 +1,8 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "NECKLESS: HALLOWEEN EDITION: GALATIUS / Thiim / KAMIKAZEM / Bestrawa x FA999 / Ziggy Stardubb" on Fri, 30 Oct 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "NECKLESS: HALLOWEEN EDITION: GALATIUS / Thiim / KAMIKAZEM / Bestrawa x FA999 / Ziggy Stardubb" on Fri, 30 Oct 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming gigs, with line-ups including Adelina, Aja Gulris, Ama Lien and Amiraku and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gigs, with line-ups including Adelina, Aerocell, Aja Gulris and Ama Lien and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 

@@ -1,14 +1,15 @@
 # Isa Rojas
 
-Isa Rojas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Macarena Club, Barcelona on Wed, 25 Nov 2026.
+Isa Rojas is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Macarena Club, Barcelona on Wed, 25 Nov 2026.
 
-Isa Rojas is a house and deep house artist based in Chile, with 112 gigs on soundcheck across Barcelona, Madrid, Paris and Santiago. Often billed alongside Amalia Balbontin, Jade Rolt and Jen Cruz. Next up: Macarena Club, Barcelona on Wed 25 Nov.
+Isa Rojas is a house and deep house artist based in Chile, with 113 gigs on soundcheck across Barcelona, Madrid, Paris and Santiago. Often billed alongside Amalia Balbontin, Jade Rolt and Jen Cruz. Next up: Macarena Club, Barcelona on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Macarena Club | Barcelona |
+| Wed, 27 Jan 2027 | Macarena Club | Barcelona |
 
 ## Recently played
 

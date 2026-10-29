@@ -1,8 +1,8 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Aline Umber b2b Krol (All Night Long)" on Thu, 29 Oct 2026.
+Jolene Downtown Miami is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Aline Umber b2b Krol (All Night Long)" on Thu, 29 Oct 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 12 upcoming gigs, with line-ups including Adiel, Aline Umber, Aramís Lorié and BASHKKA and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including Adiel, Aline Umber, Aramís Lorié and BASHKKA and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 

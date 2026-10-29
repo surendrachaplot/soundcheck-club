@@ -10,7 +10,7 @@ Public Arts is a music venue in New York City listed on soundcheck. 18 upcoming 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Off The Record at PUBLIC Hotel |  |
 | Tue, 3 Nov 2026 | Off The Record - Tuesday Sessions at PUBLIC Hotel |  |
-| Sat, 7 Nov 2026 | Off The Record at PUBLIC Hotel |  |
+| Sat, 7 Nov 2026 | Off The Record  - PUBLIC Hotel - Facundo Mohrr |  |
 | Tue, 10 Nov 2026 | Off The Record - Tuesday Sessions at PUBLIC Hotel |  |
 | Sat, 14 Nov 2026 | Off The Record at PUBLIC Hotel |  |
 | Tue, 17 Nov 2026 | Off The Record - Tuesday Sessions at PUBLIC Hotel |  |

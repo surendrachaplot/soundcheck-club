@@ -15,7 +15,7 @@ Bambi's is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with
 | Thu, 12 Nov 2026 | CABARET: The Return of Chanel Ross | Program Sam |
 | Fri, 13 Nov 2026 | IOU presents HOTPRETTY (Chicago) + Rabzi + 99hp | 99hp, HOTPRETTY, Rabzi |
 | Fri, 13 Nov 2026 | Garden Disco x roam | Carlos Estebban, roam DJs |
-| Sat, 14 Nov 2026 | LOVE ONLY featuring CanCon Legend Eddie C and Kiki LeFreak | Eddie C, Kiki LeFreak |
+| Sat, 14 Nov 2026 | LOVE ONLY featuring CanCon Legend Eddie C and Kiki LeFreak / Last Call 4am  | Eddie C, Kiki LeFreak |
 | Fri, 20 Nov 2026 | Invisible City Presents: Ryan Spencer & Todd Modes | Invisible City, Ryan Spencer, Todd Modes |
 | Sat, 19 Dec 2026 | SWEATMAS |  |
 

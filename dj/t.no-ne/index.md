@@ -1,14 +1,13 @@
 # T.NO
 
-T.NO is a Bass and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Cakeshop, Seoul on Thu, 29 Oct 2026.
+T.NO is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Saloon, Tokyo on Sat, 31 Oct 2026.
 
-T.NO is a bass and house artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Bristol and 17 more. Often billed alongside Styn, Christian AB and Rozaly. Next up: Cakeshop, Seoul on Thu 29 Oct.
+T.NO is a bass and techno artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Bristol and 17 more. Often billed alongside Styn, Christian AB and Rozaly. Next up: Saloon, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Cakeshop | Seoul |
 | Sat, 31 Oct 2026 | Saloon | Tokyo |
 | Fri, 27 Nov 2026 | Club Cheek | London |
 | Sat, 28 Nov 2026 | The DBA | Manchester |

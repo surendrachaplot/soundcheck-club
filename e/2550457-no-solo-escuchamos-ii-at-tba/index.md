@@ -1,6 +1,6 @@
-# No solo escuchamos* II at TBA
+# No solo escuchamos** II at TBA
 
-No solo escuchamos* II at TBA on Sat 21 Nov, Mexico City. Ambient and Experimental. See the line-up on soundcheck.
+No solo escuchamos** II at TBA on Sat 21 Nov, Mexico City. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

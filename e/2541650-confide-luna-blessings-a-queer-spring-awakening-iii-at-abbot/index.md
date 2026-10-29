@@ -1,6 +1,6 @@
 # CONFIDE & LUNA Blessings ✽ A Queer Spring Awakening III at Abbotsford Convent
 
-CONFIDE & LUNA Blessings ✽ A Queer Spring Awakening III at Abbotsford Convent on Sat 14 Nov, Melbourne. 10 artists: Aquenta, Ayebatonye, Caucasian Opportunities and Dashé and 6 more. House and Club. See the line-up on soundcheck.
+CONFIDE & LUNA Blessings ✽ A Queer Spring Awakening III at Abbotsford Convent on Sat 14 Nov, Melbourne. 11 artists: Aquenta, Ayebatonye, Caucasian Opportunities and Cherry Chola and 7 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ CONFIDE & LUNA Blessings ✽ A Queer Spring Awakening III at Abbotsford Convent 
 - Aquenta
 - Ayebatonye
 - Caucasian Opportunities
+- Cherry Chola
 - Dashé
 - DJ Luv You
 - Jesse DM

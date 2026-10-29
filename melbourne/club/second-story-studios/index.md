@@ -10,7 +10,7 @@ Second Story Studios is a music venue in Melbourne listed on soundcheck. 3 upcom
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | CLUB SAUNA | DJ S (UK) |
 | Sat, 14 Nov 2026 | Gallery: Ciel [CA], Kia, DJ PGZ, Myles Mac & DJ Possum, Roka, D-Grade, Lex | Ciel, D-Grade, DJ PGZ, DJ Possum, Kia (AU), Lex, Myles Mac, Roka |
-| Sat, 26 Dec 2026 | Boxing Day Warehouse Takeover: Charlie Shell + Sulphur [UK] + THC [CO/DE] | CHARBINKS, Charlie Shell, DJ Jessy, DJ Optimism, Sulphur, THC, dozie (uk) |
+| Sat, 26 Dec 2026 | Boxing Day Warehouse Takeover: Charlie Shell + Sulphur [UK] + THC [DE] | CHARBINKS, Charlie Shell, DJ Jessy, DJ Optimism, Sulphur, THC, dozie (uk) |
 
 ## Address
 

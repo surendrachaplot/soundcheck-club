@@ -1,8 +1,8 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Matriarch Music Compilation Album Release Party" on Thu, 29 Oct 2026.
+The Black Box is a music venue in Denver with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Matriarch Music Compilation Album Release Party" on Thu, 29 Oct 2026.
 
-The Black Box is a music venue in Denver listed on soundcheck. 10 upcoming gigs, with line-ups including Belik, Danny Byrd, Darkstar and ENiGMA Dubz and 2 more. See dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
+The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs, with line-ups including Belik, Danny Byrd, Darkstar and ENiGMA Dubz and 2 more. See dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
 ## What's on
 

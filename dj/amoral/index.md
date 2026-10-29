@@ -1,13 +1,14 @@
 # AMORAL
 
-AMORAL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 12 Dec 2026.
+AMORAL is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location, Toronto on Sat, 5 Dec 2026.
 
-AMORAL is a techno and house artist based in Netherlands, with 175 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 43 more. Often billed alongside MARRØN, Rene Wise and Lobster (NL). Next up: TBA - DTLA, Los Angeles on Sat 12 Dec.
+AMORAL is a techno and house artist based in Netherlands, with 176 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside MARRØN, Rene Wise and Lobster (NL). Next up: TBA - Secret Location, Toronto on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | TBA - Secret Location | Toronto |
 | Sat, 12 Dec 2026 | TBA - DTLA | Los Angeles |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 

@@ -1,13 +1,15 @@
 # Aja Gulris
 
-Aja Gulris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Culture Box, Copenhagen on Fri, 4 Dec 2026.
+Aja Gulris is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at MODULE, Copenhagen on Fri, 6 Nov 2026.
 
-Aja Gulris is a techno and house artist based in Denmark, with 84 gigs on soundcheck across Berlin, Copenhagen and Hamburg. Often billed alongside NILU, Baime and CERJ. Next up: Culture Box, Copenhagen on Fri 4 Dec.
+Aja Gulris is a techno and house artist based in Denmark, with 86 gigs on soundcheck across Berlin, Copenhagen and Hamburg. Often billed alongside NILU, Skarn and Baime. Next up: MODULE, Copenhagen on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | MODULE | Copenhagen |
+| Sat, 14 Nov 2026 | MODULE | Copenhagen |
 | Fri, 4 Dec 2026 | Culture Box | Copenhagen |
 | Thu, 31 Dec 2026 | Culture Box | Copenhagen |
 
@@ -24,6 +26,6 @@ Aja Gulris is a techno and house artist based in Denmark, with 84 gigs on soundc
 
 ## Shares bills with
 
-NILU, Baime, CERJ
+NILU, Skarn, Baime
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajagulris/)*

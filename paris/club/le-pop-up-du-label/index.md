@@ -1,17 +1,18 @@
 # Le Pop-Up du Label
 
-Le Pop-Up du Label is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Mon, 26 Oct 2026. The next is "Janus Rasmussen (live)" on Wed, 25 Nov 2026.
+Le Pop-Up du Label is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "La Seine Baléarique X Popup! - Early House Special" on Sat, 14 Nov 2026.
 
-Le Pop-Up du Label is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Janus Rasmussen. See dates, start times and who's playing. 14 rue Abel, 75012 - PARIS.
+Le Pop-Up du Label is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Janus Rasmussen, JPYE and Yaël Ohayon. See dates, start times and who's playing. 14 rue Abel, 75012 - PARIS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | La Seine Baléarique X Popup! - Early House Special | JPYE, Yaël Ohayon |
 | Wed, 25 Nov 2026 | Janus Rasmussen (live) | Janus Rasmussen |
 
 ## Address
 
 14 rue Abel, 75012 - PARIS, Paris
 
-*Updated Mon, 26 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-pop-up-du-label/)*
+*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-pop-up-du-label/)*

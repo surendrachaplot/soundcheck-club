@@ -10,8 +10,8 @@ Forest (PL) is a techno and house artist based in Azerbaijan, with 59 gigs on so
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Prozak 2.0 | Krakow |
 | Sat, 31 Oct 2026 | Kilomètre25 | Paris |
+| Fri, 13 Nov 2026 | Prozak 2.0 | Krakow |
 | Fri, 27 Nov 2026 | STK 47 WAREHOUSE | Krakow |
-| Sun, 29 Nov 2026 | La Cité Fertile | Paris |
 
 ## Recently played
 

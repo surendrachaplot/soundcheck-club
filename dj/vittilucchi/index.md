@@ -1,14 +1,15 @@
 # Vittilucchi
 
-Vittilucchi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Volt Club Milano, Milan on Thu, 29 Oct 2026.
+Vittilucchi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Volt Club Milano, Milan on Thu, 29 Oct 2026.
 
-Vittilucchi is a house and disco artist based in Italy, with 29 gigs on soundcheck across Berlin, Bologna, Milan and Munich and 1 more. Often billed alongside Kapote, Bugsy and Sam Ruffillo. Next up: Volt Club Milano, Milan on Thu 29 Oct.
+Vittilucchi is a house and disco artist based in Italy, with 30 gigs on soundcheck across Berlin, Bologna, Milan and Munich and 1 more. Often billed alongside Kapote, Bugsy and Sam Ruffillo. Next up: Volt Club Milano, Milan on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Volt Club Milano | Milan |
+| Thu, 26 Nov 2026 | Volt Club Milano | Milan |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # ESTRELLA OR
 
-ESTRELLA OR is a Electronica and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sala Siroco, Madrid on Sun, 1 Nov 2026.
+ESTRELLA OR is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sala Siroco, Madrid on Sun, 1 Nov 2026.
 
-ESTRELLA OR is an electronica and ebm artist based in Spain, with 13 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Ninalash!, materia hache and Beni jung. Next up: Sala Siroco, Madrid on Sun 1 Nov.
+ESTRELLA OR is an electronica and house artist based in Spain, with 14 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Ninalash!, materia hache and Beni jung. Next up: Sala Siroco, Madrid on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Sala Siroco | Madrid |
+| Sat, 7 Nov 2026 | High Club Room | Madrid |
 
 ## Recently played
 

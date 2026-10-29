@@ -1,6 +1,6 @@
 # Jueves de Máquinas at nueve cero nueve
 
-Jueves de Máquinas at nueve cero nueve on Thu 5 Nov, Mexico City. 3 artists: Frrrrr, Gohtobi and Zepol. See the line-up on soundcheck.
+Jueves de Máquinas at nueve cero nueve on Thu 5 Nov, Mexico City. 4 artists: Frrrrr, Gohtobi, NOTROSS and Zepol. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Jueves de Máquinas at nueve cero nueve on Thu 5 Nov, Mexico City. 3 artists: Fr
 
 - Frrrrr
 - Gohtobi
+- NOTROSS
 - Zepol
 
 *Source: [soundcheck](https://soundcheck.club/e/2570165-jueves-de-m-quinas-at-nueve-cero-nueve/)*

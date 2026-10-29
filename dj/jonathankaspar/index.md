@@ -1,14 +1,15 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Airport Düsseldorf, Düsseldorf on Sat, 31 Oct 2026.
+Jonathan Kaspar is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Airport Düsseldorf, Düsseldorf on Sat, 31 Oct 2026.
 
-Jonathan Kaspar is a house and techno artist based in Germany, with 213 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 35 more. Often billed alongside Mira, Kollektiv Turmstrasse and Mano Le Tough. Next up: Airport Düsseldorf, Düsseldorf on Sat 31 Oct.
+Jonathan Kaspar is a house and techno artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 35 more. Often billed alongside Mira, Kollektiv Turmstrasse and Mano Le Tough. Next up: Airport Düsseldorf, Düsseldorf on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Airport Düsseldorf | Düsseldorf |
+| Sat, 14 Nov 2026 | Volt Club Milano | Milan |
 | Sat, 21 Nov 2026 | Hidden | Manchester |
 | Fri, 27 Nov 2026 | fi | Cologne |
 | Sat, 5 Dec 2026 | TBA - Bosques Cacheuta, Mendoza | Argentina |

@@ -1,14 +1,15 @@
 # Gabo Forero
 
-Gabo Forero is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Radio Estrella, Bogotá on Sat, 7 Nov 2026.
+Gabo Forero is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Radio Estrella, Bogotá on Sat, 7 Nov 2026.
 
-Gabo Forero is a house and tech house artist based in Colombia, with 125 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Frankfurt and 3 more. Often billed alongside Mao Loading, Caus and Memek. Next up: Radio Estrella, Bogotá on Sat 7 Nov.
+Gabo Forero is a house and tech house artist based in Colombia, with 126 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Colombia and 4 more. Often billed alongside Mao Loading, Caus and Memek. Next up: Radio Estrella, Bogotá on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Radio Estrella | Bogotá |
+| Sat, 14 Nov 2026 | Casa Real Getsemani Cartagena | Colombia |
 
 ## Recently played
 

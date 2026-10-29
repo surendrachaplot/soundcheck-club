@@ -1,6 +1,6 @@
 # SCR Halloween presents: Mid-Evil Castle at Seoul Community Radio
 
-SCR Halloween presents: Mid-Evil Castle at Seoul Community Radio on Sat 31 Oct, Seoul. 8 artists: Apachi, Arondight, DJ Botermelk and Howmini and 4 more. See the line-up on soundcheck.
+SCR Halloween presents: Mid-Evil Castle at Seoul Community Radio on Sat 31 Oct, Seoul. 8 artists: Apachi, Arondight, DJ Botermelk and Howmini and 4 more. Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

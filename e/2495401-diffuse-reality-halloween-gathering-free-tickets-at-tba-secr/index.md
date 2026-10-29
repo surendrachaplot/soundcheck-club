@@ -1,0 +1,15 @@
+# DIFFUSE REALITY [Halloween Gathering] - FREE TICKETS at TBA - Secret Warehouse (Barcelona)
+
+DIFFUSE REALITY [Halloween Gathering] - FREE TICKETS at TBA - Secret Warehouse (Barcelona) on Sat 31 Oct, Barcelona. 1 artist: Squaric. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 31 Oct 2026 |
+| Venue | TBA - Secret Warehouse (Barcelona) |
+| City | Barcelona |
+
+## Line-up
+
+- Squaric
+
+*Source: [soundcheck](https://soundcheck.club/e/2495401-diffuse-reality-halloween-gathering-free-tickets-at-tba-secr/)*

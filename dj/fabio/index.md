@@ -1,8 +1,8 @@
 # Fabio
 
-Fabio is a Drum & Bass and Jungle artist with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Fabio is a Drum & Bass and Jungle artist with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-Fabio is a drum & bass and jungle artist based in United Kingdom, with 120 gigs on soundcheck across Antwerp, Bali, Barcelona and Berlin and 20 more. Often billed alongside Grooverider, MC GQ and Mantra. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Fabio is a drum & bass and jungle artist based in United Kingdom, with 121 gigs on soundcheck across Antwerp, Bali, Barcelona and Berlin and 20 more. Often billed alongside Grooverider, MC GQ and Mantra. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Fabio is a drum & bass and jungle artist based in United Kingdom, with 120 gigs 
 | Fri, 4 Dec 2026 | FORGE | Sheffield |
 | Sat, 26 Dec 2026 | Hare & Hounds | Birmingham |
 | Sun, 27 Dec 2026 | Hare & Hounds | Birmingham |
+| Thu, 31 Dec 2026 | Volks | Brighton |
 | Thu, 3 Jun 2027 | O2 Academy Bournemouth | South-east |
 | Fri, 4 Jun 2027 | O2 Academy Birmingham | Birmingham |
 | Thu, 10 Jun 2027 | O2 Academy Leeds | Leeds |
-| Fri, 11 Jun 2027 | Rock City | Nottingham |
 
 ## Recently played
 

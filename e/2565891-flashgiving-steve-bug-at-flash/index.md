@@ -1,6 +1,6 @@
 # FlashGiving: Steve Bug at Flash
 
-FlashGiving: Steve Bug on Wed 25 Nov, Washington DC. 2 artists: Jandro and Steve Bug. House and Tech House. See the line-up on soundcheck.
+FlashGiving: Steve Bug on Wed 25 Nov, Washington DC. 3 artists: Bad Reputations, Jandro and Steve Bug. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FlashGiving: Steve Bug on Wed 25 Nov, Washington DC. 2 artists: Jandro and Steve
 
 ## Line-up
 
+- Bad Reputations
 - Jandro
 - Steve Bug
 

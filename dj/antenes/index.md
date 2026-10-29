@@ -1,8 +1,8 @@
 # Antenes
 
-Antenes is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
+Antenes is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
 
-Antenes is a techno and experimental artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chengdu and 15 more. Often billed alongside Mike Servito, Wata Igarashi and Clarisa Kimskii. Next up: TBA - Secret Loft Location, New York City on Fri 30 Oct.
+Antenes is a techno and experimental artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chengdu and 15 more. Often billed alongside Mike Servito, Wata Igarashi and Erika. Next up: TBA - Secret Loft Location, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Antenes is a techno and experimental artist based in United States of America, w
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - Secret Loft Location | New York City |
 | Sat, 7 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Wed, 27 Jan 2027 | TBA - Brooklyn | New York City |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Antenes is a techno and experimental artist based in United States of America, w
 
 ## Shares bills with
 
-Mike Servito, Wata Igarashi, Clarisa Kimskii
+Mike Servito, Wata Igarashi, Erika
 
 *Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antenes/)*
