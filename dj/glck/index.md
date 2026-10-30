@@ -2,7 +2,7 @@
 
 GLCK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Avve, Bangkok on Sat, 31 Oct 2026.
 
-GLCK is a techno and electro artist, with 25 gigs on soundcheck across Bangkok, Beijing, Shanghai and Tbilisi. Often billed alongside iamhollow, REIKS and NØSYNC. Next up: Avve, Bangkok on Sat 31 Oct.
+GLCK is a techno and electro artist based in Russia, with 25 gigs on soundcheck across Bangkok, Beijing, Shanghai and Tbilisi. Often billed alongside iamhollow, REIKS and NØSYNC. Next up: Avve, Bangkok on Sat 31 Oct.
 
 ## Upcoming shows
 

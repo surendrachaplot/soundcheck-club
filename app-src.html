@@ -3631,27 +3631,41 @@ a.dst-full-t:hover{text-decoration:underline}
     /* Artist pills (Paper NEXT 29 Oct): every pill as wide as the widest, edges aligned. An inline grid of
        equal 1fr columns sizes each column to the widest pill — not to the screen. 2 columns on a phone, 4 from 760. */
 
-    /* friend cues (Paper NEXT 29 Oct) */
-    .lv-cue, .cue-line{ display:flex; align-items:center; gap:6px; margin-top:4px; font:500 13px/18px var(--body); color:var(--fg); min-width:0; }
-    .lv-cue > span:last-child, .cue-line > span:last-child{ min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-    .cue-line{ margin-top:12px; white-space:normal; }
-    .cue-line > span:last-child{ white-space:normal; }
-    .cue-f{ display:inline-flex; flex:none; }
-    .cue-f i{ width:18px; height:18px; border-radius:999px; background-size:cover; background-position:center; border:1.5px solid var(--bg); }
-    .cue-f i + i{ margin-left:-6px; }
-    .cue-card{ margin-top:14px; padding:12px; border-radius:var(--radius-md); background:var(--surface); }
-    .cue-card .cue-eb{ font:700 11px/14px var(--body); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin-bottom:4px; }
-    .cue-card p{ margin:0; font:400 15px/21px var(--body); color:var(--fg); }
-    .cue-n{ color:inherit; text-decoration:none; font-weight:700; }
+    /* friend cues v2 (Paper NEXT 30 Oct "friends v2"): faces on the Home poster corner + one line;
+       a strip of 52 faces on gig/artist pages; a 24 stack on line-up rows. */
+    .lvr .lv-th.has-cf{ overflow:visible; }
+    .lvr .lv-th.has-cf .poster{ border-radius:var(--radius); overflow:hidden; }
+    .lv-cf{ position:absolute; right:-6px; bottom:-6px; display:flex; z-index:1; }
+    .lv-cf i, .lu-cf i{ width:26px; height:26px; border-radius:999px; background-size:cover; background-position:center; background-color:var(--surface-3); border:2px solid var(--bg); display:inline-flex; align-items:center; justify-content:center; font:700 10px/1 var(--body); font-style:normal; color:var(--fg); }
+    .lv-cf i + i, .lu-cf i + i{ margin-left:-9px; }
+    .lv-cue{ display:block; margin-top:6px; font:400 13px/17px var(--body); color:var(--lilac,#B8A8D0); min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .lv-cue b, .lu-cue b{ color:var(--fg); font-weight:700; }
+    .cue-st{ margin-top:18px; }
+    .cue-st h3{ margin:0 0 12px; font:800 20px/24px var(--head); letter-spacing:-0.01em; color:var(--fg); }
+    .cue-row{ display:flex; gap:16px; overflow-x:auto; scrollbar-width:none; }
+    .cue-row::-webkit-scrollbar{ display:none; }
+    .cue-p{ flex:none; min-width:64px; display:flex; flex-direction:column; align-items:center; gap:6px; text-decoration:none; color:var(--fg); }
+    .cue-p i{ width:52px; height:52px; border-radius:999px; background-size:cover; background-position:center; background-color:var(--surface-3); }
+    .cue-p b{ font:700 13px/17px var(--body); max-width:88px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .cue-p em{ margin-top:-5px; font:700 10.5px/13px var(--body); font-style:normal; letter-spacing:.08em; text-transform:uppercase; color:var(--lilac,#B8A8D0); white-space:nowrap; }
+    .cue-p em.hot{ color:#FF5E7E; }
+    .lu-cf{ display:inline-flex; flex:none; margin-left:6px; }
+    .lu-cf i{ width:24px; height:24px; }
     .dst-full-arts{ margin:10px 0 0; font:400 15px/22px var(--body); color:var(--fg); }
     .dst-full-arts span{ font:700 11px/14px var(--body); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin-right:4px; }
     .dst-full-arts a{ color:inherit; font-weight:700; text-decoration:none; }
     .pf-up-dh{ font:700 12px/16px var(--body); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin:18px 0 8px; }
     .pf-up-dh:first-child{ margin-top:4px; }
-    .fp-lu-cue{ font:500 12px/16px var(--body); color:var(--lilac,#B8A8D0); margin-top:2px; }
-    .fp-acts.fp-acts-eq{ display:inline-grid; grid-template-columns:1fr 1fr; }
-    .fp-acts.fp-acts-eq > .fp-ab{ width:100%; justify-content:center; }
-    @media (min-width:760px){ .fp-acts.fp-acts-eq{ grid-template-columns:repeat(4,1fr); } }
+    /* Hero buttons in ONE row on every page (Paper NEXT 30 Oct, option A; artist, gig, venue, promoter):
+       natural widths, M tier on a phone, short labels. A phone narrower than the row scrolls it sideways
+       (never wraps, never stretches). */
+    .fp-acts-row{ flex-wrap:nowrap !important; overflow-x:auto; scrollbar-width:none; }
+    .fp-acts-row::-webkit-scrollbar{ display:none; }
+    @media (max-width:759px){
+      .fp-acts-row{ gap:8px; }
+      .fp-acts-row > .fp-ab, .fp-acts-row > .fp-pb{ flex:0 0 auto; height:var(--btn-m); padding:0 14px 0 12px; gap:6px; font-size:var(--fs-btn-m); line-height:var(--lh-btn-m); }
+      .fp-acts-row > .fp-ab svg, .fp-acts-row > .fp-pb svg, .fp-acts-row > .on::before, .fp-acts-row > .going::before{ width:16px; height:16px; -webkit-mask-size:16px 16px; mask-size:16px 16px; }
+    }
     .fp-acts > .fp-ab, .fp-acts > .fp-pb { flex:0 0 auto; width:auto; }
     .fp-ab{ min-width:0; }
     /* tour-dates table */
@@ -5308,7 +5322,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793314235016">
+<meta name="sc-build" content="1793361646371">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5368,7 +5382,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-29/">Thu 29 Oct <span class="c">55 events</span></a></li><li><a href="/london/2026-10-30/">Fri 30 Oct <span class="c">135 events</span></a></li><li><a href="/london/2026-10-31/">Sat 31 Oct <span class="c">222 events</span></a></li><li><a href="/london/2026-11-01/">Sun 1 Nov <span class="c">34 events</span></a></li><li><a href="/london/2026-11-02/">Mon 2 Nov <span class="c">3 events</span></a></li><li><a href="/london/2026-11-03/">Tue 3 Nov <span class="c">4 events</span></a></li><li><a href="/london/2026-11-04/">Wed 4 Nov <span class="c">11 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-30/">Fri 30 Oct <span class="c">135 events</span></a></li><li><a href="/london/2026-10-31/">Sat 31 Oct <span class="c">222 events</span></a></li><li><a href="/london/2026-11-01/">Sun 1 Nov <span class="c">34 events</span></a></li><li><a href="/london/2026-11-02/">Mon 2 Nov <span class="c">3 events</span></a></li><li><a href="/london/2026-11-03/">Tue 3 Nov <span class="c">4 events</span></a></li><li><a href="/london/2026-11-04/">Wed 4 Nov <span class="c">11 events</span></a></li><li><a href="/london/2026-11-05/">Thu 5 Nov <span class="c">32 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -12948,14 +12962,14 @@ a.dst-full-t:hover{text-decoration:underline}
               (subW?'<div class="fp-hsub h7w">'+subW+'</div>':'')+'</div>'+
               bioBlock(_aBio)+
               genreTags+festLine+gemLine+hrW+rowsW+
-              '<div class="fp-acts fp-acts-eq">'+
+              '<div class="fp-acts fp-acts-row">'+
                 '<button class="fp-ab go" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' data-ic="play" type="button" aria-label="Play '+esc(a.name||slug)+'&rsquo;s sets"><span>Play</span></button>'+
                 // founder 2 Oct: the heart by the name collided with the link discs; the pill is back. Seen artists read "Seen".
                 '<button class="fp-ab'+((mine==='wanna_see'||mine==='seen')?' on':'')+'" id="ap-wanna" data-ic="heart" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see'||mine==='seen')+'"><span>'+(mine==='seen'?'Seen':'Want to see')+'</span></button>'+
-                '<button class="fp-ab" id="ap-log" data-ic="plus" type="button"><span>Log a gig</span></button>'+
-                '<button class="fp-ab" id="ap-list" data-ic="list" type="button"><span>Add to list</span></button>'+
+                '<button class="fp-ab" id="ap-log" data-ic="plus" type="button" aria-label="Log a gig"><span>Log</span></button>'+
+                '<button class="fp-ab" id="ap-list" data-ic="list" type="button" aria-label="Add to list"><span>List</span></button>'+
               '</div>'+
-              '<div class="cue-line" id="ap-cues" hidden></div>'+
+              '<div class="cue-st" id="ap-cues" hidden></div>'+
             '</div>'+
           '</div>'+
           '<div id="ap-seen-panel"></div>';
@@ -13591,14 +13605,14 @@ a.dst-full-t:hover{text-decoration:underline}
         if(!r.ok){
           // A URL that is no longer a guide (a genre whose last event passed) is
           // not an error page — send them to the city they asked for.
-          openPanel('<h1 class="page-title">Nothing on</h1><div class="sub">There’s nothing listed here right now.</div><div class="gd-actions"><button class="fp-ab" id="gd-city" data-ic="calendar" type="button">See what’s on in '+esc(cityLabel(city))+'</button></div>');
+          openPanel('<h1 class="page-title">Nothing on</h1><div class="sub">There’s nothing listed here right now.</div><div class="gd-actions fp-acts-row"><button class="fp-ab" id="gd-city" data-ic="calendar" type="button">See what’s on in '+esc(cityLabel(city))+'</button></div>');
           var gc=document.getElementById('gd-city'); if(gc) gc.addEventListener('click',function(){ hidePage(); setCity(city,true); });
           return;
         }
         var g=await r.json();
         var h='<div class="gd-head"><h1 class="page-title">'+esc(g.title)+'</h1><div class="sub">'+esc(g.subtitle||'')+'</div>'+
               (g.blurb?'<p class="seo-desc">'+esc(g.blurb)+'</p>':'')+
-              '<div class="gd-actions">'+guidePlayHTML((g.play||[]).length)+
+              '<div class="gd-actions fp-acts-row">'+guidePlayHTML((g.play||[]).length)+
               '<button class="fp-ab" id="gd-share" data-ic="share" type="button">Share</button></div></div>';
         (g.sections||[]).forEach(function(s,i){
           h+=secH(s.date?fmtDateLabel(s.date):s.label, i?1:0)+'<div class="gd-evs" data-sec="'+i+'"></div>';
@@ -13654,7 +13668,7 @@ a.dst-full-t:hover{text-decoration:underline}
         var blurb='Artists who share '+seed+'’s line-ups, promoters, venues and listeners. A set from each.';
         var h='<div class="gd-head"><h1 class="page-title">'+esc(title)+'</h1><div class="sub">'+items.length+' artists</div>'+
               '<p class="seo-desc">'+esc(blurb)+'</p>'+
-              '<div class="gd-actions">'+guidePlayHTML(items.length)+
+              '<div class="gd-actions fp-acts-row">'+guidePlayHTML(items.length)+
               '<a class="fp-ab nav" data-ic="person" href="'+esc(djHref(slug))+'">'+esc(seed)+'</a></div></div>';
         h+=guideArtistRowsHTML(items);
         openPanel(h);
@@ -13673,7 +13687,7 @@ a.dst-full-t:hover{text-decoration:underline}
         var d=await r.json();
         var cn=d.cityName||cityLabel(currentCity);
         var h='<h1 class="page-title">Guides &amp; lists</h1><div class="sub">Where to go, by sound and by area. Plus lists made by people here.</div>';
-        h+='<div class="gd-actions"><button class="fp-ab go" id="gl-new" data-ic="plus" type="button">New list</button>'+
+        h+='<div class="gd-actions fp-acts-row"><button class="fp-ab go" id="gl-new" data-ic="plus" type="button">New list</button>'+
            '<button class="fp-ab" id="gl-mine" data-ic="list" type="button">My lists</button></div>';
         if(d.weekend) h+=secH('Start here',1)+'<div class="gd-chips"><a class="gd-chip gd-chip-lg nav" href="'+esc(SC_BASE+d.city+'/this-weekend/')+'">'+esc(d.weekend.title)+'</a></div>';
         if((d.genres||[]).length) h+=secH('By sound in '+cn,1)+'<div class="gd-chips">'+d.genres.map(function(g){
@@ -13709,7 +13723,7 @@ a.dst-full-t:hover{text-decoration:underline}
         var h='<div class="gd-head"><h1 class="page-title">'+esc(L.title)+'</h1>'+
               '<div class="sub">'+esc(L.count+(L.count===1?' artist':' artists'))+' · by <a class="nav" href="'+esc(SC_BASE+'u/'+encodeURIComponent(L.by.handle)+'/')+'">'+esc(L.by.name)+'</a>'+(L.public?'':' · private')+'</div>'+
               (L.blurb?'<p class="seo-desc">'+esc(L.blurb)+'</p>':'')+
-              '<div class="gd-actions">'+guidePlayHTML((L.play||[]).length)+
+              '<div class="gd-actions fp-acts-row">'+guidePlayHTML((L.play||[]).length)+
               '<button class="fp-ab" id="gd-share" data-ic="share" type="button">Share</button>'+
               (L.mine?'<button class="fp-ab" id="ls-edit" data-ic="edit" type="button">Edit</button>':'')+'</div></div>';
         h+=(L.items||[]).length?guideArtistRowsHTML(L.items.filter(function(i){ return i.kind==='artist'; })):
@@ -13936,8 +13950,8 @@ a.dst-full-t:hover{text-decoration:underline}
         var _pSeed=attrEsc(String(dispName).replace(/'/g,''));
         var pImg=_pPoster?'<img decoding="async" fetchpriority="high" src="'+_pSrc+'" alt="'+attrEsc(dispName+' gig poster')+'" onload="heroImgLoad(this)" onerror="heroImgFail(this,\''+_pSeed+'\',\''+attrEsc(slug)+'\')">':genHero(dispName, slug);
         var pFollow='<button class="fp-ab'+(p.following?' on':'')+'" id="pf-btn" data-ic="heart" type="button" aria-pressed="'+(p.following?'true':'false')+'"><span>'+(p.following?'Following':'Follow')+'</span></button>';
-        var pLog='<button class="fp-ab" id="pp-been" data-ic="plus" type="button"><span>Log a gig</span></button>';
-        var pActs='<div class="fp-acts">'+(pNext0?('<button class="fp-ab go" id="pp-radio" data-ic="play" type="button" aria-label="Play the next line-up"><span>Play</span></button>'):'')+pFollow+pLog+'</div>';
+        var pLog='<button class="fp-ab" id="pp-been" data-ic="plus" type="button" aria-label="Log a gig"><span>Log</span></button>';
+        var pActs='<div class="fp-acts fp-acts-row">'+(pNext0?('<button class="fp-ab go" id="pp-radio" data-ic="play" type="button" aria-label="Play the next line-up"><span>Play</span></button>'):'')+pFollow+pLog+'</div>';
         h+='<div class="fp-artist"><div class="fp-hero">'+
              '<div class="fp-photo"'+heroHarAttr(_pHar)+'>'+pImg+(pcity?'<div class="fp-origin h7n">'+esc(cityLabel(pcity))+'</div>':'')+'</div>'+
              '<div class="fp-hx">'+
@@ -14064,8 +14078,8 @@ a.dst-full-t:hover{text-decoration:underline}
         var vActs='';
         if(v.slug){
           var vFollow='<button class="fp-ab'+(v.following?' on':'')+'" id="vf-btn" data-ic="heart" type="button" aria-pressed="'+(v.following?'true':'false')+'"><span>'+(v.following?'Following':'Follow')+'</span></button>';
-          var vBeen='<button class="fp-ab" id="vp-been" data-ic="plus" type="button"><span>Log a gig</span></button>';   // was "I’ve been" — now consistent with artist header
-          vActs='<div class="fp-acts">'+(vNext?('<button class="fp-ab go" id="vp-radio" data-ic="play" type="button" aria-label="Play the next line-up at '+esc(dispName)+'"><span>Play</span></button>'):'')+vFollow+vBeen+'</div>';
+          var vBeen='<button class="fp-ab" id="vp-been" data-ic="plus" type="button" aria-label="Log a gig"><span>Log</span></button>';   // was "I’ve been" — now consistent with artist header
+          vActs='<div class="fp-acts fp-acts-row">'+(vNext?('<button class="fp-ab go" id="vp-radio" data-ic="play" type="button" aria-label="Play the next line-up at '+esc(dispName)+'"><span>Play</span></button>'):'')+vFollow+vBeen+'</div>';
         }
         var h='<div class="fp-artist">'+
           '<div class="fp-hero">'+
@@ -14299,18 +14313,18 @@ a.dst-full-t:hover{text-decoration:underline}
                   // A NIGHT THAT HAS HAPPENED IS A NIGHT YOU CAN LOG. Without this
                   // the archive was read-only: the page knew you were there only if
                   // you had already logged it somewhere else, and offered no way in.
-                  acts.push('<button class="fp-pb" id="fp-ev-log" data-ic="'+(ev.mine?'edit':'plus')+'" type="button"><span>'+(ev.mine?'Edit this gig':'Log this gig')+'</span></button>');
+                  acts.push('<button class="fp-pb" id="fp-ev-log" data-ic="'+(ev.mine?'edit':'plus')+'" type="button" aria-label="'+(ev.mine?'Edit this gig':'Log this gig')+'"><span>'+(ev.mine?'Edit':'Log')+'</span></button>');
                 } else {
                   acts.push('<button class="fp-pb tgl'+(evtStatus(id)==='saved'?' on':'')+'" id="fp-ev-int" data-ic="heart" data-evt="'+esc(id)+'" type="button">'+(evtStatus(id)==='saved'?'Saved':'Save')+'</button>');
                   acts.push('<button class="fp-pb tgl'+(evtStatus(id)==='going'?' going':'')+'" id="fp-ev-going" data-ic="check" data-evt="'+esc(id)+'" type="button">'+'I&rsquo;m going'+'</button>');
                   // Invite lives in the hero row now (was a band of its own under
                   // the hero). L secondary — Play stays the one gradient.
-                  if(!_invActive) acts.push('<button class="fp-pb" id="fp-ev-invite" data-ic="invite" type="button">Invite friends</button>');
+                  if(!_invActive) acts.push('<button class="fp-pb" id="fp-ev-invite" data-ic="invite" type="button" aria-label="Invite friends">Invite</button>');
                 }
                 // From 760 up Share is a pill in this row (the corner icon is the phone's).
-                return '<div class="fp-ev-playbar'+(acts.length===1?' solo':'')+'">'+acts.join('')+'<button class="fp-pb h7w" id="fp-ev-share2" data-ic="share" type="button">Share</button></div>';
+                return '<div class="fp-ev-playbar fp-acts-row'+(acts.length===1?' solo':'')+'">'+acts.join('')+'<button class="fp-pb h7w" id="fp-ev-share2" data-ic="share" type="button">Share</button></div>';
               })()+
-              '<div class="cue-card" id="ev-cues" hidden></div>'+
+              '<div class="cue-st" id="ev-cues" hidden></div>'+
               '</div>'+
               ((ev.genres||[]).length?'<div class="fp-ev-gline">'+(ev.genres||[]).slice(0,4).map(function(g){ return '<span class="fp-ev-gtag">'+esc(g)+'</span>'; }).join('')+'</div>':'')+
               (blurb?'<p class="fp-ev-blurb">'+esc(blurb)+'</p>':'')+
@@ -16260,20 +16274,27 @@ a.dst-full-t:hover{text-decoration:underline}
       _cueCache[key]=p; return p;
     }
     function cueName(u){ return (u.name&&String(u.name).trim())||u.handle; }
-    function cueLink(u){ return '<a class="nav cue-n" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'">'+esc(cueName(u))+'</a>'; }
-    // 1: a · 2: a and b · 3+: a, b and n more
-    function cueJoin(xs, f){ f=f||function(u){ return esc(cueName(u)); };
-      if(xs.length<=2) return xs.map(f).join(' and ');
-      return f(xs[0])+', '+f(xs[1])+' and '+(xs.length-2)+' more'; }
-    function cueFaces(xs){ return '<span class="cue-f" aria-hidden="true">'+xs.slice(0,3).map(function(u){ return '<i style="background-image:'+avatarBg(u.handle,u.avatar)+'"></i>'; }).join('')+'</span>'; }
-    // the short line: "zoe going" · "zoe + 2 going" · "zoe saved it" · "zoe wants to see" · "zoe + 1 want to see" · "zoe saw them"
-    function cueShort(xs){
-      var n=xs.length-1, s=xs[0].status, who=esc(cueName(xs[0]))+(n>0?' + '+n:'');
-      return who+(s==='going'?' going':s==='saved'?' saved it':s==='wanna_see'?(n>0?' want to see':' wants to see'):' saw them');
+    function cueFaces(xs, cls){   // up to 3 faces, then a "+n" face
+      var f=xs.slice(0,3).map(function(u){ return '<i style="background-image:'+avatarBg(u.handle,u.avatar)+'"></i>'; }).join('');
+      if(xs.length>3) f+='<i>+'+(xs.length-3)+'</i>';
+      return '<span class="'+cls+'" aria-hidden="true">'+f+'</span>'; }
+    // the row line, names bold: "zoe is going" · "zoe and kadri are going" · "zoe, kadri +2 going" ·
+    // "zoe saved it" · "zoe wants to see them" · "zoe saw them". The first status wins (the API sorts going / wanna_see first).
+    function cueLine(xs){
+      var s=xs[0].status, g=xs.filter(function(u){ return u.status===s; }), n=g.length;
+      var b=function(u){ return '<b>'+esc(cueName(u))+'</b>'; };
+      var who=n===1?b(g[0]):n===2?b(g[0])+' and '+b(g[1]):b(g[0])+', '+b(g[1])+' +'+(n-2);
+      var verb=s==='going'?(n===1?' is going':n===2?' are going':' going'):s==='saved'?' saved it':s==='wanna_see'?(n===1?' wants to see them':' want to see them'):' saw them';
+      return who+verb;
     }
-    function cueSentence(xs, kinds){
-      return kinds.map(function(k){ var g=xs.filter(function(u){ return u.status===k[0]; }); if(!g.length) return '';
-        return cueJoin(g, cueLink)+' '+(g.length===1?k[1]:k[2]); }).filter(Boolean).join(' &middot; ');
+    var CUE_WORD={ going:'Going', saved:'Saved', wanna_see:'Wants to see', seen:'Saw them' };
+    // gig + artist page: a strip of faces, each with its name and what they did; a face opens their music diary
+    function cueStrip(el, xs){
+      el.innerHTML='<h3>Friends</h3><div class="cue-row">'+xs.map(function(u){
+        var hot=u.status==='going'||u.status==='wanna_see';
+        return '<a class="nav cue-p" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'"><i style="background-image:'+avatarBg(u.handle,u.avatar)+'"></i><b>'+esc(cueName(u))+'</b><em'+(hot?' class="hot"':'')+'>'+(CUE_WORD[u.status]||'')+'</em></a>';
+      }).join('')+'</div>';
+      el.hidden=false;
     }
     async function decorateCues(root, events){
       if(!root) return;
@@ -16282,27 +16303,30 @@ a.dst-full-t:hover{text-decoration:underline}
       var j=await cuesFetch(ids, []);
       Object.keys(j.events||{}).forEach(function(id){
         var xs=j.events[id]; if(!xs||!xs.length) return;
-        var card=root.querySelector('.gcard[data-evt="'+CSS.escape(id)+'"] .lv-bd'); if(!card||card.querySelector('.lv-cue')) return;
-        card.insertAdjacentHTML('beforeend','<span class="lv-cue">'+cueFaces(xs)+'<span>'+cueShort(xs)+'</span></span>');
+        var row=root.querySelector('.gcard[data-evt="'+CSS.escape(id)+'"]'); if(!row||row.querySelector('.lv-cue')) return;
+        var th=row.querySelector('.lv-th'), bd=row.querySelector('.lv-bd'); if(!th||!bd) return;
+        th.classList.add('has-cf'); th.insertAdjacentHTML('beforeend', cueFaces(xs,'lv-cf'));
+        bd.insertAdjacentHTML('beforeend','<span class="lv-cue">'+cueLine(xs)+'</span>');
       });
     }
     async function fillEvCues(id){
       var el=document.getElementById('ev-cues'); if(!el) return;
       var xs=((await cuesFetch([String(id)], [])).events||{})[String(id)]||[]; if(!xs.length) return;
-      el.innerHTML='<div class="cue-eb">Friends</div><p>'+cueSentence(xs, [['going','is going','are going'],['saved','saved it','saved it']])+'</p>'; el.hidden=false;
+      cueStrip(el, xs);
     }
     async function fillArtistCues(slug){
       var el=document.getElementById('ap-cues'); if(!el) return;
       var xs=((await cuesFetch([], [slug])).artists||{})[slug]||[]; if(!xs.length) return;
-      el.innerHTML=cueFaces(xs)+'<span>'+cueSentence(xs, [['wanna_see','wants to see them','want to see them'],['seen','saw them','saw them']])+'</span>'; el.hidden=false;
+      cueStrip(el, xs);
     }
+    // line-up row: a 24 face stack after the name's heart (the name + heart stay together)
     async function fillLineupCues(box){
       if(!box) return;
       var links=[].slice.call(box.querySelectorAll('.fp-lu-nl[data-artist]')).filter(function(a){ return a.dataset.artist; });
       var slugs=links.map(function(a){ return a.dataset.artist; }); if(!slugs.length) return;
       var m=(await cuesFetch([], slugs)).artists||{};
-      links.forEach(function(a){ var xs=m[a.dataset.artist]; if(!xs||!xs.length||a.parentNode.querySelector('.fp-lu-cue')) return;
-        a.insertAdjacentHTML('afterend','<div class="fp-lu-cue">'+cueShort(xs)+'</div>'); });
+      links.forEach(function(a){ var xs=m[a.dataset.artist], tx=a.parentNode; if(!xs||!xs.length||tx.querySelector('.lu-cf')) return;
+        tx.insertAdjacentHTML('beforeend', cueFaces(xs,'lu-cf').replace('aria-hidden="true"','title="'+attrEsc(cueLine(xs).replace(/<[^>]+>/g,''))+'"')); });
     }
     async function decorateProof(events){
       return; // social proof hidden — early stage

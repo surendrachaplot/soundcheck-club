@@ -1,8 +1,8 @@
 # DJ Frog
 
-DJ Frog is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ESC, Montreal on Fri, 30 Oct 2026.
+DJ Frog is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ESC, Montreal on Fri, 30 Oct 2026.
 
-DJ Frog is a techno and house artist based in Canada, with 49 gigs on soundcheck across Brussels, London, Montreal and New York City and 3 more. Often billed alongside DJ Spence, PLO Man and Excalibur. Next up: ESC, Montreal on Fri 30 Oct.
+DJ Frog is a techno and house artist based in Canada, with 50 gigs on soundcheck across Barcelona, Brussels, London and Montreal and 4 more. Often billed alongside DJ Spence, PLO Man and Excalibur. Next up: ESC, Montreal on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Frog is a techno and house artist based in Canada, with 49 gigs on soundcheck
 | Fri, 30 Oct 2026 | ESC | Montreal |
 | Sun, 1 Nov 2026 | TBA - Mile-Ex | Montreal |
 | Sat, 28 Nov 2026 | Système | Montreal |
+| Thu, 11 Mar 2027 | Casa Montjuïc & Vall d'Hebron Olympic Pavilion | Barcelona |
 
 ## Recently played
 

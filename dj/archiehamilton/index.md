@@ -1,8 +1,8 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bikini Club, Barcelona on Fri, 30 Oct 2026.
+Archie Hamilton is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bikini Club, Barcelona on Fri, 30 Oct 2026.
 
-Archie Hamilton is a house and tech house artist based in United Kingdom, with 230 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Bikini Club, Barcelona on Fri 30 Oct.
+Archie Hamilton is a house and tech house artist based in United Kingdom, with 231 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Bikini Club, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 | Sun, 1 Nov 2026 | Chelmsford City Racecourse | London |
 | Sat, 14 Nov 2026 | IDRA | Manchester |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Thu, 10 Dec 2026 | Sub Club | Glasgow |
 | Fri, 11 Dec 2026 | Armature Works Riverfront | Florida |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |

@@ -1,14 +1,13 @@
 # Barba Azul
 
-Barba Azul is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Noche de Vampirxs" on Thu, 29 Oct 2026.
+Barba Azul is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "4LI4DXS MIHCAILHUITL" on Fri, 4 Dec 2026.
 
-Barba Azul is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including AddlyMuff, Atosigado, Choi and KATANA and 2 more. See dates, start times and who's playing. Simón Bolívar 291, Obrera, Cuauhtémoc, 06800 Ciudad de México, CDMX, México.
+Barba Azul is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including AddlyMuff, Atosigado, Choi and Ruido Con H. See dates, start times and who's playing. Simón Bolívar 291, Obrera, Cuauhtémoc, 06800 Ciudad de México, CDMX, México.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Noche de Vampirxs | KATANA (2), Saturna, Scorpio 69 |
 | Fri, 4 Dec 2026 | 4LI4DXS MIHCAILHUITL | AddlyMuff, Atosigado, Choi, Ruido Con H |
 
 ## Address

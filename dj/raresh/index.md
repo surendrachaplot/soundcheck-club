@@ -1,14 +1,15 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at FOLD, London on Fri, 30 Oct 2026.
+Raresh is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at FOLD, London on Fri, 30 Oct 2026.
 
-Raresh is a house and minimal artist based in Romania, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: FOLD, London on Fri 30 Oct.
+Raresh is a house and minimal artist based in Romania, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: FOLD, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | FOLD | London |
+| Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Sat, 28 Nov 2026 | Mia Mao | Paris |
 | Fri, 11 Dec 2026 | fi | Cologne |
 | Sat, 12 Dec 2026 | fabric | London |

@@ -1,14 +1,13 @@
 # Spray
 
-Spray is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at EartH, London on Fri, 30 Oct 2026.
+Spray is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at block., Dublin on Sat, 31 Oct 2026.
 
-Spray is a techno and house artist based in Ireland, with 213 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 64 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: EartH, London on Fri 30 Oct.
+Spray is a techno and house artist based in Ireland, with 212 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 64 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: block., Dublin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | EartH | London |
 | Sat, 31 Oct 2026 | block. | Dublin |
 | Fri, 1 Jan 2027 | WAS. | Utrecht |
 
