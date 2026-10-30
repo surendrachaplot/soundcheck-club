@@ -1,14 +1,13 @@
 # Kengo Yuasa
 
-Kengo Yuasa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at VENT, Tokyo on Fri, 30 Oct 2026.
+Kengo Yuasa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Enter Shibuya, Tokyo on Mon, 16 Nov 2026.
 
-Kengo Yuasa is a techno and house artist based in Japan, with 53 gigs on soundcheck across Tokyo. Often billed alongside hiroto yano, Leefia and AMIDAdrive. Next up: VENT, Tokyo on Fri 30 Oct.
+Kengo Yuasa is a techno and house artist based in Japan, with 53 gigs on soundcheck across Tokyo. Often billed alongside hiroto yano, Leefia and AMIDAdrive. Next up: Enter Shibuya, Tokyo on Mon 16 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | VENT | Tokyo |
 | Mon, 16 Nov 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played

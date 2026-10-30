@@ -2,7 +2,7 @@
 
 Impulsive Behaviour is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 15 Nov 2026.
 
-Impulsive Behaviour is a techno and hardcore artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Cologne, Geneva and Lisbon and 6 more. Often billed alongside Adrian Mills, Cloudy and The Muffin Man. Next up: Lokschuppen Berlin, Berlin on Sun 15 Nov.
+Impulsive Behaviour is a techno and hardcore artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Cologne, Geneva and Lisbon and 6 more. Often billed alongside Adrian Mills, Cloudy and TheMuffinMan. Next up: Lokschuppen Berlin, Berlin on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Impulsive Behaviour is a techno and hardcore artist based in United Kingdom, wit
 
 ## Shares bills with
 
-Adrian Mills, Cloudy, The Muffin Man
+Adrian Mills, Cloudy, TheMuffinMan
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/impulsivebehaviour/)*

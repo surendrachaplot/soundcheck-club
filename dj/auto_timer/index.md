@@ -1,0 +1,28 @@
+# auto_timer
+
+auto_timer is a Baile Funk and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lark, Berlin on Sat, 31 Oct 2026.
+
+auto_timer is a baile funk and latin bass artist based in Brazil, with 43 gigs on soundcheck across Amsterdam, Berlin, Brussels and Leipzig and 1 more. Often billed alongside Maque, N3LYSTAR and DJ LOUI FROM JUPITER4. Next up: Lark, Berlin on Sat 31 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | Lark | Berlin |
+
+## Recently played
+
+- TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin · Sat, 17 Oct 2026
+- ÆDEN, Berlin · Fri, 9 Oct 2026
+- TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin · Fri, 2 Oct 2026
+- Maaya, Berlin · Fri, 25 Sept 2026
+- Phantom Bar Berlin, Berlin · Sat, 29 Aug 2026
+- Marmorbar, Berlin · Fri, 21 Aug 2026
+- TBA - Warschauer Pl. 18, 10245 Berlin, Berlin · Fri, 7 Aug 2026
+- OXI, Berlin · Fri, 10 Jul 2026
+
+## Shares bills with
+
+Maque, N3LYSTAR, DJ LOUI FROM JUPITER4
+
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auto_timer/)*

@@ -5358,7 +5358,7 @@ a.fst-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793391431955">
+<meta name="sc-build" content="1793392250523">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -16932,7 +16932,10 @@ a.fst-t:hover{text-decoration:underline}
       var now=cityNowISO();
       return (events||[]).filter(function(e){
         var end=e.endTime&&String(e.endTime).slice(0,16);
-        return end && /T\d{2}:\d{2}$/.test(end) && end>now;
+        if(!end || !/T\d{2}:\d{2}$/.test(end) || end<=now) return false;
+        // An end over 5 days after the start is a bad listing, not a gig still on
+        // (Memory Dance, 29 Oct 19:00, "ends" 6 Nov). The longest festivals fit in 5 days.
+        return !e.startTime || Date.parse(end)-Date.parse(e.startTime) <= 5*864e5;
       }).sort(function(a,b){ return (b.attending||0)-(a.attending||0); })
         .map(function(e){ return Object.assign({},e,{_day:'Since yesterday'}); });
     }

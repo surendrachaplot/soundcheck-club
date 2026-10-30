@@ -1,14 +1,13 @@
 # AI (10)
 
-AI (10) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - FLAT Club, Chengdu on Fri, 30 Oct 2026.
+AI (10) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Circus Osaka, Osaka on Sat, 31 Oct 2026.
 
-AI is a techno and house artist based in Japan, with 42 gigs on soundcheck across Chengdu, Hannover, Kyoto and Osaka and 1 more. Often billed alongside Yui (JP), tnseei and Isshin. Next up: TBA - FLAT Club, Chengdu on Fri 30 Oct.
+AI is a techno and house artist based in Japan, with 42 gigs on soundcheck across Chengdu, Hannover, Kyoto and Osaka and 1 more. Often billed alongside Yui (JP), tnseei and Isshin. Next up: Circus Osaka, Osaka on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA - FLAT Club | Chengdu |
 | Sat, 31 Oct 2026 | Circus Osaka | Osaka |
 | Fri, 13 Nov 2026 | VENT | Tokyo |
 

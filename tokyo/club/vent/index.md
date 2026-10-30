@@ -1,14 +1,13 @@
 # VENT
 
-VENT is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Claudio PRC" on Fri, 30 Oct 2026.
+VENT is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Takaaki Itoh / SHAPE × MIND OFF Halloween" on Sat, 31 Oct 2026.
 
-VENT is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including 50Minimals, AI, AKIRAM EN and ANNĒ and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
+VENT is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including 50Minimals, AI, AKIRAM EN and ANNĒ and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Claudio PRC | Claudio PRC, DJ SO, JOMA (2), KanaK, Kengo Yuasa, Naoki Fujii, Neutran |
 | Sat, 31 Oct 2026 | Takaaki Itoh / SHAPE × MIND OFF Halloween | Dani Savant, Drunken Kong, Jun (+886), Mucaro, RINALUCKY, Takaaki Itoh, WAKA XINXI, YURI VALEN |
 | Mon, 2 Nov 2026 | Tigerhead | JOMA (2), Kurumi, MAYUDEPTH, Ryunosuke Urabe, Tigerhead, manato |
 | Fri, 6 Nov 2026 | Lee Burridge | Conures (DJ Tokunaga), Lee Burridge, Lycoriscoris, Sante Visioni, Satoshi Fumi, Shingo Nakamura, misa² |
@@ -18,6 +17,7 @@ VENT is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line
 | Fri, 20 Nov 2026 | CC:DISCO | CC:DISCO!, FU (JP), Onsawa&tkc, RIHO ASAEDA, mag (JP) |
 | Sat, 21 Nov 2026 | Philippa Pacho / VELTRAUM | Mari Sakurai, NITA, Philippa Pacho, Yo Nishijima, arow, machìna |
 | Sun, 22 Nov 2026 | Special Request | Special Request |
+| Fri, 27 Nov 2026 | Giegling / Giegling Tokyo Residency Closing Party | Edward, Konstantin, Lawrence, Yamour |
 
 ## Address
 

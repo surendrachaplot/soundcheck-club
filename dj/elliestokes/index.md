@@ -1,13 +1,14 @@
 # Ellie Stokes
 
-Ellie Stokes is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Ellie Stokes is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Space Studios, South-east on Fri, 30 Oct 2026.
 
-Ellie Stokes is a house and techno artist based in United Kingdom, with 97 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: The Cause, London on Sat 31 Oct.
+Ellie Stokes is a house and techno artist based in United Kingdom, with 98 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 20 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: Space Studios, South East on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Space Studios | South-east |
 | Sat, 31 Oct 2026 | The Cause | London |
 | Fri, 18 Dec 2026 | The Carpet Shop | London |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |

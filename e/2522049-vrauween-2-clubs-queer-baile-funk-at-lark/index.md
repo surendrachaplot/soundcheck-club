@@ -1,6 +1,6 @@
 # VRAUWEEN ཐི ₍^.ˬˬ.^₎ ཋྀ 2 CLUBS: QUEER BAILE FUNK at Lark
 
-VRAUWEEN ཐི ₍^.ˬˬ.^₎ ཋྀ 2 CLUBS: QUEER BAILE FUNK at Lark on Sat 31 Oct, Berlin. 6 artists: _hiø, DJ Pichula, Gadutra and Miss T Delight and 2 more. Baile Funk and Electronica. See the line-up on soundcheck.
+VRAUWEEN ཐི ₍^.ˬˬ.^₎ ཋྀ 2 CLUBS: QUEER BAILE FUNK at Lark on Sat 31 Oct, Berlin. 7 artists: _hiø, auto_timer, DJ Pichula and Gadutra and 3 more. Baile Funk and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ VRAUWEEN ཐི ₍^.ˬˬ.^₎ ཋྀ 2 CLUBS: QUEER BAILE FUNK at Lark on Sat 3
 ## Line-up
 
 - _hiø
+- auto_timer
 - DJ Pichula
 - Gadutra
 - Miss T Delight
