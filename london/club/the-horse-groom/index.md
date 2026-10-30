@@ -1,6 +1,6 @@
 # The Horse & Groom
 
-The Horse & Groom is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Spinimana's Spun House" on Fri, 30 Oct 2026.
+The Horse & Groom is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Spinimana's Spun House" on Fri, 30 Oct 2026.
 
 The Horse & Groom is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Blink Twice, Brockney C, Cowlick and Ed Vedra and 2 more. See dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
 
@@ -23,4 +23,4 @@ The Horse & Groom is a music venue in London listed on soundcheck. 10 upcoming g
 
 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*

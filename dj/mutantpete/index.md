@@ -1,6 +1,6 @@
 # Mutant Pete
 
-Mutant Pete is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mad Radio Miami, Miami on Fri, 30 Oct 2026.
+Mutant Pete is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mad Radio Miami, Miami on Fri, 30 Oct 2026.
 
 Mutant Pete is a house and disco artist based in United States of America, with 33 gigs on soundcheck across Houston and Miami. Often billed alongside JOVIGIBS, Terence Tabeau and Artime. Next up: Mad Radio Miami, Miami on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Mutant Pete is a house and disco artist based in United States of America, with 
 
 JOVIGIBS, Terence Tabeau, Artime
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutantpete/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutantpete/)*

@@ -1,6 +1,6 @@
 # Electronic Elephant
 
-Electronic Elephant is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
+Electronic Elephant is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
 
 Electronic Elephant is a house and techno artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne, Geneva and Hamburg and 1 more. Often billed alongside Casimir von Oettingen, Erhardt Schuster and Hans Hammer. Next up: Hafenklang, Hamburg on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Electronic Elephant is a house and techno artist based in Germany, with 24 gigs 
 
 Casimir von Oettingen, Erhardt Schuster, Hans Hammer
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/electronicelephant/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/electronicelephant/)*

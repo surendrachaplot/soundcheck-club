@@ -1,6 +1,6 @@
 # SCYLLA
 
-SCYLLA is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Not For Sale Gallery, London on Sun, 15 Nov 2026.
+SCYLLA is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Not For Sale Gallery, London on Sun, 15 Nov 2026.
 
 SCYLLA is a techno and minimal techno artist based in China, with 2 gigs on soundcheck across London. Often billed alongside D LAI, Dimanté and EMI. Next up: Not For Sale Gallery, London on Sun 15 Nov.
 
@@ -15,4 +15,4 @@ SCYLLA is a techno and minimal techno artist based in China, with 2 gigs on soun
 
 D LAI, Dimanté, EMI (11)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scylla/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scylla/)*

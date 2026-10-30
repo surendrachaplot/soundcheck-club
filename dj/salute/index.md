@@ -1,14 +1,13 @@
 # salute
 
-salute is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Refuge, New York City on Thu, 29 Oct 2026.
+salute is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-salute is a house and techno artist based in Austria, with 210 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside HAAi, DJ BORING and Eliza Rose. Next up: Refuge, New York City on Thu 29 Oct.
+salute is a house and techno artist based in Austria, with 210 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside HAAi, DJ BORING and Eliza Rose. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Refuge | New York City |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Mia Mao | Paris |
 | Sat, 7 Nov 2026 | Gewölbe | Cologne |
@@ -20,9 +19,11 @@ salute is a house and techno artist based in Austria, with 210 gigs on soundchec
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
+| Thu, 31 Dec 2026 | Carriageworks | Sydney |
 
 ## Recently played
 
+- Refuge, New York City · Thu, 29 Oct 2026
 - Thuishaven, Amsterdam · Fri, 23 Oct 2026
 - The Loft Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
@@ -30,10 +31,9 @@ salute is a house and techno artist based in Austria, with 210 gigs on soundchec
 - Yamamori Tengu, Dublin · Fri, 16 Oct 2026
 - Mondo Open Air, Madrid · Sun, 11 Oct 2026
 - Mondo, Madrid · Sun, 11 Oct 2026
-- Plano B, Porto · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 HAAi, DJ BORING, Eliza Rose
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

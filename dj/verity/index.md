@@ -1,6 +1,6 @@
 # Verity
 
-Verity is a Garage and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Laak, The Hague on Sat, 7 Nov 2026.
+Verity is a Garage and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Laak, The Hague on Sat, 7 Nov 2026.
 
 Verity is a garage and techno artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hobart and 3 more. Often billed alongside Oceanic, Nelly (NL) and Vox supreme. Next up: Laak, The Hague on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Verity is a garage and techno artist based in Netherlands, with 48 gigs on sound
 
 Oceanic, Nelly (NL), Vox supreme
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verity/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verity/)*

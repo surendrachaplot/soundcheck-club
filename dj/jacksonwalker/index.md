@@ -1,6 +1,6 @@
 # Jackson Walker
 
-Jackson Walker is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
+Jackson Walker is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Jackson Walker is a house and acid artist, with 37 gigs on soundcheck across Miami, New York City and San Francisco/Oakland. Often billed alongside Jackson Walker Lewis, GYPSUM and FCUKERS. Next up: Monarch, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jackson Walker is a house and acid artist, with 37 gigs on soundcheck across Mia
 
 Jackson Walker Lewis, GYPSUM, FCUKERS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonwalker/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonwalker/)*

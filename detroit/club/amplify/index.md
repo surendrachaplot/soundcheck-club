@@ -1,6 +1,6 @@
 # Amplify
 
-Amplify is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Hairitage" on Fri, 20 Nov 2026.
+Amplify is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hairitage" on Fri, 20 Nov 2026.
 
 Amplify is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including DISCOBOT. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Amplify is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with 
 | Fri, 20 Nov 2026 | Hairitage | DISCOBOT |
 | Wed, 25 Nov 2026 | Amplify Grand Opening |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/amplify/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/amplify/)*

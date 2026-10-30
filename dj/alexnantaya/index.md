@@ -1,6 +1,6 @@
 # Alex Nantaya
 
-Alex Nantaya is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
+Alex Nantaya is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
 
 Alex Nantaya is a techno and electro artist based in Switzerland, with 88 gigs on soundcheck across Bangkok, Basel, Beijing and Berlin and 13 more. Often billed alongside Gioski, Bours? and Doma. Next up: KitKatClub, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Alex Nantaya is a techno and electro artist based in Switzerland, with 88 gigs o
 
 Gioski, Bours?, Doma
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*

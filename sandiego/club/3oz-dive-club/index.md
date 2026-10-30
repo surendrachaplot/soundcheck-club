@@ -1,6 +1,6 @@
 # 3oz Dive Club
 
-3oz Dive Club is a music venue in San Diego with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "FENIK - presented by Control & Freak / / Who Cares" on Fri, 30 Oct 2026.
+3oz Dive Club is a music venue in San Diego with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FENIK - presented by Control & Freak / / Who Cares" on Fri, 30 Oct 2026.
 
 3oz Dive Club is a music venue in San Diego listed on soundcheck. 7 upcoming gigs, with line-ups including Calles, Egyptian Lover, Luke Alessi and metabiite and 2 more. See dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
 
@@ -20,4 +20,4 @@
 
 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA, San Diego
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*

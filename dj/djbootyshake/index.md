@@ -1,6 +1,6 @@
 # DJ BootyShake
 
-DJ BootyShake is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Warehouse 34, Newcastle on Sat, 31 Oct 2026.
+DJ BootyShake is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Warehouse 34, Newcastle on Sat, 31 Oct 2026.
 
 DJ BootyShake is a jungle and drum & bass artist based in United Kingdom, with 17 gigs on soundcheck across Bristol, Leeds, London and Newcastle. Often billed alongside PB (UK), NEENZY (UK) and Amelia Leigh. Next up: Warehouse 34, Newcastle on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ BootyShake is a jungle and drum & bass artist based in United Kingdom, with 1
 
 PB (UK), NEENZY (UK), Amelia Leigh
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbootyshake/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbootyshake/)*

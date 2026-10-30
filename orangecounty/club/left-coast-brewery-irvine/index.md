@@ -1,6 +1,6 @@
 # Left Coast Brewery - Irvine
 
-Left Coast Brewery - Irvine is a music venue in Orange County with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Spooky Night of Halloween" on Sat, 31 Oct 2026.
+Left Coast Brewery - Irvine is a music venue in Orange County with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Spooky Night of Halloween" on Sat, 31 Oct 2026.
 
 Left Coast Brewery - Irvine is a music venue in Orange County listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Left Coast Brewery - Irvine is a music venue in Orange County listed on soundche
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Spooky Night of Halloween |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/orangecounty/club/left-coast-brewery-irvine/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/orangecounty/club/left-coast-brewery-irvine/)*

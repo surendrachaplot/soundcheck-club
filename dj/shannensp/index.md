@@ -1,6 +1,6 @@
 # Shannen SP
 
-Shannen SP is a Amapiano and Gqom artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Strange Brew, Bristol on Sat, 31 Oct 2026.
+Shannen SP is a Amapiano and Gqom artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Strange Brew, Bristol on Sat, 31 Oct 2026.
 
 Shannen SP is an amapiano and gqom artist based in United Kingdom, with 67 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 22 more. Often billed alongside Bok Bok, Ikonika and Call Super. Next up: Strange Brew, Bristol on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Shannen SP is an amapiano and gqom artist based in United Kingdom, with 67 gigs 
 
 Bok Bok, Ikonika, Call Super
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*

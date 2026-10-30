@@ -1,6 +1,6 @@
 # Timoti
 
-Timoti is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - East London Location TBA, London on Sat, 7 Nov 2026.
+Timoti is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - East London Location TBA, London on Sat, 7 Nov 2026.
 
 Timoti is a minimal and electro artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Leeds and 1 more. Often billed alongside Desuba, Matteo Manzini and Praslea. Next up: TBA - East London Location TBA, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Timoti is a minimal and electro artist based in United Kingdom, with 40 gigs on 
 
 Desuba, Matteo Manzini, Praslea
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timoti/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timoti/)*

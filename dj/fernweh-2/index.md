@@ -1,6 +1,6 @@
 # Fernweh (2)
 
-Fernweh (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at HQI, London on Fri, 30 Oct 2026.
+Fernweh (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at HQI, London on Fri, 30 Oct 2026.
 
 Fernweh is a techno and trance artist based in Germany, with 13 gigs on soundcheck across Amsterdam and London. Often billed alongside MEAKIN, Alythia Kwan and MARIUS SEBASTIAN. Next up: HQI, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Fernweh is a techno and trance artist based in Germany, with 13 gigs on soundche
 
 MEAKIN, Alythia Kwan, MARIUS SEBASTIAN
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fernweh-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fernweh-2/)*

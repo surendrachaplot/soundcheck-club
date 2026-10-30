@@ -1,6 +1,6 @@
 # Rich Medina
 
-Rich Medina is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Bain, New York City on Fri, 6 Nov 2026.
+Rich Medina is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Bain, New York City on Fri, 6 Nov 2026.
 
 Rich Medina is a house and funk / soul artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 26 more. Often billed alongside Djinji Brown, Dvize and Sunny Cheeba. Next up: Le Bain, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rich Medina is a house and funk / soul artist based in United States of America,
 
 Djinji Brown, Dvize, Sunny Cheeba
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richmedina/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richmedina/)*

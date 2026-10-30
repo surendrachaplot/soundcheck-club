@@ -1,6 +1,6 @@
 # Celestino
 
-Celestino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Taunusstrasse 22, Frankfurt on Sat, 31 Oct 2026.
+Celestino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Taunusstrasse 22, Frankfurt on Sat, 31 Oct 2026.
 
 Celestino is a house and techno artist, with 9 gigs on soundcheck across Frankfurt, Leipzig and Paris. Often billed alongside &more, Ata and Bizzarro Universe. Next up: TBA - Taunusstrasse 22, Frankfurt on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Celestino is a house and techno artist, with 9 gigs on soundcheck across Frankfu
 
 &more, Ata, Bizzarro Universe
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celestino/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celestino/)*

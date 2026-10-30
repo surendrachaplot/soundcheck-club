@@ -1,6 +1,6 @@
 # Silvia Kastel
 
-Silvia Kastel is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
+Silvia Kastel is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
 
 Silvia Kastel is a bass and experimental artist based in Italy, with 11 gigs on soundcheck across London, Manchester and Tallinn. Often billed alongside Elle Andrews, Kode9 and Anina. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Silvia Kastel is a bass and experimental artist based in Italy, with 11 gigs on 
 
 Elle Andrews, Kode9, Anina
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silviakastel/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silviakastel/)*

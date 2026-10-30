@@ -1,6 +1,6 @@
 # La Hara
 
-La Hara is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Volt Club Milano, Milan on Fri, 6 Nov 2026.
+La Hara is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Volt Club Milano, Milan on Fri, 6 Nov 2026.
 
 La Hara is a tech house and house artist based in Italy, with 46 gigs on soundcheck across Milan and Naples. Often billed alongside Ludo Erre, Cristian Volpe and Alessio Cristiano. Next up: Volt Club Milano, Milan on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ La Hara is a tech house and house artist based in Italy, with 46 gigs on soundch
 
 Ludo Erre, Cristian Volpe, Alessio Cristiano
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lahara/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lahara/)*

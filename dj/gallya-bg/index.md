@@ -1,6 +1,6 @@
 # Gallya
 
-Gallya is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Clwd, Sofia on Sat, 14 Nov 2026.
+Gallya is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Clwd, Sofia on Sat, 14 Nov 2026.
 
 Gallya is a techno and tech house artist based in Bulgaria, with 40 gigs on soundcheck across Berlin, Bratislava, Cologne and Ibiza and 3 more. Often billed alongside Peppou, METODI and Bart Skils. Next up: Clwd, Sofia on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Gallya is a techno and tech house artist based in Bulgaria, with 40 gigs on soun
 
 Peppou, METODI, Bart Skils
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gallya-bg/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gallya-bg/)*

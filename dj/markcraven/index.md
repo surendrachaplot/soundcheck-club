@@ -1,6 +1,6 @@
 # Mark Craven
 
-Mark Craven is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Arts Factory Byron Bay, Byron Bay on Fri, 1 Jan 2027.
+Mark Craven is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Arts Factory Byron Bay, Byron Bay on Fri, 1 Jan 2027.
 
 Mark Craven is a progressive house and techno artist based in Ireland, with 17 gigs on soundcheck across Byron Bay, Melbourne and Sydney. Often billed alongside OLIIV, NOIYSE PROJECT and Ulia. Next up: The Arts Factory Byron Bay, Byron Bay on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Mark Craven is a progressive house and techno artist based in Ireland, with 17 g
 
 OLIIV, NOIYSE PROJECT, Ulia
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markcraven/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markcraven/)*

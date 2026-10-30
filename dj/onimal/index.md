@@ -1,6 +1,6 @@
 # ONIMAL
 
-ONIMAL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ciało, Wroclaw on Sat, 31 Oct 2026.
+ONIMAL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ciało, Wroclaw on Sat, 31 Oct 2026.
 
 ONIMAL is a techno and house artist based in Poland, with 10 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside Lyor Kalt, Mabu and ATARMAL. Next up: Ciało, Wroclaw on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ ONIMAL is a techno and house artist based in Poland, with 10 gigs on soundcheck 
 
 Lyor Kalt, Mabu, ATARMAL
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onimal/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onimal/)*

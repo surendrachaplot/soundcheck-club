@@ -1,6 +1,6 @@
 # Elleinad
 
-Elleinad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
+Elleinad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
 
 Elleinad is a house and techno artist based in United Kingdom, with 34 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside Aly P, Aerofunk and Nerram. Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Elleinad is a house and techno artist based in United Kingdom, with 34 gigs on s
 
 Aly P, Aerofunk, Nerram
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elleinad/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elleinad/)*

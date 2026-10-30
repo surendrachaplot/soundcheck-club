@@ -1,6 +1,6 @@
 # NullDaSensei
 
-NullDaSensei is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Forestlimit, Tokyo on Thu, 5 Nov 2026.
+NullDaSensei is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Forestlimit, Tokyo on Thu, 5 Nov 2026.
 
 NullDaSensei is a bass and techno artist based in Japan, with 11 gigs on soundcheck across Tokyo. Often billed alongside Mars89, ZuKaRoHi and ykah. Next up: Forestlimit, Tokyo on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ NullDaSensei is a bass and techno artist based in Japan, with 11 gigs on soundch
 
 Mars89, ZuKaRoHi, ykah
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nulldasensei/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nulldasensei/)*

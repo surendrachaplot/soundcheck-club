@@ -1,6 +1,6 @@
 # David August
 
-David August is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ZENNER, Berlin on Sat, 31 Oct 2026.
+David August is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ZENNER, Berlin on Sat, 31 Oct 2026.
 
 David August is an experimental and electronica artist, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Sofia Kourtesis, Bendik Giske and Cassius. Next up: ZENNER, Berlin on Sat 31 Oct.
 
@@ -13,6 +13,7 @@ David August is an experimental and electronica artist, with 38 gigs on soundche
 
 ## Recently played
 
+- L'octogone Théâtre de Pully, Lausanne · Thu, 29 Oct 2026
 - Monopol Madrid, Madrid · Wed, 7 Oct 2026
 - Say No More Madrid, Madrid · Sat, 3 Oct 2026
 - migas, a listening bar, Berlin · Thu, 24 Sept 2026
@@ -20,10 +21,9 @@ David August is an experimental and electronica artist, with 38 gigs on soundche
 - La Redazione di Scomodo, Rome · Sat, 9 May 2026
 - TBA - Citadelle de Marseille, Marseille · Fri, 8 May 2026
 - La Marbrerie, Paris · Tue, 5 May 2026
-- Badaboum, Paris · Sat, 18 Oct 2025
 
 ## Shares bills with
 
 Sofia Kourtesis, Bendik Giske, Cassius
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*

@@ -1,6 +1,6 @@
 # Neel
 
-Neel is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
+Neel is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
 Neel is a techno and electronica artist based in Italy, with 115 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Anthony Linell, .VRIL and Donato Dozzy. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Neel is a techno and electronica artist based in Italy, with 115 gigs on soundch
 
 Anthony Linell, .VRIL, Donato Dozzy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*

@@ -1,6 +1,6 @@
 # SOLE DOSI
 
-SOLE DOSI is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DURO, Milan on Sat, 31 Oct 2026.
+SOLE DOSI is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DURO, Milan on Sat, 31 Oct 2026.
 
 SOLE DOSI is a techno and house artist based in Italy, with 99 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 13 more. Often billed alongside Paula Sanz, ALDAVE and Carmen Lisa. Next up: DURO, Milan on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ SOLE DOSI is a techno and house artist based in Italy, with 99 gigs on soundchec
 
 Paula Sanz, ALDAVE, Carmen Lisa (2)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*

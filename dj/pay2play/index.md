@@ -1,6 +1,6 @@
 # PAY2PLAY
 
-PAY2PLAY is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Fuchs2, Prague on Fri, 4 Dec 2026.
+PAY2PLAY is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fuchs2, Prague on Fri, 4 Dec 2026.
 
 PAY2PLAY is a techno and acid artist based in Czech Republic, with 12 gigs on soundcheck across Copenhagen and Prague. Often billed alongside SJ Yellow, tmk (CZ) and 2NDRA. Next up: Fuchs2, Prague on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ PAY2PLAY is a techno and acid artist based in Czech Republic, with 12 gigs on so
 
 SJ Yellow, tmk (CZ), 2NDRA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pay2play/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pay2play/)*

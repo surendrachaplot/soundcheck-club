@@ -1,6 +1,6 @@
 # Seko
 
-Seko is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 31 Oct 2026.
+Seko is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 31 Oct 2026.
 
 Seko is a minimal and house artist based in Turkey, with 39 gigs on soundcheck across Antwerp, Bucharest, Dubai and Ibiza and 3 more. Often billed alongside Kluch, Cap and Gescu. Next up: Frankhan Selectist, Istanbul on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Seko is a minimal and house artist based in Turkey, with 39 gigs on soundcheck a
 
 Kluch, Cap, Gescu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seko/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seko/)*

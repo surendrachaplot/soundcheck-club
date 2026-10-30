@@ -1,6 +1,6 @@
 # Proteina
 
-Proteina is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Transformator, Wroclaw on Wed, 11 Nov 2026.
+Proteina is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Transformator, Wroclaw on Wed, 11 Nov 2026.
 
 Proteina is a techno and trance artist, with 37 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Despoza, somnifobia and A.C.. Next up: Transformator, Wroclaw on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Proteina is a techno and trance artist, with 37 gigs on soundcheck across Krakow
 
 Despoza, somnifobia, A.C.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proteina/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/proteina/)*

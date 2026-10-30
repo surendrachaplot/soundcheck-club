@@ -1,6 +1,6 @@
 # Killa P
 
-Killa P is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
+Killa P is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
 
 Killa P is a drum & bass and bass artist based in United Kingdom, with 87 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 18 more. Often billed alongside Deekline, Sir Spyro and Footsie. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Killa P is a drum & bass and bass artist based in United Kingdom, with 87 gigs o
 
 Deekline, Sir Spyro, Footsie
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killap/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killap/)*

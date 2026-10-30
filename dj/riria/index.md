@@ -1,6 +1,6 @@
 # RIRIA
 
-RIRIA is a Bass and Garage artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Brussels Gate, Brussels on Sat, 31 Oct 2026.
+RIRIA is a Bass and Garage artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brussels Gate, Brussels on Sat, 31 Oct 2026.
 
 RIRIA is a bass and garage artist based in Japan, with 110 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 43 more. Often billed alongside Diffrent, Yung Singh and ryota dj. Next up: Brussels Gate, Brussels on Sat 31 Oct.
 
@@ -35,4 +35,4 @@ RIRIA is a bass and garage artist based in Japan, with 110 gigs on soundcheck ac
 
 Diffrent, Yung Singh, ryota dj
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

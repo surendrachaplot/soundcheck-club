@@ -1,6 +1,6 @@
 # Dr. Sud
 
-Dr. Sud is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Promenaden Eck, Berlin on Thu, 12 Nov 2026.
+Dr. Sud is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Promenaden Eck, Berlin on Thu, 12 Nov 2026.
 
 Dr. Sud is a house and dub artist based in Italy, with 15 gigs on soundcheck across Berlin. Often billed alongside doctor doms, Caldii and __iwana__. Next up: Promenaden Eck, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Dr. Sud is a house and dub artist based in Italy, with 15 gigs on soundcheck acr
 
 doctor doms, Caldii, __iwana__
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.sud/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.sud/)*

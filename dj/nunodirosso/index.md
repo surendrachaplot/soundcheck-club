@@ -1,6 +1,6 @@
 # Nuno di Rosso
 
-Nuno di Rosso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 14 Nov 2026.
+Nuno di Rosso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 14 Nov 2026.
 
 Nuno di Rosso is a techno and house artist based in Portugal, with 50 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Pedro Tabuada, Ludovic and Francisco AP. Next up: Lux Fragil, Lisbon on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Nuno di Rosso is a techno and house artist based in Portugal, with 50 gigs on so
 
 Pedro Tabuada, Ludovic, Francisco AP
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunodirosso/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunodirosso/)*

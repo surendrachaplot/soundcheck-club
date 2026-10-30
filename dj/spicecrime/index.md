@@ -1,6 +1,6 @@
 # Spice Crime
 
-Spice Crime is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Corner, Miami on Sat, 31 Oct 2026.
+Spice Crime is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Corner, Miami on Sat, 31 Oct 2026.
 
 Spice Crime is a techno and house artist based in United States of America, with 30 gigs on soundcheck across Miami and New York City. Often billed alongside Violeta, KUJO (US) and DomnRob. Next up: The Corner, Miami on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Spice Crime is a techno and house artist based in United States of America, with
 
 Violeta, KUJO (US), DomnRob
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spicecrime/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spicecrime/)*

@@ -1,6 +1,6 @@
 # Tactile
 
-Tactile is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
+Tactile is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
 
 Tactile is a trance and house artist based in Germany, with 20 gigs on soundcheck across Berlin. Often billed alongside Multifun, Hanna Baertig and Mila Stern. Next up: Renate, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tactile is a trance and house artist based in Germany, with 20 gigs on soundchec
 
 Multifun, Hanna Baertig, Mila Stern
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tactile-de/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tactile-de/)*

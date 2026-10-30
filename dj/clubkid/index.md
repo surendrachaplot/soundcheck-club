@@ -1,6 +1,6 @@
 # ClubKid
 
-ClubKid is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Don't be a Dick, Athens on Sat, 31 Oct 2026.
+ClubKid is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Don't be a Dick, Athens on Sat, 31 Oct 2026.
 
 ClubKid is a house and techno artist based in Greece, with 166 gigs on soundcheck across Athens, Berlin, Bucharest and Mexico City and 2 more. Often billed alongside .Fro., Bill Sanders and Maria Politi. Next up: Don't be a Dick, Athens on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ ClubKid is a house and techno artist based in Greece, with 166 gigs on soundchec
 
 .Fro., Bill Sanders, Maria Politi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubkid/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubkid/)*

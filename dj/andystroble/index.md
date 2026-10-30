@@ -1,6 +1,6 @@
 # Andy Stroble
 
-Andy Stroble is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
+Andy Stroble is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
 
 Andy Stroble is a techno and house artist based in United States of America, with 27 gigs on soundcheck across Chicago and Minneapolis/St Paul. Often billed alongside Duke Shin, Steve Noah and flower food. Next up: TBA, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Andy Stroble is a techno and house artist based in United States of America, wit
 
 Duke Shin, Steve Noah, flower food
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andystroble/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andystroble/)*

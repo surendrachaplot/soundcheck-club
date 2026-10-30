@@ -1,6 +1,6 @@
 # Bensley
 
-Bensley is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Warehouse Venue, Toronto on Fri, 30 Oct 2026.
+Bensley is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Warehouse Venue, Toronto on Fri, 30 Oct 2026.
 
 Bensley is a drum & bass and jungle artist, with 22 gigs on soundcheck across Auckland, Brisbane, Bristol and Christchurch and 13 more. Often billed alongside Anny (UK), Delta Heavy and Kaizah. Next up: The Warehouse Venue, Toronto on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Bensley is a drum & bass and jungle artist, with 22 gigs on soundcheck across Au
 
 Anny (UK), Delta Heavy, Kaizah
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensley/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensley/)*

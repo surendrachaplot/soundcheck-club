@@ -1,6 +1,6 @@
 # Giamma Soren
 
-Giamma Soren is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at SAM Sampling Moods, Milan on Sat, 31 Oct 2026.
+Giamma Soren is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at SAM Sampling Moods, Milan on Sat, 31 Oct 2026.
 
 Giamma Soren is a house and electro artist based in Italy, with 55 gigs on soundcheck across Belfast, Cork, London and Milan and 2 more. Often billed alongside Vannelli Bros, Uabos and Emi Lee. Next up: SAM Sampling Moods, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Giamma Soren is a house and electro artist based in Italy, with 55 gigs on sound
 
 Vannelli Bros, Uabos, Emi Lee
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giammasoren/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giammasoren/)*

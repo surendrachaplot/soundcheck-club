@@ -1,6 +1,6 @@
 # DJ City
 
-DJ City is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 30 Oct 2026.
+DJ City is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 30 Oct 2026.
 
 DJ City is a house and acid artist based in Sweden, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside La Schmock, Public Possession and Alison Swing. Next up: Crack Bellmer, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ City is a house and acid artist based in Sweden, with 81 gigs on soundcheck a
 
 La Schmock, Public Possession, Alison Swing
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcity/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcity/)*

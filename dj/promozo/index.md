@@ -1,6 +1,6 @@
 # Promo ZO
 
-Promo ZO is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Promo ZO is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
 Promo ZO is a drum & bass and jungle artist based in United Kingdom, with 29 gigs on soundcheck across Bristol, London and Malta. Often billed alongside Bryan Gee, Moose and IC3. Next up: fabric, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Promo ZO is a drum & bass and jungle artist based in United Kingdom, with 29 gig
 
 Bryan Gee, Moose, IC3
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/promozo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/promozo/)*

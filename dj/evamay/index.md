@@ -1,6 +1,6 @@
 # Eva May
 
-Eva May is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
+Eva May is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
 
 Eva May is a techno and house artist based in Switzerland, with 32 gigs on soundcheck across Berlin, Brussels, Geneva and Lausanne and 4 more. Often billed alongside Nahomi, Gioski and picchu. Next up: Leysin Ski Resort, Switzerland on Mon 15 Mar.
 
@@ -25,4 +25,4 @@ Eva May is a techno and house artist based in Switzerland, with 32 gigs on sound
 
 Nahomi, Gioski, picchu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evamay/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evamay/)*

@@ -1,6 +1,6 @@
 # kichererbsenstampf
 
-kichererbsenstampf is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
+kichererbsenstampf is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
 
 kichererbsenstampf is a trance and techno artist based in Germany, with 55 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 6 more. Often billed alongside VLUNA, Sabu! and CARGO (DE). Next up: Odonien, Cologne on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ kichererbsenstampf is a trance and techno artist based in Germany, with 55 gigs 
 
 VLUNA, Sabu!, CARGO (DE)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*

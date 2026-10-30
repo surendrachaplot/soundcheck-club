@@ -1,6 +1,6 @@
 # Luca Averna
 
-Luca Averna is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Ibiza on Sun, 1 Nov 2026.
+Luca Averna is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Ibiza on Sun, 1 Nov 2026.
 
 Luca Averna is a house and balearic artist based in Spain, with 53 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Ibiza and 3 more. Often billed alongside Camilo Miranda, Christian Len and Jaime Fiorito. Next up: TBA, Ibiza on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Luca Averna is a house and balearic artist based in Spain, with 53 gigs on sound
 
 Camilo Miranda, Christian Len, Jaime Fiorito
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaaverna/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaaverna/)*

@@ -1,6 +1,6 @@
 # Testbild
 
-Testbild is a New Wave and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
+Testbild is a New Wave and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
 
 Testbild is a new wave and minimal artist based in Germany, with 24 gigs on soundcheck across Berlin. Often billed alongside Mara Mortem, Graftak and ANGELIC SINTESIS. Next up: Renate, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Testbild is a new wave and minimal artist based in Germany, with 24 gigs on soun
 
 Mara Mortem, Graftak, ANGELIC SINTESIS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/testbild/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/testbild/)*

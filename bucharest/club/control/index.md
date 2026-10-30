@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DAR DISKU [BH/UK], Romansoff, Dragoș Rusu, Cliza & Bogman" on Fri, 30 Oct 2026.
+control is a music venue in Bucharest with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "DAR DISKU [BH/UK], Romansoff, Dragoș Rusu, Cliza & Bogman" on Fri, 30 Oct 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 12 upcoming gigs, with line-ups including Actress, Admina, Bogman and Commissar  Lag and 2 more. See dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -23,4 +23,4 @@ control is a music venue in Bucharest listed on soundcheck. 12 upcoming gigs, wi
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

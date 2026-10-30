@@ -1,6 +1,6 @@
 # Malzof
 
-Malzof is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Carnegie Music Hall, Pittsburgh on Sun, 1 Nov 2026.
+Malzof is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Carnegie Music Hall, Pittsburgh on Sun, 1 Nov 2026.
 
 Malzof is a house and downtempo artist based in United States of America, with 39 gigs on soundcheck across Cleveland, Detroit, Los Angeles and New York City and 5 more. Often billed alongside Kiernan Laveaux, MIRA MIRA and Carrie Sours. Next up: Carnegie Music Hall, Pittsburgh on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Malzof is a house and downtempo artist based in United States of America, with 3
 
 Kiernan Laveaux, MIRA MIRA, Carrie Sours
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*

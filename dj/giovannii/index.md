@@ -1,6 +1,6 @@
 # Giovannii
 
-Giovannii is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at BASEMENT, New York City on Fri, 20 Nov 2026.
+Giovannii is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at BASEMENT, New York City on Fri, 20 Nov 2026.
 
 Giovannii is a techno and house artist based in United States of America, with 21 gigs on soundcheck across New York City. Often billed alongside Will Jack, Sevyn Love and DJ DEADNAME. Next up: BASEMENT, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Giovannii is a techno and house artist based in United States of America, with 2
 
 Will Jack, Sevyn Love, DJ DEADNAME
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannii/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannii/)*

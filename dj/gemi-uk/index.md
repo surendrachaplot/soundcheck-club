@@ -1,6 +1,6 @@
 # Gemi (UK)
 
-Gemi (UK) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Gemi (UK) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Gemi (UK) is a garage and house artist based in United Kingdom, with 35 gigs on soundcheck across Bologna, Bristol, Hobart and Leeds and 5 more. Often billed alongside DJ Love UK, DRIIA and Ell Murphy. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gemi (UK) is a garage and house artist based in United Kingdom, with 35 gigs on 
 
 DJ Love UK, DRIIA, Ell Murphy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemi-uk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemi-uk/)*

@@ -1,6 +1,6 @@
 # FOULMOUTH
 
-FOULMOUTH is a Hardcore and Gabber artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Loco Klub, Bristol on Sat, 31 Oct 2026.
+FOULMOUTH is a Hardcore and Gabber artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Loco Klub, Bristol on Sat, 31 Oct 2026.
 
 FOULMOUTH is a hardcore and gabber artist based in United Kingdom, with 34 gigs on soundcheck across Bristol, Leeds, Liverpool and Manchester and 1 more. Often billed alongside FKA Hardcore, Anop and Princess Elf Bar. Next up: The Loco Klub, Bristol on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ FOULMOUTH is a hardcore and gabber artist based in United Kingdom, with 34 gigs 
 
 FKA Hardcore, Anop, Princess Elf Bar
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*

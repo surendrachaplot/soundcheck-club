@@ -1,6 +1,6 @@
 # 'PAVV'
 
-'PAVV' is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Ontario on Sun, 5 Sept 2027.
+'PAVV' is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Ontario on Sun, 5 Sept 2027.
 
 'PAVV' is a techno and drum & bass artist based in Egypt, with 20 gigs on soundcheck across Montreal, Ontario and Toronto. Often billed alongside UNCL Mike, Azalea the Witch and Audi Étoffe. Next up: TBA, Ontario on Sun 5 Sept.
 
@@ -25,4 +25,4 @@
 
 UNCL Mike, Azalea the Witch, Audi Étoffe
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pavv/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pavv/)*

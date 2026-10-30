@@ -1,6 +1,6 @@
 # Defunked
 
-Defunked is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bricks, London on Fri, 13 Nov 2026.
+Defunked is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bricks, London on Fri, 13 Nov 2026.
 
 Defunked is a house and deep house artist, with 14 gigs on soundcheck across Dublin, Edinburgh, London and Manchester and 1 more. Often billed alongside Flash Mitra, Addsound and Archie Holmes. Next up: Bricks, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Defunked is a house and deep house artist, with 14 gigs on soundcheck across Dub
 
 Flash Mitra, Addsound, Archie Holmes
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defunked/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defunked/)*

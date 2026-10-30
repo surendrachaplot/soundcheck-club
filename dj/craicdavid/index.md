@@ -1,6 +1,6 @@
 # CRAIC DAVID
 
-CRAIC DAVID is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
+CRAIC DAVID is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
 
 CRAIC DAVID is a footwork and bass artist based in United Kingdom, with 23 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Big Dope P, sohotsospicy and Mia Moto. Next up: Planet Wax, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ CRAIC DAVID is a footwork and bass artist based in United Kingdom, with 23 gigs 
 
 Big Dope P, sohotsospicy, Mia Moto
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craicdavid/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craicdavid/)*

@@ -1,6 +1,6 @@
 # Promenaden Eck
 
-Promenaden Eck is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sore Thumbs Halloween Party" on Sat, 31 Oct 2026.
+Promenaden Eck is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Sore Thumbs Halloween Party" on Sat, 31 Oct 2026.
 
 Promenaden Eck is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including __iwana__, Alexander Paulski, Caldii and Cheap Coffee and 2 more. See dates, start times and who's playing. Schillerpromenade 11, 12049 Berlin.
 
@@ -17,4 +17,4 @@ Promenaden Eck is a music venue in Berlin listed on soundcheck. 4 upcoming gigs,
 
 Schillerpromenade 11, 12049 Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/promenaden-eck/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/promenaden-eck/)*

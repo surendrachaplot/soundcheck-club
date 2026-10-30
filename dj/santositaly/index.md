@@ -1,6 +1,6 @@
 # Santos
 
-Santos is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Santos is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Santos is a techno and tech house artist based in Italy, with 20 gigs on soundcheck across Berlin, Budapest, Detroit and Glasgow and 10 more. Often billed alongside KRUELTY, Nico Moreno and Agents Of Time. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Santos is a techno and tech house artist based in Italy, with 20 gigs on soundch
 
 KRUELTY, Nico Moreno, Agents Of Time
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santositaly/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santositaly/)*

@@ -1,6 +1,6 @@
 # Opposite Direktion
 
-Opposite Direktion is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+Opposite Direktion is a Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
 
 Opposite Direktion is a progressive house artist based in Canada, with 23 gigs on soundcheck across Montreal. Often billed alongside Depalma, Joubin Mova and Sevn. Next up: Le Sainte-Catherine Hall, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Opposite Direktion is a progressive house artist based in Canada, with 23 gigs o
 
 Depalma, Joubin Mova, Sevn
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppositedirektion/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppositedirektion/)*

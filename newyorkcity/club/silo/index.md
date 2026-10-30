@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Shades" on Thu, 29 Oct 2026.
+SILO is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "SILOWEEN: Asylum feat. Maesic" on Fri, 30 Oct 2026.
 
 SILO is a music venue in New York City listed on soundcheck. 30 upcoming gigs, with line-ups including Bag Raiders, Bella Hex, BOJAQ and Bruce Wayne (US) and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -8,7 +8,6 @@ SILO is a music venue in New York City listed on soundcheck. 30 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Shades | Shades |
 | Fri, 30 Oct 2026 | SILOWEEN: Asylum feat. Maesic |  |
 | Sat, 31 Oct 2026 | SILOWEEN: Asylum II feat. Xenia | Firebunny, STEEN |
 | Sun, 1 Nov 2026 | Mark Dumitrescu / Anthony Lopez / SGX b2b La Peki / Kazzan / Franklin Santana | Mark Dumitrescu |
@@ -18,9 +17,10 @@ SILO is a music venue in New York City listed on soundcheck. 30 upcoming gigs, w
 | Sat, 7 Nov 2026 | Matt Sassari | Matt Sassari |
 | Wed, 11 Nov 2026 | Open Decks with STEEN, MZ3, & Spam | Mz3 (1), STEEN, Spam |
 | Thu, 12 Nov 2026 | CRUD0 presents: Sound of Bogotá - with Paula Vélez, Varju & Giovani |  |
+| Fri, 13 Nov 2026 | Heat House: Fahlberg | Fahlberg, WEMI |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

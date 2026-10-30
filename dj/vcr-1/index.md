@@ -1,6 +1,6 @@
 # VCR (1)
 
-VCR (1) is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paramour, Brussels on Sat, 12 Dec 2026.
+VCR (1) is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paramour, Brussels on Sat, 12 Dec 2026.
 
 VCR is a techno and post-punk artist, with 21 gigs on soundcheck across Brussels, Copenhagen, Ghent and Paris and 1 more. Often billed alongside KŌMA, CAAG and Casper. Next up: Paramour, Brussels on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ VCR is a techno and post-punk artist, with 21 gigs on soundcheck across Brussels
 
 KŌMA (3), CAAG, Casper
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vcr-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vcr-1/)*

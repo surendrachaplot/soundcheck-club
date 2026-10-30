@@ -1,6 +1,6 @@
 # Darwin Stapel
 
-Darwin Stapel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Fitzroy, Berlin on Sun, 22 Nov 2026.
+Darwin Stapel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fitzroy, Berlin on Sun, 22 Nov 2026.
 
 Darwin Stapel is a house and disco artist based in Germany, with 23 gigs on soundcheck across Berlin and London. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Fitzroy, Berlin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Darwin Stapel is a house and disco artist based in Germany, with 23 gigs on soun
 
 Eva Crystaltips, Luca Olivotto, Nephews
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darwinstapel/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darwinstapel/)*

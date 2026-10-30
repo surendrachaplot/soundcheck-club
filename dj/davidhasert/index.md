@@ -1,6 +1,6 @@
 # David Hasert
 
-David Hasert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
+David Hasert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
 
 David Hasert is a techno and house artist based in Germany, with 43 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg and 1 more. Often billed alongside LALENA, Diode Eins and Avocado. Next up: Odonien, Cologne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ David Hasert is a techno and house artist based in Germany, with 43 gigs on soun
 
 LALENA, Diode Eins, Avocado
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidhasert/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidhasert/)*

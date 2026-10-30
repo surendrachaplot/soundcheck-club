@@ -1,6 +1,6 @@
 # Alex TB
 
-Alex TB is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Das Werk, Vienna on Fri, 30 Oct 2026.
+Alex TB is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Das Werk, Vienna on Fri, 30 Oct 2026.
 
 Alex TB is a techno and acid artist based in Brazil, with 12 gigs on soundcheck across Barcelona, Lisbon, Ljubljana and Naples and 2 more. Often billed alongside Buchecha, Fernanda Martins and Svetec. Next up: Das Werk, Vienna on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alex TB is a techno and acid artist based in Brazil, with 12 gigs on soundcheck 
 
 Buchecha, Fernanda Martins, Svetec
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alextb/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alextb/)*

@@ -1,6 +1,6 @@
 # lyzanne
 
-lyzanne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Gewölbe, Cologne on Sat, 12 Dec 2026.
+lyzanne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gewölbe, Cologne on Sat, 12 Dec 2026.
 
 lyzanne is a house and techno artist, with 31 gigs on soundcheck across Cologne, Munich and Tbilisi. Often billed alongside DCHM, Måtyrer and fka.m4a. Next up: Gewölbe, Cologne on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ lyzanne is a house and techno artist, with 31 gigs on soundcheck across Cologne,
 
 DCHM, Måtyrer, fka.m4a
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzanne/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzanne/)*

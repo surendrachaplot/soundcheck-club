@@ -1,6 +1,6 @@
 # Bad Reputations
 
-Bad Reputations is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Eighteenth Street Lounge, Washington DC on Wed, 28 Oct 2026.
+Bad Reputations is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Eighteenth Street Lounge, Washington DC on Wed, 28 Oct 2026.
 
 Bad Reputations is a house and tech house artist based in United States of America, with 14 gigs on soundcheck across Washington DC. Often billed alongside BehTarin, SPCL.K and Apollo Dust. Next up: Eighteenth Street Lounge, Washington DC on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ Bad Reputations is a house and tech house artist based in United States of Ameri
 
 BehTarin, SPCL.K, Apollo Dust
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badreputations/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badreputations/)*

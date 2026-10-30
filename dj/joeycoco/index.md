@@ -1,6 +1,6 @@
 # Joey Coco
 
-Joey Coco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Wax Music Lounge, Melbourne on Sat, 31 Oct 2026.
+Joey Coco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Wax Music Lounge, Melbourne on Sat, 31 Oct 2026.
 
 Joey Coco is a house and techno artist based in Australia, with 140 gigs on soundcheck across Byron Bay, Canberra, Melbourne and Sydney. Often billed alongside Oscar de Lima, HAUSWiFE and Slumdog. Next up: Wax Music Lounge, Melbourne on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Joey Coco is a house and techno artist based in Australia, with 140 gigs on soun
 
 Oscar de Lima, HAUSWiFE, Slumdog
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeycoco/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeycoco/)*

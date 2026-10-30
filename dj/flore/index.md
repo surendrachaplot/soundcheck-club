@@ -1,6 +1,6 @@
 # Flore
 
-Flore is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Sucre, Lyon on Sat, 14 Nov 2026.
+Flore is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Sucre, Lyon on Sat, 14 Nov 2026.
 
 Flore is a techno and bass artist based in France, with 48 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 10 more. Often billed alongside Ehua, upsammy and ojoo. Next up: Le Sucre, Lyon on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Flore is a techno and bass artist based in France, with 48 gigs on soundcheck ac
 
 Ehua, upsammy, ojoo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flore/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flore/)*

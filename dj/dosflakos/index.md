@@ -1,6 +1,6 @@
 # Dos Flakos
 
-Dos Flakos is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Superior Ingredients, New York City on Sat, 21 Nov 2026.
+Dos Flakos is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Superior Ingredients, New York City on Sat, 21 Nov 2026.
 
 Dos Flakos is a house and reggaeton artist, with 55 gigs on soundcheck across Atlanta, Austin, Chicago and Los Angeles and 7 more. Often billed alongside DJ Ultra Violet, Rosa Perreo and Cquestt. Next up: Superior Ingredients, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Dos Flakos is a house and reggaeton artist, with 55 gigs on soundcheck across At
 
 DJ Ultra Violet, Rosa Perreo, Cquestt
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dosflakos/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dosflakos/)*

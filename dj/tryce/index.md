@@ -1,6 +1,6 @@
 # TRYCE
 
-TRYCE is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gólya, Budapest on Fri, 6 Nov 2026.
+TRYCE is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gólya, Budapest on Fri, 6 Nov 2026.
 
 TRYCE is an experimental and bass artist based in Italy, with 34 gigs on soundcheck across Berlin, Bologna, Budapest and Copenhagen and 6 more. Often billed alongside ALEX WANG, Franarchy and ABADIR. Next up: Gólya, Budapest on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ TRYCE is an experimental and bass artist based in Italy, with 34 gigs on soundch
 
 ALEX WANG, Franarchy, ABADIR
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tryce/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tryce/)*

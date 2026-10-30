@@ -1,6 +1,6 @@
 # LAZA (3)
 
-LAZA (3) is a Techno and Guaracha artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Miscellania, Melbourne on Sat, 31 Oct 2026.
+LAZA (3) is a Techno and Guaracha artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Miscellania, Melbourne on Sat, 31 Oct 2026.
 
 LAZA is a techno and guaracha artist, with 12 gigs on soundcheck across Barcelona, Berlin, Brussels and Lisbon and 3 more. Often billed alongside Clementaum, Cherolainne and DJ AYA. Next up: Miscellania, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LAZA is a techno and guaracha artist, with 12 gigs on soundcheck across Barcelon
 
 Clementaum, Cherolainne, DJ AYA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laza-3/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laza-3/)*

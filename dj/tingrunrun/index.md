@@ -1,6 +1,6 @@
 # Ting Run Run
 
-Ting Run Run is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nico's Bar at Hackney Bridge, London on Sat, 31 Oct 2026.
+Ting Run Run is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Nico's Bar at Hackney Bridge, London on Sat, 31 Oct 2026.
 
 Ting Run Run is a house and techno artist based in United Kingdom, with 44 gigs on soundcheck across London and Toronto. Often billed alongside ADRIAN LECA, Deejay Nye and LaAng. Next up: Nico's Bar at Hackney Bridge, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Ting Run Run is a house and techno artist based in United Kingdom, with 44 gigs 
 
 ADRIAN LECA, Deejay Nye, LaAng
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tingrunrun/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tingrunrun/)*

@@ -1,6 +1,6 @@
 # Nero
 
-Nero is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at SILO, New York City on Thu, 10 Dec 2026.
+Nero is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at SILO, New York City on Thu, 10 Dec 2026.
 
 Nero is a dubstep and drum & bass artist based in United Kingdom, with 24 gigs on soundcheck across Athens, Austin, Brighton and Bristol and 13 more. Often billed alongside Imanu, Mau P and Sub Focus. Next up: SILO, New York City on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ Nero is a dubstep and drum & bass artist based in United Kingdom, with 24 gigs o
 
 Imanu, Mau P, Sub Focus
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nero/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nero/)*

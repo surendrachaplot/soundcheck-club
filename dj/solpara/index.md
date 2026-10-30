@@ -1,6 +1,6 @@
 # Solpara
 
-Solpara is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri, 13 Nov 2026.
+Solpara is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri, 13 Nov 2026.
 
 Solpara is a techno and experimental artist based in United States of America, with 15 gigs on soundcheck across Montreal, New York City, Paris and Strasbourg and 1 more. Often billed alongside Sepehr, Tiny T-Bone and ALL MY COUSINS. Next up: TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Solpara is a techno and experimental artist based in United States of America, w
 
 Sepehr, Tiny T-Bone, ALL MY COUSINS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solpara/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solpara/)*

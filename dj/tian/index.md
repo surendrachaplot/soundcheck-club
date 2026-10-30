@@ -1,6 +1,6 @@
 # Tian
 
-Tian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Sauvage, Ghent on Fri, 30 Oct 2026.
+Tian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Sauvage, Ghent on Fri, 30 Oct 2026.
 
 Tian is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin, Bratislava, Ghent and London and 2 more. Often billed alongside YURI VALEN, Ennio Skoto and Imbue. Next up: Club Sauvage, Ghent on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tian is a techno and house artist based in Germany, with 24 gigs on soundcheck a
 
 YURI VALEN, Ennio Skoto, Imbue
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tian/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tian/)*

@@ -1,6 +1,6 @@
 # TBA - Scirocco
 
-TBA - Scirocco is a music venue in Malaga with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Fiesta Musica Electronica" on Sat, 21 Nov 2026.
+TBA - Scirocco is a music venue in Malaga with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Fiesta Musica Electronica" on Sat, 21 Nov 2026.
 
 TBA - Scirocco is a music venue in Malaga listed on soundcheck. 1 upcoming gig, with line-ups including Dano C. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Scirocco is a music venue in Malaga listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Fiesta Musica Electronica | Dano C |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/tba-scirocco/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/tba-scirocco/)*

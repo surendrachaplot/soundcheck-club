@@ -1,6 +1,6 @@
 # Bassel Darwish
 
-Bassel Darwish is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 14 Nov 2026.
+Bassel Darwish is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 14 Nov 2026.
 
 Bassel Darwish is a tech house and house artist based in Spain, with 47 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Dennis Cruz, KinAhau and Lexlay. Next up: La Terrrazza, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bassel Darwish is a tech house and house artist based in Spain, with 47 gigs on 
 
 Dennis Cruz, KinAhau, Lexlay
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basseldarwish/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basseldarwish/)*

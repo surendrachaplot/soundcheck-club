@@ -1,6 +1,6 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Love Inn, Bristol on Fri, 30 Oct 2026.
+Andy Martin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Love Inn, Bristol on Fri, 30 Oct 2026.
 
 Andy Martin is a techno and house artist based in Mexico, with 105 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside Niño Arbol, Alarico and DJ MARIA.. Next up: The Love Inn, Bristol on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Andy Martin is a techno and house artist based in Mexico, with 105 gigs on sound
 
 Niño Arbol, Alarico, DJ MARIA.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

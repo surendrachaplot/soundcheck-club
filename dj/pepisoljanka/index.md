@@ -1,6 +1,6 @@
 # Pepi Soljanka
 
-Pepi Soljanka is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 7 Nov 2026.
+Pepi Soljanka is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 7 Nov 2026.
 
 Pepi Soljanka is a house and club artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Walodja, Supergross and Chaques. Next up: Bulbul Berlin, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Pepi Soljanka is a house and club artist based in Germany, with 11 gigs on sound
 
 Walodja, Supergross, Chaques
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepisoljanka/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepisoljanka/)*

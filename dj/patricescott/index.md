@@ -1,6 +1,6 @@
 # Patrice Scott
 
-Patrice Scott is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at 50 | 50, Medellin on Sat, 12 Dec 2026.
+Patrice Scott is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at 50 | 50, Medellin on Sat, 12 Dec 2026.
 
 Patrice Scott is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Buenos Aires, Byron Bay, Chicago and Detroit and 11 more. Often billed alongside Isaac Prieto, Cordell Johnson and DJ Etta (US). Next up: 50 | 50, Medellin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Patrice Scott is a house and techno artist based in United States of America, wi
 
 Isaac Prieto, Cordell Johnson, DJ Etta (US)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricescott/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricescott/)*

@@ -1,6 +1,6 @@
 # Lim Tzo
 
-Lim Tzo is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at B21, Brussels on Fri, 30 Oct 2026.
+Lim Tzo is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at B21, Brussels on Fri, 30 Oct 2026.
 
 Lim Tzo is a minimal and deep house artist based in Belgium, with 10 gigs on soundcheck across Brussels. Often billed alongside Abaque, Dawn Gab and Leef. Next up: B21, Brussels on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lim Tzo is a minimal and deep house artist based in Belgium, with 10 gigs on sou
 
 Abaque, Dawn Gab, Leef
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limtzo-be/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limtzo-be/)*

@@ -1,6 +1,6 @@
 # OnlyWithYou
 
-OnlyWithYou is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Späti Bro, Warschauer Str., Berlin on Sat, 31 Oct 2026.
+OnlyWithYou is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Späti Bro, Warschauer Str., Berlin on Sat, 31 Oct 2026.
 
 OnlyWithYou is a techno and trance artist based in Australia, with 64 gigs on soundcheck across Amsterdam, Beijing, Berlin and London and 6 more. Often billed alongside MIMI404, Garfie and AKEYLAH. Next up: TBA - Späti Bro, Warschauer Str., Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ OnlyWithYou is a techno and trance artist based in Australia, with 64 gigs on so
 
 MIMI404, Garfie, AKEYLAH
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*

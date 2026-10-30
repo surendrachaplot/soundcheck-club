@@ -1,6 +1,6 @@
 # Josefina Tapia (2)
 
-Josefina Tapia (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at SASS Music Club, Vienna on Fri, 6 Nov 2026.
+Josefina Tapia (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at SASS Music Club, Vienna on Fri, 6 Nov 2026.
 
 Josefina Tapia is a house and electro artist based in Chile, with 40 gigs on soundcheck across Berlin, Brussels, Budapest and Copenhagen and 4 more. Often billed alongside Nils Ohrmann, Bambi-S and Clemente (DE). Next up: SASS Music Club, Vienna on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Josefina Tapia is a house and electro artist based in Chile, with 40 gigs on sou
 
 Nils Ohrmann, Bambi-S, Clemente (DE)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia-2/)*

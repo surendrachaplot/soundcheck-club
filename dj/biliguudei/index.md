@@ -1,6 +1,6 @@
 # Biliguudei
 
-Biliguudei is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - JOLOKO, Kuala Lumpur on Sat, 14 Nov 2026.
+Biliguudei is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - JOLOKO, Kuala Lumpur on Sat, 14 Nov 2026.
 
 Biliguudei is a techno and house artist based in Mongolia, with 44 gigs on soundcheck across Bangkok, Beijing, Chongqing and Hanoi and 9 more. Often billed alongside Weng Weng, DJ Ouch! and Kai.F. Next up: TBA - JOLOKO, Kuala Lumpur on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Biliguudei is a techno and house artist based in Mongolia, with 44 gigs on sound
 
 Weng Weng, DJ Ouch!, Kai.F
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biliguudei/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biliguudei/)*

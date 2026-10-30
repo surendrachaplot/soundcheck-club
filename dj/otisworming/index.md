@@ -1,6 +1,6 @@
 # Otis Worming
 
-Otis Worming is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 3 Nov 2026.
+Otis Worming is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 3 Nov 2026.
 
 Otis Worming is an electronica and club artist based in United Kingdom, with 22 gigs on soundcheck across Edinburgh. Often billed alongside Ravelston, Ann Tweak and al gu. Next up: People's Leisure Club, Edinburgh on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Otis Worming is an electronica and club artist based in United Kingdom, with 22 
 
 Ravelston, Ann Tweak, al gu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otisworming/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otisworming/)*

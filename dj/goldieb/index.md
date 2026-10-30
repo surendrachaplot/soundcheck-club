@@ -1,6 +1,6 @@
 # Goldie B
 
-Goldie B is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
+Goldie B is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
 
 Goldie B is a techno and bass artist based in France, with 34 gigs on soundcheck across Bordeaux, Lyon, Marseille and Paris and 2 more. Often billed alongside Kumanope, Mad Rey and Mézigue. Next up: FVTVR, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Goldie B is a techno and bass artist based in France, with 34 gigs on soundcheck
 
 Kumanope, Mad Rey, Mézigue
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldieb/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldieb/)*

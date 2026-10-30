@@ -1,6 +1,6 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 30 Oct 2026.
+Cinthie is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 30 Oct 2026.
 
 Cinthie is a house and techno artist based in Germany, with 315 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 65 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Nitsa Club, Barcelona on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ Cinthie is a house and techno artist based in Germany, with 315 gigs on soundche
 
 Meat, Gabrielle Kwarteng, Ogazón
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

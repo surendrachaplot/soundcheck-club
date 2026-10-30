@@ -1,6 +1,6 @@
 # D'Monk
 
-D'Monk is a House and Broken Beat artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
+D'Monk is a House and Broken Beat artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
 
 D'Monk is a house and broken beat artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Berlin, Cologne and Lausanne and 4 more. Often billed alongside Ken Okuda, Orlando Rosé and Calamidades Lola. Next up: TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ D'Monk is a house and broken beat artist based in United Kingdom, with 47 gigs o
 
 Ken Okuda, Orlando Rosé, Calamidades Lola
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmonk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmonk/)*

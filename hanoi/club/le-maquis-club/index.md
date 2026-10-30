@@ -1,6 +1,6 @@
 # Le Maquis Club
 
-Le Maquis Club is a music venue in Hanoi with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Arcan HALLOWEEN IN HANOI" on Sat, 31 Oct 2026.
+Le Maquis Club is a music venue in Hanoi with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Arcan HALLOWEEN IN HANOI" on Sat, 31 Oct 2026.
 
 Le Maquis Club is a music venue in Hanoi listed on soundcheck. 1 upcoming gig, with line-ups including Goss, ILONA, Orange Cyanide and Smoothie Boiz. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Le Maquis Club is a music venue in Hanoi listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Arcan HALLOWEEN IN HANOI | Goss, ILONA, Orange Cyanide, Smoothie Boiz |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/le-maquis-club/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/le-maquis-club/)*

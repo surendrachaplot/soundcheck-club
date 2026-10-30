@@ -1,6 +1,6 @@
 # Grymek
 
-Grymek is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 6 Nov 2026.
+Grymek is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 6 Nov 2026.
 
 Grymek is a techno and psytrance artist, with 14 gigs on soundcheck across Krakow. Often billed alongside A.C., 2LAV and Firefly. Next up: STK 47 WAREHOUSE, Krakow on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Grymek is a techno and psytrance artist, with 14 gigs on soundcheck across Krako
 
 A.C., 2LAV, Firefly
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grymek/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grymek/)*

@@ -1,6 +1,6 @@
 # The Bullet Bar
 
-The Bullet Bar is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Bun Shop Apron Party" on Fri, 20 Nov 2026.
+The Bullet Bar is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Bun Shop Apron Party" on Fri, 20 Nov 2026.
 
 The Bullet Bar is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 10522 Burbank Blvd, North Hollywood, CA 91601.
 
@@ -15,4 +15,4 @@ The Bullet Bar is a music venue in Los Angeles listed on soundcheck. 2 upcoming 
 
 10522 Burbank Blvd, North Hollywood, CA 91601, Los Angeles
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bullet-bar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bullet-bar/)*

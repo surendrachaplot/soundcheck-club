@@ -1,6 +1,6 @@
 # Vanuza Casimiro
 
-Vanuza Casimiro is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The lab Barcelona, Barcelona on Sat, 7 Nov 2026.
+Vanuza Casimiro is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The lab Barcelona, Barcelona on Sat, 7 Nov 2026.
 
 Vanuza Casimiro is a house and afro house artist based in Guinea-Bissau, with 22 gigs on soundcheck across Barcelona. Often billed alongside Jorge Guasch, LUCIANA and Raphael Miranda. Next up: The lab Barcelona, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Vanuza Casimiro is a house and afro house artist based in Guinea-Bissau, with 22
 
 Jorge Guasch, LUCIANA, Raphael Miranda (2)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanuzacasimiro/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanuzacasimiro/)*

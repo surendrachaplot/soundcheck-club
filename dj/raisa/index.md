@@ -1,6 +1,6 @@
 # Raisa
 
-Raisa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at El Internacional, Madrid on Fri, 30 Oct 2026.
+Raisa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at El Internacional, Madrid on Fri, 30 Oct 2026.
 
 Raisa is a house and tech house artist based in Spain, with 37 gigs on soundcheck across Madrid and New York City. Often billed alongside DHERMIDA, Mar Bravo and Sazky. Next up: El Internacional, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Raisa is a house and tech house artist based in Spain, with 37 gigs on soundchec
 
 DHERMIDA, Mar Bravo, Sazky
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raisa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raisa/)*

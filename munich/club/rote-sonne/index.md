@@ -1,6 +1,6 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "RS:CommunityWeekender - support your local subculture" on Fri, 30 Oct 2026.
+Rote Sonne is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "RS:CommunityWeekender - support your local subculture" on Fri, 30 Oct 2026.
 
 Rote Sonne is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including 9LALEY, Alicea, ANASTASÍA and Aniza (DE) and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -18,4 +18,4 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 5 upcoming gigs, wit
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

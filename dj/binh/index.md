@@ -1,6 +1,6 @@
 # Binh
 
-Binh is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Warehouse 34, Newcastle on Fri, 30 Oct 2026.
+Binh is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Warehouse 34, Newcastle on Fri, 30 Oct 2026.
 
 Binh is a techno and house artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 48 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Warehouse 34, Newcastle on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Binh is a techno and house artist based in Germany, with 215 gigs on soundcheck 
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

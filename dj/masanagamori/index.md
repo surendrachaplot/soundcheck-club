@@ -1,6 +1,6 @@
 # MASA NAGAMORI
 
-MASA NAGAMORI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Roots, Tokyo on Fri, 30 Oct 2026.
+MASA NAGAMORI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Roots, Tokyo on Fri, 30 Oct 2026.
 
 MASA NAGAMORI is a house and techno artist based in Japan, with 24 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Moeko Nagamori, KOGO and Mulahi De Akkitum aka YAN. Next up: Roots, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MASA NAGAMORI is a house and techno artist based in Japan, with 24 gigs on sound
 
 Moeko Nagamori, KOGO, Mulahi De Akkitum aka YAN
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masanagamori/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masanagamori/)*

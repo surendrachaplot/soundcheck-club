@@ -1,6 +1,6 @@
 # King Louie
 
-King Louie is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Volstead Lounge, Austin on Fri, 30 Oct 2026.
+King Louie is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Volstead Lounge, Austin on Fri, 30 Oct 2026.
 
 King Louie is a hip-hop and house artist based in United States of America, with 60 gigs on soundcheck across Austin, Los Angeles and Mexico City. Often billed alongside JOAQU.N, Astro and Barreto. Next up: The Volstead Lounge, Austin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ King Louie is a hip-hop and house artist based in United States of America, with
 
 JOAQU.N, Astro (2), Barreto
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinglouie/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinglouie/)*

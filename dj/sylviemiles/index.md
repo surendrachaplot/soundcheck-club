@@ -1,6 +1,6 @@
 # Sylvie Miles
 
-Sylvie Miles is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Die Rakete, Nürnberg on Fri, 11 Dec 2026.
+Sylvie Miles is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Die Rakete, Nürnberg on Fri, 11 Dec 2026.
 
 Sylvie Miles is a techno and house artist based in Germany, with 46 gigs on soundcheck across Amsterdam, Berlin, Cologne and Cyprus and 7 more. Often billed alongside Mark Dekoda, Klanglos and Prismode. Next up: Die Rakete, Nürnberg on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Sylvie Miles is a techno and house artist based in Germany, with 46 gigs on soun
 
 Mark Dekoda, Klanglos, Prismode
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviemiles/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviemiles/)*

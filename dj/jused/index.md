@@ -1,6 +1,6 @@
 # Jus-Ed
 
-Jus-Ed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at essaim, Paris on Sat, 28 Nov 2026.
+Jus-Ed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at essaim, Paris on Sat, 28 Nov 2026.
 
 Jus-Ed is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Boston and 20 more. Often billed alongside Move D, Doreen and Austen van der Bleek. Next up: essaim, Paris on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Jus-Ed is a house and techno artist based in United States of America, with 61 g
 
 Move D, Doreen, Austen van der Bleek
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jused/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jused/)*

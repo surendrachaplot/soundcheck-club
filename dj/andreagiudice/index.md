@@ -1,6 +1,6 @@
 # Andrea Giudice
 
-Andrea Giudice is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London on Sat, 31 Oct 2026.
+Andrea Giudice is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London on Sat, 31 Oct 2026.
 
 Andrea Giudice is a house and tech house artist based in Italy, with 114 gigs on soundcheck across Barcelona and London. Often billed alongside Larry Cadge, Grittrip and Reeno. Next up: TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London on Sat 31 Oct.
 
@@ -33,4 +33,4 @@ Andrea Giudice is a house and tech house artist based in Italy, with 114 gigs on
 
 Larry Cadge, Grittrip, Reeno
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiudice/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiudice/)*

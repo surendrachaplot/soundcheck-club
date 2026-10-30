@@ -1,6 +1,6 @@
 # ephemeral objects
 
-ephemeral objects is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Vancouver on Fri, 30 Oct 2026.
+ephemeral objects is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Vancouver on Fri, 30 Oct 2026.
 
 ephemeral objects is a techno and experimental artist based in Canada, with 29 gigs on soundcheck across Vancouver. Often billed alongside IHA (CA), DJ Hockey and Xiumei. Next up: TBA, Vancouver on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ ephemeral objects is a techno and experimental artist based in Canada, with 29 g
 
 IHA (CA), DJ Hockey, Xiumei
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ephemeralobjects/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ephemeralobjects/)*

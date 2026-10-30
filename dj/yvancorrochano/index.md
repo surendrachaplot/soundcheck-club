@@ -1,6 +1,6 @@
 # Yvan Corrochano
 
-Yvan Corrochano is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lasociaciøn, Madrid on Sun, 29 Nov 2026.
+Yvan Corrochano is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lasociaciøn, Madrid on Sun, 29 Nov 2026.
 
 Yvan Corrochano is a techno and post-punk artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside Ricardo Morales, Gaskón and Ismael Rivas. Next up: Lasociaciøn, Madrid on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Yvan Corrochano is a techno and post-punk artist based in Spain, with 14 gigs on
 
 Ricardo Morales, Gaskón, Ismael Rivas
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yvancorrochano/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yvancorrochano/)*

@@ -1,6 +1,6 @@
 # Artifex (DE)
 
-Artifex (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at FLUCC, Vienna on Fri, 30 Oct 2026.
+Artifex (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at FLUCC, Vienna on Fri, 30 Oct 2026.
 
 Artifex (DE) is a techno and house artist based in Germany, with 46 gigs on soundcheck across Berlin, Munich, Nürnberg and Paris and 2 more. Often billed alongside Neverglass, Arcann and Melchiorr. Next up: FLUCC, Vienna on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Artifex (DE) is a techno and house artist based in Germany, with 46 gigs on soun
 
 Neverglass, Arcann, Melchiorr
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artifex-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artifex-2/)*

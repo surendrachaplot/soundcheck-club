@@ -1,6 +1,6 @@
 # Specka
 
-Specka is a music venue in Madrid with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Moodulab & Fábula #003 (Halloween Edition) I Specka Club" on Fri, 30 Oct 2026.
+Specka is a music venue in Madrid with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Moodulab & Fábula #003 (Halloween Edition) I Specka Club" on Fri, 30 Oct 2026.
 
 Specka is a music venue in Madrid listed on soundcheck. 17 upcoming gigs, with line-ups including Alvaro Cabana, Blaark, Cilla (AU) and David Ponziano and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
@@ -23,4 +23,4 @@ Specka is a music venue in Madrid listed on soundcheck. 17 upcoming gigs, with l
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

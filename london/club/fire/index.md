@@ -1,6 +1,6 @@
 # Fire
 
-Fire is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Madmen Freakshow - Halloween Special with Allison Nunes" on Fri, 30 Oct 2026.
+Fire is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Madmen Freakshow - Halloween Special with Allison Nunes" on Fri, 30 Oct 2026.
 
 Fire is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Bradley Skeng, Bryan Gee, Dillinja and Dimanté and 2 more. See dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
 
@@ -22,4 +22,4 @@ Fire is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 
 39 Parry Street, South Lambeth Road, London, SW8 1RT, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*

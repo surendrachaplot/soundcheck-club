@@ -1,22 +1,22 @@
 # TBA
 
-TBA is a music venue in London with 332 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Focal Point Halloween w/ Malika, B.Love, Ruby SD, tip top" on Thu, 29 Oct 2026.
+TBA is a music venue in London with 326 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HALLOWEEN RAVE FESTIVAL" on Thu, 29 Oct 2026.
 
-TBA is a music venue in London listed on soundcheck. 332 upcoming gigs, with line-ups including 2flowers, 2HZY, 8h sleep and 96 Back and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 326 upcoming gigs, with line-ups including 2flowers, 2HZY, 8h sleep and 96 Back and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Focal Point Halloween w/ Malika, B.Love, Ruby SD, tip top | B.Love, Malika, Ruby SD, tip top |
-| Thu, 29 Oct 2026 | Surface DIY x Body Wave: Haunted Halloween |  |
-| Thu, 29 Oct 2026 | Dublin Student Halloween Party - 2000s Y2K Night |  |
 | Thu, 29 Oct 2026 | HALLOWEEN RAVE FESTIVAL |  |
-| Thu, 29 Oct 2026 | Paradisio Opening Night! with DJs Brother Pate & Victor S | Brother Pate |
-| Thu, 29 Oct 2026 | TunedIn presents: iKeda, blaketheman1000, angel money, dj thank you, mach5 |  |
-| Thu, 29 Oct 2026 | Heaven or Hell: Halloween Costume Party with GR1FN & LION BABE | LION BABE |
-| Thu, 29 Oct 2026 | MICELIO RADIAL - Un año cultivando resistencia sonora desde la radio comunitaria |  |
-| Thu, 29 Oct 2026 | Duende | Akiï |
 | Fri, 30 Oct 2026 | Interstellar Groove Festival 2026 | D-Nox, Freedom Fighters, John '00' Fleming, Marc Romboy, One Million Toys, Patrice Bäumel, Pavel Petrov, Rem Siman, Sammy Legs, Tom Baker (AUS), dela Moon |
+| Fri, 30 Oct 2026 | Pulse Halloween | Adriana Lopez, LUIS MIRANDA, kraftwitch |
+| Fri, 30 Oct 2026 | TECHNO CIRCUS - LE KLOWN |  |
+| Fri, 30 Oct 2026 | BlackandWhitesound presents Jay Tripwire Cassy and Tho | Cassy, Jay Tripwire, Justin Shaffer, Klaus Ahlers, Tho |
+| Fri, 30 Oct 2026 | Constanz - Year One - Sev Dah [SWE] - 6AM | 2HZY, DINO (3), Delta Sine, Jonnix, Sev Dah, Xicada |
+| Fri, 30 Oct 2026 | THE HALLOWEEN PARTY | Ben Pearce |
+| Fri, 30 Oct 2026 | BRAIN BATH Halloween with Jex Opolis & ephemeral objects *LIVE* | DJ D.Dee, Dairy Free, Jex Opolis, ephemeral objects |
+| Fri, 30 Oct 2026 | bratklub Rave 4.0 // Bratsylvania | Joe Morrison, RXVEGRL, saparilla |
+| Fri, 30 Oct 2026 | Support System Halloween Massive ft: Ponda & Skerd |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

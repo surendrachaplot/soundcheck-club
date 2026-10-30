@@ -1,6 +1,6 @@
 # Steven Julien
 
-Steven Julien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Karmakoma, Belgrade on Sat, 28 Nov 2026.
+Steven Julien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Karmakoma, Belgrade on Sat, 28 Nov 2026.
 
 Steven Julien is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 21 more. Often billed alongside FunkinEven, DJ Jeyon and J M S Khosah. Next up: Karmakoma, Belgrade on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Steven Julien is a house and techno artist based in United Kingdom, with 65 gigs
 
 FunkinEven, DJ Jeyon, J M S Khosah
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenjulien/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenjulien/)*

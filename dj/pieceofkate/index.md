@@ -1,6 +1,6 @@
 # Piece of Kate
 
-Piece of Kate is a Electro and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Cantina Social, Athens on Sat, 31 Oct 2026.
+Piece of Kate is a Electro and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Cantina Social, Athens on Sat, 31 Oct 2026.
 
 Piece of Kate is an electro and breakbeat artist based in Greece, with 29 gigs on soundcheck across Athens. Often billed alongside Yorz, IMPVLSIV and SuperCub90. Next up: Cantina Social, Athens on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Piece of Kate is an electro and breakbeat artist based in Greece, with 29 gigs o
 
 Yorz, IMPVLSIV, SuperCub90
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pieceofkate/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pieceofkate/)*

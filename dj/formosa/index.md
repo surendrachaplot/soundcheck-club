@@ -1,6 +1,6 @@
 # Formosa
 
-Formosa is a Techno and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Animal, New York City on Fri, 30 Oct 2026.
+Formosa is a Techno and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Animal, New York City on Fri, 30 Oct 2026.
 
 Formosa is a techno and italo disco artist based in United States of America, with 3 gigs on soundcheck across New York City and Pittsburgh. Often billed alongside DEBONAIR, Jellyfish and Ricky Mawzlin. Next up: Animal, New York City on Fri 30 Oct.
 
@@ -16,4 +16,4 @@ Formosa is a techno and italo disco artist based in United States of America, wi
 
 DEBONAIR, Jellyfish, Ricky Mawzlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/formosa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/formosa/)*

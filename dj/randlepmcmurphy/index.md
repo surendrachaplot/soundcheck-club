@@ -1,6 +1,6 @@
 # Randle P Mcmurphy
 
-Randle P Mcmurphy is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 28 Nov 2026.
+Randle P Mcmurphy is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 28 Nov 2026.
 
 Randle P Mcmurphy is an acid and electro artist based in United Kingdom, with 10 gigs on soundcheck across Manchester. Often billed alongside KAV, Luke Daniels and Gary Sloan. Next up: Eastern Bloc Records, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Randle P Mcmurphy is an acid and electro artist based in United Kingdom, with 10
 
 KAV, Luke Daniels, Gary Sloan
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randlepmcmurphy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randlepmcmurphy/)*

@@ -1,6 +1,6 @@
 # Maki (PT)
 
-Maki (PT) is a Electronica and Guaracha artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 31 Oct 2026.
+Maki (PT) is a Electronica and Guaracha artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 31 Oct 2026.
 
 Maki (PT) is an electronica and guaracha artist based in Brazil, with 22 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Tokyo. Often billed alongside DJ Narciso, Ascha and D Stone. Next up: Lux Fragil, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Maki (PT) is an electronica and guaracha artist based in Brazil, with 22 gigs on
 
 DJ Narciso, Ascha, D Stone
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maki-pt/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maki-pt/)*

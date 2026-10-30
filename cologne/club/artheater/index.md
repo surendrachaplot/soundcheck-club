@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Zwischenmiete Club Edition" on Fri, 30 Oct 2026.
+Artheater is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Zwischenmiete Club Edition" on Fri, 30 Oct 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including 909 RACING TEAM, alleira, Annemalie and anyka and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, wi
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

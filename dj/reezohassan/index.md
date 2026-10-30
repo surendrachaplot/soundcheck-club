@@ -1,6 +1,6 @@
 # Reezo Hassan
 
-Reezo Hassan is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Evol, Cape Town on Thu, 5 Nov 2026.
+Reezo Hassan is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Evol, Cape Town on Thu, 5 Nov 2026.
 
 Reezo Hassan is a house and garage artist based in South Africa, with 11 gigs on soundcheck across Cape Town. Often billed alongside JED (ZA), Data Takashi and Deano. Next up: Evol, Cape Town on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Reezo Hassan is a house and garage artist based in South Africa, with 11 gigs on
 
 JED (ZA), Data Takashi, Deano
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reezohassan/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reezohassan/)*

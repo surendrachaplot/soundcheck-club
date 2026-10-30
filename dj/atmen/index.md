@@ -1,6 +1,6 @@
 # ATMEN
 
-ATMEN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 14 Nov 2026.
+ATMEN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 14 Nov 2026.
 
 ATMEN is a techno and house artist based in Spain, with 104 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Cesar Martino, ALUSH and Elwei. Next up: Seaseaclub Barcelona, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ATMEN is a techno and house artist based in Spain, with 104 gigs on soundcheck a
 
 Cesar Martino, ALUSH, Elwei
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atmen/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atmen/)*

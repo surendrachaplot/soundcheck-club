@@ -1,6 +1,6 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 7 Nov 2026.
+Ranger Trucco is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 7 Nov 2026.
 
 Ranger Trucco is a house and tech house artist based in United States of America, with 106 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 29 more. Often billed alongside Prunk, Ms. Mada and KETTAMA. Next up: Blackstone Street Warehouse, Liverpool on Sat 7 Nov.
 
@@ -33,4 +33,4 @@ Ranger Trucco is a house and tech house artist based in United States of America
 
 Prunk, Ms. Mada, KETTAMA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

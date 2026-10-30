@@ -1,6 +1,6 @@
 # Pictureplane
 
-Pictureplane is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 30 Oct 2026.
+Pictureplane is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 30 Oct 2026.
 
 Pictureplane is a techno and industrial artist based in United States of America, with 35 gigs on soundcheck across Boston, Detroit, Los Angeles and Mexico City and 6 more. Often billed alongside Alessandro Adriani, Machine Girl and Maŕa (US). Next up: 99 Scott Ave, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Pictureplane is a techno and industrial artist based in United States of America
 
 Alessandro Adriani, Machine Girl, Maŕa (US)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pictureplane/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pictureplane/)*

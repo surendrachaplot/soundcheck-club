@@ -1,6 +1,6 @@
 # KBLZ
 
-KBLZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+KBLZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 KBLZ is a techno and house artist, with 16 gigs on soundcheck across Berlin, Hamburg, Mannheim and Tirana. Often billed alongside Dora Dox, Paqueta and Cleos. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KBLZ is a techno and house artist, with 16 gigs on soundcheck across Berlin, Ham
 
 Dora Dox, Paqueta, Cleos
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kblz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kblz/)*

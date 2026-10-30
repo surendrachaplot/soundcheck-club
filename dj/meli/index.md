@@ -1,6 +1,6 @@
 # M E L I
 
-M E L I is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Gore Lounge Club, Belgrade on Fri, 30 Oct 2026.
+M E L I is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gore Lounge Club, Belgrade on Fri, 30 Oct 2026.
 
 M E L I is a house and electro artist based in Serbia, with 10 gigs on soundcheck across Belgrade. Often billed alongside Boychevski, Czam and KACANSKY. Next up: Gore Lounge Club, Belgrade on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ M E L I is a house and electro artist based in Serbia, with 10 gigs on soundchec
 
 Boychevski, Czam, KACANSKY
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meli/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meli/)*

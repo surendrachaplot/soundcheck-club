@@ -1,6 +1,6 @@
 # KJAER
 
-KJAER is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fuchs2, Prague on Sat, 7 Nov 2026.
+KJAER is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fuchs2, Prague on Sat, 7 Nov 2026.
 
 KJAER is a techno and tech house artist, with 5 gigs on soundcheck across Prague and Vienna. Often billed alongside B E C K, Chicano and Chris Dove. Next up: Fuchs2, Prague on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ KJAER is a techno and tech house artist, with 5 gigs on soundcheck across Prague
 
 B E C K, Chicano, Chris Dove
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kjaer/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kjaer/)*

@@ -1,6 +1,6 @@
 # HDMI?
 
-HDMI? is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
+HDMI? is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
 
 HDMI? is a techno and house artist based in Vietnam, with 27 gigs on soundcheck across Hanoi. Often billed alongside Emmytee, LINHTONIK and Fomococo. Next up: Red River Cruise, Hanoi on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ HDMI? is a techno and house artist based in Vietnam, with 27 gigs on soundcheck 
 
 Emmytee, LINHTONIK, Fomococo (2)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hdmi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hdmi/)*

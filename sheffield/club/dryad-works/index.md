@@ -1,6 +1,6 @@
 # Dryad Works
 
-Dryad Works is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DRYAD X WUB CLUB: 2 Day Halloween Rave Sheffield!" on Fri, 30 Oct 2026.
+Dryad Works is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "DRYAD X WUB CLUB: 2 Day Halloween Rave Sheffield!" on Fri, 30 Oct 2026.
 
 Dryad Works is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs, with line-ups including Charla Green, JAZ IMSKY, Joker and Squarewave. See dates, start times and who's playing. 2 Parkwood Road, Sheffield, S3 8AG.
 
@@ -17,4 +17,4 @@ Dryad Works is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs,
 
 2 Parkwood Road, Sheffield, S3 8AG, Sheffield
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/dryad-works/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/dryad-works/)*

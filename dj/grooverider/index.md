@@ -1,6 +1,6 @@
 # Grooverider
 
-Grooverider is a Drum & Bass and Jungle artist with 18 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Grooverider is a Drum & Bass and Jungle artist with 18 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Grooverider is a drum & bass and jungle artist based in United Kingdom, with 149 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 28 more. Often billed alongside Fabio, Nicky Blackmarket and Ray Keith. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -36,4 +36,4 @@ Grooverider is a drum & bass and jungle artist based in United Kingdom, with 149
 
 Fabio, Nicky Blackmarket, Ray Keith
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*

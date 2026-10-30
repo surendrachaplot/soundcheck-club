@@ -1,6 +1,6 @@
 # barStudio
 
-barStudio is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "NOCHE DE LOS MUERTOS - Cumbia Warszawa - LabTropCrew - Little Beat More (Wiedeń)" on Sat, 31 Oct 2026.
+barStudio is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "NOCHE DE LOS MUERTOS - Cumbia Warszawa - LabTropCrew - Little Beat More (Wiedeń)" on Sat, 31 Oct 2026.
 
 barStudio is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Abuelita, Adobo (PL), Cosaco and KarateKnur. See dates, start times and who's playing. plac Defilad 1, 00-901 Warszawa.
 
@@ -14,4 +14,4 @@ barStudio is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with 
 
 plac Defilad 1, 00-901 Warszawa, Warsaw
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/barstudio/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/barstudio/)*

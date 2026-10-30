@@ -1,6 +1,6 @@
 # OKO DJ
 
-OKO DJ is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
+OKO DJ is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
 
 OKO DJ is an experimental and techno artist based in France, with 103 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Eiger Drums Propaganda, Nosedrip and Judaah. Next up: The White Hotel, Manchester on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ OKO DJ is an experimental and techno artist based in France, with 103 gigs on so
 
 Eiger Drums Propaganda, Nosedrip, Judaah
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okodj/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okodj/)*

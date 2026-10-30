@@ -1,8 +1,8 @@
-# Yu Mi
+# Yumi
 
-Yu Mi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
+Yumi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
 
-Yu Mi is a techno and house artist based in United States of America, with 92 gigs on soundcheck across Amsterdam, Berlin, Detroit and Ghent and 14 more. Often billed alongside Amelia Holt, deep creep and Hank Jackson. Next up: TBA - Binae Island, South Korea on Sun 8 Nov.
+Yumi is a techno and house artist based in United States of America, with 92 gigs on soundcheck across Amsterdam, Berlin, Detroit and Ghent and 14 more. Often billed alongside Amelia Holt, deep creep and Hank Jackson. Next up: TBA - Binae Island, South Korea on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Yu Mi is a techno and house artist based in United States of America, with 92 gi
 
 Amelia Holt, deep creep, Hank Jackson
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yumi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yumi/)*

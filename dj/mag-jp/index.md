@@ -1,6 +1,6 @@
 # mag (JP)
 
-mag (JP) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+mag (JP) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 mag (JP) is a house and techno artist, with 41 gigs on soundcheck across Bologna, Medellin, Rome and Tokyo. Often billed alongside Rena19, Yoshiki Aoyama and BANANA-CHAN. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ mag (JP) is a house and techno artist, with 41 gigs on soundcheck across Bologna
 
 Rena19, Yoshiki Aoyama, BANANA-CHAN
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mag-jp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mag-jp/)*

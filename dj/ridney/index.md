@@ -1,6 +1,6 @@
 # Ridney
 
-Ridney is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
+Ridney is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
 Ridney is a house and disco artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Ibiza, London and Midlands and 1 more. Often billed alongside Black Legend, Doctor Feelgood and Allister Whitehead. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Ridney is a house and disco artist based in United Kingdom, with 8 gigs on sound
 
 Black Legend, Doctor Feelgood, Allister Whitehead
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ridney/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ridney/)*

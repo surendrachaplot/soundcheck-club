@@ -1,6 +1,6 @@
 # Skyport Marina
 
-Skyport Marina is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween Norteño y Banda Yacht Party NYC" on Fri, 30 Oct 2026.
+Skyport Marina is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween Norteño y Banda Yacht Party NYC" on Fri, 30 Oct 2026.
 
 Skyport Marina is a music venue in New York City listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. E 23rd St & FDR Dr, New York, New York 10010.
 
@@ -17,4 +17,4 @@ Skyport Marina is a music venue in New York City listed on soundcheck. 4 upcomin
 
 E 23rd St & FDR Dr, New York, New York 10010, New York City
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/skyport-marina/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/skyport-marina/)*

@@ -1,6 +1,6 @@
 # Steffen Lengler
 
-Steffen Lengler is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pimpernel, Munich on Wed, 4 Nov 2026.
+Steffen Lengler is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pimpernel, Munich on Wed, 4 Nov 2026.
 
 Steffen Lengler is a tech house and minimal artist based in Germany, with 112 gigs on soundcheck across Berlin, Frankfurt, Munich and Stuttgart. Often billed alongside ROBOTIQ, Johnny D and Sandra Gold. Next up: Pimpernel, Munich on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Steffen Lengler is a tech house and minimal artist based in Germany, with 112 gi
 
 ROBOTIQ, Johnny D, Sandra Gold
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steffenlengler/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steffenlengler/)*

@@ -1,6 +1,6 @@
 # YOUNA
 
-YOUNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pier 48's Shed A, San-francisco-oakland on Sat, 7 Nov 2026.
+YOUNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pier 48's Shed A, San-francisco-oakland on Sat, 7 Nov 2026.
 
 YOUNA is a techno and house artist based in South Korea, with 18 gigs on soundcheck across Amsterdam, Copenhagen, Dubai and London and 9 more. Often billed alongside Armin van Buuren, Jean B and Jesabel. Next up: Pier 48's Shed A, San Francisco Oakland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ YOUNA is a techno and house artist based in South Korea, with 18 gigs on soundch
 
 Armin van Buuren, Jean B, Jesabel
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youna-uk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youna-uk/)*

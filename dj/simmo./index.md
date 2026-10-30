@@ -1,6 +1,6 @@
 # Simmo.
 
-Simmo. is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hidden, Manchester on Fri, 6 Nov 2026.
+Simmo. is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hidden, Manchester on Fri, 6 Nov 2026.
 
 Simmo. is a jungle and drum & bass artist based in United Kingdom, with 9 gigs on soundcheck across Manchester. Often billed alongside Amelia Leigh, Sweetly and DAIZ. Next up: Hidden, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Simmo. is a jungle and drum & bass artist based in United Kingdom, with 9 gigs o
 
 Amelia Leigh, Sweetly, DAIZ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo./)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo./)*

@@ -1,6 +1,6 @@
 # lebollet
 
-lebollet is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Casa Amante Club, Madrid on Fri, 13 Nov 2026.
+lebollet is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Casa Amante Club, Madrid on Fri, 13 Nov 2026.
 
 lebollet is a house and electronica artist based in Spain, with 68 gigs on soundcheck across Barcelona, Madrid, Malaga and Mexico City. Often billed alongside Fuentes-Guerra, Kamboya and Toni Aparisi. Next up: Casa Amante Club, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ lebollet is a house and electronica artist based in Spain, with 68 gigs on sound
 
 Fuentes-Guerra, Kamboya, Toni Aparisi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebollet/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebollet/)*

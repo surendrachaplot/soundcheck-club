@@ -1,6 +1,6 @@
 # Onleash
 
-Onleash is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Blå, Oslo on Fri, 4 Dec 2026.
+Onleash is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Blå, Oslo on Fri, 4 Dec 2026.
 
 Onleash is a trance and techno artist based in Norway, with 18 gigs on soundcheck across Beijing, Berlin, Glasgow and London and 5 more. Often billed alongside Fakethias, AKUMU and Async Figure. Next up: Blå, Oslo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Onleash is a trance and techno artist based in Norway, with 18 gigs on soundchec
 
 Fakethias, AKUMU, Async Figure
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onleash/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onleash/)*

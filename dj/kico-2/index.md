@@ -1,6 +1,6 @@
 # Kico (2)
 
-Kico (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Modeci, Seoul on Sat, 31 Oct 2026.
+Kico (2) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Modeci, Seoul on Sat, 31 Oct 2026.
 
 Kico is a house and disco artist, with 30 gigs on soundcheck across Seoul. Often billed alongside dguru, Conan and Cozyhoon. Next up: Modeci, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kico is a house and disco artist, with 30 gigs on soundcheck across Seoul. Often
 
 dguru, Conan, Cozyhoon
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kico-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kico-2/)*

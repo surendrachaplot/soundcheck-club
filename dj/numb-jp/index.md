@@ -1,6 +1,6 @@
 # Numb (JP)
 
-Numb (JP) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kagurane, Tokyo on Sat, 21 Nov 2026.
+Numb (JP) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kagurane, Tokyo on Sat, 21 Nov 2026.
 
 Numb (JP) is a techno and experimental artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside Koichi Shimizu, karanaki and Compuma. Next up: Kagurane, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Numb (JP) is a techno and experimental artist based in Japan, with 14 gigs on so
 
 Koichi Shimizu, karanaki, Compuma
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/numb-jp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/numb-jp/)*

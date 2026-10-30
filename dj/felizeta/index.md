@@ -1,6 +1,6 @@
 # Felizeta
 
-Felizeta is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+Felizeta is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
 
 Felizeta is a techno and trance artist based in Argentina, with 18 gigs on soundcheck across Miami. Often billed alongside DomnRob, Kevin Bithell and Madison Kay. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Felizeta is a techno and trance artist based in Argentina, with 18 gigs on sound
 
 DomnRob, Kevin Bithell, Madison Kay
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felizeta/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felizeta/)*

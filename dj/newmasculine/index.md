@@ -1,6 +1,6 @@
 # New Masculine
 
-New Masculine is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Warehouse Talat Noi, Bangkok on Fri, 30 Oct 2026.
+New Masculine is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Warehouse Talat Noi, Bangkok on Fri, 30 Oct 2026.
 
 New Masculine is a club and experimental artist based in Singapore, with 21 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Hong Kong and 3 more. Often billed alongside GODKORINE, Phát Paris and AETLL. Next up: The Warehouse Talat Noi, Bangkok on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ New Masculine is a club and experimental artist based in Singapore, with 21 gigs
 
 GODKORINE, Phát Paris, AETLL
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newmasculine/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newmasculine/)*

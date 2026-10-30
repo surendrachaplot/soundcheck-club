@@ -1,6 +1,6 @@
 # DJ Mes
 
-DJ Mes is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sociable Cider Werks, Minneapolis/St Paul on Fri, 6 Nov 2026.
+DJ Mes is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sociable Cider Werks, Minneapolis/St Paul on Fri, 6 Nov 2026.
 
 DJ Mes is a house and deep house artist, with 11 gigs on soundcheck across Chicago, Cleveland, Los Angeles and Minneapolis/St Paul and 4 more. Often billed alongside DJ Dan, Gettoblaster and Anthony Mansfield. Next up: Sociable Cider Werks, Minneapolis/St Paul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Mes is a house and deep house artist, with 11 gigs on soundcheck across Chica
 
 DJ Dan, Gettoblaster, Anthony Mansfield
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmes/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmes/)*

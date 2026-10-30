@@ -1,6 +1,6 @@
 # Bruno Schmidt
 
-Bruno Schmidt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Bruno Schmidt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Bruno Schmidt is a house and techno artist based in United Kingdom, with 157 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 44 more. Often billed alongside Andrew James Gustav, Morgan and Emsho. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Bruno Schmidt is a house and techno artist based in United Kingdom, with 157 gig
 
 Andrew James Gustav, Morgan, Emsho
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*

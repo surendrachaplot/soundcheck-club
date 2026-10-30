@@ -1,6 +1,6 @@
 # Dawn Again
 
-Dawn Again is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 31 Oct 2026.
+Dawn Again is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 31 Oct 2026.
 
 Dawn Again is a house and tech house artist, with 20 gigs on soundcheck across Hobart, Melbourne and Victoria. Often billed alongside Toni Yotzi, Jon Jones and yus.f. Next up: Angel Music Bar, Melbourne on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Dawn Again is a house and tech house artist, with 20 gigs on soundcheck across H
 
 Toni Yotzi, Jon Jones, yus.f
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dawnagain-us/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dawnagain-us/)*

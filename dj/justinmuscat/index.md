@@ -1,6 +1,6 @@
 # Justin Muscat
 
-Justin Muscat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Coil, Melbourne on Fri, 30 Oct 2026.
+Justin Muscat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Coil, Melbourne on Fri, 30 Oct 2026.
 
 Justin Muscat is a techno and house artist based in Australia, with 42 gigs on soundcheck across Adelaide, Brisbane, Melbourne and Sydney. Often billed alongside Alison Belle, Alternate State and Bryan Ro. Next up: Coil, Melbourne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Justin Muscat is a techno and house artist based in Australia, with 42 gigs on s
 
 Alison Belle, Alternate State, Bryan Ro
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmuscat/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmuscat/)*

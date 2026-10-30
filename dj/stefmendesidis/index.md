@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 31 Oct 2026.
+Stef Mendesidis is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Klub Progresja, Warsaw on Sat, 31 Oct 2026.
 
 Stef Mendesidis is a techno and house artist based in Netherlands, with 166 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 54 more. Often billed alongside Nastia, SHDW and Yanamaste. Next up: Klub Progresja, Warsaw on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Stef Mendesidis is a techno and house artist based in Netherlands, with 166 gigs
 
 Nastia, SHDW, Yanamaste
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

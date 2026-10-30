@@ -1,6 +1,6 @@
 # Maxye
 
-Maxye is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
+Maxye is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
 
 Maxye is a house and techno artist based in France, with 40 gigs on soundcheck across Amsterdam, Marseille, Munich and Paris and 1 more. Often billed alongside Belaria, DJ Gregory and Marina Trench. Next up: TBA, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Maxye is a house and techno artist based in France, with 40 gigs on soundcheck a
 
 Belaria, DJ Gregory, Marina Trench
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxye/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxye/)*

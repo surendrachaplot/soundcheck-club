@@ -1,6 +1,6 @@
 # Thiago Genez
 
-Thiago Genez is a Trance and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Egg London, London on Sat, 16 Jan 2027.
+Thiago Genez is a Trance and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Egg London, London on Sat, 16 Jan 2027.
 
 Thiago Genez is a trance and tech house artist based in Brazil, with 9 gigs on soundcheck across London. Often billed alongside C-systems, DJMrB and Sago. Next up: Egg London, London on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Thiago Genez is a trance and tech house artist based in Brazil, with 9 gigs on s
 
 C-systems, DJMrB, Sago
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiagogenez/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiagogenez/)*

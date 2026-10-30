@@ -1,6 +1,6 @@
 # TBA - AMOR by SALVAJE
 
-TBA - AMOR by SALVAJE is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "OFFLINE" on Fri, 30 Oct 2026.
+TBA - AMOR by SALVAJE is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "OFFLINE" on Fri, 30 Oct 2026.
 
 TBA - AMOR by SALVAJE is a music venue in Dubai listed on soundcheck. 1 upcoming gig, with line-ups including Chupa and Gaamer. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - AMOR by SALVAJE is a music venue in Dubai listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | OFFLINE | Chupa (2), Gaamer |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/tba-amor-by-salvaje/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/tba-amor-by-salvaje/)*

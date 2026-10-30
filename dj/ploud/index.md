@@ -1,6 +1,6 @@
 # ploud
 
-ploud is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Flac, Seoul on Fri, 30 Oct 2026.
+ploud is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Flac, Seoul on Fri, 30 Oct 2026.
 
 ploud is a tech house and afro house artist based in South Korea, with 9 gigs on soundcheck across Seoul. Often billed alongside Departs, Sudowoo and Davico. Next up: Flac, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ploud is a tech house and afro house artist based in South Korea, with 9 gigs on
 
 Departs, Sudowoo, Davico
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploud/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploud/)*

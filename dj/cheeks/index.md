@@ -1,6 +1,6 @@
 # Cheeks
 
-Cheeks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Departamento, Mexico City on Wed, 28 Oct 2026.
+Cheeks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Departamento, Mexico City on Wed, 28 Oct 2026.
 
 Cheeks is a house and deep house artist based in Denmark, with 10 gigs on soundcheck across Copenhagen, Mexico City and New York City. Often billed alongside Niko Nuevo, Alejandro Veneno and Astro. Next up: Departamento, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Cheeks is a house and deep house artist based in Denmark, with 10 gigs on soundc
 
 Niko Nuevo, Alejandro Veneno, Astro
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeks/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeks/)*

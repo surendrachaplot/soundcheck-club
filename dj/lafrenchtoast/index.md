@@ -1,6 +1,6 @@
 # Lafrench Toast
 
-Lafrench Toast is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Lafrench Toast is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 Lafrench Toast is a techno and electronica artist based in Colombia, with 47 gigs on soundcheck across Bogotá. Often billed alongside Time Pilots, Julian Sanza and Bedriñana. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Lafrench Toast is a techno and electronica artist based in Colombia, with 47 gig
 
 Time Pilots, Julian Sanza, Bedriñana
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lafrenchtoast/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lafrenchtoast/)*

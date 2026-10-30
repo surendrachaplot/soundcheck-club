@@ -1,6 +1,6 @@
 # NEU
 
-NEU is a music venue in Stockholm with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Cosmo at Neu" on Sat, 31 Oct 2026.
+NEU is a music venue in Stockholm with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cosmo at Neu" on Sat, 31 Oct 2026.
 
 NEU is a music venue in Stockholm listed on soundcheck. 5 upcoming gigs, with line-ups including Ajaks, Alexi Delano, Alonso Lozano and Bread & Butter and 2 more. See dates, start times and who's playing. Näckströmsgatan 8, 111 47, Stockholm. Sweden.
 
@@ -18,4 +18,4 @@ NEU is a music venue in Stockholm listed on soundcheck. 5 upcoming gigs, with li
 
 Näckströmsgatan 8, 111 47, Stockholm. Sweden, Stockholm
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/neu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/neu/)*

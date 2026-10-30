@@ -1,6 +1,6 @@
 # vivi
 
-vivi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Dogenzaka Church, Tokyo on Tue, 10 Nov 2026.
+vivi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Dogenzaka Church, Tokyo on Tue, 10 Nov 2026.
 
 vivi is a house and disco artist based in Australia, with 44 gigs on soundcheck across Berlin, Cologne, Hamburg and London and 2 more. Often billed alongside Justice, MikAH and Ashlea Milinkovic. Next up: Dogenzaka Church, Tokyo on Tue 10 Nov.
 
@@ -26,4 +26,4 @@ vivi is a house and disco artist based in Australia, with 44 gigs on soundcheck 
 
 Justice, MikAH, Ashlea Milinkovic
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*

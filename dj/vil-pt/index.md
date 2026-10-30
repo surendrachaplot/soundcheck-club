@@ -1,6 +1,6 @@
 # VIL (PT)
 
-VIL (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 31 Oct 2026.
+VIL (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 31 Oct 2026.
 
 VIL (PT) is a techno and house artist based in Portugal, with 126 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 34 more. Often billed alongside CRAVO, Temudo and Nørbak. Next up: Tresor / Globus, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ VIL (PT) is a techno and house artist based in Portugal, with 126 gigs on soundc
 
 CRAVO, Temudo, Nørbak
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*

@@ -1,14 +1,13 @@
 # Mochakk
 
-Mochakk is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Big Night Live, Boston on Thu, 29 Oct 2026.
+Mochakk is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
 
-Mochakk is a house and tech house artist based in Brazil, with 178 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 50 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Big Night Live, Boston on Thu 29 Oct.
+Mochakk is a house and tech house artist based in Brazil, with 178 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 50 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Brooklyn Storehouse, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Big Night Live | Boston |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sat, 31 Oct 2026 | The Gathering @ Armature Works | Tampa-bay |
 | Sat, 31 Oct 2026 | m.Bird at Armature Works | Florida |
@@ -17,6 +16,7 @@ Mochakk is a house and tech house artist based in Brazil, with 178 gigs on sound
 
 ## Recently played
 
+- Big Night Live, Boston · Thu, 29 Oct 2026
 - GASHOUDER, Amsterdam · Fri, 23 Oct 2026
 - The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - [UNVRS], Ibiza · Sat, 10 Oct 2026
@@ -24,10 +24,9 @@ Mochakk is a house and tech house artist based in Brazil, with 178 gigs on sound
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - Gallagher Square, San Diego · Thu, 24 Sept 2026
-- Radius, Chicago · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

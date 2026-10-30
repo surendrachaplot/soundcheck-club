@@ -1,6 +1,6 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+Roy Rosenfeld is a House and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 138 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Roy Rosenfeld is a house and progressive house artist based in Czech Republic, w
 
 Sebastien Leger, Guy Mantzur, Lee Burridge
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*

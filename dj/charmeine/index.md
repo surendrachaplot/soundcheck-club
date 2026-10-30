@@ -1,6 +1,6 @@
 # Charmeine
 
-Charmeine is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
+Charmeine is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
 
 Charmeine is a house and tech house artist based in Turkey, with 32 gigs on soundcheck across Amsterdam, Barcelona, Dubai and Ibiza and 7 more. Often billed alongside People Like Us, BLOND:ISH and Denis Sulta. Next up: TBA - Pátio da Galé, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Charmeine is a house and tech house artist based in Turkey, with 32 gigs on soun
 
 People Like Us (3), BLOND:ISH, Denis Sulta
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charmeine/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charmeine/)*

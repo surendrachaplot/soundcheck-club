@@ -1,6 +1,6 @@
 # unders
 
-unders is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 5 Dec 2026.
+unders is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 5 Dec 2026.
 
 unders is a deep house and house artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Igor Marijuan, Omer Tayar and Words of Niō. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ unders is a deep house and house artist based in Netherlands, with 69 gigs on so
 
 Igor Marijuan, Omer Tayar, Words of Niō
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unders/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unders/)*

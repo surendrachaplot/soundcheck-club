@@ -1,6 +1,6 @@
 # Meg Paine
 
-Meg Paine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Meg Paine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 Meg Paine is a house and techno artist based in United Kingdom, with 64 gigs on soundcheck across Berlin, Brighton, Bristol and Dublin and 5 more. Often billed alongside Tech Support, Zaltsman and Asa Tate. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ Meg Paine is a house and techno artist based in United Kingdom, with 64 gigs on 
 
 Tech Support, Zaltsman, Asa Tate
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megpaine/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megpaine/)*

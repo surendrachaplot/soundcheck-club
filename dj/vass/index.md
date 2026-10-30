@@ -1,6 +1,6 @@
 # Vass
 
-Vass is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 30 Oct 2026.
+Vass is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 30 Oct 2026.
 
 Vass is a techno and electro artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 37 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Mtkvarze, Tbilisi on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Vass is a techno and electro artist based in United Kingdom, with 119 gigs on so
 
 Unai Trotti, Junki Inoue, Z@p
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*

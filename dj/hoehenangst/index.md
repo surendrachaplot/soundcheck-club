@@ -1,6 +1,6 @@
 # HOEHENANGST
 
-HOEHENANGST is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Stahlwerk, Düsseldorf on Sat, 28 Nov 2026.
+HOEHENANGST is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Stahlwerk, Düsseldorf on Sat, 28 Nov 2026.
 
 HOEHENANGST is a techno and industrial artist, with 30 gigs on soundcheck across Antwerp, Berlin, Cologne and Düsseldorf and 9 more. Often billed alongside BLYSS, Per Pleks and TANJA MIJU. Next up: Stahlwerk, Düsseldorf on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ HOEHENANGST is a techno and industrial artist, with 30 gigs on soundcheck across
 
 BLYSS (6), Per Pleks, TANJA MIJU
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoehenangst/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoehenangst/)*

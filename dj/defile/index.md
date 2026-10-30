@@ -1,6 +1,6 @@
 # DEFILE
 
-DEFILE is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at XOYO, London on Thu, 5 Nov 2026.
+DEFILE is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at XOYO, London on Thu, 5 Nov 2026.
 
 DEFILE is a deep house and tech house artist based in Italy, with 29 gigs on soundcheck across London and Prague. Often billed alongside Billa Bazz, Giacomo Mei and Umaedo. Next up: XOYO, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ DEFILE is a deep house and tech house artist based in Italy, with 29 gigs on sou
 
 Billa Bazz, Giacomo Mei, Umaedo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defile/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defile/)*

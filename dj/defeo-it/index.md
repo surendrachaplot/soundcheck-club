@@ -1,6 +1,6 @@
 # DE FEO
 
-DE FEO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 6 Nov 2026.
+DE FEO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 6 Nov 2026.
 
 DE FEO is a techno and house artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Chongqing and 5 more. Often billed alongside Pooja B, BOHO and Eclectic Elektra. Next up: Nulab Chengdu, Chengdu on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ DE FEO is a techno and house artist based in Italy, with 28 gigs on soundcheck a
 
 Pooja B, BOHO, Eclectic Elektra
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo-it/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo-it/)*

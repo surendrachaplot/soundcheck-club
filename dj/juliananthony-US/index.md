@@ -1,6 +1,6 @@
 # Julian Anthony (US)
 
-Julian Anthony (US) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at block., Dublin on Fri, 30 Oct 2026.
+Julian Anthony (US) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at block., Dublin on Fri, 30 Oct 2026.
 
 Julian Anthony (US) is a tech house and house artist based in United States of America, with 14 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Ibiza and 4 more. Often billed alongside Laidlaw, A For Alpha and Daniel Orpi. Next up: block., Dublin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Julian Anthony (US) is a tech house and house artist based in United States of A
 
 Laidlaw, A For Alpha, Daniel Orpi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthony-US/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthony-US/)*

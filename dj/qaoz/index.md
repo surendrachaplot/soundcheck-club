@@ -1,6 +1,6 @@
 # Qaoz
 
-Qaoz is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Das Werk, Vienna on Sat, 31 Oct 2026.
+Qaoz is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Das Werk, Vienna on Sat, 31 Oct 2026.
 
 Qaoz is a trance and techno artist based in Austria, with 10 gigs on soundcheck across Vienna. Often billed alongside Arman Shadow, pinklotion and DJ Wolle. Next up: Das Werk, Vienna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Qaoz is a trance and techno artist based in Austria, with 10 gigs on soundcheck 
 
 Arman Shadow, pinklotion, DJ Wolle
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qaoz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qaoz/)*

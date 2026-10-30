@@ -1,6 +1,6 @@
 # Carzoul
 
-Carzoul is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Rama Soundgarden, Medellin on Fri, 30 Oct 2026.
+Carzoul is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rama Soundgarden, Medellin on Fri, 30 Oct 2026.
 
 Carzoul is a house and minimal artist based in Colombia, with 10 gigs on soundcheck across Medellin. Often billed alongside Kpra, Federico Torres and Dantral. Next up: Rama Soundgarden, Medellin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Carzoul is a house and minimal artist based in Colombia, with 10 gigs on soundch
 
 Kpra, Federico Torres, Dantral
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carzoul/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carzoul/)*

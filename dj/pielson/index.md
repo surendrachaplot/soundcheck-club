@@ -1,6 +1,6 @@
 # Pielson
 
-Pielson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
+Pielson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
 
 Pielson is a techno and house artist based in Poland, with 2 gigs on soundcheck across Warsaw. Often billed alongside Granatka, B93 (PL) and Casper Weiss. Next up: Smolna, Warsaw on Sat 31 Oct.
 
@@ -15,4 +15,4 @@ Pielson is a techno and house artist based in Poland, with 2 gigs on soundcheck 
 
 Granatka, B93 (PL), Casper Weiss
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pielson/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pielson/)*

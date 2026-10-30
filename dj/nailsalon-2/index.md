@@ -1,6 +1,6 @@
 # Nail Salon (2)
 
-Nail Salon (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bastet, Philadelphia on Fri, 20 Nov 2026.
+Nail Salon (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bastet, Philadelphia on Fri, 20 Nov 2026.
 
 Nail Salon is a techno and club artist based in United States of America, with 30 gigs on soundcheck across Detroit, New York City, Philadelphia and Pittsburgh. Often billed alongside Phreakwency, low iron and JEWELSSEA. Next up: Bastet, Philadelphia on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Nail Salon is a techno and club artist based in United States of America, with 3
 
 Phreakwency, low iron, JEWELSSEA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nailsalon-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nailsalon-2/)*

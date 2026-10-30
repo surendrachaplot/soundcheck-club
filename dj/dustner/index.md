@@ -1,6 +1,6 @@
 # DUSTNER
 
-DUSTNER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Westhafen, Leipzig on Sat, 31 Oct 2026.
+DUSTNER is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Westhafen, Leipzig on Sat, 31 Oct 2026.
 
 DUSTNER is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Skurrben, Mascha Roth and Laviena. Next up: Westhafen, Leipzig on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DUSTNER is a techno and trance artist based in Germany, with 26 gigs on soundche
 
 Skurrben, Mascha Roth, Laviena
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustner/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustner/)*

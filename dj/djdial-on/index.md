@@ -1,6 +1,6 @@
 # DJ Dial-on
 
-DJ Dial-on is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Red Roof Church, Montreal on Sat, 14 Nov 2026.
+DJ Dial-on is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Red Roof Church, Montreal on Sat, 14 Nov 2026.
 
 DJ Dial-on is a house and funk / soul artist, with 14 gigs on soundcheck across Montreal. Often billed alongside Aram, DJ Hidi and Sami. Next up: Red Roof Church, Montreal on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Dial-on is a house and funk / soul artist, with 14 gigs on soundcheck across 
 
 Aram, DJ Hidi, Sami (4)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdial-on/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdial-on/)*

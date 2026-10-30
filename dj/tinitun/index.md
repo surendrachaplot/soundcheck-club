@@ -1,6 +1,6 @@
 # Tini Tun
 
-Tini Tun is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Faunna Rooftop, Mexico City on Fri, 13 Nov 2026.
+Tini Tun is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Faunna Rooftop, Mexico City on Fri, 13 Nov 2026.
 
 Tini Tun is a progressive house and electronica artist, with 26 gigs on soundcheck across Guadalajara, Mexico City and Monterrey. Often billed alongside Vazik, Em Boss and Gavin Hardkiss. Next up: Faunna Rooftop, Mexico City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tini Tun is a progressive house and electronica artist, with 26 gigs on soundche
 
 Vazik, Em Boss, Gavin Hardkiss
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinitun/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinitun/)*

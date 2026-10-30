@@ -1,6 +1,6 @@
 # P61 Gallery
 
-P61 Gallery is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Reflected Radio [REC006]" on Fri, 30 Oct 2026.
+P61 Gallery is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Reflected Radio [REC006]" on Fri, 30 Oct 2026.
 
 P61 Gallery is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Dizzy (PL), Elisa Bee, Leandro Taibbi and Luigi Madonna. See dates, start times and who's playing. Potsdamer Str. 61, 10785 Berlin, Germany.
 
@@ -15,4 +15,4 @@ P61 Gallery is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wi
 
 Potsdamer Str. 61, 10785 Berlin, Germany, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/p61-gallery/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/p61-gallery/)*

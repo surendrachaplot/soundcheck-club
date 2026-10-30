@@ -1,6 +1,6 @@
 # Fabrizio Mammarella
 
-Fabrizio Mammarella is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Silbergold, Frankfurt on Fri, 6 Nov 2026.
+Fabrizio Mammarella is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Silbergold, Frankfurt on Fri, 6 Nov 2026.
 
 Fabrizio Mammarella is a house and techno artist based in Italy, with 108 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 30 more. Often billed alongside Giulia Gutterer, Franz Scala and Charlie. Next up: Silbergold, Frankfurt on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Fabrizio Mammarella is a house and techno artist based in Italy, with 108 gigs o
 
 Giulia Gutterer, Franz Scala, Charlie
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*

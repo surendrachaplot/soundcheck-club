@@ -1,6 +1,6 @@
 # Soft Pxrn
 
-Soft Pxrn is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jolene, Copenhagen on Sat, 31 Oct 2026.
+Soft Pxrn is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jolene, Copenhagen on Sat, 31 Oct 2026.
 
 Soft Pxrn is a progressive house and tech house artist based in Denmark, with 16 gigs on soundcheck across Amsterdam and Copenhagen. Often billed alongside DJ Nah Care, Bella Sarris and Britney Speed. Next up: Jolene, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Soft Pxrn is a progressive house and tech house artist based in Denmark, with 16
 
 DJ Nah Care, Bella Sarris, Britney Speed
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softpxrn/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softpxrn/)*

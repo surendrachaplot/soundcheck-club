@@ -1,6 +1,6 @@
 # good.little.evening
 
-good.little.evening is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Noce KRK, Krakow on Fri, 30 Oct 2026.
+good.little.evening is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Noce KRK, Krakow on Fri, 30 Oct 2026.
 
 good.little.evening is a techno and breakbeat artist, with 15 gigs on soundcheck across Krakow. Often billed alongside tylmanovski, Aetha and Gabi Bury. Next up: Noce KRK, Krakow on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ good.little.evening is a techno and breakbeat artist, with 15 gigs on soundcheck
 
 tylmanovski, Aetha, Gabi Bury
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/good.little.evening/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/good.little.evening/)*

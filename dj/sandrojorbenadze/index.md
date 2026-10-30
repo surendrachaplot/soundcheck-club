@@ -1,6 +1,6 @@
 # Sandro Jorbenadze
 
-Sandro Jorbenadze is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 6 Nov 2026.
+Sandro Jorbenadze is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 6 Nov 2026.
 
 Sandro Jorbenadze is a house and trance artist based in Ukraine, with 38 gigs on soundcheck across Barcelona, Dubai and Tbilisi. Often billed alongside Vakho, Zurkin and Bero. Next up: Mtkvarze, Tbilisi on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sandro Jorbenadze is a house and trance artist based in Ukraine, with 38 gigs on
 
 Vakho, Zurkin, Bero
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrojorbenadze/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrojorbenadze/)*

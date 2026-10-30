@@ -1,6 +1,6 @@
 # Kemical SistaS
 
-Kemical SistaS is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Final, Taipei on Fri, 30 Oct 2026.
+Kemical SistaS is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Final, Taipei on Fri, 30 Oct 2026.
 
 Kemical SistaS is a techno and electro artist, with 17 gigs on soundcheck across Copenhagen, Sydney and Taipei. Often billed alongside LinGia, NEDU and Betty Apple. Next up: Final, Taipei on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kemical SistaS is a techno and electro artist, with 17 gigs on soundcheck across
 
 LinGia, NEDU, Betty Apple
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kemicalsistas/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kemicalsistas/)*

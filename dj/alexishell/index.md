@@ -1,6 +1,6 @@
 # Alexi Shell
 
-Alexi Shell is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Trabendo, Paris on Fri, 6 Nov 2026.
+Alexi Shell is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Trabendo, Paris on Fri, 6 Nov 2026.
 
 Alexi Shell is a techno and club artist based in France, with 28 gigs on soundcheck across London, Manchester, Paris and Strasbourg and 1 more. Often billed alongside DJ Football, RAG and TTristana. Next up: Le Trabendo, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Alexi Shell is a techno and club artist based in France, with 28 gigs on soundch
 
 DJ Football, RAG, TTristana
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexishell/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexishell/)*

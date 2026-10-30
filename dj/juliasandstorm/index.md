@@ -1,6 +1,6 @@
 # Julia Sandstorm
 
-Julia Sandstorm is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
+Julia Sandstorm is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
 
 Julia Sandstorm is a house and deep house artist based in Sweden, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Guadalajara and 13 more. Often billed alongside Bora Uzer, Britta Arnold and Omer Tayar. Next up: Happy Bay Beach, Saint Martin on Wed 17 Mar.
 
@@ -25,4 +25,4 @@ Julia Sandstorm is a house and deep house artist based in Sweden, with 47 gigs o
 
 Bora Uzer, Britta Arnold, Omer Tayar
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasandstorm/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasandstorm/)*

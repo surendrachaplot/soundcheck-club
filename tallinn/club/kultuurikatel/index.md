@@ -1,6 +1,6 @@
 # Kultuurikatel
 
-Kultuurikatel is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "UKF ESTONIA 2026: NERO (UK) - LUUDE (AUS) - HALLOWEEN" on Fri, 30 Oct 2026.
+Kultuurikatel is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "UKF ESTONIA 2026: NERO (UK) - LUUDE (AUS) - HALLOWEEN" on Fri, 30 Oct 2026.
 
 Kultuurikatel is a music venue in Tallinn listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kultuurikatel is a music venue in Tallinn listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | UKF ESTONIA 2026: NERO (UK) - LUUDE (AUS) - HALLOWEEN |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/kultuurikatel/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/kultuurikatel/)*

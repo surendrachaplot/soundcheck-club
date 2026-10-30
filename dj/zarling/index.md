@@ -1,6 +1,6 @@
 # Zarling
 
-Zarling is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 16 Dec 2026.
+Zarling is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 16 Dec 2026.
 
 Zarling is a house and techno artist based in Germany, with 14 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside degen, Dreimal T and ALKARLINE. Next up: Tresor / Globus, Berlin on Wed 16 Dec.
 
@@ -25,4 +25,4 @@ Zarling is a house and techno artist based in Germany, with 14 gigs on soundchec
 
 degen, Dreimal T, ALKARLINE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zarling/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zarling/)*

@@ -1,6 +1,6 @@
 # Z-Bau
 
-Z-Bau is a music venue in Nürnberg with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "dotbass" on Fri, 6 Nov 2026.
+Z-Bau is a music venue in Nürnberg with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "dotbass" on Fri, 6 Nov 2026.
 
 Z-Bau is a music venue in Nürnberg listed on soundcheck. 3 upcoming gigs, with line-ups including Lens, maniaclina and Piya Zawa. See dates, start times and who's playing. Frankenstr.200.
 
@@ -16,4 +16,4 @@ Z-Bau is a music venue in Nürnberg listed on soundcheck. 3 upcoming gigs, with 
 
 Frankenstr.200, Nürnberg
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*

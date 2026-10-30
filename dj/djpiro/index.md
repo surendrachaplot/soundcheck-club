@@ -1,6 +1,6 @@
 # DJ PIRO
 
-DJ PIRO is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at CIRCOLO BOTULINO, Milan on Fri, 30 Oct 2026.
+DJ PIRO is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at CIRCOLO BOTULINO, Milan on Fri, 30 Oct 2026.
 
 DJ PIRO is a techno and gabber artist based in Italy, with 11 gigs on soundcheck across Milan and Turin. Often billed alongside PACKAPUNCH909, heresiana and ANKKH. Next up: CIRCOLO BOTULINO, Milan on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ PIRO is a techno and gabber artist based in Italy, with 11 gigs on soundcheck
 
 PACKAPUNCH909, heresiana, ANKKH
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpiro/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpiro/)*

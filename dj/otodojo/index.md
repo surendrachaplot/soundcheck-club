@@ -1,6 +1,6 @@
 # otodojo
 
-otodojo is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Moondog Cafe, Detroit on Fri, 6 Nov 2026.
+otodojo is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Moondog Cafe, Detroit on Fri, 6 Nov 2026.
 
 otodojo is a techno and experimental artist based in United States of America, with 62 gigs on soundcheck across Detroit, New York City and Pittsburgh. Often billed alongside Cherriel, Tammy Lakkis and Erika. Next up: Moondog Cafe, Detroit on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ otodojo is a techno and experimental artist based in United States of America, w
 
 Cherriel, Tammy Lakkis, Erika
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otodojo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otodojo/)*

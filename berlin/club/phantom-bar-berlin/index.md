@@ -1,6 +1,6 @@
 # Phantom Bar Berlin
 
-Phantom Bar Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "CHERNOWEEN at Phantom Bar" on Fri, 30 Oct 2026.
+Phantom Bar Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "CHERNOWEEN at Phantom Bar" on Fri, 30 Oct 2026.
 
 Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Hello Sasy, Slim Soledad, Verushka and XD Erica. See dates, start times and who's playing. Torstraße 231, 10115 Berlin Germany.
 
@@ -15,4 +15,4 @@ Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming g
 
 Torstraße 231, 10115 Berlin Germany, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*

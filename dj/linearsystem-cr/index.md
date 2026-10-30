@@ -1,6 +1,6 @@
 # Linear System (CR)
 
-Linear System (CR) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Final, Taipei on Sat, 7 Nov 2026.
+Linear System (CR) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Final, Taipei on Sat, 7 Nov 2026.
 
 Linear System (CR) is a techno and industrial artist based in Costa Rica, with 42 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 22 more. Often billed alongside Jiho, Dani Savant and Kojiro. Next up: Final, Taipei on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Linear System (CR) is a techno and industrial artist based in Costa Rica, with 4
 
 Jiho, Dani Savant, Kojiro
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linearsystem-cr/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linearsystem-cr/)*

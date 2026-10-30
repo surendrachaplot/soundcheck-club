@@ -1,6 +1,6 @@
 # Kardano
 
-Kardano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Vancouver on Sat, 31 Oct 2026.
+Kardano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Vancouver on Sat, 31 Oct 2026.
 
 Kardano is a house and techno artist based in Canada, with 22 gigs on soundcheck across Amsterdam, Ibiza, Seattle and Toronto and 1 more. Often billed alongside Jared Love, Marcs and Simon Neviani. Next up: TBA, Vancouver on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kardano is a house and techno artist based in Canada, with 22 gigs on soundcheck
 
 Jared Love, Marcs, Simon Neviani
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kardano/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kardano/)*

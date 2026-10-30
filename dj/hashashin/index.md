@@ -1,6 +1,6 @@
 # Hashashin
 
-Hashashin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Department 184, Milan on Sat, 7 Nov 2026.
+Hashashin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Department 184, Milan on Sat, 7 Nov 2026.
 
 Hashashin is a techno and house artist based in Netherlands, with 50 gigs on soundcheck across Amsterdam, Berlin, Ghent and Milan and 7 more. Often billed alongside François X, BIANKA and Beste Hira. Next up: Department 184, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hashashin is a techno and house artist based in Netherlands, with 50 gigs on sou
 
 François X, BIANKA, Beste Hira
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hashashin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hashashin/)*

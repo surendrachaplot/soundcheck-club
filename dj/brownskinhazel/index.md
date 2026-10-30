@@ -1,6 +1,6 @@
 # BROWNSKINHAZEL
 
-BROWNSKINHAZEL is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Los Angeles on Sat, 31 Oct 2026.
+BROWNSKINHAZEL is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Los Angeles on Sat, 31 Oct 2026.
 
 BROWNSKINHAZEL is a club and experimental artist based in United States of America, with 30 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Buckmonster, BAE BAE and Kingdom. Next up: TBA, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ BROWNSKINHAZEL is a club and experimental artist based in United States of Ameri
 
 Buckmonster, BAE BAE, Kingdom
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownskinhazel/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownskinhazel/)*

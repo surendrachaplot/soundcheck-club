@@ -1,6 +1,6 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palm House, Liverpool on Fri, 30 Oct 2026.
+Todd Terry is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Palm House, Liverpool on Fri, 30 Oct 2026.
 
 Todd Terry is a house and disco artist based in United States of America, with 157 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 31 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Palm House, Liverpool on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Todd Terry is a house and disco artist based in United States of America, with 1
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

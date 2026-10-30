@@ -1,6 +1,6 @@
 # Just Beth
 
-Just Beth is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at D2, Aberdeen on Fri, 18 Dec 2026.
+Just Beth is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at D2, Aberdeen on Fri, 18 Dec 2026.
 
 Just Beth is a house and disco artist based in United Kingdom, with 21 gigs on soundcheck across Aberdeen, Edinburgh and Glasgow. Often billed alongside Inner Saboteur, Frankie Elyse and Jozette. Next up: D2, Aberdeen on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Just Beth is a house and disco artist based in United Kingdom, with 21 gigs on s
 
 Inner Saboteur, Frankie Elyse, Jozette
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justbeth/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justbeth/)*

@@ -1,6 +1,6 @@
 # LOIF
 
-LOIF is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ）, Chengdu on Sat, 31 Oct 2026.
+LOIF is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ）, Chengdu on Sat, 31 Oct 2026.
 
 LOIF is a techno and bass artist based in Australia, with 62 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bordeaux and 19 more. Often billed alongside Tangerine, Kia (AU) and D-Grade. Next up: Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ）, Chengdu on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ LOIF is a techno and bass artist based in Australia, with 62 gigs on soundcheck 
 
 Tangerine, Kia (AU), D-Grade
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*

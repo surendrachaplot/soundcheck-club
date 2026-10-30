@@ -1,6 +1,6 @@
 # Pjenné
 
-Pjenné is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Pjenné is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Pjenné is a techno and tech house artist based in Australia, with 81 gigs on soundcheck across Amsterdam, Athens, Berlin and London and 7 more. Often billed alongside Millú, Andy Hart and Hybrid Man. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Pjenné is a techno and tech house artist based in Australia, with 81 gigs on so
 
 Millú, Andy Hart, Hybrid Man
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pjenne-au/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pjenne-au/)*

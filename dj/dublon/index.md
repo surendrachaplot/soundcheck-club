@@ -1,6 +1,6 @@
 # Dublon
 
-Dublon is a House and Jazz artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Grove, Newcastle on Mon, 9 Nov 2026.
+Dublon is a House and Jazz artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Grove, Newcastle on Mon, 9 Nov 2026.
 
 Dublon is a house and jazz artist based in Denmark, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 17 more. Often billed alongside Agathe Mougin, Amy Jor and Argia. Next up: The Grove, Newcastle on Mon 9 Nov.
 
@@ -14,6 +14,7 @@ Dublon is a house and jazz artist based in Denmark, with 39 gigs on soundcheck a
 
 ## Recently played
 
+- Café Berlín, Madrid · Thu, 29 Oct 2026
 - Razzmatazz 3, Barcelona · Wed, 28 Oct 2026
 - Cinetol, Amsterdam · Sat, 24 Oct 2026
 - The Independent, San Francisco/Oakland · Sat, 10 Oct 2026
@@ -21,10 +22,9 @@ Dublon is a house and jazz artist based in Denmark, with 39 gigs on soundcheck a
 - Substation, Seattle · Thu, 8 Oct 2026
 - Floyd, Miami · Sat, 3 Oct 2026
 - Bar Le Ritz PDB, Montreal · Fri, 2 Oct 2026
-- Tigres de la Noche, Washington DC · Thu, 24 Sept 2026
 
 ## Shares bills with
 
 Agathe Mougin, Amy Jor, Argia
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*

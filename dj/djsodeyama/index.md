@@ -1,6 +1,6 @@
 # DJ Sodeyama
 
-DJ Sodeyama is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ofi, Chubu on Sat, 31 Oct 2026.
+DJ Sodeyama is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ofi, Chubu on Sat, 31 Oct 2026.
 
 DJ Sodeyama is a techno and house artist based in Japan, with 144 gigs on soundcheck across Chubu, Istanbul, Kyoto and Kyushu and 8 more. Often billed alongside OCCA, SIGNAL (JP) and Tsutomu. Next up: ofi, Chubu on Sat 31 Oct.
 
@@ -14,6 +14,7 @@ DJ Sodeyama is a techno and house artist based in Japan, with 144 gigs on soundc
 
 ## Recently played
 
+- Red Bar, Tokyo · Thu, 29 Oct 2026
 - Bassiani, Tbilisi · Fri, 9 Oct 2026
 - Z Maruyama, Tokyo · Sat, 3 Oct 2026
 - WOMB, Tokyo · Wed, 30 Sept 2026
@@ -21,10 +22,9 @@ DJ Sodeyama is a techno and house artist based in Japan, with 144 gigs on soundc
 - Aoyama Hachi, Tokyo · Sun, 20 Sept 2026
 - Daikanyama ORD., Tokyo · Sat, 19 Sept 2026
 - TBA -    Kodamanomori Camp Ground, Nagano, Tokyo · Fri, 11 Sept 2026
-- DUNGEON akihabara, Tokyo · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 OCCA, SIGNAL (JP), Tsutomu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsodeyama/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsodeyama/)*

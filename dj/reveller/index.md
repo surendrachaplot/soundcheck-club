@@ -1,6 +1,6 @@
 # Reveller
 
-Reveller is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
+Reveller is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
 
 Reveller is a techno and acid artist, with 11 gigs on soundcheck across Dublin and Taipei. Often billed alongside Blewit, Ambit and Cinquedea. Next up: Pawnshop, Taipei on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Reveller is a techno and acid artist, with 11 gigs on soundcheck across Dublin a
 
 Blewit (2), Ambit, Cinquedea
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reveller/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reveller/)*

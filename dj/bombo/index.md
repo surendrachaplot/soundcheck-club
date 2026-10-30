@@ -1,6 +1,6 @@
 # BOMBO
 
-BOMBO is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
+BOMBO is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
 
 BOMBO is a footwork and bass artist based in United Kingdom, with 10 gigs on soundcheck across London and Mexico City. Often billed alongside CRAIC DAVID, SANA and Big Dope P. Next up: Planet Wax, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ BOMBO is a footwork and bass artist based in United Kingdom, with 10 gigs on sou
 
 CRAIC DAVID, SANA, Big Dope P
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bombo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bombo/)*

@@ -1,6 +1,6 @@
 # David Benjamin
 
-David Benjamin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
+David Benjamin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
 
 David Benjamin is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin, Istanbul, Mexico City and Munich and 2 more. Often billed alongside Coss, Zettka and SUKISU. Next up: Beate Uwe, Berlin on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ David Benjamin is a techno and house artist based in Germany, with 19 gigs on so
 
 Coss, Zettka, SUKISU
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbenjamin-de/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbenjamin-de/)*

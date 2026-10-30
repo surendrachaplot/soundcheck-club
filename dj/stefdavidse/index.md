@@ -1,6 +1,6 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mint XL, Leeds on Fri, 30 Oct 2026.
+Stef Davidse is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mint XL, Leeds on Fri, 30 Oct 2026.
 
 Stef Davidse is a house and tech house artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 17 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Mint XL, Leeds on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 103 gig
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

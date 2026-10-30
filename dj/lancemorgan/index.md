@@ -1,6 +1,6 @@
 # Lance Morgan
 
-Lance Morgan is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Casa Jako, London on Fri, 20 Nov 2026.
+Lance Morgan is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Casa Jako, London on Fri, 20 Nov 2026.
 
 Lance Morgan is a deep house and house artist based in United Kingdom, with 57 gigs on soundcheck across Birmingham, Leeds and London. Often billed alongside Mark Radford, Dominique Danielle and B3. Next up: Casa Jako, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Lance Morgan is a deep house and house artist based in United Kingdom, with 57 g
 
 Mark Radford, Dominique Danielle, B3
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lancemorgan/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lancemorgan/)*

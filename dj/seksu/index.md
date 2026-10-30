@@ -1,6 +1,6 @@
 # Seksu
 
-Seksu is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The DBA, Manchester on Fri, 6 Nov 2026.
+Seksu is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The DBA, Manchester on Fri, 6 Nov 2026.
 
 Seksu is a baile funk and house artist based in United Kingdom, with 13 gigs on soundcheck across Brighton, London and Manchester. Often billed alongside 3MR., Disco Monde and 3DMA. Next up: The DBA, Manchester on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Seksu is a baile funk and house artist based in United Kingdom, with 13 gigs on 
 
 3MR., Disco Monde, 3DMA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seksu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seksu/)*

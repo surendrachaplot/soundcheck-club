@@ -1,6 +1,6 @@
 # Läbraatz
 
-Läbraatz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tuff Club, Singapore on Fri, 6 Nov 2026.
+Läbraatz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tuff Club, Singapore on Fri, 6 Nov 2026.
 
 Läbraatz is a techno and house artist based in Hungary, with 22 gigs on soundcheck across Bangkok and Singapore. Often billed alongside Cosmo Carbon, Pengsoo and Andre Marc. Next up: Tuff Club, Singapore on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Läbraatz is a techno and house artist based in Hungary, with 22 gigs on soundch
 
 Cosmo Carbon, Pengsoo, Andre Marc
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labraatz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labraatz/)*

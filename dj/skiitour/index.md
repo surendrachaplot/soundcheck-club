@@ -1,6 +1,6 @@
 # SkiiTour
 
-SkiiTour is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hollywood Theatre, Vancouver on Fri, 30 Oct 2026.
+SkiiTour is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hollywood Theatre, Vancouver on Fri, 30 Oct 2026.
 
 SkiiTour is a bass and house artist, with 12 gigs on soundcheck across Miami, San Diego, San Francisco/Oakland and Seattle and 2 more. Often billed alongside Smalltown DJs, Justin Martin and Ardalan. Next up: Hollywood Theatre, Vancouver on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ SkiiTour is a bass and house artist, with 12 gigs on soundcheck across Miami, Sa
 
 Smalltown DJs, Justin Martin, Ardalan
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skiitour/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skiitour/)*

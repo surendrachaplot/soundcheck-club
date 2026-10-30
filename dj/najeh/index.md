@@ -1,6 +1,6 @@
 # Najeh
 
-Najeh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Najeh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 Najeh is a house and techno artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Bali, Berlin and Cape Town and 8 more. Often billed alongside Shimmy Robin, Lenard Klein and EliaHaze. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Najeh is a house and techno artist based in Germany, with 101 gigs on soundcheck
 
 Shimmy Robin, Lenard Klein, EliaHaze
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/najeh/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/najeh/)*

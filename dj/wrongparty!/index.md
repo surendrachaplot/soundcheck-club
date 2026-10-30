@@ -1,6 +1,6 @@
 # Wrong Party!
 
-Wrong Party! is a Acid and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at McNeills, Glasgow on Sat, 14 Nov 2026.
+Wrong Party! is a Acid and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at McNeills, Glasgow on Sat, 14 Nov 2026.
 
 Wrong Party! is an acid and electro artist based in United Kingdom, with 22 gigs on soundcheck across Aberdeen and Glasgow. Often billed alongside GK Machine, Illogical Operator and Ravelston. Next up: McNeills, Glasgow on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Wrong Party! is an acid and electro artist based in United Kingdom, with 22 gigs
 
 GK Machine, Illogical Operator, Ravelston
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*

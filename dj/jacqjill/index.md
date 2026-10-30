@@ -1,6 +1,6 @@
 # Jacq Jill
 
-Jacq Jill is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 19 Nov 2026.
+Jacq Jill is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 19 Nov 2026.
 
 Jacq Jill is a techno and house artist based in United States of America, with 105 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Los Angeles and 6 more. Often billed alongside Kade Young, Joyce Lim and Baronhawk Poitier. Next up: TRANSMISSION DC, Washington DC on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Jacq Jill is a techno and house artist based in United States of America, with 1
 
 Kade Young, Joyce Lim, Baronhawk Poitier
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacqjill/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacqjill/)*

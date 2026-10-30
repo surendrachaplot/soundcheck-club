@@ -1,6 +1,6 @@
 # Hope 808
 
-Hope 808 is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Animal, New York City on Sat, 31 Oct 2026.
+Hope 808 is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Animal, New York City on Sat, 31 Oct 2026.
 
 Hope 808 is a house and disco artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside Aleska, James Juke and La Vega. Next up: Animal, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Hope 808 is a house and disco artist based in United States of America, with 26 
 
 Aleska, James Juke, La Vega
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hope808/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hope808/)*

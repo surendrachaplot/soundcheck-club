@@ -1,6 +1,6 @@
 # Niceteed
 
-Niceteed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Niceteed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Niceteed is a techno and house artist based in Italy, with 23 gigs on soundcheck across Bologna, Milan, Naples and Turin. Often billed alongside DJ Dipdel, Daniele Barberi and Frankie Marasco. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Niceteed is a techno and house artist based in Italy, with 23 gigs on soundcheck
 
 DJ Dipdel, Daniele Barberi, Frankie Marasco
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niceteed/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niceteed/)*

@@ -1,6 +1,6 @@
 # Snejoke
 
-Snejoke is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 12 Dec 2026.
+Snejoke is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 12 Dec 2026.
 
 Snejoke is an electronic artist based in Russia, with 25 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside Civic Grief, Goutier and Nesi. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Snejoke is an electronic artist based in Russia, with 25 gigs on soundcheck acro
 
 Civic Grief, Goutier, Nesi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snejoke/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snejoke/)*

@@ -1,6 +1,6 @@
 # DJ Deseo
 
-DJ Deseo is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Rio de Janeiro on Sat, 21 Nov 2026.
+DJ Deseo is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Rio de Janeiro on Sat, 21 Nov 2026.
 
 DJ Deseo is a house and latin bass artist based in Brazil, with 38 gigs on soundcheck across Rio de Janeiro and Toronto. Often billed alongside Alucas do Trópico Sul, KBRAL and Quimera. Next up: TBA, Rio de Janeiro on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Deseo is a house and latin bass artist based in Brazil, with 38 gigs on sound
 
 Alucas do Trópico Sul, KBRAL, Quimera
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeseo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeseo/)*

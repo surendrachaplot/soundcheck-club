@@ -1,6 +1,6 @@
 # DJ Moppy
 
-DJ Moppy is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Fri, 30 Oct 2026.
+DJ Moppy is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Fri, 30 Oct 2026.
 
 DJ Moppy is a funk / soul and jazz artist based in United States of America, with 33 gigs on soundcheck across Detroit. Often billed alongside Donna Gardner, Isaac Prieto and Bruce Bailey. Next up: Traverse City Whiskey Co. Outpost, Detroit on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Moppy is a funk / soul and jazz artist based in United States of America, wit
 
 Donna Gardner, Isaac Prieto, Bruce Bailey
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoppy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoppy/)*

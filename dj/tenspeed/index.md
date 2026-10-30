@@ -1,6 +1,6 @@
 # tenSpeed
 
-tenSpeed is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Somewhere Special, Los Angeles on Sun, 6 Dec 2026.
+tenSpeed is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Somewhere Special, Los Angeles on Sun, 6 Dec 2026.
 
 tenSpeed is a house and progressive house artist based in United States of America, with 17 gigs on soundcheck across Los Angeles, Sheffield and Tokyo. Often billed alongside Sojourna, DJ ISE and Avey. Next up: Somewhere Special, Los Angeles on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ tenSpeed is a house and progressive house artist based in United States of Ameri
 
 Sojourna, DJ ISE, Avey
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tenspeed/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tenspeed/)*

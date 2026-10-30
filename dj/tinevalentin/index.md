@@ -1,6 +1,6 @@
 # Tine Valentin
 
-Tine Valentin is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 22 Jan 2027.
+Tine Valentin is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 22 Jan 2027.
 
 Tine Valentin is a techno and breakbeat artist, with 14 gigs on soundcheck across Copenhagen. Often billed alongside Aberration, Asmus Odsat and Cirkeline. Next up: Pumpehuset, Copenhagen on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Tine Valentin is a techno and breakbeat artist, with 14 gigs on soundcheck acros
 
 Aberration, Asmus Odsat, Cirkeline
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinevalentin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinevalentin/)*

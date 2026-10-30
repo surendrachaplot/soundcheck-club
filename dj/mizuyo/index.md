@@ -1,6 +1,6 @@
 # Mizuyo
 
-Mizuyo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Midori Music Bar, Bangkok on Sat, 31 Oct 2026.
+Mizuyo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Midori Music Bar, Bangkok on Sat, 31 Oct 2026.
 
 Mizuyo is a house and techno artist based in Japan, with 52 gigs on soundcheck across Bangkok, Ho Chi Minh City, Kuala Lumpur and Tokyo. Often billed alongside GAOLAO, KATIMI AI and Bipolar Bear. Next up: Midori Music Bar, Bangkok on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Mizuyo is a house and techno artist based in Japan, with 52 gigs on soundcheck a
 
 GAOLAO, KATIMI AI, Bipolar Bear
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuyo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuyo/)*

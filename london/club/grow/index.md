@@ -1,6 +1,6 @@
 # Grow
 
-Grow is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Equal Parts: Warehouse of Horror" on Fri, 30 Oct 2026.
+Grow is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Equal Parts: Warehouse of Horror" on Fri, 30 Oct 2026.
 
 Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alfaz, Alfie Panaiotis, ARLYSS and Beavs and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
@@ -23,4 +23,4 @@ Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with lin
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

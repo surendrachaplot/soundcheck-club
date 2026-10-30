@@ -1,6 +1,6 @@
 # Radiocuts
 
-Radiocuts is a Hip-Hop and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lagoa Deck, Sao Paulo on Sat, 31 Oct 2026.
+Radiocuts is a Hip-Hop and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lagoa Deck, Sao Paulo on Sat, 31 Oct 2026.
 
 Radiocuts is a hip-hop and electronica artist, with 15 gigs on soundcheck across Sao Paulo. Next up: Lagoa Deck, Sao Paulo on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Radiocuts is a hip-hop and electronica artist, with 15 gigs on soundcheck across
 - Donna Maria, Sao Paulo · Fri, 16 Jan 2026
 - Aimec, Sao Paulo · Sat, 29 Nov 2025
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radiocuts/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radiocuts/)*

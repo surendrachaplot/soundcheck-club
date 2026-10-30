@@ -1,8 +1,8 @@
 # Memeshift
 
-Memeshift is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 31 Oct 2026.
+Memeshift is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 31 Oct 2026.
 
-Memeshift is an experimental and electronica artist, with 15 gigs on soundcheck across Berlin, Glasgow and London. Often billed alongside BLUME, Dmytro Filatov and Leng Seong. Next up: Acud Macht NEU, Berlin on Sat 31 Oct.
+Memeshift is an experimental and electronica artist based in Germany, with 15 gigs on soundcheck across Berlin, Glasgow and London. Often billed alongside BLUME, Dmytro Filatov and Leng Seong. Next up: Acud Macht NEU, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Memeshift is an experimental and electronica artist, with 15 gigs on soundcheck 
 
 BLUME, Dmytro Filatov, Leng Seong
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memeshift/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memeshift/)*

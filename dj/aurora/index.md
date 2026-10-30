@@ -1,6 +1,6 @@
 # Aurora
 
-Aurora is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Columbiahalle, Berlin on Sun, 1 Nov 2026.
+Aurora is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Columbiahalle, Berlin on Sun, 1 Nov 2026.
 
 Aurora is a techno and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Athens, Berlin, Bristol and Copenhagen and 7 more. Often billed alongside Audi Étoffe, 'PAVV' and 2HOT2PLAY. Next up: Columbiahalle, Berlin on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Aurora is a techno and tech house artist based in United Kingdom, with 14 gigs o
 
 Audi Étoffe, 'PAVV', 2HOT2PLAY
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*

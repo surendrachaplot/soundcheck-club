@@ -1,6 +1,6 @@
 # Joren
 
-Joren is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 14 Nov 2026.
+Joren is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 14 Nov 2026.
 
 Joren is a house and techno artist based in France, with 22 gigs on soundcheck across Lyon, Marseille and Paris. Often billed alongside Poppy (BE), ANAS and Chtak.. Next up: Cabaret Sauvage, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Joren is a house and techno artist based in France, with 22 gigs on soundcheck a
 
 Poppy (BE), ANAS, Chtak.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joren/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joren/)*

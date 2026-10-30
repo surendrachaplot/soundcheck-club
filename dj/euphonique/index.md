@@ -1,6 +1,6 @@
 # Euphonique
 
-Euphonique is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Klub 20/44, Belgrade on Sat, 31 Oct 2026.
+Euphonique is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Klub 20/44, Belgrade on Sat, 31 Oct 2026.
 
 Euphonique is a drum & bass and jungle artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bristol and 12 more. Often billed alongside DJ SS, Aries and Chimpo. Next up: Klub 20/44, Belgrade on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Euphonique is a drum & bass and jungle artist based in United Kingdom, with 33 g
 
 DJ SS, Aries, Chimpo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euphonique/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euphonique/)*

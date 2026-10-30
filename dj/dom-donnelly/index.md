@@ -1,6 +1,6 @@
 # Dom Donnelly
 
-Dom Donnelly is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Loft, Manchester on Sat, 21 Nov 2026.
+Dom Donnelly is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Loft, Manchester on Sat, 21 Nov 2026.
 
 Dom Donnelly is an experimental and electronica artist based in United Kingdom, with 8 gigs on soundcheck across Istanbul, London and Manchester. Often billed alongside Because of Art, Jody Wisternoff and Kloyd. Next up: The Loft, Manchester on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Dom Donnelly is an experimental and electronica artist based in United Kingdom, 
 
 Because of Art, Jody Wisternoff, Kloyd
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dom-donnelly/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dom-donnelly/)*

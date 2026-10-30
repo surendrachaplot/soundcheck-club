@@ -1,6 +1,6 @@
 # Arivi
 
-Arivi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Parque de la Exposición, Peru on Sun, 8 Nov 2026.
+Arivi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Parque de la Exposición, Peru on Sun, 8 Nov 2026.
 
 Arivi is a house and minimal artist, with 12 gigs on soundcheck across Los Angeles, Peru and San Diego. Often billed alongside Langdon J, Pro-K and Silky. Next up: Parque de la Exposición, Peru on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Arivi is a house and minimal artist, with 12 gigs on soundcheck across Los Angel
 
 Langdon J, Pro-K, Silky
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arivi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arivi/)*

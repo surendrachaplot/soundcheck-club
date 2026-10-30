@@ -1,6 +1,6 @@
 # Erick E
 
-Erick E is a House and Acid artist with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Grand Hotel Amrâth Kurhaus, The Hague on Sat, 31 Oct 2026.
+Erick E is a House and Acid artist with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Grand Hotel Amrâth Kurhaus, The Hague on Sat, 31 Oct 2026.
 
 Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Grand Hotel Amrâth Kurhaus, The Hague on Sat 31 Oct.
 
@@ -36,4 +36,4 @@ Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundch
 
 ROOG, Alexander Koning, Lucien Foort
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*

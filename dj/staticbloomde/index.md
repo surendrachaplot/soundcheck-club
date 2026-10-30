@@ -1,6 +1,6 @@
 # Static Bloom (DE)
 
-Static Bloom (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pimpernel, Munich on Fri, 6 Nov 2026.
+Static Bloom (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pimpernel, Munich on Fri, 6 Nov 2026.
 
 Static Bloom (DE) is a house and techno artist based in Germany, with 19 gigs on soundcheck across Amsterdam, Ljubljana, Munich and Stuttgart and 1 more. Often billed alongside DASH (SLO), Aaron Leviz and Kongusto. Next up: Pimpernel, Munich on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Static Bloom (DE) is a house and techno artist based in Germany, with 19 gigs on
 
 DASH (SLO), Aaron Leviz, Kongusto
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staticbloomde/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/staticbloomde/)*

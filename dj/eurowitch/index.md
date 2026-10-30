@@ -1,6 +1,6 @@
 # Eurowitch
 
-Eurowitch is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sala Siroco, Madrid on Sat, 7 Nov 2026.
+Eurowitch is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sala Siroco, Madrid on Sat, 7 Nov 2026.
 
 Eurowitch is a club and dancehall artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Brussels, Madrid and Rotterdam and 2 more. Often billed alongside Veinte Uñas, Candy Coup and Giaderza. Next up: Sala Siroco, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Eurowitch is a club and dancehall artist based in Netherlands, with 15 gigs on s
 
 Veinte Uñas, Candy Coup, Giaderza
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eurowitch/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eurowitch/)*

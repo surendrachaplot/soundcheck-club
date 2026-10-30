@@ -1,6 +1,6 @@
 # Kay Fabe
 
-Kay Fabe is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Model, Nottingham on Sat, 31 Oct 2026.
+Kay Fabe is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Model, Nottingham on Sat, 31 Oct 2026.
 
 Kay Fabe is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across London, Nottingham and Sheffield. Often billed alongside Evil Woman, dj come and rPal. Next up: The Model, Nottingham on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Kay Fabe is a techno and house artist based in United Kingdom, with 21 gigs on s
 
 Evil Woman, dj come, rPal
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kayfabe/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kayfabe/)*

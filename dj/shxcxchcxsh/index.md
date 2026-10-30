@@ -1,6 +1,6 @@
 # SHXCXCHCXSH
 
-SHXCXCHCXSH is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+SHXCXCHCXSH is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
 
 SHXCXCHCXSH is a techno and experimental artist based in Sweden, with 24 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 15 more. Often billed alongside Anthony Linell, Blaark and Djilogue. Next up: Razzmatazz, Barcelona on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ SHXCXCHCXSH is a techno and experimental artist based in Sweden, with 24 gigs on
 
 Anthony Linell, Blaark, Djilogue
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shxcxchcxsh/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shxcxchcxsh/)*

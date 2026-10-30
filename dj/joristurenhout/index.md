@@ -1,6 +1,6 @@
 # Joris Turenhout
 
-Joris Turenhout is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Fri, 30 Oct 2026.
+Joris Turenhout is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Geary Avenue Warehouse Project, Toronto on Fri, 30 Oct 2026.
 
 Joris Turenhout is a techno and house artist based in Netherlands, with 93 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 21 more. Often billed alongside Albin Brezlan, David Maters and Azzurro. Next up: Geary Avenue Warehouse Project, Toronto on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Joris Turenhout is a techno and house artist based in Netherlands, with 93 gigs 
 
 Albin Brezlan, David Maters, Azzurro
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*

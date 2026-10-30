@@ -1,6 +1,6 @@
 # Alexia (2)
 
-Alexia (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Macadam, Nantes on Sat, 5 Dec 2026.
+Alexia (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Macadam, Nantes on Sat, 5 Dec 2026.
 
 Alexia is a house and deep house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Just1, Paul Kine and Penelope. Next up: Macadam, Nantes on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Alexia is a house and deep house artist based in United Kingdom, with 59 gigs on
 
 Just1, Paul Kine, Penelope (2)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*

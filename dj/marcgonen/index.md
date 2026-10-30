@@ -1,6 +1,6 @@
 # Marc Gonen
 
-Marc Gonen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Volt Club Milano, Milan on Thu, 5 Nov 2026.
+Marc Gonen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Volt Club Milano, Milan on Thu, 5 Nov 2026.
 
 Marc Gonen is a house and techno artist based in Turkey, with 34 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside Doruk, Orkun Bozdemir and Black Batu. Next up: Volt Club Milano, Milan on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Marc Gonen is a house and techno artist based in Turkey, with 34 gigs on soundch
 
 Doruk, Orkun Bozdemir, Black Batu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcgonen/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcgonen/)*

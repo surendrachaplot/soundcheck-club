@@ -1,6 +1,6 @@
 # Shunya
 
-Shunya is a Electronica and IDM artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hyde Park Book Club, Leeds on Tue, 24 Nov 2026.
+Shunya is a Electronica and IDM artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hyde Park Book Club, Leeds on Tue, 24 Nov 2026.
 
 Shunya is an electronica and idm artist, with 6 gigs on soundcheck across Edinburgh, Leeds and Manchester. Often billed alongside Elf Traps, Simao (UK) and Slacky [Space Ritual]. Next up: Hyde Park Book Club, Leeds on Tue 24 Nov.
 
@@ -22,4 +22,4 @@ Shunya is an electronica and idm artist, with 6 gigs on soundcheck across Edinbu
 
 Elf Traps, Simao (UK), Slacky [Space Ritual]
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shunya/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shunya/)*

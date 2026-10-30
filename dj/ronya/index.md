@@ -1,6 +1,6 @@
 # Ronya
 
-Ronya is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jaeger, Oslo on Sat, 7 Nov 2026.
+Ronya is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jaeger, Oslo on Sat, 7 Nov 2026.
 
 Ronya is a house and techno artist based in Norway, with 38 gigs on soundcheck across Berlin, Birmingham, London and Oslo. Often billed alongside Tod Louie, Chris Solaris and Tonchius. Next up: Jaeger, Oslo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ronya is a house and techno artist based in Norway, with 38 gigs on soundcheck a
 
 Tod Louie, Chris Solaris, Tonchius
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronya/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronya/)*

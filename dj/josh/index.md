@@ -1,6 +1,6 @@
 # Josh
 
-Josh is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at 93 Feet East, London on Sat, 28 Nov 2026.
+Josh is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at 93 Feet East, London on Sat, 28 Nov 2026.
 
 Josh is a house and electro artist based in Germany, with 9 gigs on soundcheck across Berlin, Frankfurt, Lausanne and London and 3 more. Often billed alongside Adrianou, Aigner and Atree. Next up: 93 Feet East, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Josh is a house and electro artist based in Germany, with 9 gigs on soundcheck a
 
 Adrianou, Aigner, Atree
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josh/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josh/)*

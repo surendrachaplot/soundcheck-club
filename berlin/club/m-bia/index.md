@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Nyctophilia" on Fri, 30 Oct 2026.
+M-BIA is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Nyctophilia" on Fri, 30 Oct 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including ALICA RØUGH, BrettHit, BrettHit, Lukas Freudenberger and Daora and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with li
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

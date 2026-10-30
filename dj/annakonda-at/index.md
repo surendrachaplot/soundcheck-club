@@ -1,6 +1,6 @@
 # Annakonda
 
-Annakonda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
+Annakonda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
 
 Annakonda is a techno and house artist based in Austria, with 13 gigs on soundcheck across Berlin and Vienna. Often billed alongside Telicho, ACIDG and AGAINS7. Next up: ÆDEN, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Annakonda is a techno and house artist based in Austria, with 13 gigs on soundch
 
 Telicho, ACIDG, AGAINS7
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annakonda-at/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annakonda-at/)*

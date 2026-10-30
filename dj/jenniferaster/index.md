@@ -1,6 +1,6 @@
 # Jennifer Aster
 
-Jennifer Aster is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Jennifer Aster is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Jennifer Aster is an electronica and techno artist, with 11 gigs on soundcheck across Bologna and Paris. Often billed alongside Eric Tchekhoff, AVA and Aegony. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jennifer Aster is an electronica and techno artist, with 11 gigs on soundcheck a
 
 Eric Tchekhoff, AVA (3), Aegony
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferaster/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferaster/)*

@@ -1,6 +1,6 @@
 # Sophie Lloyd
 
-Sophie Lloyd is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at SWG3, Glasgow on Sat, 5 Dec 2026.
+Sophie Lloyd is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at SWG3, Glasgow on Sat, 5 Dec 2026.
 
 Sophie Lloyd is a house and disco artist, with 70 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside Melon Bomb, Melvo Baptiste and Horse Meat Disco. Next up: SWG3, Glasgow on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Sophie Lloyd is a house and disco artist, with 70 gigs on soundcheck across Amst
 
 Melon Bomb, Melvo Baptiste, Horse Meat Disco
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophielloyd/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophielloyd/)*

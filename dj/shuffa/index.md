@@ -1,6 +1,6 @@
 # SHUFFA
 
-SHUFFA is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Graanfabriek, Netherlands on Thu, 31 Dec 2026.
+SHUFFA is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Graanfabriek, Netherlands on Thu, 31 Dec 2026.
 
 SHUFFA is a garage and house artist based in United Kingdom, with 51 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Australian Capital Territory and 18 more. Often billed alongside Diffrent, Rich Reason and T-Man (UK). Next up: Graanfabriek, Netherlands on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ SHUFFA is a garage and house artist based in United Kingdom, with 51 gigs on sou
 
 Diffrent, Rich Reason, T-Man (UK)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*

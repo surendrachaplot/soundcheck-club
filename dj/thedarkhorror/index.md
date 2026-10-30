@@ -1,6 +1,6 @@
 # The Dark Horror
 
-The Dark Horror is a Hardcore and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+The Dark Horror is a Hardcore and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
 The Dark Horror is a hardcore and techno artist based in Belgium, with 32 gigs on soundcheck across Antwerp, Barcelona, Brussels and Cologne and 13 more. Often billed alongside Pinotello, Dimitri K and Angerfist. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ The Dark Horror is a hardcore and techno artist based in Belgium, with 32 gigs o
 
 Pinotello, Dimitri K, Angerfist
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkhorror/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkhorror/)*

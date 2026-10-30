@@ -1,6 +1,6 @@
 # ugurmeister
 
-ugurmeister is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 1 Nov 2026.
+ugurmeister is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sun, 1 Nov 2026.
 
 ugurmeister is a techno and house artist based in Turkey, with 16 gigs on soundcheck across Berlin and Istanbul. Often billed alongside el Capitan, Ghed and Laren. Next up: Lokschuppen Berlin, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ ugurmeister is a techno and house artist based in Turkey, with 16 gigs on soundc
 
 el Capitan, Ghed, Laren
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ugurmeister/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ugurmeister/)*

@@ -1,6 +1,6 @@
 # TEDESCO
 
-TEDESCO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+TEDESCO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
 TEDESCO is a techno and house artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Twang. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ TEDESCO is a techno and house artist based in United Kingdom, with 127 gigs on s
 
 JONE OF ARX, Ivicore, Twang
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*

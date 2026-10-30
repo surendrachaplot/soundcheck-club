@@ -1,6 +1,6 @@
 # Emilio
 
-Emilio is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Emilio is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Emilio is a techno and industrial artist based in Norway, with 42 gigs on soundcheck across Barcelona, Berlin, Bologna and Brussels and 7 more. Often billed alongside EVE, LØST and Monk000. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Emilio is a techno and industrial artist based in Norway, with 42 gigs on soundc
 
 EVE (1), LØST, Monk000
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio/)*

@@ -1,8 +1,8 @@
 # Guiltee
 
-Guiltee is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sound Experience, Wroclaw on Fri, 20 Nov 2026.
+Guiltee is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Sound Experience, Wroclaw on Fri, 20 Nov 2026.
 
-Guiltee is a techno and bass artist, with 25 gigs on soundcheck across Krakow, Oslo, Poznan and Warsaw and 1 more. Often billed alongside Glassz, dadan karambolo and Gheordu. Next up: Sound Experience, Wroclaw on Fri 20 Nov.
+Guiltee is a techno and bass artist based in Poland, with 25 gigs on soundcheck across Krakow, Oslo, Poznan and Warsaw and 1 more. Often billed alongside Glassz, dadan karambolo and Gheordu. Next up: Sound Experience, Wroclaw on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Guiltee is a techno and bass artist, with 25 gigs on soundcheck across Krakow, O
 
 Glassz, dadan karambolo, Gheordu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guiltee/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guiltee/)*

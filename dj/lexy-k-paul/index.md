@@ -1,6 +1,6 @@
 # Lexy & K-Paul
 
-Lexy & K-Paul is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 28 Nov 2026.
+Lexy & K-Paul is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 28 Nov 2026.
 
 Lexy & K-Paul are a techno and house duo based in Germany, with 17 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 4 more. Often billed alongside Mark Dekoda, Prismode and Solvane. Next up: Ritter Butzke, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Lexy & K-Paul are a techno and house duo based in Germany, with 17 gigs on sound
 
 Mark Dekoda, Prismode, Solvane
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexy-k-paul/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexy-k-paul/)*

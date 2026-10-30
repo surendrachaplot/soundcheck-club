@@ -1,6 +1,6 @@
 # Carm1na
 
-Carm1na is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at nueve cero nueve, Mexico City on Fri, 13 Nov 2026.
+Carm1na is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at nueve cero nueve, Mexico City on Fri, 13 Nov 2026.
 
 Carm1na is a bass and drum & bass artist based in Mexico, with 14 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Lyo XS, OMAAR and Seli. Next up: nueve cero nueve, Mexico City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Carm1na is a bass and drum & bass artist based in Mexico, with 14 gigs on soundc
 
 Lyo XS, OMAAR, Seli (2)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carm1na/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carm1na/)*

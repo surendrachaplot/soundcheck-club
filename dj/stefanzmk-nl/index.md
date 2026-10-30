@@ -1,6 +1,6 @@
 # Stefan ZMK
 
-Stefan ZMK is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Chinastraat, Ghent on Sat, 14 Nov 2026.
+Stefan ZMK is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Chinastraat, Ghent on Sat, 14 Nov 2026.
 
 Stefan ZMK is an acid and techno artist, with 16 gigs on soundcheck across Amsterdam, Antwerp, Geneva and Ghent and 3 more. Often billed alongside vexer, 23Shayatin and Acidic Male. Next up: Chinastraat, Ghent on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Stefan ZMK is an acid and techno artist, with 16 gigs on soundcheck across Amste
 
 vexer, 23Shayatin, Acidic Male
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanzmk-nl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanzmk-nl/)*

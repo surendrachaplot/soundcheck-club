@@ -1,6 +1,6 @@
 # Tedd Patterson
 
-Tedd Patterson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Green Room NYC, New York City on Fri, 13 Nov 2026.
+Tedd Patterson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Green Room NYC, New York City on Fri, 13 Nov 2026.
 
 Tedd Patterson is a house and disco artist based in United States of America, with 76 gigs on soundcheck across Berlin, Chicago, Detroit and Ibiza and 8 more. Often billed alongside Eli Escobar, The Carry Nation and David Harness. Next up: Green Room NYC, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Tedd Patterson is a house and disco artist based in United States of America, wi
 
 Eli Escobar, The Carry Nation, David Harness
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teddpatterson/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teddpatterson/)*

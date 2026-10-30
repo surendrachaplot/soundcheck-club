@@ -1,6 +1,6 @@
 # Alex Ranzino
 
-Alex Ranzino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 13 Nov 2026.
+Alex Ranzino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 13 Nov 2026.
 
 Alex Ranzino is a techno and house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Rotterdam and Utrecht. Often billed alongside Bastienne, Berkan V8 and Mila Black. Next up: Skatecafe, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Alex Ranzino is a techno and house artist based in Netherlands, with 28 gigs on 
 
 Bastienne, Berkan V8, Mila Black
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexranzino/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexranzino/)*

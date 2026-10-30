@@ -1,6 +1,6 @@
 # Antonio C
 
-Antonio C is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Odem, Bogotá on Sun, 1 Nov 2026.
+Antonio C is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Odem, Bogotá on Sun, 1 Nov 2026.
 
 Antonio C is a house and techno artist, with 48 gigs on soundcheck across Bogotá, Medellin, Rome and Washington DC. Often billed alongside Espitia, Unspoken and Piter De Vries. Next up: Odem, Bogotá on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Antonio C is a house and techno artist, with 48 gigs on soundcheck across Bogot�
 
 Espitia (2), Unspoken, Piter De Vries
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonioc/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonioc/)*

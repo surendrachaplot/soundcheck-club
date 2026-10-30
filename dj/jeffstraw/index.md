@@ -1,6 +1,6 @@
 # Jeff Straw
 
-Jeff Straw is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
+Jeff Straw is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Jeff Straw is a house and tech house artist based in United States of America, with 85 gigs on soundcheck across Denver, Ibiza and San Francisco/Oakland. Often billed alongside HIDRA, Mode Leeloo and Major Trouble. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Jeff Straw is a house and tech house artist based in United States of America, w
 
 HIDRA, Mode Leeloo, Major Trouble
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffstraw/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffstraw/)*

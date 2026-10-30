@@ -1,6 +1,6 @@
 # Reqh
 
-Reqh is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paramour, Brussels on Sat, 12 Dec 2026.
+Reqh is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paramour, Brussels on Sat, 12 Dec 2026.
 
 Reqh is a techno and breakbeat artist, with 16 gigs on soundcheck across Brussels and Ghent. Often billed alongside Elaina Vierce, Gilles and Naynaydluxx. Next up: Paramour, Brussels on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Reqh is a techno and breakbeat artist, with 16 gigs on soundcheck across Brussel
 
 Elaina Vierce, Gilles, Naynaydluxx
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reqh/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reqh/)*

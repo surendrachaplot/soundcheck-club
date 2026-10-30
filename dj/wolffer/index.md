@@ -1,6 +1,6 @@
 # Wolffer
 
-Wolffer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 11 Dec 2026.
+Wolffer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 11 Dec 2026.
 
 Wolffer is a house and deep house artist based in Mexico, with 59 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside GOLDEN PINEAPPLE, Irena Stanisic and Jimeno Arnaud. Next up: YuYu Cine Club, Mexico City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Wolffer is a house and deep house artist based in Mexico, with 59 gigs on soundc
 
 GOLDEN PINEAPPLE, Irena Stanisic, Jimeno Arnaud
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolffer/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolffer/)*

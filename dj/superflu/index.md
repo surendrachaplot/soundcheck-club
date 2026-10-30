@@ -1,6 +1,6 @@
 # Super Flu
 
-Super Flu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 23 Jan 2027.
+Super Flu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 23 Jan 2027.
 
 Super Flu is a techno and house artist based in Germany, with 129 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 44 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Do Not Sit On The Furniture, Miami on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Super Flu is a techno and house artist based in Germany, with 129 gigs on soundc
 
 Prismode, Solvane, Markus Klee
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superflu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/superflu/)*

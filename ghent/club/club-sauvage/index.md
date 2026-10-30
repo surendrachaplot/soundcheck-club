@@ -1,6 +1,6 @@
 # Club Sauvage
 
-Club Sauvage is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Pink Poezel Dungeon" on Fri, 30 Oct 2026.
+Club Sauvage is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Pink Poezel Dungeon" on Fri, 30 Oct 2026.
 
 Club Sauvage is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line-ups including BVNNII and Tian. See dates, start times and who's playing. Schuurkenstraat 2, 9000 Gent.
 
@@ -17,4 +17,4 @@ Club Sauvage is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, wi
 
 Schuurkenstraat 2, 9000 Gent, Ghent
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-sauvage/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-sauvage/)*

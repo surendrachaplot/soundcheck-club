@@ -1,6 +1,6 @@
 # Times
 
-Times is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "TIMES" on Fri, 30 Oct 2026.
+Times is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "TIMES" on Fri, 30 Oct 2026.
 
 Times is a music venue in Seoul listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Apgujeong-ro 54-gil, 25, B1.
 
@@ -15,4 +15,4 @@ Times is a music venue in Seoul listed on soundcheck. 2 upcoming gigs. See dates
 
 Apgujeong-ro 54-gil, 25, B1, Seoul
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/times/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/times/)*

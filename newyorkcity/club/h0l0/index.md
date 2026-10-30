@@ -1,14 +1,13 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "AKATA" on Thu, 29 Oct 2026.
+H0L0 is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Elsewhere x H0L0: Machine Girl 5 Yr NYC Halloween Anniversary Afterparty" on Fri, 30 Oct 2026.
 
-H0L0 is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 3mouth, Amarji King, Argenis Brito and Armii1n and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 3mouth, Argenis Brito, Armii1n and Automatic Writing and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | AKATA | Amarji King, Ase Manual |
 | Fri, 30 Oct 2026 | Elsewhere x H0L0: Machine Girl 5 Yr NYC Halloween Anniversary Afterparty | 3mouth, CITYSPROBLEM, XXHARDBIT3S, Yesterdayneverhappened |
 | Fri, 30 Oct 2026 | Elsewhere x H0L0: Machine Girl 5 Yr NYC Halloween Anniversary Afterparty | 3mouth, CITYSPROBLEM, XXHARDBIT3S, Yesterdayneverhappened |
 | Sat, 31 Oct 2026 | ReSolute presents: Why So Serious! | Argenis Brito, Automatic Writing, Benny Soto, Bruno Limma, Connie, Dan Shake, Dandy Jack, E.LINA, Henry Chow, J Gabriel, Joe Tagessian, Jonny Sum, Lauren Ritter, Maksim, Masomenos, Max Sprauer, Mayell, O.BEE, Onur Özer, Orazio Rispo, Rasho, Ron Like Hell, Shvili, Sibil (1), Sweely, Tobias Lindén, Tomas Station, Willy Soul |
@@ -18,9 +17,10 @@ H0L0 is a music venue in New York City listed on soundcheck. 15 upcoming gigs, w
 | Fri, 13 Nov 2026 | ABOV FLINTA* NYC | Clarisa Kimskii, Daybreak, Katalina Schwarz, Volvox |
 | Sat, 14 Nov 2026 | ReSolute with Dyed Soundorom  | CAMILLA, Dyed Soundorom, Josefina Tapia, Shvili |
 | Thu, 19 Nov 2026 | BKG Takeover | Jaxx, NICHE (2), Sangarang |
+| Fri, 20 Nov 2026 | SHEILA | Dee Diggs, Gail Force One, MarceauxMarceaux, Neon Christina |
 
 ## Address
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

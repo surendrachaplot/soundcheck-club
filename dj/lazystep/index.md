@@ -1,6 +1,6 @@
 # Lazystep
 
-Lazystep is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Oven Club, Valencia on Fri, 20 Nov 2026.
+Lazystep is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Oven Club, Valencia on Fri, 20 Nov 2026.
 
 Lazystep is a deep house and tech house artist based in Dominican Republic, with 10 gigs on soundcheck across Amsterdam, Madrid and Valencia. Often billed alongside Hannecart, Tommaso Pizzelli and 4Pleasure. Next up: Oven Club, Valencia on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lazystep is a deep house and tech house artist based in Dominican Republic, with
 
 Hannecart, Tommaso Pizzelli, 4Pleasure
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazystep/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazystep/)*

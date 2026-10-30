@@ -1,6 +1,6 @@
 # Slim Soledad
 
-Slim Soledad is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Phantom Bar Berlin, Berlin on Fri, 30 Oct 2026.
+Slim Soledad is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Phantom Bar Berlin, Berlin on Fri, 30 Oct 2026.
 
 Slim Soledad is a techno and house artist based in Brazil, with 149 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 42 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: Phantom Bar Berlin, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Slim Soledad is a techno and house artist based in Brazil, with 149 gigs on soun
 
 JASSS, MCMLXXXV, CEM
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*

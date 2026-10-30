@@ -1,6 +1,6 @@
 # Siot
 
-Siot is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Modeci, Seoul on Fri, 30 Oct 2026.
+Siot is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Modeci, Seoul on Fri, 30 Oct 2026.
 
 Siot is a techno and experimental artist based in South Korea, with 125 gigs on soundcheck across Seoul and Tokyo. Often billed alongside ComaRobot, DJ SIN and Purusha. Next up: Modeci, Seoul on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Siot is a techno and experimental artist based in South Korea, with 125 gigs on 
 
 ComaRobot, DJ SIN, Purusha
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siot/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siot/)*

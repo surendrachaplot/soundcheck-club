@@ -1,6 +1,6 @@
 # Elias Sternin
 
-Elias Sternin is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Dada Beijing, Beijing on Fri, 30 Oct 2026.
+Elias Sternin is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Dada Beijing, Beijing on Fri, 30 Oct 2026.
 
 Elias Sternin is a techno and electro artist based in Uruguay, with 27 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 13 more. Often billed alongside Rufo, Audri and Daura. Next up: Dada Beijing, Beijing on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Elias Sternin is a techno and electro artist based in Uruguay, with 27 gigs on s
 
 Rufo, Audri, Daura
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*

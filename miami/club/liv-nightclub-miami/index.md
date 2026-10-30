@@ -1,14 +1,13 @@
 # LIV Nightclub Miami
 
-LIV Nightclub Miami is a music venue in Miami with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Dani Barranco" on Thu, 29 Oct 2026.
+LIV Nightclub Miami is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Lost Frequencies" on Sat, 31 Oct 2026.
 
-LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 12 upcoming gigs. See dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
+LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 11 upcoming gigs. See dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Dani Barranco |  |
 | Sat, 31 Oct 2026 | Lost Frequencies |  |
 | Fri, 6 Nov 2026 | Jason Derulo |  |
 | Sat, 7 Nov 2026 | Martin Garrix |  |
@@ -18,9 +17,10 @@ LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 12 upcoming 
 | Sat, 28 Nov 2026 | Soundtuary |  |
 | Thu, 3 Dec 2026 | Prospa |  |
 | Fri, 4 Dec 2026 | Pawsa |  |
+| Sat, 12 Dec 2026 | Sonny Fodera |  |
 
 ## Address
 
 4441 Collins Ave; Miami Beach, FL 33139; United States, Miami
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*

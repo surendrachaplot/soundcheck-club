@@ -1,6 +1,6 @@
 # jamesjamesjames
 
-jamesjamesjames is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nova PDX, Portland on Sat, 31 Oct 2026.
+jamesjamesjames is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Nova PDX, Portland on Sat, 31 Oct 2026.
 
 jamesjamesjames is a techno and progressive house artist based in Australia, with 25 gigs on soundcheck across Adelaide, Brisbane, Chicago and Helsinki and 9 more. Often billed alongside Varg²™, Willaris. K and Caucasian Opportunities. Next up: Nova PDX, Portland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ jamesjamesjames is a techno and progressive house artist based in Australia, wit
 
 Varg²™, Willaris. K, Caucasian Opportunities
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjamesjames/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjamesjames/)*

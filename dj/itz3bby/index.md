@@ -1,6 +1,6 @@
 # Itz3bby
 
-Itz3bby is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Matilo Park, Rotterdam on Sat, 21 Nov 2026.
+Itz3bby is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Matilo Park, Rotterdam on Sat, 21 Nov 2026.
 
 Itz3bby is a garage and house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Netherlands, Rio de Janeiro and Rotterdam and 1 more. Often billed alongside EYCEE, Franky Sticks and Jan Koster. Next up: TBA - Matilo Park, Rotterdam on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Itz3bby is a garage and house artist based in Netherlands, with 29 gigs on sound
 
 EYCEE, Franky Sticks, Jan Koster
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itz3bby/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itz3bby/)*

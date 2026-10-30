@@ -1,8 +1,8 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "CLOSER x TYF present MOONDANCE with James Poole" on Sat, 31 Oct 2026.
+TBA - DTLA is a music venue in Los Angeles with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "CLOSER x TYF present MOONDANCE with James Poole" on Sat, 31 Oct 2026.
 
-TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 16 upcoming gigs, with line-ups including 6 SENSE, AMORAL, BHAOUNCEOUT and Brick (US) and 2 more. See dates, start times and who's playing.
+TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 17 upcoming gigs, with line-ups including 6 SENSE, Ali Farahani, AMORAL and BHAOUNCEOUT and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 16 upcoming gig
 | Sat, 14 Nov 2026 | CLOSER x TYF x PNK Records present MOONDANCE: PNK Party with Polovich & AKA VINNIE |  |
 | Fri, 20 Nov 2026 | Grotto - Hewan Aman, Matas | Hewan Aman, J.dB, Matas, Miracles |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

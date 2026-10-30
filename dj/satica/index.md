@@ -1,6 +1,6 @@
 # SATICA
 
-SATICA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
+SATICA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
 
 SATICA is a house and techno artist based in Japan, with 46 gigs on soundcheck across Singapore and Tokyo. Often billed alongside Yo Nishijima, Louis Shannon and SAITO. Next up: WOMB, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SATICA is a house and techno artist based in Japan, with 46 gigs on soundcheck a
 
 Yo Nishijima, Louis Shannon, SAITO
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satica/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satica/)*

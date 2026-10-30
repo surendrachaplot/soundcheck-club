@@ -1,6 +1,6 @@
 # Cocoa
 
-Cocoa is a Deep House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mott 32, Hong Kong on Sat, 31 Oct 2026.
+Cocoa is a Deep House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mott 32, Hong Kong on Sat, 31 Oct 2026.
 
 Cocoa is a deep house and bass artist based in China, with 11 gigs on soundcheck across Hong Kong and Tokyo. Often billed alongside deadfish eyes, Alex Nude and Angelos. Next up: Mott 32, Hong Kong on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cocoa is a deep house and bass artist based in China, with 11 gigs on soundcheck
 
 deadfish eyes, Alex Nude, Angelos
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocoa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocoa/)*

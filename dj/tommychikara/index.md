@@ -1,6 +1,6 @@
 # Tommy Chikara
 
-Tommy Chikara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+Tommy Chikara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
 Tommy Chikara is a house and techno artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Berlin, New York City and Paris. Often billed alongside Benjamin Berg, Hannecart and Kyra Khaldi. Next up: Signal, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Tommy Chikara is a house and techno artist based in Netherlands, with 39 gigs on
 
 Benjamin Berg, Hannecart, Kyra Khaldi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommychikara/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommychikara/)*

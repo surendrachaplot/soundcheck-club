@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Collective Records" on Thu, 29 Oct 2026.
+Distrikt is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hannah Wants x counter culture - the last dance" on Fri, 30 Oct 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with line-ups including 3PM RECORDS, Alexandria, Alexia Glensy and Alex Osifo and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -8,11 +8,11 @@ Distrikt is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Collective Records |  |
 | Fri, 30 Oct 2026 | Hannah Wants x counter culture - the last dance | Hannah Wants, Josh Demello, Miruna Ghica, Tom Shorterz |
 | Sat, 31 Oct 2026 | Distrikt presents Ryan Elliott, Serenne, Jennifer Loveless, Mya | Alex Osifo, Binyamhn, Jennifer Loveless, Ryan Elliott, Serenne |
 | Fri, 6 Nov 2026 | Cinco Shades: Josh Pace & Friends |  |
 | Sat, 7 Nov 2026 | 3PM present Alexandria & Jude Lenihan | 3PM RECORDS, Alexandria, Fentonffp, Jude Lenihan, Partridge |
+| Sat, 14 Nov 2026 | Uncut presents: Joëlla Jackson | Joëlla Jackson |
 | Fri, 20 Nov 2026 | 7 YEARS OF SWITCH:UP | Charlotte Ord, Oldboy, Silva Snipa, Sulphur |
 | Sat, 21 Nov 2026 | Standard Records presents D'Julz |  |
 | Fri, 27 Nov 2026 | In Motion  |  |
@@ -23,4 +23,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with 
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

@@ -1,6 +1,6 @@
 # TATA (DE)
 
-TATA (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Under Bron, Stockholm on Fri, 13 Nov 2026.
+TATA (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Under Bron, Stockholm on Fri, 13 Nov 2026.
 
 TATA (DE) is a house and techno artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Munich and 3 more. Often billed alongside Sarica, Aaron Leviz and Oscar Faivre. Next up: Under Bron, Stockholm on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ TATA (DE) is a house and techno artist based in Germany, with 17 gigs on soundch
 
 Sarica, Aaron Leviz, Oscar Faivre
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tata-de/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tata-de/)*

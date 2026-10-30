@@ -1,6 +1,6 @@
 # Boondocks
 
-Boondocks is a music venue in Houston with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Ice House Radio x GULP! present: hopper1000" on Fri, 13 Nov 2026.
+Boondocks is a music venue in Houston with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Ice House Radio x GULP! present: hopper1000" on Fri, 13 Nov 2026.
 
 Boondocks is a music venue in Houston listed on soundcheck. 2 upcoming gigs, with line-ups including HYPERFEMME, Jetty and SKY JETTA. See dates, start times and who's playing. 1417 Westheimer Rd, Houston, TX 77006-2616.
 
@@ -15,4 +15,4 @@ Boondocks is a music venue in Houston listed on soundcheck. 2 upcoming gigs, wit
 
 1417 Westheimer Rd, Houston, TX 77006-2616, Houston
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/boondocks/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/boondocks/)*

@@ -1,6 +1,6 @@
 # IZZYA
 
-IZZYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Printhouse, Munich on Sat, 14 Nov 2026.
+IZZYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Printhouse, Munich on Sat, 14 Nov 2026.
 
 IZZYA is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin, Karlsruhe, Munich and Nürnberg. Often billed alongside Melchiorr, Nepōmuk and DJ Yugo. Next up: Printhouse, Munich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ IZZYA is a techno and house artist based in Germany, with 17 gigs on soundcheck 
 
 Melchiorr, Nepōmuk, DJ Yugo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izzya/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izzya/)*

@@ -1,6 +1,6 @@
 # Ela Vann
 
-Ela Vann is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
+Ela Vann is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
 
 Ela Vann is a house and disco artist based in Colombia, with 51 gigs on soundcheck across Bogotá, Guadalajara, Mexico City and Miami. Often billed alongside Sergio Iglesias, Joint4nine and Antonio C. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Ela Vann is a house and disco artist based in Colombia, with 51 gigs on soundche
 
 Sergio Iglesias, Joint4nine, Antonio C
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elavann/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elavann/)*

@@ -1,6 +1,6 @@
 # ONYVAA
 
-ONYVAA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+ONYVAA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
 ONYVAA is a techno and house artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 30 more. Often billed alongside Anfisa Letyago, Indira Paganotto and Chris Liebing. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ ONYVAA is a techno and house artist based in United States of America, with 67 g
 
 Anfisa Letyago, Indira Paganotto, Chris Liebing
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onyvaa-fr/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onyvaa-fr/)*

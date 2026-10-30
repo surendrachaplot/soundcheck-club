@@ -1,6 +1,6 @@
 # Moonshine
 
-Moonshine is a Club and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 31 Oct 2026.
+Moonshine is a Club and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 31 Oct 2026.
 
 Moonshine is a club and afro house artist based in Democratic Republic of the Congo, with 52 gigs on soundcheck across Athens, Atlanta, Barcelona and Birmingham and 12 more. Often billed alongside San Farafina, Pierre Kwenders and NegoO. Next up: SMS 514.613.5811 FOR LOCATION, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Moonshine is a club and afro house artist based in Democratic Republic of the Co
 
 San Farafina, Pierre Kwenders, NegoO
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonshine/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonshine/)*

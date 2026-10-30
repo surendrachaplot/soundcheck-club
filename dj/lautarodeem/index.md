@@ -1,6 +1,6 @@
 # Lautaro Deem
 
-Lautaro Deem is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Opposite, Barcelona on Fri, 13 Nov 2026.
+Lautaro Deem is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Opposite, Barcelona on Fri, 13 Nov 2026.
 
 Lautaro Deem is a house and deep house artist based in Argentina, with 33 gigs on soundcheck across Barcelona and Dublin. Often billed alongside Julieta Wins, Phil Bass and Romanetto. Next up: Opposite, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lautaro Deem is a house and deep house artist based in Argentina, with 33 gigs o
 
 Julieta Wins, Phil Bass, Romanetto
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lautarodeem/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lautarodeem/)*

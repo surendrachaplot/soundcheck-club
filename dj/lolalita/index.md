@@ -1,6 +1,6 @@
 # Lolalita
 
-Lolalita is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+Lolalita is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
 Lolalita is a techno and hardcore artist based in Belgium, with 90 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 18 more. Often billed alongside myu:sa, waltur and KimberlaID. Next up: OST, Berlin on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Lolalita is a techno and hardcore artist based in Belgium, with 90 gigs on sound
 
 myu:sa, waltur, KimberlaID
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolalita/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolalita/)*

@@ -1,6 +1,6 @@
 # Budino
 
-Budino is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Het Leienpaleis, Antwerp on Fri, 30 Oct 2026.
+Budino is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Het Leienpaleis, Antwerp on Fri, 30 Oct 2026.
 
 Budino is a house and techno artist based in Italy, with 177 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 50 more. Often billed alongside Massimiliano Pagliara, Gabrielle Kwarteng and Cormac. Next up: Het Leienpaleis, Antwerp on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Budino is a house and techno artist based in Italy, with 177 gigs on soundcheck 
 
 Massimiliano Pagliara, Gabrielle Kwarteng, Cormac
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*

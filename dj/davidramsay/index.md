@@ -1,6 +1,6 @@
 # David Ramsay
 
-David Ramsay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Electrowerkz, London on Fri, 13 Nov 2026.
+David Ramsay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Electrowerkz, London on Fri, 13 Nov 2026.
 
 David Ramsay is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Tafkanik, LO-LOW and Selecky. Next up: Electrowerkz, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ David Ramsay is a techno and house artist based in United Kingdom, with 25 gigs 
 
 Tafkanik, LO-LOW, Selecky
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidramsay/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidramsay/)*

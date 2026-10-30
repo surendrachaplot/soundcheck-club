@@ -1,6 +1,6 @@
 # The Loco Klub
 
-The Loco Klub is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Headset's Gay Garage Halloween" on Fri, 30 Oct 2026.
+The Loco Klub is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Headset's Gay Garage Halloween" on Fri, 30 Oct 2026.
 
 The Loco Klub is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including 3DMA, Atki2, Azumei and Bambi (FR) and 2 more. See dates, start times and who's playing. Clock Tower Yard, Bristol BS1 6QH, United Kingdom.
 
@@ -20,4 +20,4 @@ The Loco Klub is a music venue in Bristol listed on soundcheck. 7 upcoming gigs,
 
 Clock Tower Yard, Bristol BS1 6QH, United Kingdom, Bristol
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-loco-klub/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-loco-klub/)*

@@ -1,6 +1,6 @@
 # Christoph Cham
 
-Christoph Cham is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 31 Oct 2026.
+Christoph Cham is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 31 Oct 2026.
 
 Christoph Cham is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Amsterdam, London and Utrecht. Often billed alongside VITTAO, LGNA and ilse dorine. Next up: Toekomstmuziek, Amsterdam on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Christoph Cham is a techno and house artist based in United States of America, w
 
 VITTAO, LGNA, ilse dorine
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christophcham/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christophcham/)*

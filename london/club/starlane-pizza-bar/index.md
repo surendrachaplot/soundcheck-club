@@ -1,6 +1,6 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 21 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Apes Cuttin' Shapes" on Fri, 30 Oct 2026.
+Starlane Pizza Bar is a music venue in London with 21 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Apes Cuttin' Shapes" on Fri, 30 Oct 2026.
 
 Starlane Pizza Bar is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including 3 Minds, 4Pleasure, ADMNTi and Aldo and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 21 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

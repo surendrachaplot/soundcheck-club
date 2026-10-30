@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "069 - ZERO SIX NINE Vol. VI - Halloween" on Fri, 30 Oct 2026.
+Tanzhaus West is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "069 - ZERO SIX NINE Vol. VI - Halloween" on Fri, 30 Oct 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including Justine Perry, ADHASS, Alberto Tolo and AMBAM and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -19,4 +19,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 6 upcoming gig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

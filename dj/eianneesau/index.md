@@ -1,6 +1,6 @@
 # eianne esau
 
-eianne esau is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bootleg Bar NYC, New York City on Sat, 31 Oct 2026.
+eianne esau is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bootleg Bar NYC, New York City on Sat, 31 Oct 2026.
 
 eianne esau is a techno and breakbeat artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside Fredo, @nimal and ASTER (DJ). Next up: Bootleg Bar NYC, New York City on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ eianne esau is a techno and breakbeat artist based in United States of America, 
 
 Fredo, @nimal, ASTER (DJ)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eianneesau/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eianneesau/)*

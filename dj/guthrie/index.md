@@ -1,6 +1,6 @@
 # Guthrie
 
-Guthrie is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - down by the water, Montreal on Sat, 31 Oct 2026.
+Guthrie is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - down by the water, Montreal on Sat, 31 Oct 2026.
 
 Guthrie is a house and disco artist based in United States of America, with 156 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 4 more. Often billed alongside Alina (MTL), Ferias and Kris Guilty. Next up: TBA - down by the water, Montreal on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Guthrie is a house and disco artist based in United States of America, with 156 
 
 Alina (MTL), Ferias, Kris Guilty
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guthrie/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guthrie/)*

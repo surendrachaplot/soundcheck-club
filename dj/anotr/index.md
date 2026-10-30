@@ -1,6 +1,6 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ace*Mission Studios - Under The 6th Street Bridge, Los Angeles on Fri, 30 Oct 2026.
+ANOTR is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ace*Mission Studios - Under The 6th Street Bridge, Los Angeles on Fri, 30 Oct 2026.
 
 ANOTR is a house and tech house artist based in Netherlands, with 162 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 37 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Ace*Mission Studios - Under The 6th Street Bridge, Los Angeles on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ ANOTR is a house and tech house artist based in Netherlands, with 162 gigs on so
 
 Seth Troxler, Dennis Cruz, Toman
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*

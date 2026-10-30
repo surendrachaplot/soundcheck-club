@@ -1,6 +1,6 @@
 # TEHOTU
 
-TEHOTU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le 211, Paris on Sun, 8 Nov 2026.
+TEHOTU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le 211, Paris on Sun, 8 Nov 2026.
 
 TEHOTU is a techno and house artist based in France, with 30 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Frankfurt and 5 more. Often billed alongside Maris Shilton, Jessie Granqvist and T-RAIL. Next up: Le 211, Paris on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ TEHOTU is a techno and house artist based in France, with 30 gigs on soundcheck 
 
 Maris Shilton, Jessie Granqvist, T-RAIL
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tehotu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tehotu/)*

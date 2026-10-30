@@ -1,6 +1,6 @@
 # Mun Sing
 
-Mun Sing is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ormside Projects, London on Sat, 12 Dec 2026.
+Mun Sing is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ormside Projects, London on Sat, 12 Dec 2026.
 
 Mun Sing is an experimental and club artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 24 more. Often billed alongside Slikback, KAVARI and ASJ. Next up: Ormside Projects, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Mun Sing is an experimental and club artist based in United Kingdom, with 48 gig
 
 Slikback, KAVARI, ASJ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munsing/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munsing/)*

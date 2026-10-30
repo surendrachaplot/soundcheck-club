@@ -1,6 +1,6 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween SENSO" on Sat, 31 Oct 2026.
+Sensorium is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween SENSO" on Sat, 31 Oct 2026.
 
 Sensorium is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including ALICA RØUGH, Andeel, Bee Lincoln and Blachord and 2 more. See dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Sensorium is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, wit
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

@@ -1,6 +1,6 @@
 # bdstf
 
-bdstf is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Ferrailleur, Nantes on Thu, 31 Dec 2026.
+bdstf is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Ferrailleur, Nantes on Thu, 31 Dec 2026.
 
 bdstf is a club and experimental artist based in France, with 18 gigs on soundcheck across Berlin, Hamburg, London and Nantes and 2 more. Often billed alongside IRL, Laura Trance and Organ Tapes. Next up: Le Ferrailleur, Nantes on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ bdstf is a club and experimental artist based in France, with 18 gigs on soundch
 
 IRL (2), Laura Trance, Organ Tapes
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bdstf/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bdstf/)*

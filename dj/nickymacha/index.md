@@ -1,6 +1,6 @@
 # Nicky Macha
 
-Nicky Macha is a Electro and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Museo MACRO (Via Nizza 138), Rome on Sat, 31 Oct 2026.
+Nicky Macha is a Electro and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Museo MACRO (Via Nizza 138), Rome on Sat, 31 Oct 2026.
 
 Nicky Macha is an electro and house artist based in United Kingdom, with 50 gigs on soundcheck across Barcelona, Berlin, Bologna and Boston and 13 more. Often billed alongside Kensa, Gabbs and Philo (IT). Next up: TBA - Museo MACRO (Via Nizza 138), Rome on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Nicky Macha is an electro and house artist based in United Kingdom, with 50 gigs
 
 Kensa, Gabbs, Philo (IT)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickymacha/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickymacha/)*

@@ -1,6 +1,6 @@
 # DELARA
 
-DELARA is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Vespers Club, London on Sat, 31 Oct 2026.
+DELARA is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Vespers Club, London on Sat, 31 Oct 2026.
 
 DELARA is a techno and dub techno artist based in Spain, with 33 gigs on soundcheck across London. Often billed alongside TOOTHTAXI, Modlar and LIZAZA. Next up: Vespers Club, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ DELARA is a techno and dub techno artist based in Spain, with 33 gigs on soundch
 
 TOOTHTAXI, Modlar, LIZAZA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delara/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delara/)*

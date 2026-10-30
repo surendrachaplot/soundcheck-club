@@ -1,8 +1,8 @@
 # Mikouaj Rejw / Wixapol S.A.
 
-Mikouaj Rejw / Wixapol S.A. is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Transformator, Wroclaw on Fri, 30 Oct 2026.
+Mikouaj Rejw / Wixapol S.A. is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Transformator, Wroclaw on Fri, 30 Oct 2026.
 
-Mikouaj Rejw / Wixapol S.A. is a techno and hardcore artist based in Poland, with 36 gigs on soundcheck across Beijing, Berlin, Krakow and Poznan and 4 more. Often billed alongside TORRENTZ, Wixapol and PLATTER. Next up: Transformator, Wroclaw on Fri 30 Oct.
+Mikouaj Rejw / Wixapol S.A. is a techno and hardcore artist based in Poland, with 37 gigs on soundcheck across Beijing, Berlin, Krakow and Lodz and 5 more. Often billed alongside TORRENTZ, Wixapol and PLATTER. Next up: Transformator, Wroclaw on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mikouaj Rejw / Wixapol S.A. is a techno and hardcore artist based in Poland, wit
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Transformator | Wroclaw |
 | Sat, 31 Oct 2026 | Kaskada | Warsaw |
+| Fri, 6 Nov 2026 | Wejscie 3 | Lodz |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mikouaj Rejw / Wixapol S.A. is a techno and hardcore artist based in Poland, wit
 
 TORRENTZ, Wixapol, PLATTER
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikouajrejwwixapolsa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikouajrejwwixapolsa/)*

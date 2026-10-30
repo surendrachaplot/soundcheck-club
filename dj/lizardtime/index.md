@@ -1,6 +1,6 @@
 # Lizard Time
 
-Lizard Time is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ozmozis, Toronto on Fri, 6 Nov 2026.
+Lizard Time is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ozmozis, Toronto on Fri, 6 Nov 2026.
 
 Lizard Time is a house and tech house artist, with 15 gigs on soundcheck across Toronto. Often billed alongside AVRY, Andre Zimmer and Nicholas Nothing. Next up: Ozmozis, Toronto on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Lizard Time is a house and tech house artist, with 15 gigs on soundcheck across 
 
 AVRY, Andre Zimmer, Nicholas Nothing
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizardtime/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizardtime/)*

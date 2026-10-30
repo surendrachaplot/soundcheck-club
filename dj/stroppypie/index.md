@@ -1,6 +1,6 @@
 # Stroppy Pie
 
-Stroppy Pie is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 30 Oct 2026.
+Stroppy Pie is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 30 Oct 2026.
 
 Stroppy Pie is a house and minimal artist based in Poland, with 28 gigs on soundcheck across Krakow, Poznan, Prague and Warsaw and 1 more. Often billed alongside Helga, Brussi and Petar Tverkal. Next up: MONKEY LOVE, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Stroppy Pie is a house and minimal artist based in Poland, with 28 gigs on sound
 
 Helga, Brussi, Petar Tverkal
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stroppypie/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stroppypie/)*

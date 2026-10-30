@@ -1,6 +1,6 @@
 # Sainte-Catherine Hall
 
-Sainte-Catherine Hall is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BLOOD MOON 2026" on Fri, 30 Oct 2026.
+Sainte-Catherine Hall is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BLOOD MOON 2026" on Fri, 30 Oct 2026.
 
 Sainte-Catherine Hall is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with line-ups including Char.l.n, D.Blavatsky, DJ SEXSTASY and Hypho and 2 more. See dates, start times and who's playing. 917 Ste-Catherine Est, Montreal, QC, Canada, Quebec.
 
@@ -16,4 +16,4 @@ Sainte-Catherine Hall is a music venue in Montreal listed on soundcheck. 3 upcom
 
 917 Ste-Catherine Est, Montreal, QC, Canada, Quebec, Montreal
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sainte-catherine-hall/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sainte-catherine-hall/)*

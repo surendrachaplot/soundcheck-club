@@ -1,6 +1,6 @@
 # Nina Michelle
 
-Nina Michelle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Under Bron, Stockholm on Thu, 31 Dec 2026.
+Nina Michelle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Under Bron, Stockholm on Thu, 31 Dec 2026.
 
 Nina Michelle is a techno and house artist based in Sweden, with 35 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Malmo and 1 more. Often billed alongside MERILIN, Off The Meds and DJ KILLING. Next up: Under Bron, Stockholm on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Nina Michelle is a techno and house artist based in Sweden, with 35 gigs on soun
 
 MERILIN, Off The Meds, DJ KILLING
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninamichelle/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninamichelle/)*

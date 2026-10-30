@@ -1,6 +1,6 @@
 # Last Days of Pompeii
 
-Last Days of Pompeii is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Doghouse, Edinburgh on Sat, 31 Oct 2026.
+Last Days of Pompeii is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Doghouse, Edinburgh on Sat, 31 Oct 2026.
 
 Last Days of Pompeii is a disco and house artist, with 29 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Jedda, SSID and Toni McVey. Next up: The Doghouse, Edinburgh on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Last Days of Pompeii is a disco and house artist, with 29 gigs on soundcheck acr
 
 Jedda, SSID, Toni McVey
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lastdaysofpompeii/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lastdaysofpompeii/)*

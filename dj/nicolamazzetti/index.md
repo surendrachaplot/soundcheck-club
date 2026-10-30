@@ -1,6 +1,6 @@
 # Nicola Mazzetti
 
-Nicola Mazzetti is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar Studios Factory, Milan on Sat, 31 Oct 2026.
+Nicola Mazzetti is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar Studios Factory, Milan on Sat, 31 Oct 2026.
 
 Nicola Mazzetti is a house and techno artist based in Italy, with 82 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Marcello, Simone de Kunovich and Gabriele. Next up: Bar Studios Factory, Milan on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Nicola Mazzetti is a house and techno artist based in Italy, with 82 gigs on sou
 
 Marcello (2), Simone de Kunovich, Gabriele
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolamazzetti/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolamazzetti/)*

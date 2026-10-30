@@ -1,6 +1,6 @@
 # 80KIDZ
 
-80KIDZ is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at club asia, Tokyo on Sat, 21 Nov 2026.
+80KIDZ is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at club asia, Tokyo on Sat, 21 Nov 2026.
 
 80KIDZ is a techno and electro artist, with 13 gigs on soundcheck across Tokyo. Often billed alongside Guchon, Terax and Yohji Igarashi. Next up: club asia, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@
 
 Guchon, Terax, Yohji Igarashi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/80kidz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/80kidz/)*

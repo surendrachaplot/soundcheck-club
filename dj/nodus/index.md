@@ -1,6 +1,6 @@
 # NODUS
 
-NODUS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 6 Nov 2026.
+NODUS is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 6 Nov 2026.
 
 NODUS is a tech house and house artist, with 46 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Ibiza and 4 more. Often billed alongside Lola Rossa, Lady Deep and Juliet Sikora. Next up: Klein Phönix, Istanbul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ NODUS is a tech house and house artist, with 46 gigs on soundcheck across Amster
 
 Lola Rossa, Lady Deep, Juliet Sikora
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nodus/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nodus/)*

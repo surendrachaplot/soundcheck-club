@@ -1,6 +1,6 @@
 # Mikio Kaminakamura
 
-Mikio Kaminakamura is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Koara, Tokyo on Thu, 26 Nov 2026.
+Mikio Kaminakamura is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Koara, Tokyo on Thu, 26 Nov 2026.
 
 Mikio Kaminakamura is a house and techno artist based in Japan, with 21 gigs on soundcheck across Tokyo. Often billed alongside TAT2K, Sakai and Taro. Next up: Koara, Tokyo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Mikio Kaminakamura is a house and techno artist based in Japan, with 21 gigs on 
 
 TAT2K, Sakai, Taro
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikiokaminakamura-jp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikiokaminakamura-jp/)*

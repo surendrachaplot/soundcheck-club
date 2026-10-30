@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Schlachthaus With Toobris" on Fri, 30 Oct 2026.
+FLUCC is a music venue in Vienna with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Schlachthaus With Toobris" on Fri, 30 Oct 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 12 upcoming gigs, with line-ups including Aleta, Amar Priganica, Artifex (DE) and Aura and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -23,4 +23,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 12 upcoming gigs, with li
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

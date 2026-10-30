@@ -1,6 +1,6 @@
 # Maltesar
 
-Maltesar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
+Maltesar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
 
 Maltesar is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside LANA:YEN, Marc Eisenberg and Einfach Taffo. Next up: PKH Warehouse, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Maltesar is a techno and house artist based in Germany, with 13 gigs on soundche
 
 LANA:YEN, Marc Eisenberg, Einfach Taffo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maltesar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maltesar/)*

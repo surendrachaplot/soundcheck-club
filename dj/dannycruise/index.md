@@ -1,6 +1,6 @@
 # Danny Cruise
 
-Danny Cruise is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 31 Oct 2026.
+Danny Cruise is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 31 Oct 2026.
 
 Danny Cruise is a house and electro artist based in United Kingdom, with 9 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside Bod Min, Sam Pratt and Simon Scott. Next up: The Doghouse bar & Record Store, Leeds on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Danny Cruise is a house and electro artist based in United Kingdom, with 9 gigs 
 
 Bod Min, Sam Pratt, Simon Scott
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannycruise/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannycruise/)*

@@ -1,6 +1,6 @@
 # BP (1)
 
-BP (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eat Your Greens, Leeds on Sat, 31 Oct 2026.
+BP (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Eat Your Greens, Leeds on Sat, 31 Oct 2026.
 
 BP is a house and techno artist, with 27 gigs on soundcheck across Glasgow, Leeds, London and Manchester. Often billed alongside Joe Reece, Jordan Walker and Roya Brehl. Next up: Eat Your Greens, Leeds on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ BP is a house and techno artist, with 27 gigs on soundcheck across Glasgow, Leed
 
 Joe Reece, Jordan Walker, Roya Brehl
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bp-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bp-1/)*

@@ -1,6 +1,6 @@
 # FUNKA04
 
-FUNKA04 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Romantica, Stuttgart on Fri, 30 Oct 2026.
+FUNKA04 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Romantica, Stuttgart on Fri, 30 Oct 2026.
 
 FUNKA04 is a techno and house artist, with 25 gigs on soundcheck across Amsterdam, Berlin, Dresden and Frankfurt and 8 more. Often billed alongside Skotsch, Dj Kero B and solar2k. Next up: Romantica, Stuttgart on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ FUNKA04 is a techno and house artist, with 25 gigs on soundcheck across Amsterda
 
 Skotsch, Dj Kero B, solar2k
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*

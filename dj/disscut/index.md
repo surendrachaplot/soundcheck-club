@@ -1,6 +1,6 @@
 # Disscut
 
-Disscut is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Musa Kulturzentrum, Lower-saxony on Sat, 31 Oct 2026.
+Disscut is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Musa Kulturzentrum, Lower-saxony on Sat, 31 Oct 2026.
 
 Disscut is a techno artist, with 4 gigs on soundcheck across Hamburg, Hannover, Kassel and Lower Saxony. Often billed alongside Trimzz, ANDATA and Anahit Vardanyan. Next up: Musa Kulturzentrum, Lower Saxony on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Disscut is a techno artist, with 4 gigs on soundcheck across Hamburg, Hannover, 
 
 Trimzz, ANDATA, Anahit Vardanyan
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disscut/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disscut/)*

@@ -1,6 +1,6 @@
 # Moon Warsaw
 
-Moon Warsaw is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "MOON HALLOWEEN: SUPERHEROES" on Sat, 31 Oct 2026.
+Moon Warsaw is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "MOON HALLOWEEN: SUPERHEROES" on Sat, 31 Oct 2026.
 
 Moon Warsaw is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with line-ups including Aftersunday, Jimi Jules, Konca and Marten Lou and 2 more. See dates, start times and who's playing. Wioślarska 6, 00-411 Warszawa.
 
@@ -18,4 +18,4 @@ Moon Warsaw is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, wi
 
 Wioślarska 6, 00-411 Warszawa, Warsaw
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/moon-warsaw/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/moon-warsaw/)*

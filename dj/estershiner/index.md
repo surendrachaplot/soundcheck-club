@@ -1,6 +1,6 @@
 # Ester Shiner
 
-Ester Shiner is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Jama, Toronto on Fri, 20 Nov 2026.
+Ester Shiner is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Jama, Toronto on Fri, 20 Nov 2026.
 
 Ester Shiner is a techno and experimental artist based in Canada, with 20 gigs on soundcheck across Montreal and Toronto. Often billed alongside Chumbo, Emissive and Hemlock (CA). Next up: The Jama, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ester Shiner is a techno and experimental artist based in Canada, with 20 gigs o
 
 Chumbo, Emissive, Hemlock (CA)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estershiner/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estershiner/)*

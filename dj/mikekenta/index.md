@@ -1,6 +1,6 @@
 # Mike Kenta
 
-Mike Kenta is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pawnshop, Taipei on Fri, 30 Oct 2026.
+Mike Kenta is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Pawnshop, Taipei on Fri, 30 Oct 2026.
 
 Mike Kenta is a club and techno artist, with 18 gigs on soundcheck across Bangkok and Taipei. Often billed alongside KC Poe, L-CC and F.G.D.. Next up: Pawnshop, Taipei on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Mike Kenta is a club and techno artist, with 18 gigs on soundcheck across Bangko
 
 KC Poe, L-CC, F.G.D.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekenta/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekenta/)*

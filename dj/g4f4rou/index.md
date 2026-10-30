@@ -1,6 +1,6 @@
 # G4F4RØU
 
-G4F4RØU is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Rauxxxxs, Berlin on Sat, 14 Nov 2026.
+G4F4RØU is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Rauxxxxs, Berlin on Sat, 14 Nov 2026.
 
 G4F4RØU is a trance and techno artist based in Germany, with 12 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Zelyna je Belle, San Regret and Baerbel. Next up: TBA - Rauxxxxs, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ G4F4RØU is a trance and techno artist based in Germany, with 12 gigs on soundch
 
 Zelyna je Belle, San Regret, Baerbel
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g4f4rou/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g4f4rou/)*

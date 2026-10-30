@@ -1,6 +1,6 @@
 # WKL
 
-WKL is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 30 Oct 2026.
+WKL is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 30 Oct 2026.
 
 WKL is a techno and acid artist based in Poland, with 10 gigs on soundcheck across Warsaw. Often billed alongside Buchan, Edvvin and MATRIX3K. Next up: K-Bar Powiśle, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ WKL is a techno and acid artist based in Poland, with 10 gigs on soundcheck acro
 
 Buchan, Edvvin, MATRIX3K
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wkl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wkl/)*

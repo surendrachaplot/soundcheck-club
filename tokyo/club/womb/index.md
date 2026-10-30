@@ -1,6 +1,6 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Reprise (TECHNO)" on Fri, 30 Oct 2026.
+WOMB is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Reprise (TECHNO)" on Fri, 30 Oct 2026.
 
 WOMB is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including Addiy, AIBA, Akie and Akua and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
@@ -23,4 +23,4 @@ WOMB is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

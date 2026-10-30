@@ -1,6 +1,6 @@
 # Deano
 
-Deano is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mødular., Cape Town on Sat, 31 Oct 2026.
+Deano is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mødular., Cape Town on Sat, 31 Oct 2026.
 
 Deano is a techno and house artist based in South Africa, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside JED (ZA), Faretrade and DVS1. Next up: Mødular., Cape Town on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Deano is a techno and house artist based in South Africa, with 42 gigs on soundc
 
 JED (ZA), Faretrade, DVS1
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*

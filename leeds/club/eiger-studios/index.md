@@ -1,6 +1,6 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "OnTime Records Pres: Rob Pearson" on Fri, 30 Oct 2026.
+Eiger Studios is a music venue in Leeds with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "OnTime Records Pres: Rob Pearson" on Fri, 30 Oct 2026.
 
 Eiger Studios is a music venue in Leeds listed on soundcheck. 14 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, Bobby. and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
@@ -10,7 +10,7 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 14 upcoming gigs, 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | OnTime Records Pres: Rob Pearson | PAS, Rob Pearson, TriForm |
 | Sat, 31 Oct 2026 | Shy Bairns X Club Eiger | Oliver Kristian, PIP., Redshift (2), Torin Grady, Weston |
-| Fri, 6 Nov 2026 | Twister x Peppermint | Jordan Walker, Richard Gregory, Simon Scott |
+| Fri, 6 Nov 2026 | Twister x Peppermint w/ Club Cosmos | Elliot Holt, Jordan Walker, Richard Gregory, Simon Scott |
 | Sat, 7 Nov 2026 | ROGUE PUPPET presents: Decka | Decka, Kessie, nilehn, quarter ohm |
 | Thu, 12 Nov 2026 | Limousine Dream: Secrets Launch Party [Gene On Earth + Wallace] | Gene On Earth, Wallace |
 | Fri, 13 Nov 2026 | keep going presents: švedka w / mentz krueger, shizIa + durgy | Shizla, švedka |
@@ -23,4 +23,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 14 upcoming gigs, 
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

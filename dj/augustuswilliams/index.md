@@ -1,6 +1,6 @@
 # Augustus Williams
 
-Augustus Williams is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Spkrbox, Detroit on Fri, 30 Oct 2026.
+Augustus Williams is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Spkrbox, Detroit on Fri, 30 Oct 2026.
 
 Augustus Williams is a techno and electro artist based in United States of America, with 52 gigs on soundcheck across Austin, Berlin, Chicago and Detroit and 1 more. Often billed alongside DJ I.V., DJ Seoul and Dru Ruiz. Next up: Spkrbox, Detroit on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Augustus Williams is a techno and electro artist based in United States of Ameri
 
 DJ I.V., DJ Seoul, Dru Ruiz
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustuswilliams/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/augustuswilliams/)*

@@ -1,6 +1,6 @@
 # Astrid Gnosis
 
-Astrid Gnosis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OST, Berlin on Sat, 7 Nov 2026.
+Astrid Gnosis is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at OST, Berlin on Sat, 7 Nov 2026.
 
 Astrid Gnosis is a techno and trance artist, with 13 gigs on soundcheck across Berlin, London and Vienna. Often billed alongside Becky Stroke, CLTX and Charlie Sparks. Next up: OST, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Astrid Gnosis is a techno and trance artist, with 13 gigs on soundcheck across B
 
 Becky Stroke, CLTX, Charlie Sparks
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astridgnosis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astridgnosis/)*

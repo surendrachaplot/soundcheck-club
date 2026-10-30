@@ -1,6 +1,6 @@
 # Benny Bysouth
 
-Benny Bysouth is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Eiger Studios, Leeds on Sat, 21 Nov 2026.
+Benny Bysouth is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Eiger Studios, Leeds on Sat, 21 Nov 2026.
 
 Benny Bysouth is a techno and house artist based in United Kingdom, with 9 gigs on soundcheck across Leeds, London and Nottingham. Often billed alongside Cam Harrop, Redshift and A.Wild. Next up: Eiger Studios, Leeds on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Benny Bysouth is a techno and house artist based in United Kingdom, with 9 gigs 
 
 Cam Harrop, Redshift (2), A.Wild
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybysouth/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybysouth/)*

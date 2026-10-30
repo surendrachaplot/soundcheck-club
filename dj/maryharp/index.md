@@ -1,6 +1,6 @@
 # Mary Harp
 
-Mary Harp is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Baggen, Copenhagen on Sat, 31 Oct 2026.
+Mary Harp is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Baggen, Copenhagen on Sat, 31 Oct 2026.
 
 Mary Harp is a house and garage artist based in Denmark, with 23 gigs on soundcheck across Copenhagen. Often billed alongside CAYOOTEE, parashoot and DJ Lukey. Next up: Baggen, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mary Harp is a house and garage artist based in Denmark, with 23 gigs on soundch
 
 CAYOOTEE, parashoot, DJ Lukey
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryharp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryharp/)*

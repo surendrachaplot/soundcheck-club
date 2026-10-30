@@ -1,6 +1,6 @@
 # NIX Barcelona
 
-NIX Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "OFF & FRATELLO pres Calussa [HALLOWEEN] at Nix" on Fri, 30 Oct 2026.
+NIX Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "OFF & FRATELLO pres Calussa [HALLOWEEN] at Nix" on Fri, 30 Oct 2026.
 
 NIX Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Amal Nemer, Calussa, Dani Corberó and DIROS and 2 more. See dates, start times and who's playing. Diputacion 92, Barcelona.
 
@@ -18,4 +18,4 @@ NIX Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming gig
 
 Diputacion 92, Barcelona, Barcelona
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nix-barcelona/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nix-barcelona/)*

@@ -1,6 +1,6 @@
 # COCO BOPS
 
-COCO BOPS is a Baile Funk and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hope House, Leeds on Sat, 7 Nov 2026.
+COCO BOPS is a Baile Funk and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hope House, Leeds on Sat, 7 Nov 2026.
 
 COCO BOPS is a baile funk and uk funky artist based in United Kingdom, with 30 gigs on soundcheck across Leeds and London. Often billed alongside Mami Chula, NikNak and harpriya. Next up: Hope House, Leeds on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ COCO BOPS is a baile funk and uk funky artist based in United Kingdom, with 30 g
 
 Mami Chula, NikNak, harpriya
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobops/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobops/)*

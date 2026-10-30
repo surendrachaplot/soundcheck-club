@@ -1,6 +1,6 @@
 # Nile Ashton
 
-Nile Ashton is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Boombox, Miami on Sat, 7 Nov 2026.
+Nile Ashton is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Boombox, Miami on Sat, 7 Nov 2026.
 
 Nile Ashton is a house and techno artist, with 65 gigs on soundcheck across Austin, Miami, New Orleans and New York City and 2 more. Often billed alongside lady lavender, secret handshake and Paul O'Neill. Next up: The Boombox, Miami on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nile Ashton is a house and techno artist, with 65 gigs on soundcheck across Aust
 
 lady lavender, secret handshake, Paul O'Neill
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nileashton/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nileashton/)*

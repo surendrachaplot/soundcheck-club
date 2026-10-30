@@ -1,6 +1,6 @@
 # The Artisan
 
-The Artisan is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 工gong, Chengdu on Fri, 30 Oct 2026.
+The Artisan is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at 工gong, Chengdu on Fri, 30 Oct 2026.
 
 The Artisan is a techno and electronica artist based in Netherlands, with 3 gigs on soundcheck across Chengdu. Often billed alongside PINKBOIALWAYSCRY, Come to mama and LOIF. Next up: 工gong, Chengdu on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ The Artisan is a techno and electronica artist based in Netherlands, with 3 gigs
 
 PINKBOIALWAYSCRY, Come to mama, LOIF
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theartisan/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theartisan/)*

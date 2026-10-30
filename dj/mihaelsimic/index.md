@@ -1,6 +1,6 @@
 # Mihael Simic
 
-Mihael Simic is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Amboss Rampe, Zurich on Sat, 7 Nov 2026.
+Mihael Simic is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Amboss Rampe, Zurich on Sat, 7 Nov 2026.
 
 Mihael Simic is a minimal and house artist, with 23 gigs on soundcheck across Belgrade, Istanbul and Zurich. Often billed alongside Pedram, Tajara and Benosah. Next up: Amboss Rampe, Zurich on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mihael Simic is a minimal and house artist, with 23 gigs on soundcheck across Be
 
 Pedram, Tajara, Benosah
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaelsimic/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaelsimic/)*

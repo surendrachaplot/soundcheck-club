@@ -1,6 +1,6 @@
 # eylau
 
-eylau is a Latin Bass and Gqom artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at underiolo, Warsaw on Sat, 14 Nov 2026.
+eylau is a Latin Bass and Gqom artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at underiolo, Warsaw on Sat, 14 Nov 2026.
 
 eylau is a latin bass and gqom artist based in Poland, with 39 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside KarateKnur, Fourth World Music and Cosaco. Next up: underiolo, Warsaw on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ eylau is a latin bass and gqom artist based in Poland, with 39 gigs on soundchec
 
 KarateKnur, Fourth World Music, Cosaco
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eylau/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eylau/)*

@@ -1,6 +1,6 @@
 # Nikiija
 
-Nikiija is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Fri, 30 Oct 2026.
+Nikiija is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Fri, 30 Oct 2026.
 
 Nikiija is a techno and house artist, with 57 gigs on soundcheck across Hamburg and Prague. Often billed alongside Randali, NO.MADS and VABU. Next up: Fabrique im Gängeviertel, Hamburg on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Nikiija is a techno and house artist, with 57 gigs on soundcheck across Hamburg 
 
 Randali, NO.MADS, VABU
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiija/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiija/)*

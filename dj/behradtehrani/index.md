@@ -1,6 +1,6 @@
 # Behrad Tehrani
 
-Behrad Tehrani is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - 1801 Powell St, Vancouver on Fri, 30 Oct 2026.
+Behrad Tehrani is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - 1801 Powell St, Vancouver on Fri, 30 Oct 2026.
 
 Behrad Tehrani is a techno and house artist based in Iran, with 79 gigs on soundcheck across Calgary, Montreal, Toronto and Vancouver. Often billed alongside POPU, DK PAU and C-Star. Next up: TBA - 1801 Powell St, Vancouver on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Behrad Tehrani is a techno and house artist based in Iran, with 79 gigs on sound
 
 POPU, DK PAU, C-Star
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/behradtehrani/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/behradtehrani/)*

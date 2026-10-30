@@ -1,6 +1,6 @@
 # Reeno Reluv
 
-Reeno Reluv is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paloma, Berlin on Sat, 14 Nov 2026.
+Reeno Reluv is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paloma, Berlin on Sat, 14 Nov 2026.
 
 Reeno Reluv is a house and disco artist based in Austria, with 27 gigs on soundcheck across Berlin and Vienna. Often billed alongside JP Bechamel, Altroy Jerome and Miyra Lim. Next up: Paloma, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Reeno Reluv is a house and disco artist based in Austria, with 27 gigs on soundc
 
 JP Bechamel, Altroy Jerome, Miyra Lim
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenoreluv/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenoreluv/)*

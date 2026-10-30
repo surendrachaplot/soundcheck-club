@@ -1,6 +1,6 @@
 # Bears In Space
 
-Bears In Space is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Los Angeles on Fri, 30 Oct 2026.
+Bears In Space is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Los Angeles on Fri, 30 Oct 2026.
 
 Bears In Space is a disco and house artist based in United States of America, with 48 gigs on soundcheck across London, Los Angeles, Mexico City and New York City and 4 more. Often billed alongside Perfect Lovers, Stacy Christine and Victor Rodriguez. Next up: TBA, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bears In Space is a disco and house artist based in United States of America, wi
 
 Perfect Lovers, Stacy Christine, Victor Rodriguez
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bearsinspace/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bearsinspace/)*

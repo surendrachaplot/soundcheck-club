@@ -1,6 +1,6 @@
 # Yemz
 
-Yemz is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Jumbi, London on Sat, 31 Oct 2026.
+Yemz is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jumbi, London on Sat, 31 Oct 2026.
 
 Yemz is a garage and bass artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Dr Dubplate, Bakey and A For Alpha. Next up: Jumbi, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Yemz is a garage and bass artist based in United Kingdom, with 96 gigs on soundc
 
 Dr Dubplate, Bakey, A For Alpha
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yemz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yemz/)*

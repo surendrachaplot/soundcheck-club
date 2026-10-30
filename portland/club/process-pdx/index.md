@@ -1,6 +1,6 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Process Halloween" on Fri, 30 Oct 2026.
+Process PDX is a music venue in Portland with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Process Halloween" on Fri, 30 Oct 2026.
 
 Process PDX is a music venue in Portland listed on soundcheck. 9 upcoming gigs, with line-ups including Amtrac, Andy Warren, Carly Barton and Derek Plaslaiko and 2 more. See dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
@@ -22,4 +22,4 @@ Process PDX is a music venue in Portland listed on soundcheck. 9 upcoming gigs, 
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

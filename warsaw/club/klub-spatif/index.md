@@ -1,6 +1,6 @@
 # Klub SPATiF
 
-Klub SPATiF is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "PIEKARNIA W SPATIFIE | Glasse x Eli x Last Robots" on Fri, 30 Oct 2026.
+Klub SPATiF is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "PIEKARNIA W SPATIFIE | Glasse x Eli x Last Robots" on Fri, 30 Oct 2026.
 
 Klub SPATiF is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including Glasse and Last Robots. See dates, start times and who's playing. Al. Ujazdowskie 45, 00-536 Warszawa.
 
@@ -15,4 +15,4 @@ Klub SPATiF is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, wi
 
 Al. Ujazdowskie 45, 00-536 Warszawa, Warsaw
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-spatif/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-spatif/)*

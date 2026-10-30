@@ -1,6 +1,6 @@
 # Piccadilly Central
 
-Piccadilly Central is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "CFN X CROP: Spooky Disco" on Fri, 30 Oct 2026.
+Piccadilly Central is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "CFN X CROP: Spooky Disco" on Fri, 30 Oct 2026.
 
 Piccadilly Central is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Milo, Alex Moore, April (UK) and BAY-BUSH-KA and 2 more. See dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
 
@@ -18,4 +18,4 @@ Piccadilly Central is a music venue in Manchester listed on soundcheck. 5 upcomi
 
 38 London Road, Manchester, M1 2PF, Manchester
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*

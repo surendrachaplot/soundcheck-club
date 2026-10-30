@@ -1,6 +1,6 @@
 # cstr
 
-cstr is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Midway, San Francisco/Oakland on Sat, 14 Nov 2026.
+cstr is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Midway, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 cstr is a techno and garage artist based in United States of America, with 23 gigs on soundcheck across Nottingham and San Francisco/Oakland. Often billed alongside Karl Havok, Saffaire and Jobert Rowney Dunior. Next up: The Midway, San Francisco/Oakland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ cstr is a techno and garage artist based in United States of America, with 23 gi
 
 Karl Havok, Saffaire, Jobert Rowney Dunior
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cstr/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cstr/)*

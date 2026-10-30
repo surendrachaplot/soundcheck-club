@@ -1,6 +1,6 @@
 # Poppi
 
-Poppi is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+Poppi is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 Poppi is a disco and house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Berlin, Bristol and Ibiza and 1 more. Often billed alongside Bustin' Loose, Crystal Touch and Old as Funk. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Poppi is a disco and house artist based in United Kingdom, with 36 gigs on sound
 
 Bustin' Loose, Crystal Touch, Old as Funk
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poppi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poppi/)*

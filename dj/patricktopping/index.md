@@ -1,6 +1,6 @@
 # Patrick Topping
 
-Patrick Topping is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Refuge, New York City on Wed, 30 Dec 2026.
+Patrick Topping is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Refuge, New York City on Wed, 30 Dec 2026.
 
 Patrick Topping is a house and tech house artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 47 more. Often billed alongside Eric Prydz, Adam Beyer and Dom Dolla. Next up: Refuge, New York City on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ Patrick Topping is a house and tech house artist based in United Kingdom, with 1
 
 Eric Prydz, Adam Beyer, Dom Dolla
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*

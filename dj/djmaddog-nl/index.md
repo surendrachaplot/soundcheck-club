@@ -1,6 +1,6 @@
 # DJ Mad Dog
 
-DJ Mad Dog is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
+DJ Mad Dog is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
 
 DJ Mad Dog is a techno and hardcore artist based in Italy, with 23 gigs on soundcheck across Antwerp, Barcelona, Berlin and Budapest and 14 more. Often billed alongside AnD, Ghost in the Machine and Kamafaka. Next up: Maimarkthalle, Mannheim on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ DJ Mad Dog is a techno and hardcore artist based in Italy, with 23 gigs on sound
 
 AnD, Ghost in the Machine, Kamafaka
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog-nl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog-nl/)*

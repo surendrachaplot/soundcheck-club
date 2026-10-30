@@ -1,6 +1,6 @@
 # Desert Hearts
 
-Desert Hearts is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 4 Nov 2026.
+Desert Hearts is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 4 Nov 2026.
 
 Desert Hearts is a house and tech house artist based in United States of America, with 50 gigs on soundcheck across Austin, Berlin, Boston and Denver and 7 more. Often billed alongside SCOTT K., Scott Tillett and Lee Reynolds. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Desert Hearts is a house and tech house artist based in United States of America
 
 SCOTT K., Scott Tillett, Lee Reynolds
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deserthearts/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deserthearts/)*

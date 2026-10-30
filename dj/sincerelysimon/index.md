@@ -1,6 +1,6 @@
 # Sincerely Simon
 
-Sincerely Simon is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hoxton Cabin, London on Sat, 21 Nov 2026.
+Sincerely Simon is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hoxton Cabin, London on Sat, 21 Nov 2026.
 
 Sincerely Simon is a house and minimal artist based in New Zealand, with 12 gigs on soundcheck across London. Often billed alongside Corners, bvtlr and Retza. Next up: Hoxton Cabin, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sincerely Simon is a house and minimal artist based in New Zealand, with 12 gigs
 
 Corners, bvtlr, Retza
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sincerelysimon/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sincerelysimon/)*

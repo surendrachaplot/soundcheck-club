@@ -1,6 +1,6 @@
 # Reverse Rotterdam
 
-Reverse Rotterdam is a music venue in Rotterdam with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HALLOWEEN В РОТТЕРДАМЕ ОТ IMPREZA" on Sat, 31 Oct 2026.
+Reverse Rotterdam is a music venue in Rotterdam with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HALLOWEEN В РОТТЕРДАМЕ ОТ IMPREZA" on Sat, 31 Oct 2026.
 
 Reverse Rotterdam is a music venue in Rotterdam listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Schiestraat 40 , 3013 AG Rotterdam.
 
@@ -16,4 +16,4 @@ Reverse Rotterdam is a music venue in Rotterdam listed on soundcheck. 3 upcoming
 
 Schiestraat 40 , 3013 AG Rotterdam, Rotterdam
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/reverse-rotterdam/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/reverse-rotterdam/)*

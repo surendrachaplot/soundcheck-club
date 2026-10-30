@@ -1,6 +1,6 @@
 # CGM - Club Giovanile Milano
 
-CGM - Club Giovanile Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Manifesto Halloween CGM - Darkdisco - EBM - electro" on Sat, 31 Oct 2026.
+CGM - Club Giovanile Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Manifesto Halloween CGM - Darkdisco - EBM - electro" on Sat, 31 Oct 2026.
 
 CGM - Club Giovanile Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including CRHERZ, frieda (IT), Sarv and Vicky Montefusco. See dates, start times and who's playing. Via Antonio Raimondi, 15, 20156 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ CGM - Club Giovanile Milano is a music venue in Milan listed on soundcheck. 2 up
 
 Via Antonio Raimondi, 15, 20156 Milano MI, Italy, Milan
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cgm-club-giovanile-milano/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cgm-club-giovanile-milano/)*

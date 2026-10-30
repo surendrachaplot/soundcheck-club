@@ -1,6 +1,6 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
+Phase Fatale is a Techno and EBM artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
 
 Phase Fatale is a techno and ebm artist based in United States of America, with 237 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 75 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: TBA - Brooklyn, New York City on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 
 Pablo Bozzi, Unhuman, Soft Crash
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*

@@ -1,6 +1,6 @@
 # Sappho.XD
 
-Sappho.XD is a Drum & Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lithuanian House, Toronto on Fri, 30 Oct 2026.
+Sappho.XD is a Drum & Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lithuanian House, Toronto on Fri, 30 Oct 2026.
 
 Sappho.XD is a drum & bass and electro artist based in Sri Lanka, with 33 gigs on soundcheck across Toronto. Often billed alongside Ms. GothicFish, GRRLCRRSH and Hycastle. Next up: Lithuanian House, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sappho.XD is a drum & bass and electro artist based in Sri Lanka, with 33 gigs o
 
 Ms. GothicFish, GRRLCRRSH, Hycastle
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sappho.xd/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sappho.xd/)*

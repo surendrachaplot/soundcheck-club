@@ -1,6 +1,6 @@
 # Tiny T-Bone
 
-Tiny T-Bone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri, 13 Nov 2026.
+Tiny T-Bone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri, 13 Nov 2026.
 
 Tiny T-Bone is a house and techno artist based in United States of America, with 34 gigs on soundcheck across New York City. Often billed alongside Raw Unkut, Solofan and x3butterfly. Next up: TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tiny T-Bone is a house and techno artist based in United States of America, with
 
 Raw Unkut, Solofan, x3butterfly
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinyt-bone/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinyt-bone/)*

@@ -1,6 +1,6 @@
 # SPARKZ
 
-SPARKZ is a Breakbeat and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at B side Athens, Athens on Sat, 31 Oct 2026.
+SPARKZ is a Breakbeat and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at B side Athens, Athens on Sat, 31 Oct 2026.
 
 SPARKZ is a breakbeat and electro artist based in Greece, with 2 gigs on soundcheck across Athens. Often billed alongside Jivo, Piece of Kate and Sofia Stergiou. Next up: B side Athens, Athens on Sat 31 Oct.
 
@@ -15,4 +15,4 @@ SPARKZ is a breakbeat and electro artist based in Greece, with 2 gigs on soundch
 
 Jivo, Piece of Kate, Sofia Stergiou
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparkz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparkz/)*

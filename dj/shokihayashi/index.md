@@ -1,6 +1,6 @@
 # Shoki Hayashi
 
-Shoki Hayashi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Upsidedown, Osaka on Sat, 31 Oct 2026.
+Shoki Hayashi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Upsidedown, Osaka on Sat, 31 Oct 2026.
 
 Shoki Hayashi is a techno and house artist, with 6 gigs on soundcheck across Osaka, Taipei and Tokyo. Often billed alongside 3.14, Astma and Goth-Trad. Next up: Upsidedown, Osaka on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Shoki Hayashi is a techno and house artist, with 6 gigs on soundcheck across Osa
 
 3.14, Astma, Goth-Trad
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shokihayashi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shokihayashi/)*

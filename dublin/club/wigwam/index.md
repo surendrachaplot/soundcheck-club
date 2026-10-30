@@ -1,14 +1,13 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 18 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DCUDJ present: Hauntover" on Thu, 29 Oct 2026.
+Wigwam is a music venue in Dublin with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hybrid Events presents: Marcal & JKS" on Fri, 30 Oct 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 18 upcoming gigs, with line-ups including Angel D'lite, Cailín, CULT and DIEBYVEG and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 17 upcoming gigs, with line-ups including Angel D'lite, Cailín, CULT and DIEBYVEG and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | DCUDJ present: Hauntover |  |
 | Fri, 30 Oct 2026 | Hybrid Events presents: Marcal & JKS | JKS, Marcal |
 | Sat, 31 Oct 2026 | Wigwam x HONEYPOT present: Halloween with Angel D'lite | Angel D'lite |
 | Sat, 31 Oct 2026 | INSTINCT x KIKI CULT presents: UFO HALLOWEEN DAY PARTY [Unidentified Feminine Object] | Human Resources (IE), Jenn Hession |
@@ -18,9 +17,10 @@ Wigwam is a music venue in Dublin listed on soundcheck. 18 upcoming gigs, with l
 | Fri, 13 Nov 2026 | Estella Boersma at RAW | Estella Boersma, NILAAA, Phil Bass |
 | Sat, 14 Nov 2026 | Wigwam x Mystify: KHIDI Showcase with Pablo Bozzi | Dual Pistols, F.HOLLOW, Pablo Bozzi, Sémaé, Wotton |
 | Fri, 20 Nov 2026 | Resonate x Subject: Rebekah & Cailín (ANL) | Cailín, Rebekah |
+| Sat, 21 Nov 2026 | LOSTBOYJAY Story* | LOSTBOYJAY |
 
 ## Address
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

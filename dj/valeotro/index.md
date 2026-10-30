@@ -1,6 +1,6 @@
 # valeotro
 
-valeotro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Drama Radio Bar, Mexico City on Wed, 28 Oct 2026.
+valeotro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Drama Radio Bar, Mexico City on Wed, 28 Oct 2026.
 
 valeotro is a house and techno artist, with 13 gigs on soundcheck across Mexico City, Rio de Janeiro and Santiago. Often billed alongside Saulo, Javierss and Alejandro Paz. Next up: Drama Radio Bar, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ valeotro is a house and techno artist, with 13 gigs on soundcheck across Mexico 
 
 Saulo, Javierss, Alejandro Paz
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeotro/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeotro/)*

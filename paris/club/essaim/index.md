@@ -1,6 +1,6 @@
 # essaim
 
-essaim is a music venue in Paris with 22 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "tribalism anniversaire essaim YEAR002 - Altinbas b2b Ndrx, Rachel Noon, ZEL" on Fri, 30 Oct 2026.
+essaim is a music venue in Paris with 22 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "tribalism anniversaire essaim YEAR002 - Altinbas b2b Ndrx, Rachel Noon, ZEL" on Fri, 30 Oct 2026.
 
 essaim is a music venue in Paris listed on soundcheck. 22 upcoming gigs, with line-ups including Justine Perry, A.Litique, abs8lute and Aleqs Notal and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -23,4 +23,4 @@ essaim is a music venue in Paris listed on soundcheck. 22 upcoming gigs, with li
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

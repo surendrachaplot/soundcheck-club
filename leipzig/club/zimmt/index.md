@@ -1,6 +1,6 @@
 # ZiMMT
 
-ZiMMT is a music venue in Leipzig with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "SWIM N°5 — Uncertain Velocity x ZiMMT" on Sat, 31 Oct 2026.
+ZiMMT is a music venue in Leipzig with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "SWIM N°5 — Uncertain Velocity x ZiMMT" on Sat, 31 Oct 2026.
 
 ZiMMT is a music venue in Leipzig listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
 
@@ -15,4 +15,4 @@ ZiMMT is a music venue in Leipzig listed on soundcheck. 2 upcoming gigs. See dat
 
 Torgauer Str. 80, 04318 Leipzig, Germany, Leipzig
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*

@@ -1,6 +1,6 @@
 # Rui Tang
 
-Rui Tang is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tong LAU Shophouse (江上唐楼), Chongqing on Fri, 30 Oct 2026.
+Rui Tang is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tong LAU Shophouse (江上唐楼), Chongqing on Fri, 30 Oct 2026.
 
 Rui Tang is a techno and house artist, with 40 gigs on soundcheck across Bangkok, Beijing, Budapest and Chengdu and 6 more. Often billed alongside Knopha, 3ASiC and ALPHA (NL). Next up: Tong LAU Shophouse (江上唐楼), Chongqing on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rui Tang is a techno and house artist, with 40 gigs on soundcheck across Bangkok
 
 Knopha, 3ASiC, ALPHA (NL)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitang/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitang/)*

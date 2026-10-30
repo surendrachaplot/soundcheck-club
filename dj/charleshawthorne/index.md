@@ -1,6 +1,6 @@
 # Charles Hawthorne
 
-Charles Hawthorne is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 30 Oct 2026.
+Charles Hawthorne is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Charles Hawthorne is a house and disco artist based in United States of America, with 46 gigs on soundcheck across New York City, San Francisco/Oakland and Seattle. Often billed alongside nina sol, ALICE STRIBLING and David Harness. Next up: Underground SF, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Charles Hawthorne is a house and disco artist based in United States of America,
 
 nina sol, ALICE STRIBLING, David Harness
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charleshawthorne/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charleshawthorne/)*

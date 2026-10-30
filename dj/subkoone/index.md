@@ -1,6 +1,6 @@
 # SubkoØne
 
-SubkoØne is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at elipamanoke, Leipzig on Tue, 17 Nov 2026.
+SubkoØne is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at elipamanoke, Leipzig on Tue, 17 Nov 2026.
 
 SubkoØne is a techno and trance artist, with 28 gigs on soundcheck across Berlin, Dresden, Erfurt and Leipzig. Often billed alongside KREONE, Laviena and ELOISA. Next up: elipamanoke, Leipzig on Tue 17 Nov.
 
@@ -26,4 +26,4 @@ SubkoØne is a techno and trance artist, with 28 gigs on soundcheck across Berli
 
 KREONE, Laviena, ELOISA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subkoone/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subkoone/)*

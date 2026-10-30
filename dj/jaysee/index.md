@@ -1,6 +1,6 @@
 # Jay See
 
-Jay See is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tonal, Mexico City on Wed, 28 Oct 2026.
+Jay See is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tonal, Mexico City on Wed, 28 Oct 2026.
 
 Jay See is a jungle and drum & bass artist, with 10 gigs on soundcheck across Mexico City and Sydney. Often billed alongside Kate Savage, Adarah and Floga. Next up: Tonal, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Jay See is a jungle and drum & bass artist, with 10 gigs on soundcheck across Me
 
 Kate Savage, Adarah, Floga
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaysee/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaysee/)*

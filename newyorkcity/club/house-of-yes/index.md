@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Zombie Prom: Coffintexts, girl_irl, YokoO, Philou, Airwolf (BK) & Shelby Shocks" on Fri, 30 Oct 2026.
+House of Yes is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Zombie Prom: Coffintexts, girl_irl, YokoO, Philou, Airwolf (BK) & Shelby Shocks" on Fri, 30 Oct 2026.
 
 House of Yes is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including BEARCAT, Coffintexts, DJ Ultra Violet and Eelke Kleijn and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -22,4 +22,4 @@ House of Yes is a music venue in New York City listed on soundcheck. 9 upcoming 
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

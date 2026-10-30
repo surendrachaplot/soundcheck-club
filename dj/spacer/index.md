@@ -1,8 +1,8 @@
 # Spacer
 
-Spacer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at La Paloma, Barcelona on Fri, 6 Nov 2026.
+Spacer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Paloma, Barcelona on Fri, 6 Nov 2026.
 
-Spacer is a techno and house artist based in Spain, with 70 gigs on soundcheck across Barcelona, Bratislava, Copenhagen and Madrid and 1 more. Often billed alongside Arildo, DAVID LOST and DJ Tennis. Next up: La Paloma, Barcelona on Fri 6 Nov.
+Spacer is a techno and house artist based in Spain, with 71 gigs on soundcheck across Barcelona, Bratislava, Copenhagen and Madrid and 1 more. Often billed alongside Arildo, DAVID LOST and DJ Tennis. Next up: La Paloma, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Spacer is a techno and house artist based in Spain, with 70 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | La Paloma | Barcelona |
 | Sat, 14 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
+| Sat, 28 Nov 2026 | Nitsa Club | Barcelona |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Spacer is a techno and house artist based in Spain, with 70 gigs on soundcheck a
 
 Arildo, DAVID LOST, DJ Tennis
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacer/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacer/)*

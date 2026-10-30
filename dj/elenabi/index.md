@@ -1,6 +1,6 @@
 # Elena Bi
 
-Elena Bi is a House and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kater, Berlin on Fri, 6 Nov 2026.
+Elena Bi is a House and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Fri, 6 Nov 2026.
 
 Elena Bi is a house and ambient artist based in Ecuador, with 11 gigs on soundcheck across Berlin. Often billed alongside ISA (ES), nadia (npc) and AYURI. Next up: Kater, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Elena Bi is a house and ambient artist based in Ecuador, with 11 gigs on soundch
 
 ISA (ES), nadia (npc), AYURI
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenabi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenabi/)*

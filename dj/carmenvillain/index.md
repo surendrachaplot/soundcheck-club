@@ -1,6 +1,6 @@
 # Carmen Villain
 
-Carmen Villain is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Carmen Villain is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
 
 Carmen Villain is an experimental and electronica artist based in Norway, with 26 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 13 more. Often billed alongside Azu Tiwaline, KMRU and Bendik Giske. Next up: Østre, Bergen on Thu 29 Oct.
 
@@ -14,6 +14,7 @@ Carmen Villain is an experimental and electronica artist based in Norway, with 2
 
 ## Recently played
 
+- Østre, Bergen · Thu, 29 Oct 2026
 - Oude Kerk, Amsterdam · Thu, 22 Oct 2026
 - Centro Cultural Conde Duque, Madrid · Fri, 16 Oct 2026
 - Auditorium San Fedele, Milan · Mon, 5 Oct 2026
@@ -21,10 +22,9 @@ Carmen Villain is an experimental and electronica artist based in Norway, with 2
 - Neue Nationalgalerie, Berlin · Thu, 2 Jul 2026
 - Armani/Silos, Milan · Sat, 8 Nov 2025
 - Fort Mifflin, Philadelphia · Fri, 19 Sept 2025
-- Kraftwerk Berlin, Berlin · Wed, 27 Aug 2025
 
 ## Shares bills with
 
 Azu Tiwaline, KMRU, Bendik Giske
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenvillain/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenvillain/)*

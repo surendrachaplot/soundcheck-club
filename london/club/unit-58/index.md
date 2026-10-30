@@ -1,6 +1,6 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Disco Exotic HALLOWEEN FIESTA - Warehouse Special (Disco, House + World Boogie) with Grace Sands" on Sat, 31 Oct 2026.
+Unit 58 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Disco Exotic HALLOWEEN FIESTA - Warehouse Special (Disco, House + World Boogie) with Grace Sands" on Sat, 31 Oct 2026.
 
 Unit 58 is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Curtain, Al Gray, Baptist (UK) and Bloomii and 2 more. See dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
@@ -18,4 +18,4 @@ Unit 58 is a music venue in London listed on soundcheck. 5 upcoming gigs, with l
 
 Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*

@@ -1,6 +1,6 @@
 # Radisson Red Sky Bar
 
-Radisson Red Sky Bar is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Ghoulty Pleasures" on Fri, 30 Oct 2026.
+Radisson Red Sky Bar is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Ghoulty Pleasures" on Fri, 30 Oct 2026.
 
 Radisson Red Sky Bar is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including Mark Doyle. See dates, start times and who's playing. 25 Tunnel Street, Finnieston Quay, G3 8HL.
 
@@ -17,4 +17,4 @@ Radisson Red Sky Bar is a music venue in Glasgow listed on soundcheck. 4 upcomin
 
 25 Tunnel Street, Finnieston Quay, G3 8HL, Glasgow
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/radisson-red-sky-bar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/radisson-red-sky-bar/)*

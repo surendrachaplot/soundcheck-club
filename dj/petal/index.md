@@ -1,6 +1,6 @@
 # Petal
 
-Petal is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Empire Stage, New York City on Fri, 30 Oct 2026.
+Petal is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Empire Stage, New York City on Fri, 30 Oct 2026.
 
 Petal is a club and techno artist based in United States of America, with 99 gigs on soundcheck across Athens and New York City. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE. Next up: Empire Stage, New York City on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Petal is a club and techno artist based in United States of America, with 99 gig
 
 CMD+JAZMINE, BEYBLADE SHAWTY, EEVEE (3)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*

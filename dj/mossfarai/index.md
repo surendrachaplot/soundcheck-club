@@ -1,6 +1,6 @@
 # Moss Farai
 
-Moss Farai is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at control, Bucharest on Sat, 31 Oct 2026.
+Moss Farai is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at control, Bucharest on Sat, 31 Oct 2026.
 
 Moss Farai is a disco and house artist, with 17 gigs on soundcheck across Amsterdam, Bucharest, Sofia and Toronto. Often billed alongside Andreea Veder, Bikethug and Clipper. Next up: control, Bucharest on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Moss Farai is a disco and house artist, with 17 gigs on soundcheck across Amster
 
 Andreea Veder, Bikethug, Clipper
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mossfarai/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mossfarai/)*

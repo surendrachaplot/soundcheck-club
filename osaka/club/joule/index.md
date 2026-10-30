@@ -1,6 +1,6 @@
 # Joule
 
-Joule is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "'Yaya JAPAN TOUR'Meets SEIKA GLOOVE" on Fri, 30 Oct 2026.
+Joule is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "'Yaya JAPAN TOUR'Meets SEIKA GLOOVE" on Fri, 30 Oct 2026.
 
 Joule is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including _goodbyeforever_, DJ OGAWA, Drunken Kong and dyn (JP) and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
@@ -19,4 +19,4 @@ Joule is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

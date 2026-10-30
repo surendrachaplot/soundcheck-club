@@ -1,6 +1,6 @@
 # Luis del Barrio
 
-Luis del Barrio is a Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Vybe Ibiza, Ibiza on Sat, 14 Nov 2026.
+Luis del Barrio is a Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Vybe Ibiza, Ibiza on Sat, 14 Nov 2026.
 
 Luis del Barrio is an electronica artist based in Spain, with 9 gigs on soundcheck across Ibiza. Often billed alongside Javi Niño, Sidd (ES) and DJ Koolt. Next up: Vybe Ibiza, Ibiza on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Luis del Barrio is an electronica artist based in Spain, with 9 gigs on soundche
 
 Javi Niño, Sidd (ES), DJ Koolt
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisdelbarrio/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisdelbarrio/)*

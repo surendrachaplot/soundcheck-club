@@ -1,6 +1,6 @@
 # Rudy Zigliara
 
-Rudy Zigliara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - DM @pulse_friction on Instagram for details, Berlin on Sat, 31 Oct 2026.
+Rudy Zigliara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - DM @pulse_friction on Instagram for details, Berlin on Sat, 31 Oct 2026.
 
 Rudy Zigliara is a techno and house artist based in France, with 17 gigs on soundcheck across Berlin and Paris. Often billed alongside doctor doms, Roots. and Caldii. Next up: TBA - DM @pulse_friction on Instagram for details, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rudy Zigliara is a techno and house artist based in France, with 17 gigs on soun
 
 doctor doms, Roots., Caldii
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*

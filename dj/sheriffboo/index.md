@@ -1,6 +1,6 @@
 # Sheriff Boo
 
-Sheriff Boo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at radial, London on Sun, 29 Nov 2026.
+Sheriff Boo is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at radial, London on Sun, 29 Nov 2026.
 
 Sheriff Boo is a minimal and tech house artist, with 16 gigs on soundcheck across London. Often billed alongside Tibor, Wilba and AZAAD. Next up: radial, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Sheriff Boo is a minimal and tech house artist, with 16 gigs on soundcheck acros
 
 Tibor, Wilba, AZAAD
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheriffboo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheriffboo/)*

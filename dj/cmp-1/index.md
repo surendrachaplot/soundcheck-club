@@ -1,6 +1,6 @@
 # cmp (1)
 
-cmp (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Slot, Hamburg on Fri, 6 Nov 2026.
+cmp (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Slot, Hamburg on Fri, 6 Nov 2026.
 
 cmp is a techno and electro artist based in Germany, with 26 gigs on soundcheck across Hamburg and Munich. Often billed alongside Festnacht, Hufnagel and Fovian. Next up: Slot, Hamburg on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ cmp is a techno and electro artist based in Germany, with 26 gigs on soundcheck 
 
 Festnacht, Hufnagel, Fovian
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmp-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmp-1/)*

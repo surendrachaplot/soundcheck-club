@@ -1,6 +1,6 @@
 # Party Boy Lance
 
-Party Boy Lance is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Sat, 31 Oct 2026.
+Party Boy Lance is a Funk / Soul and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Traverse City Whiskey Co. Outpost, Detroit on Sat, 31 Oct 2026.
 
 Party Boy Lance is a funk / soul and jazz artist based in United States of America, with 32 gigs on soundcheck across Detroit. Often billed alongside Eddie Logix, Blair French and BLAAQGOLD. Next up: Traverse City Whiskey Co. Outpost, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Party Boy Lance is a funk / soul and jazz artist based in United States of Ameri
 
 Eddie Logix, Blair French, BLAAQGOLD
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partyboylance/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partyboylance/)*

@@ -1,6 +1,6 @@
 # Super Venus
 
-Super Venus is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Lyon on Sat, 31 Oct 2026.
+Super Venus is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Lyon on Sat, 31 Oct 2026.
 
 Super Venus is a techno and house artist, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Walrus, Alex Picone and DJ Rino. Next up: TBA, Lyon on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Super Venus is a techno and house artist, with 48 gigs on soundcheck across Amst
 
 Walrus, Alex Picone, DJ Rino
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supervenus/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supervenus/)*

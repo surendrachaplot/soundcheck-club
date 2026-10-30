@@ -1,13 +1,14 @@
 # BALI G
 
-BALI G is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
+BALI G is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Subdeck, Bratislava on Fri, 20 Nov 2026.
 
-BALI G is a house and deep house artist based in Slovakia, with 28 gigs on soundcheck across Bratislava, Edinburgh, Prague and Vienna. Often billed alongside MIKLEI, Akaj and BBK. Next up: Subdeck, Bratislava on Sat 5 Dec.
+BALI G is a house and deep house artist based in Slovakia, with 29 gigs on soundcheck across Bratislava, Edinburgh, Prague and Vienna. Often billed alongside MIKLEI, Akaj and BBK. Next up: Subdeck, Bratislava on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Subdeck | Bratislava |
 | Sat, 5 Dec 2026 | Subdeck | Bratislava |
 
 ## Recently played
@@ -25,4 +26,4 @@ BALI G is a house and deep house artist based in Slovakia, with 28 gigs on sound
 
 MIKLEI, Akaj, BBK
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balig/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balig/)*

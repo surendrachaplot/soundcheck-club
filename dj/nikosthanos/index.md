@@ -1,6 +1,6 @@
 # Nikos Thanos
 
-Nikos Thanos is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at B side Athens, Athens on Fri, 30 Oct 2026.
+Nikos Thanos is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at B side Athens, Athens on Fri, 30 Oct 2026.
 
 Nikos Thanos is a techno and house artist based in Greece, with 57 gigs on soundcheck across Athens, Berlin and Thessaloniki. Often billed alongside Mr.M, George Apergis and Patso. Next up: B side Athens, Athens on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Nikos Thanos is a techno and house artist based in Greece, with 57 gigs on sound
 
 Mr.M, George Apergis, Patso
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikosthanos/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikosthanos/)*

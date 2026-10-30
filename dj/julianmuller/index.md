@@ -1,6 +1,6 @@
 # Julian Muller
 
-Julian Muller is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Glazart, Paris on Sun, 8 Nov 2026.
+Julian Muller is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Glazart, Paris on Sun, 8 Nov 2026.
 
 Julian Muller is a techno and trance artist based in France, with 126 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Frederic., CAIVA and MRD (NO). Next up: Glazart, Paris on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Julian Muller is a techno and trance artist based in France, with 126 gigs on so
 
 Frederic., CAIVA, MRD (NO)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmuller/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmuller/)*

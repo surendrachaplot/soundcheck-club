@@ -1,6 +1,6 @@
 # KRYTE
 
-KRYTE is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bridge 48, Barcelona on Sat, 31 Oct 2026.
+KRYTE is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bridge 48, Barcelona on Sat, 31 Oct 2026.
 
 KRYTE is a techno and electronica artist based in Spain, with 39 gigs on soundcheck across Barcelona. Often billed alongside Pullär, Kolja (TR) and Gato. Next up: Bridge 48, Barcelona on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ KRYTE is a techno and electronica artist based in Spain, with 39 gigs on soundch
 
 Pullär, Kolja (TR), Gato
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kryte/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kryte/)*

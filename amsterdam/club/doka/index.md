@@ -1,6 +1,6 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Doka Studio with Coco Maria - AYS" on Fri, 30 Oct 2026.
+Doka is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Doka Studio with Coco Maria - AYS" on Fri, 30 Oct 2026.
 
 Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Andy (NL), Ays (NL), Coco Maria and David Vunk and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with 
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

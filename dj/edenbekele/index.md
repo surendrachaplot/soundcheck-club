@@ -1,6 +1,6 @@
 # EDEN BEKELE
 
-EDEN BEKELE is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paragon, New York City on Fri, 27 Nov 2026.
+EDEN BEKELE is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paragon, New York City on Fri, 27 Nov 2026.
 
 EDEN BEKELE is a club and house artist based in United States of America, with 56 gigs on soundcheck across New York City and Tokyo. Often billed alongside Teigh, HiTech and Dennis Free. Next up: Paragon, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ EDEN BEKELE is a club and house artist based in United States of America, with 5
 
 Teigh, HiTech, Dennis Free
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edenbekele/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edenbekele/)*

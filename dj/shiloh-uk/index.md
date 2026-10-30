@@ -1,6 +1,6 @@
 # Shiloh (UK)
 
-Shiloh (UK) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jungla London, London on Sat, 31 Oct 2026.
+Shiloh (UK) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jungla London, London on Sat, 31 Oct 2026.
 
 Shiloh (UK) is a tech house and house artist based in United Kingdom, with 19 gigs on soundcheck across London. Often billed alongside SAM PHONIC, Dominique Danielle and Jai Baisden. Next up: Jungla London, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Shiloh (UK) is a tech house and house artist based in United Kingdom, with 19 gi
 
 SAM PHONIC, Dominique Danielle, Jai Baisden
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shiloh-uk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shiloh-uk/)*

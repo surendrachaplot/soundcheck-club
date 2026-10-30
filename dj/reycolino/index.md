@@ -1,6 +1,6 @@
 # Rey Colino
 
-Rey Colino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mitsuki, Tokyo on Fri, 11 Dec 2026.
+Rey Colino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mitsuki, Tokyo on Fri, 11 Dec 2026.
 
 Rey Colino is a techno and house artist based in Belgium, with 119 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bangkok and 41 more. Often billed alongside Spray, Roza Terenzi and Naone. Next up: Mitsuki, Tokyo on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Rey Colino is a techno and house artist based in Belgium, with 119 gigs on sound
 
 Spray, Roza Terenzi, Naone
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reycolino/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reycolino/)*

@@ -1,8 +1,8 @@
 # Coki
 
-Coki is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
+Coki is a Dubstep and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
 
-Coki is a dubstep and bass artist based in United Kingdom, with 58 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 23 more. Often billed alongside Loefah, SGT Pokes and Joker. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
+Coki is a dubstep and bass artist based in United Kingdom, with 59 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 24 more. Often billed alongside Loefah, SGT Pokes and Joker. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Coki is a dubstep and bass artist based in United Kingdom, with 58 gigs on sound
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
 | Fri, 13 Nov 2026 | Deya Brewery | West-wales |
+| Fri, 11 Dec 2026 | Stereo | Glasgow |
 | Sat, 16 Jan 2027 | Phonox | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ Coki is a dubstep and bass artist based in United Kingdom, with 58 gigs on sound
 
 Loefah, SGT Pokes, Joker
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coki/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coki/)*

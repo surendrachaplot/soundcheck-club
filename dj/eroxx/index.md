@@ -1,6 +1,6 @@
 # ERØXX
 
-ERØXX is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at City Hall, Barcelona on Tue, 3 Nov 2026.
+ERØXX is a Industrial and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at City Hall, Barcelona on Tue, 3 Nov 2026.
 
 ERØXX is an industrial and techno artist based in Spain, with 29 gigs on soundcheck across Barcelona and Malta. Often billed alongside Øxiyd, Luca Maier and MVGRI. Next up: City Hall, Barcelona on Tue 3 Nov.
 
@@ -26,4 +26,4 @@ ERØXX is an industrial and techno artist based in Spain, with 29 gigs on soundc
 
 Øxiyd, Luca Maier, MVGRI
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eroxx/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eroxx/)*

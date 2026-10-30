@@ -1,6 +1,6 @@
 # Stameni
 
-Stameni is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
+Stameni is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
 
 Stameni is a techno and house artist based in Serbia, with 22 gigs on soundcheck across Belgrade, Ljubljana and Sofia. Often billed alongside laccotti, Asarri and Moraitov. Next up: TBA - Studio Orfei, Sofia on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Stameni is a techno and house artist based in Serbia, with 22 gigs on soundcheck
 
 laccotti, Asarri, Moraitov
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stameni/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stameni/)*

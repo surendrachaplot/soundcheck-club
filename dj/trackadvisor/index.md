@@ -1,6 +1,6 @@
 # Track Advisor
 
-Track Advisor is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Péniche Cinéma, Paris on Fri, 13 Nov 2026.
+Track Advisor is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Péniche Cinéma, Paris on Fri, 13 Nov 2026.
 
 Track Advisor is a house and electro artist based in Tunisia, with 18 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Paris. Often billed alongside MIRZA, UnesGroove and Aleqs Notal. Next up: La Péniche Cinéma, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Track Advisor is a house and electro artist based in Tunisia, with 18 gigs on so
 
 MIRZA, UnesGroove, Aleqs Notal
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trackadvisor/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trackadvisor/)*

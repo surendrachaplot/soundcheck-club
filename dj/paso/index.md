@@ -1,6 +1,6 @@
 # PASO
 
-PASO is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at King Tut's Wah Wah Hut, Glasgow on Thu, 3 Dec 2026.
+PASO is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at King Tut's Wah Wah Hut, Glasgow on Thu, 3 Dec 2026.
 
 PASO is a house and trance artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 1 more. Often billed alongside Nadia Summer, BORLEY and Danse Atmos. Next up: King Tut's Wah Wah Hut, Glasgow on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ PASO is a house and trance artist based in United Kingdom, with 48 gigs on sound
 
 Nadia Summer, BORLEY, Danse Atmos
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paso/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paso/)*

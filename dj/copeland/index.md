@@ -1,6 +1,6 @@
 # Copeland
 
-Copeland is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 21 Nov 2026.
+Copeland is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 21 Nov 2026.
 
 Copeland is a deep house and house artist based in United States of America, with 26 gigs on soundcheck across Amsterdam and Seattle. Often billed alongside Jon Lemmon, Dj Sloth and Trinitron. Next up: The Monkey Loft, Seattle on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Copeland is a deep house and house artist based in United States of America, wit
 
 Jon Lemmon, Dj Sloth, Trinitron
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/copeland/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/copeland/)*

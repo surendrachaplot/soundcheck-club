@@ -1,6 +1,6 @@
 # Valak
 
-Valak is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at City Hall, Barcelona on Sat, 31 Oct 2026.
+Valak is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at City Hall, Barcelona on Sat, 31 Oct 2026.
 
 Valak is a techno and hardcore artist based in Portugal, with 28 gigs on soundcheck across Barcelona and Lisbon. Often billed alongside RZVX, Madson Carpenter and Frik. Next up: City Hall, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Valak is a techno and hardcore artist based in Portugal, with 28 gigs on soundch
 
 RZVX, Madson Carpenter, Frik
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valak/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valak/)*

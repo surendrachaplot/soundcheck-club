@@ -1,6 +1,6 @@
 # Hertz
 
-Hertz is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Hertz 헤르츠: *Posture Club* with Baldo (Subwax, ES)" on Fri, 30 Oct 2026.
+Hertz is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hertz 헤르츠: *Posture Club* with Baldo (Subwax, ES)" on Fri, 30 Oct 2026.
 
 Hertz is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including Acidwork, Alex Dima, Alexia Glensy and Aya and 2 more. See dates, start times and who's playing. 21, Usadan-ro 14-gil, Yongsan-gu, Seoul, Republic of Korea.
 
@@ -17,4 +17,4 @@ Hertz is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line
 
 21, Usadan-ro 14-gil, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/hertz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/hertz/)*

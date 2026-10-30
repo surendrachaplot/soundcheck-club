@@ -1,6 +1,6 @@
 # GARUPA
 
-GARUPA is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Starlane São Paulo, Sao Paulo on Fri, 30 Oct 2026.
+GARUPA is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Starlane São Paulo, Sao Paulo on Fri, 30 Oct 2026.
 
 GARUPA is a house and balearic artist, with 16 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Carlim, Eli Iwasa and Gabto. Next up: Starlane São Paulo, Sao Paulo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ GARUPA is a house and balearic artist, with 16 gigs on soundcheck across Rio de 
 
 Carlim, Eli Iwasa, Gabto
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garupa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garupa/)*

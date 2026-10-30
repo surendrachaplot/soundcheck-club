@@ -1,6 +1,6 @@
 # Phantom, Paris
 
-Phantom, Paris is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Phantom : Disco Disco / The Blessed Madonna" on Sat, 31 Oct 2026.
+Phantom, Paris is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Phantom : Disco Disco / The Blessed Madonna" on Sat, 31 Oct 2026.
 
 Phantom, Paris is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Ben Klock, Cloudy, Coone and Danilo Plessow and 2 more. See dates, start times and who's playing. 8 Bd de Bercy, 75012 Paris, France.
 
@@ -21,4 +21,4 @@ Phantom, Paris is a music venue in Paris listed on soundcheck. 8 upcoming gigs, 
 
 8 Bd de Bercy, 75012 Paris, France, Paris
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/phantom-paris/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/phantom-paris/)*

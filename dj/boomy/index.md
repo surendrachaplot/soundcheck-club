@@ -1,6 +1,6 @@
 # Boomy
 
-Boomy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ESC, Montreal on Fri, 6 Nov 2026.
+Boomy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ESC, Montreal on Fri, 6 Nov 2026.
 
 Boomy is a techno and house artist based in Canada, with 19 gigs on soundcheck across Montreal. Often billed alongside Clochette, CrisseMarqueur and abel.aiff. Next up: ESC, Montreal on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Boomy is a techno and house artist based in Canada, with 19 gigs on soundcheck a
 
 Clochette, CrisseMarqueur, abel.aiff
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boomy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boomy/)*

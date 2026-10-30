@@ -1,6 +1,6 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
+Phil Berg is a Techno and Club artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
 
 Phil Berg is a techno and club artist based in Germany, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Phil Berg is a techno and club artist based in Germany, with 165 gigs on soundch
 
 Lobster (NL), future.666, Grace Dahl
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*

@@ -1,6 +1,6 @@
 # Ida (CH)
 
-Ida (CH) is a Progressive House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Post Bar, Helsinki on Fri, 18 Dec 2026.
+Ida (CH) is a Progressive House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Post Bar, Helsinki on Fri, 18 Dec 2026.
 
 Ida (CH) is a progressive house and minimal techno artist based in Switzerland, with 30 gigs on soundcheck across Berlin, Helsinki, Istanbul and London and 1 more. Often billed alongside Eva, MAH BOD and R.S.S. Next up: Post Bar, Helsinki on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Ida (CH) is a progressive house and minimal techno artist based in Switzerland, 
 
 Eva, MAH BOD, R.S.S
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-ch/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-ch/)*

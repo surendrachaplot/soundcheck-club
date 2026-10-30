@@ -1,6 +1,6 @@
 # Recinto Mallorca Live
 
-Recinto Mallorca Live is a music venue in Mallorca with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Otherways Festival" on Fri, 30 Apr 2027.
+Recinto Mallorca Live is a music venue in Mallorca with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Otherways Festival" on Fri, 30 Apr 2027.
 
 Recinto Mallorca Live is a music venue in Mallorca listed on soundcheck. 1 upcoming gig, with line-ups including 4am Kru, Kepler, ALISHA and A Little Sound and 2 more. See dates, start times and who's playing. Camí Cala Figuera, 1, 07181 Calvià, Illes Balears.
 
@@ -14,4 +14,4 @@ Recinto Mallorca Live is a music venue in Mallorca listed on soundcheck. 1 upcom
 
 Camí Cala Figuera, 1, 07181 Calvià, Illes Balears, Mallorca
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/recinto-mallorca-live/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/recinto-mallorca-live/)*

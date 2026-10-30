@@ -1,6 +1,6 @@
 # Prance
 
-Prance is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at RADION, Amsterdam on Fri, 30 Oct 2026.
+Prance is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at RADION, Amsterdam on Fri, 30 Oct 2026.
 
 Prance is a techno and house artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hannover and 6 more. Often billed alongside Joya Astou, Najel Monteiro and MARRØN. Next up: RADION, Amsterdam on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Prance is a techno and house artist based in Netherlands, with 72 gigs on soundc
 
 Joya Astou, Najel Monteiro, MARRØN
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prance/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prance/)*

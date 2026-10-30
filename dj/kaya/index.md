@@ -1,6 +1,6 @@
 # Kaya
 
-Kaya is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Colombian Hotel, Sydney on Sat, 31 Oct 2026.
+Kaya is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Colombian Hotel, Sydney on Sat, 31 Oct 2026.
 
 Kaya is a house and afro tech artist, with 16 gigs on soundcheck across Bali, Berlin, Brighton and Bristol and 8 more. Often billed alongside Fattony, Jamie Love and Anta (FR). Next up: Colombian Hotel, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kaya is a house and afro tech artist, with 16 gigs on soundcheck across Bali, Be
 
 Fattony, Jamie Love, Anta (FR)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaya/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaya/)*

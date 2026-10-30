@@ -1,6 +1,6 @@
 # Sydney Portugal Community Club
 
-Sydney Portugal Community Club is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Cassian presents Day-To-Night Australia" on Sat, 31 Oct 2026.
+Sydney Portugal Community Club is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cassian presents Day-To-Night Australia" on Sat, 31 Oct 2026.
 
 Sydney Portugal Community Club is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Bella Claxton, Cassian, Nils Hoffmann and OLIIV and 1 more. See dates, start times and who's playing. 100 Marrickville Rd, Marrickville NSW 2204.
 
@@ -15,4 +15,4 @@ Sydney Portugal Community Club is a music venue in Sydney listed on soundcheck. 
 
 100 Marrickville Rd, Marrickville NSW 2204, Sydney
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/sydney-portugal-community-club/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/sydney-portugal-community-club/)*

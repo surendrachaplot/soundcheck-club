@@ -1,6 +1,6 @@
 # Nymph (NY)
 
-Nymph (NY) is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mood Ring, New York City on Sat, 7 Nov 2026.
+Nymph (NY) is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mood Ring, New York City on Sat, 7 Nov 2026.
 
 Nymph (NY) is a techno and club artist based in United States of America, with 20 gigs on soundcheck across New York City. Often billed alongside KIMKILLA, 1morning and ABEILLE. Next up: Mood Ring, New York City on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Nymph (NY) is a techno and club artist based in United States of America, with 2
 
 KIMKILLA, 1morning, ABEILLE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nymph-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nymph-2/)*

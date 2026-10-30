@@ -1,6 +1,6 @@
 # MXV (1)
 
-MXV (1) is a Techno and R&B artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club NYX, Amsterdam on Sat, 14 Nov 2026.
+MXV (1) is a Techno and R&B artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club NYX, Amsterdam on Sat, 14 Nov 2026.
 
 MXV is a techno and r&b artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Berlin and Utrecht. Often billed alongside ANNĒ, AYIM and Aiscream. Next up: Club NYX, Amsterdam on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ MXV is a techno and r&b artist based in Netherlands, with 7 gigs on soundcheck a
 
 ANNĒ, AYIM, Aiscream
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-1/)*

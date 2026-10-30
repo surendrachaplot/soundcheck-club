@@ -1,6 +1,6 @@
 # miira
 
-miira is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 30 Oct 2026.
+miira is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 30 Oct 2026.
 
 miira is a bass and club artist based in United Kingdom, with 74 gigs on soundcheck across Bali, Edinburgh and Glasgow. Often billed alongside Buckfast Barbie, al gu and Sweet Philly. Next up: Sneaky Pete's, Edinburgh on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ miira is a bass and club artist based in United Kingdom, with 74 gigs on soundch
 
 Buckfast Barbie, al gu, Sweet Philly
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miira/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miira/)*

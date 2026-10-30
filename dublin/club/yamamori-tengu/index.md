@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DUDJ PRESENTS: CRYME" on Thu, 29 Oct 2026.
+Yamamori Tengu is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Tengu presents: Prozak's Residency with Papa Nugs & A For Alpha" on Fri, 30 Oct 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 17 upcoming gigs, with line-ups including A For Alpha, Batu, Cormac and CRYME and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with line-ups including A For Alpha, Batu, Cormac and Dave Huismans and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | DUDJ PRESENTS: CRYME | CRYME, Donncha |
 | Fri, 30 Oct 2026 | Tengu presents: Prozak's Residency with Papa Nugs & A For Alpha | A For Alpha, Papa Nugs, Prozak (IRL) |
 | Sat, 31 Oct 2026 | Tengu presents: Eliza All Night Long | Eliza |
 | Fri, 6 Nov 2026 | Tengu presents: Cormac's Residency with Josh Caffé | Cormac, Josh Caffé |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 17 upcoming gigs
 | Fri, 13 Nov 2026 | illicit: DJ Plant Texture | DJ Plant Texture, Rustal |
 | Sat, 14 Nov 2026 | SOUNDMATE ' The Hub' | Oshana, Slim (IE) |
 | Fri, 20 Nov 2026 | The Shed Residents presents: RUIZ OSC1 & Lorcan Kelly | Lorcan Kelly, RUIZ OSC1 |
+| Sat, 21 Nov 2026 | Klub Sukar: Mera Bhai x Moving Still | DJ Karmawi, Mera Bhai, Moving Still, Sahana |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

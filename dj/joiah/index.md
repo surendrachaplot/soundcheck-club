@@ -1,6 +1,6 @@
 # Joiah
 
-Joiah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+Joiah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
 Joiah is a house and techno artist based in Italy, with 85 gigs on soundcheck across Amsterdam, Berlin, Boston and Madrid and 6 more. Often billed alongside CAMILLA, Black Pomade and Armii1n. Next up: Signal, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Joiah is a house and techno artist based in Italy, with 85 gigs on soundcheck ac
 
 CAMILLA, Black Pomade, Armii1n
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joiah/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joiah/)*

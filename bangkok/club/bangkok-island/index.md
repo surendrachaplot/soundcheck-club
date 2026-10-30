@@ -1,6 +1,6 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "GHOST BOAT" on Sat, 31 Oct 2026.
+Bangkok Island is a music venue in Bangkok with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "GHOST BOAT" on Sat, 31 Oct 2026.
 
 Bangkok Island is a music venue in Bangkok listed on soundcheck. 10 upcoming gigs, with line-ups including Ali, bee, Midnight and Selecta (ES) and 2 more. See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
@@ -23,4 +23,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 10 upcoming gig
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

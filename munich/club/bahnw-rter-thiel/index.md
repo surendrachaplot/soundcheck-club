@@ -1,14 +1,13 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "135+ mit Grooveraiderz & Bliss" on Thu, 29 Oct 2026.
+Bahnwärter Thiel is a music venue in Munich with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Flugmodus mit Max Marlon" on Fri, 30 Oct 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 11 upcoming gigs, with line-ups including 9LALEY, antyo, Arkinice and Atzlina and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming gigs, with line-ups including 9LALEY, antyo, Arkinice and Atzlina and 2 more. See dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | 135+ mit Grooveraiderz & Bliss | DENA (IT), L.A.X, Rosan, Sarica, avely |
 | Fri, 30 Oct 2026 | Flugmodus mit Max Marlon | Bertolt Frech, s.west |
 | Thu, 5 Nov 2026 | 135+ mit Unikat & 8:08AM | DJ Anzeige, KECKi |
 | Fri, 6 Nov 2026 | Ragazzi & Gans am Wasser | DIGGADENZ, JERRO, valera |
@@ -18,9 +17,10 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 11 upcoming g
 | Thu, 19 Nov 2026 | 135+ mit Klangfarben & Halligalli.with.friends | Arkinice, Cottí Larje, DJ Sonnenbrand, Terzenbreaker, antyo, danuschek |
 | Fri, 20 Nov 2026 | Freitag mit Urem | Grenouillette, Moritz Butschek, Urem |
 | Sat, 21 Nov 2026 | CFU - Bahnwärter Thiel - Two Year Anniversary | Dykstra, Marcel Dusk, SASHTY, Shishmish |
+| Thu, 26 Nov 2026 | 135+ mit Bliss & Intensive Emotions | Dena |
 
 ## Address
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

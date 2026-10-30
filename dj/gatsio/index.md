@@ -1,6 +1,6 @@
 # Gatsio
 
-Gatsio is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at IT Athens, Athens on Fri, 30 Oct 2026.
+Gatsio is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at IT Athens, Athens on Fri, 30 Oct 2026.
 
 Gatsio is a techno artist, with 12 gigs on soundcheck across Amsterdam and Athens. Often billed alongside Mágafas, Takis DK and Dom K. Next up: IT Athens, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Gatsio is a techno artist, with 12 gigs on soundcheck across Amsterdam and Athen
 
 Mágafas, Takis DK, Dom K
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gatsio/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gatsio/)*

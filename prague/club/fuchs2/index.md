@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BRVTAL HALLOWEEN: Ancient Methods ☆ The Brvtalist ☆ Nastya Muravyova ☆ C4AT ☆ Kat Kat Tat" on Fri, 30 Oct 2026.
+Fuchs2 is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BRVTAL HALLOWEEN: Ancient Methods ☆ The Brvtalist ☆ Nastya Muravyova ☆ C4AT ☆ Kat Kat Tat" on Fri, 30 Oct 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and DDK and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -23,4 +23,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with l
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

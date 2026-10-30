@@ -1,6 +1,6 @@
 # Kim Peers
 
-Kim Peers is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Beursschouwburg, Brussels on Sat, 31 Oct 2026.
+Kim Peers is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Beursschouwburg, Brussels on Sat, 31 Oct 2026.
 
 Kim Peers is a techno and ebm artist based in Belgium, with 13 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 2 more. Often billed alongside Graftak, Miss Kittin and Ottoman Grüw. Next up: Beursschouwburg, Brussels on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kim Peers is a techno and ebm artist based in Belgium, with 13 gigs on soundchec
 
 Graftak, Miss Kittin, Ottoman Grüw
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimpeers/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimpeers/)*

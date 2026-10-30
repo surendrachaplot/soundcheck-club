@@ -1,6 +1,6 @@
 # educación física
 
-educación física is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at St Anne's Parish Hall, Toronto on Sat, 31 Oct 2026.
+educación física is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at St Anne's Parish Hall, Toronto on Sat, 31 Oct 2026.
 
 educación física is a techno and house artist based in Mexico, with 19 gigs on soundcheck across Mexico City, Seattle, Toronto and Vancouver. Often billed alongside Fisher Bryce, jiggity jeff and DJ dood. Next up: St Anne's Parish Hall, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ educación física is a techno and house artist based in Mexico, with 19 gigs on
 
 Fisher Bryce, jiggity jeff, DJ dood
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/educacionfísica/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/educacionfísica/)*

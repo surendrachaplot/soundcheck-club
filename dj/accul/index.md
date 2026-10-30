@@ -1,6 +1,6 @@
 # ACCUL
 
-ACCUL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Dockland, Münster on Sat, 31 Oct 2026.
+ACCUL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Dockland, Münster on Sat, 31 Oct 2026.
 
 ACCUL is a techno and house artist based in Germany, with 24 gigs on soundcheck across Dortmund / Essen and Münster. Often billed alongside Dennis Siemion, Krackk and Pechschwarz. Next up: Dockland, Münster on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ACCUL is a techno and house artist based in Germany, with 24 gigs on soundcheck 
 
 Dennis Siemion, Krackk, Pechschwarz
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/accul/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/accul/)*

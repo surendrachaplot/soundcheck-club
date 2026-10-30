@@ -1,6 +1,6 @@
 # MORENXXX
 
-MORENXXX is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+MORENXXX is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
 MORENXXX is a techno and club artist based in United States of America, with 128 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 11 more. Often billed alongside LOKA (US), Shyboi and Juliana Huxtable. Next up: public records, New York City on Mon 9 Nov.
 
@@ -26,4 +26,4 @@ MORENXXX is a techno and club artist based in United States of America, with 128
 
 LOKA (US), Shyboi, Juliana Huxtable
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/MORENXXX/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/MORENXXX/)*

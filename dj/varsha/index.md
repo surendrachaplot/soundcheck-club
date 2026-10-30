@@ -1,6 +1,6 @@
 # VARSHA
 
-VARSHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
+VARSHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
 
 VARSHA is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Los Angeles and 2 more. Often billed alongside Sevyn, RITCHRD and Tlim Shug. Next up: Nowadays, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ VARSHA is a house and techno artist based in United States of America, with 61 g
 
 Sevyn, RITCHRD, Tlim Shug
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varsha/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varsha/)*

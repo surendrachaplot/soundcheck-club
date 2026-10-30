@@ -1,6 +1,6 @@
 # André Dancekowski
 
-André Dancekowski is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Circie, Dresden on Sat, 31 Oct 2026.
+André Dancekowski is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Circie, Dresden on Sat, 31 Oct 2026.
 
 André Dancekowski is a house and disco artist based in Germany, with 66 gigs on soundcheck across Berlin, Bologna, Brussels and Cologne and 12 more. Often billed alongside Mikey Gee, karete bu and Black Loops. Next up: Circie, Dresden on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ André Dancekowski is a house and disco artist based in Germany, with 66 gigs on
 
 Mikey Gee, karete bu, Black Loops
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*

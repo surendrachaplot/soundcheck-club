@@ -1,6 +1,6 @@
 # Barn Radio
 
-Barn Radio is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "barn: 177. HALLOWEEN *R*0*D*3*0*" on Sat, 31 Oct 2026.
+Barn Radio is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "barn: 177. HALLOWEEN *R*0*D*3*0*" on Sat, 31 Oct 2026.
 
 Barn Radio is a music venue in Portland listed on soundcheck. 3 upcoming gigs, with line-ups including Coffintexts and Verraco. See dates, start times and who's playing. 215 SW 1st Ave, Portland, OR 97204, United States.
 
@@ -16,4 +16,4 @@ Barn Radio is a music venue in Portland listed on soundcheck. 3 upcoming gigs, w
 
 215 SW 1st Ave, Portland, OR 97204, United States, Portland
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/barn-radio/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/barn-radio/)*

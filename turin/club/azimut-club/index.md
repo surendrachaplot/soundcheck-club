@@ -1,6 +1,6 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Dukwa hosted by EAR\WAX halloween night + afterhours" on Sat, 31 Oct 2026.
+Azimut Club is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Dukwa hosted by EAR\WAX halloween night + afterhours" on Sat, 31 Oct 2026.
 
 Azimut Club is a music venue in Turin listed on soundcheck. 11 upcoming gigs, with line-ups including Alberto Tolo, Allegretti, BLACK CROW and BLANKA and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
@@ -23,4 +23,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 11 upcoming gigs, wi
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

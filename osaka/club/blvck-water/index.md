@@ -1,8 +1,8 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HARD TECHNO 'CRACKS' with Messiahwaits, FENGX2, ANKH of LIFE, Kaoll, LIZA, Shuk00, ZAGUN" on Fri, 30 Oct 2026.
+Blvck Water is a music venue in Osaka with 15 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HARD TECHNO 'CRACKS' with Messiahwaits, FENGX2, ANKH of LIFE, Kaoll, LIZA, Shuk00, ZAGUN" on Fri, 30 Oct 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 14 upcoming gigs, with line-ups including _goodbyeforever_, CHIKA, Drunken Kong and dyn (JP) and 2 more. See dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 15 upcoming gigs, with line-ups including _goodbyeforever_, CHIKA, Drunken Kong and dyn (JP) and 2 more. See dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 14 upcoming gigs, wi
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

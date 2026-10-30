@@ -1,6 +1,6 @@
 # Carbon Based Lifeforms
 
-Carbon Based Lifeforms is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Carbon Based Lifeforms is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 Carbon Based Lifeforms is an ambient and downtempo artist based in Sweden, with 22 gigs on soundcheck across Amsterdam, Athens, Belgrade and Bristol and 13 more. Often billed alongside Aes Dana, Banco De Gaia and Shunt Voltage. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -25,4 +25,4 @@ Carbon Based Lifeforms is an ambient and downtempo artist based in Sweden, with 
 
 Aes Dana, Banco De Gaia, Shunt Voltage
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carbonbasedlifeforms/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carbonbasedlifeforms/)*

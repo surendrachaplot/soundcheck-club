@@ -1,6 +1,6 @@
 # Nandu
 
-Nandu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 3 Dec 2026.
+Nandu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 3 Dec 2026.
 
 Nandu is a house and techno artist based in Denmark, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Brussels and 38 more. Often billed alongside Ivory, Yet More and Bedouin. Next up: Do Not Sit On The Furniture, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Nandu is a house and techno artist based in Denmark, with 112 gigs on soundcheck
 
 Ivory, Yet More, Bedouin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*

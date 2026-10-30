@@ -1,6 +1,6 @@
 # 909 RACING TEAM
 
-909 RACING TEAM is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Amp, Münster on Wed, 4 Nov 2026.
+909 RACING TEAM is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Amp, Münster on Wed, 4 Nov 2026.
 
 909 RACING TEAM is a house and techno artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Domenik Deckert, Mike Momburg and Vagabund. Next up: Amp, Münster on Wed 4 Nov.
 
@@ -26,4 +26,4 @@
 
 Domenik Deckert, Mike Momburg, Vagabund
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/909racingteam/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/909racingteam/)*

@@ -1,6 +1,6 @@
 # Finca.lab
 
-Finca.lab is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Alien Listening Session: Finca.lab x Marasma crew" on Sat, 31 Oct 2026.
+Finca.lab is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Alien Listening Session: Finca.lab x Marasma crew" on Sat, 31 Oct 2026.
 
 Finca.lab is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Finca.lab is a music venue in Paris listed on soundcheck. 1 upcoming gig. See da
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Alien Listening Session: Finca.lab x Marasma crew |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/finca-lab/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/finca-lab/)*

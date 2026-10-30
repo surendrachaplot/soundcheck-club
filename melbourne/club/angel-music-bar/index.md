@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Yang Thai 1st Birthday" on Fri, 30 Oct 2026.
+Angel Music Bar is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Yang Thai 1st Birthday" on Fri, 30 Oct 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including afreckle, Alex Albrecht, Andy Hart and Bappy and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -20,4 +20,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 7 upcoming g
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

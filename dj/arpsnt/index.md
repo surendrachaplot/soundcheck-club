@@ -1,6 +1,6 @@
 # Arp (SNT)
 
-Arp (SNT) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SALA MUV, Madrid on Sat, 7 Nov 2026.
+Arp (SNT) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - SALA MUV, Madrid on Sat, 7 Nov 2026.
 
 Arp (SNT) is a techno artist, with 7 gigs on soundcheck across Frankfurt and Madrid. Often billed alongside Anxiety_Dj, Hakkon and JONSN.OFC. Next up: TBA - SALA MUV, Madrid on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Arp (SNT) is a techno artist, with 7 gigs on soundcheck across Frankfurt and Mad
 
 Anxiety_Dj, Hakkon, JONSN.OFC
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arpsnt/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arpsnt/)*

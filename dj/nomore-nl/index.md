@@ -1,6 +1,6 @@
 # NoMore
 
-NoMore is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Basement Amsterdam, Amsterdam on Sat, 14 Nov 2026.
+NoMore is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Basement Amsterdam, Amsterdam on Sat, 14 Nov 2026.
 
 NoMore is a house and deep house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Lyon and Paris. Often billed alongside Kirilski, Pura Pachanga and charuso. Next up: Basement Amsterdam, Amsterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ NoMore is a house and deep house artist based in Netherlands, with 11 gigs on so
 
 Kirilski, Pura Pachanga, charuso
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomore-nl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomore-nl/)*

@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DUALISM with PARACEK & SPEEDBOYS LIVE" on Fri, 30 Oct 2026.
+Distillery is a music venue in Leipzig with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "DUALISM with PARACEK & SPEEDBOYS LIVE" on Fri, 30 Oct 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 13 upcoming gigs, with line-ups including 50PHIE, Andreas Eckhardt, Arman John and a:tok and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 13 upcoming gigs, w
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

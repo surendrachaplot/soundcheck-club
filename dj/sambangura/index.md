@@ -1,6 +1,6 @@
 # Sam Bangura
 
-Sam Bangura is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
+Sam Bangura is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
 
 Sam Bangura is a house and techno artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: OneSixOne, Melbourne on Sun 1 Nov.
 
@@ -33,4 +33,4 @@ Sam Bangura is a house and techno artist based in United Kingdom, with 127 gigs 
 
 Harry McCanna, Dale Mussington, NorthSouth
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*

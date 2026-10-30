@@ -1,6 +1,6 @@
 # Distal_
 
-Distal_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Monarch, Berlin on Fri, 27 Nov 2026.
+Distal_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Monarch, Berlin on Fri, 27 Nov 2026.
 
 Distal_ is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside zunz, Gurk and La Fille. Next up: Monarch, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Distal_ is a techno and house artist based in Germany, with 9 gigs on soundcheck
 
 zunz, Gurk, La Fille
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/distal_/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/distal_/)*

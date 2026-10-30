@@ -1,6 +1,6 @@
 # Soul! Brother
 
-Soul! Brother is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 14 Nov 2026.
+Soul! Brother is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 14 Nov 2026.
 
 Soul! Brother is a club and house artist, with 12 gigs on soundcheck across Berlin. Often billed alongside Jean-Jez, Kang and Kedi Bounce. Next up: Bulbul Berlin, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Soul! Brother is a club and house artist, with 12 gigs on soundcheck across Berl
 
 Jean-Jez, Kang, Kedi Bounce
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soul!brother/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soul!brother/)*

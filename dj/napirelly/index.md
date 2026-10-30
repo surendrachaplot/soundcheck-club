@@ -1,6 +1,6 @@
 # Napirelly
 
-Napirelly is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Doop, Shanghai on Sat, 31 Oct 2026.
+Napirelly is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Doop, Shanghai on Sat, 31 Oct 2026.
 
 Napirelly is a techno and breakbeat artist, with 11 gigs on soundcheck across Bali, Bangkok, Beijing and Osaka and 3 more. Often billed alongside Delta Funktionen, AHPR and Bagvs. Next up: Doop, Shanghai on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Napirelly is a techno and breakbeat artist, with 11 gigs on soundcheck across Ba
 
 Delta Funktionen, AHPR, Bagvs
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napirelly/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napirelly/)*

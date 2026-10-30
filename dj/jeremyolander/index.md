@@ -1,6 +1,6 @@
 # Jeremy Olander
 
-Jeremy Olander is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Digital, Newcastle on Sat, 7 Nov 2026.
+Jeremy Olander is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Digital, Newcastle on Sat, 7 Nov 2026.
 
 Jeremy Olander is a progressive house and techno artist based in Sweden, with 98 gigs on soundcheck across Amsterdam, Austin, Bali and Baltimore and 41 more. Often billed alongside Cristoph, Nick Warren and OLING. Next up: Digital, Newcastle on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Jeremy Olander is a progressive house and techno artist based in Sweden, with 98
 
 Cristoph, Nick Warren, OLING
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyolander/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyolander/)*

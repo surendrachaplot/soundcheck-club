@@ -1,6 +1,6 @@
 # MSTN
 
-MSTN is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
+MSTN is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
 
 MSTN is a trance and techno artist based in Georgia, with 11 gigs on soundcheck across Tbilisi. Often billed alongside Tsukuyomi, Boyd Schidt and Ketato M. Next up: KHIDI, Tbilisi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MSTN is a trance and techno artist based in Georgia, with 11 gigs on soundcheck 
 
 Tsukuyomi, Boyd Schidt, Ketato M
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mstn/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mstn/)*

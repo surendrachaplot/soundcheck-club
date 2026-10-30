@@ -1,6 +1,6 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+KETTAMA is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
 KETTAMA is a techno and house artist based in Ireland, with 275 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 85 more. Often billed alongside Partiboi69, Ben Hemsley and Mall Grab. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ KETTAMA is a techno and house artist based in Ireland, with 275 gigs on soundche
 
 Partiboi69, Ben Hemsley, Mall Grab
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*

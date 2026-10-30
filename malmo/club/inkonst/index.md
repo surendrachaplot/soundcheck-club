@@ -1,6 +1,6 @@
 # Inkonst
 
-Inkonst is a music venue in Malmo with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Cypher Tales x ROOTED presents: Nothing’s Like Detroit - Spooky Sexy Fall Edition" on Sat, 31 Oct 2026.
+Inkonst is a music venue in Malmo with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cypher Tales x ROOTED presents: Nothing’s Like Detroit - Spooky Sexy Fall Edition" on Sat, 31 Oct 2026.
 
 Inkonst is a music venue in Malmo listed on soundcheck. 6 upcoming gigs, with line-ups including Behrang Mohammadi, Carly Zeng, DJ Assault and DJ VV and 2 more. See dates, start times and who's playing. Bergsgatan 29, 214 22 Malmö, Sweden.
 
@@ -19,4 +19,4 @@ Inkonst is a music venue in Malmo listed on soundcheck. 6 upcoming gigs, with li
 
 Bergsgatan 29, 214 22 Malmö, Sweden, Malmo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/malmo/club/inkonst/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/malmo/club/inkonst/)*

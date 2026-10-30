@@ -1,6 +1,6 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Studio TD, Montreal on Fri, 30 Oct 2026.
+1tbsp is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Studio TD, Montreal on Fri, 30 Oct 2026.
 
 1tbsp is a house and electronica artist based in Australia, with 131 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 38 more. Often billed alongside Killian, Mietze Conte and SOLTERA. Next up: Le Studio TD, Montreal on Fri 30 Oct.
 
@@ -29,4 +29,4 @@
 
 Killian, Mietze Conte, SOLTERA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

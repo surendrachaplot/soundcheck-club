@@ -1,6 +1,6 @@
 # chani
 
-chani is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
+chani is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
 
 chani is a techno and electro artist based in South Korea, with 34 gigs on soundcheck across Berlin, Lyon and Seoul. Often billed alongside Kyuchan, Yoel and .2ndfloor. Next up: Modeci, Seoul on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ chani is a techno and electro artist based in South Korea, with 34 gigs on sound
 
 Kyuchan, Yoel, .2ndfloor
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chani-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chani-2/)*

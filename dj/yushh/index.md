@@ -1,6 +1,6 @@
 # Yushh
 
-Yushh is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at radial, London on Fri, 30 Oct 2026.
+Yushh is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at radial, London on Fri, 30 Oct 2026.
 
 Yushh is a bass and techno artist based in United Kingdom, with 121 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 36 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: radial, London on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Yushh is a bass and techno artist based in United Kingdom, with 121 gigs on soun
 
 Breaka, Dubrunner, Batu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*

@@ -1,6 +1,6 @@
 # Julietta Ferrari
 
-Julietta Ferrari is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sala Siroco, Madrid on Fri, 30 Oct 2026.
+Julietta Ferrari is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sala Siroco, Madrid on Fri, 30 Oct 2026.
 
 Julietta Ferrari is an electro and experimental artist based in Spain, with 43 gigs on soundcheck across Barcelona, Glasgow, London and Madrid and 1 more. Often billed alongside JUMER, Montenegro and ENGALANAN. Next up: Sala Siroco, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Julietta Ferrari is an electro and experimental artist based in Spain, with 43 g
 
 JUMER, Montenegro, ENGALANAN
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliettaferrari/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliettaferrari/)*

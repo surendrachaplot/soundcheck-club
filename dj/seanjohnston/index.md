@@ -1,6 +1,6 @@
 # Sean Johnston
 
-Sean Johnston is a Acid and Electronica artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 7 Nov 2026.
+Sean Johnston is a Acid and Electronica artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 7 Nov 2026.
 
 Sean Johnston is an acid and electronica artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 13 more. Often billed alongside A LOVE FROM OUTER SPACE, Vladimir Ivkovic and Chris Massey. Next up: Village Underground Barcelona, Barcelona on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Sean Johnston is an acid and electronica artist based in United Kingdom, with 77
 
 A LOVE FROM OUTER SPACE, Vladimir Ivkovic, Chris Massey
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanjohnston/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanjohnston/)*

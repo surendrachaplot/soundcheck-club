@@ -1,6 +1,6 @@
 # Prince Batrick
 
-Prince Batrick is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Black Eagle, Toronto on Fri, 30 Oct 2026.
+Prince Batrick is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Black Eagle, Toronto on Fri, 30 Oct 2026.
 
 Prince Batrick is a house and garage artist based in United States of America, with 64 gigs on soundcheck across London, Miami, Montreal and New York City and 3 more. Often billed alongside Rose Hips, Delicious DJ and Bikethug. Next up: Black Eagle, Toronto on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Prince Batrick is a house and garage artist based in United States of America, w
 
 Rose Hips (2), Delicious DJ, Bikethug
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princebatrick/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princebatrick/)*

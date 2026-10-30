@@ -1,6 +1,6 @@
 # RONI
 
-RONI is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Botanique, Brussels on Sat, 7 Nov 2026.
+RONI is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Botanique, Brussels on Sat, 7 Nov 2026.
 
 RONI is a techno and bass artist based in France, with 129 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 33 more. Often billed alongside Lisa More, Aloka and Bambounou. Next up: Botanique, Brussels on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ RONI is a techno and bass artist based in France, with 129 gigs on soundcheck ac
 
 Lisa More, Aloka, Bambounou
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*

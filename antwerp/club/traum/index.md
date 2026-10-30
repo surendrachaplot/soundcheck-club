@@ -1,6 +1,6 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Curated by Phemia: Justine Perry, Pooja B, Phemia" on Fri, 30 Oct 2026.
+TRAUM is a music venue in Antwerp with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Curated by Phemia: Justine Perry, Pooja B, Phemia" on Fri, 30 Oct 2026.
 
 TRAUM is a music venue in Antwerp listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Alexander Koning, Benga and Casper and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 14 upcoming gigs, with l
 | Fri, 4 Dec 2026 | Freed with Conducta (UK) & Ineffekt (NL) | Conducta, Ineffekt, Kōma, cyvira |
 | Sat, 5 Dec 2026 | Café d'Anvers Reunion | Alexander Koning, Dimitri Kneppers, Remy Unger, Steve Cop |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

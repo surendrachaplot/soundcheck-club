@@ -1,6 +1,6 @@
 # Manny Ward
 
-Manny Ward is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Stereo, Montreal on Fri, 20 Nov 2026.
+Manny Ward is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Stereo, Montreal on Fri, 20 Nov 2026.
 
 Manny Ward is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Montreal, New York City and Philadelphia. Often billed alongside Peter Napoli, borali and Alain Lopez. Next up: Stereo, Montreal on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Manny Ward is a house and techno artist based in United States of America, with 
 
 Peter Napoli, borali, Alain Lopez
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mannyward/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mannyward/)*

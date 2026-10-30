@@ -1,14 +1,13 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Free Jungle Rave: Halloween Special" on Thu, 29 Oct 2026.
+Hootananny Brixton is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "SYN LDN presents: Flux Pavilion" on Fri, 30 Oct 2026.
 
-Hootananny Brixton is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Boxer, Clodagh, Congo Natty and DJ Brockie and 2 more. See dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
+Hootananny Brixton is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Boxer, Clodagh, Congo Natty and DJ Brockie and 2 more. See dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Free Jungle Rave: Halloween Special |  |
 | Fri, 30 Oct 2026 | SYN LDN presents: Flux Pavilion | Flux Pavilion |
 | Sat, 31 Oct 2026 | BOOgie Nights: Grooves from beyond the Grave |  |
 | Fri, 6 Nov 2026 | Congo Natty: The Rebel On the Road | Clodagh, Congo Natty, OS:MAN |
@@ -21,4 +20,4 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 8 upcoming g
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

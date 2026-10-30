@@ -1,6 +1,6 @@
 # jayjayGR
 
-jayjayGR is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Skull Bar, Athens on Sat, 31 Oct 2026.
+jayjayGR is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Skull Bar, Athens on Sat, 31 Oct 2026.
 
 jayjayGR is a house and deep house artist based in Greece, with 39 gigs on soundcheck across Athens. Often billed alongside Stratos, Reign Of Time and MAN WITH THE SPEAKER. Next up: Skull Bar, Athens on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ jayjayGR is a house and deep house artist based in Greece, with 39 gigs on sound
 
 Stratos (2), Reign Of Time, MAN WITH THE SPEAKER
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjaygr/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjaygr/)*

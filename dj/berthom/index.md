@@ -1,6 +1,6 @@
 # Berthom
 
-Berthom is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at 23 Music Room, Taipei on Fri, 30 Oct 2026.
+Berthom is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at 23 Music Room, Taipei on Fri, 30 Oct 2026.
 
 Berthom is a house and minimal artist, with 31 gigs on soundcheck across Bangkok, Hong Kong and Taipei. Often billed alongside DZRT FRST, The Cook, The Thief and Pvrple Breeze. Next up: 23 Music Room, Taipei on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Berthom is a house and minimal artist, with 31 gigs on soundcheck across Bangkok
 
 DZRT FRST, The Cook, The Thief, Pvrple Breeze
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berthom/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berthom/)*

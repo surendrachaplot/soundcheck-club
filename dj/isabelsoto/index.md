@@ -1,6 +1,6 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at FOLD, London on Fri, 6 Nov 2026.
+Isabel Soto is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at FOLD, London on Fri, 6 Nov 2026.
 
 Isabel Soto is a techno and house artist based in Venezuela, with 114 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Claudio PRC, Oscar Mulero and Mike Larry. Next up: FOLD, London on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Isabel Soto is a techno and house artist based in Venezuela, with 114 gigs on so
 
 Claudio PRC, Oscar Mulero, Mike Larry
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

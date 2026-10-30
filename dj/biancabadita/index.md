@@ -1,6 +1,6 @@
 # Bianca Badita
 
-Bianca Badita is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Stereo, Montreal on Fri, 6 Nov 2026.
+Bianca Badita is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Stereo, Montreal on Fri, 6 Nov 2026.
 
 Bianca Badita is a techno and electro artist, with 47 gigs on soundcheck across Montreal. Often billed alongside Mike Larry, MPHS and CrisseMarqueur. Next up: Stereo, Montreal on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bianca Badita is a techno and electro artist, with 47 gigs on soundcheck across 
 
 Mike Larry, MPHS, CrisseMarqueur
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancabadita/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancabadita/)*

@@ -1,6 +1,6 @@
 # DYEN
 
-DYEN is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+DYEN is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
 DYEN is a techno and house artist based in Netherlands, with 226 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 67 more. Often billed alongside Nico Moreno, Shlømo and Charlie Sparks. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ DYEN is a techno and house artist based in Netherlands, with 226 gigs on soundch
 
 Nico Moreno, Shlømo, Charlie Sparks
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*

@@ -1,6 +1,6 @@
 # Sanna Mun
 
-Sanna Mun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The DBA, Manchester on Fri, 1 Jan 2027.
+Sanna Mun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The DBA, Manchester on Fri, 1 Jan 2027.
 
 Sanna Mun is a techno and house artist, with 46 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bologna and 18 more. Often billed alongside Amanda Mussi, CONCEPTUAL and Function. Next up: The DBA, Manchester on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Sanna Mun is a techno and house artist, with 46 gigs on soundcheck across Amster
 
 Amanda Mussi, CONCEPTUAL, Function
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sannamun/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sannamun/)*

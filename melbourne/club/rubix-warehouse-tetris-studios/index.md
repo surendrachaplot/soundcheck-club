@@ -1,6 +1,6 @@
 # Rubix Warehouse & Tetris Studios
 
-Rubix Warehouse & Tetris Studios is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Head On: Punk Rave #2" on Sat, 7 Nov 2026.
+Rubix Warehouse & Tetris Studios is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Head On: Punk Rave #2" on Sat, 7 Nov 2026.
 
 Rubix Warehouse & Tetris Studios is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including PITCHKA. See dates, start times and who's playing. 36 Phoenix St, Brunswick, Melbourne, Victoria, 3056, AUS.
 
@@ -15,4 +15,4 @@ Rubix Warehouse & Tetris Studios is a music venue in Melbourne listed on soundch
 
 36 Phoenix St, Brunswick, Melbourne, Victoria, 3056, AUS, Melbourne
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/rubix-warehouse-tetris-studios/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/rubix-warehouse-tetris-studios/)*

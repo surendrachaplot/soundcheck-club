@@ -1,6 +1,6 @@
 # Thor Rixon
 
-Thor Rixon is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Thor Rixon is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
 
 Thor Rixon is a house and garage artist based in South Africa, with 26 gigs on soundcheck across Berlin, Cape Town and Montreal. Often billed alongside ADAM MUNNINGS, Dornika and Amy Mauritz. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Thor Rixon is a house and garage artist based in South Africa, with 26 gigs on s
 
 ADAM MUNNINGS, Dornika, Amy Mauritz
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thorrixon/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thorrixon/)*

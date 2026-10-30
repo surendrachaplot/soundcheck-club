@@ -1,6 +1,6 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Terminal 5, New York City on Fri, 30 Oct 2026.
+horsegiirL is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Terminal 5, New York City on Fri, 30 Oct 2026.
 
 horsegiirL is a techno and house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside DJ Gigola, MCR-T and VTSS. Next up: Terminal 5, New York City on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ horsegiirL is a techno and house artist based in Germany, with 133 gigs on sound
 
 DJ Gigola, MCR-T, VTSS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

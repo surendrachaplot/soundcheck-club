@@ -1,6 +1,6 @@
 # Kiso
 
-Kiso is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "ear2ear presents: Jason Kendig and fun2bjane b2b Etari" on Sat, 7 Nov 2026.
+Kiso is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "ear2ear presents: Jason Kendig and fun2bjane b2b Etari" on Sat, 7 Nov 2026.
 
 Kiso is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Etari, fun2bjane and Jason Kendig. See dates, start times and who's playing. 107 4th St, Los Angeles, CA 90013.
 
@@ -14,4 +14,4 @@ Kiso is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with 
 
 107 4th St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kiso/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kiso/)*

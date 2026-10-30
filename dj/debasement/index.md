@@ -1,6 +1,6 @@
 # deBasement
 
-deBasement is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
+deBasement is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
 
 deBasement is a techno and club artist based in United States of America, with 41 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Marie Davidson, Brutalismus 3000 and Eurohead. Next up: Industry City, New York City on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ deBasement is a techno and club artist based in United States of America, with 4
 
 Marie Davidson, Brutalismus 3000, Eurohead
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

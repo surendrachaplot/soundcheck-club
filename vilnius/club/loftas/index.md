@@ -1,6 +1,6 @@
 # Loftas
 
-Loftas is a music venue in Vilnius with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Reggaeton Party (Lithuania) November" on Fri, 13 Nov 2026.
+Loftas is a music venue in Vilnius with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Reggaeton Party (Lithuania) November" on Fri, 13 Nov 2026.
 
 Loftas is a music venue in Vilnius listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Loftas is a music venue in Vilnius listed on soundcheck. 2 upcoming gigs. See da
 | Fri, 13 Nov 2026 | Reggaeton Party (Lithuania) November |  |
 | Sat, 12 Dec 2026 | Reggaeton Party (Lithuania) December |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/loftas/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/loftas/)*

@@ -1,6 +1,6 @@
 # Skye (2)
 
-Skye (2) is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
+Skye (2) is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
 
 Skye is a breakbeat and bass artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, Leeds and London. Often billed alongside Nio-B, Buckley (UK) and Howie Booth. Next up: M.O.T, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Skye is a breakbeat and bass artist based in United Kingdom, with 15 gigs on sou
 
 Nio-B, Buckley (UK), Howie Booth
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skye-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skye-2/)*

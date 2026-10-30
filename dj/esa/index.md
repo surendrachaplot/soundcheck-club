@@ -1,6 +1,6 @@
 # Esa
 
-Esa is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Jazz Cafe, London on Fri, 30 Oct 2026.
+Esa is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Jazz Cafe, London on Fri, 30 Oct 2026.
 
 Esa is a house and disco artist based in South Africa, with 61 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bordeaux and 22 more. Often billed alongside Antal, Jamz Supernova and Yu Su. Next up: The Jazz Cafe, London on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Esa is a house and disco artist based in South Africa, with 61 gigs on soundchec
 
 Antal, Jamz Supernova, Yu Su
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esa/)*

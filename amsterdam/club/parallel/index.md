@@ -1,6 +1,6 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Fi Di Gyal Dem" on Fri, 30 Oct 2026.
+Parallel is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Fi Di Gyal Dem" on Fri, 30 Oct 2026.
 
 Parallel is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Hamdi (UK), I-RO, MALLAURY and Nems and 2 more. See dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
@@ -23,4 +23,4 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, w
 
 Buiksloterweg 5C, 1031 CC Amsterdam, Amsterdam
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*

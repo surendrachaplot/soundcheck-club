@@ -1,6 +1,6 @@
 # Planète Gigz
 
-Planète Gigz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory 47, Hanoi on Fri, 30 Oct 2026.
+Planète Gigz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory 47, Hanoi on Fri, 30 Oct 2026.
 
 Planète Gigz is a house and techno artist, with 27 gigs on soundcheck across Hanoi. Often billed alongside kenno, Dusan Nikolic and K-Sang. Next up: Factory 47, Hanoi on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Planète Gigz is a house and techno artist, with 27 gigs on soundcheck across Ha
 
 kenno (2), Dusan Nikolic, K-Sang
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetegigz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetegigz/)*

@@ -1,8 +1,8 @@
 # re:ni
 
-re:ni is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Oranj Dray Walk, London on Sat, 31 Oct 2026.
+re:ni is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Oranj Dray Walk, London on Sat, 31 Oct 2026.
 
-re:ni is a techno and bass artist based in United Kingdom, with 165 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 51 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Oranj Dray Walk, London on Sat 31 Oct.
+re:ni is a techno and bass artist based in United Kingdom, with 166 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 51 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Oranj Dray Walk, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ re:ni is a techno and bass artist based in United Kingdom, with 165 gigs on soun
 | Sat, 7 Nov 2026 | TBA - Downtown | Los Angeles |
 | Fri, 13 Nov 2026 | Nowadays | New York City |
 | Sat, 14 Nov 2026 | Monument SF | San Francisco/Oakland |
+| Fri, 27 Nov 2026 | Nitsa Club | Barcelona |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
@@ -30,4 +31,4 @@ re:ni is a techno and bass artist based in United Kingdom, with 165 gigs on soun
 
 Laksa, Zenker Brothers, Skee Mask
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*

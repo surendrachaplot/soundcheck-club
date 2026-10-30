@@ -1,6 +1,6 @@
 # Paul Ritch
 
-Paul Ritch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
+Paul Ritch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
 
 Paul Ritch is a techno and house artist based in France, with 18 gigs on soundcheck across Bogotá, Hong Kong, Lisbon and London and 8 more. Often billed alongside Adrian Hex, STE-VÍ and Secret Raver. Next up: Starlane Pizza Bar, London on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Paul Ritch is a techno and house artist based in France, with 18 gigs on soundch
 
 Adrian Hex, STE-VÍ, Secret Raver
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulritch/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulritch/)*

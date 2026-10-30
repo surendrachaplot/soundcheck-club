@@ -1,6 +1,6 @@
 # Corcra
 
-Corcra is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Crate Brewery, London on Sat, 31 Oct 2026.
+Corcra is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Crate Brewery, London on Sat, 31 Oct 2026.
 
 Corcra is a club and house artist, with 11 gigs on soundcheck across Dublin, Galway and London. Often billed alongside Dan Ivy, IMO (IRE) and JUSTDYL. Next up: Crate Brewery, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Corcra is a club and house artist, with 11 gigs on soundcheck across Dublin, Gal
 
 Dan Ivy, IMO (IRE), JUSTDYL
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corcra/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corcra/)*

@@ -1,6 +1,6 @@
 # Alicelect
 
-Alicelect is a House and Classical artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - GRIMORIO UNDERGROUND, Guadalajara on Fri, 30 Oct 2026.
+Alicelect is a House and Classical artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - GRIMORIO UNDERGROUND, Guadalajara on Fri, 30 Oct 2026.
 
 Alicelect is a house and classical artist based in Mexico, with 22 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Cachaza, Microm Dee and Valeria Almeida. Next up: TBA - GRIMORIO UNDERGROUND, Guadalajara on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alicelect is a house and classical artist based in Mexico, with 22 gigs on sound
 
 Cachaza, Microm Dee, Valeria Almeida
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicelect/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicelect/)*

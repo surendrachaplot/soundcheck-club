@@ -1,6 +1,6 @@
 # Fabio Santos
 
-Fabio Santos is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 7 Nov 2026.
+Fabio Santos is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 7 Nov 2026.
 
 Fabio Santos is a house and garage artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Bristol, Leeds and Netherlands and 3 more. Often billed alongside Michel de Hey, AAT (NL) and Benny Rodrigues. Next up: Shelter Amsterdam, Amsterdam on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Fabio Santos is a house and garage artist based in Netherlands, with 34 gigs on 
 
 Michel de Hey, AAT (NL), Benny Rodrigues
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*

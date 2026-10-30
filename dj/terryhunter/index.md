@@ -1,6 +1,6 @@
 # Terry Hunter
 
-Terry Hunter is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Nocturne, Chicago on Sat, 31 Oct 2026.
+Terry Hunter is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Nocturne, Chicago on Sat, 31 Oct 2026.
 
 Terry Hunter is a house and deep house artist based in United Kingdom, with 102 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Chicago and 12 more. Often billed alongside Mike Dunn, Wayne Williams and Adorio. Next up: Le Nocturne, Chicago on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Terry Hunter is a house and deep house artist based in United Kingdom, with 102 
 
 Mike Dunn, Wayne Williams, Adorio
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*

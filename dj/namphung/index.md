@@ -1,6 +1,6 @@
 # Nam Phùng
 
-Nam Phùng is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Nam Phùng is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 Nam Phùng is a techno and house artist based in Vietnam, with 25 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Emmytee, Komga and Lam Dao. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -15,6 +15,7 @@ Nam Phùng is a techno and house artist based in Vietnam, with 25 gigs on soundc
 
 ## Recently played
 
+- The Observatory, Ho-chi-minh-city · Thu, 29 Oct 2026
 - Unmute, Hanoi · Fri, 23 Oct 2026
 - Unmute, Hanoi · Fri, 28 Aug 2026
 - Unmute, Hanoi · Fri, 14 Aug 2026
@@ -22,10 +23,9 @@ Nam Phùng is a techno and house artist based in Vietnam, with 25 gigs on soundc
 - Unmute, Hanoi · Sat, 11 Jul 2026
 - Unmute, Hanoi · Sat, 20 Jun 2026
 - Unmute, Hanoi · Sat, 13 Jun 2026
-- Unmute, Hanoi · Sat, 16 May 2026
 
 ## Shares bills with
 
 Emmytee, Komga, Lam Dao
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namphung/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/namphung/)*

@@ -1,6 +1,6 @@
 # Lisa Korver
 
-Lisa Korver is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
+Lisa Korver is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
 
 Lisa Korver is a techno and house artist based in Netherlands, with 76 gigs on soundcheck across Amsterdam, Antwerp, Copenhagen and Eindhoven and 10 more. Often billed alongside LAMMER, OLIVIA LENSEN and Freddi. Next up: Grelle Forelle, Vienna on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Lisa Korver is a techno and house artist based in Netherlands, with 76 gigs on s
 
 LAMMER, OLIVIA LENSEN, Freddi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*

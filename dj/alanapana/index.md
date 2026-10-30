@@ -1,6 +1,6 @@
 # Alanapana
 
-Alanapana is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Flash, Washington DC on Sat, 14 Nov 2026.
+Alanapana is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Flash, Washington DC on Sat, 14 Nov 2026.
 
 Alanapana is a house and deep house artist, with 14 gigs on soundcheck across Washington DC. Often billed alongside Jandro, MAXIMILIANO (US) and Katarina Especial. Next up: Flash, Washington DC on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Alanapana is a house and deep house artist, with 14 gigs on soundcheck across Wa
 
 Jandro, MAXIMILIANO (US), Katarina Especial
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanapana/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanapana/)*

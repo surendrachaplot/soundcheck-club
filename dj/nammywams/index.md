@@ -1,6 +1,6 @@
 # Nammy Wams
 
-Nammy Wams is a Grime and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Nico's Bar at Hackney Bridge, London on Sat, 31 Oct 2026.
+Nammy Wams is a Grime and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nico's Bar at Hackney Bridge, London on Sat, 31 Oct 2026.
 
 Nammy Wams is a grime and club artist based in United Kingdom, with 31 gigs on soundcheck across Cologne, London, Manchester and Paris and 1 more. Often billed alongside M.I.C (The Master of Inane Conversation), Tice Cin and anti.Net. Next up: Nico's Bar at Hackney Bridge, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nammy Wams is a grime and club artist based in United Kingdom, with 31 gigs on s
 
 M.I.C (The Master of Inane Conversation), Tice Cin, anti.Net
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nammywams/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nammywams/)*

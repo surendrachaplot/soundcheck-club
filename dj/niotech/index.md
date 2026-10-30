@@ -1,6 +1,6 @@
 # Niotech
 
-Niotech is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tanztag. Schwerin, Mecklenburg-vorpommern on Sat, 7 Nov 2026.
+Niotech is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tanztag. Schwerin, Mecklenburg-vorpommern on Sat, 7 Nov 2026.
 
 Niotech is a techno and trance artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 28 more. Often billed alongside AREA ØNE, 3LEEZA and IGDA. Next up: Tanztag. Schwerin, Mecklenburg Vorpommern on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Niotech is a techno and trance artist based in Germany, with 92 gigs on soundche
 
 AREA ØNE, 3LEEZA, IGDA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niotech/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niotech/)*

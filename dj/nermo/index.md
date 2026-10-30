@@ -1,6 +1,6 @@
 # Nermo
 
-Nermo is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Atno, Budapest on Sat, 19 Dec 2026.
+Nermo is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Atno, Budapest on Sat, 19 Dec 2026.
 
 Nermo is an electro and techno artist based in Hungary, with 12 gigs on soundcheck across Budapest. Often billed alongside Kvrk, Claudio Imperatrice and Kiuz. Next up: Atno, Budapest on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Nermo is an electro and techno artist based in Hungary, with 12 gigs on soundche
 
 Kvrk, Claudio Imperatrice, Kiuz
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nermo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nermo/)*

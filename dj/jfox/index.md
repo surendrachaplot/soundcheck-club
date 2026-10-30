@@ -1,6 +1,6 @@
 # JFOX
 
-JFOX is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at HQI, London on Fri, 13 Nov 2026.
+JFOX is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at HQI, London on Fri, 13 Nov 2026.
 
 JFOX is a techno and trance artist based in United Kingdom, with 33 gigs on soundcheck across Athens, Ibiza, London and Thessaloniki and 1 more. Often billed alongside DJ LIL-E, Eseccaro and Leviminks. Next up: HQI, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ JFOX is a techno and trance artist based in United Kingdom, with 33 gigs on soun
 
 DJ LIL-E, Eseccaro, Leviminks
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jfox/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jfox/)*

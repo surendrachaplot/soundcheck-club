@@ -1,8 +1,8 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬" on Fri, 30 Oct 2026.
+Underground SF is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬" on Fri, 30 Oct 2026.
 
-Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including 2dahlia, 480P (US), 9-System and Aepricity and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including 2dahlia, 480P (US), 9-System and Aepricity and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 | Thu, 12 Nov 2026 | Just Another Bitch EP Release Party | Aepricity, Arreola Grande, Just Another Bitch, Koreaboo, Oso Feo, ZZ (4), ek:), jmo corleone, likeholywine, nonsuit, xxveneco |
 | Fri, 13 Nov 2026 | CLUB MUSIC 11/13 at UndergroundSF | Andy411, Camillionaire, Mood Ring |
 | Sat, 21 Nov 2026 | hydraphex presents: Freeman 713, Emma Rak, Midnight Climax, 9-System, Stasis Field | 9-System, Emma Rak, Freeman 713, Midnight Climax |
+| Thu, 26 Nov 2026 | FIXED GLOSS presents 𝑮𝑶𝑻𝑯𝑺𝑮𝑰𝑽𝑰𝑵𝑮 | ALICE STRIBLING |
 | Sat, 28 Nov 2026 | OnSet | Mossmoss, Peter Clarke |
-| Sat, 5 Dec 2026 | Hector Moralez and friends presents 'A Vibe Called Tribe' |  |
 
 ## Address
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

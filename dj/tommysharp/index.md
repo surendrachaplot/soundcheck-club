@@ -1,6 +1,6 @@
 # Tommy Sharp
 
-Tommy Sharp is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Revolver Upstairs, Melbourne on Tue, 3 Nov 2026.
+Tommy Sharp is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Revolver Upstairs, Melbourne on Tue, 3 Nov 2026.
 
 Tommy Sharp is a techno and house artist based in Australia, with 23 gigs on soundcheck across Melbourne and Sydney. Often billed alongside DJ Wise, Black Dave and Emma Moon. Next up: Revolver Upstairs, Melbourne on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Tommy Sharp is a techno and house artist based in Australia, with 23 gigs on sou
 
 DJ Wise, Black Dave, Emma Moon
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommysharp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommysharp/)*

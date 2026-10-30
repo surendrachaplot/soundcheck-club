@@ -1,6 +1,6 @@
 # Seiji Ono
 
-Seiji Ono is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at WWW X, Tokyo on Fri, 30 Oct 2026.
+Seiji Ono is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at WWW X, Tokyo on Fri, 30 Oct 2026.
 
 Seiji Ono is a house and disco artist based in France, with 34 gigs on soundcheck across Barcelona, Bristol, Hong Kong and Kyoto and 7 more. Often billed alongside Theo Terev, Mafalda and Red Greg. Next up: WWW X, Tokyo on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Seiji Ono is a house and disco artist based in France, with 34 gigs on soundchec
 
 Theo Terev, Mafalda, Red Greg
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seijiono/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seijiono/)*

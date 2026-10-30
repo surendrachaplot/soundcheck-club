@@ -1,6 +1,6 @@
 # Paola Vigorito
 
-Paola Vigorito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at D-EDGE, Sao Paulo on Sat, 31 Oct 2026.
+Paola Vigorito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at D-EDGE, Sao Paulo on Sat, 31 Oct 2026.
 
 Paola Vigorito is a house and techno artist based in Brazil, with 23 gigs on soundcheck across Lisbon and Sao Paulo. Often billed alongside Adnan Sharif, Bryto and A-CIDO. Next up: D-EDGE, Sao Paulo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Paola Vigorito is a house and techno artist based in Brazil, with 23 gigs on sou
 
 Adnan Sharif, Bryto, A-CIDO
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paolavigorito/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paolavigorito/)*

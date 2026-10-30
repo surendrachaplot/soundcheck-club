@@ -1,6 +1,6 @@
 # DJ Katalist
 
-DJ Katalist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Terminal Bar, Minneapolis/St Paul on Sat, 21 Nov 2026.
+DJ Katalist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Terminal Bar, Minneapolis/St Paul on Sat, 21 Nov 2026.
 
 DJ Katalist is a techno and house artist, with 13 gigs on soundcheck across Detroit and Minneapolis/St Paul. Often billed alongside DJ Seoul, DJ Dav and DJ Nola. Next up: Terminal Bar, Minneapolis/St Paul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Katalist is a techno and house artist, with 13 gigs on soundcheck across Detr
 
 DJ Seoul, DJ Dav, DJ Nola
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkatalist/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkatalist/)*

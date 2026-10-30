@@ -1,19 +1,19 @@
 # Rana Iravani
 
-Rana Iravani is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Signal, New York City on Thu, 29 Oct 2026.
+Rana Iravani is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Refuge, New York City on Fri, 6 Nov 2026.
 
-Rana Iravani is a house and tech house artist based in United States of America, with 46 gigs on soundcheck across Dubai, Miami and New York City. Often billed alongside Auphoria, Jack Mulqueen and shanty mane. Next up: Signal, New York City on Thu 29 Oct.
+Rana Iravani is a house and tech house artist based in United States of America, with 46 gigs on soundcheck across Dubai, Miami and New York City. Often billed alongside Auphoria, Jack Mulqueen and shanty mane. Next up: Refuge, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Signal | New York City |
 | Fri, 6 Nov 2026 | Refuge | New York City |
 | Sat, 14 Nov 2026 | Green Room NYC | New York City |
 
 ## Recently played
 
+- Signal, New York City · Thu, 29 Oct 2026
 - Pacha New York, New York City · Fri, 9 Oct 2026
 - Outer Heaven, New York City · Fri, 25 Sept 2026
 - Honey's, New York City · Sun, 6 Sept 2026
@@ -21,10 +21,9 @@ Rana Iravani is a house and tech house artist based in United States of America,
 - H0L0, New York City · Fri, 4 Sept 2026
 - Roof Terrace BK, New York City · Sun, 30 Aug 2026
 - Roof Terrace BK, New York City · Fri, 28 Aug 2026
-- Apollo Studio, New York City · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Auphoria, Jack Mulqueen, shanty mane
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*

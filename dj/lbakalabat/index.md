@@ -1,6 +1,6 @@
 # LB aka LABAT
 
-LB aka LABAT is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+LB aka LABAT is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 LB aka LABAT is a techno and house artist based in France, with 226 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 68 more. Often billed alongside DJ Gigola, Partiboi69 and Juicy Romance. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ LB aka LABAT is a techno and house artist based in France, with 226 gigs on soun
 
 DJ Gigola, Partiboi69, Juicy Romance
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lbakalabat/)*

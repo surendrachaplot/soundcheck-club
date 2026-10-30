@@ -1,6 +1,6 @@
 # Magdalena (DE)
 
-Magdalena (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gallery, London on Sat, 28 Nov 2026.
+Magdalena (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gallery, London on Sat, 28 Nov 2026.
 
 Magdalena (DE) is a techno and house artist, with 56 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Nina Kraviz, 19:26 and ALX. Next up: Gallery, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Magdalena (DE) is a techno and house artist, with 56 gigs on soundcheck across A
 
 Nina Kraviz, 19:26, ALX
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena-de/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdalena-de/)*

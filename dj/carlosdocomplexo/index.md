@@ -1,6 +1,6 @@
 # Carlos do Complexo
 
-Carlos do Complexo is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
+Carlos do Complexo is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
 Carlos do Complexo is a baile funk and house artist based in Brazil, with 52 gigs on soundcheck across Barcelona, Berlin, Bristol and Lisbon and 4 more. Often billed alongside Ananda (BR), Glau and Kontronatura. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Carlos do Complexo is a baile funk and house artist based in Brazil, with 52 gig
 
 Ananda (BR), Glau, Kontronatura
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosdocomplexo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosdocomplexo/)*

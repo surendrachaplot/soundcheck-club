@@ -1,6 +1,6 @@
 # Jobe1811
 
-Jobe1811 is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 14 Nov 2026.
+Jobe1811 is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 14 Nov 2026.
 
 Jobe1811 is a deep house and progressive house artist based in Venezuela, with 11 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Bill Hates, Gabriel Castillo and Giulia Mad. Next up: Under Bridge Madrid, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jobe1811 is a deep house and progressive house artist based in Venezuela, with 1
 
 Bill Hates, Gabriel Castillo, Giulia Mad
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jobe1811/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jobe1811/)*

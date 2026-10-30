@@ -1,6 +1,6 @@
 # Dizzy (PL)
 
-Dizzy (PL) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at P61 Gallery, Berlin on Fri, 30 Oct 2026.
+Dizzy (PL) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at P61 Gallery, Berlin on Fri, 30 Oct 2026.
 
 Dizzy (PL) is a techno and trance artist based in Poland, with 27 gigs on soundcheck across Berlin, Bratislava, Krakow and Poznan and 4 more. Often billed alongside 7CIRCLE, Hekato and MERVH. Next up: P61 Gallery, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Dizzy (PL) is a techno and trance artist based in Poland, with 27 gigs on soundc
 
 7CIRCLE, Hekato, MERVH
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzypl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzypl/)*

@@ -1,6 +1,6 @@
 # Sakuma
 
-Sakuma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Oath, Tokyo on Fri, 30 Oct 2026.
+Sakuma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Oath, Tokyo on Fri, 30 Oct 2026.
 
 Sakuma is a techno and house artist based in Japan, with 117 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Celter, CHIDA and DJ Nobu. Next up: Oath, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sakuma is a techno and house artist based in Japan, with 117 gigs on soundcheck 
 
 Celter, CHIDA, DJ Nobu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakuma-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakuma-1/)*

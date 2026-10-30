@@ -1,6 +1,6 @@
 # AbuGlitsch
 
-AbuGlitsch is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
+AbuGlitsch is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
 
 AbuGlitsch is a techno and hip-hop artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg and 2 more. Often billed alongside Bovskey, P.Vanillaboy and 3LNA. Next up: Hoppetosse, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ AbuGlitsch is a techno and hip-hop artist based in Germany, with 32 gigs on soun
 
 Bovskey, P.Vanillaboy, 3LNA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abuglitsch/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abuglitsch/)*

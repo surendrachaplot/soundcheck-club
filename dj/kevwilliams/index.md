@@ -1,6 +1,6 @@
 # Kev Williams
 
-Kev Williams is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 30 Oct 2026.
+Kev Williams is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 30 Oct 2026.
 
 Kev Williams is a house and deep house artist based in Spain, with 29 gigs on soundcheck across Barcelona and Frankfurt. Often billed alongside Marvio, Momoda and Perch. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kev Williams is a house and deep house artist based in Spain, with 29 gigs on so
 
 Marvio, Momoda, Perch
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevwilliams/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevwilliams/)*

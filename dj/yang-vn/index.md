@@ -1,6 +1,6 @@
 # Yang (VN)
 
-Yang (VN) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory 47, Hanoi on Sat, 31 Oct 2026.
+Yang (VN) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory 47, Hanoi on Sat, 31 Oct 2026.
 
 Yang (VN) is a techno and house artist, with 48 gigs on soundcheck across Hanoi. Often billed alongside CONG, Kway and dMb (VN). Next up: Factory 47, Hanoi on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Yang (VN) is a techno and house artist, with 48 gigs on soundcheck across Hanoi.
 
 CONG, Kway, dMb (VN)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yang-vn/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yang-vn/)*

@@ -1,6 +1,6 @@
 # Butelkownia
 
-Butelkownia is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "KINGS OF D'N'B: Roni Size / DJ Aphrodite + more" on Tue, 10 Nov 2026.
+Butelkownia is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "KINGS OF D'N'B: Roni Size / DJ Aphrodite + more" on Tue, 10 Nov 2026.
 
 Butelkownia is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Aphrodite, Black Sun Empire, Ed Rush and Kaj.O and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Butelkownia is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Tue, 10 Nov 2026 | KINGS OF D'N'B: Roni Size / DJ Aphrodite + more | Aphrodite, Black Sun Empire, Ed Rush, Kaj.O, Roni Size |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/butelkownia/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/butelkownia/)*

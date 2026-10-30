@@ -1,6 +1,6 @@
 # Naramnesia
 
-Naramnesia is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Off The Cuff, London on Tue, 10 Nov 2026.
+Naramnesia is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Off The Cuff, London on Tue, 10 Nov 2026.
 
 Naramnesia is an experimental and hardcore artist based in United States of America, with 32 gigs on soundcheck across Berlin, Bristol, Budapest and Denver and 4 more. Often billed alongside glas___skin, Synapsefirer and overshine. Next up: Off The Cuff, London on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Naramnesia is an experimental and hardcore artist based in United States of Amer
 
 glas___skin, Synapsefirer, overshine
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naramnesia/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naramnesia/)*

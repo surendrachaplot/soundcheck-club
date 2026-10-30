@@ -1,6 +1,6 @@
 # 420@ôa
 
-420@ôa is a Club and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lux Fragil, Lisbon on Thu, 12 Nov 2026.
+420@ôa is a Club and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lux Fragil, Lisbon on Thu, 12 Nov 2026.
 
 420@ôa is a club and acid artist, with 12 gigs on soundcheck across Lisbon and London. Often billed alongside Violet (PT), DJ MAFIA and DJ Privilégio. Next up: Lux Fragil, Lisbon on Thu 12 Nov.
 
@@ -25,4 +25,4 @@
 
 Violet (PT), DJ MAFIA, DJ Privilégio
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/420ôa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/420ôa/)*

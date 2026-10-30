@@ -1,6 +1,6 @@
 # ingang
 
-ingang is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "O.W.A.P" on Sat, 14 Nov 2026.
+ingang is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "O.W.A.P" on Sat, 14 Nov 2026.
 
 ingang is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Dimitri, Mike Risk and Remy. See dates, start times and who's playing. Gedempt Hamerkanaal 86, Amsterdam, The Netherlands.
 
@@ -14,4 +14,4 @@ ingang is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with 
 
 Gedempt Hamerkanaal 86, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ingang/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ingang/)*

@@ -1,6 +1,6 @@
 # Evil Grimace
 
-Evil Grimace is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Grand Sud, Lille on Fri, 18 Dec 2026.
+Evil Grimace is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Grand Sud, Lille on Fri, 18 Dec 2026.
 
 Evil Grimace is a techno and hardcore artist based in France, with 26 gigs on soundcheck across Antwerp, Basel, Berlin and Bordeaux and 10 more. Often billed alongside Paul Seul, Casual Gabberz and LESSSS. Next up: Le Grand Sud, Lille on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ Evil Grimace is a techno and hardcore artist based in France, with 26 gigs on so
 
 Paul Seul, Casual Gabberz, LESSSS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evilgrimace/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evilgrimace/)*

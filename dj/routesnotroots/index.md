@@ -1,6 +1,6 @@
 # Routes Not Roots
 
-Routes Not Roots is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
+Routes Not Roots is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
 
 Routes Not Roots is a club and hip-hop artist based in Georgia, with 66 gigs on soundcheck across Munich and Tbilisi. Often billed alongside Giorgi Pipia, Kraumur and Memotech. Next up: Left Bank, Tbilisi on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Routes Not Roots is a club and hip-hop artist based in Georgia, with 66 gigs on 
 
 Giorgi Pipia, Kraumur, Memotech
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/routesnotroots/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/routesnotroots/)*

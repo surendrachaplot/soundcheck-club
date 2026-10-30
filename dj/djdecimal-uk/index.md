@@ -1,6 +1,6 @@
 # DJ Decimal
 
-DJ Decimal is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eutopia Warehouse, London on Sat, 5 Dec 2026.
+DJ Decimal is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Eutopia Warehouse, London on Sat, 5 Dec 2026.
 
 DJ Decimal is an afro house and house artist, with 18 gigs on soundcheck across Algarve and London. Often billed alongside Supa D, Beezo and Pioneer. Next up: Eutopia Warehouse, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ Decimal is an afro house and house artist, with 18 gigs on soundcheck across 
 
 Supa D, Beezo, Pioneer
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdecimal-uk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdecimal-uk/)*

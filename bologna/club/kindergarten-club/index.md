@@ -1,6 +1,6 @@
 # Kindergarten Club
 
-Kindergarten Club is a music venue in Bologna with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Bounce vs Hard Techno" on Fri, 30 Oct 2026.
+Kindergarten Club is a music venue in Bologna with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Bounce vs Hard Techno" on Fri, 30 Oct 2026.
 
 Kindergarten Club is a music venue in Bologna listed on soundcheck. 4 upcoming gigs, with line-ups including DOCTOR MÜCKE, epcoraw and MikyCiL. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Kindergarten Club is a music venue in Bologna listed on soundcheck. 4 upcoming g
 | Fri, 6 Nov 2026 | La grande parvenza + Veleno |  |
 | Sat, 7 Nov 2026 | Much Much Bass | epcoraw |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/kindergarten-club/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/kindergarten-club/)*

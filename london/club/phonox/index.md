@@ -1,14 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 42 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Insomnia Halloween Special (4AM)" on Thu, 29 Oct 2026.
+Phonox is a music venue in London with 41 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "NEVERMIND HALLOWEEN: p-rallel, Melé, Djammin" on Fri, 30 Oct 2026.
 
-Phonox is a music venue in London listed on soundcheck. 42 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 41 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Insomnia Halloween Special (4AM) | Brody James, Lucine, Roaming Data, Yves Tomas |
 | Fri, 30 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, Melé, Djammin | Djammin, Melé, p-rallel |
 | Fri, 30 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, PROZAK, Melé, CASNOVA, Djammin AMY OS | Amy Os, Casnova, Djammin, Melé, Prozak (IRL), p-rallel |
 | Sat, 31 Oct 2026 | FMS 6 Deck - London | FUZE |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 42 upcoming gigs, with l
 | Sat, 7 Nov 2026 | George FitzGerald (All Night Long) | George FitzGerald |
 | Thu, 12 Nov 2026 | Insomnia: DJ Storm, Chinese Daughter & Friends | Chinese Daughter, DJ Storm, Darkstepper, H3L3NA, Priscilla |
 | Fri, 13 Nov 2026 | Ross From Friends & ones: 4 Fridays at Phonox (13th Nov) | Ross From Friends, ones (UK) |
+| Sat, 14 Nov 2026 | Dusky: Originals (2010 - 2025 Set) - [2nd Date] | Dusky |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

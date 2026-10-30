@@ -1,6 +1,6 @@
 # Konzerthaus Berlin
 
-Konzerthaus Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Detect Ensemble & Acid Pauli & O/Y" on Fri, 20 Nov 2026.
+Konzerthaus Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Detect Ensemble & Acid Pauli & O/Y" on Fri, 20 Nov 2026.
 
 Konzerthaus Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Gendarmenmarkt, 10117 Berlin.
 
@@ -15,4 +15,4 @@ Konzerthaus Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming g
 
 Gendarmenmarkt, 10117 Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/konzerthaus-berlin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/konzerthaus-berlin/)*

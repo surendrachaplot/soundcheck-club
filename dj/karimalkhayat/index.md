@@ -1,6 +1,6 @@
 # Karim Alkhayat
 
-Karim Alkhayat is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 31 Oct 2026.
+Karim Alkhayat is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 31 Oct 2026.
 
 Karim Alkhayat is a techno and house artist based in Syria, with 63 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside NÚRIA (DE), KEN (DE) and Leon Licht. Next up: Den Anden Side, Copenhagen on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Karim Alkhayat is a techno and house artist based in Syria, with 63 gigs on soun
 
 NÚRIA (DE), KEN (DE), Leon Licht
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karimalkhayat/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karimalkhayat/)*

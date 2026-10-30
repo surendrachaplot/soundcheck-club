@@ -1,6 +1,6 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "KYLIE WEARS BERHAUS" on Fri, 6 Nov 2026.
+Marmorbar is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "KYLIE WEARS BERHAUS" on Fri, 6 Nov 2026.
 
 Marmorbar is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including anschi, ATARAX, Aude (DR) and Charlie. and 2 more. See dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
@@ -18,4 +18,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

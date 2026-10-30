@@ -1,6 +1,6 @@
 # Gary Beck
 
-Gary Beck is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Cieloterra, Rome on Sat, 31 Oct 2026.
+Gary Beck is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Cieloterra, Rome on Sat, 31 Oct 2026.
 
 Gary Beck is a techno and house artist based in United Kingdom, with 49 gigs on soundcheck across Aberdeen, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Co-Accused, Dave Clarke and Frazi.er. Next up: Cieloterra, Rome on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Gary Beck is a techno and house artist based in United Kingdom, with 49 gigs on 
 
 Co-Accused, Dave Clarke, Frazi.er
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*

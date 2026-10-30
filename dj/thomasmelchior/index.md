@@ -1,6 +1,6 @@
 # Thomas Melchior
 
-Thomas Melchior is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mooi Space, Toronto on Sat, 31 Oct 2026.
+Thomas Melchior is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mooi Space, Toronto on Sat, 31 Oct 2026.
 
 Thomas Melchior is a house and minimal artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Edward, Konstantin and Lawrence. Next up: Mooi Space, Toronto on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Thomas Melchior is a house and minimal artist based in Germany, with 89 gigs on 
 
 Edward, Konstantin, Lawrence
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*

@@ -1,6 +1,6 @@
 # Bo Yin
 
-Bo Yin is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Warehouse Talat Noi, Bangkok on Fri, 30 Oct 2026.
+Bo Yin is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Warehouse Talat Noi, Bangkok on Fri, 30 Oct 2026.
 
 Bo Yin is a techno and bass artist based in Taiwan, with 28 gigs on soundcheck across Bangkok, Hanoi, Taipei and Tokyo. Often billed alongside B E N N, KUAN and Goth-Trad. Next up: The Warehouse Talat Noi, Bangkok on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Bo Yin is a techno and bass artist based in Taiwan, with 28 gigs on soundcheck a
 
 B E N N, KUAN, Goth-Trad
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyin/)*

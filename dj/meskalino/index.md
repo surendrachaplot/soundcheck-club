@@ -1,6 +1,6 @@
 # Meskalino
 
-Meskalino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pod Gigantami, Warsaw on Fri, 30 Oct 2026.
+Meskalino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Pod Gigantami, Warsaw on Fri, 30 Oct 2026.
 
 Meskalino is a techno and house artist based in Poland, with 55 gigs on soundcheck across London and Warsaw. Often billed alongside KEVS, Jerry M and HANICZ. Next up: Pod Gigantami, Warsaw on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Meskalino is a techno and house artist based in Poland, with 55 gigs on soundche
 
 KEVS, Jerry M, HANICZ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meskalino/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meskalino/)*

@@ -1,6 +1,6 @@
 # MAKII
 
-MAKII is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Society, Brussels on Sat, 31 Oct 2026.
+MAKII is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Society, Brussels on Sat, 31 Oct 2026.
 
 MAKII is a house and techno artist based in Belgium, with 27 gigs on soundcheck across Brussels. Often billed alongside Belben, Re.You and ESIN BOZ. Next up: Society, Brussels on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ MAKII is a house and techno artist based in Belgium, with 27 gigs on soundcheck 
 
 Belben, Re.You, ESIN BOZ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makii/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makii/)*

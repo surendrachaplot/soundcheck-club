@@ -1,6 +1,6 @@
 # CH.0
 
-CH.0 is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at BAR Inc, Osaka on Sun, 22 Nov 2026.
+CH.0 is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at BAR Inc, Osaka on Sun, 22 Nov 2026.
 
 CH.0 is a hip-hop and house artist based in Japan, with 42 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside YASDUB, OG Militant B and Benedek. Next up: BAR Inc, Osaka on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ CH.0 is a hip-hop and house artist based in Japan, with 42 gigs on soundcheck ac
 
 YASDUB, OG Militant B, Benedek
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ch0/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ch0/)*

@@ -1,6 +1,6 @@
 # Cross
 
-Cross is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Oven Club, Valencia on Sat, 7 Nov 2026.
+Cross is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Oven Club, Valencia on Sat, 7 Nov 2026.
 
 Cross is a tech house and house artist based in Russia, with 11 gigs on soundcheck across Amsterdam, Chicago, Nantes and Osaka and 1 more. Often billed alongside Acidus, Alexander Koning and Arellano. Next up: Oven Club, Valencia on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Cross is a tech house and house artist based in Russia, with 11 gigs on soundche
 
 Acidus, Alexander Koning, Arellano
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cross/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cross/)*

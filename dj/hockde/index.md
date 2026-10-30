@@ -1,6 +1,6 @@
 # HOCK (DE)
 
-HOCK (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Distillery, Leipzig on Sat, 7 Nov 2026.
+HOCK (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Distillery, Leipzig on Sat, 7 Nov 2026.
 
 HOCK (DE) is a techno and trance artist, with 15 gigs on soundcheck across Berlin, Hannover and Leipzig. Often billed alongside Krash Cora, Bela Bertram and Ninette. Next up: Distillery, Leipzig on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ HOCK (DE) is a techno and trance artist, with 15 gigs on soundcheck across Berli
 
 Krash Cora, Bela Bertram, Ninette
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hockde/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hockde/)*

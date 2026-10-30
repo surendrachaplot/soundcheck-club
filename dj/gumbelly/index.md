@@ -1,6 +1,6 @@
 # Gumbelly
 
-Gumbelly is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at IL Beerla, Milan on Sat, 31 Oct 2026.
+Gumbelly is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at IL Beerla, Milan on Sat, 31 Oct 2026.
 
 Gumbelly is a house and electronica artist based in Italy, with 13 gigs on soundcheck across Amsterdam and Milan. Often billed alongside Y-DAPT, MAGNVM! and STYLOPHONIC. Next up: IL Beerla, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gumbelly is a house and electronica artist based in Italy, with 13 gigs on sound
 
 Y-DAPT, MAGNVM!, STYLOPHONIC
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gumbelly/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gumbelly/)*

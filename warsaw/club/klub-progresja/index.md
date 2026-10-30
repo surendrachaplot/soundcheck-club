@@ -1,6 +1,6 @@
 # Klub Progresja
 
-Klub Progresja is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "EXIST x Mutual Rytm Showcase" on Sat, 31 Oct 2026.
+Klub Progresja is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "EXIST x Mutual Rytm Showcase" on Sat, 31 Oct 2026.
 
 Klub Progresja is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including BLANKA, Phil Berg, SHDW and Stef Mendesidis and 1 more. See dates, start times and who's playing. Fort Wola 22, 01-258 Warszawa.
 
@@ -16,4 +16,4 @@ Klub Progresja is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs,
 
 Fort Wola 22, 01-258 Warszawa, Warsaw
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-progresja/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-progresja/)*

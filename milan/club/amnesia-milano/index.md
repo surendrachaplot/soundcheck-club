@@ -1,6 +1,6 @@
 # Amnesia Milano
 
-Amnesia Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HALLOWEEN NIGHT with Leon extended set, Michele Arcieri" on Sat, 31 Oct 2026.
+Amnesia Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HALLOWEEN NIGHT with Leon extended set, Michele Arcieri" on Sat, 31 Oct 2026.
 
 Amnesia Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Jamback and Leon. See dates, start times and who's playing. Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy.
 
@@ -15,4 +15,4 @@ Amnesia Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, 
 
 Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy, Milan
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*

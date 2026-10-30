@@ -1,6 +1,6 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at It'll Do, Dallas-fort-worth on Sat, 5 Dec 2026.
+Deep Dish is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at It'll Do, Dallas-fort-worth on Sat, 5 Dec 2026.
 
 Deep Dish is a house and progressive house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Dubfire, Sharam and Khen. Next up: It'll Do, Dallas Fort Worth on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Deep Dish is a house and progressive house artist based in United States of Amer
 
 Dubfire, Sharam, Khen
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*

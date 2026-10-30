@@ -1,6 +1,6 @@
 # BehTarin
 
-BehTarin is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Flash, Washington DC on Sun, 1 Nov 2026.
+BehTarin is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Flash, Washington DC on Sun, 1 Nov 2026.
 
 BehTarin is a house and deep house artist based in United States of America, with 39 gigs on soundcheck across New York City and Washington DC. Often billed alongside Heather Luna, KayLaSoul and shilimili. Next up: Flash, Washington DC on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ BehTarin is a house and deep house artist based in United States of America, wit
 
 Heather Luna, KayLaSoul, shilimili
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/behtarin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/behtarin/)*

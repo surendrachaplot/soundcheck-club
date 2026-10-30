@@ -1,6 +1,6 @@
 # MAIN SNIFFER ENGINEER
 
-MAIN SNIFFER ENGINEER is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
+MAIN SNIFFER ENGINEER is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
 
 MAIN SNIFFER ENGINEER is an electronic artist based in Russia, with 2 gigs on soundcheck across Moscow and Saint Petersburg. Often billed alongside ALOD, Chain Damage and Gemüt. Next up: K-30, Saint Petersburg on Sat 7 Nov.
 
@@ -15,4 +15,4 @@ MAIN SNIFFER ENGINEER is an electronic artist based in Russia, with 2 gigs on so
 
 ALOD, Chain Damage, Gemüt
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mainsnifferengineer/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mainsnifferengineer/)*

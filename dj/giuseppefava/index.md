@@ -1,6 +1,6 @@
 # Giuseppe Fava
 
-Giuseppe Fava is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
+Giuseppe Fava is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
 
 Giuseppe Fava is a house and disco artist, with 33 gigs on soundcheck across Berlin, Bologna, London and Milan and 3 more. Often billed alongside Obbi, ThanksMate and KARLOVE. Next up: Renate, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Giuseppe Fava is a house and disco artist, with 33 gigs on soundcheck across Ber
 
 Obbi, ThanksMate, KARLOVE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppefava/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppefava/)*

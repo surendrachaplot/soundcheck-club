@@ -1,6 +1,6 @@
 # Toranoko Shokudo
 
-Toranoko Shokudo is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DJ CLENT 'THE LOWEND LEGEND' in TOKYO" on Sat, 7 Nov 2026.
+Toranoko Shokudo is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "DJ CLENT 'THE LOWEND LEGEND' in TOKYO" on Sat, 7 Nov 2026.
 
 Toranoko Shokudo is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Fetus, HALU(Tribal Connection), HIBI BLISS and Jungle Rock and 2 more. See dates, start times and who's playing. 10-1 Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan.
 
@@ -15,4 +15,4 @@ Toranoko Shokudo is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs
 
 10-1 Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan, Tokyo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/toranoko-shokudo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/toranoko-shokudo/)*

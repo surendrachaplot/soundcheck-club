@@ -1,6 +1,6 @@
 # Fatzo
 
-Fatzo is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+Fatzo is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 Fatzo is a house and tech house artist based in France, with 144 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Oden, Sam Divine and Danny Howard. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Fatzo is a house and tech house artist based in France, with 144 gigs on soundch
 
 Oden, Sam Divine, Danny Howard
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*

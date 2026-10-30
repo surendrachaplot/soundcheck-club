@@ -1,6 +1,6 @@
 # Nunzio Borino
 
-Nunzio Borino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at I Candelai, Sicily on Sun, 19 Mar 2028.
+Nunzio Borino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at I Candelai, Sicily on Sun, 19 Mar 2028.
 
 Nunzio Borino is a house and techno artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 5 more. Often billed alongside Vladimir Ivkovic, Ricardo Baez and Billy Idle. Next up: I Candelai, Sicily on Sun 19 Mar.
 
@@ -25,4 +25,4 @@ Nunzio Borino is a house and techno artist based in Italy, with 22 gigs on sound
 
 Vladimir Ivkovic, Ricardo Baez, Billy Idle
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunzioborino/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunzioborino/)*

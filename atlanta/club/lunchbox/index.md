@@ -1,6 +1,6 @@
 # Lunchbox
 
-Lunchbox is a music venue in Atlanta with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Just Listen Collective Halloween Party W/ My Friend" on Fri, 30 Oct 2026.
+Lunchbox is a music venue in Atlanta with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Just Listen Collective Halloween Party W/ My Friend" on Fri, 30 Oct 2026.
 
 Lunchbox is a music venue in Atlanta listed on soundcheck. 8 upcoming gigs, with line-ups including AIRGLO, Alexion, Aries and Audio and 2 more. See dates, start times and who's playing. 50 Lower Alabama Street, Atlanta, GA 30303.
 
@@ -21,4 +21,4 @@ Lunchbox is a music venue in Atlanta listed on soundcheck. 8 upcoming gigs, with
 
 50 Lower Alabama Street, Atlanta, GA 30303, Atlanta
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/lunchbox/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/lunchbox/)*

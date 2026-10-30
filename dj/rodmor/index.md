@@ -1,6 +1,6 @@
 # rodmor
 
-rodmor is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Baalsaal, Hamburg on Fri, 13 Nov 2026.
+rodmor is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Baalsaal, Hamburg on Fri, 13 Nov 2026.
 
 rodmor is a techno and trance artist based in Nicaragua, with 27 gigs on soundcheck across Hamburg. Often billed alongside VIĆERO, Eva.nyx and LOWMBASS. Next up: Baalsaal, Hamburg on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ rodmor is a techno and trance artist based in Nicaragua, with 27 gigs on soundch
 
 VIĆERO, Eva.nyx, LOWMBASS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodmor/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodmor/)*

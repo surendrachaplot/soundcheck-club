@@ -1,6 +1,6 @@
 # MADAM
 
-MADAM is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OXI, Berlin on Sat, 5 Dec 2026.
+MADAM is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at OXI, Berlin on Sat, 5 Dec 2026.
 
 MADAM is a house and disco artist based in France, with 12 gigs on soundcheck across Berlin. Often billed alongside AMDH, Ayman and Enzo Cenci. Next up: OXI, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ MADAM is a house and disco artist based in France, with 12 gigs on soundcheck ac
 
 AMDH, Ayman, Enzo Cenci
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madam/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madam/)*

@@ -1,6 +1,6 @@
 # Poly-Ritmo
 
-Poly-Ritmo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eastway Baths, London on Sat, 31 Oct 2026.
+Poly-Ritmo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Eastway Baths, London on Sat, 31 Oct 2026.
 
 Poly-Ritmo is a house and disco artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dublin and 12 more. Often billed alongside Charlie Dark, Coco Maria and Cody Currie. Next up: Eastway Baths, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Poly-Ritmo is a house and disco artist based in United Kingdom, with 72 gigs on 
 
 Charlie Dark, Coco Maria, Cody Currie
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poly-ritmo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poly-ritmo/)*

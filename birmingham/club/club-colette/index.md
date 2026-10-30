@@ -1,6 +1,6 @@
 # Club Colette
 
-Club Colette is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Colette + CNTRL Pres. bullet tooth" on Sat, 14 Nov 2026.
+Club Colette is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Colette + CNTRL Pres. bullet tooth" on Sat, 14 Nov 2026.
 
 Club Colette is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including bullet tooth, Captain Wallop and Faraz (UK). See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Club Colette is a music venue in Birmingham listed on soundcheck. 2 upcoming gig
 | Sat, 14 Nov 2026 | Colette + CNTRL Pres. bullet tooth | Faraz (UK), bullet tooth |
 | Sat, 28 Nov 2026 | CNTRL Pres: Captain Wallop ALL NIGHT LONG | Captain Wallop |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/club-colette/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/club-colette/)*

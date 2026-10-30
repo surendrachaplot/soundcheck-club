@@ -1,6 +1,6 @@
 # Sunny Cheeba
 
-Sunny Cheeba is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Chocolate Factory, New York City on Wed, 25 Nov 2026.
+Sunny Cheeba is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Chocolate Factory, New York City on Wed, 25 Nov 2026.
 
 Sunny Cheeba is a house and disco artist, with 42 gigs on soundcheck across Ibiza, Miami, New York City and Philadelphia. Often billed alongside Rich Medina, BOJAQ and JKriv. Next up: The Chocolate Factory, New York City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Sunny Cheeba is a house and disco artist, with 42 gigs on soundcheck across Ibiz
 
 Rich Medina, BOJAQ, JKriv
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnycheeba/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnycheeba/)*

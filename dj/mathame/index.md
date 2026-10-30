@@ -1,6 +1,6 @@
 # Mathame
 
-Mathame is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at LAB theCLUB, Madrid on Fri, 30 Oct 2026.
+Mathame is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at LAB theCLUB, Madrid on Fri, 30 Oct 2026.
 
 Mathame is a techno and house artist based in Italy, with 178 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Lyke, Olympe and KAS:ST. Next up: LAB theCLUB, Madrid on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Mathame is a techno and house artist based in Italy, with 178 gigs on soundcheck
 
 Lyke, Olympe, KAS:ST
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*

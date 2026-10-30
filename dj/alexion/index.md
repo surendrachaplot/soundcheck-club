@@ -1,6 +1,6 @@
 # Alexion
 
-Alexion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Pittsburgh on Sat, 31 Oct 2026.
+Alexion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Pittsburgh on Sat, 31 Oct 2026.
 
 Alexion is a techno and house artist based in United States of America, with 3 gigs on soundcheck across Atlanta, Nashville and Pittsburgh. Often billed alongside Sesli, Linska and Stone Van Brooken. Next up: TBA, Pittsburgh on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Alexion is a techno and house artist based in United States of America, with 3 g
 
 Sesli, Linska, Stone Van Brooken
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexion/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexion/)*

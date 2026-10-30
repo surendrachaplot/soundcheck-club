@@ -1,6 +1,6 @@
 # Gold Panda
 
-Gold Panda is a Electronica and Experimental artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Faith in Strangers, South-east on Sat, 31 Oct 2026.
+Gold Panda is a Electronica and Experimental artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Faith in Strangers, South-east on Sat, 31 Oct 2026.
 
 Gold Panda is an electronica and experimental artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 18 more. Often billed alongside Nathan Fake, Baba Ali and 1-800 GIRLS. Next up: Faith in Strangers, South East on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Gold Panda is an electronica and experimental artist based in United Kingdom, wi
 
 Nathan Fake, Baba Ali, 1-800 GIRLS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldpanda/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldpanda/)*

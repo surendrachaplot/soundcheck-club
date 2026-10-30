@@ -1,6 +1,6 @@
 # SUFEI
 
-SUFEI is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Nulab Chengdu, Chengdu on Sat, 7 Nov 2026.
+SUFEI is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nulab Chengdu, Chengdu on Sat, 7 Nov 2026.
 
 SUFEI is a bass and techno artist based in China, with 25 gigs on soundcheck across Chengdu. Often billed alongside Luna LI, PINKBOIALWAYSCRY and HakkaEllen. Next up: Nulab Chengdu, Chengdu on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ SUFEI is a bass and techno artist based in China, with 25 gigs on soundcheck acr
 
 Luna LI, PINKBOIALWAYSCRY, HakkaEllen
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sufei/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sufei/)*

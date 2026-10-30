@@ -1,6 +1,6 @@
 # HEAVEN
 
-HEAVEN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Aoyama Tunnel, Tokyo on Fri, 30 Oct 2026.
+HEAVEN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Aoyama Tunnel, Tokyo on Fri, 30 Oct 2026.
 
 HEAVEN is a house and techno artist based in Japan, with 83 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Kengo, MINAMI and PIRANHA. Next up: Aoyama Tunnel, Tokyo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ HEAVEN is a house and techno artist based in Japan, with 83 gigs on soundcheck a
 
 Kengo, MINAMI, PIRANHA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heaven-jp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heaven-jp/)*

@@ -1,6 +1,6 @@
 # Keeno
 
-Keeno is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Village Underground, London on Sat, 28 Nov 2026.
+Keeno is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Village Underground, London on Sat, 28 Nov 2026.
 
 Keeno is a drum & bass and jungle artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 11 more. Often billed alongside Whiney, Unglued and AKTIVE. Next up: Village Underground, London on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Keeno is a drum & bass and jungle artist based in United Kingdom, with 32 gigs o
 
 Whiney, Unglued, AKTIVE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keeno/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keeno/)*

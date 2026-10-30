@@ -1,6 +1,6 @@
 # Juguete
 
-Juguete is a Club and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Hoxton Poblenou, Barcelona on Sat, 31 Oct 2026.
+Juguete is a Club and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Hoxton Poblenou, Barcelona on Sat, 31 Oct 2026.
 
 Juguete is a club and tech house artist based in Spain, with 58 gigs on soundcheck across Barcelona, Berlin, Madrid and Paris and 1 more. Often billed alongside Albal, DISTORT (ES) and Nile Fee. Next up: The Hoxton Poblenou, Barcelona on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Juguete is a club and tech house artist based in Spain, with 58 gigs on soundche
 
 Albal, DISTORT (ES), Nile Fee
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juguete/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juguete/)*

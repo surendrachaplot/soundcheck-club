@@ -1,6 +1,6 @@
 # Gauthier DM
 
-Gauthier DM is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Gauthier DM is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Gauthier DM is a house and tech house artist, with 12 gigs on soundcheck across Bologna, Geneva and Paris. Often billed alongside Disco Sosso, Eric Tchekhoff and DJ W!ld. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gauthier DM is a house and tech house artist, with 12 gigs on soundcheck across 
 
 Disco Sosso, Eric Tchekhoff, DJ W!ld
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gauthierdm/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gauthierdm/)*

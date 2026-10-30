@@ -1,6 +1,6 @@
 # Synestesia
 
-Synestesia is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 15 Nov 2026.
+Synestesia is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 15 Nov 2026.
 
 Synestesia is a techno and experimental artist based in United States of America, with 14 gigs on soundcheck across New York City. Often billed alongside Maha Kuma, R-DNA and Sam Valle. Next up: Bossa Nova Civic Club, New York City on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Synestesia is a techno and experimental artist based in United States of America
 
 Maha Kuma, R-DNA, Sam Valle
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synestesia/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synestesia/)*

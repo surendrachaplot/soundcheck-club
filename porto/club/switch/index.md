@@ -1,6 +1,6 @@
 # Switch
 
-Switch is a music venue in Porto with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween Switch with DJ Vibe & More" on Sat, 31 Oct 2026.
+Switch is a music venue in Porto with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween Switch with DJ Vibe & More" on Sat, 31 Oct 2026.
 
 Switch is a music venue in Porto listed on soundcheck. 4 upcoming gigs, with line-ups including Adiel, DJ Vibe, MARRØN and Moullinex and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Switch is a music venue in Porto listed on soundcheck. 4 upcoming gigs, with lin
 | Sat, 14 Nov 2026 | PARAMIDA | PARAMIDA |
 | Sat, 21 Nov 2026 | MARRØN | MARRØN |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/switch/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/switch/)*

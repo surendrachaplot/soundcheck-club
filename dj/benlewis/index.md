@@ -1,6 +1,6 @@
 # Ben Lewis
 
-Ben Lewis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Outlaws Yacht Club, Leeds on Fri, 30 Oct 2026.
+Ben Lewis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Outlaws Yacht Club, Leeds on Fri, 30 Oct 2026.
 
 Ben Lewis is a techno and acid artist based in United Kingdom, with 14 gigs on soundcheck across Leeds and Melbourne. Often billed alongside Marie Avril, John Paynter and Roya Brehl. Next up: Outlaws Yacht Club, Leeds on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ben Lewis is a techno and acid artist based in United Kingdom, with 14 gigs on s
 
 Marie Avril, John Paynter, Roya Brehl
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benlewis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benlewis/)*

@@ -1,6 +1,6 @@
 # Brancaleone
 
-Brancaleone is a music venue in Rome with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "GATE NACHT" on Fri, 6 Nov 2026.
+Brancaleone is a music venue in Rome with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "GATE NACHT" on Fri, 6 Nov 2026.
 
 Brancaleone is a music venue in Rome listed on soundcheck. 3 upcoming gigs, with line-ups including Abo Abo, Akiï, Donato Dozzy and Freddye and 2 more. See dates, start times and who's playing. 11 Via Levanna 00141, Rome (RM), Italy.
 
@@ -16,4 +16,4 @@ Brancaleone is a music venue in Rome listed on soundcheck. 3 upcoming gigs, with
 
 11 Via Levanna 00141, Rome (RM), Italy, Rome
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/brancaleone/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/brancaleone/)*

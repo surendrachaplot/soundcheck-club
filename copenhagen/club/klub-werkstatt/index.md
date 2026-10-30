@@ -1,6 +1,6 @@
 # Klub Werkstatt
 
-Klub Werkstatt is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HAUNTED WAREHOUSE HALLOWEEN PARTY" on Sat, 31 Oct 2026.
+Klub Werkstatt is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HAUNTED WAREHOUSE HALLOWEEN PARTY" on Sat, 31 Oct 2026.
 
 Klub Werkstatt is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including Benster, Eski, Jonas Tuk and Max Styler and 2 more. See dates, start times and who's playing. Refshalevej 167A, 1432, Copenhagen.
 
@@ -15,4 +15,4 @@ Klub Werkstatt is a music venue in Copenhagen listed on soundcheck. 2 upcoming g
 
 Refshalevej 167A, 1432, Copenhagen, Copenhagen
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/klub-werkstatt/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/klub-werkstatt/)*

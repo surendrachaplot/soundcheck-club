@@ -1,6 +1,6 @@
 # Jimmy Woo
 
-Jimmy Woo is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Adam & Eve - Taste in the Woo" on Sat, 30 Jan 2027.
+Jimmy Woo is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Adam & Eve - Taste in the Woo" on Sat, 30 Jan 2027.
 
 Jimmy Woo is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Aries, DJ Spen, ROOG and Urban. See dates, start times and who's playing. Korte Leidsedwarsstraat 18; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -15,4 +15,4 @@ Jimmy Woo is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, w
 
 Korte Leidsedwarsstraat 18; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/jimmy-woo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/jimmy-woo/)*

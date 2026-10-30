@@ -1,6 +1,6 @@
 # Lido Berlin
 
-Lido Berlin is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "No Tears - Halloween Special" on Fri, 30 Oct 2026.
+Lido Berlin is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "No Tears - Halloween Special" on Fri, 30 Oct 2026.
 
 Lido Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including BLEACH.LIVE, Fejká and Wyatt. See dates, start times and who's playing. Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany.
 
@@ -18,4 +18,4 @@ Lido Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, wi
 
 Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*

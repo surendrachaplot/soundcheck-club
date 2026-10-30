@@ -1,6 +1,6 @@
 # nydthakid
 
-nydthakid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mdlr, Singapore on Sat, 7 Nov 2026.
+nydthakid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mdlr, Singapore on Sat, 7 Nov 2026.
 
 nydthakid is a techno and house artist based in Singapore, with 13 gigs on soundcheck across Ho Chi Minh City and Singapore. Often billed alongside Metamoksha, howrøng and Loyboy. Next up: Mdlr, Singapore on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ nydthakid is a techno and house artist based in Singapore, with 13 gigs on sound
 
 Metamoksha, howrøng, Loyboy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nydthakid/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nydthakid/)*

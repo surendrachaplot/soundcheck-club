@@ -1,6 +1,6 @@
 # ZZ (4)
 
-ZZ (4) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
+ZZ (4) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
 
 ZZ is a club and techno artist based in United States of America, with 30 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside jmo corleone, ek:) and Just Another Bitch. Next up: Underground SF, San Francisco/Oakland on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ ZZ is a club and techno artist based in United States of America, with 30 gigs o
 
 jmo corleone, ek:), Just Another Bitch
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zz-4/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zz-4/)*

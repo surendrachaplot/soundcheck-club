@@ -1,6 +1,6 @@
 # marcelitumelis
 
-marcelitumelis is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Treehaus, Uno Malta, Malta on Fri, 30 Oct 2026.
+marcelitumelis is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Treehaus, Uno Malta, Malta on Fri, 30 Oct 2026.
 
 marcelitumelis is a techno and trance artist based in Poland, with 43 gigs on soundcheck across Bucharest, Hamburg, Krakow and Malta and 3 more. Often billed alongside xcessive, Józef Keuner and VRAXX. Next up: Treehaus, Uno Malta, Malta on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ marcelitumelis is a techno and trance artist based in Poland, with 43 gigs on so
 
 xcessive, Józef Keuner, VRAXX
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*

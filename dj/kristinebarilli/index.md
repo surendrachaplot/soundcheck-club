@@ -1,6 +1,6 @@
 # Kristine Barilli
 
-Kristine Barilli is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Roberta's, New York City on Sat, 31 Oct 2026.
+Kristine Barilli is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Roberta's, New York City on Sat, 31 Oct 2026.
 
 Kristine Barilli is a house and techno artist based in United States of America, with 50 gigs on soundcheck across London and New York City. Often billed alongside Arianna Danae, Andi and Gaspar Muniz. Next up: Roberta's, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kristine Barilli is a house and techno artist based in United States of America,
 
 Arianna Danae, Andi, Gaspar Muniz
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinebarilli/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinebarilli/)*

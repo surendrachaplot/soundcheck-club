@@ -1,6 +1,6 @@
 # Raijin
 
-Raijin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Vektor - The Klub, Budapest on Fri, 6 Nov 2026.
+Raijin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Vektor - The Klub, Budapest on Fri, 6 Nov 2026.
 
 Raijin is a techno and trance artist based in Hungary, with 4 gigs on soundcheck across Budapest. Often billed alongside schraeder, 96zen and CRIME. Next up: Vektor - The Klub, Budapest on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Raijin is a techno and trance artist based in Hungary, with 4 gigs on soundcheck
 
 schraeder, 96zen, CRIME
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raijin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raijin/)*

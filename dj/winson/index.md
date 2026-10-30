@@ -1,6 +1,6 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Autodromo di Imola, Central on Sat, 31 Oct 2026.
+Winson is a Techno and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Autodromo di Imola, Central on Sat, 31 Oct 2026.
 
 Winson is a techno and deep house artist based in France, with 75 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bologna and 32 more. Often billed alongside KLOFAMA, KARAH and Onlynumbers. Next up: TBA - Autodromo di Imola, Central on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Winson is a techno and deep house artist based in France, with 75 gigs on soundc
 
 KLOFAMA, KARAH, Onlynumbers
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

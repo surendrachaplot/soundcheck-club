@@ -1,6 +1,6 @@
 # Andrew Azara
 
-Andrew Azara is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Opium Botanical Garden, Dublin on Sat, 31 Oct 2026.
+Andrew Azara is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Opium Botanical Garden, Dublin on Sat, 31 Oct 2026.
 
 Andrew Azara is a house and minimal artist, with 43 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Ibiza and 10 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: Opium Botanical Garden, Dublin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Andrew Azara is a house and minimal artist, with 43 gigs on soundcheck across Am
 
 Nick Curly, Max Haas, Kid Moss
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*

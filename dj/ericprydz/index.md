@@ -1,8 +1,8 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Eric Prydz is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Eric Prydz is a techno and house artist based in Sweden, with 116 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 39 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Factory Town, Miami on Fri 30 Oct.
+Eric Prydz is a techno and house artist based in Sweden, with 117 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 40 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Eric Prydz is a techno and house artist based in Sweden, with 116 gigs on soundc
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | Pier 48's Shed A | San Francisco/Oakland |
 | Sun, 1 Nov 2026 | TBA - CA State Capitol Building Sacramento | Sacramento |
+| Sat, 7 Nov 2026 | Ductwork Houston | Houston |
 | Fri, 20 Nov 2026 | Echostage | Washington DC |
 | Sat, 21 Nov 2026 | The Concourse Project | Austin |
 | Sat, 5 Dec 2026 | Radius | Chicago |
@@ -32,4 +33,4 @@ Eric Prydz is a techno and house artist based in Sweden, with 116 gigs on soundc
 
 Adam Beyer, Patrick Topping, Cristoph
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*

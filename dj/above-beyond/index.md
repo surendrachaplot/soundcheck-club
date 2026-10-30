@@ -1,6 +1,6 @@
 # Above & Beyond
 
-Above & Beyond is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Prospect Building, Bristol on Fri, 30 Oct 2026.
+Above & Beyond is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Prospect Building, Bristol on Fri, 30 Oct 2026.
 
 Above & Beyond are a trance and techno duo based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Austin, Bali and Belfast and 29 more. Often billed alongside Billy Gillies, Charlotte de Witte and Deadmau5. Next up: The Prospect Building, Bristol on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Above & Beyond are a trance and techno duo based in United Kingdom, with 55 gigs
 
 Billy Gillies, Charlotte de Witte, Deadmau5
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*

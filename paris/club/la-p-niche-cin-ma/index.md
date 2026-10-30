@@ -1,6 +1,6 @@
 # La Péniche Cinéma
 
-La Péniche Cinéma is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Your Calling: One Year (Extended) Birthday Party" on Fri, 13 Nov 2026.
+La Péniche Cinéma is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Your Calling: One Year (Extended) Birthday Party" on Fri, 13 Nov 2026.
 
 La Péniche Cinéma is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Hitomi (DE), MIRZA, Track Advisor and Venus Exotica. See dates, start times and who's playing. Metro Porte de la Villette 59 bd Mc Donald 75019.
 
@@ -14,4 +14,4 @@ La Péniche Cinéma is a music venue in Paris listed on soundcheck. 1 upcoming g
 
 Metro Porte de la Villette 59 bd Mc Donald 75019, Paris
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-p-niche-cin-ma/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-p-niche-cin-ma/)*

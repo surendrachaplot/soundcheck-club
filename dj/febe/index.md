@@ -1,6 +1,6 @@
 # Febe
 
-Febe is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at El Rio Hostel, Colombia on Sun, 22 Nov 2026.
+Febe is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at El Rio Hostel, Colombia on Sun, 22 Nov 2026.
 
 Febe is a house and minimal artist based in Colombia, with 57 gigs on soundcheck across Bogotá, Colombia, Madrid and Medellin and 1 more. Often billed alongside Moscofly, Bettels and Jan Nachtigall. Next up: El Rio Hostel, Colombia on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Febe is a house and minimal artist based in Colombia, with 57 gigs on soundcheck
 
 Moscofly, Bettels, Jan Nachtigall
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/febe/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/febe/)*

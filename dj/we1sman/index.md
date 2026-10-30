@@ -1,6 +1,6 @@
 # we1sman
 
-we1sman is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - EL Trombone, Detroit on Fri, 30 Oct 2026.
+we1sman is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - EL Trombone, Detroit on Fri, 30 Oct 2026.
 
 we1sman is a techno and club artist based in United States of America, with 151 gigs on soundcheck across Denver, Detroit and New York City. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: TBA - EL Trombone, Detroit on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ we1sman is a techno and club artist based in United States of America, with 151 
 
 Wax Assassin, jamea., LATEX GIRL
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*

@@ -1,6 +1,6 @@
 # Jiahao
 
-Jiahao is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Dada Beijing, Beijing on Fri, 30 Oct 2026.
+Jiahao is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Dada Beijing, Beijing on Fri, 30 Oct 2026.
 
 Jiahao is a house and minimal artist, with 54 gigs on soundcheck across Beijing and Shanghai. Often billed alongside SunMeng, Nigls and Akua. Next up: Dada Beijing, Beijing on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Jiahao is a house and minimal artist, with 54 gigs on soundcheck across Beijing 
 
 SunMeng, Nigls, Akua
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiahao/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiahao/)*

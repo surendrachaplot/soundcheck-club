@@ -1,6 +1,6 @@
 # Skip Wooznam
 
-Skip Wooznam is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Bow, London on Sat, 7 Nov 2026.
+Skip Wooznam is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Bow, London on Sat, 7 Nov 2026.
 
 Skip Wooznam is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Delano (UK), Luther Vine and Rolo. Next up: TBA - Bow, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Skip Wooznam is a house and techno artist based in United Kingdom, with 9 gigs o
 
 Delano (UK), Luther Vine, Rolo (2)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skipwooznam/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skipwooznam/)*

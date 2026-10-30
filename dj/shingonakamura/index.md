@@ -1,6 +1,6 @@
 # Shingo Nakamura
 
-Shingo Nakamura is a Progressive House and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
+Shingo Nakamura is a Progressive House and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
 
 Shingo Nakamura is a progressive house and trance artist based in Japan, with 60 gigs on soundcheck across Boston, Houston, Leeds and London and 13 more. Often billed alongside Conures (DJ Tokunaga), DJ NECO and Dominant Space. Next up: VENT, Tokyo on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Shingo Nakamura is a progressive house and trance artist based in Japan, with 60
 
 Conures (DJ Tokunaga), DJ NECO, Dominant Space
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*

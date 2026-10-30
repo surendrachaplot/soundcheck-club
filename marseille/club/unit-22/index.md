@@ -1,6 +1,6 @@
 # Unité.22
 
-Unité.22 is a music venue in Marseille with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "U.22 X Sororo Club: Mia Koden, Mila Necchella, Réjane" on Fri, 30 Oct 2026.
+Unité.22 is a music venue in Marseille with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "U.22 X Sororo Club: Mia Koden, Mila Necchella, Réjane" on Fri, 30 Oct 2026.
 
 Unité.22 is a music venue in Marseille listed on soundcheck. 5 upcoming gigs, with line-ups including Byche, Ekkel, Feroui and Forest and 2 more. See dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
 
@@ -18,4 +18,4 @@ Unité.22 is a music venue in Marseille listed on soundcheck. 5 upcoming gigs, w
 
 22 rue jobin, 13003 Marseille, Marseille
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*

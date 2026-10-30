@@ -1,6 +1,6 @@
 # TBA - Announced via Email
 
-TBA - Announced via Email is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Last Rites" on Sat, 31 Oct 2026.
+TBA - Announced via Email is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Last Rites" on Sat, 31 Oct 2026.
 
 TBA - Announced via Email is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcoming gig, with line-ups including Webmistress. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Announced via Email is a music venue in Minneapolis/St Paul listed on soun
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Last Rites | Webmistress |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/tba-announced-via-email/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/tba-announced-via-email/)*

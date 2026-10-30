@@ -1,6 +1,6 @@
 # Thrasher
 
-Thrasher is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
+Thrasher is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
 
 Thrasher is a hardcore and drum & bass artist, with 31 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside The Outside Agency, Krista Bourgeois and DOLPHIN. Next up: Beaver Works, Leeds on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Thrasher is a hardcore and drum & bass artist, with 31 gigs on soundcheck across
 
 The Outside Agency, Krista Bourgeois, DOLPHIN
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thrasher/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thrasher/)*

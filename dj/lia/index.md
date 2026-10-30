@@ -1,6 +1,6 @@
 # LIA
 
-LIA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Twist Bar, Prague on Fri, 6 Nov 2026.
+LIA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Twist Bar, Prague on Fri, 6 Nov 2026.
 
 LIA is a house and techno artist based in Germany, with 57 gigs on soundcheck across Belfast, Berlin, Cologne and Dublin and 11 more. Often billed alongside Cindy G, Badanka and Brahmski. Next up: Twist Bar, Prague on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ LIA is a house and techno artist based in Germany, with 57 gigs on soundcheck ac
 
 Cindy G, Badanka, Brahmski
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lia/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lia/)*

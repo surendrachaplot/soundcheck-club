@@ -1,6 +1,6 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 20 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "OUT OF ORDER - The Haunted Ship Vol. 3" on Sat, 31 Oct 2026.
+MS Stubnitz is a music venue in Hamburg with 20 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "OUT OF ORDER - The Haunted Ship Vol. 3" on Sat, 31 Oct 2026.
 
 MS Stubnitz is a music venue in Hamburg listed on soundcheck. 20 upcoming gigs, with line-ups including AFAR, Alex Zhang Hungtai, Arsenal Mikebe and Bandulera and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 20 upcoming gigs, 
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

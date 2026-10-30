@@ -1,6 +1,6 @@
 # Grub Stretford
 
-Grub Stretford is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "GRUB Stretford: Andy Peek (DJ Set)" on Sun, 1 Nov 2026.
+Grub Stretford is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "GRUB Stretford: Andy Peek (DJ Set)" on Sun, 1 Nov 2026.
 
 Grub Stretford is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Moodymanc, SNO (UK), Werkha and Yarni. See dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
 
@@ -23,4 +23,4 @@ Grub Stretford is a music venue in Manchester listed on soundcheck. 10 upcoming 
 
 Multi-Storey Car park, King St, Stretford, Manchester M32 9AH, Manchester
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/grub-stretford/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/grub-stretford/)*

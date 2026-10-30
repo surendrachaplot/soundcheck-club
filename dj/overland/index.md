@@ -1,6 +1,6 @@
 # Overland
 
-Overland is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Biltmore Cabaret, Vancouver on Sat, 12 Dec 2026.
+Overland is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Biltmore Cabaret, Vancouver on Sat, 12 Dec 2026.
 
 Overland is a techno and house artist based in Canada, with 59 gigs on soundcheck across Barcelona, Berlin, Bristol and Calgary and 14 more. Often billed alongside xtine, DR BPM and Dairy Free. Next up: Biltmore Cabaret, Vancouver on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Overland is a techno and house artist based in Canada, with 59 gigs on soundchec
 
 xtine, DR BPM, Dairy Free
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overland/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overland/)*

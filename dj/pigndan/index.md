@@ -1,6 +1,6 @@
 # Pig&Dan
 
-Pig&Dan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Barraco Deia, Mallorca on Sat, 31 Oct 2026.
+Pig&Dan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Barraco Deia, Mallorca on Sat, 31 Oct 2026.
 
 Pig&Dan is a techno and house artist, with 36 gigs on soundcheck across Auckland, Bali, Baltimore and Bangkok and 18 more. Often billed alongside TipTap, Alex Sharp and Antonio Fevola. Next up: Barraco Deia, Mallorca on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Pig&Dan is a techno and house artist, with 36 gigs on soundcheck across Auckland
 
 TipTap, Alex Sharp, Antonio Fevola
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pigndan/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pigndan/)*

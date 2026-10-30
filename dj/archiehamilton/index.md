@@ -1,6 +1,6 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bikini Club, Barcelona on Fri, 30 Oct 2026.
+Archie Hamilton is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bikini Club, Barcelona on Fri, 30 Oct 2026.
 
 Archie Hamilton is a house and tech house artist based in United Kingdom, with 230 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Bikini Club, Barcelona on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

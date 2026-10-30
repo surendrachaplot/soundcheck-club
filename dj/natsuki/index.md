@@ -1,6 +1,6 @@
 # Natsuki
 
-Natsuki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Metro, Kyoto on Sat, 14 Nov 2026.
+Natsuki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Metro, Kyoto on Sat, 14 Nov 2026.
 
 Natsuki is a house and techno artist based in Japan, with 15 gigs on soundcheck across Kansai, Kyoto and Osaka. Often billed alongside KOTSU, ALUCA and Al Jones. Next up: Club Metro, Kyoto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Natsuki is a house and techno artist based in Japan, with 15 gigs on soundcheck 
 
 KOTSU, ALUCA, Al Jones
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuki/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuki/)*

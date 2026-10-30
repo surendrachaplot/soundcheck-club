@@ -1,6 +1,6 @@
 # LABENCH
 
-LABENCH is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Java, Paris on Sat, 28 Nov 2026.
+LABENCH is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Java, Paris on Sat, 28 Nov 2026.
 
 LABENCH is a house and electro artist based in France, with 14 gigs on soundcheck across Ibiza, London and Paris. Often billed alongside KARLSEN, Sasson and Saül (FR). Next up: La Java, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LABENCH is a house and electro artist based in France, with 14 gigs on soundchec
 
 KARLSEN, Sasson, Saül (FR)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labench/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labench/)*

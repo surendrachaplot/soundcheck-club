@@ -1,6 +1,6 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Maimarkthalle, Mannheim on Sat, 7 Nov 2026.
+Luciano is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Maimarkthalle, Mannheim on Sat, 7 Nov 2026.
 
 Luciano is a house and tech house artist based in Switzerland, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 21 more. Often billed alongside Sossa, Prospa and Marco Carola. Next up: Maimarkthalle, Mannheim on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Luciano is a house and tech house artist based in Switzerland, with 116 gigs on 
 
 Sossa, Prospa, Marco Carola
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*

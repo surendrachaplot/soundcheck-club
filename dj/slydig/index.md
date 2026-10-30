@@ -1,6 +1,6 @@
 # SLY DIG
 
-SLY DIG is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at People's Leisure Club, Edinburgh on Sun, 1 Nov 2026.
+SLY DIG is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at People's Leisure Club, Edinburgh on Sun, 1 Nov 2026.
 
 SLY DIG is a house and experimental artist based in United Kingdom, with 13 gigs on soundcheck across Edinburgh, Glasgow and Manchester. Often billed alongside claz402, Mairi 'b' Pots and Buckfast Barbie. Next up: People's Leisure Club, Edinburgh on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ SLY DIG is a house and experimental artist based in United Kingdom, with 13 gigs
 
 claz402, Mairi 'b' Pots, Buckfast Barbie
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slydig/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slydig/)*

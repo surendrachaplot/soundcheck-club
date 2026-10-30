@@ -1,6 +1,6 @@
 # Fire & Lightbox
 
-Fire & Lightbox is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "House is a feeling presents Hallowrave with Shine 879 dab & Ravedays" on Sat, 31 Oct 2026.
+Fire & Lightbox is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "House is a feeling presents Hallowrave with Shine 879 dab & Ravedays" on Sat, 31 Oct 2026.
 
 Fire & Lightbox is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Ben Jammin, Billy Daniel Bunter, Boundless and Charlie Brown and 2 more. See dates, start times and who's playing. 39 Parry Street, London, SW8 1RT.
 
@@ -15,4 +15,4 @@ Fire & Lightbox is a music venue in London listed on soundcheck. 2 upcoming gigs
 
 39 Parry Street, London, SW8 1RT, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire-lightbox/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire-lightbox/)*

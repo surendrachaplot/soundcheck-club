@@ -1,6 +1,6 @@
 # Torque (2)
 
-Torque (2) is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Aaja Basement, London on Fri, 27 Nov 2026.
+Torque (2) is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Aaja Basement, London on Fri, 27 Nov 2026.
 
 Torque is a techno and gabber artist, with 15 gigs on soundcheck across London and Sheffield. Often billed alongside Sam J, Hughesee and MI-ZI. Next up: Aaja Basement, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Torque is a techno and gabber artist, with 15 gigs on soundcheck across London a
 
 Sam J, Hughesee, MI-ZI
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torque-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torque-2/)*

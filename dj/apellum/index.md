@@ -1,6 +1,6 @@
 # Apellum
 
-Apellum is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 14 Nov 2026.
+Apellum is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 14 Nov 2026.
 
 Apellum is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Austin. Often billed alongside Hana Sabri, MELLIA and Natch Nadjafi. Next up: TBA - 4211 Todd Ln Suite A, Austin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Apellum is a techno and house artist based in United States of America, with 9 g
 
 Hana Sabri, MELLIA, Natch Nadjafi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apellum/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apellum/)*

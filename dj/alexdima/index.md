@@ -1,6 +1,6 @@
 # Alex Dima
 
-Alex Dima is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hertz, Seoul on Fri, 6 Nov 2026.
+Alex Dima is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hertz, Seoul on Fri, 6 Nov 2026.
 
 Alex Dima is a house and techno artist based in Italy, with 111 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 29 more. Often billed alongside Alexia Glensy, Cristian Sarde and Munir Nadir. Next up: Hertz, Seoul on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Alex Dima is a house and techno artist based in Italy, with 111 gigs on soundche
 
 Alexia Glensy, Cristian Sarde, Munir Nadir
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*

@@ -1,6 +1,6 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 16 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "PARTYNOTCOM • Pancratio + Alfonso Mauro, Spinosaa" on Fri, 30 Oct 2026.
+Basic Club is a music venue in Naples with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "PARTYNOTCOM • Pancratio + Alfonso Mauro, Spinosaa" on Fri, 30 Oct 2026.
 
 Basic Club is a music venue in Naples listed on soundcheck. 16 upcoming gigs, with line-ups including Mariiin, Aldo Rosati, Alfonso Mauro and Antonio Grassia and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
@@ -23,4 +23,4 @@ Basic Club is a music venue in Naples listed on soundcheck. 16 upcoming gigs, wi
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

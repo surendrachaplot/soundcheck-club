@@ -1,6 +1,6 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
+Sin:port is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
 
 Sin:port is a techno and house artist based in Germany, with 134 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Sin:port is a techno and house artist based in Germany, with 134 gigs on soundch
 
 Maurice Mino, Leon Licht, Sabura
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*

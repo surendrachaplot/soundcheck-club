@@ -1,6 +1,6 @@
 # J.dB
 
-J.dB is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
+J.dB is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
 
 J.dB is a dub techno and techno artist based in United States of America, with 17 gigs on soundcheck across Los Angeles. Often billed alongside agraybé, Miracles and Max Ellington. Next up: TBA - DTLA, Los Angeles on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ J.dB is a dub techno and techno artist based in United States of America, with 1
 
 agraybé, Miracles, Max Ellington
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.db/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.db/)*

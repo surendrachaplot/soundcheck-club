@@ -1,6 +1,6 @@
 # Mike Stevens
 
-Mike Stevens is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Elektroküche, Cologne on Fri, 6 Nov 2026.
+Mike Stevens is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Elektroküche, Cologne on Fri, 6 Nov 2026.
 
 Mike Stevens is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Bielefeld, Cologne, Münster and Prague. Often billed alongside carlo kalu, Ghool and AMBAM. Next up: Elektroküche, Cologne on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mike Stevens is a techno and trance artist based in Germany, with 9 gigs on soun
 
 carlo kalu, Ghool, AMBAM
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestevens/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestevens/)*

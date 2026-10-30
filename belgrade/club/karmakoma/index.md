@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Roman Flügel, Sacha Mambo, Vlada Janjić" on Fri, 30 Oct 2026.
+Karmakoma is a music venue in Belgrade with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Roman Flügel, Sacha Mambo, Vlada Janjić" on Fri, 30 Oct 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 12 upcoming gigs, with line-ups including Ali Guney, Ben UFO, Cormac and Evanora Unlimited and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -23,4 +23,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 12 upcoming gigs, w
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

@@ -1,6 +1,6 @@
 # SHENK(BG)
 
-SHENK(BG) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Yalta Club, Sofia on Sat, 31 Oct 2026.
+SHENK(BG) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Yalta Club, Sofia on Sat, 31 Oct 2026.
 
 SHENK(BG) is a tech house and house artist, with 27 gigs on soundcheck across Sofia. Often billed alongside Emiliyan, YORY and Dimitri Monev. Next up: Yalta Club, Sofia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SHENK(BG) is a tech house and house artist, with 27 gigs on soundcheck across So
 
 Emiliyan, YORY, Dimitri Monev
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shenkbg/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shenkbg/)*

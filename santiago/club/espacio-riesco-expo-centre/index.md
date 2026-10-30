@@ -1,6 +1,6 @@
 # Espacio Riesco Expo Centre
 
-Espacio Riesco Expo Centre is a music venue in Santiago with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Street Machine presents: Solomun" on Fri, 30 Oct 2026.
+Espacio Riesco Expo Centre is a music venue in Santiago with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Street Machine presents: Solomun" on Fri, 30 Oct 2026.
 
 Espacio Riesco Expo Centre is a music venue in Santiago listed on soundcheck. 4 upcoming gigs, with line-ups including 6EJOU, 999999999, ALT8 and Angerfist and 2 more. See dates, start times and who's playing. Av El Salto 5000; Huechuraba; Santiago; Chile.
 
@@ -17,4 +17,4 @@ Espacio Riesco Expo Centre is a music venue in Santiago listed on soundcheck. 4 
 
 Av El Salto 5000; Huechuraba; Santiago; Chile, Santiago
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/espacio-riesco-expo-centre/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/espacio-riesco-expo-centre/)*

@@ -1,6 +1,6 @@
 # Lola Cerise
 
-Lola Cerise is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OST, Berlin on Sat, 7 Nov 2026.
+Lola Cerise is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OST, Berlin on Sat, 7 Nov 2026.
 
 Lola Cerise is a techno and trance artist based in France, with 66 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 23 more. Often billed alongside dasstudach, Kander and SAIKA. Next up: OST, Berlin on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Lola Cerise is a techno and trance artist based in France, with 66 gigs on sound
 
 dasstudach, Kander, SAIKA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*

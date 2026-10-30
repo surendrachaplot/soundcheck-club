@@ -1,18 +1,18 @@
 # Chilly & Gams
 
-Chilly & Gams is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at MAD Radio NYC, New York City on Thu, 29 Oct 2026.
+Chilly & Gams is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - 333, New York City on Sat, 7 Nov 2026.
 
-Chilly & Gams are a house and techno duo, with 33 gigs on soundcheck across Berlin and New York City. Often billed alongside Bella Mutino, Loren and Burchan Acar. Next up: MAD Radio NYC, New York City on Thu 29 Oct.
+Chilly & Gams are a house and techno duo, with 33 gigs on soundcheck across Berlin and New York City. Often billed alongside Bella Mutino, Loren and Burchan Acar. Next up: TBA - 333, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | MAD Radio NYC | New York City |
 | Sat, 7 Nov 2026 | TBA - 333 | New York City |
 
 ## Recently played
 
+- MAD Radio NYC, New York City · Thu, 29 Oct 2026
 - Moondog Hifi, New York City · Mon, 7 Sept 2026
 - Apollo Studio, New York City · Sat, 25 Apr 2026
 - H0L0, New York City · Wed, 31 Dec 2025
@@ -20,10 +20,9 @@ Chilly & Gams are a house and techno duo, with 33 gigs on soundcheck across Berl
 - Apollo Studio, New York City · Fri, 17 Oct 2025
 - Apollo Studio, New York City · Sat, 6 Sept 2025
 - Apollo Studio, New York City · Sat, 5 Jul 2025
-- Golden Gate, Berlin · Sun, 20 Apr 2025
 
 ## Shares bills with
 
 Bella Mutino, Loren, Burchan Acar
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chillygams/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chillygams/)*

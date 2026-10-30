@@ -1,6 +1,6 @@
 # REYKA
 
-REYKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Phonox, London on Thu, 5 Nov 2026.
+REYKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Phonox, London on Thu, 5 Nov 2026.
 
 REYKA is a techno and trance artist, with 62 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 3 more. Often billed alongside Et Al, Josh Buchanan and McCart. Next up: Phonox, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ REYKA is a techno and trance artist, with 62 gigs on soundcheck across Aberdeen,
 
 Et Al (1), Josh Buchanan, McCart
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reyka/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reyka/)*

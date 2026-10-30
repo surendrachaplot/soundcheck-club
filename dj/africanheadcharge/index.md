@@ -1,6 +1,6 @@
 # African Head Charge
 
-African Head Charge is a Dub and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Metronome, Nottingham on Fri, 30 Oct 2026.
+African Head Charge is a Dub and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Metronome, Nottingham on Fri, 30 Oct 2026.
 
 African Head Charge is a dub and afrobeat artist based in United Kingdom, with 21 gigs on soundcheck across Berlin, Edinburgh, Glasgow and Leeds and 7 more. Often billed alongside Marta De Pascalis, PRAED and Perera Elsewhere. Next up: Metronome, Nottingham on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ African Head Charge is a dub and afrobeat artist based in United Kingdom, with 2
 
 Marta De Pascalis, PRAED, Perera Elsewhere
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/africanheadcharge/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/africanheadcharge/)*

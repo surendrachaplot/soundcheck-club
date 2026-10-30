@@ -1,6 +1,6 @@
 # Dj Flashdrive
 
-Dj Flashdrive is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Ground at Club Space, Miami on Fri, 13 Nov 2026.
+Dj Flashdrive is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Ground at Club Space, Miami on Fri, 13 Nov 2026.
 
 Dj Flashdrive is a house and tech house artist based in United States of America, with 18 gigs on soundcheck across Miami and Orlando. Often billed alongside Sknls, Danny Daze and Ms. Mada. Next up: The Ground at Club Space, Miami on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dj Flashdrive is a house and tech house artist based in United States of America
 
 Sknls, Danny Daze, Ms. Mada
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflashdrive/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflashdrive/)*

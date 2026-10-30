@@ -1,6 +1,6 @@
 # Sakiko Nagai
 
-Sakiko Nagai is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Rhythm, Toronto on Fri, 30 Oct 2026.
+Sakiko Nagai is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Rhythm, Toronto on Fri, 30 Oct 2026.
 
 Sakiko Nagai is a disco and house artist based in Canada, with 50 gigs on soundcheck across Montreal, Tokyo, Toronto and Vancouver. Often billed alongside Roland Gonzales, Janina Marie and Jason Palma. Next up: Rhythm, Toronto on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Sakiko Nagai is a disco and house artist based in Canada, with 50 gigs on soundc
 
 Roland Gonzales, Janina Marie, Jason Palma
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakikonagai/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakikonagai/)*

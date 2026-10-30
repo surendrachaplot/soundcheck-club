@@ -1,6 +1,6 @@
 # Fred V
 
-Fred V is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Black Barn Vineyards, North-island on Fri, 6 Nov 2026.
+Fred V is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Black Barn Vineyards, North-island on Fri, 6 Nov 2026.
 
 Fred V is a drum & bass and bass artist based in France, with 47 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 22 more. Often billed alongside Flava D, Whiney and Metrik. Next up: Black Barn Vineyards, North Island on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Fred V is a drum & bass and bass artist based in France, with 47 gigs on soundch
 
 Flava D, Whiney, Metrik
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*

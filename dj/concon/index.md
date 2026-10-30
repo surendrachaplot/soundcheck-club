@@ -1,6 +1,6 @@
 # ConCon
 
-ConCon is a Ambient and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Metropolitan Bar, New York City on Fri, 6 Nov 2026.
+ConCon is a Ambient and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Metropolitan Bar, New York City on Fri, 6 Nov 2026.
 
 ConCon is an ambient and pop artist based in United States of America, with 49 gigs on soundcheck across Leeds, Munich and New York City. Often billed alongside BABES The DJ, Adam R and Boyfriend Dick. Next up: Metropolitan Bar, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ConCon is an ambient and pop artist based in United States of America, with 49 g
 
 BABES The DJ, Adam R, Boyfriend Dick
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concon/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concon/)*

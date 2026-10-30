@@ -1,6 +1,6 @@
 # Afas Live
 
-Afas Live is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Vieze Asbak b2b KRUELTY ADL" on Sat, 5 Dec 2026.
+Afas Live is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Vieze Asbak b2b KRUELTY ADL" on Sat, 5 Dec 2026.
 
 Afas Live is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including A.N.I., DYEN, Kander and KIRSTY and 2 more. See dates, start times and who's playing. Johan Cruijff Boulevard 590 1101 DS Amsterdam.
 
@@ -15,4 +15,4 @@ Afas Live is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, w
 
 Johan Cruijff Boulevard 590 1101 DS Amsterdam, Amsterdam
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/afas-live/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/afas-live/)*

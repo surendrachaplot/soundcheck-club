@@ -1,6 +1,6 @@
 # Koreless
 
-Koreless is a Electronica and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
+Koreless is a Electronica and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
 
 Koreless is an electronica and pop artist based in United Kingdom, with 11 gigs on soundcheck across Barcelona, Berlin, Bristol and Chicago and 1 more. Often billed alongside Anz, 8Kitoo and Ahadadream. Next up: Colour Factory, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Koreless is an electronica and pop artist based in United Kingdom, with 11 gigs 
 
 Anz, 8Kitoo, Ahadadream
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koreless/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koreless/)*

@@ -1,6 +1,6 @@
 # CTM (1)
 
-CTM (1) is a Experimental and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Fri, 18 Dec 2026.
+CTM (1) is a Experimental and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Fri, 18 Dec 2026.
 
 CTM is an experimental and jazz artist based in Denmark, with 15 gigs on soundcheck across Bergen, Berlin, Copenhagen and Florence and 6 more. Often billed alongside Croatian Amor, Vanity Productions and Iceboy Violet. Next up: Christianshavns Beboerhus, Copenhagen on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ CTM is an experimental and jazz artist based in Denmark, with 15 gigs on soundch
 
 Croatian Amor, Vanity Productions, Iceboy Violet
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctm-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctm-1/)*

@@ -1,6 +1,6 @@
 # Hana Sabri
 
-Hana Sabri is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at XuXa, Austin on Fri, 6 Nov 2026.
+Hana Sabri is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at XuXa, Austin on Fri, 6 Nov 2026.
 
 Hana Sabri is a techno and trance artist, with 29 gigs on soundcheck across Austin, Dallas/Fort Worth and Houston. Often billed alongside Natch Nadjafi, RAMGON and GODEMPEROR. Next up: XuXa, Austin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Hana Sabri is a techno and trance artist, with 29 gigs on soundcheck across Aust
 
 Natch Nadjafi, RAMGON, GODEMPEROR
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanasabri/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanasabri/)*

@@ -1,6 +1,6 @@
 # Oriol Calvo
 
-Oriol Calvo is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
+Oriol Calvo is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
 
 Oriol Calvo is a house and deep house artist based in Spain, with 45 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Madrid and 5 more. Often billed alongside Viktor Olle, Igor Marijuan and Mike Gannu. Next up: LA Coralina Island House OF AD Sidera, Panama on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Oriol Calvo is a house and deep house artist based in Spain, with 45 gigs on sou
 
 Viktor Olle, Igor Marijuan, Mike Gannu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriolcalvo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriolcalvo/)*

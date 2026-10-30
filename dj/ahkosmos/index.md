@@ -1,6 +1,6 @@
 # Ah! Kosmos
 
-Ah! Kosmos is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
+Ah! Kosmos is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
 
 Ah! Kosmos is an experimental and electro artist based in Turkey, with 4 gigs on soundcheck across Berlin, Montreal and Wroclaw. Often billed alongside Hainbach, Fennesz and Lillevan. Next up: Volksbühne, Berlin on Mon 2 Nov.
 
@@ -20,4 +20,4 @@ Ah! Kosmos is an experimental and electro artist based in Turkey, with 4 gigs on
 
 Hainbach, Fennesz, Lillevan
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahkosmos/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahkosmos/)*

@@ -1,6 +1,6 @@
 # Skögul
 
-Skögul is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 30 Oct 2026.
+Skögul is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 30 Oct 2026.
 
 Skögul is a techno and trance artist, with 93 gigs on soundcheck across Beijing, Chengdu, Shanghai and Tokyo. Often billed alongside W.X.M, SØA and S.M.S.H. Next up: Pillbox Beijing, Beijing on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Skögul is a techno and trance artist, with 93 gigs on soundcheck across Beijing
 
 W.X.M, SØA (1), S.M.S.H
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skogul/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skogul/)*

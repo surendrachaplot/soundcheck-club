@@ -1,6 +1,6 @@
 # Matt L-S
 
-Matt L-S is a Deep House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The BBE Store, London on Fri, 6 Nov 2026.
+Matt L-S is a Deep House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The BBE Store, London on Fri, 6 Nov 2026.
 
 Matt L-S is a deep house and disco artist based in United Kingdom, with 55 gigs on soundcheck across London and Paris. Often billed alongside Jamesey, Davide Del Vecchio and Kojay. Next up: The BBE Store, London on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Matt L-S is a deep house and disco artist based in United Kingdom, with 55 gigs 
 
 Jamesey, Davide Del Vecchio, Kojay
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattl-s/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattl-s/)*

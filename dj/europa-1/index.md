@@ -1,6 +1,6 @@
 # Europa (1)
 
-Europa (1) is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bike Jesus, Prague on Fri, 30 Oct 2026.
+Europa (1) is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bike Jesus, Prague on Fri, 30 Oct 2026.
 
 Europa is an experimental and club artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 22 more. Often billed alongside Sodomland, Emma DJ and Otis (BE). Next up: Bike Jesus, Prague on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Europa is an experimental and club artist based in Germany, with 75 gigs on soun
 
 ## Recently played
 
+- Badaboum, Paris · Thu, 29 Oct 2026
 - nachbar, Amsterdam · Sun, 9 Aug 2026
 - Meteoro, Barcelona · Sat, 27 Jun 2026
 - Meteoro, Barcelona · Sat, 27 Jun 2026
@@ -20,10 +21,9 @@ Europa is an experimental and club artist based in Germany, with 75 gigs on soun
 - La Machine Du Moulin Rouge, Paris · Fri, 29 May 2026
 - Maaya, Berlin · Fri, 15 May 2026
 - Ormside Projects, London · Sat, 9 May 2026
-- Raleigh Chapel, London · Thu, 7 May 2026
 
 ## Shares bills with
 
 Sodomland, Emma DJ, Otis (BE)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/europa-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/europa-1/)*

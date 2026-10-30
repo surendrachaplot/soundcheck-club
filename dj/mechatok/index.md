@@ -1,14 +1,15 @@
 # Mechatok
 
-Mechatok is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Villa, Oslo on Fri, 30 Oct 2026.
+Mechatok is a Experimental and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Villa, Oslo on Fri, 30 Oct 2026.
 
-Mechatok is an experimental and electro artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Oli XL, Kamixlo and TOXE. Next up: The Villa, Oslo on Fri 30 Oct.
+Mechatok is an experimental and electro artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Oli XL, Kamixlo and TOXE. Next up: The Villa, Oslo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | The Villa | Oslo |
+| Thu, 12 Nov 2026 | Elastica | Vilnius |
 | Sat, 14 Nov 2026 | Village Underground | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Mechatok is an experimental and electro artist based in Germany, with 78 gigs on
 
 Oli XL, Kamixlo, TOXE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mechatok/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mechatok/)*

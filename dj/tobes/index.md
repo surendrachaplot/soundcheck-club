@@ -1,6 +1,6 @@
 # Tobes
 
-Tobes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory 47, Hanoi on Fri, 30 Oct 2026.
+Tobes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory 47, Hanoi on Fri, 30 Oct 2026.
 
 Tobes is a house and techno artist, with 33 gigs on soundcheck across Bangkok, Berlin, Hanoi and Ho Chi Minh City and 1 more. Often billed alongside Di Linh, Lourene and Dusan Nikolic. Next up: Factory 47, Hanoi on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tobes is a house and techno artist, with 33 gigs on soundcheck across Bangkok, B
 
 Di Linh, Lourene, Dusan Nikolic
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobes/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobes/)*

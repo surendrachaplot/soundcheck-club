@@ -1,6 +1,6 @@
 # VITØ VITE
 
-VITØ VITE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
+VITØ VITE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
 
 VITØ VITE is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Marc Eisenberg, Einfach Taffo and gegenfegen. Next up: PKH Warehouse, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ VITØ VITE is a techno and house artist based in Germany, with 11 gigs on soundc
 
 Marc Eisenberg, Einfach Taffo, gegenfegen
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitovite/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitovite/)*

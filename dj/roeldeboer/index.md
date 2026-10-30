@@ -1,6 +1,6 @@
 # Roel de Boer
 
-Roel de Boer is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Roel de Boer is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 Roel de Boer is an electronic artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam and Croatia. Often billed alongside Robert Bergman, Abel Minnee and Tornado Wallace. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -25,4 +25,4 @@ Roel de Boer is an electronic artist based in Netherlands, with 9 gigs on soundc
 
 Robert Bergman, Abel Minnee, Tornado Wallace
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roeldeboer/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roeldeboer/)*

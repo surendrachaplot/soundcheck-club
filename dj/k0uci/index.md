@@ -1,6 +1,6 @@
 # K0uci
 
-K0uci is a Trance and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Paris on Fri, 30 Oct 2026.
+K0uci is a Trance and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Paris on Fri, 30 Oct 2026.
 
 K0uci is a trance and acid artist, with 32 gigs on soundcheck across Nantes and Paris. Often billed alongside Hemei, Kinokosan and Otezuka. Next up: TBA, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ K0uci is a trance and acid artist, with 32 gigs on soundcheck across Nantes and 
 
 Hemei, Kinokosan, Otezuka
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k0uci/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k0uci/)*

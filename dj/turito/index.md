@@ -1,6 +1,6 @@
 # Turito
 
-Turito is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ANIMAL LA, Los Angeles on Fri, 30 Oct 2026.
+Turito is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ANIMAL LA, Los Angeles on Fri, 30 Oct 2026.
 
 Turito is a pop and club artist, with 20 gigs on soundcheck across Austin, Los Angeles and New York City. Often billed alongside XOY, BabiBoi and p1nkstar. Next up: ANIMAL LA, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Turito is a pop and club artist, with 20 gigs on soundcheck across Austin, Los A
 
 XOY, BabiBoi, p1nkstar
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turito/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turito/)*

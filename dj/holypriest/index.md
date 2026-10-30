@@ -1,6 +1,6 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Holy Priest is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Holy Priest is a techno and hardcore artist based in Germany, with 155 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 67 more. Often billed alongside elMefti, Fantasm and Onlynumbers. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Holy Priest is a techno and hardcore artist based in Germany, with 155 gigs on s
 
 elMefti, Fantasm, Onlynumbers
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

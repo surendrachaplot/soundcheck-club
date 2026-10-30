@@ -1,6 +1,6 @@
 # Syrup Stackz
 
-Syrup Stackz is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 30 Oct 2026.
+Syrup Stackz is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 30 Oct 2026.
 
 Syrup Stackz is a bass and drum & bass artist based in Australia, with 3 gigs on soundcheck across Sydney. Often billed alongside Arkywaters, Cece and Cedar. Next up: Abercrombie Hotel, Sydney on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Syrup Stackz is a bass and drum & bass artist based in Australia, with 3 gigs on
 
 Arkywaters, Cece, Cedar (2)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syrupstackz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syrupstackz/)*

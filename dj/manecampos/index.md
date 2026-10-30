@@ -1,6 +1,6 @@
 # Mane Campos
 
-Mane Campos is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - CHURCH & WAREHOUSE LOCATION, Toronto on Fri, 30 Oct 2026.
+Mane Campos is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - CHURCH & WAREHOUSE LOCATION, Toronto on Fri, 30 Oct 2026.
 
 Mane Campos is a techno and minimal techno artist, with 23 gigs on soundcheck across Toronto. Often billed alongside B-Format, Garcy and My Pet Monster. Next up: TBA - CHURCH & WAREHOUSE LOCATION, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mane Campos is a techno and minimal techno artist, with 23 gigs on soundcheck ac
 
 B-Format, Garcy, My Pet Monster
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manecampos/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manecampos/)*

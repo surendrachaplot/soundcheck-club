@@ -1,6 +1,6 @@
 # DJ SeXex
 
-DJ SeXex is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Distillery, Leipzig on Sat, 28 Nov 2026.
+DJ SeXex is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Distillery, Leipzig on Sat, 28 Nov 2026.
 
 DJ SeXex is a trance and techno artist based in Germany, with 29 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside Felix Schwarzenberger, CARGO (DE) and CARGO x IGOR. Next up: Distillery, Leipzig on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ SeXex is a trance and techno artist based in Germany, with 29 gigs on soundch
 
 Felix Schwarzenberger, CARGO (DE), CARGO x IGOR
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexex/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexex/)*

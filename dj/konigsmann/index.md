@@ -1,6 +1,6 @@
 # Königsmann
 
-Königsmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kater, Berlin on Fri, 6 Nov 2026.
+Königsmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Fri, 6 Nov 2026.
 
 Königsmann is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside KEN (DE), DJ PayPaul and PADERKID. Next up: Kater, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Königsmann is a techno and house artist based in Germany, with 12 gigs on sound
 
 KEN (DE), DJ PayPaul, PADERKID
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konigsmann/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konigsmann/)*

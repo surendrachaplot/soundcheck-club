@@ -1,6 +1,6 @@
 # fabulus
 
-fabulus is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+fabulus is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
 
 fabulus is a house and techno artist based in Switzerland, with 45 gigs on soundcheck across Berlin, Leipzig and Zurich. Often billed alongside Playlove, Styro 2000 and Juli Lee. Next up: Kauz, Zurich on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ fabulus is a house and techno artist based in Switzerland, with 45 gigs on sound
 
 Playlove, Styro 2000, Juli Lee
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabulus/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabulus/)*

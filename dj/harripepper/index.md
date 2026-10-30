@@ -1,6 +1,6 @@
 # Harri Pepper
 
-Harri Pepper is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Village Underground, London on Fri, 13 Nov 2026.
+Harri Pepper is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Village Underground, London on Fri, 13 Nov 2026.
 
 Harri Pepper is a house and techno artist based in United Kingdom, with 71 gigs on soundcheck across Berlin, Bristol, Glasgow and Istanbul and 5 more. Often billed alongside Lukas Wigflex, Millie McKee and Rosie Ama. Next up: Village Underground, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Harri Pepper is a house and techno artist based in United Kingdom, with 71 gigs 
 
 Lukas Wigflex, Millie McKee, Rosie Ama
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harripepper/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harripepper/)*

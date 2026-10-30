@@ -1,6 +1,6 @@
 # nd_baumecker
 
-nd_baumecker is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Oneonefive., Porto on Sat, 7 Nov 2026.
+nd_baumecker is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Oneonefive., Porto on Sat, 7 Nov 2026.
 
 nd_baumecker is a house and techno artist based in Germany, with 136 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Jorkes, Steffi and Efdemin. Next up: Oneonefive., Porto on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ nd_baumecker is a house and techno artist based in Germany, with 136 gigs on sou
 
 Jorkes, Steffi, Efdemin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*

@@ -1,6 +1,6 @@
 # kenno (2)
 
-kenno (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory 47, Hanoi on Sat, 31 Oct 2026.
+kenno (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory 47, Hanoi on Sat, 31 Oct 2026.
 
 kenno is a house and techno artist, with 45 gigs on soundcheck across Bangkok and Hanoi. Often billed alongside Dusan Nikolic, Planète Gigz and Marco Yanes. Next up: Factory 47, Hanoi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ kenno is a house and techno artist, with 45 gigs on soundcheck across Bangkok an
 
 Dusan Nikolic, Planète Gigz, Marco Yanes
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenno-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenno-2/)*

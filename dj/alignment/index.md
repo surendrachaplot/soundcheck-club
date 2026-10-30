@@ -1,6 +1,6 @@
 # Alignment
 
-Alignment is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Alignment is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
 Alignment is a techno and house artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 83 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Alignment is a techno and house artist based in Germany, with 258 gigs on soundc
 
 Shlømo, Basswell, DYEN
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

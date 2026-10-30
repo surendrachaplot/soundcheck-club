@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Love Letters From Oslo" on Fri, 30 Oct 2026.
+Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Love Letters From Oslo" on Fri, 30 Oct 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including 3RDV, AbuGlitsch, Adolpho & Franky and ALCATRAZ and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wi
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

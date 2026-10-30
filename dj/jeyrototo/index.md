@@ -1,6 +1,6 @@
 # Jeyrototo
 
-Jeyrototo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
+Jeyrototo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lieberscholli, Munich on Sat, 28 Nov 2026.
 
 Jeyrototo is a house and disco artist based in Germany, with 52 gigs on soundcheck across Berlin, London, Munich and Paris and 1 more. Often billed alongside Subthiel, Rhode & Brown and David Böning. Next up: Lieberscholli, Munich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jeyrototo is a house and disco artist based in Germany, with 52 gigs on soundche
 
 Subthiel, Rhode & Brown, David Böning
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeyrototo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeyrototo/)*

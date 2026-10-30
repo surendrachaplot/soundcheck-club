@@ -1,6 +1,6 @@
 # Kelvin Momo
 
-Kelvin Momo is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Old Park Station, Johannesburg on Sat, 28 Nov 2026.
+Kelvin Momo is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Old Park Station, Johannesburg on Sat, 28 Nov 2026.
 
 Kelvin Momo is an amapiano and afro house artist based in Ghana, with 9 gigs on soundcheck across Amsterdam, Birmingham, Johannesburg and London and 2 more. Often billed alongside Kelvin, Charisse C and DBN Gogo. Next up: Old Park Station, Johannesburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kelvin Momo is an amapiano and afro house artist based in Ghana, with 9 gigs on 
 
 Kelvin, Charisse C, DBN Gogo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvinmomo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvinmomo/)*

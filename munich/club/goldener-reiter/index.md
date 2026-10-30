@@ -1,6 +1,6 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "ANTENNE GEYER with Hanno, Benni B, Becci, Maggie Jane" on Fri, 30 Oct 2026.
+Goldener Reiter is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "ANTENNE GEYER with Hanno, Benni B, Becci, Maggie Jane" on Fri, 30 Oct 2026.
 
 Goldener Reiter is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including Benni B, die_ley, DJ Business and Hanno and 1 more. See dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
@@ -18,4 +18,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 5 upcoming gigs
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

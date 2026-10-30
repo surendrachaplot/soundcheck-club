@@ -1,14 +1,15 @@
 # Sonoma
 
-Sonoma is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Elespacio, Monterrey on Sat, 31 Oct 2026.
+Sonoma is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Iocerouno, Monterrey on Sat, 31 Oct 2026.
 
-Sonoma is a minimal and house artist, with 15 gigs on soundcheck across Bogotá, Denver, Guadalajara and Medellin and 2 more. Often billed alongside James Bott, Mike.D and Cami España. Next up: Elespacio, Monterrey on Sat 31 Oct.
+Sonoma is a minimal and house artist, with 16 gigs on soundcheck across Bogotá, Denver, Guadalajara and Medellin and 2 more. Often billed alongside James Bott, Mike.D and Cami España. Next up: Iocerouno, Monterrey on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Elespacio | Monterrey |
+| Sat, 31 Oct 2026 | Iocerouno | Monterrey |
+| Sat, 14 Nov 2026 | Fünk | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sonoma is a minimal and house artist, with 15 gigs on soundcheck across Bogotá,
 
 James Bott, Mike.D, Cami España
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonoma/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonoma/)*

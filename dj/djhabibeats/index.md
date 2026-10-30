@@ -1,6 +1,6 @@
 # DJ Habibeats
 
-DJ Habibeats is a House and Hip-Hop artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Decca Live, Jacksonville on Fri, 30 Oct 2026.
+DJ Habibeats is a House and Hip-Hop artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Decca Live, Jacksonville on Fri, 30 Oct 2026.
 
 DJ Habibeats is a house and hip-hop artist based in United States of America, with 55 gigs on soundcheck across Auckland, Austin, Bali and Berlin and 24 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Decca Live, Jacksonville on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ DJ Habibeats is a house and hip-hop artist based in United States of America, wi
 
 AUGUSTE, Bianca Maieli, Ushka
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*

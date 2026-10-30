@@ -1,6 +1,6 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Shimza is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 Shimza is an afro house and house artist based in South Africa, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -15,6 +15,7 @@ Shimza is an afro house and house artist based in South Africa, with 165 gigs on
 
 ## Recently played
 
+- One Marylebone, London · Thu, 29 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
 - Hï Ibiza, Ibiza · Mon, 5 Oct 2026
 - Reframe Studios Indoors, Los Angeles · Sat, 19 Sept 2026
@@ -22,10 +23,9 @@ Shimza is an afro house and house artist based in South Africa, with 165 gigs on
 - Jevremovac Botanical Garden, Belgrade · Wed, 2 Sept 2026
 - Parque da Cidade, Porto · Sat, 29 Aug 2026
 - Chinois Ibiza, Ibiza · Wed, 26 Aug 2026
-- Hï Ibiza, Ibiza · Mon, 10 Aug 2026
 
 ## Shares bills with
 
 ARODES, Andrea Oliva, Mahmut Orhan
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*

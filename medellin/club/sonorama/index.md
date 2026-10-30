@@ -1,14 +1,13 @@
 # Sonorama
 
-Sonorama is a music venue in Medellin with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sonorama Pres / THE WORLD IS HERE" on Thu, 29 Oct 2026.
+Sonorama is a music venue in Medellin with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Sonorama, RSTNS & Aerotechno Pres / Egotot" on Fri, 30 Oct 2026.
 
-Sonorama is a music venue in Medellin listed on soundcheck. 6 upcoming gigs, with line-ups including Andres Gil, Astronomical Telegram, East End Dubs and Egotot and 2 more. See dates, start times and who's playing. Carrera 37 #10 - 37.
+Sonorama is a music venue in Medellin listed on soundcheck. 5 upcoming gigs, with line-ups including Andres Gil, Astronomical Telegram, East End Dubs and Egotot and 2 more. See dates, start times and who's playing. Carrera 37 #10 - 37.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Sonorama Pres / THE WORLD IS HERE | Raized, WM(COL) |
 | Fri, 30 Oct 2026 | Sonorama, RSTNS & Aerotechno Pres / Egotot | Egotot, Insolent, Vannesa Gnz |
 | Sat, 31 Oct 2026 | Sonorama Pres / Jairo Delli | Jairo Delli |
 | Sun, 1 Nov 2026 | Sonorama Presents Warehouse | Andres Gil, Astronomical Telegram |
@@ -19,4 +18,4 @@ Sonorama is a music venue in Medellin listed on soundcheck. 6 upcoming gigs, wit
 
 Carrera 37 #10 - 37, Medellin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/sonorama/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/sonorama/)*

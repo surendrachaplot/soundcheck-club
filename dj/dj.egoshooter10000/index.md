@@ -1,6 +1,6 @@
 # DJ.Egoshooter10000
 
-DJ.Egoshooter10000 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
+DJ.Egoshooter10000 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
 
 DJ.Egoshooter10000 is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin and Leipzig. Often billed alongside YOVA, 4NOUK and Alina Viktoria. Next up: OXI, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ.Egoshooter10000 is a techno and trance artist based in Germany, with 19 gigs 
 
 YOVA, 4NOUK, Alina Viktoria
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.egoshooter10000/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.egoshooter10000/)*

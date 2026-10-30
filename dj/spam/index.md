@@ -1,6 +1,6 @@
 # Spam
 
-Spam is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at SILO, New York City on Wed, 11 Nov 2026.
+Spam is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at SILO, New York City on Wed, 11 Nov 2026.
 
 Spam is a house and minimal artist based in United States of America, with 35 gigs on soundcheck across Berlin, Hamburg, Los Angeles and Miami and 4 more. Often billed alongside Mz3, Timeless Moments and Heidi Lawden. Next up: SILO, New York City on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Spam is a house and minimal artist based in United States of America, with 35 gi
 
 Mz3 (1), Timeless Moments, Heidi Lawden
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spam/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spam/)*

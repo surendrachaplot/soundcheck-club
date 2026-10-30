@@ -1,6 +1,6 @@
 # Kalimanda
 
-Kalimanda is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at KitKatClub, Berlin on Wed, 4 Nov 2026.
+Kalimanda is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KitKatClub, Berlin on Wed, 4 Nov 2026.
 
 Kalimanda is a techno and house artist based in Germany, with 30 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Emilion Dollar Baby, Domovnika and Fo Ewa. Next up: KitKatClub, Berlin on Wed 4 Nov.
 
@@ -28,4 +28,4 @@ Kalimanda is a techno and house artist based in Germany, with 30 gigs on soundch
 
 Emilion Dollar Baby, Domovnika, Fo Ewa
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimanda/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimanda/)*

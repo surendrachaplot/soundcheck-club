@@ -1,6 +1,6 @@
 # Miro ( Stereokitchen )
 
-Miro ( Stereokitchen ) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Wönzimer, Los Angeles on Sun, 1 Nov 2026.
+Miro ( Stereokitchen ) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Wönzimer, Los Angeles on Sun, 1 Nov 2026.
 
 Miro ( Stereokitchen ) is a house and deep house artist, with 27 gigs on soundcheck across Los Angeles, Miami, San Diego and San Francisco/Oakland. Often billed alongside Krane, Adam Rose and Franky A. Next up: Wönzimer, Los Angeles on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Miro ( Stereokitchen ) is a house and deep house artist, with 27 gigs on soundch
 
 Krane, Adam Rose, Franky A
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirostereokitchen/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirostereokitchen/)*

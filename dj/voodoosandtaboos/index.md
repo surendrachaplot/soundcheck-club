@@ -1,6 +1,6 @@
 # Voodoos and Taboos
 
-Voodoos and Taboos is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Magazzino sul Po, Turin on Sat, 31 Oct 2026.
+Voodoos and Taboos is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Magazzino sul Po, Turin on Sat, 31 Oct 2026.
 
 Voodoos and Taboos are a house and techno duo, with 49 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Brussels and 15 more. Often billed alongside Alyhas, Luce Clandestina and Sick Seek. Next up: Magazzino sul Po, Turin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Voodoos and Taboos are a house and techno duo, with 49 gigs on soundcheck across
 
 Alyhas, Luce Clandestina, Sick Seek
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoosandtaboos/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoosandtaboos/)*

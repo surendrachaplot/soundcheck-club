@@ -1,6 +1,6 @@
 # TAMO
 
-TAMO is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+TAMO is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 TAMO is a techno and progressive house artist based in Japan, with 27 gigs on soundcheck across Berlin, Kyoto, Osaka and San Francisco/Oakland. Often billed alongside Takekiyo Ishimoto, Nao Nomura and KONDO Mitsuo. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ TAMO is a techno and progressive house artist based in Japan, with 27 gigs on so
 
 Takekiyo Ishimoto, Nao Nomura, KONDO Mitsuo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamo/)*

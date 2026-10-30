@@ -1,13 +1,14 @@
 # Antonio De Angelis
 
-Antonio De Angelis is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Cieloterra, Rome on Fri, 13 Nov 2026.
+Antonio De Angelis is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Inguz Club, Portugal on Sat, 31 Oct 2026.
 
-Antonio De Angelis is a techno and industrial artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 2 more. Often billed alongside Pre Silent, Laure Croft and Polanski. Next up: Cieloterra, Rome on Fri 13 Nov.
+Antonio De Angelis is a techno and industrial artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 3 more. Often billed alongside Pre Silent, Laure Croft and Polanski. Next up: Inguz Club, Portugal on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Inguz Club | Portugal |
 | Fri, 13 Nov 2026 | Cieloterra | Rome |
 | Fri, 27 Nov 2026 | The Glove That Fits | London |
 | Thu, 31 Dec 2026 | Distillery N17 | London |
@@ -27,4 +28,4 @@ Antonio De Angelis is a techno and industrial artist based in United Kingdom, wi
 
 Pre Silent, Laure Croft, Polanski
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniodeangelis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniodeangelis/)*

@@ -1,6 +1,6 @@
 # Desterro
 
-Desterro is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "datacentre" on Fri, 6 Nov 2026.
+Desterro is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "datacentre" on Fri, 6 Nov 2026.
 
 Desterro is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Charlie Boy Manson, João Melgueira, Medallion Man and Øtrop. See dates, start times and who's playing. Calçada do Desterro nº7 1150-241 Lisbon, Portugal.
 
@@ -15,4 +15,4 @@ Desterro is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with 
 
 Calçada do Desterro nº7 1150-241 Lisbon, Portugal, Lisbon
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/desterro/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/desterro/)*

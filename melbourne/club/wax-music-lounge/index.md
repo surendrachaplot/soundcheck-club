@@ -1,6 +1,6 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 45 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Dando Mambo presents SABOR LATINO" on Fri, 30 Oct 2026.
+Wax Music Lounge is a music venue in Melbourne with 45 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Dando Mambo presents SABOR LATINO" on Fri, 30 Oct 2026.
 
 Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 45 upcoming gigs, with line-ups including CHARLES-EDDY, Joey Coco, leverson and Manchild and 2 more. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
@@ -23,4 +23,4 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 45 upcoming
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

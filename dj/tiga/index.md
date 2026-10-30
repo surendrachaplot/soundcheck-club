@@ -1,6 +1,6 @@
 # Tiga
 
-Tiga is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 31 Oct 2026.
+Tiga is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Tiga is a techno and house artist based in Canada, with 130 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 45 more. Often billed alongside DJ Holographic, DJ Tennis and Ben Sterling. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 31 Oct.
 
@@ -34,4 +34,4 @@ Tiga is a techno and house artist based in Canada, with 130 gigs on soundcheck a
 
 DJ Holographic, DJ Tennis, Ben Sterling
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

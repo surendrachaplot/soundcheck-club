@@ -1,6 +1,6 @@
 # Acid Adams
 
-Acid Adams is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Paula, Dresden on Fri, 30 Oct 2026.
+Acid Adams is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Paula, Dresden on Fri, 30 Oct 2026.
 
 Acid Adams is a techno and house artist, with 19 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside HnyLune, goldie and lindos xp. Next up: Club Paula, Dresden on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Acid Adams is a techno and house artist, with 19 gigs on soundcheck across Berli
 
 HnyLune, goldie (2), lindos xp
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidadams/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidadams/)*

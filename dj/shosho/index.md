@@ -1,6 +1,6 @@
 # Shosho
 
-Shosho is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NDK, Sofia on Sat, 31 Oct 2026.
+Shosho is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NDK, Sofia on Sat, 31 Oct 2026.
 
 Shosho is a house and minimal artist based in Bulgaria, with 48 gigs on soundcheck across Amsterdam, Ho Chi Minh City, Sofia and Tokyo. Often billed alongside Zimone, Frykk and JINI. Next up: NDK, Sofia on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Shosho is a house and minimal artist based in Bulgaria, with 48 gigs on soundche
 
 Zimone, Frykk, JINI
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho/)*

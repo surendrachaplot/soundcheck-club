@@ -1,6 +1,6 @@
 # Chica Acosta
 
-Chica Acosta is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Paloma, Barcelona on Fri, 20 Nov 2026.
+Chica Acosta is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Paloma, Barcelona on Fri, 20 Nov 2026.
 
 Chica Acosta is a house and latin bass artist based in Spain, with 45 gigs on soundcheck across Barcelona and Copenhagen. Often billed alongside Phran, EYRA and Stacey Cute. Next up: La Paloma, Barcelona on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Chica Acosta is a house and latin bass artist based in Spain, with 45 gigs on so
 
 Phran, EYRA, Stacey Cute
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chicaacosta/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chicaacosta/)*

@@ -1,8 +1,8 @@
 # Ambu Bambu
 
-Ambu Bambu is a Bass and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Ambu Bambu is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Ambu Bambu is a bass and ambient artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Beijing, London and Milan and 3 more. Often billed alongside Tjade, Conduct Disorder and kimmah. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Ambu Bambu is a bass and techno artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Beijing, London and Milan and 3 more. Often billed alongside Tjade, Conduct Disorder and kimmah. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ambu Bambu is a bass and ambient artist based in Netherlands, with 32 gigs on so
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 20 Nov 2026 | Time is the new space | Rotterdam |
+| Fri, 27 Nov 2026 | export | Rotterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ambu Bambu is a bass and ambient artist based in Netherlands, with 32 gigs on so
 
 Tjade, Conduct Disorder, kimmah
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ambubambu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ambubambu/)*

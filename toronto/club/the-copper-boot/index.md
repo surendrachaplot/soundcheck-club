@@ -1,6 +1,6 @@
 # The Copper Boot
 
-The Copper Boot is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Island Groove presents Kebin Van Reeken" on Sat, 31 Oct 2026.
+The Copper Boot is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Island Groove presents Kebin Van Reeken" on Sat, 31 Oct 2026.
 
 The Copper Boot is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Kebin van Reeken. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Copper Boot is a music venue in Toronto listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Island Groove presents Kebin Van Reeken | Kebin van Reeken |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-copper-boot/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-copper-boot/)*

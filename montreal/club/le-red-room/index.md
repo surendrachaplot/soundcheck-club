@@ -1,14 +1,13 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "1460BPM x Le Red Room" on Thu, 29 Oct 2026.
+Le Red Room is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "SupporTechnique presents RedRum - Halloween Techno Special" on Fri, 30 Oct 2026.
 
-Le Red Room is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including AKL!, Anomia, AYMÉ and Djimmy and 2 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
+Le Red Room is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including AKL!, Anomia, AYMÉ and Djimmy and 2 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | 1460BPM x Le Red Room |  |
 | Fri, 30 Oct 2026 | SupporTechnique presents RedRum - Halloween Techno Special | AYMÉ, Anomia, Djimmy, Walji |
 | Sat, 31 Oct 2026 | My Haunted Haus 2026 | Ratchet |
 | Fri, 6 Nov 2026 | Lost and Loved 3 |  |
@@ -22,4 +21,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, 
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

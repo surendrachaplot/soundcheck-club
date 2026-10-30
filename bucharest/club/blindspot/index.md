@@ -1,6 +1,6 @@
 # Blindspot*
 
-Blindspot* is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "SSS X TDIB w/ Caniche [ TRESOR / PUSH ], NTHR, Thomas Rob B2B Gheordu, VERMIN" on Fri, 30 Oct 2026.
+Blindspot* is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "SSS X TDIB w/ Caniche [ TRESOR / PUSH ], NTHR, Thomas Rob B2B Gheordu, VERMIN" on Fri, 30 Oct 2026.
 
 Blindspot* is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, with line-ups including Alienmade, ANIN, Caniche and Drao and 2 more. See dates, start times and who's playing. Bulevardul Energeticienilor 13-15.
 
@@ -21,4 +21,4 @@ Blindspot* is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, 
 
 Bulevardul Energeticienilor 13-15, Bucharest
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*

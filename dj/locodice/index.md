@@ -1,6 +1,6 @@
 # Loco Dice
 
-Loco Dice is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Loco Dice is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Loco Dice is a tech house and house artist based in Tunisia, with 229 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 52 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Loco Dice is a tech house and house artist based in Tunisia, with 229 gigs on so
 
 Jamie Jones, Marco Carola, Seth Troxler
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*

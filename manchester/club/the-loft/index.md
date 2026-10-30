@@ -1,14 +1,13 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "The Loft: Isaac Carter" on Thu, 29 Oct 2026.
+The Loft is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Dimensions x The Loft: Nicolas Lutz, Adi & Simon Scott" on Fri, 30 Oct 2026.
 
-The Loft is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including 2 Bad Mice, Adi, Alexander Skancke and Alexia Glensy and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
+The Loft is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including 2 Bad Mice, Adi, Alexander Skancke and Alexia Glensy and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | The Loft: Isaac Carter | Isaac Carter, LILI |
 | Fri, 30 Oct 2026 | Dimensions x The Loft: Nicolas Lutz, Adi & Simon Scott | Adi, Nicolas Lutz, Simon Scott |
 | Fri, 6 Nov 2026 | The Loft: Objekt, Kasra V b2b Sepehr & Zuri | Kasra V, Objekt, Sepehr, Zuri |
 | Sat, 7 Nov 2026 | Beyond The Thunderdome: 2 Bad Mice | 2 Bad Mice |
@@ -18,9 +17,10 @@ The Loft is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, 
 | Thu, 19 Nov 2026 | The Loft: Jamie Fielding (All Night Long) | Jamie Fielding |
 | Fri, 20 Nov 2026 | pressure control x The Loft: DJ Masda, Alexia Glensy & Josh Bayat | Alexia Glensy, DJ Masda, Josh Bayat |
 | Sat, 21 Nov 2026 | Anjunadeep (Afterparty) | Dom Donnelly, Ezequiel Arias, Kloyd |
+| Thu, 26 Nov 2026 | The Loft: RTK Tarantino (All Night Long) | RTK Tarantino |
 
 ## Address
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

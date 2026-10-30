@@ -1,6 +1,6 @@
 # Danni Morali
 
-Danni Morali is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 8 Nov 2026.
+Danni Morali is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 8 Nov 2026.
 
 Danni Morali is an italo disco and house artist, with 14 gigs on soundcheck across Berlin. Often billed alongside Alex Jakupovic, Xpresso Martina and DJ Übergang. Next up: TBA - a chapel in neukölln, Berlin on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Danni Morali is an italo disco and house artist, with 14 gigs on soundcheck acro
 
 Alex Jakupovic, Xpresso Martina, DJ Übergang
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannimorali/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannimorali/)*

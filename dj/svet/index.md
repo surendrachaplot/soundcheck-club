@@ -1,6 +1,6 @@
 # Svet
 
-Svet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar A Bar, London on Fri, 30 Oct 2026.
+Svet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar A Bar, London on Fri, 30 Oct 2026.
 
 Svet is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Barcelona, Ibiza, London and New York City and 1 more. Often billed alongside Alexandar Kyosev, Kiril Dimchev and Daniel del Rio. Next up: Bar A Bar, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Svet is a house and techno artist based in United Kingdom, with 11 gigs on sound
 
 Alexandar Kyosev, Kiril Dimchev, Daniel del Rio
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svet/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svet/)*

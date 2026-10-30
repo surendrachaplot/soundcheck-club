@@ -1,6 +1,6 @@
 # ZakaL
 
-ZakaL is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 7 Nov 2026.
+ZakaL is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 7 Nov 2026.
 
 ZakaL is a drum & bass and jungle artist based in Sweden, with 11 gigs on soundcheck across Gothenburg. Often billed alongside Aberrant Electro, Mengzy and Justin Lim. Next up: Ivans Pilsnerbar, Gothenburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ZakaL is a drum & bass and jungle artist based in Sweden, with 11 gigs on soundc
 
 Aberrant Electro, Mengzy, Justin Lim
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakal/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakal/)*

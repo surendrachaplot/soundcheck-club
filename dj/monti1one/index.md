@@ -1,6 +1,6 @@
 # Monti1one
 
-Monti1one is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
+Monti1one is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Atno, Budapest on Fri, 27 Nov 2026.
 
 Monti1one is a house and tech house artist based in Germany, with 54 gigs on soundcheck across Bangkok, Berlin, Budapest and Düsseldorf and 7 more. Often billed alongside Klix, Heimlich Maneuver and PJPJPJ. Next up: Atno, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Monti1one is a house and tech house artist based in Germany, with 54 gigs on sou
 
 Klix (3), Heimlich Maneuver, PJPJPJ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monti1one/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monti1one/)*

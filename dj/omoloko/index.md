@@ -1,6 +1,6 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+OMOLOKO is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 OMOLOKO is a house and techno artist based in Brazil, with 126 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 36 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -18,6 +18,7 @@ OMOLOKO is a house and techno artist based in Brazil, with 126 gigs on soundchec
 
 ## Recently played
 
+- The Observatory, Ho-chi-minh-city · Thu, 29 Oct 2026
 - Horn, Bangkok · Sat, 17 Oct 2026
 - Mitsuki, Tokyo · Fri, 11 Sept 2026
 - BAR Inc, Osaka · Sat, 5 Sept 2026
@@ -25,10 +26,9 @@ OMOLOKO is a house and techno artist based in Brazil, with 126 gigs on soundchec
 - La Terrrazza, Barcelona · Sat, 8 Aug 2026
 - Skatecafe, Amsterdam · Sat, 1 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
-- PIP Den Haag, The Hague · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

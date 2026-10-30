@@ -1,6 +1,6 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gotec, Karlsruhe on Fri, 30 Oct 2026.
+Adrian Mills is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gotec, Karlsruhe on Fri, 30 Oct 2026.
 
 Adrian Mills is a techno and trance artist based in Germany, with 269 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Gotec, Karlsruhe on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ Adrian Mills is a techno and trance artist based in Germany, with 269 gigs on so
 
 Cloudy, KUKO, Serafina
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

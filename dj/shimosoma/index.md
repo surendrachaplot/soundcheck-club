@@ -1,6 +1,6 @@
 # shimosoma
 
-shimosoma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Enter Shibuya, Tokyo on Wed, 4 Nov 2026.
+shimosoma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Enter Shibuya, Tokyo on Wed, 4 Nov 2026.
 
 shimosoma is a techno and house artist based in Japan, with 62 gigs on soundcheck across Tokyo. Often billed alongside Rikuto Shibazaki, Rikuto and Kotaro Shimizu. Next up: Enter Shibuya, Tokyo on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ shimosoma is a techno and house artist based in Japan, with 62 gigs on soundchec
 
 Rikuto Shibazaki, Rikuto, Kotaro Shimizu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimosoma/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimosoma/)*

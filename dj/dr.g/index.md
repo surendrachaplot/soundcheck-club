@@ -1,6 +1,6 @@
 # Dr. G
 
-Dr. G is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Funke, Ghent on Fri, 30 Oct 2026.
+Dr. G is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Funke, Ghent on Fri, 30 Oct 2026.
 
 Dr. G is a techno and trance artist based in Belgium, with 39 gigs on soundcheck across Amsterdam, Berlin, Brussels and Geneva and 9 more. Often billed alongside MOKER, Cleopard2000 and EMILIJA. Next up: Funke, Ghent on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Dr. G is a techno and trance artist based in Belgium, with 39 gigs on soundcheck
 
 MOKER, Cleopard2000, EMILIJA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.g/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.g/)*

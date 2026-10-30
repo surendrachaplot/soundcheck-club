@@ -1,6 +1,6 @@
 # Dj Chance da Silva
 
-Dj Chance da Silva is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Beco de Bragança, 26 - Centro, Rio de Janeiro - RJ, 20091-010, Brasil, Rio de Janeiro on Sun, 1 Nov 2026.
+Dj Chance da Silva is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Beco de Bragança, 26 - Centro, Rio de Janeiro - RJ, 20091-010, Brasil, Rio de Janeiro on Sun, 1 Nov 2026.
 
 Dj Chance da Silva is a house and electronica artist, with 35 gigs on soundcheck across Mexico City, Rio de Janeiro and Sao Paulo. Often billed alongside Aleakim, Icehead and Ananda (BR). Next up: TBA - Beco de Bragança, 26 - Centro, Rio de Janeiro - RJ, 20091-010, Brasil, Rio de Janeiro on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Dj Chance da Silva is a house and electronica artist, with 35 gigs on soundcheck
 
 Aleakim, Icehead, Ananda (BR)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchancedasilva/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchancedasilva/)*

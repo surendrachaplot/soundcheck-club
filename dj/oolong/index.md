@@ -1,6 +1,6 @@
 # Oolong
 
-Oolong is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
+Oolong is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
 
 Oolong is a house and techno artist based in United Kingdom, with 20 gigs on soundcheck across Bangkok, Chengdu, London and Shanghai and 1 more. Often billed alongside hameslice, Marcos Godoy and DOTT. Next up: Little Moon Villa Koh Mak, Thailand on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Oolong is a house and techno artist based in United Kingdom, with 20 gigs on sou
 
 hameslice, Marcos Godoy, DOTT
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oolong/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oolong/)*

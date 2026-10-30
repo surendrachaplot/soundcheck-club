@@ -1,6 +1,6 @@
 # Telicho
 
-Telicho is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at FLUCC, Vienna on Fri, 30 Oct 2026.
+Telicho is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at FLUCC, Vienna on Fri, 30 Oct 2026.
 
 Telicho is a techno and trance artist, with 21 gigs on soundcheck across Berlin and Vienna. Often billed alongside Huebl, Albin Brezlan and Dana Melissa. Next up: FLUCC, Vienna on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Telicho is a techno and trance artist, with 21 gigs on soundcheck across Berlin 
 
 Huebl, Albin Brezlan, Dana Melissa
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telicho/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telicho/)*

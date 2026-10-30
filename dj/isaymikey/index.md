@@ -1,6 +1,6 @@
 # I Say Mikey
 
-I Say Mikey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at DZiK, Warsaw on Sat, 31 Oct 2026.
+I Say Mikey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at DZiK, Warsaw on Sat, 31 Oct 2026.
 
 I Say Mikey is a house and disco artist, with 20 gigs on soundcheck across Warsaw. Often billed alongside Mushin, Kuvau and Mr. Lex. Next up: DZiK, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ I Say Mikey is a house and disco artist, with 20 gigs on soundcheck across Warsa
 
 Mushin, Kuvau, Mr. Lex
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaymikey/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaymikey/)*

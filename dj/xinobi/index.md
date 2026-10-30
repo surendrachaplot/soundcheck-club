@@ -1,6 +1,6 @@
 # Xinobi
 
-Xinobi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
+Xinobi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
 
 Xinobi is a house and deep house artist based in Portugal, with 71 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Brussels and 25 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Xinobi is a house and deep house artist based in Portugal, with 71 gigs on sound
 
 Moullinex, Klin Klop, GPU Panic
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*

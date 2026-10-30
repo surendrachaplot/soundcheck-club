@@ -1,8 +1,8 @@
 # Arlo Parks
 
-Arlo Parks is a R&B and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Uber Eats Music Hall, Berlin on Sat, 31 Oct 2026.
+Arlo Parks is a Techno and R&B artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Uber Eats Music Hall, Berlin on Sat, 31 Oct 2026.
 
-Arlo Parks is a r&b and techno artist based in United Kingdom, with 8 gigs on soundcheck across Berlin, Bristol, Budapest and Copenhagen and 3 more. Often billed alongside Lil Silva, AGY3NA and AndShe. Next up: Uber Eats Music Hall, Berlin on Sat 31 Oct.
+Arlo Parks is a techno and r&b artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, Bristol, Budapest and Copenhagen and 4 more. Often billed alongside Lil Silva, AGY3NA and AndShe. Next up: Uber Eats Music Hall, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Arlo Parks is a r&b and techno artist based in United Kingdom, with 8 gigs on so
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Uber Eats Music Hall | Berlin |
 | Sun, 29 Nov 2026 | VEGA | Copenhagen |
+| Sat, 12 Dec 2026 | Los Globos | Los Angeles |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Arlo Parks is a r&b and techno artist based in United Kingdom, with 8 gigs on so
 
 Lil Silva, AGY3NA, AndShe
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arloparks/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arloparks/)*

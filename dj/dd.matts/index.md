@@ -1,6 +1,6 @@
 # DD.MATTS
 
-DD.MATTS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at D9 Aribau, Barcelona on Sat, 7 Nov 2026.
+DD.MATTS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at D9 Aribau, Barcelona on Sat, 7 Nov 2026.
 
 DD.MATTS is a techno and acid artist based in Spain, with 20 gigs on soundcheck across Barcelona. Often billed alongside Erico Rampas, Freeka and ROSS z. Next up: D9 Aribau, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DD.MATTS is a techno and acid artist based in Spain, with 20 gigs on soundcheck 
 
 Erico Rampas, Freeka, ROSS z
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dd.matts/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dd.matts/)*

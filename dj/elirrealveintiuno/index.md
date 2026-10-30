@@ -1,6 +1,6 @@
 # El irreal Veintiuno
 
-El irreal Veintiuno is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at CHICO, Mexico City on Sat, 7 Nov 2026.
+El irreal Veintiuno is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at CHICO, Mexico City on Sat, 7 Nov 2026.
 
 El irreal Veintiuno is an electronica and bass artist based in Mexico, with 14 gigs on soundcheck across Bogotá and Mexico City. Often billed alongside Lyo XS, Seli and ADAKEO. Next up: CHICO, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ El irreal Veintiuno is an electronica and bass artist based in Mexico, with 14 g
 
 Lyo XS, Seli (2), ADAKEO
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elirrealveintiuno/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elirrealveintiuno/)*

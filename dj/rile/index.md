@@ -1,6 +1,6 @@
 # rilé
 
-rilé is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Gewölbe, Cologne on Sat, 28 Nov 2026.
+rilé is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gewölbe, Cologne on Sat, 28 Nov 2026.
 
 rilé is a techno and dub techno artist based in Germany, with 11 gigs on soundcheck across Cologne, Dortmund / Essen, Düsseldorf and Munich and 1 more. Often billed alongside Jayat, Shrff and HWRD. Next up: Gewölbe, Cologne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ rilé is a techno and dub techno artist based in Germany, with 11 gigs on soundc
 
 Jayat, Shrff, HWRD
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rile/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rile/)*

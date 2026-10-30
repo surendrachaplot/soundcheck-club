@@ -1,6 +1,6 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 6 Nov 2026.
+Tarkno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 6 Nov 2026.
 
 Tarkno is a techno and house artist based in Australia, with 117 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 39 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Studio Club Malaga, Malaga on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Tarkno is a techno and house artist based in Australia, with 117 gigs on soundch
 
 slin, Carmen Electro, RUIZ OSC1
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*

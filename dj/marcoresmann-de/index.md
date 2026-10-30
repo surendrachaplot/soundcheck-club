@@ -1,6 +1,6 @@
 # Marco Resmann
 
-Marco Resmann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Gate, Berlin on Sat, 28 Nov 2026.
+Marco Resmann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Sat, 28 Nov 2026.
 
 Marco Resmann is a house and techno artist, with 39 gigs on soundcheck across Amsterdam, Berlin, Geneva and Hamburg and 5 more. Often billed alongside Slurm McKenzie, Diogo Accioly and Kristin Velvet. Next up: Golden Gate, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Marco Resmann is a house and techno artist, with 39 gigs on soundcheck across Am
 
 Slurm McKenzie, Diogo Accioly, Kristin Velvet
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoresmann-de/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoresmann-de/)*

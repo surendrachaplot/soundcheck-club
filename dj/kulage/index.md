@@ -1,6 +1,6 @@
 # Kulage
 
-Kulage is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Tokyo on Fri, 6 Nov 2026.
+Kulage is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Tokyo on Fri, 6 Nov 2026.
 
 Kulage is a techno and house artist based in Japan, with 114 gigs on soundcheck across Seoul and Tokyo. Often billed alongside WAKA XINXI, DJ AKi and YELLOCK. Next up: TBA, Tokyo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Kulage is a techno and house artist based in Japan, with 114 gigs on soundcheck 
 
 WAKA XINXI, DJ AKi, YELLOCK
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kulage/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kulage/)*

@@ -1,6 +1,6 @@
 # Alam
 
-Alam is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 30 Oct 2026.
+Alam is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 30 Oct 2026.
 
 Alam is a house and tech house artist based in Malaysia, with 196 gigs on soundcheck across Bali, Kuala Lumpur and Singapore. Often billed alongside Axel Groove, Victor G (MY) and Odd (MY). Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Alam is a house and tech house artist based in Malaysia, with 196 gigs on soundc
 
 Axel Groove, Victor G (MY), Odd (MY)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alam/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alam/)*

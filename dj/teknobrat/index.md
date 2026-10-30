@@ -1,6 +1,6 @@
 # Teknobrat
 
-Teknobrat is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Gwenda, London on Sat, 14 Nov 2026.
+Teknobrat is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gwenda, London on Sat, 14 Nov 2026.
 
 Teknobrat is a techno and acid artist based in Canada, with 13 gigs on soundcheck across Cologne, Dublin, Liverpool and London and 3 more. Often billed alongside Joe Smooth, Mike Anderson and Claus Bachor. Next up: Gwenda, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Teknobrat is a techno and acid artist based in Canada, with 13 gigs on soundchec
 
 Joe Smooth, Mike Anderson, Claus Bachor
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teknobrat/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teknobrat/)*

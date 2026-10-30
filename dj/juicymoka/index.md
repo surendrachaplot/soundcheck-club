@@ -1,6 +1,6 @@
 # JUICYMOKA
 
-JUICYMOKA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Prisma, Berlin on Thu, 5 Nov 2026.
+JUICYMOKA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Prisma, Berlin on Thu, 5 Nov 2026.
 
 JUICYMOKA is a techno and hardcore artist based in France, with 12 gigs on soundcheck across Berlin, Geneva, Paris and Sofia. Often billed alongside Charlotte Lion, ALL1SØN and DJ Mad Dog. Next up: Prisma, Berlin on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ JUICYMOKA is a techno and hardcore artist based in France, with 12 gigs on sound
 
 Charlotte Lion, ALL1SØN, DJ Mad Dog
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juicymoka/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juicymoka/)*

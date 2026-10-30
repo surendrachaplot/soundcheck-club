@@ -1,6 +1,6 @@
 # Dadame
 
-Dadame is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bridge 48, Barcelona on Fri, 6 Nov 2026.
+Dadame is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bridge 48, Barcelona on Fri, 6 Nov 2026.
 
 Dadame is a house and deep house artist based in Spain, with 108 gigs on soundcheck across Barcelona. Often billed alongside Marc Gimeno, Cucut and Tamborero. Next up: Bridge 48, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Dadame is a house and deep house artist based in Spain, with 108 gigs on soundch
 
 Marc Gimeno, Cucut, Tamborero
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadame/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadame/)*

@@ -1,6 +1,6 @@
 # BLNDFLD
 
-BLNDFLD is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Atno, Budapest on Sat, 7 Nov 2026.
+BLNDFLD is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Atno, Budapest on Sat, 7 Nov 2026.
 
 BLNDFLD is a techno and ambient artist based in Georgia, with 16 gigs on soundcheck across Barcelona, Budapest and Tbilisi. Often billed alongside Solarmental, Tsott and Aksed. Next up: Atno, Budapest on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ BLNDFLD is a techno and ambient artist based in Georgia, with 16 gigs on soundch
 
 Solarmental, Tsott, Aksed
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blndfld/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blndfld/)*

@@ -1,6 +1,6 @@
 # ciao ciao Bar
 
-ciao ciao Bar is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Memory Dance" on Thu, 29 Oct 2026.
+ciao ciao Bar is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Memory Dance" on Thu, 29 Oct 2026.
 
 ciao ciao Bar is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Berlin Bunny, CBR (Berlin), Contrafiction and Dagger and 2 more. See dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
 
@@ -20,4 +20,4 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, 
 
 Falckensteinstr. 47 / 48, 10997 Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*

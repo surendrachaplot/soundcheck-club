@@ -1,6 +1,6 @@
 # Gaia
 
-Gaia is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Crust Basement, Athens on Sat, 31 Oct 2026.
+Gaia is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Crust Basement, Athens on Sat, 31 Oct 2026.
 
 Gaia is a tech house and afro house artist, with 13 gigs on soundcheck across Athens, Glasgow, London and Medellin and 3 more. Often billed alongside DH Moon, Adam O and Craig Charles. Next up: Crust Basement, Athens on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gaia is a tech house and afro house artist, with 13 gigs on soundcheck across At
 
 DH Moon, Adam O (1), Craig Charles
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaia/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaia/)*

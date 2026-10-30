@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 30 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Art Of Dark - Halloween - Praslesh (Raresh B2B Praslea), DC Salas (live), GNMR, Wendy + more" on Fri, 30 Oct 2026.
+FOLD is a music venue in London with 30 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Art Of Dark - Halloween - Praslesh (Raresh B2B Praslea), DC Salas (live), GNMR, Wendy + more" on Fri, 30 Oct 2026.
 
 FOLD is a music venue in London listed on soundcheck. 30 upcoming gigs, with line-ups including Aaron J, Aaron Liberator, adobeprincess and Ahmet Sisman and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 30 upcoming gigs, with lin
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

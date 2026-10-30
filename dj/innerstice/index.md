@@ -1,6 +1,6 @@
 # Innerstice
 
-Innerstice is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
+Innerstice is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
 
 Innerstice is a techno and deep house artist based in Spain, with 47 gigs on soundcheck across London, Madrid and Rome. Often billed alongside Carina Lawrence, Adela and Karellos. Next up: E1, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Innerstice is a techno and deep house artist based in Spain, with 47 gigs on sou
 
 Carina Lawrence, Adela, Karellos
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innerstice/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innerstice/)*

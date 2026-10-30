@@ -1,6 +1,6 @@
 # Zach G
 
-Zach G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
+Zach G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
 
 Zach G is a house and techno artist based in United States of America, with 39 gigs on soundcheck across Berlin, Brussels, Bucharest and Dublin and 6 more. Often billed alongside Andrei Ciubuc, Elia Nafzger and Chuwee. Next up: Club Guesthouse, Bucharest on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Zach G is a house and techno artist based in United States of America, with 39 g
 
 Andrei Ciubuc, Elia Nafzger, Chuwee
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zachg/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zachg/)*

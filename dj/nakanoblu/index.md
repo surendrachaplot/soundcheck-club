@@ -1,6 +1,6 @@
 # NAKANO BLU
 
-NAKANO BLU is a IDM and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 20 Nov 2026.
+NAKANO BLU is a IDM and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 20 Nov 2026.
 
 NAKANO BLU is an idm and drum & bass artist, with 12 gigs on soundcheck across Amsterdam, Beijing, Chengdu and Chongqing and 1 more. Often billed alongside Marijn S, Douglas Calii and Vox supreme. Next up: Time is the new space, Rotterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ NAKANO BLU is an idm and drum & bass artist, with 12 gigs on soundcheck across A
 
 Marijn S, Douglas Calii, Vox supreme
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakanoblu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakanoblu/)*

@@ -1,6 +1,6 @@
 # Kamafaka
 
-Kamafaka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palazzo Permanens, Budapest on Fri, 30 Oct 2026.
+Kamafaka is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Palazzo Permanens, Budapest on Fri, 30 Oct 2026.
 
 Kamafaka is a techno and trance artist based in Hungary, with 92 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bologna and 7 more. Often billed alongside Technokool, Akác and CRIME. Next up: Palazzo Permanens, Budapest on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Kamafaka is a techno and trance artist based in Hungary, with 92 gigs on soundch
 
 Technokool, Akác, CRIME
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamafaka/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamafaka/)*

@@ -1,6 +1,6 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Doudou MD is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Doudou MD is a house and techno artist based in Netherlands, with 237 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 56 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Doudou MD is a house and techno artist based in Netherlands, with 237 gigs on so
 
 Samuel Deep, DJ Senc, Fumiya Tanaka
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*

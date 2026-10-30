@@ -1,6 +1,6 @@
 # David Rodigan
 
-David Rodigan is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Unit 13, Nottingham on Sat, 21 Nov 2026.
+David Rodigan is a Dub and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Unit 13, Nottingham on Sat, 21 Nov 2026.
 
 David Rodigan is a dub and drum & bass artist, with 38 gigs on soundcheck across Barcelona, Birmingham, Brighton and Bristol and 14 more. Often billed alongside Kirollus, Arielle Free and Chimpo. Next up: Unit 13, Nottingham on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ David Rodigan is a dub and drum & bass artist, with 38 gigs on soundcheck across
 
 Kirollus, Arielle Free, Chimpo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrodigan/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrodigan/)*

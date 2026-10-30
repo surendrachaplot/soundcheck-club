@@ -1,6 +1,6 @@
 # Marta De Pascalis
 
-Marta De Pascalis is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OHM, Berlin on Fri, 13 Nov 2026.
+Marta De Pascalis is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at OHM, Berlin on Fri, 13 Nov 2026.
 
 Marta De Pascalis is an experimental and techno artist based in Belgium, with 25 gigs on soundcheck across Athens, Basel, Berlin and Bologna and 6 more. Often billed alongside African Head Charge, PRAED and Perera Elsewhere. Next up: OHM, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Marta De Pascalis is an experimental and techno artist based in Belgium, with 25
 
 African Head Charge, PRAED, Perera Elsewhere
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martadepascalis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martadepascalis/)*

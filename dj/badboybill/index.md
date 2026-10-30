@@ -1,6 +1,6 @@
 # Bad Boy Bill
 
-Bad Boy Bill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Dockland, Münster on Sat, 19 Dec 2026.
+Bad Boy Bill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Dockland, Münster on Sat, 19 Dec 2026.
 
 Bad Boy Bill is a house and techno artist, with 13 gigs on soundcheck across Chicago, Cleveland, Los Angeles and Münster and 5 more. Often billed alongside CTRLZORA, Armand Van Helden and DJ Heather. Next up: Dockland, Münster on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Bad Boy Bill is a house and techno artist, with 13 gigs on soundcheck across Chi
 
 CTRLZORA, Armand Van Helden, DJ Heather
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badboybill/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badboybill/)*

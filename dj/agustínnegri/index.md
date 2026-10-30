@@ -1,6 +1,6 @@
 # Agustín Negri
 
-Agustín Negri is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SECRET LOCATION POBLE NOU, Barcelona on Sat, 31 Oct 2026.
+Agustín Negri is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - SECRET LOCATION POBLE NOU, Barcelona on Sat, 31 Oct 2026.
 
 Agustín Negri is a house and tech house artist, with 9 gigs on soundcheck across Barcelona. Often billed alongside Agustin Bosco, FREDDIESS and EVES DJ. Next up: TBA - SECRET LOCATION POBLE NOU, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Agustín Negri is a house and tech house artist, with 9 gigs on soundcheck acros
 
 Agustin Bosco, FREDDIESS, EVES DJ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustínnegri/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustínnegri/)*

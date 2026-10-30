@@ -1,6 +1,6 @@
 # Lucifer
 
-Lucifer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bal Chavaux, Paris on Fri, 20 Nov 2026.
+Lucifer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bal Chavaux, Paris on Fri, 20 Nov 2026.
 
 Lucifer is a house and techno artist based in France, with 60 gigs on soundcheck across Cologne, Liverpool, Marseille and Münster and 4 more. Often billed alongside Fenouil2000, Loki Starfish and Kandelissa. Next up: Bal Chavaux, Paris on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lucifer is a house and techno artist based in France, with 60 gigs on soundcheck
 
 Fenouil2000, Loki Starfish, Kandelissa
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifer/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifer/)*

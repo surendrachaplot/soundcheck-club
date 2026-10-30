@@ -1,6 +1,6 @@
 # Isabelle Beaucamp
 
-Isabelle Beaucamp is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
+Isabelle Beaucamp is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 20 Mar 2027.
 
 Isabelle Beaucamp is a techno and trance artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 19 more. Often billed alongside EDNA, Paralich and A.N.I.. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 20 Mar.
 
@@ -25,4 +25,4 @@ Isabelle Beaucamp is a techno and trance artist based in Germany, with 96 gigs o
 
 EDNA, Paralich, A.N.I.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellebeaucamp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellebeaucamp/)*

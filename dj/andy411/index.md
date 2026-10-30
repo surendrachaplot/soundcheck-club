@@ -1,8 +1,8 @@
 # Andy411
 
-Andy411 is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 13 Nov 2026.
+Andy411 is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-Andy411 is a club and house artist, with 8 gigs on soundcheck across San Francisco/Oakland. Often billed alongside LILRAV4, Femme Jatale and Shino Smoke. Next up: Underground SF, San Francisco/Oakland on Fri 13 Nov.
+Andy411 is a club and house artist based in United States of America, with 8 gigs on soundcheck across San Francisco/Oakland. Often billed alongside LILRAV4, Femme Jatale and Shino Smoke. Next up: Underground SF, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Andy411 is a club and house artist, with 8 gigs on soundcheck across San Francis
 
 LILRAV4, Femme Jatale, Shino Smoke
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andy411/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andy411/)*

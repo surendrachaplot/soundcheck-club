@@ -1,6 +1,6 @@
 # Confusion
 
-Confusion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Disco Zwei, Mannheim on Fri, 30 Oct 2026.
+Confusion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Disco Zwei, Mannheim on Fri, 30 Oct 2026.
 
 Confusion is a techno and house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 8 more. Often billed alongside Nastaran, Nortsch and Arok. Next up: Disco Zwei, Mannheim on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Confusion is a techno and house artist based in Germany, with 62 gigs on soundch
 
 Nastaran, Nortsch, Arok
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confusion/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confusion/)*

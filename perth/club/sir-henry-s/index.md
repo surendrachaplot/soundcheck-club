@@ -1,6 +1,6 @@
 # Sir Henry's
 
-Sir Henry's is a music venue in Perth with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "RS136: Restless Sundays" on Sun, 1 Nov 2026.
+Sir Henry's is a music venue in Perth with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "RS136: Restless Sundays" on Sun, 1 Nov 2026.
 
 Sir Henry's is a music venue in Perth listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Sir Henry's is a music venue in Perth listed on soundcheck. 3 upcoming gigs. See
 | Sun, 8 Nov 2026 | RS137: Restless Sundays |  |
 | Sun, 15 Nov 2026 | RS138: Restless Sundays |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/sir-henry-s/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/sir-henry-s/)*

@@ -1,6 +1,6 @@
 # Bluekim
 
-Bluekim is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Bluekim is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Bluekim is a techno and electronica artist based in Colombia, with 33 gigs on soundcheck across Bogotá. Often billed alongside Owldisco, Camille Spectrae and Rpm87. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bluekim is a techno and electronica artist based in Colombia, with 33 gigs on so
 
 Owldisco, Camille Spectrae, Rpm87
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluekim/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluekim/)*

@@ -1,6 +1,6 @@
 # E.LINA
 
-E.LINA is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+E.LINA is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 E.LINA is a house and minimal artist based in Ukraine, with 164 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 42 more. Often billed alongside Annyrock, DJ Senc and Cap. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ E.LINA is a house and minimal artist based in Ukraine, with 164 gigs on soundche
 
 Annyrock, DJ Senc, Cap
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*

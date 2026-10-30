@@ -1,6 +1,6 @@
 # Vitess
 
-Vitess is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Vitess is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Vitess is a house and techno artist based in France, with 111 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 45 more. Often billed alongside Grand V, Occibel and Emma B. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Vitess is a house and techno artist based in France, with 111 gigs on soundcheck
 
 Grand V, Occibel, Emma B
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitess/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitess/)*

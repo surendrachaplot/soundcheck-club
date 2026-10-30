@@ -1,6 +1,6 @@
 # Stev3NN
 
-Stev3NN is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Royal Lounge, Tokyo on Sun, 1 Nov 2026.
+Stev3NN is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Royal Lounge, Tokyo on Sun, 1 Nov 2026.
 
 Stev3NN is a house and tech house artist based in Japan, with 21 gigs on soundcheck across Tokyo. Often billed alongside Neri, CLESENT and GooPer. Next up: Royal Lounge, Tokyo on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Stev3NN is a house and tech house artist based in Japan, with 21 gigs on soundch
 
 Neri, CLESENT, GooPer
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stev3nn/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stev3nn/)*

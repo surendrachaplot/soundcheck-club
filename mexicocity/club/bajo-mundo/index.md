@@ -1,6 +1,6 @@
 # Bajo Mundo
 
-Bajo Mundo is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Noche de Muertos" on Fri, 30 Oct 2026.
+Bajo Mundo is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Noche de Muertos" on Fri, 30 Oct 2026.
 
 Bajo Mundo is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including Cabe, Daan Cruz, Octoptic and Praqqa and 2 more. See dates, start times and who's playing. Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX.
 
@@ -15,4 +15,4 @@ Bajo Mundo is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs
 
 Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico City
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bajo-mundo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bajo-mundo/)*

@@ -1,6 +1,6 @@
 # Kosmalski
 
-Kosmalski is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ulica Elektryków, Gdansk on Sat, 7 Nov 2026.
+Kosmalski is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ulica Elektryków, Gdansk on Sat, 7 Nov 2026.
 
 Kosmalski is a techno and acid artist based in Poland, with 12 gigs on soundcheck across Berlin, Gdansk, Krakow and Poznan and 1 more. Often billed alongside dtekk, Feelaz and AKOMPANIAMENT. Next up: Ulica Elektryków, Gdansk on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kosmalski is a techno and acid artist based in Poland, with 12 gigs on soundchec
 
 dtekk, Feelaz, AKOMPANIAMENT
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmalski/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmalski/)*

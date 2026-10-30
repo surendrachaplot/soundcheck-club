@@ -1,8 +1,8 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BALOCCO (HOUSE/TECH HOUSE)" on Fri, 30 Oct 2026.
+Z Maruyama is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BALOCCO (HOUSE/TECH HOUSE)" on Fri, 30 Oct 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including AHREUM, Amps, ASSIGN and B and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including AHREUM, Amps, ASSIGN and B and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, wit
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+DITA (ID) is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
 DITA (ID) is a house and disco artist based in Indonesia, with 124 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 19 more. Often billed alongside Fafi Abdel Nour, Peach and Archie Dennis. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ DITA (ID) is a house and disco artist based in Indonesia, with 124 gigs on sound
 
 Fafi Abdel Nour, Peach, Archie Dennis
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

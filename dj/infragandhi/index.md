@@ -1,6 +1,6 @@
 # Infragandhi
 
-Infragandhi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Atno, Budapest on Sat, 31 Oct 2026.
+Infragandhi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Atno, Budapest on Sat, 31 Oct 2026.
 
 Infragandhi is a techno and house artist based in Hungary, with 35 gigs on soundcheck across Budapest. Often billed alongside Galactic Jackson, Klayman and Lenny Lenoks. Next up: Atno, Budapest on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Infragandhi is a techno and house artist based in Hungary, with 35 gigs on sound
 
 Galactic Jackson, Klayman, Lenny Lenoks
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infragandhi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infragandhi/)*

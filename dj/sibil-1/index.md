@@ -1,6 +1,6 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at XuXa, Austin on Fri, 30 Oct 2026.
+Sibil (1) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at XuXa, Austin on Fri, 30 Oct 2026.
 
 Sibil is a house and techno artist based in France, with 138 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: XuXa, Austin on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Sibil is a house and techno artist based in France, with 138 gigs on soundcheck 
 
 Mayell, Tau Car, O.BEE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*

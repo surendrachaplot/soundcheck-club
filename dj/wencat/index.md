@@ -1,6 +1,6 @@
 # Wencat
 
-Wencat is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La 30, Montreal on Sat, 7 Nov 2026.
+Wencat is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La 30, Montreal on Sat, 7 Nov 2026.
 
 Wencat is a bass and dubstep artist based in Canada, with 22 gigs on soundcheck across Montreal. Often billed alongside coldchainlogistics, Pleurire and Kiviv. Next up: La 30, Montreal on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Wencat is a bass and dubstep artist based in Canada, with 22 gigs on soundcheck 
 
 coldchainlogistics, Pleurire, Kiviv
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wencat/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wencat/)*

@@ -1,6 +1,6 @@
 # ray reck
 
-ray reck is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 21 Nov 2026.
+ray reck is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 ray reck is a club and footwork artist, with 20 gigs on soundcheck across Chicago, New York City and San Francisco/Oakland. Often billed alongside RITCHRD, Bored Lord and Discnogirl. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ ray reck is a club and footwork artist, with 20 gigs on soundcheck across Chicag
 
 RITCHRD, Bored Lord, Discnogirl
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rayreck/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rayreck/)*

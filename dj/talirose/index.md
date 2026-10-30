@@ -1,6 +1,6 @@
 # Tali Rose
 
-Tali Rose is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Vino Disco, Montreal on Sat, 28 Nov 2026.
+Tali Rose is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Vino Disco, Montreal on Sat, 28 Nov 2026.
 
 Tali Rose is a house and progressive house artist based in Canada, with 31 gigs on soundcheck across Montreal. Often billed alongside Anna Rose, Cristina Lazic and FAMÜ. Next up: Vino Disco, Montreal on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tali Rose is a house and progressive house artist based in Canada, with 31 gigs 
 
 Anna Rose, Cristina Lazic, FAMÜ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talirose/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talirose/)*

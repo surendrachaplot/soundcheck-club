@@ -1,6 +1,6 @@
 # Egotot
 
-Egotot is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sonorama, Medellin on Fri, 30 Oct 2026.
+Egotot is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Sonorama, Medellin on Fri, 30 Oct 2026.
 
 Egotot is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Bergen, Berlin and Budapest and 17 more. Often billed alongside Bernd Affleck, Pino Peña and Anterist. Next up: Sonorama, Medellin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Egotot is a techno and house artist based in Germany, with 61 gigs on soundcheck
 
 Bernd Affleck, Pino Peña, Anterist
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egotot/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egotot/)*

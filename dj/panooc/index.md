@@ -1,6 +1,6 @@
 # Panooc
 
-Panooc is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
+Panooc is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
 
 Panooc is a house and techno artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Edinburgh and 6 more. Often billed alongside Robin Flux, Michelle Manetti and materia hache. Next up: Renate, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Panooc is a house and techno artist based in United Kingdom, with 46 gigs on sou
 
 Robin Flux, Michelle Manetti, materia hache
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panooc/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panooc/)*

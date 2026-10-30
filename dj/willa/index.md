@@ -1,6 +1,6 @@
 # Will A
 
-Will A is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at DeTour, Tokyo on Sun, 15 Nov 2026.
+Will A is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at DeTour, Tokyo on Sun, 15 Nov 2026.
 
 Will A is an acid and house artist based in United Kingdom, with 36 gigs on soundcheck across Bangkok, Barcelona, Beijing and Cardiff and 6 more. Often billed alongside Means&3rd, CHISE and TERU. Next up: DeTour, Tokyo on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Will A is an acid and house artist based in United Kingdom, with 36 gigs on soun
 
 Means&3rd, CHISE, TERU
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willa/)*

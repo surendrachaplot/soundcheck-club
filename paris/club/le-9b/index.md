@@ -1,6 +1,6 @@
 # Le 9B
 
-Le 9B is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Extra PDP - Happy new year" on Sat, 16 Jan 2027.
+Le 9B is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Extra PDP - Happy new year" on Sat, 16 Jan 2027.
 
 Le 9B is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 68 Bd de la Villette; 75019; Paris; France.
 
@@ -14,4 +14,4 @@ Le 9B is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates,
 
 68 Bd de la Villette; 75019; Paris; France, Paris
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-9b/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-9b/)*

@@ -1,6 +1,6 @@
 # Marten Hørger
 
-Marten Hørger is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Mothership, Auckland on Fri, 30 Oct 2026.
+Marten Hørger is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Mothership, Auckland on Fri, 30 Oct 2026.
 
 Marten Hørger is a house and tech house artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Berlin and 34 more. Often billed alongside David Guetta, Alle Farben and Paul Reynolds. Next up: The Mothership, Auckland on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Marten Hørger is a house and tech house artist based in Germany, with 72 gigs o
 
 David Guetta, Alle Farben, Paul Reynolds
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martenhorger/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martenhorger/)*

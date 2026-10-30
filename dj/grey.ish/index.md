@@ -1,6 +1,6 @@
 # grey.ish
 
-grey.ish is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Zur Klappe, Berlin on Fri, 20 Nov 2026.
+grey.ish is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Zur Klappe, Berlin on Fri, 20 Nov 2026.
 
 grey.ish is a techno and house artist based in Germany, with 15 gigs on soundcheck across Berlin and Vienna. Often billed alongside vinsk., Leon Licht and Fast (DE). Next up: Zur Klappe, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ grey.ish is a techno and house artist based in Germany, with 15 gigs on soundche
 
 vinsk., Leon Licht, Fast (DE)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grey.ish/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grey.ish/)*

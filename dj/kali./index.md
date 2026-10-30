@@ -1,6 +1,6 @@
 # KALI.
 
-KALI. is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tennis Bar Neukölln, Berlin on Fri, 30 Oct 2026.
+KALI. is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tennis Bar Neukölln, Berlin on Fri, 30 Oct 2026.
 
 KALI. is a baile funk and bass artist based in Germany, with 44 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside sin serif, dj latinchat and Folly Ghost. Next up: Tennis Bar Neukölln, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KALI. is a baile funk and bass artist based in Germany, with 44 gigs on soundche
 
 sin serif, dj latinchat, Folly Ghost
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*

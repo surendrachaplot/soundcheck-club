@@ -1,6 +1,6 @@
 # MC Bushkin
 
-MC Bushkin is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eutopia Warehouse, London on Sat, 5 Dec 2026.
+MC Bushkin is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Eutopia Warehouse, London on Sat, 5 Dec 2026.
 
 MC Bushkin is a garage and house artist, with 10 gigs on soundcheck across Amsterdam, Birmingham, Dubai and Ibiza and 1 more. Often billed alongside Fonti, MC DT and Shenin Amara. Next up: Eutopia Warehouse, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ MC Bushkin is a garage and house artist, with 10 gigs on soundcheck across Amste
 
 Fonti, MC DT, Shenin Amara
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcbushkin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcbushkin/)*

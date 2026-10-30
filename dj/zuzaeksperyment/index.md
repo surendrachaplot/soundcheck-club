@@ -1,6 +1,6 @@
 # zuzaeksperyment
 
-zuzaeksperyment is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 30 Oct 2026.
+zuzaeksperyment is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 30 Oct 2026.
 
 zuzaeksperyment is a house and tech house artist based in Poland, with 25 gigs on soundcheck across Warsaw. Often billed alongside zenwerk, Dolu and Helga. Next up: MONKEY LOVE, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ zuzaeksperyment is a house and tech house artist based in Poland, with 25 gigs o
 
 zenwerk, Dolu, Helga
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzaeksperyment/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzaeksperyment/)*

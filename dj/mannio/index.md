@@ -1,6 +1,6 @@
 # MANNIO
 
-MANNIO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Savoy, Cork on Sat, 31 Oct 2026.
+MANNIO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Savoy, Cork on Sat, 31 Oct 2026.
 
 MANNIO is a techno and house artist based in Ireland, with 23 gigs on soundcheck across Berlin, Cork, Dublin and Galway and 2 more. Often billed alongside Niall Kelly, Culchee and Bibiminor. Next up: Savoy, Cork on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ MANNIO is a techno and house artist based in Ireland, with 23 gigs on soundcheck
 
 Niall Kelly, Culchee, Bibiminor
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mannio/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mannio/)*

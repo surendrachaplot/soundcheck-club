@@ -1,6 +1,6 @@
 # The Forest
 
-The Forest is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
+The Forest is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
 
 The Forest is a trance and techno artist, with 19 gigs on soundcheck across Tbilisi. Often billed alongside Comethisfar, Tsukuyomi and Vulkanski. Next up: KHIDI, Tbilisi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ The Forest is a trance and techno artist, with 19 gigs on soundcheck across Tbil
 
 Comethisfar, Tsukuyomi, Vulkanski
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theforest/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theforest/)*

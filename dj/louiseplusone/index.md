@@ -1,6 +1,6 @@
 # Louise Plus One
 
-Louise Plus One is a Jungle and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Night Tales, London on Sat, 31 Oct 2026.
+Louise Plus One is a Jungle and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Night Tales, London on Sat, 31 Oct 2026.
 
 Louise Plus One is a jungle and hardcore artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: Night Tales, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Louise Plus One is a jungle and hardcore artist based in United Kingdom, with 12
 
 Hughesee, Equinox (UK), DJ Azure
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*

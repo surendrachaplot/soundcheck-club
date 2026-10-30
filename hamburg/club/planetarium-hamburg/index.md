@@ -1,6 +1,6 @@
 # Planetarium Hamburg
 
-Planetarium Hamburg is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Electric Lights /AV Live - Anja Schneider (DJ) & Katja Ruge (DJ)" on Wed, 11 Nov 2026.
+Planetarium Hamburg is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Electric Lights /AV Live - Anja Schneider (DJ) & Katja Ruge (DJ)" on Wed, 11 Nov 2026.
 
 Planetarium Hamburg is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Anja Schneider, Emika and Katja Ruge. See dates, start times and who's playing. Linnering 1, 22299 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Planetarium Hamburg is a music venue in Hamburg listed on soundcheck. 2 upcoming
 
 Linnering 1, 22299 Hamburg, Germany, Hamburg
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/planetarium-hamburg/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/planetarium-hamburg/)*

@@ -1,13 +1,14 @@
 # Joëlla Jackson
 
-Joëlla Jackson is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Joëlla Jackson is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Distrikt, Leeds on Sat, 14 Nov 2026.
 
-Joëlla Jackson is a tech house and house artist based in Netherlands, with 126 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 20 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Mason Collective. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Joëlla Jackson is a tech house and house artist based in Netherlands, with 127 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 21 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Mason Collective. Next up: Distrikt, Leeds on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Distrikt | Leeds |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 | Sun, 20 Dec 2026 | BRET | Amsterdam |
 | Thu, 31 Dec 2026 | Studio 338 | London |
@@ -27,4 +28,4 @@ Joëlla Jackson is a tech house and house artist based in Netherlands, with 126 
 
 Benny Rodrigues, Franky Rizardo, Mason Collective
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joellajackson/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joellajackson/)*

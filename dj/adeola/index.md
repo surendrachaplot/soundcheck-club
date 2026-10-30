@@ -1,6 +1,6 @@
 # ADEOLA
 
-ADEOLA is a Afrobeats and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sound Machine, Toronto on Fri, 30 Oct 2026.
+ADEOLA is a Afrobeats and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sound Machine, Toronto on Fri, 30 Oct 2026.
 
 ADEOLA is an afrobeats and amapiano artist based in Nigeria, with 23 gigs on soundcheck across Montreal and Toronto. Often billed alongside ISA., baby mmune and Hangaelle. Next up: Sound Machine, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ADEOLA is an afrobeats and amapiano artist based in Nigeria, with 23 gigs on sou
 
 ISA., baby mmune, Hangaelle
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adeola/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adeola/)*

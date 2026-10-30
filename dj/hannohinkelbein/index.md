@@ -1,6 +1,6 @@
 # Hanno Hinkelbein
 
-Hanno Hinkelbein is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Glove That Fits, London on Sat, 5 Dec 2026.
+Hanno Hinkelbein is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Glove That Fits, London on Sat, 5 Dec 2026.
 
 Hanno Hinkelbein is a techno and acid artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Leipzig and London. Often billed alongside Lydmate, Twang and Nanzhen Yang. Next up: The Glove That Fits, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Hanno Hinkelbein is a techno and acid artist based in United Kingdom, with 12 gi
 
 Lydmate, Twang, Nanzhen Yang
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannohinkelbein/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannohinkelbein/)*

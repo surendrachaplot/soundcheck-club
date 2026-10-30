@@ -1,6 +1,6 @@
 # Tommy Lewis
 
-Tommy Lewis is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ikii, Berlin on Wed, 4 Nov 2026.
+Tommy Lewis is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ikii, Berlin on Wed, 4 Nov 2026.
 
 Tommy Lewis is a techno and minimal artist, with 33 gigs on soundcheck across Amsterdam, Austin, Berlin and Leipzig and 10 more. Often billed alongside Reid Fernando, esme (US) and CULT. Next up: Ikii, Berlin on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Tommy Lewis is a techno and minimal artist, with 33 gigs on soundcheck across Am
 
 Reid Fernando, esme (US), CULT
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylewis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylewis/)*

@@ -1,6 +1,6 @@
 # Minimüzikhol
 
-Minimüzikhol is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween Express / Cervus & Fault" on Sat, 31 Oct 2026.
+Minimüzikhol is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween Express / Cervus & Fault" on Sat, 31 Oct 2026.
 
 Minimüzikhol is a music venue in Istanbul listed on soundcheck. 2 upcoming gigs, with line-ups including Bayram Ozcan, Elias Mazian, Fault and Subsky. See dates, start times and who's playing. Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul.
 
@@ -15,4 +15,4 @@ Minimüzikhol is a music venue in Istanbul listed on soundcheck. 2 upcoming gigs
 
 Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul, Istanbul
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*

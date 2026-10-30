@@ -1,6 +1,6 @@
 # Noisy Neighbour
 
-Noisy Neighbour is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 4 Dec 2026.
+Noisy Neighbour is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 4 Dec 2026.
 
 Noisy Neighbour is a bass and house artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Chris Airplays, Racso Renniks and Ezines. Next up: TAC (Tottenham Arts Collective), London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Noisy Neighbour is a bass and house artist based in United Kingdom, with 12 gigs
 
 Chris Airplays, Racso Renniks, Ezines
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisyneighbour/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisyneighbour/)*

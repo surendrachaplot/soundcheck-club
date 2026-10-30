@@ -1,8 +1,8 @@
 # DJ Nola
 
-DJ Nola is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Zhora Darling, Minneapolis/St Paul on Sat, 7 Nov 2026.
+DJ Nola is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Zhora Darling, Minneapolis/St Paul on Sat, 7 Nov 2026.
 
-DJ Nola is a techno and house artist, with 44 gigs on soundcheck across Chicago, Detroit, Minneapolis/St Paul and Minneapolis St Paul. Often billed alongside DJ Seoul, DJ Katalist and Devil Girl. Next up: Zhora Darling, Minneapolis/St Paul on Sat 7 Nov.
+DJ Nola is a techno and house artist based in United States of America, with 44 gigs on soundcheck across Chicago, Detroit, Minneapolis/St Paul and Minneapolis St Paul. Often billed alongside DJ Seoul, DJ Katalist and Devil Girl. Next up: Zhora Darling, Minneapolis/St Paul on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ DJ Nola is a techno and house artist, with 44 gigs on soundcheck across Chicago,
 
 DJ Seoul, DJ Katalist, Devil Girl
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnola/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnola/)*

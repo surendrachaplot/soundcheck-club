@@ -1,6 +1,6 @@
 # Joana
 
-Joana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tama, Poznan on Sat, 7 Nov 2026.
+Joana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tama, Poznan on Sat, 7 Nov 2026.
 
 Joana is a house and techno artist, with 38 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Hedonist, Kollektiv Turmstrasse and AeN. Next up: Tama, Poznan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Joana is a house and techno artist, with 38 gigs on soundcheck across Berlin, Kr
 
 Hedonist, Kollektiv Turmstrasse, AeN
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joana/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joana/)*

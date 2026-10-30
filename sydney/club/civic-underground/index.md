@@ -1,6 +1,6 @@
 # Civic Underground
 
-Civic Underground is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Tulsi / Moopie b2b Mazzacles" on Fri, 13 Nov 2026.
+Civic Underground is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Tulsi / Moopie b2b Mazzacles" on Fri, 13 Nov 2026.
 
 Civic Underground is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including 1tbsp, Cherry Chola, Killian and Mazzacles and 1 more. See dates, start times and who's playing. 388 Pitt St; Sydney, NSW 2000; Australia.
 
@@ -15,4 +15,4 @@ Civic Underground is a music venue in Sydney listed on soundcheck. 2 upcoming gi
 
 388 Pitt St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*

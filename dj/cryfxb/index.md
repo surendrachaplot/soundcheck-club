@@ -1,6 +1,6 @@
 # CRYFXB
 
-CRYFXB is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 16 Nov 2026.
+CRYFXB is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 16 Nov 2026.
 
 CRYFXB is a techno and trance artist based in Venezuela, with 45 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Rapture, Purdy and CATA. Next up: Bossa Nova Civic Club, New York City on Mon 16 Nov.
 
@@ -25,4 +25,4 @@ CRYFXB is a techno and trance artist based in Venezuela, with 45 gigs on soundch
 
 Rapture, Purdy, CATA (1)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cryfxb/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cryfxb/)*

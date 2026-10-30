@@ -1,6 +1,6 @@
 # DJ Ghost
 
-DJ Ghost is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Radar, Belgium on Sat, 31 Oct 2026.
+DJ Ghost is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Radar, Belgium on Sat, 31 Oct 2026.
 
 DJ Ghost is a trance and techno artist based in Belgium, with 10 gigs on soundcheck across Antwerp, Belgium, Ghent and Prague and 1 more. Often billed alongside Dimitri Cooman, CJ Bolland and Dj Furax. Next up: Radar, Belgium on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Ghost is a trance and techno artist based in Belgium, with 10 gigs on soundch
 
 Dimitri Cooman, CJ Bolland, Dj Furax
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djghost/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djghost/)*

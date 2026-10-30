@@ -1,6 +1,6 @@
 # Miguel Clark
 
-Miguel Clark is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at MAD Club Live, Miami on Sat, 21 Nov 2026.
+Miguel Clark is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at MAD Club Live, Miami on Sat, 21 Nov 2026.
 
 Miguel Clark is a techno and house artist based in Venezuela, with 15 gigs on soundcheck across Los Angeles, Miami and New York City. Often billed alongside Naim Zarzour, Robyn Sin Love and Ultrathem. Next up: MAD Club Live, Miami on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Miguel Clark is a techno and house artist based in Venezuela, with 15 gigs on so
 
 Naim Zarzour, Robyn Sin Love, Ultrathem
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelclark/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelclark/)*

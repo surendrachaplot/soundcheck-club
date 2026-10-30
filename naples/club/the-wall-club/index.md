@@ -1,6 +1,6 @@
 # The Wall Club
 
-The Wall Club is a music venue in Naples with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Tendenza V Anniversary - Halloween Night" on Fri, 30 Oct 2026.
+The Wall Club is a music venue in Naples with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Tendenza V Anniversary - Halloween Night" on Fri, 30 Oct 2026.
 
 The Wall Club is a music venue in Naples listed on soundcheck. 5 upcoming gigs, with line-ups including Luca Agnelli, Mad Dog and PETDuo. See dates, start times and who's playing. E1, 80143 Napoli NA, Italy.
 
@@ -18,4 +18,4 @@ The Wall Club is a music venue in Naples listed on soundcheck. 5 upcoming gigs, 
 
 E1, 80143 Napoli NA, Italy, Naples
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/the-wall-club/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/the-wall-club/)*

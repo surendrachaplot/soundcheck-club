@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Human Rias invites Oliver Huntemann" on Fri, 30 Oct 2026.
+Lieberscholli is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Human Rias invites Oliver Huntemann" on Fri, 30 Oct 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 8 upcoming gigs, with line-ups including Aircraft, Alessia Cattani, danuschek and Danya (DE) and 2 more. See dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -21,4 +21,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 8 upcoming gigs, 
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

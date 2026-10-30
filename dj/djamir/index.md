@@ -1,6 +1,6 @@
 # DJ Amir
 
-DJ Amir is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 6 Nov 2026.
+DJ Amir is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 DJ Amir is a house and disco artist, with 34 gigs on soundcheck across Amsterdam, Berlin, Dubai and Lisbon and 10 more. Often billed alongside Jazzanova, DJ Kon and Daniel Best. Next up: Arcana, San Francisco/Oakland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Amir is a house and disco artist, with 34 gigs on soundcheck across Amsterdam
 
 Jazzanova, DJ Kon, Daniel Best
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djamir/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djamir/)*

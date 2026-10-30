@@ -1,6 +1,6 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ring, Seoul on Sat, 7 Nov 2026.
+Enrica Falqui is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ring, Seoul on Sat, 7 Nov 2026.
 
 Enrica Falqui is a techno and house artist based in Italy, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Dea, ERIS and Alexia Glensy. Next up: Ring, Seoul on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Enrica Falqui is a techno and house artist based in Italy, with 134 gigs on soun
 
 Dea (6), ERIS, Alexia Glensy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*

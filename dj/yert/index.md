@@ -1,6 +1,6 @@
 # Yert
 
-Yert is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cu, London on Wed, 4 Nov 2026.
+Yert is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cu, London on Wed, 4 Nov 2026.
 
 Yert is a dubstep and bass artist, with 13 gigs on soundcheck across Baltimore, London, Manchester and New York City and 2 more. Often billed alongside Babypufff, Black Grealish and DJ Diaspora. Next up: Cu, London on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Yert is a dubstep and bass artist, with 13 gigs on soundcheck across Baltimore, 
 
 Babypufff, Black Grealish, DJ Diaspora
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yert/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yert/)*

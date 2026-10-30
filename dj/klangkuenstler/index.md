@@ -1,14 +1,15 @@
 # KlangKuenstler
 
-KlangKuenstler is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+KlangKuenstler is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-KlangKuenstler is a techno and house artist based in Germany, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 78 more. Often billed alongside Daria Kolosova, I Hate Models and Kobosil. Next up: Tinker Field, Orlando on Fri 6 Nov.
+KlangKuenstler is a techno and house artist based in Germany, with 211 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 79 more. Often billed alongside Daria Kolosova, I Hate Models and Kobosil. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
+| Fri, 6 Nov 2026 | Ductwork Houston | Houston |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 11 Dec 2026 | TBA - Port of Belgrade, Stage 2 | Belgrade |
 | Sat, 12 Dec 2026 | Multiversum Schwechat | Vienna |
@@ -30,4 +31,4 @@ KlangKuenstler is a techno and house artist based in Germany, with 210 gigs on s
 
 Daria Kolosova, I Hate Models, Kobosil
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*

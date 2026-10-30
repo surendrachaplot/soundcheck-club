@@ -1,6 +1,6 @@
 # Beatina
 
-Beatina is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 3 Nov 2026.
+Beatina is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 3 Nov 2026.
 
 Beatina is a house and deep house artist based in Germany, with 15 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Chris Beulich, Chris Ku and KimPalm. Next up: Süss War Gestern, Berlin on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Beatina is a house and deep house artist based in Germany, with 15 gigs on sound
 
 Chris Beulich, Chris Ku, KimPalm
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatina/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatina/)*

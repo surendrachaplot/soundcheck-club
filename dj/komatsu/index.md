@@ -1,6 +1,6 @@
 # Komatsu
 
-Komatsu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
+Komatsu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
 
 Komatsu is a techno and house artist based in Japan, with 59 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Chongqing and 1 more. Often billed alongside Takami, Shu Okuyama and Q'hey. Next up: or, Tokyo on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ Komatsu is a techno and house artist based in Japan, with 59 gigs on soundcheck 
 
 Takami, Shu Okuyama, Q'hey
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/komatsu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/komatsu/)*

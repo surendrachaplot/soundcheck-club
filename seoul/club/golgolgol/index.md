@@ -1,6 +1,6 @@
 # Golgolgol
 
-Golgolgol is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Melting Monday EP.04" on Mon, 2 Nov 2026.
+Golgolgol is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Melting Monday EP.04" on Mon, 2 Nov 2026.
 
 Golgolgol is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including Justruud, keikee and psyche. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Golgolgol is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with 
 | Sat, 7 Nov 2026 | Golgolgol Invites #1 Ruud | Justruud |
 | Fri, 13 Nov 2026 | Golgolgol Invites #2 Keikee | keikee |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/golgolgol/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/golgolgol/)*

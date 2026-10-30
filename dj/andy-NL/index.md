@@ -1,6 +1,6 @@
 # Andy (NL)
 
-Andy (NL) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Doka, Amsterdam on Fri, 6 Nov 2026.
+Andy (NL) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Doka, Amsterdam on Fri, 6 Nov 2026.
 
 Andy (NL) is a house and techno artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Tsepo, ESTRELLA and Naomi (Berlin). Next up: Doka, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Andy (NL) is a house and techno artist based in Netherlands, with 19 gigs on sou
 
 Tsepo, ESTRELLA, Naomi (Berlin)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andy-NL/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andy-NL/)*

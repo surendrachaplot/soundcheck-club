@@ -1,6 +1,6 @@
 # Alec Sander
 
-Alec Sander is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
+Alec Sander is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
 
 Alec Sander is a techno and bass artist based in Australia, with 30 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Jungist, Bouki and Monako. Next up: TBA, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alec Sander is a techno and bass artist based in Australia, with 30 gigs on soun
 
 Jungist, Bouki, Monako
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alecsander/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alecsander/)*

@@ -1,6 +1,6 @@
 # Feda
 
-Feda is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Wolf Milano, Milan on Fri, 30 Oct 2026.
+Feda is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Wolf Milano, Milan on Fri, 30 Oct 2026.
 
 Feda is a house and electro artist, with 9 gigs on soundcheck across Buenos Aires, Dubai and Milan. Often billed alongside ArmaDisco, MartinoResi and Thanhsx. Next up: Wolf Milano, Milan on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Feda is a house and electro artist, with 9 gigs on soundcheck across Buenos Aire
 
 ArmaDisco, MartinoResi, Thanhsx
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feda/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feda/)*

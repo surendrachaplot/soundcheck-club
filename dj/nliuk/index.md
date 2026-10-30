@@ -1,6 +1,6 @@
 # NLI
 
-NLI is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cieloterra, Rome on Fri, 30 Oct 2026.
+NLI is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cieloterra, Rome on Fri, 30 Oct 2026.
 
 NLI is a techno and hardcore artist based in United Kingdom, with 28 gigs on soundcheck across Berlin, Birmingham, London and Rome. Often billed alongside Dres Codex, Lau.tastic and Baptist (UK). Next up: Cieloterra, Rome on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ NLI is a techno and hardcore artist based in United Kingdom, with 28 gigs on sou
 
 Dres Codex, Lau.tastic, Baptist (UK)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nliuk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nliuk/)*

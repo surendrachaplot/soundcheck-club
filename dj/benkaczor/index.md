@@ -1,6 +1,6 @@
 # Ben Kaczor
 
-Ben Kaczor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
+Ben Kaczor is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
 
 Ben Kaczor is a techno and house artist based in Switzerland, with 58 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 17 more. Often billed alongside Lb Honne, boaksi and matsssiii. Next up: Kauz, Zurich on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Ben Kaczor is a techno and house artist based in Switzerland, with 58 gigs on so
 
 Lb Honne, boaksi, matsssiii
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benkaczor/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benkaczor/)*

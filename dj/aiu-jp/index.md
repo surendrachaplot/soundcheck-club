@@ -1,6 +1,6 @@
 # AI.U
 
-AI.U is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at PBOX STND, Tokyo on Mon, 2 Nov 2026.
+AI.U is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at PBOX STND, Tokyo on Mon, 2 Nov 2026.
 
 AI.U is a hip-hop and house artist, with 32 gigs on soundcheck across Tokyo. Often billed alongside HELKTRAM, HIMAWARI and Compuma. Next up: PBOX STND, Tokyo on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ AI.U is a hip-hop and house artist, with 32 gigs on soundcheck across Tokyo. Oft
 
 HELKTRAM, HIMAWARI, Compuma
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiu-jp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiu-jp/)*

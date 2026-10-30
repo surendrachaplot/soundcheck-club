@@ -1,6 +1,6 @@
 # Stoshka
 
-Stoshka is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
+Stoshka is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
 
 Stoshka is a house and garage artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Dyslexi, Yukon Nature and Beqqi. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Stoshka is a house and garage artist based in Germany, with 3 gigs on soundcheck
 
 Dyslexi, Yukon Nature, Beqqi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoshka/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoshka/)*

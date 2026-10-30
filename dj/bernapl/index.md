@@ -1,6 +1,6 @@
 # Berna (PL)
 
-Berna (PL) is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 30 Oct 2026.
+Berna (PL) is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 30 Oct 2026.
 
 Berna (PL) is a bass and jungle artist based in Poland, with 13 gigs on soundcheck across Warsaw. Often billed alongside madikoptah, Avtomat and Izka. Next up: K-Bar Powiśle, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Berna (PL) is a bass and jungle artist based in Poland, with 13 gigs on soundche
 
 madikoptah, Avtomat, Izka
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bernapl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bernapl/)*

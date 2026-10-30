@@ -1,6 +1,6 @@
 # KEMIK
 
-KEMIK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
+KEMIK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
 
 KEMIK is a techno and house artist based in Finland, with 23 gigs on soundcheck across Berlin, Helsinki, Leipzig and London. Often billed alongside 2THEMAX, CEB (FI) and Sallidoing. Next up: Ääniwalli, Helsinki on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ KEMIK is a techno and house artist based in Finland, with 23 gigs on soundcheck 
 
 2THEMAX, CEB (FI), Sallidoing
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kemik/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kemik/)*

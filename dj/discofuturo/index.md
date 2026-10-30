@@ -1,6 +1,6 @@
 # Discofuturo
 
-Discofuturo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Supernatural Haus, Miami on Sat, 31 Oct 2026.
+Discofuturo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Supernatural Haus, Miami on Sat, 31 Oct 2026.
 
 Discofuturo is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Miami. Often billed alongside Miguel Clark, Naim Zarzour and Robyn Sin Love. Next up: Supernatural Haus, Miami on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Discofuturo is a techno and house artist based in United States of America, with
 
 Miguel Clark, Naim Zarzour, Robyn Sin Love
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discofuturo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discofuturo/)*

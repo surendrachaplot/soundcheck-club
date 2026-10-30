@@ -1,6 +1,6 @@
 # Slowmode
 
-Slowmode is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jasna 1, Warsaw on Tue, 10 Nov 2026.
+Slowmode is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jasna 1, Warsaw on Tue, 10 Nov 2026.
 
 Slowmode is an electronica and techno artist based in Ukraine, with 64 gigs on soundcheck across Krakow and Warsaw. Often billed alongside zeroday, Salat and Pean. Next up: Jasna 1, Warsaw on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Slowmode is an electronica and techno artist based in Ukraine, with 64 gigs on s
 
 zeroday, Salat, Pean
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmode/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slowmode/)*

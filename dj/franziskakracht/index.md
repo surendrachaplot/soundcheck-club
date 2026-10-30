@@ -1,6 +1,6 @@
 # Franziska Kracht
 
-Franziska Kracht is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
+Franziska Kracht is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
 
 Franziska Kracht is a techno and house artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside AHAB, ANNAWAFFEL and Ailin Liefeldt. Next up: Jonny Knüppel, Berlin on Sat 31 Oct.
 
@@ -15,4 +15,4 @@ Franziska Kracht is a techno and house artist based in Germany, with 2 gigs on s
 
 AHAB, ANNAWAFFEL, Ailin Liefeldt
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskakracht/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskakracht/)*

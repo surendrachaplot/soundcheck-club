@@ -1,6 +1,6 @@
 # Mazi
 
-Mazi is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Schubas, Chicago on Fri, 30 Oct 2026.
+Mazi is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Schubas, Chicago on Fri, 30 Oct 2026.
 
 Mazi is a house and acid artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Chicago, Minneapolis/St Paul and Warsaw. Often billed alongside Geto Mark, Janesita and Audio Soul Project. Next up: Schubas, Chicago on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Mazi is a house and acid artist based in United States of America, with 22 gigs 
 
 Geto Mark, Janesita, Audio Soul Project
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazi/)*

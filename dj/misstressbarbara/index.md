@@ -1,6 +1,6 @@
 # Misstress Barbara
 
-Misstress Barbara is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Stereo, Montreal on Fri, 6 Nov 2026.
+Misstress Barbara is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Stereo, Montreal on Fri, 6 Nov 2026.
 
 Misstress Barbara is a techno and new wave artist based in Canada, with 24 gigs on soundcheck across Barcelona, Ljubljana, Madrid and Montreal and 2 more. Often billed alongside Atroxx, Ken Ishii and Nicole Moudaber. Next up: Stereo, Montreal on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Misstress Barbara is a techno and new wave artist based in Canada, with 24 gigs 
 
 Atroxx, Ken Ishii, Nicole Moudaber
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstressbarbara/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstressbarbara/)*

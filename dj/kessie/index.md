@@ -1,6 +1,6 @@
 # Kessie
 
-Kessie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at E1, London on Sun, 1 Nov 2026.
+Kessie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Sun, 1 Nov 2026.
 
 Kessie is a techno and house artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside DAX J, Gareth Wild and Deventi. Next up: E1, London on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Kessie is a techno and house artist based in United Kingdom, with 85 gigs on sou
 
 DAX J, Gareth Wild, Deventi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessie/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kessie/)*

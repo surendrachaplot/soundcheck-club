@@ -1,6 +1,6 @@
 # Naima (2)
 
-Naima (2) is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 19 Nov 2026.
+Naima (2) is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 19 Nov 2026.
 
 Naima is an electro and electronica artist based in Italy, with 10 gigs on soundcheck across Berlin, Milan, Rome and Turin. Often billed alongside Stella Fiore, ARIHA and DASH (SLO). Next up: Tempio del Futuro Perduto, Milan on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Naima is an electro and electronica artist based in Italy, with 10 gigs on sound
 
 Stella Fiore, ARIHA, DASH (SLO)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naima-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naima-2/)*

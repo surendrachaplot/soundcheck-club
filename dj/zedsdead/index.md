@@ -1,6 +1,6 @@
 # Zeds Dead
 
-Zeds Dead is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Echostage, Washington DC on Mon, 28 Dec 2026.
+Zeds Dead is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Echostage, Washington DC on Mon, 28 Dec 2026.
 
 Zeds Dead is a bass and dubstep artist based in Canada, with 40 gigs on soundcheck across Austin, Boston, Chicago and Detroit and 11 more. Often billed alongside Mary Droppinz, Sara Landry and Dimension. Next up: Echostage, Washington DC on Mon 28 Dec.
 
@@ -27,4 +27,4 @@ Zeds Dead is a bass and dubstep artist based in Canada, with 40 gigs on soundche
 
 Mary Droppinz, Sara Landry, Dimension
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zedsdead/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zedsdead/)*

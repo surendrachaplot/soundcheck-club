@@ -1,6 +1,6 @@
 # Hagva
 
-Hagva is a IDM and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Arca, Milan on Fri, 20 Nov 2026.
+Hagva is a IDM and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Arca, Milan on Fri, 20 Nov 2026.
 
 Hagva is an idm and dub techno artist based in Italy, with 26 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and London and 6 more. Often billed alongside CP1, Not Mass and Woody92. Next up: Arca, Milan on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Hagva is an idm and dub techno artist based in Italy, with 26 gigs on soundcheck
 
 CP1, Not Mass, Woody92
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hagva/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hagva/)*

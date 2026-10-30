@@ -1,6 +1,6 @@
 # Cheriii
 
-Cheriii is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bal Chavaux, Paris on Sat, 31 Oct 2026.
+Cheriii is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bal Chavaux, Paris on Sat, 31 Oct 2026.
 
 Cheriii is a house and techno artist based in France, with 84 gigs on soundcheck across Antwerp, Athens, Barcelona and Berlin and 16 more. Often billed alongside Kubin, Julie Desire and Dirty Daddy Don. Next up: Bal Chavaux, Paris on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Cheriii is a house and techno artist based in France, with 84 gigs on soundcheck
 
 Kubin, Julie Desire, Dirty Daddy Don
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*

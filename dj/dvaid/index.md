@@ -1,6 +1,6 @@
 # DVAID
 
-DVAID is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 30 Oct 2026.
+DVAID is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 30 Oct 2026.
 
 DVAID is a techno and trance artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Ankara, Basel and Berlin and 20 more. Often billed alongside Adrian Mills, HUMAN ERROR and WILDERÍCH. Next up: Lokschuppen Berlin, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ DVAID is a techno and trance artist based in Germany, with 54 gigs on soundcheck
 
 Adrian Mills, HUMAN ERROR, WILDERÍCH
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*

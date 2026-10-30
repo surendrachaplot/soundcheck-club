@@ -1,6 +1,6 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 21 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Opti-Recs VA3 Launch — Opti-Recs x Revolver Fridays" on Fri, 30 Oct 2026.
+Revolver Upstairs is a music venue in Melbourne with 21 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Opti-Recs VA3 Launch — Opti-Recs x Revolver Fridays" on Fri, 30 Oct 2026.
 
 Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 21 upcoming gigs, with line-ups including 3rd Orbit, archiLo, Aristo G and Bappy and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
@@ -23,4 +23,4 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 21 upcomin
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

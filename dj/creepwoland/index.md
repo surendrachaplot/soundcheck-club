@@ -1,6 +1,6 @@
 # Creep Woland
 
-Creep Woland is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Mash House, Edinburgh on Sat, 31 Oct 2026.
+Creep Woland is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Mash House, Edinburgh on Sat, 31 Oct 2026.
 
 Creep Woland is a techno and bass artist based in United Kingdom, with 34 gigs on soundcheck across Aberdeen, Bristol, Dundee and Edinburgh and 2 more. Often billed alongside Skillis, Feena and LWS. Next up: The Mash House, Edinburgh on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Creep Woland is a techno and bass artist based in United Kingdom, with 34 gigs o
 
 Skillis, Feena, LWS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/creepwoland/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/creepwoland/)*

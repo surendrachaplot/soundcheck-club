@@ -1,6 +1,6 @@
 # Max Sinàl
 
-Max Sinàl is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bread & Butter Arch, London on Sun, 8 Nov 2026.
+Max Sinàl is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bread & Butter Arch, London on Sun, 8 Nov 2026.
 
 Max Sinàl is a deep house and house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Brighton, London and Paris. Often billed alongside Mr James, LEV (UK) and Elliot Schooling. Next up: Bread & Butter Arch, London on Sun 8 Nov.
 
@@ -27,4 +27,4 @@ Max Sinàl is a deep house and house artist based in United Kingdom, with 36 gig
 
 Mr James, LEV (UK), Elliot Schooling
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*

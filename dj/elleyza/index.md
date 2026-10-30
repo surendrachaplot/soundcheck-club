@@ -1,6 +1,6 @@
 # Elleyza
 
-Elleyza is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
+Elleyza is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
 
 Elleyza is a techno artist based in Germany, with 6 gigs on soundcheck across Munich and Rhineland Palatinate. Often billed alongside 9LALEY, Listenblondie and ANASTASÍA. Next up: Rote Sonne, Munich on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Elleyza is a techno artist based in Germany, with 6 gigs on soundcheck across Mu
 
 9LALEY, Listenblondie, ANASTASÍA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elleyza/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elleyza/)*

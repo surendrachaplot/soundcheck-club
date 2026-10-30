@@ -1,6 +1,6 @@
 # DJ Shufflemaster
 
-DJ Shufflemaster is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
+DJ Shufflemaster is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
 
 DJ Shufflemaster is a techno and house artist based in Japan, with 33 gigs on soundcheck across Berlin, Chicago, Dublin and Glasgow and 10 more. Often billed alongside DJ Wada, DJ MIKU and Drunken Kong. Next up: or, Tokyo on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ DJ Shufflemaster is a techno and house artist based in Japan, with 33 gigs on so
 
 DJ Wada, DJ MIKU, Drunken Kong
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshufflemaster/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djshufflemaster/)*

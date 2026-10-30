@@ -1,6 +1,6 @@
 # Notion
 
-Notion is a Garage and Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at District Cardiff, Cardiff on Sat, 31 Oct 2026.
+Notion is a Garage and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at District Cardiff, Cardiff on Sat, 31 Oct 2026.
 
 Notion is a garage and bass artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 41 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: District Cardiff, Cardiff on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ Notion is a garage and bass artist based in United Kingdom, with 99 gigs on soun
 
 Oppidan, Conducta, Interplanetary Criminal
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*

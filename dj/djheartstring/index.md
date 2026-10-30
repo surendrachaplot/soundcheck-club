@@ -1,6 +1,6 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+DJ Heartstring is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 DJ Heartstring is a techno and trance artist based in Germany, with 244 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 76 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ DJ Heartstring is a techno and trance artist based in Germany, with 244 gigs on 
 
 MALUGI, Partiboi69, KETTAMA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*

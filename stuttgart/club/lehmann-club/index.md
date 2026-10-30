@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "10 YEARS EERSTE COMMUNIE" on Sat, 31 Oct 2026.
+Lehmann Club is a music venue in Stuttgart with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "10 YEARS EERSTE COMMUNIE" on Sat, 31 Oct 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 5 upcoming gigs, with line-ups including Bastian Hill, Ben Hille, Blasha & Allatt and GLIA and 2 more. See dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -18,4 +18,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 5 upcoming gigs
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

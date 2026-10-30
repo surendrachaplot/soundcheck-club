@@ -1,6 +1,6 @@
 # FYNN
 
-FYNN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Elsterartig, Leipzig on Fri, 6 Nov 2026.
+FYNN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Elsterartig, Leipzig on Fri, 6 Nov 2026.
 
 FYNN is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin, Dresden, Leeds and Leipzig and 3 more. Often billed alongside Thomas Lizzara, MARC WERNER and OLEA. Next up: Elsterartig, Leipzig on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ FYNN is a techno and house artist based in Germany, with 33 gigs on soundcheck a
 
 Thomas Lizzara, MARC WERNER, OLEA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fynn/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fynn/)*

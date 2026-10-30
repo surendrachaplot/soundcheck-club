@@ -1,6 +1,6 @@
 # Cron
 
-Cron is a Dub Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at How Much Studios, Austin on Sat, 31 Oct 2026.
+Cron is a Dub Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at How Much Studios, Austin on Sat, 31 Oct 2026.
 
 Cron is a dub techno and breakbeat artist based in United States of America, with 6 gigs on soundcheck across Austin and Los Angeles. Often billed alongside Mirror Image, pollensource and Anthony Naples. Next up: How Much Studios, Austin on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Cron is a dub techno and breakbeat artist based in United States of America, wit
 
 Mirror Image, pollensource, Anthony Naples
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cron/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cron/)*

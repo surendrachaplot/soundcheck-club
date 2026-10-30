@@ -1,6 +1,6 @@
 # Curly Nez
 
-Curly Nez is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jupiter Disco, New York City on Sun, 29 Nov 2026.
+Curly Nez is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jupiter Disco, New York City on Sun, 29 Nov 2026.
 
 Curly Nez is a reggaeton and techno artist, with 8 gigs on soundcheck across New York City. Often billed alongside BNJY, DJ Moma and Dj Logo. Next up: Jupiter Disco, New York City on Sun 29 Nov.
 
@@ -24,4 +24,4 @@ Curly Nez is a reggaeton and techno artist, with 8 gigs on soundcheck across New
 
 BNJY, DJ Moma, Dj Logo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curlynez/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curlynez/)*

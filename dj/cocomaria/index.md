@@ -1,6 +1,6 @@
 # Coco Maria
 
-Coco Maria is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Doka, Amsterdam on Fri, 30 Oct 2026.
+Coco Maria is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Doka, Amsterdam on Fri, 30 Oct 2026.
 
 Coco Maria is a house and disco artist based in Mexico, with 137 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Doka, Amsterdam on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Coco Maria is a house and disco artist based in Mexico, with 137 gigs on soundch
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

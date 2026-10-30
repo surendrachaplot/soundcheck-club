@@ -1,6 +1,6 @@
 # Jerry
 
-Jerry is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Faith in Strangers, South-east on Fri, 30 Oct 2026.
+Jerry is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Faith in Strangers, South-east on Fri, 30 Oct 2026.
 
 Jerry is a house and electronica artist based in United Kingdom, with 30 gigs on soundcheck across London, Manchester, Melbourne and Osaka and 6 more. Often billed alongside NAOKI, Solaris and Bradley Zero. Next up: Faith in Strangers, South East on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Jerry is a house and electronica artist based in United Kingdom, with 30 gigs on
 
 NAOKI, Solaris, Bradley Zero
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerry/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerry/)*

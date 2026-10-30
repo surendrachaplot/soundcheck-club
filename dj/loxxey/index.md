@@ -1,6 +1,6 @@
 # Loxxey
 
-Loxxey is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - RACK SEOUL, Seoul on Sat, 31 Oct 2026.
+Loxxey is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - RACK SEOUL, Seoul on Sat, 31 Oct 2026.
 
 Loxxey is a dubstep and bass artist based in South Korea, with 10 gigs on soundcheck across Seoul. Often billed alongside Dabin, 2SPADE and BAAWLA. Next up: TBA - RACK SEOUL, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Loxxey is a dubstep and bass artist based in South Korea, with 10 gigs on soundc
 
 Dabin, 2SPADE, BAAWLA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loxxey/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loxxey/)*

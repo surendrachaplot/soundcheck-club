@@ -1,6 +1,6 @@
 # Tvísker
 
-Tvísker is a Downtempo and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ://about blank, Berlin on Sun, 15 Nov 2026.
+Tvísker is a Downtempo and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ://about blank, Berlin on Sun, 15 Nov 2026.
 
 Tvísker is a downtempo and techno artist based in Germany, with 29 gigs on soundcheck across Berlin, Copenhagen and Zurich. Often billed alongside Urem, Chris Schwarzwälder and Corios. Next up: ://about blank, Berlin on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Tvísker is a downtempo and techno artist based in Germany, with 29 gigs on soun
 
 Urem, Chris Schwarzwälder, Corios
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tvisker/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tvisker/)*

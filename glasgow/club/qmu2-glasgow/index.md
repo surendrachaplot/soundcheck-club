@@ -1,6 +1,6 @@
 # Qmu2 Glasgow
 
-Qmu2 Glasgow is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "+1 833 246 4622 || Korean Airlines New York Office" on Sat, 31 Oct 2026.
+Qmu2 Glasgow is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "+1 833 246 4622 || Korean Airlines New York Office" on Sat, 31 Oct 2026.
 
 Qmu2 Glasgow is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including ASIA (DE) and NEW YORK. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Qmu2 Glasgow is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | +1 833 246 4622 // Korean Airlines New York Office | ASIA (DE), NEW YORK |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/qmu2-glasgow/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/qmu2-glasgow/)*

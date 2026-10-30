@@ -1,6 +1,6 @@
 # Tom Oakley
 
-Tom Oakley is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Péniche Loupika, Lyon on Sat, 14 Nov 2026.
+Tom Oakley is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Péniche Loupika, Lyon on Sat, 14 Nov 2026.
 
 Tom Oakley is a jungle and bass artist based in United Kingdom, with 18 gigs on soundcheck across London, Lyon, Manchester and Sheffield. Often billed alongside Kani, DJ Oscillate and Sideshow. Next up: Péniche Loupika, Lyon on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Tom Oakley is a jungle and bass artist based in United Kingdom, with 18 gigs on 
 
 Kani, DJ Oscillate, Sideshow
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoakley/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoakley/)*

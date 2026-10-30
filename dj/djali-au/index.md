@@ -1,6 +1,6 @@
 # DJ ALI (AU)
 
-DJ ALI (AU) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at New Guernica, Melbourne on Fri, 20 Nov 2026.
+DJ ALI (AU) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at New Guernica, Melbourne on Fri, 20 Nov 2026.
 
 DJ ALI (AU) is a techno and trance artist based in Australia, with 31 gigs on soundcheck across Berlin, Brisbane, Christchurch and Copenhagen and 4 more. Often billed alongside CLAIR (BAI), Hannah D and Hasvat Informant. Next up: New Guernica, Melbourne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ ALI (AU) is a techno and trance artist based in Australia, with 31 gigs on so
 
 CLAIR (BAI), Hannah D, Hasvat Informant
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djali-au/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djali-au/)*

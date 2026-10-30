@@ -1,6 +1,6 @@
 # Muziekcentrum Kinky Star
 
-Muziekcentrum Kinky Star is a music venue in Ghent with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Oorsnoep - Dark Dubstep" on Fri, 30 Oct 2026.
+Muziekcentrum Kinky Star is a music venue in Ghent with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Oorsnoep - Dark Dubstep" on Fri, 30 Oct 2026.
 
 Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 8 upcoming gigs, with line-ups including ARtroniks, Castor W. and Jaquarius. See dates, start times and who's playing. Vlasmarkt 9, 9000 Gent.
 
@@ -21,4 +21,4 @@ Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 8 upcom
 
 Vlasmarkt 9, 9000 Gent, Ghent
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*

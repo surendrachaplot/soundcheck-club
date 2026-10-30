@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "SCHWERKRAFT W/ Alex TB, PRAKAS , OSMOS" on Fri, 30 Oct 2026.
+Das Werk is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "SCHWERKRAFT W/ Alex TB, PRAKAS , OSMOS" on Fri, 30 Oct 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including Albin Brezlan, Alex TB, Anatol and Arman Shadow and 2 more. See dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -20,4 +20,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with 
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

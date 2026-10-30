@@ -1,6 +1,6 @@
 # Ultrastation
 
-Ultrastation is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
+Ultrastation is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
 
 Ultrastation is a techno and house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Milan and 5 more. Often billed alongside Octave One, Sandrien and Alex Ranzino. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ultrastation is a techno and house artist based in Netherlands, with 20 gigs on 
 
 Octave One, Sandrien, Alex Ranzino
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrastation/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrastation/)*

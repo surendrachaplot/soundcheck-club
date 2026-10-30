@@ -1,6 +1,6 @@
 # Caru (NZ)
 
-Caru (NZ) is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Neck of the Woods, Auckland on Sat, 7 Nov 2026.
+Caru (NZ) is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Neck of the Woods, Auckland on Sat, 7 Nov 2026.
 
 Caru (NZ) is a garage and breakbeat artist based in New Zealand, with 16 gigs on soundcheck across Auckland, Christchurch and London. Often billed alongside Goldtooth, Hyan and monoga.my. Next up: Neck of the Woods, Auckland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Caru (NZ) is a garage and breakbeat artist based in New Zealand, with 16 gigs on
 
 Goldtooth, Hyan (2), monoga.my
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caru-nz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caru-nz/)*

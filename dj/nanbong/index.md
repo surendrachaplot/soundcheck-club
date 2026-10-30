@@ -1,6 +1,6 @@
 # Nanbong
 
-Nanbong is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cul Sec, Seoul on Sat, 31 Oct 2026.
+Nanbong is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cul Sec, Seoul on Sat, 31 Oct 2026.
 
 Nanbong is a disco and house artist, with 38 gigs on soundcheck across Seoul. Often billed alongside Mellan, KORBULLS and Geonoo. Next up: Cul Sec, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nanbong is a disco and house artist, with 38 gigs on soundcheck across Seoul. Of
 
 Mellan, KORBULLS, Geonoo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanbong/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanbong/)*

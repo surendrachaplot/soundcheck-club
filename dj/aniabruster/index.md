@@ -1,6 +1,6 @@
 # Ania Bruster
 
-Ania Bruster is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
+Ania Bruster is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
 
 Ania Bruster is a techno and club artist, with 27 gigs on soundcheck across Alicante, Barcelona and Madrid. Often billed alongside Reitze, Anfisa Letyago and Luxi Villar. Next up: Metro Dance Club, Alicante on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ania Bruster is a techno and club artist, with 27 gigs on soundcheck across Alic
 
 Reitze, Anfisa Letyago, Luxi Villar
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aniabruster/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aniabruster/)*

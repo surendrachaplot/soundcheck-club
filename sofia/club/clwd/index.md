@@ -1,6 +1,6 @@
 # Clwd
 
-Clwd is a music venue in Sofia with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "EXE pres. Adam Ten" on Fri, 6 Nov 2026.
+Clwd is a music venue in Sofia with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "EXE pres. Adam Ten" on Fri, 6 Nov 2026.
 
 Clwd is a music venue in Sofia listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Ten, Gallya, Lilya Mandre and LUKAS & FRANK and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Clwd is a music venue in Sofia listed on soundcheck. 4 upcoming gigs, with line-
 | Sat, 14 Nov 2026 | EXE pres. Marco Faraone | Gallya, Marco Faraone |
 | Fri, 27 Nov 2026 | House of LUKAS & FRANK live in Sofia | LUKAS & FRANK |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/clwd/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/clwd/)*

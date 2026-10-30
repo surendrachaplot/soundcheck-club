@@ -1,6 +1,6 @@
 # Morisia
 
-Morisia is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ciao ciao Bar, Berlin on Sun, 1 Nov 2026.
+Morisia is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ciao ciao Bar, Berlin on Sun, 1 Nov 2026.
 
 Morisia is a house and club artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Nikklaas, Better Call Paul and 7ommes. Next up: ciao ciao Bar, Berlin on Sun 1 Nov.
 
@@ -24,4 +24,4 @@ Morisia is a house and club artist based in Germany, with 8 gigs on soundcheck a
 
 Nikklaas, Better Call Paul, 7ommes
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morisia/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morisia/)*

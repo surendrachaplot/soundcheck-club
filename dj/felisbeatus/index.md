@@ -1,6 +1,6 @@
 # Felis Beātus
 
-Felis Beātus is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 14 Nov 2026.
+Felis Beātus is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 14 Nov 2026.
 
 Felis Beātus is a minimal and house artist based in Brazil, with 25 gigs on soundcheck across Miami, Orlando, Tampa Bay and Washington DC. Often billed alongside Diana NC, Hugh Malo and Mayan Cxllective. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Felis Beātus is a minimal and house artist based in Brazil, with 25 gigs on sou
 
 Diana NC, Hugh Malo, Mayan Cxllective
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felisbeatus/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felisbeatus/)*

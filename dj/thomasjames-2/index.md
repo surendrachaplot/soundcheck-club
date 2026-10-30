@@ -1,6 +1,6 @@
 # Thomas James (2)
 
-Thomas James (2) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 75 Pelham, Toronto on Fri, 30 Oct 2026.
+Thomas James (2) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at 75 Pelham, Toronto on Fri, 30 Oct 2026.
 
 Thomas James is a house and minimal artist based in Canada, with 30 gigs on soundcheck across Toronto. Often billed alongside Greg Burke, Fauren and Hair Gel. Next up: 75 Pelham, Toronto on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Thomas James is a house and minimal artist based in Canada, with 30 gigs on soun
 
 Greg Burke, Fauren, Hair Gel
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-2/)*

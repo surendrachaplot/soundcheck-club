@@ -1,6 +1,6 @@
 # jayah
 
-jayah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Premises, Chicago on Fri, 6 Nov 2026.
+jayah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Premises, Chicago on Fri, 6 Nov 2026.
 
 jayah is a house and techno artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Chicago, Detroit and Los Angeles and 1 more. Often billed alongside DJ BORING, Ricardo Roessel and Azzecca. Next up: TBA - Premises, Chicago on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ jayah is a house and techno artist based in United States of America, with 57 gi
 
 DJ BORING, Ricardo Roessel, Azzecca
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayah/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayah/)*

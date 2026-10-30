@@ -1,6 +1,6 @@
 # TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam
 
-TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "SPADES at KWARTIER" on Sat, 14 Nov 2026.
+TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "SPADES at KWARTIER" on Sat, 14 Nov 2026.
 
 TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam is a music venue in
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | SPADES at KWARTIER |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-kwartier-centrale-markthallen-186-1051-lj-amsterdam/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-kwartier-centrale-markthallen-186-1051-lj-amsterdam/)*

@@ -1,6 +1,6 @@
 # Locky
 
-Locky is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at FORGE, Sheffield on Fri, 30 Oct 2026.
+Locky is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at FORGE, Sheffield on Fri, 30 Oct 2026.
 
 Locky is a house and tech house artist based in United Kingdom, with 159 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belgrade and 34 more. Often billed alongside Mad.Again, Luke Dean_ and L.P. Rhythm. Next up: FORGE, Sheffield on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Locky is a house and tech house artist based in United Kingdom, with 159 gigs on
 
 Mad.Again (2), Luke Dean_, L.P. Rhythm
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

@@ -1,6 +1,6 @@
 # Dimitri Kneppers
 
-Dimitri Kneppers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sat, 14 Nov 2026.
+Dimitri Kneppers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sat, 14 Nov 2026.
 
 Dimitri Kneppers is a techno and house artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Rotterdam and 1 more. Often billed alongside Sandrien, Remy Unger and ISIS. Next up: Noorderlicht Café, Amsterdam on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Dimitri Kneppers is a techno and house artist based in Netherlands, with 45 gigs
 
 Sandrien, Remy Unger, ISIS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrikneppers/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrikneppers/)*

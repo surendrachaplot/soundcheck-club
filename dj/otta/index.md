@@ -1,6 +1,6 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Oddity Club, Athens on Sat, 31 Oct 2026.
+ØTTA is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Oddity Club, Athens on Sat, 31 Oct 2026.
 
 ØTTA is a techno and house artist based in Portugal, with 198 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Nico Moreno, 999999999 and Charlie Sparks. Next up: Oddity Club, Athens on Sat 31 Oct.
 
@@ -36,4 +36,4 @@
 
 Nico Moreno, 999999999, Charlie Sparks
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

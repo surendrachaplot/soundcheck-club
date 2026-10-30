@@ -1,6 +1,6 @@
 # Jenner
 
-Jenner is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Coda, Toronto on Fri, 13 Nov 2026.
+Jenner is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Coda, Toronto on Fri, 13 Nov 2026.
 
 Jenner is a techno and deep house artist, with 23 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Quebec City and 1 more. Often billed alongside ONNI, Adam Husa and Amine K. Next up: Coda, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jenner is a techno and deep house artist, with 23 gigs on soundcheck across Amst
 
 ONNI, Adam Husa, Amine K
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenner/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenner/)*

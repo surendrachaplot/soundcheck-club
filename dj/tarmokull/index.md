@@ -1,6 +1,6 @@
 # Tarmo Kull
 
-Tarmo Kull is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Nine, Tallinn on Sat, 31 Oct 2026.
+Tarmo Kull is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Nine, Tallinn on Sat, 31 Oct 2026.
 
 Tarmo Kull is a progressive house and techno artist, with 18 gigs on soundcheck across Riga and Tallinn. Often billed alongside CRNV, KARINSMATIC and Ken Dark. Next up: Club Nine, Tallinn on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Tarmo Kull is a progressive house and techno artist, with 18 gigs on soundcheck 
 
 CRNV, KARINSMATIC, Ken Dark
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarmokull/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarmokull/)*

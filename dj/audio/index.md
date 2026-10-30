@@ -1,6 +1,6 @@
 # Audio
 
-Audio is a Drum & Bass and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+Audio is a Drum & Bass and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
 Audio is a drum & bass and experimental artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Bogotá and 21 more. Often billed alongside Ed Rush, Optical and Pythius. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Audio is a drum & bass and experimental artist based in United Kingdom, with 40 
 
 Ed Rush, Optical, Pythius
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audio/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audio/)*

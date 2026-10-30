@@ -1,6 +1,6 @@
 # moemiki
 
-moemiki is a Bass and Footwork artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Toranoko Shokudo, Tokyo on Sat, 7 Nov 2026.
+moemiki is a Bass and Footwork artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Toranoko Shokudo, Tokyo on Sat, 7 Nov 2026.
 
 moemiki is a bass and footwork artist based in Japan, with 38 gigs on soundcheck across Beijing, Hong Kong, Osaka and Shenzhen and 1 more. Often billed alongside Oyubi, DJ Paypal and MEGURO. Next up: Toranoko Shokudo, Tokyo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ moemiki is a bass and footwork artist based in Japan, with 38 gigs on soundcheck
 
 Oyubi, DJ Paypal, MEGURO
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moemiki/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moemiki/)*

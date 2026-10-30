@@ -1,6 +1,6 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Airport Düsseldorf, Düsseldorf on Sat, 31 Oct 2026.
+Mind Against is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Airport Düsseldorf, Düsseldorf on Sat, 31 Oct 2026.
 
 Mind Against is a techno and house artist based in Italy, with 182 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Adriatique, Innellea and Kevin de Vries. Next up: Airport Düsseldorf, Düsseldorf on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Mind Against is a techno and house artist based in Italy, with 182 gigs on sound
 
 Adriatique, Innellea, Kevin de Vries
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

@@ -1,6 +1,6 @@
 # ELIF
 
-ELIF is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Buried Dreams Studio, Dallas/Fort Worth on Fri, 30 Oct 2026.
+ELIF is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Buried Dreams Studio, Dallas/Fort Worth on Fri, 30 Oct 2026.
 
 ELIF is a house and techno artist based in Turkey, with 152 gigs on soundcheck across Amsterdam, Bali, Baltimore and Barcelona and 39 more. Often billed alongside Mira, Chris Schwarzwälder and Britta Arnold. Next up: TBA - Buried Dreams Studio, Dallas/Fort Worth on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ELIF is a house and techno artist based in Turkey, with 152 gigs on soundcheck a
 
 Mira, Chris Schwarzwälder, Britta Arnold
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*

@@ -1,6 +1,6 @@
 # Uncle G
 
-Uncle G is a Drum & Bass and Electro artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Fox and Firkin, London on Fri, 30 Oct 2026.
+Uncle G is a Drum & Bass and Electro artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Fox and Firkin, London on Fri, 30 Oct 2026.
 
 Uncle G is a drum & bass and electro artist based in United Kingdom, with 112 gigs on soundcheck across London. Often billed alongside Dexta, Controlled Weirdness and Abby Daze. Next up: The Fox and Firkin, London on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Uncle G is a drum & bass and electro artist based in United Kingdom, with 112 gi
 
 Dexta, Controlled Weirdness, Abby Daze
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uncleg/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uncleg/)*

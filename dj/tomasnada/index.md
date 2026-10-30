@@ -1,6 +1,6 @@
 # Tomás Nada
 
-Tomás Nada is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Espacio Odeón, Bogotá on Sat, 31 Oct 2026.
+Tomás Nada is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Espacio Odeón, Bogotá on Sat, 31 Oct 2026.
 
 Tomás Nada is a house and techno artist, with 32 gigs on soundcheck across Amsterdam and Bogotá. Often billed alongside Aguirre, Eddy Lover and Canina. Next up: Espacio Odeón, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tomás Nada is a house and techno artist, with 32 gigs on soundcheck across Amst
 
 Aguirre, Eddy Lover, Canina
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasnada/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasnada/)*

@@ -1,6 +1,6 @@
 # Margo (GER)
 
-Margo (GER) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
+Margo (GER) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
 
 Margo (GER) is a house and techno artist based in Germany, with 44 gigs on soundcheck across Berlin, Brussels, Hamburg and Hannover. Often billed alongside Margo, Carluschka and dj fako. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Margo (GER) is a house and techno artist based in Germany, with 44 gigs on sound
 
 Margo, Carluschka, dj fako
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margo-ger/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margo-ger/)*

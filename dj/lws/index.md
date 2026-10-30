@@ -1,6 +1,6 @@
 # LWS
 
-LWS is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at radial, London on Fri, 30 Oct 2026.
+LWS is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at radial, London on Fri, 30 Oct 2026.
 
 LWS is a techno and bass artist based in United Kingdom, with 75 gigs on soundcheck across Belfast, Bristol, Dundee and Edinburgh and 5 more. Often billed alongside Skillis, Gregor AM and Creep Woland. Next up: radial, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ LWS is a techno and bass artist based in United Kingdom, with 75 gigs on soundch
 
 Skillis, Gregor AM, Creep Woland
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lws/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lws/)*

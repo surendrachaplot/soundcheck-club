@@ -1,6 +1,6 @@
 # Loren
 
-Loren is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Soma loft w/ rooftop, San Francisco/Oakland on Sat, 31 Oct 2026.
+Loren is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Soma loft w/ rooftop, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Loren is a techno and house artist based in United States of America, with 224 gigs on soundcheck across Berlin, Chicago, Cleveland and Detroit and 14 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: TBA - Soma loft w/ rooftop, San Francisco/Oakland on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Loren is a techno and house artist based in United States of America, with 224 g
 
 Ashton Swinton, Tylr, Garrison XR
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loren-us/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loren-us/)*

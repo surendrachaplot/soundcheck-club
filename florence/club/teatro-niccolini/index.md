@@ -1,6 +1,6 @@
 # Teatro Niccolini
 
-Teatro Niccolini is a music venue in Florence with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Music of Twilight Saga by Mystery Ensemble" on Fri, 13 Nov 2026.
+Teatro Niccolini is a music venue in Florence with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Music of Twilight Saga by Mystery Ensemble" on Fri, 13 Nov 2026.
 
 Teatro Niccolini is a music venue in Florence listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Teatro Niccolini is a music venue in Florence listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Music of Twilight Saga by Mystery Ensemble |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/florence/club/teatro-niccolini/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/florence/club/teatro-niccolini/)*

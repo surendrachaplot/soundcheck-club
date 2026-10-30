@@ -1,14 +1,13 @@
 # Cu
 
-Cu is a music venue in London with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "NAMARA London" on Thu, 29 Oct 2026.
+Cu is a music venue in London with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Get On - London" on Fri, 30 Oct 2026.
 
-Cu is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Cathal, D.N.S, Horne and KATAINAKA and 2 more. See dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
+Cu is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Cathal, D.N.S, Horne and L-Vis 1990 and 2 more. See dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | NAMARA London | KATAINAKA, NAMIMI SENSEI, Ozwick, Tomoki |
 | Fri, 30 Oct 2026 | Get On - London | Cathal, Horne, Luun |
 | Sat, 31 Oct 2026 | Cu's Second Birthday | D.N.S, L-Vis 1990, Oblig, Richard Fearless, Rommek, Tania Atyabi, the butcher bird |
 | Wed, 4 Nov 2026 | NLDC. | Mahnoor, Migz, Rips, Synkro, Yert |
@@ -20,4 +19,4 @@ Cu is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-u
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

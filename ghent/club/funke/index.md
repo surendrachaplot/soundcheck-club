@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "FUNKE_Dr.G invites Miamor, Kleinefrigo,  Elynfm" on Fri, 30 Oct 2026.
+Funke is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FUNKE_Dr.G invites Miamor, Kleinefrigo,  Elynfm" on Fri, 30 Oct 2026.
 
 Funke is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Demuja, Dr. G, Gunni and Gurl and 2 more. See dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
@@ -18,4 +18,4 @@ Funke is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

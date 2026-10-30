@@ -1,6 +1,6 @@
 # Daescu
 
-Daescu is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 7 Nov 2026.
+Daescu is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 7 Nov 2026.
 
 Daescu is a minimal and house artist, with 27 gigs on soundcheck across Barcelona, Bucharest, London and Madrid. Often billed alongside Gera, John Karam and Dimbee. Next up: 303 Audiophile Bar, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Daescu is a minimal and house artist, with 27 gigs on soundcheck across Barcelon
 
 Gera (3), John Karam, Dimbee
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daescu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daescu/)*

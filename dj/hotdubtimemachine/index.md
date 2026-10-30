@@ -1,6 +1,6 @@
 # Hot Dub Time Machine
 
-Hot Dub Time Machine is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat, 28 Nov 2026.
+Hot Dub Time Machine is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat, 28 Nov 2026.
 
 Hot Dub Time Machine is a club and electronica artist based in Australia, with 11 gigs on soundcheck across Adelaide, Auckland, Brisbane and Canberra and 4 more. Often billed alongside Bella Backe, Caleb Jackson and Casual P. Next up: TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Hot Dub Time Machine is a club and electronica artist based in Australia, with 1
 
 Bella Backe, Caleb Jackson, Casual P
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotdubtimemachine/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotdubtimemachine/)*

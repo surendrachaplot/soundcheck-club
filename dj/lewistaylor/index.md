@@ -1,6 +1,6 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Oran Mor, Glasgow on Sat, 31 Oct 2026.
+Lewis Taylor is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Oran Mor, Glasgow on Sat, 31 Oct 2026.
 
 Lewis Taylor is a house and tech house artist based in United Kingdom, with 49 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Bristol and 15 more. Often billed alongside Ellia Jaya, Gaskin and Harry Robson. Next up: Oran Mor, Glasgow on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ Lewis Taylor is a house and tech house artist based in United Kingdom, with 49 g
 
 Ellia Jaya, Gaskin, Harry Robson
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*

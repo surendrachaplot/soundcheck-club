@@ -1,6 +1,6 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+Dillinja is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
 Dillinja is a drum & bass and jungle artist based in United Kingdom, with 137 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 39 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: XOYO, London on Sat 7 Nov.
 
@@ -35,4 +35,4 @@ Dillinja is a drum & bass and jungle artist based in United Kingdom, with 137 gi
 
 IC3, Bryan Gee, MC GQ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*

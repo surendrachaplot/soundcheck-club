@@ -1,6 +1,6 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Club Roto - Halloween [sold out]" on Sat, 31 Oct 2026.
+Lofi is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Club Roto - Halloween [sold out]" on Sat, 31 Oct 2026.
 
 Lofi is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including 36framez, AAT (NL), Agents Of Time and Alexander Koning and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
@@ -23,4 +23,4 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with 
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

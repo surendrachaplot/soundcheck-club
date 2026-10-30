@@ -1,6 +1,6 @@
 # Naďa
 
-Naďa is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
+Naďa is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
 
 Naďa is a techno and electro artist based in Slovakia, with 14 gigs on soundcheck across Bratislava. Often billed alongside PIA8, BBK and BALI G. Next up: Subdeck, Bratislava on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Naďa is a techno and electro artist based in Slovakia, with 14 gigs on soundche
 
 PIA8, BBK, BALI G
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nada-bt/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nada-bt/)*

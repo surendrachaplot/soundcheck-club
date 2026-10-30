@@ -1,6 +1,6 @@
 # Moderna
 
-Moderna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Moderna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 Moderna is a techno and house artist based in United States of America, with 56 gigs on soundcheck across Baltimore, Berlin, Bogotá and Bologna and 15 more. Often billed alongside Peter Invasion, Eli Escobar and Esther Silex. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Moderna is a techno and house artist based in United States of America, with 56 
 
 Peter Invasion, Eli Escobar, Esther Silex
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moderna/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moderna/)*

@@ -1,6 +1,6 @@
 # Hotel 84
 
-Hotel 84 is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 30 Oct 2026.
+Hotel 84 is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 30 Oct 2026.
 
 Hotel 84 is a jungle and drum & bass artist based in Australia, with 12 gigs on soundcheck across Sydney. Often billed alongside Deverence, Fashionably Late and Floga. Next up: Abercrombie Hotel, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Hotel 84 is a jungle and drum & bass artist based in Australia, with 12 gigs on 
 
 Deverence, Fashionably Late, Floga
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotel84/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotel84/)*

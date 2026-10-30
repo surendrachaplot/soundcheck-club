@@ -1,6 +1,6 @@
 # Prismode
 
-Prismode is a Techno and Progressive House artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tonhalle, Munich on Fri, 6 Nov 2026.
+Prismode is a Techno and Progressive House artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tonhalle, Munich on Fri, 6 Nov 2026.
 
 Prismode is a techno and progressive house artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 21 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Tonhalle, Munich on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ Prismode is a techno and progressive house artist based in Germany, with 123 gig
 
 Solvane, Markus Klee, Super Flu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*

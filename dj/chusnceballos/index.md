@@ -1,6 +1,6 @@
 # Chus & Ceballos
 
-Chus & Ceballos is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Barbary, Philadelphia on Fri, 6 Nov 2026.
+Chus & Ceballos is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Barbary, Philadelphia on Fri, 6 Nov 2026.
 
 Chus & Ceballos are a house and tech house duo based in Spain, with 24 gigs on soundcheck across Barcelona, Boston, Chicago and Denver and 10 more. Often billed alongside DJ Chus, Amal Nemer and Ben Arsenal. Next up: The Barbary, Philadelphia on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Chus & Ceballos are a house and tech house duo based in Spain, with 24 gigs on s
 
 DJ Chus, Amal Nemer, Ben Arsenal
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*

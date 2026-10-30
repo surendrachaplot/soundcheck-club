@@ -1,6 +1,6 @@
 # Xaviera
 
-Xaviera is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ESC, Montreal on Thu, 5 Nov 2026.
+Xaviera is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ESC, Montreal on Thu, 5 Nov 2026.
 
 Xaviera is a techno and trance artist, with 53 gigs on soundcheck across Montreal and Toronto. Often billed alongside K657, Inside Blur and Yorel. Next up: ESC, Montreal on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Xaviera is a techno and trance artist, with 53 gigs on soundcheck across Montrea
 
 K657, Inside Blur, Yorel
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xaviera/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xaviera/)*

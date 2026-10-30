@@ -1,6 +1,6 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Unity Electro Fest , Quebec-city on Fri, 30 Oct 2026.
+Levi (AU) is a Afro House and Deep House artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Unity Electro Fest , Quebec-city on Fri, 30 Oct 2026.
 
 Levi (AU) is an afro house and deep house artist based in Australia, with 122 gigs on soundcheck across Amsterdam, Athens, Austria and Bali and 51 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: TBA - Unity Electro Fest , Quebec City on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 122 gi
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

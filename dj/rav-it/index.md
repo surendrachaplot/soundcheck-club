@@ -1,6 +1,6 @@
 # RÄV
 
-RÄV is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
+RÄV is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
 
 RÄV is a techno and hardcore artist based in Italy, with 37 gigs on soundcheck across Athens, Basel, Berlin and Bologna and 21 more. Often billed alongside Stephan Krus, NTHR and Lethal Frame. Next up: Kameleonten Areena, Finland on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ RÄV is a techno and hardcore artist based in Italy, with 37 gigs on soundcheck 
 
 Stephan Krus, NTHR, Lethal Frame
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rav-it/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rav-it/)*

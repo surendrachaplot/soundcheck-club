@@ -1,6 +1,6 @@
 # backyardmango
 
-backyardmango is a Latin Bass and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Drama Radio Bar, Mexico City on Wed, 28 Oct 2026.
+backyardmango is a Latin Bass and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Drama Radio Bar, Mexico City on Wed, 28 Oct 2026.
 
 backyardmango is a latin bass and funk / soul artist based in United States of America, with 17 gigs on soundcheck across London, Mexico City, Portland and Seattle. Often billed alongside Coco Maria, La Mala Noche and AHNDO. Next up: Drama Radio Bar, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ backyardmango is a latin bass and funk / soul artist based in United States of A
 
 Coco Maria, La Mala Noche, AHNDO
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/backyardmango/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/backyardmango/)*

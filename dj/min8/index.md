@@ -1,6 +1,6 @@
 # Min8
 
-Min8 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Min8 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Min8 is a techno and house artist, with 33 gigs on soundcheck across Athens, Berlin, Hanoi and Ho Chi Minh City and 4 more. Often billed alongside Xuxi, Artmony and CONG. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Min8 is a techno and house artist, with 33 gigs on soundcheck across Athens, Ber
 
 Xuxi, Artmony, CONG
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/min8/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/min8/)*

@@ -1,6 +1,6 @@
 # OKO (1)
 
-OKO (1) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at L'Écurie, Geneva on Fri, 30 Oct 2026.
+OKO (1) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at L'Écurie, Geneva on Fri, 30 Oct 2026.
 
 OKO is a drum & bass and jungle artist based in United Kingdom, with 22 gigs on soundcheck across Bristol, Cologne, Edinburgh and Frankfurt and 8 more. Often billed alongside Diagnostix, A Little Sound and Duskee. Next up: L'Écurie, Geneva on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ OKO is a drum & bass and jungle artist based in United Kingdom, with 22 gigs on 
 
 Diagnostix, A Little Sound, Duskee
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oko-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oko-1/)*

@@ -1,6 +1,6 @@
 # Franky Wah
 
-Franky Wah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+Franky Wah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 Franky Wah is a techno and house artist based in United Kingdom, with 139 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 37 more. Often billed alongside Sasha, Artche and Korolova. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Franky Wah is a techno and house artist based in United Kingdom, with 139 gigs o
 
 Sasha, Artche, Korolova
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*

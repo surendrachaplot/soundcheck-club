@@ -1,6 +1,6 @@
 # Rolo (2)
 
-Rolo (2) is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Atno, Budapest on Fri, 30 Oct 2026.
+Rolo (2) is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Atno, Budapest on Fri, 30 Oct 2026.
 
 Rolo is a house and breakbeat artist based in United Kingdom, with 13 gigs on soundcheck across Barcelona, Budapest, London and Manchester and 1 more. Often billed alongside Jiminy Watts, Luther Vine and Data Flow. Next up: Atno, Budapest on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rolo is a house and breakbeat artist based in United Kingdom, with 13 gigs on so
 
 Jiminy Watts, Luther Vine, Data Flow
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolo-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolo-2/)*

@@ -1,6 +1,6 @@
 # OSCAAR
 
-OSCAAR is a Deep House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+OSCAAR is a Deep House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 OSCAAR is a deep house and afro house artist based in United States of America, with 30 gigs on soundcheck across Athens, London, Los Angeles and New York City and 2 more. Often billed alongside Rahbani, &friends and Orsay. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -13,6 +13,7 @@ OSCAAR is a deep house and afro house artist based in United States of America, 
 
 ## Recently played
 
+- One Marylebone, London · Thu, 29 Oct 2026
 - fabric, London · Fri, 17 Jul 2026
 - KOKO, London · Sat, 27 Jun 2026
 - Circle Line Cruises, New York City · Sat, 20 Jun 2026
@@ -20,10 +21,9 @@ OSCAAR is a deep house and afro house artist based in United States of America, 
 - Beat, London · Sun, 10 May 2026
 - Natural History Museum London, London · Sat, 9 May 2026
 - Bund, London · Sat, 21 Mar 2026
-- 77, London · Sat, 7 Feb 2026
 
 ## Shares bills with
 
 Rahbani, &friends, Orsay
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscaar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscaar/)*

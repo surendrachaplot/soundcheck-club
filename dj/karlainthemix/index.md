@@ -1,6 +1,6 @@
 # Karlainthemix
 
-Karlainthemix is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Doka, Amsterdam on Fri, 13 Nov 2026.
+Karlainthemix is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Doka, Amsterdam on Fri, 13 Nov 2026.
 
 Karlainthemix is a house and deep house artist based in Finland, with 22 gigs on soundcheck across Alicante, Amsterdam, Chicago and Helsinki and 6 more. Often billed alongside Afshin, Greg Gauthier and Kapela. Next up: Doka, Amsterdam on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Karlainthemix is a house and deep house artist based in Finland, with 22 gigs on
 
 Afshin, Greg Gauthier, Kapela
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlainthemix/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlainthemix/)*

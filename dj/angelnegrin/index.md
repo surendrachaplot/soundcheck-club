@@ -1,6 +1,6 @@
 # Angel Negrin
 
-Angel Negrin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 30 Oct 2026.
+Angel Negrin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 30 Oct 2026.
 
 Angel Negrin is a techno and house artist based in Venezuela, with 21 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and Glasgow. Often billed alongside LOVELL, hubey and Co-Accused. Next up: EXIT Glasgow, Glasgow on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Angel Negrin is a techno and house artist based in Venezuela, with 21 gigs on so
 
 LOVELL, hubey, Co-Accused
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*

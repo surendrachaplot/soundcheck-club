@@ -1,6 +1,6 @@
 # OVEOUS
 
-OVEOUS is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sat, 28 Nov 2026.
+OVEOUS is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Sat, 28 Nov 2026.
 
 OVEOUS is a deep house and afro house artist based in United States of America, with 22 gigs on soundcheck across Atlanta, Chicago, Detroit and Los Angeles and 5 more. Often billed alongside 2melo, Coflo and ORIJINS. Next up: Eighteenth Street Lounge (ESL), Washington DC on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ OVEOUS is a deep house and afro house artist based in United States of America, 
 
 2melo, Coflo, ORIJINS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oveous/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oveous/)*

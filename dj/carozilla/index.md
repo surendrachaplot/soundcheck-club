@@ -1,6 +1,6 @@
 # Carozilla
 
-Carozilla is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Jupiter Disco, New York City on Fri, 20 Nov 2026.
+Carozilla is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jupiter Disco, New York City on Fri, 20 Nov 2026.
 
 Carozilla is a disco and house artist based in United States of America, with 120 gigs on soundcheck across Limerick, Los Angeles, Miami and Milan and 5 more. Often billed alongside DJ Ray, Jinks and Romulo Del Castillo. Next up: Jupiter Disco, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Carozilla is a disco and house artist based in United States of America, with 12
 
 DJ Ray (2), Jinks, Romulo Del Castillo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carozilla/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carozilla/)*

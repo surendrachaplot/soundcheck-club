@@ -1,6 +1,6 @@
 # DAR DISKU
 
-DAR DISKU is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at control, Bucharest on Fri, 30 Oct 2026.
+DAR DISKU is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at control, Bucharest on Fri, 30 Oct 2026.
 
 DAR DISKU is a house and disco artist based in Bahrain, with 44 gigs on soundcheck across Birmingham, Bristol, Bucharest and Dubai and 5 more. Often billed alongside Millie McKee, Sofie K and Cheb Mimo. Next up: control, Bucharest on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ DAR DISKU is a house and disco artist based in Bahrain, with 44 gigs on soundche
 
 Millie McKee, Sofie K, Cheb Mimo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dardisku/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dardisku/)*

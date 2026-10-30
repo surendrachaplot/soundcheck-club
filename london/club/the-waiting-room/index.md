@@ -1,6 +1,6 @@
 # The Waiting Room
 
-The Waiting Room is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Segment " on Fri, 6 Nov 2026.
+The Waiting Room is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Segment " on Fri, 6 Nov 2026.
 
 The Waiting Room is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Beeches, Genese, JVXTA and Shiela. and 1 more. See dates, start times and who's playing. 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom.
 
@@ -18,4 +18,4 @@ The Waiting Room is a music venue in London listed on soundcheck. 5 upcoming gig
 
 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*

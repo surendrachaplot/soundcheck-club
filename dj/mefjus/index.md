@@ -1,6 +1,6 @@
 # Mefjus
 
-Mefjus is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kompass Klub, Ghent on Fri, 30 Oct 2026.
+Mefjus is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kompass Klub, Ghent on Fri, 30 Oct 2026.
 
 Mefjus is a drum & bass and bass artist based in Austria, with 56 gigs on soundcheck across Amsterdam, Auckland, Berlin and Boston and 23 more. Often billed alongside Camo & Krooked, Daxta and Hedex. Next up: Kompass Klub, Ghent on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Mefjus is a drum & bass and bass artist based in Austria, with 56 gigs on soundc
 
 Camo & Krooked, Daxta, Hedex
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mefjus/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mefjus/)*

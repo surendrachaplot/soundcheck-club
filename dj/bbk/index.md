@@ -1,6 +1,6 @@
 # BBK
 
-BBK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
+BBK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
 
 BBK is a techno and house artist based in Slovakia, with 23 gigs on soundcheck across Bratislava, Cologne and San Francisco/Oakland. Often billed alongside BigFish, Bad Mojo and Michael Priest. Next up: Subdeck, Bratislava on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ BBK is a techno and house artist based in Slovakia, with 23 gigs on soundcheck a
 
 BigFish, Bad Mojo, Michael Priest
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbk/)*

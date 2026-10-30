@@ -1,6 +1,6 @@
 # Sebastian Konrad
 
-Sebastian Konrad is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Sebastian Konrad is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 Sebastian Konrad is a house and afro house artist based in Switzerland, with 57 gigs on soundcheck across Amsterdam, Basel, Berlin and Düsseldorf and 9 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -13,6 +13,7 @@ Sebastian Konrad is a house and afro house artist based in Switzerland, with 57 
 
 ## Recently played
 
+- One Marylebone, London · Thu, 29 Oct 2026
 - Thuishaven, Amsterdam · Sat, 24 Oct 2026
 - Nordstern, Basel · Sat, 22 Aug 2026
 - Hive Club, Zurich · Sat, 8 Aug 2026
@@ -20,10 +21,9 @@ Sebastian Konrad is a house and afro house artist based in Switzerland, with 57 
 - Zürich - Various Venues, Zurich · Mon, 3 Aug 2026
 - Kiesgrube, Düsseldorf · Sat, 1 Aug 2026
 - Praterinsel, Munich · Sat, 25 Jul 2026
-- Aurathebunker, Grellingen (CH), Basel · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Michel Sacher, Read the News, Ronny Grauer
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*

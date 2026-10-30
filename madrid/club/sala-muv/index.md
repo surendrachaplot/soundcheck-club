@@ -1,6 +1,6 @@
 # Sala Muv
 
-Sala Muv is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "VEKTOR WAREHOUSE NYE" on Thu, 31 Dec 2026.
+Sala Muv is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "VEKTOR WAREHOUSE NYE" on Thu, 31 Dec 2026.
 
 Sala Muv is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Camino de las Hormigueras, 175.
 
@@ -14,4 +14,4 @@ Sala Muv is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See da
 
 Camino de las Hormigueras, 175, Madrid
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-muv/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-muv/)*

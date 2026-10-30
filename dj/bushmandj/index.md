@@ -1,6 +1,6 @@
 # Bushman (UK)
 
-Bushman (UK) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bread and Butter, London on Sat, 31 Oct 2026.
+Bushman (UK) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bread and Butter, London on Sat, 31 Oct 2026.
 
 Bushman (UK) is a house and afro house artist based in United Kingdom, with 27 gigs on soundcheck across Austin, Glasgow, London and Manchester and 1 more. Often billed alongside MYDIR, Trekkah and Kakura. Next up: Bread and Butter, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bushman (UK) is a house and afro house artist based in United Kingdom, with 27 g
 
 MYDIR, Trekkah, Kakura
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bushmandj/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bushmandj/)*

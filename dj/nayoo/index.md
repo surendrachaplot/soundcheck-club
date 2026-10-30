@@ -1,6 +1,6 @@
 # Nayoo
 
-Nayoo is a Club and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nashaz, Brussels on Fri, 6 Nov 2026.
+Nayoo is a Club and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Nashaz, Brussels on Fri, 6 Nov 2026.
 
 Nayoo is a club and electronica artist, with 13 gigs on soundcheck across Basel, Berlin, Brussels and Paris and 2 more. Often billed alongside ELAKH, Salma and AOIFE. Next up: Nashaz, Brussels on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Nayoo is a club and electronica artist, with 13 gigs on soundcheck across Basel,
 
 ELAKH, Salma, AOIFE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nayoo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nayoo/)*

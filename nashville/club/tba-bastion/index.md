@@ -1,6 +1,6 @@
 # TBA - Bastion
 
-TBA - Bastion is a music venue in Nashville with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sparkle City Disco: Night of the Living Dead" on Fri, 30 Oct 2026.
+TBA - Bastion is a music venue in Nashville with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Sparkle City Disco: Night of the Living Dead" on Fri, 30 Oct 2026.
 
 TBA - Bastion is a music venue in Nashville listed on soundcheck. 1 upcoming gig, with line-ups including Sparkle City Disco. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bastion is a music venue in Nashville listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Sparkle City Disco: Night of the Living Dead | Sparkle City Disco |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/tba-bastion/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/tba-bastion/)*

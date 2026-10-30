@@ -1,6 +1,6 @@
 # Chris Brid
 
-Chris Brid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
+Chris Brid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Odonien, Cologne on Fri, 30 Oct 2026.
 
 Chris Brid is a techno and house artist, with 11 gigs on soundcheck across Berlin, Cologne, Munich and Stuttgart. Often billed alongside Rïa Mehta, David Hasert and Jonas Fritz. Next up: Odonien, Cologne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Chris Brid is a techno and house artist, with 11 gigs on soundcheck across Berli
 
 Rïa Mehta, David Hasert, Jonas Fritz
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbrid/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbrid/)*

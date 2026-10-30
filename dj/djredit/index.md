@@ -1,6 +1,6 @@
 # DJ Red
 
-DJ Red is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gaffe, London on Fri, 6 Nov 2026.
+DJ Red is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gaffe, London on Fri, 6 Nov 2026.
 
 DJ Red is a techno and house artist based in Italy, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Efdemin, DVS1 and DjRUM. Next up: Gaffe, London on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ DJ Red is a techno and house artist based in Italy, with 74 gigs on soundcheck a
 
 Efdemin, DVS1, DjRUM
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djredit/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djredit/)*

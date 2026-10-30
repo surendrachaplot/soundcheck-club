@@ -1,6 +1,6 @@
 # Silicone Valley
 
-Silicone Valley is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mi Sabor Cafe, New York City on Sat, 31 Oct 2026.
+Silicone Valley is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mi Sabor Cafe, New York City on Sat, 31 Oct 2026.
 
 Silicone Valley is an electronica and experimental artist based in United States of America, with 11 gigs on soundcheck across Los Angeles, New York City, Pittsburgh and San Francisco/Oakland and 1 more. Often billed alongside DJ_Dave, Somewhere Special and umru. Next up: Mi Sabor Cafe, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Silicone Valley is an electronica and experimental artist based in United States
 
 DJ_Dave, Somewhere Special, umru
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siliconevalley/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siliconevalley/)*

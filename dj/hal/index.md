@@ -1,6 +1,6 @@
 # HAL
 
-HAL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Hakkabar 院吧, Chengdu on Sat, 31 Oct 2026.
+HAL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hakkabar 院吧, Chengdu on Sat, 31 Oct 2026.
 
 HAL is a techno and house artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Hannover and 5 more. Often billed alongside Perm, Neele and Sevensol. Next up: Hakkabar 院吧, Chengdu on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ HAL is a techno and house artist based in Germany, with 27 gigs on soundcheck ac
 
 Perm, Neele, Sevensol
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hal/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hal/)*

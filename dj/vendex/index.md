@@ -1,8 +1,8 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
+Vendex is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
-Vendex is a techno and industrial artist based in Spain, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside CARV, Alignment and Azyr. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
+Vendex is a techno and industrial artist based in Spain, with 228 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 81 more. Often billed alongside CARV, Alignment and Azyr. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Vendex is a techno and industrial artist based in Spain, with 227 gigs on soundc
 
 CARV, Alignment, Azyr
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

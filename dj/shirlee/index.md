@@ -1,6 +1,6 @@
 # Shirlee
 
-Shirlee is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+Shirlee is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
 
 Shirlee is a house and tech house artist based in Canada, with 31 gigs on soundcheck across Montreal. Often billed alongside Guillaume Michaud, Ben Sterling and Linska. Next up: Le Sainte-Catherine Hall, Montreal on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Shirlee is a house and tech house artist based in Canada, with 31 gigs on soundc
 
 Guillaume Michaud, Ben Sterling, Linska
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlee/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlee/)*

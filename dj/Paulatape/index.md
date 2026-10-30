@@ -1,6 +1,6 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 30 Oct 2026.
+Paula Tape is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 30 Oct 2026.
 
 Paula Tape is a house and techno artist based in Chile, with 178 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 57 more. Often billed alongside Avalon Emerson, Make A Dance and Bonobo. Next up: Nitsa Club, Barcelona on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Paula Tape is a house and techno artist based in Chile, with 178 gigs on soundch
 
 Avalon Emerson, Make A Dance, Bonobo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

@@ -1,6 +1,6 @@
 # Pilar - VUB
 
-Pilar - VUB is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Eli Wewentxu & Indré Jurgelevičiūtė + Sary Moussa" on Thu, 5 Nov 2026.
+Pilar - VUB is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Eli Wewentxu & Indré Jurgelevičiūtė + Sary Moussa" on Thu, 5 Nov 2026.
 
 Pilar - VUB is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with line-ups including Eli Wewentxu and Lonnie Holley. See dates, start times and who's playing. Boulevard de la Plaine 2, 1050 Ixelles, Belgium.
 
@@ -17,4 +17,4 @@ Pilar - VUB is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, 
 
 Boulevard de la Plaine 2, 1050 Ixelles, Belgium, Brussels
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/pilar-vub/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/pilar-vub/)*

@@ -1,13 +1,14 @@
 # Eli & Fur
 
-Eli & Fur is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
+Eli & Fur is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Thu, 29 Oct 2026.
 
-Eli & Fur are a house and progressive house duo based in United Kingdom, with 131 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 42 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 30 Oct.
+Eli & Fur are a house and progressive house duo based in United Kingdom, with 132 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 42 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Fri, 30 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Fri, 13 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | Tumbalong Park | Sydney |
@@ -15,6 +16,7 @@ Eli & Fur are a house and progressive house duo based in United Kingdom, with 13
 
 ## Recently played
 
+- Ex Hacienda de San Pablo de Enmedio, Mexico City · Thu, 29 Oct 2026
 - Time Nightclub, Orange-county · Fri, 23 Oct 2026
 - Ministry Of Sound, London · Fri, 9 Oct 2026
 - Bauhaus, Houston · Fri, 2 Oct 2026
@@ -22,10 +24,9 @@ Eli & Fur are a house and progressive house duo based in United Kingdom, with 13
 - Celine Orlando, Orlando · Fri, 18 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
 - TBA, Los Angeles · Sat, 22 Aug 2026
-- The Music Yard, Charlotte · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Jody Wisternoff, CRi, Marsh
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*

@@ -1,6 +1,6 @@
 # Solvane
 
-Solvane is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tonhalle, Munich on Fri, 6 Nov 2026.
+Solvane is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tonhalle, Munich on Fri, 6 Nov 2026.
 
 Solvane is a techno and house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 26 more. Often billed alongside Prismode, Markus Klee and Super Flu. Next up: Tonhalle, Munich on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ Solvane is a techno and house artist based in Germany, with 133 gigs on soundche
 
 Prismode, Markus Klee, Super Flu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*

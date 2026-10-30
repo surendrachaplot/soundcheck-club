@@ -1,6 +1,6 @@
 # Lauer
 
-Lauer is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at gallery 1986, Vilnius on Fri, 18 Dec 2026.
+Lauer is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at gallery 1986, Vilnius on Fri, 18 Dec 2026.
 
 Lauer is a house and italo disco artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Sam Goku, Rosa Red and Sara Miller. Next up: gallery 1986, Vilnius on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Lauer is a house and italo disco artist based in Germany, with 86 gigs on soundc
 
 Sam Goku, Rosa Red, Sara Miller
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauer/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauer/)*

@@ -1,6 +1,6 @@
 # widdows95
 
-widdows95 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Macel Studios, Toronto on Sun, 3 Jan 2027.
+widdows95 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Macel Studios, Toronto on Sun, 3 Jan 2027.
 
 widdows95 is a house and techno artist based in Canada, with 11 gigs on soundcheck across New York City, Rio de Janeiro, Toronto and Vancouver. Often billed alongside DJ Deseo, Kai (TO) and R-ODERICK. Next up: Macel Studios, Toronto on Sun 3 Jan.
 
@@ -25,4 +25,4 @@ widdows95 is a house and techno artist based in Canada, with 11 gigs on soundche
 
 DJ Deseo, Kai (TO), R-ODERICK
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/widdows95/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/widdows95/)*

@@ -1,6 +1,6 @@
 # Dom (1)
 
-Dom (1) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ZEROTOKYO, Tokyo on Thu, 12 Nov 2026.
+Dom (1) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZEROTOKYO, Tokyo on Thu, 12 Nov 2026.
 
 Dom is a house and electronica artist, with 18 gigs on soundcheck across Berlin, Hamburg, London and Malta and 5 more. Often billed alongside Antoine Baiser, Xenaia and Anna Schreit. Next up: ZEROTOKYO, Tokyo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Dom is a house and electronica artist, with 18 gigs on soundcheck across Berlin,
 
 Antoine Baiser, Xenaia, Anna Schreit
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dom-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dom-1/)*

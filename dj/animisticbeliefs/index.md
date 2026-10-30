@@ -1,6 +1,6 @@
 # Animistic Beliefs
 
-Animistic Beliefs is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Horn, Bangkok on Fri, 6 Nov 2026.
+Animistic Beliefs is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Horn, Bangkok on Fri, 6 Nov 2026.
 
 Animistic Beliefs is a techno and experimental artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Armenia, Athens and Bali and 42 more. Often billed alongside Helena Hauff, Lee Gamble and bela. Next up: Horn, Bangkok on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Animistic Beliefs is a techno and experimental artist based in Netherlands, with
 
 Helena Hauff, Lee Gamble, bela
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/animisticbeliefs/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/animisticbeliefs/)*

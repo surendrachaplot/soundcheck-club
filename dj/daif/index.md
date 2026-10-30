@@ -1,6 +1,6 @@
 # Daïf
 
-Daïf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Elsewhere, Bangkok on Fri, 30 Oct 2026.
+Daïf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Elsewhere, Bangkok on Fri, 30 Oct 2026.
 
 Daïf is a house and techno artist, with 16 gigs on soundcheck across Bangkok, Beijing, Buenos Aires and Los Angeles and 6 more. Often billed alongside Celter, Amy Jor and Ana Hagen. Next up: Elsewhere, Bangkok on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Daïf is a house and techno artist, with 16 gigs on soundcheck across Bangkok, B
 
 Celter, Amy Jor, Ana Hagen
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daif/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daif/)*

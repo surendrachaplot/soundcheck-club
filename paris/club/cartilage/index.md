@@ -1,6 +1,6 @@
 # Cartilage
 
-Cartilage is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "INFEKTIOUS X S3X A PILL X DRAG ME TO HELL" on Fri, 30 Oct 2026.
+Cartilage is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "INFEKTIOUS X S3X A PILL X DRAG ME TO HELL" on Fri, 30 Oct 2026.
 
 Cartilage is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Edgussss, Foubert, Ixpé and James Marceau and 2 more. See dates, start times and who's playing. 210 Rue du Faubourg Saint-Antoine, 75012 Paris, France.
 
@@ -17,4 +17,4 @@ Cartilage is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with 
 
 210 Rue du Faubourg Saint-Antoine, 75012 Paris, France, Paris
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cartilage/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cartilage/)*

@@ -1,6 +1,6 @@
 # Hector Romero
 
-Hector Romero is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Wiggle Room, Toronto on Sat, 21 Nov 2026.
+Hector Romero is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Wiggle Room, Toronto on Sat, 21 Nov 2026.
 
 Hector Romero is a house and deep house artist based in United States of America, with 38 gigs on soundcheck across Barcelona, Detroit, Frankfurt and Miami and 4 more. Often billed alongside Mr. V, Piem and TAKiN. Next up: Wiggle Room, Toronto on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Hector Romero is a house and deep house artist based in United States of America
 
 Mr. V, Piem, TAKiN
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*

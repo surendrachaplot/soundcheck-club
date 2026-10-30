@@ -1,6 +1,6 @@
 # Full Crate
 
-Full Crate is a R&B and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 31 Oct 2026.
+Full Crate is a R&B and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Full Crate is a r&b and house artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Barcelona, Denver and Detroit and 12 more. Often billed alongside DARIUS, Dam Swindle and Daul. Next up: The Great Northern, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Full Crate is a r&b and house artist based in Netherlands, with 27 gigs on sound
 
 DARIUS, Dam Swindle, Daul
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fullcrate/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fullcrate/)*

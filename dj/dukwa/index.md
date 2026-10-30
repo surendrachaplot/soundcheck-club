@@ -1,6 +1,6 @@
 # Dukwa
 
-Dukwa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Azimut Club, Turin on Sat, 31 Oct 2026.
+Dukwa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Azimut Club, Turin on Sat, 31 Oct 2026.
 
 Dukwa is a house and techno artist based in Italy, with 29 gigs on soundcheck across Berlin, Bologna, Dublin and Edinburgh and 11 more. Often billed alongside Seth Troxler, Tommaso Carlà and AGELESS. Next up: Azimut Club, Turin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Dukwa is a house and techno artist based in Italy, with 29 gigs on soundcheck ac
 
 Seth Troxler, Tommaso Carlà, AGELESS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dukwa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dukwa/)*

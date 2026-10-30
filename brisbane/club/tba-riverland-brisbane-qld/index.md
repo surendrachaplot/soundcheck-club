@@ -1,6 +1,6 @@
 # TBA - Riverland (Brisbane, QLD)
 
-TBA - Riverland (Brisbane, QLD) is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "LEVI / Brisbane Show at RIVERLAND" on Sun, 20 Dec 2026.
+TBA - Riverland (Brisbane, QLD) is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "LEVI / Brisbane Show at RIVERLAND" on Sun, 20 Dec 2026.
 
 TBA - Riverland (Brisbane, QLD) is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including Levi (AU). See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Riverland (Brisbane, QLD) is a music venue in Brisbane listed on soundchec
 | --- | --- | --- |
 | Sun, 20 Dec 2026 | LEVI / Brisbane Show at RIVERLAND | Levi (AU) |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tba-riverland-brisbane-qld/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tba-riverland-brisbane-qld/)*

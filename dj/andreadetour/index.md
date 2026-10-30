@@ -1,6 +1,6 @@
 # Andrea de Tour
 
-Andrea de Tour is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Système, Montreal on Thu, 12 Nov 2026.
+Andrea de Tour is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Système, Montreal on Thu, 12 Nov 2026.
 
 Andrea de Tour is a house and techno artist based in Canada, with 36 gigs on soundcheck across Montreal, Quebec City and Toronto. Often billed alongside HEY: ALBERT, Vayia and Audrey Bélanger. Next up: Système, Montreal on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Andrea de Tour is a house and techno artist based in Canada, with 36 gigs on sou
 
 HEY: ALBERT, Vayia, Audrey Bélanger
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreadetour/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreadetour/)*

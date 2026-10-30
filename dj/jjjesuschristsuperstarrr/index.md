@@ -1,6 +1,6 @@
 # jjjesuschristsuperstarrr
 
-jjjesuschristsuperstarrr is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at H0L0, New York City on Thu, 5 Nov 2026.
+jjjesuschristsuperstarrr is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at H0L0, New York City on Thu, 5 Nov 2026.
 
 jjjesuschristsuperstarrr is a club and techno artist based in United States of America, with 20 gigs on soundcheck across New York City. Often billed alongside DJ Thank You, alirealquick and Dazegxd. Next up: H0L0, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ jjjesuschristsuperstarrr is a club and techno artist based in United States of A
 
 DJ Thank You, alirealquick, Dazegxd
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjesuschristsuperstarrr/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjesuschristsuperstarrr/)*

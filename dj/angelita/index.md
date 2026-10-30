@@ -1,6 +1,6 @@
 # Angelita
 
-Angelita is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pamela Club, Paris on Sat, 31 Oct 2026.
+Angelita is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Pamela Club, Paris on Sat, 31 Oct 2026.
 
 Angelita is a club and house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Brussels, Edinburgh and London and 5 more. Often billed alongside OK Williams, James Massiah and Shygirl. Next up: Pamela Club, Paris on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Angelita is a club and house artist based in United Kingdom, with 31 gigs on sou
 
 OK Williams, James Massiah, Shygirl
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelita/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelita/)*

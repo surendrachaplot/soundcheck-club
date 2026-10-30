@@ -1,6 +1,6 @@
 # Theo T
 
-Theo T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
+Theo T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
 
 Theo T is a techno and house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Dyl Payne, Henry Dummett and Fikayo. Next up: E1, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Theo T is a techno and house artist based in United Kingdom, with 18 gigs on sou
 
 Dyl Payne, Henry Dummett, Fikayo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theot/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theot/)*

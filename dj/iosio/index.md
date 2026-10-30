@@ -1,6 +1,6 @@
 # IOSIO
 
-IOSIO is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Kilomètre25, Paris on Fri, 30 Oct 2026.
+IOSIO is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kilomètre25, Paris on Fri, 30 Oct 2026.
 
 IOSIO is a techno and trance artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Eindhoven and 9 more. Often billed alongside Cynthia Spiering, BØĘRY and THISO. Next up: Kilomètre25, Paris on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ IOSIO is a techno and trance artist based in Netherlands, with 39 gigs on soundc
 
 Cynthia Spiering, BØĘRY, THISO
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*

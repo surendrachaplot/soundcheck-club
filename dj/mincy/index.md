@@ -1,6 +1,6 @@
 # Mincy
 
-Mincy is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at City Recital Hall, Sydney on Fri, 30 Oct 2026.
+Mincy is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at City Recital Hall, Sydney on Fri, 30 Oct 2026.
 
 Mincy is a garage and techno artist based in Australia, with 63 gigs on soundcheck across Barcelona, Brisbane, Bristol and Byron Bay and 9 more. Often billed alongside Killjoy, Caitlin Medcalf and Dr Dubplate. Next up: City Recital Hall, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mincy is a garage and techno artist based in Australia, with 63 gigs on soundche
 
 Killjoy, Caitlin Medcalf, Dr Dubplate
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mincy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mincy/)*

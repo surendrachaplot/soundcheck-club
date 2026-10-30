@@ -1,6 +1,6 @@
 # Gaspar Torres
 
-Gaspar Torres is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Sat, 31 Oct 2026.
+Gaspar Torres is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Sat, 31 Oct 2026.
 
 Gaspar Torres is a progressive house and electronica artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Tom Pavicich, Kevin Di Serna and Alain Pauwels. Next up: Duke Of Tokyo, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gaspar Torres is a progressive house and electronica artist based in Netherlands
 
 Tom Pavicich, Kevin Di Serna, Alain Pauwels
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspartorres/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspartorres/)*

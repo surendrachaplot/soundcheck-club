@@ -1,6 +1,6 @@
 # G33 (UK)
 
-G33 (UK) is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Moon Club, Bristol on Fri, 30 Oct 2026.
+G33 (UK) is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Moon Club, Bristol on Fri, 30 Oct 2026.
 
 G33 (UK) is a garage and bass artist based in United Kingdom, with 30 gigs on soundcheck across Bristol, Glasgow, Helsinki and Ibiza and 6 more. Often billed alongside A.N.T, CITIZEN and Hanz. Next up: Moon Club, Bristol on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ G33 (UK) is a garage and bass artist based in United Kingdom, with 30 gigs on so
 
 A.N.T, CITIZEN, Hanz
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g33-uk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g33-uk/)*

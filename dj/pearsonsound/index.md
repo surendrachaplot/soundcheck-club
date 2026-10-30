@@ -1,6 +1,6 @@
 # Pearson Sound
 
-Pearson Sound is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Strange Brew, Bristol on Sat, 31 Oct 2026.
+Pearson Sound is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Strange Brew, Bristol on Sat, 31 Oct 2026.
 
 Pearson Sound is a techno and bass artist based in United Kingdom, with 106 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 47 more. Often billed alongside Ben UFO, Pangaea and Peach. Next up: Strange Brew, Bristol on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Pearson Sound is a techno and bass artist based in United Kingdom, with 106 gigs
 
 Ben UFO, Pangaea, Peach
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pearsonsound/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pearsonsound/)*

@@ -1,6 +1,6 @@
 # Adriel Fantastique!
 
-Adriel Fantastique! is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Spkrbox, Detroit on Sat, 14 Nov 2026.
+Adriel Fantastique! is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Spkrbox, Detroit on Sat, 14 Nov 2026.
 
 Adriel Fantastique! is a house and ambient artist based in United States of America, with 20 gigs on soundcheck across Adelaide and Detroit. Often billed alongside Ginger Snap, Adam Jeffrey and Perish. Next up: Spkrbox, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Adriel Fantastique! is a house and ambient artist based in United States of Amer
 
 Ginger Snap, Adam Jeffrey, Perish
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrielfantastique!/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrielfantastique!/)*

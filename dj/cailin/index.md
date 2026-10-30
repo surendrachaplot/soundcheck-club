@@ -1,6 +1,6 @@
 # Cailín
 
-Cailín is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 7 Nov 2026.
+Cailín is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 7 Nov 2026.
 
 Cailín is a techno and house artist based in Ireland, with 45 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside Aero, Ayolxi and Dave Clarke. Next up: Tresor / Globus, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Cailín is a techno and house artist based in Ireland, with 45 gigs on soundchec
 
 Aero (1), Ayolxi, Dave Clarke
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cailin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cailin/)*

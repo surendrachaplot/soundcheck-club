@@ -1,6 +1,6 @@
 # Selmz
 
-Selmz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TRAUM, Antwerp on Fri, 6 Nov 2026.
+Selmz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TRAUM, Antwerp on Fri, 6 Nov 2026.
 
 Selmz is a techno and house artist, with 19 gigs on soundcheck across Antwerp, Brussels and Paris. Often billed alongside Erykah, EliseThere and Hysope. Next up: TRAUM, Antwerp on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Selmz is a techno and house artist, with 19 gigs on soundcheck across Antwerp, B
 
 Erykah, EliseThere, Hysope
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selmz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selmz/)*

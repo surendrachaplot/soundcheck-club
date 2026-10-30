@@ -1,6 +1,6 @@
 # Súper Pä
 
-Súper Pä is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 27 Nov 2026.
+Súper Pä is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 27 Nov 2026.
 
 Súper Pä is a techno and house artist based in Spain, with 26 gigs on soundcheck across Madrid. Often billed alongside R1TON, Bianca and David Carro. Next up: EL SÓTANO, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Súper Pä is a techno and house artist based in Spain, with 26 gigs on soundche
 
 R1TON, Bianca, David Carro
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/súperpa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/súperpa/)*

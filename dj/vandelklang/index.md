@@ -1,6 +1,6 @@
 # Vandel
 
-Vandel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 50 | 50, Medellin on Sat, 12 Dec 2026.
+Vandel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at 50 | 50, Medellin on Sat, 12 Dec 2026.
 
 Vandel is a house and techno artist based in Colombia, with 48 gigs on soundcheck across Berlin, Bogotá, Colombia and Lisbon and 2 more. Often billed alongside Dj Fauno, MDE Sub House and Julianna. Next up: 50 | 50, Medellin on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Vandel is a house and techno artist based in Colombia, with 48 gigs on soundchec
 
 Dj Fauno, MDE Sub House, Julianna
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vandelklang/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vandelklang/)*

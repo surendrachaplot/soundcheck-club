@@ -1,6 +1,6 @@
 # Pètal
 
-Pètal is a Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at B side Athens, Athens on Fri, 30 Oct 2026.
+Pètal is a Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at B side Athens, Athens on Fri, 30 Oct 2026.
 
 Pètal is a techno artist based in Greece, with 6 gigs on soundcheck across Athens. Often billed alongside Ther3min, Adam Des and Antigone. Next up: B side Athens, Athens on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Pètal is a techno artist based in Greece, with 6 gigs on soundcheck across Athe
 
 Ther3min, Adam Des, Antigone
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petal-gr/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petal-gr/)*

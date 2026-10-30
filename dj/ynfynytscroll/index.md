@@ -1,6 +1,6 @@
 # Ynfynyt Scroll
 
-Ynfynyt Scroll is a Guaracha and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Espacio Odeón, Bogotá on Sat, 31 Oct 2026.
+Ynfynyt Scroll is a Guaracha and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Espacio Odeón, Bogotá on Sat, 31 Oct 2026.
 
 Ynfynyt Scroll is a guaracha and club artist, with 25 gigs on soundcheck across Atlanta, Austin, Berlin and Bogotá and 9 more. Often billed alongside EL NICK DGO, Diablito and Tomás Nada. Next up: Espacio Odeón, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ynfynyt Scroll is a guaracha and club artist, with 25 gigs on soundcheck across 
 
 EL NICK DGO, Diablito, Tomás Nada
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ynfynytscroll/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ynfynytscroll/)*

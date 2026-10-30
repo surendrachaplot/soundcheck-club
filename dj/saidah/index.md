@@ -1,6 +1,6 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+SAIDAH is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 SAIDAH is a house and garage artist based in Netherlands, with 124 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 22 more. Often billed alongside Diffrent, Benwal and Sam Alfred. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ SAIDAH is a house and garage artist based in Netherlands, with 124 gigs on sound
 
 Diffrent, Benwal, Sam Alfred
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

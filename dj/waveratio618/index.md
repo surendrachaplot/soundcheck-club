@@ -1,6 +1,6 @@
 # Waveratio 618
 
-Waveratio 618 is a Deep House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Canary-islands on Sat, 14 Nov 2026.
+Waveratio 618 is a Deep House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Canary-islands on Sat, 14 Nov 2026.
 
 Waveratio 618 is a deep house and electro artist based in Spain, with 13 gigs on soundcheck across Barcelona and Canary Islands. Often billed alongside Javier Carballo, Nico Etorena and ildec. Next up: TBA, Canary Islands on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Waveratio 618 is a deep house and electro artist based in Spain, with 13 gigs on
 
 Javier Carballo, Nico Etorena, ildec
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waveratio618/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waveratio618/)*

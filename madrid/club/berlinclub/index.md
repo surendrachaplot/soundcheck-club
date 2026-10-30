@@ -1,6 +1,6 @@
 # berlinClub
 
-berlinClub is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Lescat · Maxi Degrassi + Demattei B2B Candela Mor + GINO GENTILI" on Fri, 30 Oct 2026.
+berlinClub is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Lescat · Maxi Degrassi + Demattei B2B Candela Mor + GINO GENTILI" on Fri, 30 Oct 2026.
 
 berlinClub is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Candela Mor, Demattei, GINO GENTILI and Maxi Degrassi. See dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
 
@@ -15,4 +15,4 @@ berlinClub is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, wit
 
 Costanilla de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*

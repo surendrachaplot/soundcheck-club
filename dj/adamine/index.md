@@ -1,6 +1,6 @@
 # adamine
 
-adamine is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Boxing Club, Bristol on Fri, 13 Nov 2026.
+adamine is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Boxing Club, Bristol on Fri, 13 Nov 2026.
 
 adamine is a jungle and drum & bass artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Liverpool, Manchester and Sheffield. Often billed alongside Hardcore Babes, Adam F and Harry Shotta. Next up: The Boxing Club, Bristol on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ adamine is a jungle and drum & bass artist based in United Kingdom, with 16 gigs
 
 Hardcore Babes, Adam F, Harry Shotta
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamine/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamine/)*

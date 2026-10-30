@@ -1,6 +1,6 @@
 # SYMBIOTIKKA at KitKat Club Berlin at KitKatClub
 
-SYMBIOTIKKA at KitKat Club Berlin at KitKatClub on Wed 4 Nov, Berlin. 3 artists: DJ Jordan, Kalimanda and Sin:port. Techno and Tech House. See the line-up on soundcheck.
+SYMBIOTIKKA at KitKat Club Berlin at KitKatClub on Wed 4 Nov, Berlin. 4 artists: CHVZ.722, DJ Jordan, Kalimanda and Sin:port. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SYMBIOTIKKA at KitKat Club Berlin at KitKatClub on Wed 4 Nov, Berlin. 3 artists:
 
 ## Line-up
 
+- CHVZ.722
 - DJ Jordan
 - Kalimanda
 - Sin:port

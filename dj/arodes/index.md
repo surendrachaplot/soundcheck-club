@@ -1,6 +1,6 @@
 # ARODES
 
-ARODES is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at KOKO, London on Fri, 30 Oct 2026.
+ARODES is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at KOKO, London on Fri, 30 Oct 2026.
 
 ARODES is a house and afro house artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Andrea Oliva, Shimza and Mahmut Orhan. Next up: KOKO, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ARODES is a house and afro house artist based in United States of America, with 
 
 Andrea Oliva, Shimza, Mahmut Orhan
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*

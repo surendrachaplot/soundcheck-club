@@ -1,6 +1,6 @@
 # Finalversion3
 
-Finalversion3 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
+Finalversion3 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
 
 Finalversion3 is a techno and house artist based in Spain, with 60 gigs on soundcheck across Alicante, Barcelona, Madrid and Paris and 1 more. Often billed alongside Lucía Gea, Dj badtrip and KenYi. Next up: Metro Dance Club, Alicante on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Finalversion3 is a techno and house artist based in Spain, with 60 gigs on sound
 
 Lucía Gea, Dj badtrip, KenYi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finalversion3/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finalversion3/)*

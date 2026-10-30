@@ -1,6 +1,6 @@
 # Jordan Villa
 
-Jordan Villa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Limelight, Belfast on Fri, 11 Dec 2026.
+Jordan Villa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Limelight, Belfast on Fri, 11 Dec 2026.
 
 Jordan Villa is a house and techno artist based in United Kingdom, with 25 gigs on soundcheck across Belfast, Manchester and Rotterdam. Often billed alongside Aletha, Joe Motion and Krysko. Next up: The Limelight, Belfast on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Jordan Villa is a house and techno artist based in United Kingdom, with 25 gigs 
 
 Aletha, Joe Motion, Krysko
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanvilla/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanvilla/)*

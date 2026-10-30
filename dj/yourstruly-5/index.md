@@ -1,6 +1,6 @@
 # Yours Truly (5)
 
-Yours Truly (5) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Electric Garden, Dublin on Sat, 31 Oct 2026.
+Yours Truly (5) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Electric Garden, Dublin on Sat, 31 Oct 2026.
 
 Yours Truly is a techno and house artist based in Ireland, with 11 gigs on soundcheck across Berlin, Dublin, Galway and London. Often billed alongside Havik, Shampain and Surka. Next up: Electric Garden, Dublin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Yours Truly is a techno and house artist based in Ireland, with 11 gigs on sound
 
 Havik, Shampain, Surka (1)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yourstruly-5/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yourstruly-5/)*

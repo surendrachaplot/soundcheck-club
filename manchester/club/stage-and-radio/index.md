@@ -1,14 +1,13 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 35 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Motion Studios Halloween Party" on Thu, 29 Oct 2026.
+Stage and Radio is a music venue in Manchester with 34 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Grve Movement / Stage & Radio" on Fri, 30 Oct 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 35 upcoming gigs, with line-ups including 4D, Alex Milo, Ally King and Amelia Leigh and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 34 upcoming gigs, with line-ups including 4D, Alex Milo, Ally King and Amelia Leigh and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Motion Studios Halloween Party |  |
 | Fri, 30 Oct 2026 | Grve Movement / Stage & Radio |  |
 | Fri, 30 Oct 2026 | Grve Movement MCR DEBUT |  |
 | Fri, 30 Oct 2026 | Howard's House x Subterranean Records: Halloween |  |
@@ -18,9 +17,10 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 35 upcoming
 | Fri, 6 Nov 2026 | SUA by PHAT Collective | INDITH |
 | Sat, 7 Nov 2026 | Silhouettes VI // Isabel Soto, Kkantra, Nestor, Loftik | Isabel Soto, Kkantra, Loftik, Nestor |
 | Fri, 13 Nov 2026 | Citrus City presents: Nora | Holba, Nora (UK), Orlanda |
+| Fri, 13 Nov 2026 | MSM Audio// ATTIC PARTY |  |
 
 ## Address
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

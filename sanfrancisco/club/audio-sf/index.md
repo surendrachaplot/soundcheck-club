@@ -1,6 +1,6 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Audio Halloween with Darude" on Fri, 30 Oct 2026.
+Audio SF is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Audio Halloween with Darude" on Fri, 30 Oct 2026.
 
 Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including ALMAS, Cristoph, Danny Krivit and David Harness and 2 more. See dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
@@ -23,4 +23,4 @@ Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 20 upco
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

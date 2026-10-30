@@ -1,0 +1,16 @@
+# Hoochie House: HOOCHIE ISLAND at El Rio
+
+Hoochie House: HOOCHIE ISLAND at El Rio on Sat 31 Oct, San Francisco/Oakland. 2 artists: Dj Nico and ECTO. Club and Ghetto Tech. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 31 Oct 2026 |
+| Venue | El Rio |
+| City | San Francisco/Oakland |
+
+## Line-up
+
+- Dj Nico
+- ECTO (3)
+
+*Source: [soundcheck](https://soundcheck.club/e/2538160-hoochie-house-hoochie-island-at-el-rio/)*

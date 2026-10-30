@@ -1,6 +1,6 @@
 # Caio T.
 
-Caio T. is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TRAUMA, Rio de Janeiro on Fri, 30 Oct 2026.
+Caio T. is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TRAUMA, Rio de Janeiro on Fri, 30 Oct 2026.
 
 Caio T. is a house and disco artist based in Brazil, with 29 gigs on soundcheck across Barcelona, Buenos Aires, Lisbon and Medellin and 3 more. Often billed alongside Gui Scott, Nascii and TYV. Next up: TRAUMA, Rio de Janeiro on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Caio T. is a house and disco artist based in Brazil, with 29 gigs on soundcheck 
 
 Gui Scott, Nascii, TYV
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiot/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiot/)*

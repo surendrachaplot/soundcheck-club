@@ -1,6 +1,6 @@
 # Dexter Lux
 
-Dexter Lux is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 13 Nov 2026.
+Dexter Lux is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 13 Nov 2026.
 
 Dexter Lux is a house and techno artist based in Portugal, with 77 gigs on soundcheck across Lisbon, Porto and Stockholm. Often billed alongside Inês Duarte, Varela and Ze Pedro Moura. Next up: Lux Fragil, Lisbon on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dexter Lux is a house and techno artist based in Portugal, with 77 gigs on sound
 
 Inês Duarte, Varela, Ze Pedro Moura
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexterlux/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexterlux/)*

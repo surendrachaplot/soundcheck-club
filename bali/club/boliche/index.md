@@ -1,6 +1,6 @@
 # Boliche
 
-Boliche is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "THE BLOODY CHAMBER" on Sat, 31 Oct 2026.
+Boliche is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "THE BLOODY CHAMBER" on Sat, 31 Oct 2026.
 
 Boliche is a music venue in Bali listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Boliche is a music venue in Bali listed on soundcheck. 1 upcoming gig. See dates
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | THE BLOODY CHAMBER |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/boliche/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/boliche/)*

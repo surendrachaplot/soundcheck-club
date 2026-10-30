@@ -1,6 +1,6 @@
 # Tajara
 
-Tajara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Amboss Rampe, Zurich on Sat, 7 Nov 2026.
+Tajara is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Amboss Rampe, Zurich on Sat, 7 Nov 2026.
 
 Tajara is a house and techno artist based in Switzerland, with 25 gigs on soundcheck across Dresden and Zurich. Often billed alongside Juzz, Sam Rovisan and Jacom (Adroit). Next up: Amboss Rampe, Zurich on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tajara is a house and techno artist based in Switzerland, with 25 gigs on soundc
 
 Juzz, Sam Rovisan, Jacom (Adroit)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tajara/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tajara/)*

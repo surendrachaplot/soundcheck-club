@@ -1,6 +1,6 @@
 # Noise Casino
 
-Noise Casino is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
+Noise Casino is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
 
 Noise Casino is a bass and techno artist based in Colombia, with 28 gigs on soundcheck across Berlin, Bogotá, Freiburg and Karlsruhe and 3 more. Often billed alongside Juana Valeria, SEPBTT and Trexeter. Next up: Void Hall, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Noise Casino is a bass and techno artist based in Colombia, with 28 gigs on soun
 
 Juana Valeria, SEPBTT, Trexeter
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisecasino/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisecasino/)*

@@ -1,6 +1,6 @@
 # Ssaliva
 
-Ssaliva is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kollektiv Kaorle, Vienna on Fri, 20 Nov 2026.
+Ssaliva is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kollektiv Kaorle, Vienna on Fri, 20 Nov 2026.
 
 Ssaliva is an experimental and ambient artist based in Belgium, with 28 gigs on soundcheck across Amsterdam, Berlin, Bologna and Brussels and 12 more. Often billed alongside Emma DJ, Otis (BE) and fetva. Next up: Kollektiv Kaorle, Vienna on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ssaliva is an experimental and ambient artist based in Belgium, with 28 gigs on 
 
 Emma DJ, Otis (BE), fetva
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssaliva/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssaliva/)*

@@ -1,6 +1,6 @@
 # 2NDRA
 
-2NDRA is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
+2NDRA is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fuchs2, Prague on Sat, 31 Oct 2026.
 
 2NDRA is a techno and acid artist based in Canada, with 67 gigs on soundcheck across Lisbon and Prague. Often billed alongside RiVid, Nøteleks and SJ Yellow. Next up: Fuchs2, Prague on Sat 31 Oct.
 
@@ -26,4 +26,4 @@
 
 RiVid, Nøteleks, SJ Yellow
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndra/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndra/)*

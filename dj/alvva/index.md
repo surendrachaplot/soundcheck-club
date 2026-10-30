@@ -1,6 +1,6 @@
 # Alvva
 
-Alvva is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 28 Nov 2026.
+Alvva is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 28 Nov 2026.
 
 Alvva is a garage and breakbeat artist based in Spain, with 69 gigs on soundcheck across Barcelona, Kyoto, Leeds and Lisbon and 6 more. Often billed alongside DJ2D2, Kanti and PethbUri. Next up: Razzmatazz, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Alvva is a garage and breakbeat artist based in Spain, with 69 gigs on soundchec
 
 DJ2D2, Kanti, PethbUri
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvva/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvva/)*

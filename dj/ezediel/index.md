@@ -1,6 +1,6 @@
 # EZEDIEL
 
-EZEDIEL is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Autodromo Enzo & Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+EZEDIEL is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo & Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 EZEDIEL is a techno and hardcore artist based in United States of America, with 7 gigs on soundcheck across Bologna and Milan. Often billed alongside Purple Mash, RÄV and ATTA__DJ. Next up: Autodromo Enzo & Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ EZEDIEL is a techno and hardcore artist based in United States of America, with 
 
 Purple Mash, RÄV, ATTA__DJ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezediel/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezediel/)*

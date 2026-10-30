@@ -1,6 +1,6 @@
 # Last Robots
 
-Last Robots is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Klub SPATiF, Warsaw on Fri, 30 Oct 2026.
+Last Robots is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Klub SPATiF, Warsaw on Fri, 30 Oct 2026.
 
 Last Robots is a house and tech house artist based in Poland, with 18 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Angelo Mike, Glasse and Pysh. Next up: Klub SPATiF, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Last Robots is a house and tech house artist based in Poland, with 18 gigs on so
 
 Angelo Mike, Glasse, Pysh
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lastrobots/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lastrobots/)*

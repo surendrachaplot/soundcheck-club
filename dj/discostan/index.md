@@ -1,14 +1,15 @@
 # discostan
 
-discostan is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at public records, New York City on Thu, 19 Nov 2026.
+discostan is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at public records, New York City on Thu, 19 Nov 2026.
 
-discostan is a club and house artist based in United States of America, with 13 gigs on soundcheck across Los Angeles, New York City, San Francisco/Oakland and Toronto and 1 more. Often billed alongside Lapgan, Sima&Sidu and Captain Planet. Next up: public records, New York City on Thu 19 Nov.
+discostan is a house and club artist based in United States of America, with 14 gigs on soundcheck across Los Angeles, New York City, San Francisco/Oakland and Toronto and 1 more. Often billed alongside Lapgan, Sima&Sidu and Captain Planet. Next up: public records, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | public records | New York City |
+| Fri, 20 Nov 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ discostan is a club and house artist based in United States of America, with 13 
 
 Lapgan, Sima&Sidu, Captain Planet
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discostan/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discostan/)*

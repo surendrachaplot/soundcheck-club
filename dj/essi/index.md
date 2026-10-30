@@ -1,6 +1,6 @@
 # essi
 
-essi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA -  LFO, Madrid on Sat, 21 Nov 2026.
+essi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA -  LFO, Madrid on Sat, 21 Nov 2026.
 
 essi is a techno and house artist based in Belgium, with 24 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 3 more. Often billed alongside AliA, seja and DJ Rino. Next up: TBA -  LFO, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ essi is a techno and house artist based in Belgium, with 24 gigs on soundcheck a
 
 AliA, seja (1), DJ Rino
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essi/)*

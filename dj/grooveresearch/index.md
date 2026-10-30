@@ -1,8 +1,8 @@
 # Groove Research
 
-Groove Research is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Dr. Dou Social Club, Barcelona on Sun, 1 Nov 2026.
+Groove Research is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Dr. Dou Social Club, Barcelona on Sun, 1 Nov 2026.
 
-Groove Research is a tech house and progressive house artist, with 42 gigs on soundcheck across Barcelona and Tallinn. Often billed alongside Andrea Love, RuxXandra and Abdul Raeva. Next up: Dr. Dou Social Club, Barcelona on Sun 1 Nov.
+Groove Research is a tech house and progressive house artist based in Italy, with 42 gigs on soundcheck across Barcelona and Tallinn. Often billed alongside Andrea Love, RuxXandra and Abdul Raeva. Next up: Dr. Dou Social Club, Barcelona on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Groove Research is a tech house and progressive house artist, with 42 gigs on so
 
 Andrea Love, RuxXandra, Abdul Raeva
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveresearch/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveresearch/)*

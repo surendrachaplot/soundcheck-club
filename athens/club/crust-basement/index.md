@@ -1,6 +1,6 @@
 # Crust Basement
 
-Crust Basement is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DJ Gus x Liou" on Fri, 30 Oct 2026.
+Crust Basement is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "DJ Gus x Liou" on Fri, 30 Oct 2026.
 
 Crust Basement is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including deepyadip, DJ GUS, Gaia and Liou. See dates, start times and who's playing. Protogenous 13, Athens, 10554, Greece.
 
@@ -15,4 +15,4 @@ Crust Basement is a music venue in Athens listed on soundcheck. 2 upcoming gigs,
 
 Protogenous 13, Athens, 10554, Greece, Athens
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/crust-basement/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/crust-basement/)*

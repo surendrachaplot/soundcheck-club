@@ -1,6 +1,6 @@
 # Víctor Güell
 
-Víctor Güell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Vita - Hotel & Rooftop, Malta on Fri, 30 Oct 2026.
+Víctor Güell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Vita - Hotel & Rooftop, Malta on Fri, 30 Oct 2026.
 
 Víctor Güell is a techno and house artist based in Spain, with 26 gigs on soundcheck across Malta. Often billed alongside Limón, Florian François and OBLX. Next up: Vita - Hotel & Rooftop, Malta on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Víctor Güell is a techno and house artist based in Spain, with 26 gigs on soun
 
 Limón, Florian François, OBLX
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/víctorguell/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/víctorguell/)*

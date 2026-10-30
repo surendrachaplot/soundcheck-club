@@ -1,6 +1,6 @@
 # Hotel Via
 
-Hotel Via is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Dayfall Glitterati" on Sat, 31 Oct 2026.
+Hotel Via is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Dayfall Glitterati" on Sat, 31 Oct 2026.
 
 Hotel Via is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including Juliet Mendoza, Le Youth and Marten Lou. See dates, start times and who's playing. 138 King St. San Francisco, CA 94107.
 
@@ -17,4 +17,4 @@ Hotel Via is a music venue in San Francisco/Oakland listed on soundcheck. 4 upco
 
 138 King St. San Francisco, CA 94107, San Francisco/Oakland
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*

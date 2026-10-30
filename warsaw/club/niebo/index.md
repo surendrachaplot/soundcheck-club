@@ -1,6 +1,6 @@
 # NIEBO
 
-NIEBO is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "NIEBO DE LOS MUERTOS" on Fri, 30 Oct 2026.
+NIEBO is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "NIEBO DE LOS MUERTOS" on Fri, 30 Oct 2026.
 
 NIEBO is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Nowy Świat 21, 00-001 Warszawa.
 
@@ -16,4 +16,4 @@ NIEBO is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs. See date
 
 Nowy Świat 21, 00-001 Warszawa, Warsaw
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*

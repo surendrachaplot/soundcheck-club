@@ -1,6 +1,6 @@
 # Nick León
 
-Nick León is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Bain, New York City on Sat, 31 Oct 2026.
+Nick León is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Bain, New York City on Sat, 31 Oct 2026.
 
 Nick León is a techno and club artist based in United States of America, with 223 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 62 more. Often billed alongside DJ Python, Bitter Babe and Jonny From Space. Next up: Le Bain, New York City on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Nick León is a techno and club artist based in United States of America, with 2
 
 DJ Python, Bitter Babe, Jonny From Space
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*

@@ -1,6 +1,6 @@
 # Mute.
 
-Mute. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at KALT, Strasbourg on Sat, 28 Nov 2026.
+Mute. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at KALT, Strasbourg on Sat, 28 Nov 2026.
 
 Mute. is a techno and electro artist based in France, with 21 gigs on soundcheck across Berlin, Madrid, Prague and Strasbourg and 1 more. Often billed alongside 1client, Dima Roas and FTFL. Next up: KALT, Strasbourg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mute. is a techno and electro artist based in France, with 21 gigs on soundcheck
 
 1client, Dima Roas, FTFL
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mute./)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mute./)*

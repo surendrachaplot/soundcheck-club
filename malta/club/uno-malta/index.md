@@ -1,6 +1,6 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "SAGRADO" on Sat, 21 Nov 2026.
+UNO MALTA is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "SAGRADO" on Sat, 21 Nov 2026.
 
 UNO MALTA is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including Daniel Blade. See dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
@@ -14,4 +14,4 @@ UNO MALTA is a music venue in Malta listed on soundcheck. 1 upcoming gig, with l
 
 Crafts Village, Ta''Qali, Attard ATD, 4000, Malta, Malta
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*

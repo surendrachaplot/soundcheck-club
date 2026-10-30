@@ -1,6 +1,6 @@
 # Jenny Cara
 
-Jenny Cara is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Apophis Club, Milan on Fri, 30 Oct 2026.
+Jenny Cara is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Apophis Club, Milan on Fri, 30 Oct 2026.
 
 Jenny Cara is a house and techno artist based in Switzerland, with 123 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Luka (CH), Alex Dallas and Bennet (DE). Next up: Apophis Club, Milan on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Jenny Cara is a house and techno artist based in Switzerland, with 123 gigs on s
 
 Luka (CH), Alex Dallas, Bennet (DE)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jennycara/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jennycara/)*

@@ -1,6 +1,6 @@
 # Javi Niño
 
-Javi Niño is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Vybe Ibiza, Ibiza on Sat, 14 Nov 2026.
+Javi Niño is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Vybe Ibiza, Ibiza on Sat, 14 Nov 2026.
 
 Javi Niño is an electronica and house artist based in Spain, with 15 gigs on soundcheck across Ibiza. Often billed alongside Luis del Barrio, Sidd (ES) and 8 Bit Society. Next up: Vybe Ibiza, Ibiza on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Javi Niño is an electronica and house artist based in Spain, with 15 gigs on so
 
 Luis del Barrio, Sidd (ES), 8 Bit Society
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javinino/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javinino/)*

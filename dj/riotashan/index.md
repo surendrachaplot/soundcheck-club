@@ -1,6 +1,6 @@
 # Rio Tashan
 
-Rio Tashan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at UNLOCKED, London on Fri, 6 Nov 2026.
+Rio Tashan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at UNLOCKED, London on Fri, 6 Nov 2026.
 
 Rio Tashan is a house and tech house artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 8 more. Often billed alongside Sam Divine, Eats Everything and Low Steppa. Next up: UNLOCKED, London on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Rio Tashan is a house and tech house artist based in United Kingdom, with 69 gig
 
 Sam Divine, Eats Everything, Low Steppa
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riotashan/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riotashan/)*

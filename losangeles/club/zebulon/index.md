@@ -1,6 +1,6 @@
 # Zebulon
 
-Zebulon is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Kulture Klub Blood Rave" on Fri, 30 Oct 2026.
+Zebulon is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Kulture Klub Blood Rave" on Fri, 30 Oct 2026.
 
 Zebulon is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 2478 Fletcher Drive, Los Angeles, CA 90039.
 
@@ -14,4 +14,4 @@ Zebulon is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. Se
 
 2478 Fletcher Drive, Los Angeles, CA 90039, Los Angeles
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/zebulon/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/zebulon/)*

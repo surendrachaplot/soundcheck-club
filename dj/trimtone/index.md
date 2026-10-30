@@ -1,6 +1,6 @@
 # Trimtone
 
-Trimtone is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hagglers Corner, Sheffield on Fri, 20 Nov 2026.
+Trimtone is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hagglers Corner, Sheffield on Fri, 20 Nov 2026.
 
 Trimtone is a house and club artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Chicago, Ibiza and Leeds and 6 more. Often billed alongside David Penn, Marshall Jefferson and Sam Divine. Next up: Hagglers Corner, Sheffield on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Trimtone is a house and club artist based in United Kingdom, with 24 gigs on sou
 
 David Penn, Marshall Jefferson, Sam Divine
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trimtone/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trimtone/)*

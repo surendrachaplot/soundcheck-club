@@ -1,6 +1,6 @@
 # Paola (1)
 
-Paola (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
+Paola (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
 
 Paola is a techno and tech house artist based in France, with 29 gigs on soundcheck across Barcelona, Berlin, Geneva and London and 3 more. Often billed alongside BAR (DE), abs8lute and CAMMMMM. Next up: Spook Club, Valencia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Paola is a techno and tech house artist based in France, with 29 gigs on soundch
 
 BAR (DE), abs8lute, CAMMMMM
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paola-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paola-1/)*

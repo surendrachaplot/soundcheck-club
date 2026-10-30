@@ -1,6 +1,6 @@
 # Kenny Blacksmith
 
-Kenny Blacksmith is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at radial, London on Sat, 5 Dec 2026.
+Kenny Blacksmith is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at radial, London on Sat, 5 Dec 2026.
 
 Kenny Blacksmith is a house and balearic artist based in United Kingdom, with 14 gigs on soundcheck across Aberdeen, Berlin, Ibiza and London and 1 more. Often billed alongside Baby Rollén, Simon Morell and Amy Dabbs. Next up: radial, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Kenny Blacksmith is a house and balearic artist based in United Kingdom, with 14
 
 Baby Rollén, Simon Morell, Amy Dabbs
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyblacksmith/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyblacksmith/)*

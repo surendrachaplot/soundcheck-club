@@ -1,6 +1,6 @@
 # Plein Publiek
 
-Plein Publiek is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "SUMMER '16" on Fri, 27 Nov 2026.
+Plein Publiek is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "SUMMER '16" on Fri, 27 Nov 2026.
 
 Plein Publiek is a music venue in Antwerp listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Zonnestroomstraat 2A, 2020 Antwerpen, België.
 
@@ -14,4 +14,4 @@ Plein Publiek is a music venue in Antwerp listed on soundcheck. 1 upcoming gig. 
 
 Zonnestroomstraat 2A, 2020 Antwerpen, België, Antwerp
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/plein-publiek/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/plein-publiek/)*

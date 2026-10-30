@@ -1,6 +1,6 @@
 # Agonis
 
-Agonis is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kauz, Zurich on Fri, 6 Nov 2026.
+Agonis is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kauz, Zurich on Fri, 6 Nov 2026.
 
 Agonis is a techno and experimental artist based in Switzerland, with 80 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Garçon, Timnah and Konduku. Next up: Kauz, Zurich on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Agonis is a techno and experimental artist based in Switzerland, with 80 gigs on
 
 Garçon, Timnah, Konduku
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*

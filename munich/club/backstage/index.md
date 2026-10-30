@@ -1,6 +1,6 @@
 # Backstage
 
-Backstage is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Raveyard Resurrected" on Fri, 20 Nov 2026.
+Backstage is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Raveyard Resurrected" on Fri, 20 Nov 2026.
 
 Backstage is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including Sina Bathaie. See dates, start times and who's playing. Reitknechtstr. 6, 80639 Munich, Germany.
 
@@ -15,4 +15,4 @@ Backstage is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with
 
 Reitknechtstr. 6, 80639 Munich, Germany, Munich
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/backstage/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/backstage/)*

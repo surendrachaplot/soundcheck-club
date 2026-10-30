@@ -1,6 +1,6 @@
 # Danté
 
-Danté is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
+Danté is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
 
 Danté is a techno and house artist based in Poland, with 28 gigs on soundcheck across Amsterdam, Bergen, Berlin and Budapest and 10 more. Often billed alongside Sept, CRANZ and Phil Berg. Next up: ://about blank, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Danté is a techno and house artist based in Poland, with 28 gigs on soundcheck 
 
 Sept, CRANZ, Phil Berg
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-pl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-pl/)*

@@ -1,6 +1,6 @@
 # Reactor Shanghai
 
-Reactor Shanghai is a music venue in Shanghai with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Antigen Pres. Evian Christ VS Errorsmith" on Fri, 30 Oct 2026.
+Reactor Shanghai is a music venue in Shanghai with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Antigen Pres. Evian Christ VS Errorsmith" on Fri, 30 Oct 2026.
 
 Reactor Shanghai is a music venue in Shanghai listed on soundcheck. 7 upcoming gigs, with line-ups including Afra, Akua, CEM and Daniel Power and 2 more. See dates, start times and who's playing. D-L1-03, B1, C·PARK, No. 638 Zhaohua Road, Changning District, Shanghai.
 
@@ -20,4 +20,4 @@ Reactor Shanghai is a music venue in Shanghai listed on soundcheck. 7 upcoming g
 
 D-L1-03, B1, C·PARK, No. 638 Zhaohua Road, Changning District, Shanghai, Shanghai
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/reactor-shanghai/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/reactor-shanghai/)*

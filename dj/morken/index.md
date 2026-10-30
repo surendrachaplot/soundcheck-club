@@ -1,6 +1,6 @@
 # Morken
 
-Morken is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at B side Athens, Athens on Fri, 6 Nov 2026.
+Morken is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at B side Athens, Athens on Fri, 6 Nov 2026.
 
 Morken is a techno and electro artist, with 10 gigs on soundcheck across Athens. Often billed alongside Morphs, Romphea and Extase Urbaine. Next up: B side Athens, Athens on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Morken is a techno and electro artist, with 10 gigs on soundcheck across Athens.
 
 Morphs, Romphea, Extase Urbaine
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morken/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morken/)*

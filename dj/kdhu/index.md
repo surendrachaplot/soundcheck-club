@@ -1,6 +1,6 @@
 # kD (HU)
 
-kD (HU) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Textilgyár, Budapest on Fri, 27 Nov 2026.
+kD (HU) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Textilgyár, Budapest on Fri, 27 Nov 2026.
 
 kD (HU) is a house and tech house artist, with 23 gigs on soundcheck across Budapest and Prague. Often billed alongside Solus, Artic Yoyo and Sam Gittis. Next up: Textilgyár, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ kD (HU) is a house and tech house artist, with 23 gigs on soundcheck across Buda
 
 Solus, Artic Yoyo, Sam Gittis
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kdhu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kdhu/)*

@@ -1,6 +1,6 @@
 # Amelia Holt
 
-Amelia Holt is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Blipsy Bar, Los Angeles on Fri, 30 Oct 2026.
+Amelia Holt is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Blipsy Bar, Los Angeles on Fri, 30 Oct 2026.
 
 Amelia Holt is a house and techno artist based in Mexico, with 221 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: Blipsy Bar, Los Angeles on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ Amelia Holt is a house and techno artist based in Mexico, with 221 gigs on sound
 
 Second Contact, 98dots, Cole Evelev
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*

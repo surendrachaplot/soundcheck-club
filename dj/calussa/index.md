@@ -1,6 +1,6 @@
 # Calussa
 
-Calussa is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 30 Oct 2026.
+Calussa is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 30 Oct 2026.
 
 Calussa is a house and afro house artist based in United States of America, with 74 gigs on soundcheck across Austin, Barcelona, Bogotá and Buenos Aires and 22 more. Often billed alongside Andrea Oliva, Max Styler and ARODES. Next up: NIX Barcelona, Barcelona on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Calussa is a house and afro house artist based in United States of America, with
 
 Andrea Oliva, Max Styler, ARODES
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*

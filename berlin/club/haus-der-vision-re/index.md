@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "STRAUSWERK: Contemporary Georgian Culture in Berlin" on Sat, 7 Nov 2026.
+Haus der Visionäre is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "STRAUSWERK: Contemporary Georgian Culture in Berlin" on Sat, 7 Nov 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including future.666, Gudrun Gut, Kabeaushé and KORDZ and 2 more. See dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -17,4 +17,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 4 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

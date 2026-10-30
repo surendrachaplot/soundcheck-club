@@ -1,6 +1,6 @@
 # DungeonMaster
 
-DungeonMaster is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Steel Yard, London on Sat, 23 Jan 2027.
+DungeonMaster is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Steel Yard, London on Sat, 23 Jan 2027.
 
 DungeonMaster is a techno and ebm artist based in Italy, with 18 gigs on soundcheck across London. Often billed alongside MUSICKLUNATIC, Arrosa and Leviminks. Next up: The Steel Yard, London on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ DungeonMaster is a techno and ebm artist based in Italy, with 18 gigs on soundch
 
 MUSICKLUNATIC, Arrosa, Leviminks
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmaster/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmaster/)*

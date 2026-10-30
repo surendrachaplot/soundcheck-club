@@ -1,6 +1,6 @@
 # Kid Kenobi
 
-Kid Kenobi is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at In The Hanging Garden, Hobart on Sat, 14 Nov 2026.
+Kid Kenobi is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at In The Hanging Garden, Hobart on Sat, 14 Nov 2026.
 
 Kid Kenobi is a breakbeat and house artist based in Australia, with 11 gigs on soundcheck across Hobart, Melbourne, Perth and Sydney. Often billed alongside Krafty Kuts, Plump DJs and Mark Dynamix. Next up: In The Hanging Garden, Hobart on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Kid Kenobi is a breakbeat and house artist based in Australia, with 11 gigs on s
 
 Krafty Kuts, Plump DJs, Mark Dynamix
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidkenobi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidkenobi/)*

@@ -1,6 +1,6 @@
 # Lady M
 
-Lady M is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mødular., Cape Town on Sat, 31 Oct 2026.
+Lady M is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mødular., Cape Town on Sat, 31 Oct 2026.
 
 Lady M is a techno and deep house artist, with 10 gigs on soundcheck across Cape Town and Lisbon. Often billed alongside Kyle Russouw, Irshaad Samaai and Daryn Steytler. Next up: Mødular., Cape Town on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lady M is a techno and deep house artist, with 10 gigs on soundcheck across Cape
 
 Kyle Russouw, Irshaad Samaai, Daryn Steytler
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladym/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladym/)*

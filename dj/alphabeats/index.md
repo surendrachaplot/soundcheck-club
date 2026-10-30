@@ -1,6 +1,6 @@
 # Alpha Beats
 
-Alpha Beats is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Indiana Club, Bogotá on Fri, 30 Oct 2026.
+Alpha Beats is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Indiana Club, Bogotá on Fri, 30 Oct 2026.
 
 Alpha Beats is a house and electronica artist, with 8 gigs on soundcheck across Bogotá. Often billed alongside Cales & Mr Hyde, DJ MELEJ and Chris Durán. Next up: TBA - Indiana Club, Bogotá on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Alpha Beats is a house and electronica artist, with 8 gigs on soundcheck across 
 
 Cales & Mr Hyde, DJ MELEJ, Chris Durán
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphabeats/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphabeats/)*

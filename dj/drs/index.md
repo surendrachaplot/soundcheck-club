@@ -1,6 +1,6 @@
 # DRS
 
-DRS is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Volks, Brighton on Sat, 31 Oct 2026.
+DRS is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Volks, Brighton on Sat, 31 Oct 2026.
 
 DRS is a drum & bass and jungle artist based in United Kingdom, with 98 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 34 more. Often billed alongside LSB, dogger and LSB (UK). Next up: Volks, Brighton on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ DRS is a drum & bass and jungle artist based in United Kingdom, with 98 gigs on 
 
 LSB, dogger, LSB (UK)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drs/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drs/)*

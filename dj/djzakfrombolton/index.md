@@ -1,6 +1,6 @@
 # DJ Zak from Bolton
 
-DJ Zak from Bolton is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Paradise Palms, Edinburgh on Sat, 31 Oct 2026.
+DJ Zak from Bolton is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paradise Palms, Edinburgh on Sat, 31 Oct 2026.
 
 DJ Zak from Bolton is a disco and house artist based in United Kingdom, with 37 gigs on soundcheck across Aberdeen and Edinburgh. Often billed alongside Trendy Wendy, Buckfast Barbie and Sea Urchin. Next up: Paradise Palms, Edinburgh on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Zak from Bolton is a disco and house artist based in United Kingdom, with 37 
 
 Trendy Wendy, Buckfast Barbie, Sea Urchin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djzakfrombolton/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djzakfrombolton/)*

@@ -1,6 +1,6 @@
 # V
 
-V is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at gallery 1986, Vilnius on Fri, 18 Dec 2026.
+V is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at gallery 1986, Vilnius on Fri, 18 Dec 2026.
 
 V is a house and italo disco artist based in Turkey, with 26 gigs on soundcheck across Berlin, Dortmund / Essen, Glasgow and Liverpool and 4 more. Often billed alongside Clicklounge, Gemayel and Roe Deers. Next up: gallery 1986, Vilnius on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ V is a house and italo disco artist based in Turkey, with 26 gigs on soundcheck 
 
 Clicklounge, Gemayel, Roe Deers
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vildan.gunduz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vildan.gunduz/)*

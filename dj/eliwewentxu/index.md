@@ -1,6 +1,6 @@
 # Eli Wewentxu
 
-Eli Wewentxu is a Experimental and Ambient artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Eli Wewentxu is a Experimental and Ambient artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Eli Wewentxu is an experimental and ambient artist based in Chile, with 10 gigs on soundcheck across Berlin, Brussels, Buenos Aires and Mexico City and 2 more. Often billed alongside Aba Shanti-I, Alex Zhang Hungtai and Arooj Aftab. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -15,6 +15,7 @@ Eli Wewentxu is an experimental and ambient artist based in Chile, with 10 gigs 
 
 ## Recently played
 
+- Lingotto Fiere, Turin · Thu, 29 Oct 2026
 - TBA, Mexico City · Fri, 21 Aug 2026
 - Deseo BS AS, Buenos Aires · Tue, 19 Aug 2025
 - Deseo BS AS, Buenos Aires · Mon, 18 Aug 2025
@@ -26,4 +27,4 @@ Eli Wewentxu is an experimental and ambient artist based in Chile, with 10 gigs 
 
 Aba Shanti-I, Alex Zhang Hungtai, Arooj Aftab
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliwewentxu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliwewentxu/)*

@@ -1,6 +1,6 @@
 # Dada
 
-Dada is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "NIGHT OF THE LIVING SOUND" on Sat, 31 Oct 2026.
+Dada is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "NIGHT OF THE LIVING SOUND" on Sat, 31 Oct 2026.
 
 Dada is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Pyron and Tim O'Keefe. See dates, start times and who's playing. 6047 Myrtle Avenue, Ridgewood NY 11385.
 
@@ -14,4 +14,4 @@ Dada is a music venue in New York City listed on soundcheck. 1 upcoming gig, wit
 
 6047 Myrtle Avenue, Ridgewood NY 11385, New York City
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dada/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dada/)*

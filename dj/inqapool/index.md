@@ -1,6 +1,6 @@
 # Inqapool
 
-Inqapool is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at 神田明神文化交流館, Tokyo on Sat, 12 Dec 2026.
+Inqapool is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at 神田明神文化交流館, Tokyo on Sat, 12 Dec 2026.
 
 Inqapool is an experimental and techno artist based in Japan, with 17 gigs on soundcheck across Tokyo. Often billed alongside Itti, Yuichiro Kotani and Atsushi Asada. Next up: 神田明神文化交流館, Tokyo on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Inqapool is an experimental and techno artist based in Japan, with 17 gigs on so
 
 Itti, Yuichiro Kotani, Atsushi Asada
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inqapool/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inqapool/)*

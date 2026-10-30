@@ -1,6 +1,6 @@
 # Diass
 
-Diass is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 11 Dec 2026.
+Diass is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 11 Dec 2026.
 
 Diass is a house and afro house artist based in Bulgaria, with 10 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ibiza and 1 more. Often billed alongside DiMO (BG), Blathoven and Dj Diass. Next up: Inter Expo Centre, Sofia on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Diass is a house and afro house artist based in Bulgaria, with 10 gigs on soundc
 
 DiMO (BG), Blathoven, Dj Diass
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*

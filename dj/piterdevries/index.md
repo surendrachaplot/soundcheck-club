@@ -1,6 +1,6 @@
 # Piter De Vries
 
-Piter De Vries is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at A Seis Manos, Bogotá on Sat, 7 Nov 2026.
+Piter De Vries is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at A Seis Manos, Bogotá on Sat, 7 Nov 2026.
 
 Piter De Vries is a techno and minimal artist, with 62 gigs on soundcheck across Bogotá. Often billed alongside Antonio C, Unspoken and DJ MELEJ. Next up: A Seis Manos, Bogotá on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Piter De Vries is a techno and minimal artist, with 62 gigs on soundcheck across
 
 Antonio C, Unspoken, DJ MELEJ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piterdevries/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piterdevries/)*

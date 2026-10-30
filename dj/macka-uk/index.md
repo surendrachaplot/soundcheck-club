@@ -1,6 +1,6 @@
 # Macka
 
-Macka is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 31 Oct 2026.
+Macka is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 31 Oct 2026.
 
 Macka is a house and disco artist based in United Kingdom, with 55 gigs on soundcheck across Budapest, Edinburgh, Glasgow and London and 1 more. Often billed alongside Lowree, Josh Buchanan and Jude Natural. Next up: Cabaret Voltaire, Edinburgh on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Macka is a house and disco artist based in United Kingdom, with 55 gigs on sound
 
 Lowree, Josh Buchanan, Jude Natural
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macka-uk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macka-uk/)*

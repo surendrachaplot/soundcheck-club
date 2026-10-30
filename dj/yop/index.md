@@ -1,6 +1,6 @@
 # Yòp
 
-Yòp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Doka, Amsterdam on Sat, 14 Nov 2026.
+Yòp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Doka, Amsterdam on Sat, 14 Nov 2026.
 
 Yòp is a house and techno artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Berlin, London and Tbilisi and 1 more. Often billed alongside Amaliah, Tsepo and Jaimy. Next up: Doka, Amsterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yòp is a house and techno artist based in Netherlands, with 38 gigs on soundche
 
 Amaliah, Tsepo, Jaimy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yop/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yop/)*

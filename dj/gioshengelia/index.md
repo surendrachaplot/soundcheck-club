@@ -1,6 +1,6 @@
 # Gio Shengelia
 
-Gio Shengelia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 30 Oct 2026.
+Gio Shengelia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 30 Oct 2026.
 
 Gio Shengelia is a house and techno artist based in Georgia, with 174 gigs on soundcheck across Berlin, Dubai, Los Angeles and New York City and 3 more. Often billed alongside Sevda, SUMO and Tomma. Next up: Mtkvarze, Tbilisi on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Gio Shengelia is a house and techno artist based in Georgia, with 174 gigs on so
 
 Sevda, SUMO, Tomma
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioshengelia/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioshengelia/)*

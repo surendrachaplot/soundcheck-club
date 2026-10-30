@@ -1,6 +1,6 @@
 # CMD+JAZMINE
 
-CMD+JAZMINE is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Selva NYC, New York City on Tue, 3 Nov 2026.
+CMD+JAZMINE is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Selva NYC, New York City on Tue, 3 Nov 2026.
 
 CMD+JAZMINE is a club and techno artist based in United States of America, with 66 gigs on soundcheck across New York City. Often billed alongside Petal, DJ girlcrush and actuator. Next up: Selva NYC, New York City on Tue 3 Nov.
 
@@ -28,4 +28,4 @@ CMD+JAZMINE is a club and techno artist based in United States of America, with 
 
 Petal, DJ girlcrush, actuator
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdjazmine/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdjazmine/)*

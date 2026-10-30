@@ -1,6 +1,6 @@
 # QUINCE (2)
 
-QUINCE (2) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Laboratorio Octogon, Madrid on Sat, 7 Nov 2026.
+QUINCE (2) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Laboratorio Octogon, Madrid on Sat, 7 Nov 2026.
 
 QUINCE is a trance and techno artist based in Spain, with 24 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside H1pnos1s, NARCX and YËDM. Next up: Laboratorio Octogon, Madrid on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ QUINCE is a trance and techno artist based in Spain, with 24 gigs on soundcheck 
 
 H1pnos1s, NARCX, YËDM
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quince-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quince-2/)*

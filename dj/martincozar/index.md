@@ -1,6 +1,6 @@
 # Martin Cozar
 
-Martin Cozar is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bikini Club, Barcelona on Sat, 31 Oct 2026.
+Martin Cozar is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bikini Club, Barcelona on Sat, 31 Oct 2026.
 
 Martin Cozar is a progressive house and house artist based in Argentina, with 73 gigs on soundcheck across Barcelona, Berlin and Miami. Often billed alongside Amadori, Gespona and Marvio. Next up: Bikini Club, Barcelona on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Martin Cozar is a progressive house and house artist based in Argentina, with 73
 
 Amadori, Gespona, Marvio
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martincozar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martincozar/)*

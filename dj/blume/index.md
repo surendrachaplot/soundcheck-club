@@ -1,6 +1,6 @@
 # BLUME
 
-BLUME is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Arca, Milan on Fri, 20 Nov 2026.
+BLUME is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Arca, Milan on Fri, 20 Nov 2026.
 
 BLUME is a techno and ambient artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Basel, Berlin and Dublin and 8 more. Often billed alongside Sa Pa, Andriy K. and King Softy. Next up: Arca, Milan on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ BLUME is a techno and ambient artist based in Germany, with 59 gigs on soundchec
 
 Sa Pa, Andriy K., King Softy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blume/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blume/)*

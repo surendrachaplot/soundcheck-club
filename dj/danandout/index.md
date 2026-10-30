@@ -1,6 +1,6 @@
 # Danandout
 
-Danandout is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at renae, Manchester on Sat, 31 Oct 2026.
+Danandout is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at renae, Manchester on Sat, 31 Oct 2026.
 
 Danandout is a house and disco artist based in United Kingdom, with 11 gigs on soundcheck across Brighton, London and Manchester. Often billed alongside Marley Reid, Joseph Tunde and Bifa and The Juice. Next up: renae, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Danandout is a house and disco artist based in United Kingdom, with 11 gigs on s
 
 Marley Reid, Joseph Tunde, Bifa and The Juice
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danandout/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danandout/)*

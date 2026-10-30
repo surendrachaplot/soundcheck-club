@@ -1,6 +1,6 @@
 # Liberty Hall
 
-Liberty Hall is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Gilles Peterson - Liberty Hall COURTS - SYD" on Sun, 15 Nov 2026.
+Liberty Hall is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Gilles Peterson - Liberty Hall COURTS - SYD" on Sun, 15 Nov 2026.
 
 Liberty Hall is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including Bria, Caucasian Opportunities, Gilles Peterson and Jane Decks and 2 more. See dates, start times and who's playing. Entertainment Quarter, Building 220, The, Lang Rd, Moore Park NSW 2021.
 
@@ -21,4 +21,4 @@ Liberty Hall is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, w
 
 Entertainment Quarter, Building 220, The, Lang Rd, Moore Park NSW 2021, Sydney
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/liberty-hall/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/liberty-hall/)*

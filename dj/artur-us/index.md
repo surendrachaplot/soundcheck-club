@@ -1,6 +1,6 @@
 # Artur (US)
 
-Artur (US) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Outdoor Location - DTLA , Los Angeles on Sun, 1 Nov 2026.
+Artur (US) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Outdoor Location - DTLA , Los Angeles on Sun, 1 Nov 2026.
 
 Artur (US) is a house and minimal artist based in United States of America, with 41 gigs on soundcheck across Hamburg, Los Angeles, San Diego and San Francisco/Oakland and 2 more. Often billed alongside Enzo Muro, Ray Kash and Kana Hishiya. Next up: TBA - Outdoor Location - DTLA , Los Angeles on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Artur (US) is a house and minimal artist based in United States of America, with
 
 Enzo Muro, Ray Kash, Kana Hishiya
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artur-us/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artur-us/)*

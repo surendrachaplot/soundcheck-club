@@ -1,6 +1,6 @@
 # Tejavu
 
-Tejavu is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Solace, Melbourne on Fri, 30 Oct 2026.
+Tejavu is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Solace, Melbourne on Fri, 30 Oct 2026.
 
 Tejavu is a techno and dub techno artist based in Australia, with 10 gigs on soundcheck across Melbourne. Often billed alongside Aidan Rudd, Answer Code Request and Ben Kennedy. Next up: Solace, Melbourne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Tejavu is a techno and dub techno artist based in Australia, with 10 gigs on sou
 
 Aidan Rudd, Answer Code Request, Ben Kennedy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tejavu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tejavu/)*

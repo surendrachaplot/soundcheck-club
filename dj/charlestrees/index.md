@@ -1,6 +1,6 @@
 # Charles Trees
 
-Charles Trees is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Strays, Detroit on Fri, 30 Oct 2026.
+Charles Trees is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Strays, Detroit on Fri, 30 Oct 2026.
 
 Charles Trees is a house and techno artist based in United States of America, with 191 gigs on soundcheck across Detroit, New York City and Seattle. Often billed alongside Kenjiro, Shigeto and Ryan Spencer. Next up: The Strays, Detroit on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Charles Trees is a house and techno artist based in United States of America, wi
 
 Kenjiro, Shigeto, Ryan Spencer
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlestrees/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlestrees/)*

@@ -1,6 +1,6 @@
 # MiiSCHA
 
-MiiSCHA is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Georgia Bar, Berlin on Sat, 7 Nov 2026.
+MiiSCHA is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Georgia Bar, Berlin on Sat, 7 Nov 2026.
 
 MiiSCHA is an electro and tech house artist, with 25 gigs on soundcheck across Berlin, Ibiza, Mallorca and Paris. Often billed alongside Guiddo, Exterminador and DAZA. Next up: Georgia Bar, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MiiSCHA is an electro and tech house artist, with 25 gigs on soundcheck across B
 
 Guiddo, Exterminador, DAZA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miischa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miischa/)*

@@ -1,6 +1,6 @@
 # FINISHHER
 
-FINISHHER is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
+FINISHHER is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 FINISHHER is a club and techno artist based in United States of America, with 52 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Tom Marsi, Bored Lord and Del. Next up: El Rio, San Francisco/Oakland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ FINISHHER is a club and techno artist based in United States of America, with 52
 
 Tom Marsi, Bored Lord, Del (4)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finishher/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finishher/)*

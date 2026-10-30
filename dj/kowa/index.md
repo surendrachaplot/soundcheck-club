@@ -1,6 +1,6 @@
 # Kowa
 
-Kowa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Livestream, Krakow on Fri, 30 Oct 2026.
+Kowa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Livestream, Krakow on Fri, 30 Oct 2026.
 
 Kowa is a techno and house artist based in Poland, with 49 gigs on soundcheck across Krakow, Poznan, Rome and Sydney. Often billed alongside not so pro, Aetha and A.C.. Next up: TBA - Livestream, Krakow on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kowa is a techno and house artist based in Poland, with 49 gigs on soundcheck ac
 
 not so pro, Aetha, A.C.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kowa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kowa/)*

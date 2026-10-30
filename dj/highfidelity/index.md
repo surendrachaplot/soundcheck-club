@@ -1,6 +1,6 @@
 # High Fidelity
 
-High Fidelity is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Curveball, Dublin on Sat, 31 Oct 2026.
+High Fidelity is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Curveball, Dublin on Sat, 31 Oct 2026.
 
 High Fidelity is a techno and electro artist based in Ireland, with 31 gigs on soundcheck across Amsterdam, Berlin, Dublin and Mexico City and 1 more. Often billed alongside Surka, DIEBYVEG and Derv. Next up: Curveball, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ High Fidelity is a techno and electro artist based in Ireland, with 31 gigs on s
 
 Surka (1), DIEBYVEG, Derv
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highfidelity/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highfidelity/)*

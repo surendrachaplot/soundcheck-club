@@ -1,6 +1,6 @@
 # theoretic
 
-theoretic is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 6 Nov 2026.
+theoretic is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 6 Nov 2026.
 
 theoretic is a house and deep house artist based in United States of America, with 69 gigs on soundcheck across Copenhagen, Hamburg, London and New York City and 2 more. Often billed alongside Niyah West, PlayPlay and VARSHA. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ theoretic is a house and deep house artist based in United States of America, wi
 
 Niyah West, PlayPlay, VARSHA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoretic/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoretic/)*

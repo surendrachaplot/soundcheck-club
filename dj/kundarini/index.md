@@ -1,6 +1,6 @@
 # Kundarini
 
-Kundarini is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Blindspot*, Bucharest on Fri, 20 Nov 2026.
+Kundarini is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Blindspot*, Bucharest on Fri, 20 Nov 2026.
 
 Kundarini is a dubstep and drum & bass artist based in Romania, with 8 gigs on soundcheck across Berlin, Bucharest and London. Often billed alongside Breakfake, Channel One Sound and Kahn. Next up: Blindspot*, Bucharest on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Kundarini is a dubstep and drum & bass artist based in Romania, with 8 gigs on s
 
 Breakfake, Channel One Sound, Kahn
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kundarini/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kundarini/)*

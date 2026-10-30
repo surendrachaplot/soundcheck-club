@@ -1,6 +1,6 @@
 # Muffy
 
-Muffy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 31 Oct 2026.
+Muffy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 31 Oct 2026.
 
 Muffy is a house and tech house artist based in United States of America, with 31 gigs on soundcheck across Chicago. Often billed alongside Dunes of Dawn, Moorhaus and INPHINITY. Next up: Smoke & Mirrors, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Muffy is a house and tech house artist based in United States of America, with 3
 
 Dunes of Dawn, Moorhaus, INPHINITY
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muffy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muffy/)*

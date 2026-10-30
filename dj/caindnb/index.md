@@ -1,6 +1,6 @@
 # CainDNB
 
-CainDNB is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Void Club, Berlin on Fri, 20 Nov 2026.
+CainDNB is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Void Club, Berlin on Fri, 20 Nov 2026.
 
 CainDNB is a drum & bass and techno artist based in Germany, with 24 gigs on soundcheck across Berlin. Often billed alongside Upzet, Anton Quasi and Aynaet. Next up: Void Club, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ CainDNB is a drum & bass and techno artist based in Germany, with 24 gigs on sou
 
 Upzet, Anton Quasi, Aynaet
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caindnb/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caindnb/)*

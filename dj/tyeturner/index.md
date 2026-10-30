@@ -1,6 +1,6 @@
 # Tye Turner
 
-Tye Turner is a Baile Funk and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Concord Music Hall, Chicago on Sat, 7 Nov 2026.
+Tye Turner is a Baile Funk and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Concord Music Hall, Chicago on Sat, 7 Nov 2026.
 
 Tye Turner is a baile funk and hip-hop artist based in Australia, with 16 gigs on soundcheck across Austin, Boston, Bristol and Chicago and 11 more. Often billed alongside Baby J, LARISHKA (UK) and Chi Min. Next up: Concord Music Hall, Chicago on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tye Turner is a baile funk and hip-hop artist based in Australia, with 16 gigs o
 
 Baby J (2), LARISHKA (UK), Chi Min
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyeturner/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyeturner/)*

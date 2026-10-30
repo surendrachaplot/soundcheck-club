@@ -1,6 +1,6 @@
 # Benelux BAR
 
-Benelux BAR is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "HAZY DAYS" on Sun, 6 Dec 2026.
+Benelux BAR is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "HAZY DAYS" on Sun, 6 Dec 2026.
 
 Benelux BAR is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Amandla, Aron Friedman and Galen. See dates, start times and who's playing. Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Benelux BAR is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, 
 
 Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/benelux-bar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/benelux-bar/)*

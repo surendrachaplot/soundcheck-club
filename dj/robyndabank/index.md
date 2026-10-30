@@ -1,6 +1,6 @@
 # Robyn DaBank
 
-Robyn DaBank is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Bain, New York City on Fri, 30 Oct 2026.
+Robyn DaBank is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Bain, New York City on Fri, 30 Oct 2026.
 
 Robyn DaBank is a techno and club artist based in United States of America, with 37 gigs on soundcheck across Berlin, New York City and Washington DC. Often billed alongside Gagbert, Malcolm XL and Xana 101. Next up: Le Bain, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Robyn DaBank is a techno and club artist based in United States of America, with
 
 Gagbert, Malcolm XL, Xana 101
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robyndabank/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robyndabank/)*

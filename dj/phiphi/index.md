@@ -1,6 +1,6 @@
 # Phi Phi
 
-Phi Phi is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Charlatan, Ghent on Sat, 28 Nov 2026.
+Phi Phi is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Charlatan, Ghent on Sat, 28 Nov 2026.
 
 Phi Phi is a techno and acid artist based in Belgium, with 14 gigs on soundcheck across Amsterdam, Brussels and Ghent. Often billed alongside Red D, Alexander Koning and Cosmo. Next up: Charlatan, Ghent on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Phi Phi is a techno and acid artist based in Belgium, with 14 gigs on soundcheck
 
 Red D, Alexander Koning, Cosmo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phiphi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phiphi/)*

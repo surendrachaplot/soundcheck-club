@@ -1,6 +1,6 @@
 # groovyjuri
 
-groovyjuri is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Paloma, Berlin on Sun, 1 Nov 2026.
+groovyjuri is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Paloma, Berlin on Sun, 1 Nov 2026.
 
 groovyjuri is a house and techno artist based in Germany, with 37 gigs on soundcheck across Berlin, Lausanne and Munich. Often billed alongside Almost Famous, Christa K and Smau. Next up: Paloma, Berlin on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ groovyjuri is a house and techno artist based in Germany, with 37 gigs on soundc
 
 Almost Famous, Christa K, Smau
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovyjuri/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groovyjuri/)*

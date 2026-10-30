@@ -1,6 +1,6 @@
 # NYE: General Levy at Wigwam
 
-NYE: General Levy at Wigwam on Thu 31 Dec, Dublin. 1 artist: General Levy. See the line-up on soundcheck.
+NYE: General Levy at Wigwam on Thu 31 Dec, Dublin. 1 artist: General Levy. Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

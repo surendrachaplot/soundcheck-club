@@ -1,6 +1,6 @@
 # Deepa
 
-Deepa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
+Deepa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
 Deepa is a house and techno artist based in Australia, with 121 gigs on soundcheck across Berlin, Brisbane, London and Melbourne and 1 more. Often billed alongside Ciara, Rakish and Baschoe. Next up: TBA, Sydney on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Deepa is a house and techno artist based in Australia, with 121 gigs on soundche
 
 Ciara, Rakish, Baschoe
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*

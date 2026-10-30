@@ -1,6 +1,6 @@
 # 09h30-05h30
 
-09h30-05h30 is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "club" on Sat, 7 Nov 2026.
+09h30-05h30 is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "club" on Sat, 7 Nov 2026.
 
 09h30-05h30 is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, with line-ups including Anna Gray, Conor Thomas, Emily Jeanne and Rhyw and 1 more. See dates, start times and who's playing. Grote Pieter Potstraat 12, 2000 Antwerp, Belgium.
 
@@ -15,4 +15,4 @@
 
 Grote Pieter Potstraat 12, 2000 Antwerp, Belgium, Antwerp
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/09h30-05h30/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/09h30-05h30/)*

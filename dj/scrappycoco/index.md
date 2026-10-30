@@ -1,6 +1,6 @@
 # Scrappy Coco
 
-Scrappy Coco is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 6 Nov 2026.
+Scrappy Coco is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 6 Nov 2026.
 
 Scrappy Coco is a trance and techno artist, with 58 gigs on soundcheck across Leipzig and Mexico City. Often billed alongside Richie Rollin, Gigi Spears and VLUNA. Next up: Ilses Erika, Leipzig on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Scrappy Coco is a trance and techno artist, with 58 gigs on soundcheck across Le
 
 Richie Rollin, Gigi Spears, VLUNA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scrappycoco/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scrappycoco/)*

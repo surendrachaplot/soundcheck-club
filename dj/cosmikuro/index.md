@@ -1,6 +1,6 @@
 # Cosmikuro
 
-Cosmikuro is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 6 Dec 2026.
+Cosmikuro is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 6 Dec 2026.
 
 Cosmikuro is a downtempo and techno artist based in United Kingdom, with 37 gigs on soundcheck across Leeds and Manchester. Often billed alongside Simon Scott, Princess Elf Bar and Elliot Holt. Next up: Outlaws Yacht Club, Leeds on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Cosmikuro is a downtempo and techno artist based in United Kingdom, with 37 gigs
 
 Simon Scott, Princess Elf Bar, Elliot Holt
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikuro/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikuro/)*

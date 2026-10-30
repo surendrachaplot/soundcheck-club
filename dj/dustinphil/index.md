@@ -1,6 +1,6 @@
 # Dustin Phil
 
-Dustin Phil is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at BASE Milano, Milan on Sat, 31 Oct 2026.
+Dustin Phil is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at BASE Milano, Milan on Sat, 31 Oct 2026.
 
 Dustin Phil is a house and techno artist based in Italy, with 27 gigs on soundcheck across London, Milan and Munich. Often billed alongside Sound Shapes, Massi Rocket and julës jay. Next up: BASE Milano, Milan on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Dustin Phil is a house and techno artist based in Italy, with 27 gigs on soundch
 
 Sound Shapes, Massi Rocket, julës jay
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinphil/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinphil/)*

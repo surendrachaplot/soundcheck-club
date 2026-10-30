@@ -1,6 +1,6 @@
 # esther bronchal
 
-esther bronchal is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Range, Turin on Fri, 30 Oct 2026.
+esther bronchal is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Range, Turin on Fri, 30 Oct 2026.
 
 esther bronchal is a tech house and techno artist based in Spain, with 31 gigs on soundcheck across Amsterdam, Austria, Barcelona and Ibiza and 8 more. Often billed alongside Pau Guilera, Abdon and BizZa. Next up: The Range, Turin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ esther bronchal is a tech house and techno artist based in Spain, with 31 gigs o
 
 Pau Guilera, Abdon, BizZa
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estherbronchal/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estherbronchal/)*

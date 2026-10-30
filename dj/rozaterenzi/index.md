@@ -1,6 +1,6 @@
 # Roza Terenzi
 
-Roza Terenzi is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Roza Terenzi is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
 
 Roza Terenzi is a techno and house artist based in Australia, with 236 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 69 more. Often billed alongside ISAbella, D. Tiffany and THC. Next up: Østre, Bergen on Thu 29 Oct.
 
@@ -19,6 +19,7 @@ Roza Terenzi is a techno and house artist based in Australia, with 236 gigs on s
 
 ## Recently played
 
+- Østre, Bergen · Thu, 29 Oct 2026
 - TILLATEC, Amsterdam · Mon, 26 Oct 2026
 - C115, Berlin · Fri, 23 Oct 2026
 - FVTVR, Paris · Fri, 9 Oct 2026
@@ -26,10 +27,9 @@ Roza Terenzi is a techno and house artist based in Australia, with 236 gigs on s
 - FOUND, Berlin · Fri, 25 Sept 2026
 - Nowadays, New York City · Sat, 19 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
-- Pisces, Atlanta · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 ISAbella, D. Tiffany, THC
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaterenzi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaterenzi/)*

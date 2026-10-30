@@ -1,6 +1,6 @@
 # Julia Konor
 
-Julia Konor is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sameheads, Berlin on Thu, 5 Nov 2026.
+Julia Konor is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Sameheads, Berlin on Thu, 5 Nov 2026.
 
 Julia Konor is an electro and house artist based in Spain, with 15 gigs on soundcheck across Bangkok, Barcelona, Berlin and Madrid and 1 more. Often billed alongside RŌ (FLX4), Ludviq and .cosm. Next up: Sameheads, Berlin on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Julia Konor is an electro and house artist based in Spain, with 15 gigs on sound
 
 RŌ (FLX4), Ludviq, .cosm
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliakonor/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliakonor/)*

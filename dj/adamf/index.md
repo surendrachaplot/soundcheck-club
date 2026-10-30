@@ -1,6 +1,6 @@
 # Adam F
 
-Adam F is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Boxing Club, Bristol on Fri, 13 Nov 2026.
+Adam F is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Boxing Club, Bristol on Fri, 13 Nov 2026.
 
 Adam F is a drum & bass and jungle artist based in United Kingdom, with 16 gigs on soundcheck across Birmingham, Bristol, Budapest and Liverpool and 6 more. Often billed alongside Harry Shotta, adamine and Hardcore Babes. Next up: The Boxing Club, Bristol on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Adam F is a drum & bass and jungle artist based in United Kingdom, with 16 gigs 
 
 Harry Shotta, adamine, Hardcore Babes
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamf/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamf/)*

@@ -1,6 +1,6 @@
 # Liroy
 
-Liroy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 27 Nov 2026.
+Liroy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 27 Nov 2026.
 
 Liroy is a trance and techno artist based in Germany, with 24 gigs on soundcheck across Mannheim, Munich, Stuttgart and Vienna. Often billed alongside Caldarelli, DJ Unholy and Technoschnizzel. Next up: Das Zimmer, Mannheim on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Liroy is a trance and techno artist based in Germany, with 24 gigs on soundcheck
 
 Caldarelli, DJ Unholy, Technoschnizzel
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liroy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liroy/)*

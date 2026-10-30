@@ -1,6 +1,6 @@
 # Good Vibes
 
-Good Vibes is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Bungalow Huntington Beach, Orange County on Sun, 1 Nov 2026.
+Good Vibes is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Bungalow Huntington Beach, Orange County on Sun, 1 Nov 2026.
 
 Good Vibes is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across Athens, Budapest, Dublin and Frankfurt and 5 more. Often billed alongside Bass, Bastille and Boutiq.808. Next up: The Bungalow Huntington Beach, Orange County on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Good Vibes is a house and tech house artist based in United Kingdom, with 10 gig
 
 Bass, Bastille, Boutiq.808
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodvibes/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodvibes/)*

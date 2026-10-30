@@ -1,6 +1,6 @@
 # Racil
 
-Racil is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Sanctuary, Montreal on Sat, 31 Oct 2026.
+Racil is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sanctuary, Montreal on Sat, 31 Oct 2026.
 
 Racil is a house and dub techno artist based in Canada, with 10 gigs on soundcheck across Montreal. Often billed alongside Jino K, Boomy and Clochette. Next up: Sanctuary, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Racil is a house and dub techno artist based in Canada, with 10 gigs on soundche
 
 Jino K, Boomy, Clochette
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racil/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racil/)*

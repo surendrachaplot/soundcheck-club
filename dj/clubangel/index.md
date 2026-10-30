@@ -1,6 +1,6 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Liquid Room, Edinburgh on Sat, 31 Oct 2026.
+Club Angel is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Liquid Room, Edinburgh on Sat, 31 Oct 2026.
 
 Club Angel is a garage and house artist based in Australia, with 110 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: The Liquid Room, Edinburgh on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Club Angel is a garage and house artist based in Australia, with 110 gigs on sou
 
 Sam Alfred, salute, Faster Horses
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

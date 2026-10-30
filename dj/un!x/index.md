@@ -1,6 +1,6 @@
 # UN!X
 
-UN!X is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Horn, Bangkok on Fri, 30 Oct 2026.
+UN!X is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Horn, Bangkok on Fri, 30 Oct 2026.
 
 UN!X is a house and techno artist based in Thailand, with 55 gigs on soundcheck across Bangkok, Ho Chi Minh City, Hong Kong and Shanghai and 1 more. Often billed alongside PPOINT, Yorsab and Virion. Next up: Horn, Bangkok on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ UN!X is a house and techno artist based in Thailand, with 55 gigs on soundcheck 
 
 PPOINT, Yorsab, Virion
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/un!x/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/un!x/)*

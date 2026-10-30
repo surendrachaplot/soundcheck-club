@@ -1,6 +1,6 @@
 # Motorista Studio
 
-Motorista Studio is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween Rave (4 haunted rooms / 5 sounds)" on Sat, 31 Oct 2026.
+Motorista Studio is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween Rave (4 haunted rooms / 5 sounds)" on Sat, 31 Oct 2026.
 
 Motorista Studio is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Joey Jax, Jonah K, Nour and Nour (CAN). See dates, start times and who's playing. 25 Commercial Rd, Unit 9, East York, ON, M4G 1Z3.
 
@@ -15,4 +15,4 @@ Motorista Studio is a music venue in Toronto listed on soundcheck. 2 upcoming gi
 
 25 Commercial Rd, Unit 9, East York, ON, M4G 1Z3, Toronto
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/motorista-studio/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/motorista-studio/)*

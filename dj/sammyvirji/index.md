@@ -1,6 +1,6 @@
 # Sammy Virji
 
-Sammy Virji is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
+Sammy Virji is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
 
 Sammy Virji is a garage and house artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside Oppidan, Interplanetary Criminal and Sam Alfred. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Sammy Virji is a garage and house artist based in United Kingdom, with 132 gigs 
 
 Oppidan, Interplanetary Criminal, Sam Alfred
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*

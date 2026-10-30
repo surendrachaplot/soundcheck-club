@@ -1,6 +1,6 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Forte Antenne, Rome on Sat, 31 Oct 2026.
+Partiboi69 is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Forte Antenne, Rome on Sat, 31 Oct 2026.
 
 Partiboi69 is a techno and house artist based in Australia, with 230 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 83 more. Often billed alongside Juicy Romance, KETTAMA and DJ Heartstring. Next up: Forte Antenne, Rome on Sat 31 Oct.
 
@@ -36,4 +36,4 @@ Partiboi69 is a techno and house artist based in Australia, with 230 gigs on sou
 
 Juicy Romance, KETTAMA, DJ Heartstring
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*

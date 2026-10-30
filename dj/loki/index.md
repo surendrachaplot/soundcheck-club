@@ -1,6 +1,6 @@
 # Loki
 
-Loki is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Planet Wax, London on Fri, 6 Nov 2026.
+Loki is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Planet Wax, London on Fri, 6 Nov 2026.
 
 Loki is a techno and drum & bass artist based in United Kingdom, with 15 gigs on soundcheck across Barcelona and London. Often billed alongside Uncle G, Dexta and Slundarq. Next up: Planet Wax, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Loki is a techno and drum & bass artist based in United Kingdom, with 15 gigs on
 
 Uncle G, Dexta, Slundarq
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loki/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loki/)*

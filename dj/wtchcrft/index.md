@@ -1,6 +1,6 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+WTCHCRFT is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
 
 WTCHCRFT is a techno and club artist based in United States of America, with 160 gigs on soundcheck across Austin, Berlin, Boston and Chicago and 18 more. Often billed alongside KYRUH, RITCHRD and estoc. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ WTCHCRFT is a techno and club artist based in United States of America, with 160
 
 KYRUH, RITCHRD, estoc
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

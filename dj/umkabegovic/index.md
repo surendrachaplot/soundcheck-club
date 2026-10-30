@@ -1,6 +1,6 @@
 # UMKA BEGOVIC
 
-UMKA BEGOVIC is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Beat Boutique, Hamburg on Sat, 31 Oct 2026.
+UMKA BEGOVIC is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Beat Boutique, Hamburg on Sat, 31 Oct 2026.
 
 UMKA BEGOVIC is a techno and tech house artist based in Germany, with 28 gigs on soundcheck across Hamburg and Hannover. Often billed alongside tom/calvin, Antonym and DJ Pinky Promise. Next up: Beat Boutique, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ UMKA BEGOVIC is a techno and tech house artist based in Germany, with 28 gigs on
 
 tom/calvin, Antonym, DJ Pinky Promise
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umkabegovic/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umkabegovic/)*

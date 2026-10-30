@@ -1,6 +1,6 @@
 # Phyles
 
-Phyles is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Pátio do Pinzaleiro 26, Lisbon on Fri, 13 Nov 2026.
+Phyles is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pátio do Pinzaleiro 26, Lisbon on Fri, 13 Nov 2026.
 
 Phyles is a trance and techno artist, with 14 gigs on soundcheck across Lisbon. Often billed alongside GADDAM, GTH (FR) and PAISANA. Next up: Pátio do Pinzaleiro 26, Lisbon on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Phyles is a trance and techno artist, with 14 gigs on soundcheck across Lisbon. 
 
 GADDAM, GTH (FR), PAISANA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phyles/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phyles/)*

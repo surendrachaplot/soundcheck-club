@@ -1,6 +1,6 @@
 # Chevy
 
-Chevy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Cantina Social, Athens on Fri, 30 Oct 2026.
+Chevy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Cantina Social, Athens on Fri, 30 Oct 2026.
 
 Chevy is a house and disco artist, with 39 gigs on soundcheck across Athens. Often billed alongside Lex (GR), ClubKid and Locke. Next up: Cantina Social, Athens on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Chevy is a house and disco artist, with 39 gigs on soundcheck across Athens. Oft
 
 Lex (GR), ClubKid, Locke
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chevy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chevy/)*

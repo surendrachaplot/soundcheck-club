@@ -1,6 +1,6 @@
 # EMMA KING
 
-EMMA KING is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
+EMMA KING is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
 
 EMMA KING is a techno and club artist, with 17 gigs on soundcheck across Berlin and New York City. Often billed alongside m i m i (US), Amal and Bodegaparty. Next up: Hoppetosse, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ EMMA KING is a techno and club artist, with 17 gigs on soundcheck across Berlin 
 
 m i m i (US), Amal, Bodegaparty
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaking/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaking/)*

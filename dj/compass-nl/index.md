@@ -1,6 +1,6 @@
 # Compass
 
-Compass is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at radial, London on Fri, 6 Nov 2026.
+Compass is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at radial, London on Fri, 6 Nov 2026.
 
 Compass is a house and acid artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside Joey Fontaine, Emilia G and Alessio Tonin. Next up: radial, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Compass is a house and acid artist based in United Kingdom, with 9 gigs on sound
 
 Joey Fontaine, Emilia G, Alessio Tonin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/compass-nl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/compass-nl/)*

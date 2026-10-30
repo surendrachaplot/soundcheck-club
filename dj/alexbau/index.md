@@ -1,6 +1,6 @@
 # Alex Bau
 
-Alex Bau is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at nueve cero nueve, Mexico City on Sat, 14 Nov 2026.
+Alex Bau is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at nueve cero nueve, Mexico City on Sat, 14 Nov 2026.
 
 Alex Bau is a techno and electro artist based in Germany, with 5 gigs on soundcheck across Austria, Hannover, Mexico City and Munich and 1 more. Often billed alongside AKA AKA, Alicea and André Dancekowski. Next up: nueve cero nueve, Mexico City on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Alex Bau is a techno and electro artist based in Germany, with 5 gigs on soundch
 
 AKA AKA, Alicea, André Dancekowski
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbau/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbau/)*

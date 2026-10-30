@@ -1,8 +1,8 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Concord Music Hall, Chicago on Fri, 30 Oct 2026.
+Flash Gea is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Concord Music Hall, Chicago on Fri, 30 Oct 2026.
 
-Flash Gea is a techno and trance artist based in United States of America, with 31 gigs on soundcheck across Baltimore, Chicago, Dallas/Fort Worth and Miami and 6 more. Often billed alongside Conrad Taylor, DomnRob and Ueberrest. Next up: Concord Music Hall, Chicago on Fri 30 Oct.
+Flash Gea is a techno and trance artist based in United States of America, with 32 gigs on soundcheck across Baltimore, Chicago, Dallas/Fort Worth and Miami and 6 more. Often billed alongside Conrad Taylor, DomnRob and Ueberrest. Next up: Concord Music Hall, Chicago on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 | Fri, 30 Oct 2026 | Concord Music Hall | Chicago |
 | Fri, 6 Nov 2026 | Public Works | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | Casa Nube Wynwood | Miami |
+| Fri, 27 Nov 2026 | The Chocolate Factory | New York City |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
 | Fri, 8 Jan 2027 | SILO | New-york-city |
 
@@ -29,4 +30,4 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 
 Conrad Taylor, DomnRob, Ueberrest
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*

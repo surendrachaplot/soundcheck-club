@@ -1,6 +1,6 @@
 # Kanykei
 
-Kanykei is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kater, Berlin on Fri, 18 Dec 2026.
+Kanykei is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Fri, 18 Dec 2026.
 
 Kanykei is a house and deep house artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Berlin, Miami and New York City and 2 more. Often billed alongside Niconé, Dirty Doering and Acid Alien. Next up: Kater, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Kanykei is a house and deep house artist based in United States of America, with
 
 Niconé, Dirty Doering, Acid Alien
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanykei/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanykei/)*

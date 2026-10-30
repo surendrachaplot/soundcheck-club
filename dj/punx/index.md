@@ -1,6 +1,6 @@
 # PUNX
 
-PUNX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Heim Shanghai, Shanghai on Fri, 30 Oct 2026.
+PUNX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Heim Shanghai, Shanghai on Fri, 30 Oct 2026.
 
 PUNX is a techno and industrial artist, with 26 gigs on soundcheck across Beijing, Chengdu, Hong Kong and Shanghai and 1 more. Often billed alongside R Ξ Π, ΛNGELVS and DJ EBP. Next up: Heim Shanghai, Shanghai on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ PUNX is a techno and industrial artist, with 26 gigs on soundcheck across Beijin
 
 R Ξ Π, ΛNGELVS, DJ EBP
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punx/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/punx/)*

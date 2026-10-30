@@ -1,6 +1,6 @@
 # Daniel Meister
 
-Daniel Meister is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Cité Fertile, Paris on Sat, 28 Nov 2026.
+Daniel Meister is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Cité Fertile, Paris on Sat, 28 Nov 2026.
 
 Daniel Meister is a house and minimal artist, with 19 gigs on soundcheck across Berlin, Budapest, Geneva and Munich and 3 more. Often billed alongside Nicolas Duvoisin, Chris Llopis and Cora M.. Next up: La Cité Fertile, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Daniel Meister is a house and minimal artist, with 19 gigs on soundcheck across 
 
 Nicolas Duvoisin, Chris Llopis, Cora M.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmeister/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmeister/)*

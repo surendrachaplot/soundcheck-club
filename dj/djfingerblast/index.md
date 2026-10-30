@@ -1,6 +1,6 @@
 # DJ Fingerblast
 
-DJ Fingerblast is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The DBA, Manchester on Fri, 30 Oct 2026.
+DJ Fingerblast is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The DBA, Manchester on Fri, 30 Oct 2026.
 
 DJ Fingerblast is a trance and hardcore artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Trancey Beaker, Peggy Viennetta and Princess Elf Bar. Next up: The DBA, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Fingerblast is a trance and hardcore artist based in United Kingdom, with 69 
 
 Trancey Beaker, Peggy Viennetta, Princess Elf Bar
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfingerblast/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfingerblast/)*

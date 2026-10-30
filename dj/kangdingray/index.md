@@ -1,6 +1,6 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Fri, 13 Nov 2026.
+Kangding Ray is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Fri, 13 Nov 2026.
 
 Kangding Ray is a techno and experimental artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: Muziekgebouw aan t' IJ, Amsterdam on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Kangding Ray is a techno and experimental artist based in Germany, with 157 gigs
 
 Dasha Rush, DJ Nobu, Ne/Re/A
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

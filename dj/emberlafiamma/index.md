@@ -1,6 +1,6 @@
 # Ember LaFiamma
 
-Ember LaFiamma is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TV Lounge, Detroit on Sat, 7 Nov 2026.
+Ember LaFiamma is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TV Lounge, Detroit on Sat, 7 Nov 2026.
 
 Ember LaFiamma is a techno and ghetto tech artist based in United States of America, with 31 gigs on soundcheck across Detroit and New York City. Often billed alongside we1sman, jamea. and STAKXX. Next up: TV Lounge, Detroit on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ember LaFiamma is a techno and ghetto tech artist based in United States of Amer
 
 we1sman, jamea., STAKXX
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emberlafiamma/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emberlafiamma/)*

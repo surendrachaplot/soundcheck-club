@@ -1,6 +1,6 @@
 # Wagon
 
-Wagon is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Digitalism - Madrid" on Fri, 30 Oct 2026.
+Wagon is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Digitalism - Madrid" on Fri, 30 Oct 2026.
 
 Wagon is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Digitalism and oskar med k. See dates, start times and who's playing. Estación de Chamartí­n, Planta ático.
 
@@ -15,4 +15,4 @@ Wagon is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with lin
 
 Estación de Chamartí­n, Planta ático, Madrid
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/wagon/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/wagon/)*

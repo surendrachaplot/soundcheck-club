@@ -1,6 +1,6 @@
 # Brett's House Party
 
-Brett's House Party is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Goodfoot, Portland on Sat, 2 Jan 2027.
+Brett's House Party is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Goodfoot, Portland on Sat, 2 Jan 2027.
 
 Brett's House Party is a house and techno artist based in United States of America, with 14 gigs on soundcheck across Portland. Often billed alongside Sol Elicio and leeonn. Next up: The Goodfoot, Portland on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Brett's House Party is a house and techno artist based in United States of Ameri
 
 Sol Elicio, leeonn
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brettshouseparty/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brettshouseparty/)*

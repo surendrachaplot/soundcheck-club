@@ -1,6 +1,6 @@
 # Stratera
 
-Stratera is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Exil, Vienna on Fri, 30 Oct 2026.
+Stratera is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Exil, Vienna on Fri, 30 Oct 2026.
 
 Stratera is a techno and trance artist based in Austria, with 32 gigs on soundcheck across Budapest, Hamburg, Oberhausen and Sofia and 1 more. Often billed alongside TEKKNISH, IOSIO and Jubin Amiri. Next up: Club Exil, Vienna on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Stratera is a techno and trance artist based in Austria, with 32 gigs on soundch
 
 TEKKNISH, IOSIO, Jubin Amiri
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stratera/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stratera/)*

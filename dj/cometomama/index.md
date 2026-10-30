@@ -1,6 +1,6 @@
 # Come to mama
 
-Come to mama is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ）, Chengdu on Sat, 31 Oct 2026.
+Come to mama is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ）, Chengdu on Sat, 31 Oct 2026.
 
 Come to mama is a techno and trance artist, with 70 gigs on soundcheck across Beijing, Chengdu, Shanghai and Shenzhen. Often billed alongside CicE, Max Shen and PINKBOIALWAYSCRY. Next up: Room 2117/2118, Tower A, Poly Center, No. 1 Jinxiu Road（锦绣路1号保利中心a座2117/2118 ）, Chengdu on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Come to mama is a techno and trance artist, with 70 gigs on soundcheck across Be
 
 CicE, Max Shen, PINKBOIALWAYSCRY
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cometomama/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cometomama/)*

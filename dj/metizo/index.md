@@ -1,6 +1,6 @@
 # Metizo
 
-Metizo is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 27 Nov 2026.
+Metizo is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 27 Nov 2026.
 
 Metizo is a techno and minimal techno artist, with 17 gigs on soundcheck across Brussels, Marseille, Montreal and New York City and 1 more. Often billed alongside Moaad BKR, DJ Skurge and Evita. Next up: Société des arts technologiques, Montreal on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Metizo is a techno and minimal techno artist, with 17 gigs on soundcheck across 
 
 Moaad BKR, DJ Skurge, Evita
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metizo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metizo/)*

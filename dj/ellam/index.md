@@ -1,6 +1,6 @@
 # Ellam
 
-Ellam is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mint XL, Leeds on Fri, 18 Dec 2026.
+Ellam is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mint XL, Leeds on Fri, 18 Dec 2026.
 
 Ellam is a house and minimal artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Cardiff and 9 more. Often billed alongside Gaskin, Ellia Jaya and L.P. Rhythm. Next up: Mint XL, Leeds on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Ellam is a house and minimal artist based in United Kingdom, with 38 gigs on sou
 
 Gaskin, Ellia Jaya, L.P. Rhythm
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellam/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellam/)*

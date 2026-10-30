@@ -1,6 +1,6 @@
 # KALEA
 
-KALEA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
+KALEA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
 
 KALEA is a house and techno artist based in Germany, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Britta Arnold, Dorsch and Josiane. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KALEA is a house and techno artist based in Germany, with 9 gigs on soundcheck a
 
 Britta Arnold, Dorsch, Josiane
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalea/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalea/)*

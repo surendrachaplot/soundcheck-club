@@ -1,6 +1,6 @@
 # Murat Uncuoglu
 
-Murat Uncuoglu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 30 Oct 2026.
+Murat Uncuoglu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 30 Oct 2026.
 
 Murat Uncuoglu is a house and techno artist based in Turkey, with 82 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dubai and 6 more. Often billed alongside Alican, Phallen and Emirhan Kacar. Next up: Frankhan Selectist, Istanbul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Murat Uncuoglu is a house and techno artist based in Turkey, with 82 gigs on sou
 
 Alican, Phallen, Emirhan Kacar
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muratuncuoglu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muratuncuoglu/)*

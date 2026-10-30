@@ -1,6 +1,6 @@
 # Suki Quasimodo
 
-Suki Quasimodo is a Ambient and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
+Suki Quasimodo is a Ambient and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
 
 Suki Quasimodo is an ambient and idm artist based in United Kingdom, with 11 gigs on soundcheck across London, Singapore and Switzerland. Often billed alongside Fliss Mayo, HARDIP and Leopold. Next up: Leysin Ski Resort, Switzerland on Mon 15 Mar.
 
@@ -25,4 +25,4 @@ Suki Quasimodo is an ambient and idm artist based in United Kingdom, with 11 gig
 
 Fliss Mayo, HARDIP, Leopold
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sukiquasimodo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sukiquasimodo/)*

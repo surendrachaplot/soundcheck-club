@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sacré présente: Butch & Family Matters" on Fri, 30 Oct 2026.
+Sacré is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Sacré présente: Butch & Family Matters" on Fri, 30 Oct 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Baccus, Butch, Daisybelle and Duskus and 2 more. See dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -22,4 +22,4 @@ Sacré is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with lin
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

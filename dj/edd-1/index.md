@@ -1,6 +1,6 @@
 # Edd (1)
 
-Edd (1) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Gathering @ Armature Works, Tampa-bay on Sat, 31 Oct 2026.
+Edd (1) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Gathering @ Armature Works, Tampa-bay on Sat, 31 Oct 2026.
 
 Edd is a house and tech house artist based in Malta, with 61 gigs on soundcheck across Bali, Barcelona, Denver and Ibiza and 13 more. Often billed alongside Andrea Oliva, Nic Fanciulli and Fresh Prince. Next up: The Gathering @ Armature Works, Tampa Bay on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Edd is a house and tech house artist based in Malta, with 61 gigs on soundcheck 
 
 Andrea Oliva, Nic Fanciulli, Fresh Prince
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edd-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edd-1/)*

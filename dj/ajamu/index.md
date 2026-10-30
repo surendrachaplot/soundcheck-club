@@ -1,6 +1,6 @@
 # AJAMU
 
-AJAMU is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Vagabond, Washington DC on Sat, 31 Oct 2026.
+AJAMU is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Vagabond, Washington DC on Sat, 31 Oct 2026.
 
 AJAMU is an afro house and house artist, with 24 gigs on soundcheck across New York City and Washington DC. Often billed alongside nonchalant, Mark Azar and Neko Berg. Next up: Vagabond, Washington DC on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ AJAMU is an afro house and house artist, with 24 gigs on soundcheck across New Y
 
 nonchalant, Mark Azar, Neko Berg
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajamu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajamu/)*

@@ -1,6 +1,6 @@
 # Dj Sliink
 
-Dj Sliink is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 31 Oct 2026.
+Dj Sliink is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Dj Sliink is a club and house artist based in United States of America, with 49 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 14 more. Often billed alongside AceMo, Sinistarr and Suzi Analogue. Next up: The Great Northern, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dj Sliink is a club and house artist based in United States of America, with 49 
 
 AceMo, Sinistarr, Suzi Analogue
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*

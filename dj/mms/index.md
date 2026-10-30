@@ -1,6 +1,6 @@
 # MMS
 
-MMS is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Groundless Factory, Beijing on Fri, 6 Nov 2026.
+MMS is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Groundless Factory, Beijing on Fri, 6 Nov 2026.
 
 MMS is a techno and experimental artist, with 34 gigs on soundcheck across Beijing, Berlin, Chengdu and Shanghai and 2 more. Often billed alongside ΛNGELVS, R Ξ Π and CTAFAD. Next up: Groundless Factory, Beijing on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ MMS is a techno and experimental artist, with 34 gigs on soundcheck across Beiji
 
 ΛNGELVS, R Ξ Π, CTAFAD
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mms/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mms/)*

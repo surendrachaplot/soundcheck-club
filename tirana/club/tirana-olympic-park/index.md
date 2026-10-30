@@ -1,6 +1,6 @@
 # Tirana Olympic Park
 
-Tirana Olympic Park is a music venue in Tirana with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "VERKNIPT Albania" on Sun, 29 Nov 2026.
+Tirana Olympic Park is a music venue in Tirana with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "VERKNIPT Albania" on Sun, 29 Nov 2026.
 
 Tirana Olympic Park is a music venue in Tirana listed on soundcheck. 3 upcoming gigs, with line-ups including Ben Techy, DEBBIE (IT), KUKO and Loren and 2 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Tirana Olympic Park is a music venue in Tirana listed on soundcheck. 3 upcoming 
 | Sat, 19 Dec 2026 | Inclementia X Lockdown / JUPITER |  |
 | Thu, 24 Dec 2026 | Grinchmas / Lockdown Events |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/tirana/club/tirana-olympic-park/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tirana/club/tirana-olympic-park/)*

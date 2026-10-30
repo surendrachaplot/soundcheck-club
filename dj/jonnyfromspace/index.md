@@ -1,6 +1,6 @@
 # Jonny From Space
 
-Jonny From Space is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jolene Downtown Miami, Miami on Tue, 1 Dec 2026.
+Jonny From Space is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jolene Downtown Miami, Miami on Tue, 1 Dec 2026.
 
 Jonny From Space is a techno and house artist based in United States of America, with 97 gigs on soundcheck across Atlanta, Berlin, Chicago and Denver and 10 more. Often billed alongside Sister System, Nick León and Danny Daze. Next up: Jolene Downtown Miami, Miami on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ Jonny From Space is a techno and house artist based in United States of America,
 
 Sister System, Nick León, Danny Daze
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyfromspace/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyfromspace/)*

@@ -1,6 +1,6 @@
 # Masaki Morii
 
-Masaki Morii is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at West Harlem, Kyoto on Mon, 2 Nov 2026.
+Masaki Morii is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at West Harlem, Kyoto on Mon, 2 Nov 2026.
 
 Masaki Morii is an afro house and deep house artist based in Japan, with 27 gigs on soundcheck across Detroit, Kyoto, London and New York City and 5 more. Often billed alongside Jamesey, Kapela and Matt L-S. Next up: West Harlem, Kyoto on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Masaki Morii is an afro house and deep house artist based in Japan, with 27 gigs
 
 Jamesey, Kapela, Matt L-S
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masakimorii/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masakimorii/)*

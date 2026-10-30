@@ -1,6 +1,6 @@
 # 808 State
 
-808 State is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
+808 State is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
 808 State is an acid and house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Jon Dasilva, Graeme Park and Justin Robertson. Next up: The Cause, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@
 
 Jon Dasilva, Graeme Park, Justin Robertson
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/808state/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/808state/)*

@@ -1,6 +1,6 @@
 # SN_Yeah
 
-SN_Yeah is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
+SN_Yeah is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
 
 SN_Yeah is a drum & bass and techno artist based in Japan, with 143 gigs on soundcheck across Tokyo. Often billed alongside omeme_gangimari, ReFuCafé and 35DH-1. Next up: HVEN, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SN_Yeah is a drum & bass and techno artist based in Japan, with 143 gigs on soun
 
 omeme_gangimari, ReFuCafé, 35DH-1
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sn_yeah/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sn_yeah/)*

@@ -1,6 +1,6 @@
 # Kozma
 
-Kozma is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Vektor - The Klub, Budapest on Fri, 30 Oct 2026.
+Kozma is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Vektor - The Klub, Budapest on Fri, 30 Oct 2026.
 
 Kozma is a techno and trance artist based in Hungary, with 22 gigs on soundcheck across Budapest, London and Taipei. Often billed alongside Rovizz, SABBER and Atashi. Next up: Vektor - The Klub, Budapest on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kozma is a techno and trance artist based in Hungary, with 22 gigs on soundcheck
 
 Rovizz, SABBER, Atashi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kozma/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kozma/)*

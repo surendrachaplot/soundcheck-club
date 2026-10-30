@@ -1,6 +1,6 @@
 # Aphøtic
 
-Aphøtic is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at BASIS, Utrecht on Sat, 28 Nov 2026.
+Aphøtic is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at BASIS, Utrecht on Sat, 28 Nov 2026.
 
 Aphøtic is a techno and industrial artist based in Netherlands, with 84 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Cynthia Spiering, XRTN and KARAH. Next up: BASIS, Utrecht on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Aphøtic is a techno and industrial artist based in Netherlands, with 84 gigs on
 
 Cynthia Spiering, XRTN, KARAH
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphotic/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphotic/)*

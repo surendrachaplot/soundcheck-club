@@ -1,6 +1,6 @@
 # SuperCub90
 
-SuperCub90 is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Patision65, Athens on Fri, 13 Nov 2026.
+SuperCub90 is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Patision65, Athens on Fri, 13 Nov 2026.
 
 SuperCub90 is an electro and breakbeat artist based in Greece, with 18 gigs on soundcheck across Athens. Often billed alongside Piece of Kate, Yorz and Datalogs. Next up: Patision65, Athens on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SuperCub90 is an electro and breakbeat artist based in Greece, with 18 gigs on s
 
 Piece of Kate, Yorz, Datalogs
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supercub90/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supercub90/)*

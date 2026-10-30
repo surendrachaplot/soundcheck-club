@@ -1,6 +1,6 @@
 # COEO
 
-COEO is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sala Villanos, Madrid on Sat, 14 Nov 2026.
+COEO is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Sala Villanos, Madrid on Sat, 14 Nov 2026.
 
 COEO is a house and disco artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Kapote, Athlete Whippet and Gee Lane. Next up: Sala Villanos, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ COEO is a house and disco artist based in Germany, with 112 gigs on soundcheck a
 
 Kapote, Athlete Whippet, Gee Lane
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*

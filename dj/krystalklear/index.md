@@ -1,6 +1,6 @@
 # Krystal Klear
 
-Krystal Klear is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Krystal Klear is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Krystal Klear is a house and techno artist based in Ireland, with 128 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 49 more. Often billed alongside Seth Troxler, Gerd Janson and Âme. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Krystal Klear is a house and techno artist based in Ireland, with 128 gigs on so
 
 Seth Troxler, Gerd Janson, Âme
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*

@@ -1,6 +1,6 @@
 # The Primrose
 
-The Primrose is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "BURNING BUG SOUNDSYSTEM SESSION -" on Fri, 6 Nov 2026.
+The Primrose is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BURNING BUG SOUNDSYSTEM SESSION -" on Fri, 6 Nov 2026.
 
 The Primrose is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Pete Melba and Roya Brehl. See dates, start times and who's playing. 280 Meanwood Road Leeds LS7 2HZ.
 
@@ -16,4 +16,4 @@ The Primrose is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, wi
 
 280 Meanwood Road Leeds LS7 2HZ, Leeds
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-primrose/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-primrose/)*

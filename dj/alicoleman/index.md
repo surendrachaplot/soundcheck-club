@@ -1,6 +1,6 @@
 # Ali Coleman
 
-Ali Coleman is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Vino Disco, Montreal on Sat, 14 Nov 2026.
+Ali Coleman is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Vino Disco, Montreal on Sat, 14 Nov 2026.
 
 Ali Coleman is a house and disco artist based in United States of America, with 60 gigs on soundcheck across Montreal, New York City and Washington DC. Often billed alongside Harry Fletcher, Jeremy Giros and Bendito. Next up: Vino Disco, Montreal on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ali Coleman is a house and disco artist based in United States of America, with 
 
 Harry Fletcher, Jeremy Giros, Bendito
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicoleman/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicoleman/)*

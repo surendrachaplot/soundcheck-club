@@ -1,6 +1,6 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "G33 / Lu.Re / Harmonia" on Fri, 30 Oct 2026.
+Moon Club is a music venue in Bristol with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "G33 / Lu.Re / Harmonia" on Fri, 30 Oct 2026.
 
 Moon Club is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, with line-ups including Arkist, Carl Finlow, EKATA and Fumiya Tanaka and 2 more. See dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
@@ -22,4 +22,4 @@ Moon Club is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, wit
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

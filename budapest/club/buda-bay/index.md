@@ -1,6 +1,6 @@
 # Óbuda Bay
 
-Óbuda Bay is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Joris Voorn -- extended set -- daytime event in Budapest" on Sat, 7 Nov 2026.
+Óbuda Bay is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Joris Voorn -- extended set -- daytime event in Budapest" on Sat, 7 Nov 2026.
 
 Óbuda Bay is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including Denes Toth, John Digweed, Joris Voorn and Justrice and 2 more. See dates, start times and who's playing. 1033 Budapest, Hajógyár utca 18386/9.
 
@@ -16,4 +16,4 @@
 
 1033 Budapest, Hajógyár utca 18386/9, Budapest
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-bay/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-bay/)*

@@ -1,6 +1,6 @@
 # Lil Sur
 
-Lil Sur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at WARRECORDS, Antwerp on Fri, 30 Oct 2026.
+Lil Sur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at WARRECORDS, Antwerp on Fri, 30 Oct 2026.
 
 Lil Sur is a house and techno artist, with 14 gigs on soundcheck across Antwerp and San Francisco/Oakland. Often billed alongside DJ Trevs, Miss Crafty and ek:). Next up: WARRECORDS, Antwerp on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lil Sur is a house and techno artist, with 14 gigs on soundcheck across Antwerp 
 
 DJ Trevs, Miss Crafty, ek:)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilsur/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilsur/)*

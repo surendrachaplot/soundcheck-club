@@ -1,6 +1,6 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+Oppidan is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
 Oppidan is a garage and house artist based in United Kingdom, with 162 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 57 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
@@ -36,4 +36,4 @@ Oppidan is a garage and house artist based in United Kingdom, with 162 gigs on s
 
 MPH (1), Sammy Virji, Notion
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

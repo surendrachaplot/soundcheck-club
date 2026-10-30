@@ -1,6 +1,6 @@
 # Zan (1)
 
-Zan (1) is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Moonglow Oakland, San Francisco/Oakland on Fri, 30 Oct 2026.
+Zan (1) is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Moonglow Oakland, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Zan is a club and ghetto tech artist based in United States of America, with 19 gigs on soundcheck across Mexico City and San Francisco/Oakland. Often billed alongside IanGT, jmo corleone and mymy. Next up: Moonglow Oakland, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Zan is a club and ghetto tech artist based in United States of America, with 19 
 
 IanGT, jmo corleone, mymy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zan-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zan-1/)*

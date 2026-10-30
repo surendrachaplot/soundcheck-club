@@ -1,6 +1,6 @@
 # __iwana__
 
-__iwana__ is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Promenaden Eck, Berlin on Thu, 12 Nov 2026.
+__iwana__ is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Promenaden Eck, Berlin on Thu, 12 Nov 2026.
 
 __iwana__ is a disco and house artist based in Ecuador, with 12 gigs on soundcheck across Berlin. Often billed alongside doctor doms, Dr. Sud and Roots.. Next up: Promenaden Eck, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ __iwana__ is a disco and house artist based in Ecuador, with 12 gigs on soundche
 
 doctor doms, Dr. Sud, Roots.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/__iwana__/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/__iwana__/)*

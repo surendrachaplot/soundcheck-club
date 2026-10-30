@@ -1,6 +1,6 @@
 # LUUD
 
-LUUD is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - East London Location TBA, London on Sat, 7 Nov 2026.
+LUUD is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - East London Location TBA, London on Sat, 7 Nov 2026.
 
 LUUD is a minimal and minimal techno artist based in Portugal, with 96 gigs on soundcheck across Dublin, Lisbon and London. Often billed alongside Myriam, Ludgero Costa and Kesh. Next up: TBA - East London Location TBA, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ LUUD is a minimal and minimal techno artist based in Portugal, with 96 gigs on s
 
 Myriam, Ludgero Costa, Kesh (1)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luud/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luud/)*

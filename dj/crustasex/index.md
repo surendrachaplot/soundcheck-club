@@ -1,6 +1,6 @@
 # Crustasex
 
-Crustasex is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Le Trabendo, Paris on Fri, 30 Oct 2026.
+Crustasex is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Trabendo, Paris on Fri, 30 Oct 2026.
 
 Crustasex is a techno and electronica artist, with 36 gigs on soundcheck across Berlin, Bordeaux, Brussels and Geneva and 4 more. Often billed alongside DJ FRRR, NMSS and Aubry. Next up: Le Trabendo, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Crustasex is a techno and electronica artist, with 36 gigs on soundcheck across 
 
 DJ FRRR, NMSS, Aubry
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crustasex/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crustasex/)*

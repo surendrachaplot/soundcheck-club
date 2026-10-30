@@ -1,8 +1,8 @@
 # Don't F**k with Disco
 
-Don't F**k with Disco is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Dome, Liverpool on Fri, 30 Oct 2026.
+Don't F**k with Disco is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Dome, Liverpool on Fri, 30 Oct 2026.
 
-Don't F**k with Disco is a house and disco artist based in United Kingdom, with 22 gigs on soundcheck across Birmingham, Bristol, Glasgow and Ibiza and 3 more. Often billed alongside Cj Cooper, Daisybelle and Eats Everything. Next up: The Dome, Liverpool on Fri 30 Oct.
+Don't F**k with Disco is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Auckland, Birmingham, Bristol and Glasgow and 5 more. Often billed alongside Cj Cooper, Daisybelle and Eats Everything. Next up: The Dome, Liverpool on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ Don't F**k with Disco is a house and disco artist based in United Kingdom, with 
 | Sun, 1 Nov 2026 | LDN East | London |
 | Fri, 11 Dec 2026 | SWG3 | Glasgow |
 | Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
+| Fri, 5 Feb 2027 | The Timber Yard | Melbourne |
+| Sat, 13 Feb 2027 | Studio the Venue | Auckland |
 
 ## Recently played
 
@@ -30,4 +32,4 @@ Don't F**k with Disco is a house and disco artist based in United Kingdom, with 
 
 Cj Cooper, Daisybelle, Eats Everything
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*

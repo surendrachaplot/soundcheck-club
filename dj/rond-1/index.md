@@ -1,6 +1,6 @@
 # Rond (1)
 
-Rond (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Museo MACRO (Via Nizza 138), Rome on Sat, 31 Oct 2026.
+Rond (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Museo MACRO (Via Nizza 138), Rome on Sat, 31 Oct 2026.
 
 Rond is a techno and house artist based in Italy, with 43 gigs on soundcheck across Barcelona, Berlin, Bologna and Bucharest and 4 more. Often billed alongside Luca Piermattei, 2VIBES and DJ Rou. Next up: TBA - Museo MACRO (Via Nizza 138), Rome on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Rond is a techno and house artist based in Italy, with 43 gigs on soundcheck acr
 
 Luca Piermattei, 2VIBES, DJ Rou
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rond-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rond-1/)*

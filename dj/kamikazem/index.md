@@ -1,6 +1,6 @@
 # KAMIKAZEM
 
-KAMIKAZEM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Culture Box, Copenhagen on Fri, 30 Oct 2026.
+KAMIKAZEM is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Culture Box, Copenhagen on Fri, 30 Oct 2026.
 
 KAMIKAZEM is a techno and trance artist based in Denmark, with 9 gigs on soundcheck across Copenhagen. Often billed alongside Thiim, Bestrawa and Mëtro. Next up: Culture Box, Copenhagen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KAMIKAZEM is a techno and trance artist based in Denmark, with 9 gigs on soundch
 
 Thiim, Bestrawa, Mëtro
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikazem/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikazem/)*

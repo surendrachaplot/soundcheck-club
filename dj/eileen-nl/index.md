@@ -1,6 +1,6 @@
 # Eileen (NL)
 
-Eileen (NL) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 31 Oct 2026.
+Eileen (NL) is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 31 Oct 2026.
 
 Eileen (NL) is a house and disco artist based in Netherlands, with 121 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bogotá and 9 more. Often billed alongside Mowgli (NL), Leroy Rey and Yopo (NL). Next up: Radio Radio, Amsterdam on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Eileen (NL) is a house and disco artist based in Netherlands, with 121 gigs on s
 
 Mowgli (NL), Leroy Rey, Yopo (NL)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen-nl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen-nl/)*

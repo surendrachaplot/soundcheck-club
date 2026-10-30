@@ -1,6 +1,6 @@
 # Miss Cabbage
 
-Miss Cabbage is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at SWG3, Glasgow on Fri, 30 Oct 2026.
+Miss Cabbage is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at SWG3, Glasgow on Fri, 30 Oct 2026.
 
 Miss Cabbage is a techno and bass artist based in United Kingdom, with 86 gigs on soundcheck across Barcelona, Bristol, Dundee and Edinburgh and 4 more. Often billed alongside HUNTRESS, Babyjaii and Rahul.mp3. Next up: SWG3, Glasgow on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Miss Cabbage is a techno and bass artist based in United Kingdom, with 86 gigs o
 
 HUNTRESS, Babyjaii, Rahul.mp3
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misscabbage/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misscabbage/)*

@@ -1,6 +1,6 @@
 # Ana Isabela
 
-Ana Isabela is a Baile Funk and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Fox and Firkin, London on Sat, 7 Nov 2026.
+Ana Isabela is a Baile Funk and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Fox and Firkin, London on Sat, 7 Nov 2026.
 
 Ana Isabela is a baile funk and afrobeats artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Onda Saoco, DJABLÈS and HARUNA. Next up: The Fox and Firkin, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ana Isabela is a baile funk and afrobeats artist based in United Kingdom, with 1
 
 Onda Saoco, DJABLÈS, HARUNA (2)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaisabela/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaisabela/)*

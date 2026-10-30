@@ -1,6 +1,6 @@
 # Eli Keszler
 
-Eli Keszler is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Eli Keszler is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Eli Keszler is an experimental and ambient artist based in United States of America, with 12 gigs on soundcheck across Berlin, Brussels, Copenhagen and Lisbon and 5 more. Often billed alongside bela, 3Phaz and Aba Shanti-I. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Eli Keszler is an experimental and ambient artist based in United States of Amer
 
 bela, 3Phaz, Aba Shanti-I
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elikeszler/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elikeszler/)*

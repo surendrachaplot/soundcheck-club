@@ -1,6 +1,6 @@
 # 50 | 50
 
-50 | 50 is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "50 pres. TUN-DA Showcase" on Fri, 30 Oct 2026.
+50 | 50 is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "50 pres. TUN-DA Showcase" on Fri, 30 Oct 2026.
 
 50 | 50 is a music venue in Medellin listed on soundcheck. 3 upcoming gigs, with line-ups including Charlie Florez, Julio Garcés, Jus-Ed and Lefel and 2 more. See dates, start times and who's playing. Cra. 50 #34-62 Piso 2, La Candelaria, Medellín.
 
@@ -16,4 +16,4 @@
 
 Cra. 50 #34-62 Piso 2, La Candelaria, Medellín, Medellin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*

@@ -1,6 +1,6 @@
 # Kiki B
 
-Kiki B is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Recinto Mallorca Live, Mallorca on Fri, 30 Apr 2027.
+Kiki B is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Recinto Mallorca Live, Mallorca on Fri, 30 Apr 2027.
 
 Kiki B is a garage and bass artist, with 14 gigs on soundcheck across Liverpool, London, Mallorca and Manchester. Often billed alongside FLORA THA EXPLORA, ODF and Y U QT. Next up: Recinto Mallorca Live, Mallorca on Fri 30 Apr.
 
@@ -25,4 +25,4 @@ Kiki B is a garage and bass artist, with 14 gigs on soundcheck across Liverpool,
 
 FLORA THA EXPLORA, ODF (1), Y U QT
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikib/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikib/)*

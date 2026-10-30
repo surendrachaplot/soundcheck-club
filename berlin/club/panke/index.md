@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "FUKSTEP" on Fri, 30 Oct 2026.
+Panke is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FUKSTEP" on Fri, 30 Oct 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Alex Wilcox, Amuleto Manuela, AXT and Bacon Chang and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -23,4 +23,4 @@ Panke is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with li
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

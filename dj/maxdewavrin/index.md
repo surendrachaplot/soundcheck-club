@@ -1,6 +1,6 @@
 # Max Dewavrin
 
-Max Dewavrin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Fri, 30 Oct 2026.
+Max Dewavrin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Fri, 30 Oct 2026.
 
 Max Dewavrin is a house and techno artist based in France, with 20 gigs on soundcheck across Berlin, Cape Town, Cologne and Ljubljana and 2 more. Often billed alongside Ogazón, OPH and VICE/VERSA. Next up: Renate, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Max Dewavrin is a house and techno artist based in France, with 20 gigs on sound
 
 Ogazón, OPH, VICE/VERSA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdewavrin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdewavrin/)*

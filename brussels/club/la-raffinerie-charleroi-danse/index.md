@@ -1,6 +1,6 @@
 # La Raffinerie / Charleroi danse
 
-La Raffinerie / Charleroi danse is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Vestiaire" on Sun, 8 Nov 2026.
+La Raffinerie / Charleroi danse is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Vestiaire" on Sun, 8 Nov 2026.
 
 La Raffinerie / Charleroi danse is a music venue in Brussels listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Rue de Manchester 21 1080 Brussels, Belgium.
 
@@ -15,4 +15,4 @@ La Raffinerie / Charleroi danse is a music venue in Brussels listed on soundchec
 
 Rue de Manchester 21 1080 Brussels, Belgium, Brussels
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-raffinerie-charleroi-danse/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-raffinerie-charleroi-danse/)*

@@ -1,6 +1,6 @@
 # Daura
 
-Daura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 30 Oct 2026.
+Daura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 30 Oct 2026.
 
 Daura is a techno and house artist based in Canada, with 66 gigs on soundcheck across Amsterdam, Berlin, Brussels and Düsseldorf and 25 more. Often billed alongside Moaad BKR, Mr. Murray and ATEQ. Next up: 宀 Club, Hong Kong on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Daura is a techno and house artist based in Canada, with 66 gigs on soundcheck a
 
 Moaad BKR, Mr. Murray, ATEQ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*

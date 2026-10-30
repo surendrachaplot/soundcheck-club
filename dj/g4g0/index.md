@@ -1,6 +1,6 @@
 # G4G0
 
-G4G0 is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 12 Dec 2026.
+G4G0 is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 12 Dec 2026.
 
 G4G0 is a techno and electronica artist based in Spain, with 8 gigs on soundcheck across Madrid. Often billed alongside ADRI.G, Cynth and Gabriel D'or & Bordoy. Next up: Lasociaciøn, Madrid on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ G4G0 is a techno and electronica artist based in Spain, with 8 gigs on soundchec
 
 ADRI.G, Cynth, Gabriel D'or & Bordoy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g4g0/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g4g0/)*

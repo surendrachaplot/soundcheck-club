@@ -1,6 +1,6 @@
 # Ricky Montanari
 
-Ricky Montanari is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at REC Napoli, Naples on Fri, 1 Jan 2027.
+Ricky Montanari is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at REC Napoli, Naples on Fri, 1 Jan 2027.
 
 Ricky Montanari is a house and italo disco artist, with 15 gigs on soundcheck across Berlin, Bologna, Milan and Naples and 3 more. Often billed alongside Simon T, Marcolino and Bobby.. Next up: REC Napoli, Naples on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Ricky Montanari is a house and italo disco artist, with 15 gigs on soundcheck ac
 
 Simon T, Marcolino, Bobby.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymontanari/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymontanari/)*

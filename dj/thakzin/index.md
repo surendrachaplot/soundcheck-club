@@ -1,6 +1,6 @@
 # Thakzin
 
-Thakzin is a Afro House and Amapiano artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Cabo Beach Club, Cape-town on Fri, 30 Oct 2026.
+Thakzin is a Afro House and Amapiano artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Cabo Beach Club, Cape-town on Fri, 30 Oct 2026.
 
 Thakzin is an afro house and amapiano artist based in South Africa, with 31 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 5 more. Often billed alongside Atmos Blaq, CLEIDO and Da Capo. Next up: Cabo Beach Club, Cape Town on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Thakzin is an afro house and amapiano artist based in South Africa, with 31 gigs
 
 Atmos Blaq, CLEIDO, Da Capo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thakzin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thakzin/)*

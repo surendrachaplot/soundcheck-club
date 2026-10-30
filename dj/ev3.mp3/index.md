@@ -1,6 +1,6 @@
 # Ev3.mp3
 
-Ev3.mp3 is a Hardcore and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Distillery N17, London on Fri, 27 Nov 2026.
+Ev3.mp3 is a Hardcore and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Distillery N17, London on Fri, 27 Nov 2026.
 
 Ev3.mp3 is a hardcore and pop artist, with 9 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside ASHTYLR, Princess Elf Bar and ALIXN. Next up: Distillery N17, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ev3.mp3 is a hardcore and pop artist, with 9 gigs on soundcheck across Leeds, Lo
 
 ASHTYLR, Princess Elf Bar, ALIXN
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ev3.mp3/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ev3.mp3/)*

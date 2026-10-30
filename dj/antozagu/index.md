@@ -1,6 +1,6 @@
 # ANTO ZAGU
 
-ANTO ZAGU is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Open Park, Punta del Este, Uruguay on Sat, 2 Jan 2027.
+ANTO ZAGU is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Open Park, Punta del Este, Uruguay on Sat, 2 Jan 2027.
 
 ANTO ZAGU is a house and deep house artist based in Uruguay, with 17 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Frankfurt and 6 more. Often billed alongside Nau Leone, Emotional Tourist and FR3ADY. Next up: TBA - Open Park, Punta del Este, Uruguay on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ ANTO ZAGU is a house and deep house artist based in Uruguay, with 17 gigs on sou
 
 Nau Leone, Emotional Tourist, FR3ADY
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*

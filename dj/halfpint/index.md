@@ -1,6 +1,6 @@
 # HALFPINT
 
-HALFPINT is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Music Room, Belfast on Fri, 30 Oct 2026.
+HALFPINT is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Music Room, Belfast on Fri, 30 Oct 2026.
 
 HALFPINT is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Brighton and 7 more. Often billed alongside Jamback, Sossa and Prospa. Next up: Music Room, Belfast on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ HALFPINT is a house and techno artist based in United Kingdom, with 51 gigs on s
 
 Jamback, Sossa, Prospa
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*

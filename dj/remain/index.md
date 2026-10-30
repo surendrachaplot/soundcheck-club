@@ -1,6 +1,6 @@
 # Remain
 
-Remain is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Glazart, Paris on Sat, 31 Oct 2026.
+Remain is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Glazart, Paris on Sat, 31 Oct 2026.
 
 Remain is a techno and house artist based in France, with 31 gigs on soundcheck across Berlin, Estado De M Xico, Lyon and Marseille and 3 more. Often billed alongside Marc Houle, daWad and Tommy Castro. Next up: Glazart, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Remain is a techno and house artist based in France, with 31 gigs on soundcheck 
 
 Marc Houle, daWad, Tommy Castro
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remain/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remain/)*

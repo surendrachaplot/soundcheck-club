@@ -1,6 +1,6 @@
 # SVPERCELL
 
-SVPERCELL is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Baalsaal, Hamburg on Sat, 31 Oct 2026.
+SVPERCELL is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Baalsaal, Hamburg on Sat, 31 Oct 2026.
 
 SVPERCELL is a techno and dub techno artist based in Germany, with 34 gigs on soundcheck across Hamburg. Often billed alongside Danya (DE), Maasym and AKIIM. Next up: Baalsaal, Hamburg on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ SVPERCELL is a techno and dub techno artist based in Germany, with 34 gigs on so
 
 Danya (DE), Maasym, AKIIM
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svpercell-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svpercell-2/)*

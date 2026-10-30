@@ -1,6 +1,6 @@
 # Badehaus Berlin
 
-Badehaus Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Dancing on Our Graves – Halloween Special" on Sat, 31 Oct 2026.
+Badehaus Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Dancing on Our Graves – Halloween Special" on Sat, 31 Oct 2026.
 
 Badehaus Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including lionza. See dates, start times and who's playing. Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -15,4 +15,4 @@ Badehaus Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs
 
 Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*

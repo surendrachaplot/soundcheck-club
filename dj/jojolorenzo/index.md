@@ -1,6 +1,6 @@
 # Jojo Lorenzo
 
-Jojo Lorenzo is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 31 Oct 2026.
+Jojo Lorenzo is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 31 Oct 2026.
 
 Jojo Lorenzo is a house and disco artist based in United States of America, with 131 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 25 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: TBA - Brooklyn, New York City on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ Jojo Lorenzo is a house and disco artist based in United States of America, with
 
 Tinzo, RaeCola, Varist
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*

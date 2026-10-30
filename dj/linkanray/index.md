@@ -1,6 +1,6 @@
 # Linkan Ray
 
-Linkan Ray is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 12 Nov 2026.
+Linkan Ray is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 12 Nov 2026.
 
 Linkan Ray is a techno and acid artist based in Argentina, with 34 gigs on soundcheck across Barcelona and Milan. Often billed alongside Flug, Anika Kunst and Ronze. Next up: Les Enfants Brillants, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Linkan Ray is a techno and acid artist based in Argentina, with 34 gigs on sound
 
 Flug, Anika Kunst, Ronze
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linkanray/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linkanray/)*

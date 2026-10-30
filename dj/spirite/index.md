@@ -1,6 +1,6 @@
 # Spirite
 
-Spirite is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
+Spirite is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
 Spirite is a techno and house artist based in Canada, with 36 gigs on soundcheck across Antwerp, Brussels, Geneva and Ghent. Often billed alongside Sara Dziri, Melissa Juice and Fais Le Beau. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Spirite is a techno and house artist based in Canada, with 36 gigs on soundcheck
 
 Sara Dziri, Melissa Juice, Fais Le Beau
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spirite/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spirite/)*

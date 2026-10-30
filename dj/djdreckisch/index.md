@@ -1,6 +1,6 @@
 # DJ DRECKISCH
 
-DJ DRECKISCH is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 30 Oct 2026.
+DJ DRECKISCH is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 30 Oct 2026.
 
 DJ DRECKISCH is a techno and trance artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside Kacy, 3LEEZA and DJ Achim Feuervogel. Next up: Das Zimmer, Mannheim on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ DJ DRECKISCH is a techno and trance artist based in Germany, with 101 gigs on so
 
 Kacy, 3LEEZA, DJ Achim Feuervogel
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*

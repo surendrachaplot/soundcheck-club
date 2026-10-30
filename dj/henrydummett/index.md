@@ -1,6 +1,6 @@
 # Henry Dummett
 
-Henry Dummett is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
+Henry Dummett is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
 
 Henry Dummett is a techno and house artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside Dyl Payne, Fikayo and Theo T. Next up: E1, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Henry Dummett is a techno and house artist based in United Kingdom, with 17 gigs
 
 Dyl Payne, Fikayo, Theo T
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrydummett/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrydummett/)*

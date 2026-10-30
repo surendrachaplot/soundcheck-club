@@ -1,6 +1,6 @@
 # ianavi
 
-ianavi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Brixton Radio, London on Fri, 30 Oct 2026.
+ianavi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Brixton Radio, London on Fri, 30 Oct 2026.
 
 ianavi is a house and tech house artist based in Switzerland, with 12 gigs on soundcheck across Geneva and London. Often billed alongside DJ Jetlag, Outhmax and Hector Moreno. Next up: Brixton Radio, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ianavi is a house and tech house artist based in Switzerland, with 12 gigs on so
 
 DJ Jetlag, Outhmax, Hector Moreno
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianavi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianavi/)*

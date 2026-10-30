@@ -1,6 +1,6 @@
 # !NN
 
-!NN is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Distillery N17, London on Sat, 12 Dec 2026.
+!NN is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Distillery N17, London on Sat, 12 Dec 2026.
 
 !NN is a techno and minimal artist based in Italy, with 11 gigs on soundcheck across Barcelona, London and New York City. Often billed alongside Alec Falconer, Chris Liberator and ISORA. Next up: Distillery N17, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@
 
 Alec Falconer, Chris Liberator, ISORA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inn/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inn/)*

@@ -1,6 +1,6 @@
 # Danny Howard
 
-Danny Howard is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+Danny Howard is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 Danny Howard is a house and tech house artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Belfast, Berlin and Birmingham and 18 more. Often billed alongside Sonny Fodera, Gorgon City and Greta Levska. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Danny Howard is a house and tech house artist based in United Kingdom, with 130 
 
 Sonny Fodera, Gorgon City, Greta Levska
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhoward/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhoward/)*

@@ -1,6 +1,6 @@
 # 2KW Bar and Restaurant
 
-2KW Bar and Restaurant is a music venue in Adelaide with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "2KW presents: MiNNA (UK)" on Sun, 15 Nov 2026.
+2KW Bar and Restaurant is a music venue in Adelaide with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "2KW presents: MiNNA (UK)" on Sun, 15 Nov 2026.
 
 2KW Bar and Restaurant is a music venue in Adelaide listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | 2KW presents: MiNNA (UK) |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/adelaide/club/2kw-bar-and-restaurant/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/adelaide/club/2kw-bar-and-restaurant/)*

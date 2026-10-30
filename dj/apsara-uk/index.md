@@ -1,6 +1,6 @@
 # Apsara (UK)
 
-Apsara (UK) is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Folklore, London on Sun, 13 Dec 2026.
+Apsara (UK) is a Downtempo and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Folklore, London on Sun, 13 Dec 2026.
 
 Apsara (UK) is a downtempo and progressive house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Altayef, AALEX and Nic Cammelli. Next up: Folklore, London on Sun 13 Dec.
 
@@ -24,4 +24,4 @@ Apsara (UK) is a downtempo and progressive house artist based in United Kingdom,
 
 Altayef, AALEX, Nic Cammelli
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apsara-uk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apsara-uk/)*

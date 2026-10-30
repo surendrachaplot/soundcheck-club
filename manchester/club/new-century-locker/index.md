@@ -1,6 +1,6 @@
 # New Century Locker
 
-New Century Locker is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Decius (Live)" on Fri, 30 Oct 2026.
+New Century Locker is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Decius (Live)" on Fri, 30 Oct 2026.
 
 New Century Locker is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Bimini, Decius, Dennis Bovell and Egyptian Lover and 2 more. See dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
 
@@ -23,4 +23,4 @@ New Century Locker is a music venue in Manchester listed on soundcheck. 12 upcom
 
 34 Hanover St Manchester M4 4AH, Manchester
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*

@@ -1,6 +1,6 @@
 # Oscar G
 
-Oscar G is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Brooklyn Pacha, New-york-city on Sat, 7 Nov 2026.
+Oscar G is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brooklyn Pacha, New-york-city on Sat, 7 Nov 2026.
 
 Oscar G is a house and tech house artist based in United States of America, with 85 gigs on soundcheck across Ibiza, Miami, New York City and Orlando and 3 more. Often billed alongside Lazaro Casanova, Nicole Fiallo and Cristian Arango. Next up: Brooklyn Pacha, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Oscar G is a house and tech house artist based in United States of America, with
 
 Lazaro Casanova, Nicole Fiallo, Cristian Arango
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarg/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarg/)*

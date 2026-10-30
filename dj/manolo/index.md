@@ -1,6 +1,6 @@
 # Manolo
 
-Manolo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Manolo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Manolo is a house and techno artist based in Switzerland, with 24 gigs on soundcheck across Berlin, Bogotá, Boston and Hamburg and 4 more. Often billed alongside Adolpho & Franky, Daccach and Giorgio Maulini. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Manolo is a house and techno artist based in Switzerland, with 24 gigs on soundc
 
 Adolpho & Franky, Daccach, Giorgio Maulini
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo/)*

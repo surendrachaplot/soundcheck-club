@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "dh2 presents George Daniel & Oscar Farrell (All Night Long) [SOLD OUT]" on Fri, 30 Oct 2026.
+Palais is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "dh2 presents George Daniel & Oscar Farrell (All Night Long) [SOLD OUT]" on Fri, 30 Oct 2026.
 
 Palais is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Adi (CO), anu, Axel Boman and Bakey and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 17 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

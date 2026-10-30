@@ -1,6 +1,6 @@
 # Argenis Brito
 
-Argenis Brito is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Argenis Brito is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
 Argenis Brito is a house and minimal artist based in Venezuela, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Guadalajara and 11 more. Often billed alongside Dandy Jack, Nils Ohrmann and Israel Sunshine. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Argenis Brito is a house and minimal artist based in Venezuela, with 47 gigs on 
 
 Dandy Jack, Nils Ohrmann, Israel Sunshine
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/argenisbrito/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/argenisbrito/)*

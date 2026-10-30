@@ -1,6 +1,6 @@
 # Blossom Hill
 
-Blossom Hill is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Orangerie Neukölln, Berlin on Fri, 6 Nov 2026.
+Blossom Hill is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Orangerie Neukölln, Berlin on Fri, 6 Nov 2026.
 
 Blossom Hill is a house and electronica artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Copenhagen and 5 more. Often billed alongside Seb Wildblood, schulze and ||||||||||||||||||||. Next up: Orangerie Neukölln, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Blossom Hill is a house and electronica artist based in United Kingdom, with 29 
 
 Seb Wildblood, schulze, ||||||||||||||||||||
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blossomhill/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blossomhill/)*

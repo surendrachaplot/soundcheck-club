@@ -1,6 +1,6 @@
 # Faciendo Soundsystem
 
-Faciendo Soundsystem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at feedbk, New York City on Sat, 31 Oct 2026.
+Faciendo Soundsystem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at feedbk, New York City on Sat, 31 Oct 2026.
 
 Faciendo Soundsystem is a house and techno artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Berlin, Bucharest and London and 4 more. Often billed alongside Desyn, Tom Morgan and Rama NYC. Next up: feedbk, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Faciendo Soundsystem is a house and techno artist based in United Kingdom, with 
 
 Desyn, Tom Morgan, Rama NYC
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faciendosoundsystem/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faciendosoundsystem/)*

@@ -1,6 +1,6 @@
 # Très Mortimer
 
-Très Mortimer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Edge Miami, Miami on Fri, 13 Nov 2026.
+Très Mortimer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Edge Miami, Miami on Fri, 13 Nov 2026.
 
 Très Mortimer is a house and tech house artist based in United States of America, with 20 gigs on soundcheck across Atlanta, Barcelona, Chicago and Detroit and 5 more. Often billed alongside DJ Heather, Derrick Carter and DJ Lady D. Next up: Edge Miami, Miami on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Très Mortimer is a house and tech house artist based in United States of Ameri
 
 DJ Heather, Derrick Carter, DJ Lady D
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tresmortimer/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tresmortimer/)*

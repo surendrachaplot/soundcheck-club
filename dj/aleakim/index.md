@@ -1,6 +1,6 @@
 # Aleakim
 
-Aleakim is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mercado Central RJ, Rio de Janeiro on Fri, 30 Oct 2026.
+Aleakim is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mercado Central RJ, Rio de Janeiro on Fri, 30 Oct 2026.
 
 Aleakim is a house and techno artist based in Brazil, with 37 gigs on soundcheck across Manchester, Rio De Janeiro and Rio de Janeiro. Often billed alongside Miguel Arcanjo, Africanoise and Quimera. Next up: Mercado Central RJ, Rio de Janeiro on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Aleakim is a house and techno artist based in Brazil, with 37 gigs on soundcheck
 
 Miguel Arcanjo, Africanoise, Quimera
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleakim/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleakim/)*

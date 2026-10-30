@@ -1,16 +1,17 @@
 # P.E.A.R.L.
 
-P.E.A.R.L. is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Lower Level, Boston on Sat, 31 Oct 2026.
+P.E.A.R.L. is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Boston on Sat, 31 Oct 2026.
 
-P.E.A.R.L. is a techno and house artist based in Spain, with 96 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Not A Headliner, Adriana Lopez and Henning Baer. Next up: The Lower Level, Boston on Sat 31 Oct.
+P.E.A.R.L. is a techno and house artist based in Spain, with 97 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Not A Headliner, Adriana Lopez and Henning Baer. Next up: TBA, Boston on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | The Lower Level | Boston |
+| Sat, 31 Oct 2026 | TBA | Boston |
 | Sat, 7 Nov 2026 | Lanna Club | North |
 | Sat, 21 Nov 2026 | Azimut Club | Turin |
+| Sat, 28 Nov 2026 | Nitsa Club | Barcelona |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ P.E.A.R.L. is a techno and house artist based in Spain, with 96 gigs on soundche
 
 Not A Headliner, Adriana Lopez, Henning Baer
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.e.a.r.l/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.e.a.r.l/)*

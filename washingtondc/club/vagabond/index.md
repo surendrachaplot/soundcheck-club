@@ -1,14 +1,13 @@
 # Vagabond
 
-Vagabond is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Golden Hour" on Thu, 29 Oct 2026.
+Vagabond is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Vagabond & Bohemia presents: Ghosts 'N' Stuff (FREE RSVP)" on Sat, 31 Oct 2026.
 
-Vagabond is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs, with line-ups including AJAMU, Fish House Funk, nonchalant and $et. See dates, start times and who's playing. 1836 18th Street NW, Washington, DC.
+Vagabond is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs, with line-ups including AJAMU and nonchalant. See dates, start times and who's playing. 1836 18th Street NW, Washington, DC.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Golden Hour | $et, Fish House Funk |
 | Sat, 31 Oct 2026 | Vagabond & Bohemia presents: Ghosts 'N' Stuff (FREE RSVP) | AJAMU, nonchalant |
 | Sat, 28 Nov 2026 | PARALLEL |  |
 
@@ -16,4 +15,4 @@ Vagabond is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs
 
 1836 18th Street NW, Washington, DC, Washington DC
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vagabond/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vagabond/)*

@@ -1,6 +1,6 @@
 # Florence.
 
-Florence. is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at A L P H A B E T, Brighton on Fri, 13 Nov 2026.
+Florence. is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at A L P H A B E T, Brighton on Fri, 13 Nov 2026.
 
 Florence. is a techno and acid artist based in United Kingdom, with 18 gigs on soundcheck across Brighton, London and Manchester. Often billed alongside Acid Carbon, Spinks and Bil-Sol. Next up: A L P H A B E T, Brighton on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Florence. is a techno and acid artist based in United Kingdom, with 18 gigs on s
 
 Acid Carbon, Spinks, Bil-Sol
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florence./)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florence./)*

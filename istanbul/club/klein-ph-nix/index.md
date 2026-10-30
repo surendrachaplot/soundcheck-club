@@ -1,6 +1,6 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Laolu + Orkun Bozdemir + Hemi" on Fri, 30 Oct 2026.
+Klein Phönix is a music venue in Istanbul with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Laolu + Orkun Bozdemir + Hemi" on Fri, 30 Oct 2026.
 
 Klein Phönix is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, with line-ups including Avangart Tabldot, Hemi, Henri Bergmann and Innellea and 2 more. See dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
@@ -18,4 +18,4 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs
 
 Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey, Istanbul
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*

@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 28 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "FABRICLIVE: Arthi, Chloé Robinson, JAEL, LAMSI, DJ Priya, State OFFF, TOCCORORO" on Fri, 30 Oct 2026.
+fabric is a music venue in London with 28 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FABRICLIVE: Arthi, Chloé Robinson, JAEL, LAMSI, DJ Priya, State OFFF, TOCCORORO" on Fri, 30 Oct 2026.
 
 fabric is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including 2 Bad Mice, Adam Clark, Alexis Raphael and Alfie Aukett and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 28 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

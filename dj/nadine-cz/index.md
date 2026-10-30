@@ -1,6 +1,6 @@
 # Nadine
 
-Nadine is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+Nadine is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
 Nadine is a techno and electro artist, with 9 gigs on soundcheck across Berlin, Hamburg and Prague. Often billed alongside Patricio Strix, Bonjour Ben and Daniel Czerner. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Nadine is a techno and electro artist, with 9 gigs on soundcheck across Berlin, 
 
 Patricio Strix, Bonjour Ben, Daniel Czerner
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadine-cz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadine-cz/)*

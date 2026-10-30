@@ -1,6 +1,6 @@
 # POPPO
 
-POPPO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ruby Room, Tokyo on Sat, 31 Oct 2026.
+POPPO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ruby Room, Tokyo on Sat, 31 Oct 2026.
 
 POPPO is a techno and house artist based in Japan, with 61 gigs on soundcheck across Okinawa, Sao Paulo and Tokyo. Often billed alongside ER-404, Taichi Kawahira and Yuto Sasaki. Next up: Ruby Room, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ POPPO is a techno and house artist based in Japan, with 61 gigs on soundcheck ac
 
 ER-404, Taichi Kawahira, Yuto Sasaki
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poppo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poppo/)*

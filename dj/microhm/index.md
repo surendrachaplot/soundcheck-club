@@ -1,6 +1,6 @@
 # Microhm
 
-Microhm is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Grüner Salon Der Volksbühne, Berlin on Sat, 31 Oct 2026.
+Microhm is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Grüner Salon Der Volksbühne, Berlin on Sat, 31 Oct 2026.
 
 Microhm is a techno and experimental artist based in Mexico, with 40 gigs on soundcheck across Barcelona, Berlin, Guadalajara and London and 1 more. Often billed alongside Imaabs, Ruiseñor and Aunty Rayzor. Next up: Grüner Salon Der Volksbühne, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Microhm is a techno and experimental artist based in Mexico, with 40 gigs on sou
 
 Imaabs, Ruiseñor, Aunty Rayzor
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microhm/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microhm/)*

@@ -1,6 +1,6 @@
 # @nimal
 
-@nimal is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bootleg Bar NYC, New York City on Sat, 31 Oct 2026.
+@nimal is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bootleg Bar NYC, New York City on Sat, 31 Oct 2026.
 
 @nimal is a techno and trance artist, with 12 gigs on soundcheck across New York City and Philadelphia. Often billed alongside PARADEX, A DJ Named SNE and ANTIMATTER. Next up: Bootleg Bar NYC, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@
 
 PARADEX, A DJ Named SNE, ANTIMATTER
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimal/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimal/)*

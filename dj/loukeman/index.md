@@ -1,14 +1,13 @@
 # Loukeman
 
-Loukeman is a House and Electronica artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lark, Berlin on Thu, 29 Oct 2026.
+Loukeman is a House and Electronica artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Badaboum, Paris on Fri, 30 Oct 2026.
 
-Loukeman is a house and electronica artist based in Canada, with 36 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Bristol and 13 more. Often billed alongside Vegyn, Lis Dalton and Marie Davidson. Next up: Lark, Berlin on Thu 29 Oct.
+Loukeman is a house and electronica artist based in Canada, with 36 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Bristol and 13 more. Often billed alongside Vegyn, Lis Dalton and Marie Davidson. Next up: Badaboum, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Lark | Berlin |
 | Fri, 30 Oct 2026 | Badaboum | Paris |
 | Sun, 1 Nov 2026 | Botanique | Brussels |
 | Thu, 5 Nov 2026 | fabric | London |
@@ -20,6 +19,7 @@ Loukeman is a house and electronica artist based in Canada, with 36 gigs on soun
 
 ## Recently played
 
+- Lark, Berlin · Thu, 29 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - The Ground at Club Space, Miami · Thu, 15 Oct 2026
 - Fortune Sound Club, Vancouver · Sat, 10 Oct 2026
@@ -27,10 +27,9 @@ Loukeman is a house and electronica artist based in Canada, with 36 gigs on soun
 - TBA, Toronto · Fri, 11 Sept 2026
 - Hito Scheveningen, The Hague · Sat, 8 Aug 2026
 - Old Royal Naval College, London · Fri, 7 Aug 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Vegyn, Lis Dalton, Marie Davidson
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*

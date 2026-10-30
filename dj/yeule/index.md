@@ -1,6 +1,6 @@
 # Yeule
 
-Yeule is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Los Angeles on Sun, 1 Nov 2026.
+Yeule is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Los Angeles on Sun, 1 Nov 2026.
 
 Yeule is an experimental and electronica artist, with 12 gigs on soundcheck across Chicago, Hong Kong, London and Los Angeles and 4 more. Often billed alongside Arca, Bolis Pupul and Cecile Believe. Next up: TBA, Los Angeles on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Yeule is an experimental and electronica artist, with 12 gigs on soundcheck acro
 
 Arca, Bolis Pupul, Cecile Believe
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeule/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeule/)*

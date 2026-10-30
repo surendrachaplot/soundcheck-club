@@ -1,6 +1,6 @@
 # Love Come Down Halloween Party at TBA - 70 Huron St 
 
-Love Come Down Halloween Party at TBA - 70 Huron St  on Sat 31 Oct, Toronto. 3 artists: Gil Masuda, Roland Gonzales and Sakiko Nagai. Disco and Funk / Soul. See the line-up on soundcheck.
+Love Come Down Halloween Party at TBA - 70 Huron St  on Sat 31 Oct, Toronto. 4 artists: Gil Masuda, John Kong, Roland Gonzales and Sakiko Nagai. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Love Come Down Halloween Party at TBA - 70 Huron St  on Sat 31 Oct, Toronto. 3 a
 ## Line-up
 
 - Gil Masuda
+- John Kong
 - Roland Gonzales
 - Sakiko Nagai
 

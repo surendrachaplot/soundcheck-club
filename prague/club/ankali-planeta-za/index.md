@@ -1,8 +1,8 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Archiv Teknologi: Pariah, Microchic, kletis" on Fri, 30 Oct 2026.
+Ankali & Planeta Za is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Archiv Teknologi: Pariah, Microchic, kletis" on Fri, 30 Oct 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including 3ever, Adelia, aláya and anthró and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with line-ups including 3ever, Adelia, aláya and anthró and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 12 upcoming
 | Sat, 14 Nov 2026 | HEAT X with GLIA | Demonika, GLIA, Midirama, VI:AM, Zuzana Hakl |
 | Fri, 20 Nov 2026 | ✮EERIE COLLECTIVE X The Kitchen✮ | AVHD, DDK (1), DJames (2), KRISTIE KARDIO, RADYK, SOLE DOSI, ZiZi, ishka machina, zazitech |
 | Sat, 21 Nov 2026 | Temple Of ⏐ გიორგობა | Kavkaz Widow, MARS (4), MLK:M, Technadze, VISNEACS, saHHar |
+| Fri, 27 Nov 2026 | allnighter: DJ MARIA. & Konduku | DJ MARIA., Konduku |
 | Fri, 4 Dec 2026 | hereandthere | Fake Agent, Fireground, Koruth, Marie Pravda, Pink Concrete, Richard Akingbehin, Schwa, Valley Dolly, White Aura, nthng |
-| Sat, 12 Dec 2026 | Weltraum | Adelia, Arton (CZ), Axis Alpha, Eva Falt, Grafik (2), Massa |
 
 ## Address
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

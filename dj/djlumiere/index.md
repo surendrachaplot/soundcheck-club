@@ -1,6 +1,6 @@
 # DJ Lumiere
 
-DJ Lumiere is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Sky Lounge 360, Prague on Fri, 30 Oct 2026.
+DJ Lumiere is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Sky Lounge 360, Prague on Fri, 30 Oct 2026.
 
 DJ Lumiere is a house and techno artist based in Czech Republic, with 62 gigs on soundcheck across Prague. Often billed alongside Ondrej K, Hugorieri and Daniel Neighbour. Next up: Sky Lounge 360, Prague on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ DJ Lumiere is a house and techno artist based in Czech Republic, with 62 gigs on
 
 Ondrej K, Hugorieri, Daniel Neighbour
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlumiere/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlumiere/)*

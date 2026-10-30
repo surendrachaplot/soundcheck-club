@@ -1,6 +1,6 @@
 # Eksman
 
-Eksman is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Eksman is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 Eksman is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on soundcheck across Auckland, Birmingham, Bristol and Cardiff and 12 more. Often billed alongside Hedex, IC3 and Logan D. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -35,4 +35,4 @@ Eksman is a drum & bass and jungle artist based in United Kingdom, with 75 gigs 
 
 Hedex, IC3, Logan D
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eksman/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eksman/)*

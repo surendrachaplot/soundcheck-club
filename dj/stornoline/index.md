@@ -1,6 +1,6 @@
 # Stornoline
 
-Stornoline is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Stornoline is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 Stornoline is a house and techno artist, with 16 gigs on soundcheck across Berlin, Hamburg, Leipzig and Zurich. Often billed alongside CHOREOPHILA, Multifun and Goldie Palm. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Stornoline is a house and techno artist, with 16 gigs on soundcheck across Berli
 
 CHOREOPHILA, Multifun, Goldie Palm
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stornoline/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stornoline/)*

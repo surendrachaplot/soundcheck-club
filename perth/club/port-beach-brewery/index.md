@@ -1,8 +1,8 @@
 # Port Beach Brewery
 
-Port Beach Brewery is a music venue in Perth with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "MC PAT FLYNN (IRE)" on Fri, 30 Oct 2026.
+Port Beach Brewery is a music venue in Perth with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "MC PAT FLYNN (IRE)" on Fri, 30 Oct 2026.
 
-Port Beach Brewery is a music venue in Perth listed on soundcheck. 10 upcoming gigs, with line-ups including Chicane, Daes, David Penn and DAWS and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
+Port Beach Brewery is a music venue in Perth listed on soundcheck. 11 upcoming gigs, with line-ups including Aline Rocha, Chicane, Daes and David Penn and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Port Beach Brewery is a music venue in Perth listed on soundcheck. 10 upcoming g
 
 Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia, Perth
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*

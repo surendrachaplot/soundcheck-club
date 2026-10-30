@@ -1,6 +1,6 @@
 # Club Guesthouse
 
-Club Guesthouse is a music venue in Bucharest with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Trails X GH present A Halloween Special with Gabbs, Mianda b2b Teodor Ghita, Paul Popa" on Sat, 31 Oct 2026.
+Club Guesthouse is a music venue in Bucharest with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Trails X GH present A Halloween Special with Gabbs, Mianda b2b Teodor Ghita, Paul Popa" on Sat, 31 Oct 2026.
 
 Club Guesthouse is a music venue in Bucharest listed on soundcheck. 3 upcoming gigs, with line-ups including CEZAR, Andrei Ciubuc, BILA and Cosmina and 2 more. See dates, start times and who's playing. Splaiul Unirii 160, Bucharest, Romania.
 
@@ -16,4 +16,4 @@ Club Guesthouse is a music venue in Bucharest listed on soundcheck. 3 upcoming g
 
 Splaiul Unirii 160, Bucharest, Romania, Bucharest
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*

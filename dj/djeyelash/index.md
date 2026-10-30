@@ -1,6 +1,6 @@
 # DJ EYELASH
 
-DJ EYELASH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Aisotope Lounge, Tokyo on Mon, 2 Nov 2026.
+DJ EYELASH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Aisotope Lounge, Tokyo on Mon, 2 Nov 2026.
 
 DJ EYELASH is a house and techno artist based in Japan, with 23 gigs on soundcheck across Tokyo. Often billed alongside DJ POIPOI, RUKE and TAT2K. Next up: Aisotope Lounge, Tokyo on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ DJ EYELASH is a house and techno artist based in Japan, with 23 gigs on soundche
 
 DJ POIPOI, RUKE, TAT2K
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeyelash/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeyelash/)*

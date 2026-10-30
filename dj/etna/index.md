@@ -1,6 +1,6 @@
 # ETNA
 
-ETNA is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gate Milano, Milan on Fri, 30 Oct 2026.
+ETNA is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gate Milano, Milan on Fri, 30 Oct 2026.
 
 ETNA is an electronica and house artist based in Italy, with 46 gigs on soundcheck across Athens, Ibiza, Milan and Naples and 1 more. Often billed alongside ALDAVE, Vice Luna and Words of Niō. Next up: Gate Milano, Milan on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ ETNA is an electronica and house artist based in Italy, with 46 gigs on soundche
 
 ALDAVE, Vice Luna, Words of Niō
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etna/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etna/)*

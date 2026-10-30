@@ -1,6 +1,6 @@
 # Meredith Supernatural Ampitheatre
 
-Meredith Supernatural Ampitheatre is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Meredith 34" on Fri, 11 Dec 2026.
+Meredith Supernatural Ampitheatre is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Meredith 34" on Fri, 11 Dec 2026.
 
 Meredith Supernatural Ampitheatre is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Blue Communications, Dijon, DJ Seinfeld and FCUKERS and 2 more. See dates, start times and who's playing. 1233 Meredith Mt Mercer Rd; Meredith, VIC 3333; Australia.
 
@@ -15,4 +15,4 @@ Meredith Supernatural Ampitheatre is a music venue in Melbourne listed on soundc
 
 1233 Meredith Mt Mercer Rd; Meredith, VIC 3333; Australia, Melbourne
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/meredith-supernatural-ampitheatre/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/meredith-supernatural-ampitheatre/)*

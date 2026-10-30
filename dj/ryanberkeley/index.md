@@ -1,6 +1,6 @@
 # Ryan Berkeley
 
-Ryan Berkeley is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Coil, Melbourne on Sat, 31 Oct 2026.
+Ryan Berkeley is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Coil, Melbourne on Sat, 31 Oct 2026.
 
 Ryan Berkeley is a house and deep house artist based in Australia, with 17 gigs on soundcheck across Auckland, Melbourne and Sydney. Often billed alongside DJ Ingrid, DJ JNETT and Mikekon. Next up: Coil, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ryan Berkeley is a house and deep house artist based in Australia, with 17 gigs 
 
 DJ Ingrid, DJ JNETT, Mikekon
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanberkeley/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanberkeley/)*

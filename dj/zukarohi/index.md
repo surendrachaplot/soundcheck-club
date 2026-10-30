@@ -1,6 +1,6 @@
 # ZuKaRoHi
 
-ZuKaRoHi is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Forestlimit, Tokyo on Thu, 5 Nov 2026.
+ZuKaRoHi is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Forestlimit, Tokyo on Thu, 5 Nov 2026.
 
 ZuKaRoHi is a bass and experimental artist based in Japan, with 19 gigs on soundcheck across Tokyo. Often billed alongside NullDaSensei, Sayuri and eurlica. Next up: Forestlimit, Tokyo on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ ZuKaRoHi is a bass and experimental artist based in Japan, with 19 gigs on sound
 
 NullDaSensei, Sayuri (1), eurlica
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zukarohi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zukarohi/)*

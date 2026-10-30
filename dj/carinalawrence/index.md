@@ -1,6 +1,6 @@
 # Carina Lawrence
 
-Carina Lawrence is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Timber Loft, London on Fri, 30 Oct 2026.
+Carina Lawrence is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Timber Loft, London on Fri, 30 Oct 2026.
 
 Carina Lawrence is a progressive house and techno artist based in Australia, with 66 gigs on soundcheck across Brighton, Bristol, London and Los Angeles and 6 more. Often billed alongside Innerstice, Jesabel and Redfreya. Next up: The Timber Loft, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Carina Lawrence is a progressive house and techno artist based in Australia, wit
 
 Innerstice, Jesabel, Redfreya
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carinalawrence/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carinalawrence/)*

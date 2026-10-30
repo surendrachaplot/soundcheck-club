@@ -1,6 +1,6 @@
 # Franz Jäger
 
-Franz Jäger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Under Bron, Stockholm on Sat, 28 Nov 2026.
+Franz Jäger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Under Bron, Stockholm on Sat, 28 Nov 2026.
 
 Franz Jäger is a techno and house artist based in Sweden, with 39 gigs on soundcheck across Berlin, Brussels, Düsseldorf and Ghent and 11 more. Often billed alongside Alexander Lind, Egotot and Martina Menfors. Next up: Under Bron, Stockholm on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Franz Jäger is a techno and house artist based in Sweden, with 39 gigs on sound
 
 Alexander Lind, Egotot, Martina Menfors
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franzjager/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franzjager/)*

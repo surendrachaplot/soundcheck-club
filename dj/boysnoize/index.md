@@ -1,6 +1,6 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
+Boys Noize is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
 
 Boys Noize is a techno and house artist based in Germany, with 177 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 64 more. Often billed alongside VTSS, MCR-T and Patrick Mason. Next up: Gold Bar Hangar, California on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Boys Noize is a techno and house artist based in Germany, with 177 gigs on sound
 
 VTSS, MCR-T, Patrick Mason
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

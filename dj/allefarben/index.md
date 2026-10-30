@@ -1,6 +1,6 @@
 # Alle Farben
 
-Alle Farben is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at halle02, Heidelberg on Fri, 30 Oct 2026.
+Alle Farben is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at halle02, Heidelberg on Fri, 30 Oct 2026.
 
 Alle Farben is a techno and tech house artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 13 more. Often billed alongside Noel Holler, LOVRA and DJ Jordan. Next up: halle02, Heidelberg on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Alle Farben is a techno and tech house artist based in Germany, with 47 gigs on 
 
 Noel Holler, LOVRA, DJ Jordan
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allefarben/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allefarben/)*

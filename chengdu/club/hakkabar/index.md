@@ -1,6 +1,6 @@
 # Hakkabar 院吧
 
-Hakkabar 院吧 is a music venue in Chengdu with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "10.30  科华北，酒鬼出没" on Fri, 30 Oct 2026.
+Hakkabar 院吧 is a music venue in Chengdu with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "10.30  科华北，酒鬼出没" on Fri, 30 Oct 2026.
 
 Hakkabar 院吧 is a music venue in Chengdu listed on soundcheck. 3 upcoming gigs, with line-ups including 150xs and HAL. See dates, start times and who's playing. 成都市科华北路沸城A座1201.
 
@@ -16,4 +16,4 @@ Hakkabar 院吧 is a music venue in Chengdu listed on soundcheck. 3 upcoming gig
 
 成都市科华北路沸城A座1201, Chengdu
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/hakkabar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/hakkabar/)*

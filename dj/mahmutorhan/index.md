@@ -1,6 +1,6 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Mahmut Orhan is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Mahmut Orhan is a house and afro house artist based in Turkey, with 143 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside ARODES, Shimza and Adriatique. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 143 gigs on 
 
 ARODES, Shimza, Adriatique
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

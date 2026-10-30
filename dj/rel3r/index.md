@@ -1,6 +1,6 @@
 # Rel3r
 
-Rel3r is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Viuz, Medellin on Fri, 30 Oct 2026.
+Rel3r is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Viuz, Medellin on Fri, 30 Oct 2026.
 
 Rel3r is a tech house and house artist based in Colombia, with 62 gigs on soundcheck across Bogotá and Medellin. Often billed alongside MEXES, DH Moon and Bownce. Next up: Viuz, Medellin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rel3r is a tech house and house artist based in Colombia, with 62 gigs on soundc
 
 MEXES, DH Moon, Bownce
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rel3r/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rel3r/)*

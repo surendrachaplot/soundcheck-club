@@ -1,6 +1,6 @@
 # Mattias El Mansouri
 
-Mattias El Mansouri is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Mattias El Mansouri is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Mattias El Mansouri is a techno and house artist based in Sweden, with 71 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 9 more. Often billed alongside Sergej Orlov, Oberman and Chlär. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Mattias El Mansouri is a techno and house artist based in Sweden, with 71 gigs o
 
 Sergej Orlov, Oberman, Chlär
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*

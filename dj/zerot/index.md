@@ -1,6 +1,6 @@
 # Zero T
 
-Zero T is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tama, Poznan on Fri, 6 Nov 2026.
+Zero T is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tama, Poznan on Fri, 6 Nov 2026.
 
 Zero T is a drum & bass and jungle artist based in United Kingdom, with 79 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 30 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: Tama, Poznan on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Zero T is a drum & bass and jungle artist based in United Kingdom, with 79 gigs 
 
 Lenzman, MC Fox, Fabio
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zerot/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zerot/)*

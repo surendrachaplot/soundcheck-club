@@ -1,6 +1,6 @@
 # Oasis
 
-Oasis is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Black Ass Weekend 2026" on Fri, 27 Nov 2026.
+Oasis is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Black Ass Weekend 2026" on Fri, 27 Nov 2026.
 
 Oasis is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Oasis is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming
 | Fri, 27 Nov 2026 | Black Ass Weekend 2026 |  |
 | Fri, 27 Nov 2026 | Black Ass Weekend 2026 |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/oasis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/oasis/)*

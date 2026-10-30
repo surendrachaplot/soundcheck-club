@@ -1,6 +1,6 @@
 # NDK
 
-NDK is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Burlington Beer Co., Vermont on Sat, 31 Oct 2026.
+NDK is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Burlington Beer Co., Vermont on Sat, 31 Oct 2026.
 
 NDK is a trance and techno artist based in United States of America, with 25 gigs on soundcheck across Boston, Melbourne, Tokyo and Vermont. Often billed alongside BEPPU, Jay Turio and DJ 34. Next up: Burlington Beer Co., Vermont on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NDK is a trance and techno artist based in United States of America, with 25 gig
 
 BEPPU, Jay Turio, DJ 34
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ndk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ndk/)*

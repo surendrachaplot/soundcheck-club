@@ -1,6 +1,6 @@
 # Trimzz
 
-Trimzz is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Musa Kulturzentrum, Lower-saxony on Sat, 31 Oct 2026.
+Trimzz is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Musa Kulturzentrum, Lower-saxony on Sat, 31 Oct 2026.
 
 Trimzz is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin, Hannover, Kassel and Lower Saxony. Often billed alongside Disscut, Ferenkt and Danilo Filipe. Next up: Musa Kulturzentrum, Lower Saxony on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Trimzz is a techno and trance artist based in Germany, with 4 gigs on soundcheck
 
 Disscut, Ferenkt, Danilo Filipe
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trimzz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trimzz/)*

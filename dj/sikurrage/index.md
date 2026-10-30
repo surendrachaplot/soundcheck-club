@@ -1,6 +1,6 @@
 # Si Kurrage
 
-Si Kurrage is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at New Forms, London on Fri, 30 Oct 2026.
+Si Kurrage is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at New Forms, London on Fri, 30 Oct 2026.
 
 Si Kurrage is a disco and house artist, with 25 gigs on soundcheck across Ibiza and London. Often billed alongside Mr Shiver, Sancho Panza and Stuart Patterson. Next up: New Forms, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Si Kurrage is a disco and house artist, with 25 gigs on soundcheck across Ibiza 
 
 Mr Shiver, Sancho Panza, Stuart Patterson
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sikurrage/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sikurrage/)*

@@ -1,6 +1,6 @@
 # Ochill
 
-Ochill is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "SENJO×Ohill" on Sat, 28 Nov 2026.
+Ochill is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "SENJO×Ohill" on Sat, 28 Nov 2026.
 
 Ochill is a music venue in Kyoto listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ochill is a music venue in Kyoto listed on soundcheck. 1 upcoming gig. See dates
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | SENJO×Ohill |  |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/ochill/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/ochill/)*

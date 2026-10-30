@@ -1,6 +1,6 @@
 # Karretero
 
-Karretero is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 20 Nov 2026.
+Karretero is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 20 Nov 2026.
 
 Karretero is a tech house and techno artist based in Spain, with 52 gigs on soundcheck across Barcelona, Ibiza, Lisbon and London and 5 more. Often billed alongside Joseph Capriati, Chelina Manuhutu and Vitrie Vitoli. Next up: NIX Barcelona, Barcelona on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Karretero is a tech house and techno artist based in Spain, with 52 gigs on soun
 
 Joseph Capriati, Chelina Manuhutu, Vitrie Vitoli
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karretero/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karretero/)*

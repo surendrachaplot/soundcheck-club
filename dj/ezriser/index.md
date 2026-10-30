@@ -1,6 +1,6 @@
 # EZ Riser
 
-EZ Riser is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Indiranagar Social, Bangalore on Fri, 30 Oct 2026.
+EZ Riser is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Indiranagar Social, Bangalore on Fri, 30 Oct 2026.
 
 EZ Riser is a drum & bass and bass artist based in India, with 4 gigs on soundcheck across Bangalore, Dubai and Melbourne. Often billed alongside Chunky, Emelyne and HASHTAGPOPE. Next up: Indiranagar Social, Bangalore on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ EZ Riser is a drum & bass and bass artist based in India, with 4 gigs on soundch
 
 Chunky, Emelyne, HASHTAGPOPE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezriser/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezriser/)*

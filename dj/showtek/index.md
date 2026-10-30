@@ -1,6 +1,6 @@
 # Showtek
 
-Showtek is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Showtek is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Showtek is a techno and hardcore artist based in Netherlands, with 20 gigs on soundcheck across Chicago, Denver, Düsseldorf and Gdansk and 12 more. Often billed alongside Coone, Darren Styles and Afrojack. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Showtek is a techno and hardcore artist based in Netherlands, with 20 gigs on so
 
 Coone, Darren Styles, Afrojack
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/showtek/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/showtek/)*

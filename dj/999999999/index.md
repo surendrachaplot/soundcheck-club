@@ -1,6 +1,6 @@
 # 999999999
 
-999999999 is a Techno and Acid artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
+999999999 is a Techno and Acid artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
 
 999999999 is a techno and acid artist based in Italy, with 326 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 94 more. Often billed alongside I Hate Models, Charlie Sparks and Clara Cuvé. Next up: Gold Bar Hangar, California on Fri 30 Oct.
 
@@ -34,4 +34,4 @@
 
 I Hate Models, Charlie Sparks, Clara Cuvé
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

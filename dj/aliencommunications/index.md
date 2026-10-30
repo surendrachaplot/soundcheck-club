@@ -1,6 +1,6 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Movers, Nottingham on Fri, 30 Oct 2026.
+Alien Communications is a Electro and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Movers, Nottingham on Fri, 30 Oct 2026.
 
 Alien Communications is an electro and techno artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 22 more. Often billed alongside Jos, Ste Roberts and De La Reef. Next up: Movers, Nottingham on Fri 30 Oct.
 
@@ -32,4 +32,4 @@ Alien Communications is an electro and techno artist based in United Kingdom, wi
 
 Jos, Ste Roberts, De La Reef
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*

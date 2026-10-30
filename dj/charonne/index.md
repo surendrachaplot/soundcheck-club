@@ -1,6 +1,6 @@
 # Charonne
 
-Charonne is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
+Charonne is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
 
 Charonne is a house and electro artist based in France, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 15 more. Often billed alongside ABI (FR), Blanco and Gabriel Belabbas. Next up: FVTVR, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Charonne is a house and electro artist based in France, with 57 gigs on soundche
 
 ABI (FR), Blanco, Gabriel Belabbas
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charonne/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charonne/)*

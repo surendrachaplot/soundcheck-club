@@ -1,6 +1,6 @@
 # Pinotello
 
-Pinotello is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
+Pinotello is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
 
 Pinotello is a hardcore and techno artist based in Netherlands, with 27 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 9 more. Often billed alongside The Dark Horror, Lekkerfaces and Major Conspiracy. Next up: Razzmatazz, Barcelona on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Pinotello is a hardcore and techno artist based in Netherlands, with 27 gigs on 
 
 The Dark Horror, Lekkerfaces, Major Conspiracy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinotello/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinotello/)*

@@ -1,6 +1,6 @@
 # Oso Feo
 
-Oso Feo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Fri, 30 Oct 2026.
+Oso Feo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar Part Time, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Oso Feo is a techno and house artist based in United States of America, with 30 gigs on soundcheck across New York City, Portland and San Francisco/Oakland. Often billed alongside Eichef, llloyd (US) and Just Another Bitch. Next up: Bar Part Time, San Francisco/Oakland on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Oso Feo is a techno and house artist based in United States of America, with 30 
 
 Eichef, llloyd (US), Just Another Bitch
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osofeo-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osofeo-2/)*

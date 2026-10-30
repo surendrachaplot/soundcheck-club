@@ -1,6 +1,6 @@
 # Kaaimusic
 
-Kaaimusic is a Hardcore and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tide Tokyo, Tokyo on Sat, 31 Oct 2026.
+Kaaimusic is a Hardcore and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tide Tokyo, Tokyo on Sat, 31 Oct 2026.
 
 Kaaimusic is a hardcore and industrial artist based in Italy, with 38 gigs on soundcheck across Amsterdam, Milan, Slovenia and Tokyo. Often billed alongside PULSE (NL), Gino Lightner and HEMPTOTE. Next up: Tide Tokyo, Tokyo on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kaaimusic is a hardcore and industrial artist based in Italy, with 38 gigs on so
 
 PULSE (NL), Gino Lightner, HEMPTOTE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaaimusic/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaaimusic/)*

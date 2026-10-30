@@ -1,6 +1,6 @@
 # Klayman
 
-Klayman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
+Klayman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
 
 Klayman is a house and techno artist, with 40 gigs on soundcheck across Budapest. Often billed alongside Vatsanah, SVR101 and Terminal. Next up: Turbina, Budapest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Klayman is a house and techno artist, with 40 gigs on soundcheck across Budapest
 
 Vatsanah, SVR101, Terminal (2)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klayman/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klayman/)*

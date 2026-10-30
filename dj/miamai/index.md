@@ -1,6 +1,6 @@
 # Mia Mai
 
-Mia Mai is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The White Hotel, Manchester on Wed, 25 Nov 2026.
+Mia Mai is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The White Hotel, Manchester on Wed, 25 Nov 2026.
 
 Mia Mai is a techno and electronica artist based in United Kingdom, with 30 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside MYOHMY, All Trades and Aly P. Next up: The White Hotel, Manchester on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Mia Mai is a techno and electronica artist based in United Kingdom, with 30 gigs
 
 MYOHMY, All Trades, Aly P
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miamai/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miamai/)*

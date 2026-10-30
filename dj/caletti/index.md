@@ -1,6 +1,6 @@
 # Caletti
 
-Caletti is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Narocz 13, Warsaw on Sat, 31 Oct 2026.
+Caletti is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Narocz 13, Warsaw on Sat, 31 Oct 2026.
 
 Caletti is a bass and dubstep artist based in Poland, with 2 gigs on soundcheck across Warsaw. Often billed alongside faron, Avtomat and illgal. Next up: Narocz 13, Warsaw on Sat 31 Oct.
 
@@ -15,4 +15,4 @@ Caletti is a bass and dubstep artist based in Poland, with 2 gigs on soundcheck 
 
 faron, Avtomat, illgal
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caletti/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caletti/)*

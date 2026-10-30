@@ -1,6 +1,6 @@
 # Sascha Cawa
 
-Sascha Cawa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kater, Berlin on Fri, 18 Dec 2026.
+Sascha Cawa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Fri, 18 Dec 2026.
 
 Sascha Cawa is a house and techno artist based in Germany, with 62 gigs on soundcheck across Berlin, Copenhagen, Dubai and Frankfurt and 10 more. Often billed alongside Pauli Pocket, Britta Arnold and Peter Schumann. Next up: Kater, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Sascha Cawa is a house and techno artist based in Germany, with 62 gigs on sound
 
 Pauli Pocket, Britta Arnold, Peter Schumann
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saschacawa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saschacawa/)*

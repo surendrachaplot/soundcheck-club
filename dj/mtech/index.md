@@ -1,6 +1,6 @@
 # MTECH
 
-MTECH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 16 Dec 2026.
+MTECH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 16 Dec 2026.
 
 MTECH is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Detroit, New York City and Washington DC. Often billed alongside Destro187, DEMEN-TEK and DJ SOUL SLINGER. Next up: Bossa Nova Civic Club, New York City on Wed 16 Dec.
 
@@ -25,4 +25,4 @@ MTECH is a techno and house artist based in United States of America, with 11 gi
 
 Destro187, DEMEN-TEK, DJ SOUL SLINGER
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mtech/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mtech/)*

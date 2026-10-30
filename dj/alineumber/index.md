@@ -1,14 +1,13 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Jolene Downtown Miami, Miami on Thu, 29 Oct 2026.
+Aline Umber is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 31 Oct 2026.
 
-Aline Umber is a house and minimal artist based in France, with 112 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Jolene Downtown Miami, Miami on Thu 29 Oct.
+Aline Umber is a house and minimal artist based in France, with 112 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Brooklyn Storehouse, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Jolene Downtown Miami | Miami |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sun, 1 Nov 2026 | Flash | Washington DC |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
@@ -18,6 +17,7 @@ Aline Umber is a house and minimal artist based in France, with 112 gigs on soun
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami · Thu, 29 Oct 2026
 - Taets Art & Event Park, Amsterdam · Sat, 24 Oct 2026
 - Plaza Camden, London · Sat, 10 Oct 2026
 - NDSM Docklands, Amsterdam · Sun, 13 Sept 2026
@@ -25,10 +25,9 @@ Aline Umber is a house and minimal artist based in France, with 112 gigs on soun
 - TBA - Warehouse, Denver · Sat, 29 Aug 2026
 - Lunchbox, Atlanta · Fri, 28 Aug 2026
 - Brooklyn Storehouse, New York City · Fri, 21 Aug 2026
-- Sunset Park Rooftop, New York City · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

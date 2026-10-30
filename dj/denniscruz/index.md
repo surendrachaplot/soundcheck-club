@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Bohemia Beach Club, Dubai on Sat, 31 Oct 2026.
+Dennis Cruz is a Tech House and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bohemia Beach Club, Dubai on Sat, 31 Oct 2026.
 
 Dennis Cruz is a tech house and house artist based in Spain, with 204 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside PAWSA, Marco Carola and Seth Troxler. Next up: Bohemia Beach Club, Dubai on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Dennis Cruz is a tech house and house artist based in Spain, with 204 gigs on so
 
 PAWSA, Marco Carola, Seth Troxler
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

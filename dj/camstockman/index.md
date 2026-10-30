@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Depot, Cardiff on Fri, 30 Oct 2026.
+Cam Stockman is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Depot, Cardiff on Fri, 30 Oct 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, with 77 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 26 more. Often billed alongside Tommy Phillips, Locky and Gaskin. Next up: Depot, Cardiff on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, with 77 g
 
 Tommy Phillips, Locky, Gaskin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

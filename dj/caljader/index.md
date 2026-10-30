@@ -1,6 +1,6 @@
 # Cal Jader
 
-Cal Jader is a Afrobeat and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Jam Jar, Bristol on Fri, 30 Oct 2026.
+Cal Jader is a Afrobeat and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Jam Jar, Bristol on Fri, 30 Oct 2026.
 
 Cal Jader is an afrobeat and afrobeats artist based in United Kingdom, with 23 gigs on soundcheck across Bogotá, Bristol, London and Madrid. Often billed alongside Amancai, Baby Cocada and CHYMBA. Next up: The Jam Jar, Bristol on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Cal Jader is an afrobeat and afrobeats artist based in United Kingdom, with 23 g
 
 Amancai, Baby Cocada, CHYMBA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caljader/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caljader/)*

@@ -1,6 +1,6 @@
 # Willis Anne
 
-Willis Anne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Angel Music Bar, Melbourne on Thu, 5 Nov 2026.
+Willis Anne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Angel Music Bar, Melbourne on Thu, 5 Nov 2026.
 
 Willis Anne is a techno and house artist based in France, with 43 gigs on soundcheck across Berlin, Ho Chi Minh City, Melbourne and Osaka and 3 more. Often billed alongside Kate Miller, Rakhi and DJ Possum. Next up: Angel Music Bar, Melbourne on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Willis Anne is a techno and house artist based in France, with 43 gigs on soundc
 
 Kate Miller, Rakhi, DJ Possum
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willisanne/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willisanne/)*

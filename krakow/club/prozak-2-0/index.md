@@ -1,6 +1,6 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "𝖉𝖆𝖓𝖈𝖊 𝕸𝖆𝖈𝖆𝖇𝖗𝖊 HALLOWEEN" on Fri, 30 Oct 2026.
+Prozak 2.0 is a music venue in Krakow with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "𝖉𝖆𝖓𝖈𝖊 𝕸𝖆𝖈𝖆𝖇𝖗𝖊 HALLOWEEN" on Fri, 30 Oct 2026.
 
 Prozak 2.0 is a music venue in Krakow listed on soundcheck. 13 upcoming gigs, with line-ups including Forest (PL), Francesca, Gunz and Kuriozum and 2 more. See dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
@@ -23,4 +23,4 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 13 upcoming gigs, wi
 
 plac Dominikański 6, 33-332 Kraków, Poland, Krakow
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*

@@ -1,6 +1,6 @@
 # Mark Osborne
 
-Mark Osborne is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at fabric, London on Sat, 28 Nov 2026.
+Mark Osborne is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 Mark Osborne is a house and disco artist based in United Kingdom, with 34 gigs on soundcheck across London. Often billed alongside Lauren Thompson, Martin Lodge and Ronnie Herel. Next up: fabric, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mark Osborne is a house and disco artist based in United Kingdom, with 34 gigs o
 
 Lauren Thompson, Martin Lodge, Ronnie Herel
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markosborne/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markosborne/)*

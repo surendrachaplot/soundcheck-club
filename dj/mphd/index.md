@@ -1,6 +1,6 @@
 # MPHD
 
-MPHD is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 7 Nov 2026.
+MPHD is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 MPHD is a house and disco artist based in United States of America, with 21 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ M3, Beverly Chills and BEYA. Next up: Monarch, San Francisco/Oakland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MPHD is a house and disco artist based in United States of America, with 21 gigs
 
 DJ M3, Beverly Chills, BEYA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mphd/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mphd/)*

@@ -1,6 +1,6 @@
 # Axel Hallqvist
 
-Axel Hallqvist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eventhuset, Stockholm on Fri, 30 Oct 2026.
+Axel Hallqvist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Eventhuset, Stockholm on Fri, 30 Oct 2026.
 
 Axel Hallqvist is a house and techno artist, with 13 gigs on soundcheck across Gothenburg and Stockholm. Often billed alongside Rickard Ehn, Anthony Linell and Daniel Lien. Next up: Eventhuset, Stockholm on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Axel Hallqvist is a house and techno artist, with 13 gigs on soundcheck across G
 
 Rickard Ehn, Anthony Linell, Daniel Lien
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelhallqvist/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelhallqvist/)*

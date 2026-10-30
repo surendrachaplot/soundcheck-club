@@ -1,6 +1,6 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 19 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "HYBRID: SZG" on Sat, 31 Oct 2026.
+Sala Cocó is a music venue in Madrid with 19 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HYBRID: SZG" on Sat, 31 Oct 2026.
 
 Sala Cocó is a music venue in Madrid listed on soundcheck. 19 upcoming gigs, with line-ups including Benwal, Bushbaby, Clouds and DJ Heartstring and 2 more. See dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala Cocó is a music venue in Madrid listed on soundcheck. 19 upcoming gigs, wi
 
 Calle Alcalá 20, 28014 Madrid, Spain, Madrid
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*

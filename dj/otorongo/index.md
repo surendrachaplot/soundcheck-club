@@ -1,6 +1,6 @@
 # Otorongo
 
-Otorongo is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Howler, Melbourne on Sun, 15 Nov 2026.
+Otorongo is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Howler, Melbourne on Sun, 15 Nov 2026.
 
 Otorongo is a downtempo and electronica artist based in Chile, with 21 gigs on soundcheck across Barcelona, Brisbane, Byron Bay and Melbourne and 1 more. Often billed alongside Cuerpo Negro, Martha van Straaten and Phil Smart. Next up: Howler, Melbourne on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Otorongo is a downtempo and electronica artist based in Chile, with 21 gigs on s
 
 Cuerpo Negro, Martha van Straaten, Phil Smart
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otorongo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otorongo/)*

@@ -1,6 +1,6 @@
 # Frucula
 
-Frucula is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Opposite, Barcelona on Fri, 13 Nov 2026.
+Frucula is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Opposite, Barcelona on Fri, 13 Nov 2026.
 
 Frucula is a house and techno artist based in Spain, with 47 gigs on soundcheck across Barcelona. Often billed alongside MøønkiZa, Lupe Republic and Lea Corio. Next up: Opposite, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Frucula is a house and techno artist based in Spain, with 47 gigs on soundcheck 
 
 MøønkiZa, Lupe Republic, Lea Corio
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frucula/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frucula/)*

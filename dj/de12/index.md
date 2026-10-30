@@ -1,6 +1,6 @@
 # DE12
 
-DE12 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location (CE), Naples on Sat, 31 Oct 2026.
+DE12 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location (CE), Naples on Sat, 31 Oct 2026.
 
 DE12 is a techno and electro artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Naples and Rome. Often billed alongside Zama, kaizoku and Ilgattoelavolpe. Next up: TBA - Secret Location (CE), Naples on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DE12 is a techno and electro artist based in Italy, with 17 gigs on soundcheck a
 
 Zama, kaizoku, Ilgattoelavolpe
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/de12/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/de12/)*

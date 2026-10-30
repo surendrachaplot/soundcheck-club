@@ -1,6 +1,6 @@
 # Teshi tama
 
-Teshi tama is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at rake?raka?, Osaka on Fri, 6 Nov 2026.
+Teshi tama is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at rake?raka?, Osaka on Fri, 6 Nov 2026.
 
 Teshi tama is a techno and minimal techno artist based in Japan, with 26 gigs on soundcheck across Osaka. Often billed alongside KENSUKE, Bonzo and KANTA. Next up: rake?raka?, Osaka on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Teshi tama is a techno and minimal techno artist based in Japan, with 26 gigs on
 
 KENSUKE, Bonzo, KANTA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teshitama/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teshitama/)*

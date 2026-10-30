@@ -1,6 +1,6 @@
 # GNNS
 
-GNNS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Patision65, Athens on Fri, 30 Oct 2026.
+GNNS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Patision65, Athens on Fri, 30 Oct 2026.
 
 GNNS is a techno and house artist, with 6 gigs on soundcheck across Athens. Often billed alongside Sigma Theta, Extase Urbaine and IMPVLSIV. Next up: Patision65, Athens on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ GNNS is a techno and house artist, with 6 gigs on soundcheck across Athens. Ofte
 
 Sigma Theta, Extase Urbaine, IMPVLSIV
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gnns/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gnns/)*

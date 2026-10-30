@@ -1,8 +1,8 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Disfunction: Halloween Horrors" on Sat, 31 Oct 2026.
+The Classic Grand is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Disfunction: Halloween Horrors" on Sat, 31 Oct 2026.
 
-The Classic Grand is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), DYEN and Joe Deacon and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
+The Classic Grand is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), BUCK and Chaos Clan and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
 ## What's on
 
@@ -12,7 +12,7 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 12 upcoming 
 | Fri, 6 Nov 2026 | PHG Presents: Dyen | DYEN |
 | Fri, 6 Nov 2026 | PHG presents: DYEN | DYEN |
 | Sat, 7 Nov 2026 | KHAOTIC x DVOID presents: EXPROZ, INCULT, MYLAN WESTERS & MORE |  |
-| Sat, 28 Nov 2026 | Exile - POLTERGST, Rayzen, Argy X | Argy(uk) |
+| Sat, 28 Nov 2026 | Exile - POLTERGST, Rayzen, Argy X, BUCK, Kelci - Room 2 DARKSIDE Uptempo  | Argy(uk), BUCK, Chaos Clan, DARKSIDE, Rob Da Rhythm |
 | Fri, 4 Dec 2026 | Nanna Makina + MC Tazo: Headline Show | 2 Sick Puppiez, MC Tazo, MC Tiny, Nanna Makina, Oakzy B |
 | Sat, 5 Dec 2026 | 1994 Orgasmico | Joe Deacon |
 | Sat, 12 Dec 2026 | Obscura x Luminex presents: Raxeller, Ngl & Embers | Raxeller |
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 12 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

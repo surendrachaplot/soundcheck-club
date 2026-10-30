@@ -1,6 +1,6 @@
 # Boy Harsher
 
-Boy Harsher is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Franklin Music Hall, Philadelphia on Sat, 31 Oct 2026.
+Boy Harsher is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Franklin Music Hall, Philadelphia on Sat, 31 Oct 2026.
 
 Boy Harsher is a techno and industrial artist based in United States of America, with 34 gigs on soundcheck across Atlanta, Auckland, Austin and Brisbane and 16 more. Often billed alongside Augustus Muller, Kassie Krut and Andi. Next up: Franklin Music Hall, Philadelphia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Boy Harsher is a techno and industrial artist based in United States of America,
 
 Augustus Muller, Kassie Krut, Andi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyharsher/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyharsher/)*

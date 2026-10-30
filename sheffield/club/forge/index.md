@@ -1,6 +1,6 @@
 # FORGE
 
-FORGE is a music venue in Sheffield with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween: Dr Banana + Locky + dj sweet6teen" on Fri, 30 Oct 2026.
+FORGE is a music venue in Sheffield with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween: Dr Banana + Locky + dj sweet6teen" on Fri, 30 Oct 2026.
 
 FORGE is a music venue in Sheffield listed on soundcheck. 7 upcoming gigs, with line-ups including Adam F, adamine, Charla Green and dj sweet6teen and 2 more. See dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
 
@@ -20,4 +20,4 @@ FORGE is a music venue in Sheffield listed on soundcheck. 7 upcoming gigs, with 
 
 148 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*

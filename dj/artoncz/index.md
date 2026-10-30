@@ -1,6 +1,6 @@
 # Arton (CZ)
 
-Arton (CZ) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 12 Dec 2026.
+Arton (CZ) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 12 Dec 2026.
 
 Arton (CZ) is a techno and dub techno artist based in Czech Republic, with 13 gigs on soundcheck across Brno and Prague. Often billed alongside Axis Alpha, Eva Falt and ka.za. Next up: Ankali & Planeta Za, Prague on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Arton (CZ) is a techno and dub techno artist based in Czech Republic, with 13 gi
 
 Axis Alpha, Eva Falt, ka.za
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artoncz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artoncz/)*

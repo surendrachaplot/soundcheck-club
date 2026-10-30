@@ -1,6 +1,6 @@
 # VENT (3)
 
-VENT (3) is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at NUMBER 90 LONDON, London on Sun, 1 Nov 2026.
+VENT (3) is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at NUMBER 90 LONDON, London on Sun, 1 Nov 2026.
 
 VENT is a techno artist based in United Kingdom, with 13 gigs on soundcheck across London and Manchester. Often billed alongside Sofi., Burden and Slumber. Next up: NUMBER 90 LONDON, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ VENT is a techno artist based in United Kingdom, with 13 gigs on soundcheck acro
 
 Sofi., Burden, Slumber
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vent-3/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vent-3/)*

@@ -1,6 +1,6 @@
 # Barbara Tucker
 
-Barbara Tucker is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at CKC Warehouse, Houston on Sat, 31 Oct 2026.
+Barbara Tucker is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at CKC Warehouse, Houston on Sat, 31 Oct 2026.
 
 Barbara Tucker is a house and disco artist based in United States of America, with 41 gigs on soundcheck across Amsterdam, Baltimore, Bucharest and Chicago and 16 more. Often billed alongside Bustin' Loose, Natasha Diggs and Sam Karlson. Next up: CKC Warehouse, Houston on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Barbara Tucker is a house and disco artist based in United States of America, wi
 
 Bustin' Loose, Natasha Diggs, Sam Karlson
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaratucker/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaratucker/)*

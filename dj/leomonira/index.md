@@ -1,6 +1,6 @@
 # leomonira
 
-leomonira is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Cartilage, Paris on Fri, 30 Oct 2026.
+leomonira is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cartilage, Paris on Fri, 30 Oct 2026.
 
 leomonira is a techno and hardcore artist based in Germany, with 19 gigs on soundcheck across Beijing, Berlin, London and Milan and 3 more. Often billed alongside Techno-Blondy, Parma Ham and Psyber Angel. Next up: Cartilage, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ leomonira is a techno and hardcore artist based in Germany, with 19 gigs on soun
 
 Techno-Blondy, Parma Ham, Psyber Angel
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leomonira/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leomonira/)*

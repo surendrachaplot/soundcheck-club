@@ -1,6 +1,6 @@
 # Cormac
 
-Cormac is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Biscuit Factory, Edinburgh on Fri, 30 Oct 2026.
+Cormac is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Biscuit Factory, Edinburgh on Fri, 30 Oct 2026.
 
 Cormac is a house and techno artist, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 69 more. Often billed alongside BASHKKA, Roi Perez and Massimiliano Pagliara. Next up: The Biscuit Factory, Edinburgh on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Cormac is a house and techno artist, with 204 gigs on soundcheck across Amsterda
 
 BASHKKA, Roi Perez, Massimiliano Pagliara
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*

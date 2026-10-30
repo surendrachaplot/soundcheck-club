@@ -1,6 +1,6 @@
 # Sarnival
 
-Sarnival is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SPOT SECRETO, Santiago on Sat, 28 Nov 2026.
+Sarnival is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - SPOT SECRETO, Santiago on Sat, 28 Nov 2026.
 
 Sarnival is a techno and electronica artist based in Spain, with 24 gigs on soundcheck across Berlin, Buenos Aires and Santiago. Often billed alongside Sam Wilson, Melania Wonder and Daniela Fuzz. Next up: TBA - SPOT SECRETO, Santiago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sarnival is a techno and electronica artist based in Spain, with 24 gigs on soun
 
 Sam Wilson, Melania Wonder, Daniela Fuzz
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarnival/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarnival/)*

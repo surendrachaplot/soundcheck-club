@@ -1,6 +1,6 @@
 # Martel (UK)
 
-Martel (UK) is a House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
+Martel (UK) is a House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
 
 Martel (UK) is a house and minimal techno artist, with 12 gigs on soundcheck across London. Often billed alongside MARTEL, Paddy Cotter and Aaron Burr. Next up: NDR2 Red Room, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Martel (UK) is a house and minimal techno artist, with 12 gigs on soundcheck acr
 
 MARTEL, Paddy Cotter, Aaron Burr (2)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marteluk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marteluk/)*

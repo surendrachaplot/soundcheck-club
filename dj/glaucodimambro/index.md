@@ -1,6 +1,6 @@
 # Glauco Di Mambro
 
-Glauco Di Mambro is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Nômade Temple Madrid, Madrid on Fri, 30 Oct 2026.
+Glauco Di Mambro is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nômade Temple Madrid, Madrid on Fri, 30 Oct 2026.
 
 Glauco Di Mambro is a house and electronica artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Dubai and 16 more. Often billed alongside Omer Tayar, Vice Luna and Afrotrace. Next up: Nômade Temple Madrid, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Glauco Di Mambro is a house and electronica artist based in Italy, with 65 gigs 
 
 Omer Tayar, Vice Luna, Afrotrace
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glaucodimambro/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glaucodimambro/)*

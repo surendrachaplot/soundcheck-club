@@ -1,6 +1,6 @@
 # Miscmeg
 
-Miscmeg is a Tech House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Bell City Takeaway, Melbourne on Sat, 31 Oct 2026.
+Miscmeg is a Tech House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Bell City Takeaway, Melbourne on Sat, 31 Oct 2026.
 
 Miscmeg is a tech house and techno artist, with 75 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Melbourne and 2 more. Often billed alongside Reptant, Moopie and Paper-Cuts. Next up: TBA - Bell City Takeaway, Melbourne on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Miscmeg is a tech house and techno artist, with 75 gigs on soundcheck across Ber
 
 Reptant, Moopie, Paper-Cuts
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miscmeg/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miscmeg/)*

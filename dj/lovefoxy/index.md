@@ -1,6 +1,6 @@
 # LOVEFOXY
 
-LOVEFOXY is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 14 Nov 2026.
+LOVEFOXY is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 14 Nov 2026.
 
 LOVEFOXY is a house and techno artist based in Germany, with 189 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Barcelona and 53 more. Often billed alongside DJ Heartstring, Elli Acula and fka.m4a. Next up: Lux Fragil, Lisbon on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ LOVEFOXY is a house and techno artist based in Germany, with 189 gigs on soundch
 
 DJ Heartstring, Elli Acula, fka.m4a
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*

@@ -1,6 +1,6 @@
 # tokenbeats
 
-tokenbeats is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
+tokenbeats is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
 
 tokenbeats is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Al Aslan, cell1 and Brauer. Next up: TBA, Berlin on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ tokenbeats is a techno and trance artist based in Germany, with 7 gigs on soundc
 
 Al Aslan, cell1, Brauer
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokenbeats/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokenbeats/)*

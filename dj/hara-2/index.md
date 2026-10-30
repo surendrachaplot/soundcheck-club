@@ -1,6 +1,6 @@
 # hara (2)
 
-hara (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 6 Nov 2026.
+hara (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 6 Nov 2026.
 
 hara is a house and electro artist based in Japan, with 32 gigs on soundcheck across Lisbon, New York City and Tokyo. Often billed alongside okadada, Carpainter and HEAVEN'S GATE CREW. Next up: ZEROTOKYO, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ hara is a house and electro artist based in Japan, with 32 gigs on soundcheck ac
 
 okadada, Carpainter, HEAVEN'S GATE CREW
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hara-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hara-2/)*

@@ -1,14 +1,13 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Club — LA CH!CK: MOTHER MONSTER HALLOWEEN" on Thu, 29 Oct 2026.
+Badaboum is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Club — Silva Bumpa, Scolcab, Unsho, NOON" on Fri, 30 Oct 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including bonpublic, Curses, DJ Physical and dj sweet6teen and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including bonpublic, Curses, DJ Physical and dj sweet6teen and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Club — LA CH!CK: MOTHER MONSTER HALLOWEEN |  |
 | Fri, 30 Oct 2026 | Club — Silva Bumpa, Scolcab, Unsho, NOON | Halfpipe Records, NOON, Silva Bumpa, Unsho |
 | Fri, 30 Oct 2026 | Loukeman | Loukeman |
 | Sat, 31 Oct 2026 | Halloween Party — Curses, Joe Lewandowski, Le Saint, RAG | Curses, Joe Lewandowski, Le Saint, RAG |
@@ -18,9 +17,10 @@ Badaboum is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with 
 | Tue, 10 Nov 2026 | Club — House in Symphony: Soul Frequency, Onibaku, in aerem, Canapé Bleu | Onibaku, Soul Frequency, in aerem |
 | Fri, 13 Nov 2026 | Club — Marli & Master c-fu (all night long) | Marli, Master c-fu |
 | Thu, 19 Nov 2026 | Concert — Maria Arnal, GEISTE |  |
+| Thu, 19 Nov 2026 | Club — LA CH!CK: REMEMBERING BRAT SUMMER |  |
 
 ## Address
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

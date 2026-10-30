@@ -1,6 +1,6 @@
 # Raysoo
 
-Raysoo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - JOLOKO, Kuala Lumpur on Sat, 14 Nov 2026.
+Raysoo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - JOLOKO, Kuala Lumpur on Sat, 14 Nov 2026.
 
 Raysoo is a house and techno artist, with 77 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 4 more. Often billed alongside Biscuit (MY), Meliha and Obadius. Next up: TBA - JOLOKO, Kuala Lumpur on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Raysoo is a house and techno artist, with 77 gigs on soundcheck across Bali, Ban
 
 Biscuit (MY), Meliha, Obadius
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raysoo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raysoo/)*

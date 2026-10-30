@@ -1,6 +1,6 @@
 # Fluid
 
-Fluid is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Socore Factory, Osaka on Fri, 13 Nov 2026.
+Fluid is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Socore Factory, Osaka on Fri, 13 Nov 2026.
 
 Fluid is a techno and industrial artist based in Germany, with 30 gigs on soundcheck across Barcelona, Berlin, Ljubljana and London and 3 more. Often billed alongside hybral, Nicki Black and Nnamael. Next up: Socore Factory, Osaka on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Fluid is a techno and industrial artist based in Germany, with 30 gigs on soundc
 
 hybral, Nicki Black, Nnamael
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fluid/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fluid/)*

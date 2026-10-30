@@ -1,6 +1,6 @@
 # SOFA SOFA
 
-SOFA SOFA is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Loco Klub, Bristol on Fri, 30 Oct 2026.
+SOFA SOFA is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Loco Klub, Bristol on Fri, 30 Oct 2026.
 
 SOFA SOFA is a garage and house artist, with 14 gigs on soundcheck across Bristol and London. Often billed alongside Skillis, A For Alpha and Monika Taneska. Next up: The Loco Klub, Bristol on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SOFA SOFA is a garage and house artist, with 14 gigs on soundcheck across Bristo
 
 Skillis, A For Alpha, Monika Taneska
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofasofa/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofasofa/)*

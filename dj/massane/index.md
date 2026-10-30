@@ -1,6 +1,6 @@
 # Massane
 
-Massane is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
+Massane is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
 Massane is a house and deep house artist based in France, with 44 gigs on soundcheck across Austin, Baltimore, Charlotte and Chicago and 17 more. Often billed alongside Qrion, EMBRZ (IE) and Lane 8. Next up: Petco Park, San Diego on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Massane is a house and deep house artist based in France, with 44 gigs on soundc
 
 Qrion, EMBRZ (IE), Lane 8
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massane/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massane/)*

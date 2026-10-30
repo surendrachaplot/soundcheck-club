@@ -1,14 +1,15 @@
 # Nita Key
 
-Nita Key is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Laboratorio Octogon, Madrid on Fri, 30 Oct 2026.
+Nita Key is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Laboratorio Octogon, Madrid on Fri, 30 Oct 2026.
 
-Nita Key is a techno and trance artist based in Spain, with 22 gigs on soundcheck across Barcelona and Madrid. Often billed alongside CRONEKIA, Nahum Korm and INEXXSTABLE. Next up: Laboratorio Octogon, Madrid on Fri 30 Oct.
+Nita Key is a techno and trance artist based in Spain, with 23 gigs on soundcheck across Barcelona and Madrid. Often billed alongside CRONEKIA, Nahum Korm and INEXXSTABLE. Next up: Laboratorio Octogon, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Laboratorio Octogon | Madrid |
+| Sun, 1 Nov 2026 | M7 Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nita Key is a techno and trance artist based in Spain, with 22 gigs on soundchec
 
 CRONEKIA, Nahum Korm, INEXXSTABLE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitakey/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitakey/)*

@@ -1,6 +1,6 @@
 # High Club Room
 
-High Club Room is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Underwater x YUKI's house HALLOWEEN PARTY" on Fri, 30 Oct 2026.
+High Club Room is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Underwater x YUKI's house HALLOWEEN PARTY" on Fri, 30 Oct 2026.
 
 High Club Room is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Depaart, ESTRELLA OR, Martin Balladares and Ninalash! and 1 more. See dates, start times and who's playing. C/ de Joaquin Costa 27, 28002. Madrid.
 
@@ -20,4 +20,4 @@ High Club Room is a music venue in Madrid listed on soundcheck. 7 upcoming gigs,
 
 C/ de Joaquin Costa 27, 28002. Madrid, Madrid
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*

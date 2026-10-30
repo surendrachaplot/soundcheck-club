@@ -1,6 +1,6 @@
 # SolaNino
 
-SolaNino is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Azumaya, Tokyo on Wed, 11 Nov 2026.
+SolaNino is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Azumaya, Tokyo on Wed, 11 Nov 2026.
 
 SolaNino is a bass and techno artist based in Japan, with 64 gigs on soundcheck across Tokyo. Often billed alongside Rt3mis, SN_Yeah and GS Projekt. Next up: Azumaya, Tokyo on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ SolaNino is a bass and techno artist based in Japan, with 64 gigs on soundcheck 
 
 Rt3mis, SN_Yeah, GS Projekt
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solanino/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solanino/)*

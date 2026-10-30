@@ -1,6 +1,6 @@
 # Sofozor
 
-Sofozor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
+Sofozor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 29 Nov 2026.
 
 Sofozor is a house and techno artist based in Japan, with 31 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Krankent and Cheshire Yums. Next up: Aoyama Hachi, Tokyo on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Sofozor is a house and techno artist based in Japan, with 31 gigs on soundcheck 
 
 SIGNAL (JP), Krankent, Cheshire Yums
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofozor/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofozor/)*

@@ -1,6 +1,6 @@
 # S'base Fitrzroy
 
-S'base Fitrzroy is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "VOS presents Ben Kamal [BE]" on Sat, 7 Nov 2026.
+S'base Fitrzroy is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "VOS presents Ben Kamal [BE]" on Sat, 7 Nov 2026.
 
 S'base Fitrzroy is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Ben Kamal and Rev Lon. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ S'base Fitrzroy is a music venue in Melbourne listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | VOS presents Ben Kamal [BE] | Ben Kamal, Rev Lon |
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/s-base-fitrzroy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/s-base-fitrzroy/)*

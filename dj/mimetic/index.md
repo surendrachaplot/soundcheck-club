@@ -1,6 +1,6 @@
 # mimetic
 
-mimetic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - fol'terres, Lausanne on Fri, 30 Oct 2026.
+mimetic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - fol'terres, Lausanne on Fri, 30 Oct 2026.
 
 mimetic is a techno and electro artist, with 20 gigs on soundcheck across Geneva, Lausanne, Milan and Paris. Often billed alongside Puma, Buds Buzzy and Garance. Next up: TBA - fol'terres, Lausanne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ mimetic is a techno and electro artist, with 20 gigs on soundcheck across Geneva
 
 Puma, Buds Buzzy, Garance
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimetic/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimetic/)*

@@ -1,6 +1,6 @@
 # Acid Arab
 
-Acid Arab is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Principal Club, Thessaloniki on Sat, 28 Nov 2026.
+Acid Arab is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Principal Club, Thessaloniki on Sat, 28 Nov 2026.
 
 Acid Arab is a techno and electro artist based in France, with 107 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 36 more. Often billed alongside NTO, TDJ and Goom Gum. Next up: Principal Club, Thessaloniki on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ Acid Arab is a techno and electro artist based in France, with 107 gigs on sound
 
 NTO, TDJ, Goom Gum
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*

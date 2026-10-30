@@ -1,6 +1,6 @@
 # Benny Rodrigues
 
-Benny Rodrigues is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 30 Oct 2026.
+Benny Rodrigues is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 30 Oct 2026.
 
 Benny Rodrigues is a house and techno artist based in Netherlands, with 207 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Croatia and 6 more. Often billed alongside Michel de Hey, Prunk and Karim Soliman. Next up: SISSI'S Amsterdam, Amsterdam on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ Benny Rodrigues is a house and techno artist based in Netherlands, with 207 gigs
 
 Michel de Hey, Prunk, Karim Soliman
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*

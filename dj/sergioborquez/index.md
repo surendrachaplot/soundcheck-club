@@ -1,6 +1,6 @@
 # Sergio Borquez
 
-Sergio Borquez is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ROCA HIFI, Mexico City on Wed, 28 Oct 2026.
+Sergio Borquez is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ROCA HIFI, Mexico City on Wed, 28 Oct 2026.
 
 Sergio Borquez is a house and downtempo artist based in Mexico, with 30 gigs on soundcheck across Mexico City. Often billed alongside Celice Monnette, Carlos Pocz and Holder. Next up: ROCA HIFI, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Sergio Borquez is a house and downtempo artist based in Mexico, with 30 gigs on 
 
 Celice Monnette, Carlos Pocz, Holder
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergioborquez/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergioborquez/)*

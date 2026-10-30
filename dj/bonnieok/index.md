@@ -1,6 +1,6 @@
 # Bonnie OK
 
-Bonnie OK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
+Bonnie OK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
 
 Bonnie OK is a house and techno artist based in Switzerland, with 17 gigs on soundcheck across Frankfurt, Hamburg, Karlsruhe and Zurich. Often billed alongside DJ Equipment, Luka (CH) and Aline (CH). Next up: Kauz, Zurich on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Bonnie OK is a house and techno artist based in Switzerland, with 17 gigs on sou
 
 DJ Equipment, Luka (CH), Aline (CH)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnieok/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnieok/)*

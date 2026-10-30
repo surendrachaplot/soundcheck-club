@@ -1,6 +1,6 @@
 # Chupa (2)
 
-Chupa (2) is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - AMOR by SALVAJE, Dubai on Fri, 30 Oct 2026.
+Chupa (2) is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - AMOR by SALVAJE, Dubai on Fri, 30 Oct 2026.
 
 Chupa is a minimal and minimal techno artist, with 8 gigs on soundcheck across Dubai. Often billed alongside Gaamer. Next up: TBA - AMOR by SALVAJE, Dubai on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Chupa is a minimal and minimal techno artist, with 8 gigs on soundcheck across D
 
 Gaamer
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chupa-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chupa-2/)*

@@ -1,6 +1,6 @@
 # Zur Klappe
 
-Zur Klappe is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Halloween" on Sat, 31 Oct 2026.
+Zur Klappe is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween" on Sat, 31 Oct 2026.
 
 Zur Klappe is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Annina, Ele Luz, grey.ish and Jack Clark and 2 more. See dates, start times and who's playing. Yorckstrasse 0, 10965, Berlin.
 
@@ -17,4 +17,4 @@ Zur Klappe is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wit
 
 Yorckstrasse 0, 10965, Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zur-klappe/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zur-klappe/)*

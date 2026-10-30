@@ -1,6 +1,6 @@
 # [119]
 
-[119] is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "2 years psYƨq" on Fri, 30 Oct 2026.
+[119] is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "2 years psYƨq" on Fri, 30 Oct 2026.
 
 [119] is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Afgang, Captain Pastek, Carl Raban and ISA (ES) and 2 more. See dates, start times and who's playing. Storkower Straße 119, 10407 Berlin.
 
@@ -17,4 +17,4 @@
 
 Storkower Straße 119, 10407 Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*

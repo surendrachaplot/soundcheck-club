@@ -1,6 +1,6 @@
 # Sean Green
 
-Sean Green is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Empire Stage, New York City on Fri, 30 Oct 2026.
+Sean Green is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Empire Stage, New York City on Fri, 30 Oct 2026.
 
 Sean Green is a techno and house artist, with 6 gigs on soundcheck across New York City. Often billed alongside Botanist, Niyx and Petal. Next up: Empire Stage, New York City on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Sean Green is a techno and house artist, with 6 gigs on soundcheck across New Yo
 
 Botanist, Niyx, Petal
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seangreen/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seangreen/)*

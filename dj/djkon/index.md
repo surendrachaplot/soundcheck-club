@@ -1,6 +1,6 @@
 # DJ Kon
 
-DJ Kon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 6 Nov 2026.
+DJ Kon is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 DJ Kon is a house and disco artist based in United States of America, with 22 gigs on soundcheck across Boston, Chicago, Detroit and London and 6 more. Often billed alongside Trip Report, DJ Amir and Osunlade. Next up: Arcana, San Francisco/Oakland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Kon is a house and disco artist based in United States of America, with 22 gi
 
 Trip Report, DJ Amir, Osunlade
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkon/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkon/)*

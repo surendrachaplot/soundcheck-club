@@ -1,6 +1,6 @@
 # P.O (1)
 
-P.O (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Yard, Manchester on Sat, 7 Nov 2026.
+P.O (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Yard, Manchester on Sat, 7 Nov 2026.
 
 P.O is a techno and electro artist based in France, with 58 gigs on soundcheck across Barcelona, Brussels, Bucharest and Buenos Aires and 17 more. Often billed alongside Flo Massé, Occibel and Lumbago. Next up: The Yard, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ P.O is a techno and electro artist based in France, with 58 gigs on soundcheck a
 
 Flo Massé, Occibel, Lumbago
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o-1/)*

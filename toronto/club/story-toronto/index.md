@@ -1,6 +1,6 @@
 # Story Toronto
 
-Story Toronto is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "[CANCELLED] 404: system HALLOWEEN" on Sat, 31 Oct 2026.
+Story Toronto is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "[CANCELLED] 404: system HALLOWEEN" on Sat, 31 Oct 2026.
 
 Story Toronto is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Amoosh, Aydan XR, Driss Skali and KILL 9 1 and 2 more. See dates, start times and who's playing. 214 Adelaide St W, Toronto, ON M5H 1W7, Canada.
 
@@ -16,4 +16,4 @@ Story Toronto is a music venue in Toronto listed on soundcheck. 3 upcoming gigs,
 
 214 Adelaide St W, Toronto, ON M5H 1W7, Canada, Toronto
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/story-toronto/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/story-toronto/)*

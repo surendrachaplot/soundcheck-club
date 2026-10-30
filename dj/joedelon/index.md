@@ -1,6 +1,6 @@
 # Joe Delon
 
-Joe Delon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Joe Delon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Joe Delon is a house and techno artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Antwerp, Beijing and Berlin and 40 more. Often billed alongside Gwenan, Dana Kuehr and Nick Kagame. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Joe Delon is a house and techno artist based in United Kingdom, with 129 gigs on
 
 Gwenan, Dana Kuehr, Nick Kagame
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joedelon/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joedelon/)*

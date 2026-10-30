@@ -1,6 +1,6 @@
 # Cherry Chola
 
-Cherry Chola is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Antro Juan, Mexico City on Sun, 1 Nov 2026.
+Cherry Chola is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Antro Juan, Mexico City on Sun, 1 Nov 2026.
 
 Cherry Chola is a house and electronica artist based in Australia, with 4 gigs on soundcheck across Melbourne, Mexico City and Sydney. Often billed alongside 1tbsp, 6 SENSE and Ahadadream. Next up: Antro Juan, Mexico City on Sun 1 Nov.
 
@@ -17,4 +17,4 @@ Cherry Chola is a house and electronica artist based in Australia, with 4 gigs o
 
 1tbsp, 6 SENSE, Ahadadream
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrychola/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrychola/)*

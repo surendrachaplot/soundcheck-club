@@ -1,6 +1,6 @@
 # SONNS
 
-SONNS is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
+SONNS is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
 
 SONNS is a house and acid artist based in France, with 29 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Dave Aju, Tavish and Capes. Next up: TBA, Los Angeles on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SONNS is a house and acid artist based in France, with 29 gigs on soundcheck acr
 
 Dave Aju, Tavish, Capes
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonns/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonns/)*

@@ -1,6 +1,6 @@
 # The Edge, Fed Square
 
-The Edge, Fed Square is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "Suzanne Ciani (quadraphonic) + CORIN presents DIWA (live A/V)" on Sun, 6 Dec 2026.
+The Edge, Fed Square is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Suzanne Ciani (quadraphonic) + CORIN presents DIWA (live A/V)" on Sun, 6 Dec 2026.
 
 The Edge, Fed Square is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including CORIN and Suzanne Ciani. See dates, start times and who's playing. Swanston St &, Flinders St, Melbourne VIC 3000.
 
@@ -14,4 +14,4 @@ The Edge, Fed Square is a music venue in Melbourne listed on soundcheck. 1 upcom
 
 Swanston St &, Flinders St, Melbourne VIC 3000, Melbourne
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-edge-fed-square/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-edge-fed-square/)*

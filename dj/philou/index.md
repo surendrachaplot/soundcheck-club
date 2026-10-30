@@ -1,6 +1,6 @@
 # Philou
 
-Philou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at House of Yes, New York City on Fri, 30 Oct 2026.
+Philou is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at House of Yes, New York City on Fri, 30 Oct 2026.
 
 Philou is a house and techno artist based in France, with 55 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 14 more. Often billed alongside Chambord, Daniel Weil and Victoire. Next up: House of Yes, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Philou is a house and techno artist based in France, with 55 gigs on soundcheck 
 
 Chambord, Daniel Weil, Victoire
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philou/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philou/)*

@@ -1,6 +1,6 @@
 # Tiff Cornish
 
-Tiff Cornish is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OneSixOne, Melbourne on Fri, 27 Nov 2026.
+Tiff Cornish is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OneSixOne, Melbourne on Fri, 27 Nov 2026.
 
 Tiff Cornish is a house and techno artist based in Australia, with 29 gigs on soundcheck across Brisbane, Hobart, Melbourne and Sydney and 1 more. Often billed alongside KELLY TEE, Boogs and Airwolf Paradise. Next up: OneSixOne, Melbourne on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Tiff Cornish is a house and techno artist based in Australia, with 29 gigs on so
 
 KELLY TEE, Boogs, Airwolf Paradise
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffcornish/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffcornish/)*

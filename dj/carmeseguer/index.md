@@ -1,6 +1,6 @@
 # CARMESEGUER
 
-CARMESEGUER is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at El Internacional, Madrid on Fri, 30 Oct 2026.
+CARMESEGUER is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at El Internacional, Madrid on Fri, 30 Oct 2026.
 
 CARMESEGUER is a house and electronica artist based in Spain, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Nau Leone, Chris Figueroa and Gleezy. Next up: El Internacional, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ CARMESEGUER is a house and electronica artist based in Spain, with 20 gigs on so
 
 Nau Leone, Chris Figueroa, Gleezy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmeseguer/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmeseguer/)*

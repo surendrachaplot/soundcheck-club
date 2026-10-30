@@ -1,6 +1,6 @@
 # Miss Monique
 
-Miss Monique is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Club M2 Miami, Miami on Sat, 7 Nov 2026.
+Miss Monique is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club M2 Miami, Miami on Sat, 7 Nov 2026.
 
 Miss Monique is a techno and house artist based in Ukraine, with 264 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 66 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Club M2 Miami, Miami on Sat 7 Nov.
 
@@ -33,4 +33,4 @@ Miss Monique is a techno and house artist based in Ukraine, with 264 gigs on sou
 
 Hugel, Artbat, CamelPhat
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*

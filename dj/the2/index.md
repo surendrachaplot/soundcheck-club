@@ -1,6 +1,6 @@
 # the2$
 
-the2$ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
+the2$ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
 the2$ is a techno and industrial artist based in Japan, with 81 gigs on soundcheck across Kanto, Seoul, Shenzhen and Taipei and 1 more. Often billed alongside Golpe Mortal, KOSEI and TEI TEI. Next up: TBA - Kinone Pension, Kanto on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ the2$ is a techno and industrial artist based in Japan, with 81 gigs on soundche
 
 Golpe Mortal, KOSEI, TEI TEI
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/the2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/the2/)*

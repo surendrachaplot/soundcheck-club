@@ -1,6 +1,6 @@
 # DJ PayPaul
 
-DJ PayPaul is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
+DJ PayPaul is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
 
 DJ PayPaul is a techno and house artist based in Germany, with 42 gigs on soundcheck across Berlin. Often billed alongside KEN (DE), FLEXTASY and PADERKID. Next up: KitKatClub, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ PayPaul is a techno and house artist based in Germany, with 42 gigs on soundc
 
 KEN (DE), FLEXTASY, PADERKID
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypaul/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypaul/)*

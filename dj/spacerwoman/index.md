@@ -1,6 +1,6 @@
 # Spacer Woman
 
-Spacer Woman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at ROSA, Berlin on Sat, 21 Nov 2026.
+Spacer Woman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ROSA, Berlin on Sat, 21 Nov 2026.
 
 Spacer Woman is a techno and trance artist based in Turkey, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 36 more. Often billed alongside MALUGI, Justin Tinderdate and Marlon Hoffstadt. Next up: ROSA, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Spacer Woman is a techno and trance artist based in Turkey, with 147 gigs on sou
 
 MALUGI, Justin Tinderdate, Marlon Hoffstadt
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*

@@ -1,6 +1,6 @@
 # JOANNA DARK
 
-JOANNA DARK is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at John Doe, Amsterdam on Fri, 6 Nov 2026.
+JOANNA DARK is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at John Doe, Amsterdam on Fri, 6 Nov 2026.
 
 JOANNA DARK is a techno and industrial artist based in Spain, with 31 gigs on soundcheck across Amsterdam, Barcelona and Madrid. Often billed alongside Oscar Escapa, Beto Delgado and Inout. Next up: John Doe, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ JOANNA DARK is a techno and industrial artist based in Spain, with 31 gigs on so
 
 Oscar Escapa, Beto Delgado, Inout
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannadark/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannadark/)*

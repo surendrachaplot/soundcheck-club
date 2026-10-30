@@ -1,6 +1,6 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Sekta Selekta for Cats" on Thu, 29 Oct 2026.
+Sekta Selekta is a music venue in Krakow with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Sekta Selekta: Alfred Czital, Meke, Yanna Melko" on Fri, 30 Oct 2026.
 
 Sekta Selekta is a music venue in Krakow listed on soundcheck. 9 upcoming gigs, with line-ups including Aim Ana, Aircraft, Alfred Czital and Badalian and 2 more. See dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
@@ -8,9 +8,9 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 9 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Sekta Selekta for Cats | Aim Ana |
 | Fri, 30 Oct 2026 | Sekta Selekta: Alfred Czital, Meke, Yanna Melko | Alfred Czital, Meke |
 | Sat, 31 Oct 2026 | Sekta Selekta: Mister Teaser, Alex S, Zharkov | Mister Teaser, Zharkov |
+| Sun, 1 Nov 2026 | Sekta Selekta: Prosto Dre ALL NIGHT LONG | Prosto Dre |
 | Fri, 6 Nov 2026 | Selekta: Gene On Earth | Badalian, Gene On Earth, Lil'Dave, Meke, Nadezh No |
 | Sat, 7 Nov 2026 | Sekta Selekta: Dr.Nojoke(Live), Sinmo, jjvisionn | Dr.Nojoke, Sinmo |
 | Fri, 13 Nov 2026 | exo_series: 004/ Olivia, MATRIX3K, Aim Ana | Aim Ana, MATRIX3K, Olivia |
@@ -22,4 +22,4 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 9 upcoming gigs, 
 
 Nowa, 31-056 Kraków, Poland, Krakow
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*

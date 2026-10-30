@@ -1,6 +1,6 @@
 # LSDXOXO
 
-LSDXOXO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
+LSDXOXO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
 
 LSDXOXO is a techno and house artist based in United States of America, with 214 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 68 more. Often billed alongside VTSS, Boys Noize and Helena Hauff. Next up: Industry City, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ LSDXOXO is a techno and house artist based in United States of America, with 214
 
 VTSS, Boys Noize, Helena Hauff
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*

@@ -1,14 +1,13 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "The Boogie Room" on Thu, 29 Oct 2026.
+Bar Oriente is a music venue in Mexico City with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Anastazja (USA), Baby Mango, Chimparon" on Fri, 30 Oct 2026.
 
-Bar Oriente is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, AJ Christou, Alatriste and Anastazja and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, with line-ups including AEREA, AJ Christou, Anastazja and Andre VII and 2 more. See dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | The Boogie Room | Alatriste, Cinema Paradisco, Drophem |
 | Fri, 30 Oct 2026 | Anastazja (USA), Baby Mango, Chimparon | Anastazja, Baby Mango, Chimparonnn |
 | Sat, 31 Oct 2026 | HALLOWEEN: Andre VII, Cabizbajo, Colossio | Andre VII, Cabizbajo, Colossio |
 | Fri, 6 Nov 2026 | AJ Christou (U.K. - Cuttin' Headz) | AJ Christou |
@@ -21,4 +20,4 @@ Bar Oriente is a music venue in Mexico City listed on soundcheck. 8 upcoming gig
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

@@ -1,6 +1,6 @@
 # bellxsxs
 
-bellxsxs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+bellxsxs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
 bellxsxs is a house and techno artist based in Australia, with 52 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Boogs, Ben Silver and Jordan Corey. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
@@ -12,6 +12,7 @@ bellxsxs is a house and techno artist based in Australia, with 52 gigs on soundc
 
 ## Recently played
 
+- New Guernica, Melbourne · Thu, 29 Oct 2026
 - OneSixOne, Melbourne · Thu, 15 Oct 2026
 - Revolver Upstairs, Melbourne · Sun, 11 Oct 2026
 - Revolver Upstairs, Melbourne · Fri, 2 Oct 2026
@@ -19,10 +20,9 @@ bellxsxs is a house and techno artist based in Australia, with 52 gigs on soundc
 - OneSixOne, Melbourne · Fri, 4 Sept 2026
 - Glamorama, Melbourne · Sat, 29 Aug 2026
 - OneSixOne, Melbourne · Thu, 13 Aug 2026
-- Revolver Upstairs, Melbourne · Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Boogs, Ben Silver, Jordan Corey
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellxsxs/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellxsxs/)*

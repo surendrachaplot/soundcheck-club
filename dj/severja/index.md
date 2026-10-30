@@ -1,6 +1,6 @@
 # Severja
 
-Severja is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at FOLD, London on Sat, 7 Nov 2026.
+Severja is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at FOLD, London on Sat, 7 Nov 2026.
 
 Severja is a techno and idm artist based in Germany, with 60 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Chengdu and 16 more. Often billed alongside Aion, Polygonia and Tangela. Next up: FOLD, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Severja is a techno and idm artist based in Germany, with 60 gigs on soundcheck 
 
 Aion, Polygonia, Tangela
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/severja/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/severja/)*

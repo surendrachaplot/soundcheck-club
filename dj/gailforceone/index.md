@@ -1,6 +1,6 @@
 # Gail Force One
 
-Gail Force One is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at H0L0, New York City on Fri, 20 Nov 2026.
+Gail Force One is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at H0L0, New York City on Fri, 20 Nov 2026.
 
 Gail Force One is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Berlin, New York City, Richmond and Washington DC. Often billed alongside PWRPUFF, Prince Rose and Joann Fabrixx. Next up: H0L0, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Gail Force One is a techno and house artist based in United States of America, w
 
 PWRPUFF, Prince Rose, Joann Fabrixx
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gailforceone/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gailforceone/)*

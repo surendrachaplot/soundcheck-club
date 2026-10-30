@@ -1,6 +1,6 @@
 # NAZARENO MAASS
 
-NAZARENO MAASS is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
+NAZARENO MAASS is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
 
 NAZARENO MAASS is a techno and afro house artist based in Argentina, with 15 gigs on soundcheck across Alicante, Dublin and Prague. Often billed alongside Belen G, SOUZAC and GABR:EL. Next up: Metro Dance Club, Alicante on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ NAZARENO MAASS is a techno and afro house artist based in Argentina, with 15 gig
 
 Belen G, SOUZAC, GABR:EL
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nazareno/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nazareno/)*

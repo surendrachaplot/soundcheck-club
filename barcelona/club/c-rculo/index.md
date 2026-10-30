@@ -1,6 +1,6 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Inner Circle feat. Majo Alarcon" on Fri, 30 Oct 2026.
+Círculo is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Inner Circle feat. Majo Alarcon" on Fri, 30 Oct 2026.
 
 Círculo is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including A4U (RU), LeMichael and Majo Alarcon. See dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
@@ -21,4 +21,4 @@ Círculo is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, wi
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

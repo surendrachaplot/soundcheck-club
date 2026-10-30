@@ -1,6 +1,6 @@
 # Pawnshop
 
-Pawnshop is a music venue in Taipei with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Pawnshop Pride Week 2026 Day 2 Hakone Hotspring X Kaput X Kockiri" on Fri, 30 Oct 2026.
+Pawnshop is a music venue in Taipei with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Pawnshop Pride Week 2026 Day 2 Hakone Hotspring X Kaput X Kockiri" on Fri, 30 Oct 2026.
 
 Pawnshop is a music venue in Taipei listed on soundcheck. 13 upcoming gigs, with line-ups including BADSISTA, Blewit, CEM and Cristian Marras and 2 more. See dates, start times and who's playing. 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan.
 
@@ -23,4 +23,4 @@ Pawnshop is a music venue in Taipei listed on soundcheck. 13 upcoming gigs, with
 
 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan, Taipei
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*

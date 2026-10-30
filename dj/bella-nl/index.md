@@ -1,6 +1,6 @@
 # BELLA (NL)
 
-BELLA (NL) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 5 Dec 2026.
+BELLA (NL) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 5 Dec 2026.
 
 BELLA (NL) is a house and techno artist based in Netherlands, with 154 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Boris Coelman, TINS and KALLE (NL). Next up: CLUB RAUM, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ BELLA (NL) is a house and techno artist based in Netherlands, with 154 gigs on s
 
 Boris Coelman, TINS, KALLE (NL)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bella-nl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bella-nl/)*

@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Strange Brew, Bristol on Fri, 30 Oct 2026.
+Peach is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Strange Brew, Bristol on Fri, 30 Oct 2026.
 
 Peach is a house and techno artist based in Canada, with 240 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 63 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Strange Brew, Bristol on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Peach is a house and techno artist based in Canada, with 240 gigs on soundcheck 
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

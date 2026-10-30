@@ -1,6 +1,6 @@
 # Rick Wade
 
-Rick Wade is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Stone House Bar, Detroit on Wed, 11 Nov 2026.
+Rick Wade is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Stone House Bar, Detroit on Wed, 11 Nov 2026.
 
 Rick Wade is a house and deep house artist based in United States of America, with 64 gigs on soundcheck across Atlanta, Austin, Baltimore and Barcelona and 14 more. Often billed alongside Chuck Daniels, Norm Talley and Curmudgeon. Next up: The Stone House Bar, Detroit on Wed 11 Nov.
 
@@ -29,4 +29,4 @@ Rick Wade is a house and deep house artist based in United States of America, wi
 
 Chuck Daniels, Norm Talley, Curmudgeon
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickwade/)*

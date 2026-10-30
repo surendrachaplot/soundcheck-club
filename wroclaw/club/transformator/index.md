@@ -1,6 +1,6 @@
 # Transformator
 
-Transformator is a music venue in Wroclaw with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Tax Free Thursday - Larin Bday Hard Rave" on Thu, 29 Oct 2026.
+Transformator is a music venue in Wroclaw with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Tax Free Thursday - Larin Bday Hard Rave" on Thu, 29 Oct 2026.
 
 Transformator is a music venue in Wroclaw listed on soundcheck. 7 upcoming gigs, with line-ups including CRIIM, Damian S, DarkMatter and Despoza and 2 more. See dates, start times and who's playing. Tęczowa 67, 53-602 Wrocław Poland.
 
@@ -20,4 +20,4 @@ Transformator is a music venue in Wroclaw listed on soundcheck. 7 upcoming gigs,
 
 Tęczowa 67, 53-602 Wrocław Poland, Wroclaw
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/transformator/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/transformator/)*

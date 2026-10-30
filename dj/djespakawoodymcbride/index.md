@@ -1,6 +1,6 @@
 # Woody McBride
 
-Woody McBride is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 4 Dec 2026.
+Woody McBride is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at People's Leisure Club, Edinburgh on Fri, 4 Dec 2026.
 
 Woody McBride is a techno and acid artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Chicago, Edinburgh and Glasgow and 6 more. Often billed alongside DJ Hyperactive, DJ Nola and Devil Girl. Next up: People's Leisure Club, Edinburgh on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Woody McBride is a techno and acid artist based in United States of America, wit
 
 DJ Hyperactive, DJ Nola, Devil Girl
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djespakawoodymcbride/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djespakawoodymcbride/)*

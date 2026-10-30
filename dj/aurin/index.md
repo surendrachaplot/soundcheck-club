@@ -1,6 +1,6 @@
 # Aurin
 
-Aurin is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Nemdebar, Budapest on Fri, 30 Oct 2026.
+Aurin is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nemdebar, Budapest on Fri, 30 Oct 2026.
 
 Aurin is a house and electro artist based in Hungary, with 21 gigs on soundcheck across Budapest. Often billed alongside Switch Nollie, Kvrk and Polarknot. Next up: Nemdebar, Budapest on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Aurin is a house and electro artist based in Hungary, with 21 gigs on soundcheck
 
 Switch Nollie, Kvrk, Polarknot
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurin/)*

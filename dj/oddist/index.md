@@ -1,6 +1,6 @@
 # oddist
 
-oddist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
+oddist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
 
 oddist is a techno and house artist based in Romania, with 31 gigs on soundcheck across Berlin, Bucharest, Greece and Sicily. Often billed alongside Miss I, Clovis and Junki Inoue. Next up: Club Guesthouse, Bucharest on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ oddist is a techno and house artist based in Romania, with 31 gigs on soundcheck
 
 Miss I, Clovis, Junki Inoue
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oddist/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oddist/)*

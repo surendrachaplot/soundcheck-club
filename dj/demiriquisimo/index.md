@@ -1,14 +1,13 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Amber's, Manchester on Thu, 29 Oct 2026.
+Demi Riquisimo is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
 
-Demi Riquisimo is a house and techno artist based in United Kingdom, with 199 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 59 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Amber's, Manchester on Thu 29 Oct.
+Demi Riquisimo is a house and techno artist based in United Kingdom, with 199 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 59 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: fabric, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Amber's | Manchester |
 | Sat, 31 Oct 2026 | fabric | London |
 | Sat, 7 Nov 2026 | Roig Arena | Valencia |
 | Sat, 21 Nov 2026 | TBA - Secret Manhattan Location | New York City |
@@ -23,6 +22,7 @@ Demi Riquisimo is a house and techno artist based in United Kingdom, with 199 gi
 
 ## Recently played
 
+- Amber's, Manchester · Thu, 29 Oct 2026
 - Het Dorp, Amsterdam · Fri, 23 Oct 2026
 - Madam, Amsterdam · Thu, 22 Oct 2026
 - Radio Radio, Amsterdam · Thu, 22 Oct 2026
@@ -30,10 +30,9 @@ Demi Riquisimo is a house and techno artist based in United Kingdom, with 199 gi
 - Smoke & Mirrors, Chicago · Sat, 17 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 11 Oct 2026
 - TBA, New York City · Sat, 10 Oct 2026
-- Open Air Club, New York City · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

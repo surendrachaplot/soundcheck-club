@@ -1,6 +1,6 @@
 # James Poole
 
-James Poole is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 31 Oct 2026.
+James Poole is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 31 Oct 2026.
 
 James Poole is a house and minimal artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, Eindhoven, Glasgow and Ibiza and 7 more. Often billed alongside East End Dubs, Hidde van Wee and Julian Fijma. Next up: TBA - DTLA, Los Angeles on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ James Poole is a house and minimal artist based in United Kingdom, with 11 gigs 
 
 East End Dubs, Hidde van Wee, Julian Fijma
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*

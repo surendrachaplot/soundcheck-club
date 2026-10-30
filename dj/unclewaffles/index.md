@@ -1,6 +1,6 @@
 # Uncle Waffles
 
-Uncle Waffles is a Amapiano and Afrobeat artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Old Park Station, Johannesburg on Sat, 28 Nov 2026.
+Uncle Waffles is a Amapiano and Afrobeat artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Old Park Station, Johannesburg on Sat, 28 Nov 2026.
 
 Uncle Waffles is an amapiano and afrobeat artist based in South Africa, with 30 gigs on soundcheck across Atlanta, Barcelona, Berlin and Cape Town and 13 more. Often billed alongside Dj Maphorisa, Groove and ID. Next up: Old Park Station, Johannesburg on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Uncle Waffles is an amapiano and afrobeat artist based in South Africa, with 30 
 
 Dj Maphorisa, Groove, ID
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unclewaffles/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unclewaffles/)*

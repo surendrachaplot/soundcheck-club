@@ -1,6 +1,6 @@
 # Robert James
 
-Robert James is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at fabric, London on Fri, 27 Nov 2026.
+Robert James is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 Robert James is a house and techno artist based in United Kingdom, with 41 gigs on soundcheck across Berlin, Birmingham, Bogotá and Brighton and 9 more. Often billed alongside Frenchy, Jamie Jones and Hot Since 82. Next up: fabric, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Robert James is a house and techno artist based in United Kingdom, with 41 gigs 
 
 Frenchy, Jamie Jones, Hot Since 82
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertjames/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertjames/)*

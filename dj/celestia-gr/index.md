@@ -1,6 +1,6 @@
 # Celestia
 
-Celestia is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
+Celestia is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
 
 Celestia is a techno and industrial artist, with 18 gigs on soundcheck across Athens, Berlin and Thessaloniki. Often billed alongside Gaston Npr, Olympios and ASEC. Next up: Soul SKG, Thessaloniki on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Celestia is a techno and industrial artist, with 18 gigs on soundcheck across At
 
 Gaston Npr, Olympios, ASEC
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celestia-gr/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celestia-gr/)*

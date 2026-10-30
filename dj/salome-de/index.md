@@ -1,6 +1,6 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
+SALOME is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
 
 SALOME is a techno and electro artist based in Georgia, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 76 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Gold Bar Hangar, California on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ SALOME is a techno and electro artist based in Georgia, with 235 gigs on soundch
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

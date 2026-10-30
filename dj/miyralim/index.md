@@ -1,6 +1,6 @@
 # Miyra Lim
 
-Miyra Lim is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Tagada, Vienna on Fri, 6 Nov 2026.
+Miyra Lim is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tagada, Vienna on Fri, 6 Nov 2026.
 
 Miyra Lim is a house and garage artist, with 36 gigs on soundcheck across Berlin, Copenhagen and Vienna. Often billed alongside JP Bechamel, AfroNinja and Reeno Reluv. Next up: Tagada, Vienna on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Miyra Lim is a house and garage artist, with 36 gigs on soundcheck across Berlin
 
 JP Bechamel, AfroNinja, Reeno Reluv
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyralim/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyralim/)*

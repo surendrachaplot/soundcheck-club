@@ -1,6 +1,6 @@
 # Moritz von Oswald
 
-Moritz von Oswald is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
+Moritz von Oswald is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
 
 Moritz von Oswald is a techno and experimental artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Azu Tiwaline, Lena Willikens and Paquita Gordon. Next up: SCHRON, Poznan on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Moritz von Oswald is a techno and experimental artist based in Germany, with 64 
 
 Azu Tiwaline, Lena Willikens, Paquita Gordon
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzvonoswald/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzvonoswald/)*

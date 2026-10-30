@@ -1,6 +1,6 @@
 # Big Miz
 
-Big Miz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Locale, Glasgow on Sat, 31 Oct 2026.
+Big Miz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Locale, Glasgow on Sat, 31 Oct 2026.
 
 Big Miz is a house and techno artist based in United Kingdom, with 78 gigs on soundcheck across Aberdeen, Barcelona, Bristol and Dundee and 13 more. Often billed alongside Hayley Zalassi, Bessa and Babyccino. Next up: The Locale, Glasgow on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Big Miz is a house and techno artist based in United Kingdom, with 78 gigs on so
 
 Hayley Zalassi, Bessa, Babyccino
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmiz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmiz/)*

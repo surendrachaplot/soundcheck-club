@@ -1,6 +1,6 @@
 # Kodah
 
-Kodah is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Moon Club, Bristol on Fri, 4 Dec 2026.
+Kodah is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Moon Club, Bristol on Fri, 4 Dec 2026.
 
 Kodah is a techno and electro artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Bristol and London. Often billed alongside EKATA, Rommek and Annie Hall. Next up: Moon Club, Bristol on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Kodah is a techno and electro artist based in United Kingdom, with 13 gigs on so
 
 EKATA, Rommek, Annie Hall
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kodah/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kodah/)*

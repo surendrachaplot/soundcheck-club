@@ -1,6 +1,6 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Rigopolar, Manumat" on Fri, 30 Oct 2026.
+Lion's Den is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Rigopolar, Manumat" on Fri, 30 Oct 2026.
 
 Lion's Den is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Collins, Chez Damier, Lou Flores and Manumat and 2 more. See dates, start times and who's playing. 150 NW 73rd st.
 
@@ -17,4 +17,4 @@ Lion's Den is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with
 
 150 NW 73rd st, Miami
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*

@@ -1,6 +1,6 @@
 # Blow
 
-Blow is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "[PRIDE] MISSA ORGULLO 2026" on Sun, 8 Nov 2026.
+Blow is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "[PRIDE] MISSA ORGULLO 2026" on Sun, 8 Nov 2026.
 
 Blow is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including Camila Isabel, panko, Rumi de Baires and Tina Disco. See dates, start times and who's playing. Av. Cnel. Niceto Vega 5699, C1414BFE C1414BFE C1414BFI, Buenos Aires, Argentina.
 
@@ -14,4 +14,4 @@ Blow is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with
 
 Av. Cnel. Niceto Vega 5699, C1414BFE C1414BFE C1414BFI, Buenos Aires, Argentina, Buenos Aires
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/blow/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/blow/)*

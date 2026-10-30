@@ -1,8 +1,8 @@
 # MAYUDEPTH
 
-MAYUDEPTH is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 30 Oct 2026.
+MAYUDEPTH is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 30 Oct 2026.
 
-MAYUDEPTH is a techno and house artist based in Japan, with 126 gigs on soundcheck across Berlin, Hong Kong, Kanto and Kyoto and 7 more. Often billed alongside the2$, TEI TEI and Mars89. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 30 Oct.
+MAYUDEPTH is a techno and house artist based in Japan, with 127 gigs on soundcheck across Berlin, Hong Kong, Kanto and Kyoto and 7 more. Often billed alongside the2$, Mars89 and TEI TEI. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ MAYUDEPTH is a techno and house artist based in Japan, with 126 gigs on soundche
 | Sat, 31 Oct 2026 | TBA - Kinone Pension | Kanto |
 | Sat, 31 Oct 2026 | Kinone Pension | Kanto |
 | Mon, 2 Nov 2026 | VENT | Tokyo |
+| Fri, 6 Nov 2026 | Mitsuki | Tokyo |
 | Fri, 6 Nov 2026 | Mitsuki | Tokyo |
 | Sat, 7 Nov 2026 | HVEN | Tokyo |
 
@@ -28,6 +29,6 @@ MAYUDEPTH is a techno and house artist based in Japan, with 126 gigs on soundche
 
 ## Shares bills with
 
-the2$, TEI TEI, Mars89
+the2$, Mars89, TEI TEI
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayudepth/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayudepth/)*

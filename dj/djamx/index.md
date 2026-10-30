@@ -1,6 +1,6 @@
 # DJ AMX
 
-DJ AMX is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Salammbo, Barcelona on Sat, 5 Dec 2026.
+DJ AMX is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Salammbo, Barcelona on Sat, 5 Dec 2026.
 
 DJ AMX is a techno and house artist, with 15 gigs on soundcheck across Barcelona. Often billed alongside Jay Jay Revlon, Coroco and Maya Matriarch. Next up: Salammbo, Barcelona on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ AMX is a techno and house artist, with 15 gigs on soundcheck across Barcelona
 
 Jay Jay Revlon, Coroco, Maya Matriarch
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djamx/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djamx/)*

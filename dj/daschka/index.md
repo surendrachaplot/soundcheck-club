@@ -1,6 +1,6 @@
 # daschka
 
-daschka is a Gabber and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+daschka is a Gabber and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
 daschka is a gabber and techno artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Osiris, FLUCC and LØUS. Next up: OST, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ daschka is a gabber and techno artist based in Germany, with 11 gigs on soundche
 
 Osiris (2), FLUCC, LØUS
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daschka/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daschka/)*

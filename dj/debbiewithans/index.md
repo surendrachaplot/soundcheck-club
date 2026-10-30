@@ -1,6 +1,6 @@
 # Debbie with an 'S'
 
-Debbie with an 'S' is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Pawnshop, Taipei on Sat, 31 Oct 2026.
+Debbie with an 'S' is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Pawnshop, Taipei on Sat, 31 Oct 2026.
 
 Debbie with an 'S' is a house and techno artist, with 44 gigs on soundcheck across Hanoi, Ho Chi Minh City, Hong Kong and Taipei. Often billed alongside Gemnital, F.G.D. and Jesse Chen. Next up: Pawnshop, Taipei on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Debbie with an 'S' is a house and techno artist, with 44 gigs on soundcheck acro
 
 Gemnital, F.G.D., Jesse Chen
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debbiewithans/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debbiewithans/)*

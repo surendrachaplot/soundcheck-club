@@ -1,6 +1,6 @@
 # Yasu (JP)
 
-Yasu (JP) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ZUBAR, Tokyo on Wed, 30 Dec 2026.
+Yasu (JP) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZUBAR, Tokyo on Wed, 30 Dec 2026.
 
 Yasu (JP) is a techno and house artist, with 15 gigs on soundcheck across Osaka and Tokyo. Often billed alongside AMANE, EVE and Gaito. Next up: ZUBAR, Tokyo on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Yasu (JP) is a techno and house artist, with 15 gigs on soundcheck across Osaka 
 
 AMANE, EVE (1), Gaito
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasu-jp/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasu-jp/)*

@@ -1,6 +1,6 @@
 # Sandrien
 
-Sandrien is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Circus Osaka, Osaka on Thu, 5 Nov 2026.
+Sandrien is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Circus Osaka, Osaka on Thu, 5 Nov 2026.
 
 Sandrien is a techno and house artist based in Netherlands, with 186 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 41 more. Often billed alongside DVS1, JakoJako and Fafi Abdel Nour. Next up: Circus Osaka, Osaka on Thu 5 Nov.
 
@@ -31,4 +31,4 @@ Sandrien is a techno and house artist based in Netherlands, with 186 gigs on sou
 
 DVS1, JakoJako, Fafi Abdel Nour
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*

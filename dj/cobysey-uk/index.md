@@ -1,6 +1,6 @@
 # Coby Sey
 
-Coby Sey is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at ZENNER, Berlin on Fri, 6 Nov 2026.
+Coby Sey is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZENNER, Berlin on Fri, 6 Nov 2026.
 
 Coby Sey is an experimental and techno artist, with 46 gigs on soundcheck across Antwerp, Berlin, Bristol and Brussels and 16 more. Often billed alongside Kenichi Iwasa, James Massiah and Nkisi. Next up: ZENNER, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Coby Sey is an experimental and techno artist, with 46 gigs on soundcheck across
 
 Kenichi Iwasa, James Massiah, Nkisi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobysey-uk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobysey-uk/)*

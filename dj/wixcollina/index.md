@@ -1,6 +1,6 @@
 # Wix Collina
 
-Wix Collina is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Ciało, Wroclaw on Sat, 21 Nov 2026.
+Wix Collina is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ciało, Wroclaw on Sat, 21 Nov 2026.
 
 Wix Collina is a techno and acid artist, with 49 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Pan JJ, Ravetoszyn and Filip Sonik. Next up: Ciało, Wroclaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Wix Collina is a techno and acid artist, with 49 gigs on soundcheck across Krako
 
 Pan JJ, Ravetoszyn, Filip Sonik
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wixcollina/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wixcollina/)*

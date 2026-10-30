@@ -1,6 +1,6 @@
 # Adam X
 
-Adam X is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Marble Bar, Detroit on Fri, 27 Nov 2026.
+Adam X is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Marble Bar, Detroit on Fri, 27 Nov 2026.
 
 Adam X is a techno and acid artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Brussels and 23 more. Often billed alongside MAEDON, Frankie Bones and Orphx. Next up: Marble Bar, Detroit on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Adam X is a techno and acid artist based in Germany, with 82 gigs on soundcheck 
 
 MAEDON, Frankie Bones, Orphx
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamx/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamx/)*

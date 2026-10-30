@@ -1,6 +1,6 @@
 # sweetestcape
 
-sweetestcape is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+sweetestcape is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 sweetestcape is a house and techno artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Budapest and London. Often billed alongside Amphia, THEMPRESS and ASHTREY. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -14,6 +14,7 @@ sweetestcape is a house and techno artist based in United Kingdom, with 34 gigs 
 
 ## Recently played
 
+- One Marylebone, London · Thu, 29 Oct 2026
 - Secret Location, London · Sat, 17 Oct 2026
 - NUMBER 90 LONDON, London · Sat, 3 Oct 2026
 - TBA - STÜCK, DALSTON, London · Thu, 1 Oct 2026
@@ -21,10 +22,9 @@ sweetestcape is a house and techno artist based in United Kingdom, with 34 gigs 
 - Algha's Plantroom, London · Sat, 15 Aug 2026
 - Vittoria Wharf Studio, London · Sun, 7 Jun 2026
 - Low Profile Studios, London · Fri, 10 Apr 2026
-- Night Tales Loft, London · Fri, 6 Mar 2026
 
 ## Shares bills with
 
 Amphia, THEMPRESS, ASHTREY
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*

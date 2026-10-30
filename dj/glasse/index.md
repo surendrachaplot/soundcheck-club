@@ -1,6 +1,6 @@
 # Glasse
 
-Glasse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Klub SPATiF, Warsaw on Fri, 30 Oct 2026.
+Glasse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Klub SPATiF, Warsaw on Fri, 30 Oct 2026.
 
 Glasse is a house and techno artist, with 24 gigs on soundcheck across Poznan, Vancouver, Warsaw and Wroclaw. Often billed alongside WEIKUM, Leon and Angelo Mike. Next up: Klub SPATiF, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Glasse is a house and techno artist, with 24 gigs on soundcheck across Poznan, V
 
 WEIKUM, Leon, Angelo Mike
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glasse/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glasse/)*

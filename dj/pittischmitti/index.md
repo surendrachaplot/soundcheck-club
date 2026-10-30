@@ -1,6 +1,6 @@
 # Pitti Schmitti
 
-Pitti Schmitti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Jasna 1, Warsaw on Fri, 6 Nov 2026.
+Pitti Schmitti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jasna 1, Warsaw on Fri, 6 Nov 2026.
 
 Pitti Schmitti is a techno and house artist based in Poland, with 45 gigs on soundcheck across Krakow, Prague, Warsaw and Wroclaw. Often billed alongside Kovvalsky, MKO (PL) and dd (PL). Next up: Jasna 1, Warsaw on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Pitti Schmitti is a techno and house artist based in Poland, with 45 gigs on sou
 
 Kovvalsky, MKO (PL), dd (PL)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pittischmitti/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pittischmitti/)*

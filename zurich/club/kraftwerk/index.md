@@ -1,6 +1,6 @@
 # Kraftwerk
 
-Kraftwerk is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Mama Cacao Dance Ceremony" on Sun, 22 Nov 2026.
+Kraftwerk is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Mama Cacao Dance Ceremony" on Sun, 22 Nov 2026.
 
 Kraftwerk is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Jkson and Massano. See dates, start times and who's playing. Selnaustrasse 25, 8001 Zürich, Switzerland.
 
@@ -15,4 +15,4 @@ Kraftwerk is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with
 
 Selnaustrasse 25, 8001 Zürich, Switzerland, Zurich
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*

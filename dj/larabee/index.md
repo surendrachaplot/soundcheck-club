@@ -1,6 +1,6 @@
 # Lara Bee
 
-Lara Bee is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Système, Montreal on Sun, 1 Nov 2026.
+Lara Bee is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Système, Montreal on Sun, 1 Nov 2026.
 
 Lara Bee is a house and disco artist based in Canada, with 9 gigs on soundcheck across Montreal. Often billed alongside Artphorm, Dimitry and Salvo (CA). Next up: Système, Montreal on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Lara Bee is a house and disco artist based in Canada, with 9 gigs on soundcheck 
 
 Artphorm, Dimitry, Salvo (CA)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larabee/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larabee/)*

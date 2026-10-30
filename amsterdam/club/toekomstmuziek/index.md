@@ -1,6 +1,6 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Y2K Halloween" on Fri, 30 Oct 2026.
+Toekomstmuziek is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Y2K Halloween" on Fri, 30 Oct 2026.
 
 Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including a51d_with_f, Audiofools, Christoph Cham and Dari¥a and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
@@ -22,4 +22,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 9 upcoming gi
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

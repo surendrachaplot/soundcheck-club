@@ -1,6 +1,6 @@
 # Solar
 
-Solar is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Process PDX, Portland on Fri, 30 Oct 2026.
+Solar is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Process PDX, Portland on Fri, 30 Oct 2026.
 
 Solar is a house and acid artist based in United States of America, with 104 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 23 more. Often billed alongside Mozhgan, Galen and Tyrel Williams. Next up: Process PDX, Portland on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Solar is a house and acid artist based in United States of America, with 104 gig
 
 Mozhgan, Galen, Tyrel Williams
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solar/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solar/)*

@@ -1,6 +1,6 @@
 # Dani Boom
 
-Dani Boom is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Radio Estrella, Bogotá on Sat, 31 Oct 2026.
+Dani Boom is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Radio Estrella, Bogotá on Sat, 31 Oct 2026.
 
 Dani Boom is a house and latin bass artist, with 16 gigs on soundcheck across Bogotá, London and New York City. Often billed alongside Sergio Iglesias, Tomas Station and Aline Umber. Next up: Radio Estrella, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dani Boom is a house and latin bass artist, with 16 gigs on soundcheck across Bo
 
 Sergio Iglesias, Tomas Station, Aline Umber
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniboom/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniboom/)*

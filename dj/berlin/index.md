@@ -1,6 +1,6 @@
 # BERLIN
 
-BERLIN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+BERLIN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
 BERLIN is a techno and house artist based in Japan, with 52 gigs on soundcheck across Berlin, Dresden, Hamburg and Montreal and 4 more. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: OXI, Berlin on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ BERLIN is a techno and house artist based in Japan, with 52 gigs on soundcheck a
 
 Laigonen Kanonen, V (NYC), Max Muth
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*

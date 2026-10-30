@@ -1,6 +1,6 @@
 # Arash Ete
 
-Arash Ete is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 21 Nov 2026.
+Arash Ete is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 21 Nov 2026.
 
 Arash Ete is a techno and house artist based in Hungary, with 61 gigs on soundcheck across Budapest and Tbilisi. Often billed alongside Kiuz, CRB and Rozalina. Next up: Palazzo Permanens, Budapest on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Arash Ete is a techno and house artist based in Hungary, with 61 gigs on soundch
 
 Kiuz, CRB, Rozalina
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arashete/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arashete/)*

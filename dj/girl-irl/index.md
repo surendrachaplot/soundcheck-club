@@ -1,6 +1,6 @@
 # girl_irl
 
-girl_irl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at House of Yes, New York City on Fri, 30 Oct 2026.
+girl_irl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at House of Yes, New York City on Fri, 30 Oct 2026.
 
 girl_irl is a techno and house artist based in United States of America, with 49 gigs on soundcheck across Barcelona, Chicago, Los Angeles and Miami and 5 more. Often billed alongside DJ ing, Flash Gea and Mozn. Next up: House of Yes, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ girl_irl is a techno and house artist based in United States of America, with 49
 
 DJ ing, Flash Gea, Mozn
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girl-irl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girl-irl/)*

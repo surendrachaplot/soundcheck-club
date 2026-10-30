@@ -1,6 +1,6 @@
 # Gurthang
 
-Gurthang is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Frekuence, Tirana on Fri, 30 Oct 2026.
+Gurthang is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Frekuence, Tirana on Fri, 30 Oct 2026.
 
 Gurthang is a techno and acid artist, with 22 gigs on soundcheck across Athens and Tirana. Often billed alongside KRIΣTIΛN, 010010* and Bunny The Bug. Next up: Frekuence, Tirana on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Gurthang is a techno and acid artist, with 22 gigs on soundcheck across Athens a
 
 KRIΣTIΛN, 010010*, Bunny The Bug
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gurthang/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gurthang/)*

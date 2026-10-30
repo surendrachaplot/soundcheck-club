@@ -1,6 +1,6 @@
 # Brain Impact
 
-Brain Impact is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Decadance, Ghent on Fri, 11 Dec 2026.
+Brain Impact is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Decadance, Ghent on Fri, 11 Dec 2026.
 
 Brain Impact is a techno and acid artist based in Belgium, with 15 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris. Often billed alongside Low E, Radze and Helena Lauwaert. Next up: Decadance, Ghent on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Brain Impact is a techno and acid artist based in Belgium, with 15 gigs on sound
 
 Low E (2), Radze, Helena Lauwaert
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brainimpact/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brainimpact/)*

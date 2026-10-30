@@ -1,6 +1,6 @@
 # DJ Don
 
-DJ Don is a Bass and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
+DJ Don is a Bass and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
 
 DJ Don is a bass and afro house artist based in Japan, with 6 gigs on soundcheck across Lausanne, Osaka, Pittsburgh and Rio de Janeiro and 1 more. Often billed alongside Art (AU), HW BINGO and Namira. Next up: Triangle, Osaka on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ DJ Don is a bass and afro house artist based in Japan, with 6 gigs on soundcheck
 
 Art (AU), HW BINGO, Namira
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdon/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdon/)*

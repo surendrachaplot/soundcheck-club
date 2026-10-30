@@ -1,6 +1,6 @@
 # Hedonist
 
-Hedonist is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The TBA - BrewHaus Trainspotting Pub, Glasgow on Sat, 31 Oct 2026.
+Hedonist is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The TBA - BrewHaus Trainspotting Pub, Glasgow on Sat, 31 Oct 2026.
 
 Hedonist is a house and electronica artist, with 25 gigs on soundcheck across Berlin, Glasgow, Poznan and Sydney and 2 more. Often billed alongside LuLu Malina, kEczuP and Joana. Next up: The TBA - BrewHaus Trainspotting Pub, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hedonist is a house and electronica artist, with 25 gigs on soundcheck across Be
 
 LuLu Malina, kEczuP, Joana
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hedonist/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hedonist/)*

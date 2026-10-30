@@ -1,6 +1,6 @@
 # TommyTommyBerlin
 
-TommyTommyBerlin is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Traffic Experience, Cyprus on Sat, 31 Oct 2026.
+TommyTommyBerlin is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Traffic Experience, Cyprus on Sat, 31 Oct 2026.
 
 TommyTommyBerlin is a techno artist based in Germany, with 3 gigs on soundcheck across Berlin and Cyprus. Often billed alongside 92Groovz, African Stevenson and AnDe Trois. Next up: Traffic Experience, Cyprus on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ TommyTommyBerlin is a techno artist based in Germany, with 3 gigs on soundcheck 
 
 92Groovz, African Stevenson, AnDe Trois
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommytommyberlin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommytommyberlin/)*

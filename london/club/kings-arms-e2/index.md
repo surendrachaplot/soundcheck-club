@@ -1,6 +1,6 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Kings Turntable: Papa Kerr [31.10.26]" on Sat, 31 Oct 2026.
+Kings Arms E2 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Kings Turntable: Papa Kerr [31.10.26]" on Sat, 31 Oct 2026.
 
 Kings Arms E2 is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Donna Gibson and Here on Earth. See dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
@@ -23,4 +23,4 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 11 upcoming gigs,
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

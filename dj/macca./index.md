@@ -1,6 +1,6 @@
 # Macca.
 
-Macca. is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Carpet Shop, London on Sat, 5 Dec 2026.
+Macca. is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Carpet Shop, London on Sat, 5 Dec 2026.
 
 Macca. is a house and disco artist based in United Kingdom, with 55 gigs on soundcheck across Dublin, Edinburgh, Ibiza and Leeds and 7 more. Often billed alongside Sofie K, Secretsundaze and Cosmo Sofi. Next up: The Carpet Shop, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Macca. is a house and disco artist based in United Kingdom, with 55 gigs on soun
 
 Sofie K, Secretsundaze, Cosmo Sofi
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macca./)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macca./)*

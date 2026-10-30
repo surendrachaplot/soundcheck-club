@@ -1,6 +1,6 @@
 # Surgeons Girl
 
-Surgeons Girl is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Future Temple, Bristol on Sat, 21 Nov 2026.
+Surgeons Girl is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Future Temple, Bristol on Sat, 21 Nov 2026.
 
 Surgeons Girl is a techno and experimental artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 5 more. Often billed alongside Dani Whylie, Delay Grounds and Rrose. Next up: Future Temple, Bristol on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Surgeons Girl is a techno and experimental artist based in United Kingdom, with 
 
 Dani Whylie, Delay Grounds, Rrose
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeonsgirl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeonsgirl/)*

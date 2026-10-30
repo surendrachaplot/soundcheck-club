@@ -1,6 +1,6 @@
 # Rumberto
 
-Rumberto is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Rumberto is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 Rumberto is an electronica and techno artist based in Colombia, with 9 gigs on soundcheck across Bogotá. Often billed alongside Sergio Iglesias, Jonahlo and Diluet. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rumberto is an electronica and techno artist based in Colombia, with 9 gigs on s
 
 Sergio Iglesias, Jonahlo, Diluet
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rumberto/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rumberto/)*

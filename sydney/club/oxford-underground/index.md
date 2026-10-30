@@ -1,6 +1,6 @@
 # Oxford Underground
 
-Oxford Underground is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Spooky Behaviour Starring Scrappa" on Sat, 31 Oct 2026.
+Oxford Underground is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Spooky Behaviour Starring Scrappa" on Sat, 31 Oct 2026.
 
 Oxford Underground is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Scrappa. See dates, start times and who's playing. 134 Oxford St, Darlinghurst NSW 2010.
 
@@ -15,4 +15,4 @@ Oxford Underground is a music venue in Sydney listed on soundcheck. 2 upcoming g
 
 134 Oxford St, Darlinghurst NSW 2010, Sydney
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-underground/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-underground/)*

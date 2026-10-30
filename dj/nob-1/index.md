@@ -1,6 +1,6 @@
 # NOB (1)
 
-NOB (1) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Mitsuki, Tokyo on Thu, 5 Nov 2026.
+NOB (1) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mitsuki, Tokyo on Thu, 5 Nov 2026.
 
 NOB is a house and electro artist based in Japan, with 9 gigs on soundcheck across Berlin, Osaka and Tokyo. Often billed alongside Cleymoore, Karuta and APEPA. Next up: Mitsuki, Tokyo on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ NOB is a house and electro artist based in Japan, with 9 gigs on soundcheck acro
 
 Cleymoore, Karuta, APEPA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nob-1/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nob-1/)*

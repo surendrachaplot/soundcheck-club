@@ -1,14 +1,13 @@
 # Super7
 
-Super7 is a music venue in Lyon with 8 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "DR. LLOYD • P errine" on Thu, 29 Oct 2026.
+Super7 is a music venue in Lyon with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "GROOVEDGE • Krimska" on Fri, 30 Oct 2026.
 
-Super7 is a music venue in Lyon listed on soundcheck. 8 upcoming gigs, with line-ups including Krimska, Minù Jr, P errine and Sindh. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
+Super7 is a music venue in Lyon listed on soundcheck. 7 upcoming gigs, with line-ups including Krimska, Minù Jr and Sindh. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | DR. LLOYD • P errine | P errine |
 | Fri, 30 Oct 2026 | GROOVEDGE • Krimska | Krimska |
 | Sat, 31 Oct 2026 | Sindh • TAÏTAÏ  | Sindh |
 | Sun, 1 Nov 2026 | MERCO • Minù Jr | Minù Jr |
@@ -21,4 +20,4 @@ Super7 is a music venue in Lyon listed on soundcheck. 8 upcoming gigs, with line
 
 40 rue Saint-Jérôme 69007 Lyon, Lyon
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*

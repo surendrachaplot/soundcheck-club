@@ -1,6 +1,6 @@
 # VERSION 34
 
-VERSION 34 is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Luka, Seoul on Sat, 7 Nov 2026.
+VERSION 34 is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Luka, Seoul on Sat, 7 Nov 2026.
 
 VERSION 34 is a techno and hardcore artist based in Turkey, with 44 gigs on soundcheck across Bangkok, Istanbul, Philippines and Seoul and 1 more. Often billed alongside D.E.F, KONY.ART and NANAH. Next up: Luka, Seoul on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ VERSION 34 is a techno and hardcore artist based in Turkey, with 44 gigs on soun
 
 D.E.F, KONY.ART, NANAH
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/version34/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/version34/)*

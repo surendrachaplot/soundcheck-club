@@ -1,6 +1,6 @@
 # Mila Black
 
-Mila Black is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Glazart, Paris on Sun, 8 Nov 2026.
+Mila Black is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Glazart, Paris on Sun, 8 Nov 2026.
 
 Mila Black is a techno and house artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 8 more. Often billed alongside MCR-T, TWIENA and ALCATRAZ. Next up: Glazart, Paris on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Mila Black is a techno and house artist based in Netherlands, with 45 gigs on so
 
 MCR-T, TWIENA, ALCATRAZ
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milablack/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milablack/)*

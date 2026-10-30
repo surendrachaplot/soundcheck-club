@@ -1,6 +1,6 @@
 # Nick Muir
 
-Nick Muir is a Progressive House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Rhythm, Toronto on Thu, 19 Nov 2026.
+Nick Muir is a Progressive House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Rhythm, Toronto on Thu, 19 Nov 2026.
 
 Nick Muir is a progressive house and techno artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Bristol, Buenos Aires and Glasgow and 4 more. Often billed alongside Industry Standard, Grant McKay and Elliot Moriarty. Next up: Rhythm, Toronto on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ Nick Muir is a progressive house and techno artist based in United Kingdom, with
 
 Industry Standard, Grant McKay, Elliot Moriarty
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmuir/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmuir/)*

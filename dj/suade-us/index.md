@@ -1,6 +1,6 @@
 # suade (US)
 
-suade (US) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Arcana, San Francisco/Oakland on Sat, 31 Oct 2026.
+suade (US) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Arcana, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 suade (US) is a techno and bass artist based in United States of America, with 39 gigs on soundcheck across New York City, Portland, San Francisco/Oakland and Vancouver. Often billed alongside llloyd (US), Clearcast and Vertigo. Next up: Arcana, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ suade (US) is a techno and bass artist based in United States of America, with 3
 
 llloyd (US), Clearcast, Vertigo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suade-us/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suade-us/)*

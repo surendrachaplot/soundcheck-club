@@ -1,6 +1,6 @@
 # Y U QT
 
-Y U QT is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at UNLOCKED, London on Fri, 30 Oct 2026.
+Y U QT is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at UNLOCKED, London on Fri, 30 Oct 2026.
 
 Y U QT is a garage and bass artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 30 more. Often billed alongside Dr Dubplate, Saint Ludo and Yung Singh. Next up: UNLOCKED, London on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Y U QT is a garage and bass artist based in United Kingdom, with 119 gigs on sou
 
 Dr Dubplate, Saint Ludo, Yung Singh
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuqt/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuqt/)*

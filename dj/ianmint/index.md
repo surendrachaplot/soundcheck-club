@@ -1,6 +1,6 @@
 # Ian Mint
 
-Ian Mint is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Golden Gate, Berlin on Sat, 28 Nov 2026.
+Ian Mint is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Sat, 28 Nov 2026.
 
 Ian Mint is a tech house and minimal artist, with 11 gigs on soundcheck across Berlin and Prague. Often billed alongside Slurm McKenzie, Jiggler and Marco Resmann. Next up: Golden Gate, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ian Mint is a tech house and minimal artist, with 11 gigs on soundcheck across B
 
 Slurm McKenzie, Jiggler, Marco Resmann
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmint/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmint/)*

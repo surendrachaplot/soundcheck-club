@@ -1,6 +1,6 @@
 # Morstaq
 
-Morstaq is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Villa, Oslo on Sat, 7 Nov 2026.
+Morstaq is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Villa, Oslo on Sat, 7 Nov 2026.
 
 Morstaq is a house and hip-hop artist, with 17 gigs on soundcheck across Oslo. Often billed alongside Tia Taro, Posner and RAUAND I.. Next up: The Villa, Oslo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Morstaq is a house and hip-hop artist, with 17 gigs on soundcheck across Oslo. O
 
 Tia Taro, Posner, RAUAND I.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morstaq/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morstaq/)*

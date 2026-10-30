@@ -1,6 +1,6 @@
 # Matrix Club Berlin (Techno Stage)
 
-Matrix Club Berlin (Techno Stage) is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "RE:TURN PRESENTS: Artness, Buyooo, KOPOLOKO" on Sat, 31 Oct 2026.
+Matrix Club Berlin (Techno Stage) is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "RE:TURN PRESENTS: Artness, Buyooo, KOPOLOKO" on Sat, 31 Oct 2026.
 
 Matrix Club Berlin (Techno Stage) is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Buyooo. See dates, start times and who's playing. Warschauer Platz 18, 10245 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Matrix Club Berlin (Techno Stage) is a music venue in Berlin listed on soundchec
 
 Warschauer Platz 18, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/matrix-club-berlin-techno-stage/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/matrix-club-berlin-techno-stage/)*

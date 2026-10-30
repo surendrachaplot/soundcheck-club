@@ -1,6 +1,6 @@
 # Benga
 
-Benga is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TRAUM, Antwerp on Fri, 6 Nov 2026.
+Benga is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TRAUM, Antwerp on Fri, 6 Nov 2026.
 
 Benga is a dubstep and bass artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Antwerp, Brisbane and Bristol and 14 more. Often billed alongside Skream, SGT Pokes and Special Request. Next up: TRAUM, Antwerp on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Benga is a dubstep and bass artist based in United Kingdom, with 29 gigs on soun
 
 Skream, SGT Pokes, Special Request
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benga/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benga/)*

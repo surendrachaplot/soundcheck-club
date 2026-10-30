@@ -1,6 +1,6 @@
 # Stimulation
 
-Stimulation is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA, Yuc-tan on Fri, 4 Dec 2026.
+Stimulation is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Yuc-tan on Fri, 4 Dec 2026.
 
 Stimulation is a house and tech house artist, with 11 gigs on soundcheck across Bali, Mexico City, Paris and Prague and 1 more. Often billed alongside Buket, Deep Mind Direction and Juliana Yamasaki. Next up: TBA, Yuc Tan on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Stimulation is a house and tech house artist, with 11 gigs on soundcheck across 
 
 Buket, Deep Mind Direction, Juliana Yamasaki
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stimulation/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stimulation/)*

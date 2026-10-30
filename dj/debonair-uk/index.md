@@ -1,6 +1,6 @@
 # DEBONAIR
 
-DEBONAIR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Collapse, Pittsburgh on Fri, 6 Nov 2026.
+DEBONAIR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Collapse, Pittsburgh on Fri, 6 Nov 2026.
 
 DEBONAIR is a techno and house artist based in United Kingdom, with 62 gigs on soundcheck across Barcelona, Beijing, Bristol and Chicago and 17 more. Often billed alongside Jubilee, Objekt and BEIGE. Next up: Collapse, Pittsburgh on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DEBONAIR is a techno and house artist based in United Kingdom, with 62 gigs on s
 
 Jubilee, Objekt, BEIGE
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*

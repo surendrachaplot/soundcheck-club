@@ -1,6 +1,6 @@
 # Bloody Louis
 
-Bloody Louis is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. The next is "CASALUA INVITES SONA" on Sat, 7 Nov 2026.
+Bloody Louis is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "CASALUA INVITES SONA" on Sat, 7 Nov 2026.
 
 Bloody Louis is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including SONA. See dates, start times and who's playing. Avenue Louise 32, Brussels, Belgium.
 
@@ -14,4 +14,4 @@ Bloody Louis is a music venue in Brussels listed on soundcheck. 1 upcoming gig, 
 
 Avenue Louise 32, Brussels, Belgium, Brussels
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bloody-louis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bloody-louis/)*

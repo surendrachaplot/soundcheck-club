@@ -1,6 +1,6 @@
 # ATZENPUNK
 
-ATZENPUNK is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+ATZENPUNK is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 ATZENPUNK is a techno and trance artist, with 22 gigs on soundcheck across Berlin, Düsseldorf, Leipzig and Munich and 3 more. Often billed alongside Camilla Rae, Kalte Liebe and Vio PRG. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ ATZENPUNK is a techno and trance artist, with 22 gigs on soundcheck across Berli
 
 Camilla Rae, Kalte Liebe, Vio PRG
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atzenpunk/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atzenpunk/)*

@@ -1,6 +1,6 @@
 # EKATA
 
-EKATA is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Moon Club, Bristol on Fri, 4 Dec 2026.
+EKATA is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Moon Club, Bristol on Fri, 4 Dec 2026.
 
 EKATA is an electro and techno artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Birmingham, Bristol and Dublin and 5 more. Often billed alongside Kodah, Rommek and AnD. Next up: Moon Club, Bristol on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ EKATA is an electro and techno artist based in United Kingdom, with 26 gigs on s
 
 Kodah, Rommek, AnD
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekata/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekata/)*

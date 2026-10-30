@@ -1,6 +1,6 @@
 # DJ Spinna
 
-DJ Spinna is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at La Bellevilloise, Paris on Sat, 14 Nov 2026.
+DJ Spinna is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Bellevilloise, Paris on Sat, 14 Nov 2026.
 
 DJ Spinna is a house and funk / soul artist based in United States of America, with 115 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 23 more. Often billed alongside merlin bobb, Francois K and Kenny Dope. Next up: La Bellevilloise, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Spinna is a house and funk / soul artist based in United States of America, w
 
 merlin bobb, Francois K, Kenny Dope
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinna/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinna/)*

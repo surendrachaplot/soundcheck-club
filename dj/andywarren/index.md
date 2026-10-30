@@ -1,6 +1,6 @@
 # Andy Warren
 
-Andy Warren is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Process PDX, Portland on Fri, 30 Oct 2026.
+Andy Warren is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Process PDX, Portland on Fri, 30 Oct 2026.
 
 Andy Warren is a house and techno artist based in United States of America, with 40 gigs on soundcheck across New York City, Portland, San Francisco/Oakland and Tokyo and 1 more. Often billed alongside Peter Sheppard, Ginkgo and Carly Barton. Next up: Process PDX, Portland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Andy Warren is a house and techno artist based in United States of America, with
 
 Peter Sheppard, Ginkgo, Carly Barton
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andywarren/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andywarren/)*

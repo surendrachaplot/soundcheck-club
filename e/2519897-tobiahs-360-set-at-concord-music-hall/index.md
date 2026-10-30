@@ -1,11 +1,15 @@
 # TOBIAHS (360° SET) at Concord Music Hall
 
-TOBIAHS (360° SET) at Concord Music Hall on Sat 14 Nov, Chicago. House and Pop. See the line-up on soundcheck.
+TOBIAHS (360° SET) at Concord Music Hall on Sat 14 Nov, Chicago. 1 artist: A. Parssi. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 14 Nov 2026 |
 | Venue | Concord Music Hall |
 | City | Chicago |
+
+## Line-up
+
+- A. Parssi
 
 *Source: [soundcheck](https://soundcheck.club/e/2519897-tobiahs-360-set-at-concord-music-hall/)*

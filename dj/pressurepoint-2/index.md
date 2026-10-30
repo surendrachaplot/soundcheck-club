@@ -1,6 +1,6 @@
 # Pressure Point (US)
 
-Pressure Point (US) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at The Boombox, Miami on Sat, 7 Nov 2026.
+Pressure Point (US) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Boombox, Miami on Sat, 7 Nov 2026.
 
 Pressure Point (US) is a techno and house artist based in United States of America, with 58 gigs on soundcheck across Chicago, Miami and New York City. Often billed alongside Berrakka, Lady Narcisse and SATURNSARii. Next up: The Boombox, Miami on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Pressure Point (US) is a techno and house artist based in United States of Ameri
 
 Berrakka, Lady Narcisse, SATURNSARii
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pressurepoint-2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pressurepoint-2/)*

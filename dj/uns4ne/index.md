@@ -1,6 +1,6 @@
 # UNS4NE
 
-UNS4NE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at SOS, Detroit on Sat, 31 Oct 2026.
+UNS4NE is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at SOS, Detroit on Sat, 31 Oct 2026.
 
 UNS4NE is a techno and club artist based in United States of America, with 33 gigs on soundcheck across Detroit. Often billed alongside Wax Assassin, we1sman and Garrison XR. Next up: SOS, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ UNS4NE is a techno and club artist based in United States of America, with 33 gi
 
 Wax Assassin, we1sman, Garrison XR
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uns4ne/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uns4ne/)*

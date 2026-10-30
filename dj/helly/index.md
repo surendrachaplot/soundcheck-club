@@ -1,6 +1,6 @@
 # Helly
 
-Helly is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Lofi, Amsterdam on Sat, 31 Oct 2026.
+Helly is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Lofi, Amsterdam on Sat, 31 Oct 2026.
 
 Helly is a house and techno artist, with 53 gigs on soundcheck across Amsterdam, Athens, Baden W Rttemberg and Barcelona and 19 more. Often billed alongside DJ Tjizza, DJ Senc and Jacopo Latini. Next up: Lofi, Amsterdam on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Helly is a house and techno artist, with 53 gigs on soundcheck across Amsterdam,
 
 DJ Tjizza, DJ Senc, Jacopo Latini
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helly/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helly/)*

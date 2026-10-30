@@ -1,6 +1,6 @@
 # Chachi Guerrero
 
-Chachi Guerrero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Xanadu, New York City on Fri, 30 Oct 2026.
+Chachi Guerrero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Xanadu, New York City on Fri, 30 Oct 2026.
 
 Chachi Guerrero is a house and techno artist based in Venezuela, with 56 gigs on soundcheck across Boston, Chicago, Detroit and New Orleans and 1 more. Often billed alongside La Spacer, CQQCHiFRUIT and Duke Shin. Next up: Xanadu, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Chachi Guerrero is a house and techno artist based in Venezuela, with 56 gigs on
 
 La Spacer, CQQCHiFRUIT, Duke Shin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chachiguerrero/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chachiguerrero/)*

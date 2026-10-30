@@ -1,6 +1,6 @@
 # Claddy
 
-Claddy is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Club 77, Sydney on Fri, 27 Nov 2026.
+Claddy is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club 77, Sydney on Fri, 27 Nov 2026.
 
 Claddy is a house and club artist based in Australia, with 23 gigs on soundcheck across Byron Bay, Melbourne and Sydney. Often billed alongside Bertie, Mothafunk and Tinika. Next up: Club 77, Sydney on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Claddy is a house and club artist based in Australia, with 23 gigs on soundcheck
 
 Bertie, Mothafunk, Tinika
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claddy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claddy/)*

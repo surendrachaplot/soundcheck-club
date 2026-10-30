@@ -1,6 +1,6 @@
 # ICA
 
-ICA is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Gold Panda" on Thu, 12 Nov 2026.
+ICA is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Gold Panda" on Thu, 12 Nov 2026.
 
 ICA is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Client_03, Gold Panda and TYGAPAW. See dates, start times and who's playing. 12 Carlton House Terrace; The Mall; St. James's; London SW1Y 5AH; United Kingdom.
 
@@ -16,4 +16,4 @@ ICA is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-
 
 12 Carlton House Terrace; The Mall; St. James's; London SW1Y 5AH; United Kingdom, London
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ica/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ica/)*

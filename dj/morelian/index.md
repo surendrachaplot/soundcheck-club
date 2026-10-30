@@ -1,6 +1,6 @@
 # Mor Elian
 
-Mor Elian is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 30 Oct 2026.
+Mor Elian is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 30 Oct 2026.
 
 Mor Elian is a techno and bass artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 37 more. Often billed alongside Rhyw, Pariah and Marie Montexier. Next up: Société des arts technologiques, Montreal on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Mor Elian is a techno and bass artist based in United States of America, with 13
 
 Rhyw, Pariah, Marie Montexier
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morelian/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morelian/)*

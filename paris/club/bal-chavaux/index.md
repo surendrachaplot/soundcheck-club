@@ -1,6 +1,6 @@
 # Bal Chavaux
 
-Bal Chavaux is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "Discoquette Halloween: Carrie" on Sat, 31 Oct 2026.
+Bal Chavaux is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Discoquette Halloween: Carrie" on Sat, 31 Oct 2026.
 
 Bal Chavaux is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Azo, Cheriii, Dengue Dengue Dengue and Fenouil2000 and 2 more. See dates, start times and who's playing. 1 Av. de la Résistance, 93100 Montreuil.
 
@@ -17,4 +17,4 @@ Bal Chavaux is a music venue in Paris listed on soundcheck. 4 upcoming gigs, wit
 
 1 Av. de la Résistance, 93100 Montreuil, Paris
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*

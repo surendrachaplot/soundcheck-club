@@ -1,6 +1,6 @@
 # Yabanko
 
-Yabanko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Yabanko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Yabanko is a house and disco artist based in Colombia, with 41 gigs on soundcheck across Bogotá. Often billed alongside Bedriñana, Fatbastard and Juanitablue. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yabanko is a house and disco artist based in Colombia, with 41 gigs on soundchec
 
 Bedriñana, Fatbastard, Juanitablue
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yabanko/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yabanko/)*

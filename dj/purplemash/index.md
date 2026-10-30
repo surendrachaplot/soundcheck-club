@@ -1,6 +1,6 @@
 # Purple Mash
 
-Purple Mash is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Autodromo Enzo & Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Purple Mash is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo & Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Purple Mash is a techno and hardcore artist, with 7 gigs on soundcheck across Bologna, Malmo, Malta and Milan and 1 more. Often billed alongside RÄV, EZEDIEL and ANKKH. Next up: Autodromo Enzo & Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Purple Mash is a techno and hardcore artist, with 7 gigs on soundcheck across Bo
 
 RÄV, EZEDIEL, ANKKH
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purplemash/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purplemash/)*

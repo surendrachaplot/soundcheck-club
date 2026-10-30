@@ -1,6 +1,6 @@
 # Reduks
 
-Reduks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Legal, Munich on Fri, 30 Oct 2026.
+Reduks is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Legal, Munich on Fri, 30 Oct 2026.
 
 Reduks is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Munich and 3 more. Often billed alongside VSSL, Kareem El Morr and Muallem. Next up: Legal, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Reduks is a techno and house artist based in Germany, with 37 gigs on soundcheck
 
 VSSL, Kareem El Morr, Muallem
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reduks/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reduks/)*

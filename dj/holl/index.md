@@ -1,6 +1,6 @@
 # Høll
 
-Høll is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Twist Bar, Prague on Sat, 21 Nov 2026.
+Høll is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Twist Bar, Prague on Sat, 21 Nov 2026.
 
 Høll is a techno and ambient artist based in Czech Republic, with 24 gigs on soundcheck across Prague. Often billed alongside Nevinnost, Nior and Atch22. Next up: Twist Bar, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Høll is a techno and ambient artist based in Czech Republic, with 24 gigs on so
 
 Nevinnost, Nior, Atch22
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holl/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holl/)*

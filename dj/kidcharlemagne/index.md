@@ -1,6 +1,6 @@
 # Kid Charlemagne
 
-Kid Charlemagne is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Eiger Studios, Leeds on Fri, 20 Nov 2026.
+Kid Charlemagne is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Eiger Studios, Leeds on Fri, 20 Nov 2026.
 
 Kid Charlemagne is a house and garage artist, with 9 gigs on soundcheck across Birmingham, Leeds and Lyon. Often billed alongside Jake Rollinson, Redshift and A For Alpha. Next up: Eiger Studios, Leeds on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kid Charlemagne is a house and garage artist, with 9 gigs on soundcheck across B
 
 Jake Rollinson, Redshift (2), A For Alpha
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcharlemagne/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcharlemagne/)*

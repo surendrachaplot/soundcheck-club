@@ -1,6 +1,6 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ciało, Wroclaw on Fri, 30 Oct 2026.
+Skin On Skin is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ciało, Wroclaw on Fri, 30 Oct 2026.
 
 Skin On Skin is a techno and house artist based in South Sudan, with 160 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 66 more. Often billed alongside Mall Grab, KETTAMA and X CLUB.. Next up: Ciało, Wroclaw on Fri 30 Oct.
 
@@ -35,4 +35,4 @@ Skin On Skin is a techno and house artist based in South Sudan, with 160 gigs on
 
 Mall Grab, KETTAMA, X CLUB.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

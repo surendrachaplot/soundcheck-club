@@ -1,6 +1,6 @@
 # Tommy Cornelis
 
-Tommy Cornelis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at DC9, Washington DC on Sat, 31 Oct 2026.
+Tommy Cornelis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at DC9, Washington DC on Sat, 31 Oct 2026.
 
 Tommy Cornelis is a house and techno artist based in United States of America, with 81 gigs on soundcheck across Atlanta, Baltimore, Denver and Los Angeles and 3 more. Often billed alongside Joyce Lim, Baronhawk Poitier and Dean Sullivan. Next up: DC9, Washington DC on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tommy Cornelis is a house and techno artist based in United States of America, w
 
 Joyce Lim, Baronhawk Poitier, Dean Sullivan
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycornelis/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycornelis/)*

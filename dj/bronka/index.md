@@ -1,6 +1,6 @@
 # Bronka
 
-Bronka is a Baile Funk and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OCZKI, Warsaw on Sat, 31 Oct 2026.
+Bronka is a Baile Funk and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OCZKI, Warsaw on Sat, 31 Oct 2026.
 
 Bronka is a baile funk and breakbeat artist based in Brazil, with 14 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Hamburg and 8 more. Often billed alongside Mango and Ginger, Bia Marques and Caio Prince. Next up: OCZKI, Warsaw on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Bronka is a baile funk and breakbeat artist based in Brazil, with 14 gigs on sou
 
 Mango and Ginger, Bia Marques, Caio Prince
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronka/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronka/)*

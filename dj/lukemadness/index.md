@@ -1,6 +1,6 @@
 # luke madness
 
-luke madness is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at OST, Berlin on Sat, 14 Nov 2026.
+luke madness is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OST, Berlin on Sat, 14 Nov 2026.
 
 luke madness is a techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Bremen, Cologne and Hamburg and 1 more. Often billed alongside IGDA, Levt and SAIKA. Next up: OST, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ luke madness is a techno artist based in Germany, with 10 gigs on soundcheck acr
 
 IGDA, Levt, SAIKA
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemadness/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemadness/)*

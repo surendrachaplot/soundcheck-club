@@ -1,6 +1,6 @@
 # Dakim
 
-Dakim is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at teller, Seoul on Fri, 30 Oct 2026.
+Dakim is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at teller, Seoul on Fri, 30 Oct 2026.
 
 Dakim is a house and tech house artist based in South Korea, with 20 gigs on soundcheck across Seoul. Often billed alongside .2ndfloor, Jongho and Young Sun. Next up: teller, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Dakim is a house and tech house artist based in South Korea, with 20 gigs on sou
 
 .2ndfloor, Jongho, Young Sun
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dakim/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dakim/)*

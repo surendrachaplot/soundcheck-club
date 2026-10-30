@@ -1,6 +1,6 @@
 # Andrea Saba
 
-Andrea Saba is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Balagan Roma, Rome on Fri, 30 Oct 2026.
+Andrea Saba is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Balagan Roma, Rome on Fri, 30 Oct 2026.
 
 Andrea Saba is a house and minimal artist based in Italy, with 58 gigs on soundcheck across Berlin, Ibiza, London and Milan and 5 more. Often billed alongside Francesco Maria, Alessandro Addi and GNMR. Next up: Balagan Roma, Rome on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Andrea Saba is a house and minimal artist based in Italy, with 58 gigs on soundc
 
 Francesco Maria, Alessandro Addi, GNMR
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasaba/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasaba/)*

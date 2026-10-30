@@ -1,6 +1,6 @@
 # Ziggy Stardubb
 
-Ziggy Stardubb is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Culture Box, Copenhagen on Fri, 30 Oct 2026.
+Ziggy Stardubb is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Culture Box, Copenhagen on Fri, 30 Oct 2026.
 
 Ziggy Stardubb is a techno and house artist based in Denmark, with 8 gigs on soundcheck across Copenhagen. Often billed alongside avoN, B From E and Aerocell. Next up: Culture Box, Copenhagen on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Ziggy Stardubb is a techno and house artist based in Denmark, with 8 gigs on sou
 
 avoN, B From E, Aerocell
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggystardubb/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggystardubb/)*

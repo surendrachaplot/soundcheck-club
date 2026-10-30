@@ -1,6 +1,6 @@
 # Dyzen
 
-Dyzen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Bootshaus, Cologne on Fri, 30 Oct 2026.
+Dyzen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bootshaus, Cologne on Fri, 30 Oct 2026.
 
 Dyzen is a techno and house artist based in Italy, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 23 more. Often billed alongside Mind Against, sideral and Recondite. Next up: Bootshaus, Cologne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Dyzen is a techno and house artist based in Italy, with 63 gigs on soundcheck ac
 
 Mind Against, sideral, Recondite
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*

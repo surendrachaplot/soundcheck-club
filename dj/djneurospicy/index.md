@@ -1,6 +1,6 @@
 # dj neurospicy
 
-dj neurospicy is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Czuła Jest noc, Wroclaw on Sat, 31 Oct 2026.
+dj neurospicy is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Czuła Jest noc, Wroclaw on Sat, 31 Oct 2026.
 
 dj neurospicy is a club and experimental artist based in Poland, with 33 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside anymati, KAROLINDA and domi d.. Next up: Czuła Jest noc, Wroclaw on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ dj neurospicy is a club and experimental artist based in Poland, with 33 gigs on
 
 anymati, KAROLINDA, domi d.
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*

@@ -1,6 +1,6 @@
 # Atki2
 
-Atki2 is a Garage and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Loco Klub, Bristol on Fri, 30 Oct 2026.
+Atki2 is a Garage and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Loco Klub, Bristol on Fri, 30 Oct 2026.
 
 Atki2 is a garage and club artist based in United Kingdom, with 25 gigs on soundcheck across Bristol, Edinburgh and London. Often billed alongside Skillis, Jonesy Wales and Dub Boy. Next up: The Loco Klub, Bristol on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Atki2 is a garage and club artist based in United Kingdom, with 25 gigs on sound
 
 Skillis, Jonesy Wales, Dub Boy
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atki2/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atki2/)*

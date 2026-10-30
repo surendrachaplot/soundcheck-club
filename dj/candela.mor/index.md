@@ -1,6 +1,6 @@
 # Candela Mor
 
-Candela Mor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at berlinClub, Madrid on Fri, 30 Oct 2026.
+Candela Mor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at berlinClub, Madrid on Fri, 30 Oct 2026.
 
 Candela Mor is a house and techno artist based in Argentina, with 8 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Demattei, GINO GENTILI and Iovino. Next up: berlinClub, Madrid on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Candela Mor is a house and techno artist based in Argentina, with 8 gigs on soun
 
 Demattei, GINO GENTILI, Iovino
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candela.mor/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candela.mor/)*

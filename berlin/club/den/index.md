@@ -1,14 +1,13 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. The next is "CANCELLED - OBXENE" on Thu, 29 Oct 2026.
+ÆDEN is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cuddles Halloween" on Sat, 31 Oct 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including YOVA, Aaron Blau, ADAM MUNNINGS and Annakonda and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including YOVA, Aaron Blau, ADAM MUNNINGS and Annakonda and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | CANCELLED - OBXENE |  |
 | Sat, 31 Oct 2026 | Cuddles Halloween | ADAM MUNNINGS, Aaron Blau, DJ AYA, Jen Cardini, Jessica Nightlife, Kingsizebed, Maara, puppy |
 | Fri, 6 Nov 2026 | Black Lab present Deep Culture | Blazej Malinowski, Dima Roas, Hitam, Salem Unsigned |
 | Sat, 7 Nov 2026 | ANECHOIC: Winter Date — WIEDER Invited | August Kind, Bobaz Lobster, Deltapeak, Edgar Os, Eli Bot, GI.O, Henk (BR), L.OST, RaVix, bbymeister, jeanska, mølly (on molly) |
@@ -18,9 +17,10 @@
 | Thu, 26 Nov 2026 | CANCELLED - OBXENE |  |
 | Sat, 28 Nov 2026 | CANDYFLIP with Sköne, ARPL, LÄUFF, YOVA  | ARPL, Dj Kuschelschal, Florelle, Kaltgepresst, LÄUFF, Megaira, Melanchromie, Rabe Rax, Sköne, YOVA, brvder jakob, elfie, subga |
 | Fri, 11 Dec 2026 | Anechoic | August Kind, djbounty3000 |
+| Fri, 11 Dec 2026 | Anechoic x Pikante |  |
 
 ## Address
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

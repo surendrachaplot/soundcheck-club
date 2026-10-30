@@ -1,6 +1,6 @@
 # Jeremiah Meece
 
-Jeremiah Meece is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - SW SIDE, Chicago on Fri, 30 Oct 2026.
+Jeremiah Meece is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - SW SIDE, Chicago on Fri, 30 Oct 2026.
 
 Jeremiah Meece is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Chicago. Often billed alongside Wolfgang Amadidas, Beppe Loda and Convertible. Next up: TBA - SW SIDE, Chicago on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Jeremiah Meece is a techno and house artist based in United States of America, w
 
 Wolfgang Amadidas, Beppe Loda, Convertible
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremiahmeece/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremiahmeece/)*

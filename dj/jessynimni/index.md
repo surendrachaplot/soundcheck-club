@@ -1,6 +1,6 @@
 # Jessy Nimni
 
-Jessy Nimni is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 14 Nov 2026.
+Jessy Nimni is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 14 Nov 2026.
 
 Jessy Nimni is a deep house and house artist based in United States of America, with 125 gigs on soundcheck across Miami. Often billed alongside Kike Roldan, Surreal Flight and Alex Dovo. Next up: Do Not Sit On The Furniture, Miami on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Jessy Nimni is a deep house and house artist based in United States of America, 
 
 Kike Roldan, Surreal Flight, Alex Dovo
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessynimni/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessynimni/)*

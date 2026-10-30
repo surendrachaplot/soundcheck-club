@@ -1,6 +1,6 @@
 # aláya
 
-aláya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 6 Nov 2026.
+aláya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 6 Nov 2026.
 
 aláya is a techno and house artist based in Czech Republic, with 48 gigs on soundcheck across Bratislava and Prague. Often billed alongside Pink Concrete, Adamatron and Yan (CZ). Next up: Ankali & Planeta Za, Prague on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ aláya is a techno and house artist based in Czech Republic, with 48 gigs on sou
 
 Pink Concrete, Adamatron, Yan (CZ)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alaya-cz/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alaya-cz/)*

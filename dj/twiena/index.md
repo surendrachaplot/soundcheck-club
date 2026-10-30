@@ -1,6 +1,6 @@
 # TWIENA
 
-TWIENA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
+TWIENA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
 
 TWIENA is a techno and house artist based in Netherlands, with 127 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Doppelgang, Faustin (NL) and Mary Lake. Next up: export, Rotterdam on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ TWIENA is a techno and house artist based in Netherlands, with 127 gigs on sound
 
 Doppelgang, Faustin (NL), Mary Lake
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*

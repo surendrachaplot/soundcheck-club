@@ -1,6 +1,6 @@
 # LUXX
 
-LUXX is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Wanderlust, Paris on Sat, 31 Oct 2026.
+LUXX is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Wanderlust, Paris on Sat, 31 Oct 2026.
 
 LUXX is a techno and afro house artist based in Colombia, with 55 gigs on soundcheck across Barcelona, Denver, Ibiza and Paris. Often billed alongside Jazz K, NIIXII and EDV. Next up: Wanderlust, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LUXX is a techno and afro house artist based in Colombia, with 55 gigs on soundc
 
 Jazz K, NIIXII, EDV
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luxx/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luxx/)*

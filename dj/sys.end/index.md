@@ -1,6 +1,6 @@
 # SYS.END
 
-SYS.END is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
+SYS.END is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
 
 SYS.END is a techno and house artist based in Belarus, with 20 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Francesca (PL), Butwho and Lyor Kalt. Next up: TBA - Secret Location (passed 2h before event), Warsaw on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ SYS.END is a techno and house artist based in Belarus, with 20 gigs on soundchec
 
 Francesca (PL), Butwho, Lyor Kalt
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sys.end/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sys.end/)*

@@ -1,6 +1,6 @@
 # Mosai
 
-Mosai is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 11 Dec 2026.
+Mosai is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 11 Dec 2026.
 
 Mosai is a techno and house artist based in United Kingdom, with 37 gigs on soundcheck across Barcelona, Berlin, Liverpool and London and 2 more. Often billed alongside Tasman-UK, Debbie. and Kessie. Next up: Tresor / Globus, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Mosai is a techno and house artist based in United Kingdom, with 37 gigs on soun
 
 Tasman-UK, Debbie., Kessie
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosai/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosai/)*

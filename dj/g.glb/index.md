@@ -1,6 +1,6 @@
 # G.G (LB)
 
-G.G (LB) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+G.G (LB) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 G.G (LB) is a house and minimal artist based in Ireland, with 10 gigs on soundcheck across Dublin. Often billed alongside Royce Larøca, (navarro) and Gabb (PRY). Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ G.G (LB) is a house and minimal artist based in Ireland, with 10 gigs on soundch
 
 Royce Larøca, (navarro), Gabb (PRY)
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g.glb/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/g.glb/)*

@@ -1,6 +1,6 @@
 # OLIVIA LENSEN
 
-OLIVIA LENSEN is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 30 Oct 2026.
+OLIVIA LENSEN is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 30 Oct 2026.
 
 OLIVIA LENSEN is a house and techno artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Cologne, Dortmund / Essen and Netherlands and 3 more. Often billed alongside Lisa Korver, NewTone and DART. Next up: Complex Maastricht, Netherlands on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ OLIVIA LENSEN is a house and techno artist based in Netherlands, with 70 gigs on
 
 Lisa Korver, NewTone, DART
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*

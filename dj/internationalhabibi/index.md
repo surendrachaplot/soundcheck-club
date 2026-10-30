@@ -1,6 +1,6 @@
 # International Habibi
 
-International Habibi is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at Society Clubhouse, Toronto on Thu, 12 Nov 2026.
+International Habibi is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Society Clubhouse, Toronto on Thu, 12 Nov 2026.
 
 International Habibi is a minimal and minimal techno artist based in Canada, with 26 gigs on soundcheck across Toronto. Often billed alongside Vladislove, DJ Chris (CA) and Frank & Tony. Next up: Society Clubhouse, Toronto on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ International Habibi is a minimal and minimal techno artist based in Canada, wit
 
 Vladislove, DJ Chris (CA), Frank & Tony
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/internationalhabibi/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/internationalhabibi/)*

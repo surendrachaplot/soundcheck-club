@@ -1,6 +1,6 @@
 # gabriela (US)
 
-gabriela (US) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 29 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sun, 1 Nov 2026.
+gabriela (US) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sun, 1 Nov 2026.
 
 gabriela (US) is a techno and electro artist, with 16 gigs on soundcheck across New Orleans and New York City. Often billed alongside D1ME, lady lavender and Tristan Dufrene. Next up: The Crypt (New Orleans), New Orleans on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ gabriela (US) is a techno and electro artist, with 16 gigs on soundcheck across 
 
 D1ME, lady lavender, Tristan Dufrene
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriela-us/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriela-us/)*

@@ -1,6 +1,6 @@
 # Tash
 
-Tash is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 29 Oct 2026. Next at Story Toronto, Toronto on Sat, 31 Oct 2026.
+Tash is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Story Toronto, Toronto on Sat, 31 Oct 2026.
 
 Tash is a techno and progressive house artist based in Greece, with 24 gigs on soundcheck across Amsterdam, Berlin, Chicago and Lisbon and 5 more. Often billed alongside W&DY, Alex O'Rion and Alexisphere. Next up: Story Toronto, Toronto on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Tash is a techno and progressive house artist based in Greece, with 24 gigs on s
 
 W&DY, Alex O'Rion, Alexisphere
 
-*Updated Thu, 29 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tash/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tash/)*
