@@ -1,8 +1,8 @@
 # Sainte Vie
 
-Sainte Vie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
+Sainte Vie is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
 
-Sainte Vie is a techno and house artist based in Mexico, with 90 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 27 more. Often billed alongside Eli (US), Mateo (US) and MANTi. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 30 Oct.
+Sainte Vie is a techno and house artist based in Mexico, with 91 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 27 more. Often billed alongside Eli (US), Mateo (US) and MANTi. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sainte Vie is a techno and house artist based in Mexico, with 90 gigs on soundch
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Sat, 14 Nov 2026 | ORIGIN | Los Angeles |
+| Fri, 29 Jan 2027 | Knockdown Center | New-york-city |
 
 ## Recently played
 

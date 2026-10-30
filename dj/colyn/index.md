@@ -1,8 +1,8 @@
 # Colyn
 
-Colyn is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
+Colyn is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
 
-Colyn is a techno and house artist based in Netherlands, with 188 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Adriatique, Innellea and Tale Of Us. Next up: E1, London on Fri 30 Oct.
+Colyn is a techno and house artist based in Netherlands, with 189 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Adriatique, Innellea and Tale Of Us. Next up: E1, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Colyn is a techno and house artist based in Netherlands, with 188 gigs on soundc
 | Sat, 31 Oct 2026 | Recinto Iberdrola Music | Madrid |
 | Sat, 21 Nov 2026 | Mute Beach | Buenos Aires |
 | Sun, 27 Dec 2026 | TBA - Roll and Rock Beach House, Parada 8 Playa Brava, Punta del Este | Uruguay |
+| Fri, 29 Jan 2027 | Knockdown Center | New-york-city |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Remy Unger
 
-Remy Unger is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Radar, Belgium on Sat, 31 Oct 2026.
+Remy Unger is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Radar, Belgium on Sat, 31 Oct 2026.
 
-Remy Unger is a techno and acid artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Ghent and 4 more. Often billed alongside Alexander Koning, Lucien Foort and Erick E. Next up: Radar, Belgium on Sat 31 Oct.
+Remy Unger is a techno and acid artist based in Netherlands, with 59 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Ghent and 4 more. Often billed alongside Alexander Koning, Lucien Foort and Erick E. Next up: Radar, Belgium on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Remy Unger is a techno and acid artist based in Netherlands, with 58 gigs on sou
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Radar | Belgium |
 | Sat, 7 Nov 2026 | Thuishaven | Amsterdam |
+| Fri, 20 Nov 2026 | Het Sieraad | Amsterdam |
 | Sat, 5 Dec 2026 | TRAUM | Antwerp |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
 | Sat, 4 Sept 2027 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |

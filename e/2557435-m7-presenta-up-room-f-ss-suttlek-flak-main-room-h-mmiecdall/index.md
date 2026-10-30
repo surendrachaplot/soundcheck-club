@@ -1,6 +1,6 @@
-# M7 presenta [Up Room] FØSS, SuttleK, Flakø [Main Room] HØMMIECDALL, GG GØØAT & VØLNA at M7 Club
+# M7 presenta [Up Room] FØSS, SuttleK, Flakø [Main Room] HØMMIECDALL, Marc Fx & VØLNA at M7 Club
 
-M7 presenta [Up Room] FØSS, SuttleK, Flakø [Main Room] HØMMIECDALL, GG GØØAT & VØLNA at M7 Club on Fri 30 Oct, Barcelona. 3 artists: FØSS, SuttleK and VØLNA. Techno. See the line-up on soundcheck.
+M7 presenta [Up Room] FØSS, SuttleK, Flakø [Main Room] HØMMIECDALL, Marc Fx & VØLNA at M7 Club on Fri 30 Oct, Barcelona. 3 artists: FØSS, SuttleK and VØLNA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -10,13 +10,13 @@ dubble is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | afternoon interlude: Nico Borgio | Nico Borgio |
 | Sat, 7 Nov 2026 | Afternoon Interlude: Sinnay4 |  |
-| Sun, 8 Nov 2026 | New Residency: The Space Inbetween | Nikko Axzul |
+| Sun, 8 Nov 2026 | New Residency: The Space Between | Nikko Axzul |
 | Fri, 13 Nov 2026 | friday special: jazz jam |  |
 | Sat, 14 Nov 2026 | afternoon interlude: karim semin + Fenna Fiction | Fenna Fiction |
 | Sun, 15 Nov 2026 | Innerzone with Nikos |  |
 | Sat, 21 Nov 2026 | Bloemstraat: Liberatory Sounds | Cathy Grogan, Karmel Sabri, Mo Wrights |
 | Thu, 26 Nov 2026 | Acid Chess Club x Dubble | sima k |
-| Sat, 28 Nov 2026 | afternoon interlude: iulia + k cider |  |
+| Sat, 28 Nov 2026 | afternoon interlude: iulia + k cidder |  |
 
 ## Address
 

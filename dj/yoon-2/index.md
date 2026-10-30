@@ -2,7 +2,7 @@
 
 YOON is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
 
-YOON is a house and techno artist based in Denmark, with 35 gigs on soundcheck across Copenhagen. Often billed alongside NAT (SK), Tilde Dyrnes and Pelzman. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 1 Nov.
+YOON is a house and techno artist based in Denmark, with 35 gigs on soundcheck across Copenhagen. Often billed alongside NAT(SK), Tilde Dyrnes and Pelzman. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ YOON is a house and techno artist based in Denmark, with 35 gigs on soundcheck a
 
 ## Shares bills with
 
-NAT (SK), Tilde Dyrnes, Pelzman
+NAT(SK), Tilde Dyrnes, Pelzman
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoon-2/)*

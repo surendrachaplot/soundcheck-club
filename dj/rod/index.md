@@ -1,13 +1,14 @@
 # ROD
 
-ROD is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 28 Nov 2026.
+ROD is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at LAB Wijnhof, Netherlands on Sat, 14 Nov 2026.
 
-ROD is a techno and house artist based in Netherlands, with 53 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Dortmund / Essen and 8 more. Often billed alongside Benny Rodrigues, Cynthia Spiering and STERAC. Next up: Thuishaven, Amsterdam on Sat 28 Nov.
+ROD is a techno and house artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Dortmund / Essen and 9 more. Often billed alongside Benny Rodrigues, Cynthia Spiering and STERAC. Next up: LAB Wijnhof, Netherlands on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | LAB Wijnhof | Netherlands |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 28 Nov 2026 | Open Ground | Wuppertal |
 | Sat, 5 Dec 2026 | fabric | London |

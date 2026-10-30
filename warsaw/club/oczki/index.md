@@ -9,7 +9,7 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 6 upcoming gigs, with lin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Ctrl. pres. Infected Mushroom |  |
-| Sat, 31 Oct 2026 | EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic, Shaolin Cowboy(UK) | Bronka, Kitty Sarcasm, PLACEBO COLLECTIVE, Pijus, Shaolin Cowboy, Target Demographic |
+| Sat, 31 Oct 2026 | EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic | Bronka, Kitty Sarcasm, PLACEBO COLLECTIVE, Pijus, Target Demographic |
 | Sat, 31 Oct 2026 | ZA STARZY NA TECHNO HALLOWEEN |  |
 | Sat, 7 Nov 2026 | ATRIP |  |
 | Sat, 21 Nov 2026 | Ctrl pres. Swimming Paul |  |

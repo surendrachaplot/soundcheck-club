@@ -1,14 +1,14 @@
 # JUWLZ
 
-JUWLZ is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
+JUWLZ is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Motzener Strasse 5 in 12277, Berlin on Sat, 31 Oct 2026.
 
-JUWLZ is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 1 more. Often billed alongside Lisatrix, cell1 and ClubSubbe. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
+JUWLZ is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 1 more. Often billed alongside Lisatrix, cell1 and ClubSubbe. Next up: TBA - Motzener Strasse 5 in 12277, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Secret Location in South Berlin | Berlin |
+| Sat, 31 Oct 2026 | TBA - Motzener Strasse 5 in 12277 | Berlin |
 | Fri, 6 Nov 2026 | Void Club | Berlin |
 | Fri, 6 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 

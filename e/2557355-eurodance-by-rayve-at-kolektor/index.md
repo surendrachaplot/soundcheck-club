@@ -1,6 +1,6 @@
 # EURODANCE by RAYVE at Kolektor
 
-EURODANCE by RAYVE at Kolektor on Sat 7 Nov, Prague. 3 artists: DARDANELLA, enthrust and V!KK!. Electro. See the line-up on soundcheck.
+EURODANCE by RAYVE at Kolektor on Sat 7 Nov, Prague. 4 artists: 77zerozero, DARDANELLA, enthrust and V!KK!. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ EURODANCE by RAYVE at Kolektor on Sat 7 Nov, Prague. 3 artists: DARDANELLA, enth
 
 ## Line-up
 
+- 77zerozero
 - DARDANELLA
 - enthrust
 - V!KK!

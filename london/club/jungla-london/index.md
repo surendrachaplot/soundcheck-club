@@ -8,7 +8,7 @@ Jungla London is a music venue in London listed on soundcheck. 5 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | CYBERBEATS x THE WIRE:  SECRET LONDON - PRIVATE HALLOWEEN AFTERS  | Any Koh, Areeb Abbasi, Dimanté, Pedro (IT), Simone Sim |
+| Fri, 30 Oct 2026 | CYBERBEATS x THE WIRE:  SECRET LONDON - PRIVATE HALLOWEEN AFTERS  | Any Koh, Areeb Abbasi, Dimanté, Pedro (IT) |
 | Sat, 31 Oct 2026 | Day Mode - Halloween Special - House Music | Brockney C, Dominique Danielle, Miss Jackson, Shiloh (UK) |
 | Fri, 6 Nov 2026 | Techno Funk 6.0 | Areeb Abbasi, Auseeb, Kate Moss, Wiikii |
 | Sat, 7 Nov 2026 | HOUSE OF JUNGLA Winter Vibes | Ale Grooves, HAIG, Jaden Pace |

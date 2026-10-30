@@ -1,13 +1,14 @@
 # Jolly (FR)
 
-Jolly (FR) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Trabendo, Paris on Fri, 18 Dec 2026.
+Jolly (FR) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Gare / Le Gore, Paris on Fri, 27 Nov 2026.
 
-Jolly (FR) is a techno and trance artist based in France, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Lastvuska, Maryu and Domi (FR). Next up: Le Trabendo, Paris on Fri 18 Dec.
+Jolly (FR) is a techno and trance artist based in France, with 98 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Lastvuska, Maryu and Domi (FR). Next up: La Gare / Le Gore, Paris on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | La Gare / Le Gore | Paris |
 | Fri, 18 Dec 2026 | Le Trabendo | Paris |
 | Fri, 15 Jan 2027 | Le Trabendo | Paris |
 

@@ -1,14 +1,13 @@
 # Eliza Rose
 
-Eliza Rose is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at M.O.T, London on Fri, 30 Oct 2026.
+Eliza Rose is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sala Cocó, Madrid on Thu, 3 Dec 2026.
 
-Eliza Rose is a house and tech house artist based in United Kingdom, with 149 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 44 more. Often billed alongside Dan Shake, Sally C and TSHA. Next up: M.O.T, London on Fri 30 Oct.
+Eliza Rose is a house and tech house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 44 more. Often billed alongside Dan Shake, Sally C and TSHA. Next up: Sala Cocó, Madrid on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | M.O.T | London |
 | Thu, 3 Dec 2026 | Sala Cocó | Madrid |
 
 ## Recently played

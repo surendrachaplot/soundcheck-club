@@ -1,13 +1,14 @@
 # Carl H
 
-Carl H is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Laak, The Hague on Fri, 20 Nov 2026.
+Carl H is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at PRST, Vienna on Sat, 14 Nov 2026.
 
-Carl H is a techno and trance artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 46 more. Often billed alongside Jane Fitz, So-Fi and DJ TEETH. Next up: Laak, The Hague on Fri 20 Nov.
+Carl H is a techno and trance artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 46 more. Often billed alongside Jane Fitz, So-Fi and DJ TEETH. Next up: PRST, Vienna on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | PRST | Vienna |
 | Fri, 20 Nov 2026 | Laak | The Hague |
 | Fri, 4 Dec 2026 | Cobalt Studios | Newcastle |
 | Sat, 12 Dec 2026 | FOLD | London |

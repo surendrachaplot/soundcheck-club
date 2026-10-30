@@ -1,6 +1,6 @@
 # CASALUA INVITES SONA at Bloody Louis
 
-CASALUA INVITES SONA at Bloody Louis on Sat 7 Nov, Brussels. 1 artist: SONA. Afro House and Afro Tech. See the line-up on soundcheck.
+CASALUA INVITES SONA at Bloody Louis on Sat 7 Nov, Brussels. 3 artists: AMIYA, Bastin. and SONA. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ CASALUA INVITES SONA at Bloody Louis on Sat 7 Nov, Brussels. 1 artist: SONA. Afr
 
 ## Line-up
 
+- AMIYA
+- Bastin.
 - SONA (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2560707-casalua-invites-sona-at-bloody-louis/)*

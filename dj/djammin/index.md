@@ -1,14 +1,13 @@
 # Djammin
 
-Djammin is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Phonox, London on Fri, 30 Oct 2026.
+Djammin is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Phonox, London on Fri, 30 Oct 2026.
 
-Djammin is a house and afro house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Bristol, Dubai and Ibiza and 7 more. Often billed alongside Meeshy, Ossie and Skepta. Next up: Phonox, London on Fri 30 Oct.
+Djammin is a house and afro house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Bristol, Dubai and Ibiza and 7 more. Often billed alongside Meeshy, Ossie and Skepta. Next up: Phonox, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Phonox | London |
 | Fri, 30 Oct 2026 | Phonox | London |
 | Sat, 7 Nov 2026 | LAB theCLUB | Madrid |
 

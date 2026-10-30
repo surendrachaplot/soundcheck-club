@@ -17,7 +17,7 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, 
 | Fri, 6 Nov 2026 | SONS (LIVE) |  |
 | Sat, 7 Nov 2026 | BAILE DA GALECTA |  |
 | Fri, 13 Nov 2026 | AIFFS | Alex Ranzino, Figi, STIPP, THC, emssoleil |
-| Sat, 14 Nov 2026 | PALINDROOM FESTIVAL |  |
+| Sat, 14 Nov 2026 | PALINDROOM FESTIVAL | KES (3) |
 
 ## Address
 

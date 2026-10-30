@@ -1,14 +1,14 @@
 # Ravejezuz
 
-Ravejezuz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location in South Berlin, Berlin on Sat, 31 Oct 2026.
+Ravejezuz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Motzener Strasse 5 in 12277, Berlin on Sat, 31 Oct 2026.
 
-Ravejezuz is a techno and trance artist, with 19 gigs on soundcheck across Berlin. Often billed alongside Thielking, Trash Bandit and ClubSubbe. Next up: TBA - Secret Location in South Berlin, Berlin on Sat 31 Oct.
+Ravejezuz is a techno and trance artist, with 19 gigs on soundcheck across Berlin. Often billed alongside Thielking, Trash Bandit and ClubSubbe. Next up: TBA - Motzener Strasse 5 in 12277, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Secret Location in South Berlin | Berlin |
+| Sat, 31 Oct 2026 | TBA - Motzener Strasse 5 in 12277 | Berlin |
 
 ## Recently played
 

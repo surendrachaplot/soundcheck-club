@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cuddles Halloween" on Sat, 31 Oct 2026.
+ÆDEN is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cuddles Halloween [TICKETS AT THE DOOR]" on Sat, 31 Oct 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including YOVA, Aaron Blau, ADAM MUNNINGS and Annakonda and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Cuddles Halloween | ADAM MUNNINGS, Aaron Blau, DJ AYA, Jen Cardini, Jessica Nightlife, Kingsizebed, Maara, puppy |
+| Sat, 31 Oct 2026 | Cuddles Halloween [TICKETS AT THE DOOR] | ADAM MUNNINGS, Aaron Blau, DJ AYA, Jen Cardini, Jessica Nightlife, Kingsizebed, Maara, puppy |
 | Fri, 6 Nov 2026 | Black Lab present Deep Culture | Blazej Malinowski, Dima Roas, Hitam, Salem Unsigned |
 | Sat, 7 Nov 2026 | ANECHOIC: Winter Date — WIEDER Invited | August Kind, Bobaz Lobster, Deltapeak, Edgar Os, Eli Bot, GI.O, Henk (BR), L.OST, RaVix, bbymeister, jeanska, mølly (on molly) |
 | Fri, 13 Nov 2026 | ♢ GROOVE STREET ♢ | ASTRANA, Annakonda, Blck-Swan, Delm, EVYA, JENKA, Karolanne, KunstTechnologe, RichBeat, e.leptic, sTayUpLate, springēr, wilder förster |

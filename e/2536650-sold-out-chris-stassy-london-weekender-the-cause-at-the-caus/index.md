@@ -1,6 +1,6 @@
 # [SOLD OUT] CHRIS STASSY - LONDON WEEKENDER - The Cause at The Cause
 
-[SOLD OUT] CHRIS STASSY - LONDON WEEKENDER - The Cause on Sun 6 Dec, London. 1 artist: CHRIS STASSY. House. See the line-up on soundcheck.
+[SOLD OUT] CHRIS STASSY - LONDON WEEKENDER - The Cause on Sun 6 Dec, London. 1 artist: Chris Stussy. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@
 
 ## Line-up
 
-- CHRIS STASSY
+- Chris Stussy
 
 *Source: [soundcheck](https://soundcheck.club/e/2536650-sold-out-chris-stassy-london-weekender-the-cause-at-the-caus/)*

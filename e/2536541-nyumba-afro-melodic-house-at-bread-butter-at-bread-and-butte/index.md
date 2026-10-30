@@ -1,6 +1,6 @@
 # NYUMBA: Afro & Melodic House at Bread & Butter at Bread and Butter
 
-NYUMBA: Afro & Melodic House at Bread & Butter at Bread and Butter on Sat 31 Oct, London. 5 artists: Bushman (UK), Jïmono, Kakura and MYDIR and 1 more. House and Afro House. See the line-up on soundcheck.
+NYUMBA: Afro & Melodic House at Bread & Butter at Bread and Butter on Sat 31 Oct, London. 5 artists: Bushman (UK), Jïmono, Kakura and MYDIR and 1 more. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

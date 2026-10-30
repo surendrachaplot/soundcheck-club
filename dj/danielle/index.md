@@ -1,8 +1,8 @@
 # Danielle (UK)
 
-Danielle (UK) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at World Headquarters, Newcastle on Sat, 7 Nov 2026.
+Danielle (UK) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at World Headquarters, Newcastle on Sat, 7 Nov 2026.
 
-Danielle (UK) is a techno and house artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 43 more. Often billed alongside Amaliah, Ryan Elliott and Ogazón. Next up: World Headquarters, Newcastle on Sat 7 Nov.
+Danielle (UK) is a techno and house artist based in United Kingdom, with 162 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 43 more. Often billed alongside Amaliah, Ryan Elliott and Ogazón. Next up: World Headquarters, Newcastle on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Danielle (UK) is a techno and house artist based in United Kingdom, with 161 gig
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | World Headquarters | Newcastle |
 | Fri, 20 Nov 2026 | Pawnshop | Taipei |
+| Fri, 27 Nov 2026 | Radio Radio | Amsterdam |
 | Fri, 4 Dec 2026 | The Loco Klub | Bristol |
 | Sat, 12 Dec 2026 | Cadavra | Madrid |
 | Thu, 31 Dec 2026 | gallery 1986 | Vilnius |

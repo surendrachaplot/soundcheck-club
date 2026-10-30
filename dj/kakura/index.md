@@ -1,8 +1,8 @@
 # Kakura
 
-Kakura is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bread and Butter, London on Sat, 31 Oct 2026.
+Kakura is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bread and Butter, London on Sat, 31 Oct 2026.
 
-Kakura is an afro house and house artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside MYDIR, Bushman (UK) and Azur. Next up: Bread and Butter, London on Sat 31 Oct.
+Kakura is an afro house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside MYDIR, Bushman (UK) and Azur. Next up: Bread and Butter, London on Sat 31 Oct.
 
 ## Upcoming shows
 

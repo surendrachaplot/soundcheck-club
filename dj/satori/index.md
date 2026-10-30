@@ -1,14 +1,13 @@
 # Satori
 
-Satori is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+Satori is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Downtown LA, Los Angeles on Sat, 31 Oct 2026.
 
-Satori is a house and afro house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 32 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
+Satori is a house and afro house artist based in Netherlands, with 87 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 31 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: TBA - Downtown LA, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Public Works | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | TBA - Downtown LA | Los Angeles |
 | Sat, 7 Nov 2026 | Frontón Bucareli | Mexico City |
 | Sat, 12 Dec 2026 | Lula Club | Madrid |

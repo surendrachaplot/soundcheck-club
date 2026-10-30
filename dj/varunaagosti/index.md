@@ -1,13 +1,14 @@
 # Varuna Agosti
 
-Varuna Agosti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Varuna Agosti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Radio Radio, Amsterdam on Thu, 5 Nov 2026.
 
-Varuna Agosti is a techno and house artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Berlin, Central and Münster and 2 more. Often billed alongside Thoms Traxx, Lobster (NL) and Prance. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+Varuna Agosti is a techno and house artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Berlin, Central and Münster and 2 more. Often billed alongside Thoms Traxx, Lobster (NL) and Prance. Next up: Radio Radio, Amsterdam on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Radio Radio | Amsterdam |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 
 ## Recently played

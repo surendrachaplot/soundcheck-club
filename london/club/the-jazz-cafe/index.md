@@ -1,8 +1,8 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 49 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Jamz Supernova's Dance Around The World at Jazz Cafe" on Fri, 30 Oct 2026.
+The Jazz Cafe is a music venue in London with 50 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Jamz Supernova's Dance Around The World at Jazz Cafe" on Fri, 30 Oct 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 49 upcoming gigs, with line-ups including Auntie Flo, Bugge Wesseltoft, Catu Diosis and Daniele Mizar and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 50 upcoming gigs, with line-ups including Auntie Flo, Bugge Wesseltoft, Catu Diosis and Daniele Mizar and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 

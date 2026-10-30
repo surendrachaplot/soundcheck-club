@@ -9,7 +9,7 @@ Low Profile Studios is a music venue in London listed on soundcheck. 13 upcoming
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Corefusion #008 | Demetzy, IFFYHYPE, Switch Back Smith |
-| Fri, 30 Oct 2026 | Das Booty: Night of the Living Bassheads 6 |  |
+| Fri, 30 Oct 2026 | Das Booty: Night of the Living Bass Heads |  |
 | Sat, 31 Oct 2026 | nospace presents: Final Screening  |  |
 | Sat, 7 Nov 2026 | Digger's Paradise w./ Ralph Lawson | Isaac Reuben, Ralph Lawson |
 | Fri, 13 Nov 2026 | SPICED: SUPERSTITION |  |

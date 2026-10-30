@@ -1,6 +1,6 @@
 # Perplex & MTRNM present The Neon Church w/ Shimza, GENNARO, Maxi Meraki & many more at One Marylebone
 
-Perplex & MTRNM present The Neon Church w/ Shimza, GENNARO, Maxi Meraki & many more at One Marylebone on Thu 29 Oct, London. 21 artists: Amaliah, CAPTNNN', Cordioli and GENNARO and 17 more. House and Afro House. See the line-up on soundcheck.
+Perplex & MTRNM present The Neon Church w/ Shimza, GENNARO, Maxi Meraki & many more at One Marylebone on Thu 29 Oct, London. 20 artists: CAPTNNN', Cordioli, GENNARO and Giacomo-XL and 16 more. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Perplex & MTRNM present The Neon Church w/ Shimza, GENNARO, Maxi Meraki & many m
 
 ## Line-up
 
-- Amaliah
 - CAPTNNN'
 - Cordioli
 - GENNARO

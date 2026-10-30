@@ -1,8 +1,8 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Analog Echoes 1.0: Planetary Assault Systems, FJAAK & More" on Fri, 30 Oct 2026.
+Mia Mao is a music venue in Paris with 21 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Analog Echoes 1.0: Planetary Assault Systems, FJAAK & More" on Fri, 30 Oct 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including ADB (FR), Akalex, ANDATA and Annie and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 21 upcoming gigs, with line-ups including ADB (FR), Akalex, ANDATA and Annie and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 

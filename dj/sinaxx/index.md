@@ -1,13 +1,14 @@
 # Sina XX
 
-Sina XX is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at KitKatClub, Berlin on Sun, 15 Nov 2026.
+Sina XX is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at S//IP, Cyprus on Sat, 31 Oct 2026.
 
-Sina XX is a techno and house artist based in France, with 87 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 24 more. Often billed alongside Nesa Azadikhah, Egna and A.mo. Next up: KitKatClub, Berlin on Sun 15 Nov.
+Sina XX is a techno and house artist based in France, with 88 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 25 more. Often billed alongside Nesa Azadikhah, Egna and A.mo. Next up: S//IP, Cyprus on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | S//IP | Cyprus |
 | Sun, 15 Nov 2026 | KitKatClub | Berlin |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "EMOM - Moolakii Club Listening Room" on Tue, 3 Nov 2026.
+Future Yard is a music venue in Liverpool with 18 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "EMOM - Moolakii Club Listening Room" on Tue, 3 Nov 2026.
 
-Future Yard is a music venue in Liverpool listed on soundcheck. 17 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and Doc Scott and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
+Future Yard is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs, with line-ups including African Head Charge, Bodega, Congo Natty and corto.alto and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
 ## What's on
 

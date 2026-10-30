@@ -1,8 +1,8 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 21 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "MAD KATZ mit Oscar Mulero, Verraco & SHDW" on Fri, 30 Oct 2026.
+Hive Club is a music venue in Zurich with 22 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "MAD KATZ mit Oscar Mulero, Verraco & SHDW" on Fri, 30 Oct 2026.
 
-Hive Club is a music venue in Zurich listed on soundcheck. 21 upcoming gigs, with line-ups including 1luu, Acid Arab, Adi Dassler and Andreas Ramos and 2 more. See dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
+Hive Club is a music venue in Zurich listed on soundcheck. 22 upcoming gigs, with line-ups including 1luu, Acid Arab, Adi Dassler and Andreas Ramos and 2 more. See dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
 ## What's on
 

@@ -1,8 +1,8 @@
-# TBA - The Den
+# TBA - The DEN 
 
-TBA - The Den is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "UNSCRIPTED VOL.2" on Tue, 3 Nov 2026.
+TBA - The DEN  is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "UNSCRIPTED VOL.2" on Tue, 3 Nov 2026.
 
-TBA - The Den is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including SURCO and TECSTONE. See dates, start times and who's playing.
+TBA - The DEN  is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including SURCO and TECSTONE. See dates, start times and who's playing.
 
 ## What's on
 

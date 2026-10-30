@@ -9,7 +9,7 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 2 up
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Spectrum Waves: Closing Station (Nord + Sud) | DJ Holographic, Elsa Bernini, Lea Occhi, RÆZA, SOTTOH, Toscan Haas |
-| Sat, 31 Oct 2026 | La Station — Doomsday | A Good Year, Evanora Unlimited, Fatale Furylax, Faïza, Golce, Julie Desire, Lord Spikeheart, Marouchka, Missy Da Kunt, Mystique, NET GALA, Thérapie de Club, ohjeelo |
+| Sat, 31 Oct 2026 | La Station — Doomsday (PAS DE VENTE SUR PLACE) | A Good Year, Evanora Unlimited, Fatale Furylax, Faïza, Golce, Julie Desire, Lord Spikeheart, Marouchka, Missy Da Kunt, Mystique, NET GALA, Thérapie de Club, ohjeelo |
 
 ## Address
 

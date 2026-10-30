@@ -1,6 +1,6 @@
 # Donnerdogge at Golden Gate
 
-Donnerdogge at Golden Gate on Thu 5 Nov, Berlin. 3 artists: David Delgado, Eros (US) and Gunnar Guess. See the line-up on soundcheck.
+Donnerdogge at Golden Gate on Thu 5 Nov, Berlin. 3 artists: David Delgado, Eros Bilgic and Gunnar Guess. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Donnerdogge at Golden Gate on Thu 5 Nov, Berlin. 3 artists: David Delgado, Eros 
 ## Line-up
 
 - David Delgado
-- Eros (US)
+- Eros Bilgic
 - Gunnar Guess
 
 *Source: [soundcheck](https://soundcheck.club/e/2569720-donnerdogge-at-golden-gate/)*

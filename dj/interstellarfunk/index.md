@@ -1,8 +1,8 @@
 # Interstellar Funk
 
-Interstellar Funk is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at REC Napoli, Naples on Sat, 31 Oct 2026.
+Interstellar Funk is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at REC Napoli, Naples on Sat, 31 Oct 2026.
 
-Interstellar Funk is a techno and house artist based in Netherlands, with 127 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 44 more. Often billed alongside Casper Tielrooij, Marcel Dettmann and Loradeniz. Next up: REC Napoli, Naples on Sat 31 Oct.
+Interstellar Funk is a techno and house artist based in Netherlands, with 128 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 44 more. Often billed alongside Casper Tielrooij, Marcel Dettmann and Loradeniz. Next up: REC Napoli, Naples on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Interstellar Funk is a techno and house artist based in Netherlands, with 127 gi
 | Sat, 31 Oct 2026 | REC Napoli | Naples |
 | Sun, 1 Nov 2026 | Hoppetosse | Berlin |
 | Fri, 6 Nov 2026 | Signal | New York City |
+| Fri, 27 Nov 2026 | Radio Radio | Amsterdam |
 
 ## Recently played
 

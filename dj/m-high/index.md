@@ -1,14 +1,15 @@
 # M-High
 
-M-High is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Cardiff Students' Union - Y Plas, Cardiff on Sat, 31 Oct 2026.
+M-High is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Cardiff Students' Union - Y Plas, Cardiff on Sat, 31 Oct 2026.
 
-M-High is a house and tech house artist based in Netherlands, with 194 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 39 more. Often billed alongside Prunk, Job de Jong and Sidney Charles. Next up: Cardiff Students' Union - Y Plas, Cardiff on Sat 31 Oct.
+M-High is a house and tech house artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside Prunk, Job de Jong and Sidney Charles. Next up: Cardiff Students' Union - Y Plas, Cardiff on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Cardiff Students' Union - Y Plas | Cardiff |
+| Fri, 13 Nov 2026 | Tunnel | Milan |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Fri, 20 Nov 2026 | The Barbary | Philadelphia |
 | Sat, 21 Nov 2026 | 1920 Ybor | Tampa-bay |

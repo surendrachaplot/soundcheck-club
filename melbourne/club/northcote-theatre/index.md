@@ -12,7 +12,7 @@ Northcote Theatre is a music venue in Melbourne listed on soundcheck. 7 upcoming
 | Sat, 21 Nov 2026 | Guerilla & Dark pres. fumi (extended 4 hour set) | Black Dave, Royboy, fumi (DE) |
 | Fri, 27 Nov 2026 | Novel presents Kerri Chandler | Kerri Chandler |
 | Fri, 11 Dec 2026 | Defected Melbourne 2026 | David Penn, Murphy's Law, Nick Curly, Sam Divine |
-| Thu, 31 Dec 2026 | High Times - NYE | Aquenta, Deepa, Jun Wan, Marcellus Pittman, Mazzacles, Miki (3), Nay Nay, PITCHKA, Palazzo (2), Simon TK, Soichi Terada, Soju Gang, System Olympia, Umut, Zalina, Zjoso |
+| Thu, 31 Dec 2026 | High Times - NYE | Aquenta, Deepa, Jun Wan, Marcellus Pittman, Mazzacles, Miki (3), Nay Nay, PITCHKA, Palazzo (2), Ruben Secaduras, Simon TK, Soichi Terada, System Olympia, Umut, Zalina, Zjoso |
 | Wed, 6 Jan 2027 | Nia Archives | Nia Archives |
 | Sun, 7 Mar 2027 | Novel presents Kenny Dope | Kenny Dope |
 

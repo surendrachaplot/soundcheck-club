@@ -1,6 +1,6 @@
 # VOLLKOMMEN - Fourth Anniversary at TBA - Secret Industrial Location (Berlin)
 
-VOLLKOMMEN - Fourth Anniversary at TBA - Secret Industrial Location (Berlin) on Fri 13 Nov, Berlin. 2 artists: Nik Andersson and Sebastian Konrad. House and Tech House. See the line-up on soundcheck.
+VOLLKOMMEN - Fourth Anniversary at TBA - Secret Industrial Location (Berlin) on Fri 13 Nov, Berlin. 3 artists: Nik Andersson, Sebastian Konrad and Tizia. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ VOLLKOMMEN - Fourth Anniversary at TBA - Secret Industrial Location (Berlin) on 
 
 - Nik Andersson
 - Sebastian Konrad
+- Tizia
 
 *Source: [soundcheck](https://soundcheck.club/e/2547580-vollkommen-fourth-anniversary-at-tba-secret-industrial-locat/)*

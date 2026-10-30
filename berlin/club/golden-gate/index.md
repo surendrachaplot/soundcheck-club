@@ -10,7 +10,7 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Serialism + Afterhour | Arval, Cesare vs Disorder, Dana Ruh, Etiennette, Mad Dim, Manuel de Lorenzi, Rhom Omit, Sublee, Weg (DE), Zlene |
 | Sat, 31 Oct 2026 | Highly Addictive | Foolik, Gunnar Stiller, Slurm McKenzie |
-| Thu, 5 Nov 2026 | Donnerdogge | David Delgado, Eros (US), Gunnar Guess |
+| Thu, 5 Nov 2026 | Donnerdogge | David Delgado, Eros Bilgic, Gunnar Guess |
 | Fri, 6 Nov 2026 | Klubnacht + Afterhour | Anna Schreit, Emski, Fanfarrosa, Jack Clark, Jan, Utip |
 | Sat, 7 Nov 2026 | Nightshade Family | Der Schmeisser, Nils Ohrmann |
 | Thu, 12 Nov 2026 | Silvi Recordings | Brizman, Joss, Vanaenae |

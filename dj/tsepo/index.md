@@ -1,13 +1,14 @@
 # Tsepo
 
-Tsepo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TivoliVredenburg, Utrecht on Sat, 12 Dec 2026.
+Tsepo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 14 Nov 2026.
 
-Tsepo is a house and techno artist based in Netherlands, with 126 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Lucky Done Gone, dj sweet6teen and Elias Mazian. Next up: TivoliVredenburg, Utrecht on Sat 12 Dec.
+Tsepo is a house and techno artist based in Netherlands, with 127 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Lucky Done Gone, dj sweet6teen and Elias Mazian. Next up: Radio Radio, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Radio Radio | Amsterdam |
 | Sat, 12 Dec 2026 | TivoliVredenburg | Utrecht |
 | Sun, 20 Dec 2026 | Thuishaven | Amsterdam |
 

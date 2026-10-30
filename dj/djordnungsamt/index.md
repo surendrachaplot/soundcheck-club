@@ -9,7 +9,7 @@ DJ ORDNUNGSAMT is a techno and trance artist based in Germany, with 34 gigs on s
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Odonien | Cologne |
-| Sat, 31 Oct 2026 | TBA - Secret Location in South Berlin | Berlin |
+| Sat, 31 Oct 2026 | TBA - Motzener Strasse 5 in 12277 | Berlin |
 
 ## Recently played
 

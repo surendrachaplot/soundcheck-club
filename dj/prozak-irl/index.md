@@ -9,7 +9,7 @@ Prozak (IRL) is a garage and bass artist based in Ireland, with 136 gigs on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Yamamori Tengu | Dublin |
-| Fri, 30 Oct 2026 | Phonox | London |
+| Sat, 31 Oct 2026 | Phonox | London |
 | Fri, 27 Nov 2026 | Yamamori Tengu | Dublin |
 | Fri, 11 Dec 2026 | The Clock Factory | Bristol |
 | Sat, 9 Jan 2027 | Liberty Hall | Sydney |

@@ -2,7 +2,7 @@
 
 Electrowerkz is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BASH" on Sat, 31 Oct 2026.
 
-Electrowerkz is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including AUKA, AyChibs, Bethan and Chris de Buerre and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
+Electrowerkz is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including AUKA, AyChibs, Bethan and Brother of Set and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Electrowerkz is a music venue in London listed on soundcheck. 9 upcoming gigs, w
 | Fri, 20 Nov 2026 | To The Left | AyChibs, Donnie Sunshine, Mayowa |
 | Fri, 20 Nov 2026 | HONEY HONEY |  |
 | Sat, 21 Nov 2026 | HUNTER: MAXXIMUM THRUST | Sean Summers |
-| Fri, 27 Nov 2026 | Slimelight 39TH BIRTHDAY | Dj.Malefica, Ricardo Castro, Steve Weeks |
+| Fri, 27 Nov 2026 | Slimelight 39TH BIRTHDAY | Brother of Set, Dj.Malefica, Ricardo Castro, Steve Weeks, Wax Wings |
 | Sun, 27 Dec 2026 | Riot London End of Year Party |  |
 
 ## Address

@@ -1,8 +1,8 @@
 # DJ Sotofett
 
-DJ Sotofett is a Dub and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Østre, Bergen on Fri, 13 Nov 2026.
+DJ Sotofett is a Dub and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Østre, Bergen on Fri, 13 Nov 2026.
 
-DJ Sotofett is a dub and house artist based in Norway, with 93 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 28 more. Often billed alongside LNS, DJ Fett Burger and Ireen Amnes. Next up: Østre, Bergen on Fri 13 Nov.
+DJ Sotofett is a dub and house artist based in Norway, with 94 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 29 more. Often billed alongside LNS, DJ Fett Burger and Ireen Amnes. Next up: Østre, Bergen on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Sotofett is a dub and house artist based in Norway, with 93 gigs on soundchec
 | Fri, 13 Nov 2026 | Østre | Bergen |
 | Sat, 21 Nov 2026 | M.O.T | London |
 | Sat, 28 Nov 2026 | Circolo Amelia | Milan |
+| Sat, 5 Dec 2026 | Hope House | Leeds |
 
 ## Recently played
 

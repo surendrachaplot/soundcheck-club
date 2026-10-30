@@ -1,14 +1,15 @@
 # Melchiorr
 
-Melchiorr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at FLUCC, Vienna on Fri, 30 Oct 2026.
+Melchiorr is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at FLUCC, Vienna on Fri, 30 Oct 2026.
 
-Melchiorr is a techno and house artist based in Germany, with 45 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 7 more. Often billed alongside Nepōmuk, IZZYA and GEISTFREI. Next up: FLUCC, Vienna on Fri 30 Oct.
+Melchiorr is a techno and house artist based in Germany, with 46 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 7 more. Often billed alongside Nepōmuk, IZZYA and Artifex (DE). Next up: FLUCC, Vienna on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | FLUCC | Vienna |
+| Sat, 28 Nov 2026 | Rote Sonne | Munich |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Melchiorr is a techno and house artist based in Germany, with 45 gigs on soundch
 
 ## Shares bills with
 
-Nepōmuk, IZZYA, GEISTFREI
+Nepōmuk, IZZYA, Artifex (DE)
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melchiorr/)*

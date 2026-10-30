@@ -10,7 +10,7 @@ Top Floor is a music venue in Newcastle listed on soundcheck. 5 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | INTRA: Mahtal |  |
 | Sat, 31 Oct 2026 | DBT Halloween Special | DJ Bz, Doogi, Oli Warriner, arnie |
-| Fri, 6 Nov 2026 | Subtext presents EFAN:EXTENDED |  |
+| Fri, 6 Nov 2026 | [CANCELLED] Subtext presents EFAN:EXTENDED |  |
 | Fri, 4 Dec 2026 | Balance |  |
 | Fri, 4 Dec 2026 | Top Floor presents: Pangaea, Mac Seldom, Murta | Pangaea |
 

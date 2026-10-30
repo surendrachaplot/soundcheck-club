@@ -17,7 +17,7 @@
 | Fri, 20 Nov 2026 | Entropy 熵 with Valentin Ginies (11001 Records, Berlin) + Nanogram (Entropy 熵) + suz eq (enzyme) | Nanogram, Valentin Ginies, suz eq |
 | Sat, 21 Nov 2026 | HOST 8TH ANNIVERSARY with Bouffant Bouffant (New Orleans) & Sulk (Taipei) | Bouffant Bouffant, Sulk |
 | Fri, 27 Nov 2026 | FOLD x 宀 with James Newmarch & Voicedrone (FOLD, London) + Faxtory & Scott B (Distrikt, HK) | Faxtory, James Newmarch, Scott B, Voicedrone |
-| Sat, 28 Nov 2026 | enzyme invites Yubu + Yu Mi (Yummy Trax, Amsterdam) | Yubu, Yumi, enzyme, maxi.milian, suz eq |
+| Sat, 28 Nov 2026 | enzyme invites Yubu + Yu Mi (Yummy Trax, Amsterdam) | Yu Mi, Yubu, enzyme, maxi.milian, suz eq |
 
 ## Address
 

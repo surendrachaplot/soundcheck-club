@@ -2,7 +2,7 @@
 
 YONG YING is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 16 Nov 2026.
 
-YONG YING is a techno and industrial artist, with 43 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Seoul and 2 more. Often billed alongside Nanogram, INVERNO and BLACK ANTHEM RESTORE. Next up: Tresor / Globus, Berlin on Mon 16 Nov.
+YONG YING is a techno and industrial artist based in China, with 43 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Seoul and 2 more. Often billed alongside Nanogram, INVERNO and BLACK ANTHEM RESTORE. Next up: Tresor / Globus, Berlin on Mon 16 Nov.
 
 ## Upcoming shows
 

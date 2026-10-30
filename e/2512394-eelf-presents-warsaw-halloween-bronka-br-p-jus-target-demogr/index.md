@@ -1,6 +1,6 @@
-# EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic, Shaolin Cowboy(UK) at OCZKI
+# EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic at OCZKI
 
-EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic, Shaolin Cowboy(UK) at OCZKI on Sat 31 Oct, Warsaw. 6 artists: Bronka, Kitty Sarcasm, Pijus and PLACEBO COLLECTIVE and 2 more. Techno and House. See the line-up on soundcheck.
+EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic at OCZKI on Sat 31 Oct, Warsaw. 5 artists: Bronka, Kitty Sarcasm, Pijus and PLACEBO COLLECTIVE and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ EELF Presents - Warsaw Halloween: Bronka (BR), Pìjus, Target Demographic, Shaol
 - Kitty Sarcasm
 - Pijus
 - PLACEBO COLLECTIVE
-- Shaolin Cowboy
 - Target Demographic
 
 *Source: [soundcheck](https://soundcheck.club/e/2512394-eelf-presents-warsaw-halloween-bronka-br-p-jus-target-demogr/)*

@@ -2,7 +2,7 @@
 
 Mungo's Hi Fi is a Dub and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Village Underground, London on Sat, 31 Oct 2026.
 
-Mungo's Hi Fi is a dub and bass artist based in United Kingdom, with 64 gigs on soundcheck across Birmingham, Brighton, Bristol and Byron Bay and 18 more. Often billed alongside Eva Lazarus, Dillinja and Killa P. Next up: Village Underground, London on Sat 31 Oct.
+Mungo's Hi Fi is a dub and bass artist based in United Kingdom, with 64 gigs on soundcheck across Birmingham, Brighton, Bristol and Byron Bay and 18 more. Often billed alongside Eva Lazarus, Dillinja and Carasel. Next up: Village Underground, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Mungo's Hi Fi is a dub and bass artist based in United Kingdom, with 64 gigs on 
 
 ## Shares bills with
 
-Eva Lazarus, Dillinja, Killa P
+Eva Lazarus, Dillinja, Carasel
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*

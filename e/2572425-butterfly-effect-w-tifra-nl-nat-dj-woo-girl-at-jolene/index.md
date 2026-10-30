@@ -1,6 +1,6 @@
 # BUTTERFLY EFFECT W/ Tifra (NL), NAT, DJ Woo Girl at Jolene
 
-BUTTERFLY EFFECT W/ Tifra (NL), NAT, DJ Woo Girl at Jolene on Fri 27 Nov, Copenhagen. 3 artists: DJ Woo Girl, NAT (SK) and Tifra. Progressive House and House. See the line-up on soundcheck.
+BUTTERFLY EFFECT W/ Tifra (NL), NAT, DJ Woo Girl at Jolene on Fri 27 Nov, Copenhagen. 3 artists: DJ Woo Girl, NAT(SK) and Tifra. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ BUTTERFLY EFFECT W/ Tifra (NL), NAT, DJ Woo Girl at Jolene on Fri 27 Nov, Copenh
 ## Line-up
 
 - DJ Woo Girl
-- NAT (SK)
+- NAT(SK)
 - Tifra
 
 *Source: [soundcheck](https://soundcheck.club/e/2572425-butterfly-effect-w-tifra-nl-nat-dj-woo-girl-at-jolene/)*

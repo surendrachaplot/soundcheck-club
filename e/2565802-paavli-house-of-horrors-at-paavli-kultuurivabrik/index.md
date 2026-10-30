@@ -1,6 +1,6 @@
 # Paavli House of Horrors at Paavli Kultuurivabrik
 
-Paavli House of Horrors at Paavli Kultuurivabrik on Fri 30 Oct, Tallinn. 4 artists: DJ Shore Road, NORA (BR), Slayphex Twins and TELLEMRALF. Techno and House. See the line-up on soundcheck.
+Paavli House of Horrors at Paavli Kultuurivabrik on Fri 30 Oct, Tallinn. 3 artists: DJ Shore Road, NORA (BR) and Slayphex Twins. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ Paavli House of Horrors at Paavli Kultuurivabrik on Fri 30 Oct, Tallinn. 4 artis
 - DJ Shore Road
 - NORA (BR)
 - Slayphex Twins
-- TELLEMRALF
 
 *Source: [soundcheck](https://soundcheck.club/e/2565802-paavli-house-of-horrors-at-paavli-kultuurivabrik/)*

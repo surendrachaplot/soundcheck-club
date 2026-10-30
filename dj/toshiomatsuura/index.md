@@ -1,14 +1,13 @@
 # Toshio Matsuura
 
-Toshio Matsuura is a Jazz and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar Stereo, Tokyo on Fri, 30 Oct 2026.
+Toshio Matsuura is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar Stereo, Tokyo on Sat, 31 Oct 2026.
 
-Toshio Matsuura is a jazz and house artist based in Japan, with 69 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside Dazzle Drums, Toshiyuki Goto and Gilles Peterson. Next up: Bar Stereo, Tokyo on Fri 30 Oct.
+Toshio Matsuura is a jazz and house artist based in Japan, with 69 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside Dazzle Drums, Toshiyuki Goto and Gilles Peterson. Next up: Bar Stereo, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Bar Stereo | Tokyo |
 | Sat, 31 Oct 2026 | Bar Stereo | Tokyo |
 | Fri, 20 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Fri, 18 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
