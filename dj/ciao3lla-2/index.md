@@ -1,13 +1,14 @@
 # Ciao 3lla
 
-Ciao 3lla is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Fri, 13 Nov 2026.
+Ciao 3lla is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Klunkerkranich, Berlin on Sat, 7 Nov 2026.
 
-Ciao 3lla is a techno and house artist based in Germany, with 69 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 7 more. Often billed alongside Francis FF, lisa luka and Horst Haller. Next up: Kater, Berlin on Fri 13 Nov.
+Ciao 3lla is a house and techno artist based in Germany, with 70 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 7 more. Often billed alongside Francis FF, lisa luka and Horst Haller. Next up: Klunkerkranich, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Klunkerkranich | Berlin |
 | Fri, 13 Nov 2026 | Kater | Berlin |
 | Sat, 12 Dec 2026 | Kater | Berlin |
 

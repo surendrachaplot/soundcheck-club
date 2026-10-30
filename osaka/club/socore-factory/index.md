@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 27 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "WHITEROOM" on Fri, 30 Oct 2026.
+Socore Factory is a music venue in Osaka with 26 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BLACK VEIL -HALLOWEEN NIGHT 2026-" on Sat, 31 Oct 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 27 upcoming gigs, with line-ups including ALUCA, Ayato, Can and DJ Compufunk and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 26 upcoming gigs, with line-ups including Ayato, Can, DJ Compufunk and Fluid and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | WHITEROOM | ALUCA, SPOT (JPN), Tosh (2) |
 | Sat, 31 Oct 2026 | BLACK VEIL -HALLOWEEN NIGHT 2026- | Non (TO), Territory |
 | Sun, 1 Nov 2026 | 『tototoNIGHT -Raspberry Dreamin'-』 | More (3) |
 | Mon, 2 Nov 2026 | club MANSION |  |
@@ -18,6 +17,7 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 27 upcoming gigs,
 | Sun, 8 Nov 2026 | imakinn records presents Texas Is The Reason Japan Tour 2026 |  |
 | Tue, 10 Nov 2026 | ナインティーズは突然に |  |
 | Thu, 12 Nov 2026 | stiffslack presents Joshua Japan Tour 2026 | Joshua (3) |
+| Fri, 13 Nov 2026 | キツネの嫁入り 6th ALBUM「LIFE」release tour ～大阪編～ | Fluid |
 
 ## Address
 

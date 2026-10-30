@@ -1,14 +1,13 @@
 # Kanabis Stoned
 
-Kanabis Stoned is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Culture Cafe, Bangkok on Fri, 30 Oct 2026.
+Kanabis Stoned is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Culture Cafe, Bangkok on Sat, 21 Nov 2026.
 
-Kanabis Stoned is a techno and minimal artist based in Thailand, with 33 gigs on soundcheck across Bangkok. Often billed alongside djmoca, A_Lien and Mody. Next up: Culture Cafe, Bangkok on Fri 30 Oct.
+Kanabis Stoned is a techno and minimal artist based in Thailand, with 33 gigs on soundcheck across Bangkok. Often billed alongside djmoca, A_Lien and Mody. Next up: Culture Cafe, Bangkok on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Culture Cafe | Bangkok |
 | Sat, 21 Nov 2026 | Culture Cafe | Bangkok |
 
 ## Recently played

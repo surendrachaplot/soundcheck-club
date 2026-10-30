@@ -1,14 +1,13 @@
 # Brent Burns
 
-Brent Burns is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar Temp., Bangkok on Fri, 30 Oct 2026.
+Brent Burns is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Chang Chui Creative Park, Bangkok on Sat, 7 Nov 2026.
 
-Brent Burns is a house and balearic artist based in Thailand, with 90 gigs on soundcheck across Bangkok, Budapest, Hanoi and Ho Chi Minh City and 5 more. Often billed alongside Seelie, Mumsfilibaba and Mr.Mowgli. Next up: Bar Temp., Bangkok on Fri 30 Oct.
+Brent Burns is a house and balearic artist based in Thailand, with 90 gigs on soundcheck across Bangkok, Budapest, Hanoi and Ho Chi Minh City and 5 more. Often billed alongside Seelie, Mumsfilibaba and Mr.Mowgli. Next up: Chang Chui Creative Park, Bangkok on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Bar Temp. | Bangkok |
 | Sat, 7 Nov 2026 | Chang Chui Creative Park | Bangkok |
 | Sat, 14 Nov 2026 | Bar Temp. | Bangkok |
 

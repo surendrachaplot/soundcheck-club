@@ -1,14 +1,13 @@
 # Kikiorix
 
-Kikiorix is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at WWW X, Tokyo on Fri, 30 Oct 2026.
+Kikiorix is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Chang Chui Creative Park, Bangkok on Sat, 7 Nov 2026.
 
-Kikiorix is a house and techno artist based in Japan, with 79 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 13 more. Often billed alongside Sisi, Kenji Takimi and Satoshi Otsuki. Next up: WWW X, Tokyo on Fri 30 Oct.
+Kikiorix is a house and techno artist based in Japan, with 79 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 13 more. Often billed alongside Sisi, Kenji Takimi and Satoshi Otsuki. Next up: Chang Chui Creative Park, Bangkok on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | WWW X | Tokyo |
 | Sat, 7 Nov 2026 | Chang Chui Creative Park | Bangkok |
 | Fri, 20 Nov 2026 | WOMB | Tokyo |
 | Sat, 21 Nov 2026 | Pawnshop | Taipei |

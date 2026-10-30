@@ -1,14 +1,13 @@
 # Seiji Ono
 
-Seiji Ono is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at WWW X, Tokyo on Fri, 30 Oct 2026.
+Seiji Ono is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mago, Chubu on Mon, 2 Nov 2026.
 
-Seiji Ono is a house and disco artist based in France, with 35 gigs on soundcheck across Barcelona, Bristol, Chubu and Hong Kong and 8 more. Often billed alongside Theo Terev, Mafalda and Red Greg. Next up: WWW X, Tokyo on Fri 30 Oct.
+Seiji Ono is a house and disco artist based in France, with 35 gigs on soundcheck across Barcelona, Bristol, Chubu and Hong Kong and 8 more. Often billed alongside Theo Terev, Mafalda and Red Greg. Next up: Mago, Chubu on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | WWW X | Tokyo |
 | Mon, 2 Nov 2026 | Mago | Chubu |
 | Sun, 15 Nov 2026 | Casual | Hong Kong |
 | Sat, 5 Dec 2026 | DJ Bar Bridge | Tokyo |

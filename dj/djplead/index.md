@@ -1,14 +1,13 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Centro Cultural Conde Duque, Madrid on Fri, 30 Oct 2026.
+DJ Plead is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 4 Nov 2026.
 
-DJ Plead is a techno and bass artist based in Australia, with 155 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 47 more. Often billed alongside rRoxymore, Azu Tiwaline and DJ Python. Next up: Centro Cultural Conde Duque, Madrid on Fri 30 Oct.
+DJ Plead is a techno and bass artist based in Australia, with 155 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 47 more. Often billed alongside rRoxymore, Azu Tiwaline and DJ Python. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Centro Cultural Conde Duque | Madrid |
 | Wed, 4 Nov 2026 | TBA - Secret Location (near Frankfurter Allee) | Berlin |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sun, 15 Nov 2026 | Miscellania | Melbourne |

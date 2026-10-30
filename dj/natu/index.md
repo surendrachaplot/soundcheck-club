@@ -2,7 +2,7 @@
 
 Natu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at EL Tana, Colombia on Thu, 12 Nov 2026.
 
-Natu is a house and techno artist, with 11 gigs on soundcheck across Bogotá, Colombia, Miami and Pereira. Often billed alongside Nuclear Digital Transistor, DJ MELEJ and Ela Vann. Next up: EL Tana, Colombia on Thu 12 Nov.
+Natu is a house and techno artist based in Colombia, with 11 gigs on soundcheck across Bogotá, Colombia, Miami and Pereira. Often billed alongside Nuclear Digital Transistor, DJ MELEJ and Ela Vann. Next up: EL Tana, Colombia on Thu 12 Nov.
 
 ## Upcoming shows
 

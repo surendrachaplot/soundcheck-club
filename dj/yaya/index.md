@@ -1,14 +1,13 @@
 # Yaya
 
-Yaya is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Joule, Osaka on Fri, 30 Oct 2026.
+Yaya is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mitsuki, Tokyo on Sat, 31 Oct 2026.
 
-Yaya is a tech house and house artist based in Italy, with 98 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Bucharest and 29 more. Often billed alongside Mahony, Loco Dice and Joey Daniel. Next up: Joule, Osaka on Fri 30 Oct.
+Yaya is a tech house and house artist based in Italy, with 98 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Bucharest and 29 more. Often billed alongside Mahony, Loco Dice and Joey Daniel. Next up: Mitsuki, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Joule | Osaka |
 | Sat, 31 Oct 2026 | Mitsuki | Tokyo |
 | Mon, 2 Nov 2026 | Traffic | Tokyo |
 

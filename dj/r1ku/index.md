@@ -1,14 +1,13 @@
 # r1ku
 
-r1ku is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Z Maruyama, Tokyo on Fri, 30 Oct 2026.
+r1ku is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Enter Shibuya, Tokyo on Sat, 31 Oct 2026.
 
-r1ku is a house and techno artist based in Japan, with 204 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside kengotaki, SAMO (JP) and YUVIE. Next up: Z Maruyama, Tokyo on Fri 30 Oct.
+r1ku is a house and techno artist based in Japan, with 204 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside kengotaki, SAMO (JP) and YUVIE. Next up: Enter Shibuya, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Z Maruyama | Tokyo |
 | Sat, 31 Oct 2026 | Enter Shibuya | Tokyo |
 | Fri, 6 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Fri, 4 Dec 2026 | WOMB | Tokyo |

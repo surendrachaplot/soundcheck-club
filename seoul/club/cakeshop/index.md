@@ -1,14 +1,13 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "The Masquerade" on Fri, 30 Oct 2026.
+Cakeshop is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HALLOWEEN" on Sat, 31 Oct 2026.
 
-Cakeshop is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line-ups including Azrel, bojvck, ccottonmouth and CHANXER and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
+Cakeshop is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including Azrel, bojvck, ccottonmouth and Citi Jeong and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | The Masquerade | CHANXER, nakefar |
 | Sat, 31 Oct 2026 | HALLOWEEN | Citi Jeong, Coziest, Excultist, Guinneissik, KoiKoi, Muin, NIMNOI, Nimvy, bojvck, ccottonmouth, rue (3) |
 | Thu, 5 Nov 2026 | romm presents: ASIAN ELECTRO |  |
 | Fri, 6 Nov 2026 | Neffa-T: More Breaks & Kimchi Factory Homies present | HASHTAGPOPE, MOONICE, Neffa-T, Nimvy, RAFA (KR), Tabris, untitled (2) |

@@ -1,14 +1,13 @@
 # Akua
 
-Akua is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at WOMB, Tokyo on Fri, 30 Oct 2026.
+Akua is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Reactor Shanghai, Shanghai on Sat, 31 Oct 2026.
 
-Akua is a techno and house artist based in United States of America, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside 1morning, Freddy K and Rødhåd. Next up: WOMB, Tokyo on Fri 30 Oct.
+Akua is a techno and house artist based in United States of America, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside 1morning, Freddy K and Rødhåd. Next up: Reactor Shanghai, Shanghai on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | WOMB | Tokyo |
 | Sat, 31 Oct 2026 | Reactor Shanghai | Shanghai |
 | Sat, 7 Nov 2026 | Concept Haus | Manchester |
 | Fri, 13 Nov 2026 | La Machine Du Moulin Rouge | Paris |

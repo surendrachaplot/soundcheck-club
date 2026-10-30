@@ -1,6 +1,6 @@
 # Slave To The Rave Valentine's Return at OST
 
-Slave To The Rave Valentine's Return at OST on Sat 13 Feb, Berlin. 7 artists: Chippy Nonstop, Darius The Barbarian, DJ Assault and DJ Fuckoff and 3 more. See the line-up on soundcheck.
+Slave To The Rave Valentine's Return at OST on Sat 13 Feb, Berlin. 8 artists: Chippy Nonstop, Darius The Barbarian, DJ Assault and DJ Fuckoff and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Slave To The Rave Valentine's Return at OST on Sat 13 Feb, Berlin. 7 artists: Ch
 - DJ Assault
 - DJ Fuckoff
 - DJ KILLING
+- Shirley Temper
 - softchaos
 - x3butterfly
 

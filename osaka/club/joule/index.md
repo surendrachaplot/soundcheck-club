@@ -1,14 +1,13 @@
 # Joule
 
-Joule is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "'Yaya JAPAN TOUR'Meets SEIKA GLOOVE" on Fri, 30 Oct 2026.
+Joule is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "ClearSound 5th Anniversary" on Mon, 2 Nov 2026.
 
-Joule is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including _goodbyeforever_, DJ OGAWA, Drunken Kong and dyn (JP) and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
+Joule is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including _goodbyeforever_, DJ OGAWA, Drunken Kong and dyn (JP) and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | 'Yaya JAPAN TOUR'Meets SEIKA GLOOVE | NOBUYA (2), Yaya |
 | Mon, 2 Nov 2026 | ClearSound 5th Anniversary | NOBUYA (2), RICHKID, UCEMI, yu-more |
 | Fri, 6 Nov 2026 | SPECTACULAR 7th ANNIVERSARY feat.  Hernan Cattaneo | DJ OGAWA, Hernan Cattaneo, Nao Nomura, Satoshi Tanaka, Senda, Takekiyo Ishimoto |
 | Sat, 7 Nov 2026 | Marcellus Pittman Japan Tour | Marcellus Pittman |

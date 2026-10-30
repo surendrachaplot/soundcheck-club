@@ -1,14 +1,13 @@
 # 88block
 
-88block is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "TOKYO BASS SICK トーキョーベーシック" on Fri, 30 Oct 2026.
+88block is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "MEDIUM" on Sat, 31 Oct 2026.
 
-88block is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including Aimos, Anela, CITY1 and Dayzero and 2 more. See dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
+88block is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including Aimos, Anela, CITY1 and Dayzero and 2 more. See dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TOKYO BASS SICK トーキョーベーシック | Diceman, Jungle Rock |
 | Sat, 31 Oct 2026 | MEDIUM | DJ B2B |
 | Fri, 6 Nov 2026 | Balcony vol.1 |  |
 | Sat, 7 Nov 2026 | NATURDAY | DJ B2B, MIYUKI |

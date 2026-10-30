@@ -1,13 +1,14 @@
 # frankydrama
 
-frankydrama is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cadavra, Madrid on Sat, 28 Nov 2026.
+frankydrama is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at High Club Room, Madrid on Sat, 21 Nov 2026.
 
-frankydrama is an electronica and house artist based in Spain, with 44 gigs on soundcheck across Barcelona and Madrid. Often billed alongside BOTHER, TWO EX and ESSTI. Next up: Cadavra, Madrid on Sat 28 Nov.
+frankydrama is a house and electronica artist based in Spain, with 45 gigs on soundcheck across Barcelona and Madrid. Often billed alongside BOTHER, TWO EX and ESSTI. Next up: High Club Room, Madrid on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | High Club Room | Madrid |
 | Sat, 28 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
