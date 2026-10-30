@@ -9,7 +9,7 @@ Eighteenth Street Lounge (ESL) is a music venue in Washington DC listed on sound
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | ESL presents: SoundRoom Live! - Maximiliano / HouseHeaux | MAXIMILIANO (US) |
-| Sun, 1 Nov 2026 | ESL: Last Call Sunday.. Maximiliano & Eusebio | Eusebio, MAXIMILIANO (US) |
+| Sun, 8 Nov 2026 | ESL: Last Call Sunday.. Maximiliano & Eusebio | Eusebio, MAXIMILIANO (US) |
 | Sat, 28 Nov 2026 | Elements Of House | OVEOUS |
 
 ## Address

@@ -1,8 +1,8 @@
 # Jade Seatle
 
-Jade Seatle is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+Jade Seatle is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
-Jade Seatle is a house and techno artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Jane Fitz, NIGHT MOVES and Seb Odyssey. Next up: Signal, New York City on Fri 30 Oct.
+Jade Seatle is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Jane Fitz, NIGHT MOVES and Seb Odyssey. Next up: Signal, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jade Seatle is a house and techno artist based in United Kingdom, with 55 gigs o
 | Fri, 30 Oct 2026 | Signal | New York City |
 | Sat, 21 Nov 2026 | TBA | London |
 | Sat, 19 Dec 2026 | Phonox | London |
+| Fri, 5 Mar 2027 | Cadavra | Madrid |
 
 ## Recently played
 

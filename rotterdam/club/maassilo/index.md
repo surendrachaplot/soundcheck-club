@@ -1,8 +1,8 @@
 # Maassilo
 
-Maassilo is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hospital30 Halloween Rotterdam" on Fri, 30 Oct 2026.
+Maassilo is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hospital30 Halloween Rotterdam" on Fri, 30 Oct 2026.
 
-Maassilo is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with line-ups including A.M.C., AAT (NL), amara and Audio and 2 more. See dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
+Maassilo is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with line-ups including A.M.C., AAT (NL), amara and Audio and 2 more. See dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Maassilo is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, wi
 | Sat, 14 Nov 2026 | TiTi All Night Long | TiTi |
 | Sat, 14 Nov 2026 | Modular Maassilo 2026 | Dj Babatr, Gyatso, Interplanetary Criminal, LAMMER, LORI (NL), Lisa Korver, M-High, Miguel De Bois, Milion, Mischluft, OLIVIA LENSEN, Paige Tomlinson, SAIDAH, Sunnysoposted |
 | Thu, 31 Dec 2026 | TIKTAK NYE INDOOR FESTIVAL | DEF (3), Donna, MELV!EE, Rockefellababe |
+| Sat, 27 Feb 2027 | PRSPCT XL35 | Bruhze, Counterstrike, DOLPHIN, Ed Rush, Eye-D, Hellfish, Kilbourne, LIMEWAX, Lucy Furr, Manu Le Malin, Marc Acardipane, Mollie Rush, Prolix, RABBeAT, Stazma The Junglechrist, THE RUKKUS, Thrasher |
 
 ## Address
 

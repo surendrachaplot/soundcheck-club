@@ -1,14 +1,13 @@
 # WARRECORDS
 
-WARRECORDS is a music venue in Antwerp with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Warrecords invites LIL SUR & GEEZZAH" on Fri, 30 Oct 2026.
+WARRECORDS is a music venue in Antwerp with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Warrecords invites UNSEEN CREW" on Sat, 31 Oct 2026.
 
-WARRECORDS is a music venue in Antwerp listed on soundcheck. 10 upcoming gigs, with line-ups including Coco Bryce, Flatspot, Guillaume Colson and Lemon & Mint and 2 more. See dates, start times and who's playing. Sint-Katelijnevest 42, 2000 Antwerp, Belgium.
+WARRECORDS is a music venue in Antwerp listed on soundcheck. 9 upcoming gigs, with line-ups including Coco Bryce, Flatspot, Guillaume Colson and Lemon & Mint and 2 more. See dates, start times and who's playing. Sint-Katelijnevest 42, 2000 Antwerp, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Warrecords invites LIL SUR & GEEZZAH | Lil Sur |
 | Sat, 31 Oct 2026 | Warrecords invites UNSEEN CREW |  |
 | Fri, 6 Nov 2026 | Warrecords invites DONATO & BULLPHROG |  |
 | Sat, 7 Nov 2026 | Warrecords invites BROEIBAK | Flatspot, Guillaume Colson |

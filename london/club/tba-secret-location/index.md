@@ -12,7 +12,7 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 61 upcomi
 | Fri, 30 Oct 2026 | Twisted Circus | CLAWZ, DJ SEXSTASY, Ellen Allien, hhunter |
 | Fri, 30 Oct 2026 | Def Halloween Warehouse |  |
 | Fri, 30 Oct 2026 | A Divine Time Together Vol. II: Shakolin | KJ3 (US), Shakolin, natebytheway |
-| Fri, 30 Oct 2026 | BOAT PARTY: 'SHIPWRECKED.' | MADAMA, Samir (DVS), Sophi B |
+| Fri, 30 Oct 2026 | HALLOWEEN BOAT PARTY: 'SHIPWRECKED.' | MADAMA, Samir (DVS), Sophi B |
 | Fri, 30 Oct 2026 | HEAT//sink ~ | Jumpr, Liza Spinnelli, Mutualism |
 | Fri, 30 Oct 2026 | SISTER.SPOOKZ CRYPT CRAWLERZ | Absono, Dj Nico, karennoid, sister.spooky |
 | Sat, 31 Oct 2026 | Secret Halloween Warehouse Rave |  |

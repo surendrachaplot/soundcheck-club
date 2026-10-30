@@ -1,10 +1,10 @@
 # Wax & Wane: Donna Leake at SJQ
 
-Wax & Wane: Donna Leake at SJQ on Fri 18 Sept, London. 1 act on the bill: Donna Leake. Dub and Afro House. Preview the line-up and save it on soundcheck.
+Wax & Wane: Donna Leake at SJQ on Sat 14 Nov, London. 1 artist: Donna Leake. Dub and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 18 Sept 2026 |
+| Date | Sat, 14 Nov 2026 |
 | Venue | SJQ |
 | City | London |
 

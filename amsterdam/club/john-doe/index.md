@@ -16,7 +16,7 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 56 upcoming gigs, w
 | Wed, 4 Nov 2026 | RAVELAND: Hard Techno & Hard Bounce |  |
 | Thu, 5 Nov 2026 | Amsterdam Techno Sessions | Marco Ramos |
 | Fri, 6 Nov 2026 | Undercore Episode 3 | JOANNA DARK, Raffo |
-| Sat, 7 Nov 2026 | Stuck in a Loop with Mosher & Joris Turenhout - (hard)house to Techno | Joris Turenhout, Mosher |
+| Sat, 7 Nov 2026 | Stuck in a Loop with Mosher (ARG) & Joris Turenhout - from (hard)house to techno | Joris Turenhout, Mosher |
 | Sun, 8 Nov 2026 | No Sundays Without Techno | Alex Sharp |
 
 ## Address

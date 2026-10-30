@@ -1,13 +1,14 @@
 # AGELESS
 
-AGELESS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Puerto-rico on Thu, 7 Jan 2027.
+AGELESS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Twentyone, Florence on Thu, 19 Nov 2026.
 
-AGELESS is a house and techno artist based in Italy, with 118 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 21 more. Often billed alongside Sossa, Seth Troxler and DJ Tennis. Next up: TBA, Puerto Rico on Thu 7 Jan.
+AGELESS is a house and techno artist based in Italy, with 119 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Sossa, Seth Troxler and DJ Tennis. Next up: Club Twentyone, Florence on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Club Twentyone | Florence |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played

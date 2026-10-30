@@ -9,7 +9,7 @@ MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 197 g
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
-| Sun, 1 Nov 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
+| Sun, 8 Nov 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 
 ## Recently played
 

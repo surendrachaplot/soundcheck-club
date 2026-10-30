@@ -1,6 +1,6 @@
 # Kunda Valley Chapter 4 at TBA - Porcupine Hills, Bot River
 
-Kunda Valley Chapter 4 at TBA - Porcupine Hills, Bot River on Thu 19 Nov, Cape Town. 14 artists: Balou, Ben Probert, Cody Losper and Connor Joseph and 10 more. See the line-up on soundcheck.
+Kunda Valley Chapter 4 at TBA - Porcupine Hills, Bot River on Thu 19 Nov, Cape Town. 13 artists: Balou, Ben Probert, Cody Losper and Connor Joseph and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ Kunda Valley Chapter 4 at TBA - Porcupine Hills, Bot River on Thu 19 Nov, Cape T
 - Ben Probert
 - Cody Losper
 - Connor Joseph
-- Dav.ID
 - Deylin Universe
 - Dragana
 - Grant Dell

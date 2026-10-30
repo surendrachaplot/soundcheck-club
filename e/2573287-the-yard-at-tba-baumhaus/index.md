@@ -1,6 +1,6 @@
 # The Yard at TBA - Baumhaus
 
-The Yard at TBA - Baumhaus on Sat 14 Nov, Bologna. 2 artists: floor length skirts and Naska. See the line-up on soundcheck.
+The Yard at TBA - Baumhaus on Sat 14 Nov, Bologna. 2 artists: floor length skirts and Naska. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

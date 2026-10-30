@@ -1,6 +1,6 @@
-# Cheatkode Takeover at Rocking Chair
+# Cheatkode takeover at Rocking Chair
 
-Cheatkode Takeover at Rocking Chair on Fri 27 Nov, Lausanne. Techno and Electro. See the line-up on soundcheck.
+Cheatkode takeover at Rocking Chair on Fri 27 Nov, Lausanne. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

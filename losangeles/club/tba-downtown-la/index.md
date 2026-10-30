@@ -10,7 +10,7 @@ TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 5 upcomi
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | V.sions Halloween: Onur Özer, Mayell, Pete Jonas, Rocky, Jackson Algeo | Mayell, Onur Özer |
 | Fri, 30 Oct 2026 | Halloween Blood Rave by Succubus Club |  |
-| Sat, 31 Oct 2026 | SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori LA | Roy Rosenfeld, Satori, Sebastien Leger |
+| Sat, 31 Oct 2026 | SET Halloween with Sébastien Léger & Roy Rosenfeld aka Lost Miracle | Roy Rosenfeld, Sebastien Leger |
 | Sat, 14 Nov 2026 | Lights Down Low feat. Loukeman | Loukeman |
 | Wed, 25 Nov 2026 | SET w/Patrice Baumel & Armen Miran under the 6th Bridge in LA | Armen Miran, Patrice Bäumel |
 

@@ -1,13 +1,14 @@
 # Katzengold
 
-Katzengold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+Katzengold is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kowalski, Stuttgart on Fri, 20 Nov 2026.
 
-Katzengold is a techno and house artist based in Germany, with 145 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside justUS, Markus Klee and Mollono.Bass. Next up: Kater, Berlin on Sat 12 Dec.
+Katzengold is a techno and tech house artist based in Germany, with 146 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside justUS, Markus Klee and Mollono.Bass. Next up: Kowalski, Stuttgart on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Kowalski | Stuttgart |
 | Sat, 12 Dec 2026 | Kater | Berlin |
 
 ## Recently played

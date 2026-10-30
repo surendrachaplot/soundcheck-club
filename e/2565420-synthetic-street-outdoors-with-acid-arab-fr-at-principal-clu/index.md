@@ -1,6 +1,6 @@
 # Synthetic & Street Outdoors with Acid Arab (FR) at Principal Club
 
-Synthetic & Street Outdoors with Acid Arab (FR) at Principal Club on Sat 28 Nov, Thessaloniki. 3 artists: Acid Arab, Street Outdoors Soundsystem and Thomas Numan. See the line-up on soundcheck.
+Synthetic & Street Outdoors with Acid Arab (FR) at Principal Club on Sat 28 Nov, Thessaloniki. 4 artists: Acid Arab, Maria S, Street Outdoors Soundsystem and Thomas Numan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Synthetic & Street Outdoors with Acid Arab (FR) at Principal Club on Sat 28 Nov,
 ## Line-up
 
 - Acid Arab
+- Maria S
 - Street Outdoors Soundsystem
 - Thomas Numan
 

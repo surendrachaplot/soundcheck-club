@@ -1,14 +1,13 @@
 # Wet Deck at W Hotel
 
-Wet Deck at W Hotel is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Crystal Halloween pres The Sirens" on Fri, 30 Oct 2026.
+Wet Deck at W Hotel is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "The Crystal Ball feat Musumeci" on Sat, 31 Oct 2026.
 
-Wet Deck at W Hotel is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs, with line-ups including Meliha and Musumeci. See dates, start times and who's playing. 121, Jalan Ampang, 50450, Kuala Lumpur.
+Wet Deck at W Hotel is a music venue in Kuala Lumpur listed on soundcheck. 1 upcoming gig, with line-ups including Musumeci. See dates, start times and who's playing. 121, Jalan Ampang, 50450, Kuala Lumpur.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Crystal Halloween pres The Sirens | Meliha |
 | Sat, 31 Oct 2026 | The Crystal Ball feat Musumeci | Musumeci |
 
 ## Address

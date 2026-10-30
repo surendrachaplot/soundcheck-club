@@ -1,8 +1,8 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "PRTY Halloween: KARAH + TITI, Glasgow" on Fri, 30 Oct 2026.
+The Art School is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "PRTY Halloween: KARAH + TITI, Glasgow" on Fri, 30 Oct 2026.
 
-The Art School is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs, with line-ups including ACHIRĀ, Corran, CU-S1TH and DJ Catnip and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
+The Art School is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs, with line-ups including ACHIRĀ, Corran, CU-S1TH and DJ Catnip and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
 ## What's on
 
@@ -15,6 +15,7 @@ The Art School is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs
 | Fri, 20 Nov 2026 | Nu:Tone \\\ Pray To Good | IYRE, Nu:Tone, Ruthless, Winslow |
 | Sat, 21 Nov 2026 | November Danse Macabre | DJ Catnip |
 | Tue, 24 Nov 2026 | KILIMANJARO | KILIMANJARO |
+| Fri, 27 Nov 2026 | Hometown Sound System: Prince Fatty & HORSEMAN | Hometown Sound, James Hometown, Prince Fatty |
 | Sun, 27 Dec 2026 | INTRA: HydroAfters |  |
 | Thu, 18 Feb 2027 | Egyptian Lover | Egyptian Lover |
 

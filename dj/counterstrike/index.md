@@ -1,14 +1,15 @@
 # Counterstrike
 
-Counterstrike is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kassa Boat, Budapest on Sat, 31 Oct 2026.
+Counterstrike is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kassa Boat, Budapest on Sat, 31 Oct 2026.
 
-Counterstrike is a drum & bass and dubstep artist, with 10 gigs on soundcheck across Berlin, Budapest, Lisbon and Mannheim and 3 more. Often billed alongside Zardonic, Diaz-Soto and Anton Quasi. Next up: Kassa Boat, Budapest on Sat 31 Oct.
+Counterstrike is a drum & bass and dubstep artist, with 11 gigs on soundcheck across Berlin, Budapest, Lisbon and Mannheim and 4 more. Often billed alongside Zardonic, Diaz-Soto and LIMEWAX. Next up: Kassa Boat, Budapest on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Kassa Boat | Budapest |
+| Sat, 27 Feb 2027 | Maassilo | Rotterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Counterstrike is a drum & bass and dubstep artist, with 10 gigs on soundcheck ac
 
 ## Shares bills with
 
-Zardonic, Diaz-Soto, Anton Quasi
+Zardonic, Diaz-Soto, LIMEWAX
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/counterstrike/)*

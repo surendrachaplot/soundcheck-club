@@ -1,14 +1,15 @@
 # Running Hot
 
-Running Hot is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at YSY, Berlin on Sat, 7 Nov 2026.
+Running Hot is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at YSY, Berlin on Sat, 7 Nov 2026.
 
-Running Hot is a house and techno artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 17 more. Often billed alongside Alex Kassian, Vio PRG and DJ TEETH. Next up: YSY, Berlin on Sat 7 Nov.
+Running Hot is a house and techno artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 18 more. Often billed alongside Alex Kassian, Vio PRG and DJ TEETH. Next up: YSY, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | YSY | Berlin |
+| Fri, 20 Nov 2026 | Kasteel De Berckt | Netherlands |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 28 Nov 2026 | Dual | Bangkok |
 

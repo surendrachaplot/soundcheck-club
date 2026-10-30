@@ -1,14 +1,13 @@
 # UBERMOON
 
-UBERMOON is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 30 Oct 2026.
+UBERMOON is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 31 Oct 2026.
 
-UBERMOON is a drum & bass and dubstep artist based in Australia, with 57 gigs on soundcheck across Canberra and Sydney. Often billed alongside Karnotix, Gnomu and Mushu. Next up: Carousel Bar & Ballroom, Sydney on Fri 30 Oct.
+UBERMOON is a drum & bass and dubstep artist based in Australia, with 57 gigs on soundcheck across Canberra and Sydney. Often billed alongside Karnotix, Gnomu and Mushu. Next up: The Lord Gladstone, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Carousel Bar & Ballroom | Sydney |
 | Sat, 31 Oct 2026 | The Lord Gladstone | Sydney |
 
 ## Recently played

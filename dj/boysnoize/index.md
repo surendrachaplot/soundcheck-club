@@ -1,8 +1,8 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
+Boys Noize is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
 
-Boys Noize is a techno and house artist based in Germany, with 177 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 64 more. Often billed alongside VTSS, MCR-T and Patrick Mason. Next up: Gold Bar Hangar, California on Fri 30 Oct.
+Boys Noize is a techno and house artist based in Germany, with 178 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 64 more. Often billed alongside VTSS, MCR-T and Patrick Mason. Next up: Gold Bar Hangar, California on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Boys Noize is a techno and house artist based in Germany, with 177 gigs on sound
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Mon, 2 Nov 2026 | The Grammy Museum at L.A. Live | Los Angeles |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
+| Fri, 13 Nov 2026 | Echostage | Washington DC |
 | Sat, 14 Nov 2026 | Factory Town | Miami |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |

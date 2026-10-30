@@ -1,14 +1,15 @@
 # Jaytech
 
-Jaytech is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Skylight Warehouse, Vancouver on Fri, 13 Nov 2026.
+Jaytech is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Skylight Warehouse, Vancouver on Fri, 13 Nov 2026.
 
-Jaytech is a trance and progressive house artist based in Australia, with 9 gigs on soundcheck across New York City, San Diego, San Francisco/Oakland and Tokyo and 2 more. Often billed alongside Farius, Kristina Sky and 16BL. Next up: Skylight Warehouse, Vancouver on Fri 13 Nov.
+Jaytech is a trance and progressive house artist based in Australia, with 10 gigs on soundcheck across Chicago, New York City, San Diego and San Francisco/Oakland and 3 more. Often billed alongside Farius, Kristina Sky and 16BL. Next up: Skylight Warehouse, Vancouver on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Skylight Warehouse | Vancouver |
+| Sat, 21 Nov 2026 | The Jackhammer Chicago | Chicago |
 
 ## Recently played
 

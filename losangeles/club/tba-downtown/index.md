@@ -1,8 +1,8 @@
-# TBA - downtown
+# TBA - Downtown
 
-TBA - downtown is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "RUPTURE presents AGRØN / KEMØ / MENACE / Sartrax" on Fri, 6 Nov 2026.
+TBA - Downtown is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "RUPTURE presents AGRØN / KEMØ / MENACE / Sartrax" on Fri, 6 Nov 2026.
 
-TBA - downtown is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including AGRØN, Aurora Halal, DJ TRANCERIGHTS and Laurel Halo and 2 more. See dates, start times and who's playing.
+TBA - Downtown is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including AGRØN, Aurora Halal, DJ TRANCERIGHTS and Laurel Halo and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

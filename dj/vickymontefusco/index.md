@@ -2,7 +2,7 @@
 
 Vicky Montefusco is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at CGM - Club Giovanile Milano, Milan on Sat, 31 Oct 2026.
 
-Vicky Montefusco is a techno and electronica artist, with 17 gigs on soundcheck across Berlin, Milan and Naples. Often billed alongside CRHERZ, Lorenzo LSP and Lvca Versace. Next up: CGM - Club Giovanile Milano, Milan on Sat 31 Oct.
+Vicky Montefusco is a techno and electronica artist based in Italy, with 17 gigs on soundcheck across Berlin, Milan and Naples. Often billed alongside CRHERZ, Lorenzo LSP and Lvca Versace. Next up: CGM - Club Giovanile Milano, Milan on Sat 31 Oct.
 
 ## Upcoming shows
 

@@ -9,7 +9,7 @@ BB Lux is a house and techno artist, with 19 gigs on soundcheck across Atlanta, 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | CHICO | Mexico City |
-| Sat, 31 Oct 2026 | TBA | Mexico City |
+| Sat, 31 Oct 2026 | TBA - Marsella 47 Colonia Juarez | Mexico City |
 
 ## Recently played
 

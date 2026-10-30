@@ -1,14 +1,15 @@
 # w (MELTDØWN)
 
-w (MELTDØWN) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Triangle, Osaka on Sat, 31 Oct 2026.
+w (MELTDØWN) is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Triangle, Osaka on Sat, 31 Oct 2026.
 
-w (MELTDØWN) is a techno and hardcore artist based in Japan, with 27 gigs on soundcheck across Kyoto and Osaka. Often billed alongside ZAGUN, merupo and EYEMAY. Next up: Triangle, Osaka on Sat 31 Oct.
+w (MELTDØWN) is a techno and hardcore artist based in Japan, with 28 gigs on soundcheck across Kyoto and Osaka. Often billed alongside merupo, ZAGUN and EYEMAY. Next up: Triangle, Osaka on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Triangle | Osaka |
+| Fri, 20 Nov 2026 | Triangle | Osaka |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ w (MELTDØWN) is a techno and hardcore artist based in Japan, with 27 gigs on so
 
 ## Shares bills with
 
-ZAGUN, merupo, EYEMAY
+merupo, ZAGUN, EYEMAY
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wmeltdown/)*

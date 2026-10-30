@@ -2,7 +2,7 @@
 
 Feelgood is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA -  1055 Granville St. , Vancouver on Fri, 30 Oct 2026.
 
-Feelgood is a bass and drum & bass artist, with 4 gigs on soundcheck across London and Vancouver. Often billed alongside BiiSHoP, Daega Sound and Donna Dada. Next up: TBA -  1055 Granville St. , Vancouver on Fri 30 Oct.
+Feelgood is a bass and drum & bass artist based in Canada, with 4 gigs on soundcheck across London and Vancouver. Often billed alongside BiiSHoP, Daega Sound and Donna Dada. Next up: TBA -  1055 Granville St. , Vancouver on Fri 30 Oct.
 
 ## Upcoming shows
 

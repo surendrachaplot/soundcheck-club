@@ -1,8 +1,8 @@
 # TivoliVredenburg
 
-TivoliVredenburg is a music venue in Utrecht with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Le Guess Who? 2026" on Thu, 5 Nov 2026.
+TivoliVredenburg is a music venue in Utrecht with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Le Guess Who? 2026" on Thu, 5 Nov 2026.
 
-TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 7 upcoming gigs, with line-ups including Aba Shanti-I, Aho Ssan, Ambu Bambu and Ana Roxanne and 2 more. See dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
+TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 9 upcoming gigs, with line-ups including Aba Shanti-I, Aho Ssan, Ambu Bambu and Ana Roxanne and 2 more. See dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
 
 ## What's on
 
@@ -13,7 +13,9 @@ TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 7 upcoming gi
 | Sat, 21 Nov 2026 | Hush with MENESIX & More | MENESIX, Simon Kidzoo |
 | Sat, 28 Nov 2026 | History of House Utrecht | Erick E, Funkerman, Housequake, ROOG |
 | Fri, 4 Dec 2026 | Joris Voorn, Nicky Elisabeth | Joris Voorn, Nicky Elisabeth |
+| Sat, 5 Dec 2026 | Motiv with Moody Mehran, Kara Okay and More | Kara Okay, Moody Mehran |
 | Sat, 12 Dec 2026 | Elias Mazian b2b Tsepo - All Night Long | Elias Mazian, Tsepo |
+| Fri, 18 Dec 2026 | Hush with Traumer, Joss Dean & More | Joss Dean, Traumer |
 | Tue, 29 Dec 2026 | SUPERSTRINGS & FRIENDS - end of year special | Fiene, S3PPA, SUPERSTRINGS |
 
 ## Address

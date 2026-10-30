@@ -1,6 +1,6 @@
 # KIERUNKI ZMIENNE × Akty Elektroakustyczne × After at Uczulenie
 
-KIERUNKI ZMIENNE × Akty Elektroakustyczne × After at Uczulenie on Fri 20 Nov, Wroclaw. Progressive House and Deep House. See the line-up on soundcheck.
+KIERUNKI ZMIENNE × Akty Elektroakustyczne × After at Uczulenie on Fri 20 Nov, Wroclaw. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

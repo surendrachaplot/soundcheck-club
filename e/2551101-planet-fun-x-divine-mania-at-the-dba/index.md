@@ -1,6 +1,6 @@
 # Planet Fun x Divine Mania at The DBA
 
-Planet Fun x Divine Mania at The DBA on Fri 30 Oct, Manchester. 7 artists: Baba Sketch, DJ Fingerblast, Hanz and Peggy Viennetta and 3 more. Hardcore and Club. See the line-up on soundcheck.
+Planet Fun x Divine Mania at The DBA on Fri 30 Oct, Manchester. 7 artists: Baba Sketch, DJ Fingerblast, Hanz and Peggy Viennetta and 3 more. Trance and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # au4r33y
 
-au4r33y is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
+au4r33y is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
 
-au4r33y is a techno and house artist based in Australia, with 71 gigs on soundcheck across Bangkok, Beijing, Berlin and Hong Kong and 5 more. Often billed alongside Kato, Paramat and Eddie Guy. Next up: TBA, Sydney on Fri 30 Oct.
+au4r33y is a techno and house artist based in Australia, with 71 gigs on soundcheck across Bangkok, Beijing, Berlin and Hong Kong and 5 more. Often billed alongside Kato, Paramat and Eddie Guy. Next up: OneSixOne, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA | Sydney |
 | Sun, 1 Nov 2026 | OneSixOne | Melbourne |
 | Fri, 4 Dec 2026 | TBA - 2 Hours from Sydney | Sydney |
 

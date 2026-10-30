@@ -9,7 +9,7 @@ Hish is a house and minimal artist based in United Kingdom, with 14 gigs on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Ministry Of Sound | London |
-| Fri, 13 Nov 2026 | Behind This Wall | London |
+| Thu, 12 Nov 2026 | Behind This Wall | London |
 
 ## Recently played
 

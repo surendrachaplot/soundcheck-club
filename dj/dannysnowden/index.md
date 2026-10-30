@@ -1,8 +1,8 @@
 # Danny Snowden
 
-Danny Snowden is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
+Danny Snowden is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
 
-Danny Snowden is a house and tech house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Auckland, Brighton and Edinburgh and 10 more. Often billed alongside Sidney Charles, Ashkaan and Burnski. Next up: Mint XL, Leeds on Sat 7 Nov.
+Danny Snowden is a house and tech house artist based in United Kingdom, with 32 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Brighton and 11 more. Often billed alongside Sidney Charles, Ashkaan and Burnski. Next up: Mint XL, Leeds on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Danny Snowden is a house and tech house artist based in United Kingdom, with 31 
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
 | Sat, 21 Nov 2026 | XOYO | London |
+| Fri, 18 Dec 2026 | The Tunnels | Aberdeen |
 
 ## Recently played
 

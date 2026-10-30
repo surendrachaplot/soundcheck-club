@@ -1,6 +1,6 @@
 # LITTLEBIG at ZENNER
 
-LITTLEBIG at ZENNER on Sat 31 Oct, Berlin. 8 artists: Cecilia Tosh, David August, JakoJako and KiNK and 4 more. See the line-up on soundcheck.
+LITTLEBIG at ZENNER on Sat 31 Oct, Berlin. 9 artists: Cecilia Tosh, David August, JakoJako and KiNK and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ LITTLEBIG at ZENNER on Sat 31 Oct, Berlin. 8 artists: Cecilia Tosh, David August
 - David August
 - JakoJako
 - KiNK
+- Mark Hawkins
 - Plaid
 - Randomer
 - Sarah Sommers

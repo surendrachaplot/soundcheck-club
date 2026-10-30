@@ -1,13 +1,14 @@
 # 3rill
 
-3rill is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Numm, Tokyo on Sat, 21 Nov 2026.
+3rill is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Numm, Tokyo on Wed, 18 Nov 2026.
 
-3rill is a house and techno artist based in Japan, with 75 gigs on soundcheck across Tokyo. Often billed alongside Keigo, Onométro and Terax. Next up: Numm, Tokyo on Sat 21 Nov.
+3rill is a house and techno artist based in Japan, with 76 gigs on soundcheck across Tokyo. Often billed alongside Keigo, Onométro and Terax. Next up: Numm, Tokyo on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 18 Nov 2026 | Numm | Tokyo |
 | Sat, 21 Nov 2026 | Numm | Tokyo |
 
 ## Recently played

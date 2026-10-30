@@ -10,7 +10,7 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 32 upcoming gigs,
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | DARK GROOVE ADDICT Vinyl Set presents: Haunted Deep hypnotic Techno Halloween | Kanabis Stoned, djmoca |
 | Sat, 31 Oct 2026 | Groove Thailand presents; Haunted Minimalhouse–Techno Halloween with TheVinylCasanova; plazadj | plazdj |
-| Sun, 1 Nov 2026 | FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star | Krit Su |
+| Sun, 1 Nov 2026 | FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star | Giantsiam, Krit Su, Mac Rattana |
 | Mon, 2 Nov 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 | Tue, 3 Nov 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew | MOODYBOOM |
 | Wed, 4 Nov 2026 | WEDNESDAY MINIMAL HOUSE'n'TECHNO 'VINYL SESSIONS' presents; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) | plazdj |

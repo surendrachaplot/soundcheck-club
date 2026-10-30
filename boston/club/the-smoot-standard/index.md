@@ -10,7 +10,7 @@ The Smoot Standard is a music venue in Boston listed on soundcheck. 3 upcoming g
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Boston Open Decks |  |
 | Sat, 14 Nov 2026 | 1YEAR Boston Open Decks (House/UKG/Techhouse) | ASHACK |
-| Sat, 28 Nov 2026 | House of Yee presents - Satuday Sessions - Friendsgiving | DJ Yee, Rob Philmar |
+| Sat, 28 Nov 2026 | House of Yee presents - Saturday Sessions - Friendsgiving | DJ Yee, Rob Philmar |
 
 ## Address
 

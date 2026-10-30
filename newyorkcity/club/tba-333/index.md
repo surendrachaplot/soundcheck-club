@@ -9,7 +9,7 @@ TBA - 333 is a music venue in New York City listed on soundcheck. 4 upcoming gig
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | 333 Halloween | Carpet (F.L.H.P), Matthias (1), Pablo Romero, Second Contact |
-| Sat, 7 Nov 2026 | 333 House x Dialed In present: Adam Collins | Adam Collins, Chilly & Gams, Loren, Nema Hän |
+| Sat, 7 Nov 2026 | 333 House x Dialed In present: Adam Collins | Adam Collins, Chilly & Gams, Loren Heer, Nema Hän |
 | Fri, 13 Nov 2026 | 333 House × Nomads present: Arapu & Gio Shengelia | Arapu, Gio Shengelia |
 | Sat, 14 Nov 2026 | 333 House presents: Penelope | Ika (GE), Maksim, Penelope (2) |
 

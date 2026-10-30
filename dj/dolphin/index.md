@@ -1,14 +1,15 @@
 # DOLPHIN
 
-DOLPHIN is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+DOLPHIN is a Hardcore and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
-DOLPHIN is a hardcore and drum & bass artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Bristol, Glasgow and London and 6 more. Often billed alongside Thrasher, Charlie B and DJ SS. Next up: Marshall Arena, South East on Sat 7 Nov.
+DOLPHIN is a hardcore and drum & bass artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Bristol, Glasgow and London and 6 more. Often billed alongside Thrasher, Charlie B and DJ SS. Next up: Marshall Arena, South East on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Marshall Arena | South-east |
+| Sat, 27 Feb 2027 | Maassilo | Rotterdam |
 
 ## Recently played
 

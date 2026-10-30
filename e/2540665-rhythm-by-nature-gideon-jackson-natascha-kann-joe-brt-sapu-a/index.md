@@ -1,6 +1,6 @@
 # Rhythm By Nature: Gideon Jackson, Natascha Kann, Joe BRT, SaPu at Hoppetosse
 
-Rhythm By Nature: Gideon Jackson, Natascha Kann, Joe BRT, SaPu at Hoppetosse on Sat 21 Nov, Berlin. 3 artists: Joe BRT, Natascha Kann and SaPu. See the line-up on soundcheck.
+Rhythm By Nature: Gideon Jackson, Natascha Kann, Joe BRT, SaPu at Hoppetosse on Sat 21 Nov, Berlin. 4 artists: Gideon Jackson, Joe BRT, Natascha Kann and SaPu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rhythm By Nature: Gideon Jackson, Natascha Kann, Joe BRT, SaPu at Hoppetosse on 
 
 ## Line-up
 
+- Gideon Jackson
 - Joe BRT
 - Natascha Kann
 - SaPu

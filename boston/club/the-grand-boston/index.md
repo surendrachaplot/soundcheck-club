@@ -1,6 +1,6 @@
 # The Grand Boston
 
-The Grand Boston is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "INQUISITIVE" on Fri, 23 Oct 2026.
+The Grand Boston is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Nightmare on Seaport Blvd" on Sat, 31 Oct 2026.
 
 The Grand Boston is a music venue in Boston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 58 Seaport Blvd Suite 300, Boston, MA 02210.
 
@@ -8,10 +8,10 @@ The Grand Boston is a music venue in Boston listed on soundcheck. 1 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | INQUISITIVE |  |
+| Sat, 31 Oct 2026 | Nightmare on Seaport Blvd |  |
 
 ## Address
 
 58 Seaport Blvd Suite 300, Boston, MA 02210, Boston
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand-boston/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand-boston/)*

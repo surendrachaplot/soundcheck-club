@@ -1,13 +1,14 @@
 # Paige (Night Service)
 
-Paige (Night Service) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Vittoria Wharf Studio, London on Sun, 15 Nov 2026.
+Paige (Night Service) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at FOLD, London on Sat, 7 Nov 2026.
 
-Paige (Night Service) is a techno and house artist, with 33 gigs on soundcheck across Berlin, Bristol, Edinburgh and Liverpool and 3 more. Often billed alongside Bailey Ibbs, 2 boots and Debbie.. Next up: Vittoria Wharf Studio, London on Sun 15 Nov.
+Paige (Night Service) is a techno and house artist, with 34 gigs on soundcheck across Berlin, Bristol, Edinburgh and Liverpool and 3 more. Often billed alongside Bailey Ibbs, 2 boots and Debbie.. Next up: FOLD, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | FOLD | London |
 | Sun, 15 Nov 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played

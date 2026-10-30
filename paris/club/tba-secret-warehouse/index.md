@@ -1,8 +1,8 @@
-# TBA - SECRET WAREHOUSE
+# TBA - Secret Warehouse
 
-TBA - SECRET WAREHOUSE is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "UNHOLY Halloween" on Fri, 30 Oct 2026.
+TBA - Secret Warehouse is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "UNHOLY Halloween" on Fri, 30 Oct 2026.
 
-TBA - SECRET WAREHOUSE is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including -CZAR, ALoSo, C:3 and El Beso Verde and 2 more. See dates, start times and who's playing.
+TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including -CZAR, ALoSo, C:3 and El Beso Verde and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

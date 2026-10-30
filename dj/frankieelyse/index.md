@@ -1,8 +1,8 @@
 # Frankie Elyse
 
-Frankie Elyse is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Drygate, Glasgow on Fri, 30 Oct 2026.
+Frankie Elyse is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Drygate, Glasgow on Fri, 30 Oct 2026.
 
-Frankie Elyse is a house and electro artist based in United Kingdom, with 84 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Jozette, Corran and Neoma. Next up: Drygate, Glasgow on Fri 30 Oct.
+Frankie Elyse is a house and electro artist based in United Kingdom, with 85 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Jozette, Corran and Neoma. Next up: Drygate, Glasgow on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Frankie Elyse is a house and electro artist based in United Kingdom, with 84 gig
 | Sat, 31 Oct 2026 | The Art School | Glasgow |
 | Fri, 6 Nov 2026 | Sub Club | Glasgow |
 | Fri, 20 Nov 2026 | The Berkeley Suite | Glasgow |
+| Sat, 21 Nov 2026 | Room 2 Glasgow | Glasgow |
 
 ## Recently played
 

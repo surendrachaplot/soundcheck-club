@@ -1,14 +1,15 @@
 # Vorick
 
-Vorick is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Clwd, Sofia on Sat, 7 Nov 2026.
+Vorick is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Clwd, Sofia on Sat, 7 Nov 2026.
 
-Vorick is a techno and tech house artist based in Bulgaria, with 35 gigs on soundcheck across London, Paris and Sofia. Often billed alongside Egor Sintsoff, HUMAN ERROR and Nerone. Next up: Clwd, Sofia on Sat 7 Nov.
+Vorick is a techno and tech house artist based in Bulgaria, with 36 gigs on soundcheck across London, Paris and Sofia. Often billed alongside Egor Sintsoff, HUMAN ERROR and Nerone. Next up: Clwd, Sofia on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Clwd | Sofia |
+| Sat, 28 Nov 2026 | Clwd | Sofia |
 | Fri, 18 Dec 2026 | Inter Expo Centre | Sofia |
 
 ## Recently played

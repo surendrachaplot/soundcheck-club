@@ -9,7 +9,7 @@ gallery 1986 is a music venue in Vilnius listed on soundcheck. 6 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | DEERS CLUB: Michael Mayer, Chloé && more // 10,30 | Chloé, Clicklounge, Michael Mayer, Roe Deers |
-| Fri, 6 Nov 2026 | EELF Presents - Vilnius: Paluma Sound, Pijus, Cport Cistema  | AUREJA, Aistelele, Greta Margo, Paluma Sound, Pijus |
+| Fri, 6 Nov 2026 | EELF Presents - Vilnius: GEE LEE, Paluma Sound, Pijus, Cport Cistema  | AUREJA, Aistelele, GEE LEE, Greta Margo, Paluma Sound, Pijus |
 | Fri, 13 Nov 2026 | KINK FEST 5 - Vilnius | CAMIVINA, Mincore, Symbiotica |
 | Fri, 20 Nov 2026 | gallery night: Patrick Mason // 11,20 | Jogaila, Patrick Mason, Phase Line, Valdagger |
 | Fri, 18 Dec 2026 | V album unVeiling: Curses, Lauer // 12.18 | Curses, Lauer, V |

@@ -1,14 +1,15 @@
 # Excision
 
-Excision is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Excision is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Excision is a bass and drum & bass artist based in Canada, with 16 gigs on soundcheck across Auckland, Austin, Chicago and Dallas/Fort Worth and 10 more. Often billed alongside KREAM, Zedd and Cloonee. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Excision is a bass and drum & bass artist based in Canada, with 17 gigs on soundcheck across Auckland, Austin, Chicago and Dallas/Fort Worth and 10 more. Often billed alongside KREAM, Zedd and Cloonee. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Fri, 13 Nov 2026 | The Woodshop | New York City |
 
 ## Recently played
 

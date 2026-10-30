@@ -1,13 +1,14 @@
 # YANA ETC
 
-YANA ETC is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Blvck Water, Osaka on Sat, 28 Nov 2026.
+YANA ETC is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Depo Klub, Zagreb on Sat, 14 Nov 2026.
 
-YANA ETC is a techno and industrial artist, with 31 gigs on soundcheck across Amsterdam, Berlin, Budapest and Istanbul and 9 more. Often billed alongside BTFL, PARAPHER and SAS. Next up: Blvck Water, Osaka on Sat 28 Nov.
+YANA ETC is a techno and industrial artist, with 32 gigs on soundcheck across Amsterdam, Berlin, Budapest and Istanbul and 10 more. Often billed alongside BTFL, PARAPHER and SAS. Next up: Depo Klub, Zagreb on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Depo Klub | Zagreb |
 | Sat, 28 Nov 2026 | Blvck Water | Osaka |
 
 ## Recently played

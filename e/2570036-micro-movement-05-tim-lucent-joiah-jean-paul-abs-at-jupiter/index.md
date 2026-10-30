@@ -1,6 +1,6 @@
 # Micro Movement #05: Tim Lucent, Joiah, Jean Paul, ABS at Jupiter Disco
 
-Micro Movement #05: Tim Lucent, Joiah, Jean Paul, ABS at Jupiter Disco on Sat 7 Nov, New York City. 4 artists: ABS, Jean Paul, Joiah and Tim Lucent. See the line-up on soundcheck.
+Micro Movement #05: Tim Lucent, Joiah, Jean Paul, ABS at Jupiter Disco on Sat 7 Nov, New York City. 4 artists: ABS, Jean-Paul, Joiah and Tim Lucent. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Micro Movement #05: Tim Lucent, Joiah, Jean Paul, ABS at Jupiter Disco on Sat 7 
 ## Line-up
 
 - ABS (4)
-- Jean Paul
+- Jean-Paul
 - Joiah
 - Tim Lucent
 

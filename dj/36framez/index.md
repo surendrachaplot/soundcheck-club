@@ -1,14 +1,15 @@
 # 36framez
 
-36framez is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KABUL à GoGo, Utrecht on Sat, 14 Nov 2026.
+36framez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KABUL à GoGo, Utrecht on Sat, 14 Nov 2026.
 
-36framez is a house and techno artist based in Netherlands, with 50 gigs on soundcheck across Amsterdam, Munich, Rotterdam and Utrecht. Often billed alongside Doppelgang, Carlos Valdes and Lola Edo. Next up: KABUL à GoGo, Utrecht on Sat 14 Nov.
+36framez is a house and techno artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Munich, Netherlands and Rotterdam and 1 more. Often billed alongside Doppelgang, Lola Edo and Carlos Valdes. Next up: KABUL à GoGo, Utrecht on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | KABUL à GoGo | Utrecht |
+| Fri, 20 Nov 2026 | Kasteel De Berckt | Netherlands |
 | Sat, 19 Dec 2026 | Lofi | Amsterdam |
 
 ## Recently played
@@ -24,6 +25,6 @@
 
 ## Shares bills with
 
-Doppelgang, Carlos Valdes, Lola Edo
+Doppelgang, Lola Edo, Carlos Valdes
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/36framez/)*

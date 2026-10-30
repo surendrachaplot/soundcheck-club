@@ -5354,11 +5354,139 @@ a.fst-t:hover{text-decoration:underline}
       .frd{ padding-top:56px; }
     }
     [data-ic="search"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M18 11a7 7 0 1 1-14 0 7 7 0 0 1 14 0zM20 20l-4-4' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
-</style>
+
+    /* ── HOME v2 (Paper NEXT "Home v2", 30 Oct): hero, Your saved gigs, Artists playing <city>, Upcoming gigs, join.
+       The list page (What's on) is the same #home with body.gigs-on: the old blocks stay in the DOM and keep loading. */
+    #nh{ display:block; padding-bottom:var(--sp-6); }
+    body.gigs-on #nh{ display:none; }
+    body:not(.gigs-on) #home > .sc-lt, body:not(.gigs-on) #home > .daterow, body:not(.gigs-on) #home > .gridfilters,
+    body:not(.gigs-on) #home > #status, body:not(.gigs-on) #home > #grid{ display:none; }
+    .nh-sec{ margin-top:48px; min-width:0; }
+    .nh-h{ display:inline-flex; align-items:center; gap:12px; color:var(--fg); text-decoration:none; margin:0 0 18px; max-width:100%; background:none; border:0; padding:0; cursor:pointer; }
+    .nh-h h2{ margin:0; font:800 30px/34px var(--head); letter-spacing:-.02em; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .nh-h::before{ content:''; flex:none; width:4px; height:28px; border-radius:999px; background:linear-gradient(180deg,#FF5E7E,#FF9A3D); }
+    .nh-h svg{ flex:none; width:22px; height:22px; }
+    .nh-pg-t{ margin:0 0 20px; font:800 30px/34px var(--head); letter-spacing:-.02em; color:var(--fg); }
+    .nh-lbl{ margin:28px 0 14px; font:600 13px/18px var(--body); color:var(--muted); }
+    .nh-lbl:first-of-type{ margin-top:0; }
+    .nh-empty{ color:var(--muted); font:500 15px/22px var(--body); }
+    /* hero */
+    .nh-top{ display:grid; grid-template-columns:minmax(0,1fr) 316px; gap:24px; margin-top:32px; min-height:476px; }
+    .nh-hero{ position:relative; min-width:0; }
+    .nh-track{ display:flex; overflow-x:auto; scroll-snap-type:x mandatory; scrollbar-width:none; border:1px solid var(--border); border-radius:var(--radius-lg); }
+    .nh-track::-webkit-scrollbar{ display:none; }
+    .nh-slide{ position:relative; flex:0 0 100%; height:476px; scroll-snap-align:start; overflow:hidden; background:var(--bg); }
+    .nh-wall{ position:absolute; left:0; right:0; top:0; height:352px; display:flex; }
+    .nh-face{ position:relative; flex:1 1 0; min-width:0; }
+    .nh-face a{ position:absolute; inset:0; background-size:cover; background-position:50% 25%; background-color:var(--surface-2); }
+    .nh-pill{ position:absolute; left:12px; top:14px; max-width:calc(100% - 20px); display:inline-flex; align-items:center; gap:8px; height:36px; padding:0 14px 0 6px; border:0; border-radius:999px; background:rgba(22,16,42,.72); color:var(--fg); font:600 13px/18px var(--body); cursor:pointer; }
+    .nh-pill i{ flex:none; width:24px; height:24px; border-radius:50%; display:inline-flex; align-items:center; justify-content:center; background:rgba(255,255,255,.14); }
+    .nh-pill svg{ width:12px; height:12px; }
+    .nh-pill span{ min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .nh-veil{ position:absolute; inset:0; pointer-events:none; background:linear-gradient(180deg, rgba(22,16,42,0) 42%, rgba(22,16,42,.86) 68%, var(--bg) 76%); }
+    .nh-poster{ position:absolute; left:24px; bottom:24px; width:156px; height:223px; border-radius:6px; overflow:hidden; border:1px solid var(--border); background-size:cover; background-position:50%; background-color:var(--surface-2); }
+    .nh-info{ position:absolute; left:204px; right:24px; bottom:24px; display:flex; align-items:center; gap:20px; min-width:0; }
+    .nh-txt{ min-width:0; flex:1 1 auto; display:block; color:inherit; text-decoration:none; }
+    .nh-gen{ display:block; font:500 12px/16px var(--mono, ui-monospace, monospace); letter-spacing:.14em; text-transform:uppercase; color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .nh-tt{ display:block; margin-top:6px; font:800 28px/33px var(--head); letter-spacing:-.02em; color:var(--fg); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .nh-wh{ display:block; margin-top:6px; font:500 15px/21px var(--body); color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .nh-info .fp-ab{ flex:none; }
+    .nh-arr{ position:absolute; top:190px; z-index:2; width:44px; height:44px; border-radius:50%; border:1px solid rgba(255,255,255,.16); background:rgba(22,16,42,.6); color:var(--fg); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; }
+    .nh-arr svg{ width:18px; height:18px; }
+    .nh-arr.p{ left:16px; } .nh-arr.n{ right:16px; }
+    .nh-dots{ display:flex; justify-content:center; gap:6px; margin-top:14px; }
+    .nh-dots i{ width:6px; height:6px; border-radius:999px; background:var(--line-2); transition:width var(--dur-1); }
+    .nh-dots i.on{ width:22px; background:linear-gradient(135deg,#FF5E7E,#FF9A3D); }
+    .nh-up-h{ margin:0 0 12px; font:800 20px/30px var(--head); letter-spacing:-.01em; color:var(--fg); }
+    .nh-up{ display:flex; flex-direction:column; gap:14px; min-width:0; }
+    /* the compact gig row: Up next + saved on web */
+    .nh-row{ position:relative; display:flex; gap:14px; min-width:0; }
+    .nh-row > a.nh-th{ flex:none; width:92px; height:118px; border-radius:6px; border:1px solid var(--border); background-size:cover; background-position:50%; background-color:var(--surface-2); }
+    .nh-row-b{ min-width:0; flex:1 1 0; display:flex; flex-direction:column; gap:6px; padding-top:2px; }
+    .nh-row-w{ display:flex; align-items:center; gap:8px; min-width:0; font:600 13px/18px var(--body); color:var(--muted); white-space:nowrap; }
+    .nh-row-w span{ min-width:0; overflow:hidden; text-overflow:ellipsis; }
+    .nh-pc{ flex:none; width:28px; height:28px; padding:0; border-radius:50%; border:1.5px solid var(--fg); background:none; color:var(--fg); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; position:relative; }
+    .nh-pc::after{ content:''; position:absolute; inset:-8px; }
+    .nh-pc svg{ width:12px; height:12px; margin-left:1px; }
+    .nh-row-t{ font:700 15px/20px var(--body); color:var(--fg); text-decoration:none; display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:3; overflow:hidden; }
+    .nh-row-v{ font:500 13px/18px var(--body); color:var(--faint); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .nh-pg{ padding-top:24px; }
+    #nh .lvr .evc-play, .nh-pg .lvr .evc-play{ right:auto; bottom:auto; }
+    #nh .grid, .nh-pg .grid{ margin-top:0; }
+    .nh-rows{ display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:20px 16px; }
+    /* artists */
+    .nh-arts{ position:relative; }
+    .nh-arow{ display:flex; gap:20px; overflow-x:auto; scrollbar-width:none; }
+    .nh-arow::-webkit-scrollbar{ display:none; }
+    .nh-agrid{ display:grid; grid-template-columns:repeat(6,minmax(0,1fr)); gap:28px 20px; }
+    .nh-art{ position:relative; flex:0 0 166px; min-width:0; text-align:center; }
+    .nh-art .ph{ display:block; aspect-ratio:1; border-radius:50%; border:1px solid var(--border); background-size:cover; background-position:50% 30%; background-color:var(--surface-2); }
+    .nh-art .pb{ position:absolute; left:4px; width:44px; height:44px; top:0; margin-top:calc(100% - 48px); padding:0; border-radius:50%; border:2px solid var(--bg); background:var(--accent-grad); color:var(--accent-ink); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; }
+    .nh-art .pb svg{ width:16px; height:16px; margin-left:2px; }
+    .nh-art .nm{ display:block; margin-top:14px; font:700 17px/22px var(--body); color:var(--fg); text-decoration:none; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .nh-art .mt{ display:block; margin-top:3px; font:500 13px/18px var(--body); color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .nh-art .mt b{ font-weight:500; color:var(--faint); }
+    .nh-art .mt b::before{ content:'\00a0\00b7\00a0'; }
+    .nh-rarr{ position:absolute; right:-22px; top:61px; z-index:2; width:44px; height:44px; border-radius:50%; border:1px solid var(--line-2); background:var(--surface); color:var(--fg); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; }
+    .nh-rarr svg{ width:18px; height:18px; }
+    /* join: signed out only */
+    .nh-join{ position:relative; overflow:hidden; width:100vw; margin:64px 0 0 calc(50% - 50vw); padding:150px 18px 72px; text-align:center; }
+    .nh-join .w{ position:absolute; inset:0; display:grid; grid-template-columns:repeat(6,1fr); grid-auto-rows:152px; opacity:.32; filter:saturate(.85); }
+    .nh-join .w i{ background-size:cover; background-position:50% 30%; background-color:var(--surface-2); }
+    .nh-join .v{ position:absolute; inset:0; background:linear-gradient(180deg, var(--bg) 0%, rgba(22,16,42,.55) 34%, rgba(22,16,42,.55) 72%, var(--bg) 100%); }
+    .nh-join > *:not(.w):not(.v){ position:relative; }
+    .nh-join h2{ margin:0; font:800 clamp(30px,3.9vw,56px)/1.14 var(--head); letter-spacing:-.03em; color:var(--fg); }
+    .nh-join p{ margin:14px 0 0; font:400 18px/26px var(--body); color:var(--muted); }
+    .nh-jf{ display:flex; justify-content:center; gap:12px; margin:32px auto 0; max-width:580px; }
+    .nh-jf input{ flex:1 1 auto; min-width:0; height:52px; padding:0 16px; border:1px solid var(--line-2); border-radius:var(--radius-btn); background:var(--surface); color:var(--fg); font:400 17px/24px var(--body); }
+    .nh-jf input::placeholder{ color:var(--faint); }
+    .nh-jf .fp-ab{ flex:none; height:52px; }
+    .nh-je{ min-height:18px; margin-top:8px; font:500 13px/18px var(--body); color:var(--accent-warn, #FF5E7E); }
+    .nh-js{ font:400 13px/18px var(--body); color:var(--muted); }
+    .nh-js + .nh-js{ margin-top:8px; color:var(--faint); }
+    .nh-js button{ background:none; border:0; padding:0; color:var(--muted); font:inherit; cursor:pointer; text-decoration:underline; text-underline-offset:3px; }
+    @media (max-width:1100px){ .nh-top{ grid-template-columns:minmax(0,1fr); min-height:0; } .nh-upb{ display:none; } .nh-rows{ grid-template-columns:repeat(2,minmax(0,1fr)); } .nh-agrid{ grid-template-columns:repeat(4,minmax(0,1fr)); } .nh-rarr{ display:none; } }
+    @media (max-width:640px){
+      .nh-sec{ margin-top:32px; }
+      .nh-h{ gap:10px; margin-bottom:14px; }
+      .nh-h h2{ font-size:24px; line-height:28px; }
+      .nh-h::before{ height:24px; }
+      .nh-h svg{ width:18px; height:18px; }
+      .nh-pg-t{ font-size:24px; line-height:28px; margin-bottom:14px; }
+      .nh-top{ margin:0 calc(-1 * var(--gut, 18px)); }
+      .nh-track{ border:0; border-radius:0; }
+      .nh-slide{ height:500px; }
+      .nh-wall{ height:340px; }
+      .nh-face:nth-child(n+4){ display:none; }
+      .nh-arr{ display:none; }
+      .nh-poster{ left:18px; bottom:20px; width:112px; height:160px; }
+      .nh-info{ left:142px; right:18px; bottom:20px; flex-direction:column; align-items:flex-start; gap:12px; }
+      .nh-txt{ flex:none; width:100%; }
+      .nh-info .fp-ab{ order:2; }
+      .nh-tt{ font-size:21px; line-height:26px; white-space:normal; display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; }
+      .nh-wh{ font-size:13px; line-height:18px; white-space:normal; display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; }
+      .nh-chips{ margin-left:calc(-1 * var(--gut, 18px)); margin-right:calc(-1 * var(--gut, 18px)); padding:0 var(--gut, 18px); }
+      .nh-arow{ gap:14px; margin:0 calc(-1 * var(--gut, 18px)); padding:0 var(--gut, 18px); }
+      .nh-art{ flex-basis:104px; }
+      .nh-agrid{ grid-template-columns:repeat(3,minmax(0,1fr)); gap:22px 25px; }
+      .nh-art .pb{ left:2px; width:36px; height:36px; margin-top:calc(100% - 38px); }
+      .nh-art .pb svg{ width:13px; height:13px; }
+      .nh-art .nm{ margin-top:10px; font-size:15px; line-height:20px; }
+      .nh-art .mt{ font-size:13px; line-height:20px; }
+      .nh-art .mt b{ display:block; overflow:hidden; text-overflow:ellipsis; }
+      .nh-art .mt b::before{ content:''; }
+      .nh-bands .grid, .nh-gigs .grid{ margin:0 calc(-1 * var(--gut, 18px)); }
+      .nh-join{ padding:96px 18px 72px; margin-top:40px; }
+      .nh-join .w{ grid-template-columns:repeat(5,1fr); grid-auto-rows:81px; }
+      .nh-join p{ font-size:14px; line-height:20px; }
+      .nh-jf{ flex-direction:column; align-items:center; }
+      .nh-jf input{ width:100%; flex:none; }
+    }
+  </style>
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793377603574">
+<meta name="sc-build" content="1793387829567">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5383,6 +5511,7 @@ a.fst-t:hover{text-decoration:underline}
     </nav>
 
     <div id="home">
+    <div id="nh"></div>
 
     <!-- Ported from the native home screen: the page names itself, then hands
          that name up to the nav as you scroll. Sits OUTSIDE .daterow — that is a
@@ -7825,10 +7954,7 @@ a.fst-t:hover{text-decoration:underline}
         if (el && el.classList.contains('show')) obClose();
       });
     })();
-    onEl('bnav-home','click',function(){
-      if(document.body.classList.contains('page-on')) goGrid();
-      window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
-    });
+    onEl('bnav-home','click',goHome);
     onEl('bnav-search','click',function(){ openSearch(); });
     onEl('bnav-listen','click',function(){ openListen(); });
     onEl('bnav-log','click',function(){ if(!currentUser){ scOnboard('email', null, 'log_gig'); return; } openLog(); });   // signed out, + goes to the landing — the same door as the banner and You
@@ -7932,12 +8058,7 @@ a.fst-t:hover{text-decoration:underline}
     (function(){ var lg=document.querySelector('.logo'); if(!lg) return; lg.addEventListener('click',function(e){
       if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey) return;   // let new-tab/window through
       e.preventDefault();
-      if(document.body.classList.contains('page-on') || location.hash){
-        history.pushState({sc:1},'', cityPath(currentCity));
-        hidePage();
-      }
-      window.scrollTo({top:0,behavior:'smooth'});
-      if(typeof syncTabs==='function') syncTabs();
+      goHome();
     }); })();
     window.addEventListener('popstate', function(){ setTimeout(syncTabs,0); });
     // Paint the nav state on FIRST LOAD too. syncTabs only ever ran on a route
@@ -9919,6 +10040,7 @@ a.fst-t:hover{text-decoration:underline}
       if(typeof syncTabs==='function') setTimeout(syncTabs,0);
       if(window.scFootHold) scFootHold();   // re-evaluate for the home grid
       if(window.scAfterRender) scAfterRender();
+      if(window.nhSaved) nhSaved();   // saved or unsaved on the page just closed
     }
     // ── Spotify-style sticky title bar. armSticky(name, playFn, sentinel): fills the bar,
     // un-sticks the global nav (body.has-psticky), and reveals the bar once `sentinel`
@@ -15946,16 +16068,215 @@ a.fst-t:hover{text-decoration:underline}
     }
 
     function currentRoute(){ return pathRoute() || decodeURIComponent(location.hash.replace(/^#/,'')); }
+    // ── HOME v2 (Paper NEXT "Home v2", JAC-9) ──────────────────────────────────────
+    // /api/home: hero + artists + gigs, 14 days. Saved = /api/shelf. #nh is Home; body.gigs-on
+    // (route #gigs) is the old list, What's on, unchanged. Every list row plays through nhPlay.
+    var _nh={ city:null, d:null, saved:null, art:null, gig:null, ev:{} };
+    var NH_CHEV='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5 L16 12 L9 19" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    var NH_PLAY='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>';
+    function gigsOn(){ return document.body.classList.contains('gigs-on'); }
+    function nhHash(){ return gigsOn()?'#gigs':''; }   // load() rewrites the query: the route stays
+    function gigsShow(on){ document.body.classList.toggle('gigs-on', !!on); if(!on && window.nhSaved) nhSaved(); }
+    function openGigs(){
+      hidePage();
+      if(currentRoute()!=='gigs') history.pushState({sc:1},'', cityPath(currentCity)+location.search+'#gigs');
+      gigsShow(true); window.scrollTo(0,0); syncTabs();
+    }
+    // Home tab, logo, footer logo: leave any page and the list, then go to the top.
+    function goHome(){
+      if(document.body.classList.contains('page-on') || gigsOn() || location.hash) history.pushState({sc:1},'', cityPath(currentCity));
+      hidePage(); gigsShow(false);
+      window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
+    }
+    function nhWhen(day, start, end){ return [day?fmtDateLabel(String(day).slice(0,10)):'', formatTimeRange(start,end)].filter(Boolean).join(' · '); }
+    function nhKeep(e){ if(e&&e.id!=null) _nh.ev[String(e.id)]=e; return e; }
+    function nhPlay(id){
+      var e=_nh.ev[String(id)], line=(e&&e.artists)||[];
+      if(!line.length){ showToast('No line-up to play yet.'); return; }
+      startEventRadio({ id:e.id, venue:e.venue||'', _day:e.date?fmtDateLabel(e.date):'', poster:e.poster||'', artists:line.map(function(a){ return { contentUrl:'/'+a.slug, name:a.name }; }) });
+    }
+    function nhRow(e){
+      var id=String(e.id), href=evHref(id,(e.artists[0]||{}).name,e.venue);
+      return '<article class="nh-row"><a class="nh-th nav" href="'+esc(href)+'" aria-label="View '+esc(e.title)+'"'+(e.poster?' style="background-image:url('+imgUrl(e.poster,300)+')"':'')+'></a>'+
+        '<div class="nh-row-b"><div class="nh-row-w">'+(e.artists.length&&e.has_sets!==false?'<button class="nh-pc" type="button" data-nh-play="'+esc(id)+'" aria-label="Play the line-up of '+esc(e.title)+'">'+NH_PLAY+'</button>':'')+'<span>'+esc(nhWhen(e.date,e.startTime))+'</span></div>'+
+        '<a class="nh-row-t nav" href="'+esc(href)+'">'+esc(e.title)+'</a><div class="nh-row-v">'+esc(e.venue||'TBA')+'</div></div></article>';
+    }
+    // Phone: the app-wide list row. Web: the compact row.
+    function nhRows(el, list){
+      list.forEach(nhKeep);
+      if(mqMobile()) return mountEventCards(el, list.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, genres:e.genres, event_date:e.date||'', start_time:e.startTime, end_time:e.endTime, poster_url:e.poster, has_sets:e.has_sets, lineup:e.artists }; }), {list:true});
+      el.innerHTML='<div class="nh-rows">'+list.map(nhRow).join('')+'</div>';
+    }
+    function nhChips(list, on, attr){
+      var n={}; list.forEach(function(x){ (x.genres||[]).forEach(function(g){ n[g]=(n[g]||0)+1; }); });
+      var top=Object.keys(n).sort(function(a,b){ return n[b]-n[a]; }).slice(0,7);
+      if(top.length<2) return '';
+      return '<div class="lsn-chips nh-chips" role="tablist">'+[''].concat(top).map(function(g){ var o=(on||'')===g; return '<button class="qchip'+(o?' on':'')+'" type="button" role="tab" aria-selected="'+o+'" '+attr+'="'+esc(g)+'">'+esc(g||'All genres')+'</button>'; }).join('')+'</div>';
+    }
+    function nhArt(a){
+      var href=djHref(a.slug);
+      return '<article class="nh-art"><a class="ph nav" href="'+esc(href)+'" aria-label="'+esc(a.name)+'" style="background-image:url('+imgUrl(a.image,360)+'),'+esc(avatarBg(a.slug,null))+'"></a>'+
+        '<button class="pb" type="button" data-nh-aplay="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-label="Play '+esc(a.name)+'">'+NH_PLAY+'</button>'+
+        '<a class="nm nav" href="'+esc(href)+'">'+esc(a.name)+'</a><span class="mt">'+esc(fmtDateLabel(a.date))+'<b>'+esc(a.venue||'TBA')+'</b></span></article>';
+    }
+    function nhHero(list){
+      if(!list.length) return '';
+      var slides=list.map(function(e,i){
+        nhKeep(e);
+        var id=String(e.id), href=evHref(id,(e.artists[0]||{}).name,e.venue);
+        var faces=e.artists.filter(function(a){ return a.image; }).slice(0,5).map(function(a){
+          return '<div class="nh-face"><a class="nav" href="'+esc(djHref(a.slug))+'" aria-label="'+esc(a.name)+'" style="background-image:url('+imgUrl(a.image,500)+')"></a><button class="nh-pill" type="button" data-nh-aplay="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-label="Play '+esc(a.name)+'"><i>'+NH_PLAY+'</i><span>'+esc(a.name)+'</span></button></div>';
+        }).join('');
+        return '<section class="nh-slide" aria-label="'+esc(e.title)+'"><div class="nh-wall">'+faces+'</div><div class="nh-veil"></div>'+
+          '<a class="nh-poster nav" href="'+esc(href)+'" aria-label="View '+esc(e.title)+'" style="background-image:url('+imgUrl(e.poster,420)+')"></a>'+
+          '<div class="nh-info"><button class="fp-ab go" type="button" data-ic="play" data-nh-play="'+esc(id)+'"><span>Play</span></button>'+
+          '<a class="nh-txt nav" href="'+esc(href)+'">'+((e.genres||[]).length?'<span class="nh-gen">'+esc(e.genres.slice(0,2).join(' · '))+'</span>':'')+'<span class="nh-tt">'+esc(e.title)+'</span><span class="nh-wh">'+esc([nhWhen(e.date,e.startTime,e.endTime),e.venue].filter(Boolean).join(' · '))+'</span></a></div></section>';
+      }).join('');
+      var up=list.slice(1,4);
+      return '<div class="nh-top"><div class="nh-hero"><div class="nh-track" id="nh-track">'+slides+'</div>'+
+        (list.length>1?'<button class="nh-arr p" type="button" data-nh-slide="-1" aria-label="Previous gig"><svg viewBox="0 0 24 24"><path d="M15 5 L8 12 L15 19" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="nh-arr n" type="button" data-nh-slide="1" aria-label="Next gig">'+NH_CHEV+'</button><div class="nh-dots" id="nh-dots" aria-hidden="true">'+list.map(function(_,i){ return '<i'+(i?'':' class="on"')+'></i>'; }).join('')+'</div>':'')+
+        '</div>'+(up.length?'<div class="nh-upb"><div class="nh-up-h">Up next</div><div class="nh-up">'+up.map(nhRow).join('')+'</div></div>':'')+'</div>';
+    }
+    function nhPaint(){
+      var box=document.getElementById('nh'), d=_nh.d; if(!box) return;
+      if(!d){ box.innerHTML=''; return; }
+      if(d.error){ box.innerHTML='<div class="nh-sec"><p class="nh-empty">Couldn’t load this page.</p><button class="more-btn" type="button" data-nh-retry>Try again</button></div>'; return; }
+      var name=d.cityName||cityMeta().name, empty=!d.hero.length&&!d.gigs.length;
+      box.innerHTML=nhHero(d.hero)+'<div id="nh-saved"></div>'+
+        (d.artists.length?'<section class="nh-sec nh-arts"><a class="nh-h" href="#artists" data-nh-go="artists"><h2>Artists playing '+esc(name)+'</h2>'+NH_CHEV+'</a><div id="nh-artc"></div></section>':'')+
+        '<section class="nh-sec nh-gigs"><a class="nh-h" href="#gigs" data-nh-go="gigs"><h2>Upcoming gigs</h2>'+NH_CHEV+'</a><div id="nh-gigc"></div></section>'+
+        '<div id="nh-join"></div>';
+      nhPaintArts(); nhPaintGigs(); nhPaintSaved(); nhPaintJoin();
+      var t=document.getElementById('nh-track'), dots=document.getElementById('nh-dots');
+      if(t&&dots) t.addEventListener('scroll',function(){ var i=Math.round(t.scrollLeft/t.clientWidth); [].forEach.call(dots.children,function(x,k){ x.classList.toggle('on',k===i); }); },{passive:true});
+      if(empty){ var g=document.getElementById('nh-gigc'); if(g) g.innerHTML='<p class="nh-empty">Nothing on in the next two weeks.</p>'; }
+    }
+    function nhPaintArts(){
+      var el=document.getElementById('nh-artc'), d=_nh.d; if(!el||!d) return;
+      var on=_nh.art, list=d.artists.filter(function(a){ return !on||(a.genres||[]).indexOf(on)>=0; }).slice(0,18);
+      el.innerHTML=nhChips(d.artists,on,'data-nh-agen')+'<div style="position:relative"><div class="nh-arow" id="nh-arow">'+list.map(nhArt).join('')+'</div>'+(list.length>6?'<button class="nh-rarr" type="button" data-nh-more aria-label="More artists">'+NH_CHEV+'</button>':'')+'</div>';
+    }
+    function nhPaintGigs(){
+      var el=document.getElementById('nh-gigc'), d=_nh.d; if(!el||!d||!d.gigs.length) return;
+      var on=_nh.gig, list=d.gigs.filter(function(g){ return !on||(g.genres||[]).indexOf(on)>=0; }).slice(0,4);
+      list.forEach(nhKeep);
+      el.innerHTML=nhChips(d.gigs,on,'data-nh-ggen')+'<div id="nh-gigg"></div>';
+      mountEventCards(document.getElementById('nh-gigg'), list.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, genres:e.genres, event_date:e.date, start_time:e.startTime, end_time:e.endTime, poster_url:e.poster, has_sets:e.has_sets, lineup:e.artists }; }));
+    }
+    // All saved + going: upcoming soonest first, then past newest first.
+    function nhSavedSplit(rows){
+      var today=todayISO(), up=[], past=[];
+      rows.forEach(function(r){
+        var day=String(r.event_date||'').slice(0,10);
+        var e={ id:r.event_id, title:r.event_title||'', venue:r.venue||'', date:day, startTime:r.start_time, endTime:r.end_time, poster:r.poster_url, has_sets:r.has_sets, artists:r.artists||[], genres:[] };
+        (day&&day>=today?up:past).push(e);
+      });
+      up.sort(function(a,b){ return a.date.localeCompare(b.date); });
+      past.sort(function(a,b){ return b.date.localeCompare(a.date); });
+      return { up:up, past:past };
+    }
+    async function nhShelf(){
+      var r=await authedFetch('/api/shelf'); if(!r.ok) throw 0;
+      return (await r.json()).events||[];
+    }
+    window.nhSaved=function(){
+      whenAuthKnown().then(function(){
+        nhPaintJoin();
+        if(!currentUser){ _nh.saved=null; nhPaintSaved(); return; }
+        nhShelf().then(function(rows){ _nh.saved=nhSavedSplit(rows); nhPaintSaved(); }).catch(function(){});
+      });
+    };
+    function nhPaintSaved(){
+      var el=document.getElementById('nh-saved'), s=_nh.saved; if(!el) return;
+      var list=s?s.up.concat(s.past).slice(0,mqMobile()?3:4):[];
+      if(!list.length){ el.innerHTML=''; return; }
+      el.innerHTML='<section class="nh-sec nh-bands"><a class="nh-h" href="#saved" data-nh-go="saved"><h2>Your saved gigs</h2>'+NH_CHEV+'</a><div id="nh-savedc"></div></section>';
+      nhRows(document.getElementById('nh-savedc'), list);
+    }
+    function nhPaintJoin(){
+      var el=document.getElementById('nh-join'), d=_nh.d; if(!el||!d) return;
+      if(currentUser||!_meLoaded){ el.innerHTML=''; return; }
+      if(el.firstChild) return;
+      var faces=d.artists.slice().sort(function(){ return Math.random()-.5; }).slice(0,30);
+      el.innerHTML='<section class="nh-join"><div class="w" aria-hidden="true">'+faces.map(function(a){ return '<i style="background-image:url('+imgUrl(a.image,240)+')"></i>'; }).join('')+'</div><div class="v"></div>'+
+        '<h2>What’s on, who’s playing, and what they sound like.</h2><p>The social diary for gigs.</p>'+
+        '<form class="nh-jf" id="nh-jf" novalidate><input type="email" autocomplete="email" placeholder="Your email" aria-label="Your email"><button class="fp-ab go" type="submit" data-ic="mail"><span>Join soundcheck</span></button></form>'+
+        '<div class="nh-je" id="nh-je" role="alert"></div><div class="nh-js">Get a magic link in your inbox to finish.</div><div class="nh-js">Already on soundcheck? <button type="button" data-nh-signin>Sign in</button></div></section>';
+      document.getElementById('nh-jf').addEventListener('submit',async function(ev){
+        ev.preventDefault();
+        var inp=this.querySelector('input'), err=document.getElementById('nh-je'), go=this.querySelector('button'), email=inp.value.trim().toLowerCase();
+        err.textContent='';
+        if(!EMAIL_RE.test(email)||email.length>254){ sgEmail('invalid', email); err.textContent='Enter a valid email.'; inp.focus(); return; }
+        go.disabled=true;
+        var ok=false; try{ ok=(await fetch(API_BASE+'/api/auth/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email})})).ok; }catch(_){}
+        go.disabled=false;
+        if(!ok){ sgEmail('error', email); err.textContent='Couldn’t send. Try again.'; return; }
+        sgEmail('sent', email); sgTrack('signup_code_view');
+        _pendingEmail=email; setPref('emailGated', true); setPref('pendingEmail', email);
+        showSignupBanner(email); window.scrollTo({top:0,behavior:'smooth'});
+      });
+    }
+    async function nhLoad(force){
+      var city=currentCity;
+      if(!force && _nh.city===city && _nh.d && !_nh.d.error) return;
+      _nh.city=city; _nh.d=null; _nh.art=null; _nh.gig=null;
+      var box=document.getElementById('nh'); if(box) box.innerHTML='<div class="nh-top"><div style="height:476px;border-radius:var(--radius-lg);background:var(--surface)"></div></div>';
+      var d;
+      try{ var r=await fetch(API_BASE+'/api/home?city='+encodeURIComponent(city)); if(!r.ok) throw 0; d=await r.json(); }
+      catch(_){ d={error:1}; }
+      if(_nh.city!==city) return;
+      _nh.d=d; nhPaint(); nhSaved();
+    }
+    async function openSavedGigs(){
+      setRoute('saved'); showPage('<div class="nh-pg"><h1 class="nh-pg-t">Your saved gigs</h1><div id="nh-sv"><span class="spinner"></span></div></div>');
+      await whenAuthKnown();
+      if(!currentUser){ scOnboard('email', null, 'saved_gigs'); return; }
+      var el=document.getElementById('nh-sv'), rows;
+      try{ rows=await nhShelf(); }catch(_){ if(el) el.innerHTML='<p class="nh-empty">Couldn’t load your gigs.</p><button class="more-btn" type="button" data-nh-go="saved">Try again</button>'; return; }
+      el=document.getElementById('nh-sv'); if(!el) return;
+      var s=nhSavedSplit(rows);
+      if(!s.up.length&&!s.past.length){ el.innerHTML='<p class="nh-empty">Nothing saved yet.</p>'; return; }
+      el.innerHTML=(s.up.length?'<div class="nh-lbl">Upcoming</div><div class="nh-bands" id="nh-svu"></div>':'')+(s.past.length?'<div class="nh-lbl">Past</div><div class="nh-bands" id="nh-svp"></div>':'');
+      if(s.up.length) nhRows(document.getElementById('nh-svu'), s.up);
+      if(s.past.length) nhRows(document.getElementById('nh-svp'), s.past);
+    }
+    function nhPaintArtPage(on){
+      var el=document.getElementById('nh-ap'), d=_nh.d; if(!el||!d) return;
+      el.innerHTML=nhChips(d.artists,on,'data-nh-pgen')+'<div class="nh-agrid">'+d.artists.filter(function(a){ return !on||(a.genres||[]).indexOf(on)>=0; }).map(nhArt).join('')+'</div>';
+    }
+    async function openCityArtists(){
+      setRoute('artists'); showPage('<div class="nh-pg"><h1 class="nh-pg-t">Artists playing '+esc(cityMeta().name)+'</h1><div id="nh-ap"><span class="spinner"></span></div></div>');
+      await nhLoad(); nhPaintArtPage('');
+    }
+    document.addEventListener('click',function(e){
+      var t=e.target.closest&&e.target.closest('[data-nh-play],[data-nh-aplay],[data-nh-go],[data-nh-slide],[data-nh-more],[data-nh-agen],[data-nh-ggen],[data-nh-pgen],[data-nh-signin],[data-nh-retry]');
+      if(!t) return;
+      var c=t.dataset;
+      if(c.nhPlay!=null) return nhPlay(c.nhPlay);
+      if(c.nhAplay!=null) return playArtistSets(c.nhAplay, c.name);
+      if(c.nhGo){ e.preventDefault(); return c.nhGo==='gigs'?openGigs():c.nhGo==='saved'?openSavedGigs():openCityArtists(); }
+      if(c.nhSlide){ var tr=document.getElementById('nh-track'); return tr&&tr.scrollBy({left:tr.clientWidth*Number(c.nhSlide),behavior:'smooth'}); }
+      if(c.nhMore!=null){ var ar=document.getElementById('nh-arow'); return ar&&ar.scrollBy({left:ar.clientWidth*.8,behavior:'smooth'}); }
+      if(c.nhAgen!=null){ _nh.art=c.nhAgen||null; return nhPaintArts(); }
+      if(c.nhGgen!=null){ _nh.gig=c.nhGgen||null; return nhPaintGigs(); }
+      if(c.nhPgen!=null) return nhPaintArtPage(c.nhPgen);
+      if(c.nhSignin!=null) return openAuth('home_join');
+      if(c.nhRetry!=null) return nhLoad(true);
+    });
+    try{ window.matchMedia('(max-width:640px)').addEventListener('change',nhPaint); }catch(_){}
     function handleRoute(){
       var hash=currentRoute();
       if(!hash){   // browser-back off a page → home
-        hidePage();
+        hidePage(); gigsShow(false);
         // back / forward onto a /<city>/?date= entry: Home shows what the address says
         var _hd=new URLSearchParams(location.search).get('date'), _hc=pathCitySlug();
         if(/^\d{4}-\d{2}-\d{2}$/.test(_hd||'') && (_hd!==currentDate || mode!=='day' || (_hc && _hc!==currentCity))) showDay(_hc, _hd);
         return;
       }
       if(hash==='account') openAccount();
+      else if(hash==='gigs') openGigs();
+      else if(hash==='saved') openSavedGigs();
+      else if(hash==='artists') openCityArtists();
       else if(hash==='search') openSearch();
       else if(hash==='discover') openDiscover();
       else if(hash==='scenes') openScenes();
@@ -16646,7 +16967,7 @@ a.fst-t:hover{text-decoration:underline}
     function dayHref(city, iso){ return cityPath(city||currentCity)+'?date='+iso; }
     // The city is BROWSED: no saved city, no pin, no `city` event (a cold load of this URL does the same).
     function showDay(city, iso){
-      hidePage();
+      hidePage(); gigsShow(true);
       if(city && city!==currentCity){ currentCity=city; renderCityUI(); }
       load(iso);   // selects the day in the strip (opens ··· or a window on a far date, as the calendar does)
     }
@@ -16697,6 +17018,7 @@ a.fst-t:hover{text-decoration:underline}
       // SEO home intro: keep the city name in step; the baked date links are for the page's
       // original city only, so hide them once the user switches to a different city.
       var hsc=document.querySelectorAll('.hs-city'); for(var _i=0;_i<hsc.length;_i++) hsc[_i].textContent=m.name;
+      if(window.nhSaved && _nh.city && _nh.city!==currentCity) nhLoad();   // Home follows the city
       var more=document.getElementById('home-seo-more'); if(more) more.style.display=(more.dataset.city && more.dataset.city!==currentCity)?'none':'';
     }
     async function loadCities(){
@@ -16941,7 +17263,7 @@ a.fst-t:hover{text-decoration:underline}
       var today=todayISO(), yday=_addDaysISO(today,-1);
       mode='day'; currentDate=date; activePick=pick||(date===today?'tonight':date===yday?'yesterday':'date'); syncChips();
       _retryLoad=function(){ load(date, pick); };
-      setCityTitle(); history.replaceState(null,'',withCityQS('?date='+date));
+      setCityTitle(); history.replaceState(null,'',withCityQS('?date='+date)+nhHash());
       setStatus('<span class="spinner"></span> Loading '+esc(date===yday?'yesterday':fmtDateLabel(date))+'…'); skeletonGrid();
       try{
         // Tonight also asks for yesterday, for the gigs still running. That call never
@@ -16975,7 +17297,7 @@ a.fst-t:hover{text-decoration:underline}
       offset=offset||0; mode='weekend'; activePick=offset?'next':'weekend';
       _retryLoad=function(){ loadWeekend(offset); };
       var wd=weekendDatesFor(offset); currentDate=wd[1]; syncChips();
-      setCityTitle(); history.replaceState(null,'',withCityQS('?weekend='+(offset+1)));
+      setCityTitle(); history.replaceState(null,'',withCityQS('?weekend='+(offset+1))+nhHash());
       setStatus('<span class="spinner"></span> Loading '+(offset?'next':'this')+' weekend…'); skeletonGrid();
       try{
         var res=await Promise.all([fetchDay(wd[0]), fetchDay(wd[1])]);
@@ -16997,7 +17319,7 @@ a.fst-t:hover{text-decoration:underline}
       mode='range'; activePick='date'; currentDate=startISO; currentRange=[startISO,endISO]; syncChips();
       _retryLoad=function(){ loadRange(startISO, endISO); };
       setCityTitle();
-      history.replaceState(null,'',withCityQS('?from='+startISO+'&to='+endISO));
+      history.replaceState(null,'',withCityQS('?from='+startISO+'&to='+endISO)+nhHash());
       setStatus('<span class="spinner"></span> Loading '+span+' days&hellip;'); skeletonGrid();
       try{
         var days=[]; for(var d=new Date(startISO+'T12:00:00'); d<=new Date(endISO+'T12:00:00'); d.setDate(d.getDate()+1)) days.push(isoOf(d));
@@ -17016,7 +17338,7 @@ a.fst-t:hover{text-decoration:underline}
     document.querySelectorAll('.nl[data-nav]').forEach(function(b){ b.addEventListener('click',function(){ var n=b.dataset.nav;
       // Home is the only one that CLOSES rather than opens — same job as the
       // mobile bottom-bar Home: leave any open page, then go to the top.
-      if(n==='home'){ if(document.body.classList.contains('page-on')) goGrid(); window.scrollTo({top:0,behavior:'smooth'}); syncTabs(); }
+      if(n==='home') goHome();
       else if(n==='scenes') openScenes(); else if(n==='listen') openListen(); }); });
     var _hlog=document.getElementById('hdr-log'); if(_hlog) _hlog.addEventListener('click',function(){ openLog(); });
     // filters: the genre / price / near row is collapsed by default; the sliders
@@ -17192,6 +17514,9 @@ a.fst-t:hover{text-decoration:underline}
     var _bootUrl=location.pathname+location.search+location.hash;
     waLinkBoot();
 
+    // Home unless the address asks for the list: #gigs, a day other than today, a weekend, a range.
+    gigsShow(location.hash==='#gigs' || /\/(\d{4}-\d{2}-\d{2}|tonight)\/?$/.test(location.pathname) || (_qfrom&&_qto) || (_qd&&_qd!==todayISO()) || _shareDate || new URLSearchParams(location.search).get('weekend'));
+    nhLoad();
     if(_qfrom && _qto) loadRange(_qfrom,_qto);
     else if(_qd) load(_qd);
     else if(_shareDate) load(_shareDate);

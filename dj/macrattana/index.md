@@ -1,14 +1,15 @@
 # Mac Rattana
 
-Mac Rattana is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar Temp., Bangkok on Sat, 31 Oct 2026.
+Mac Rattana is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar Temp., Bangkok on Sat, 31 Oct 2026.
 
-Mac Rattana is a minimal and house artist based in Thailand, with 25 gigs on soundcheck across Bangkok. Often billed alongside Krit Su, Gishiyama and DJ Krit Morton. Next up: Bar Temp., Bangkok on Sat 31 Oct.
+Mac Rattana is a minimal and house artist based in Thailand, with 26 gigs on soundcheck across Bangkok. Often billed alongside Krit Su, Gishiyama and DJ Krit Morton. Next up: Bar Temp., Bangkok on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Bar Temp. | Bangkok |
+| Sun, 1 Nov 2026 | Culture Cafe | Bangkok |
 
 ## Recently played
 

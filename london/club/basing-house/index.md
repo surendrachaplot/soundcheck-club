@@ -14,7 +14,7 @@ Basing House is a music venue in London listed on soundcheck. 27 upcoming gigs, 
 | Thu, 5 Nov 2026 | YOUR MUM'S HOUSE |  |
 | Sat, 7 Nov 2026 | NON STOP PRESENTS BREATHE | Gavin Wilson, Jon E Cash |
 | Thu, 12 Nov 2026 | YOUR MUM'S HOUSE |  |
-| Fri, 13 Nov 2026 | Homeground featuring Eksman: Shoreditch | Eksman, Nicky Blackmarket |
+| Fri, 13 Nov 2026 | Out of Bounds: Shoreditch | Eksman, Nicky Blackmarket |
 | Sat, 14 Nov 2026 | Sub:Conscious Records x BOTTAZZIO - Deep Tech Minimal House |  |
 | Sun, 15 Nov 2026 | SUBLOW.FM presents War On The Mic - UK Tribal Edition |  |
 | Thu, 19 Nov 2026 | YOUR MUM'S HOUSE |  |

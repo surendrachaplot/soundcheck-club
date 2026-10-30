@@ -1,14 +1,15 @@
 # tim|bre
 
-tim|bre is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 6 Nov 2026.
+tim|bre is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 6 Nov 2026.
 
-tim|bre is a techno and tech house artist based in Germany, with 44 gigs on soundcheck across Stuttgart. Often billed alongside Molekularmusik, Alyne and Line. Next up: Fridas Pier, Stuttgart on Fri 6 Nov.
+tim|bre is a techno and tech house artist based in Germany, with 45 gigs on soundcheck across Stuttgart. Often billed alongside Molekularmusik, Alyne and Line. Next up: Fridas Pier, Stuttgart on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Fridas Pier | Stuttgart |
+| Fri, 20 Nov 2026 | Kowalski | Stuttgart |
 
 ## Recently played
 

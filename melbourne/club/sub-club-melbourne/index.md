@@ -1,14 +1,13 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "allure. x Safari Zone x Impulse Generation presents: morph" on Fri, 30 Oct 2026.
+Sub Club Melbourne is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Refuge & Club Well pres. Elijah Something" on Sat, 31 Oct 2026.
 
-Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Babycino and Baxter and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
+Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Babycino and Baxter and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | allure. x Safari Zone x Impulse Generation presents: morph |  |
 | Sat, 31 Oct 2026 | Refuge & Club Well pres. Elijah Something | A.Well, Amber Ferraro, Elijah Something, Jan Kost |
 | Sat, 31 Oct 2026 | Club Well X Refuge Recordings feat. Elijah Something | A.Well, Amber Ferraro, Elijah Something, Jan Kost |
 | Fri, 6 Nov 2026 | Tokyo Love Hotel with machìna [live] [KR/JP] | Ivan Kyrov, LEXI (2), machìna |

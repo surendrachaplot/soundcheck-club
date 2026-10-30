@@ -1,13 +1,14 @@
 # Years of Denial
 
-Years of Denial is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Dim, Belgrade on Sat, 21 Nov 2026.
+Years of Denial is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at control, Bucharest on Fri, 13 Nov 2026.
 
-Years of Denial is a techno and ebm artist, with 49 gigs on soundcheck across Athens, Barcelona, Beijing and Belgrade and 26 more. Often billed alongside ComaRobot, Curses and Phase Fatale. Next up: Dim, Belgrade on Sat 21 Nov.
+Years of Denial is a techno and ebm artist, with 50 gigs on soundcheck across Athens, Barcelona, Beijing and Belgrade and 26 more. Often billed alongside ComaRobot, Curses and Phase Fatale. Next up: control, Bucharest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | control | Bucharest |
 | Sat, 21 Nov 2026 | Dim | Belgrade |
 
 ## Recently played

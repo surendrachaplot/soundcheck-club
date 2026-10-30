@@ -1,10 +1,10 @@
 # Hours London: Will, sEmoa, Hish at Behind This Wall
 
-Hours London: Will, sEmoa, Hish at Behind This Wall on Fri 13 Nov, London. 3 artists: Desuba, Hish and sEmoa. House and Minimal. See the line-up on soundcheck.
+Hours London: Will, sEmoa, Hish at Behind This Wall on Thu 12 Nov, London. 3 artists: Desuba, Hish and sEmoa. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 13 Nov 2026 |
+| Date | Thu, 12 Nov 2026 |
 | Venue | Behind This Wall |
 | City | London |
 

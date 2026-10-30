@@ -1,14 +1,15 @@
 # Club Daphnia
 
-Club Daphnia is a music venue in Osaka with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "NACIDCREEP×SLŌSINKING" on Sat, 31 Oct 2026.
+Club Daphnia is a music venue in Osaka with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "NACIDCREEP×SLŌSINKING" on Sat, 31 Oct 2026.
 
-Club Daphnia is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with line-ups including APEPA, BeNi, KA4U and KAPI and 2 more. See dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
+Club Daphnia is a music venue in Osaka listed on soundcheck. 8 upcoming gigs, with line-ups including APEPA, BeNi, KA4U and KAPI and 2 more. See dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | NACIDCREEP×SLŌSINKING | TAIHEI, YAMA(JP/OSK), YELLOWUHURU |
+| Sun, 1 Nov 2026 | BAR AMRITA 19th Anniversary |  |
 | Tue, 3 Nov 2026 | Mountain Market 2　Music, Art, Pop-Ups, Live Painting etc | BeNi, KA4U, Limited Toss |
 | Fri, 6 Nov 2026 | Quantize - Deep Autumn Night Techno & House Experience - | Ryoma Sasaki |
 | Fri, 13 Nov 2026 | OCCA × Vís | OCCA, Vís (1) |

@@ -1,6 +1,6 @@
 # Sunset Music Sessions - Halloween at Terraza Dos Equis
 
-Sunset Music Sessions - Halloween at Terraza Dos Equis on Sat 31 Oct, Mexico City. 1 artist: TRIZTAN. See the line-up on soundcheck.
+Sunset Music Sessions - Halloween at Terraza Dos Equis on Sat 31 Oct, Mexico City. 1 artist: TRIZTAN. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

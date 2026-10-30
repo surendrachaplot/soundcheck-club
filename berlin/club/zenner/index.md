@@ -8,7 +8,7 @@ ZENNER is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | LITTLEBIG | Cecilia Tosh, David August, JakoJako, KiNK, Plaid, Randomer, Sarah Sommers, Skee Mask |
+| Sat, 31 Oct 2026 | LITTLEBIG | Cecilia Tosh, David August, JakoJako, KiNK, Mark Hawkins, Plaid, Randomer, Sarah Sommers, Skee Mask |
 | Thu, 5 Nov 2026 | 180 min with Polygonia (live) | Polygonia, ophélie |
 | Fri, 6 Nov 2026 | Analogue Foundation presents GAISTER & Maya Shenfeld | Coby Sey |
 | Fri, 1 Jan 2027 | ЯETURN | Barbara Preisinger, Dorian Paic, Federico Molinari, Ricardo Villalobos, Richard Akingbehin, SOLANA, Volkan Akin |

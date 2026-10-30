@@ -1,8 +1,8 @@
 # Luce Clandestina
 
-Luce Clandestina is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bunker, Turin on Fri, 30 Oct 2026.
+Luce Clandestina is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bunker, Turin on Fri, 30 Oct 2026.
 
-Luce Clandestina is a techno and electro artist based in Italy, with 51 gigs on soundcheck across Barcelona, Basel, Berlin and Bologna and 6 more. Often billed alongside Emiliano Comollo, Seven sins and Voodoos and Taboos. Next up: Bunker, Turin on Fri 30 Oct.
+Luce Clandestina is a techno and electro artist based in Italy, with 52 gigs on soundcheck across Barcelona, Basel, Berlin and Bologna and 6 more. Often billed alongside Emiliano Comollo, Seven sins and Voodoos and Taboos. Next up: Bunker, Turin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luce Clandestina is a techno and electro artist based in Italy, with 51 gigs on 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Bunker | Turin |
 | Sat, 31 Oct 2026 | Circolo Amelia | Milan |
+| Sat, 31 Oct 2026 | ekō | Milan |
 
 ## Recently played
 

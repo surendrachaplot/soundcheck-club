@@ -14,7 +14,7 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 21 upcomin
 | Wed, 4 Nov 2026 | futago: chioske b2b DJ eh, Gigi Rio b2b amita | DJ eh, Gigi Rio, amita |
 | Thu, 5 Nov 2026 | Ardio presents: Ardio + Yurk | Ardio Zemog, Yurk |
 | Fri, 6 Nov 2026 | Bendito + Special Guests TBA | Bendito |
-| Sat, 7 Nov 2026 | Micro Movement #05: Tim Lucent, Joiah, Jean Paul, ABS | ABS (4), Jean Paul, Joiah, Tim Lucent |
+| Sat, 7 Nov 2026 | Micro Movement #05: Tim Lucent, Joiah, Jean Paul, ABS | ABS (4), Jean-Paul, Joiah, Tim Lucent |
 | Sun, 8 Nov 2026 | I <3 HOUSE MUSIK: HelloNiyx, DJ cega, SINA, silkshirt, seangreentea  | Niyx, Sean Green, silkshirt |
 | Wed, 11 Nov 2026 | Pure Space: Headphones Girl, CYCLO BONETTE, Josephine, Forfex | CYCLO BONETTE, Headphones Girl, Josephine |
 | Thu, 12 Nov 2026 | Love Is Free: Iz:ak, Joey Blond, Love Frequency |  |

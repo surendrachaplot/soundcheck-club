@@ -1,8 +1,8 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 22 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Phonotheque Showcase with Christian Bonanata, Oriana, J.C., Ces-Q, Aaliaga" on Fri, 30 Oct 2026.
+Cadavra is a music venue in Madrid with 24 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Phonotheque Showcase with Christian Bonanata, Oriana, J.C., Ces-Q, Aaliaga" on Fri, 30 Oct 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with line-ups including Abdulla A., Anna Wall, Avo (ES) and Bambi (FR) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 24 upcoming gigs, with line-ups including Abdulla A., Anna Wall, Avo (ES) and Bambi (FR) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 

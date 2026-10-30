@@ -1,13 +1,14 @@
 # Crocy
 
-Crocy is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Štuk, Slovenia on Sat, 31 Oct 2026.
+Crocy is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Monokel, Ljubljana on Fri, 30 Oct 2026.
 
-Crocy is a techno and progressive house artist based in Slovenia, with 15 gigs on soundcheck across Amsterdam, Ljubljana, Slovenia and Vienna and 1 more. Often billed alongside Alexisphere, Brlee and MC PPholl. Next up: Štuk, Slovenia on Sat 31 Oct.
+Crocy is a techno and progressive house artist based in Slovenia, with 16 gigs on soundcheck across Amsterdam, Ljubljana, Slovenia and Vienna and 1 more. Often billed alongside Alexisphere, Brlee and MC PPholl. Next up: Club Monokel, Ljubljana on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Club Monokel | Ljubljana |
 | Sat, 31 Oct 2026 | Štuk | Slovenia |
 
 ## Recently played

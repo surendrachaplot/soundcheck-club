@@ -1,8 +1,8 @@
 # hhunter
 
-hhunter is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location, Atlanta on Fri, 30 Oct 2026.
+hhunter is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location, Atlanta on Fri, 30 Oct 2026.
 
-hhunter is a techno and house artist based in United States of America, with 80 gigs on soundcheck across Atlanta, Austin, Chicago and Dallas Fort Worth and 10 more. Often billed alongside Elarm, Kula and Flores Negras. Next up: TBA - Secret Location, Atlanta on Fri 30 Oct.
+hhunter is a techno and house artist based in United States of America, with 81 gigs on soundcheck across Atlanta, Austin, Chicago and Dallas Fort Worth and 10 more. Often billed alongside Elarm, Kula and Flores Negras. Next up: TBA - Secret Location, Atlanta on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ hhunter is a techno and house artist based in United States of America, with 80 
 | Fri, 30 Oct 2026 | Concord Music Hall | Chicago |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
+| Fri, 5 Mar 2027 | Radius | Chicago |
 
 ## Recently played
 

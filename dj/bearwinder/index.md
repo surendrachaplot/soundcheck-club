@@ -1,13 +1,14 @@
 # Bear Winder
 
-Bear Winder is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ninety One, London on Sat, 7 Nov 2026.
+Bear Winder is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Select FM London, Los Angeles on Fri, 6 Nov 2026.
 
-Bear Winder is a house and garage artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Edinburgh, London and Manchester and 1 more. Often billed alongside Zak Miller, Jeremy Sylvester and Tiffany Quinn. Next up: Ninety One, London on Sat 7 Nov.
+Bear Winder is a house and garage artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Edinburgh, London and Los Angeles and 2 more. Often billed alongside Zak Miller, Jeremy Sylvester and Tiffany Quinn. Next up: TBA - Select FM London, Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | TBA - Select FM London | Los Angeles |
 | Sat, 7 Nov 2026 | Ninety One | London |
 | Sat, 24 Apr 2027 | Crowdedhouse | London |
 

@@ -2,7 +2,7 @@
 
 Samira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 6 Nov 2026.
 
-Samira is a house and techno artist, with 12 gigs on soundcheck across Amsterdam, Berlin, London and Montreal and 3 more. Often billed alongside David Elimelech, Partok and Roi Perez. Next up: Time is the new space, Rotterdam on Fri 6 Nov.
+Samira is a house and techno artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Berlin, London and Montreal and 3 more. Often billed alongside David Elimelech, Partok and Roi Perez. Next up: Time is the new space, Rotterdam on Fri 6 Nov.
 
 ## Upcoming shows
 

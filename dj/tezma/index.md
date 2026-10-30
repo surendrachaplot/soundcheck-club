@@ -1,8 +1,8 @@
 # TEZMA
 
-TEZMA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
+TEZMA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
 
-TEZMA is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Filialleiter, DTEXX and SIKXTO. Next up: DNA. CLUB, Berlin on Sat 31 Oct.
+TEZMA is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Filialleiter, DTEXX and SIKXTO. Next up: DNA. CLUB, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TEZMA is a techno and trance artist based in Germany, with 10 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | DNA. CLUB | Berlin |
 | Sat, 21 Nov 2026 | OST | Berlin |
+| Fri, 4 Dec 2026 | OXI | Berlin |
 
 ## Recently played
 

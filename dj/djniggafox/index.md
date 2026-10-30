@@ -1,14 +1,15 @@
 # DJ Nigga Fox
 
-DJ Nigga Fox is a Kuduro and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jumbi, London on Sat, 31 Oct 2026.
+DJ Nigga Fox is a Kuduro and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jumbi, London on Sat, 31 Oct 2026.
 
-DJ Nigga Fox is a kuduro and club artist based in Portugal, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 28 more. Often billed alongside Dj Danifox, DJ Firmeza and DJ Marfox. Next up: Jumbi, London on Sat 31 Oct.
+DJ Nigga Fox is a kuduro and club artist based in Portugal, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 29 more. Often billed alongside Dj Danifox, DJ Firmeza and DJ Marfox. Next up: Jumbi, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Jumbi | London |
+| Thu, 12 Nov 2026 | control | Bucharest |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

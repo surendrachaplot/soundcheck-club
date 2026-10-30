@@ -1,8 +1,8 @@
 # kakepon
 
-kakepon is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Triangle, Osaka on Sat, 31 Oct 2026.
+kakepon is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Triangle, Osaka on Sat, 31 Oct 2026.
 
-kakepon is a drum & bass and bass artist based in Japan, with 82 gigs on soundcheck across Osaka. Often billed alongside TERU, matres and yu-more. Next up: Triangle, Osaka on Sat 31 Oct.
+kakepon is a drum & bass and bass artist based in Japan, with 83 gigs on soundcheck across Osaka. Often billed alongside TERU, matres and yu-more. Next up: Triangle, Osaka on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ kakepon is a drum & bass and bass artist based in Japan, with 82 gigs on soundch
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Triangle | Osaka |
 | Wed, 11 Nov 2026 | Triangle | Osaka |
+| Fri, 20 Nov 2026 | Triangle | Osaka |
 
 ## Recently played
 

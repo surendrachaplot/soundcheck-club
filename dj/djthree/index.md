@@ -1,14 +1,15 @@
 # DJ Three
 
-DJ Three is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
+DJ Three is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
 
-DJ Three is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Atlanta, Austin, Detroit and Houston and 7 more. Often billed alongside Öona Dahl, Brian Busto and Grumptronix. Next up: Industry City, New York City on Sat 31 Oct.
+DJ Three is a house and techno artist based in United States of America, with 47 gigs on soundcheck across Atlanta, Austin, Detroit and Houston and 7 more. Often billed alongside Öona Dahl, Brian Busto and Grumptronix. Next up: Industry City, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Industry City | New York City |
+| Sat, 14 Nov 2026 | 404.EXE | Atlanta |
 
 ## Recently played
 

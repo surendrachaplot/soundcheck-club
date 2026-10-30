@@ -1,8 +1,8 @@
 # Frida Darko
 
-Frida Darko is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
+Frida Darko is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
 
-Frida Darko is a techno and house artist, with 102 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 20 more. Often billed alongside Oliver Koletzki, Urem and FLAVE. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
+Frida Darko is a techno and house artist, with 103 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 20 more. Often billed alongside Oliver Koletzki, Urem and FLAVE. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Frida Darko is a techno and house artist, with 102 gigs on soundcheck across Ams
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |
 | Fri, 13 Nov 2026 | Kater | Berlin |
 | Sat, 14 Nov 2026 | fi | Cologne |
+| Fri, 20 Nov 2026 | Kowalski | Stuttgart |
 | Sat, 19 Dec 2026 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played

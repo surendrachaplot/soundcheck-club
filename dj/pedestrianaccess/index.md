@@ -1,0 +1,28 @@
+# Pedestrian Access
+
+Pedestrian Access is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Honey's, New York City on Sat, 5 Dec 2026.
+
+Pedestrian Access is a house and techno artist based in United States of America, with 17 gigs on soundcheck across New York City, Seattle and Washington DC. Often billed alongside dj goodboy (BK), Freddy M and Cy Hanson. Next up: Honey's, New York City on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | Honey's | New York City |
+
+## Recently played
+
+- Jupiter Disco, New York City · Wed, 7 Oct 2026
+- Jupiter Disco, New York City · Fri, 25 Sept 2026
+- Flash, Washington DC · Fri, 18 Sept 2026
+- TBA - Private Campground, Seattle · Fri, 21 Aug 2026
+- Honey's, New York City · Sun, 31 May 2026
+- Honey's, New York City · Sat, 30 May 2026
+- Green Room NYC, New York City · Fri, 8 May 2026
+- Honey's, New York City · Fri, 24 Apr 2026
+
+## Shares bills with
+
+dj goodboy (BK), Freddy M, Cy Hanson
+
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedestrianaccess/)*

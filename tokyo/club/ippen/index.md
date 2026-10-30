@@ -1,14 +1,13 @@
 # Ippen
 
-Ippen is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SYMPOSIUM" on Sat, 24 Oct 2026.
+Ippen is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Vibe Sessions" on Wed, 4 Nov 2026.
 
-Ippen is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Itou and YOSHIROTTEN. See dates, start times and who's playing.
+Ippen is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including HARUNA, SAVSSOUNDS and Stupid Kozo. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | SYMPOSIUM | Itou, YOSHIROTTEN |
-| Sat, 24 Oct 2026 | SYMPOSIUM | YOSHIROTTEN |
+| Wed, 4 Nov 2026 | Vibe Sessions | HARUNA (2), SAVSSOUNDS, Stupid Kozo |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ippen/)*
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ippen/)*

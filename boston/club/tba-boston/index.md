@@ -9,6 +9,6 @@ TBA - Boston is a music venue in Boston listed on soundcheck. 2 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | EXPERIENCE HALLOWEEN NIGHT 1 w/ Briela Veneno  | Briela Veneno, Crossbow |
-| Sat, 31 Oct 2026 | 80 % SOLD OUT EXPERIENCE HALLOWEEN W/ Sol Ortega  | Sol Ortega, Steph Angel, The Consciousness |
+| Sat, 31 Oct 2026 | 90 % SOLD OUT EXPERIENCE HALLOWEEN W/ Sol Ortega  | Sol Ortega, Steph Angel, The Consciousness |
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-boston/)*

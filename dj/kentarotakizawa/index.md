@@ -1,14 +1,15 @@
 # Kentaro Takizawa
 
-Kentaro Takizawa is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 22 Nov 2026.
+Kentaro Takizawa is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 22 Nov 2026.
 
-Kentaro Takizawa is a house and club artist based in Japan, with 85 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KENTARO, Yamariki and RYOHEI. Next up: BRAND SHIBUYA, Tokyo on Sun 22 Nov.
+Kentaro Takizawa is a house and club artist based in Japan, with 86 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KENTARO, Yamariki and RYOHEI. Next up: BRAND SHIBUYA, Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | BRAND SHIBUYA | Tokyo |
+| Sun, 22 Nov 2026 | Numm | Tokyo |
 
 ## Recently played
 

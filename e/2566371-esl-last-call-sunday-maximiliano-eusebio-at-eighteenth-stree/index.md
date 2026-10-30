@@ -1,10 +1,10 @@
 # ESL: Last Call Sunday.. Maximiliano & Eusebio at Eighteenth Street Lounge (ESL)
 
-ESL: Last Call Sunday.. Maximiliano & Eusebio at Eighteenth Street Lounge (ESL) on Sun 1 Nov, Washington DC. 2 artists: Eusebio and MAXIMILIANO (US). House and Deep House. See the line-up on soundcheck.
+ESL: Last Call Sunday.. Maximiliano & Eusebio at Eighteenth Street Lounge (ESL) on Sun 8 Nov, Washington DC. 2 artists: Eusebio and MAXIMILIANO (US). House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 1 Nov 2026 |
+| Date | Sun, 8 Nov 2026 |
 | Venue | Eighteenth Street Lounge (ESL) |
 | City | Washington DC |
 
