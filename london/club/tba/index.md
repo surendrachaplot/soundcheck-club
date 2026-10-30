@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 326 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HALLOWEEN RAVE FESTIVAL" on Thu, 29 Oct 2026.
+TBA is a music venue in London with 327 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HALLOWEEN RAVE FESTIVAL" on Thu, 29 Oct 2026.
 
-TBA is a music venue in London listed on soundcheck. 326 upcoming gigs, with line-ups including 2flowers, 2HZY, 8h sleep and 96 Back and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 327 upcoming gigs, with line-ups including 2flowers, 2HZY, 8h sleep and 96 Back and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

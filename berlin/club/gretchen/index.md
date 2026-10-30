@@ -1,8 +1,8 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "15 Years Gretchen: BOTTICELLI BABY *live" on Fri, 30 Oct 2026.
+Gretchen is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "15 Years Gretchen: BOTTICELLI BABY *live" on Fri, 30 Oct 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including alllone, anna andersrum, Ant TC1 and Bel Cobain and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including alllone, anna andersrum, Ant TC1 and Bel Cobain and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 

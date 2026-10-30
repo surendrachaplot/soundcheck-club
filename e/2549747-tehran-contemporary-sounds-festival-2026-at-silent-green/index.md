@@ -1,6 +1,6 @@
 # Tehran Contemporary Sounds Festival 2026 at Silent Green
 
-Tehran Contemporary Sounds Festival 2026 at Silent Green on Fri 13 Nov, Berlin. 8 artists: Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS and Gnäw and 4 more. Experimental and Noise. See the line-up on soundcheck.
+Tehran Contemporary Sounds Festival 2026 at Silent Green on Fri 13 Nov, Berlin. 9 artists: Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS and Gnäw and 5 more. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Tehran Contemporary Sounds Festival 2026 at Silent Green on Fri 13 Nov, Berlin. 
 - Babak Ahteshamipour
 - CONTAGIOUS
 - Gnäw
+- Herr Spectre
 - LABOUR
 - Shiva Feshareki
 - Tarxun

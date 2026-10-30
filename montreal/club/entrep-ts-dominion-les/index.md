@@ -8,7 +8,7 @@ Entrepôts Dominion, Les is a music venue in Montreal listed on soundcheck. 3 up
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Noreiner - Halloween 26 | Gaston Fiore, Inside Blur, JOKESONYOU, TheMuffinMan |
+| Fri, 30 Oct 2026 | Noreiner - Halloween 26 | Gaston Fiore, Inside Blur, JOKESONYOU, The Muffin Man |
 | Sat, 31 Oct 2026 | HALLOWEEN BLOOD RAVE [MONTREAL] | ARMIX, ArioVistus, DEROZ, DJ RURU, ESPRIT LIBRE, HEU (CA), Morse X Code, Sarah Kay, Stone Van Brooken |
 | Fri, 6 Nov 2026 | OUTRAGE 2.0 - REBELLION | 333CXT, 7AZ (1), FennX |
 

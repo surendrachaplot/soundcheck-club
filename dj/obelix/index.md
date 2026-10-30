@@ -1,14 +1,15 @@
 # Obelix
 
-Obelix is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Giri, Berlin on Sat, 31 Oct 2026.
+Obelix is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Giri, Berlin on Sat, 31 Oct 2026.
 
-Obelix is a house and techno artist based in Australia, with 13 gigs on soundcheck across Berlin, Bucharest, London and Manchester. Often billed alongside DJ Life, Camilla Rae and DJ CHICHI. Next up: Giri, Berlin on Sat 31 Oct.
+Obelix is a house and tech house artist based in Australia, with 14 gigs on soundcheck across Berlin, Bucharest, London and Manchester. Often billed alongside DJ Life, Camilla Rae and DJ CHICHI. Next up: Giri, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Giri | Berlin |
+| Fri, 20 Nov 2026 | TBA | Berlin |
 
 ## Recently played
 

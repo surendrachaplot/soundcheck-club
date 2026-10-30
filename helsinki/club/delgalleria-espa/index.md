@@ -10,7 +10,7 @@ Delgalleria - Espa is a music venue in Helsinki listed on soundcheck. 3 upcoming
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | SUNDAY SERVICE — THE RESURRECTION — | Jaago, P o B, Tobin Delroy |
 | Sat, 14 Nov 2026 | JBY pres. KOLONY: Klint | Klint, Kosh, ViTo, Vicente, Zacharias Tiempo |
-| Sat, 28 Nov 2026 | CLUSTER 002 | Beth Alana |
+| Sat, 28 Nov 2026 | CLUSTER 002 | Beth Alana, MEGAFORCE |
 
 ## Address
 

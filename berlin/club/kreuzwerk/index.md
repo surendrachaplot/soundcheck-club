@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hoe__mies: Dolloween" on Sat, 31 Oct 2026.
+KREUZWERK is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hoe__mies: Dolloween [Limited Tickets Available at Door]" on Sat, 31 Oct 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including 131bpm, ābnamā, ADAM MUNNINGS and Amanda Mussi and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -8,7 +8,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Hoe__mies: Dolloween | ARMANA KHAN, Bad Puppy, Meg10, Saint Nia, Shadysnack, Vera Moro, XD Erica |
+| Sat, 31 Oct 2026 | Hoe__mies: Dolloween [Limited Tickets Available at Door] | ARMANA KHAN, Bad Puppy, Meg10, Saint Nia, Shadysnack, Vera Moro, XD Erica |
 | Fri, 6 Nov 2026 | Body Language - 5th Anniversary | 131bpm, Camilla Rae, Christian Tokyo, Manolo. (DE), Miss Parker, Stella Zekri, ābnamā |
 | Fri, 13 Nov 2026 | PULS x TILT | Dj Norma, ENNIO, Greta Spark, HAMY, KUSS, KVLR, Karina Schneider, N.R.M, Oblique, SHE/HER, Ø [Phase] |
 | Sat, 14 Nov 2026 | tracey [season closing] | ADAM MUNNINGS, Amowia, Angel D'lite, Bella Sarris, Costanza, DJ Petite, Goldie, Handmade, Immy, Jonathan Apelbaum, Kontronatura, Marie Malarie, Mohajer, Nancy Nutter, Rachel Noon, Rafush, Trigger T, ketia, source:link, x3butterfly |

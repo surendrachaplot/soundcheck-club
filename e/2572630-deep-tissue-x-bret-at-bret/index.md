@@ -1,6 +1,6 @@
 # DEEP TISSUE X BRET at BRET
 
-DEEP TISSUE X BRET on Sun 20 Dec, Amsterdam. 6 artists: Edson César, FAVELOUS, Joëlla Jackson and Lissy Lübeck and 2 more. Tech House. See the line-up on soundcheck.
+DEEP TISSUE X BRET on Sun 20 Dec, Amsterdam. 7 artists: Chico Rose, Edson César, FAVELOUS and Joëlla Jackson and 3 more. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DEEP TISSUE X BRET on Sun 20 Dec, Amsterdam. 6 artists: Edson César, FAVELOUS, 
 
 ## Line-up
 
+- Chico Rose
 - Edson César
 - FAVELOUS
 - Joëlla Jackson

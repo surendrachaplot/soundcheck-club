@@ -1,6 +1,6 @@
 # JAZZY SPORT PAST FORWARD RELEASE PARTY at Club Cheek
 
-JAZZY SPORT PAST FORWARD RELEASE PARTY at Club Cheek on Sun 1 Nov, London. 4 artists: IG Culture, Kay Suzuki, Neue Grafik and Nina Yamada. Broken Beat and Jazz. See the line-up on soundcheck.
+JAZZY SPORT PAST FORWARD RELEASE PARTY at Club Cheek on Sun 1 Nov, London. 4 artists: IG Culture, Kay Suzuki, Neue Grafik and Nina Yamada. Jazz and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

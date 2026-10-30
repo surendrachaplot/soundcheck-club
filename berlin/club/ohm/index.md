@@ -1,8 +1,8 @@
 # OHM
 
-OHM is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Pain Management: Babe Roots (live), Toma Kami, Hermeneia, aeriform" on Fri, 30 Oct 2026.
+OHM is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Pain Management: Babe Roots (live), Toma Kami, Hermeneia, aeriform" on Fri, 30 Oct 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including aeriform, AliA, Amaliah and Ario and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including aeriform, AliA, Amaliah and Appleblim and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 

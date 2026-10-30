@@ -1,8 +1,8 @@
 # OST
 
-OST is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "5 Years of Gabber Industries Berlin" on Fri, 30 Oct 2026.
+OST is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "5 Years of Gabber Industries Berlin" on Fri, 30 Oct 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ALP (DE) and ALT8 and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ALP (DE) and ALT8 and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 

@@ -9,7 +9,7 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | PiepShow - OctoberPiep | Alessia Cattani, Chiara Fucci, Chris Fuego, DJ PayPaul, Daryl Johnson, David Strasser, FLEXTASY, Juan Del Chambo, KEN (DE), Maleska |
-| Sat, 31 Oct 2026 | Disco Bizarre: Poking Fun at Halloween | Ben Gomori, Bizarre Billy, Daniel Knutz, Marvel83' |
+| Sat, 31 Oct 2026 | Disco Bizarre: Poking Fun at Halloween | Ben Gomori, Bizarre Billy, Marvel83', Queen E |
 | Sun, 1 Nov 2026 | Nachspiel | GALAGO (BE), Jaxter |
 | Mon, 2 Nov 2026 | Electric Monday@Kitkat | André Lodemann, Frankie Flowerz, Milk N Coffee, Ricardo Rodriguez |
 | Wed, 4 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | CHVZ.722, DJ Jordan, Kalimanda, Sin:port |

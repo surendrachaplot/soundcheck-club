@@ -1,6 +1,6 @@
 # Food Fetish - WIRED: A Sensory Dining Experience at Algha's Plantroom
 
-Food Fetish - WIRED: A Sensory Dining Experience at Algha's Plantroom on Sat 21 Nov, London. 1 artist: HEZEN. See the line-up on soundcheck.
+Food Fetish - WIRED: A Sensory Dining Experience at Algha's Plantroom on Sat 21 Nov, London. 1 artist: HEZEN. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

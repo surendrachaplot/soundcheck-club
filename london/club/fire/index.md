@@ -1,8 +1,8 @@
 # Fire
 
-Fire is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Madmen Freakshow - Halloween Special with Allison Nunes" on Fri, 30 Oct 2026.
+Fire is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Madmen Freakshow - Halloween Special with Allison Nunes" on Fri, 30 Oct 2026.
 
-Fire is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Bradley Skeng, Bryan Gee, Dillinja and Dimanté and 2 more. See dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
+Fire is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Bradley Skeng, Bryan Gee, Dillinja and Dimanté and 2 more. See dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
 
 ## What's on
 
@@ -16,7 +16,8 @@ Fire is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 | Sun, 8 Nov 2026 | Beyond After Hours - Special Guest Fat Tony - XXL Afterparty | Fattony |
 | Fri, 13 Nov 2026 | KINYXX LONDON - Fetish Edition (Opening Party) | Bradley Skeng |
 | Sat, 14 Nov 2026 | Fuego |  |
-| Thu, 31 Dec 2026 | Forever London NYE | Bryan Gee, DJ Hype, DJ Phantasy, DJ Rap, Dillinja, Eksman, Five Alive, Flux, Funsta, Harry Shotta, IC3, Kenny Ken, Logan D, Macky Gee, Majistrate, Navigator, Nicky Blackmarket, Original Sin, Sub Zero, TC |
+| Sun, 15 Nov 2026 | Beyond After Hours |  |
+| Sat, 21 Nov 2026 | Beyond Editions: DJ Aron | Fabio Luigi, Jon Byrne |
 
 ## Address
 

@@ -9,7 +9,7 @@ BABY01 is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | RAUSCHHAUS #2 - Spooky Edition | FLOSS |
-| Sat, 7 Nov 2026 | klarobsqr presents: EMBER | AINA.KRU, DMZ (DE), Lambertø, NOHAR, Toscan Haas, ĀTMĀN |
+| Sat, 7 Nov 2026 | klarobsqr presents: EMBER | AINA.KRU, DMZ (DE), Lambertø, Matt Röder, NOHAR, Toscan Haas, ĀTMĀN |
 | Fri, 13 Nov 2026 | 跑趴 pǎo pā: Taiwan Klubnacht | ( ether o ), Bézier, Dungi Sapor, elliephunk |
 | Sat, 5 Dec 2026 | MACHINE LEARNING x FFS w/ Hermeth, Phasmid    | Acidic Juice, DATA RYDER, De:Vir, Hermeth, Linnea Mae, Milan Hermess, N ska, OatMilk, Phasmid, anna andersrum |
 

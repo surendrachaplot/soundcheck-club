@@ -1,14 +1,15 @@
 # Zohr
 
-Zohr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Brixton Radio, London on Fri, 30 Oct 2026.
+Zohr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brixton Radio, London on Fri, 30 Oct 2026.
 
-Zohr is a house and techno artist, with 9 gigs on soundcheck across London. Often billed alongside DJ Harmee, Houdinyx and SURJAL. Next up: Brixton Radio, London on Fri 30 Oct.
+Zohr is a house and techno artist, with 10 gigs on soundcheck across London. Often billed alongside DJ Harmee, Houdinyx and SURJAL. Next up: Brixton Radio, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Brixton Radio | London |
+| Sat, 28 Nov 2026 | Cache Cache | London |
 
 ## Recently played
 

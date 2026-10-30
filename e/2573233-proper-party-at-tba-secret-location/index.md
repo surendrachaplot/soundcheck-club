@@ -1,6 +1,6 @@
 # PROPER PARTY at TBA - Secret Location
 
-PROPER PARTY at TBA - Secret Location on Fri 20 Nov, Berlin. 4 artists: Alexia, Candy Pollard, Chaker and SimoneakaEnea. See the line-up on soundcheck.
+PROPER PARTY at TBA - Secret Location on Fri 20 Nov, Berlin. 4 artists: Alexia, Candy Pollard, Chaker and SimoneakaEnea. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

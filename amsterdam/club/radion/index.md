@@ -1,8 +1,8 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "RADION Invites: Fever Dream x Patchwork Family" on Fri, 30 Oct 2026.
+RADION is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "RADION Invites: Fever Dream x Patchwork Family" on Fri, 30 Oct 2026.
 
-RADION is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Beau Didier, BIANKA, Blasha & Allatt and Bongoat and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
+RADION is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Beau Didier, BIANKA, Blasha & Allatt and Bongoat and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
 ## What's on
 
@@ -17,6 +17,7 @@ RADION is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with
 | Fri, 27 Nov 2026 | Labyrinth Weekend | BIANKA, Dasha Rush, I-RO, Jephta, Luke Slater, Maria Cue, Nørbak, Parrish Smith, Phase Fatale, SAMA (NL), Serti, Talismann, Valody |
 | Fri, 4 Dec 2026 | De Reünie |  |
 | Sat, 12 Dec 2026 | Vault Sessions X BASSIANI WKNDR | Blasha & Allatt, DJ MARIA., DVS1, Fadi Mohem, HVL, Kancheli, Lea Occhi, Lobster (NL), Ndrx, Newa, Ogazón, Phil Berg, VSC (Vault Sessions Collective) |
+| Thu, 31 Dec 2026 | DJ Bone presents: FURTHER NYE 2026 | DJ Bone |
 
 ## Address
 

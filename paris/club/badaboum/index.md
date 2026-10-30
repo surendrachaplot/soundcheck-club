@@ -10,7 +10,7 @@ Badaboum is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Club — Silva Bumpa, Scolcab, Unsho, NOON | Halfpipe Records, NOON, Silva Bumpa, Unsho |
 | Fri, 30 Oct 2026 | Loukeman | Loukeman |
-| Sat, 31 Oct 2026 | Halloween Party — Curses, Joe Lewandowski, Le Saint, RAG | Curses, Joe Lewandowski, Le Saint, RAG |
+| Sat, 31 Oct 2026 | Halloween Party — Curses, Joe Lewandowski, Le Saint, RAG, Muchas Problemas | Curses, Joe Lewandowski, Le Saint, Muchas Problemas, RAG |
 | Thu, 5 Nov 2026 | Club — DH2: Pitchfork Music Festival Paris 2026 | George Daniel, Nikki Nair, Oscar Farrell, VITAMINE C |
 | Fri, 6 Nov 2026 | Club — Magma: dj sweet6teen, Domi, Allegory | Domi (FR), UMBRA, bonpublic, dj sweet6teen |
 | Sat, 7 Nov 2026 | Club — DJ Physical Residency: Pangaea, Servye | DJ Physical, Pangaea |

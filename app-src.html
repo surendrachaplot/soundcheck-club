@@ -3651,9 +3651,11 @@ a.dst-full-t:hover{text-decoration:underline}
     .cue-p em.hot{ color:#FF5E7E; }
     .lu-cf{ display:inline-flex; flex:none; margin-left:6px; }
     .lu-cf i{ width:24px; height:24px; }
-    .dst-full-arts{ margin:10px 0 0; font:400 15px/22px var(--body); color:var(--fg); }
-    .dst-full-arts span{ font:700 11px/14px var(--body); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin-right:4px; }
-    .dst-full-arts a{ color:inherit; font-weight:700; text-decoration:none; }
+    .dst-full-arts{ margin:12px 0 0; }
+    .dst-full-arts > span{ display:block; font:700 11px/14px var(--body); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin-bottom:10px; }
+    .dst-carts{ display:flex; flex-wrap:wrap; column-gap:16px; row-gap:10px; }
+    .dst-carts a, .dst-carts b{ display:inline-flex; align-items:center; gap:8px; min-height:28px; font:700 15px/20px var(--body); color:var(--fg); text-decoration:none; }
+    .dst-carts i{ width:28px; height:28px; flex:none; border-radius:999px; background-size:cover; background-position:center; background-color:var(--surface-3); }
     .pf-up-dh{ font:700 12px/16px var(--body); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin:18px 0 8px; }
     .pf-up-dh:first-child{ margin-top:4px; }
     /* Hero buttons in ONE row on every page (Paper NEXT 30 Oct, option A; artist, gig, venue, promoter):
@@ -5322,7 +5324,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793361646371">
+<meta name="sc-build" content="1793363128734">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -10750,9 +10752,12 @@ a.dst-full-t:hover{text-decoration:underline}
         // the WHOLE note, under the card (the card picture does not carry it)
         (String(d.note||'').trim()?'<p class="dst-full-note">'+esc(String(d.note).trim())+'</p>':'')+
         // the artists you caught, each one a way back to that artist (founder 29 Oct: "check out the artists again")
-        ((d.artists||[]).length?'<p class="dst-full-arts"><span>Caught</span> '+(d.artists||[]).map(function(x){
-          return x.slug?'<a class="nav" href="'+esc(djHref(x.slug))+'" data-artist="'+attrEsc(x.slug)+'">'+esc(x.name||x.slug)+'</a>':esc(x.name||'');
-        }).filter(Boolean).join(' &middot; ')+'</p>':'')+
+        // a small round photo before each name (founder 30 Oct: "so the name feels even more tappable")
+        ((d.artists||[]).length?'<div class="dst-full-arts"><span>Caught</span><div class="dst-carts">'+(d.artists||[]).map(function(x){
+          if(!x.slug) return x.name?'<b>'+esc(x.name)+'</b>':'';
+          var bg=x.image?'url('+imgUrl(x.image,120)+')':avatarBg(x.slug,null);
+          return '<a class="nav" href="'+esc(djHref(x.slug))+'" data-artist="'+attrEsc(x.slug)+'"><i style="background-image:'+attrEsc(bg)+'"></i>'+esc(x.name||x.slug)+'</a>';
+        }).filter(Boolean).join('')+'</div></div>':'')+
         // the clip row, or on your own stub with no clip the "Add a clip" pill (clipSetRow swaps them)
         // Share stub + Add a clip in one row, as on iOS and Android; the clip / progress row sits above them (CSS order)
         '<div class="rc-actions dst-full-acts"><button class="pf-btn primary" id="dst-share" data-ic="share" type="button">Share stub</button>'+

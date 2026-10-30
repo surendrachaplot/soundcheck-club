@@ -1,8 +1,8 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 20 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "shortlist sound system: chantz, Donut, Kojay & P Lucas, Shai-lo" on Fri, 30 Oct 2026.
+The Carpet Shop is a music venue in London with 21 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "shortlist sound system: chantz, Donut, Kojay & P Lucas, Shai-lo" on Fri, 30 Oct 2026.
 
-The Carpet Shop is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including 909 Hotline, Alexander Nut, AliA and Braga Circuit and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
+The Carpet Shop is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including 909 Hotline, Alexander Nut, AliA and Braga Circuit and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
 ## What's on
 

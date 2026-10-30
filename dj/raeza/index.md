@@ -1,13 +1,14 @@
 # RÆZA
 
-RÆZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at AMT, Berlin on Sat, 21 Nov 2026.
+RÆZA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 30 Oct 2026.
 
-RÆZA is a techno and house artist based in France, with 73 gigs on soundcheck across Amsterdam, Berlin, Dresden and Hamburg and 9 more. Often billed alongside Rachel Noon, Lea Occhi and BASHKKA. Next up: AMT, Berlin on Sat 21 Nov.
+RÆZA is a techno and house artist based in France, with 74 gigs on soundcheck across Amsterdam, Berlin, Dresden and Hamburg and 9 more. Often billed alongside Lea Occhi, Rachel Noon and BASHKKA. Next up: La Station - Gare des Mines, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 21 Nov 2026 | AMT | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ RÆZA is a techno and house artist based in France, with 73 gigs on soundcheck a
 
 ## Shares bills with
 
-Rachel Noon, Lea Occhi, BASHKKA
+Lea Occhi, Rachel Noon, BASHKKA
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raeza/)*

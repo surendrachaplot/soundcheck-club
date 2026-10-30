@@ -12,7 +12,7 @@ Silent Green is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, 
 | Mon, 9 Nov 2026 | Ana  + Clarice  | Ana Roxanne |
 | Wed, 11 Nov 2026 | Sintonia 2026 Attunement II | Cinna Peyghamy |
 | Fri, 13 Nov 2026 | Yasuaki Shimizu + Merma Suelo  |  |
-| Fri, 13 Nov 2026 | Tehran Contemporary Sounds Festival 2026 | Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS, Gnäw, LABOUR, Shiva Feshareki, Tarxun, Tehran |
+| Fri, 13 Nov 2026 | Tehran Contemporary Sounds Festival 2026 | Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS, Gnäw, Herr Spectre, LABOUR, Shiva Feshareki, Tarxun, Tehran |
 | Sat, 14 Nov 2026 | Maria BC + Eli Wewentxu & Indrė Jurgelevičiūtė | Eli Wewentxu |
 | Wed, 18 Nov 2026 | Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein |  |
 | Tue, 24 Nov 2026 | Angel Bat Dawid |  |

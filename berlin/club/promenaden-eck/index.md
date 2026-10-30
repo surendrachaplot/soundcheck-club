@@ -10,7 +10,7 @@ Promenaden Eck is a music venue in Berlin listed on soundcheck. 4 upcoming gigs,
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Sore Thumbs Halloween Party |  |
 | Fri, 6 Nov 2026 | Inherently Serene #9 | Clarence Wu, Mischa (2), Rafa Paella |
-| Thu, 12 Nov 2026 | FLUX by PF: Afterwork | Caldii, Cheap Coffee, Chez Bailey, Dr. Sud, VO227, __iwana__, doctor doms |
+| Thu, 12 Nov 2026 | FLUX by PF: Afterwork | Caldii, Cheap Coffee, Chez Bailey, VO227, __iwana__, doctor doms |
 | Sat, 19 Dec 2026 | Inherently Serene #10 | Alexander Paulski, Rafa Paella |
 
 ## Address

@@ -1,0 +1,28 @@
+# Nail on the Hat
+
+Nail on the Hat is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bredouille, Berlin on Fri, 6 Nov 2026.
+
+Nail on the Hat is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside jojogigirl, Nanno and get no. Next up: Bredouille, Berlin on Fri 6 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 6 Nov 2026 | Bredouille | Berlin |
+
+## Recently played
+
+- frachtkante, Berlin · Sat, 17 Oct 2026
+- Humboldthain Club, Berlin · Sat, 8 Aug 2026
+- Humboldthain Club, Berlin · Fri, 10 Jul 2026
+- Festsaal Kreuzberg, Berlin · Fri, 5 Sept 2025
+- OST, Berlin · Fri, 8 Aug 2025
+- Modus Berlin, Berlin · Fri, 8 Aug 2025
+- Lokschuppen Berlin, Berlin · Sat, 19 Apr 2025
+- Bulbul Berlin, Berlin · Fri, 14 Mar 2025
+
+## Shares bills with
+
+jojogigirl, Nanno, get no
+
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nailonthehat/)*

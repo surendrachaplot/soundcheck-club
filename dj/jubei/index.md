@@ -1,8 +1,8 @@
 # Jubei
 
-Jubei is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
+Jubei is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
 
-Jubei is a drum & bass and jungle artist based in United Kingdom, with 34 gigs on soundcheck across Basel, Berlin, Bogotá and Brighton and 8 more. Often billed alongside SP:MC, DJ Flight and Breakage. Next up: Amigo, Ghent on Sat 7 Nov.
+Jubei is a drum & bass and jungle artist based in United Kingdom, with 35 gigs on soundcheck across Basel, Berlin, Bogotá and Brighton and 8 more. Often billed alongside SP:MC, DJ Flight and Breakage. Next up: Amigo, Ghent on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jubei is a drum & bass and jungle artist based in United Kingdom, with 34 gigs o
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Amigo | Ghent |
 | Sat, 14 Nov 2026 | The Lubber Fiend | Newcastle |
+| Sat, 12 Dec 2026 | Notting Hill Arts Club | London |
 
 ## Recently played
 

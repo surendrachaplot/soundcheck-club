@@ -1,8 +1,8 @@
 # Lisatrix
 
-Lisatrix is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
+Lisatrix is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
 
-Lisatrix is a techno and trance artist based in Germany, with 42 gigs on soundcheck across Berlin. Often billed alongside JUWLZ, Pilar Jordan and cell1. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
+Lisatrix is a techno and trance artist based in Germany, with 43 gigs on soundcheck across Berlin. Often billed alongside JUWLZ, Pilar Jordan and cell1. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lisatrix is a techno and trance artist based in Germany, with 42 gigs on soundch
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - Westhafen | Berlin |
 | Fri, 20 Nov 2026 | DNA. CLUB | Berlin |
+| Thu, 17 Dec 2026 | OST | Berlin |
 
 ## Recently played
 

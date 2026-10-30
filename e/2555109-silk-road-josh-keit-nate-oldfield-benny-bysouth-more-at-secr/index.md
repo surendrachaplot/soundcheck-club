@@ -1,6 +1,6 @@
 # Silk Road: Josh Keit, Nate Oldfield, Benny Bysouth & more at Secret Location
 
-Silk Road: Josh Keit, Nate Oldfield, Benny Bysouth & more at Secret Location on Fri 18 Dec, London. 3 artists: Benny Bysouth, Bubs Baker and Josh Keit. Techno and Minimal. See the line-up on soundcheck.
+Silk Road: Josh Keit, Nate Oldfield, Benny Bysouth & more at Secret Location on Fri 18 Dec, London. 4 artists: Benny Bysouth, Bubs Baker, Josh Keit and Nate Oldfield. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Silk Road: Josh Keit, Nate Oldfield, Benny Bysouth & more at Secret Location on 
 - Benny Bysouth
 - Bubs Baker
 - Josh Keit
+- Nate Oldfield
 
 *Source: [soundcheck](https://soundcheck.club/e/2555109-silk-road-josh-keit-nate-oldfield-benny-bysouth-more-at-secr/)*

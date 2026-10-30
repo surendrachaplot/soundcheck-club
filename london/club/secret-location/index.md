@@ -16,7 +16,7 @@ Secret Location is a music venue in London listed on soundcheck. 9 upcoming gigs
 | Sun, 15 Nov 2026 | Eris Drew & Octo Octa (4HR Set) | Eris Drew, Octo Octa |
 | Fri, 20 Nov 2026 | Nachtlicker XII feat PUSSY RIOT: RIOT DAYS | JPEG (3), Kells, PEPPA (2), PJ Peek |
 | Sat, 28 Nov 2026 | ESSENZ-CLUB XXIII | Not A Headliner |
-| Fri, 18 Dec 2026 | Silk Road: Josh Keit, Nate Oldfield, Benny Bysouth & more | Benny Bysouth, Bubs Baker, Josh Keit |
+| Fri, 18 Dec 2026 | Silk Road: Josh Keit, Nate Oldfield, Benny Bysouth & more | Benny Bysouth, Bubs Baker, Josh Keit, Nate Oldfield |
 
 ## Address
 

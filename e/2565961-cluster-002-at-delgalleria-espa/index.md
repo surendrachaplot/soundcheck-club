@@ -1,6 +1,6 @@
 # CLUSTER 002 at Delgalleria - Espa
 
-CLUSTER 002 at Delgalleria - Espa on Sat 28 Nov, Helsinki. 1 artist: Beth Alana. Techno. See the line-up on soundcheck.
+CLUSTER 002 at Delgalleria - Espa on Sat 28 Nov, Helsinki. 2 artists: Beth Alana and MEGAFORCE. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ CLUSTER 002 at Delgalleria - Espa on Sat 28 Nov, Helsinki. 1 artist: Beth Alana.
 ## Line-up
 
 - Beth Alana
+- MEGAFORCE
 
 *Source: [soundcheck](https://soundcheck.club/e/2565961-cluster-002-at-delgalleria-espa/)*

@@ -1,13 +1,14 @@
 # Demdike Stare
 
-Demdike Stare is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at M.O.T, London on Sat, 5 Dec 2026.
+Demdike Stare is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OHM, Berlin on Fri, 27 Nov 2026.
 
-Demdike Stare is an experimental and dub artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Andy Stott, Sara Persico and i-sha. Next up: M.O.T, London on Sat 5 Dec.
+Demdike Stare is a dub and experimental artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Andy Stott, Appleblim and Low End Activist. Next up: OHM, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | OHM | Berlin |
 | Sat, 5 Dec 2026 | M.O.T | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Demdike Stare is an experimental and dub artist based in United Kingdom, with 49
 
 ## Shares bills with
 
-Andy Stott, Sara Persico, i-sha
+Andy Stott, Appleblim, Low End Activist
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demdikestare/)*

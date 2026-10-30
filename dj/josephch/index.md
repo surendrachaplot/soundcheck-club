@@ -1,8 +1,8 @@
 # JOSEPH (CH)
 
-JOSEPH (CH) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Night Tales, London on Fri, 6 Nov 2026.
+JOSEPH (CH) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Night Tales, London on Fri, 6 Nov 2026.
 
-JOSEPH (CH) is a house and afro house artist based in Switzerland, with 15 gigs on soundcheck across Berlin, Cologne, Hamburg and London and 4 more. Often billed alongside :DARREN, Alex Dallas and Bondi (DE). Next up: Night Tales, London on Fri 6 Nov.
+JOSEPH (CH) is a house and disco artist based in Switzerland, with 15 gigs on soundcheck across Berlin, Cologne, Hamburg and London and 4 more. Often billed alongside :DARREN, Alex Dallas and Bondi (DE). Next up: Night Tales, London on Fri 6 Nov.
 
 ## Upcoming shows
 

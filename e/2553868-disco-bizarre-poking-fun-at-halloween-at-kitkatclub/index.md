@@ -1,6 +1,6 @@
 # Disco Bizarre: Poking Fun at Halloween at KitKatClub
 
-Disco Bizarre: Poking Fun at Halloween at KitKatClub on Sat 31 Oct, Berlin. 4 artists: Ben Gomori, Bizarre Billy, Daniel Knutz and Marvel83'. Disco and Vaporwave. See the line-up on soundcheck.
+Disco Bizarre: Poking Fun at Halloween at KitKatClub on Sat 31 Oct, Berlin. 4 artists: Ben Gomori, Bizarre Billy, Marvel83' and Queen E. Disco and Vaporwave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Disco Bizarre: Poking Fun at Halloween at KitKatClub on Sat 31 Oct, Berlin. 4 ar
 
 - Ben Gomori
 - Bizarre Billy
-- Daniel Knutz
 - Marvel83'
+- Queen E
 
 *Source: [soundcheck](https://soundcheck.club/e/2553868-disco-bizarre-poking-fun-at-halloween-at-kitkatclub/)*

@@ -11,7 +11,7 @@ KOKO is a music venue in London listed on soundcheck. 26 upcoming gigs, with lin
 | Fri, 30 Oct 2026 | Anywherelse Halloween: ARODES, Marten Lou [SOLD OUT] | ARODES, Khenya, Marten Lou, Rockin Moroccin |
 | Sat, 31 Oct 2026 | KOKO Electronic: Halloween - Ahmed Spins [SOLD OUT] | ABEL (UK) |
 | Fri, 6 Nov 2026 | Camden Disco Festival: Mafalda, Daisybelle, Tiffany Quinn, Lilli Kelly | Daisybelle, Mafalda, Tiffany Quinn |
-| Sat, 7 Nov 2026 | Acid House Palace: Special Guests |  |
+| Sat, 7 Nov 2026 | Acid House Palace: Special Guests | Justin Robertson, Megan Leo, The Iron Glove, Toshiki Ohta |
 | Fri, 13 Nov 2026 | KOKO Electronic: Andrea Oliva | Andrea Oliva, Argia, Vanco |
 | Sat, 14 Nov 2026 | KOKO Electronic: Claptone | Claptone, Crusy, Will Silver |
 | Fri, 20 Nov 2026 | KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1) | Francis Mercier, Nadrums, Neyl (1) |

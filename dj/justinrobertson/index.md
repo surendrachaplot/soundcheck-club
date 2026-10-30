@@ -1,13 +1,14 @@
 # Justin Robertson
 
-Justin Robertson is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Golden Lion, Manchester on Thu, 31 Dec 2026.
+Justin Robertson is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KOKO, London on Sat, 7 Nov 2026.
 
-Justin Robertson is a house and acid artist based in United Kingdom, with 39 gigs on soundcheck across Belfast, Brighton, Dublin and Glasgow and 6 more. Often billed alongside DJ Paulette, Graeme Park and Erol Alkan. Next up: The Golden Lion, Manchester on Thu 31 Dec.
+Justin Robertson is a house and acid artist based in United Kingdom, with 40 gigs on soundcheck across Belfast, Brighton, Dublin and Glasgow and 6 more. Often billed alongside DJ Paulette, Graeme Park and Erol Alkan. Next up: KOKO, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | KOKO | London |
 | Thu, 31 Dec 2026 | The Golden Lion | Manchester |
 
 ## Recently played

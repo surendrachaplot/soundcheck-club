@@ -1,6 +1,6 @@
 # Soup for Breakfast - Sternchen Suppe at Beate Uwe
 
-Soup for Breakfast - Sternchen Suppe at Beate Uwe on Fri 4 Dec, Berlin. 4 artists: Daenell, Miss Kitchen, nasnan and SILSAN. See the line-up on soundcheck.
+Soup for Breakfast - Sternchen Suppe at Beate Uwe on Fri 4 Dec, Berlin. 4 artists: Daenell, Miss Kitchen, nasnan and SILSAN. Bass and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

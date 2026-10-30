@@ -1,0 +1,21 @@
+# Hoe__mies: Dolloween [Limited Tickets Available at Door] at KREUZWERK
+
+Hoe__mies: Dolloween [Limited Tickets Available at Door] at KREUZWERK on Sat 31 Oct, Berlin. 7 artists: ARMANA KHAN, Bad Puppy, Meg10 and Saint Nia and 3 more. Club. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 31 Oct 2026 |
+| Venue | KREUZWERK |
+| City | Berlin |
+
+## Line-up
+
+- ARMANA KHAN
+- Bad Puppy
+- Meg10
+- Saint Nia
+- Shadysnack
+- Vera Moro
+- XD Erica
+
+*Source: [soundcheck](https://soundcheck.club/e/2522574-hoe-mies-dolloween-limited-tickets-available-at-door-at-kreu/)*

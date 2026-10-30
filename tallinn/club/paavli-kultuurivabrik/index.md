@@ -8,7 +8,7 @@ Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 2 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Paavli House of Horrors | DJ Shore Road, NORA (BR), Slayphex Twins |
+| Fri, 30 Oct 2026 | Paavli House of Horrors | DJ Shore Road, NORA (BR), Slayphex Twins, TELLEMRALF |
 | Fri, 13 Nov 2026 | Dreamscape Club Night: Kode9 (UK / Hyperdub) | Gary Gwadera, Kode9, Nikolajev, Silvia Kastel, Susanna Raiend, Type1, Wash Electra |
 
 ## Address

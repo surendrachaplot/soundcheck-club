@@ -1,8 +1,8 @@
 # Manrick Stapez
 
-Manrick Stapez is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 31 Oct 2026.
+Manrick Stapez is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 31 Oct 2026.
 
-Manrick Stapez is a techno and trance artist based in Germany, with 55 gigs on soundcheck across Amsterdam, Berlin, Dublin and Frankfurt and 4 more. Often billed alongside PHLOXO, Tiem and HAUSBRAND. Next up: De Fik Garden, Amsterdam on Sat 31 Oct.
+Manrick Stapez is a techno and trance artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Berlin, Dublin and Frankfurt and 4 more. Often billed alongside PHLOXO, Tiem and HAUSBRAND. Next up: De Fik Garden, Amsterdam on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Manrick Stapez is a techno and trance artist based in Germany, with 55 gigs on s
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | De Fik Garden | Amsterdam |
 | Fri, 13 Nov 2026 | Gallery22 | Berlin |
+| Thu, 3 Dec 2026 | OST | Berlin |
 
 ## Recently played
 

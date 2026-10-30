@@ -13,7 +13,7 @@ fabric is a music venue in London listed on soundcheck. 28 upcoming gigs, with l
 | Sun, 1 Nov 2026 | CAYA by fabric: Rave Rabbit - Lola Palmer, Jacob Husley B2B Will Davison, Frenchhh | Frenchhh, Jacob Husley, Lola Palmer |
 | Thu, 5 Nov 2026 | Loukeman | Loukeman |
 | Fri, 6 Nov 2026 | FABRICLIVE: Keyrah B2B Izco, Karen Nyame KG Zengxrl, Lorkestra, Jack Bagshaw, SHAYK | Daviaa, Flores, Izco, Karen Nyame KG, Keyrah, Lorkestra, Mithun, Zengxrl |
-| Sat, 7 Nov 2026 | fabric: Marcel Dettmann, Ellen Allien, Shonky, Marie Montexier, Josh Keit, Nate Oldfield + more | Ellen Allien, Jayson Wynters, Josh Keit, Marcel Dettmann, Marie Montexier, Serenne, Shonky |
+| Sat, 7 Nov 2026 | fabric: Marcel Dettmann, Ellen Allien, Shonky, Marie Montexier, Josh Keit, Nate Oldfield + more | Ellen Allien, Jayson Wynters, Josh Keit, Marcel Dettmann, Marie Montexier, Nate Oldfield, Serenne, Shonky |
 | Sun, 8 Nov 2026 | CAYA by fabric: Step Inside x All Day  - Rossko, Charlie Rice, FLX, Kayleigh Maria, Nay Barr,  | Rossko, Scon |
 | Fri, 13 Nov 2026 | FABRICLIVE: Club Opp - Oppidan, Sam Alfred, Royal-T, Ghoulish, ESC, Napes & Toby Ross | ESC (5), Ghoulish, Napes, Oppidan, REA (AL), Royal-T, Sam Alfred, Toby Ross |
 | Sat, 14 Nov 2026 | FABRICLIVE: Planet V | ALIBI, Bladerunner, Bryan Gee, Command Strange, DREAD MC, Dillinja, Dynamite MC, Jumping Jack Frost, Krust, MC GQ, Meraki (3), Minor Forms, Need For Mirrors, Peshay, Promo ZO, SL8R, SP:MC, Think Tonk, Visionobi, Zero T, cloud lord (2) |

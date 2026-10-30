@@ -1,14 +1,15 @@
 # Pablo Fierro
 
-Pablo Fierro is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at 77, London on Sat, 14 Nov 2026.
+Pablo Fierro is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at 77, London on Sat, 14 Nov 2026.
 
-Pablo Fierro is an afro house and house artist based in Spain, with 135 gigs on soundcheck across Athens, Atlanta, Bali and Barcelona and 33 more. Often billed alongside Black Coffee, Damian Lazarus and Dan Ficara. Next up: 77, London on Sat 14 Nov.
+Pablo Fierro is an afro house and house artist based in Spain, with 136 gigs on soundcheck across Athens, Atlanta, Bali and Barcelona and 33 more. Often billed alongside Black Coffee, Damian Lazarus and Dan Ficara. Next up: 77, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | 77 | London |
+| Sat, 14 Nov 2026 | Qube Elephant & Castle | London |
 | Sat, 12 Dec 2026 | Unveiled | New York City |
 
 ## Recently played

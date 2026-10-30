@@ -1,8 +1,8 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy" on Thu, 29 Oct 2026.
+Skatecafe is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy" on Thu, 29 Oct 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Abstract (US), Alex Ranzino, Becking and Chrissy and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Abstract (US), Alex Ranzino, Becking and Chrissy and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 

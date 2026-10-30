@@ -1,8 +1,8 @@
 # SP:MC
 
-SP:MC is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+SP:MC is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
-SP:MC is a drum & bass and jungle artist based in United Kingdom, with 158 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Basel and 23 more. Often billed alongside Skeptical, Alix Perez and Breakage. Next up: DRUMSHEDS, London on Sat 7 Nov.
+SP:MC is a drum & bass and jungle artist based in United Kingdom, with 159 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Basel and 23 more. Often billed alongside Skeptical, Alix Perez and Breakage. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ SP:MC is a drum & bass and jungle artist based in United Kingdom, with 158 gigs 
 | Fri, 20 Nov 2026 | Amber's | Manchester |
 | Sat, 21 Nov 2026 | The Roundhouse | London |
 | Sat, 28 Nov 2026 | 26 Leake Street | London |
+| Sat, 12 Dec 2026 | Notting Hill Arts Club | London |
 
 ## Recently played
 
