@@ -1,8 +1,8 @@
 # Palazzo Permanens
 
-Palazzo Permanens is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "NoFear HALLOWEEN" on Fri, 30 Oct 2026.
+Palazzo Permanens is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "NoFear HALLOWEEN" on Fri, 30 Oct 2026.
 
-Palazzo Permanens is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including 96zen, Adis Is OK, Afriqua and Akác and 2 more. See dates, start times and who's playing. Budapest, Kertész u. 36, 1072.
+Palazzo Permanens is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including 96zen, Adis Is OK, Afriqua and Akác and 2 more. See dates, start times and who's playing. Budapest, Kertész u. 36, 1072.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Palazzo Permanens is a music venue in Budapest listed on soundcheck. 8 upcoming 
 | Fri, 20 Nov 2026 | Crime with An Chen | An Chen, CRIME, SABBER, THIRD 2HIFT |
 | Sat, 21 Nov 2026 | LavaLava x Memphis: The Grand Convivium with Afriqua | Afriqua, Arash Ete, Falcao, Kiuz, Tolo, schraeder |
 | Sat, 28 Nov 2026 | Dica & Antidot | DICA (FR), Tom_Ato |
+| Sun, 6 Dec 2026 | Schranzwerk with TBA | KALMIKVCS, Technokool |
 
 ## Address
 

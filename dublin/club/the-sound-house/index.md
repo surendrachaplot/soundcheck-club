@@ -10,7 +10,7 @@ The Sound House is a music venue in Dublin listed on soundcheck. 8 upcoming gigs
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | RATHAUS HALLOWEEN *SOLD OUT* | MAV666, Máthair |
 | Sat, 31 Oct 2026 | ROOM SERVICE RECS LAUNCH PARTY |  |
-| Fri, 13 Nov 2026 | A Love From Outer Space | Sean Johnston |
+| Fri, 13 Nov 2026 | A Love From Outer Space [Sold out] | Sean Johnston |
 | Sat, 14 Nov 2026 | IRISH SOCIAL RAVES TURNS 3 |  |
 | Fri, 4 Dec 2026 | JACK MARLOW Story* | JACK MARLOW |
 | Sat, 5 Dec 2026 | RATHAUS 5TH BDAY |  |

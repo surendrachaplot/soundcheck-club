@@ -9,7 +9,7 @@ MCR-T is a techno and house artist based in Germany, with 305 gigs on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Tokonoma Club | Frankfurt |
-| Fri, 6 Nov 2026 | BBCB: Beton Brut+Concrete Bar | Seoul |
+| Fri, 6 Nov 2026 | Blank Site | Seoul |
 | Sat, 7 Nov 2026 | WWW X | Tokyo |
 | Fri, 20 Nov 2026 | Hangaren | Copenhagen |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |

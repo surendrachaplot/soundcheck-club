@@ -1,6 +1,6 @@
 # i hate mondays with Cotto + dameeeela at Smith St Hotel
 
-i hate mondays with Cotto + dameeeela at Smith St Hotel on Sun 1 Nov, Melbourne. 2 artists: Kade Hoey and Pvrtal. House. See the line-up on soundcheck.
+i hate mondays with Cotto + dameeeela at Smith St Hotel on Sun 1 Nov, Melbourne. 3 artists: dameeeela, Kade Hoey and Pvrtal. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ i hate mondays with Cotto + dameeeela at Smith St Hotel on Sun 1 Nov, Melbourne.
 
 ## Line-up
 
+- dameeeela
 - Kade Hoey
 - Pvrtal
 

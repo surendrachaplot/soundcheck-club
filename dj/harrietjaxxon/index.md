@@ -9,7 +9,7 @@ Harriet Jaxxon is a drum & bass and jungle artist based in United Kingdom, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | MK Arena | Midlands |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

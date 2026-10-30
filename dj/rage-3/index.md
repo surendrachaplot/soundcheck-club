@@ -10,7 +10,7 @@ RAGE is a drum & bass and techno artist based in Germany, with 6 gigs on soundch
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 | Sat, 21 Nov 2026 | Void Club | Berlin |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

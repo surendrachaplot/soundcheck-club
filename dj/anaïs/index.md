@@ -12,7 +12,7 @@ Anaïs is a drum & bass and garage artist based in United Kingdom, with 63 gigs 
 | Fri, 4 Dec 2026 | Quarters | Brighton |
 | Sat, 5 Dec 2026 | The Nest | Nottingham |
 | Sat, 5 Dec 2026 | Ouseburn Garden | Newcastle |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

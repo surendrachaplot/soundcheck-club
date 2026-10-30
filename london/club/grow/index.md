@@ -14,7 +14,7 @@ Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with lin
 | Sat, 14 Nov 2026 | DeepDig: Handson Family (4 Hour Set) // Vanessa Freeman | Handson Family, Vanessa Freeman |
 | Fri, 20 Nov 2026 | SWEET ONES: Zak Miller, Richie, Rhiavas, Komanche   | Komanche, Rhiavas, Zak Miller |
 | Sat, 21 Nov 2026 | Love Is Everywhere #9: Tina Edwards // Paul Murphy // Masumi Endo // Foot Notes | Tina Edwards |
-| Fri, 27 Nov 2026 | Discothèque Tropicale 4th Birthday: JOSH FB, Caldo Verde, Lauren Beavs, Lena C,Fred Salt, | Beavs, JOSH FB, Léna C |
+| Fri, 27 Nov 2026 | Discothèque Tropicale 4th Birthday: JOSH FB, Caldo Verde, Beavs, Lena C, Fred Salt, | Beavs, JOSH FB, Léna C |
 | Sat, 28 Nov 2026 | DeepDig: MarshmeLLo (NTS) // Kanem | Kanem, MarshmeLLo |
 | Sat, 12 Dec 2026 | GIRLZ B LIKE GLITTER AND GOLD BALL: Marcia Carr // KINKY D + SPECIAL GUESTS | Marcia Carr |
 | Thu, 31 Dec 2026 | New Year's Eve: Tumbaito [Live], Alfie Panaiotis, Paloma, Tall Nico | Alfie Panaiotis, Paloma (DJ), Tall Nico |

@@ -1,14 +1,13 @@
 # Mothafunk
 
-Mothafunk is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Music Room, Melbourne on Fri, 30 Oct 2026.
+Mothafunk is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at My Aeon, Melbourne on Sat, 31 Oct 2026.
 
-Mothafunk is a house and disco artist based in United States of America, with 75 gigs on soundcheck across Chicago, Los Angeles, Melbourne and New York City and 1 more. Often billed alongside Zjoso, Chris NG and Kgomotso. Next up: Music Room, Melbourne on Fri 30 Oct.
+Mothafunk is a house and disco artist based in United States of America, with 75 gigs on soundcheck across Chicago, Los Angeles, Melbourne and New York City and 1 more. Often billed alongside Zjoso, Chris NG and Kgomotso. Next up: My Aeon, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Music Room | Melbourne |
 | Sat, 31 Oct 2026 | My Aeon | Melbourne |
 | Fri, 6 Nov 2026 | New Guernica | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |

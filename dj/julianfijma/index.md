@@ -15,7 +15,7 @@ Julian Fijma is a house and tech house artist based in Netherlands, with 119 gig
 | Thu, 3 Dec 2026 | Factory Town | Miami |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

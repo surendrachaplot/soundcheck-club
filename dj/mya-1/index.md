@@ -11,7 +11,7 @@ Mya is a house and tech house artist based in United Kingdom, with 19 gigs on so
 | Sun, 1 Nov 2026 | The Cause | London |
 | Sat, 7 Nov 2026 | Amber's | Manchester |
 | Sun, 8 Nov 2026 | 93 Feet East | London |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

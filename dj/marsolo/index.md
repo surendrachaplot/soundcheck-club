@@ -16,7 +16,7 @@ Marsolo is a house and tech house artist based in Netherlands, with 168 gigs on 
 | Fri, 11 Dec 2026 | Coda | Toronto |
 | Sat, 12 Dec 2026 | Zodiac | Tampa Bay |
 | Fri, 18 Dec 2026 | The Nest at Notts County | Nottingham |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played

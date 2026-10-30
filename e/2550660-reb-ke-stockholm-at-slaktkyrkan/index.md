@@ -1,6 +1,6 @@
 # Rebūke - Stockholm at Slaktkyrkan
 
-Rebūke - Stockholm at Slaktkyrkan on Fri 20 Nov, Stockholm. 1 artist: Rebuke. Techno. See the line-up on soundcheck.
+Rebūke - Stockholm at Slaktkyrkan on Fri 20 Nov, Stockholm. 2 artists: JONOS and Rebuke. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rebūke - Stockholm at Slaktkyrkan on Fri 20 Nov, Stockholm. 1 artist: Rebuke. T
 
 ## Line-up
 
+- JONOS
 - Rebuke
 
 *Source: [soundcheck](https://soundcheck.club/e/2550660-reb-ke-stockholm-at-slaktkyrkan/)*

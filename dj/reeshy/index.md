@@ -17,7 +17,7 @@ Reeshy is a house and tech house artist based in United Kingdom, with 119 gigs o
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Fri, 18 Dec 2026 | Depot Mayfield | Manchester |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

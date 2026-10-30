@@ -14,7 +14,7 @@ A Little Sound is a drum & bass and house artist based in United Kingdom, with 6
 | Sat, 14 Nov 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | The Nest | Nottingham |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Giardino Dei Visionari / Día de Muertos" on Fri, 30 Oct 2026.
+Gate Milano is a music venue in Milan with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Giardino Dei Visionari / Día de Muertos" on Fri, 30 Oct 2026.
 
-Gate Milano is a music venue in Milan listed on soundcheck. 16 upcoming gigs, with line-ups including Amygdala, Anetha, Angerfist and ANKKH and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
+Gate Milano is a music venue in Milan listed on soundcheck. 17 upcoming gigs, with line-ups including Amygdala, Anetha, Angerfist and ANKKH and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
 ## What's on
 

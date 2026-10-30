@@ -10,7 +10,7 @@ Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom,
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Electric Studios | Sheffield |
 | Sat, 12 Dec 2026 | The Beehive | Los Angeles |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

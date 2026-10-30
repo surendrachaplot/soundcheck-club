@@ -19,7 +19,7 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 36 gigs o
 | Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

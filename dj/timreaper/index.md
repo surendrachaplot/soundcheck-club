@@ -17,7 +17,7 @@ Tim Reaper is a jungle and drum & bass artist based in United Kingdom, with 256 
 | Sat, 28 Nov 2026 | M.O.T | London |
 | Thu, 31 Dec 2026 | The Clock Factory | Bristol |
 | Sat, 6 Feb 2027 | The Warehouse | Leeds |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played

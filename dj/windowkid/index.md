@@ -9,7 +9,7 @@ Window Kid is a drum & bass and bass artist based in United Kingdom, with 46 gig
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Document | Bristol |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

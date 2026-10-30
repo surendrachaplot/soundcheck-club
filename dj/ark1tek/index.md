@@ -1,14 +1,15 @@
 # ARK1TEK
 
-ARK1TEK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Piston, Toronto on Thu, 5 Nov 2026.
+ARK1TEK is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Piston, Toronto on Thu, 5 Nov 2026.
 
-ARK1TEK is a techno and electro artist based in Colombia, with 14 gigs on soundcheck across Toronto. Often billed alongside Xela., /ASYNC and Hycastle. Next up: The Piston, Toronto on Thu 5 Nov.
+ARK1TEK is a techno and electro artist based in Colombia, with 15 gigs on soundcheck across Toronto. Often billed alongside Xela., /ASYNC and Darkova. Next up: The Piston, Toronto on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | The Piston | Toronto |
+| Fri, 27 Nov 2026 | TBA | Toronto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ARK1TEK is a techno and electro artist based in Colombia, with 14 gigs on soundc
 
 ## Shares bills with
 
-Xela., /ASYNC, Hycastle
+Xela., /ASYNC, Darkova
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ark1tek/)*

@@ -9,7 +9,7 @@ Izzy is a house and tech house artist based in United States of America, with 22
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | The Cause | London |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

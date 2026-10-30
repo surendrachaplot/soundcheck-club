@@ -1,8 +1,8 @@
 # club asia
 
-club asia is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "YAGIKYUN HALLOWEEN PARTY 2K26   -N² 1st Album 『iDANCE2MUSIC』 release party-" on Fri, 30 Oct 2026.
+club asia is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "YAGIKYUN HALLOWEEN PARTY 2K26   -N² 1st Album 『iDANCE2MUSIC』 release party-" on Fri, 30 Oct 2026.
 
-club asia is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including 6.do, 80KIDZ, AKARI and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+club asia is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including 6.do, 80KIDZ, AKARI and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 

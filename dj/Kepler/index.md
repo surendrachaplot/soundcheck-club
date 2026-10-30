@@ -14,7 +14,7 @@ Kepler is a house and tech house artist based in United Kingdom, with 169 gigs o
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Sat, 28 Nov 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
 | Fri, 4 Dec 2026 | Digital | Newcastle |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played

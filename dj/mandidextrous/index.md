@@ -11,7 +11,7 @@ Mandidextrous is a drum & bass and techno artist based in United Kingdom, with 9
 | Sat, 31 Oct 2026 | Hangar 34 | Liverpool |
 | Fri, 20 Nov 2026 | The Cause | London |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # halloween by Arcane with Richard Gregory, Dannheimer [kru], Ferg b2b Liam G + Matiiz at komunal
 
-halloween by Arcane with Richard Gregory, Dannheimer [kru], Ferg b2b Liam G + Matiiz at komunal on Sat 31 Oct, Birmingham. 2 artists: Dannheimer and Richard Gregory. Electro and Acid. See the line-up on soundcheck.
+halloween by Arcane with Richard Gregory, Dannheimer [kru], Ferg b2b Liam G + Matiiz at komunal on Sat 31 Oct, Birmingham. 2 artists: Dannheimer and Richard Gregory. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

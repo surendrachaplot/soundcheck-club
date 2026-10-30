@@ -3209,9 +3209,9 @@ a.dst-full-t:hover{text-decoration:underline}
 .artist-bio{white-space:pre-line}
 .bio-src{color:var(--accent);font:600 var(--fs-sm) var(--body);text-decoration:none;white-space:nowrap}
 .bio-src:hover{text-decoration:underline}
-/* Boxless, matching the apps: a rule and some air, not a panel floating on
-   the page. Was surface fill + border + radius-lg. */
-.ap-seen{margin:16px 0 4px;padding-top:14px;border-top:1px solid var(--border);max-width:440px}
+/* "You caught them" (Paper NEXT 30 Oct, one left edge): a sibling of Friends inside
+   .fp-hx, so it shares the text column at every width. Same heading as Friends. */
+.fp-hero > .fp-hx > .ap-seen{align-self:stretch;max-width:680px}
 /* YOUR OWN LOG of this night, on the EVENT page. The apps have had this since
    the diary shipped; web returned `ev.mine` from the same endpoint and never
    drew it, so a night you had already written up went on offering "log a gig"
@@ -3296,19 +3296,11 @@ a.dst-full-t:hover{text-decoration:underline}
 .ev-mine-acts{font:500 var(--fs-sm)/var(--lh-sm) var(--body);color:var(--muted);margin-top:6px}
 .ev-mine-note{font:400 var(--fs-base)/var(--lh-base) var(--body);color:var(--muted);margin-top:6px}
 .ev-mine-edit{margin-top:10px;background:none;border:0;padding:0;cursor:pointer;font:800 var(--fs-2xs)/var(--lh-2xs) var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
-.ap-seen-top{display:flex;align-items:center;gap:16px;margin-bottom:4px}
-.ap-seen-num{font:800 3rem var(--head);line-height:.8;background:var(--accent-grad);-webkit-background-clip:text;background-clip:text;color:transparent}
-.ap-seen-num span{font-size:var(--fs-xl)}
-.ap-seen-lbl{font:500 var(--fs-base) var(--body);color:var(--muted)} .ap-seen-lbl b{color:var(--fg);font-family:var(--head);font-size:var(--fs-lg)}
-.ap-seen-row{display:flex;align-items:center;gap:12px;padding:11px 0;border-top:1px dashed var(--border);font-size:var(--fs-base)}
-.ap-seen-row:first-of-type{margin-top:8px}
-.ap-seen-d{font:700 var(--fs-2xs) var(--font-mono);color:var(--accent);min-width:92px}
-.ap-seen-v{font:600 var(--fs-base) var(--head)} .ap-seen-v[data-venue]{cursor:pointer} .ap-seen-v[data-venue]:hover{color:var(--accent)}
-.ap-seen-ev{margin-left:auto;color:var(--accent);font:600 var(--fs-2xs) var(--body);cursor:pointer;white-space:nowrap} .ap-seen-ev:hover{text-decoration:underline}
-.ap-seen-log{display:inline-flex;align-items:center;gap:8px;height:var(--btn-l);margin-top:14px;background:transparent;border:1.5px solid var(--line-2);color:var(--fg);font:700 var(--fs-btn-l)/var(--lh-btn-l) var(--body);letter-spacing:-0.005em;padding:0 20px;border-radius:var(--radius-btn);cursor:pointer}
-.ap-seen-empty{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
-.ap-seen-emptx{flex:1;min-width:160px;color:var(--muted);font:500 var(--fs-base) var(--body)} .ap-seen-emptx b{color:var(--fg)}
-.ap-seen-empty .ap-seen-log{width:auto;margin-top:0;flex:0 0 auto;padding:11px 18px}
+.ap-seen h3 span{margin-left:8px;font:500 var(--fs-base)/20px var(--body);letter-spacing:0;color:var(--lilac,#B8A8D0)}
+.ap-seen-row{display:flex;align-items:center;gap:12px;min-height:44px;border-top:1px solid var(--border)}
+.ap-seen-d{flex:0 0 108px;font:700 var(--fs-2xs) var(--font-mono);color:var(--accent);white-space:nowrap}
+.ap-seen-v{flex:1;min-width:0;font:700 var(--fs-base) var(--body);color:var(--fg);text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis} .ap-seen-v[data-venue]{cursor:pointer} .ap-seen-v[data-venue]:hover{color:var(--accent)}
+.ap-seen-ev{flex:none;align-self:stretch;display:flex;align-items:center;padding-left:12px;color:var(--lilac,#B8A8D0);font:500 var(--fs-md) var(--body);text-decoration:none;cursor:pointer} .ap-seen-ev:hover{color:var(--fg)}
 .tb-big{margin:2px 0 14px}
 .tb-big .tb-bignum{font-size:54px}
 .tb-bigu{font-family:var(--font-mono);font-size:var(--fs-2xs);letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-top:8px}
@@ -3642,12 +3634,13 @@ a.dst-full-t:hover{text-decoration:underline}
     .lv-cue b, .lu-cue b{ color:var(--fg); font-weight:700; }
     .cue-st{ margin-top:18px; }
     .cue-st h3{ margin:0 0 12px; font:800 20px/24px var(--head); letter-spacing:-0.01em; color:var(--fg); }
-    .cue-row{ display:flex; gap:16px; overflow-x:auto; scrollbar-width:none; }
+    .cue-row{ display:flex; gap:24px; overflow-x:auto; scrollbar-width:none; }
     .cue-row::-webkit-scrollbar{ display:none; }
-    .cue-p{ flex:none; min-width:64px; display:flex; flex-direction:column; align-items:center; gap:6px; text-decoration:none; color:var(--fg); }
-    .cue-p i{ width:52px; height:52px; border-radius:999px; background-size:cover; background-position:center; background-color:var(--surface-3); }
-    .cue-p b{ font:700 13px/17px var(--body); max-width:88px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-    .cue-p em{ margin-top:-5px; font:700 10.5px/13px var(--body); font-style:normal; letter-spacing:.08em; text-transform:uppercase; color:var(--lilac,#B8A8D0); white-space:nowrap; }
+    .cue-p{ flex:none; display:flex; align-items:center; gap:10px; min-height:44px; text-decoration:none; color:var(--fg); }
+    .cue-p span{ display:flex; flex-direction:column; gap:1px; min-width:0; }
+    .cue-p i{ flex:none; width:40px; height:40px; border-radius:999px; background-size:cover; background-position:center; background-color:var(--surface-3); }
+    .cue-p b{ font:700 15px/20px var(--body); max-width:120px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .cue-p em{ font:700 11px/14px var(--body); font-style:normal; letter-spacing:.08em; text-transform:uppercase; color:var(--lilac,#B8A8D0); white-space:nowrap; }
     .cue-p em.hot{ color:#FF5E7E; }
     .lu-cf{ display:inline-flex; flex:none; margin-left:6px; }
     .lu-cf i{ width:24px; height:24px; }
@@ -3663,6 +3656,7 @@ a.dst-full-t:hover{text-decoration:underline}
        (never wraps, never stretches). */
     .fp-acts-row{ flex-wrap:nowrap !important; overflow-x:auto; scrollbar-width:none; }
     .fp-acts-row::-webkit-scrollbar{ display:none; }
+    .fp-acts-row > .go{ border:0; }   /* the dark border read as a Play 2px shorter than the pills beside it */
     @media (max-width:759px){
       .fp-acts-row{ gap:8px; }
       .fp-acts-row > .fp-ab, .fp-acts-row > .fp-pb{ flex:0 0 auto; height:var(--btn-m); padding:0 14px 0 12px; gap:6px; font-size:var(--fs-btn-m); line-height:var(--lh-btn-m); }
@@ -4259,10 +4253,10 @@ a.dst-full-t:hover{text-decoration:underline}
     .pf-btn.primary:not(.follow):active{ transform:scale(.96); }
 
     /* 1 · textual toggles — Follow / Wanna see / I've been / Interested / I'm going */
-    .fp-ab:not(.go), .fp-pb:not(.go), .follow-btn, .pf-btn:not(.primary), .pf-btn.primary.follow, .fp-ev-follow, .cb-btn, .ap-seen-log, .tc-actions .tc-save{
+    .fp-ab:not(.go), .fp-pb:not(.go), .follow-btn, .pf-btn:not(.primary), .pf-btn.primary.follow, .fp-ev-follow, .cb-btn, .tc-actions .tc-save{
       background:transparent; color:var(--fg); border:1.5px solid var(--line-2); transition:border-color var(--dur-1), background var(--dur-1), color var(--dur-1), transform var(--dur-1); }
     .fp-ab:not(.go):hover, .fp-pb:not(.go):hover, .follow-btn:hover, .pf-btn:not(.primary):hover, .pf-btn.primary.follow:hover,
-    .fp-ev-follow:hover, .cb-btn:hover, .ap-seen-log:hover, .tc-actions .tc-save:hover{
+    .fp-ev-follow:hover, .cb-btn:hover, .tc-actions .tc-save:hover{
       border-color:var(--sel); background:var(--sel-weak); color:var(--fg); filter:none; }
     .fp-ab:not(.go):active, .fp-pb:not(.go):active, .follow-btn:active, .fp-ev-follow:active{ transform:scale(.97); }
     .fp-ab.on, .fp-pb.on, .fp-pb.going, .follow-btn.following, .pf-btn.primary.follow.following,
@@ -5204,7 +5198,8 @@ a.dst-full-t:hover{text-decoration:underline}
        .h7w = only from 760 up · .h7n = only below 760 (same DOM, two layouts).
        LAST in the sheet on purpose: flat namespace, later wins. */
     .h7w{ display:none !important; }
-    @media(min-width:641px) and (max-width:759.98px){ .fp-hero > .fp-hx > .fp-hdna{ margin-left:0; margin-right:0; } }
+    /* the page gutter is the only left edge here: hero words, tabs and sections line up */
+    @media(min-width:641px) and (max-width:759.98px){ .fp-htop, .fp-ev-top{ padding-left:0; padding-right:0; } .fp-hero > .fp-hx > :not(.fp-htop), .fp-ev-hero > .fp-ev-main > :not(.fp-ev-top){ margin-left:0; margin-right:0; } }
     @media(min-width:760px){
       .h7n{ display:none !important; }
       .h7w{ display:block !important; }
@@ -5324,7 +5319,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793363128734">
+<meta name="sc-build" content="1793370368382">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -12975,9 +12970,9 @@ a.dst-full-t:hover{text-decoration:underline}
                 '<button class="fp-ab" id="ap-list" data-ic="list" type="button" aria-label="Add to list"><span>List</span></button>'+
               '</div>'+
               '<div class="cue-st" id="ap-cues" hidden></div>'+
+              '<div class="cue-st ap-seen" id="ap-seen-panel" hidden></div>'+
             '</div>'+
-          '</div>'+
-          '<div id="ap-seen-panel"></div>';
+          '</div>';
         // Sections as in-page tabs — one URL, tap swaps the panel below (no reload). Only
         // tabs with content; "More like X" merges similar-sound + shares-bills artists.
         var up=a.upcoming||[], secTabs=[];
@@ -13046,7 +13041,7 @@ a.dst-full-t:hover{text-decoration:underline}
           // seen state: tap un-marks seen (back to a plain Want to see button); otherwise the usual heart toggle
           if(artStatus(slug)==='seen') setArtist(slug, null, a.name); else toggleArtist(slug,{name:a.name});
         });
-        document.getElementById('ap-log').addEventListener('click',function(){ openLog(); });
+        document.getElementById('ap-log').addEventListener('click',function(){ openLog({ artist:{ slug:slug, name:a.name||slug } }); });
         var apl=document.getElementById('ap-list');
         if(apl) apl.addEventListener('click',function(){ addToListSheet(slug, a.name||slug); });
         // Upcoming + Past events → the SAME homepage card/list template (poster on desktop, .lvr list on mobile) — consistent with every other event list
@@ -13058,11 +13053,10 @@ a.dst-full-t:hover{text-decoration:underline}
             var box=document.getElementById('ap-seen-panel'); if(!box) return;
             var c=sd.count||0, nights=sd.nights||[];
             if(c>0){
-              box.innerHTML='<div class="ap-seen"><div class="ap-seen-top"><div class="ap-seen-num">'+c+'<span>×</span></div><div class="ap-seen-lbl">gig'+(c===1?'':'s')+' you’ve caught<br><b>'+esc(_anm)+'</b></div></div>'+
-                nights.map(function(g){ var d=g.gig_date?fmtGigDate(g.gig_date):''; var ev=g.event_id?'<a class="ap-seen-ev nav" href="'+esc(evHref(g.event_id,null,g.venue))+'" data-event-id="'+esc(String(g.event_id))+'">View gig ›</a>':''; return '<div class="ap-seen-row"><span class="ap-seen-d">'+esc(d)+'</span><a class="ap-seen-v nav"'+(g.venue?' href="'+esc(venueHref(g.venue))+'" data-venue="'+esc(g.venue)+'"':'')+'>'+esc(g.venue||'Gig')+'</a>'+ev+'</div>'; }).join('')+
-                '<button class="ap-seen-log" id="ap-seen-log" data-ic="plus" type="button">Log another gig</button></div>';
-            } else { box.innerHTML=''; }   // no empty-state nudge — Log a gig already lives in the header actions
-            var lg=document.getElementById('ap-seen-log'); if(lg) lg.addEventListener('click',function(){ openLog({ artist:{ slug:slug, name:_anm } }); });
+              box.innerHTML='<h3>You caught them<span>'+c+'×</span></h3><div>'+
+                nights.map(function(g){ var d=g.gig_date?fmtGigDate(g.gig_date):''; var ev=g.event_id?'<a class="ap-seen-ev nav" href="'+esc(evHref(g.event_id,null,g.venue))+'" data-event-id="'+esc(String(g.event_id))+'" aria-label="View gig">›</a>':''; return '<div class="ap-seen-row"><span class="ap-seen-d">'+esc(d)+'</span><a class="ap-seen-v nav"'+(g.venue?' href="'+esc(venueHref(g.venue))+'" data-venue="'+esc(g.venue)+'"':'')+'>'+esc(g.venue||'Gig')+'</a>'+ev+'</div>'; }).join('')+'</div>';
+              box.hidden=false;
+            } else { box.hidden=true; }   // no empty-state nudge — Log a gig already lives in the header actions
             box.querySelectorAll('.ap-seen-ev[data-event-id]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.eventId); }); });
             box.querySelectorAll('.ap-seen-v[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
           }).catch(function(){});
@@ -16297,7 +16291,7 @@ a.dst-full-t:hover{text-decoration:underline}
     function cueStrip(el, xs){
       el.innerHTML='<h3>Friends</h3><div class="cue-row">'+xs.map(function(u){
         var hot=u.status==='going'||u.status==='wanna_see';
-        return '<a class="nav cue-p" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'"><i style="background-image:'+avatarBg(u.handle,u.avatar)+'"></i><b>'+esc(cueName(u))+'</b><em'+(hot?' class="hot"':'')+'>'+(CUE_WORD[u.status]||'')+'</em></a>';
+        return '<a class="nav cue-p" href="'+esc(profileHref(u.handle))+'" data-handle="'+attrEsc(u.handle)+'"><i style="background-image:'+avatarBg(u.handle,u.avatar)+'"></i><span><b>'+esc(cueName(u))+'</b><em'+(hot?' class="hot"':'')+'>'+(CUE_WORD[u.status]||'')+'</em></span></a>';
       }).join('')+'</div>';
       el.hidden=false;
     }

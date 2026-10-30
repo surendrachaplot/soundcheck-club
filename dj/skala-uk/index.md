@@ -12,7 +12,7 @@ SKALAH (UK) is a dubstep and bass artist based in United Kingdom, with 51 gigs o
 | Fri, 6 Nov 2026 | Disco Zwei | Mannheim |
 | Fri, 13 Nov 2026 | FORGE | Sheffield |
 | Sat, 14 Nov 2026 | SIX Feet Under | Cardiff |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played

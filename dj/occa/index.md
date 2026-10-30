@@ -1,8 +1,8 @@
 # OCCA
 
-OCCA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Red Bar, Tokyo on Fri, 30 Oct 2026.
+OCCA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Red Bar, Tokyo on Fri, 30 Oct 2026.
 
-OCCA is a techno and house artist based in Japan, with 150 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 25 more. Often billed alongside Spekki Webu, Diskonnected and OSHALEY. Next up: Red Bar, Tokyo on Fri 30 Oct.
+OCCA is a techno and house artist based in Japan, with 151 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 25 more. Often billed alongside Spekki Webu, Diskonnected and OSHALEY. Next up: Red Bar, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ OCCA is a techno and house artist based in Japan, with 150 gigs on soundcheck ac
 | Fri, 13 Nov 2026 | Club Daphnia | Osaka |
 | Sat, 14 Nov 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
 | Sat, 5 Dec 2026 | Club Daphnia | Osaka |
+| Sat, 2 Oct 2027 | Upsidedown | Osaka |
 
 ## Recently played
 

@@ -14,7 +14,7 @@ SOTA is a house and techno artist based in Japan, with 131 gigs on soundcheck ac
 | Mon, 2 Nov 2026 | West Harlem | Kyoto |
 | Sat, 7 Nov 2026 | West Harlem | Kyoto |
 | Sat, 14 Nov 2026 | The Nest | Nottingham |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played

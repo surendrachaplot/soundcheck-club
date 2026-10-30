@@ -1,8 +1,8 @@
 # Alycia Bezgo
 
-Alycia Bezgo is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
+Alycia Bezgo is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at MUENZE, Berlin on Sat, 28 Nov 2026.
 
-Alycia Bezgo is a techno and trance artist based in Belgium, with 79 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 31 more. Often billed alongside BIIANCO, Cloudy and zwilling.. Next up: MUENZE, Berlin on Sat 28 Nov.
+Alycia Bezgo is a techno and trance artist based in Belgium, with 81 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 32 more. Often billed alongside Cloudy, BIIANCO and Patrick Mason. Next up: MUENZE, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,7 +11,9 @@ Alycia Bezgo is a techno and trance artist based in Belgium, with 79 gigs on sou
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
+| Sun, 28 Feb 2027 | Ozone Reserve | Perth |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
+| Sat, 6 Mar 2027 | Gateway Bridge Underpass | Brisbane |
 
 ## Recently played
 
@@ -26,6 +28,6 @@ Alycia Bezgo is a techno and trance artist based in Belgium, with 79 gigs on sou
 
 ## Shares bills with
 
-BIIANCO, Cloudy, zwilling.
+Cloudy, BIIANCO, Patrick Mason
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*

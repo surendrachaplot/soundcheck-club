@@ -1,6 +1,6 @@
 # Placeo pres. Alice Youngling - Afternoon Showcase - Bridge48 with Vibes Live at Bridge 48
 
-Placeo pres. Alice Youngling - Afternoon Showcase - Bridge48 with Vibes Live at Bridge 48 on Sun 15 Nov, Barcelona. 2 artists: Alice Youngling and Mganz. House and Tech House. See the line-up on soundcheck.
+Placeo pres. Alice Youngling - Afternoon Showcase - Bridge48 with Vibes Live at Bridge 48 on Sun 15 Nov, Barcelona. 3 artists: Alice Youngling, Mganz and Vinz (ITA). House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Placeo pres. Alice Youngling - Afternoon Showcase - Bridge48 with Vibes Live at 
 
 - Alice Youngling
 - Mganz
+- Vinz (ITA)
 
 *Source: [soundcheck](https://soundcheck.club/e/2565902-placeo-pres-alice-youngling-afternoon-showcase-bridge48-with/)*

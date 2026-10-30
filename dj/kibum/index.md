@@ -1,14 +1,15 @@
 # Kibum
 
-Kibum is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at teller, Seoul on Fri, 30 Oct 2026.
+Kibum is a Minimal and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at teller, Seoul on Fri, 30 Oct 2026.
 
-Kibum is a minimal and minimal techno artist based in South Korea, with 108 gigs on soundcheck across Seoul and South Korea. Often billed alongside Jongho, Mihak and kimmtae. Next up: teller, Seoul on Fri 30 Oct.
+Kibum is a minimal and minimal techno artist based in South Korea, with 109 gigs on soundcheck across Seoul and South Korea. Often billed alongside Jongho, Mihak and kimmtae. Next up: teller, Seoul on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | teller | Seoul |
+| Fri, 6 Nov 2026 | teller | Seoul |
 | Sun, 8 Nov 2026 | TBA - Binae Island | South-korea |
 
 ## Recently played

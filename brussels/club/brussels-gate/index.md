@@ -8,6 +8,6 @@ Brussels Gate is a music venue in Brussels listed on soundcheck. 1 upcoming gig,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Hangar Festival — Halloween Edition — SAVE THE DATE | Jungle (UK), Justin Jay, KŌMA (3), Lauravioli, Moxie, RIRIA, Skin On Skin |
+| Sat, 31 Oct 2026 | Hangar Festival — Halloween Edition — SAVE THE DATE | Jungle (UK), Justin Jay, KŌMA (3), Lauravioli, Moxie, RIRIA, Skin On Skin, séa (BE) |
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brussels-gate/)*

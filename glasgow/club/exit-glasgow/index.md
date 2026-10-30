@@ -1,15 +1,15 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 18 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh)" on Fri, 30 Oct 2026.
+EXIT Glasgow is a music venue in Glasgow with 19 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh)" on Fri, 30 Oct 2026.
 
-EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 18 upcoming gigs, with line-ups including Aba Shanti-I, Adrian Skiba, Angel Negrin and Blackeye MC and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
+EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 19 upcoming gigs, with line-ups including Aba Shanti-I, Adrian Skiba, Angel Negrin and Blackeye MC and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh) | Angel Negrin, ORBE |
-| Sat, 31 Oct 2026 | EXIT CLUB: Halloween | Headless Horseman, Lizzie Urquhart, Marc Matter, Rrose, TRSSX |
+| Sat, 31 Oct 2026 | EXIT CLUB: Halloween [30 tickets OTD] | Headless Horseman, Lizzie Urquhart, Marc Matter, Rrose, TRSSX |
 | Fri, 6 Nov 2026 | EXIT x Tanum Sound present: Aba Shanti-I, ojoo, Mellowdramatics & Klaus | Aba Shanti-I, Mellowdramatics, ojoo |
 | Sat, 7 Nov 2026 | Rubadub presents Limited Network - Max Watts, Sugar, 5tr8tch, Tanum Soundsystem | Max Watts, Sugar |
 | Fri, 13 Nov 2026 | Curated Wax 6th Birthday - Noizar (Closer Kyiv), Elk, Green LTC | Elk, Green like the Colour, Noizar |

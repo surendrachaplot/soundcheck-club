@@ -10,7 +10,7 @@ OKO is a drum & bass and jungle artist based in United Kingdom, with 22 gigs on 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | L'Écurie | Geneva |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ Laura De Greef is a house and techno artist based in Belgium, with 38 gigs on so
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA | Paris |
 | Sat, 21 Nov 2026 | Mint XL | Leeds |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played

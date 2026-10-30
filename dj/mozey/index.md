@@ -15,7 +15,7 @@ Mozey is a drum & bass and jungle artist based in United Kingdom, with 114 gigs 
 | Sat, 21 Nov 2026 | The Trusts Stadium | Auckland |
 | Fri, 11 Dec 2026 | The Racket Space | Dublin |
 | Sat, 30 Jan 2027 | Akvárium Klub | Budapest |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played

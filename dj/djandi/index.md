@@ -1,8 +1,8 @@
 # Andi
 
-Andi is a EBM and Italo Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Good Room, New York City on Fri, 30 Oct 2026.
+Andi is a Italo Disco and EBM artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Good Room, New York City on Fri, 30 Oct 2026.
 
-Andi is an ebm and italo disco artist based in United States of America, with 235 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 23 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Good Room, New York City on Fri 30 Oct.
+Andi is an italo disco and ebm artist based in United States of America, with 235 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 23 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Good Room, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 

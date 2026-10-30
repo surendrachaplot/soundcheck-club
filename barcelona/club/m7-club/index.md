@@ -1,8 +1,8 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "M7 presenta [Up Room] FØSS, SuttleK, Flakø [Main Room] HØMMIECDALL, GG GØØAT & VØLNA" on Fri, 30 Oct 2026.
+M7 Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "M7 presenta [Up Room] FØSS, SuttleK, Flakø [Main Room] HØMMIECDALL, GG GØØAT & VØLNA" on Fri, 30 Oct 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Adviro, AISHA, BreakStyle and DAISY and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Adviro, AISHA, BreakStyle and DAISY and 2 more. See dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 

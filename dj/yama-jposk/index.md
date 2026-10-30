@@ -1,8 +1,8 @@
 # YAMA(JP/OSK)
 
-YAMA(JP/OSK) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Daphnia, Osaka on Sat, 31 Oct 2026.
+YAMA(JP/OSK) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Daphnia, Osaka on Sat, 31 Oct 2026.
 
-YAMA(JP/OSK) is a techno and house artist based in Japan, with 104 gigs on soundcheck across Bangkok, Berlin, Hanoi and Hong Kong and 5 more. Often billed alongside DJ Nobu, DJ KAZUMA and DJ Yazi. Next up: Club Daphnia, Osaka on Sat 31 Oct.
+YAMA(JP/OSK) is a techno and house artist based in Japan, with 105 gigs on soundcheck across Bangkok, Berlin, Hanoi and Hong Kong and 5 more. Often billed alongside DJ Nobu, DJ KAZUMA and DJ Yazi. Next up: Club Daphnia, Osaka on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ YAMA(JP/OSK) is a techno and house artist based in Japan, with 104 gigs on sound
 | Sat, 31 Oct 2026 | Club Daphnia | Osaka |
 | Sat, 31 Oct 2026 | Critters Pizza | Osaka |
 | Mon, 2 Nov 2026 | BAR Inc | Osaka |
+| Thu, 5 Nov 2026 | Circus Osaka | Osaka |
 | Sat, 28 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 5 Dec 2026 | BAR Inc | Osaka |
 

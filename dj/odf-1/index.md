@@ -11,7 +11,7 @@ ODF is a garage and house artist based in United Kingdom, with 67 gigs on soundc
 | Fri, 30 Oct 2026 | Mint XL | Leeds |
 | Fri, 6 Nov 2026 | Stealth | Nottingham |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

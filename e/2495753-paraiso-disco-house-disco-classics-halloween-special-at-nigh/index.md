@@ -1,6 +1,6 @@
 # Paraiso Disco: House, Disco, Classics [Halloween Special] at Night Tales
 
-Paraiso Disco: House, Disco, Classics [Halloween Special] at Night Tales on Sat 31 Oct, London. 2 artists: Pilot and Sara Tabar. House and Disco. See the line-up on soundcheck.
+Paraiso Disco: House, Disco, Classics [Halloween Special] at Night Tales on Sat 31 Oct, London. 3 artists: Millian, Pilot and Sara Tabar. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Paraiso Disco: House, Disco, Classics [Halloween Special] at Night Tales on Sat 
 
 ## Line-up
 
+- Millian
 - Pilot
 - Sara Tabar
 

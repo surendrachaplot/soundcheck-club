@@ -1,8 +1,8 @@
 # Malika
 
-Malika is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Balagan Roma, Rome on Fri, 30 Oct 2026.
+Malika is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Balagan Roma, Rome on Fri, 30 Oct 2026.
 
-Malika is a house and techno artist based in Morocco, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil. Next up: Balagan Roma, Rome on Fri 30 Oct.
+Malika is a house and techno artist based in Morocco, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil. Next up: Balagan Roma, Rome on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Malika is a house and techno artist based in Morocco, with 51 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Balagan Roma | Rome |
 | Sat, 31 Oct 2026 | NOWHERE | Manchester |
+| Fri, 20 Nov 2026 | Sooki Lounge | Melbourne |
 
 ## Recently played
 

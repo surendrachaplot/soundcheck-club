@@ -1,6 +1,6 @@
 # The Dreamers EP41 at Enter Shibuya
 
-The Dreamers EP41 at Enter Shibuya on Sat 14 Nov, Tokyo. 3 artists: Louis Shannon, Manaha and Rickey Shannon. House and Tech House. See the line-up on soundcheck.
+The Dreamers EP41 at Enter Shibuya on Sat 14 Nov, Tokyo. 2 artists: Manaha and Rickey Shannon. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ The Dreamers EP41 at Enter Shibuya on Sat 14 Nov, Tokyo. 3 artists: Louis Shanno
 
 ## Line-up
 
-- Louis Shannon
 - Manaha
 - Rickey Shannon
 

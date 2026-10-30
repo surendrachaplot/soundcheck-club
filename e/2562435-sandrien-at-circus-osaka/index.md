@@ -1,6 +1,6 @@
 # Sandrien at Circus Osaka
 
-Sandrien at Circus Osaka on Thu 5 Nov, Osaka. 1 artist: Sandrien. Techno. See the line-up on soundcheck.
+Sandrien at Circus Osaka on Thu 5 Nov, Osaka. 2 artists: Sandrien and YAMA(JP/OSK). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Sandrien at Circus Osaka on Thu 5 Nov, Osaka. 1 artist: Sandrien. Techno. See th
 ## Line-up
 
 - Sandrien
+- YAMA(JP/OSK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2562435-sandrien-at-circus-osaka/)*

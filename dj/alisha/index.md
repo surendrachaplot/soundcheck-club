@@ -12,7 +12,7 @@ ALISHA is a house and tech house artist based in United Kingdom, with 184 gigs o
 | Fri, 6 Nov 2026 | Now&Wow | Rotterdam |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
 | Fri, 20 Nov 2026 | Outernet Live | London |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

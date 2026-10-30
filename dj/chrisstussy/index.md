@@ -1,8 +1,8 @@
 # CHRIS STASSY
 
-CHRIS STASSY is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gallagher Square, San Diego on Sat, 31 Oct 2026.
+CHRIS STASSY is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gallagher Square, San Diego on Sat, 31 Oct 2026.
 
-CHRIS STASSY is a house and techno artist based in Netherlands, with 302 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 69 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Gallagher Square, San Diego on Sat 31 Oct.
+CHRIS STASSY is a house and techno artist based in Netherlands, with 304 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 69 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Gallagher Square, San Diego on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 302 gigs on
 | Fri, 18 Dec 2026 | Kaufleuten | Zurich |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 | Fri, 8 Jan 2027 | TBA - La Fabrica, Cordoba | Argentina |
-| Fri, 5 Mar 2027 | Moyston | Melbourne |
+| Sun, 28 Feb 2027 | Ozone Reserve | Perth |
 
 ## Recently played
 

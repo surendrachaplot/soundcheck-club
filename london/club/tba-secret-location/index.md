@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA - SECRET LOCATION
 
-TBA - Secret Location is a music venue in London with 61 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "ReSolute Halloween with DJ Harvey & Friends" on Fri, 30 Oct 2026.
+TBA - SECRET LOCATION is a music venue in London with 61 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "ReSolute Halloween with DJ Harvey & Friends" on Fri, 30 Oct 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 61 upcoming gigs, with line-ups including 0dysseus, Absono, AINES and Alexia and 2 more. See dates, start times and who's playing.
+TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 61 upcoming gigs, with line-ups including 0dysseus, Absono, AINES and Alexia and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

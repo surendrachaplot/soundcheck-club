@@ -1,6 +1,6 @@
 # Happy House: Château Promicea at Château Promicea
 
-Happy House: Château Promicea on Sat 28 Nov, Marseille. 1 artist: Johnny Hemerson. House and Tech House. See the line-up on soundcheck.
+Happy House: Château Promicea on Sat 28 Nov, Marseille. 2 artists: Johnny Hemerson and Thomas Andrew. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Happy House: Château Promicea on Sat 28 Nov, Marseille. 1 artist: Johnny Hemers
 ## Line-up
 
 - Johnny Hemerson
+- Thomas Andrew
 
 *Source: [soundcheck](https://soundcheck.club/e/2571343-happy-house-ch-teau-promicea-at-ch-teau-promicea/)*

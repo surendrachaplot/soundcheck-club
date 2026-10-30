@@ -1,13 +1,14 @@
 # Louden
 
-Louden is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Fri, 27 Nov 2026.
+Louden is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 30 Oct 2026.
 
-Louden is a house and tech house artist based in Italy, with 27 gigs on soundcheck across Barcelona, Ibiza, Leeds and Liverpool and 6 more. Often billed alongside DXNBY, Candidate and Chopper (UK). Next up: E1, London on Fri 27 Nov.
+Louden is a house and tech house artist based in Italy, with 28 gigs on soundcheck across Barcelona, Ibiza, Leeds and Liverpool and 6 more. Often billed alongside DXNBY, Candidate and Chopper (UK). Next up: Joshua Brooks, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Joshua Brooks | Manchester |
 | Fri, 27 Nov 2026 | E1 | London |
 
 ## Recently played

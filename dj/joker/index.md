@@ -12,7 +12,7 @@ Joker is a dubstep and bass artist based in United Kingdom, with 59 gigs on soun
 | Sat, 31 Oct 2026 | Dryad Works | Sheffield |
 | Sat, 31 Oct 2026 | Autodromo Enzo e Dino Ferrari | Bologna |
 | Sat, 16 Jan 2027 | Phonox | London |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played

@@ -9,7 +9,7 @@ Passos Manuel is a music venue in Porto listed on soundcheck. 3 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Zone-R: festival de música e cultura sintética | Carl Stone, Dj Lynce, Evol, Tendency |
-| Sat, 14 Nov 2026 | Perf presents Língua Espúria | Amuleto Apotropaico |
+| Sat, 14 Nov 2026 | Perf presents Língua Espúria | Amuleto Apotropaico, System Sophie |
 | Fri, 20 Nov 2026 | C3D-E (live), Lexi | C3D-E |
 
 ## Address

@@ -10,7 +10,7 @@ Caleb Laurenson is a house and garage artist based in United Kingdom, with 3 gig
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 21 Nov 2026 | Ministry Of Sound | London |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Shares bills with
 

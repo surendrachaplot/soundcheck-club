@@ -10,7 +10,7 @@ Shy FX is a drum & bass and jungle artist based in United Kingdom, with 75 gigs 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Club Guesthouse | Bucharest |
 | Fri, 11 Dec 2026 | Pustervik | Gothenburg |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
 
 ## Recently played

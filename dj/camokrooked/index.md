@@ -12,7 +12,7 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, with 87 gigs o
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
 | Thu, 31 Dec 2026 | Sawmills | Bristol |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

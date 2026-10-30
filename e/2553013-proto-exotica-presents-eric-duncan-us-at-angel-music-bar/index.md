@@ -1,6 +1,6 @@
 # Proto Exotica presents Eric Duncan (US) at Angel Music Bar
 
-Proto Exotica presents Eric Duncan (US) at Angel Music Bar on Fri 13 Nov, Melbourne. 5 artists: Eric Duncan, Freddy Gardens, Jasper Miles and Proto-Exotica and 1 more. See the line-up on soundcheck.
+Proto Exotica presents Eric Duncan (US) at Angel Music Bar on Fri 13 Nov, Melbourne. 6 artists: Chilled Red, Eric Duncan, Freddy Gardens and Jasper Miles and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Proto Exotica presents Eric Duncan (US) at Angel Music Bar on Fri 13 Nov, Melbou
 
 ## Line-up
 
+- Chilled Red
 - Eric Duncan
 - Freddy Gardens
 - Jasper Miles

@@ -1,8 +1,8 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Honeysmack's House of Horrors" on Fri, 30 Oct 2026.
+Collingwood Basement is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Honeysmack's House of Horrors" on Fri, 30 Oct 2026.
 
-Collingwood Basement is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including BERGA, DJ Kiti, DJ Sprinter and Honeysmack and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
+Collingwood Basement is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including BERGA, Christopher Coe, DJ Kiti and DJ Sprinter and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 7 upcom
 | Fri, 20 Nov 2026 | Eucladia presents Sunju Hargun (TH) | JD (4), Sunju Hargun |
 | Fri, 4 Dec 2026 | The Waxburners w. Kiti & Aw B | DJ Kiti, The Waxburners |
 | Sat, 5 Dec 2026 | Succulent Funk with Simon Caldwell, Sammy Sanchez & Jasper Miles | Jasper Miles, Sammy Sanchez, Simon Caldwell |
+| Sat, 12 Dec 2026 | Christopher Coe (Live all Night) | Christopher Coe |
 
 ## Address
 

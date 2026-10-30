@@ -1,14 +1,15 @@
 # MATEA
 
-MATEA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - UPON REGISTRATION, Athens on Sun, 1 Nov 2026.
+MATEA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - UPON REGISTRATION, Athens on Sun, 1 Nov 2026.
 
-MATEA is a techno and acid artist based in Greece, with 25 gigs on soundcheck across Athens and London. Often billed alongside Imperium, Deherian and Alisa Murphy. Next up: TBA - UPON REGISTRATION, Athens on Sun 1 Nov.
+MATEA is a techno and trance artist based in Greece, with 26 gigs on soundcheck across Athens and London. Often billed alongside Imperium, Deherian and Alisa Murphy. Next up: TBA - UPON REGISTRATION, Athens on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | TBA - UPON REGISTRATION | Athens |
+| Sat, 21 Nov 2026 | AUX Club | Athens |
 
 ## Recently played
 

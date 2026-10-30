@@ -11,7 +11,7 @@ Bozar is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, with l
 | Fri, 6 Nov 2026 | Grouper - Marina Herlop | Grouper, Marina Herlop |
 | Thu, 19 Nov 2026 | Bozar Bassment #2: Saint Abdullah, Eomac & Rebecca Salvadori - NVST & Mika Oki | Eomac, Mika Oki, NVST, Rebecca Salvadori (2) |
 | Thu, 17 Dec 2026 | Bozar Bassment #3: Carrier - 33 | Carrier (Aus) |
-| Thu, 28 Jan 2027 | Bozar Bassment #4: Stenny & OHME – Tristan Arp & Coline Cornélis | Coline Cornélis, OHME, Stenny, Tristan Arp |
+| Thu, 28 Jan 2027 | Bozar Bassment #4: Stenny – Tristan Arp & Coline Cornélis | Coline Cornélis, Stenny, Tristan Arp |
 | Thu, 18 Feb 2027 | Bozar Bassment #5: Verraco & Lechuga Zafiro - Vica Pacheco & Luís Pestana | Lechuga Zafiro, Verraco |
 
 ## Address

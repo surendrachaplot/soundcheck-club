@@ -11,7 +11,7 @@ Sexy Lady Massive is a jungle and garage artist based in United Kingdom, with 74
 | Fri, 30 Oct 2026 | Hidden | Manchester |
 | Sat, 31 Oct 2026 | The Prospect Building | Bristol |
 | Sat, 14 Nov 2026 | Albert Hall | Manchester |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

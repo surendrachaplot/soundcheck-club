@@ -1,8 +1,8 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+DJ BORING is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-DJ BORING is a house and techno artist based in Australia, with 232 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Factory Town, Miami on Fri 30 Oct.
+DJ BORING is a house and techno artist based in Australia, with 234 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -16,7 +16,9 @@ DJ BORING is a house and techno artist based in Australia, with 232 gigs on soun
 | Sat, 28 Nov 2026 | The Warehouse | Leeds |
 | Tue, 1 Dec 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
+| Sun, 28 Feb 2027 | Ozone Reserve | Perth |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
+| Sat, 6 Mar 2027 | Gateway Bridge Underpass | Brisbane |
 
 ## Recently played
 

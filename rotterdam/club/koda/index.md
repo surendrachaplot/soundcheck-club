@@ -1,8 +1,8 @@
 # Koda
 
-Koda is a music venue in Rotterdam with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Bange Nerds" on Fri, 30 Oct 2026.
+Koda is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Bange Nerds" on Fri, 30 Oct 2026.
 
-Koda is a music venue in Rotterdam listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Makkersstraat 11, Schiedam.
+Koda is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with line-ups including FELBM and Haron. See dates, start times and who's playing. Makkersstraat 11, Schiedam.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Koda is a music venue in Rotterdam listed on soundcheck. 4 upcoming gigs. See da
 | Sat, 31 Oct 2026 | Long Play: Andy Stott - Late Loop |  |
 | Sun, 1 Nov 2026 | Silent Tea Gathering + Daydreaming |  |
 | Fri, 6 Nov 2026 | Film Without Image |  |
+| Fri, 13 Nov 2026 | Objects & Sounds X Koda | FELBM, Haron |
 
 ## Address
 

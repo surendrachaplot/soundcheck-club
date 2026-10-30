@@ -1,8 +1,8 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Timber Loft, London on Sun, 1 Nov 2026.
+Anna Wall is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Timber Loft, London on Sun, 1 Nov 2026.
 
-Anna Wall is a house and techno artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: The Timber Loft, London on Sun 1 Nov.
+Anna Wall is a house and techno artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: The Timber Loft, London on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Anna Wall is a house and techno artist based in United Kingdom, with 126 gigs on
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | The Timber Loft | London |
 | Sat, 7 Nov 2026 | Cadavra | Madrid |
+| Fri, 13 Nov 2026 | Radio Radio | Amsterdam |
 | Sat, 14 Nov 2026 | TBA - 75013 | Paris |
 | Sun, 22 Nov 2026 | Starlane Pizza Bar | London |
 | Sat, 28 Nov 2026 | The Model | Nottingham |

@@ -1,13 +1,14 @@
 # dameeeela
 
-dameeeela is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Sydney on Sat, 7 Nov 2026.
+dameeeela is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 1 Nov 2026.
 
-dameeeela is a techno and house artist based in Australia, with 65 gigs on soundcheck across Adelaide, Brisbane, Byron Bay and Melbourne and 2 more. Often billed alongside DJ PGZ, FUKHED and GMOZ. Next up: TBA, Sydney on Sat 7 Nov.
+dameeeela is a techno and house artist based in Australia, with 66 gigs on soundcheck across Adelaide, Brisbane, Byron Bay and Melbourne and 2 more. Often billed alongside DJ PGZ, FUKHED and GMOZ. Next up: Smith St Hotel, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Smith St Hotel | Melbourne |
 | Sat, 7 Nov 2026 | TBA | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 

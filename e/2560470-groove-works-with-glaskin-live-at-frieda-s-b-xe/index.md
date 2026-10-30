@@ -1,6 +1,6 @@
 # groove works with Glaskin Live at Frieda's Büxe
 
-groove works with Glaskin Live at Frieda's Büxe on Sat 21 Nov, Zurich. 5 artists: Cortez, Glaskin, Kuona and SCNR and 1 more. Techno and House. See the line-up on soundcheck.
+groove works with Glaskin Live at Frieda's Büxe on Sat 21 Nov, Zurich. 6 artists: Cortez, Glaskin, Jil Corti and Kuona and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ groove works with Glaskin Live at Frieda's Büxe on Sat 21 Nov, Zurich. 5 artist
 
 - Cortez (2)
 - Glaskin
+- Jil Corti
 - Kuona
 - SCNR
 - Smuda

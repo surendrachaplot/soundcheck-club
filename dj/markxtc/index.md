@@ -1,14 +1,15 @@
 # Mark XTC
 
-Mark XTC is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
+Mark XTC is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
 
-Mark XTC is a jungle and drum & bass artist based in United Kingdom, with 60 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 2 more. Often billed alongside North Base, Nicky Blackmarket and Slipmatt. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 31 Oct.
+Mark XTC is a jungle and drum & bass artist based in United Kingdom, with 61 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 2 more. Often billed alongside North Base, Nicky Blackmarket and Slipmatt. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Six Trees Bar And Kitchen Manchester | Manchester |
+| Thu, 31 Dec 2026 | Rebellion | Manchester |
 
 ## Recently played
 

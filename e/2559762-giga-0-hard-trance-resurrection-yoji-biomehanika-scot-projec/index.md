@@ -1,6 +1,6 @@
 # GIGA [-0] 'HARD TRANCE RESURRECTION' - Yoji Biomehanika / Scot Project - at ZEROTOKYO
 
-GIGA [-0] 'HARD TRANCE RESURRECTION' - Yoji Biomehanika / Scot Project - at ZEROTOKYO on Fri 20 Nov, Tokyo. 3 artists: HATSUYUKI, Scot Project and Yoji Biomehanika. Trance. See the line-up on soundcheck.
+GIGA [-0] 'HARD TRANCE RESURRECTION' - Yoji Biomehanika / Scot Project - at ZEROTOKYO on Fri 20 Nov, Tokyo. 4 artists: HATSUYUKI, Krankent, Scot Project and Yoji Biomehanika. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ GIGA [-0] 'HARD TRANCE RESURRECTION' - Yoji Biomehanika / Scot Project - at ZERO
 ## Line-up
 
 - HATSUYUKI
+- Krankent
 - Scot Project
 - Yoji Biomehanika
 

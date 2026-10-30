@@ -1,6 +1,6 @@
-# Moc & KEI NAKAHARA at DJ Bar Bridge Shinjuku
+# Moc & KEI_NAKAHARA at DJ Bar Bridge Shinjuku
 
-Moc & KEI NAKAHARA at DJ Bar Bridge Shinjuku on Wed 18 Nov, Tokyo. House. See the line-up on soundcheck.
+Moc & KEI_NAKAHARA at DJ Bar Bridge Shinjuku on Wed 18 Nov, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

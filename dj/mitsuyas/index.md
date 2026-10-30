@@ -1,14 +1,15 @@
 # MiTSUYAS
 
-MiTSUYAS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Socore Factory, Osaka on Sat, 28 Nov 2026.
+MiTSUYAS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Socore Factory, Osaka on Sat, 28 Nov 2026.
 
-MiTSUYAS is a techno and house artist based in Japan, with 57 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Kohei, Shingo and AKNL. Next up: Socore Factory, Osaka on Sat 28 Nov.
+MiTSUYAS is a techno and house artist based in Japan, with 58 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Kohei, Shingo and AKNL. Next up: Socore Factory, Osaka on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Socore Factory | Osaka |
+| Fri, 4 Dec 2026 | Compufunk Records | Osaka |
 
 ## Recently played
 

@@ -14,7 +14,7 @@ Napes is a drum & bass and jungle artist based in United Kingdom, with 90 gigs o
 | Fri, 13 Nov 2026 | fabric | London |
 | Sat, 14 Nov 2026 | Digital | Newcastle |
 | Fri, 11 Dec 2026 | Beaver Works | Leeds |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

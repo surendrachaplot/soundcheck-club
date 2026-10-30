@@ -1,8 +1,8 @@
 # Mathias Kaden
 
-Mathias Kaden is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 31 Oct 2026.
+Mathias Kaden is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 31 Oct 2026.
 
-Mathias Kaden is a house and techno artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Antwerp, Austria and Bali and 23 more. Often billed alongside Chris Liebing, Matthias Tanzmann and Radio Slave. Next up: MH5 Rooftop, Munich on Sat 31 Oct.
+Mathias Kaden is a house and techno artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Antwerp, Austria and Bali and 23 more. Often billed alongside Chris Liebing, Matthias Tanzmann and Radio Slave. Next up: MH5 Rooftop, Munich on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Mathias Kaden is a house and techno artist based in Germany, with 79 gigs on sou
 | Sat, 28 Nov 2026 | Ampere | Antwerp |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 | Fri, 18 Dec 2026 | Gewölbe | Cologne |
+| Sat, 19 Dec 2026 | Fridas Pier | Stuttgart |
 
 ## Recently played
 

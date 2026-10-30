@@ -12,7 +12,7 @@ Y U QT is a garage and bass artist based in United Kingdom, with 119 gigs on sou
 | Sat, 31 Oct 2026 | Beaver Works | Leeds |
 | Fri, 20 Nov 2026 | Lakota | Bristol |
 | Fri, 4 Dec 2026 | New Century Locker | Manchester |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

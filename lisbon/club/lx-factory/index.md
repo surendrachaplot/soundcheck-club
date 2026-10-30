@@ -9,7 +9,7 @@ Lx Factory is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | BCCO with ÜBERKIKZ, Mac Declos, Ketarina & More | Ketarina, Mac Declos, Meibi, Taxsh, ÜBERKIKZ |
-| Sat, 14 Nov 2026 | Hungry4 with Eris Drew b2b Octo Octa, Ogazón & More | Eris Drew, Miguel Nery, Nicolle Velcro, Octa Push, Octo Octa, Ogazón, Yen Sung |
+| Sat, 14 Nov 2026 | Hungry4 with Eris Drew b2b Octo Octa, Ogazón & More | Eris Drew, Miguel Nery, Nicolle Velcro, Octo Octa, Ogazón, Yen Sung |
 | Sat, 28 Nov 2026 | DESERT RAIN presents Folamour | Folamour |
 
 ## Address

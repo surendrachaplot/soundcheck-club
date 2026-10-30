@@ -17,7 +17,7 @@ Locklead is a house and tech house artist based in Netherlands, with 203 gigs on
 | Fri, 27 Nov 2026 | Supermarket | Zurich |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

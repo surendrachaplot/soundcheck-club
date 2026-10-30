@@ -16,7 +16,7 @@ BTAY is a house and disco artist based in United Kingdom, with 26 gigs on soundc
 | Thu, 3 Dec 2026 | XOYO | London |
 | Thu, 10 Dec 2026 | XOYO | London |
 | Thu, 17 Dec 2026 | XOYO | London |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

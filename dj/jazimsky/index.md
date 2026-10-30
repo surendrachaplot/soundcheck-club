@@ -14,7 +14,7 @@ JAZ IMSKY is a dubstep and bass artist based in United Kingdom, with 35 gigs on 
 | Sat, 31 Oct 2026 | Beaver Works | Leeds |
 | Fri, 6 Nov 2026 | Disco Zwei | Mannheim |
 | Sat, 21 Nov 2026 | Outernet Live | London |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

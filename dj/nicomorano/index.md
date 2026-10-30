@@ -1,8 +1,8 @@
 # Nico Morano
 
-Nico Morano is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Villa Blanca Lifestyle, Los Angeles on Sat, 31 Oct 2026.
+Nico Morano is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Villa Blanca Lifestyle, Los Angeles on Sat, 31 Oct 2026.
 
-Nico Morano is a house and techno artist based in Belgium, with 73 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: Villa Blanca Lifestyle, Los Angeles on Sat 31 Oct.
+Nico Morano is a house and techno artist based in Belgium, with 74 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: Villa Blanca Lifestyle, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nico Morano is a house and techno artist based in Belgium, with 73 gigs on sound
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Villa Blanca Lifestyle | Los Angeles |
 | Fri, 6 Nov 2026 | Do Not Sit On The Furniture | Miami |
+| Fri, 20 Nov 2026 | Hive Club | Zurich |
 | Thu, 3 Dec 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played

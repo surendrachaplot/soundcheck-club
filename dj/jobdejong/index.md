@@ -19,7 +19,7 @@ Job de Jong is a house and tech house artist based in Netherlands, with 178 gigs
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 4 Dec 2026 | Centre Point | Dublin |
 | Sat, 12 Dec 2026 | The Liquid Room | Edinburgh |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

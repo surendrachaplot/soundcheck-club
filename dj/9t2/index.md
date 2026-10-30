@@ -1,14 +1,15 @@
 # 9T2
 
-9T2 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Plano B, Porto on Sat, 31 Oct 2026.
+9T2 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Plano B, Porto on Sat, 31 Oct 2026.
 
-9T2 is a house and techno artist based in Portugal, with 32 gigs on soundcheck across Barcelona, Hamburg, Lisbon and London and 2 more. Often billed alongside JOFF., Carlos Regadas and Joff. Next up: Plano B, Porto on Sat 31 Oct.
+9T2 is a house and techno artist based in Portugal, with 33 gigs on soundcheck across Barcelona, Hamburg, Lisbon and London and 2 more. Often billed alongside JOFF., Carlos Regadas and Joff. Next up: Plano B, Porto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Plano B | Porto |
+| Sat, 14 Nov 2026 | Lottus | Porto |
 
 ## Recently played
 

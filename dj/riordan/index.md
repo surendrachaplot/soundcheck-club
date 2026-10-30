@@ -19,7 +19,7 @@ Riordan is a house and tech house artist based in United Kingdom, with 135 gigs 
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
 | Fri, 5 Feb 2027 | The Concourse Project | Austin |
 | Sat, 13 Feb 2027 | Radius | Chicago |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

@@ -12,7 +12,7 @@ Scarlett O'Malley is a house and disco artist based in United Kingdom, with 108 
 | Sat, 14 Nov 2026 | Palais | London |
 | Fri, 20 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 5 Feb 2027 | The Concourse Project | Austin |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

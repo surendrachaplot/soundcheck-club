@@ -1,14 +1,14 @@
 # Electric Indigo
 
-Electric Indigo is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - WESTBAHN STUDIOS, Vienna on Sat, 14 Nov 2026.
+Electric Indigo is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Westbahnstudios, Vienna on Sat, 14 Nov 2026.
 
-Electric Indigo is an experimental and techno artist based in Austria, with 35 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Mieko Suzuki, Ale Hop and Jasmine Guffond. Next up: TBA - WESTBAHN STUDIOS, Vienna on Sat 14 Nov.
+Electric Indigo is an experimental and techno artist based in Austria, with 35 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Mieko Suzuki, Ale Hop and Jasmine Guffond. Next up: Westbahnstudios, Vienna on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - WESTBAHN STUDIOS | Vienna |
+| Sat, 14 Nov 2026 | Westbahnstudios | Vienna |
 
 ## Recently played
 

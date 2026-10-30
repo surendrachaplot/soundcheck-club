@@ -1,6 +1,6 @@
 # CATRONICA
 
-CATRONICA is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Koenji Cave, Tokyo on Fri, 30 Oct 2026.
+CATRONICA is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Koenji Cave, Tokyo on Fri, 30 Oct 2026.
 
 CATRONICA is a psytrance and techno artist based in Japan, with 47 gigs on soundcheck across Kanto and Tokyo. Often billed alongside BEPPU, kgee and Kodai. Next up: Koenji Cave, Tokyo on Fri 30 Oct.
 
@@ -9,7 +9,6 @@ CATRONICA is a psytrance and techno artist based in Japan, with 47 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Koenji Cave | Tokyo |
-| Fri, 30 Oct 2026 | DeTour | Tokyo |
 
 ## Recently played
 

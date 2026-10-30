@@ -1,6 +1,6 @@
 # Neat Neat Neat with Viscera, Gambol [kru], Josh Padgett + Matt Pugh at komunal
 
-Neat Neat Neat with Viscera, Gambol [kru], Josh Padgett + Matt Pugh at komunal on Fri 6 Nov, Birmingham. 1 artist: Viscera. Techno and Electronica. See the line-up on soundcheck.
+Neat Neat Neat with Viscera, Gambol [kru], Josh Padgett + Matt Pugh at komunal on Fri 6 Nov, Birmingham. 2 artists: Matt Cowell and Viscera. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Neat Neat Neat with Viscera, Gambol [kru], Josh Padgett + Matt Pugh at komunal o
 
 ## Line-up
 
+- Matt Cowell
 - Viscera
 
 *Source: [soundcheck](https://soundcheck.club/e/2564819-neat-neat-neat-with-viscera-gambol-kru-josh-padgett-matt-pug/)*

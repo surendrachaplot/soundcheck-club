@@ -1,8 +1,8 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "GERO ALL NIGHT LONG" on Fri, 30 Oct 2026.
+Mitsuki is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "GERO ALL NIGHT LONG" on Fri, 30 Oct 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including akii, AKIRAM EN, Alex Neri and Al Jones and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including akii, AKIRAM EN, Alex Neri and Al Jones and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 

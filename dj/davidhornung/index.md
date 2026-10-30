@@ -1,14 +1,15 @@
 # David Hornung
 
-David Hornung is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZIRKA, Munich on Sat, 7 Nov 2026.
+David Hornung is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ZIRKA, Munich on Sat, 7 Nov 2026.
 
-David Hornung is a house and techno artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Berlin, Dresden and Frankfurt and 11 more. Often billed alongside Javier Gallardo, Jôka and Buzé. Next up: ZIRKA, Munich on Sat 7 Nov.
+David Hornung is a house and techno artist based in Germany, with 52 gigs on soundcheck across Amsterdam, Berlin, Dresden and Frankfurt and 11 more. Often billed alongside Javier Gallardo, Jôka and Buzé. Next up: ZIRKA, Munich on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | ZIRKA | Munich |
+| Wed, 11 Nov 2026 | Utopia - A Happening Place | Munich |
 
 ## Recently played
 

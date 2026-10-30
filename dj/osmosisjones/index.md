@@ -19,7 +19,7 @@ Osmosis Jones is a garage and house artist based in Australia, with 103 gigs on 
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
 | Sat, 20 Feb 2027 | 560 S Mission Rd. | Los-angeles |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

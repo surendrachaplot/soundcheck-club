@@ -1,6 +1,6 @@
 # LOS LOCOS: POSSESSION - Plea5urepul5e, OTHERSIDE, DJ PIRO, EMME b2b MGGM at CIRCOLO BOTULINO
 
-LOS LOCOS: POSSESSION - Plea5urepul5e, OTHERSIDE, DJ PIRO, EMME b2b MGGM at CIRCOLO BOTULINO on Fri 30 Oct, Milan. 4 artists: DJ PIRO, EMME, OTHERSIDE (ITA) and Plea5urepul5e. Techno and Gabber. See the line-up on soundcheck.
+LOS LOCOS: POSSESSION - Plea5urepul5e, OTHERSIDE, DJ PIRO, EMME b2b MGGM at CIRCOLO BOTULINO on Fri 30 Oct, Milan. 5 artists: DJ PIRO, EMME, MGGM and OTHERSIDE (ITA) and 1 more. Techno and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ LOS LOCOS: POSSESSION - Plea5urepul5e, OTHERSIDE, DJ PIRO, EMME b2b MGGM at CIRC
 
 - DJ PIRO
 - EMME (3)
+- MGGM
 - OTHERSIDE (ITA)
 - Plea5urepul5e
 

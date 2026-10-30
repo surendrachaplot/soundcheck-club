@@ -1,8 +1,8 @@
 # Mint XL
 
-Mint XL is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Mint XL Halloween: Riordan, Delilah, Stef Davidse + more" on Fri, 30 Oct 2026.
+Mint XL is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Mint XL Halloween: Riordan, Delilah, Stef Davidse + more" on Fri, 30 Oct 2026.
 
-Mint XL is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including ADMNTi, ADR (UK), A For Alpha and Alex Farell and 2 more. See dates, start times and who's playing.
+Mint XL is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including ADMNTi, ADR (UK), A For Alpha and Alex Farell and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

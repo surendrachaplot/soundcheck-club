@@ -1,13 +1,14 @@
 # Mimi
 
-Mimi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Mimi is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Zelus Athens, Athens on Fri, 30 Oct 2026.
 
-Mimi is a techno and electronica artist based in Croatia, with 71 gigs on soundcheck across Athens, Basel, Belgrade and Brighton and 17 more. Often billed alongside DJ Labud, JOVE and schwabe. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
+Mimi is a techno and electronica artist based in Croatia, with 72 gigs on soundcheck across Athens, Basel, Belgrade and Brighton and 17 more. Often billed alongside DJ Labud, JOVE and schwabe. Next up: Zelus Athens, Athens on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Zelus Athens | Athens |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played

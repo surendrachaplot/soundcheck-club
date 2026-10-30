@@ -18,7 +18,7 @@ Robbie Doherty is a house and tech house artist based in United Kingdom, with 16
 | Sat, 12 Dec 2026 | BASIS | Utrecht |
 | Thu, 31 Dec 2026 | Depot | Cardiff |
 | Fri, 22 Jan 2027 | Igloofest | Montreal |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

@@ -17,7 +17,7 @@ Hidde van Wee is a house and tech house artist based in Netherlands, with 80 gig
 | Sun, 6 Dec 2026 | Thuishaven | Amsterdam |
 | Thu, 31 Dec 2026 | Hal 4 aan de Maas | Rotterdam |
 | Thu, 31 Dec 2026 | Club Holy Moly | Netherlands |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

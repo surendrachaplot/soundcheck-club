@@ -13,7 +13,7 @@ Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 
 | Sat, 31 Oct 2026 | Meraki | Liverpool |
 | Fri, 20 Nov 2026 | Stereo | Glasgow |
 | Thu, 31 Dec 2026 | The Clock Factory | Bristol |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played

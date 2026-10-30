@@ -10,7 +10,7 @@ MTW is a music venue in Frankfurt listed on soundcheck. 5 upcoming gigs, with li
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | WE ARE ONE x MTW with Karamustan, Zapravka | ANN-LUX, Formale Bassgestaltung, Karamustan, MRCL, Paranormila, TATAKI |
 | Sat, 14 Nov 2026 | Raum für Ton Klubnacht: Parallx, Artificial DNA, co:co, MAURER, Maeksll, Butschi u.v.m | Artificial DNA, Butschi, CLAVD, Leskus, MAURER, Maeksll, Maharti, Parallx, Ponygirl, Tarkan, co:co |
-| Sat, 28 Nov 2026 | WE ARE ONE x MTW with TAKTSTÖRER & Tiefundton | CiKi, Eurodance2000, Kacy, TAKTSTÖRER, The Belgian Stallion, Tiefundton |
+| Sat, 28 Nov 2026 | WE ARE ONE x MTW with TAKTSTÖRER & Tiefundton | CiKi, Kacy, Kiko, TAKTSTÖRER, The Belgian Stallion, Tiefundton |
 | Sat, 12 Dec 2026 | WE ARE ONE x MTW mit POLTERGST | Poltergeist |
 | Thu, 31 Dec 2026 | WE ARE ONE x MTW - NYE | DeGuzman, Matthias Olck |
 

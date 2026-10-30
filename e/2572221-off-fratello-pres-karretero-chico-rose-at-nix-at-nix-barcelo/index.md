@@ -1,6 +1,6 @@
 # OFF & FRATELLO pres Karretero, CHICO ROSE at Nix at NIX Barcelona
 
-OFF & FRATELLO pres Karretero, CHICO ROSE at Nix at NIX Barcelona on Fri 20 Nov, Barcelona. 2 artists: Karretero and Sebastián Peña. Tech House. See the line-up on soundcheck.
+OFF & FRATELLO pres Karretero, CHICO ROSE at Nix at NIX Barcelona on Fri 20 Nov, Barcelona. 3 artists: Chico Rose, Karretero and Sebastián Peña. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ OFF & FRATELLO pres Karretero, CHICO ROSE at Nix at NIX Barcelona on Fri 20 Nov,
 
 ## Line-up
 
+- Chico Rose
 - Karretero
 - Sebastián Peña
 

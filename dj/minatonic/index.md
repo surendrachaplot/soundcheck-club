@@ -1,14 +1,15 @@
 # Mina Tonic
 
-Mina Tonic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 31 Oct 2026.
+Mina Tonic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Revolver Upstairs, Melbourne on Sat, 31 Oct 2026.
 
-Mina Tonic is a house and techno artist based in Australia, with 32 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Ari Kiko, Casual P and Jane Decks. Next up: Revolver Upstairs, Melbourne on Sat 31 Oct.
+Mina Tonic is a house and techno artist based in Australia, with 33 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Ari Kiko, Casual P and Jane Decks. Next up: Revolver Upstairs, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Revolver Upstairs | Melbourne |
+| Sat, 19 Dec 2026 | TBA | Sydney |
 
 ## Recently played
 

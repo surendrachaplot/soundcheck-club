@@ -12,7 +12,7 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 21 upcoming gigs, w
 | Sat, 31 Oct 2026 | ENSITE 4 Year Anniversary with Mareena (Tresor, Unrush, Fides) | AI (10), Isshin, Kotaro Shimizu, Lynta, Mareena, Yui (JP), tnseei |
 | Mon, 2 Nov 2026 | Craig Richards | AOKI takamasa, Craig Richards |
 | Mon, 2 Nov 2026 | Craig Richards | AOKI takamasa, Craig Richards, SAMO (JP) |
-| Thu, 5 Nov 2026 | Sandrien | Sandrien |
+| Thu, 5 Nov 2026 | Sandrien | Sandrien, YAMA(JP/OSK) |
 | Fri, 6 Nov 2026 | Critical Sound japan 2026 | Fonts, Kasra |
 | Sat, 7 Nov 2026 | PAM x CANNABIS x OOPS OSAKA LAUNCH PARTY | HIMAWARI, SAMO (JP), kengotaki |
 | Fri, 13 Nov 2026 | MOVE ムーブ | Al Jones, Alex Neri, Baldo, Paperkraft |

@@ -17,7 +17,7 @@ Dennis Quin is a house and tech house artist based in Netherlands, with 167 gigs
 | Sat, 21 Nov 2026 | Electric Studios | Sheffield |
 | Fri, 4 Dec 2026 | Centre Point | Dublin |
 | Sat, 12 Dec 2026 | The Liquid Room | Edinburgh |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

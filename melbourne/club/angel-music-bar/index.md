@@ -13,7 +13,7 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 7 upcoming g
 | Tue, 3 Nov 2026 | NOW.HERE.THIS. x Angel Music Bar | Felix Meredith, Kgomotso, Mansa, NALIITA |
 | Thu, 5 Nov 2026 | LAN presents Idealist Live (CH) | Hyperprism, Idealist, Willis Anne |
 | Fri, 6 Nov 2026 | Angel presents Tarzsa (UK) | Kuzco, Tarzsa, afreckle |
-| Fri, 13 Nov 2026 | Proto Exotica presents Eric Duncan (US) | Eric Duncan, Freddy Gardens, Jasper Miles, Proto-Exotica, Sammy Sanchez |
+| Fri, 13 Nov 2026 | Proto Exotica presents Eric Duncan (US) | Chilled Red, Eric Duncan, Freddy Gardens, Jasper Miles, Proto-Exotica, Sammy Sanchez |
 | Fri, 20 Nov 2026 | ENZI Archive | Bappy |
 
 ## Address

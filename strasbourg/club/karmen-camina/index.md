@@ -13,7 +13,7 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 15 upcoming g
 | Thu, 5 Nov 2026 | COMBO CLUB [HiLo, Ødass] |  |
 | Fri, 6 Nov 2026 | Musik im Augenblick [Alice Gift (live) • DJ Marcelle • Oskar Haag (live) • Rachid Bowie] | DJ Marcelle |
 | Sat, 7 Nov 2026 | KC [Ollie Lishman • RUIZ OSC1 • TristeTrans • VOIDE] | Ollie Lishman, RUIZ OSC1 |
-| Thu, 12 Nov 2026 | ALGORAVE [Crash server, Jia Liu & Michel Samarotto, Students] |  |
+| Thu, 12 Nov 2026 | ALGORAVE [Crash server, Jia Liu & Michele Samarotto, Students] |  |
 | Fri, 13 Nov 2026 | KOLLECTIV • ZEST RADIO [Om Unit • Blakkstar • Trash Mc.Queen • RCB SOUNDSYSTEM] | Om Unit |
 | Sat, 14 Nov 2026 | KC x FLASHBALL [Nicolas Lutz • Sedef Adasï • Mel • Sanon] | Nicolas Lutz, Sedef Adasï |
 | Thu, 19 Nov 2026 | COMBO CLUB [Shônagon & Glenn Prinz] |  |

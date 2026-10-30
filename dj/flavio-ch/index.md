@@ -1,13 +1,14 @@
 # Flavio (CH)
 
-Flavio (CH) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Supermarket, Zurich on Sat, 14 Nov 2026.
+Flavio (CH) is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Cross Roppongi, Tokyo on Fri, 6 Nov 2026.
 
-Flavio (CH) is a minimal and house artist based in Switzerland, with 37 gigs on soundcheck across Bucharest, Istanbul, San Francisco/Oakland and Tokyo and 1 more. Often billed alongside Aline (CH), Aron (CH) and Alci. Next up: Supermarket, Zurich on Sat 14 Nov.
+Flavio (CH) is a minimal and house artist based in Switzerland, with 38 gigs on soundcheck across Bucharest, Istanbul, San Francisco/Oakland and Tokyo and 1 more. Often billed alongside Aline (CH), Aron (CH) and Alci. Next up: Cross Roppongi, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Cross Roppongi | Tokyo |
 | Sat, 14 Nov 2026 | Supermarket | Zurich |
 
 ## Recently played

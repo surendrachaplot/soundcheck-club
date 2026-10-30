@@ -13,7 +13,7 @@ Recyclart is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, wi
 | Fri, 6 Nov 2026 | Rawabet Festival w/ Barrani : "Corps Citoyen" + Rust : "Transit" |  |
 | Fri, 13 Nov 2026 | Julie Rains & friends ~ Lentement Remix Release | Binkbeats, Rowan |
 | Sat, 14 Nov 2026 | ISENGARD with DJ Marcelle, Spooky, Burden Reverse, stargirlmorocco, VINESSETT | Bianca Scout, DJ Marcelle, Spooky, VINESSETT |
-| Fri, 4 Dec 2026 | Encore Dub #7 : Vibronics, Elmib'A Mboa feat Jonah Dan, Dasha Fyah, Encore Dub Crew | Carrageenan, Dasha Fyah, EliseThere |
+| Fri, 4 Dec 2026 | Encore Dub #7 : Vibronics, Elimb'A Mboa feat Jonah Dan, Dasha Fyah, Encore Dub Crew | Carrageenan, Dasha Fyah, EliseThere |
 
 ## Address
 

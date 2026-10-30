@@ -1,8 +1,8 @@
 # Baldo
 
-Baldo is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hertz, Seoul on Fri, 30 Oct 2026.
+Baldo is a House and Acid artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hertz, Seoul on Fri, 30 Oct 2026.
 
-Baldo is a house and acid artist based in Spain, with 93 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside Benjamin Fröhlich, Al Jones and Alex Neri. Next up: Hertz, Seoul on Fri 30 Oct.
+Baldo is a house and acid artist based in Spain, with 94 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside Benjamin Fröhlich, Al Jones and Alex Neri. Next up: Hertz, Seoul on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Baldo is a house and acid artist based in Spain, with 93 gigs on soundcheck acro
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Hertz | Seoul |
 | Sat, 31 Oct 2026 | Clutch, Warehouse Bangkok | Bangkok |
+| Fri, 6 Nov 2026 | Klymax Discotheque | Bali |
 | Fri, 13 Nov 2026 | Circus Osaka | Osaka |
 | Sat, 14 Nov 2026 | Club Metro | Kyoto |
 

@@ -12,7 +12,7 @@ Lauren Lo Sung is a house and tech house artist based in United Kingdom, with 11
 | Sat, 14 Nov 2026 | Complex Maastricht | Netherlands |
 | Sat, 21 Nov 2026 | NX Newcastle | Newcastle |
 | Sat, 26 Dec 2026 | Carousel Bar & Ballroom | Sydney |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

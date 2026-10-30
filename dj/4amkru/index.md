@@ -17,7 +17,7 @@
 | Sat, 28 Nov 2026 | The Nest | Nottingham |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 | Fri, 8 Jan 2027 | Oxford Art Factory | Sydney |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

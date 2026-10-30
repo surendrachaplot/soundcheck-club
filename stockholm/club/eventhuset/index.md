@@ -13,7 +13,7 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 9 upcoming gigs, 
 | Sat, 7 Nov 2026 | CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker | CC Luna, Metapattern |
 | Sat, 14 Nov 2026 | hypnorex [Berlin], 'Mindbender', Momenth, The Machine Soul, Högt I Tak, Yomi One, Nevada Cato | Håkan Momenth, Marten Attling, The Machine Soul, hypnorex |
 | Sat, 21 Nov 2026 | LOLSNAKE (Weeeirdos Säule Berlin) >> MAGNUS CC >> MERILIN at BRONX | LOLSNAKE, MERILIN, Magnuscc |
-| Sat, 28 Nov 2026 | BRONX > LAMACHINE (STHLM) > ARANEA (GBG) > PAUL FITZGIBBON (Ireland) > Billie Jo > E Nässén | ARANEA, Billie Jo, Evelina Nässén, LAMACHINE, Paul Fitzgibbon |
+| Sat, 28 Nov 2026 | BRONX > LAMACHINE (STHLM) > ARANEA (GBG) > PAUL FITZGIBBON (Ireland) > Billie Jo > Queen E | ARANEA, Billie Jo, Evelina Nässén, LAMACHINE, Paul Fitzgibbon, Queen E |
 | Sat, 5 Dec 2026 | CC Luna invites Berlin and Tiblisi Dj  Connor Wall and BMI (Bakur Metreveli Interplanetary) | BMI (GE), CC Luna, Connor Wall |
 | Sat, 12 Dec 2026 | Younger Than Me >> Lana Dushe (EE) >> MERILIN | Lana Dushe, MERILIN, Younger Than Me |
 | Thu, 31 Dec 2026 | BRONX New Year's Eve Special International guests 2 floor |  |

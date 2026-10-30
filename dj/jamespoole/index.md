@@ -15,7 +15,7 @@ James Poole is a house and minimal artist based in United Kingdom, with 11 gigs 
 | Sun, 6 Dec 2026 | Thuishaven | Amsterdam |
 | Sat, 12 Dec 2026 | Klokgebouw | Eindhoven |
 | Sat, 19 Dec 2026 | La Cheetah Club | Glasgow |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

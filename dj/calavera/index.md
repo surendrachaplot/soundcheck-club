@@ -1,14 +1,15 @@
 # Calavera
 
-Calavera is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location , Tokyo on Sat, 31 Oct 2026.
+Calavera is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location , Tokyo on Sat, 31 Oct 2026.
 
-Calavera is a techno and house artist based in Italy, with 24 gigs on soundcheck across Hamburg, Melbourne, Milan and Rome and 1 more. Often billed alongside EMILIO, uuu7 and LYOM. Next up: TBA - Secret Location , Tokyo on Sat 31 Oct.
+Calavera is a techno and house artist based in Italy, with 25 gigs on soundcheck across Hamburg, Melbourne, Milan and Rome and 1 more. Often billed alongside EMILIO, LYOM and Soluna. Next up: TBA - Secret Location , Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - Secret Location  | Tokyo |
+| Fri, 13 Nov 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Calavera is a techno and house artist based in Italy, with 24 gigs on soundcheck
 
 ## Shares bills with
 
-EMILIO (3), uuu7, LYOM
+EMILIO (3), LYOM, Soluna
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calavera/)*

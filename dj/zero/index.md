@@ -9,7 +9,7 @@ Zero is a garage and drum & bass artist based in Croatia, with 44 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 7 Dec 2026 | Komedia Bath | West-wales |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

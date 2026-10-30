@@ -1,6 +1,6 @@
 # Spooky Magique 2026 at Geary Avenue Warehouse Project
 
-Spooky Magique 2026 at Geary Avenue Warehouse Project on Sat 31 Oct, Toronto. 4 artists: D.Mo, LIONESSA, maiiii and suciopath. Acid and Bass. See the line-up on soundcheck.
+Spooky Magique 2026 at Geary Avenue Warehouse Project on Sat 31 Oct, Toronto. 4 artists: D.Mo, LIONESSA, maiiii and suciopath. Bass and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -12,7 +12,7 @@ Hedex is a drum & bass and bass artist based in United Kingdom, with 85 gigs on 
 | Sat, 21 Nov 2026 | The Trusts Stadium | Auckland |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Fri, 22 Jan 2027 | The Concourse Project | Austin |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played

@@ -9,7 +9,7 @@ Final is a music venue in Taipei listed on soundcheck. 12 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | 酷趴踢𝗤𝗼𝗼𝗣𝗮：尾巴小姐 𝗟𝗮𝗱𝘆 𝗪𝗶𝘁𝗵 𝗔 𝗧𝗮𝗶𝗹 | Kemical SistaS, LinGia, MCQ@nDy, NEDU, Stereogamous, Sulk |
-| Sat, 31 Oct 2026 | Final Halloween: Schacke | Schacke |
+| Sat, 31 Oct 2026 | Final Halloween: Schacke | KUAN, Schacke |
 | Fri, 6 Nov 2026 | Chippy Nonstop | Chippy Nonstop |
 | Sat, 7 Nov 2026 | Sublime 昇華 pres. Linear System (FR) & Shoki Hayashi (JP) | Linear System (CR), Shoki Hayashi, Sub (TW) |
 | Fri, 13 Nov 2026 | ZONA: Liu Lee | Liu Lee |

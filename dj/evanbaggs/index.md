@@ -1,14 +1,15 @@
 # Evan Baggs
 
-Evan Baggs is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
+Evan Baggs is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
 
-Evan Baggs is a house and techno artist based in United States of America, with 155 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 52 more. Often billed alongside DJ Masda, Binh and Andy Luff. Next up: OneSixOne, Melbourne on Sun 1 Nov.
+Evan Baggs is a house and techno artist based in United States of America, with 156 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 52 more. Often billed alongside DJ Masda, Binh and Andy Luff. Next up: OneSixOne, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | OneSixOne | Melbourne |
+| Fri, 6 Nov 2026 | teller | Seoul |
 | Sat, 14 Nov 2026 | Gaffe | London |
 | Fri, 20 Nov 2026 | Hidden | Manchester |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |

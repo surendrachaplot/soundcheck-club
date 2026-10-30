@@ -17,7 +17,7 @@ bullet tooth is a house and garage artist based in United Kingdom, with 139 gigs
 | Sat, 21 Nov 2026 | The Brickworks | Nottingham |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Thu, 31 Dec 2026 | E1 | London |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

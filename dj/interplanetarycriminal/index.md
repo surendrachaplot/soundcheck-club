@@ -18,7 +18,7 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 | Sat, 5 Dec 2026 | The Telegraph Building | Belfast |
 | Sat, 13 Feb 2027 | The Regency Ballroom | San-francisco-oakland |
 | Sat, 20 Feb 2027 | 560 S Mission Rd. | Los-angeles |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

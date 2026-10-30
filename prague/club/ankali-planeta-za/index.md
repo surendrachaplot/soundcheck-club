@@ -9,7 +9,7 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 13 upcoming
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Archiv Teknologi: Pariah, Microchic, kletis | Microchic, Pariah, kletis |
-| Sat, 31 Oct 2026 | Spooky Sexy Extravgnza | Ayiaa, Big Lil, Fembot, PRDELANZA, TAPCUE, VISNEACS, patricccio |
+| Sat, 31 Oct 2026 | Spooky Sexy Extravgnza | Ayiaa, Big Lil, Fembot, Luxifera, PRDELANZA, TAPCUE, VISNEACS, patricccio |
 | Fri, 6 Nov 2026 | this is my house: Sedef Adasï, Surrealita, Yan & aláya | Sedef Adasï, Surrealita, Yan (CZ), aláya |
 | Sat, 7 Nov 2026 | Dřevjeno: Dušičky | Eva Falt, Kino Paladino, Malachi Constant, Matysku, anthró |
 | Fri, 13 Nov 2026 | ★ BRUXA with LOLSNAKE (Weeirdos), Nina Farrina, MIKLEI, Madeleine, 3ever, Silhouette, artilerie | 3ever, LOLSNAKE, MIKLEI, Madeleine, Nina Farrina, Silhouette, artilerie |

@@ -14,7 +14,7 @@ Sully is a jungle and drum & bass artist based in United Kingdom, with 156 gigs 
 | Fri, 20 Nov 2026 | M.O.T | London |
 | Fri, 18 Dec 2026 | The Cause | London |
 | Thu, 31 Dec 2026 | The Clock Factory | Bristol |
-| Fri, 30 Apr 2027 | Recinto Mallorca Live | Mallorca |
+| Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 

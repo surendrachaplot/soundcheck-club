@@ -1,6 +1,6 @@
 # Spooky Sexy Extravgnza at Ankali & Planeta Za
 
-Spooky Sexy Extravgnza at Ankali & Planeta Za on Sat 31 Oct, Prague. 7 artists: Ayiaa, Big Lil, Fembot and patricccio and 3 more. Techno and House. See the line-up on soundcheck.
+Spooky Sexy Extravgnza at Ankali & Planeta Za on Sat 31 Oct, Prague. 8 artists: Ayiaa, Big Lil, Fembot and Luxifera and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Spooky Sexy Extravgnza at Ankali & Planeta Za on Sat 31 Oct, Prague. 7 artists: 
 - Ayiaa
 - Big Lil
 - Fembot
+- Luxifera
 - patricccio
 - PRDELANZA
 - TAPCUE

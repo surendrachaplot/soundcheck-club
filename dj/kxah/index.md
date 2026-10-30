@@ -1,14 +1,15 @@
 # KXAH
 
-KXAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at KHIDI, Tbilisi on Fri, 6 Nov 2026.
+KXAH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KHIDI, Tbilisi on Fri, 6 Nov 2026.
 
-KXAH is a techno and house artist based in United States of America, with 87 gigs on soundcheck across Atlanta, Boston, Detroit and Miami and 2 more. Often billed alongside CSILLA, Concrete Husband and KYRUH. Next up: KHIDI, Tbilisi on Fri 6 Nov.
+KXAH is a techno and house artist based in United States of America, with 88 gigs on soundcheck across Atlanta, Boston, Detroit and Miami and 2 more. Often billed alongside CSILLA, Concrete Husband and KYRUH. Next up: KHIDI, Tbilisi on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | KHIDI | Tbilisi |
+| Sat, 21 Nov 2026 | Sardafi | Tbilisi |
 
 ## Recently played
 
