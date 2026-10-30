@@ -1,8 +1,8 @@
 # Lakuti
 
-Lakuti is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
+Lakuti is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
-Lakuti is a house and techno artist based in United Kingdom, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
+Lakuti is a house and techno artist based in United Kingdom, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Lakuti is a house and techno artist based in United Kingdom, with 223 gigs on so
 | Sun, 1 Nov 2026 | Signal | New York City |
 | Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
 | Sat, 14 Nov 2026 | Lark | Berlin |
+| Fri, 4 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Sat, 6 Mar 2027 | The Cause | London |

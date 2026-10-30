@@ -1,8 +1,8 @@
 # Jïmono
 
-Jïmono is a Afro Tech and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bread and Butter, London on Sat, 31 Oct 2026.
+Jïmono is a Afro Tech and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bread and Butter, London on Sat, 31 Oct 2026.
 
-Jïmono is an afro tech and deep house artist based in United Kingdom, with 9 gigs on soundcheck across London and Manchester. Often billed alongside Bushman (UK), MYDIR and Ankhoï. Next up: Bread and Butter, London on Sat 31 Oct.
+Jïmono is an afro tech and afro house artist based in United Kingdom, with 9 gigs on soundcheck across London and Manchester. Often billed alongside Bushman (UK), MYDIR and Ankhoï. Next up: Bread and Butter, London on Sat 31 Oct.
 
 ## Upcoming shows
 

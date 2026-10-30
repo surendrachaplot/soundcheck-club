@@ -1,14 +1,15 @@
 # Alex Sharp
 
-Alex Sharp is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at John Doe, Amsterdam on Fri, 30 Oct 2026.
+Alex Sharp is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at John Doe, Amsterdam on Fri, 30 Oct 2026.
 
-Alex Sharp is a techno and tech house artist based in Romania, with 358 gigs on soundcheck across Amsterdam, Barcelona, London and Sao Paulo. Often billed alongside Lino Fuso, SOROUSH and Main Identity. Next up: John Doe, Amsterdam on Fri 30 Oct.
+Alex Sharp is a techno and tech house artist based in Romania, with 359 gigs on soundcheck across Amsterdam, Barcelona, London and Sao Paulo. Often billed alongside Lino Fuso, SOROUSH and Main Identity. Next up: John Doe, Amsterdam on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | John Doe | Amsterdam |
+| Sun, 1 Nov 2026 | John Doe | Amsterdam |
 | Sun, 8 Nov 2026 | John Doe | Amsterdam |
 | Sun, 15 Nov 2026 | John Doe | Amsterdam |
 | Sun, 22 Nov 2026 | John Doe | Amsterdam |

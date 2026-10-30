@@ -1,8 +1,8 @@
 # Sofia Kourtesis
 
-Sofia Kourtesis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Sofia Kourtesis is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
-Sofia Kourtesis is a house and techno artist based in Peru, with 145 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Bonobo, DJ Tennis and Paula Tape. Next up: Stinsen, Stockholm on Fri 27 Nov.
+Sofia Kourtesis is a house and techno artist based in Peru, with 146 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Bonobo, DJ Tennis and Paula Tape. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sofia Kourtesis is a house and techno artist based in Peru, with 145 gigs on sou
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Fri, 27 Nov 2026 | 26 Leake Street | London |
+| Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
 
 ## Recently played
 

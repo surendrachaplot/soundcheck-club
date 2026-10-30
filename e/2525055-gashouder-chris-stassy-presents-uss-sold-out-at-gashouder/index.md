@@ -1,6 +1,6 @@
 # GASHOUDER: Chris Stassy presents USS [Sold Out] at GASHOUDER
 
-GASHOUDER: Chris Stassy presents USS [Sold Out] on Sat 28 Nov, Amsterdam. 4 artists: Chris Stussy, ISAbella, Nachtbraker and Saoirse. House. See the line-up on soundcheck.
+GASHOUDER: Chris Stassy presents USS [Sold Out] on Sat 28 Nov, Amsterdam. 4 artists: CHRIS STASSY, ISAbella, Nachtbraker and Saoirse. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ GASHOUDER: Chris Stassy presents USS [Sold Out] on Sat 28 Nov, Amsterdam. 4 arti
 
 ## Line-up
 
-- Chris Stussy
+- CHRIS STASSY
 - ISAbella
 - Nachtbraker
 - Saoirse

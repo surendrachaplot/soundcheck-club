@@ -1,6 +1,6 @@
 # Warehouse 34
 
-Warehouse 34 is a music venue in Newcastle with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Granville Collective - Halloween w/ Binh" on Fri, 30 Oct 2026.
+Warehouse 34 is a music venue in Newcastle with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Granville Collective - Halloween w/ Binh " on Fri, 30 Oct 2026.
 
 Warehouse 34 is a music venue in Newcastle listed on soundcheck. 2 upcoming gigs, with line-ups including Binh, DJ BootyShake, Haaji Ka Halva and JYE. and 1 more. See dates, start times and who's playing. Warehouse 34, Hoults Yard, Byker, Newcastle upon Tyne NE6 2HL.
 
@@ -8,7 +8,7 @@ Warehouse 34 is a music venue in Newcastle listed on soundcheck. 2 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Granville Collective - Halloween w/ Binh | Binh, JYE. |
+| Fri, 30 Oct 2026 | Granville Collective - Halloween w/ Binh  | Binh, JYE. |
 | Sat, 31 Oct 2026 | Big Fat Rave: Halloween 2026 / Warehouse Sessions | DJ BootyShake, Haaji Ka Halva, PB (UK) |
 
 ## Address

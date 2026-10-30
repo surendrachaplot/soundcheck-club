@@ -1,14 +1,15 @@
 # Luna City Express
 
-Luna City Express is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mason Bar, Cyprus on Fri, 30 Oct 2026.
+Luna City Express is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mason Bar, Cyprus on Fri, 30 Oct 2026.
 
-Luna City Express is a house and techno artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Berlin, Cyprus and Dresden and 6 more. Often billed alongside Foolik, Pauli Pocket and Peter Schumann. Next up: Mason Bar, Cyprus on Fri 30 Oct.
+Luna City Express is a house and techno artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Cyprus and Dresden and 6 more. Often billed alongside Foolik, Pauli Pocket and Peter Schumann. Next up: Mason Bar, Cyprus on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Mason Bar | Cyprus |
+| Sat, 14 Nov 2026 | Esbirra Ibiza | Ibiza |
 
 ## Recently played
 

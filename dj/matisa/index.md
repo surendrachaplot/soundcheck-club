@@ -2,7 +2,7 @@
 
 Matisa is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
 
-Matisa is a house and techno artist based in Italy, with 153 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 54 more. Often billed alongside Chris Stussy, DJ Tennis and The Martinez Brothers. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
+Matisa is a house and techno artist based in Italy, with 153 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 54 more. Often billed alongside CHRIS STASSY, DJ Tennis and The Martinez Brothers. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Matisa is a house and techno artist based in Italy, with 153 gigs on soundcheck 
 
 ## Shares bills with
 
-Chris Stussy, DJ Tennis, The Martinez Brothers
+CHRIS STASSY, DJ Tennis, The Martinez Brothers
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*

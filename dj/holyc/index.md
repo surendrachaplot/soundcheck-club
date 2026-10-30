@@ -1,14 +1,15 @@
 # HOLY C
 
-HOLY C is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
+HOLY C is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
 
-HOLY C is a techno and club artist based in United Kingdom, with 25 gigs on soundcheck across Bristol and London. Often billed alongside Toraigh, ASHTREY and Karlie Marx. Next up: Unit 58, London on Fri 6 Nov.
+HOLY C is a techno and club artist based in United Kingdom, with 26 gigs on soundcheck across Bristol and London. Often billed alongside Toraigh, ASHTREY and Karlie Marx. Next up: Unit 58, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Unit 58 | London |
+| Fri, 6 Nov 2026 | Bethnal Green Workingmen's Club | London |
 
 ## Recently played
 

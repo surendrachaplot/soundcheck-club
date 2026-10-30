@@ -1,8 +1,8 @@
 # Cryptofauna
 
-Cryptofauna is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
+Cryptofauna is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
 
-Cryptofauna is a techno and trance artist based in Germany, with 151 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 25 more. Often billed alongside Carly Zeng, Faerber and ENNIO. Next up: glimmer, Hamburg on Sat 31 Oct.
+Cryptofauna is a techno and trance artist based in Germany, with 152 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 25 more. Often billed alongside Carly Zeng, Faerber and ENNIO. Next up: glimmer, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cryptofauna is a techno and trance artist based in Germany, with 151 gigs on sou
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | glimmer | Hamburg |
 | Sat, 14 Nov 2026 | Indiego Glocksee | Hannover |
+| Thu, 19 Nov 2026 | KitKatClub | Berlin |
 | Sat, 21 Nov 2026 | Karmen Camina | Strasbourg |
 
 ## Recently played

@@ -2,7 +2,7 @@
 
 Maribou State is a House and Funk / Soul artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jaeger, Oslo on Fri, 6 Nov 2026.
 
-Maribou State is a house and funk / soul artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 24 more. Often billed alongside Chris Stussy, DJ Gigola and FCUKERS. Next up: Jaeger, Oslo on Fri 6 Nov.
+Maribou State is a house and funk / soul artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 24 more. Often billed alongside CHRIS STASSY, DJ Gigola and FCUKERS. Next up: Jaeger, Oslo on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Maribou State is a house and funk / soul artist based in United Kingdom, with 44
 
 ## Shares bills with
 
-Chris Stussy, DJ Gigola, FCUKERS
+CHRIS STASSY, DJ Gigola, FCUKERS
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariboustate/)*

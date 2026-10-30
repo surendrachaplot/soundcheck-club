@@ -1,6 +1,6 @@
 # LED presents Chris Stassy at Gallagher Square
 
-LED presents Chris Stassy at Gallagher Square on Sat 31 Oct, San Diego. 1 artist: Chris Stussy. See the line-up on soundcheck.
+LED presents Chris Stassy at Gallagher Square on Sat 31 Oct, San Diego. 1 artist: CHRIS STASSY. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ LED presents Chris Stassy at Gallagher Square on Sat 31 Oct, San Diego. 1 artist
 
 ## Line-up
 
-- Chris Stussy
+- CHRIS STASSY
 
 *Source: [soundcheck](https://soundcheck.club/e/2517161-led-presents-chris-stassy-at-gallagher-square/)*

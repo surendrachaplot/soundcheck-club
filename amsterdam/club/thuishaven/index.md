@@ -15,7 +15,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs,
 | Sun, 22 Nov 2026 | 22 NOV - Thuishaven with X CLUB. / DART / NewTone / Freddi | DART, Elotrance, Freddi, Jordan George, JÄMO, NewTone, OLIVIA LENSEN, Olive Anguz, S3PPA, STÜM, Schwesta P, Sophia Violet, X CLUB. |
 | Sat, 28 Nov 2026 | 28 NOV - Thuishaven with Jeff Mills / ROD / BLANKA | Abstract Division, BLANKA, ETERNAL JOE, Huey Mnemonic, Jasmín, Jeff Mills, Laure Croft, ROD |
 | Sun, 29 Nov 2026 | 29 NOV- Thuishaven with Jamback 10HRS SOLD OUT | Jamback |
-| Sat, 5 Dec 2026 | 05 DEC - Thuishaven with Bart Skils 5HRS | BIANKA, Bart Skils, Delano Legito, Gerd, Mihai Popoviciu, Neska, Reiss, Township Rebellion, Zeynep |
+| Sat, 5 Dec 2026 | 05 DEC - Thuishaven with Bart Skils 5HRS | BIANKA, Bart Skils, Delano Legito, Gerd, Mihai Popoviciu, Reiss, Township Rebellion, Zeynep, neska |
 | Sun, 6 Dec 2026 | 06 DEC - Thuishaven with Mr. Belt & Wezol / Hidde van Wee / Beave | Hidde van Wee, James Poole, Marijn Jansen, Mr. Belt & Wezol |
 | Sat, 12 Dec 2026 | Winter of Love festival 2026 | Alexander Koning, Alfredo, Darren Emerson, Dimitri (1), Divine, Erick E, Funkerman, Gregor Salto, Kim Kaos, Klubbheads, ROOG, Sander Kleinenberg, Ven |
 

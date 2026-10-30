@@ -1,8 +1,8 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Subcity Radio: Midnight Zone" on Fri, 30 Oct 2026.
+Stereo is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Subcity Radio: Midnight Zone" on Fri, 30 Oct 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including ACHIRĀ, Acido Cielo, Babyjaii and Coki and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including ACHIRĀ, Acido Cielo, Babyjaii and Coki and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 

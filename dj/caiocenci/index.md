@@ -1,0 +1,28 @@
+# Caio Cenci
+
+Caio Cenci is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+
+Caio Cenci is a house and disco artist based in Brazil, with 31 gigs on soundcheck across Amsterdam, Copenhagen, London and Paris and 1 more. Often billed alongside Bustin' Loose, Old as Funk and Poppi. Next up: DRUMSHEDS, London on Sat 31 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | DRUMSHEDS | London |
+
+## Recently played
+
+- Undr W10, London · Sat, 3 Oct 2026
+- Sigurd CPH, Copenhagen · Sat, 19 Sept 2026
+- Ministry Of Sound, London · Sat, 5 Sept 2026
+- TBA - Hackney - secret location., London · Sat, 25 Jul 2026
+- The Cross, London · Sat, 18 Jul 2026
+- XOYO, London · Sat, 4 Jul 2026
+- Alcazar Live, Rome · Sat, 23 May 2026
+- Ministry Of Sound, London · Sat, 21 Feb 2026
+
+## Shares bills with
+
+Bustin' Loose, Old as Funk, Poppi
+
+*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiocenci/)*

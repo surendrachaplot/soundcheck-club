@@ -9,7 +9,7 @@ Eutopia Warehouse is a music venue in London listed on soundcheck. 3 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | HOWLOWEEN Queer Rave: 11 collectives, 17 DJs, 3 rooms | HEZEN, Ivicore, Iyesha, James Newmarch, LEXII., Melvin Hein, Nanzhen Yang, Nina Pixina, RRUDEGIRLLL, Samantha Togni, Sissy Cinnamon, TEDESCO, Technoslave_69, Twang, Varanasi, Voicedrone |
-| Sat, 31 Oct 2026 | The Asylum Halloween Indoor Festival | Afro Karl, Beezo, DJ Ace, DJ Majesty, DJ Nate (UK), DJ S (UK), JAYDAA, Jawzy, Jerome Six, Shenin Amara, Supa D, Tippa, Wiley |
+| Sat, 31 Oct 2026 | The Asylum Halloween Indoor Festival | Afro Karl, Beezo, DJ Ace, DJ Majesty, DJ Nate (UK), DJ S (UK), JAYDAA, Jawzy, Jerome Six, Shenin Amara, Supa D, TERMINAL 4, Tippa, Wiley |
 | Sat, 5 Dec 2026 | FEMALE SKANKER | DJ Decimal, Fonti, MC Bushkin |
 
 ## Address

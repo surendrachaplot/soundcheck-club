@@ -1,8 +1,8 @@
-# Ruben Secaduras
+# Soju Gang
 
-Ruben Secaduras is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Soju Gang is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Ruben Secaduras is a house and techno artist, with 132 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 31 more. Often billed alongside Haus of Ralph, Jyoty and AANO. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Soju Gang is a house and techno artist, with 132 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 31 more. Often billed alongside Haus of Ralph, Jyoty and AANO. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 

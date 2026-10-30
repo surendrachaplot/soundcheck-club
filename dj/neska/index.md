@@ -1,8 +1,8 @@
-# Neska
+# neska
 
-Neska is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Shunter, Rotterdam on Sat, 31 Oct 2026.
+neska is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Shunter, Rotterdam on Sat, 31 Oct 2026.
 
-Neska is a techno and house artist based in Spain, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 9 more. Often billed alongside Naone, dirtydms and BERTON. Next up: Shunter, Rotterdam on Sat 31 Oct.
+neska is a techno and house artist based in Spain, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 9 more. Often billed alongside Naone, dirtydms and BERTON. Next up: Shunter, Rotterdam on Sat 31 Oct.
 
 ## Upcoming shows
 

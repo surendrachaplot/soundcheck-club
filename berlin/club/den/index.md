@@ -1,8 +1,8 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cuddles Halloween [TICKETS AT THE DOOR]" on Sat, 31 Oct 2026.
+ÆDEN is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cuddles Halloween [TICKETS AT THE DOOR]" on Sat, 31 Oct 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including YOVA, Aaron Blau, ADAM MUNNINGS and Annakonda and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including YOVA, Aaron Blau, ADAM MUNNINGS and Annakonda and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 

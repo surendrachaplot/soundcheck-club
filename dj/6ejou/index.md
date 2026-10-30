@@ -1,13 +1,14 @@
 # 6EJOU
 
-6EJOU is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+6EJOU is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
-6EJOU is a techno and industrial artist based in France, with 184 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 58 more. Often billed alongside Raxeller, KARAH and CARV. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
+6EJOU is a techno and industrial artist based in France, with 185 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 58 more. Often billed alongside Raxeller, KARAH and CARV. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Fri, 30 Oct 2026 | TBA - Tirana | Tirana |

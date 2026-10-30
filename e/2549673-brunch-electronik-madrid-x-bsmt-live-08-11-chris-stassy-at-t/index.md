@@ -1,6 +1,6 @@
 # Brunch Electronik Madrid x BSMT LIVE 08.11 - CHRIS STASSY at The Lenovo Garage
 
-Brunch Electronik Madrid x BSMT LIVE 08.11 - CHRIS STASSY at The Lenovo Garage on Sun 8 Nov, Madrid. 3 artists: Chris Stussy, DJ Tennis and DLOU. See the line-up on soundcheck.
+Brunch Electronik Madrid x BSMT LIVE 08.11 - CHRIS STASSY at The Lenovo Garage on Sun 8 Nov, Madrid. 3 artists: CHRIS STASSY, DJ Tennis and DLOU. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Brunch Electronik Madrid x BSMT LIVE 08.11 - CHRIS STASSY at The Lenovo Garage o
 
 ## Line-up
 
-- Chris Stussy
+- CHRIS STASSY
 - DJ Tennis
 - DLOU
 

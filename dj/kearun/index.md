@@ -2,7 +2,7 @@
 
 Kearun is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Hackney, London on Fri, 4 Dec 2026.
 
-Kearun is a minimal and house artist, with 31 gigs on soundcheck across Berlin, Bucharest, Leeds and London and 1 more. Often billed alongside Holly Why, Luca and Sol and Damian Nova. Next up: TBA - Hackney, London on Fri 4 Dec.
+Kearun is a minimal and house artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Bucharest, Leeds and London and 1 more. Often billed alongside Holly Why, Luca and Sol and Damian Nova. Next up: TBA - Hackney, London on Fri 4 Dec.
 
 ## Upcoming shows
 

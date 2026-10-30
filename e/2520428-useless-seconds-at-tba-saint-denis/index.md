@@ -1,6 +1,6 @@
 # useless seconds at TBA - Saint-Denis
 
-useless seconds at TBA - Saint-Denis on Sat 28 Nov, Paris. 6 artists: A Strange Wedding, Andy Martin, KEUT and Neska and 2 more. Techno and Dubstep. See the line-up on soundcheck.
+useless seconds at TBA - Saint-Denis on Sat 28 Nov, Paris. 6 artists: A Strange Wedding, Andy Martin, KEUT and neska and 2 more. Techno and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ useless seconds at TBA - Saint-Denis on Sat 28 Nov, Paris. 6 artists: A Strange 
 - A Strange Wedding
 - Andy Martin
 - KEUT
-- Neska
+- neska
 - Roulita
 - Souzo
 

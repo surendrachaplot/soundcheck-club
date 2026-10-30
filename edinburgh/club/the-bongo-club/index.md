@@ -13,7 +13,7 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 17 upcoming g
 | Sat, 31 Oct 2026 | NSA ~ Leftfield (dj set) + Domenic Cappello | Domenic Cappello, Leftfield |
 | Fri, 6 Nov 2026 | Disorder: 4th Birthday w/ DJ Hype (Playaz) [JUNGLE AND DRUM & BASS] | DJ Hype, Harry Jackson |
 | Sat, 7 Nov 2026 | Hobbes Music x Noetic Rhythm: DJ Gregory, Ricardo, Hobbes + more | Airwrecka, DJ Gregory, Hobbes, Sepal |
-| Thu, 12 Nov 2026 | 𖤓SOLASTA II𖤓 | Carmen Baía, FIFI (2), zohra |
+| Thu, 12 Nov 2026 | 𖤓SOLASTA II𖤓 | Carmen Baía, FIFI LA ROUX, zohra |
 | Fri, 13 Nov 2026 | Tektite x FoxBam |  |
 | Thu, 19 Nov 2026 | Origins: n4tee | n4tee |
 | Fri, 20 Nov 2026 | STERAC - 17 years of Pulse | Darrell Pulse, STERAC, Sean Laird |

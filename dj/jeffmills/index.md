@@ -1,8 +1,8 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 31 Oct 2026.
+Jeff Mills is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 31 Oct 2026.
 
-Jeff Mills is a techno and house artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 70 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Mondo Open Air, Madrid on Sat 31 Oct.
+Jeff Mills is a techno and house artist based in United States of America, with 208 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 71 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Mondo Open Air, Madrid on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 | Fri, 11 Dec 2026 | Triennale di Milano | Milan |
 | Sat, 12 Dec 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Sat, 6 Mar 2027 | The Cause | London |
+| Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
 
 ## Recently played
 
@@ -32,6 +33,6 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 
 ## Shares bills with
 
-DVS1, Marcel Dettmann, Helena Hauff
+DVS1, Marcel Dettmann, DJ Nobu
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

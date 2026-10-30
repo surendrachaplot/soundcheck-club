@@ -1,6 +1,6 @@
 # EartH
 
-EartH is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Tessellate x Origins: The Trip, Spray & Scarlett O'Malley" on Fri, 30 Oct 2026.
+EartH is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Tessellate x Origins: The Trip, Scarlett O'Malley & Madelic" on Fri, 30 Oct 2026.
 
 EartH is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, The Avalanches and Buttechno and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
@@ -8,7 +8,7 @@ EartH is a music venue in London listed on soundcheck. 16 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Tessellate x Origins: The Trip, Spray & Scarlett O'Malley | Scarlett O'Malley, Spray, The Trip |
+| Fri, 30 Oct 2026 | Tessellate x Origins: The Trip, Scarlett O'Malley & Madelic | Madelic, Scarlett O'Malley, The Trip |
 | Sat, 31 Oct 2026 | HAAi - Open to Close | HAAi |
 | Sat, 31 Oct 2026 | HAAi - Open to Close [SOLD OUT] | HAAi |
 | Sun, 1 Nov 2026 | Almamegretta - 30 years of Indubb |  |

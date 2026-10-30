@@ -1,8 +1,8 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Platforma Wolff, Bucharest on Fri, 30 Oct 2026.
+DJ Masda is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Platforma Wolff, Bucharest on Fri, 30 Oct 2026.
 
-DJ Masda is a techno and house artist based in Japan, with 232 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 60 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Platforma Wolff, Bucharest on Fri 30 Oct.
+DJ Masda is a techno and house artist based in Japan, with 233 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 61 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Platforma Wolff, Bucharest on Fri 30 Oct.
 
 ## Upcoming shows
 

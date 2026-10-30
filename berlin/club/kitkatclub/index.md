@@ -1,8 +1,8 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "PiepShow - OctoberPiep" on Fri, 30 Oct 2026.
+KitKatClub is a music venue in Berlin with 31 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "PiepShow - OctoberPiep" on Fri, 30 Oct 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alessia Cattani and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alessia Cattani and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 

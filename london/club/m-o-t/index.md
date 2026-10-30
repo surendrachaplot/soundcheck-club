@@ -8,7 +8,7 @@ M.O.T is a music venue in London listed on soundcheck. 37 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | 10Foot x DaMetalMessiah x Percy Mingle: Halloween Special | Doc Scott, FAUZIA, Jon E Cash, Mantra, Martin Larner, Morgan Elder |
+| Fri, 30 Oct 2026 | 10Foot x DaMetalMessiah x Percy Mingle: Halloween Special | Doc Scott, Eliza Rose, FAUZIA, Jon E Cash, Mantra, Martin Larner, Morgan Elder |
 | Sat, 31 Oct 2026 | Nikki Nair, I.JORDAN, Addison Groove, Jenny Sparks - Halloween - Venue MOT | Addison Groove, I. JORDAN, Nikki Nair |
 | Thu, 5 Nov 2026 | Techno In LONDON - OPEN DECKS & SOCIAL |  |
 | Thu, 5 Nov 2026 | PLAX : Cuttenimid KATAINAKA picnics RAAANDY Silv-o Woody Boase | Cuttenimid, KATAINAKA, RAAANDY, Silv-o, Woody Boase |

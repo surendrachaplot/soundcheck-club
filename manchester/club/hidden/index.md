@@ -8,7 +8,7 @@ Hidden is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Hit & Run x Critical Sound x GASH MCR: HALLOWEEN SPECIAL | Amoss, Enei, Envy, JAZ IMSKY, Kasra, Rich Reason, SALÓ, Samurai Breaks, Sexy Lady Massive, Sparkz (NL), Sully, T-Man (UK), mamba.exe |
+| Fri, 30 Oct 2026 | Hit & Run x Critical Sound x GASH MCR: HALLOWEEN SPECIAL | Amoss, EN:VY, Enei, JAZ IMSKY, Kasra, Rich Reason, SALÓ, Samurai Breaks, Sexy Lady Massive, Sparkz (NL), Sully, T-Man (UK), mamba.exe |
 | Sat, 31 Oct 2026 | Katy B presents: Little Red Rave: Arthi, Bok Bok, Andre Zimmer | Andre Zimmer, Arthi, Bok Bok, Camille Doe, Hanz, K1ng Arthur, Katy B |
 | Fri, 6 Nov 2026 | CubCru presents: Origin, Pluggerz, Simmo, Amelia Leigh & Half Broken Kru | Amelia Leigh, Origin, Simmo. |
 | Fri, 6 Nov 2026 | CLUB SELECTED: Fold & ESC | ESC (5), Fold, Megan Wroe, Reimond |

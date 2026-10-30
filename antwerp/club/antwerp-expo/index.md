@@ -11,7 +11,7 @@ Antwerp Expo is a music venue in Antwerp listed on soundcheck. 4 upcoming gigs, 
 | Fri, 30 Oct 2026 | Andromedik Invites - The Final Edition | Andromedik, Koven, Licia, Maze (FR), SOTA |
 | Fri, 6 Nov 2026 | Hangar invites Âme DJ, Konstantin Sibold and Recondite (live) | Konstantin Sibold, Recondite, Âme |
 | Sat, 7 Nov 2026 | Hangar invites KETTAMA | KETTAMA |
-| Fri, 13 Nov 2026 | Open Circle invites Chris Stassy ◯ Antwerp Expo | Arter, Bibi Seck, Chris Stussy, Marsolo |
+| Fri, 13 Nov 2026 | Open Circle invites Chris Stassy ◯ Antwerp Expo | Arter, Bibi Seck, CHRIS STASSY, Marsolo |
 
 ## Address
 

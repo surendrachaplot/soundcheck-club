@@ -1,14 +1,13 @@
 # D-Grade
 
-D-Grade is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Miscellania, Melbourne on Fri, 30 Oct 2026.
+D-Grade is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Second Story Studios, Melbourne on Sat, 14 Nov 2026.
 
-D-Grade is a techno and club artist based in Australia, with 62 gigs on soundcheck across Adelaide, Athens, Beijing and Canberra and 5 more. Often billed alongside Paramat, LOIF and Moopie. Next up: Miscellania, Melbourne on Fri 30 Oct.
+D-Grade is a techno and club artist based in Australia, with 62 gigs on soundcheck across Adelaide, Athens, Beijing and Canberra and 5 more. Often billed alongside Paramat, LOIF and Moopie. Next up: Second Story Studios, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Miscellania | Melbourne |
 | Sat, 14 Nov 2026 | Second Story Studios | Melbourne |
 | Sat, 28 Nov 2026 | TBA | Sydney |
 

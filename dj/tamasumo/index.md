@@ -1,8 +1,8 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
+Tama Sumo is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
-Tama Sumo is a house and techno artist based in Germany, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Lakuti, Roi Perez and MUSCLECARS. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
+Tama Sumo is a house and techno artist based in Germany, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Lakuti, MUSCLECARS and Roi Perez. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Tama Sumo is a house and techno artist based in Germany, with 218 gigs on soundc
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 | Sun, 1 Nov 2026 | Signal | New York City |
 | Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
+| Fri, 4 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Sat, 6 Mar 2027 | The Cause | London |
@@ -32,6 +33,6 @@ Tama Sumo is a house and techno artist based in Germany, with 218 gigs on soundc
 
 ## Shares bills with
 
-Lakuti, Roi Perez, MUSCLECARS
+Lakuti, MUSCLECARS, Roi Perez
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

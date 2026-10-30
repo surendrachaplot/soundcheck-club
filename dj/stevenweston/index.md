@@ -1,13 +1,14 @@
 # Steven Weston
 
-Steven Weston is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rastro Live Studio, Madrid on Sat, 7 Nov 2026.
+Steven Weston is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Timber Loft, London on Fri, 30 Oct 2026.
 
-Steven Weston is a house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across London, Madrid and Nottingham. Often billed alongside Tris (UK), Axel Lewis and Carina Lawrence. Next up: Rastro Live Studio, Madrid on Sat 7 Nov.
+Steven Weston is a house and progressive house artist based in United Kingdom, with 16 gigs on soundcheck across London, Madrid and Nottingham. Often billed alongside Tris (UK), Carina Lawrence and Axel Lewis. Next up: The Timber Loft, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | The Timber Loft | London |
 | Sat, 7 Nov 2026 | Rastro Live Studio | Madrid |
 
 ## Recently played
@@ -23,6 +24,6 @@ Steven Weston is a house and deep house artist based in United Kingdom, with 15 
 
 ## Shares bills with
 
-Tris (UK), Axel Lewis, Carina Lawrence
+Tris (UK), Carina Lawrence, Axel Lewis
 
 *Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenweston/)*

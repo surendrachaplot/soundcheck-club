@@ -1,6 +1,6 @@
 # Chris Stassy at Kaufleuten
 
-Chris Stassy at Kaufleuten on Fri 18 Dec, Zurich. 1 artist: Chris Stussy. House and Tech House. See the line-up on soundcheck.
+Chris Stassy at Kaufleuten on Fri 18 Dec, Zurich. 1 artist: CHRIS STASSY. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Chris Stassy at Kaufleuten on Fri 18 Dec, Zurich. 1 artist: Chris Stussy. House 
 
 ## Line-up
 
-- Chris Stussy
+- CHRIS STASSY
 
 *Source: [soundcheck](https://soundcheck.club/e/2526618-chris-stassy-at-kaufleuten/)*

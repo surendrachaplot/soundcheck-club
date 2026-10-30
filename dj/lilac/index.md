@@ -1,14 +1,13 @@
 # Lilac
 
-Lilac is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Solace, Melbourne on Fri, 30 Oct 2026.
+Lilac is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Inner City Location, Brisbane on Sat, 14 Nov 2026.
 
-Lilac is a techno and house artist based in Australia, with 18 gigs on soundcheck across Brisbane, Bristol, Manchester and Melbourne and 1 more. Often billed alongside Couch Mechanic, b_man (AU) and Alison Belle. Next up: Solace, Melbourne on Fri 30 Oct.
+Lilac is a techno and house artist based in Australia, with 18 gigs on soundcheck across Brisbane, Bristol, Manchester and Melbourne and 1 more. Often billed alongside Couch Mechanic, b_man (AU) and Alison Belle. Next up: TBA - Inner City Location, Brisbane on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Solace | Melbourne |
 | Sat, 14 Nov 2026 | TBA - Inner City Location | Brisbane |
 
 ## Recently played

@@ -15,7 +15,7 @@
 - Delano Legito
 - Gerd
 - Mihai Popoviciu
-- Neska
+- neska
 - Reiss
 - Township Rebellion
 - Zeynep

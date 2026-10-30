@@ -1,13 +1,14 @@
 # floor length skirts
 
-floor length skirts is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The White Hotel, Manchester on Fri, 20 Nov 2026.
+floor length skirts is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Baumhaus, Bologna on Sat, 14 Nov 2026.
 
-floor length skirts is a house and balearic artist based in United Kingdom, with 29 gigs on soundcheck across Berlin, Leeds, London and Manchester and 4 more. Often billed alongside off supply, babyschön and DJ Subaru. Next up: The White Hotel, Manchester on Fri 20 Nov.
+floor length skirts is a house and balearic artist based in United Kingdom, with 30 gigs on soundcheck across Berlin, Bologna, Leeds and London and 5 more. Often billed alongside off supply, babyschön and DJ Subaru. Next up: TBA - Baumhaus, Bologna on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | TBA - Baumhaus | Bologna |
 | Fri, 20 Nov 2026 | The White Hotel | Manchester |
 | Sat, 28 Nov 2026 | fabric | London |
 

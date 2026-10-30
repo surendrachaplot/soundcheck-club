@@ -10,7 +10,7 @@ Club Up is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, wit
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Break-Out 4 Breakfast | Chris Inperspective, MAC-V |
 | Fri, 13 Nov 2026 | Alt Baile with DJ Saze |  |
-| Sat, 19 Dec 2026 | Sladda |  |
+| Sat, 19 Dec 2026 | SLADDA: UKG / Hard House / Trance / Bounce and Techno |  |
 
 ## Address
 

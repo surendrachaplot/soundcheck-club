@@ -8,7 +8,7 @@ Four Quarters is a music venue in London listed on soundcheck. 6 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Aspect DNB: Halloween Special | Exposure (UK), Tianna Franxx |
+| Fri, 30 Oct 2026 | Aspect DNB: Halloween Special | Exposure (UK) |
 | Sat, 31 Oct 2026 | Virtuoso - HALLOWEEN |  |
 | Thu, 5 Nov 2026 | CHEESY JOUISSANCE - Happy Hardcore & Jungle |  |
 | Fri, 13 Nov 2026 | WHAT.THE.EL | Cass Brewster, Cristian Ebasta, DJ iLEOSA, El Cassar, PERILOUS P, Ty Henry |

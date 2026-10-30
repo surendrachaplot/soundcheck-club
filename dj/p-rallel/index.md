@@ -9,7 +9,7 @@ p-rallel is a garage and house artist based in United Kingdom, with 88 gigs on s
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Phonox | London |
-| Sat, 31 Oct 2026 | Phonox | London |
+| Fri, 30 Oct 2026 | Phonox | London |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 27 Nov 2026 | The Clock Factory | Bristol |
 

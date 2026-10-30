@@ -1,14 +1,13 @@
 # Secretsundaze
 
-Secretsundaze is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Paradiso Music Room, Byron Bay on Fri, 30 Oct 2026.
+Secretsundaze is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
 
-Secretsundaze is a house and techno artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: Paradiso Music Room, Byron Bay on Fri 30 Oct.
+Secretsundaze is a house and techno artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: OneSixOne, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Paradiso Music Room | Byron Bay |
 | Sun, 1 Nov 2026 | OneSixOne | Melbourne |
 | Sat, 14 Nov 2026 | Cadavra | Madrid |
 

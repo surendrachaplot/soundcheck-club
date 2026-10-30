@@ -1,8 +1,8 @@
-# TBA - Powered by: Void Acoustics
+# TBA - Powered by Void Acoustics
 
-TBA - Powered by: Void Acoustics is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "EN1GMACLUB HALLOWEEN" on Sat, 31 Oct 2026.
+TBA - Powered by Void Acoustics is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "EN1GMACLUB HALLOWEEN" on Sat, 31 Oct 2026.
 
-TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Ali-Az, CEM3340, CH3LO and Cristal Roto and 2 more. See dates, start times and who's playing.
+TBA - Powered by Void Acoustics is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Ali-Az, CEM3340, CH3LO and Cristal Roto and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

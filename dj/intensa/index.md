@@ -1,8 +1,8 @@
 # INTENSA
 
-INTENSA is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Şahika, Istanbul on Fri, 30 Oct 2026.
+INTENSA is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Şahika, Istanbul on Fri, 30 Oct 2026.
 
-INTENSA is a techno and breakbeat artist, with 14 gigs on soundcheck across Belgrade and Istanbul. Often billed alongside guru'w, Cenk Tripper and Neyzen. Next up: Şahika, Istanbul on Fri 30 Oct.
+INTENSA is a techno and breakbeat artist, with 15 gigs on soundcheck across Belgrade, Berlin and Istanbul. Often billed alongside guru'w, Cenk Tripper and Neyzen. Next up: Şahika, Istanbul on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ INTENSA is a techno and breakbeat artist, with 14 gigs on soundcheck across Belg
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Şahika | Istanbul |
 | Sat, 31 Oct 2026 | Dunia | Istanbul |
+| Sun, 20 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

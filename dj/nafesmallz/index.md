@@ -1,13 +1,14 @@
 # Nafe Smallz
 
-Nafe Smallz is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Nest, Nottingham on Sat, 31 Oct 2026.
+Nafe Smallz is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at 77, London on Fri, 30 Oct 2026.
 
-Nafe Smallz is a tech house and house artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Glasgow, Liverpool and London and 2 more. Often billed alongside FLETCH, Jaden Thompson and Joss Dean. Next up: The Nest, Nottingham on Sat 31 Oct.
+Nafe Smallz is a tech house and house artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Glasgow, Liverpool and London and 2 more. Often billed alongside FLETCH, Jaden Thompson and Joss Dean. Next up: 77, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | 77 | London |
 | Sat, 31 Oct 2026 | The Nest | Nottingham |
 
 ## Recently played

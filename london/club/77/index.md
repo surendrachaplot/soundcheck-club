@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween: The 77th Hour | Emanuel Satie " on Fri, 30 Oct 2026.
+77 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween: The 77th Hour | Nafe Smallz" on Fri, 30 Oct 2026.
 
 77 is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Alan Dixon, AliTR, Deb FA and DOVnROBS and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Halloween: The 77th Hour / Emanuel Satie  | Deb FA, Emanuel Satie |
+| Fri, 30 Oct 2026 | Halloween: The 77th Hour / Nafe Smallz | Deb FA, Nafe Smallz |
 | Sun, 1 Nov 2026 | 77 PRESENT SUNDAYZ: DJ OBI |  |
 | Mon, 2 Nov 2026 | FullHouse Monday Party: Special Guest |  |
 | Fri, 6 Nov 2026 | 77: SONA | SONA (2) |

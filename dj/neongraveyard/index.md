@@ -19,9 +19,9 @@ Neon Graveyard is a techno and trance artist based in Germany, with 184 gigs on 
 - Kalif Storch, Erfurt · Sat, 10 Oct 2026
 - Schrotty, Cologne · Fri, 9 Oct 2026
 - Airport Würzburg, Nürnberg · Fri, 2 Oct 2026
-- E1, London · Sat, 26 Sept 2026
 - Elastica, Vilnius · Fri, 25 Sept 2026
 - WDM, Hannover · Fri, 18 Sept 2026
+- Arzenal, Budapest · Sat, 5 Sept 2026
 
 ## Shares bills with
 

@@ -3202,6 +3202,7 @@ a.fst-t:hover{text-decoration:underline}
 .fst-rule{height:1px;margin-top:6px;background:rgba(42,13,20,.14)}
 .fst-rule + .fst-l{margin-top:6px}
 .fst .dst-carts{margin-top:2px}
+.fst .dst-carts small{font:inherit;opacity:.62}
 .fst .dst-carts a,.fst .dst-carts b,.fst-more{color:var(--ink)}
 .fst-more{all:unset;min-height:28px;font:700 15px/28px var(--body);opacity:.62;cursor:pointer}
 .fst .dst-note{display:block;-webkit-line-clamp:unset;overflow:visible}
@@ -5357,7 +5358,7 @@ a.fst-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793375064897">
+<meta name="sc-build" content="1793377603574">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -10799,9 +10800,10 @@ a.fst-t:hover{text-decoration:underline}
       var tc=title.length>32?' s':title.length>22?' m':'';
       var arts=(d.artists||[]).filter(function(x){ return x.name||x.slug; }).map(function(x,i){
         var hide=i>3?' hidden':'';
-        if(!x.slug) return '<b'+hide+'>'+esc(x.name)+'</b>';
+        var st=x.rating?'<small>\u2605'+esc(String(x.rating))+'</small>':'';
+        if(!x.slug) return '<b'+hide+'>'+esc(x.name)+st+'</b>';
         var bg=x.image?'url('+imgUrl(x.image,120)+')':avatarBg(x.slug,null);
-        return '<a class="nav" href="'+esc(djHref(x.slug))+'" data-artist="'+attrEsc(x.slug)+'"'+hide+'><i style="background-image:'+attrEsc(bg)+'"></i>'+esc(x.name||x.slug)+'</a>';
+        return '<a class="nav" href="'+esc(djHref(x.slug))+'" data-artist="'+attrEsc(x.slug)+'"'+hide+'><i style="background-image:'+attrEsc(bg)+'"></i>'+esc(x.name||x.slug)+st+'</a>';
       });
       var bars=h?dstBarsSVG(h):'', clock=h?ghClock(h.window_start,d.tz)+' → '+ghClock(h.window_end,d.tz)+(bars?' · Steps':''):'';
       var fig=h?ghFigures(h)+(h.active_kcal!=null?' · '+ghNum(Math.round(h.active_kcal))+' kcal':''):'';

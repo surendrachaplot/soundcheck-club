@@ -8,7 +8,7 @@ Gallery is a music venue in London listed on soundcheck. 12 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Halloween Organic: Bhaskar | Bhaskar |
+| Fri, 30 Oct 2026 | Halloween Organic: Bhaskar | Bhaskar, Kling |
 | Fri, 6 Nov 2026 | Gallery X VIRAGE |  |
 | Sat, 7 Nov 2026 | Barbaro: ONE MORE DANCE | Ale Grooves, Nico Ramírez, Ramoss |
 | Fri, 13 Nov 2026 | XPALM PRESENTS (KARTY) |  |

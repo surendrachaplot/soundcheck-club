@@ -8,7 +8,7 @@ The Timber Loft is a music venue in London listed on soundcheck. 12 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Because of Art | Because of Art |
+| Fri, 30 Oct 2026 | Because of Art | Because of Art, Carina Lawrence, Steven Weston |
 | Sun, 1 Nov 2026 | Only For Promotion | Anna Wall, Laurence, Mariiin |
 | Sun, 8 Nov 2026 | Step Inside | MUNNI |
 | Sun, 8 Nov 2026 | Step Inside presents: All Day | Cadence (1), TODDZ |
